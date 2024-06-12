@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Unclutter Your Layout  Expertly Remove Backgrounds in Figma\""
-date: 2024-05-31 21:38:25
-updated: 2024-06-02 10:40:42
+date: 2024-06-04T06:31:33.684Z
+updated: 2024-06-05T06:31:33.684Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Unclutter Your Layout: Expertly Remove Backgrounds in Figma\""
 excerpt: "\"This Article Describes [Updated] Unclutter Your Layout: Expertly Remove Backgrounds in Figma\""
 keywords: "ClearPhotoBackdrop,CleanImageBackground,DeclutterPhotos,RemoveBackgroundNoise,SimplifyImages,FocusFotoBg,SharpImageFocus"
-thumbnail: https://www.lifewire.com/thmb/Lt7EML2RrB2kJWs-oE5VbZxnlNo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-kids-movies-on-disney-plus-june-2023-5112564-37245acf2e6840ba8319f0e13985e04a.jpg
+thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec05c10e1ad65882453b11db44.jpg
 ---
 
 ## Unclutter Your Layout: Expertly Remove Backgrounds in Figma
@@ -125,34 +125,6 @@ Hopefully, this article helped resolve your queries, and you can now use the Fig
 
 How To Go To The Extension Installation Page From Figma?
 
-Apart from the links provided above, you can also access the plugin installation page from Figma in the following way:
-
-Step1 Visit the **Figma website** and import your image.
-
-Step2 **Right-click** on the image in the editor and click **"Plugins."**
-
-Step3 Select **"Find More Plugins"** and use the search option in the pop-up window to find the plugin you need.
-
-![accessing the plugin installation page in figma](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-plugin-installation-page-in-figma.png)
-
-### (3) Using Online Removers
-
-Another alternative is to use any tool that **removes the image background online**. For example, we recommend using the [Remove BG tool](https://www.remove.bg/).
-
-To use the Remove BG tool, visit its website, drop your image file, or click the **"Upload"** option to import your file. Now, wait for the program to process your image and then click **"Download"** to save your picture. Afterward, you can import it to Figma for further editing.
-
-## Video Tutorial - How to remove background from images in Figma in 2minutes
-
-Hopefully, you have found an ideal solution by now. To help you remove the image's background in Figma with more ease, we have prepared a video for you. You can combine the video content with the guidance above:
-
-## Conclusion
-
-In this article, we've explored the step-by-step process of how to remove background in Figma using the PixCut plugin. We've also explained the reasons why you should use this tool.
-
-In the end, we provided three alternatives to remove the background in Figma using images with transparent or solid BG, using another 3 Figma plugins apart from PixCut plugin, or using online background remover tools.
-
-Hopefully, this article helped resolve your queries, and you can now use the Figma program to optimize your image's background quickly.
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -174,3 +146,68 @@ Hopefully, this article helped resolve your queries, and you can now use the Fig
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-pantheon-of-popularity-reddits-top-10-posts/"><u>2024 Approved  The Pantheon of Popularity  Reddit's Top 10 Posts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamlining-post-production-with-luts-in-ae/"><u>[Updated] Streamlining Post-Production with LUTs in AE</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-camera-mastery-films-best-practices-unveiled-for-2024/"><u>Top Camera Mastery  Film's Best Practices Unveiled for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-supreme-recommendations-best-ios-tone-designers/"><u>[Updated] Supreme Recommendations  Best iOS Tone Designers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-top-online-markets-for-quality-tamil-ringtone-downloads/"><u>2024 Approved  Unveiling Top Online Markets for Quality Tamil Ringtone Downloads</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-secret-to-success-with-filmora-top-10-editing-traits/"><u>2024 Approved  The Secret to Success with Filmora  Top 10 Editing Traits</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-your-creativity-10-steps-for-new-photoshop-users/"><u>2024 Approved  Unleash Your Creativity  10 Steps for New Photoshop Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-science-of-perfectly-timed-episodes/"><u>[Updated] The Science of Perfectly Timed Episodes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlock-the-magic-of-motion-in-video-text-elements/"><u>[Updated] Unlock the Magic of Motion in Video Text Elements</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-final-word-on-powerdirector-a-complete-review/"><u>In 2024, The Final Word on PowerDirector  A Complete Review</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-steps-for-safe-and-cost-free-vlc-downloads-on-apple-machines/"><u>2024 Approved  Steps for Safe and Cost-Free VLC Downloads on Apple Machines</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-mememix-download-now/"><u>[Updated] Ultimate Mememix  Download Now</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-tunes-prime-sites-for-got-ringtone-downloads/"><u>[Updated] Top Tunes  Prime Sites for GoT Ringtone Downloads</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transforming-hobby-footage-into-professional-vlogs/"><u>[New] Transforming Hobby Footage Into Professional Vlogs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-using-b-roll-to-enhance-cinematic-quality/"><u>2024 Approved  Using B-Roll to Enhance Cinematic Quality</u></a></li>
+<li><a href="https://some-skills.techidaily.com/techniques-for-reversing-chronological-order-for-2024/"><u>Techniques for Reversing Chronological Order for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-astronomical-sites-for-breathtaking-sky-photos/"><u>In 2024, Top Astronomical Sites for Breathtaking Sky Photos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/twitch-triumph-or-hitbox-heritage-in-2024/"><u>Twitch Triumph or Hitbox Heritage, In 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-superior-websites-promoting-youtube-media/"><u>[Updated] Superior Websites Promoting YouTube Media</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-science-of-choosing-music-for-movie-previews/"><u>[Updated] The Science of Choosing Music for Movie Previews</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-structuring-stimulating-podcast-trailers/"><u>2024 Approved  Structuring Stimulating Podcast Trailers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unpacking-the-features-of-androids-lightroom-app/"><u>2024 Approved  Unpacking the Features of Android's Lightroom App</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlock-pinterests-treasure-trove-with-top-free-video-downloads/"><u>[Updated] Unlock Pinterest's Treasure Trove with Top Free Video Downloads</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-video-potential-top-9-tips-for-vr-storytelling-for-2024/"><u>Unlocking Video Potential  Top 9 Tips for VR Storytelling for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tag-with-your-favorite-show-podcast-on-ig/"><u>In 2024, Tag with Your Favorite Show  Podcast on IG</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-iphone-x-animoji-handbook-for-seamless-experience/"><u>[Updated] Ultimate iPhone X Animoji Handbook for Seamless Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-6-platforms-revolutionizing-business-social-interaction/"><u>[Updated] Top 6 Platforms Revolutionizing Business-Social Interaction</u></a></li>
+<li><a href="https://some-skills.techidaily.com/optimizing-video-calls-a-guide-from-skype-to-zoom-for-2024/"><u>Optimizing Video Calls  A Guide From Skype to Zoom for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamlining-multimedia-experiences-through-youtube-music-links/"><u>[New] Streamlining Multimedia Experiences Through YouTube Music Links</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-upgrading-your-tiktok-presence-mastering-number-adjustments/"><u>[New] Upgrading Your TikTok Presence  Mastering Number Adjustments</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-understanding-asmrs-health-perks/"><u>[New] Understanding ASMR's Health Perks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unbeatable-deals-on-top-quality-budget-friendly-asmr-mics/"><u>[New] Unbeatable Deals on Top Quality, Budget-Friendly ASMR Mics</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-animated-magic-with-movie-maker-software/"><u>[Updated] Unveiling Animated Magic with Movie Maker Software</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-essentials-navigating-whatsapp-call-functionality/"><u>In 2024, The Essentials  Navigating WhatsApp Call Functionality</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-editor-secrets-unlocked-in-canva-photo-editing/"><u>2024 Approved  Top Editor Secrets Unlocked in Canva Photo Editing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-tier-extended-reality-experience-makers/"><u>[Updated] Top-Tier Extended Reality Experience Makers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-new-normal-for-video-editing-with-movavi-pro-updated-to-2024/"><u>[Updated] The New Normal for Video Editing with Movavi Pro, Updated to 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-picks-8-must-have-wallpapers-for-macos-users/"><u>[Updated] Top Picks  8 Must-Have Wallpapers for MacOS Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-future-is-here-magix-vpx-unveiled-and-tested-for-2024/"><u>The Future Is Here  Magix VPX Unveiled and Tested for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-techniques-to-identify-proficient-filmmakers/"><u>2024 Approved  Techniques to Identify Proficient Filmmakers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-editors-toolkit-maximizing-the-impact-of-gopro-videos-for-2024/"><u>The Editor's Toolkit  Maximizing the Impact of GoPro Videos for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-potential-metaverse-marketing-secrets-for-2024/"><u>Unlocking Potential  Metaverse Marketing Secrets for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-syma-x8c-for-beginner-pilots/"><u>[New] Syma X8C for Beginner Pilots</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-inside-the-engine-room-the-apple-m1-unveiled/"><u>[New] Inside the Engine Room  The Apple M1 Unveiled</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-music-to-video-seamless-audio-import-for-inshot/"><u>[New] Music to Video  Seamless Audio Import for InShot</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamline-your-gaming-experience-with-top-tools/"><u>[New] Streamline Your Gaming Experience with Top Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-the-power-of-fb-giveaways-in-your-business-plan-for-2024/"><u>Unlocking the Power of FB Giveaways in Your Business Plan for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-next-generation-of-social-video-periscopes-counterparts/"><u>2024 Approved  The Next Generation of Social Video  Periscope's Counterparts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transform-your-mac-interface-with-speech-recognition-software-review/"><u>[New] Transform Your Mac Interface with Speech Recognition Software Review</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-5-fast-framing-homemade-tips-for-pros/"><u>[Updated] Top 5 Fast-Framing Homemade Tips for Pros</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-sony-camcorder-video-editing-tutorial-from-capture-to-completion/"><u>New In 2024, Sony Camcorder Video Editing Tutorial From Capture to Completion</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Vivo V27 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-oppo-reno-11f-5g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Oppo Reno 11F 5G</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/what-is-an-ai-video-editor-wondershare-virbo-glossary/"><u>What Is an AI Video Editor? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-xs-max-without-a-passcode-drfone-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone XS Max Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-tech-savvy-tips-for-recording-quality-movies-on-any-device-for-2024/"><u>[Updated] Tech-Savvy Tips for Recording Quality Movies on Any Device for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-accessing-shared-media-on-messenger/"><u>[Updated] In 2024, Accessing Shared Media on Messenger</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-facebook-dating-for-your-honor-x7b-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-mastering-iphone-screen-recording-with-minimal-fuss/"><u>[Updated] In 2024, Mastering iPhone Screen Recording with Minimal Fuss</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+</ul></div>
