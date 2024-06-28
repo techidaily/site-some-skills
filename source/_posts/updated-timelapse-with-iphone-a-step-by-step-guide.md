@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Timelapse with iPhone  A Step-by-Step Guide\""
-date: 2024-06-04T02:20:27.684Z
-updated: 2024-06-05T02:20:27.684Z
+date: 2024-06-27T14:03:28.695Z
+updated: 2024-06-28T14:03:28.695Z
 tags: 
   - screen-recording
   - ai video
@@ -53,7 +53,7 @@ If you wish to record time-lapse video on your iPhone, you will need the most re
 
 Though you may find the time-lapse functionality on the iPhone camera satisfactory, you can get much better results by downloading a third-party app. Here are two of the most popular iPhone apps on the market for capturing time-lapse footage.
 
-#### 1. [Lapse It](https://itunes.apple.com/us/app/lapse-it-time-lapse-stop-motion-camera-free/id539108382?mt=8)
+#### 1. Lapse It
 
 Lapse It is an award-winning app offering a wide range of features that are designed to help you capture stunning time-lapse video without the need for costly camera equipment. The app is simple to use and you shouldn’t have any trouble getting to grips with it straight away. Lapse It also allows you to create stop motion videos and has received a great deal of media coverage, having featured on The Gadget Show in the UK. With Lapse It, you can import existing videos from your gallery and speed them up or slow them down. There are manual controls for focus, white balance, ISO and exposure available, whilst the zooming support enables zoom ramping over time. Exporting single images to the Photos app is easy.
 
@@ -67,7 +67,7 @@ Features:
 * You can also schedule your capture to begin and end automatically.
 * You can also use the app to play and render reversed videos.
 
-#### 2. [OSnap! Pro](https://itunes.apple.com/gb/app/osnap!-pro-time-lapse-stop/id457402095?mt=8)
+#### 2. OSnap! Pro
 
 OSnap! Pro is another leading time-lapse and stop-motion app that has been enjoyed by iPhone owners worldwide. The app is designed with casual and highly-experienced photographers in mind and has been described as the “best time-lapse photography app” for iOS. Coming complete with a vast number of useful features, it offers focus, white balance and exposure lock. Other features including pinch to zoom, a Listening mode triggers capturing with loud sounds and powerful editing options. There are also many special features for expert photographers and rapid timer settings, ideal for photo bursts.
 
@@ -123,7 +123,7 @@ If you wish to record time-lapse video on your iPhone, you will need the most re
 
 Though you may find the time-lapse functionality on the iPhone camera satisfactory, you can get much better results by downloading a third-party app. Here are two of the most popular iPhone apps on the market for capturing time-lapse footage.
 
-#### 1. [Lapse It](https://itunes.apple.com/us/app/lapse-it-time-lapse-stop-motion-camera-free/id539108382?mt=8)
+#### 1. Lapse It
 
 Lapse It is an award-winning app offering a wide range of features that are designed to help you capture stunning time-lapse video without the need for costly camera equipment. The app is simple to use and you shouldn’t have any trouble getting to grips with it straight away. Lapse It also allows you to create stop motion videos and has received a great deal of media coverage, having featured on The Gadget Show in the UK. With Lapse It, you can import existing videos from your gallery and speed them up or slow them down. There are manual controls for focus, white balance, ISO and exposure available, whilst the zooming support enables zoom ramping over time. Exporting single images to the Photos app is easy.
 
@@ -137,7 +137,7 @@ Features:
 * You can also schedule your capture to begin and end automatically.
 * You can also use the app to play and render reversed videos.
 
-#### 2. [OSnap! Pro](https://itunes.apple.com/gb/app/osnap!-pro-time-lapse-stop/id457402095?mt=8)
+#### 2. OSnap! Pro
 
 OSnap! Pro is another leading time-lapse and stop-motion app that has been enjoyed by iPhone owners worldwide. The app is designed with casual and highly-experienced photographers in mind and has been described as the “best time-lapse photography app” for iOS. Coming complete with a vast number of useful features, it offers focus, white balance and exposure lock. Other features including pinch to zoom, a Listening mode triggers capturing with loud sounds and powerful editing options. There are also many special features for expert photographers and rapid timer settings, ideal for photo bursts.
 

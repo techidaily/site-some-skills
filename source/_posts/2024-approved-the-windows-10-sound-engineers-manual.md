@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Windows 10 Sound Engineer's Manual\""
-date: 2024-06-04T04:41:26.281Z
-updated: 2024-06-05T04:41:26.281Z
+date: 2024-06-27T14:03:30.322Z
+updated: 2024-06-28T14:03:30.322Z
 tags: 
   - screen-recording
   - ai video
@@ -86,7 +86,7 @@ Step 3: and then click on Recording button on the Record panel to start recordin
 
 Step 4: To stop recording, click on Stop button on the Record panel.
 
-## 5\. [Filmora Recorder](https://tools.techidaily.com/wondershare/filmora/download/)
+## 5\. Filmora Recorder
 
 If you want to record audio with video on Widows 10, Wondershare Filmora is the audio recording software for Windows 10\. This is useful for those who want to record webcam video while recording through an external microphone. You can also record anything playing on your computer such as a music video. Here are the steps to record audio on Windows 10 with Filmora.
 

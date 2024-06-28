@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Artisan's Guide to Chromatic Mastery\""
-date: 2024-06-04T01:55:52.751Z
-updated: 2024-06-05T01:55:52.751Z
+date: 2024-06-27T14:03:18.919Z
+updated: 2024-06-28T14:03:18.919Z
 tags: 
   - screen-recording
   - ai video
@@ -68,11 +68,11 @@ As you can see from all the movie covers above, they all use complementary color
 
 By including this into your thought process when creating videos with [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) you will achieve well balanced and harmonious content for your viewer to enjoy and create better engagement. It's not by chance these things happen though, it's through research and planning that the most iconic scenes and characters are created and this is just one small brick in the foundations of content creation. With practice this will become second nature to you and that is the main goal of this guide.
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 <ins class="adsbygoogle"
      style="display:block"

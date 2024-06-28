@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Trimming the Bends  Correcting GoPro Fish Eye Effect\""
-date: 2024-06-04T02:43:52.202Z
-updated: 2024-06-05T02:43:52.202Z
+date: 2024-06-27T14:03:32.268Z
+updated: 2024-06-28T14:03:32.268Z
 tags: 
   - screen-recording
   - ai video
@@ -89,7 +89,7 @@ The reason behind this recommendation is that:
 
 **Step 3:** Use import button to bring your photos on timeline or you can do this task with the help of simple drag and drop feature. Even the unwanted files can be easily removed by pressing Clear button on screen.
 
-![Import files]( https://images.wondershare.com/filmora/guide/3-action-cam-tool-import-file.jpg)
+![Import files](https://images.wondershare.com/filmora/guide/3-action-cam-tool-import-file.jpg)
 
 **Step 4:** Now enable Lens Correction option. The drop down list will help you to select your camera model as well as the video mode that was used for capturing videos. Once all selections are made then Filmora will immediately correct your distorted video. The correction level can be also adjusted manually as per need from the slide bar.
 
@@ -180,7 +180,7 @@ The reason behind this recommendation is that:
 
 **Step 3:** Use import button to bring your photos on timeline or you can do this task with the help of simple drag and drop feature. Even the unwanted files can be easily removed by pressing Clear button on screen.
 
-![Import files]( https://images.wondershare.com/filmora/guide/3-action-cam-tool-import-file.jpg)
+![Import files](https://images.wondershare.com/filmora/guide/3-action-cam-tool-import-file.jpg)
 
 **Step 4:** Now enable Lens Correction option. The drop down list will help you to select your camera model as well as the video mode that was used for capturing videos. Once all selections are made then Filmora will immediately correct your distorted video. The correction level can be also adjusted manually as per need from the slide bar.
 

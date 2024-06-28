@@ -1,7 +1,7 @@
 ---
 title: "Superior Storyteller's Sanctuary for 2024"
-date: 2024-06-04T02:50:31.137Z
-updated: 2024-06-05T02:50:31.137Z
+date: 2024-06-27T14:03:28.347Z
+updated: 2024-06-28T14:03:28.347Z
 tags: 
   - screen-recording
   - ai video
@@ -30,7 +30,7 @@ Why should you use screenplay software? To be taken seriously as a screenwriter,
 
 We've compiled a comprehensive list of script writing software and websites. Analyze these options, choose what works best for you, and begin writing your screenplay right away.
 
-### 1\. [The Black List Loglines.](https://blcklst.com/)
+### 1\. The Black List Loglines.
 
 ![the black list loglines](https://images.wondershare.com/filmora/article-images/2022/08/script-writing-website-1.jpg)
 
@@ -38,7 +38,7 @@ To see what kinds of screenplays are gaining traction in Hollywood, read these l
 
 The archive goes back to 2005 and contains information on associated management companies.
 
-### 2\. [Logline It.](https://logline.it/)
+### 2\. Logline It.
 
 ![logline it](https://images.wondershare.com/filmora/article-images/2022/08/script-writing-website-2.jpg)
 
@@ -46,7 +46,7 @@ This site gets it - coming up with an original and exciting idea for a movie or 
 
 Logline This is the only scripting website we know of that is dedicated exclusively to loglines. Post your own, get feedback on them, and view other writers' logs. It's the perfect place to refine your ideas and come up with new and better ones.
 
-### 3\. [Nicholl Winners' Scripts & Formatting Sample.](https://www.oscars.org/nicholl/screenwriting-resources)
+### 3\. Nicholl Winners' Scripts & Formatting Sample.
 
 ![nicholl winners' scripts and formatting sample](https://images.wondershare.com/filmora/article-images/2022/08/script-writing-website-3.jpg)
 
@@ -54,7 +54,7 @@ Want to see what a script good enough to win a Nicholl competition looks like? H
 
 And if you're confused about script formatting, you can also download this PDF that gives instructions on how to do it in a short scene.
 
-### 4\. [Screenwriting.io.](https://screenwriting.io/)
+### 4\. Screenwriting.io.
 
 ![screenwriting.io](https://images.wondershare.com/filmora/article-images/2022/08/script-writing-website-4.jpg)
 
@@ -70,31 +70,31 @@ But since I don't work in a studio, I must find them online and the search can b
 
 Let's go through them together.
 
-### 1\. [IMSDB– Internet Movie Screenplay Database](https://imsdb.com/)
+### 1\. IMSDB– Internet Movie Screenplay Database
 
 This is the first place I go for scripted stuff. They have an extensive catalog and have proven to be a valuable resource for researching film crews, actors, and trivia. IMSDB is equally useful for those looking for screenplays of all kinds and genres, which they have listed in categories.
 
 ![imsdb](https://images.wondershare.com/filmora/article-images/2022/08/script-writing-website-5.jpg)
 
-### 2\. [Go Into the Story](https://gointothestory.blcklst.com/)
+### 2\. Go Into the Story
 
 ![go into the story](https://images.wondershare.com/filmora/article-images/2022/08/script-writing-website-6.jpg)
 
 I'm a huge fan of Scott Myers. He gives everything to the writer. Go Into the Story is the official blog for The **_Black List,_** the screenwriting community known for its annual list of the top ten unproduced screenplays in Hollywood. There is always a bank of scripts that you can filter.
 
-### 3\. [Simply Scripts](https://www.simplyscripts.com/)
+### 3\. Simply Scripts
 
 ![simply scripts](https://images.wondershare.com/filmora/article-images/2022/08/script-writing-website-7.jpg)
 
 Simply Scripts has a large and diverse library that includes Tennessee Williams' plays, classics, and even non-English screenplays. It's also constantly updated, so the most recent scripts are always available.
 
-### 4\. [Screenplays For You](https://sfy.ru/)
+### 4\. Screenplays For You
 
 ![screenplays for you](https://images.wondershare.com/filmora/article-images/2022/08/script-writing-website-8.jpg)
 
 Again, there is not much difference between these pages. You can search by genre here or alphabetically. They have it all.
 
-### 5\. [The Screenplay Database](https://imsdb.com/)
+### 5\. The Screenplay Database
 
 ![the screenplay database](https://images.wondershare.com/filmora/article-images/2022/08/script-writing-website-9.jpg)
 
@@ -102,7 +102,7 @@ The script database is another useful resource with a large selection of scripts
 
 ## Part 3\. Best 5 free websites to grace your scripts
 
-### 1\. [Go Into The Story](https://gointothestory.blcklst.com/)
+### 1\. Go Into The Story
 
 ![go into the story](https://images.wondershare.com/filmora/article-images/2022/08/script-writing-website-10.jpg)
 
@@ -112,7 +112,7 @@ It covers business, art, and the everyday problems of a writer.
 
 In addition to being an award-winning blog, Scott's blog is also one that we visit almost every day. It's a one-stop shop for interviews, advice, and answers to any reader questions.
 
-### 2\. [John August](https://johnaugust.com/)
+### 2\. John August
 
 ![john august](https://images.wondershare.com/filmora/article-images/2022/08/script-writing-website-11.jpg)
 
@@ -120,7 +120,7 @@ Everyone seems to have advice about Hollywood, but who can you trust? John Augus
 
 John August's blog has become the place people go for screenwriting news and advice from someone who does it every day.
 
-### 3\. [StudioBinder](https://www.studiobinder.com/)
+### 3\. StudioBinder
 
 ![studiobinder](https://images.wondershare.com/filmora/article-images/2022/08/script-writing-website-12.jpg)
 
@@ -128,7 +128,7 @@ Inspiration is half the battle in writing, but what if you hit writer's block an
 
 It can help you not only inspire your script but also help you with production. Once you've finished writing your masterpiece, you can upload the script to StudioBinder. You can check the formatting of your script and even help the production by connecting with an assistant director to mark each of the elements of your story.
 
-### 4\. [Internet Movie Script Database](https://imsdb.com/)
+### 4\. Internet Movie Script Database
 
 ![internet movie script database](https://images.wondershare.com/filmora/article-images/2022/08/script-writing-website-13.jpg)
 
@@ -140,7 +140,7 @@ Life is an endless journey of learning. And the site's vast inventory of scripts
 
 You can learn about character development and how to create a solid story structure just by reading. New scripts are added every day, so chances are what you're looking for is inside.
 
-### 5\. [The Black List](https://blcklst.com/)
+### 5\. The Black List
 
 ![the black list](https://images.wondershare.com/filmora/article-images/2022/08/script-writing-website-14.jpg)
 
@@ -162,9 +162,9 @@ Users can adjust the white balance and dynamic range of their clips using the co
 
 To write a video script quickly, you should use templates, which are designed to force you to write the right things at the right time and place. There are numerous templates available, but these will allow you to complete almost any type of work that comes your way.
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 </article
 
@@ -172,9 +172,9 @@ To write a video script quickly, you should use templates, which are designed to
 
 To write a video script quickly, you should use templates, which are designed to force you to write the right things at the right time and place. There are numerous templates available, but these will allow you to complete almost any type of work that comes your way.
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 <ins class="adsbygoogle"
      style="display:block"

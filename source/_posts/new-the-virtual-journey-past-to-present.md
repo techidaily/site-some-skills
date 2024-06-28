@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Virtual Journey  Past to Present\""
-date: 2024-06-04T08:49:39.398Z
-updated: 2024-06-05T08:49:39.398Z
+date: 2024-06-27T14:03:32.810Z
+updated: 2024-06-28T14:03:32.810Z
 tags: 
   - screen-recording
   - ai video
@@ -31,9 +31,9 @@ When we commonly think of Virtual Reality our first thought is to turn to a mode
 ![history-of-vr](https://images.wondershare.com/filmora/article-images/history-of-vr.bmp)
 
  **_You may also like:_**
-_[What is virtual reality and how does it work?](https://tools.techidaily.com/wondershare/filmora/download/)_
-_[Top 10 professional 360 degree cameras](https://tools.techidaily.com/wondershare/filmora/download/)_
-_[Virtual Reality Technology: Current State and Future Challenges](https://tools.techidaily.com/wondershare/filmora/download/)_
+_ [What is virtual reality and how does it work?](https://tools.techidaily.com/wondershare/filmora/download/) _
+_ [Top 10 professional 360 degree cameras](https://tools.techidaily.com/wondershare/filmora/download/) _
+_ [Virtual Reality Technology: Current State and Future Challenges](https://tools.techidaily.com/wondershare/filmora/download/) _
 
 ## VR development in 1930s
 
@@ -74,9 +74,9 @@ When we commonly think of Virtual Reality our first thought is to turn to a mode
 ![history-of-vr](https://images.wondershare.com/filmora/article-images/history-of-vr.bmp)
 
  **_You may also like:_**
-_[What is virtual reality and how does it work?](https://tools.techidaily.com/wondershare/filmora/download/)_
-_[Top 10 professional 360 degree cameras](https://tools.techidaily.com/wondershare/filmora/download/)_
-_[Virtual Reality Technology: Current State and Future Challenges](https://tools.techidaily.com/wondershare/filmora/download/)_
+_ [What is virtual reality and how does it work?](https://tools.techidaily.com/wondershare/filmora/download/) _
+_ [Top 10 professional 360 degree cameras](https://tools.techidaily.com/wondershare/filmora/download/) _
+_ [Virtual Reality Technology: Current State and Future Challenges](https://tools.techidaily.com/wondershare/filmora/download/) _
 
 ## VR development in 1930s
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Script Crafting Basics"
-date: 2024-06-04T06:43:47.823Z
-updated: 2024-06-05T06:43:47.823Z
+date: 2024-06-27T14:03:22.585Z
+updated: 2024-06-28T14:03:22.585Z
 tags: 
   - screen-recording
   - ai video
@@ -155,13 +155,13 @@ After you have chosen what template is more appropriate for your needs, you will
 
 The article has provided the most information about screenplays and how to write one. Not only that, but we'll also talk about video editing software. We hope that after reading and learning from this source, you will be able to write a better screenplay.
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 </article
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 <ins class="adsbygoogle"
      style="display:block"

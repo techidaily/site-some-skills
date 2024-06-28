@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Fundamentals of Uncomplicated HDR Techniques"
-date: 2024-06-04T01:52:28.359Z
-updated: 2024-06-05T01:52:28.359Z
+date: 2024-06-27T14:03:29.063Z
+updated: 2024-06-28T14:03:29.063Z
 tags: 
   - screen-recording
   - ai video
@@ -143,9 +143,9 @@ Don't stop there. Open the Effects tab and add the Lomo effect to your video. Al
 
 There you have it. Easy HDR is arguably the most-beginner friendly program to edit your photos on desktops. Although it doesn't feature much, the available editing features should be enough to help you create incredible HDR images. And don't forget to use Wondershare Filmora 11 to apply a cool HDR effect to your footage. Give it a try!
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 </article
 

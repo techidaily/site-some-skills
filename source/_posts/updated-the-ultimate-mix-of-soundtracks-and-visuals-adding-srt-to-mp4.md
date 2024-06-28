@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Ultimate Mix of Soundtracks and Visuals  Adding SRT to MP4\""
-date: 2024-06-04T00:52:51.114Z
-updated: 2024-06-05T00:52:51.114Z
+date: 2024-06-27T14:03:18.264Z
+updated: 2024-06-28T14:03:18.264Z
 tags: 
   - screen-recording
   - ai video
@@ -54,7 +54,7 @@ Today, the [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmor
 * Add subtitles to MP4 in over 18 different languages including English.
 * Clean user interface.
 
-### How to Add SRT to MP4 with [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+### How to Add SRT to MP4 with Filmora
 
 Step1 Download and install Filmora software on your PC or Mac > Launch the Program and click on ‘New Project’.
 

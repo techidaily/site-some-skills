@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unleash Humor  Kapwing's Meme Crafting App\""
-date: 2024-06-04T02:30:16.875Z
-updated: 2024-06-05T02:30:16.875Z
+date: 2024-06-27T14:03:16.870Z
+updated: 2024-06-28T14:03:16.870Z
 tags: 
   - screen-recording
   - ai video
@@ -58,7 +58,7 @@ Because of its sophisticated encoders and decoders, [Filmora](https://tools.tech
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-##### Step1 Bring Your Meme Video in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+##### Step1 Bring Your Meme Video in Filmora
 
 To start a new Meme project, open the Filmora video meme creator and choose "New project." Set the appropriate aspect ratio in the project options, and then click the "Import" button to add your video. You can also import your favorite mobile-shot photographs and movies using Filmora. Simply hit the Import and do as follow:
 

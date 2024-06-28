@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Unlocking the Potential of Cds  A WMP Masterclass\""
-date: 2024-06-04T01:13:01.727Z
-updated: 2024-06-05T01:13:01.727Z
+date: 2024-06-27T14:03:22.051Z
+updated: 2024-06-28T14:03:22.051Z
 tags: 
   - screen-recording
   - ai video
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/19639e4ac05cfca12a97f4159ad1c138d0c42ce69
 
  If you are accessing CDs for the very first time then you must be searching hard about how to rip music from a CD. Don’t worry! The tutorial below can help you to understand this process. First of all you must install latest version of Windows Media Player on your device (V12); it is much improved as compared to that old V11 platform addition of preview functions and library.
 
-![ ](https://images.wondershare.com/filmora/article-images/wmp-burn-cd-1.jpg
+![](https://images.wondershare.com/filmora/article-images/wmp-burn-cd-1.jpg
 )
 
  **Quick Rip:**
@@ -45,28 +45,28 @@ thumbnail: https://thmb.techidaily.com/19639e4ac05cfca12a97f4159ad1c138d0c42ce69
 
  If you want to do ripping task with customizable settings then prefer to go for Normal Ripping technique. To complete this task: simply launch Window Media Player on your system. Now insert your CD but never use that AutoPlay option this time. As soon as you reach at Rip Menu then hit Rip Tab available on screen. From the drop down menu, you have to select “Formats”. It will assist users to pick audio files with WAV and MP3 file formats. Note that both these media file formats come under lossless format category so ripping process will not cause any quality reduction for your actual data. You can also enter your desired bit rate value to ensure right content quality. But note that, better content quality means larger file size.
 
-![ ](https://images.wondershare.com/filmora/article-images/wmp-burn-cd-2.jpg
+![](https://images.wondershare.com/filmora/article-images/wmp-burn-cd-2.jpg
 )
 
  **Step 3: Additional CD ripping options:**
 
  When you hit “More Options” then it will provide you many choices below. In the “Rip Options” section, you can easily enter your desired destination folder from change button that is available below “Rip Music to this Location” section. Users are also allowed to change their file format and bit rate settings. As soon as you are done with all the settings then press “OK” button.
 
-![ ](https://images.wondershare.com/filmora/article-images/wmp-burn-cd-3.jpg
+![](https://images.wondershare.com/filmora/article-images/wmp-burn-cd-3.jpg
 )
 
  **Step 4: Changing Album and Track Info in Windows Media Player:**
 
  In case if you want your software to automatically search for complete information of album online then simply right click on CD icon. Here you will find a submenu that asks for “Find Album Info”. Select your file and then press Next. On the verification screen, hit Finish.
 
-![ ](https://images.wondershare.com/filmora/article-images/wmp-burn-cd-4.jpg
+![](https://images.wondershare.com/filmora/article-images/wmp-burn-cd-4.jpg
 )
 
  **Step 5: Let “Er Rip: Manual Album and Track Editing”:**
 
  As soon as you are done with the ripping task, your software will show a message “Ripped to Library” and it will appear with each song. Now you can use Window Media Player to move these songs to any destination media like CD or music player etc. Now your media content is ready with you and you can access it easily on other players.
 
-![ ](https://images.wondershare.com/filmora/article-images/wmp-burn-cd-5.jpg
+![](https://images.wondershare.com/filmora/article-images/wmp-burn-cd-5.jpg
 )
 
 ## 2: How to Use Windows Media Player to Burn CD?
@@ -125,7 +125,7 @@ Follow @Ollie Mattison
 
  If you are accessing CDs for the very first time then you must be searching hard about how to rip music from a CD. Don’t worry! The tutorial below can help you to understand this process. First of all you must install latest version of Windows Media Player on your device (V12); it is much improved as compared to that old V11 platform addition of preview functions and library.
 
-![ ](https://images.wondershare.com/filmora/article-images/wmp-burn-cd-1.jpg
+![](https://images.wondershare.com/filmora/article-images/wmp-burn-cd-1.jpg
 )
 
  **Quick Rip:**
@@ -136,28 +136,28 @@ Follow @Ollie Mattison
 
  If you want to do ripping task with customizable settings then prefer to go for Normal Ripping technique. To complete this task: simply launch Window Media Player on your system. Now insert your CD but never use that AutoPlay option this time. As soon as you reach at Rip Menu then hit Rip Tab available on screen. From the drop down menu, you have to select “Formats”. It will assist users to pick audio files with WAV and MP3 file formats. Note that both these media file formats come under lossless format category so ripping process will not cause any quality reduction for your actual data. You can also enter your desired bit rate value to ensure right content quality. But note that, better content quality means larger file size.
 
-![ ](https://images.wondershare.com/filmora/article-images/wmp-burn-cd-2.jpg
+![](https://images.wondershare.com/filmora/article-images/wmp-burn-cd-2.jpg
 )
 
  **Step 3: Additional CD ripping options:**
 
  When you hit “More Options” then it will provide you many choices below. In the “Rip Options” section, you can easily enter your desired destination folder from change button that is available below “Rip Music to this Location” section. Users are also allowed to change their file format and bit rate settings. As soon as you are done with all the settings then press “OK” button.
 
-![ ](https://images.wondershare.com/filmora/article-images/wmp-burn-cd-3.jpg
+![](https://images.wondershare.com/filmora/article-images/wmp-burn-cd-3.jpg
 )
 
  **Step 4: Changing Album and Track Info in Windows Media Player:**
 
  In case if you want your software to automatically search for complete information of album online then simply right click on CD icon. Here you will find a submenu that asks for “Find Album Info”. Select your file and then press Next. On the verification screen, hit Finish.
 
-![ ](https://images.wondershare.com/filmora/article-images/wmp-burn-cd-4.jpg
+![](https://images.wondershare.com/filmora/article-images/wmp-burn-cd-4.jpg
 )
 
  **Step 5: Let “Er Rip: Manual Album and Track Editing”:**
 
  As soon as you are done with the ripping task, your software will show a message “Ripped to Library” and it will appear with each song. Now you can use Window Media Player to move these songs to any destination media like CD or music player etc. Now your media content is ready with you and you can access it easily on other players.
 
-![ ](https://images.wondershare.com/filmora/article-images/wmp-burn-cd-5.jpg
+![](https://images.wondershare.com/filmora/article-images/wmp-burn-cd-5.jpg
 )
 
 ## 2: How to Use Windows Media Player to Burn CD?

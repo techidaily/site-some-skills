@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlocking Photo Magic  Intro to Snapseed Features\""
-date: 2024-06-04T07:31:57.679Z
-updated: 2024-06-05T07:31:57.679Z
+date: 2024-06-27T14:03:25.905Z
+updated: 2024-06-28T14:03:25.905Z
 tags: 
   - screen-recording
   - ai video
@@ -74,7 +74,7 @@ Snapseed editing tool has an advanced option of "Heal," through which you can ef
 
 Do you want to make your images artistic? Then try to manipulate the existing colors of your image by using the option of glamor glow. This option in the Snapseed photo editing tool can give you a variety of options to change the colors naturally without making it too obvious. Hence, you can generate a fantastic result by changing the colors in a subtle manner through this app.
 
-![ manipulate image colors](https://images.wondershare.com/filmora/article-images/2022/snapseed-photo-editing-5.jpg)
+![manipulate image colors](https://images.wondershare.com/filmora/article-images/2022/snapseed-photo-editing-5.jpg)
 
 ### 5\. Add Drama
 
@@ -104,7 +104,7 @@ Light exposure and brightness are the integral elements of any photo. If you enc
 
 Another way to build a creative edited photo is by rotating it upside down. You can give aesthetic touch by flipping the image and can present the concept of your image in an artistic way. On the other hand, cropping the image is necessary to make the subject of your photo align in the center by cutting the unwanted area from the frame. Always make sure to crop the image by balancing the ratios from both sides.
 
-![ rotate or crop the image](https://images.wondershare.com/filmora/article-images/2022/snapseed-photo-editing-10.jpg)
+![rotate or crop the image](https://images.wondershare.com/filmora/article-images/2022/snapseed-photo-editing-10.jpg)
 
 ### 10\. Add Cinematic Look
 
