@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Unveiling VR  Inventory and Imagination Deficit\""
-date: 2024-06-04T00:38:25.548Z
-updated: 2024-06-05T00:38:25.548Z
+date: 2024-06-20T00:33:43.161Z
+updated: 2024-06-21T00:33:43.161Z
 tags: 
   - screen-recording
   - ai video
@@ -32,7 +32,7 @@ thumbnail: https://www.lifewire.com/thmb/O0XdVdJnKo0oOlrFNeqblypb5pQ=/400x300/fi
 
  There is very little doubt regarding the acceptability and advancement of this technology but there are some bitter realities about this technology that users have to accept. The very first one is the cost. There is no denying that the cost of making a VR game or video is quite a few times higher than normal. So, the developers have to think of it in advance and if they are not a big company, it becomes difficult most of the time. What if the VR game or movie flops? It is quite possible and in such situations, managing the money becomes really very difficult. And there is time concern as well. And according to the market experts, the return on investment is very low. So, the developers who will be crating the VR games will be in fix whether that will make them profit or not.
 
-![vr-bitter-reality ](https://images.wondershare.com/filmora/resource/vr-bitter-reality.jpg )
+![vr-bitter-reality](https://images.wondershare.com/filmora/resource/vr-bitter-reality.jpg)
 
 ## The quality of VR headset is not stable
 
@@ -40,7 +40,7 @@ thumbnail: https://www.lifewire.com/thmb/O0XdVdJnKo0oOlrFNeqblypb5pQ=/400x300/fi
 
  So, what should be done? Whether the buyers should buy costly headsets or they should buy a cheap one since they are going to experience the lack of content soon? Well, giving the answer may be a bit tough right at this moment but the scenario will change soon. VR video, 360 degree photography, these are still very new and should be given some time to explore. The method of VR video is still exploring, the camera angles, shooting angles, lights, requirements; everything is very much new and there is no set standard yet. But with the constant advancement, visitors will soon experience a whole new set of contents that will change their video watching and gaming experience.
 
-![vr-content-quality ](https://images.wondershare.com/filmora/resource/vr-content-quality.jpg )
+![vr-content-quality](https://images.wondershare.com/filmora/resource/vr-content-quality.jpg)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
@@ -60,7 +60,7 @@ Follow @Benjamin Arango
 
  There is very little doubt regarding the acceptability and advancement of this technology but there are some bitter realities about this technology that users have to accept. The very first one is the cost. There is no denying that the cost of making a VR game or video is quite a few times higher than normal. So, the developers have to think of it in advance and if they are not a big company, it becomes difficult most of the time. What if the VR game or movie flops? It is quite possible and in such situations, managing the money becomes really very difficult. And there is time concern as well. And according to the market experts, the return on investment is very low. So, the developers who will be crating the VR games will be in fix whether that will make them profit or not.
 
-![vr-bitter-reality ](https://images.wondershare.com/filmora/resource/vr-bitter-reality.jpg )
+![vr-bitter-reality](https://images.wondershare.com/filmora/resource/vr-bitter-reality.jpg)
 
 ## The quality of VR headset is not stable
 
@@ -68,7 +68,7 @@ Follow @Benjamin Arango
 
  So, what should be done? Whether the buyers should buy costly headsets or they should buy a cheap one since they are going to experience the lack of content soon? Well, giving the answer may be a bit tough right at this moment but the scenario will change soon. VR video, 360 degree photography, these are still very new and should be given some time to explore. The method of VR video is still exploring, the camera angles, shooting angles, lights, requirements; everything is very much new and there is no set standard yet. But with the constant advancement, visitors will soon experience a whole new set of contents that will change their video watching and gaming experience.
 
-![vr-content-quality ](https://images.wondershare.com/filmora/resource/vr-content-quality.jpg )
+![vr-content-quality](https://images.wondershare.com/filmora/resource/vr-content-quality.jpg)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 

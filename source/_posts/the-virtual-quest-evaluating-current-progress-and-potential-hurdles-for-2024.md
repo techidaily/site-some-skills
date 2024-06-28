@@ -1,7 +1,7 @@
 ---
 title: "\"The Virtual Quest  Evaluating Current Progress & Potential Hurdles for 2024\""
-date: 2024-06-04T07:38:50.367Z
-updated: 2024-06-05T07:38:50.367Z
+date: 2024-06-20T00:33:44.815Z
+updated: 2024-06-21T00:33:44.815Z
 tags: 
   - screen-recording
   - ai video
@@ -40,9 +40,7 @@ thumbnail: https://thmb.techidaily.com/4114f7cfe0acd398f6e6dc6c01ce0be957bdf6a26
 
 **Deloitte, in one of its researches, have noted that 2016 is going to be a big year for VR,** predicting that it will be a billion dollar industry, with $700 million resulting from hardware sales and the remaining amount from content. By 2020, it is expected that it will be worth more than $14.6 billion. More so, in a report by Goldman Sachs, it has been reiterated that there are more than $3.25 billion in venture capital investments in the VR industry, which is reflective of the high hopes of businesses that it is indeed going to be the next big thing in entertainment.
 
-![vr-technology
-]( https://images.wondershare.com/filmora/resource/vr-technology.jpg
- )
+![vr-technology](https://images.wondershare.com/filmora/resource/vr-technology.jpg)
 
 ## Part 2: Challenges for VR
 
@@ -92,9 +90,7 @@ Follow @Benjamin Arango
 
 **Deloitte, in one of its researches, have noted that 2016 is going to be a big year for VR,** predicting that it will be a billion dollar industry, with $700 million resulting from hardware sales and the remaining amount from content. By 2020, it is expected that it will be worth more than $14.6 billion. More so, in a report by Goldman Sachs, it has been reiterated that there are more than $3.25 billion in venture capital investments in the VR industry, which is reflective of the high hopes of businesses that it is indeed going to be the next big thing in entertainment.
 
-![vr-technology
-]( https://images.wondershare.com/filmora/resource/vr-technology.jpg
- )
+![vr-technology](https://images.wondershare.com/filmora/resource/vr-technology.jpg)
 
 ## Part 2: Challenges for VR
 

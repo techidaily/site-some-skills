@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Artisan's Approach to HDR Creation in Photoshop"
-date: 2024-06-04T04:58:43.998Z
-updated: 2024-06-05T04:58:43.998Z
+date: 2024-06-20T00:33:45.185Z
+updated: 2024-06-21T00:33:45.186Z
 tags: 
   - screen-recording
   - ai video
@@ -189,7 +189,7 @@ Although HDR Photoshop does HDR image creation and editing work efficiently, you
 * The interface is very easy to operate ti the extent that even someone with no technical knowledge can navigate his/her way around easily.
 * It boasts a really robust timeline that is effective for rearranging videos, photos, and audio.
 
-### How to use [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) Video Editor to Edit HDR Videos
+### How to use Filmora
 
 ##### Step1 Download & Install Filmora
 

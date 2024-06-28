@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Top 20+ Speedy Controls  Mastering Your PC's FPS\""
-date: 2024-06-04T07:05:57.539Z
-updated: 2024-06-05T07:05:57.539Z
+date: 2024-06-20T00:33:47.251Z
+updated: 2024-06-21T00:33:47.251Z
 tags: 
   - screen-recording
   - ai video
@@ -326,7 +326,7 @@ Step2 Move the Speed slider to the right or left to increase or decrease the pla
 
 Step3 Select the Play button in the Preview box or use the Spacebar to get a glimpse of the changes. To apply the modifications, hit OK in the lower right corner.
 
-### Method 2: [Speed Customization](https://www.youtube.com/watch?v=1hLf3tzc95w&t=77s)
+### Method 2: Speed Customization
 
 Using [Speed Ramping](https://www.youtube.com/watch?v=58kkvq8V40M), where the playback rate of a clip varies interactively, you may produce adjustable speed effects in addition to continuous speed variations in Uniform Speed. Multiple playback velocities can be adjusted for each segment of the video.
 
