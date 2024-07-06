@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top iPhone Hacks for Capturing Stunning Skyline Shots"
-date: 2024-06-04T08:47:42.787Z
-updated: 2024-06-05T08:47:42.787Z
+date: 2024-07-05T16:05:26.278Z
+updated: 2024-07-06T16:05:26.278Z
 tags: 
   - screen-recording
   - ai video
@@ -106,7 +106,7 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 
  Placing the human as your focal point would build a composition and story around him. Try picking someone with clothing in contrast color to that of the background. If you are shooting a landscape with a model, then get him/her dressed in a certain color that would warm up the shot and blend in as well.
 
-![human-in-the-landscape ](https://images.wondershare.com/filmora/article-images/human-in-the-landscape.jpg)
+![human-in-the-landscape](https://images.wondershare.com/filmora/article-images/human-in-the-landscape.jpg)
 
  Image source: Earth Porm
 
@@ -202,7 +202,7 @@ Follow @Ollie Mattison
 
  Placing the human as your focal point would build a composition and story around him. Try picking someone with clothing in contrast color to that of the background. If you are shooting a landscape with a model, then get him/her dressed in a certain color that would warm up the shot and blend in as well.
 
-![human-in-the-landscape ](https://images.wondershare.com/filmora/article-images/human-in-the-landscape.jpg)
+![human-in-the-landscape](https://images.wondershare.com/filmora/article-images/human-in-the-landscape.jpg)
 
  Image source: Earth Porm
 

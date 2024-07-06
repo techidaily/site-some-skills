@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Definitive Guide to Audio Interfaces in Podcasting"
-date: 2024-06-04T06:23:07.838Z
-updated: 2024-06-05T06:23:07.838Z
+date: 2024-07-05T16:05:25.515Z
+updated: 2024-07-06T16:05:25.515Z
 tags: 
   - screen-recording
   - ai video
@@ -130,7 +130,7 @@ The lowest bit depth you should use for professional recordings is 16-bit, but m
 
 If you’re looking for an audio interface for podcasting, you’re in luck—many options are available. Which is best for your needs and budget, from USB interfaces to standalone Bluetooth audio systems? Here are some of the most popular options in the industry right now.
 
-### [Focusrite Scarlett 2i2](https://store.focusrite.com/en-gb/product/scarlett-2i2-3rd-gen/MOSC0025?%5Fgl=1%2A15hgfah%2A%5Fga%2AMTg0Mzg2ODMwMC4xNjY2NTM4OTU0%2A%5Fga%5F1S9T2JGT6Z%2AMTY2NjYyNDA2My4yLjEuMTY2NjYyNDA3NC4wLjAuMA..)
+### Focusrite Scarlett 2i2
 
 ![focusrite scarlett 2i2](https://images.wondershare.com/filmora/article-images/2022/12/what-is-audio-interface-for-podcasting-4.jpg)
 
@@ -160,7 +160,7 @@ This interface is one of a kind that delivers impressive results for a low cost.
 * Internal analog mixer
 * Dual preamplifiers
 
-### [Focusrite Scarlett Solo](https://store.focusrite.com/en-gb/product/scarlett-solo-3rd-gen/MOSC0024?%5Fgl=1%2A14jl3bp%2A%5Fga%2AMTg0Mzg2ODMwMC4xNjY2NTM4OTU0%2A%5Fga%5F1S9T2JGT6Z%2AMTY2NjYyNDA2My4yLjEuMTY2NjYyNDE4MC4wLjAuMA..)
+### Focusrite Scarlett Solo
 
 ![focusrite scarlett solo](https://images.wondershare.com/filmora/article-images/2022/12/what-is-audio-interface-for-podcasting-6.jpg)
 

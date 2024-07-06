@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Art of Impressive HDR Portraits Explained"
-date: 2024-06-04T00:34:43.651Z
-updated: 2024-06-05T00:34:43.651Z
+date: 2024-07-05T16:05:26.330Z
+updated: 2024-07-06T16:05:26.330Z
 tags: 
   - screen-recording
   - ai video
@@ -147,9 +147,9 @@ HDR portraits are way better than conventional portrait images as they bring out
 
 It is not as difficult as it seems to shoot an HDR portrait. We have made it as simple as we can for you people. So go outside and try this fantastic genre of photography, explore the limits of your camera and create some striking HDR portraits.
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 How to Shoot HDR Portraits?
 

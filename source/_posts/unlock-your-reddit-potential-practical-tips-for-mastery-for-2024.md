@@ -1,7 +1,7 @@
 ---
 title: "\"Unlock Your Reddit Potential - Practical Tips for Mastery for 2024\""
-date: 2024-06-04T03:59:07.935Z
-updated: 2024-06-05T03:59:07.935Z
+date: 2024-07-05T16:05:23.923Z
+updated: 2024-07-06T16:05:23.923Z
 tags: 
   - screen-recording
   - ai video
@@ -96,7 +96,7 @@ Some important rules to follow:
 
 ### Reddiquettes
 
-Simply put, etiquettes refer to Reddit etiquette. They are the dos and don'ts of Reddit. Reddit has posted an[official list of the proper reddiquettes](https://www.reddithelp.com/hc/en-us/articles/205926439) all users should always try and stick to.
+Simply put, etiquettes refer to Reddit etiquette. They are the dos and don'ts of Reddit. Reddit has posted an [official list of the proper reddiquettes](https://www.reddithelp.com/hc/en-us/articles/205926439) all users should always try and stick to.
 
 The goal behind this is to make Reddit a safer and more enjoyable platform to use. However, if you do not follow proper reddiquette, you will usually see the adverse effects in your Karma points. In other words, your Reddit Karma will decrease.
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unlocking the Power of Panoramic Videography with Premiere's Tools"
-date: 2024-06-04T07:21:18.820Z
-updated: 2024-06-05T07:21:18.820Z
+date: 2024-07-05T16:05:26.191Z
+updated: 2024-07-06T16:05:26.191Z
 tags: 
   - screen-recording
   - ai video
@@ -61,11 +61,11 @@ thumbnail: https://thmb.techidaily.com/e874e7774ed1bae47e14908261fcbf31de304eed1
 
 #### 5. Exporting the VR Footage
 
-![Edit 360 videos with Premiere Pro - Export VR footage]( https://images.wondershare.com/filmora/article-images/export-vr-footage.jpg)
+![Edit 360 videos with Premiere Pro - Export VR footage](https://images.wondershare.com/filmora/article-images/export-vr-footage.jpg)
 
  A while back, exporting VR footages to YouTube was possible only through third party applications. But now, such capabilities have been included in Adobe Premiere Pro and you can now apply all the Meta data directly inside the application. To export your edited footage, navigate to File>Export>Media or simply hit Command + M to pop up the export window. Select your desired codecs and navigate to the video tab and ensure that you have selected the VR Video Checkbox.
 
-## Best Video Editor: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+## Best Video Editor: Wondershare Filmora
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -116,11 +116,11 @@ Follow @Benjamin Arango
 
 #### 5. Exporting the VR Footage
 
-![Edit 360 videos with Premiere Pro - Export VR footage]( https://images.wondershare.com/filmora/article-images/export-vr-footage.jpg)
+![Edit 360 videos with Premiere Pro - Export VR footage](https://images.wondershare.com/filmora/article-images/export-vr-footage.jpg)
 
  A while back, exporting VR footages to YouTube was possible only through third party applications. But now, such capabilities have been included in Adobe Premiere Pro and you can now apply all the Meta data directly inside the application. To export your edited footage, navigate to File>Export>Media or simply hit Command + M to pop up the export window. Select your desired codecs and navigate to the video tab and ensure that you have selected the VR Video Checkbox.
 
-## Best Video Editor: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+## Best Video Editor: Wondershare Filmora
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 

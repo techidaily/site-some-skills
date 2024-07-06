@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Mystery of Off-Facebook Activity  What to Know & Do\""
-date: 2024-06-04T04:43:49.925Z
-updated: 2024-06-05T04:43:49.925Z
+date: 2024-07-05T16:05:25.490Z
+updated: 2024-07-06T16:05:25.490Z
 tags: 
   - screen-recording
   - ai video
@@ -99,11 +99,11 @@ Yes, you can disable your future off-Facebook activity for specific apps. Here i
 
 No. Facebook is a cross-platform program, meaning the changes apply to all devices you have access to. So, for example, Off-Facebook Previews will still be inactive on your desktop even when you make the change using your smartphone.
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 <ins class="adsbygoogle"
      style="display:block"

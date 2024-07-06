@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Expert's Handbook for SRT File Conversions"
-date: 2024-06-04T04:58:47.084Z
-updated: 2024-06-05T04:58:47.084Z
+date: 2024-07-05T16:05:27.158Z
+updated: 2024-07-06T16:05:27.158Z
 tags: 
   - screen-recording
   - ai video
@@ -99,7 +99,7 @@ There are effective steps that could also come in handy if you want to convert S
 
 To convert SRT to SCC, you need an online converter, and here, we've explained the step-by-step process to convert SRT to SCC using REV online converter. It’s a reliable tool for the job.
 
-Step1 Visit REV's[official website](https://www.rev.com/captionconverter)
+Step1 Visit REV's [official website](https://www.rev.com/captionconverter)
 
 Step2 Click on Select.SRT Files to upload the SRT file you want to convert to SCC.
 
