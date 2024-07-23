@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unveiling Hidden YouTube Comments"
-date: 2024-06-20T00:33:46.555Z
-updated: 2024-06-21T00:33:46.555Z
+date: 2024-07-22T05:45:10.851Z
+updated: 2024-07-23T05:45:10.851Z
 tags: 
   - screen-recording
   - ai video
@@ -31,6 +31,9 @@ People can watch, like, share, comment on, and upload videos using the YouTube s
 * Users can follow or subscribe to other YouTube channels.
 * To arrange videos and combine them together, make playlists.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why Use YouTube?
 
 YouTube is the second-largest web browser after Google. Every minute, YouTube receives more than 100 hours of video. Whether you're disseminating information to students or marketing activities, it's among the most significant ways to reach a large audience. Some of the benefits of YouTube are listed below.
@@ -81,14 +84,23 @@ But, if you want to retrace the videos you commented on and the videos/comments 
 
 Step1 Click on your Google Account icon and find **Your data in YouTube**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![find your data in youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-your-data-in-youtube.jpg)
 
 Step2 Scroll down a little bit and click the **More** button.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![your youtube dashboard more](https://images.wondershare.com/filmora/article-images/2022/11/your-youtube-dashboard-more.jpg)
 
 Step3 Click the **Comments** section.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ![click comments your youtube dashboard](https://images.wondershare.com/filmora/article-images/2022/11/click-comments-your-youtube-dashboard.jpg)
 
 Now you will see your comment history, including the date when you commented on a certain video and also the exact comment you posted.
@@ -103,6 +115,9 @@ Step4 In the **Google My Activity** tab, click **Other activity**.
 
 Step5 Scroll down and find **Comment Likes and Dislikes on YouTube** section. Click **View Comment Likes and Dislikes**.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![your comment likes and dislikes](https://images.wondershare.com/filmora/article-images/2022/11/your-comment-likes-and-dislikes.jpg)
 
 Now you will see the videos you liked or disliked and also the comments you liked or disliked, including the date when you liked or disliked the video/comment.
@@ -147,6 +162,9 @@ Because understanding how to comment is only one aspect of the issue; very impor
 
 Try making a joke, pointing out something amusing, providing helpful information, or expressing sympathy or concern for a fan. Additionally, a simple thumbs-up or heart can go a long way to demonstrate that you are paying attention even if you aren't feeling very friendly (we all have bad days, it's OK!).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ## Did you know what a Highlighted comment is?
 
 A highlighted comment on YouTube aims to draw the content creator's attention with an automated feature.
@@ -155,6 +173,9 @@ When you click over to the comments area after receiving a notification about a 
 
 To put it another way, YouTube flags notable comments for you to ensure that new messages or significant replies aren't lost in the noise. Once you have read or replied to the comment, the highlight will go.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Additionally, video creators can manually highlight commenters to mark them for later responses. To do this, click on the comment's timestamp (found next to the commenter's username). Ta-da![Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
@@ -183,3 +204,54 @@ Additionally, video creators can manually highlight commenters to mark them for 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-grasping-periscope-is-it-free-registeration-process-explained/"><u>[New] Grasping Periscope  Is It Free? Registeration Process Explained</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-navigating-new-realities-metaverse-meets-omniverse/"><u>[New] Navigating New Realities  Metaverse Meets Omniverse</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-pixelated-performance-making-music-videos-on-the-go/"><u>[New] Pixelated Performance  Making Music Videos on the Go</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-proven-strategies-for-unveiling-pure-photospace-using-photopea/"><u>[New] Proven Strategies for Unveiling Pure Photospace Using Photopea</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tactical-steps-to-download-securely-free-vlc-media-on-mac/"><u>[New] Tactical Steps to Download Securely Free VLC Media on MAC</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-compendium-hands-free-device-interaction/"><u>[New] The Ultimate Compendium  Hands-Free Device Interaction</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-timing-analysis-of-a-20mb-film/"><u>[New] Timing Analysis of a 20MB Film</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-most-effective-web-subtitle-editors/"><u>[New] Unveiling the Most Effective Web Subtitle Editors</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-pros-and-cons-of-samsung-photo-editor/"><u>[New] Unveiling the Pros & Cons of Samsung PHOTO EDITOR</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-windows-10-mastering-photo-and-video-importation/"><u>[New] Unveiling Windows 10  Mastering Photo & Video Importation</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-15-steps-towards-perfecting-your-educational-video-content-for-youtube/"><u>[Updated] 15 Steps Towards Perfecting Your Educational Video Content for YouTube</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-professional-edge-in-instagram-videos-with-green-screen-tech/"><u>[Updated] 2024 Approved  Professional Edge in Instagram Videos with Green Screen Tech</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-streamers-dilemma-choose-between-obs-and-twitch/"><u>[Updated] 2024 Approved  Streamer's Dilemma  Choose Between OBS & Twitch</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-8-best-free-tiktok-video-editing-appswebsite-on-mac/"><u>[Updated] In 2024, 8 Best Free TikTok Video Editing Apps/Website on Mac</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-premium-picks-top-15-free-screen-recorder-titles-for-pcmac/"><u>[Updated] In 2024, Premium Picks  Top 15 Free Screen Recorder Titles for PC/Mac</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-stream-to-success-obs-youtube-broadcast-basics/"><u>[Updated] Stream to Success  OBS Youtube Broadcast Basics</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-future-is-now-how-vivacuts-2024-updates-are-redefining-editing/"><u>[Updated] The Future Is Now  How VivaCut's 2024 Updates Are Redefining Editing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-11-brain-games-engaging-trivia-channels/"><u>[Updated] Top 11 Brain Games  Engaging Trivia Channels</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-ultimate-list-of-unmissable-virtual-playgrounds/"><u>[Updated] Ultimate List of Unmissable Virtual Playgrounds</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-asmrs-wellness-boost-for-you/"><u>[Updated] Unlocking ASMR's Wellness Boost for You</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-iphone-capabilities-crafting-and-transforming-slow-videos/"><u>[Updated] Unlocking iPhone Capabilities  Crafting & Transforming Slow Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlocking-your-phones-potential-with-custom-android-audio-alerts/"><u>[Updated] Unlocking Your Phone's Potential with Custom Android Audio Alerts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-best-premiere-plans-free-for-pros/"><u>[Updated] Unveiling the Best Premiere Plans, FREE for Pros</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-enhanced-samsung-k850u-experience/"><u>[Updated] Unveiling the Enhanced Samsung K850U Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-lut-lovers-delight-complimentary-sets-for-djis-miniair2/"><u>2024 Approved  LUT Lovers Delight  Complimentary Sets for DJI's Mini/Air2</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-best-of-the-best-exciting-windows-10-apps-and-games/"><u>2024 Approved  The Best of the Best  Exciting Windows 10 Apps & Games</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-vivo-s17t-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-oneplus-ace-2v-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost OnePlus Ace 2V for Free? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-a15-4g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy A15 4G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Vivo S17 Pro? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-nokia-c12-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Nokia C12</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-the-secrets-of-instagrams-music-rights-management/"><u>In 2024, Unlocking the Secrets of Instagram's Music Rights Management</u></a></li>
+<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-oppo-reno-11-pro-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Oppo Reno 11 Pro 5G Black and White | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/superior-cameras-for-clear-smooth-podcast-sessions-for-2024/"><u>Superior Cameras for Clear, Smooth Podcast Sessions for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tailor-your-tweets-exceptional-video-to-twitch-tools-for-2024/"><u>Tailor Your Tweets  Exceptional Video to Twitch Tools for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-guide-to-growing-groups-of-great-guests-subscribers-on-youtube-for-2024/"><u>The Guide to Growing Groups of Great Guests (Subscribers) on Youtube for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-streamline-your-podcast-on-google-for-2024/"><u>The Ultimate Guide to Streamline Your Podcast on Google for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-iphone-x-handbook-for-users-for-2024/"><u>The Ultimate iPhone X Handbook for Users for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-motorola-moto-g73-5g-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Motorola Moto G73 5G without backup.</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-budget-conscious-video-modification-sites-explored-and-rated-for-2024/"><u>Top Budget-Conscious Video Modification Sites Explored and Rated for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/troubleshooting-tips-unearth-hidden-facebook-content-for-2024/"><u>Troubleshooting Tips  Unearth Hidden Facebook Content for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/tweet-trends-unveiled-top-videos-of-the-twittersphere/"><u>Tweet Trends Unveiled  Top Videos of the Twittersphere</u></a></li>
+<li><a href="https://some-skills.techidaily.com/uncovering-if-vlogger-critiques-are-paid-for-2024/"><u>Uncovering If Vlogger Critiques Are Paid for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlimited-verbal-input-processing-for-free-for-2024/"><u>Unlimited Verbal Input Processing for Free for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-foundations-of-virtual-storytelling-for-2024/"><u>Unveiling the Foundations of Virtual Storytelling for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-very-best-storytelling-yt-channels-of-2023-for-2024/"><u>Unveiling the Very Best Storytelling YT Channels of 2023 for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-essential-guide-mastering-audio-capture-on-your-mac-with-top-5-tricks/"><u>Updated Essential Guide Mastering Audio Capture on Your Mac with Top 5 Tricks</u></a></li>
+</ul></div>

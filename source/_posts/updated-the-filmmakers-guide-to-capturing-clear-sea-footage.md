@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Filmmaker's Guide to Capturing Clear Sea Footage"
-date: 2024-06-04T09:02:14.576Z
-updated: 2024-06-05T09:02:14.576Z
+date: 2024-07-22T07:03:52.262Z
+updated: 2024-07-23T07:03:52.262Z
 tags: 
   - screen-recording
   - ai video
@@ -38,6 +38,9 @@ thumbnail: https://thmb.techidaily.com/637640ea893a93e111b973883d0f05d3166b54a33
 
  It’s best to avoid shooting divers in mid-water. See if there is anything you can use to frame them, such as a wall, corals or marine life. It can take time to frame your divers, but try to get the best results you can to avoid being stuck with unsatisfactory footage further down the line.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![frame shot](https://images.wondershare.com/filmora/article-images/frame-shot.JPG)
 
 #### 2\. Get closer
@@ -58,6 +61,9 @@ thumbnail: https://thmb.techidaily.com/637640ea893a93e111b973883d0f05d3166b54a33
 
  You can instead make use of natural sunlight, which should help you get the excellence you require even when you’re shooting at more than 30 metres depth. Deeper white balancing can be helpful during cloudy days.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![lightinng](https://images.wondershare.com/filmora/article-images/lightinng-underwater.JPG)
 
 #### 4\. Stay steady
@@ -78,6 +84,9 @@ thumbnail: https://thmb.techidaily.com/637640ea893a93e111b973883d0f05d3166b54a33
 
  If you wish to include wide-angle shots in your work, make sure the camera is zoomed all the way out. Locking your elbows to your side, try to hold your breath to reduce the chances of shaking and pan shots slowly. You may need to shoot several takes to get it just right and will benefit from the use of a colour correcting filter.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wide angle](https://images.wondershare.com/filmora/article-images/wide-angle-underwater.JPG)
 
 #### 7\. Shoot the best colour
@@ -86,6 +95,10 @@ thumbnail: https://thmb.techidaily.com/637640ea893a93e111b973883d0f05d3166b54a33
 
  Virtually all natural colours when you stay shallow. Go beyond this and you will require a colour correction filter to retrieve the colour lost through depth. When shooting close-up subjects beneath 20 metres, use a wide-angle video light to return vibrant, kaleidoscopic colour to your video.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ![shoot shot](https://images.wondershare.com/filmora/article-images/shoot-colour.JPG)
 
 ## Edit your footage
@@ -118,12 +131,18 @@ Follow @Ollie Mattison
 
  There are many tips you can learn from to get the results that you require, so read on to find out more about what you can do to shoot underwater video with ease.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Tips on shooting video underwater
 
 #### 1\. Frame your shots
 
  It’s best to avoid shooting divers in mid-water. See if there is anything you can use to frame them, such as a wall, corals or marine life. It can take time to frame your divers, but try to get the best results you can to avoid being stuck with unsatisfactory footage further down the line.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![frame shot](https://images.wondershare.com/filmora/article-images/frame-shot.JPG)
 
 #### 2\. Get closer
@@ -134,6 +153,9 @@ Follow @Ollie Mattison
 
  This will also make your images clearer and more colourful.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![get closer](https://images.wondershare.com/filmora/article-images/get-closer-underwater.JPG)
 
 #### 3\. Lighting is important
@@ -144,6 +166,14 @@ Follow @Ollie Mattison
 
  You can instead make use of natural sunlight, which should help you get the excellence you require even when you’re shooting at more than 30 metres depth. Deeper white balancing can be helpful during cloudy days.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![lightinng](https://images.wondershare.com/filmora/article-images/lightinng-underwater.JPG)
 
 #### 4\. Stay steady
@@ -152,6 +182,10 @@ Follow @Ollie Mattison
 
  To add greater stability to your camera, hold it as close to yourself as is realistically possible. Alternatively, consider using a tripod if you can. Keep your camera on your subject for as long as you need to, and try to wait for ten seconds without re-adjusting your camera at all.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![stay steady](https://images.wondershare.com/filmora/article-images/stay-steady-underwater.JPG)
 
 #### 5\. Be careful of other divers
@@ -174,6 +208,9 @@ Follow @Ollie Mattison
 
 ![shoot shot](https://images.wondershare.com/filmora/article-images/shoot-colour.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Edit your footage
 
  To make your underwater videos good rather than great, it’s important that the editing process is of the highest quality.
@@ -186,6 +223,9 @@ Follow @Ollie Mattison
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -218,3 +258,55 @@ Follow @Ollie Mattison
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-effortless-video-downloads-at-fingertips-select-from-these-top-chrome-plugins/"><u>[New] In 2024, Effortless Video Downloads at Fingertips  Select From These Top Chrome Plugins</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-the-art-of-surrendering-to-the-spectacle-posting-immersive-videos-on-facebook/"><u>[New] In 2024, The Art of Surrendering to the Spectacle  Posting Immersive Videos on Facebook</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-interactive-media-meets-brand-partnerships-on-youtube/"><u>[New] Interactive Media Meets Brand Partnerships on YouTube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-m1-marvel-a-new-wave-of-smooth-and-efficient-editing/"><u>[New] M1 Marvel  A New Wave of Smooth and Efficient Editing</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-screenfreedom-pro-the-unpriced-gaming-recorder-for-2024/"><u>[New] ScreenFreedom Pro  The Unpriced Gaming Recorder for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-influence-elevating-messaging-on-telegram/"><u>[New] The Art of Influence  Elevating Messaging on Telegram</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-essentials-of-writing-amazing-end-of-episode-scripts/"><u>[New] The Essentials of Writing Amazing End-of-Episode Scripts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-missing-links-to-proper-window-11-mastery-revealed-here/"><u>[New] The Missing Links to Proper WINDOW 11 Mastery Revealed Here</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-secrets-of-getting-up-close-in-roblox-environments/"><u>[New] The Secrets of Getting Up Close in Roblox Environments</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-applying-luts-in-obs-streaming/"><u>[New] The Ultimate Guide to Applying LUTs in OBS Streaming</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-the-ultimate-tiktok-playbook-driving-view-growth-and-engagement-for-2024/"><u>[New] The Ultimate TikTok Playbook  Driving View Growth and Engagement for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-top-social-media-hash-tracking-software-fb-tweet-and-ig-edition-for-2024/"><u>[New] Top Social Media Hash Tracking Software  FB, Tweet & IG Edition for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-tier-hdr-camera-selection-made-easy/"><u>[New] Top-Tier HDR Camera Selection Made Easy</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tutorial-triumphant-skyrocketing-your-youtube-presence/"><u>[New] Tutorial Triumphant  Skyrocketing Your YouTube Presence</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-twitch-time-rewind-hacks-unveiled/"><u>[New] Twitch Time Rewind Hacks Unveiled</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-light-up-the-screen-tips-and-steps-for-adding-gifs-to-snapchats/"><u>[Updated] 2024 Approved  Light Up the Screen  Tips and Steps for Adding GIFs to Snapchats</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-enjoy-games-not-glitches-use-nvidia-for-2024/"><u>[Updated] Enjoy Games, Not Glitches - Use NVIDIA for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-ios-image-files-conversion-to-pdfs/"><u>[Updated] The Ultimate Guide  IOS Image Files Conversion to PDFs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-pathway-to-advanced-hd-video-on-windows-pcs/"><u>[Updated] The Ultimate Pathway to Advanced HD Video on Windows PCs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unblemished-visuals-buying-high-quality-images/"><u>[Updated] Unblemished Visuals  Buying High-Quality Images</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-speedy-streams-the-noobs-snapchat-guide/"><u>[Updated] Unlocking Speedy Streams  The Noob’s Snapchat Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-secrets-of-iphone-podcast-integration/"><u>[Updated] Unveiling the Secrets of iPhone Podcast Integration</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-professional-video-setup-ideal-stabilizers-for-youtubers/"><u>2024 Approved  Professional Video Setup  Ideal Stabilizers for YouTubers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamlining-production-processes-a-magix-video-pro-x-perspective/"><u>2024 Approved  Streamlining Production Processes  A Magix Video Pro X Perspective</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-swiftly-convert-creepy-slow-videos-with-best-apps/"><u>2024 Approved  Swiftly Convert Creepy-Slow Videos with Best Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-sync-music-and-visuals-the-art-of-canva-editing/"><u>2024 Approved  Sync Music & Visuals  The Art of Canva Editing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-reverse-trick-in-android-filmmaking/"><u>2024 Approved  The Reverse Trick in Android Filmmaking</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-steps-to-youtube-to-mpeg-conversion/"><u>2024 Approved  Top 10 Steps to YouTube-to-MPEG Conversion</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transcoding-excellence-from-xml-ssa-to-srt-mastery/"><u>2024 Approved  Transcoding Excellence  From XML, SSA to SRT Mastery</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-the-modern-workspace-into-a-powerhouse-of-productivity/"><u>2024 Approved  Transforming the Modern Workspace Into a Powerhouse of Productivity</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleashing-creativity-making-photo-based-videos-using-pixiz/"><u>2024 Approved  Unleashing Creativity  Making Photo-Based Videos Using Pixiz</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-full-potential-with-iphone-hdr/"><u>2024 Approved  Unlocking Full Potential with iPhone HDR</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unrivaled-vr-sets-for-aerial-adventures/"><u>2024 Approved  Unrivaled VR Sets for Aerial Adventures</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-vegas-pro-2021-reviewed-a-sports-betting-journey/"><u>2024 Approved  Vegas Pro 2021 Reviewed – A Sports Betting Journey</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-from-zero-to-hero-top-lyric-video-creation-platforms-for-musicians/"><u>2024 Approved From Zero to Hero Top Lyric Video Creation Platforms for Musicians</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/t-advice-for-staying-copyright-compliant-online-for-2024/"><u>Expert Advice for Staying Copyright Compliant Online for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-honor-play-7t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-geforce-xray-issue/"><u>Fixing GeForce XRay Issue</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-a-critical-examination-of-vlcs-rivals/"><u>In 2024, A Critical Examination of VLC's Rivals</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-audiovid-producers-digital-space/"><u>In 2024, AudioVid Producers' Digital Space</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Location On Facebook Dating for your Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-xiaomi-redmi-note-13-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Xiaomi Redmi Note 13 5G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-premier-mac-4k-monitor-selections-top-10-edition/"><u>In 2024, Premier Mac 4K Monitor Selections  Top 10 Edition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-complete-guide-to-mastering-polarrs-image-precision/"><u>In 2024, The Complete Guide to Mastering Polarr's Image Precision</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleash-video-potential-top-4k-downloader-apps-reviewed/"><u>In 2024, Unleash Video Potential  Top 4K Downloader Apps Reviewed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-art-of-digital-cropping-on-websites/"><u>In 2024, Unveiling the Art of Digital Cropping on Websites</u></a></li>
+<li><a href="https://some-skills.techidaily.com/navigating-the-landscape-of-digital-grading-tools-for-2024/"><u>Navigating the Landscape of Digital Grading Tools for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-heartstrings-unleashed-the-most-impactful-ballads/"><u>Updated Heartstrings Unleashed The Most Impactful Ballads</u></a></li>
+</ul></div>

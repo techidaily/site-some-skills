@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Unleash Creativity  Building a Memorable Podcast Logo\""
-date: 2024-06-04T03:25:50.570Z
-updated: 2024-06-05T03:25:50.570Z
+date: 2024-07-22T03:40:39.575Z
+updated: 2024-07-23T03:40:39.575Z
 tags: 
   - screen-recording
   - ai video
@@ -24,16 +24,39 @@ Making a perfect Logo for podcasts is difficult if you don't know how. The passa
 
 We will start with the basics of podcast logos and move on to the best logo creation platforms available. Let's get started!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1\. What Is a Podcast Logo?
 
 Before we get into how great podcast logos are made, let's look at the basics of a podcast logo. It's important not to get podcast logos mixed up with podcast artwork. Podcast artwork can warry for episodes or series and represents them individually.
 
 Podcast logos usually stay the same and are a visual representation of all your work. Your podcast logo depicts your content to the viewer, illustrating what your channel is all about.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ![serial killers podcast logo](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-1.jpg)
 
 Above is an excellent example of a perfect podcast logo. Just looking at the picture sets the entire mood of the podcast. Users can easily comprehend the podcast's content from the logo, and interested users can get straight to listening.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ### Where to use
 
 You can think of your podcast logo as a representation of your brand. Your podcast logo will be visible on all your podcast covers. You can also use your logo on websites and when you market your products.
@@ -55,6 +78,9 @@ Many users feel that visuals are a minor aspect of podcasts and often overlook i
 
 Now that we've gone over why a good podcast logo is important let's get back to our main topic: How to create logos for podcasts.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ## Part 3\. How to Make an Attractive Podcast Logo?
 
 There are numerous ways to create a podcast logo, but the process can often get complicated. The guide below will take you through the top platforms of each type and will teach you the best ways to create podcast logos.
@@ -77,6 +103,9 @@ Step1 Enter your brand's name.
 
 Step2 Add a tagline or text you want on your logo.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![enter a slogan](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-4.jpg)
 
 Step3 Pick your design.
@@ -97,6 +126,9 @@ Step6 Download your logo.
 
 **2\. [BrandCrowd](https://www.brandcrowd.com/logo-maker)**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![brandcrowd logo](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-9.jpg)
 
 BrandCrowd is another fantastic online logo maker that provides you with an outstanding logo in just minutes. The process is simple and quite similar to Logo’s. BrandCrowd has a library filled with premium logo designs created by professionals from all over.
@@ -141,22 +173,37 @@ Step4 Go to the **Titles** section and pick a font you like. Drag that font to *
 
 Step5 Double-click the title you've added in **Video layer 3\.** A menu should pop up. Select **Advanced.**
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![select advanced](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-16.jpg)
 
 Step6 Type the text for your logo in the text box. Choose your text's font, color, and size.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![text edit menu](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-17.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![text edit menu](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-18.jpg)
 
 Step7 Once you're done with your text, press **OK.**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![press ok](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-19.jpg)
 
 Step8 Go to **effects,** select an effect you like, and drag to add it wherever you feel is right.
 
 (in this example, the effect has been added to video layer 2.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add effects to logo](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-20.jpg)
 
 Step9 Save your logo. You can press the snapshot icon beneath the display or press **Ctrl+Alt+S**.
@@ -183,6 +230,9 @@ The process may be a little more complex than the last two methods discussed, bu
 
 **1\. [Canva](https://www.canva.com/)**
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![canva logo](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-24.jpg)
 
 The first Design Tool on our list is Canva. Canva is one of the most well know designing tools in the market, and for a good reason. Canvas's easy-to-use drag-and-drop interface makes tasks highly feasible for amateurs and professionals.
@@ -191,10 +241,16 @@ There are hundreds of templates available and numerous options to customize your
 
 Step1 Launch Canva and go to the **Templates.** Select **Logos.**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![select logo templates](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-25.jpg)
 
 Step2 Select a template you like and click on **Customize this template.**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![choose a template](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-26.jpg)
 
 Step3 You can add/remove materials as you wish.
@@ -203,6 +259,9 @@ Step3 You can add/remove materials as you wish.
 
 Step4 You can change the font, size, and color of the text.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![edit text](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-28.jpg)
 
 Step5 **Share** from the top right corner and choose **Download** to save your logo.
@@ -211,6 +270,9 @@ Step5 **Share** from the top right corner and choose **Download** to save your l
 
 **2\. [Photoshop](https://www.adobe.com/products/photoshop.html)**
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![photoshop logo](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-30.jpg)
 
 Adobe Photoshop is the most famous design tool in the world. With Photoshop, the possibilities are endless. You can use Photoshop to create virtually any kind of pic, including jaw-dropping logos for your podcasts. Photoshop has more functionalities than any other design tool out there. It may be overwhelming for new users, but it's worth it.
@@ -225,14 +287,23 @@ The last design tool on our list is Figma. Figma is a collaborative design tool 
 
 Now that we've learned about the best logo-creating platforms, let's go over some of the things you should consider to make the best possible logo for your podcast.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Think about where your logo will be used
 
 The most crucial aspect of your logo is its image size and quality. Your logo will be used in various places, so you need to have a set of different sizes. Your logo will only be helpful if visible, so you must ensure that you use a high enough image quality.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ### 2\. Don’t be afraid to use color
 
 The logo's color will stir up emotions in your audience and help set the mood for your podcast. Using bright and vivid colors is the best way to capture your audience. It's vital to keep the shade constant; otherwise, you'll end up with mismatched colors.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Avoid overused icons
 
 Icons are a fundamental part of any logo but using bland overused icons will not let you stand out in front of other podcast creators. It's best to use unique icons that viewers are attracted to and intrigued by.
@@ -241,10 +312,17 @@ Icons are a fundamental part of any logo but using bland overused icons will not
 
 Never limit the kind of logo you can use. Let your creativity be a region with no boundaries. Only when you let your imagination run wild will you be able to create a great logo. You should also not be afraid of simplicity. Often the simplest ideas go the longest way.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ### 5\. Check out the competition
 
 This is an essential part of making a killer podcast logo. How can you compete with the market if you dont know what's in it? Exploring others’ podcast logos will give ideas and motivation for your own. This will help you build a logo that stands out above all the rest.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ## Summing up
 
 Now you've learned everything you need to know to create an astonishing podcast logo. We've taught you what podcast logos are and their importance. We have shared the best platforms to develop podcast logos and show you the steps to use them. All this and the tips we've taught you will guide you in making the best podcast logo.
@@ -275,3 +353,42 @@ Dont forget to share this article with your friends and family members looking t
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-effortless-access-top-5-chrome-addons-for-quickly-download-facebook-vids/"><u>[New] 2024 Approved  Effortless Access  Top 5 Chrome Addons for Quickly Download Facebook Vids</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-fixing-full-screen-failure-in-obs/"><u>[New] Fixing Full Screen Failure in Obs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-pro-to-max-the-evolutionary-journey-in-apples-m-chips/"><u>[New] From Pro to Max  The Evolutionary Journey in Apple's M Chips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-audio-artists-approach-to-video-unboxing/"><u>[New] The Audio Artist's Approach to Video Unboxing</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-leveraging-likeability-for-business-profits-on-fb/"><u>[Updated] 2024 Approved  Leveraging Likeability for Business Profits on FB</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-preserve-the-blue-band-promise-with-these-ideas/"><u>[Updated] In 2024, Preserve the Blue Band Promise with These Ideas</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-strategies-for-leveraging-azure-voice-to-text-technology/"><u>[Updated] Strategies for Leveraging Azure Voice-to-Text Technology</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-best-budget-video-players-across-operating-systems/"><u>[Updated] The Best Budget Video Players Across Operating Systems</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ticklishtones-selecting-the-best-ringtones-for-smiles/"><u>[Updated] TicklishTones  Selecting the Best Ringtones for Smiles</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-uncover-5-windows-11-tools-for-professional-audio-recording/"><u>[Updated] Uncover 5 Windows 11 Tools for Professional Audio Recording</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleashing-funimate-on-android-step-by-step-apk-tutorial/"><u>[Updated] Unleashing Funimate on Android - Step-by-Step APK Tutorial</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-zoom-essentials-for-webinar-novices-an-introductory-walkthrough-for-2024/"><u>[Updated] Zoom Essentials for Webinar Novices  An Introductory Walkthrough for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-elite-channel-analyzer-top-youtube-positioning-tool/"><u>2024 Approved  Elite Channel Analyzer  Top YouTube Positioning Tool</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-shine-up-your-android-videos-with-these-tips/"><u>2024 Approved  Shine Up Your Android Videos with These Tips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-80s-revivalists-handbook-for-dynamic-editing-techniques/"><u>2024 Approved  The 80S Revivalist's Handbook for Dynamic Editing Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-complete-guide-to-mastering-powerdirector-software/"><u>2024 Approved  The Complete Guide to Mastering PowerDirector Software</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-pick-cross-platform-devices-ideal-entry-editor/"><u>2024 Approved  Top Pick  Cross-Platform Devices' Ideal Entry Editor</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-toolkit-for-animating-letters/"><u>2024 Approved  Ultimate Toolkit for Animating Letters</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/crafting-a-seamless-auditory-experience-in-obs-from-silence-to-echoes-and-everything-in-between/"><u>Crafting a Seamless Auditory Experience in OBS From Silence to Echoes and Everything In Between</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-from-iphone-6s-by-drfone-ios/"><u>How to Bypass iCloud Lock from iPhone 6s</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-ipod-and-apple-iphone-13-pro-max-the-right-way-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock On iPod and Apple iPhone 13 Pro Max The Right Way</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamlined-qanda-list-to-attract-podcast-audience/"><u>In 2024, Streamlined Q&A List to Attract Podcast Audience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-your-experience-live-cricket-viewing-tips/"><u>In 2024, Streamlining Your Experience  Live Cricket Viewing Tips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-captivating-your-online-audience/"><u>In 2024, The Art of Captivating Your Online Audience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-insiders-guide-to-captivating-unboxing-on-ig/"><u>In 2024, The Insider's Guide to Captivating Unboxing on IG</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-insiders-guide-to-professional-gif-creation/"><u>In 2024, The Insider's Guide to Professional GIF Creation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-power-of-multitasking-mastering-ffpm/"><u>In 2024, The Power of Multitasking  Mastering FFPM</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-unlock-the-potential-of-your-channels-with-our-guide-to-discord-broadcasting/"><u>In 2024, Unlock the Potential of Your Channels with Our Guide to Discord Broadcasting</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlock-your-movies-at-no-cost-on-various-oses/"><u>In 2024, Unlock Your Movies at No Cost on Various OSes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlock-your-visuals-quick-and-costless-video-downloads-on-pinterest/"><u>In 2024, Unlock Your Visuals  Quick & Costless Video Downloads on Pinterest</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unmatched-mounting-best-tripod-solutions-for-smartphones/"><u>In 2024, Unmatched Mounting  Best Tripod Solutions for Smartphones</u></a></li>
+<li><a href="https://facebook.techidaily.com/interactive-evolution-facebooks-transformation-into-meta/"><u>Interactive Evolution: Facebook's Transformation Into Meta</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-exploring-online-resources-for-listening-to-birds-melodies-as-mp3s-for-2024/"><u>New Exploring Online Resources for Listening to Birds Melodies as MP3s for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-best-of-the-web-top-10-gaming-intro-creators/"><u>New In 2024, Best of the Web Top 10 Gaming Intro Creators</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-add-motion-blur-effect-to-photos-in-gimp/"><u>Updated In 2024, How To Add Motion Blur Effect To Photos in GIMP</u></a></li>
+</ul></div>

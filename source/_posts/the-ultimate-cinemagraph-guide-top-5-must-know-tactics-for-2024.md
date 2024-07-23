@@ -1,7 +1,7 @@
 ---
 title: "\"The Ultimate Cinemagraph Guide - Top 5 Must-Know Tactics for 2024\""
-date: 2024-07-05T16:06:09.219Z
-updated: 2024-07-06T16:06:09.219Z
+date: 2024-07-22T07:25:05.675Z
+updated: 2024-07-23T07:25:05.675Z
 tags: 
   - screen-recording
   - ai video
@@ -56,8 +56,19 @@ Step 4 Plug in the LED strip and use this LED Panel for a broader light source.
 
 Alright! Let's check out how it looks in the video below.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![diy led panel](https://images.wondershare.com/filmora/article-images/2022/12/diy-led-panel.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### DIY Light Flag
 
 Black color does not reflect light, so a black fabric can be used to make a DIY Light Flag. Here is a step-by-step guide to creating a light flag at home.
@@ -74,8 +85,14 @@ Step 4 Now, use this DIY Light Flag to shape or block light while filming.
 
 Let us see how it looks;
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![diy light flag](https://images.wondershare.com/filmora/article-images/2022/12/diy-light-flag.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ### DIY Black Wrap
 
 A black wrap is made of aluminum, so you can use aluminum foils to make black wrap at your home. Black wraps are used to shape and block light during filmmaking.
@@ -98,6 +115,9 @@ Here is a GIF attached for a better understanding of the steps.
 
 ![diy black wrap](https://images.wondershare.com/filmora/article-images/2022/12/diy-black-wrap.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### DIY Light Reflector
 
 A reflector is a piece of glass or any reflective surface that can redirect light to a specific spot. For example, use aluminum foil to make a Light Reflector at your home.
@@ -138,10 +158,16 @@ For a better understanding of the steps, watch the GIF attached below.
 
 ![diy light diffuser](https://images.wondershare.com/filmora/article-images/2022/12/diy-light-diffuser.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Tip 4\. Reveal Movement and 180° Presentation
 
 The most commonly used cinematic movements are the reveal and 180° presentation movements. A gimbal is needed to record these movements.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Reveal Movement
 
 It is the most famous cinematic Movement used these days. So let's discuss how you can record reveal movement using your phone and a gimbal.
@@ -160,6 +186,9 @@ Here is a video showing how to record reveal movement.
 
 ![reveal movement](https://images.wondershare.com/filmora/article-images/2022/12/reveal-movement.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 180° Presentation Movement
 
 This Movement gives the subject a general look and displays more details of the surroundings and the subject.
@@ -178,6 +207,9 @@ A sample video attached below shows how to record 180 presentation movements.
 
 ![180 presentation movement](https://images.wondershare.com/filmora/article-images/2022/12/180-presentation-movement.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Tip 5\. Create a Barrel Roll Shot
 
 A barrel roll shot is one of the most advanced and creative camera movements. A gimbal is required to produce a Barrel roll shot. But you can use a power drill and your phone to record this Movement.
@@ -196,6 +228,9 @@ Step 4 Turn on the power drill at low speed and record the barrel roll shot.
 
 The video attached below will help you to understand these steps.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![barrel roll shot](https://images.wondershare.com/filmora/article-images/2022/12/barrel-roll-shot.gif)
 
 ## Final Words
@@ -233,3 +268,57 @@ After filming the videos, edit them using [Wondershare Filmora](https://tools.te
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-crafting-captivating-tiktok-screenshots-with-ease/"><u>[New] In 2024, Crafting Captivating TikTok Screenshots with Ease</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-miui-screen-recorder-review-for-2024/"><u>[New] MIUI Screen Recorder Review for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-seeking-visual-vintage-free-art-archives-online/"><u>[New] Seeking Visual Vintage  Free Art Archives Online</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-selling-success-on-facebook-ideas-and-strategies-to-try-for-2024/"><u>[New] Selling Success on Facebook  Ideas and Strategies to Try for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-close-up-meetings-in-ms-teams/"><u>[New] The Art of Close-Up Meetings in MS Teams</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-shots-discover-the-best-camera-angles-for-iphones/"><u>[New] The Art of Shots  Discover the Best Camera Angles for iPhones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-audiophiles-companion-to-top-tier-audio-equipment/"><u>[New] The Audiophile's Companion to Top-Tier Audio Equipment</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-visionarys-manual-selecting-the-most-compelling-4k-displays-today/"><u>[New] The Visionary's Manual  Selecting the Most Compelling 4K Displays Today</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tongue-treasures-selecting-superb-audio-to-text-applications/"><u>[New] Tongue Treasures  Selecting Superb Audio to Text Applications</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-vimeo-chapter-how-to-add-chapters-to-vimeo-video-in-2024/"><u>[New] Vimeo Chapter  How to Add Chapters to Vimeo Video, In 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-core-framework-principles-for-engaging-online-promotions/"><u>[Updated] 2024 Approved  Core Framework Principles for Engaging Online Promotions</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-expert-take-on-camstudios-recorder-efficacy/"><u>[Updated] 2024 Approved  Expert Take on CamStudio's Recorder Efficacy</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-from-novice-to-pro-a-tactical-guide-to-snapchat-marketing/"><u>[Updated] 2024 Approved  From Novice to Pro  A Tactical Guide to Snapchat Marketing</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-synthesizing-google-trends-insights-for-videography-ideas/"><u>[Updated] Synthesizing Google Trends Insights for Videography Ideas</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-artisans-guide-to-striking-ae-title-designs/"><u>[Updated] The Artisan's Guide to Striking AE Title Designs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-battle-between-youtubes-copyright-clause-and-cc-license/"><u>[Updated] The Battle Between YouTube’s Copyright Clause & CC License</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-progression-of-vegaspro-through-its-2019-updates/"><u>[Updated] The Progression of VegasPro Through Its 2019 Updates</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-5-iphone-x-compatible-backdrop-change-tools/"><u>[Updated] Top 5 iPhone X-Compatible Backdrop Change Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transforming-videos-for-twitter-success-expert-convertors-guide/"><u>[Updated] Transforming Videos for Twitter Success  Expert Convertors Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transition-to-hdr-a-step-forward-in-high-quality-video/"><u>[Updated] Transition to HDR  A Step Forward in High-Quality Video</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-androidios-users-guide-to-facebook-live-broadcasting/"><u>2024 Approved  Android/iOS Users' Guide to Facebook Live Broadcasting</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-no-money-no-problem-free-pinterest-video-extractors/"><u>2024 Approved  No Money? No Problem! Free Pinterest Video Extractors</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-altering-video-speed-in-stories/"><u>2024 Approved  The Ultimate Guide to Altering Video Speed in Stories</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-picture-purity-erasing-images-excesses/"><u>2024 Approved  The Ultimate Guide to Picture Purity  Erasing Images' Excesses</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-twirl-forge-instruments/"><u>2024 Approved  Twirl Forge Instruments</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-list-of-no-cost-vectors-and-design-portals-online/"><u>2024 Approved  Ultimate List of No-Cost Vectors and Design Portals Online</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-listings-for-3d-type-creation/"><u>2024 Approved  Ultimate Listings for 3D Type Creation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-understanding-asmrs-potential-benefits-for-you/"><u>2024 Approved  Understanding ASMR's Potential Benefits for You</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-creativity-your-steps-toward-a-thriving-design-career/"><u>2024 Approved  Unlocking Creativity  Your Steps Toward a Thriving Design Career</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/4-ways-to-unlock-apple-iphone-6-plus-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>4 Ways to Unlock Apple iPhone 6 Plus to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/from-streamers-to-millionaires-the-monetization-blueprint/"><u>From Streamers to Millionaires  The Monetization Blueprint</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/generating-a-timeless-tiktok-outro-feature-for-2024/"><u>Generating a Timeless TikTok Outro Feature for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-narzo-n55-phone-without-google-account-by-drfone-android/"><u>How to Unlock Realme Narzo N55 Phone without Google Account?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-about-vivo-s17-frp-bypass-by-drfone-android/"><u>In 2024, About Vivo S17 FRP Bypass</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-toy-quadcopters-reviewed-kids-edition/"><u>In 2024, Best Toy Quadcopters Reviewed (Kids Edition)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-revolutionizing-iphone-photography-with-hdr-techniques/"><u>In 2024, Revolutionizing iPhone Photography with HDR Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-your-video-calls-how-to-utilize-zoom-on-win10-pcs/"><u>In 2024, Streamlining Your Video Calls  How to Utilize Zoom on Win10 PCs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-synchronizing-dates-with-visual-memories/"><u>In 2024, Synchronizing Dates with Visual Memories</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-binary-divide-metaverse-vs-multiverse-explained/"><u>In 2024, The Binary Divide  Metaverse Vs Multiverse Explained</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-essential-blueprint-for-configuring-a-zoom-space/"><u>In 2024, The Essential Blueprint for Configuring a Zoom Space</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-essentials-of-whatsapp-call-messages/"><u>In 2024, The Essentials of WhatsApp Call Messages</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-the-ultimate-guide-to-adaptive-igtv-video-dimensions/"><u>In 2024, The Ultimate Guide to Adaptive IGTV Video Dimensions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-list-of-livestream-streaming-strategies/"><u>In 2024, The Ultimate List of Livestream Streaming Strategies</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-fruition-for-virtual-quests/"><u>In 2024, Ultimate Fruition for Virtual Quests</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-understanding-the-mechanics-of-vlc-media-player-on-macos/"><u>In 2024, Understanding the Mechanics of VLC Media Player on macOS</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-this-article-we-will-introduce-you-vn-video-editor-windows-for-pc-and-give-a-brief-review-on-vn-video-editor-for-pc-free-download-for-2024/"><u>New In This Article, We Will Introduce You Vn Video Editor Windows for PC and Give a Brief Review on Vn Video Editor for PC Free Download for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-innovations-best-vr-tech-for-drones/"><u>Top Innovations  Best VR Tech for Drones</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-vivo-x100-pro-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Vivo X100 Pro password or pattern lock</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-samsung-galaxy-z-fold-5-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Samsung Galaxy Z Fold 5 Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-vivo-v27e-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Vivo V27e | Dr.fone</u></a></li>
+</ul></div>

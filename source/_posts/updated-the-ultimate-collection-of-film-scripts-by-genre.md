@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate Collection of Film Scripts by Genre"
-date: 2024-06-04T07:11:29.446Z
-updated: 2024-06-05T07:11:29.446Z
+date: 2024-07-22T05:58:14.649Z
+updated: 2024-07-23T05:58:14.649Z
 tags: 
   - screen-recording
   - ai video
@@ -31,10 +31,16 @@ _Be it a blockbuster movie, an indie gem, a play on The Fringe, or the West End 
 
 * [Make your own short movie now](#part3)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1\. Why did we pick these films?
 
 When you look at the top-grossing movies at the box office, it's no surprise that they primarily consist of superhero movies made by big studios with big budgets. Black Widow is the[top-grossing film of 2022](https://www.boxofficemojo.com/chart/top%5Flifetime%5Fgross/?area=XWW) so far, with Shang-Chi and The Legend of the Ten Rings a close second. In third place is F9: The Fast Saga, the ninth installment in the overwhelmingly popular Fast and Furious franchise.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![reason of picking films](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-1.jpg)
 
 Sure, we'd all love to write one of those big blockbusters, but it's going to take a lot of blood, sweat, and writing to earn Marvel's trust. That's why I want to draw attention to the movie that is in fourth place: A Quiet Place Part II. The sequel to 2018's A Quiet Place has grossed over $160 million this year and still has three months to go. Why is this significant? I will explain.
@@ -59,6 +65,9 @@ The screenplay was written by [**Gary Dauberman**](https://en.wikipedia.org/wiki
 
 **_2\. Halloween_**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ![halloween](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-3.jpg)
 
 **Writer:** John Carpenter and Debra Hill
@@ -69,10 +78,21 @@ Part of its enduring appeal is the simplicity of its concept: A kid who murdered
 
 **Download the script here:** <https://www.studiobinder.com/blog/halloween-script-screenplay-pdf-download/>
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ### Best comedy scripts
 
 **_1\. 21 Jump Street_**
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![21 jump street](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-4.jpg)
 
 **Writer:** [Michael Bacall](https://en.wikipedia.org/wiki/Michael%5FBacall), [Stephen J. Cannell](https://en.wikipedia.org/wiki/Stephen%5FJ.%5FCannell)
@@ -85,6 +105,9 @@ Download the script here: <https://www.scriptslug.com/script/21-jump-street-2012
 
 **_2\. The Edge of Seventeen_**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![the edge of seventeen](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-5.jpg)
 
 **Writer:** Kelly Fremon Craig
@@ -99,6 +122,9 @@ That's exactly what new screenwriter [**Kelly Fremon Craig**](https://en.wikiped
 
 _**1\. A Christmas Carol – Large Cast**_Every man has the power to do good.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![a christmas carol is large cast](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-6.jpg)
 
 _**Writer:**_ [Charles Dickens](https://en.wikipedia.org/wiki/Charles%5FDickens)
@@ -109,6 +135,9 @@ When Scrooge's nephew Fred returns the letters Scrooge once wrote to his sister 
 
 _**2\. Angel's Poinsettia**_
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![angel's poinsettia](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-7.jpg)
 
 **Writer:** Sally Painter
@@ -117,6 +146,9 @@ Angel, a child fairy, learns a valuable lesson about caring for the sick when sh
 
 **Download the script here:** <https://cf.ltkcdn.net/christmas/files/2502-angels-poinsettia.pdf>
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Best promotional video scripts
 
 ![best promotional video scripts](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-8.jpg)
@@ -159,6 +191,9 @@ Ages of the actors: _Approximately 30-40 years of age_
 
 Suitable for: _All ages_
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![a gift](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-9.jpg)
 
 In this ten-minute play for two actors, two young men meet on a train. One is a serious young man on his way to propose to his girlfriend, the other is a cynical loner who advises the former to escape the wedding while he can. The council backfires and an earnest young man sets out on a journey, leaving the recluse in this comedy-drama with a wonderful twist to his story.
@@ -189,6 +224,9 @@ When Jack meets Esther in the park one day, he swears she looks familiar. Althou
 
 **Download the script here:** <http://offthewallplays.com/wp-content/uploads/2018/12/WALK-IN-PARK-half-script-1.pdf>
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Best action scripts
 
 **_1\. 2 Guns_**
@@ -215,6 +253,9 @@ Secret Agent James Bond sets out on a mission as 007 in a screenplay that can sh
 
 **_1\. PRIMER_**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![primer](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-13.jpg)
 
 **Writer:** Shane Carruth
@@ -243,6 +284,9 @@ The film stands out in the now crowded genre by avoiding any cataclysmic showdow
 
 **_1\. Cinderella_(1950)**
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![cinderella 1950](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-15.jpg)
 
 **Writers:** William Peet, Ted Sears, Homer Brightman, Kenneth Anderson, Erdman Penner, Winston Hibler, Harry Reeves, Joe Rinaldi
@@ -283,6 +327,9 @@ The [color tuning](https://tools.techidaily.com/wondershare/filmora/download/) f
 
 ![color tuning](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-18.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Creating video content that can potentially go viral is no longer a complicated process that takes an enormous amount of time and effort. Each of the scripts we featured in this article offers more than enough brilliant scripts that are going to impress your target audience. Make your own short movies and script plays using [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) and checks out additional features explained in the article.
@@ -312,3 +359,37 @@ Creating video content that can potentially go viral is no longer a complicated 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-enhance-clarity-in-social-video-downloads-for-smartphonestablets/"><u>[New] 2024 Approved  Enhance Clarity in Social Video Downloads for Smartphones/Tablets</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-comparing-mp4-recorders-the-latest-edition/"><u>[New] In 2024, Comparing MP4 Recorders - The Latest Edition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-best-professional-template-pack-for-premiere-pro/"><u>[New] The Best Professional Template Pack for Premiere Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-essentials-for-seamless-system-evolutions/"><u>[New] The Essentials for Seamless System Evolutions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-tool-for-video-cuts-full-review-of-vivacut-24-edition/"><u>[New] The Ultimate Tool for Video Cuts  Full Review of VivaCut '24 Edition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-toontech-unveiled-2024-masterpiece/"><u>[New] ToonTech Unveiled  2024 Masterpiece</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transforming-twitter-video-links-to-audio/"><u>[New] Transforming Twitter Video Links to Audio</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unleash-creativity-with-animated-gifs/"><u>[New] Unleash Creativity with Animated GIFS</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-elite-windows-recording-solution/"><u>[Updated] 2024 Approved  Elite Windows Recording Solution</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-list-legal-game-music-sources/"><u>[Updated] The Ultimate List  Legal Game Music Sources</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-writers-journey-through-podcast-production/"><u>[Updated] The Writer's Journey Through Podcast Production</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-toongems-detailed-analysis-24-summary/"><u>[Updated] ToonGems Detailed Analysis '24 Summary</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-10-innovations-for-text-visualization/"><u>[Updated] Top 10 Innovations for Text Visualization</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tailoring-your-video-sessions-with-zoom-on-youtube-platform/"><u>2024 Approved  Tailoring Your Video Sessions with Zoom on YouTube Platform</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-comprehensible-path-to-proficient-greenscreen-in-kinemaster/"><u>2024 Approved  The Comprehensible Path to Proficient Greenscreen in KineMaster</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-hp-dreamcolor-z32x-review-a-quest-for-perfection/"><u>2024 Approved  The HP DreamColor Z32X Review  A Quest for Perfection</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-subscribers-manual-engaging-on-social-media-platforms/"><u>2024 Approved  The Subscriber's Manual  Engaging on Social Media Platforms</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/harnessing-youtube-content-for-engaging-animation-gifs/"><u>Harnessing YouTube Content for Engaging Animation GIFs</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>How to Detect and Remove Spyware on Apple iPhone 6 Plus? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/how-to-triple-down-on-instagrams-growth-metrics-for-2024/"><u>How to Triple Down on Instagram's Growth Metrics for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-15-plus-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 15 Plus to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-facebook-today-key-changes-for-users/"><u>In 2024, Facebook Today  Key Changes for Users</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/obs-and-youtube-a-beginners-live-stream-blueprint-for-2024/"><u>OBS and Youtube  A Beginner's Live Stream Blueprint for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-essential-blueprint-for-crafting-compelling-reddit-posts-for-2024/"><u>The Essential Blueprint for Crafting Compelling Reddit Posts for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-intersection-of-real-and-virtual-defining-mixed-reality-for-2024/"><u>The Intersection of Real and Virtual  Defining Mixed Reality for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-your-smartphone-photography-with-iphones-hdr-for-2024/"><u>Transform Your Smartphone Photography with iPhone’s HDR for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unboxing-the-essence-of-dji-inspire-2-for-2024/"><u>Unboxing the Essence of DJI Inspire 2 for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unearthing-vivas-video-capabilities-for-2024/"><u>Unearthing Viva's Video Capabilities for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-the-potential-of-iphone-cinematography-top-8-strategies-for-2024/"><u>Unlock the Potential of iPhone Cinematography  Top 8 Strategies for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-your-disabled-iphone-15-pro-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>Unlock Your Disabled iPhone 15 Pro Without iTunes in 5 Ways | Dr.fone</u></a></li>
+</ul></div>

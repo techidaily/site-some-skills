@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Techniques to Lower Audio Levels in OS X/Windows"
-date: 2024-06-04T02:26:49.561Z
-updated: 2024-06-05T02:26:49.561Z
+date: 2024-07-22T03:03:53.961Z
+updated: 2024-07-23T03:03:53.961Z
 tags: 
   - screen-recording
   - ai video
@@ -38,6 +38,10 @@ However, it sometimes happens that the professionally composed music might not s
 
 * [How to Fade Music Online](#part3)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ## Part 1\. How to Fade Music on Windows PC
 
 The term fades in and fades out music effect might sound very professional and out of reach of most struggling musicians. However, it is not the same. Anybody with a proficient sense of music and a pair of ears to judge whether the tune sounds soothing or not can easily use these musical effects on their systems. If you have a Windows PC at your place, it might be handy for adding the Fade in and out effect to your songs.
@@ -58,14 +62,32 @@ If you are looking for applications to edit your audio file most professionally,
 2. Upon expanding the options, you could find fade music options in different types.
 3. At last, you must choose a particular fading effect and drag the slider on the audio file to adjust the fade music effect accordingly.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![adjust fade music effect](https://images.wondershare.com/filmora/guide/add-fade-in-fade-out-markers-timeline.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Way 2 - Use Audacity to Fade Audio
 
 Yet another fantastic option for adding fade music effects on the audio files is none other than using Audacity. It is a similar music editing application that almost everyone can use according to their convenience. Such apps entirely depend on what piece and purpose you want to utilize. If you are a PC user and want to utilize Audacity facilities, then the following steps might be helpful to you:
 
 1. Select or highlight the audio file you want to edit.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select audio file audacity](https://images.wondershare.com/filmora/article-images/2022/07/select-audio-file-audacity.jpg)
 
 1. Go to the effect menu and spot the Fade in or fade-out option.
@@ -74,6 +96,9 @@ Yet another fantastic option for adding fade music effects on the audio files is
 
 1. Use the effects by dragging the slider on the audio file to get the desired fade music result.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2\. How to Fade in/out Music on Mac
 
 Just like the Windows PC users, MAC users can quickly opt for fading in and fading out music effects. Some people consider everything about MAC expensive as most things do not come for free. However, while adding fade music effects from your MAC, you would not face any problems as popular platforms like iMovie and Music Apple can help you carry out the task professionally and free of cost.
@@ -84,10 +109,16 @@ iMovie is the official platform that 90% of MAC users use to edit audio files an
 
 1. iMovie enables its users to edit certain portions of the audio files. Thus, you can choose the part by dragging the slider you want to edit.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drag audio to imovie timeline](https://images.wondershare.com/filmora/article-images/2022/07/drag-audio-to-imovie-timeline.jpg)
 
 1. Once upon choosing the portion, you will notice the fade handles. Drag the handles to the beginning for Fade in effect and the opposite in the other end.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fade music in imovie](https://images.wondershare.com/filmora/article-images/2022/07/fade-music-in-imovie.jpg)
 
 ### Way 2 - Use Apple Music App to Fade Audio
@@ -139,3 +170,57 @@ Adding fade music effects is not only about making money or trying to add spine 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-discords-prime-locations-to-date-or-fall-in-love/"><u>[New] In 2024, Discord's Prime Locations to Date or Fall in Love</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-alteration-a-guide-to-video-color-correction-11-parts/"><u>[New] The Art of Alteration  A Guide to Video Color Correction (11 Parts)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-list-of-iconic-stop-motion-films/"><u>[New] The Ultimate List of Iconic Stop-Motion Films</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tiktok-profile-boost-smartly-insert-linktree-into-about-section/"><u>[New] TikTok Profile Boost  Smartly Insert Linktree Into About Section</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-top-7-best-value-macos-compatible-tiktok-software/"><u>[New] Top 7 Best-Value, MacOS Compatible TikTok Software</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlock-your-fcp-potential-with-these-10-plugs/"><u>[New] Unlock Your FCP Potential with These 10 Plugs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-your-image-picsart-bg-erasure-technique/"><u>[New] Unveiling Your Image  Picsart Bg Erasure Technique</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-climbing-the-feed-ladder-the-most-effective-hashtags-for-likes-and-followers-on-insta/"><u>[Updated] Climbing the Feed Ladder  The Most Effective Hashtags for Likes and Followers on Insta</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-journey-to-joyrides-top-housing-ideas-for-new-players/"><u>[Updated] Journey to Joyrides  Top Housing Ideas for New Players</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-penning-powerful-film-prospectus/"><u>[Updated] Penning Powerful Film Prospectus</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-enhanced-lg-bp550-review-2023-update/"><u>[Updated] The Enhanced LG BP550 Review - 2023 Update</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-quality-hero5-black-battery-packs-legit-and-third-party-options/"><u>[Updated] Top-Quality Hero5 Black Battery Packs - Legit & Third-Party Options</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transforming-your-brand-with-smart-spotify-marketing/"><u>[Updated] Transforming Your Brand with Smart Spotify Marketing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-turbocharge-your-photos-windows-11-edition/"><u>[Updated] Turbocharge Your Photos  Windows 11 Edition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-6-tools-for-audiovisual-interpretation/"><u>[Updated] Ultimate 6 Tools for Audio/Visual Interpretation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-understanding-and-managing-facebooks-hidden-history/"><u>[Updated] Understanding & Managing Facebook's Hidden History</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleash-vibrant-canvas-cropping-adding-and-editing-sound-effectively/"><u>[Updated] Unleash Vibrant Canvas  Cropping, Adding, & Editing Sound Effectively</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unlocking-your-youtube-comment-tracking-on-multiple-devices-for-2024/"><u>[Updated] Unlocking Your YouTube Comment Tracking on Multiple Devices for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-nikons-1j5-a-4k-video-masterpiece/"><u>[Updated] Unveiling Nikon's 1J5  A 4K Video Masterpiece</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-swift-solutions-moving-iphone-pictures-and-videos/"><u>2024 Approved  Swift Solutions  Moving iPhone Pictures & Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tailoring-podcast-sharing-for-instagram-enthusiasts/"><u>2024 Approved  Tailoring Podcast Sharing for Instagram Enthusiasts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-complete-guide-to-conquering-video-editing-with-vivocut/"><u>2024 Approved  The Complete Guide to Conquering Video Editing with VivoCut</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-sierras-icloud-drives-for-all-access/"><u>2024 Approved  Unlocking Sierra's iCloud Drives for All-Access</u></a></li>
+<li><a href="https://extra-information.techidaily.com/audio-integration-into-visual-screens-via-apple/"><u>Audio Integration Into Visual Screens via Apple</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-for-loss-of-pin-access-in-windows-11-post-update-fallout/"><u>Fix for Loss of PIN Access in Windows 11 Post-Update Fallout</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/how-to-find-uplifting-faith-songs-for-smartphone-alerts/"><u>How to Find Uplifting Faith Songs for Smartphone Alerts</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-oppo-a38-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Oppo A38 using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-vivo-y77t-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Vivo Y77t to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gopro-karma-drone-review/"><u>In 2024, GoPro Karma Drone Review</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-iphone-12-pro-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On iPhone 12 Pro</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-realme-11-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Realme 11 5G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-stylish-methodology-combining-gopro-imagery-into-360-video-tapestry/"><u>In 2024, Stylish Methodology  Combining GoPro Imagery Into 360 Video Tapestry</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-subtle-volume-lessening-masterclass-using-lumafusion/"><u>In 2024, Subtle Volume Lessening Masterclass Using Lumafusion</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-techniques-to-increase-periscope-stream-velocity/"><u>In 2024, Techniques to Increase Periscope Stream Velocity</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-humor-in-gif-form-mastering-the-most-important-8-creation-methods/"><u>In 2024, The Art of Humor in GIF Form  Mastering the Most Important 8 Creation Methods</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-secrets-to-polished-photo-edits-in-canva/"><u>In 2024, The Secrets to Polished Photo Edits in Canva</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-trailblazers-in-vr-eyewear-design/"><u>In 2024, Trailblazers in VR Eyewear Design</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-avi-images-from-video-to-graphics-using-filmora/"><u>In 2024, Transform Your AVI Images  From Video To Graphics Using Filmora</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-turnout-videos-backwards-easily-on-android/"><u>In 2024, Turnout Videos Backwards Easily on Android</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-ms-edges-picture-in-picture-magic/"><u>In 2024, Unveiling MS Edge's Picture-in-Picture Magic</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/navigating-non-printing-issues-brother-printer-windows-edition/"><u>Navigating Non-Printing Issues: Brother Printer, Windows Edition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-complete-guide-to-livestreaming-on-mobile-devices-for-2024/"><u>The Complete Guide to Livestreaming on Mobile Devices for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-quickest-way-to-entertain-kapwing-memes-for-2024/"><u>The Quickest Way to Entertain - Kapwing Memes for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-role-of-look-up-tables-in-cinematic-coloring-for-2024/"><u>The Role of Look-Up Tables in Cinematic Coloring for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/thrifty-filmmakers-action-camera-options-for-2024/"><u>Thrifty Filmmaker's Action Camera Options for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/timeless-tones-a-compendium-of-quality-sound-sites-for-2024/"><u>Timeless Tones  A Compendium of Quality Sound Sites for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-tricks-for-achieving-high-quality-slow-motion-videos-on-android-for-2024/"><u>Top Tricks for Achieving High-Quality Slow Motion Videos on Android for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/understanding-hue-and-saturation-gopro-studio-edition-for-2024/"><u>Understanding Hue and Saturation  GoPro Studio Edition for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-iphone-photo-potential-with-leading-line-techniques-for-2024/"><u>Unlock iPhone Photo Potential with Leading Line Techniques for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-creative-potential-animated-text-techniques-ig-stories-for-2024/"><u>Unlocking Creative Potential  Animated Text Techniques IG Stories for 2024</u></a></li>
+</ul></div>

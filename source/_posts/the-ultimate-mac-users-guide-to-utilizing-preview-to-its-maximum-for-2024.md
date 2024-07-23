@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Mac User's Guide to Utilizing Preview to Its Maximum for 2024"
-date: 2024-06-04T06:30:02.978Z
-updated: 2024-06-05T06:30:02.978Z
+date: 2024-07-22T05:33:06.659Z
+updated: 2024-07-23T05:33:06.659Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/3631238ca7c06e0c64e4d00a9d13c9e8220b196fb
 
 # How to Use Preview App on Mac
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -30,12 +33,27 @@ The **Preview app** is a built-in program in macOS, and works as a default viewe
 
 That said, the sections below explain **how to use Preview on Mac** for elementary picture editing like rotating, cropping, adding annotations, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ## Part 1: How to Use Preview to Edit Images \[Complete Guide\]
 
 Being the default image editor for Mac, Apple tried to make the **Preview app** as simple as possible. Therefore, modifying the photos in the program isn’t much complicated as compared to its competitors from different vendors.
 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to View and Edit Photos in Preview on Mac
 
 As mentioned earlier, the **Preview app** is a default photo viewer on Mac that also has many editing tools. Therefore:
@@ -50,6 +68,9 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 * Use the tools present on the standard toolbar at the top of the interface
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Show Markup Tools in Preview on Mac
 
 Markup Tools gives easy access to the editing tools the **Preview app** has. By default, Markup Tools is kept hidden, but automatically becomes visible when you make some changes to the image. However, you can follow the process given below to manually show Markup Tools in Preview:
@@ -64,6 +85,9 @@ Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup 
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ### How to Crop in Preview
 
 In order to crop a photo in the **Preview app**:
@@ -92,6 +116,9 @@ Use the method explained above to open the photo in Preview.
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### How to Add Text to Image in Preview
 
 The **Preview app** even lets you annotate the images with ease. To add text to a photo:
@@ -108,6 +135,9 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Remove Background in Preview
 
 As it is with some of the advanced image manipulation programs, even the **Preview app** allows you to remove background from a photo, and that too pretty easily. To get this done:
@@ -200,6 +230,9 @@ The **Preview app** is a built-in program in macOS, and works as a default viewe
 
 That said, the sections below explain **how to use Preview on Mac** for elementary picture editing like rotating, cropping, adding annotations, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: How to Use Preview to Edit Images \[Complete Guide\]
 
 Being the default image editor for Mac, Apple tried to make the **Preview app** as simple as possible. Therefore, modifying the photos in the program isn’t much complicated as compared to its competitors from different vendors.
@@ -234,6 +267,9 @@ Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup 
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Crop in Preview
 
 In order to crop a photo in the **Preview app**:
@@ -250,6 +286,9 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Rotate Image in Preview
 
 Rotating an image in the **Preview app** is fairly simple. To do so:
@@ -354,6 +393,10 @@ Choose a destination folder in the **Where** field, select your preferred format
 * Select your preferred output format for all the images from the **Format** drop-down list
 * Click **Choose** to convert all the images in a single go
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -386,3 +429,54 @@ Follow @Ollie Mattison
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-close-up-mastery-in-film-production/"><u>[New] Close-Up Mastery in Film Production</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-maximize-mp4-audio-quality-with-srt-integration-your-comprehensive-guide/"><u>[New] Maximize MP4 Audio Quality with SRT Integration - Your Comprehensive Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-edit-suite-for-mobile-app-devices/"><u>[New] Ultimate Edit Suite for Mobile App Devices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-resource-list-of-3d-fonts-online/"><u>[New] Ultimate Resource List of 3D Fonts Online</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlock-the-full-potential-of-group-video-conferencing-on-your-android-device-zoom/"><u>[New] Unlock the Full Potential of Group Video Conferencing on Your Android Device (Zoom)</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-exploring-the-distinctions-of-srgb-and-rgb-for-2024/"><u>[Updated] Exploring the Distinctions of Srgb and Rgb for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-mastering-the-art-of-video-from-still-photos-through-pixiz-techniques/"><u>[Updated] Mastering the Art of Video From Still Photos Through Pixiz Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-sounds-of-laughter-top-ringtones-downloaders/"><u>[Updated] Sounds of Laughter  Top Ringtones Downloaders</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-speeding-up-spotify-tracks-safe-techniques-and-strategies/"><u>[Updated] Speeding Up Spotify Tracks  Safe Techniques and Strategies</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-syncing-images-android-iphone-file-transfer-guide/"><u>[Updated] Syncing Images  Android-iPhone File Transfer Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-convert-kings-playbook-youtube-to-mp4mpeg-edition/"><u>[Updated] The Convert King's Playbook  YouTube to MP4/MPEG Edition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-guide-to-top-8-gold-text-in-3d-realms/"><u>[Updated] Ultimate Guide to Top 8 Gold Text in 3D Realms</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-creative-potential-using-luts-for-color-grading-in-ae/"><u>[Updated] Unlocking Creative Potential  Using LUTs for Color Grading in AE</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-video-brand-enhancement-embedding-logoswatermarks-for-youtube-shows/"><u>[Updated] Video Brand Enhancement  Embedding Logos/Watermarks for YouTube Shows</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-clip-description-creator/"><u>2024 Approved  Clip Description Creator</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-swift-skim-windows-file-compilation/"><u>2024 Approved  Swift Skim Windows File Compilation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-sync-your-storytelling-iphone-captures-words-and-pictures/"><u>2024 Approved  Sync Your Storytelling  IPhone Captures Words and Pictures</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-essential-role-of-voice-in-visual-content/"><u>2024 Approved  The Essential Role of Voice in Visual Content</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-language-gurus-selection-of-top-30-tools-to-translate-videos/"><u>2024 Approved  The Language Guru’s Selection of Top 30 Tools to Translate Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-using-adobe-and-finding-substitutes/"><u>2024 Approved  The Ultimate Guide to Using Adobe and Finding Substitutes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-thorough-investigation-dji-inspire-1-reviewed/"><u>2024 Approved  Thorough Investigation  DJI Inspire 1 Reviewed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-words-full-potential-with-easy-speech-to-text-features/"><u>2024 Approved  Unlock Word's Full Potential with Easy Speech-to-Text Features</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unmatched-video-upload-aides-to-twitter/"><u>2024 Approved  Unmatched Video Upload Aides to Twitter</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-the-best-android-and-ios-apps-for-monitoring-big-day-timers/"><u>2024 Approved  Unveiling the Best Android & iOS Apps for Monitoring Big Day Timers</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/fcp-mastery-expert-led-tutorials-and-training/"><u>FCP Mastery Expert-Led Tutorials and Training</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-much-money-can-a-podcaster-make/"><u>How Much Money Can a Podcaster Make?</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-realme-11-5g-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-xiaomi-redmi-a2-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Xiaomi Redmi A2 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-vivo-y27-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Vivo Y27 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-acclaimed-pioneers-premier-instragram-highlight-makers/"><u>In 2024, Acclaimed Pioneers  Premier Instragram Highlight Makers</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-xiaomi-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Xiaomi</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-navigating-instagram-live-anonymously-a-step-by-step-approach/"><u>In 2024, Navigating Instagram Live Anonymously  A Step-by-Step Approach</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-synthesize-film-selections-on-platform-playlist/"><u>In 2024, Synthesize Film Selections on Platform Playlist</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tapping-into-traditional-hymns-downloads-and-editing-guide/"><u>In 2024, Tapping Into Traditional Hymns  Downloads & Editing Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-leading-edge-of-virtual-reality-technology-2023-edition/"><u>In 2024, The Leading Edge of Virtual Reality Technology - 2023 Edition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-soundsmiths-scripture-on-crossfading-in-logic/"><u>In 2024, The Soundsmith's Scripture on Crossfading in Logic</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-subscribers-guide-to-effective-dialogue-on-youtube/"><u>In 2024, The Subscriber's Guide to Effective Dialogue on YouTube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-10-christian-melodies-download-and-personalize-guide/"><u>In 2024, Top 10 Christian Melodies  Download & Personalize Guide</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-shake-free-videos-the-top-android-apps-for-image-stabilization/"><u>New 2024 Approved Shake-Free Videos The Top Android Apps for Image Stabilization</u></a></li>
+<li><a href="https://windows11.techidaily.com/rapid-and-secure-firmware-update-guide-for-surface-systems/"><u>Rapid & Secure Firmware Update Guide for Surface Systems</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-nokia-c12-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Nokia C12 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-preservation-pathway-digitizing-and-safeguarding-old-family-photos-for-2024/"><u>The Preservation Pathway  Digitizing & Safeguarding Old Family Photos for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-symphony-of-selection-trailer-music-mastery-for-2024/"><u>The Symphony of Selection  Trailer Music Mastery for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-1-global-stage-viewings-for-2024/"><u>Top 1 Global Stage Viewings for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-10-budget-friendly-cloud-service-providers-for-2024/"><u>Top 10 Budget-Friendly Cloud Service Providers for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-harmonizing-hear-and-see-innovative-approaches-to-auto-synchronize-audio-with-video/"><u>Updated 2024 Approved Harmonizing Hear and See Innovative Approaches to Auto-Synchronize Audio with Video</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-why-did-filmora-ai-portrait-attract-people/"><u>Updated 2024 Approved Why Did Filmora AI Portrait Attract People?</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Ultimate iPhone Photography Playbook"
-date: 2024-06-04T02:38:15.905Z
-updated: 2024-06-05T02:38:15.905Z
+date: 2024-07-22T03:11:12.335Z
+updated: 2024-07-23T03:11:12.335Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5
 
 # Photography Tips for iPhone
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -40,12 +43,18 @@ thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5
 
 **How to Avoid Sources of Light in a Shot:** The first and most basic rule of photography is to try to avoid having sources of light in your shot, and the best way to achieve this is to turn your back to the light source and have the subject of the photo positioned in the direction from which the light is coming from. If you do this, taking pictures that depict stark contrast of shadows and light will become much easier.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![take-use-shadows-in-photography](https://images.wondershare.com/filmora/article-images/take-use-shadows-in-photography.jpg)
 
  Image resource: Contrastly
 
 **How to Take a Silhouette Photo:** If you want to take a silhouette photo, simply place the subject of a photo between the light source and your iPhone camera. The source of light in the background will direct too much light into your camera, which will force you to reduce the exposure of a photo, thus the subject of the photo will become underexposed or a mere silhouette.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![get-silhoutte-photo](https://images.wondershare.com/filmora/article-images/get-silhoutte-photo.jpg)
 
  Image resource: YouTube
@@ -62,18 +71,28 @@ thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5
 
 **How to Use the Grid feature:** The Grid feature on iPhone camera app can help you master the rule of thirds because it will divide your screen into nine equal rectangles, so you can use each rectangle to improve the organization of the elements within a shot.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ![grid-mode-iphone](https://images.wondershare.com/filmora/article-images/grid-mode-iphone.jpg)
 
  Image resource: Macworld
 
 **How to Use the Diagonal Method of Image Composition:** Using the diagonal method of photo composition is also a fairly simple task, since you just need to follow a diagonal of the frame, and you can use this method on horizontally and vertically oriented images.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![diagonal-photography](https://images.wondershare.com/filmora/article-images/diagonal-photography.jpg)
 
  Image resource: PictureCorrect
 
 **How to Use Symetry on a Photo:** Symmetry is often used for the depiction of reflections because this method of photo composition enables you to show the real object or a scene and its reflections in equal measure. Symmetric photos are more pleasing to the human eye than asymmetric images, which is the reason why pictures that use symmetry as the guiding compositional principal have a better chance of being recognized as good or beautiful.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![symetry-photography](https://images.wondershare.com/filmora/article-images/symetry-photography.jpg)
 
  Image resource: PictureCorrect
@@ -116,6 +135,9 @@ Follow @Liza Brown
 
 **You may also like:** [iPhone Night Photography Tips: Take Night Photos with iPhone >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ## iPhone Photography Tips
 
  Curiosity is the most important trait of any successful photographer because you have to be a tireless explorer of the world around you, in order to capture its beauty. The following tips will help you take your iPhone photography to a new level.
@@ -126,12 +148,22 @@ Follow @Liza Brown
 
 **How to Avoid Sources of Light in a Shot:** The first and most basic rule of photography is to try to avoid having sources of light in your shot, and the best way to achieve this is to turn your back to the light source and have the subject of the photo positioned in the direction from which the light is coming from. If you do this, taking pictures that depict stark contrast of shadows and light will become much easier.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ![take-use-shadows-in-photography](https://images.wondershare.com/filmora/article-images/take-use-shadows-in-photography.jpg)
 
  Image resource: Contrastly
 
 **How to Take a Silhouette Photo:** If you want to take a silhouette photo, simply place the subject of a photo between the light source and your iPhone camera. The source of light in the background will direct too much light into your camera, which will force you to reduce the exposure of a photo, thus the subject of the photo will become underexposed or a mere silhouette.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![get-silhoutte-photo](https://images.wondershare.com/filmora/article-images/get-silhoutte-photo.jpg)
 
  Image resource: YouTube
@@ -148,6 +180,9 @@ Follow @Liza Brown
 
 **How to Use the Grid feature:** The Grid feature on iPhone camera app can help you master the rule of thirds because it will divide your screen into nine equal rectangles, so you can use each rectangle to improve the organization of the elements within a shot.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![grid-mode-iphone](https://images.wondershare.com/filmora/article-images/grid-mode-iphone.jpg)
 
  Image resource: Macworld
@@ -218,3 +253,40 @@ Follow @Liza Brown
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-behind-the-scenes-navigating-multiple-viewpoints-on-facebook-live/"><u>[New] In 2024, Behind the Scenes  Navigating Multiple Viewpoints on Facebook Live</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-understanding-your-srt-equipment-like-a-pro/"><u>[Updated] Understanding Your SRT Equipment Like a Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-seamless-sound-moves-in-premiere-pro/"><u>[Updated] Unveiling Seamless Sound Moves in Premiere Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-youtubes-hidden-feature-stop-snippet-viewing/"><u>[Updated] Unveiling YouTube's Hidden Feature  Stop Snippet Viewing</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-leveraging-fb-media-speeds-up-strategies/"><u>2024 Approved  Leveraging FB Media  Speeds Up Strategies</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-non-disclosure-in-videos-tips-for-masking-identifiable-details/"><u>2024 Approved  Non-Disclosure in Videos  Tips for Masking Identifiable Details</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-secret-life-of-a-designer-canvas-hidden-edits/"><u>2024 Approved  The Secret Life of a Designer  Canva's Hidden Edits</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-overlaying-photos-digitally/"><u>2024 Approved  The Ultimate Guide  Overlaying Photos Digitally</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleashing-potential-top-10-ai-tools-for-podcast-titles/"><u>2024 Approved  Unleashing Potential  Top 10 AI Tools for Podcast Titles</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-discover-the-top-free-dvd-players-for-windows-10/"><u>2024 Approved Discover the Top Free DVD Players for Windows 10</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/apples-ios-a-treasure-trove-of-vr-game-hits/"><u>Apple's iOS  A Treasure Trove of VR Game Hits</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-samsung-galaxy-xcover-6-pro-tactical-edition-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Samsung Galaxy XCover 6 Pro Tactical Edition via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-iphone-6-plus-drfone-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-how-many-gb-is-a-24-hour-video/"><u>In 2024, How Many GB Is a 24-Hour Video?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-civi-3-disney-100th-anniversary-edition-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Civi 3 Disney 100th Anniversary Edition Phone with Broken Screen</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-jest-journeys-charting-7-comedic-paths-to-viral-videos/"><u>In 2024, Jest Journeys  Charting 7 Comedic Paths to Viral Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-artists-secret-high-quality-free-text-files/"><u>In 2024, The Artist's Secret  High-Quality Free Text Files</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-heart-of-video-editing-filmoras-favorites/"><u>In 2024, The Heart of Video Editing  Filmora's Favorites</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-hp-dreamcolor-z32x-review-a-quest-for-perfection/"><u>In 2024, The HP DreamColor Z32X Review  A Quest for Perfection</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-insider-guide-to-listening-to-podcasts-on-your-iphone/"><u>In 2024, The Insider Guide to Listening to Podcasts on Your iPhone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-role-of-b2b-relationships-in-informed-market-decisions/"><u>In 2024, The Role of B2B Relationships in Informed Market Decisions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-montage-apps-8-leading-options-iphoneandroid/"><u>In 2024, The Ultimate Guide to Montage Apps  8 Leading Options (iPhone/Android)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-vr-buying-guide-mobile-liberty-or-tethered-unity/"><u>In 2024, The Ultimate VR Buying Guide  Mobile Liberty or Tethered Unity?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-alert-tones-superior-download-sites-list/"><u>In 2024, Top Alert Tones  Superior Download Sites List</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-transcribe-without-breaking-the-bank-learn-how-with-our-free-guide/"><u>In 2024, Transcribe Without Breaking the Bank  Learn How with Our Free Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleash-the-power-of-zoom-your-win10-journey-begins-here/"><u>In 2024, Unleash the Power of Zoom  Your Win10 Journey Begins Here</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unraveling-the-mystery-of-non-exporting-srt-in-premiere/"><u>In 2024, Unraveling the Mystery of Non-Exporting SRT in Premiere</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-seamless-editing-mastering-the-filmora-experience-for-2024/"><u>The Art of Seamless Editing  Mastering the Filmora Experience for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-fiscally-friendly-celestial-saving-service-for-files-for-2024/"><u>The Fiscally Friendly Celestial Saving Service for Files for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-immersive-chronicles-a-brief-history-for-2024/"><u>The Immersive Chronicles  A Brief History for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transformative-tips-to-take-your-lunapic-skills-up-for-2024/"><u>Transformative Tips to Take Your LunaPic Skills Up for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-list-of-text-tools-and-plugins-for-2024/"><u>Ultimate List of Text Tools & Plugins for 2024</u></a></li>
+</ul></div>

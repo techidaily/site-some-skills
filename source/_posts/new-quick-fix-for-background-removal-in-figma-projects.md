@@ -1,7 +1,7 @@
 ---
 title: "[New] Quick Fix for Background Removal in Figma Projects"
-date: 2024-06-04T00:13:03.022Z
-updated: 2024-06-05T00:13:03.022Z
+date: 2024-07-22T01:39:31.317Z
+updated: 2024-07-23T01:39:31.317Z
 tags: 
   - screen-recording
   - ai video
@@ -26,12 +26,18 @@ To make things easier, we've written a comprehensive step-by-step guide on **rem
 
 So, keep reading to find out about removing an image's background in Figma!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ## The Best Option to Remove Image's Background in Figma
 
 As aforementioned, **Figma** does not offer a **Background Remover** tool but comes with a Plugins menu to help you find the required tool.
 
 Since you want to remove the image's background, there is no better plugin than [Wondershare PixCut](https://pixcut.wondershare.com/), a free tool that helps you erase your picture's BG instantly. With this plugin, you can edit up to files per day, and that too in high-quality resolution.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Why Use The PixCut Tool?
 
 Here's how the PixCut tool stands out from the rest of the image editing tools available in the digital market:
@@ -52,6 +58,9 @@ This function lets you use brushstrokes to remove watermarks from your target pi
 
 With its Image Englargement feature, you can expand the size of your picture up to 400% without losing the quality.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to use PixCut to remove the background in Figma
 
 Here's how you can get the PixCut plugin in Figma and use it to remove the background in just three simple steps:
@@ -76,6 +85,10 @@ The program will start running the plugin, and the background of your image will
 
 Apart from using PixCut Plugin in Figma, there are some alternatives that you can use to remove the image's background in Figma:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### (1) When Images Are With Transparent or Solid Colour Backgrounds
 
 Follow these tips to remove the background of images with transparent or solid color:
@@ -83,6 +96,9 @@ Follow these tips to remove the background of images with transparent or solid c
 * When saving your images from programs like Photoshop, make sure to save them with transparent background. This way, when you import it to Figma, the BG will be removed automatically.
 * If your image has a solid background, import it to Figma and use the **"Edit Color"** tool to change the BG to transparent.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### (2) 3 Other Figma Plugins
 
 You can use the following **Figma plugins to remove the image background**:
@@ -111,6 +127,9 @@ Another alternative is to use any tool that **removes the image background onlin
 
 To use the Remove BG tool, visit its website, drop your image file, or click the **"Upload"** option to import your file. Now, wait for the program to process your image and then click **"Download"** to save your picture. Afterward, you can import it to Figma for further editing.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Video Tutorial - How to remove background from images in Figma in 2minutes
 
 Hopefully, you have found an ideal solution by now. To help you remove the image's background in Figma with more ease, we have prepared a video for you. You can combine the video content with the guidance above:
@@ -148,3 +167,44 @@ How To Go To The Extension Installation Page From Figma?
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-a-step-by-step-igtv-translation-guide-for-2024/"><u>[New] A Step-By-Step IGTV Translation Guide for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-listen-to-podcasts-on-your-iphone/"><u>[New] How to Listen to Podcasts on Your iPhone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-navigating-firefoxs-picture-in-picture-capabilities/"><u>[New] Navigating Firefox's Picture-in-Picture Capabilities</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-quick-tips-for-capturing-gotomeeting-conversations/"><u>[New] Quick Tips for Capturing GoToMeeting Conversations</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-gopro-camera-leap-hero4-to-hero5/"><u>[New] The GoPro Camera Leap (Hero4 to Hero5)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-blur-and-background-erasure-in-photography/"><u>[New] The Ultimate Guide to Blur and Background Erasure in Photography</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-time-honored-top-15-in-the-world-of-stop-motion/"><u>[New] Time-Honored Top 15 in the World of Stop-Motion</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-utilize-snapchats-star-trail-effectively/"><u>[New] Utilize Snapchat's Star Trail Effectively</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-artistic-zoomers-handbook-a-filters-journey/"><u>[Updated] The Artistic Zoomer's Handbook  A Filters Journey</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-future-of-pc-gaming-meet-eizos-cg318-4k/"><u>[Updated] The Future of PC Gaming  Meet EIZO's CG318-4K</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlock-the-secrets-to-stunning-and-shareable-tiktok-videos/"><u>[Updated] Unlock the Secrets to Stunning and Shareable TikTok Videos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-smartphones-ultimate-guide-to-image-editing-and-annotation/"><u>2024 Approved  Smartphones' Ultimate Guide to Image Editing & Annotation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-compilation-ringtone-renaissance-sites/"><u>2024 Approved  Ultimate Compilation  Ringtone Renaissance Sites</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-power-of-photos-a-comprehensive-polarr-guide/"><u>2024 Approved  Unveiling the Power of Photos  A Comprehensive Polarr Guide</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-online-video-makers-to-use/"><u>2024 Approved Online Video Makers to Use</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/best-video-screen-grabbers-for-2024/"><u>Best Video Screen Grabbers for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/how-to-stream-on-mixer-macos-for-2024/"><u>How to Stream on Mixer MacOS for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-apple-iphone-13-how-to-unlock-a-disabled-apple-iphone-13-by-drfone-ios/"><u>In 2024, Disabled Apple iPhone 13 How to Unlock a Disabled Apple iPhone 13?</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-honor-100-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-complete-guide-to-itunes-podcast-upload/"><u>In 2024, The Complete Guide to iTunes Podcast Upload</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-essential-checklist-purging-backdrops-with-affinity-photo/"><u>In 2024, The Essential Checklist  Purging Backdrops with Affinity Photo</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-science-and-art-behind-powerful-youtube-thumbnails/"><u>In 2024, The Science and Art Behind Powerful YouTube Thumbnails</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-showdown-xsplits-efficacy-versus-obs/"><u>In 2024, The Ultimate Showdown  XSplit's Efficacy Versus OBS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tips-and-tricks-exchanging-images-and-videos-on-apple-devices/"><u>In 2024, Tips & Tricks  Exchanging Images & Videos on Apple Devices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleash-the-power-of-natural-and-artificentic-lights-on-iphone/"><u>In 2024, Unleash the Power of Natural and Artificentic Lights on iPhone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlock-full-potential-of-canon-cams-with-gratuitous-and-fee-based-luts/"><u>In 2024, Unlock Full Potential of Canon Cams with Gratuitous & Fee-Based LUTs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlock-new-dimensions-of-sound-best-free-valorant-audio-alterer-revealed/"><u>In 2024, Unlock New Dimensions of Sound  Best Free Valorant Audio Alterer Revealed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-using-b-roll-to-enhance-cinematic-quality/"><u>In 2024, Using B-Roll to Enhance Cinematic Quality</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/list-of-pokemon-go-joysticks-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-add-stylish-text-to-videos/"><u>New 2024 Approved Add Stylish Text to Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/quick-guide-capturing-vimeo-videos/"><u>Quick Guide  Capturing Vimeo Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/secrets-of-the-trade-boosting-popularity-with-tiktok-unboxings-for-2024/"><u>Secrets of the Trade  Boosting Popularity with TikTok Unboxings for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/thrifty-shopping-for-cameras-the-most-economical-lists-under-100-for-2024/"><u>Thrifty Shopping for Cameras  The Most Economical Lists Under $100 for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-choice-video-capture-apps-iphone-for-2024/"><u>Top Choice Video Capture Apps iPhone for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-blurry-photos-into-clarity-with-these-top-10-tools-for-2024/"><u>Transform Blurry Photos Into Clarity with These Top 10 Tools for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-voice-changer-for-valorant-gamers-free-to-use-for-2024/"><u>Ultimate Voice Changer for Valorant Gamers – Free to Use for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-potential-advanced-tactics-for-spotify-ads-for-2024/"><u>Unlocking Potential  Advanced Tactics for Spotify Ads for 2024</u></a></li>
+</ul></div>

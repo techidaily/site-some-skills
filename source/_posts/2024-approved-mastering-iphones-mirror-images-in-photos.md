@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering iPhone's Mirror Images in Photos\""
-date: 2024-06-04T00:29:08.096Z
-updated: 2024-06-05T00:29:08.096Z
+date: 2024-07-22T01:49:06.041Z
+updated: 2024-07-23T01:49:06.041Z
 tags: 
   - screen-recording
   - ai video
@@ -28,12 +28,18 @@ thumbnail: https://www.lifewire.com/thmb/IN5PEMOoSmptszMOiM7eKx4YTsg=/400x300/fi
 
  Have you ever seen those stunning photos, taken at just the right moment, where the subject is reflected onto something perfectly? This article will show you how to take amazing reflective photographs with just your iPhone. Apple has really invested in improving the quality of it's in-built lenses in their latest models of the iPhone. Much of the advertising now concerns the stunning photos it's users can take. Historically this was reserved to those who had powerful SLR cameras. Of course they also want to compete with other manufacturers to be the phone that takes the best selfie!
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![reflection-photography-for-iphone](https://images.wondershare.com/filmora/article-images/reflection-photography-for-iphone.jpg)
 
  Reflective photography is an ever growing trend on social media, so you want your images to stand out… This handy guide tells you everything you need to know, and even how to create reflective photos in post production!
 
  So let's get snapping!
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Tips For Perfect Reflective Photography With Your iPhone
 
 #### 1\.  The Surface
@@ -42,6 +48,9 @@ thumbnail: https://www.lifewire.com/thmb/IN5PEMOoSmptszMOiM7eKx4YTsg=/400x300/fi
 
  A Well Polished Table
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![reflection-surface](https://images.wondershare.com/filmora/article-images/reflection-surface.jpg)
 
  A Crystal/Glass Ball
@@ -62,6 +71,9 @@ thumbnail: https://www.lifewire.com/thmb/IN5PEMOoSmptszMOiM7eKx4YTsg=/400x300/fi
 
  iPhone already has a feature for you to bring up lines before you take the photo with the rule of thirds:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![reflection-composition-tips](https://images.wondershare.com/filmora/article-images/reflection-composition-tips.jpg)
 
  To activate the lines simply go to **Settings > Camera and Photographs > Grid**
@@ -74,6 +86,9 @@ thumbnail: https://www.lifewire.com/thmb/IN5PEMOoSmptszMOiM7eKx4YTsg=/400x300/fi
 
  Good
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![keep-the-image-simple](https://images.wondershare.com/filmora/article-images/keep-the-image-simple.jpg)
 
  Awful
@@ -88,6 +103,9 @@ thumbnail: https://www.lifewire.com/thmb/IN5PEMOoSmptszMOiM7eKx4YTsg=/400x300/fi
 
  All you need to do is hold down the shutter/take photo button and burst mode automatically takes lots of photos until you release.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![reality-and-reflection](https://images.wondershare.com/filmora/article-images/reality-and-reflection.jpg)
 
 #### 5\.  Texture
@@ -96,6 +114,9 @@ thumbnail: https://www.lifewire.com/thmb/IN5PEMOoSmptszMOiM7eKx4YTsg=/400x300/fi
 
  It is also just good photography practice to have your subjects bend and distort the light. The contrasts make for an aesthetically beautiful image, and makes post production optimization even easier.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![make-use-of-texture](https://images.wondershare.com/filmora/article-images/make-use-of-texture.jpg)
 
 ### Post Production Reflective Effects
@@ -127,18 +148,27 @@ thumbnail: https://www.lifewire.com/thmb/IN5PEMOoSmptszMOiM7eKx4YTsg=/400x300/fi
 
 #### 3\. [Photo Reflection](https://itunes.apple.com/us/app/photo-reflection/id484604482?mt=8)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![photo-reflection-app](https://images.wondershare.com/filmora/article-images/photo-reflection-app.jpg)
 
  If you're not looking for professional level images then photo reflection is a good choice because it's free! It lacks some of the advanced features of the other apps but great for the very occasional photographer!
 
 #### 4\. [Photo Mirror Effects](https://itunes.apple.com/us/app/photo-reflection/id484604482?mt=8)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![photo-mirror-effects-reflection-editor](https://images.wondershare.com/filmora/article-images/photo-mirror-effects-reflection-editor.jpg)
 
  Another great choice for getting started with reflective photography. It has some mid range editing features, but this is made up in it's easy of use. Perhaps one of the best free reflective photography apps and you can even share the images directly to your social media feeds.
 
  The app also has a large library of free and premium templates for you to use...
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -221,6 +251,10 @@ Follow @Ollie Mattison
 
  It is also just good photography practice to have your subjects bend and distort the light. The contrasts make for an aesthetically beautiful image, and makes post production optimization even easier.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![make-use-of-texture](https://images.wondershare.com/filmora/article-images/make-use-of-texture.jpg)
 
 ### Post Production Reflective Effects
@@ -240,24 +274,36 @@ Follow @Ollie Mattison
 
 #### 1\. [Reflect Mirror Camera](https://itunes.apple.com/us/app/reflect-mirror-camera/id898143628?mt=8)
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![reflect-mirror-camera-app](https://images.wondershare.com/filmora/article-images/reflect-mirror-camera-app.jpg)
 
  Really easy to use entry level app, you can simply add reflections to your photos and there's also an option to do this as you take the photograph. The user interface is really clean and easy to use. You also get access to a massive library of templates and effects to make photos truly unique.
 
 #### 2\. [Reflection](https://itunes.apple.com/us/app/reflection-create-water-reflection-photo-arts/id672111257?mt=8)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![reflection-create-water-reflection-photo-arts](https://images.wondershare.com/filmora/article-images/reflection-create-water-reflection-photo-arts.jpg)
 
  Super user friendly app lets you create HD photos and it's intuitive feature means you can create reflective photos in a few taps. This is one of the best apps in terms of the quality of images/edits. It has all of the reflective effects of many of the top editing packages like Photoshop.
 
 #### 3\. [Photo Reflection](https://itunes.apple.com/us/app/photo-reflection/id484604482?mt=8)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![photo-reflection-app](https://images.wondershare.com/filmora/article-images/photo-reflection-app.jpg)
 
  If you're not looking for professional level images then photo reflection is a good choice because it's free! It lacks some of the advanced features of the other apps but great for the very occasional photographer!
 
 #### 4\. [Photo Mirror Effects](https://itunes.apple.com/us/app/photo-reflection/id484604482?mt=8)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![photo-mirror-effects-reflection-editor](https://images.wondershare.com/filmora/article-images/photo-mirror-effects-reflection-editor.jpg)
 
  Another great choice for getting started with reflective photography. It has some mid range editing features, but this is made up in it's easy of use. Perhaps one of the best free reflective photography apps and you can even share the images directly to your social media feeds.
@@ -296,3 +342,51 @@ Follow @Ollie Mattison
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-melodious-memes-crafting-choreographed-reels-with-sound-for-2024/"><u>[New] Melodious Memes  Crafting Choreographed Reels with Sound for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-step-by-step-process-high-dynamic-range-hdr-portraiture/"><u>[New] Step-by-Step Process  High Dynamic Range (HDR) Portraiture</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-symphony-of-sights-picture-plus-sound-videography/"><u>[New] Symphony of Sights  Picture + Sound Videography</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-core-elements-of-kinetic-visual-storytelling/"><u>[New] The Core Elements of Kinetic Visual Storytelling</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-ranked-audio-respeeders-mobile-desktop/"><u>[New] Top-Ranked Audio Respeeders (Mobile, Desktop)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-guide-to-chose-the-best-live-platform/"><u>[New] Ultimate Guide to Chose the Best Live Platform</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-guide-to-vitas-video-editor-full-review-2024/"><u>[New] Ultimate Guide to Vita's Video Editor - Full Review 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-audacitys-full-potential-for-professional-audio/"><u>[New] Unlocking Audacity's Full Potential for Professional Audio</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-hot-yt-videos-best-music-dance-and-responses-23-for-2024/"><u>[Updated] Hot YT Videos  Best Music Dance & Responses '23 for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-instagrams-picture-perfect-upload-techniques-unveiled/"><u>[Updated] Instagram's Picture Perfect Upload Techniques Unveiled</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-exploring-microsofts-hololens-a-hologram-horizon/"><u>2024 Approved  Exploring Microsoft's HoloLens  A Hologram Horizon</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-role-of-b-roll-in-cinematic-storytelling/"><u>2024 Approved  The Role of B-Roll in Cinematic Storytelling</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-checklist-picking-the-best-gimbal-for-drones/"><u>2024 Approved  The Ultimate Checklist  Picking the Best Gimbal for Drones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-facetune-photo-enhancement/"><u>2024 Approved  The Ultimate Guide to Facetune Photo Enhancement</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-product-revelation-best-15-unboxing-channels/"><u>2024 Approved  The Ultimate Guide to Product Revelation  Best 15 Unboxing Channels</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-visual-strategy-for-podcast-branding/"><u>2024 Approved  The Ultimate Visual Strategy for Podcast Branding</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tips-for-kickstarting-a-social-philanthropy-blitz/"><u>2024 Approved  Tips for Kickstarting a Social Philanthropy Blitz</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-sci-fi-metaverse-movies-take-you-to-a-brand-new-world/"><u>2024 Approved  Top 10 Sci-Fi Metaverse Movies Take You to a Brand New World</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/bringing-text-to-life-dynamic-animated-content-on-ig-stories/"><u>Bringing Text to Life  Dynamic Animated Content on IG Stories</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/harmonizing-hit-hits-building-the-perfect-youtube-soundtrack/"><u>Harmonizing Hit Hits  Building the Perfect YouTube Soundtrack</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-oneplus-12-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your OnePlus 12 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-exclusive-collection-vimeo-video-clippers/"><u>In 2024, Exclusive Collection  Vimeo Video Clippers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-talk-translator-essential-offline-text-recognition-software/"><u>In 2024, Talk Translator  Essential Offline Text Recognition Software</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-iphone-experts-guide-to-capturing-and-reducing-pace-in-footage/"><u>In 2024, The iPhone Expert’s Guide to Capturing and Reducing Pace in Footage</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-prime-strategies-in-zoom-video-to-zoom-outcomes/"><u>In 2024, The Prime Strategies in Zoom Video to Zoom Outcomes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-key-drone-upgrades-and-supplies/"><u>In 2024, The Ultimate Guide  Key Drone Upgrades & Supplies</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-ios-cropping-enhancing-your-images/"><u>In 2024, The Ultimate Guide to iOS Cropping  Enhancing Your Images</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-iphones-best-5-podcasting-apps/"><u>In 2024, The Ultimate Guide to iPhone's Best 5 Podcasting Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-5-budget-action-camcorders-in-full-hd/"><u>In 2024, Top 5 Budget Action Camcorders in Full HD</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-mastering-audio-magic-top-10-radio-sound-effects/"><u>New Mastering Audio Magic Top 10 Radio Sound Effects</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-smooth-operator-mastering-video-stabilization-in-fcpx-for-2024/"><u>New Smooth Operator Mastering Video Stabilization in FCPX for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ssional-filmmaking-essentials-ideal-lenses-to-consider/"><u>Professional Filmmaking Essentials  Ideal Lenses to Consider</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/songsync-guide-tamil-ringtones-from-download-to-customize/"><u>SongSync Guide  Tamil Ringtones From Download to Customize</u></a></li>
+<li><a href="https://some-skills.techidaily.com/streamlining-your-subtitles-top-10-web-based-editors-reviewed-for-2024/"><u>Streamlining Your Subtitles  Top 10 Web-Based Editors Reviewed for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/swift-shadow-magic-one-minute-for-2024/"><u>Swift Shadow Magic, One Minute for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-5-best-methods-to-track-a-lost-or-stolen-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>The 5 Best Methods to Track a Lost or Stolen iPhone | Stellar</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-best-brain-teasers-selecting-prime-trivia-channels-for-2024/"><u>The Best Brain Teasers - Selecting Prime Trivia Channels for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-insider-guide-whatsapp-audio-talks-for-2024/"><u>The Insider Guide  WhatsApp Audio Talks for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-seamless-shift-an-introduction-to-crossfades-for-2024/"><u>The Seamless Shift  An Introduction to Crossfades for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-checklist-for-successful-reddit-threads-for-2024/"><u>The Ultimate Checklist for Successful Reddit Threads for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-managing-fast-forward-functions-for-2024/"><u>The Ultimate Guide to Managing Fast Forward Functions for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-the-power-scriptwriting-for-popular-vlogs-for-2024/"><u>Unlock the Power  Scriptwriting for Popular Vlogs for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-world-of-broadcast-software-plus-wirecast-for-2024/"><u>Unveiling the World of Broadcast Software + Wirecast for 2024</u></a></li>
+</ul></div>

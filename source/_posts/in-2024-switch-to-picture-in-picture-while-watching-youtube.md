@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Switch to Picture in Picture While Watching YouTube"
-date: 2024-06-04T09:25:08.330Z
-updated: 2024-06-05T09:25:08.330Z
+date: 2024-07-22T07:17:54.799Z
+updated: 2024-07-23T07:17:54.799Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,9 @@ Picture in Picture is now available on YouTube on all platforms and devices in t
 
 After opening the video in PIP mode, you can do things around on the screen of your device as the video plays on a floating window. You will be able to resize and drag the window along as you carry along with other activities on your phone or PC.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1\. How to enable Picture in Picture for YouTube on iPhone
 
 To enable PIP on iPhone on YouTube and use it better, you should be a premium YouTube subscriber. Picture in Picture on iPhone depends on the version of your phone. And here, I am going to tell you how to enable PIP on the latest versions of iPhones.
@@ -32,11 +35,17 @@ On iOS 14.5 or 14.6, here is a simple step-by-step guide to enable Picture in Pi
 2. Tap the **Shortcut** extension in Settings
 3. Turn on **Allow Untrusted Shortcuts**. If this option is not available for your device, go to **Screen Time extension** and disable any screen time restrictions. So, you will proceed successfully.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![enable pip on iphone](https://images.wondershare.com/filmora/article-images/2022/07/picture-in-picture-for-youtube-on-iphone-1.jpg)
 
 1. If you require a **YouTube PIP** shortcut app on your device to proceed, you can download it from App Store or [the Shortcuts Gallery browser](https://shortcutsgallery.com/shortcuts/youtube-pip/) and then add it to your Shortcut Library.
 2. Open the **YouTube PIP** Shortcut and tap **Get Shortcut** on the App. You will be redirected to the shortcut application on your phone. If you don't have the shortcut application, you can download it from the App Store.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![shortcut application](https://images.wondershare.com/filmora/article-images/2022/07/picture-in-picture-for-youtube-on-iphone-2.jpg)
 
 1. Tap **Allow Untrusted Shortcuts** in the Shortcut Application on your device
@@ -69,10 +78,16 @@ To use PIP on iPhone effectively, you may sometime need to deactivate it so that
 4. Scroll down. You will see the **Picture-in-Picture**
 5. Tap the switch button to switch it off. And there you are. You have disabled PIP for YouTube on iPhone.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3\. How to enable Picture in Picture for YouTube on Mac and iPad
 
 Picture in Picture is now a native quality utility feature on many Apps on different platforms. PIP has stayed for some time since it was developed and introduced for third-party utilization. However, YouTube is still left out of this. To enable PIP on Mac, you will need to go a step ahead to do it. Enjoying PIP on an iPad is also not a straightforward thing. All the same, Mac and iPad require very simple instructions to allow you to use Picture in Picture with them.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### PIP on iPad
 
 To activate PIP on your iPad, you only need your phone settings and a supported browser like Safari. However, you have to update your iPad to the iOS 14 version that fully supports the feature.
@@ -93,6 +108,10 @@ Before you use Picture in Picture in YouTube, you require two Apps on your devic
 
 ![floating window](https://images.wondershare.com/filmora/article-images/2022/07/picture-in-picture-for-youtube-on-iphone-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### PIP on Mac
 
 On your Mac, there are two ways to get into Picture in Picture mode. You can use Control Command and Mouse together, or simply the mouse itself/touchpad. And here is how to do it with a Mouse only.
@@ -143,3 +162,39 @@ Picture in Picture is a computer utility feature in the USA. It has not been lau
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-cut-down-on-effort-schedule-fb-posts-for-free/"><u>[New] Cut Down on Effort  Schedule Fb Posts for Free</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tackling-windows-files-swiftly-and-smartly/"><u>[New] Tackling Windows Files Swiftly and Smartly</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-blueprint-to-acquire-clean-images/"><u>[New] The Blueprint to Acquire Clean Images</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-elite-guide-to-gopro-side-by-side-shopping/"><u>[New] The Elite Guide to GoPro Side-By-Side Shopping</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-handheld-stabilizers-to-elevate-your-vlogging-game/"><u>[New] Top Handheld Stabilizers to Elevate Your Vlogging Game</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unleashing-creativity-in-drone-video-post-production/"><u>[New] Unleashing Creativity in Drone Video Post-Production</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unparalleled-costless-pixel-perfection-software/"><u>[New] Unparalleled, Costless Pixel Perfection Software</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unraveling-the-warped-world-of-gopro-fisheye-effects/"><u>[New] Unraveling The Warped World of GoPro Fisheye Effects</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-innovative-methods-iphoneipad-recording-2023-revealed/"><u>[Updated] In 2024, Innovative Methods  IPhone/iPad Recording [2023 Revealed]</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-innovative-and-striking-pfp-designs-for-standout-profiles-for-2024/"><u>[Updated] Innovative and Striking PFP Designs for Standout Profiles for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-quick-guide-to-collecting-massive-tiktok-video-collections/"><u>[Updated] Quick Guide to Collecting Massive TikTok Video Collections</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-thankful-innovations-premium-and-budget-outro-themes/"><u>2024 Approved  Thankful Innovations  Premium & Budget Outro Themes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-easy-way-to-craft-your-digital-self-in-virtual-worlds/"><u>2024 Approved  The Easy Way to Craft Your Digital Self in Virtual Worlds</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-skyborne-duo-faceoff-dji-mavic-pro-and-gopro-karma/"><u>2024 Approved  The Skyborne Duo Faceoff  DJI Mavic Pro & GoPro Karma</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tips-on-finding-unparalleled-videographers/"><u>2024 Approved  Tips on Finding Unparalleled Videographers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-motivating-films-to-energize-your-lifes-journey/"><u>2024 Approved  Top 10 Motivating Films to Energize Your Life's Journey</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-strategies-for-captivating-close-up-cinematography/"><u>2024 Approved  Top 10 Strategies for Captivating Close-Up Cinematography</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transform-your-digital-assets-top-7-tools-to-create-nfts/"><u>2024 Approved  Transform Your Digital Assets - Top 7 Tools to Create NFTs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-kinemasters-secrets-to-smooth-transitions/"><u>2024 Approved  Unlock Kinemaster's Secrets to Smooth Transitions</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/discover-the-power-of-personalized-vocal-effects-in-tiktok-videos/"><u>Discover the Power of Personalized Vocal Effects in TikTok Videos</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-apple-iphone-8-plus-complete-guide-drfone-by-drfone-ios/"><u>In 2024, How To Remove Passcode From Apple iPhone 8 Plus? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamlined-file-sharing-from-your-computer-to-iphone/"><u>In 2024, Streamlined File Sharing  From Your Computer To iPhone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamsmart-beyond-the-dacast-shell/"><u>In 2024, StreamSmart  Beyond the DaCast Shell</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-evolved-2023-samsung-bd-j5900-a-deep-dive/"><u>In 2024, The Evolved 2023 Samsung BD-J5900  A Deep Dive</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-blueprint-creating-exceptional-podcast-content-on-idevices/"><u>In 2024, The Ultimate Blueprint  Creating Exceptional Podcast Content on iDevices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-playlist-of-film-scores-and-tracks/"><u>In 2024, Ultimate Playlist of Film Scores & Tracks</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-how-to-remove-audio-from-a-video-in-imovie/"><u>New How to Remove Audio From a Video in iMovie?</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-imovie-for-windows-try-these-top-alternatives-instead/"><u>New In 2024, IMovie for Windows? Try These Top Alternatives Instead</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-samsungs-picture-editing-app-for-2024/"><u>The Ultimate Guide to Samsung's Picture Editing App for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-20-zero-cost-pubg-visual-anthologies-for-2024/"><u>Top 20 Zero-Cost PUBG Visual Anthologies for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/visual-voyage-your-guide-to-broadcasting-vids-with-confidence-on-facebook/"><u>Visual Voyage  Your Guide to Broadcasting Vids with Confidence on Facebook</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>What is Fake GPS Location Pro and Is It Good On Apple iPhone 11 Pro? | Dr.fone</u></a></li>
+</ul></div>

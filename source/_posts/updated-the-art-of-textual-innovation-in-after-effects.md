@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Art of Textual Innovation in After Effects"
-date: 2024-06-04T03:00:09.035Z
-updated: 2024-06-05T03:00:09.035Z
+date: 2024-07-22T03:24:02.269Z
+updated: 2024-07-23T03:24:02.269Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,11 @@ With the high demand for video consumption across the world, video editing has b
 
 After Effects is one of the most promising video editing applications available in the market. It facilitates its users with many editing features. One of such major functions of After Effects is it provides different fonts and text effects to its users. Here's a guide on **how to add fonts to After Effects**:
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ## Part 1\. How to add fonts to After Effects?
 
 Adding fonts to any video editor is a crucial part because texts add a story to the video projects. They have a great impact on the cinematic quality of any video. For informative videos, the style of font decides the tone in which the texts are displayed.
@@ -30,10 +35,16 @@ Thus, selecting a proper font for the video becomes necessary in the post-produc
 
 * For adding the Adobe Fonts to After Effects, you will first need to enable them by signing in to the Creative Cloud application on your desktop. To do that, first, open the Creative Cloud, navigate to Assets, and click on Fonts.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![enable fonts adobe after effects](https://images.wondershare.com/filmora/article-images/2022/07/enable-fonts-adobe-after-effects.jpg)
 
 * This will direct you to the official website of Adobe Fonts where you can enable the fonts for your After Effects application. Once you are done with that click on the "Browse Fonts" and then in the opened tab, you will see a variety of fonts with their specified categories.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![browse fonts adobe](https://images.wondershare.com/filmora/article-images/2022/07/browse-fonts-adobe.jpg)
 
 * These fonts are classified according to several attributes such as weight, height, and contrast and are created by certified typographers. Once you have found any font that you like, click on the "Activate" button and the theme will be installed on your Adobe After Effects.
@@ -43,12 +54,18 @@ Thus, selecting a proper font for the video becomes necessary in the post-produc
 * Now keep the Creative Cloud application up and running in your system and then open your After Effects application. There navigate to "Graphics" and then select "Add Fonts from Adobe Fonts".
 * You can also use the font dropdown menu as a shortcut to use the fonts instantly. In Adobe After Effects interface, you can then select the "Character" panel to add or change the fonts to your videos.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## Part 2\. Types of Fonts in After Effects
 
 Adobe After Effects provides a ton of families of fonts that can be added and used in video projects. These fonts are available on the Create Cloud application and also on the official website of adobe. Also, these fonts are categorized according to their height, weight, contrast as well as other attributes. And each of these fonts is shown with a preview saying "Typography" which can be selected instantly.
 
 Some of the most famous fonts such as "typewriter", "Cursive Handwriting" and many more are categorized under their family of fonts and are very easy to access. Along with this, you can also select fonts with different character strokes and can alter their features while adding to your videos.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3\. How to use text effects in After Effects?
 
 Adding text effects in Adobe After Effects is very easy and you can use these effects by following these steps:
@@ -71,6 +88,9 @@ If for some reason you don't want to use After Effects on your device to edit yo
 
 These features also include adding texts and changing the fonts of those texts on your video. And for users who want to edit texts or fonts in their videos using [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), here is how you can do it:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ![use filmora to edit device](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
 
 * First open that video that you want to edit in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) and then you will be available with a tab called "Titles" on the top. Select that and select any style of title that you want to edit. There is a preview window available to look at the text fonts and designs.
@@ -112,3 +132,47 @@ The article discussed the detailed process of **how to add font to Adobe After E
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/dvanced-strategies-for-youtube-audio-editing-mastery/"><u>[New] Advanced Strategies for YouTube Audio Editing Mastery</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-mastering-authenticity-on-instagrams-platform-for-2024/"><u>[New] Mastering Authenticity on Instagram's Platform for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-mastery-in-motion-steam-switch-controller-techniques-for-2024/"><u>[New] Mastery in Motion  Steam Switch Controller Techniques for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-how-to-broadcast-vlogs-on-twitter-using-mobile-devices/"><u>[Updated] 2024 Approved  How to Broadcast Vlogs on Twitter Using Mobile Devices</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-androids-heartfelt-selection-of-3d-empathy-players/"><u>[Updated] Android's Heartfelt Selection of 3D Empathy Players</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/2024-approved-free-3d-animation-tools-for-android-and-iphone-a-comprehensive-guide/"><u>2024 Approved Free 3D Animation Tools for Android and iPhone A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/3-techniques-to-retrieve-and-save-youtubes-iconic-images-for-2024/"><u>3 Techniques to Retrieve & Save YouTube's Iconic Images for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/exploring-the-distinctions-of-srgb-and-rgb/"><u>Exploring the Distinctions of Srgb and Rgb</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-from-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock from Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-samsung-galaxy-m54-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP on Samsung Galaxy M54 5G?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-how-to-record-teams-video-meeting-on-desktop-and-mobile/"><u>In 2024, How to Record Teams Video Meeting on Desktop and Mobile</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-fcpx-on-a-budget-top-10-free-plugins-for-video-creators/"><u>New 2024 Approved FCPX on a Budget Top 10 Free Plugins for Video Creators</u></a></li>
+<li><a href="https://some-skills.techidaily.com/syncing-with-serenity-listening-to-podcasts-on-iphone-for-2024/"><u>Syncing With Serenity  Listening to Podcasts on iPhone for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tailored-titling-for-stellar-online-video-content-for-2024/"><u>Tailored Titling for Stellar Online Video Content for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ten-practical-ways-to-prevent-vr-sickness-for-2024/"><u>Ten Practical Ways to Prevent VR Sickness for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-15-smartest-ways-to-watch-nba-live-in-action-for-2024/"><u>The 15 Smartest Ways to Watch NBA Live in Action for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-best-spots-for-free-downloadable-got-ringtones-for-2024/"><u>The Best Spots for Free Downloadable GoT Ringtones for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-blueprint-crafting-compelling-audio-visuals-for-2024/"><u>The Blueprint  Crafting Compelling Audio Visuals for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-brisk-blueprint-to-crafting-google-image-mosaics-for-2024/"><u>The Brisk Blueprint to Crafting Google Image Mosaics for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-clear-path-a-step-by-step-approach-to-buying-an-exceptional-4k-monitor-for-2024/"><u>The Clear Path  A Step-By-Step Approach to Buying an Exceptional 4K Monitor for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-complete-guide-to-creating-a-vr-ready-environment-for-2024/"><u>The Complete Guide to Creating a VR-Ready Environment for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-complete-manual-on-deleting-a-defunct-linkedin-profile-for-2024/"><u>The Complete Manual on Deleting a Defunct LinkedIn Profile for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-covert-guide-to-livestreaming-on-instagram-unseen-for-2024/"><u>The Covert Guide to Livestreaming on Instagram Unseen for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-d500-experience-achieving-excellence-with-4k-hd-for-2024/"><u>The D500 Experience  Achieving Excellence with 4K HD for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-essential-guide-to-shopping-for-a-gopro-camera-for-2024/"><u>The Essential Guide to Shopping for a Gopro Camera for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-eternal-gallery-of-commons-artworks-online-for-2024/"><u>The Eternal Gallery of Commons Artworks Online for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-evolution-and-function-of-modern-vr-helmets-for-2024/"><u>The Evolution and Function of Modern VR Helmets for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-experts-list-of-top-vector-stock-portals-for-2024/"><u>The Expert's List of Top Vector Stock Portals for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-future-of-pc-gaming-meet-eizos-cg318-4k-for-2024/"><u>The Future of PC Gaming  Meet EIZO's CG318-4K for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-legacy-of-memories-scanning-and-storing-vintage-photographs-for-2024/"><u>The Legacy of Memories  Scanning and Storing Vintage Photographs for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-next-step-in-virtual-reality-jaunt-vr-review-for-2024/"><u>The Next Step in Virtual Reality  Jaunt VR Review for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-pinnacle-of-iphone-photography-finding-ultimate-angles-for-2024/"><u>The Pinnacle of iPhone Photography  Finding Ultimate Angles for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-power-of-4k-in-the-samsung-galaxy-s8-experience-for-2024/"><u>The Power of 4K in the Samsung Galaxy S8 Experience for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-check-dji-fpv-drone-spectacles-features-for-2024/"><u>The Ultimate Check  DJi FPV Drone Spectacles' Features for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-cinemagraph-guide-top-5-must-know-tactics-for-2024/"><u>The Ultimate Cinemagraph Guide - Top 5 Must-Know Tactics for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-voice-changes-without-financial-investment-for-2024/"><u>The Ultimate Guide to Voice Changes Without Financial Investment for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-tutorial-sending-subtitles-via-srt-to-twitter-facebook-and-more-for-2024/"><u>The Ultimate Tutorial  Sending Subtitles via SRT to Twitter, Facebook & More for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-quick-access-handbook-for-rapid-srt-to-text-change-for-2024/"><u>The Ultimate, Quick-Access Handbook for Rapid SRT to Text Change for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/thrifty-aerial-assemblies-top-drones-for-(500-for-2024/"><u>Thrifty Aerial Assemblies  Top Drones for <$500 for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-rated-aspect-ratio-resizer-software-for-professionals/"><u>Top-Rated Aspect Ratio Resizer Software for Professionals</u></a></li>
+</ul></div>

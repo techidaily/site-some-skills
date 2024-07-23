@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Definitive Guide to SRT Editing on Mac"
-date: 2024-06-04T04:34:42.483Z
-updated: 2024-06-05T04:34:42.483Z
+date: 2024-07-22T04:23:02.930Z
+updated: 2024-07-23T04:23:02.930Z
 tags: 
   - screen-recording
   - ai video
@@ -29,12 +29,18 @@ In this article, we will walk you through some best tools to show you how to adj
 
 * [The Best Way to Edit .SRT Files for Videos on Mac](#part3)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: Does the SRT file work on a Mac?
 
 The SRT file is typically a plain text-based file with time markers, sequence numbers, and captions. Most third-party media players do showcase the SRT-based format easily. So, you can also use Preview apps or any other software to access and read the basic text documents on Mac.
 
 However, the QuickTime player on Mac does not always support SRT in videos. You have to convert them to a format the QuickTime Player supports or utilize a third-party **SRT editor Mac** allows.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: What Programs can open SRT Files on Mac, and How to do it?
 
 Indeed, you have to install specific types of software on your Mac device if you want to **SRT edit Mac-**based videos. Specific programs support the SRT file in media files on Mac devices. You must use these tools separately to open and edit the SRT file.
@@ -66,6 +72,9 @@ Step1 Go to the Mac homepage and access the TextEdit app.
 
 Step2 Open a new file and type 1 in the editor timeline to indicate the caption sequence you are starting with. Hit Enter.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![type in the editor timeline](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-1.jpg)
 
 Step3 Add the starting and ending time codes with the following command. Press Enter again.
@@ -116,6 +125,9 @@ Keep both the video you are adding the SRT into and the downloaded SRT file in o
 
 Step3 Open your video file on the VLC player by double-clicking on the movie and choosing the “Open with VLC media player” option. Or, drag and drop it into the media player. Another way is to tap on the File tab in the software and press the “Open File” option.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![tap on the file tab](https://images.wondershare.com/videoconverter/en/subtitles/add-subtitles-in-vlc-mac-4.jpg)
 
 Step4 The video will begin playing. Go to the menu bar and click on the Subtitles tab > choose the “Add Subtitle File…” button.
@@ -152,6 +164,9 @@ Here, you can add a file of any length or size for quick edits and see the plain
 
 Step1 Open HappyScribe through your preferred browser. Press the Upload a File option to choose the MP4 file for burning the SRT file.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![press the upload a file option](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-6.jpg)
 
 Step2 Tap the "Autogenerate subtitles" option, or you can browse for suitable SRT files.
@@ -162,6 +177,9 @@ Step3 Make changes to the text color, caption, position, and font, as needed.
 
 Step4 Press the “Add Subtitle” button. It will insert into the MP4 within some minutes. The file will then automatically download into your Mac device.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 4: Open SRT files on Built-in App Mac QuickTime Player
 
 The QuickTime player is the primary video playback software built into Mac devices. However, this only supports the native QT format for text in videos during playback and does not accept SRT formatted files.
@@ -174,10 +192,30 @@ Step1 Open your chosen browser, and search the Caption Converter-Rev tool. Acces
 
 Step2 Click on the “Select Caption Files” option and press the “SELECT .SRT FILES” choice in red button form. Add the SRT file(s) you want to edit.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ![press the select srt files option](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-8.jpg)
 
 Step3 Choose the output format for the file. Choose QT available in the fourth spot.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![choose the output format](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-9.jpg)
 
 Step4 After rechecking that you chose the right format, add your email address; you will receive the translated QT formatted file there. Press the Convert button to activate the conversion process.
@@ -192,6 +230,10 @@ Step7 Click on the Windows tab > Properties and make adjustments to the file.
 
 ![make adjustments to the file](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ## Part 3: The Best Way to Edit .SRT Files for Videos on Mac
 
 While all of the solutions given in Part 2 allow you to access SRT files on Mac, the editing benefits are limited. Instead, you can opt for an efficient video editing software like Filmora if you are wondering **how to create SRT file on Mac** and then edit it. The software supports SRT files for viewing, formatting, editing, and more.
@@ -216,6 +258,9 @@ Step2 Click on the Media tab and import the SRT file.
 
 Step3 Right-click your cursor on the editor timeline > Choose the Advanced Edit option.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose the advanced edit option](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-13.jpg)
 
 Alternatively, double-click on top of the chosen SRT file and clip it.
@@ -226,6 +271,9 @@ Step4 Make customizations, like changing the text, editing the timecode, adjusti
 
 Step5 Choose the edited SRT file on the editor timeline. Right-click and choose the “Export Subtitle File” option.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose the export subtitle file option](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-15.jpg)
 
 ## Final Words
@@ -265,3 +313,54 @@ Part 1: Does the SRT file work on a Mac?
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-step-by-step-approach-to-crafting-hits-on-9gag/"><u>[New] Step-by-Step Approach to Crafting Hits on 9GAG</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-list-empowering-film-suggestions/"><u>[New] The Ultimate List  Empowering Film Suggestions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-iphone-filming-software-catalog/"><u>[New] Top iPhone Filming Software Catalog</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-two-effective-ways-how-can-i-share-youtube-videos-on-facebook-for-2024/"><u>[New] Two Effective Ways! How Can I Share YouTube Videos on Facebook for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-20-pubg-photo-mashups-without-copyrights/"><u>[New] Ultimate 20 PUBG Photo Mashups, Without Copyrights</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-guide-to-weaving-gopro-footage-into-circular-films/"><u>[New] Ultimate Guide to Weaving GoPro Footage Into Circular Films</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-top-5-drones-experts-choice-revealed/"><u>[New] Ultimate Top 5 Drones - Expert's Choice Revealed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-ultimate-iphone-selfie-sticks-8/"><u>[New] Unveiling the Ultimate IPhone Selfie Sticks (#8)</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-crafting-distinctive-tiktok-profile-frames/"><u>[Updated] 2024 Approved  Crafting Distinctive TikTok Profile Frames</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-sculpt-visual-jokes-for-giphy-space/"><u>[Updated] Sculpt Visual Jokes for Giphy Space</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-psychology-behind-successful-facebook-gifting-campaigns/"><u>[Updated] The Psychology Behind Successful Facebook Gifting Campaigns</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tips-to-develop-captivating-vlogs-a-scriptwriting-approach/"><u>[Updated] Tips to Develop Captivating Vlogs  A Scriptwriting Approach</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-5-android-photo-fixers/"><u>[Updated] Ultimate 5 Android Photo Fixers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-avi-player-the-perfect-match-for-pcmobile/"><u>[Updated] Ultimate AVi Player  The Perfect Match for PC/Mobile</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-youtube-video-titles-creator-tools/"><u>[Updated] Ultimate YouTube Video Titles Creator Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-immersive-journeys-vr-tours-explained/"><u>[Updated] Unlocking Immersive Journeys  VR Tours Explained</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-up-close-and-personal-tips-for-sharper-videos-on-videoleap/"><u>[Updated] Up Close & Personal  Tips for Sharper Videos on Videoleap</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-top-5-iphone-podcast-apps-guide/"><u>2024 Approved  The Ultimate Top 5 iPhone Podcast Apps Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-8-metaverse-headsets-and-glasses-to-dive-into-metaverse/"><u>2024 Approved  Top 8 Metaverse Headsets and Glasses to Dive Into Metaverse</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unparalleled-harmony-collector-android-based/"><u>2024 Approved  Unparalleled Harmony Collector, Android-Based</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ning-effective-thumbnails-with-imagery-for-2024/"><u>Designing Effective Thumbnails with Imagery for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-realme-11-5g-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Realme 11 5G Without PUK Codes</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-realme-11-pro-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Realme 11 Pro to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-techniques-for-steadying-your-motion-sensitive-gopro/"><u>In 2024, Techniques for Steadying Your Motion-Sensitive GoPro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-economics-of-video-promotion-platforms/"><u>In 2024, The Economics of Video Promotion Platforms</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-lannister-line-up-top-list-of-websites-for-game-ringtones/"><u>In 2024, The Lannister Line-Up  Top List of Websites for Game Ringtones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-5-must-have-video-editing-software-for-macos-sierra/"><u>In 2024, Top 5 Must-Have Video Editing Software for macOS Sierra</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-tips-for-zooming-in-on-superior-skype-meetings/"><u>In 2024, Top Tips for Zooming in on Superior Skype Meetings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-filmora-its-10-most-attractive-features/"><u>In 2024, Unveiling Filmora  Its 10 Most Attractive Features</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-youtube-copyright-concerns-for-recording-screens/"><u>In 2024, YouTube Copyright Concerns for Recording Screens</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pioneering-techniques-in-documentary-scripting-for-2024/"><u>Pioneering Techniques in Documentary Scripting for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/premium-video-starters-the-best-16-to-skyrocket-view-counts-for-2024/"><u>Premium Video Starters  The Best 16 to Skyrocket View Counts for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/step-by-step-speeding-up-snapchat-media-video-for-2024/"><u>Step-by-Step  Speeding Up Snapchat Media (Video) for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/supreme-memetric-creation-tool-for-2024/"><u>Supreme Memetric Creation Tool for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tech-trends-spotlight-5-cutting-edge-camcorders-for-slow-motion-for-2024/"><u>Tech Trends Spotlight  5 Cutting-Edge Camcorders for Slow Motion for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-preservation-digitizing-and-safeguarding-faded-family-memories-for-2024/"><u>The Art of Preservation  Digitizing & Safeguarding Faded Family Memories for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-for-high-definition-enthusiasts-on-purchasing-a-monitor-for-2024/"><u>The Ultimate Guide for High-Definition Enthusiasts on Purchasing a Monitor for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-pathway-to-creating-metaverse-identities-for-2024/"><u>The Ultimate Pathway to Creating Metaverse Identities for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/time-travelers-treasure-a-look-at-goofy-movie-for-2024/"><u>Time Traveler’s Treasure  A Look at 'Goofy Movie' For 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-tecno-spark-10-4g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Tecno Spark 10 4G Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unboxing-opportunities-the-marketing-planning-journey-for-2024/"><u>Unboxing Opportunities  The Marketing Planning Journey for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/uncluttered-focus-affinity-photos-cleanup-technique-for-2024/"><u>Uncluttered Focus  Affinity Photo's Cleanup Technique for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleash-the-beats-try-these-free-web-scanners-for-2024/"><u>Unleash the Beats  Try These Free Web Scanners for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-content-creation-free-tools-for-downloading-vids-online-for-2024/"><u>Unlocking Content Creation  Free Tools for Downloading Vids Online for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-unleash-your-artistry-top-10-music-video-creation-services/"><u>Updated In 2024, Unleash Your Artistry Top 10 Music Video Creation Services</u></a></li>
+<li><a href="https://change-location.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Xiaomi Redmi A2+? | Dr.fone</u></a></li>
+</ul></div>

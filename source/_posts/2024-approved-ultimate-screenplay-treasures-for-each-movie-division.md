@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Ultimate Screenplay Treasures for Each Movie Division\""
-date: 2024-06-04T01:34:51.028Z
-updated: 2024-06-05T01:34:51.028Z
+date: 2024-07-22T02:31:13.322Z
+updated: 2024-07-23T02:31:13.322Z
 tags: 
   - screen-recording
   - ai video
@@ -41,6 +41,9 @@ Sure, we'd all love to write one of those big blockbusters, but it's going to ta
 
 As aspiring screenwriters, it is important for us to focus on markets where we can break through. Some genres don't necessarily require a huge budget or an A-list star to be successful, and that's good news. Making a movie is the beginning of the journey to getting hired to write a superhero movie.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2\. Scripts examples from 8 genre
 
 ### Best horror scripts
@@ -69,10 +72,16 @@ Part of its enduring appeal is the simplicity of its concept: A kid who murdered
 
 **Download the script here:** <https://www.studiobinder.com/blog/halloween-script-screenplay-pdf-download/>
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Best comedy scripts
 
 **_1\. 21 Jump Street_**
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![21 jump street](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-4.jpg)
 
 **Writer:** [Michael Bacall](https://en.wikipedia.org/wiki/Michael%5FBacall), [Stephen J. Cannell](https://en.wikipedia.org/wiki/Stephen%5FJ.%5FCannell)
@@ -85,6 +94,9 @@ Download the script here: <https://www.scriptslug.com/script/21-jump-street-2012
 
 **_2\. The Edge of Seventeen_**
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![the edge of seventeen](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-5.jpg)
 
 **Writer:** Kelly Fremon Craig
@@ -99,6 +111,9 @@ That's exactly what new screenwriter [**Kelly Fremon Craig**](https://en.wikiped
 
 _**1\. A Christmas Carol – Large Cast**_Every man has the power to do good.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![a christmas carol is large cast](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-6.jpg)
 
 _**Writer:**_ [Charles Dickens](https://en.wikipedia.org/wiki/Charles%5FDickens)
@@ -109,6 +124,9 @@ When Scrooge's nephew Fred returns the letters Scrooge once wrote to his sister 
 
 _**2\. Angel's Poinsettia**_
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![angel's poinsettia](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-7.jpg)
 
 **Writer:** Sally Painter
@@ -143,6 +161,9 @@ A short video (usually animated) that explains ideas, products, or services in a
 
 This template begins with a scene where a character is struggling with the same problem your audience is facing. Once you've established a connection, you present the solution, show how it works and the results it delivers, and wrap it up with a call to action.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Best short drama scripts
 
 _**1\. A GIFT – TEN MINUTE PLAY FOR TWO ACTORS**_
@@ -193,6 +214,10 @@ When Jack meets Esther in the park one day, he swears she looks familiar. Althou
 
 **_1\. 2 Guns_**
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![2 guns](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-11.jpg)
 
 **Writers:** Blake Masters (screenplay by) Steven Grant
@@ -211,10 +236,17 @@ Secret Agent James Bond sets out on a mission as 007 in a screenplay that can sh
 
 **Download the script:** <https://thescriptlab.com/script-library/casinoroyale-pdf/>
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Best thriller scripts
 
 **_1\. PRIMER_**
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![primer](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-13.jpg)
 
 **Writer:** Shane Carruth
@@ -239,6 +271,9 @@ The film stands out in the now crowded genre by avoiding any cataclysmic showdow
 
 **Download the script here:** <https://www.scripts.com/script/unbreakable%5F1086>
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Best animation scripts
 
 **_1\. Cinderella_(1950)**
@@ -255,16 +290,25 @@ The money Cinderella made from its release, subsequent record sales, publishing,
 
 **Writers:** Brenda Chapman, Barry Johnson, Andy Gaskill, Kevin Harkey, Tom Sito, Rick Maki, Burny Mattinson, Lorna Cook, Gary Trousdale, Jorgen Klubien, Larry Leker, Ed Gombert, Mark Kausler, Thom Enriquez, Jim Capobianco, Chris Sanders, Joe Ranft, Francis Glebas
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![the lion king 1994](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-16.jpg)
 
 Like any child of the 90s, I admit to having a soft spot for The Lion King. The film was clearly heavily influenced by biblical stories, the Epic of Sundiatus and Shakespeare's Hamlet. It tells the story of Simba, the destined king of Pride Rock, who runs away guilt-ridden after "blaming" his father's death. The film is the highest-grossing hand-drawn film in history and won two Academy Awards for musical score.
 
 **Download the script here:** <https://www.studiobinder.com/blog/the-lion-king-script-screenplay-pdf-download/>
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3\. Make your own short movie now
 
 Have you ever stored various videos and photos on a memory card or on the computer? Why not create a movie to show them off? Once finish making a great movie, you can share it with others in a variety of ways including on YouTube, Facebook, and Instagram. Your followers will be amazed at the extraordinarily delightful works. In fact, making a movie using your own photos, videos and audio is easy.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ### Make a Video with Wondershare Filmora Easy Movie Maker
 
 [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a video editing software that enables users to create amazing videos efficiently using a wide range of powerful editing tools. It gives filters, animated elements, and other video effects. The filters and overlays allow transforming of video with a variety of filters and graphic overlays.
@@ -312,3 +356,51 @@ Creating video content that can potentially go viral is no longer a complicated 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-pixel-queens-rising-youtubes-top-10/"><u>[New] In 2024, Pixel Queens Rising  YouTube's #Top 10</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamlined-sound-collection-adding-itunes-podcasts-with-ease/"><u>[New] Streamlined Sound Collection  Adding iTunes Podcasts with Ease</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-contrast-of-virtual-realms-meta-vs-omni-universe/"><u>[New] The Contrast of Virtual Realms  Meta Vs. Omni Universe</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tips-for-kickstarting-a-social-philanthropy-blitz/"><u>[New] Tips for Kickstarting a Social Philanthropy Blitz</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-ranked-pixel-perfection-appweb-software/"><u>[New] Top-Ranked Pixel Perfection App/Web Software</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-methods-for-efficiently-attaching-a-link-to-tiktok-bios/"><u>[New] Ultimate Methods for Efficiently Attaching a Link to TikTok Bios</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-leading-edge-vr-developers/"><u>[New] Unveiling Leading-Edge VR Developers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-cutting-edge-templates-unlocking-your-videos-potential/"><u>[Updated] 2024 Approved  Cutting-Edge Templates Unlocking Your Video's Potential</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-technique-to-capture-fb-videos-flawlessly-on-both-systems-for-2024/"><u>[Updated] Technique to Capture FB Videos Flawlessly on Both Systems for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-text-tactics-top-10-best-practices/"><u>[Updated] Text Tactics  Top 10 Best Practices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-complete-review-of-movavi-video-editor-plus-users/"><u>[Updated] The Complete Review of Movavi Video Editor Plus Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-voice-changes-experts-handbook-for-morphvox-transformation/"><u>[Updated] The Ultimate Guide to Voice Changes  Expert's Handbook for MorphVOX Transformation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-instagram-ringtone-making-manual/"><u>[Updated] The Ultimate Instagram Ringtone Making Manual</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transform-sound-with-cloud-tools-top-5-online-text-to-speech-services-reviewed/"><u>[Updated] Transform Sound with Cloud Tools  Top 5 Online Text-to-Speech Services Reviewed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-editing-playbook-for-breaking-into-viral-spots-on-tiktok/"><u>[Updated] Ultimate Editing Playbook for Breaking Into Viral Spots on TikTok</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-ultimate-editor-sets-for-macos-sierra-users/"><u>[Updated] Unveiling the Ultimate Editor Sets for macOS Sierra Users</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-image-perfection-an-editors-guide/"><u>2024 Approved  Image Perfection  An Editor's Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-podcast-titling-a-step-by-step-guide/"><u>2024 Approved  The Art of Podcast Titling  A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-blueprint-for-captivating-instagram-unboxing-vids/"><u>2024 Approved  The Blueprint for Captivating Instagram Unboxing Vids</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-uncovering-invisible-challenges-in-vr/"><u>2024 Approved  Uncovering Invisible Challenges in VR</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-the-worlds-best-imagery-with-no-monetary-investment/"><u>2024 Approved  Unlocking the World's Best Imagery with No Monetary Investment</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-power-of-reverse-recording-in-phantom-cameras/"><u>2024 Approved  Unveiling the Power of Reverse Recording in Phantom Cameras</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-non-twitter-video-tweeting-hacks-for-the-modern-user/"><u>In 2024, Non-Twitter Video Tweeting Hacks for the Modern User</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tailor-made-downloads-selecting-your-perfect-4k-app/"><u>In 2024, Tailor-Made Downloads  Selecting Your Perfect 4K App</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-techniques-for-gradual-audio-reduction-with-lumafusion/"><u>In 2024, Techniques for Gradual Audio Reduction with Lumafusion</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-elite-list-10-best-cases-for-your-gopro/"><u>In 2024, The Elite List  10 Best Cases for Your GoPro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-palette-primer-compreenasive-guide-to-coloring/"><u>In 2024, The Palette Primer  Compreenasive Guide to Coloring</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-top-10-4k-screens/"><u>In 2024, The Ultimate Guide to #Top 10 4K Screens</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-list-top-10-websites-for-free-photo-access/"><u>In 2024, The Ultimate List  Top 10 Websites for Free Photo Access</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-oppo-reno-11f-5g-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Oppo Reno 11F 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-timer-power-with-zero-cost/"><u>In 2024, Unlocking Timer Power with Zero Cost</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-color-depth-why-hdri-is-preferable-in-media-production/"><u>In 2024, Unveiling Color Depth  Why HDRI Is Preferable in Media Production</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-top-6-nft-environments-for-creatives/"><u>In 2024, Unveiling the Top 6 NFT Environments for Creatives</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-various-methods-to-transfer-pictures-from-apple-iphone-14-pro-max-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Various Methods to Transfer Pictures from Apple iPhone 14 Pro Max to PC | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/maximize-visual-impact-with-free-digital-lut-resources/"><u>Maximize Visual Impact with FREE Digital LUT Resources</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/premier-tips-for-capturing-the-excitement-of-online-cricket-matches-for-2024/"><u>Premier Tips for Capturing the Excitement of Online Cricket Matches for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-alteration-a-guide-to-video-color-correction-11-parts-for-2024/"><u>The Art of Alteration  A Guide to Video Color Correction (11 Parts) for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-evolution-of-camera-features-for-dynamic-range-mastery-for-2024/"><u>The Evolution of Camera Features for Dynamic Range Mastery for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-list-for-sound-alteration-applications-in-vtubing-for-2024/"><u>The Ultimate List for Sound Alteration Applications in VTubing for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-10-memetic-artistry-codes-for-2024/"><u>Top 10 Memetic Artistry Codes for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-batteries-and-chargers-for-gopro-hero5-official-and-counterfeits-for-2024/"><u>Top Batteries and Chargers for GoPro Hero5 – Official & Counterfeits for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unexpected-angle-alterations-in-instagram-video-posts-for-2024/"><u>Unexpected Angle Alterations in Instagram Video Posts for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-updated-parrot-ar-drone-experience-for-2024/"><u>Unveiling  The Updated Parrot AR Drone Experience for 2024</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/updated-popular-female-and-male-disney-cartoon-characters-for-2024/"><u>Updated Popular Female & Male Disney Cartoon Characters for 2024</u></a></li>
+</ul></div>

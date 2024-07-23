@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Filmmaker's Guide to Capturing Clear Sea Footage\""
-date: 2024-06-04T07:53:26.394Z
-updated: 2024-06-05T07:53:26.394Z
+date: 2024-07-22T06:24:14.293Z
+updated: 2024-07-23T06:24:14.293Z
 tags: 
   - screen-recording
   - ai video
@@ -38,6 +38,9 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
 
  It’s best to avoid shooting divers in mid-water. See if there is anything you can use to frame them, such as a wall, corals or marine life. It can take time to frame your divers, but try to get the best results you can to avoid being stuck with unsatisfactory footage further down the line.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![frame shot](https://images.wondershare.com/filmora/article-images/frame-shot.JPG)
 
 #### 2\. Get closer
@@ -48,6 +51,9 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
 
  This will also make your images clearer and more colourful.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![get closer](https://images.wondershare.com/filmora/article-images/get-closer-underwater.JPG)
 
 #### 3\. Lighting is important
@@ -66,18 +72,27 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
 
  To add greater stability to your camera, hold it as close to yourself as is realistically possible. Alternatively, consider using a tripod if you can. Keep your camera on your subject for as long as you need to, and try to wait for ten seconds without re-adjusting your camera at all.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![stay steady](https://images.wondershare.com/filmora/article-images/stay-steady-underwater.JPG)
 
 #### 5\. Be careful of other divers
 
  Unfortunately, other divers have a tendency to get in the way when you’re shooting footage underwater. Many video production professionals opt to intentionally include clips of divers in their footage so everything flows nicely and cuts work well together if their presence in other shots is unavoidable.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ![careful driver](https://images.wondershare.com/filmora/article-images/careful-divers.JPG)
 
 #### 6\. Wide angle
 
  If you wish to include wide-angle shots in your work, make sure the camera is zoomed all the way out. Locking your elbows to your side, try to hold your breath to reduce the chances of shaking and pan shots slowly. You may need to shoot several takes to get it just right and will benefit from the use of a colour correcting filter.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wide angle](https://images.wondershare.com/filmora/article-images/wide-angle-underwater.JPG)
 
 #### 7\. Shoot the best colour
@@ -86,6 +101,9 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
 
  Virtually all natural colours when you stay shallow. Go beyond this and you will require a colour correction filter to retrieve the colour lost through depth. When shooting close-up subjects beneath 20 metres, use a wide-angle video light to return vibrant, kaleidoscopic colour to your video.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ![shoot shot](https://images.wondershare.com/filmora/article-images/shoot-colour.JPG)
 
 ## Edit your footage
@@ -98,6 +116,9 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
 
  If you’re planning on making a DVD of your work, consider adding extras to the product such as highlights or photos. Filmora is a popular editing software solution that will help you add an extra dash of magic to your work.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
@@ -124,6 +145,9 @@ Follow @Ollie Mattison
 
  It’s best to avoid shooting divers in mid-water. See if there is anything you can use to frame them, such as a wall, corals or marine life. It can take time to frame your divers, but try to get the best results you can to avoid being stuck with unsatisfactory footage further down the line.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![frame shot](https://images.wondershare.com/filmora/article-images/frame-shot.JPG)
 
 #### 2\. Get closer
@@ -152,12 +176,18 @@ Follow @Ollie Mattison
 
  To add greater stability to your camera, hold it as close to yourself as is realistically possible. Alternatively, consider using a tripod if you can. Keep your camera on your subject for as long as you need to, and try to wait for ten seconds without re-adjusting your camera at all.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![stay steady](https://images.wondershare.com/filmora/article-images/stay-steady-underwater.JPG)
 
 #### 5\. Be careful of other divers
 
  Unfortunately, other divers have a tendency to get in the way when you’re shooting footage underwater. Many video production professionals opt to intentionally include clips of divers in their footage so everything flows nicely and cuts work well together if their presence in other shots is unavoidable.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![careful driver](https://images.wondershare.com/filmora/article-images/careful-divers.JPG)
 
 #### 6\. Wide angle
@@ -172,6 +202,9 @@ Follow @Ollie Mattison
 
  Virtually all natural colours when you stay shallow. Go beyond this and you will require a colour correction filter to retrieve the colour lost through depth. When shooting close-up subjects beneath 20 metres, use a wide-angle video light to return vibrant, kaleidoscopic colour to your video.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![shoot shot](https://images.wondershare.com/filmora/article-images/shoot-colour.JPG)
 
 ## Edit your footage
@@ -218,3 +251,39 @@ Follow @Ollie Mattison
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-essential-fb-movie-downloads-for-23-list-8/"><u>[New] 2024 Approved  Essential FB Movie Downloads for '23 List #8</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-chucklecanvas-jokesinframes/"><u>[New] ChuckleCanvas  JokesInFrames</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-dive-into-a-stream-of-9-full-length-festive-flicks-no-charge/"><u>[New] In 2024, Dive Into a Stream of 9 Full-Length Festive Flicks - No Charge</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-time-capsule-converting-single-photographs-to-video/"><u>[Updated] Time Capsule  Converting Single Photographs to Video</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tips-and-tricks-for-effective-azure-speech-to-text-use/"><u>[Updated] Tips and Tricks for Effective Azure Speech-to-Text Use</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transcription-made-simple-at-no-cost/"><u>[Updated] Transcription Made Simple  At No Cost</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transformative-idea-capture-via-mematic-software/"><u>[Updated] Transformative Idea Capture via Mematic Software</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-strategies-for-stunning-iphone-nature-photography/"><u>[Updated] Ultimate Strategies for Stunning iPhone Nature Photography</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-understanding-vectors-first-steps-and-essential-apps/"><u>[Updated] Understanding Vectors  First Steps and Essential Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlock-optimal-performance-with-these-key-tricks/"><u>[Updated] Unlock Optimal Performance with These Key Tricks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-the-potential-of-windows-10-for-aspiring-filmmakers/"><u>[Updated] Unlocking the Potential of Windows 10 for Aspiring Filmmakers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-earnings-per-thousand-views-explained/"><u>[Updated] YouTube Earnings Per Thousand Views Explained</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-all-you-need-to-know-mastering-adobe-and-beyond-storage/"><u>2024 Approved  All You Need to Know  Mastering Adobe and Beyond Storage</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-complete-overview-of-full-scene-in-ppro/"><u>2024 Approved  Complete Overview of Full Scene in PPro</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-downloader-essentials-the-best-tools-for-offline-viewing/"><u>2024 Approved  Downloader Essentials  The Best Tools For Offline Viewing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-complete-guide-to-livestreaming-on-mobile-devices/"><u>2024 Approved  The Complete Guide to Livestreaming on Mobile Devices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-secrets-to-subtle-sound-diminishment-in-lumafusion/"><u>2024 Approved  The Secrets to Subtle Sound Diminishment in Lumafusion</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-subtitle-converters-no-cost-for-srt-files/"><u>2024 Approved  Top 10 Subtitle Converters, No Cost for SRT Files</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-total-gb-for-24-hour-movie-size/"><u>2024 Approved  Total GB for 24-Hour Movie Size</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-choice-top-tier-webcam-mounts-and-grips/"><u>2024 Approved  Ultimate Choice  Top-Tier Webcam Mounts & Grips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-iphone-hdr-photo-guidebook/"><u>2024 Approved  Ultimate iPhone HDR Photo Guidebook</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-live-setting-picks/"><u>2024 Approved  Ultimate Live Setting Picks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-software-guide-for-video-game-shows/"><u>2024 Approved  Ultimate Software Guide for Video Game Shows</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-free-moving-text-in-your-motion-captures/"><u>2024 Approved  Unlock Free Moving Text in Your Motion Captures</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/a-step-by-step-process-of-board-use-in-zoom-sessions-desktopiosandroid/"><u>A Step-by-Step Process of Board Use in Zoom Sessions (Desktop/iOS/Android)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/avs-video-editor-a-comprehensive-review/"><u>AVS Video Editor A Comprehensive Review</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-infinix-smart-7withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Infinix Smart 7with/without a PC</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-on-apple-iphone-6s-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account On Apple iPhone 6s</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-stabilizing-aerial-cameras-choosing-a-drone-gimbal/"><u>In 2024, The Art of Stabilizing Aerial Cameras  Choosing a Drone Gimbal</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-face-generation-made-easy-free-online-tools-and-resources/"><u>New 2024 Approved Face Generation Made Easy Free Online Tools and Resources</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-3-ways-convert-pinner-vids-into-audios-for-2024/"><u>Top 3 Ways  Convert Pinner Vids Into Audios for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-iphone-editing-magic-shorter-smaller-videos-for-2024/"><u>Unlock iPhone Editing Magic  Shorter, Smaller Videos for 2024</u></a></li>
+</ul></div>

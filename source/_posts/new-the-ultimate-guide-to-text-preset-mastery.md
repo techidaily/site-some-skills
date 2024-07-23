@@ -1,7 +1,7 @@
 ---
 title: "[New] The Ultimate Guide to Text Preset Mastery"
-date: 2024-06-04T05:03:53.820Z
-updated: 2024-06-05T05:03:53.820Z
+date: 2024-07-22T04:40:41.015Z
+updated: 2024-07-23T04:40:41.015Z
 tags: 
   - screen-recording
   - ai video
@@ -40,6 +40,9 @@ After Effects comes with certain pre-loaded text effects but you can always impo
 
 There are unlimited text presets available on After Effects and for a beginner, it can be quite time-consuming to go through all of them and get confused about which one to pick. To make things easier for beginners, we are listing down the best 10 text presets After Effects free and paid for instant selection for their video projects.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Glitch Text Effects
 
 The glitch text effects are extremely common in today's videos as they instantly draw the attention of the viewers and offer a retro feel. In this text presents, you get 30 different glitch text effect animations that you can use for titles as well as in-body texts. You get to choose from 32 glitch maps for creative and refreshing text effects for your videos.
@@ -50,18 +53,33 @@ The glitch text effects are extremely common in today's videos as they instantly
 
 You should have simple but effective motion text effects in your video so that certain texts and titles can get the message across clearly to the viewers. In this pack, you get amazing motion text effects with and without keyframes. Besides, you get several useful parameters like in-out mirror, reverse in and out, and overshoot that you can tweak to get the desired text animations.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![motion type text animation preset](https://images.wondershare.com/filmora/article-images/2022/09/motion-type-text-animation-preset.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Typominal Typewriter Effect Preset
 
 There are two FFX files in the pack that lets you get a retro text effect along with the popular typewriter animation. Import the files and drop the effect on your text and you can adjust several parameters to create amazing text effects. The retro effect is very similar to watching something on old monitors with very low resolution.
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![typominal typewriter effect preset](https://images.wondershare.com/filmora/article-images/2022/09/typominal-typewriter-effect-preset.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 4\. Tapered Stroke Preset
 
 If the regular stroke feature is not enough, you have tapered stroke preset that you can apply to the text in your video and control several parameters. You can create thin and thick rounded stroke texts that are pleasant to human eyes. You can customize the settings and parameters like never before to create personalized text effects.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tapered stroke preset](https://images.wondershare.com/filmora/article-images/2022/09/tapered-stroke-preset.jpg)
 
 ### 5\. Stranger Things Text Preset
@@ -70,6 +88,10 @@ This is a simple but highly effective text preset that gets the serious attentio
 
 ![stranger things text preset](https://images.wondershare.com/filmora/article-images/2022/09/stranger-things-text-preset.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### 6\. Text Styles Preset
 
 You get 16 amazing text styles that you can use on your texts and titles to make them look different and refreshing. Thereafter, you can apply any animation you want to amplify the visual appeal. Starting from fiery and neon styles to different variations of 3D effects, these presets bring the fun and the color elements to your text.
@@ -80,24 +102,39 @@ You get 16 amazing text styles that you can use on your texts and titles to make
 
 You get 80 text presets in this pack that you can customize and make the texts and titles in your video project elegant. All the animations have studio-like quality and you can animate your text uniquely and randomly. Starting from standard text animations to some really cool and creative text animations, you get everything in one pack.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![text animation bundle preset](https://images.wondershare.com/filmora/article-images/2022/09/text-animation-bundle-preset.jpg)
 
 ### 8\. Kinetic Text Animation
 
 If you are looking for some upbeat text presets, kinetic text animation pack is an essential. There are simple but stunning text animations available that can get the message across easily. You get full HD resolution for these presents and they are unique and creative that will make your video content stand out easily. In total, there are 56 different design presets present to personalize the text part of your video.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![kinetic text animation preset](https://images.wondershare.com/filmora/article-images/2022/09/kinetic-text-animation-preset.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ### 9\. 30 Universal Text Animation
 
 If you want to keep the text animations simple but you want it to be different than the usual text animations, this is the pack for you. You get 30 standard text animation presets with a geometrical element in each one of them. You can customize the timing, duration, size, and various such parameters to fit them in your video project perfectly.
 
 ![universial text aniamtion preset](https://images.wondershare.com/filmora/article-images/2022/09/universial-text-aniamtion-preset.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ### 10\. Text Animation Lower Third
 
 Lower thirds are an essential part of the modern videos where you are introducing concepts and giving out information. Starting from title introductions to displaying headlines and quotes, you will get the perfect text presents in this dynamic pack to satisfy your requirements perfectly. You can customize several parameters to get the text effects as per your video project.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![text animation lower third preset](https://images.wondershare.com/filmora/article-images/2022/09/text-animation-lower-third-preset.jpg)
 
 ## Part 2\. How to Add Text Presets in After Effects?
@@ -110,6 +147,9 @@ Step1From your After Effects project, go to Tool panel and click on Type tool. C
 
 Step2Go to Effects and Presets panel and you will find all the presets including the imported ones. Search for any desired text effect preset and drag and drop it on the text layer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![search desired text preset after effects](https://images.wondershare.com/filmora/article-images/2022/09/search-desired-text-preset-after-effects.jpg)
 
 Step3Click on the text layer to expand it and you will see different parameters that you can adjust to get the desired text effect. You can also tweak keyframes wherever applicable to adjust the text animation.
@@ -138,6 +178,9 @@ Step3Go to Titles and you will see different categories of text effects on the l
 
 Step4Double-click on the text layer and edit the text. Place the text layer on the timeline where you want the text to appear. You can also change the text styles and parameters as per your requirements.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![edit the text](https://images.wondershare.com/filmora/guide/text-animation-win-1.png)
 
 ## Conclusion
@@ -172,3 +215,58 @@ If you decide to use Adobe After Effects to add text effects to your video, we h
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-secure-your-brand-on-youtube-adding-logos-and-watermarks/"><u>[New] 2024 Approved  Secure Your Brand on YouTube  Adding Logos & Watermarks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-superior-sonic-aligner-android-version/"><u>[New] Superior Sonic Aligner, Android Version</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-timeless-trove-of-freely-shared-works/"><u>[New] The Timeless Trove of Freely Shared Works</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transform-your-smartphone-photography-with-iphones-hdr/"><u>[New] Transform Your Smartphone Photography with iPhone’s HDR</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-trivia-treasures-2024-best-general-knowledge-streaming-sites/"><u>[New] Trivia Treasures 2024  Best General Knowledge Streaming Sites</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unmatched-performance-and-price-select-top-asmr-microphone-picks/"><u>[New] Unmatched Performance & Price - Select Top ASMR Microphone Picks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unraveling-the-itunes-radio-download-process/"><u>[New] Unraveling the iTunes Radio Download Process</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-beauty-brilliance-masterclasses-and-product-explorations/"><u>[Updated] 2024 Approved  Beauty Brilliance  Masterclasses and Product Explorations</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-superior-software-convert-and-upload-to-twitter/"><u>[Updated] Superior Software  Convert and Upload to Twitter</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-beginners-blueprint-achieving-superior-image-clarity-in-videos/"><u>[Updated] The Beginner’s Blueprint  Achieving Superior Image Clarity in Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-fast-photography-path-to-crafting-quick-google-collage-pics/"><u>[Updated] The Fast Photography Path to Crafting Quick Google Collage Pics</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-subtle-art-of-easing-audio-intensity-garageband/"><u>[Updated] The Subtle Art of Easing Audio Intensity (Garageband)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-exclusive-windows-11s-media-importers/"><u>[Updated] The Ultimate Exclusive  Windows 11'S Media Importers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlock-your-creativity-with-these-under-1k-4k-cameras/"><u>[Updated] Unlock Your Creativity with These Under-$1k 4K Cameras</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unwinding-a-livestream-in-seconds-seven-proven-methods-for-twitch-viewers/"><u>[Updated] Unwinding a Livestream in Seconds  Seven Proven Methods for Twitch Viewers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-and-enhance-with-these-key-zoom-setup-steps/"><u>2024 Approved  Streamline & Enhance with These Key Zoom Setup Steps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-subscribers-guide-to-effective-dialogue-on-youtube/"><u>2024 Approved  The Subscriber's Guide to Effective Dialogue on YouTube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-timeless-stop-motion-films-a-celebratory-15-list/"><u>2024 Approved  Timeless Stop-Motion Films - A Celebratory 15 List</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transform-photos-and-videos-with-these-androidiphone-montage-apps/"><u>2024 Approved  Transform Photos & Videos with These Android/iPhone Montage Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleashing-fun-kinemaster-reviewed-for-android-devices/"><u>2024 Approved  Unleashing Fun  KineMaster Reviewed for Android Devices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-advanced-features-of-vlc-for-mac-users/"><u>2024 Approved  Unveiling Advanced Features of VLC for Mac Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-upgrade-your-photo-edits-the-ultimate-guide-to-pixlr-power/"><u>2024 Approved  Upgrade Your Photo Edits  The Ultimate Guide to Pixlr Power</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/2024-approved-make-the-most-of-your-mobile-audience-resizing-videos-for-vertical-playback/"><u>2024 Approved Make the Most of Your Mobile Audience Resizing Videos for Vertical Playback</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/banish-the-automatic-post-proposals-on-instagram-for-2024/"><u>Banish the Automatic Post Proposals on Instagram for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/how-to-blend-into-the-crowd-watching-instagram-live-anonymously/"><u>How to Blend Into the Crowd  Watching Instagram Live Anonymously</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713942921901-how-to-polish-your-music-video-edits-using-filmora-for-2024/"><u>How to Polish Your Music Video Edits Using Filmora for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-infinix-note-30-pro-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Infinix Note 30 Pro?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-chromatic-ingenuity-from-concept-to-creation/"><u>In 2024, Chromatic Ingenuity  From Concept to Creation</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-crafting-compelling-narratives-in-tiktok-the-top-5-caption-techniques-to-try/"><u>In 2024, Crafting Compelling Narratives in TikTok  The Top 5 Caption Techniques to Try</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-master-the-science-and-art-of-attention-grabbing-titles/"><u>In 2024, Master the Science and Art of Attention-Grabbing Titles</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-perfect-pictures-at-work-master-snap-camera-use/"><u>In 2024, Perfect Pictures at Work  Master Snap Camera Use</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-premium-listing-of-free-cross-platform-4k-uhd-player-apps/"><u>In 2024, Premium Listing of Free, Cross-Platform 4K UHD Player Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-essentials-of-hosting-a-zoom-event-via-android/"><u>In 2024, The Essentials of Hosting a Zoom Event via Android</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-fundamentals-of-gif-design-and-creation/"><u>In 2024, The Fundamentals of GIF Design and Creation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-seamless-media-magic-turning-xml-ssa-into-dynamic-srts/"><u>In 2024, The Seamless Media Magic  Turning XML, SSA Into Dynamic SRTs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-iphone-ringtone-alterations/"><u>In 2024, The Ultimate Guide to iPhone Ringtone Alterations</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-visionary-educators-guide-to-multimedia-use/"><u>In 2024, The Visionary Educator's Guide to Multimedia Use</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-7-video-to-text-converters-for-seamless-content-translation/"><u>In 2024, Top 7 Video-to-Text Converters for Seamless Content Translation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleash-camera-potential-with-10-premium-freebies-and-personalized-purchase-choices/"><u>In 2024, Unleash Camera Potential with 10 Premium Freebies & Personalized Purchase Choices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-the-chest-of-free-fcp/"><u>In 2024, Unlocking the Chest of Free FCP</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-vidas-power-for-film-and-video-professionals/"><u>In 2024, Unveiling Vida's Power for Film and Video Professionals</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-revolutionize-your-gameplay-with-these-top-gaming-intro-designers/"><u>New 2024 Approved Revolutionize Your Gameplay with These Top Gaming Intro Designers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/streamlining-post-production-with-luts-in-ae-for-2024/"><u>Streamlining Post-Production with LUTs in AE for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/synthesizing-success-the-power-of-magix-samplitude-for-2024/"><u>Synthesizing Success  The Power of Magix Samplitude for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-future-of-mobile-videography-6-pioneering-apps-beyond-periscope-for-2024/"><u>The Future of Mobile Videography  6 Pioneering Apps Beyond Periscope for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-new-normal-for-vr-industry-insights-for-2024/"><u>The New Normal for VR  Industry Insights for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-compilation-of-top-sky-hd-sites-for-2024/"><u>The Ultimate Compilation of Top Sky HD Sites for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-potential-androidandioss-top-free-overlay-tools-guide-for-2024/"><u>Unlock Potential  Android&iOS's Top Free Overlay Tools Guide for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unmatched-timers-for-weddings-top-10-choices-on-phones-for-2024/"><u>Unmatched Timers for Weddings  Top 10 Choices on Phones for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-hdr-and-4k-perfection-with-asus-proart-monitor-for-2024/"><u>Unveiling HDR & 4K Perfection with ASUS ProArt Monitor for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ushering-bliss-in-unboxing-7-strategies-for-2024/"><u>Ushering Bliss in Unboxing  7 Strategies for 2024</u></a></li>
+</ul></div>

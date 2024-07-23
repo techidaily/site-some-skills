@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Supreme Storytelling Spanning Eight Movie Types\""
-date: 2024-06-04T02:09:45.206Z
-updated: 2024-06-05T02:09:45.206Z
+date: 2024-07-22T02:53:15.327Z
+updated: 2024-07-23T02:53:15.327Z
 tags: 
   - screen-recording
   - ai video
@@ -35,14 +35,24 @@ _Be it a blockbuster movie, an indie gem, a play on The Fringe, or the West End 
 
 When you look at the top-grossing movies at the box office, it's no surprise that they primarily consist of superhero movies made by big studios with big budgets. Black Widow is the[top-grossing film of 2022](https://www.boxofficemojo.com/chart/top%5Flifetime%5Fgross/?area=XWW) so far, with Shang-Chi and The Legend of the Ten Rings a close second. In third place is F9: The Fast Saga, the ninth installment in the overwhelmingly popular Fast and Furious franchise.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![reason of picking films](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-1.jpg)
 
 Sure, we'd all love to write one of those big blockbusters, but it's going to take a lot of blood, sweat, and writing to earn Marvel's trust. That's why I want to draw attention to the movie that is in fourth place: A Quiet Place Part II. The sequel to 2018's A Quiet Place has grossed over $160 million this year and still has three months to go. Why is this significant? I will explain.
 
 As aspiring screenwriters, it is important for us to focus on markets where we can break through. Some genres don't necessarily require a huge budget or an A-list star to be successful, and that's good news. Making a movie is the beginning of the journey to getting hired to write a superhero movie.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Part 2\. Scripts examples from 8 genre
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Best horror scripts
 
 **_1\. Annabelle_**
@@ -69,10 +79,16 @@ Part of its enduring appeal is the simplicity of its concept: A kid who murdered
 
 **Download the script here:** <https://www.studiobinder.com/blog/halloween-script-screenplay-pdf-download/>
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Best comedy scripts
 
 **_1\. 21 Jump Street_**
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![21 jump street](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-4.jpg)
 
 **Writer:** [Michael Bacall](https://en.wikipedia.org/wiki/Michael%5FBacall), [Stephen J. Cannell](https://en.wikipedia.org/wiki/Stephen%5FJ.%5FCannell)
@@ -95,10 +111,16 @@ That's exactly what new screenwriter [**Kelly Fremon Craig**](https://en.wikiped
 
 **Download the script here:** <https://www.scriptslug.com/script/the-edge-of-seventeen-2016>
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Best Christmas play scripts
 
 _**1\. A Christmas Carol – Large Cast**_Every man has the power to do good.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![a christmas carol is large cast](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-6.jpg)
 
 _**Writer:**_ [Charles Dickens](https://en.wikipedia.org/wiki/Charles%5FDickens)
@@ -159,6 +181,9 @@ Ages of the actors: _Approximately 30-40 years of age_
 
 Suitable for: _All ages_
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![a gift](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-9.jpg)
 
 In this ten-minute play for two actors, two young men meet on a train. One is a serious young man on his way to propose to his girlfriend, the other is a cynical loner who advises the former to escape the wedding while he can. The council backfires and an earnest young man sets out on a journey, leaving the recluse in this comedy-drama with a wonderful twist to his story.
@@ -211,10 +236,16 @@ Secret Agent James Bond sets out on a mission as 007 in a screenplay that can sh
 
 **Download the script:** <https://thescriptlab.com/script-library/casinoroyale-pdf/>
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Best thriller scripts
 
 **_1\. PRIMER_**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![primer](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-13.jpg)
 
 **Writer:** Shane Carruth
@@ -239,6 +270,9 @@ The film stands out in the now crowded genre by avoiding any cataclysmic showdow
 
 **Download the script here:** <https://www.scripts.com/script/unbreakable%5F1086>
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Best animation scripts
 
 **_1\. Cinderella_(1950)**
@@ -255,6 +289,9 @@ The money Cinderella made from its release, subsequent record sales, publishing,
 
 **Writers:** Brenda Chapman, Barry Johnson, Andy Gaskill, Kevin Harkey, Tom Sito, Rick Maki, Burny Mattinson, Lorna Cook, Gary Trousdale, Jorgen Klubien, Larry Leker, Ed Gombert, Mark Kausler, Thom Enriquez, Jim Capobianco, Chris Sanders, Joe Ranft, Francis Glebas
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![the lion king 1994](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-16.jpg)
 
 Like any child of the 90s, I admit to having a soft spot for The Lion King. The film was clearly heavily influenced by biblical stories, the Epic of Sundiatus and Shakespeare's Hamlet. It tells the story of Simba, the destined king of Pride Rock, who runs away guilt-ridden after "blaming" his father's death. The film is the highest-grossing hand-drawn film in history and won two Academy Awards for musical score.
@@ -281,8 +318,14 @@ The 4K editing support feature enables users to edit and export videos at a reso
 
 The [color tuning](https://tools.techidaily.com/wondershare/filmora/download/) feature enables users to adjust the white balance and dynamic range of their clips. The audio mixer feature enables changing the audio of each track. The advanced text editor allows editing the color, size, font, and even animation of the text. The screen recording feature enables recording the screen of the computer and webcam efficiently. The video stabilization feature eliminates the effects of camera shake.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![color tuning](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-18.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 Creating video content that can potentially go viral is no longer a complicated process that takes an enormous amount of time and effort. Each of the scripts we featured in this article offers more than enough brilliant scripts that are going to impress your target audience. Make your own short movies and script plays using [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) and checks out additional features explained in the article.
@@ -312,3 +355,45 @@ Creating video content that can potentially go viral is no longer a complicated 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-the-essential-2023-techniques-for-ios-screen-recording/"><u>[New] 2024 Approved  The Essential 2023 Techniques for iOS Screen Recording</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-accelerating-your-creative-process-a-guide-to-crafting-fast-google-collage-images/"><u>[New] Accelerating Your Creative Process  A Guide to Crafting Fast Google Collage Images</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-hands-on-help-quick-screen-recording-dell-for-2024/"><u>[New] Hands-On Help  Quick Screen Recording (Dell) for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-how-to-live-stream-gopro-to-facebook-and-periscope/"><u>[New] In 2024, How to Live Stream Gopro to Facebook and Periscope?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-unlocking-ps-simple-grading-techniques-for-perfection/"><u>[New] In 2024, Unlocking PS  Simple Grading Techniques for Perfection</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-superior-scripting-fx-vaults/"><u>[New] Superior Scripting FX Vaults</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-synchronizing-podcast-drops-with-audience-behavior/"><u>[New] Synchronizing Podcast Drops with Audience Behavior</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-5-free-screen-recorders-on-windows-11-2023-update/"><u>[New] Top 5 Free Screen Recorders on Windows 11-2023 Update</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-tip-how-to-create-a-quick-and-easy-google-collage-photo/"><u>[New] Top Tip  How to Create a Quick and Easy Google Collage Photo</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transform-your-virtual-meetings-using-zoom-within-the-gmail-platform/"><u>[New] Transform Your Virtual Meetings  Using Zoom Within the Gmail Platform</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transforming-in-game-audio-identity-for-a-unique-competitive-advantage-no-charge/"><u>[New] Transforming In-Game Audio Identity for a Unique Competitive Advantage (No Charge!)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-smartphone-selection-for-superior-video-recording/"><u>[New] Ultimate Smartphone Selection for Superior Video Recording</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-understanding-the-role-and-impact-of-b-roll-in-editing/"><u>[New] Understanding the Role and Impact of B Roll in Editing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-excellent-video-creatives/"><u>[New] Unveiling Excellent Video Creatives</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-iphone-ringtone-alterations/"><u>[Updated] The Ultimate Guide to iPhone Ringtone Alterations</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tiny-feature-plot-outline/"><u>[Updated] Tiny Feature Plot Outline</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-scripts-across-eight-film-categories/"><u>[Updated] Top Scripts Across Eight Film Categories</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-rated-economical-timer-services/"><u>[Updated] Top-Rated Economical Timer Services</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-adobe-easy-hue-transformations/"><u>2024 Approved  Mastering Adobe  Easy Hue Transformations</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-vivo-g2-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Vivo G2 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/chromebook-voice-alteration-guide-essential-online-reverb-and-pitch-tools-for-2024/"><u>Chromebook Voice Alteration Guide  Essential Online Reverb & Pitch Tools for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-adventure-gear-debate-gopro-hero5-black-and-garmin-virb-2e/"><u>In 2024, Adventure Gear Debate  GoPro Hero5 Black & Garmin VIRB (2E)</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-motorola-moto-g23-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Motorola Moto G23 FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-list-10-empowering-flicks/"><u>In 2024, The Ultimate List  10 Empowering Flicks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-try-these-free-online-tempo-trackers-today/"><u>In 2024, Try These FREE Online Tempo Trackers Today</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-avi-player-the-perfect-match-for-pcmobile/"><u>In 2024, Ultimate AVi Player  The Perfect Match for PC/Mobile</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-speed-loading-windows-photo-displayer/"><u>In 2024, Ultimate Speed-Loading Windows Photo Displayer</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-trio-a-deep-dive-into-vr-ar-and-mr/"><u>In 2024, Unveiling the Trio  A Deep Dive Into VR, AR, & MR</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/superior-steadicams-for-drone-shooting-precision-for-2024/"><u>Superior Steadicams for Drone Shooting Precision for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/swiftly-secure-your-favorite-podcast-episodes-on-iphone-for-2024/"><u>Swiftly Secure Your Favorite Podcast Episodes on iPhone for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-future-of-tiktok-master-video-trends-and-techniques-for-2024/"><u>The Future of TikTok - Master Video Trends and Techniques for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-skys-the-limit-with-husqvarnas-x4-drone-for-2024/"><u>The Sky's the Limit with Husqvarna's X4 Drone for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-strategy-for-collecting-multiple-videos-from-tiktok-for-2024/"><u>The Ultimate Strategy for Collecting Multiple Videos From TikTok for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unattached-audio-puzzle-resolution-guide-for-2024/"><u>Unattached Audio Puzzle  Resolution Guide for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unblemished-visuals-a-buyers-ultimate-guide-for-2024/"><u>Unblemished Visuals  A Buyer's Ultimate Guide for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-professional-hdr-magic-in-adobes-photoshop-for-2024/"><u>Unveiling Professional HDR Magic in Adobe's Photoshop for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-want-to-add-freeze-frame-effect-to-your-video-on-your-device-here-are-the-steps-to-add-freeze-frame-on-pc-mac-smartphone-as-well-as-online-from-any-/"><u>Updated Want to Add Freeze Frame Effect to Your Video on Your Device? Here Are the Steps to Add Freeze Frame on PC, Mac, Smartphone as Well as Online From Any Device</u></a></li>
+</ul></div>

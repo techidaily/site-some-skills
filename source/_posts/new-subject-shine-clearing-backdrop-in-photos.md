@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Subject Shine  Clearing Backdrop in Photos\""
-date: 2024-06-04T01:19:05.010Z
-updated: 2024-06-05T01:19:05.010Z
+date: 2024-07-22T02:21:21.626Z
+updated: 2024-07-23T02:21:21.626Z
 tags: 
   - screen-recording
   - ai video
@@ -22,10 +22,16 @@ Affinity Photo is an image editor developed by Serif Ltd. in 2009 and is used by
 
 No matter you are a professional content creator or a newbie, we'll be discussing how to remove background in Affinity Photo. Let's explore how to use the good editing tool to be free of the stressful editing process.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ## How to Remove Affinity Photo to Remove Image's Background
 
 Affinity Photo is a simple and easy-to-use editing software, and you can remove a background in it under two scenarios: remove a white or a busy background.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### How to Erase a White Background in Affinity Designer
 
 To erase a white background in Affinity Designer, do these steps:
@@ -34,14 +40,23 @@ Step1 In the first step, install the [Affinity Designer](https://affinity.serif.
 
 Now access the **Pixel Persona** section in the left corner of the software screen by clicking the **colored boxes** icon.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![accessing the pixel persona in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-pixel-persona-in-affinity-designer.png)
 
 Step2 Go to the **"Layers"** tab in the right pane, right-click your layer, and disable **"Lock."** Now right-click on your layer again, and select **"Rasterize"** to enable editing of specific parts of the image.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![unlocking the image layer in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/unlocking-the-image-layer-in-affinity-designer.png)
 
 Step3 To make a selection around your subject, first enable the **"Snap To Edges"** and **"Soft Edges"** feature from the top toolbar. This will help you automatically detect the edges and give it a more tapered finish.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![enabling snap to edges and soft edges in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/enabling-snap-to-edges-and-soft-edges-in-affinity-designer.png)
 
 Set your brush size using your keyboard's **left** and **right bracket** keys. Now, manually make a selection around your subject and white edges in the image as precisely as possible.
@@ -85,6 +100,9 @@ Finally, click **"File"** and select the **"Export"** option from the drop-down 
 
 **Note:** To save your image with a transparent background, do not export it in JPG file format.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## The Best Alternative of Affinity Photo
 
 Since Affinity Photo is a desktop software available for a one-time purchase of $40.99, you might be looking for an online free alternative if you need more space or can afford the subscription fee.
@@ -143,3 +161,45 @@ Hopefully, this article and video can help you create ideal images!
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-explore-free-options-10-leading-mac-artists-preferences/"><u>[New] In 2024, Explore Free Options  10 Leading Mac Artists' Preferences</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-perfect-instruction-manual-for-wm6/"><u>[New] Perfect Instruction Manual for WM6</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamlining-post-production-with-luts-in-ae/"><u>[New] Streamlining Post-Production with LUTs in AE</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-audio-alchemists-handbook-creating-custom-auditory-alerts-on-android-phones/"><u>[New] The Audio Alchemist's Handbook  Creating Custom Auditory Alerts on Android Phones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-importance-of-b-roll-diversity-in-filmmaking/"><u>[New] The Importance of B-Roll Diversity in Filmmaking</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-chromebook-zoom-capabilities/"><u>[New] Unlocking Chromebook Zoom Capabilities</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-magix-video-pro-x-capabilities/"><u>[New] Unveiling Magix Video Pro X Capabilities</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-examining-the-perks-and-pitfalls-of-vr/"><u>[Updated] Examining the Perks and Pitfalls of VR</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-commerce-codex-for-instagram-creators-securing-profitable-alignments/"><u>[Updated] In 2024, The Commerce Codex for Instagram Creators  Securing Profitable Alignments</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-top-8-screen-capture-programs-for-linux-experts/"><u>[Updated] In 2024, Top 8 Screen Capture Programs for Linux Experts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-recommended-asmrists-for-nighttime-calmness/"><u>[Updated] Top Recommended ASMRists for Nighttime Calmness</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-directory-where-to-download-youtube-ringtones/"><u>[Updated] Ultimate Directory  Where to Download YouTube Ringtones?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleashing-creativity-in-iphone-videography-8-best-practices/"><u>[Updated] Unleashing Creativity in iPhone Videography  8 Best Practices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-seamless-ocean-footage-with-these-7-hacks/"><u>[Updated] Unlocking Seamless Ocean Footage with These 7 Hacks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-comedy-codex-a-practical-tutorial-for-gif-creation/"><u>2024 Approved  The Comedy Codex  A Practical Tutorial for GIF Creation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-finest-10-online-spots-to-download-pristine-photos/"><u>2024 Approved  The Finest 10 Online Spots to Download Pristine Photos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-review-of-sns-hdr-vs-top-hdr-applications/"><u>2024 Approved  The Ultimate Review of SNS HDR Vs. Top HDR Applications</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-tool-for-video-cuts-full-review-of-vivacut-24-edition/"><u>2024 Approved  The Ultimate Tool for Video Cuts  Full Review of VivaCut '24 Edition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-undercover-upscalers-guide-to-clear-visuals/"><u>2024 Approved  The Undercover Upscaler's Guide to Clear Visuals</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-chromebooks-best-android-video-editors-you-need-to-try/"><u>2024 Approved Chromebooks Best Android Video Editors You Need to Try</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-iphone-15-pro-max-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On iPhone 15 Pro Max</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-15-pioneering-online-education-websites-beyond-udemy/"><u>In 2024, 15 Pioneering Online Education Websites Beyond Udemy</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Oppo K11 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-honor-90-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Honor 90 Phone? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-apple-iphone-11-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 11</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-sculpting-the-silence-an-in-depth-look-at-modifying-audio-keyframes-for-immersive-experiences-in-final-cut-pro-x/"><u>In 2024, Sculpting the Silence An In-Depth Look at Modifying Audio Keyframes for Immersive Experiences in Final Cut Pro X</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-simulating-quantum-leaps-in-film/"><u>In 2024, The Art of Simulating Quantum Leaps in Film</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-srt-primer-for-enthusiasts/"><u>In 2024, The Ultimate SRT Primer for Enthusiasts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tomorrows-examination-innovative-approaches/"><u>In 2024, Tomorrow’s Examination  Innovative Approaches</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-ride-with-these-top-10-macwindows-srt-boosters/"><u>In 2024, Transform Your Ride with These Top 10 Mac/Windows SRT Boosters</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-upload-and-share-your-visual-content-on-youtube/"><u>In 2024, Upload & Share Your Visual Content on YouTube</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-art-of-cartoonization-how-to-transform-videos-into-cartoons/"><u>New The Art of Cartoonization How to Transform Videos Into Cartoons</u></a></li>
+<li><a href="https://review-topics.techidaily.com/oppo-bypass-tools-to-bypass-lock-screen-oppo-a1x-5g-by-drfone-android-unlock-android-unlock/"><u>Oppo Bypass Tools to Bypass Lock Screen(Oppo A1x 5G)</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-complete-guide-to-crafting-luts-in-3d/"><u>The Complete Guide to Crafting LUTs in 3D</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-complete-haul-video-manual-from-shopping-to-screen-time-for-2024/"><u>The Complete Haul Video Manual  From Shopping to Screen Time for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-painters-touch-mastering-color-artistry-for-2024/"><u>The Painter's Touch  Mastering Color Artistry for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/upgrade-your-video-game-top-software-for-higher-resolution/"><u>Upgrade Your Video Game Top Software for Higher Resolution</u></a></li>
+</ul></div>

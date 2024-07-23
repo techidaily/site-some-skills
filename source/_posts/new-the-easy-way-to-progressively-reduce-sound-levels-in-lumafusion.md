@@ -1,7 +1,7 @@
 ---
 title: "[New] The Easy Way to Progressively Reduce Sound Levels in Lumafusion"
-date: 2024-06-04T02:31:42.696Z
-updated: 2024-06-05T02:31:42.696Z
+date: 2024-07-22T03:07:03.745Z
+updated: 2024-07-23T03:07:03.745Z
 tags: 
   - screen-recording
   - ai video
@@ -32,10 +32,16 @@ Step1 LumaFusion's default structure is comparable to that of many desktops edit
 
 Step2 LumaFusion allows for the automated synchronization of up to 12 camera sources and several audio tracks. When a clip is loaded into LumaFusion, touch on it to open it in the viewer and then adjust the start and finish points.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![edit sources luma fusion](https://images.wondershare.com/filmora/article-images/2022/07/edit-sources-luma-fusion.jpg)
 
 Step3 From the choices, choose the Cross Dissolve (Fade) transition. The transition should be placed at the very end of your music channel timeline. Tap on the Help & Settings menu to do this action. Look for Transition under the Settings menu and edit it to the appropriate duration. If you do this, your transition won't take effect until you add it again.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fade audio in luma fusion](https://images.wondershare.com/filmora/article-images/2022/07/fade-audio-in-luma-fusion.jpg)
 
 Beyond simple editing, LumaFusion excels in enhancing projects with a wide variety of built-in effects, transitions, titles, and color correction. It also has a limited (but excellent) collection of royalty-free music. Finally, LumaFusion Project Packages are a terrific solution to regularly backup a project for security or to complete altering it. After choosing Export, choose the Project Package from the list.
@@ -60,12 +66,18 @@ Now that you've downloaded the software's executable file, the next step is to i
 
 Drag and drop your sound recordings from the media library to the timeline at the bottom of the program when they have been successfully imported. You may now see your audio files inside the timeline, where you can easily crop the video or reduce the audio of the relevant audio file. You may utilize basic to sophisticated editing techniques inside the program. To choose the basic editor, just click on the video file within the timeline as shown below:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![import audios to fade](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
 ##### Step3 Apply Fade Effects
 
 The fade-in audio button inside your audio file may be seen when you just hover over the audio file within the timeline and look for the white circle filled with pink hue at the beginning and finish of your audio file. On the other hand, to choose the fade-out audio, click and drag the pink circle that appears on the opposite end of the audio file in the timeline that you have chosen to fade out the music file.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![apply fade effects](https://images.wondershare.com/filmora/guide/add-fade-in-fade-out-markers-timeline.jpg)
 
 ##### Step4 Share and export
@@ -76,6 +88,9 @@ In that window, you can select the MP3 format in the format customization box to
 
 ## Part 3\. Related FAQs about LumaFusion
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. How do you fade in a title LumaFusion?
 
 Go to Clip Defaults to do that. You may change the Title and Transition lengths here. Check to check whether the updated defaults have been implemented by adding a new title or transition after making the necessary modifications. By cursorily browsing the title in the browser, you can get a preview.
@@ -84,6 +99,9 @@ Go to Clip Defaults to do that. You may change the Title and Transition lengths 
 
 There are several eye-catching transitions included with LumaFusion. The transition may simply be dragged into the timeline and placed between the two pertinent segments. You may modify the duration of it after it's on the timeline in the same way that you would any other clip. Simply choose Transitions from the Sources box, that's it.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. How to you split audio and video in LumaFusion?
 
 Within the timeline, tap anywhere and move the mouse left or right to divide a clip in half. The audio from your clip may then be separated in the timeline. To do so, choose the audio channel and then click the pencil-shaped edit button at the bottom of the screen. This will display a variety of choices, including tools for pan, distortion, and volume. The audio editing features in LumaFusion are virtually as spectacular as the visual options—and just as intimidating.
@@ -112,3 +130,36 @@ Within the timeline, tap anywhere and move the mouse left or right to divide a c
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-upgrading-laptop-and-mobile-conferencing-with-background-changes/"><u>[New] 2024 Approved  Upgrading Laptop & Mobile Conferencing With Background Changes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-a-comprehensive-list-of-8-authentic-propagation-tools-for-2024/"><u>[New] A Comprehensive List of 8 Authentic Propagation Tools for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-next-gen-stabilizing-tools-for-youtube-videographers/"><u>[New] Next-Gen Stabilizing Tools for YouTube Videographers</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-professional-guide-extracting-vimeo-content-as-mp4s-for-2024/"><u>[New] Professional Guide  Extracting Vimeo Content as MP4s for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-strategies-for-improving-your-interview-prowess/"><u>[New] Strategies for Improving Your Interview Prowess</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-symphonic-syncopation-perfecting-audio-transitions/"><u>[New] Symphonic Syncopation  Perfecting Audio Transitions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-most-popular-wedding-countdown-clocks-a-top-10-list-androidios/"><u>[New] The Most Popular Wedding Countdown Clocks  A Top 10 List (Android/iOS)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-offline-speech-to-text-transcription-apps/"><u>[New] Top Offline Speech-to-Text Transcription Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-techniques-in-testimonial-production-an-experts-insight/"><u>[New] Top Techniques in Testimonial Production  An Expert's Insight</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-capturing-creativity-expert-analyses-of-video-tech/"><u>[Updated] In 2024, Capturing Creativity  Expert Analyses of Video Tech</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-elite-hd-video-preservation-devices/"><u>[Updated] In 2024, Elite HD Video Preservation Devices</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-essentials-to-initiate-in-google-meet/"><u>[Updated] The Essentials to Initiate in Google Meet</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-complete-catalog-of-livestreaming-cameras-review/"><u>2024 Approved  The Complete Catalog of Livestreaming Cameras Review</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-dji-x20-drone-vision-wear-review/"><u>2024 Approved  The DJI X20 Drone Vision Wear Review</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-digital-library-year-round-free-texts/"><u>2024 Approved  The Ultimate Digital Library  Year-Round Free Texts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-iphones-best-5-podcasting-apps/"><u>2024 Approved  The Ultimate Guide to iPhone's Best 5 Podcasting Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tips-for-efficiently-implementing-windows-11s-auto-hdr-mode/"><u>2024 Approved  Tips for Efficiently Implementing Windows 11'S Auto HDR Mode</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-total-physical-action-scrutiny/"><u>2024 Approved  Total Physical Action Scrutiny</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tune-your-chat-status-tune-it-right/"><u>2024 Approved  Tune Your Chat Status, Tune It Right</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unique-content-creation-the-ultimate-guide-to-6-video-types/"><u>2024 Approved  Unique Content Creation  The Ultimate Guide to 6 Video Types</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-creativity-in-editing-leveraging-storyremix-with-windows-11-photos/"><u>2024 Approved  Unleash Creativity in Editing  Leveraging StoryRemix with Windows 11 Photos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-premium-displays-the-ultimate-guide-for-xbox-s-series-x/"><u>2024 Approved  Unveiling Premium Displays  The Ultimate Guide for Xbox S Series X</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-vanguard-designs-evaluation-studio-25-examined-current-year/"><u>2024 Approved  Vanguard Designs Evaluation  Studio 25 Examined, Current Year</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/elite-videography-the-top-tools-for-youtube-content-for-2024/"><u>Elite Videography  The Top Tools For YouTube Content for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-cracking-the-code-to-reinstating-your-tiktok-profile/"><u>In 2024, Cracking the Code to Reinstating Your TikTok Profile</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Motorola Moto G23? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-mastering-the-art-of-seamless-inshot-edits/"><u>In 2024, Mastering the Art of Seamless Inshot Edits</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamline-your-screens-youtube-video-resizing-tricks/"><u>In 2024, Streamline Your Screens  YouTube Video Resizing Tricks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-essential-guide-to-zooming-with-gmail-emails-professionally/"><u>In 2024, The Essential Guide to Zooming with Gmail Emails Professionally</u></a></li>
+</ul></div>

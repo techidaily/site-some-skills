@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Future of Human-Computer Conversation Systems\""
-date: 2024-06-04T07:16:36.454Z
-updated: 2024-06-05T07:16:36.454Z
+date: 2024-07-22T06:01:35.570Z
+updated: 2024-07-23T06:01:35.570Z
 tags: 
   - screen-recording
   - ai video
@@ -51,6 +51,9 @@ With Hand Tracking, you can interact with the virtual world more naturally and i
 
 There are two main types of Hand Tracking: with interface and without interface:
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Tracking With Interface
 
 With interface Hand Tracking, you need to use a device such as a glove or a controller to interact with the virtual world. This can be used in VR or AR applications. It is further divided into two systems:
@@ -81,10 +84,16 @@ Above we have learned what is Hand Tracking and the two types of it. Now let’s
 
 Before we go further about them, let us learn about Python quickly. Python is a versatile language used for a wide range of tasks, including image processing and computer vision. We will use Python and two Python Libraries: OpenCV and MediaPipe, to create a Hand Tracking module.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What is OpenCV
 
 To get a deeper understanding of OpenCV, please read our article: _Opencv Tracking, a compete review_.（同期交付文章，请插入相关内链\~）
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What Is Media Pipe
 
 Media Pipe is an open-source framework by Google that provides a set of tools for working with multimedia data or media processing. It includes modules for handling audio, video, and images. Media Pipe also supports various codecs and file formats.
@@ -122,12 +131,18 @@ A _main.py_ file for writing code will be automatically created in _Pycharm_ app
 
 First, import the OpenCV and MediaPipe to use their dependencies. Once done, create an object _cap_ for video capturing and three other objects; _mpHands, hands,_ and _mpDraw_ to manipulate your input using MediaPipe.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![importing the libraries](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-3.jpg)
 
 ##### Step2 Capturing And Processing An Image Input
 
 Copy and paste the following line of code to take the image input from your PC webcam.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![capturing and processing an image input](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-4.jpg)
 
 The image is converted to RGB from BGR because MediaPipe works with this type of image. The RBG image is then processed to track the hand.
@@ -136,10 +151,21 @@ The image is converted to RGB from BGR because MediaPipe works with this type of
 
 Now, create a class for tracking and for the hands function to work, key in the basic parameters. Next, provide all the initialization required. This includes the basic parameters and MediaPipe initializations. Put _“self”_ before each object to provide access to its attributes and methods.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![working with both hands](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-5.jpg)
 
 ##### Step4 Creating Method For Tracking Hands In Input Image
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![creating method for tracking hands](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-6.jpg)
 
 Afterward, use the above code to create a method for using specifically to identify hands in the input image. The code will also draw hand landmarks and hand connections.
@@ -156,18 +182,27 @@ In this method, use the code that you used to find the ID and hand landmark of e
 
 Now, write the below dummy code to showcase what the module can do, i.e., identify and track hands. The code appears in the main method and uses the _lmlist object_ and _image_.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-8.jpg)
 
 ##### Step7 Main Method Execution
 
 To execute the main method, copy and paste the following code lines:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![main method execution](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-9.jpg)
 
 ##### Step8 Result
 
 The module and output of the program will be the same, and when they are complete without any errors, you will get your output, i.e., the module will track and identify your hand movements without any glitches.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4\. Use Filmora to demonstarte your Hand Tracking skill
 
 After what has been explained above and what you have learned by now, we hope you have been equipped with hand tracking module knowledge and be ready to take action. Here, we will also sincerely recommend you a user-friendly and professional video edtior to show your hand motion scene – [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)!
@@ -213,3 +248,38 @@ We hope this guide helped resolve your queries, and you can now create a Hand Tr
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-complete-connoisseurs-manual-for-expertise-in-morphvox-voice-changing/"><u>[New] Complete Connoisseur’s Manual for Expertise in MorphVOX Voice Changing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-crafting-a-continuous-youtube-video-stream-from-separate-files-for-2024/"><u>[New] Crafting a Continuous Youtube Video Stream From Separate Files for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-dive-into-the-world-of-fb-posting-its-free/"><u>[New] Dive Into the World of Fb Posting - It's Free</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-pushing-boundaries-with-film-color-grading-these-7/"><u>[New] In 2024, Pushing Boundaries with Film Color Grading (These 7)</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-top-5-chrome-add-ons-optimal-vimeo-video-downloads/"><u>[New] In 2024, Top 5 Chrome Add-Ons  Optimal Vimeo Video Downloads</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-sdr-to-hdr-conversion-companion-book/"><u>[New] The SDR to HDR Conversion Companion Book</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-trailblazers-in-virtual-reality-content-crafting/"><u>[New] Trailblazers in Virtual Reality Content Crafting</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unexplained-tilted-images-on-instagrams-video-section/"><u>[New] Unexplained Tilted Images on Instagram's Video Section</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-camouflaged-commentary-on-yt-content/"><u>[New] Unveiling Camouflaged Commentary on YT Content</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-15-things-to-do-while-listening-to-podcasts/"><u>[Updated] 15 Things to Do While Listening to Podcasts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-list-best-tvs-for-ps5xbox-series-x-games/"><u>[Updated] The Ultimate List  Best TVs for PS5/Xbox Series X Games</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tips-and-tricks-adjusting-the-tempo-of-your-snapchat-videos/"><u>[Updated] Tips and Tricks  Adjusting the Tempo of Your Snapchat Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-total-guide-ultimate-video-show-experience-in-24/"><u>[Updated] Total Guide  Ultimate Video Show Experience in '24</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-novice-to-notorious-top-20-vlogging-ideas/"><u>2024 Approved  From Novice to Notorious  Top 20 Vlogging Ideas</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-oneplus-ace-2-pro-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on OnePlus Ace 2 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-xr-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset iPhone XR Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleash-virtual-reality-to-the-fullest-with-htc-vive-review/"><u>In 2024, Unleash Virtual Reality to the Fullest with HTC Vive Review</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-win11s-potential-with-zoom-conferencing/"><u>In 2024, Unleashing Win11's Potential with Zoom Conferencing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlock-the-hidden-potential-of-windows-11-with-these-tips/"><u>In 2024, Unlock the Hidden Potential of Windows 11 with These Tips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unmatched-quick-windows-picture-browser/"><u>In 2024, Unmatched Quick Windows Picture Browser</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unraveling-the-discrepant-nature-of-vr-and-full-sphere-capture/"><u>In 2024, Unraveling the Discrepant Nature of VR and Full Sphere Capture</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/quiet-the-screenplay-removing-audible-aspects-from-mp4mkvavimov-and-wmv-videos-for-2024/"><u>Quiet the Screenplay Removing Audible Aspects From MP4/MKV/AVI/MOV and WMV Videos for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/streamline-your-audio-content-with-googles-tools-for-2024/"><u>Streamline Your Audio Content with Google’s Tools for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/surprise-uncovered-secrets-to-take-your-window-11-experience-up-a-notch-for-2024/"><u>Surprise! Uncovered Secrets to Take Your WINDOW 11 Experience Up a Notch for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/swift-solutions-shifting-ios-media-files-for-2024/"><u>Swift Solutions  Shifting iOS Media Files for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-cinema-mastering-the-best-5-camera-tips-for-2024/"><u>The Art of Cinema  Mastering the Best 5 Camera Tips for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-best-of-editing-filmoras-captivating-features-for-2024/"><u>The Best of Editing  Filmora's Captivating Features for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-smart-buyers-guide-to-drones-crucial-info-upfront-for-2024/"><u>The Smart Buyer's Guide to Drones  Crucial Info Upfront for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-your-ideas-into-videos-with-the-power-of-movie-maker-windows-11-edition-for-2024/"><u>Transform Your Ideas Into Videos with the Power of Movie Maker, Windows 11 Edition for 2024</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/updated-what-is-the-best-collage-photo-grid-maker-experts-choice/"><u>Updated What Is the Best Collage Photo Grid Maker - Experts Choice</u></a></li>
+</ul></div>

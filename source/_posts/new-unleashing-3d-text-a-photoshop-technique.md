@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Unleashing 3D Text  A Photoshop Technique\""
-date: 2024-06-04T07:13:51.781Z
-updated: 2024-06-05T07:13:51.781Z
+date: 2024-07-22T05:59:41.114Z
+updated: 2024-07-23T05:59:41.114Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,9 @@ It's three times better than regular text. A 3D text looks more professional, mo
 
 Then, you'll learn about an alternative method that's actually much easier. It may not be as popular as Photoshop but you will be surprised by the professional results even a beginner can achieve with this.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Create a 3D Text Effect in Adobe Photoshop
 
 Photoshop is not the easiest image editing software to use. It can get really complex, really fast. But, with this, all you have to do is follow our steps. We'll try to make it as straightforward as possible.
@@ -32,10 +35,16 @@ Step1 Open up Adobe Photoshop and create a New Document. Then, edit the document
 
 Step2 Select the **Type** tool and choose a color of your liking. Then, click anywhere on the blank canvas and type in your word.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![type text photoshop](https://images.wondershare.com/filmora/article-images/type-adobe-photoshop.png)
 
 Step3 Now, locate the **Layers** panel at the bottom-right corner of the screen. Click on **Layers** **→ right-click on your Text layer → select "New 3D Extrusion from Selected Layer".** Then, just click **Yes** on the new window that pops up.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![three d layer](https://images.wondershare.com/filmora/article-images/layer-adobe-photoshop.png)
 
 Step4 You are now editing in the 3D Workspace inside Photoshop. Here is where we will create the 3D text effect. First, click on the **Layers** panel **→ right-click on "Background" →** select **"Postcard".**
@@ -54,14 +63,24 @@ Step7 The next thing you need to do is add a light source. To do this, go back t
 
 Step8 You can now go to the Properties panel to adjust the 3D effects and light source effects even further. When you are done, simply click this highlighted button to render your creation.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![render three d text](https://images.wondershare.com/filmora/article-images/render-adobe-photoshop.png)
 
 Step9 We're almost done. The next step is to go back to the **Layers** tab → right-click on the **Background** layer → click on **"Convert to Smart Object".**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ![convert to smart object](https://images.wondershare.com/filmora/article-images/convert-adobe-photoshop.png)
 
 Step10 Finally, from the upper-right corner drop-down button, select **Essentials**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![convert back](https://images.wondershare.com/filmora/article-images/essentials-adobe-photoshop.png)
 
 There you have it. You can now export your 3D text image from Photoshop and you're done. Congratulations on learning how to make a 3D text effect in Photoshop.
@@ -84,6 +103,9 @@ The steps are extremely simple. Just follow each exactly as you see it here and 
 
 Step1 First, you should download Filmora and install the program on your computer. Then, launch it and click on **New Project**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![open new project filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
 Step2 Import a background video or image by going to **My Media** and selecting **Import Media.** From here, select any clip or image you want and hit **Open.** When it's imported, simply drag the clip to the Timeline below.
@@ -96,6 +118,9 @@ Step3 Next, head over to **Titles** and search for "3D". Select any option you l
 
 Step4 Lastly, double-click on the 3D Title clip in the Timeline and edit its settings. Type in your custom text, change its font, color, and other features.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![3d titles filmora](https://images.wondershare.com/filmora/guide/3d-title.png)
 
 That's it! Congratulations!. You've created a 3D text effect with Filmora in just four simple steps.
@@ -128,3 +153,54 @@ Creating 3D text with Photoshop is a good idea if you already know how to use th
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-canva-skills-purging-images-of-their-surroundings/"><u>[New] Canva Skills  Purging Images of Their Surroundings</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-instagram-integrity-at-stake-with-artificial-approvals/"><u>[New] In 2024, Instagram Integrity at Stake with Artificial Approvals</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-screen-sharing-made-simple-learn-phonescreen-recording-with-snapchat-for-2024/"><u>[New] Screen Sharing Made Simple  Learn Phonescreen Recording with Snapchat for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-iphone-filming-software-catalog/"><u>[New] Top iPhone Filming Software Catalog</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-20-pubg-photo-mashups-without-copyrights/"><u>[New] Ultimate 20 PUBG Photo Mashups, Without Copyrights</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-guide-to-weaving-gopro-footage-into-circular-films/"><u>[New] Ultimate Guide to Weaving GoPro Footage Into Circular Films</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-top-5-drones-experts-choice-revealed/"><u>[New] Ultimate Top 5 Drones - Expert's Choice Revealed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-ultimate-iphone-selfie-sticks-8/"><u>[New] Unveiling the Ultimate IPhone Selfie Sticks (#8)</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-a-compreenas-guide-to-incorporating-personalized-emojis-in-discord-statuses-for-2024/"><u>[Updated] A Compreenas Guide to Incorporating Personalized Emojis in Discord Statuses for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-sculpt-visual-jokes-for-giphy-space/"><u>[Updated] Sculpt Visual Jokes for Giphy Space</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-psychology-behind-successful-facebook-gifting-campaigns/"><u>[Updated] The Psychology Behind Successful Facebook Gifting Campaigns</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tips-to-develop-captivating-vlogs-a-scriptwriting-approach/"><u>[Updated] Tips to Develop Captivating Vlogs  A Scriptwriting Approach</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-toggle-picture-in-picture-youtube-viewing-tips-for-ios-users/"><u>[Updated] Toggle Picture In Picture  YouTube Viewing Tips for iOS Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transforming-ordinary-to-extraordinary-with-engaging-tiktok-unboxings/"><u>[Updated] Transforming Ordinary to Extraordinary with Engaging TikTok Unboxings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-turning-chaos-into-clarity-in-your-burdened-tiktok-archive/"><u>[Updated] Turning Chaos Into Clarity in Your Burdened TikTok Archive</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlock-video-editing-mastery-using-lut-filters-in-obs-studio/"><u>[Updated] Unlock Video Editing Mastery Using LUT Filters in OBS Studio</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-simple-nature-of-storytelling/"><u>[Updated] Unveiling the Simple Nature of Storytelling</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-upconversion-unveiled-sdr-to-hdri-a-complete-guide/"><u>[Updated] Upconversion Unveiled  SDR to HDRI - A Complete Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-capture-and-share-best-social-media-tools-of-the-year/"><u>2024 Approved  Capture and Share  Best Social Media Tools of the Year</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamlined-language-translation-best-online-subtitle-manipulators/"><u>2024 Approved  Streamlined Language Translation – Best Online Subtitle Manipulators</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-metaverse-unraveled-explore-these-6-vivid-models/"><u>2024 Approved  The Metaverse Unraveled  Explore These 6 Vivid Models</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-turbo-transfer-efficient-youtube-listings/"><u>2024 Approved  Turbo Transfer  Efficient YouTube Listings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-choice-elite-desktop-pcs/"><u>2024 Approved  Ultimate Choice  Elite Desktop PCs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unraveling-the-secrets-of-iphone-hdr/"><u>2024 Approved  Unraveling the Secrets of iPhone HDR</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-venture-beyond-reality-with-our-top-1-cookies-in-mobile-vr-technology/"><u>2024 Approved  Venture Beyond Reality with Our Top 1 Cookies in Mobile VR Technology</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-huawei-nova-y71-device-sim-by-drfone-android/"><u>Easily Unlock Your Huawei Nova Y71 Device SIM</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/iconic-highlights-from-the-2022-figure-skate-world-for-2024/"><u>Iconic Highlights From the 2022 Figure Skate World for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-samsung-galaxy-m14-4g-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Samsung Galaxy M14 4G online without jailbreak</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-infinite-storage-horizon-your-guide-to-free-and-premium-cloud-services/"><u>In 2024, Infinite Storage Horizon  Your Guide to Free & Premium Cloud Services</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-standout-methods-for-fb-ad-visualization/"><u>In 2024, Standout Methods for FB Ad Visualization</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-pinnacle-of-zooid-creations-guide/"><u>In 2024, The Pinnacle of Zooid Creations Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-liberating-tracks-with-pazeras-tools/"><u>In 2024, The Ultimate Guide to Liberating Tracks with Pazera's Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-tiktok-video-amplification/"><u>In 2024, The Ultimate Guide to TikTok Video Amplification</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-xbox-one-and-zoom-harmony/"><u>In 2024, The Ultimate Guide to Xbox One and Zoom Harmony</u></a></li>
+<li><a href="https://some-skills.techidaily.com/step-by-step-speeding-up-snapchat-media-video-for-2024/"><u>Step-by-Step  Speeding Up Snapchat Media (Video) for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/supreme-memetric-creation-tool-for-2024/"><u>Supreme Memetric Creation Tool for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tech-trends-spotlight-5-cutting-edge-camcorders-for-slow-motion-for-2024/"><u>Tech Trends Spotlight  5 Cutting-Edge Camcorders for Slow Motion for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-preservation-digitizing-and-safeguarding-faded-family-memories-for-2024/"><u>The Art of Preservation  Digitizing & Safeguarding Faded Family Memories for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-for-high-definition-enthusiasts-on-purchasing-a-monitor-for-2024/"><u>The Ultimate Guide for High-Definition Enthusiasts on Purchasing a Monitor for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-pathway-to-creating-metaverse-identities-for-2024/"><u>The Ultimate Pathway to Creating Metaverse Identities for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/time-travelers-treasure-a-look-at-goofy-movie-for-2024/"><u>Time Traveler’s Treasure  A Look at 'Goofy Movie' For 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unboxing-opportunities-the-marketing-planning-journey-for-2024/"><u>Unboxing Opportunities  The Marketing Planning Journey for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/uncluttered-focus-affinity-photos-cleanup-technique-for-2024/"><u>Uncluttered Focus  Affinity Photo's Cleanup Technique for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleash-the-beats-try-these-free-web-scanners-for-2024/"><u>Unleash the Beats  Try These Free Web Scanners for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-content-creation-free-tools-for-downloading-vids-online-for-2024/"><u>Unlocking Content Creation  Free Tools for Downloading Vids Online for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-adobe-premiere-pro-download-and-use-guide-in-depth/"><u>Updated In 2024, Adobe Premiere Pro Download and Use Guide In Depth</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-from-zero-to-hero-top-free-video-editing-software/"><u>Updated In 2024, From Zero to Hero Top Free Video Editing Software</u></a></li>
+</ul></div>

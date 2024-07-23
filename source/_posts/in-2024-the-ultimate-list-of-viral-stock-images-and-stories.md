@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Ultimate List of Viral Stock Images & Stories"
-date: 2024-06-04T07:22:54.641Z
-updated: 2024-06-05T07:22:54.641Z
+date: 2024-07-22T06:05:37.301Z
+updated: 2024-07-23T06:05:37.301Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,9 @@ A stock photo meme is an image or video you use to communicate a specific idea. 
 
 So, what are the most popular stock photo memes, and how did they reach this status? Keep reading to find out more.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part1: Hide the Pain Harold
 
 ![hide the pain harold](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-1.jpg)
@@ -39,10 +42,16 @@ Since 2011, Hide the Pain Harold continues to rank as one of the world's most po
 
 According to Andras, Hide the Pain Harold results from his vacation in Turkey. A professional photographer contacted him to do stock image modeling. During the shoot, the photographer kept telling him to smile, resulting in some photos of Andras appearing to force a smile. This expression led to netizens using his image to express situations where the forced smile is masking your true feelings.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![do stock image modeling](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-3.jpg)
 
 Currently, Hide the Pain Harold has over 300,000 followers across all platforms. In addition, Hide the pain Harold has an official Facebook and Know Your Meme page that features the most popular versions of the stock image meme.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ## Part2: Distracted Boyfriend
 
 Another popular stock image meme is Distracted Boyfriend. It features the stock photo meme guy looking at another woman's backside while walking with his girlfriend. In addition, the models' facial expressions add to the photo's impact. For example, the girlfriend shows her disapproval by staring at the man with her mouth open.
@@ -64,12 +73,21 @@ Since then, the meme continues to enjoy mass popularity, including:
 
 The latest version of Distracted boyfriend is a compilation of photos featuring the three models, with the last one showing the women hanging out.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![latest version](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-6.jpg)
 
 In addition, Antonio Guillem also has a stock image meme where the roles are reversed. The meme was later posted on Reddit underneath the original and received over 25,600 points in 24 hours.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part3: I Bet He's Thinking About Other Women
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![meme features](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-7.jpg)
 
 The meme features a couple in bed with the stock photo meme guy in contemplation and the woman facing him with a concerned look. At first glance, the image shows a couple experiencing relationship problems, with the original caption showing the woman worrying that the man is thinking about other women.
@@ -82,6 +100,9 @@ A July 2017 Instagram post by Cathrottle gained over 13,400 likes in a month. In
 
 * Redditor GallowBoob received 34,700 points and 350 comments within 24 hours of posting it.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![points and comments](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-9.jpg)
 
 The post references the Toy Story character Buzz Lightyear, with the man contemplating why Buzz is in denial of being a toy.
@@ -94,6 +115,9 @@ According to sources, the stock photo meme was first featured on Twitter in Dece
 
 Twitter user @chocos posts the image with Spanish captions, with the woman sure the man is thinking of another. However, the man wonders why there are sounds in Star Wars when the sound does not travel in space. Since then, the tweet has received over 1,700 retweets and 2,200 likes.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part4: Bonjour Bear
 
 ![bonjour bear](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-11.jpg)
@@ -115,12 +139,18 @@ The photo is available on most stock photo websites, such as Adobe and Tumblr. F
 
 ## Part5: FAQs
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Can you use stock photos for memes?
 
 Yes, you can use stock photos for memes. However, you need to obtain them from royalty-free stock photo providers such as Shutterstock and Pexels. In addition, ensure you understand the license requirements before using the photo.
 
 This is because not all stock photo providers offer their images with a creative commons license. For example, the Unsplash license allows you to use their stock images for personal or commercial use after making adjustments to the original.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Does copyright law protect memes?
 
 Yes, all memes are under copyright law, which means you have the authority to govern their use. Although identifying the meme owner can be challenging, posting or sharing a meme through your social media accounts without consent violates copyright law. Therefore, only use stock image memes from verified stock content providers like Shutterstock, where the license provisions are clear.
@@ -160,3 +190,43 @@ Therefore, always perform stock image reverse searches to verify the image permi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-select-8-android-apps-combining-free-and-paid-video-collages/"><u>[New] Select 8 Android Apps  Combining Free and Paid Video Collages</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-essential-guide-to-video-hue-correction-11-steps/"><u>[New] The Essential Guide to Video Hue Correction (11 Steps)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-premier-collection-of-ae-plugins-unveiled/"><u>[New] The Premier Collection of AE Plugins Unveiled</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tips-labeling-footage-with-text-via-photos-app-win-11/"><u>[New] Tips  Labeling Footage with Text via Photos App (Win 11)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-10-zoom-tips-for-efficient-chromebook-use/"><u>[New] Top 10 Zoom Tips for Efficient Chromebook Use</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-edit-suite-apps-and-devices-tools-listed/"><u>[New] Top Edit Suite (Apps & Devices) Tools Listed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-ranked-comedic-image-editor/"><u>[New] Top-Ranked Comedic Image Editor</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-5-best-dvd-creators-for-macos-sierra/"><u>[Updated] 5 Best DVD Creators for macOS Sierra</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-facebooks-top-additions-for-savvy-users-unveiled-for-2024/"><u>[Updated] Facebook's Top Additions for Savvy Users Unveiled for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-rhythmic-reels-how-to-pick-beats-for-ig-content-for-2024/"><u>[Updated] Rhythmic Reels  How to Pick Beats for IG Content for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-superb-culmination-for-vr-journeys/"><u>[Updated] Superb Culmination for VR Journeys</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-final-cut-professionals-guide-to-top-10-plug-ins/"><u>[Updated] The Final Cut Professional's Guide to Top 10 Plug-Ins</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transforming-videos-from-low-to-high-dynamic-range/"><u>[Updated] Transforming Videos From Low to High Dynamic Range</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-the-full-potential-of-tiktok-with-zoom-video-sharing/"><u>[Updated] Unlocking the Full Potential of TikTok with Zoom Video Sharing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-android-slow-motion-video-magic/"><u>2024 Approved  The Ultimate Guide to Android Slow Motion Video Magic</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-free-video-playback-vlc-or-mpc/"><u>2024 Approved  The Ultimate Guide to Free Video Playback  VLC or MPC?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-professional-color-grading-top-11/"><u>2024 Approved  The Ultimate Guide to Professional Color Grading (Top 11)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-tier-mobile-cloud-space-hacks-for-android/"><u>2024 Approved  Top-Tier Mobile Cloud Space Hacks for Android</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tricks-to-increase-viewership-on-your-tiktok-unboxing-sessions/"><u>2024 Approved  Tricks to Increase Viewership on Your TikTok Unboxing Sessions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-updated-inquiry-collection-for-podcast-appeal/"><u>2024 Approved  Updated Inquiry Collection for Podcast Appeal</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/5-less-obvious-benefits-that-bilingualism-brings/"><u>5 Less Obvious Benefits That Bilingualism Brings</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-zte-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on ZTE .</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/cultivating-cash-by-critiquing-consumer-commodities-online/"><u>Cultivating Cash by Critiquing Consumer Commodities Online</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-a-lost-apple-iphone-11-for-free-drfone-by-drfone-virtual-ios/"><u>How to Track a Lost Apple iPhone 11 for Free? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Apple iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamlined-processes-for-exporting-video-assets-as-mp3-on-pinterest/"><u>In 2024, Streamlined Processes for Exporting Video Assets as MP3 on Pinterest</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-syncing-social-statuses-seamless-insertion-of-linktree-into-tiktok-profiles/"><u>In 2024, Syncing Social Statuses  Seamless Insertion of Linktree Into TikTok Profiles</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-essentials-navigating-whatsapp-call-functionality/"><u>In 2024, The Essentials  Navigating WhatsApp Call Functionality</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-top-free-video-editors-compatible-with-32-bit-windows/"><u>In 2024, Top Free Video Editors Compatible with 32-Bit Windows</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-tiktoks-potential-changing-your-profile-number/"><u>In 2024, Unlocking TikTok's Potential  Changing Your Profile Number</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unmatched-8-visual-effects-for-smooth-live-videos/"><u>In 2024, Unmatched 8 Visual Effects for Smooth Live Videos</u></a></li>
+<li><a href="https://techidaily.com/is-your-vivo-x-flip-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Vivo X Flip working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-boost-your-logic-pro-x-projects-with-these-indispensable-plugin-choices/"><u>New In 2024, Boost Your Logic Pro X Projects with These Indispensable Plugin Choices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-your-mac-display-utilizing-picture-in-picture-multimedia-features-for-2024/"><u>Transform Your Mac Display  Utilizing Picture in Picture Multimedia Features for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiled-top-6-tools-to-purify-signature-images-online-for-2024/"><u>Unveiled  Top 6 Tools to Purify Signature Images Online for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-wonders-mastering-firefox-x-pie-mode-for-2024/"><u>Unveiling the Wonders  Mastering Firefox X-Pie Mode for 2024</u></a></li>
+</ul></div>

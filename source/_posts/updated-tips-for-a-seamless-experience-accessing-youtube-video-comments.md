@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Tips for a Seamless Experience  Accessing YouTube Video Comments\""
-date: 2024-06-04T04:41:01.001Z
-updated: 2024-06-05T04:41:01.001Z
+date: 2024-07-22T04:26:50.460Z
+updated: 2024-07-23T04:26:50.460Z
 tags: 
   - screen-recording
   - ai video
@@ -22,12 +22,18 @@ All social media has a comment section where in those who watch or follow you ar
 
 If you are a content creator who makes product reviews, the comment section is also one that will help the brand. Most brands want to have a voice on matters that affect them. The most powerful way to do that on YouTube is to make amazing videos on topics dear to your heart. But you don't want people to think of you as merely a broadcaster. Social media requires that you be social and make intelligent comments on your videos and those of others, showing that you are trying, and engaging with your audience.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to view comments on youtube](https://images.wondershare.com/filmora/article-images/2022/11/how-to-view-comments-on-youtube.jpg)
 
 Unfortunately, when it comes to comment, YouTube can be a little clunky and time consuming especially as your channel grows and you have more comments to respond to.
 
 Want to become the master of moderation? Read on for everything you need to know about comments on YouTube, and get that conversation going. This is another article to help you make the best out of your YouTube channel.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ## What is YouTube Comment
 
 YouTube comments are an opportunity for the site's 1.7 million unique monthly visitors to share what they love, hate or simply must troll. It's like the internet own personal Thunderdome, but while it can be a place for negativity, YouTube comments can also be a powerful opportunity for positive community building and engagement.
@@ -72,6 +78,9 @@ To manage your comments on YouTube using a PC, the operating system does not mat
 
 Step1 Open your chosen browser, head to YouTube, then sign in to your Google/YouTube account if not already signed in.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![sign in youtube account](https://images.wondershare.com/filmora/article-images/2022/11/sign-in-youtube-account.jpg)
 
 Step2 On the YouTube homepage, click on the three horizontal parallel lines in the top-left corner. A drop down menu appears, including the trending videos of the day, your subscriptions and your settings.
@@ -82,6 +91,9 @@ Step3 From the drop down menu, select “History”.
 
 Step4 On the right side under the “Manage all history” section, click on “comments”.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![manage all history comments youtube](https://images.wondershare.com/filmora/article-images/2022/11/manage-all-history-comments-youtube.jpg)
 
 Step5 To edit your comment, click on the “vertical ellipsis” (three vertical dots) on the far right side of the listed video page.
@@ -96,6 +108,10 @@ For example, you might click on a notification, and YouTube takes you to a parti
 
 Each time YouTube adds the “highlighted comment” or “highlighted reply” tags to a video, they create a unique URL. The version of the comment that you see uses this newly generated URL. Therefore, the only way to make these labels disappear (apart from reading the new comments) is to remove the addition to the URL.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Why Deleting YouTube Comments?
 
 If you consume a lot of YouTube content, you've likely posted hundreds or even thousands of comments on various channels. You might want to:
@@ -114,6 +130,9 @@ Comments history also contains the link to the video where you've left the comme
 
 ![delete unwanted youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/delete-unwanted-youtube-comments.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 YouTube allows users to view and edit all the comments they have made on YouTube videos on both desktop and mobile apps. You can also edit or delete the comment if you so wish However you cannot delete any comments you made on YouTube from the Google my Activity page. It can be done from within the YouTube app only.
@@ -149,3 +168,54 @@ One way you can encourage people to leave comments on your videos is to finish t
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-interactive-media-meets-brand-partnerships-on-youtube/"><u>[New] Interactive Media Meets Brand Partnerships on YouTube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-m1-marvel-a-new-wave-of-smooth-and-efficient-editing/"><u>[New] M1 Marvel  A New Wave of Smooth and Efficient Editing</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-shade-adjustments-simplified-learn-with-these-11-guides/"><u>[New] Shade Adjustments Simplified - Learn with These 11 Guides</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-influence-elevating-messaging-on-telegram/"><u>[New] The Art of Influence  Elevating Messaging on Telegram</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-essentials-of-writing-amazing-end-of-episode-scripts/"><u>[New] The Essentials of Writing Amazing End-of-Episode Scripts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-missing-links-to-proper-window-11-mastery-revealed-here/"><u>[New] The Missing Links to Proper WINDOW 11 Mastery Revealed Here</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-secrets-of-getting-up-close-in-roblox-environments/"><u>[New] The Secrets of Getting Up Close in Roblox Environments</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-applying-luts-in-obs-streaming/"><u>[New] The Ultimate Guide to Applying LUTs in OBS Streaming</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-top-15-windows-10-recording-applications-reviewed/"><u>[New] Top 15 Windows 10 Recording Applications Reviewed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-tier-hdr-camera-selection-made-easy/"><u>[New] Top-Tier HDR Camera Selection Made Easy</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tutorial-triumphant-skyrocketing-your-youtube-presence/"><u>[New] Tutorial Triumphant  Skyrocketing Your YouTube Presence</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-10-apps-to-elevate-your-picture-grids/"><u>[Updated] 10 Apps to Elevate Your Picture Grids</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-turbocharged-triumphs-unveiling-five-pinnacle-racer-simulators/"><u>[Updated] In 2024, Turbocharged Triumphs  Unveiling Five Pinnacle Racer Simulators</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-ultimate-6-contemporary-mojave-home-layouts-for-2024/"><u>[Updated] Ultimate 6 Contemporary Mojave Home Layouts for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unblemished-visuals-buying-high-quality-images/"><u>[Updated] Unblemished Visuals  Buying High-Quality Images</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-speedy-streams-the-noobs-snapchat-guide/"><u>[Updated] Unlocking Speedy Streams  The Noob’s Snapchat Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-secrets-of-iphone-podcast-integration/"><u>[Updated] Unveiling the Secrets of iPhone Podcast Integration</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-vivo-v27-pro-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Vivo V27 Pro</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-from-speech-to-storage-the-recorders-pathway/"><u>2024 Approved  From Speech to Storage  The Recorder's Pathway</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-masterful-windows-10-top-new-apps-and-game-lineup-revealed/"><u>2024 Approved  Masterful Windows 10  Top New Apps & Game Lineup Revealed</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-proven-techniques-to-enhance-subscriber-count-with-effective-channel-branding/"><u>2024 Approved  Proven Techniques to Enhance Subscriber Count with Effective Channel Branding</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamlining-production-processes-a-magix-video-pro-x-perspective/"><u>2024 Approved  Streamlining Production Processes  A Magix Video Pro X Perspective</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-swiftly-convert-creepy-slow-videos-with-best-apps/"><u>2024 Approved  Swiftly Convert Creepy-Slow Videos with Best Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-sync-music-and-visuals-the-art-of-canva-editing/"><u>2024 Approved  Sync Music & Visuals  The Art of Canva Editing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-reverse-trick-in-android-filmmaking/"><u>2024 Approved  The Reverse Trick in Android Filmmaking</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-steps-to-youtube-to-mpeg-conversion/"><u>2024 Approved  Top 10 Steps to YouTube-to-MPEG Conversion</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transcoding-excellence-from-xml-ssa-to-srt-mastery/"><u>2024 Approved  Transcoding Excellence  From XML, SSA to SRT Mastery</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-the-modern-workspace-into-a-powerhouse-of-productivity/"><u>2024 Approved  Transforming the Modern Workspace Into a Powerhouse of Productivity</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleashing-creativity-making-photo-based-videos-using-pixiz/"><u>2024 Approved  Unleashing Creativity  Making Photo-Based Videos Using Pixiz</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unrivaled-vr-sets-for-aerial-adventures/"><u>2024 Approved  Unrivaled VR Sets for Aerial Adventures</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-vegas-pro-2021-reviewed-a-sports-betting-journey/"><u>2024 Approved  Vegas Pro 2021 Reviewed – A Sports Betting Journey</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-best-video-to-live-photos-apps/"><u>2024 Approved Best Video to Live Photos Apps</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/harmonizing-cityscapes-and-nature-the-role-of-green-spaces-for-2024/"><u>Harmonizing Cityscapes and Nature  The Role of Green Spaces for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-start-join-or-schedule-a-zoom-meeting-android/"><u>How to Start, Join, or Schedule a Zoom Meeting Android</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-honor-play-7t-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Honor Play 7T to New Phone | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-does-itools-virtual-location-not-work-on-apple-iphone-15-proipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does iTools virtual location not work On Apple iPhone 15 Pro/iPad? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-complete-guide-to-mastering-polarrs-image-precision/"><u>In 2024, The Complete Guide to Mastering Polarr's Image Precision</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleash-video-potential-top-4k-downloader-apps-reviewed/"><u>In 2024, Unleash Video Potential  Top 4K Downloader Apps Reviewed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-art-of-digital-cropping-on-websites/"><u>In 2024, Unveiling the Art of Digital Cropping on Websites</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-unveiling-top-tier-seeds-for-optimal-growth-in-valheim/"><u>In 2024, Unveiling Top-Tier Seeds for Optimal Growth in Valheim</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-iphone-as-a-portable-game-hub/"><u>Maximizing iPhone as a Portable Game Hub</u></a></li>
+<li><a href="https://some-skills.techidaily.com/navigating-the-landscape-of-digital-grading-tools-for-2024/"><u>Navigating the Landscape of Digital Grading Tools for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-vlc-trimming-on-mac-made-simple-preserve-video-integrity-and-quality/"><u>New In 2024, VLC Trimming on Mac Made Simple Preserve Video Integrity and Quality</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/rapid-growth-on-youtube-harnessing-the-potential-of-outros/"><u>Rapid Growth on YouTube  Harnessing the Potential of Outros</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-new-wave-of-youtube-channel-titles-perfect-for-vloggers-limited-to-156-characters-for-2024/"><u>The New Wave of YouTube Channel Titles  Perfect for Vloggers (Limited to 156 Characters) for 2024</u></a></li>
+</ul></div>

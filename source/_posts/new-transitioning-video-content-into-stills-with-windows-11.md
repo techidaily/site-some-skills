@@ -1,7 +1,7 @@
 ---
 title: "[New] Transitioning Video Content Into Stills with Windows 11"
-date: 2024-06-20T00:34:23.843Z
-updated: 2024-06-21T00:34:23.843Z
+date: 2024-07-22T07:22:24.737Z
+updated: 2024-07-23T07:22:24.737Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/ecd5393b4b11cd27ce9b151fec19432ec4c563d2b
 
 # How to Save Photo from Video in Windows 10 Photos App
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -54,16 +57,26 @@ These photos are stored in the ‘Pictures’ folder of your computer having ‘
 * Tap on a living image > press the ‘right arrow’ and ‘left arrow’ to advance or reverse the frames.
 * Hit the ‘slider’ for manually adjusting the frames > tap ‘Save a photo’ for a desired frame you need to save.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/start-save-photos-from-video.jpg)
 
 * This image will be saved as ‘LI\_Moment’ file in your Pictures folder by default.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Why I can’t save photo from video
 
 In case, you are not able to save photos from video on Windows 10 Photos App. There might be issues with an outdated [Microsoft OS patch update](https://support.microsoft.com/en-us/help/311047/how-to-keep-your-windows-computer-up-to-date) or the Microsoft account is having any problem. But, you don’t have to worry about the same.
 
 We are explaining the solutions here –
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### 1\. Check the update
 
 Click on ‘Start’ > ‘Settings’ > ‘Update & Security’ > ‘Windows Updates’ > ‘Check for Updates’ > ‘Update Available’. When update is available, go ahead and follow the prompts to get the update.
@@ -82,6 +95,9 @@ Here comes the guide –
 * Now, run the java applet and just hit the camera icon to capture shots.
 * See your mouse cursor appear like a blue crosshair. Hold down the mouse and drag to select the parts of the video you wish to shoot. While moving the mouse, you can see that the application window is covered with a blue border. You can capture the window by clicking there.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/screenshot-take-photo.jpg)
 
 * Once the image is captured, the editing tool bar is visible. It allows you to enhance the image to great extent.
@@ -91,6 +107,9 @@ Here comes the guide –
 
 We provided you some knowledge on how to save a photo from video Windows 10 Photos. Out of the multiple ways to save photos from videos, you can try what suits you best. If you want to go for a desktop based application, then Windows Photos serves you best. But, when you want to get things done online, you can pick ScreenShot for that matter. Hope you liked our efforts!
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -107,3 +126,61 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-how-to-access-hidden-social-media-recommendations/"><u>[New] How to Access Hidden Social Media Recommendations</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-enhancing-social-media-reach-with-tweets-in-video-form-insta-style/"><u>[New] In 2024, Enhancing Social Media Reach with Tweets in Video Form, Insta Style</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-iphone-cinematography-guide-8-insider-secrets-to-professional-video-creation/"><u>[New] IPhone Cinematography Guide  8 Insider Secrets to Professional Video Creation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-resizing-imagery-on-iphone-without-hassle/"><u>[New] Resizing Imagery on iPhone Without Hassle</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamline-your-footage-iphones-shortening-methods/"><u>[New] Streamline Your Footage  IPhone's Shortening Methods</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-checklist-for-fpv-drone-propeller-selection/"><u>[New] The Ultimate Checklist for FPV Drone Propeller Selection</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-8-mobile-tools-transforming-slow-mo-to-fast-forward/"><u>[New] Top 8 Mobile Tools Transforming Slow Mo to Fast-Forward</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-twilight-crusaders-the-darkened-knight-vs-the-shining-one/"><u>[New] Twilight Crusaders  The Darkened Knight vs the Shining One</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-two-keys-to-intriguing-tiktok-videos/"><u>[New] Two Keys to Intriguing TikTok Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-virtual-world-cinema-lineup/"><u>[New] Ultimate Virtual World Cinema Lineup</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-drone-racings-secrets-and-surpassing-fpv-drones/"><u>[New] Unveiling Drone Racing's Secrets & Surpassing FPV Drones</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-6-best-video-grabbers-for-mac-for-2024/"><u>[Updated] 6 Best Video Grabbers for Mac for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-channel-success-metrics-subscriber-and-play-buttons-for-2024/"><u>[Updated] Channel Success Metrics  Subscriber & Play Buttons for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-finest-unboxing-content-15-top-ranked-youtube-vids/"><u>[Updated] The Finest Unboxing Content  15 Top-Ranked YouTube Vids</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-10-picture-frames-and-organizers/"><u>[Updated] Top 10 Picture Frames & Organizers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleash-the-beats-try-these-free-web-scanners/"><u>[Updated] Unleash the Beats  Try These Free Web Scanners</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleash-the-full-potential-of-your-hdr-images-with-lightroom/"><u>[Updated] Unleash the Full Potential of Your HDR Images with Lightroom</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleash-your-creativity-effective-techniques-for-crafting-podcast-scripts/"><u>[Updated] Unleash Your Creativity  Effective Techniques for Crafting Podcast Scripts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unmask-the-tricks-of-photo-and-video-upload-in-win11/"><u>[Updated] Unmask the Tricks of Photo & Video Upload in Win11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-secrets-of-lightroom-on-android-platforms/"><u>[Updated] Unveiling the Secrets of Lightroom on Android Platforms</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-avoiding-pitfalls-in-submitting-to-apple/"><u>2024 Approved  Avoiding Pitfalls in Submitting to Apple</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-creating-captivating-podcast-launch-screens/"><u>2024 Approved  Creating Captivating Podcast Launch Screens</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigate-video-trimming-with-ease-on-windows-11-photos/"><u>2024 Approved  Navigate Video Trimming with Ease on Windows 11 Photos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-synergy-of-style-and-functionality-in-ae-plugins/"><u>2024 Approved  Synergy of Style and Functionality in AE Plugins</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-comedy-codex-choosing-your-meme-companion/"><u>2024 Approved  The Comedy Codex  Choosing Your Meme Companion</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-efficient-way-to-grab-all-episodes-on-your-idevice/"><u>2024 Approved  The Efficient Way to Grab All Episodes on Your iDevice</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tick-tock-tally-calculating-pewdiepies-cash/"><u>2024 Approved  Tick-Tock Tally  Calculating PewDiePie’s Cash</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-5-mac-videography-tools-unleashed-in-sierra-os/"><u>2024 Approved  Top 5 Mac Videography Tools Unleashed in Sierra OS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transform-your-beats-with-free-dji-luts-for-minis-and-air-devices/"><u>2024 Approved  Transform Your Beats with Free DJI LUTs for Minis & Air Devices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-understanding-the-price-tag-on-youtube-promo/"><u>2024 Approved  Understanding the Price Tag on Youtube Promo</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-hidden-treasure-of-royalty-free-graphics/"><u>2024 Approved  Unveiling the Hidden Treasure of Royalty-Free Graphics</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-poco-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Poco Phones with/without a PC</u></a></li>
+<li><a href="https://review-topics.techidaily.com/huawei-nova-y91-video-recovery-recover-deleted-videos-from-huawei-nova-y91-by-fonelab-android-recover-video/"><u>Huawei Nova Y91 Video Recovery - Recover Deleted Videos from Huawei Nova Y91</u></a></li>
+<li><a href="https://apple-account.techidaily.com/icloud-separation-how-to-disconnect-iphone-14-pro-max-and-ipad-by-drfone-ios/"><u>iCloud Separation How To Disconnect iPhone 14 Pro Max and iPad</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-free-filmora-download-without-viruses-or-malware-expert-advice/"><u>In 2024, Free Filmora Download without Viruses or Malware Expert Advice</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-toolkit-for-editors-magix-video-pro-x-review/"><u>In 2024, The Ultimate Toolkit for Editors  Magix Video Pro X Review</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-timeless-stop-motion-films-a-celebratory-15-list/"><u>In 2024, Timeless Stop-Motion Films - A Celebratory 15 List</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tropical-tango-toucan/"><u>In 2024, Tropical Tango Toucan</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlock-15-simple-vlog-inspirations-today/"><u>In 2024, Unlock 15 Simple Vlog Inspirations Today</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-the-full-potential-of-vlc-media-player-on-mac/"><u>In 2024, Unlocking the Full Potential of VLC Media Player on Mac</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-what-are-the-best-sites-to-download-text-effects/"><u>In 2024, What Are The Best Sites To Download Text Effects?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/live-stream-on-youtube-without-1000-subscribers-on-a-mobile-for-2024/"><u>Live Stream on YouTube without 1000 Subscribers on a Mobile for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-the-secret-to-a-stunning-facebook-video-cover-size-and-optimization-hacks/"><u>New 2024 Approved The Secret to a Stunning Facebook Video Cover Size and Optimization Hacks</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-4-ways-to-sync-audio-to-video-automatically-in/"><u>New In 2024, 4 Ways to Sync Audio to Video Automatically In</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-unlock-your-dvds-a-beginners-guide-to-converting-to-digital-video-formats/"><u>New In 2024, Unlock Your DVDs A Beginners Guide to Converting to Digital Video Formats</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/revolutionize-design-with-the-top-tier-plugins-for-ae-for-2024/"><u>Revolutionize Design with the Top-Tier Plugins for AE for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/step-by-step-placing-titles-on-video-clips-with-windows-photos-for-2024/"><u>Step-by-Step  Placing Titles on Video Clips with Windows Photos for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/stop-real-time-footage-gathering-quickstep-guide-for-2024/"><u>Stop Real-Time Footage Gathering  QuickStep Guide for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-crafting-viral-video-content-on-youtube-for-2024/"><u>The Art of Crafting Viral Video Content on YouTube for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-10-extensions-for-speeding-up-facebook-videos-effortlessly-for-2024/"><u>Top 10 Extensions for Speeding up Facebook Videos Effortlessly for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-your-ideas-into-impactful-podcast-content-writing-tips-and-samples-for-2024/"><u>Transform Your Ideas Into Impactful Podcast Content  Writing Tips & Samples for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-shot-recording-camcorders-for-the-hunt-for-2024/"><u>Ultimate Shot-Recording Camcorders for the Hunt for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-vivocut-guide-for-enhanced-video-creation-for-2024/"><u>Ultimate VivoCut Guide for Enhanced Video Creation for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-discover-the-best-3d-video-editing-programs-for-professionals/"><u>Updated 2024 Approved Discover the Best 3D Video Editing Programs for Professionals</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-pro-tools-compared-an-in-depth-look-at-the-top-alternative-audio-recording-platforms/"><u>Updated Pro Tools Compared An In-Depth Look at the Top Alternative Audio Recording Platforms</u></a></li>
+</ul></div>

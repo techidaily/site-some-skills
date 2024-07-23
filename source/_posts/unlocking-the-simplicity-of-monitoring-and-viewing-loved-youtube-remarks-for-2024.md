@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Simplicity of Monitoring and Viewing Loved YouTube Remarks for 2024"
-date: 2024-06-04T04:05:16.627Z
-updated: 2024-06-05T04:05:16.627Z
+date: 2024-07-22T04:04:48.451Z
+updated: 2024-07-23T04:04:48.451Z
 tags: 
   - screen-recording
   - ai video
@@ -65,6 +65,9 @@ Given how many students have smartphones, video is an excellent medium for conne
 
 ![](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to See Liked Comments on YouTube?
 
 YouTube is a service that is available for free, and it may be a terrific place for teenagers to find interest. Many young people use YouTube to watch comedy shows, how-to videos, recipes, hacks, and music videos. Teenagers also use the video-sharing platform to subscribe to other YouTubers and famous personalities and to follow their favorite vloggers (video bloggers).
@@ -81,6 +84,9 @@ But, if you want to retrace the videos you commented on and the videos/comments 
 
 Step1 Click on your Google Account icon and find **Your data in YouTube**.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![find your data in youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-your-data-in-youtube.jpg)
 
 Step2 Scroll down a little bit and click the **More** button.
@@ -89,6 +95,9 @@ Step2 Scroll down a little bit and click the **More** button.
 
 Step3 Click the **Comments** section.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![click comments your youtube dashboard](https://images.wondershare.com/filmora/article-images/2022/11/click-comments-your-youtube-dashboard.jpg)
 
 Now you will see your comment history, including the date when you commented on a certain video and also the exact comment you posted.
@@ -99,18 +108,31 @@ To see videos/comments you liked or disliked, please follow these steps as conti
 
 Step4 In the **Google My Activity** tab, click **Other activity**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ![other activity youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/other-activity-youtube-comments.jpg)
 
 Step5 Scroll down and find **Comment Likes and Dislikes on YouTube** section. Click **View Comment Likes and Dislikes**.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![your comment likes and dislikes](https://images.wondershare.com/filmora/article-images/2022/11/your-comment-likes-and-dislikes.jpg)
 
 Now you will see the videos you liked or disliked and also the comments you liked or disliked, including the date when you liked or disliked the video/comment.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![date likes videos youtube](https://images.wondershare.com/filmora/article-images/2022/11/date-likes-videos-youtube.jpg)
 
 This article tells you that you can't see who liked or disliked a comment, but you can see how many likes or dislikes a comment got. Then go to any video you want, scroll down to the comment section, and see how many likes or dislikes a comment received.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![likes comment received](https://images.wondershare.com/filmora/article-images/2022/11/likes-comment-received.jpg)
 
 In this image, the following comments only got likes and no dislikes. That is why there are just written numbers on the like button and on the dislike button there are none.
@@ -185,3 +207,44 @@ Additionally, video creators can manually highlight commenters to mark them for 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-discover-9-free-whole-film-festive-movie-gems-on-youtube/"><u>[New] 2024 Approved  Discover 9 Free, Whole-Film Festive Movie Gems on Youtube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-chromatic-chameleons-playbook-for-masters/"><u>[New] The Chromatic Chameleon's Playbook for Masters</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-fundamentals-of-starting-an-instantaneous-broadcast/"><u>[New] The Fundamentals of Starting an Instantaneous Broadcast</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-soundtrack-strategy-amplifying-unboxing-content/"><u>[New] The Soundtrack Strategy  Amplifying Unboxing Content</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-free-hilarious-memetic-art/"><u>[New] The Ultimate Guide to Free, Hilarious Memetic Art</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unleash-your-creativity-the-leading-phone-apps-for-image-stickers/"><u>[New] Unleash Your Creativity  The Leading Phone Apps for Image Stickers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-velocity-for-the-visionary-quick-frame-android-tools/"><u>[New] Velocity for the Visionary  Quick-Frame Android Tools</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-enhance-snapchat-stories-with-these-top-6-mobile-editors/"><u>[Updated] 2024 Approved  Enhance Snapchat Stories with These Top 6 Mobile Editors</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-boost-your-tiktok-visibility-a-list-of-popular-username-choices-for-2024/"><u>[Updated] Boost Your TikTok Visibility  A List of Popular Username Choices for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-how-to-delete-or-deactivate-an-instagram-account-permanently/"><u>[Updated] In 2024, How to Delete or Deactivate An Instagram Account Permanently</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-innovative-gb-recorder-for-games-on-fbx-for-2024/"><u>[Updated] Innovative GB Recorder for Games on FBX for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-photo-background-removal-techniques/"><u>2024 Approved  Mastering Photo Background Removal Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-playstation-experience-transform-your-voice/"><u>2024 Approved  The PlayStation Experience  Transform Your Voice</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-editors-secret-best-free-premiere-pro-resources/"><u>2024 Approved  Top Editors' Secret  Best FREE Premiere Pro Resources</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-free-easy-to-use-srt-translation-services-explored/"><u>2024 Approved  Top Free, Easy-to-Use SRT Translation Services Explored</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-mundane-titles-into-visual-marvels-with-ae/"><u>2024 Approved  Transforming Mundane Titles Into Visual Marvels with AE</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transitioning-from-sierra-to-legacy-os-el-capitan/"><u>2024 Approved  Transitioning From Sierra To Legacy OS - El Capitan</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-energy-kits-for-hero5-official-and-alternative-products/"><u>2024 Approved  Ultimate Energy Kits for Hero5 - Official & Alternative Products</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-reddit-winners-a-collection-of-best-posts/"><u>2024 Approved  Ultimate Reddit Winners  A Collection of Best Posts</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/6-proven-ways-to-unlock-google-pixel-8-pro-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Google Pixel 8 Pro Phone When You Forget the Password</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/essential-tips-for-gameplay-screen-shotting-on-playstation-4/"><u>Essential Tips for Gameplay Screen Shotting on PlayStation 4</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/exploring-genres-a-collection-of-15-innovative-musician-focused-videos-for-2024/"><u>Exploring Genres  A Collection of 15 Innovative Musician-Focused Videos for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-tutorial-to-bypass-your-realme-note-50-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Realme Note 50 Face Lock?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-infinix-hot-40i-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Infinix Hot 40i to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-unlock-your-iphone-11-learn-all-4-methods-drfone-by-drfone-ios/"><u>In 2024, How Do You Unlock your iPhone 11? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-premium-commercial-cloud-vaulting-services/"><u>In 2024, Premium Commercial Cloud Vaulting Services</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-taking-comedy-to-the-digital-frontier-your-gif-creation-roadmap/"><u>In 2024, Taking Comedy to the Digital Frontier  Your GIF Creation Roadmap</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tamil-tunes-steps-for-ringtones-and-editing-songs-as-alerts/"><u>In 2024, Tamil Tunes  Steps for Ringtones & Editing Songs as Alerts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-blueprint-for-gathering-free-pictorial-video-files/"><u>In 2024, The Blueprint for Gathering Free Pictorial Video Files</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-timeless-tones-a-compendium-of-quality-sound-sites/"><u>In 2024, Timeless Tones  A Compendium of Quality Sound Sites</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-realme-note-50-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultrafine-in-action-an-extended-review-of-lgs-4k-display/"><u>In 2024, UltraFine in Action  An Extended Review of LG’s 4K Display</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unaltered-audio-through-the-lens-of-ffmpeg-review/"><u>In 2024, Unaltered Audio Through the Lens of FFmpeg Review</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unified-brand-presence-across-digital-platforms/"><u>In 2024, Unified Brand Presence Across Digital Platforms</u></a></li>
+<li><a href="https://some-skills.techidaily.com/perfect-your-podcast-sound-editing-techniques-in-garageband-for-2024/"><u>Perfect Your Podcast Sound  Editing Techniques in GarageBand for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/winos-bsod-remedy-wdf-blue-screen-anomaly/"><u>WinOS BSOD: Remedy WDF Blue Screen Anomaly</u></a></li>
+</ul></div>

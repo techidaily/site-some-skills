@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Unleashing Potential in AR  Applying LUT Techniques\""
-date: 2024-06-04T02:28:42.920Z
-updated: 2024-06-05T02:28:42.920Z
+date: 2024-07-22T03:05:11.047Z
+updated: 2024-07-23T03:05:11.047Z
 tags: 
   - screen-recording
   - ai video
@@ -28,6 +28,9 @@ To develop AR effects for mobile cameras, you can use the Mac and Windows augmen
 
 ![create a color gradient effect](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2\. How to use LUTs in Spark AR?
 
 **How to apply a color LUT to the whole scene in Spark AR:**
@@ -52,6 +55,23 @@ A patch graph is automatically set that applies a color LUT to the entire scene.
 
 The patch graph that renders the color gradation effect looks like this:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ![color lut patch graph](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-3.jpg)
 
 **To create the effect:**
@@ -68,6 +88,9 @@ Here are the best free LUTs resources for Spark AR:
 
 Client filter pieces occasionally end up on the scrap heap. It was a poor Frost Zombie in this instance. Since this is one of my simpler filters, I felt it was okay to publish the build information. Four objects make up much of the scene: an EyeColor block, a custom canvas segmentation, a face mesh, and an emitter for the breath mist (my personal favorite). To show the layers used in generating the primary zombie texture, I also moved to Substance Painter. This is a demonstration of my methods rather than a step-by-step manual.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![frost zombie](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-4.jpg)
 
 ### 2\. Fur
@@ -81,18 +104,31 @@ Here are the key building principles.
 * Height is generated from a single grayscale channel.
 * No fur is generated in the black areas of the height texture.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fur](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. Shockwave
 
 Even while using large image sequences is frequently discouraged, you can still use them to make some extremely spectacular effects! I'll explain how the screen tap computation procedure relates to texture position in this walkthrough. If you want to apply this approach and texture sequence in your projects or give it a try.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ![shockwave](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-6.jpg)
 
 ### 4\. Transition Curves
 
 There are 11 distinct animation curves included with Spark AR in the Transition patch. Here is a helpful visual aid because it might be challenging to distinguish between a quartic and a quintic when working on a project. With the SDF circle doubled (to sharpen the edge) and inserted into the Patch Pack's alpha channel, the circles are likewise straightforward rectangles. Since RGB values are three times one, the object is white.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![transition curves](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-7.jpg)
 
 ### 5\. Realistic Smoke
@@ -101,10 +137,16 @@ By adding smoke to a scene, you can easily add a lot of detail and realism. Noth
 
 ![realistic smoke](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 6\. Rainbow Glitter
 
 Given how beautifully Glitter Rain was received, I believed it would be fitting to broaden the potential with an HDR setting. While Glitter Rain made use of two different colors, this technique makes use of an entirely colorless substance and gets its color information via HDR.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![rainbow glitter](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-9.jpg)
 
 ### Closing Thoughts
@@ -140,3 +182,50 @@ Spark AR is an amazing website for LUTs and color grading. Whether you're a new 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-premier-imagery-unboxing-analysis/"><u>[New] 2024 Approved  Premier Imagery Unboxing Analysis</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-easy-steps-to-rotate-video-in-vlc/"><u>[New] Easy Steps to Rotate Video in VLC</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-excellent-windows-compatible-video-recorders/"><u>[New] Excellent Windows-Compatible Video Recorders</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-master-your-message-15-powerful-snap-ideas/"><u>[New] In 2024, Master Your Message  15 Powerful Snap Ideas</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-techniques-for-fascinating-vlog-dialogue-structure/"><u>[New] Techniques for Fascinating Vlog Dialogue Structure</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-new-bird-bebops-parrot-as-a-flight-marvel-review/"><u>[New] The New Bird  Bebop’s Parrot as a Flight Marvel Review</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-pro-drone-experience-a-thorough-look-at-dji-phantom-4/"><u>[New] The Pro Drone Experience  A Thorough Look at DJI Phantom 4</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transform-films-activate-xp-movie-maker-now/"><u>[New] Transform Films, Activate XP Movie Maker Now</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transformative-srt-to-txt-guide-for-time-saving/"><u>[New] Transformative SRT to TXT Guide for Time-Saving</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-step-by-step-tutorial-for-using-ez-grabber-like-a-pro/"><u>[Updated] 2024 Approved  Step-by-Step Tutorial for Using EZ Grabber Like a Pro</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-elevate-your-chuckles-kapwings-meme-designer-for-2024/"><u>[Updated] Elevate Your Chuckles  Kapwing's Meme Designer for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-step-up-your-gameplay-our-list-of-top-12-pc-clicker-games/"><u>[Updated] In 2024, Step Up Your Gameplay  Our List of Top 12 PC Clicker Games</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-unmatched-fun-awaits-in-our-top-12-pc-clicker-games-list/"><u>[Updated] In 2024, Unmatched Fun Awaits in Our Top 12 PC Clicker Games List</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-settled-unseen-videos-a-fix/"><u>[Updated] Settled  Unseen Videos - A Fix</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-full-picture-editpro-suite-review-of-2023/"><u>[Updated] The Full Picture  EditPro Suite Review of 2023</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-ps4ps5-voice-modification-handbook/"><u>[Updated] The Ultimate PS4/PS5 Voice Modification Handbook</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2023-facebook-video-downloader-application-for-mobilewinmac/"><u>2023 | Facebook Video Downloader Application for Mobile/Win/Mac</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-deep-windows-11-know-how-importing-media-like-a-pro/"><u>2024 Approved  Deep Windows 11 Know-How  Importing Media Like a Pro</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-foremost-6-online-spaces-dominating-b2b-interactions/"><u>2024 Approved  Foremost 6 Online Spaces Dominating B2B Interactions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-captioning-images-with-text/"><u>2024 Approved  The Art of Captioning Images with Text</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-best-sites-for-chromium-phone-tunes/"><u>2024 Approved  The Best Sites for Chromium Phone Tunes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-secret-to-love-in-video-editing-filmoras-best-aspects/"><u>2024 Approved  The Secret to Love in Video Editing  Filmora's Best Aspects</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-oneplus-ace-2v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-the-language-of-asmr-videos-for-2024/"><u>Decoding the Language of ASMR Videos for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-from-apple-iphone-15-plus-by-drfone-ios/"><u>How To Create an Apple Developer Account From Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Infinix Zero 5G 2023 Turbo? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-nextgencams-investigation-pushing-the-envelope-further/"><u>In 2024, NextGenCams Investigation  Pushing the Envelope Further</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-screenplay-structure-unveiled/"><u>In 2024, The Screenplay Structure Unveiled</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-the-ultimate-list-of-legit-safe-follower-sources/"><u>In 2024, The Ultimate List of Legit, Safe Follower Sources</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tune-your-status-on-whatsapp/"><u>In 2024, Tune Your Status on WhatsApp</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-guide-mastering-color-correction-and-grading/"><u>In 2024, Ultimate Guide  Mastering Color Correction & Grading</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleash-your-devices-potential-how-to-download-and-customize-whatsapp-ringtones/"><u>In 2024, Unleash Your Device's Potential  How to Download and Customize WhatsApp Ringtones</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-top-webm-to-mp3-converters-for-seamless-audio-conversion/"><u>New In 2024, Top WebM to MP3 Converters for Seamless Audio Conversion</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/racing-rivals-clash-black-gopro-vs-ghost-s-drift-edition/"><u>Racing Rivals Clash  Black GoPro Vs. Ghost-S Drift Edition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/textual-transformation-in-adobe-after-effects-for-2024/"><u>Textual Transformation in Adobe After Effects for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-artisan-writes-crafting-hdr-magic-with-iphone-for-2024/"><u>The Artisan’ Writes  Crafting HDR Magic with iPhone for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-zoom-video-enhancement-playbook-for-2024/"><u>The Ultimate Zoom Video Enhancement Playbook for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-11-brain-boosting-trivia-shows-for-24-for-2024/"><u>Top 11 Brain-Boosting Trivia Shows for '24 for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-top-5-drones-experts-choice-revealed-for-2024/"><u>Ultimate Top 5 Drones - Expert's Choice Revealed for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-premiere-pro-full-screen-magic-for-2024/"><u>Unlocking Premiere Pro Full-Screen Magic for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-secrets-to-smm-mastery-a-comprehensive-guide-in-10-stages-for-2024/"><u>Unveiling the Secrets to SMM Mastery  A Comprehensive Guide in 10 Stages for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-conversation-guide-for-podcast-enthusiasts-for-2024/"><u>Updated Conversation Guide for Podcast Enthusiasts for 2024</u></a></li>
+</ul></div>

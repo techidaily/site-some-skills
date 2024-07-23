@@ -1,7 +1,7 @@
 ---
 title: "[New] Taking Solo Shots From Videos in Windows 10 Photos Interface"
-date: 2024-06-04T06:29:35.839Z
-updated: 2024-06-05T06:29:35.839Z
+date: 2024-07-22T05:32:48.359Z
+updated: 2024-07-23T05:32:48.359Z
 tags: 
   - screen-recording
   - ai video
@@ -54,20 +54,38 @@ These photos are stored in the ‘Pictures’ folder of your computer having ‘
 * Tap on a living image > press the ‘right arrow’ and ‘left arrow’ to advance or reverse the frames.
 * Hit the ‘slider’ for manually adjusting the frames > tap ‘Save a photo’ for a desired frame you need to save.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/start-save-photos-from-video.jpg)
 
 * This image will be saved as ‘LI\_Moment’ file in your Pictures folder by default.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ## Part 2: Why I can’t save photo from video
 
 In case, you are not able to save photos from video on Windows 10 Photos App. There might be issues with an outdated [Microsoft OS patch update](https://support.microsoft.com/en-us/help/311047/how-to-keep-your-windows-computer-up-to-date) or the Microsoft account is having any problem. But, you don’t have to worry about the same.
 
 We are explaining the solutions here –
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ### 1\. Check the update
 
 Click on ‘Start’ > ‘Settings’ > ‘Update & Security’ > ‘Windows Updates’ > ‘Check for Updates’ > ‘Update Available’. When update is available, go ahead and follow the prompts to get the update.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ### 2\. Sign in a different account in Microsoft Store
 
 You got to login with another Microsoft account to access Microsoft Store. It might be your existing Microsoft Store account undergoing some issues. This in turn might be affecting the Photos app from acting properly. Therefore, signing in a different account will help.
@@ -82,6 +100,23 @@ Here comes the guide –
 * Now, run the java applet and just hit the camera icon to capture shots.
 * See your mouse cursor appear like a blue crosshair. Hold down the mouse and drag to select the parts of the video you wish to shoot. While moving the mouse, you can see that the application window is covered with a blue border. You can capture the window by clicking there.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/screenshot-take-photo.jpg)
 
 * Once the image is captured, the editing tool bar is visible. It allows you to enhance the image to great extent.
@@ -91,6 +126,9 @@ Here comes the guide –
 
 We provided you some knowledge on how to save a photo from video Windows 10 Photos. Out of the multiple ways to save photos from videos, you can try what suits you best. If you want to go for a desktop based application, then Windows Photos serves you best. But, when you want to get things done online, you can pick ScreenShot for that matter. Hope you liked our efforts!
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -131,10 +169,16 @@ These photos are stored in the ‘Pictures’ folder of your computer having ‘
 * Tap on a living image > press the ‘right arrow’ and ‘left arrow’ to advance or reverse the frames.
 * Hit the ‘slider’ for manually adjusting the frames > tap ‘Save a photo’ for a desired frame you need to save.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/start-save-photos-from-video.jpg)
 
 * This image will be saved as ‘LI\_Moment’ file in your Pictures folder by default.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Why I can’t save photo from video
 
 In case, you are not able to save photos from video on Windows 10 Photos App. There might be issues with an outdated [Microsoft OS patch update](https://support.microsoft.com/en-us/help/311047/how-to-keep-your-windows-computer-up-to-date) or the Microsoft account is having any problem. But, you don’t have to worry about the same.
@@ -149,6 +193,9 @@ Click on ‘Start’ > ‘Settings’ > ‘Update & Security’ > ‘Windows Upd
 
 You got to login with another Microsoft account to access Microsoft Store. It might be your existing Microsoft Store account undergoing some issues. This in turn might be affecting the Photos app from acting properly. Therefore, signing in a different account will help.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: Alternative way to save photo from video
 
 When you want to save photo from video Windows 10 Photos but fail to do so, you can look for alternate ways that are fruitful. ‘ScreenShot’ is an online tool that enables you to capture and edit anything popping up on your screen. From webpages, windows, media files, menus, objects, to webcams, you can literally capture anything. It supports Mac, Windows PC, Android devices etc. it supports AVI, FLV, MPEG, WMV, MOV, and MKV files and enables you to add shapes, texts, lines, arrows, and stylish effects while editing the captured images. You can even upload images to cloud or social networking sites like Facebook, Google Plus, Twitter etc. The pictures are saved in JPG, PNG, BMP, GIF, and TIFF format on your computer. Automatic video capture at fixed intervals is also supported.
@@ -168,6 +215,9 @@ Here comes the guide –
 
 We provided you some knowledge on how to save a photo from video Windows 10 Photos. Out of the multiple ways to save photos from videos, you can try what suits you best. If you want to go for a desktop based application, then Windows Photos serves you best. But, when you want to get things done online, you can pick ScreenShot for that matter. Hope you liked our efforts!
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -200,3 +250,51 @@ Follow @Shanoon Cox
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-explore-the-best-and-easiest-youtube-to-mp3-conversion-tech/"><u>[New] Explore the Best (and Easiest) YouTube-to-Mp3 Conversion Tech</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-stream-power-showdown-vmix-clashes-with-wirecast-for-broadcast-excellence/"><u>[New] Stream Power Showdown  VMix Clashes with Wirecast for Broadcast Excellence</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamline-your-windows-11-photo-videos/"><u>[New] Streamline Your Windows 11 Photo Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-subtle-volume-lessening-masterclass-using-lumafusion/"><u>[New] Subtle Volume Lessening Masterclass Using Lumafusion</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-beginners-guide-to-editing-content-on-windows-11/"><u>[New] The Beginner's Guide to Editing Content on Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-complete-how-to-for-incorporating-media-onto-your-youtube-shelves/"><u>[New] The Complete How-To for Incorporating Media Onto Your YouTube Shelves</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-easy-way-to-spot-and-view-trending-youtube-feedback/"><u>[New] The Easy Way to Spot and View Trending YouTube Feedback</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-filmmakers-key-to-cohesion-mastering-kinemaster-edits/"><u>[New] The Filmmaker's Key to Cohesion  Mastering Kinemaster Edits</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-split-between-panoramic-and-virtual-realities/"><u>[New] The Split Between Panoramic & Virtual Realities</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-list-of-superior-cloud-services/"><u>[New] The Ultimate List of Superior Cloud Services</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unleash-your-pcs-hidden-treasures-with-new-windows-10-games/"><u>[New] Unleash Your PC’s Hidden Treasures with New Windows 10 Games</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-upgrading-made-easy-your-guide-to-smooth-tech-transitions/"><u>[New] Upgrading Made Easy  Your Guide to Smooth Tech Transitions</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-elevate-views-not-video-length-expert-guide-to-yt-desc-templates/"><u>[Updated] In 2024, Elevate Views, Not Video Length  Expert Guide to YT Desc Templates</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-overcoming-stalled-transmission-of-videos-tips-for-successful-sharing-in-messenger-app/"><u>[Updated] In 2024, Overcoming Stalled Transmission of Videos  Tips for Successful Sharing in Messenger App</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-quantity-of-videos-on-128gb-storage-media/"><u>[Updated] Quantity of Videos on 128GB Storage Media</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-revolutionize-visual-storytelling-by-incorporating-cg-centrals-look-up-tables-luts/"><u>[Updated] Revolutionize Visual Storytelling by Incorporating CG Central's Look-Up Tables (Luts)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-chromatic-chameleons-playbook-for-masters/"><u>[Updated] The Chromatic Chameleon's Playbook for Masters</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-complete-blueprint-adding-professional-effects-to-your-videos/"><u>[Updated] The Complete Blueprint  Adding Professional Effects to Your Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-realms-rhythms-top-sites-ranked-for-game-of-thrones-audio-calls/"><u>[Updated] The Realm's Rhythms  Top Sites Ranked for Game of Thrones Audio Calls</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-toontech-full-evaluation-and-how-to-guide-24/"><u>[Updated] ToonTech Full Evaluation & How-To Guide '24</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-10-essential-gratuitous-lut-downloads-of-the-year/"><u>[Updated] Top 10 Essential, Gratuitous LUT Downloads of the Year</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-samsung-galaxy-m14-5g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Samsung Galaxy M14 5G</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-amplify-your-shorts-impact-with-bespoke-thumbnails/"><u>2024 Approved  Amplify Your Shorts' Impact with Bespoke Thumbnails</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-ultimate-speech-logging-for-mac-our-top-5-list-unveiled/"><u>2024 Approved  Ultimate Speech Logging for Mac  Our Top 5 List Unveiled</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-using-big-data-techniques-to-revolutionize-market-research-insights/"><u>2024 Approved  Using Big Data Techniques to Revolutionize Market Research Insights</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/discovering-one-platform-play-in-apex-legends-without-cross-play-complications-for-2024/"><u>Discovering One-Platform Play in Apex Legends Without Cross-Play Complications for 2024</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/how-to-make-animated-videos-for-business-simple-guide-for-2024/"><u>How to Make Animated Videos for Business Simple Guide for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-realme-v30-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Realme V30 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-journey-to-the-heart-of-windows-11s-newest-gems/"><u>In 2024, Journey to the Heart of Windows 11'S Newest Gems</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamline-your-podcasts-for-apple-podcasts/"><u>In 2024, Streamline Your Podcasts for Apple Podcasts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-portable-media-players-uncovered/"><u>In 2024, Top Portable Media Players Uncovered</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unravel-complex-video-editing-a-complete-android-guide/"><u>In 2024, Unravel Complex Video Editing  A Complete Android Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/in-place-upgrade-mastery-simplify-your-transition-to-windows-11/"><u>In-Place Upgrade Mastery: Simplify Your Transition to Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/pay-attention-focus-fully-on-the-speaker-avoid-distractions-and-show-interest-in-what-theyre-saying-for-2024/"><u>Pay Attention  Focus Fully on the Speaker, Avoid Distractions, and Show Interest in What They're Saying for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-plating-on-camera-food-video-production-guide-for-2024/"><u>The Art of Plating on Camera  Food Video Production Guide for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-comprerancial-onestream-approach-to-online-streaming-for-2024/"><u>The Comprerancial OneStream Approach to Online Streaming for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-secrets-of-editing-numerical-data-in-tiktoks-for-2024/"><u>The Secrets of Editing Numerical Data in TikToks for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-therapeutic-effects-of-asmr-for-everyone-for-2024/"><u>The Therapeutic Effects of ASMR for Everyone for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-mac-users-guide-to-utilizing-preview-to-its-maximum-for-2024/"><u>The Ultimate Mac User's Guide to Utilizing Preview to Its Maximum for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transforming-video-conferencing-with-zoom-and-youtube-for-impactful-live-events-for-2024/"><u>Transforming Video Conferencing with Zoom and YouTube for Impactful Live Events for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleashing-creativity-building-a-memorable-podcast-name-for-2024/"><u>Unleashing Creativity  Building a Memorable Podcast Name for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-6-premium-background-erasers-for-photo-professionals-for-2024/"><u>Unveiling 6 Premium Background Erasers for Photo Professionals for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-whatsapp-status-video-creator-tools-free-and-paid-options/"><u>Updated WhatsApp Status Video Creator Tools Free and Paid Options</u></a></li>
+<li><a href="https://games-able.techidaily.com/versatile-techniques-for-steam-revival/"><u>Versatile Techniques for Steam Revival</u></a></li>
+</ul></div>

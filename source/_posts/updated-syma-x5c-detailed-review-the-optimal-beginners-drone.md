@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Syma X5C Detailed Review  The Optimal Beginner's Drone\""
-date: 2024-06-04T01:36:08.049Z
-updated: 2024-06-05T01:36:08.049Z
+date: 2024-07-22T02:31:46.984Z
+updated: 2024-07-23T02:31:46.984Z
 tags: 
   - screen-recording
   - ai video
@@ -34,6 +34,18 @@ thumbnail: https://www.lifewire.com/thmb/WmEO2R_lpuDAQHe_dC_yjMNO5iM=/400x300/fi
 
 **You may also like:** [Drone racing: Things You need to Know and Top 5 best FPV racing drones >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Pros and Cons of Syma X5C
 
 **Pros:**
@@ -60,6 +72,9 @@ thumbnail: https://www.lifewire.com/thmb/WmEO2R_lpuDAQHe_dC_yjMNO5iM=/400x300/fi
 
  There are so many incredible features inside Syma X5C that make it suitable device for [aerial photography](https://tools.techidaily.com/wondershare/filmora/download/). The intuitive controls are much easier to explore even for beginners. The remote control is user friendly and all other latest features make it a must buy product for drone lovers.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Complete Review for Syma X5C
 
 #### 1\.  Basic Specs Info
@@ -89,12 +104,19 @@ thumbnail: https://www.lifewire.com/thmb/WmEO2R_lpuDAQHe_dC_yjMNO5iM=/400x300/fi
 
 #### 5. Control Range
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![syma x5c controller](https://images.wondershare.com/filmora/article-images/syma-x5c-controller.jpg)
 
  The remote unit or transmitter works with a 2.4GHz frequency setting with 4 channel type control. It helps pilots to enjoy wider flying range with spread spectrum technology. The maximum flying range falls between 30 to 50 meters and no lags have been reported yet in control selection and quadcopter reactions. Using flip switch, you can directly adjust the movements in air.
 
 #### 6\.  Camera
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![syma x5c camera](https://images.wondershare.com/filmora/article-images/syma-x5c-camera.jpg)
 
  Syma H5C camera is rated as moderately stable and it is capable enough to take impressive pictures from air. This device is equipped with a 2GB MicroSD card that offers personal storage space to all recorded videos and images. The sad part is here that controller unit of this device is able to send signals to drone only; it cannot control the camera actions. Thus your camera stays focused in only one direction all the time and have fixed focus during shoots. You cannot apply zoom, direction sensing inputs or focus adjustment controls when your device is in air. If you are searching for a highly controlled footage generator then it is good to go for other Phantom series and other competing models as per your budget. But Syma H5C is really a good choice to start with.
@@ -149,6 +171,9 @@ Follow @Max Wales
 
  There are so many incredible features inside Syma X5C that make it suitable device for [aerial photography](https://tools.techidaily.com/wondershare/filmora/download/). The intuitive controls are much easier to explore even for beginners. The remote control is user friendly and all other latest features make it a must buy product for drone lovers.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Complete Review for Syma X5C
 
 #### 1\.  Basic Specs Info
@@ -178,6 +203,9 @@ Follow @Max Wales
 
 #### 5. Control Range
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![syma x5c controller](https://images.wondershare.com/filmora/article-images/syma-x5c-controller.jpg)
 
  The remote unit or transmitter works with a 2.4GHz frequency setting with 4 channel type control. It helps pilots to enjoy wider flying range with spread spectrum technology. The maximum flying range falls between 30 to 50 meters and no lags have been reported yet in control selection and quadcopter reactions. Using flip switch, you can directly adjust the movements in air.
@@ -192,6 +220,9 @@ Follow @Max Wales
 
  Syma's X5C can be included in the list of must buy product for beginners due to its all incredible features. If you are a beginner and are just going to learn about flight basics then this advanced camera unit can serve you best with all impressive controls. Its sleek design along with feature rich platform offers lots of things to explore in air. You will definitely love to enjoy its regular and expert mode settings with unique flight experiences.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -224,3 +255,55 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-discover-how-to-thrive-in-tiktok-lives-from-desktop-for-2024/"><u>[New] Discover How to Thrive in TikTok Lives From Desktop for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-subtract-and-add-quick-srt-to-sub/"><u>[New] Subtract and Add  Quick SRT to SUB</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-comprehen-word-limit-reached-continuation-in-the-next-step/"><u>[New] The Comprehen... (Word Limit Reached, Continuation in the Next Step)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-game-screens-for-ps5-and-xbox-series-x-revealed/"><u>[New] Top Game Screens for PS5 and Xbox Series X Revealed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-screenplay-scribblers-hub/"><u>[New] Top Screenplay Scribblers Hub</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-pursuing-passion-professionally-a-guide-for-aspiring-designers/"><u>[Updated] In 2024, Pursuing Passion Professionally  A Guide for Aspiring Designers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-instantaneous-windows-document-reviewing/"><u>[Updated] Instantaneous Windows Document Reviewing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-complete-guide-transforming-movie-visuals-using-standardized-luts-from-cg-central/"><u>[Updated] The Complete Guide  Transforming Movie Visuals Using Standardized Luts From CG Central</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-comprehensive-blueprint-to-powerdirectors-full-potential/"><u>[Updated] The Comprehensive Blueprint to PowerDirector's Full Potential</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-handbook-for-vr-travelers/"><u>[Updated] The Ultimate Handbook for VR Travelers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-zen-of-sleep-curated-asmr-vocalists/"><u>[Updated] The Zen of Sleep  Curated ASMR Vocalists</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-voice-modification-tools-essential-choices-for-vtuber-creators/"><u>[Updated] Top Voice Modification Tools  Essential Choices for VTuber Creators</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unclutter-your-layout-expertly-remove-backgrounds-in-figma/"><u>[Updated] Unclutter Your Layout  Expertly Remove Backgrounds in Figma</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-effortless-fb-video-creation-best-20-free-tools-unveiled/"><u>2024 Approved  Effortless FB Video Creation  Best 20 Free Tools Unveiled</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-navigate-the-world-of-digital-humor-with-our-gif-guide/"><u>2024 Approved  Navigate the World of Digital Humor with Our GIF Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-6-apps-for-creating-film-captions-in-various-languages/"><u>2024 Approved  Top 6 Apps for Creating Film Captions in Various Languages</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-the-full-potential-of-group-video-conferencing-on-your-android-device-zoom/"><u>2024 Approved  Unlock the Full Potential of Group Video Conferencing on Your Android Device (Zoom)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-secrets-of-zoom-success/"><u>2024 Approved  Unveiling the Secrets of Zoom Success</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-venturing-into-virtual-studio-technology-vst-world/"><u>2024 Approved  Venturing Into Virtual Studio Technology (VST) World</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/achieving-prominence-with-apples-listings/"><u>Achieving Prominence with Apple's Listings</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-on-apple-iphone-14-pro-by-drfone-ios/"><u>How To Remove the Two Factor Authentication On Apple iPhone 14 Pro</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-6s-plus-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 6s Plus to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-mastering-soft-melodies-pcos-guide/"><u>In 2024, Mastering Soft Melodies  PC/OS Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-navigating-the-latest-pro-cams-for-full-spheres/"><u>In 2024, Navigating the Latest Pro Cams for Full Spheres</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-strategies-for-bulk-tiktok-video-acquisition/"><u>In 2024, Strategies for Bulk TikTok Video Acquisition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-strategies-for-structuring-an-efficient-collaborative-office-environment/"><u>In 2024, Strategies for Structuring an Efficient, Collaborative Office Environment</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-techniques-for-non-linear-eq-curves/"><u>In 2024, Techniques for Non-Linear EQ Curves</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-artisans-guide-to-cropping-and-soundscaping-in-canvas/"><u>In 2024, The Artisan's Guide to Cropping and Soundscaping in Canvas</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-complete-iphone-audio-downloading-manual/"><u>In 2024, The Complete iPhone Audio Downloading Manual</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-quick-guide-to-innovative-voice-personalization-techniques/"><u>In 2024, The Quick Guide to Innovative Voice Personalization Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-the-power-of-pip-videos-with-sierras-os-advantages/"><u>In 2024, Unleashing the Power of PIP Videos with Sierra's OS Advantages</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-optimal-zoom-features-in-google-meet-webinars/"><u>In 2024, Unlocking Optimal Zoom Features in Google Meet Webinars</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-secrets-of-facetune-a-comprehensive-review/"><u>In 2024, Unveiling the Secrets of Facetune  A Comprehensive Review</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-premium-selection-complimentary-internet-services-for-sound-normalization/"><u>New 2024 Approved Premium Selection Complimentary Internet Services for Sound Normalization</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-to-add-motion-blur-effect-to-photos-in-gimp-for-2024/"><u>New How To Add Motion Blur Effect To Photos in GIMP for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-c65-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco C65 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/soothing-country-beats-20-must-hear-songs-to-unwind/"><u>Soothing Country Beats  20 Must-Hear Songs to Unwind</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-complete-playbook-to-conquer-spotify-advertising-for-2024/"><u>The Complete Playbook to Conquer Spotify Advertising for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-path-to-outstanding-interviewer-expertise-for-2024/"><u>The Path to Outstanding Interviewer Expertise for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/timing-your-podcasts-impactful-debut-for-2024/"><u>Timing Your Podcast's Impactful Debut for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-picks-streaming-tunes-directly-from-youtuberingtones-for-2024/"><u>Top Picks  Streaming Tunes Directly From YoutubeRingtones for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-text-to-trendy-memes-kapwings-magic-tool-for-2024/"><u>Transform Text to Trendy Memes - Kapwing’s Magic Tool for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/uhd-precision-converter-clearer-sharper-visuals-for-2024/"><u>UHD Precision Converter  Clearer, Sharper Visuals for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-8-filtration-options-for-professional-streams-for-2024/"><u>Ultimate 8 Filtration Options for Professional Streams for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleash-creativity-no-cost-high-quality-text-psds-for-2024/"><u>Unleash Creativity  No-Cost, High-Quality Text PSDs for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleashing-win11s-potential-with-zoom-conferencing-for-2024/"><u>Unleashing Win11's Potential with Zoom Conferencing for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-social-media-success-a-comprehensive-10-step-plan-for-2024/"><u>Unlock Social Media Success  A Comprehensive 10-Step Plan for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-the-full-potential-of-your-iphone-photos-for-2024/"><u>Unlock the Full Potential of Your iPhone Photos for 2024</u></a></li>
+</ul></div>

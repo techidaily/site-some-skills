@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Ultimate Storage Solution for Sony A7S II"
-date: 2024-06-04T04:18:01.433Z
-updated: 2024-06-05T04:18:01.433Z
+date: 2024-07-22T04:12:41.848Z
+updated: 2024-07-23T04:12:41.848Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/c097990fd37784ce6293a6224fb832fd4d9a7841c
 
 # Best Memory Card for Sony A7S II
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -30,6 +33,9 @@ thumbnail: https://thmb.techidaily.com/c097990fd37784ce6293a6224fb832fd4d9a7841c
 
  The article below can help you to select right memory cards for your Sony A7S II camera:
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to choose the right memory card for your Sony A7S II
 
 #### Section 1: UHS (Ultra High Speed) Card Classification
@@ -67,6 +73,9 @@ thumbnail: https://thmb.techidaily.com/c097990fd37784ce6293a6224fb832fd4d9a7841c
 * Note that there is no money saving deal in memory card price ranges. When you go to buy a 128GB memory card it will naturally cost same as if you buy two 64GB cards.
 * The SD cards are small sized, compact units so whether you carry a 64GB card in your pocket or choose a 128GB package, none of these are going to put additional weight on your pocket.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Best Memory Cards for Sony A7S II
 
 #### 1. Sony 64GB High Performance Class 10 UHS-1/U3 SDXC
@@ -105,6 +114,9 @@ thumbnail: https://thmb.techidaily.com/c097990fd37784ce6293a6224fb832fd4d9a7841c
 * Extreme Pro is compatible with SDXC devices.
 * Ensures perfect results for Full HD, 3D and 4K resolution levels.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -121,6 +133,9 @@ Follow @Max Wales
 
  The article below can help you to select right memory cards for your Sony A7S II camera:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ## How to choose the right memory card for your Sony A7S II
 
 #### Section 1: UHS (Ultra High Speed) Card Classification
@@ -158,6 +173,9 @@ Follow @Max Wales
 * Note that there is no money saving deal in memory card price ranges. When you go to buy a 128GB memory card it will naturally cost same as if you buy two 64GB cards.
 * The SD cards are small sized, compact units so whether you carry a 64GB card in your pocket or choose a 128GB package, none of these are going to put additional weight on your pocket.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Best Memory Cards for Sony A7S II
 
 #### 1. Sony 64GB High Performance Class 10 UHS-1/U3 SDXC
@@ -228,3 +246,38 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-finding-your-footprint-in-the-world-of-youtube-comments/"><u>[New] 2024 Approved  Finding Your Footprint in the World of YouTube Comments</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-video-conferencing-a-complete-guide-to-zoom-on-android/"><u>[New] Mastering Video Conferencing  A Complete Guide to Zoom on Android</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-rated-zero-price-after-effects-samples/"><u>[Updated] Top-Rated, Zero-Price After Effects Samples</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-hues-handbook-theory-meets-technique/"><u>[Updated] Ultimate Hues Handbook  Theory Meets Technique</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-the-secrets-of-effective-job-interview-techniques/"><u>[Updated] Unlocking the Secrets of Effective Job Interview Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-top-9-webcam-filters-for-professional-streamers/"><u>[Updated] Unveiling Top 9 Webcam Filters for Professional Streamers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streaming-wars-the-ultimate-twitch-vs-youtube-battle/"><u>2024 Approved  Streaming Wars  The Ultimate Twitch Vs. YouTube Battle</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-taking-flight-to-better-photos-an-intensive-look-at-dji-sparks-miniature-design/"><u>2024 Approved  Taking Flight to Better Photos  An Intensive Look at DJI Spark's Miniature Design</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-complete-windows-11-audio-record-process/"><u>2024 Approved  The Complete Windows 11 Audio Record Process</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-freelancers-guide-to-affordable-animation-methods/"><u>2024 Approved  The Freelancer's Guide to Affordable Animation Methods</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-dimming-down-soundtracks-in-premiere-pro/"><u>2024 Approved  The Ultimate Guide to Dimming Down Soundtracks in Premiere Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-manual-to-creating-engaging-ae-heads-ups/"><u>2024 Approved  The Ultimate Manual to Creating Engaging AE Heads-Ups</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-music-choices-for-captivating-video-experiences/"><u>2024 Approved  Top Music Choices for Captivating Video Experiences</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transform-into-a-hdr-photography-wizard-via-photoshop/"><u>2024 Approved  Transform Into a HDR Photography Wizard via Photoshop</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-choice-top-mp4-players-unveiled/"><u>2024 Approved  Ultimate Choice  Top MP4 Players Unveiled</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-converters-handbook-from-srt-to-multiple-formats/"><u>2024 Approved  Ultimate Converter's Handbook  From SRT to Multiple Formats</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-workshop-designers-app/"><u>2024 Approved  Ultimate Workshop Designer's App</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-the-secret-to-exceptional-time-lapse-videos-on-galaxy/"><u>2024 Approved  Unlock the Secret to Exceptional Time-Lapse Videos on Galaxy</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Tecno Spark 20C? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-live-streaming-showdown-obs-vs-wirecast-faceoff/"><u>In 2024, Live Streaming Showdown  OBS vs Wirecast Faceoff</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-superlative-frame-storyteller-bundle/"><u>In 2024, Superlative Frame Storyteller Bundle</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tailoring-trailer-music-to-evoke-emotion/"><u>In 2024, Tailoring Trailer Music to Evoke Emotion</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-complete-guide-to-adding-video-filter-magic-to-zoom-meetings/"><u>In 2024, The Complete Guide to Adding Video Filter Magic to Zoom Meetings</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-unveiling-secrets-of-effortless-screen-sharing-in-meet/"><u>In 2024, Unveiling Secrets of Effortless Screen Sharing in Meet</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-ultimate-guide-on-making-a-slideshow-video/"><u>New 2024 Approved Ultimate Guide on Making A Slideshow Video</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>Reasons why Pokémon GPS does not Work On Apple iPhone 14? | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/slowing-down-gif-with-the-best-available-methods-for-2024/"><u>Slowing Down GIF With The Best Available Methods for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/smooth-transition-altering-snapchat-videos-tempo-for-2024/"><u>Smooth Transition  Altering Snapchat Videos' Tempo for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/utilizing-luts-for-enhanced-color-correction-in-pscc-for-2024/"><u>Utilizing LUTs for Enhanced Color Correction in PSCC for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/xiaomis-precision-flight-insights-via-4k-lens/"><u>Xiaomi's Precision Flight Insights via 4K Lens</u></a></li>
+</ul></div>

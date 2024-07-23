@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Ultimate Guide  Clearing Out the Unwanted Space Around Images with Affinity\""
-date: 2024-06-04T06:52:52.332Z
-updated: 2024-06-05T06:52:52.332Z
+date: 2024-07-22T05:46:55.306Z
+updated: 2024-07-23T05:46:55.306Z
 tags: 
   - screen-recording
   - ai video
@@ -22,10 +22,17 @@ Affinity Photo is an image editor developed by Serif Ltd. in 2009 and is used by
 
 No matter you are a professional content creator or a newbie, we'll be discussing how to remove background in Affinity Photo. Let's explore how to use the good editing tool to be free of the stressful editing process.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Remove Affinity Photo to Remove Image's Background
 
 Affinity Photo is a simple and easy-to-use editing software, and you can remove a background in it under two scenarios: remove a white or a busy background.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ### How to Erase a White Background in Affinity Designer
 
 To erase a white background in Affinity Designer, do these steps:
@@ -42,6 +49,10 @@ Step2 Go to the **"Layers"** tab in the right pane, right-click your layer, and 
 
 Step3 To make a selection around your subject, first enable the **"Snap To Edges"** and **"Soft Edges"** feature from the top toolbar. This will help you automatically detect the edges and give it a more tapered finish.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![enabling snap to edges and soft edges in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/enabling-snap-to-edges-and-soft-edges-in-affinity-designer.png)
 
 Set your brush size using your keyboard's **left** and **right bracket** keys. Now, manually make a selection around your subject and white edges in the image as precisely as possible.
@@ -81,10 +92,17 @@ Step5 In this last step, you must deselect the outline around your subject. For 
 
 Finally, click **"File"** and select the **"Export"** option from the drop-down menu. Then, in the Export Settings menu, choose PNG and click **"Export"** to save your file on your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** To save your image with a transparent background, do not export it in JPG file format.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## The Best Alternative of Affinity Photo
 
 Since Affinity Photo is a desktop software available for a one-time purchase of $40.99, you might be looking for an online free alternative if you need more space or can afford the subscription fee.
@@ -109,6 +127,9 @@ Editing experts recommend Wondershare PixCut as the best alternative to many edi
 * Paid and customized accounts for premium benefits.
 * Customized categories that include e-commerce, car dealership, social media, graphic designing, personal, and marketing use.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 This article discusses **removing a background in Affinity Photo**, whether the image has a white or a busy BG.
@@ -143,3 +164,44 @@ Hopefully, this article and video can help you create ideal images!
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-decoding-watermarks-in-social-media-imagery/"><u>[New] 2024 Approved  Decoding Watermarks in Social Media Imagery</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-from-free-trial-to-premium-elite-your-roadmap-to-joining-disconitro/"><u>[New] From Free Trial to Premium Elite  Your Roadmap to Joining DiscoNitro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-periscope-streaming-made-simple/"><u>[New] Periscope Streaming Made Simple</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-fishermans-field-guide-to-prime-camers/"><u>[New] The Fisherman's Field Guide to Prime Camers</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ransform-your-streaming-enabling-av1-technology-in-youtube-for-2024/"><u>[New] Transform Your Streaming  Enabling AV1 Technology in YouTube for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-how-to-broadcast-videos-on-twitter-without-the-retweet-step/"><u>[Updated] 2024 Approved  How To Broadcast Videos on Twitter without the 'Retweet' Step</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-shedding-light-on-videography-excellence/"><u>[Updated] Shedding Light on Videography Excellence</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-struggle-to-cultivate-freshness-in-vr-realms/"><u>[Updated] The Struggle to Cultivate Freshness in VR Realms</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-trimming-techniques-understanding-video-crops-in-imovie/"><u>[Updated] Trimming Techniques  Understanding Video Crops in iMovie</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-tips-for-erasing-backgrounds-in-figma-design/"><u>[Updated] Ultimate Tips for Erasing Backgrounds in Figma Design</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-secrets-of-canon-timelapse-crafting/"><u>[Updated] Unveiling the Secrets of Canon Timelapse Crafting</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-groundbreaking-getaways-easy-builds-for-mc-beginners/"><u>2024 Approved  Groundbreaking Getaways  Easy Builds for MC Beginners</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-blueprint-for-stellar-unboxing-videos-on-tiktok/"><u>2024 Approved  The Blueprint for Stellar Unboxing Videos on TikTok</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-comprehensive-guide-to-metaverse-promotion/"><u>2024 Approved  The Comprehensive Guide to Metaverse Promotion</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-zeoid-startups-revealed-in-panzoids/"><u>2024 Approved  Top Zeoid Startups Revealed in Panzoids</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-total-clarification-googles-podcast-application-simplified/"><u>2024 Approved  Total Clarification  Google's Podcast Application Simplified</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transform-your-gaming-consoles-vocals-today/"><u>2024 Approved  Transform Your Gaming Consoles' Vocals Today</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-immersive-journeys-vr-tours-explained/"><u>2024 Approved  Unlocking Immersive Journeys  VR Tours Explained</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unraveling-virtual-realitys-interactive-gear/"><u>2024 Approved  Unraveling Virtual Reality's Interactive Gear</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ustream-live-and-comparable-platforms/"><u>2024 Approved  Ustream Live & Comparable Platforms</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-transform-your-digital-communication-implementing-the-clownfish-vocal-alteration-technique-in-discordfortniteskype-channels/"><u>2024 Approved Transform Your Digital Communication Implementing the Clownfish Vocal Alteration Technique in Discord/Fortnite/Skype Channels</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-revive-your-bricked-oppo-reno-10-proplus-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Oppo Reno 10 Pro+ 5G in Minutes | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-maximize-engagement-optimal-twitters-video-converters/"><u>In 2024, Maximize Engagement  Optimal Twitters Video Converters</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-perfecting-the-art-of-podcast-title-creation-essential-tips-and-inspirations/"><u>In 2024, Perfecting the Art of Podcast Title Creation  Essential Tips & Inspirations</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-podcast-prominence-with-powerful-seo-insights-and-strategies/"><u>In 2024, Podcast Prominence with Powerful SEO Insights and Strategies</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamline-viewing-learn-to-insert-timestamps-on-videos/"><u>In 2024, Streamline Viewing  Learn to Insert Timestamps on Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-essential-handbook-for-iphone-vr-viewing/"><u>In 2024, The Essential Handbook for iPhone VR Viewing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-uavs-explained-the-basics-of-drone-systems-and-operations/"><u>In 2024, UAVs Explained  The Basics of Drone Systems and Operations</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-camcorders-for-high-quality-podcasts/"><u>In 2024, Ultimate Camcorders for High-Quality Podcasts</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instagram-story-highlight-a-user-friendly-guide-for-2024/"><u>Instagram Story Highlight  A User-Friendly Guide for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-uncover-linguistic-groan-phenomenon/"><u>New 2024 Approved Uncover Linguistic Groan Phenomenon</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-lip-sync-mastery-unlock-the-power-of-these-5-amazing-apps/"><u>New In 2024, Lip Sync Mastery Unlock the Power of These 5 Amazing Apps</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-what-is-ai-influencer-for-2024/"><u>New What Is AI Influencer for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-sony-xperia-5-v-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Sony Xperia 5 V without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-webm-to-mp3-conversion-made-simple-top-10-online-tools/"><u>Updated WebM to MP3 Conversion Made Simple Top 10 Online Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/vanguard-designs-evaluation-studio-25-examined-current-year-for-2024/"><u>Vanguard Designs Evaluation  Studio 25 Examined, Current Year for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/vector-fundamentals-unpacked-for-novices-categories-and-software-for-2024/"><u>Vector Fundamentals Unpacked for Novices, Categories & Software for 2024</u></a></li>
+</ul></div>

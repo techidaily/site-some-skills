@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Transform Your Visual Storytelling with LUTs in AE"
-date: 2024-06-04T07:44:33.288Z
-updated: 2024-06-05T07:44:33.288Z
+date: 2024-07-22T06:18:41.408Z
+updated: 2024-07-23T06:18:41.408Z
 tags: 
   - screen-recording
   - ai video
@@ -42,6 +42,9 @@ Additionally, you will find recommendations on where to get the best after effec
 
 03 [How to use LUTs in After Effects](#part3)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Things to Know Before Using LUTs in After Effect
 
 Do you ever wonder why some Adobe After Effects videos look so great? Regardless of your experience with the software, here are the points to consider when using LUTs in After Effects.
@@ -50,6 +53,9 @@ Do you ever wonder why some Adobe After Effects videos look so great? Regardless
 
 If you are questioning why there lies your first challenge. You need to check the white balance of your creations because colors appear differently, depending on the lighting you use. As such, you need to adjust your white balance to suit conditions similar to when you made the video. For example, your settings should be between 4000 – 5000K if your light source is fluorescent.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![things to make sure before using luts in AE](https://images.wondershare.com/filmora/article-images/2022/03/after-effects-luts-2.jpg)
 
 Here is how you get the correct white balance when using Adobe After Effects.
@@ -67,12 +73,19 @@ For example, you need a wide-angle lens to have more depth in your videos. There
 
 Most creators often fail because of after effects luts overuse. Other factors to consider when creating are the location and timing. Your filming environment changes constantly. As such, you should always expect to make adjustments to ensure quality output.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![things to make sure before using luts in AE - match editing with source marterial](https://images.wondershare.com/filmora/article-images/2022/03/after-effects-luts-3.jpg)
 
 #### 3\. Settle on a creative style
 
 What makes David Fincher famous? His consistent use of desaturated and monochromatic colors in movies to perfection. Similarly, you need to choose a consistent theme for your creations. As such, you get better at it with subsequent creations.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## How to import LUTs in After Effect?
 
 Do you remember the thing about being unique earlier? You can import LUTs if you feel the presets are not to your standard. Plenty of custom ones are available as free downloads but more on that later. This is how to import LUTs in After Effects.
@@ -107,6 +120,9 @@ Now that you have a variety of Adobe After Effects LUTs at your disposal, here i
 5. Choose the LUT you want and press Open to apply the change.
 6. You can edit the LUT using the Effect Control Panel. The functions you need are on either side of the video.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![how to use luts in after effects](https://images.wondershare.com/filmora/article-images/2022/03/after-effects-luts-4.jpg)
 
 Adobe After Effects allows you to use LUTs on multiple clips. However, you need an adjustment layer for this to work. Here is how you enable the function.
@@ -141,6 +157,9 @@ Do you ever wonder why some Adobe After Effects videos look so great? Regardless
 
 If you are questioning why there lies your first challenge. You need to check the white balance of your creations because colors appear differently, depending on the lighting you use. As such, you need to adjust your white balance to suit conditions similar to when you made the video. For example, your settings should be between 4000 – 5000K if your light source is fluorescent.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![things to make sure before using luts in AE](https://images.wondershare.com/filmora/article-images/2022/03/after-effects-luts-2.jpg)
 
 Here is how you get the correct white balance when using Adobe After Effects.
@@ -158,6 +177,9 @@ For example, you need a wide-angle lens to have more depth in your videos. There
 
 Most creators often fail because of after effects luts overuse. Other factors to consider when creating are the location and timing. Your filming environment changes constantly. As such, you should always expect to make adjustments to ensure quality output.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![things to make sure before using luts in AE - match editing with source marterial](https://images.wondershare.com/filmora/article-images/2022/03/after-effects-luts-3.jpg)
 
 #### 3\. Settle on a creative style
@@ -232,3 +254,46 @@ Adobe After Effects allows you to use LUTs on multiple clips. However, you need 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-saving-movies-effortlessly-pc-mac-and-iosandroid/"><u>[New] 2024 Approved  Saving Movies Effortlessly  PC, Mac & iOS/Android</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-rise-of-popular-images-a-deep-dive-into-meme-culture/"><u>[New] The Rise of Popular Images  A Deep Dive Into Meme Culture</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-30-online-music-venues/"><u>[New] Top 30 Online Music Venues</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-twilight-tales-top-hdr-sky-captures-from-leading-portals/"><u>[New] Twilight Tales - Top HDR Sky Captures From Leading Portals</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-auditory-interface-win/"><u>[New] Ultimate Auditory Interface, WIN</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-srt-expertise-essential-insights/"><u>[New] Unlocking SRT Expertise  Essential Insights</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-upgrade-to-better-beats-with-these-top-free-analyzers/"><u>[New] Upgrade to Better Beats with These Top Free Analyzers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-reel-of-triumph-celebrating-fig-skaters-in-22/"><u>[Updated] Reel of Triumph - Celebrating Fig Skaters in '22</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-stylizing-strings-for-cinematic-results/"><u>[Updated] Stylizing Strings for Cinematic Results</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-fundamentals-of-creating-alluring-podcast-descriptions/"><u>[Updated] The Fundamentals of Creating Alluring Podcast Descriptions</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-the-future-is-in-your-cloud-price-rankings-and-bargains-2024/"><u>[Updated] The Future Is in Your Cloud  Price Rankings & Bargains 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-blueprint-for-memetic-virality/"><u>[Updated] The Ultimate Blueprint for Memetic Virality</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-large-scale-tiktok-content-acquisition/"><u>[Updated] The Ultimate Guide to Large-Scale TikTok Content Acquisition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-uncovering-top-tiktok-backdrops-quickly/"><u>[Updated] Uncovering Top TikTok Backdrops Quickly</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-the-full-potential-of-pc-sound-capture/"><u>[Updated] Unlocking the Full Potential of PC Sound Capture</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-ghostly-3-melee-golem-4s-challenge/"><u>2024 Approved  Ghostly 3 Melee  Golem 4'S Challenge</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-scriptwriting-essentials-for-authentic-and-engaging-documentaries/"><u>2024 Approved  Scriptwriting Essentials for Authentic and Engaging Documentaries</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-taking-command-with-custom-character-sounds-in-free-fire-no-expense-involved/"><u>2024 Approved  Taking Command with Custom Character Sounds in Free Fire - No Expense Involved</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-techniques-for-blurring-and-excising-picture-borders/"><u>2024 Approved  Techniques for Blurring and Excising Picture Borders</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-the-complete-checklist-for-remotely-podcasters-delight/"><u>2024 Approved  The Complete Checklist for Remotely Podcaster's Delight</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-essential-handbook-for-iphone-vr-viewing/"><u>2024 Approved  The Essential Handbook for iPhone VR Viewing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-podcasters-handbook-writing-strategies-and-sample-scripts-available-free/"><u>2024 Approved  The Podcaster's Handbook  Writing Strategies & Sample Scripts Available Free</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-premium-luts-available-for-free/"><u>2024 Approved  Top 10 Premium LUTs, Available for FREE</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-vivo-s17t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/expert-techniques-for-professionalizing-mobile-based-youtube-thumbnails-for-2024/"><u>Expert Techniques for Professionalizing Mobile-Based YouTube Thumbnails for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oppo-a58-4g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Oppo A58 4G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-tecno-spark-go-2023-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Tecno Spark Go (2023)?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-iphone-11-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking iPhone 11 Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://extra-support.techidaily.com/iphone-tricks-capturing-and-editing-high-speed-visual-storytelling-for-2024/"><u>IPhone Tricks  Capturing & Editing High-Speed Visual Storytelling for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-windows-gaming-on-apple-m1-via-crossover-command-center/"><u>Seamless Windows Gaming on Apple M1 via Crossover Command Center</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-essential-qanda-on-quantum-hdr-technology/"><u>The Essential Q&A on Quantum HDR Technology</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-in-depth-study-of-audafreedomaudiotools-for-2024/"><u>The In-Depth Study of AudaFreedomAudioTools for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-metaverse-and-omniverse-a-detailed-breakdown-for-2024/"><u>The Metaverse & Omniverse  A Detailed Breakdown for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-visual-journey-samsungs-ue590-reviewed-for-2024/"><u>The Ultimate Visual Journey - Samsung's UE590 Reviewed for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/toolwiz-explored-detailed-review-for-image-enthusiasts-for-2024/"><u>Toolwiz Explored  Detailed Review for Image Enthusiasts for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/top-10-premier-off-line-ipad-apps-for-pure-gaming-bliss/"><u>Top 10 Premier Off-Line iPad Apps for Pure Gaming Bliss</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-30-mobile-video-edits-using-dji-technology-for-2024/"><u>Top 30 Mobile Video Edits Using DJi Technology for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-tier-reddit-discussions-a-list-of-the-ten-greatest-for-2024/"><u>Top Tier Reddit Discussions - A List of the Ten Greatest for 2024</u></a></li>
+</ul></div>

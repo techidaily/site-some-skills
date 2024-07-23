@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top Affordable Panoramic Cameras Under $100\""
-date: 2024-06-04T02:27:37.672Z
-updated: 2024-06-05T02:27:37.672Z
+date: 2024-07-22T03:04:33.294Z
+updated: 2024-07-23T03:04:33.294Z
 tags: 
   - screen-recording
   - ai video
@@ -28,20 +28,32 @@ thumbnail: https://thmb.techidaily.com/e9711d2ba9e06d496671fabcb5c03dc2cfd9b4b1e
 
 If you want to try making your own 360-degree videos and pictures, you probably aren't looking for a top of the line camera. You're certainly not looking to drop thousands of dollars on one. Fortunately, there are some affordable options available to you.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 1\. [Ricoh Theta S](https://theta360.com/en/about/theta/s.html)
 
 First, an offering from Ricoh, the Ricoh Theta S. This pocket-sized camera costs around $350 and is super simple to use. It has exactly one button for taking photos or videos. The camera can connect via USB or HDMI, but is also Wi-Fi capable, allowing you to transfer footage to your iPhone. This camera shoots at 14 megapixels, and 30 fps. There are several apps associated with it: one allowing you to edit your videos, as well as one that acts as a live-view feed and remote control to make shooting even easier.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![affordable 360 camera - Ricoh Theta S](https://images.wondershare.com/filmora/article-images/affordable-360-camera-ricoh-theta-s.jpg)
 
 **Related article:** [Full review for Ricoh Theta S >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ## 2\. [360fly 4K](https://www.360fly.com/360fly-4k.html)
 
 The 360fly 4k is a slightly more expensive option, retailing around $500\. Unlike many other 360-degree cameras, it has only a single lens to capture its video, meaning that there is no stitching together of two images to create a seamless image. Like the Ricoh camera, it offers an app, 360fly, to connect to your iOS device and act as a remote control. A second app, Livit, is offered to allow live streaming of your videos, along with editing. The 360fly camera is heavier duty than some of the other options out there, with water, dust, and shock-resistant body. It also offers a great image, with 2880x2880 resolution, 30fps, and a 240-degree vertical field of view. It also has some built-in sensors, including a barometer, accelerometer, and a GPS sensor.
 
 Check this video to watch the 360fly 4k unboxing review:
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ## 3\. [Giroptic](https://www.giroptic.com/intl/en/)
 
 Giroptic also makes a 360-degree camera, simply named the Giroptic 360cam, that retails for about $500\. This camera uses 3 fisheye lenses and combines images into a 360-degree whole in real-time. It has three built-in microphones to capture sound and a gyroscope and accelerometer to stabilize images for videos, photo bursts, and other types of footage. It offers slightly less resolution for video, about 2K at 30fps, but 4K for still images. The 360cam app, for iOS, lets you remotely control the camera over Wi-Fi, but also lets you view, edit and share photos and videos.
@@ -68,18 +80,27 @@ The ALLie Camera retails for $499 and uses two fisheye lenses to take its 4096x2
 
 Check a detailed review about Allie Camera from this video
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. [Panono](https://www.panono.com/)
 
 Panono, a spherical camera retailing for around $549 is unique in using 36 lenses to take 108 MP photos and videos, avoiding the use of wide-angle lenses. It can be thrown safely, as well as supporting a universal mounting system. Final stitching together of the many images into a coherent photo or video requires sending the files to a cloud device, but the image quality more than makes up for it.
 
 Check this video to see how to take 360 pictures with Panono:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ## 8\. [Centr](https://www.centr.org/)
 
 Centr, a 360-degree cam funded on Kickstarter, retails for $399 and uses 4 110-degree lenses to capture its video. It has built-in image stitching technology, meaning that users don't need to use a desktop app or a cloud service to view the final video. It takes 20 MP photos and 4K video at 60 fps.
 
 Check a detailed review about Centr 360 camera:
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 9\. [Bublcam](https://www.bublcam.com/)
 
 One of the most expensive cameras in this line-up at around $800, Bublcam uses 4 110-degree lenses to take spherical photos and videos. Taking 14 MP images and 1080p video, it's a hit with photographers for image quality. In addition to this, it has stabilization features activated when the camera is in motion, to keep shaky camera work from ruining your video.
@@ -94,6 +115,9 @@ Finally, Nikon's upcoming Key Mission 360 camera is built for action. It's a poc
 
 See more details about Nikon Key Mission 360 camera from this video:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 These 10 options are only some of the 360-degree cameras that are upcoming or already on the consumer market. Most of them cost a bit more than a new phone and shoot a pretty nice video. While the video and images can be enjoyed on your computer screen, VR headsets come highly recommended for getting the full effect. So get out there and try this new way of capturing experiences to share with your friends and family. The world awaits.
@@ -120,6 +144,18 @@ First, an offering from Ricoh, the Ricoh Theta S. This pocket-sized camera costs
 
 **Related article:** [Full review for Ricoh Theta S >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. [360fly 4K](https://www.360fly.com/360fly-4k.html)
 
 The 360fly 4k is a slightly more expensive option, retailing around $500\. Unlike many other 360-degree cameras, it has only a single lens to capture its video, meaning that there is no stitching together of two images to create a seamless image. Like the Ricoh camera, it offers an app, 360fly, to connect to your iOS device and act as a remote control. A second app, Livit, is offered to allow live streaming of your videos, along with editing. The 360fly camera is heavier duty than some of the other options out there, with water, dust, and shock-resistant body. It also offers a great image, with 2880x2880 resolution, 30fps, and a 240-degree vertical field of view. It also has some built-in sensors, including a barometer, accelerometer, and a GPS sensor.
@@ -146,24 +182,36 @@ The LG360 cam retails for around $200, making it one of the cheapest phones on t
 
 Check a detailed review about LG360 Cam from this video
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. [ALLie Camera](https://allie.camera/)
 
 The ALLie Camera retails for $499 and uses two fisheye lenses to take its 4096x2048 video. One interesting feature is the 10 built-in infrared LEDs that allow you to film in dark environments with a full 360-degree view. Its integrated microphone and speaker allows two-way audio so that users can communicate. Its app lets you view the footage from anywhere and, if your mobile device has gyroscopic motion sensors, change your perspective while viewing footage by tilting and moving the screen. In addition to the app, recording and playback is available through the subscription-based ALLieCam Cloud.
 
 Check a detailed review about Allie Camera from this video
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ## 7\. [Panono](https://www.panono.com/)
 
 Panono, a spherical camera retailing for around $549 is unique in using 36 lenses to take 108 MP photos and videos, avoiding the use of wide-angle lenses. It can be thrown safely, as well as supporting a universal mounting system. Final stitching together of the many images into a coherent photo or video requires sending the files to a cloud device, but the image quality more than makes up for it.
 
 Check this video to see how to take 360 pictures with Panono:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ## 8\. [Centr](https://www.centr.org/)
 
 Centr, a 360-degree cam funded on Kickstarter, retails for $399 and uses 4 110-degree lenses to capture its video. It has built-in image stitching technology, meaning that users don't need to use a desktop app or a cloud service to view the final video. It takes 20 MP photos and 4K video at 60 fps.
 
 Check a detailed review about Centr 360 camera:
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 9\. [Bublcam](https://www.bublcam.com/)
 
 One of the most expensive cameras in this line-up at around $800, Bublcam uses 4 110-degree lenses to take spherical photos and videos. Taking 14 MP images and 1080p video, it's a hit with photographers for image quality. In addition to this, it has stabilization features activated when the camera is in motion, to keep shaky camera work from ruining your video.
@@ -214,3 +262,40 @@ Follow @Benjamin Arango
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-ranking-leading-podcast-host-services/"><u>[New] Ranking Leading Podcast Host Services</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-insiders-guide-to-watermark-free-images/"><u>[New] The Insider's Guide to Watermark-Free Images</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-expert-techniques-for-removing-audio-disturbances/"><u>[Updated] Expert Techniques for Removing Audio Disturbances</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-10-immersive-traits-in-filmoras-editing-software/"><u>[Updated] Top 10 Immersive Traits in Filmora's Editing Software</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-transcoding-approaches-to-boost-zoom-videos/"><u>[Updated] Top Transcoding Approaches to Boost Zoom Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-under-100-budget-friendly-action-cams-top-choices-guide/"><u>[Updated] Under-$100 Budget-Friendly Action Cams – Top Choices Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-tiktoks-potential-changing-your-profile-number/"><u>[Updated] Unlocking TikTok's Potential  Changing Your Profile Number</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-magic-of-photo-cleanse-picsart-bg-removal/"><u>[Updated] Unveiling the Magic of Photo Cleanse  Picsart Bg Removal</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-become-the-star-of-your-match-unique-tinder-profile-ideas-to-try/"><u>2024 Approved  Become the Star of Your Match - Unique Tinder Profile Ideas to Try</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-guidelines-for-stable-screen-recording-on-phones/"><u>2024 Approved  Guidelines for Stable Screen Recording on Phones</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-strategies-for-effective-obs-live-feeds-on-facebook/"><u>2024 Approved  Strategies for Effective OBS Live Feeds on Facebook</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-closer-look-approach-to-team-collaboration/"><u>2024 Approved  The Closer Look Approach to Team Collaboration</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-experts-manual-to-crafting-impeccable-srt-files/"><u>2024 Approved  The Expert's Manual to Crafting Impeccable SRT Files</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-perfect-path-from-srt-to-multiple-subtitle-standards/"><u>2024 Approved  The Perfect Path From SRT to Multiple Subtitle Standards</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-exploration-inside-xcreative-media-suite/"><u>2024 Approved  The Ultimate Exploration  Inside XCreative Media Suite</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-5-playstation-vr-games-to-look-forward-to/"><u>2024 Approved  Top 5 Playstation VR Games to Look Forward To</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-hd-cameras-for-wildlife-enthusiasts/"><u>2024 Approved  Top HD Cameras For Wildlife Enthusiasts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-srt-enhancements-maximizing-performance-on-both-platforms/"><u>2024 Approved  Top SRT Enhancements  Maximizing Performance on Both Platforms</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-the-full-potential-of-your-live-streams-using-onestream/"><u>2024 Approved  Unleash the Full Potential of Your Live Streams Using OneStream</u></a></li>
+<li><a href="https://some-skills.techidaily.com/how-to-shoot-underwater-video-easily-with-7-tips-for-2024/"><u>How to Shoot Underwater Video Easily (with 7 Tips) for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-13-pro-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 13 Pro without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-nokia-c22-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Nokia C22</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-reddits-supreme-judges-the-most-upvoted-posts-ever/"><u>In 2024, Reddit's Supreme Judges  The Most Upvoted Posts Ever</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-talk-to-technology-without-spending-money/"><u>In 2024, Talk to Technology Without Spending Money</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-logo-journey-key-steps-in-crafting-iconic-covers/"><u>In 2024, The Logo Journey  Key Steps in Crafting Iconic Covers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-from-tweet-vids-to-mp3-audio-files/"><u>In 2024, The Ultimate Guide  From Tweet Vids to MP3 Audio Files</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-playstation-audio-modification-guidebook/"><u>In 2024, The Ultimate PlayStation Audio Modification Guidebook</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-10-smartphone-vr-gadgets-uncovered/"><u>In 2024, Top 10 Smartphone VR Gadgets Uncovered</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-totv-multimedia-player-wmp-alternative/"><u>In 2024, TOTV Multimedia Player  WMP Alternative</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-charger-systems-for-black-gopro-hero5-official-sources/"><u>In 2024, Ultimate Charger Systems for Black GoPro Hero5  Official Sources</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-understanding-instagrams-tune-trademark-policies/"><u>In 2024, Understanding Instagram's Tune Trademark Policies</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-the-power-of-preparedness-in-your-streams/"><u>In 2024, Unleashing the Power of Preparedness in Your Streams</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-google-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Google Phone FRP Lock</u></a></li>
+</ul></div>

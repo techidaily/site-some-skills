@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unmasking Invisible Audiences' Interactions"
-date: 2024-06-04T05:33:26.550Z
-updated: 2024-06-05T05:33:26.550Z
+date: 2024-07-22T04:58:11.035Z
+updated: 2024-07-23T04:58:11.035Z
 tags: 
   - screen-recording
   - ai video
@@ -63,6 +63,9 @@ Given how many students have smartphones, video is an excellent medium for conne
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 ## How to See Liked Comments on YouTube?
@@ -81,10 +84,16 @@ But, if you want to retrace the videos you commented on and the videos/comments 
 
 Step1 Click on your Google Account icon and find **Your data in YouTube**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![find your data in youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-your-data-in-youtube.jpg)
 
 Step2 Scroll down a little bit and click the **More** button.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![your youtube dashboard more](https://images.wondershare.com/filmora/article-images/2022/11/your-youtube-dashboard-more.jpg)
 
 Step3 Click the **Comments** section.
@@ -93,6 +102,9 @@ Step3 Click the **Comments** section.
 
 Now you will see your comment history, including the date when you commented on a certain video and also the exact comment you posted.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![your youtube comments date](https://images.wondershare.com/filmora/article-images/2022/11/your-youtube-comments-date.jpg)
 
 To see videos/comments you liked or disliked, please follow these steps as continuation:
@@ -103,6 +115,9 @@ Step4 In the **Google My Activity** tab, click **Other activity**.
 
 Step5 Scroll down and find **Comment Likes and Dislikes on YouTube** section. Click **View Comment Likes and Dislikes**.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![your comment likes and dislikes](https://images.wondershare.com/filmora/article-images/2022/11/your-comment-likes-and-dislikes.jpg)
 
 Now you will see the videos you liked or disliked and also the comments you liked or disliked, including the date when you liked or disliked the video/comment.
@@ -115,6 +130,9 @@ This article tells you that you can't see who liked or disliked a comment, but y
 
 In this image, the following comments only got likes and no dislikes. That is why there are just written numbers on the like button and on the dislike button there are none.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Respond to Comments
 
 Don't ignore someone who has questioned you or written you a heartfelt note. Keep the conversation (and engagement) going by responding to comments.
@@ -147,6 +165,15 @@ Because understanding how to comment is only one aspect of the issue; very impor
 
 Try making a joke, pointing out something amusing, providing helpful information, or expressing sympathy or concern for a fan. Additionally, a simple thumbs-up or heart can go a long way to demonstrate that you are paying attention even if you aren't feeling very friendly (we all have bad days, it's OK!).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ## Did you know what a Highlighted comment is?
 
 A highlighted comment on YouTube aims to draw the content creator's attention with an automated feature.
@@ -185,3 +212,45 @@ Additionally, video creators can manually highlight commenters to mark them for 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-maximizing-engagement-with-youtube-on-facebook-platforms/"><u>[New] 2024 Approved  Maximizing Engagement with YouTube on Facebook Platforms</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-building-community-through-thoughtful-facebook-giveaways/"><u>[Updated] Building Community Through Thoughtful Facebook Giveaways</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-elevate-your-content-strategies-to-climb-youtube-ranks/"><u>[Updated] Elevate Your Content  Strategies to Climb YouTube Ranks</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-step-into-style-with-snapchats-gif-features-a-users-guide/"><u>[Updated] In 2024, Step-Into Style with Snapchat's GIF Features – A User’s Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamline-your-listening-experience-how-to-get-apple-podcasts-downloaded/"><u>[Updated] Streamline Your Listening Experience  How to Get Apple Podcasts Downloaded</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-vivo-s18-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-15-advanced-tips-for-sports-broadcasting-nba/"><u>2024 Approved  15 Advanced Tips for Sports Broadcasting (NBA)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-the-best-8-web-sites-for-accessing-3d-text-psds/"><u>2024 Approved  Explore the Best 8 Web Sites for Accessing 3D Text PSDs</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-leading-lights-youtubes-biggest-brands/"><u>2024 Approved  Leading Lights  YouTube's Biggest Brands</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-scriptwriting-the-art-of-utilizing-slug-lines/"><u>2024 Approved  Scriptwriting  The Art of Utilizing Slug Lines</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-stream-your-audiovid-creations-here/"><u>2024 Approved  Stream Your AudioVid Creations Here</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-subtlety-savvy-sound-settings-for-garageband/"><u>2024 Approved  Subtlety Savvy Sound Settings for Garageband</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tender-tracks-ideal-music-to-accompany-a-lifelayer-change/"><u>2024 Approved  Tender Tracks  Ideal Music to Accompany a Lifelayer Change</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-image-hunting-on-pexelscom/"><u>2024 Approved  The Art of Image Hunting on Pexels.com</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-artisans-path-mastery-of-background-removal-tools-in-photoshop/"><u>2024 Approved  The Artisan's Path  Mastery of Background Removal Tools in Photoshop</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-key-to-staying-put-mastering-6-viewer-friendly-genres/"><u>2024 Approved  The Key to Staying Put  Mastering 6 Viewer-Friendly Genres</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-path-to-professional-gopro-time-lapse-cinematography/"><u>2024 Approved  The Path to Professional GoPro Time-Lapse Cinematography</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-display-decoded-benqs-bl2711u-and-its-professional-impact/"><u>2024 Approved  The Ultimate Display Decoded  BenQ’s BL2711U and Its Professional Impact</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-method-for-mastery-in-morphvox-usage/"><u>2024 Approved  The Ultimate Method for Mastery in MorphVOX Usage</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tiktok-bgs-exploring-affordable-eye-catching-visuals/"><u>2024 Approved  TikTok BGs  Exploring Affordable, Eye-Catching Visuals</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-unleash-your-fun-with-todays-favorite-tiktoks/"><u>2024 Approved  Unleash Your Fun with Today's Favorite TikToks</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-tecno-phantom-v-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/easy-to-use-games-recorders-ranked-no-1-10-for-2024/"><u>Easy-to-Use Games Recorders Ranked No. 1-10 for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/free-srt-translation-leaders-a-select-8-guide/"><u>Free SRT Translation Leaders  A Select 8 Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-v30-lite-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo V30 Lite 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-free-titles-for-final-cut-pro/"><u>In 2024, Free Titles For Final Cut Pro</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/talent-passes-for-independent-film-viewing-for-2024/"><u>Talent Passes for Independent Film Viewing for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-essential-guide-to-radiant-android-videos-for-2024/"><u>The Essential Guide to Radiant Android Videos for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-illustrator-way-adding-realistic-blur-to-your-pics-for-2024/"><u>The Illustrator Way  Adding Realistic Blur to Your Pics for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-insider-guide-to-simplifying-character-voice-modification-pubg-for-2024/"><u>The Insider Guide to Simplifying Character Voice Modification (PUBG) for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-role-of-burst-mode-in-action-sports-filming-for-2024/"><u>The Role of Burst Mode in Action Sports Filming for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-significance-of-gopros-burst-sequencing-feature-for-2024/"><u>The Significance of GoPro's Burst Sequencing Feature for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-smooth-slide-advanced-techniques-for-inshot-transitions-for-2024/"><u>The Smooth Slide  Advanced Techniques for Inshot Transitions for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-insights-into-audio-memos-for-2024/"><u>The Ultimate Insights Into Audio Memos for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-tiktok-edits-mastering-your-cut-lists-for-2024/"><u>Top TikTok Edits  Mastering Your Cut Lists for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-sea-snag-footage-top-5-picks-for-2024/"><u>Ultimate Sea Snag Footage - Top 5 Picks for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-latest-picks-top-10-2d-animation-tools-free-and-paid-options/"><u>Updated In 2024, Latest Picks Top 10 2D Animation Tools Free & Paid Options</u></a></li>
+</ul></div>

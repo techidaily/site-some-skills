@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Most Shared Stock Photos & Backstories for 2024"
-date: 2024-06-04T04:34:34.990Z
-updated: 2024-06-05T04:34:34.990Z
+date: 2024-07-22T04:22:56.661Z
+updated: 2024-07-23T04:22:56.661Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,9 @@ A stock photo meme is an image or video you use to communicate a specific idea. 
 
 So, what are the most popular stock photo memes, and how did they reach this status? Keep reading to find out more.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part1: Hide the Pain Harold
 
 ![hide the pain harold](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-1.jpg)
@@ -39,10 +42,16 @@ Since 2011, Hide the Pain Harold continues to rank as one of the world's most po
 
 According to Andras, Hide the Pain Harold results from his vacation in Turkey. A professional photographer contacted him to do stock image modeling. During the shoot, the photographer kept telling him to smile, resulting in some photos of Andras appearing to force a smile. This expression led to netizens using his image to express situations where the forced smile is masking your true feelings.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![do stock image modeling](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-3.jpg)
 
 Currently, Hide the Pain Harold has over 300,000 followers across all platforms. In addition, Hide the pain Harold has an official Facebook and Know Your Meme page that features the most popular versions of the stock image meme.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ## Part2: Distracted Boyfriend
 
 Another popular stock image meme is Distracted Boyfriend. It features the stock photo meme guy looking at another woman's backside while walking with his girlfriend. In addition, the models' facial expressions add to the photo's impact. For example, the girlfriend shows her disapproval by staring at the man with her mouth open.
@@ -68,8 +77,14 @@ The latest version of Distracted boyfriend is a compilation of photos featuring 
 
 In addition, Antonio Guillem also has a stock image meme where the roles are reversed. The meme was later posted on Reddit underneath the original and received over 25,600 points in 24 hours.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part3: I Bet He's Thinking About Other Women
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![meme features](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-7.jpg)
 
 The meme features a couple in bed with the stock photo meme guy in contemplation and the woman facing him with a concerned look. At first glance, the image shows a couple experiencing relationship problems, with the original caption showing the woman worrying that the man is thinking about other women.
@@ -82,6 +97,10 @@ A July 2017 Instagram post by Cathrottle gained over 13,400 likes in a month. In
 
 * Redditor GallowBoob received 34,700 points and 350 comments within 24 hours of posting it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![points and comments](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-9.jpg)
 
 The post references the Toy Story character Buzz Lightyear, with the man contemplating why Buzz is in denial of being a toy.
@@ -90,10 +109,16 @@ The post references the Toy Story character Buzz Lightyear, with the man contemp
 
 According to sources, the stock photo meme was first featured on Twitter in December 2016.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![stock photo meme](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-10.jpg)
 
 Twitter user @chocos posts the image with Spanish captions, with the woman sure the man is thinking of another. However, the man wonders why there are sounds in Star Wars when the sound does not travel in space. Since then, the tweet has received over 1,700 retweets and 2,200 likes.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part4: Bonjour Bear
 
 ![bonjour bear](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-11.jpg)
@@ -115,6 +140,9 @@ The photo is available on most stock photo websites, such as Adobe and Tumblr. F
 
 ## Part5: FAQs
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ### 1\. Can you use stock photos for memes?
 
 Yes, you can use stock photos for memes. However, you need to obtain them from royalty-free stock photo providers such as Shutterstock and Pexels. In addition, ensure you understand the license requirements before using the photo.
@@ -125,6 +153,9 @@ This is because not all stock photo providers offer their images with a creative
 
 Yes, all memes are under copyright law, which means you have the authority to govern their use. Although identifying the meme owner can be challenging, posting or sharing a meme through your social media accounts without consent violates copyright law. Therefore, only use stock image memes from verified stock content providers like Shutterstock, where the license provisions are clear.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Can you use watermarked stock photos to create memes?
 
 No. Before using watermarked images to create memes, you must get verifiable permission from the rights holder. This is because it violates copyright law and can result in heavy fines or even prison time in extreme circumstances.
@@ -160,3 +191,39 @@ Therefore, always perform stock image reverse searches to verify the image permi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-captivating-creatives-an-audience-centric-compilation-of-the-best-20-tiktok-captions/"><u>[New] Captivating Creatives  An Audience-Centric Compilation of the Best 20 TikTok Captions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-enhance-your-presence-best-free-tools-for-intriguing-openings/"><u>[Updated] 2024 Approved  Enhance Your Presence  Best Free Tools for Intriguing Openings</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-optimize-your-content-mix-twt-to-insta-video-sharing-techniques/"><u>[Updated] Optimize Your Content Mix  Twt-to-Insta Video Sharing Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-spectacular-ultra-hd-screens-for-playing-games/"><u>[Updated] Spectacular Ultra HD Screens for Playing Games</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-building-blocks-of-graphic-animation/"><u>[Updated] The Building Blocks of Graphic Animation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-complete-breakdown-audifree-audit-tool-performance/"><u>[Updated] The Complete Breakdown  AudiFree Audit Tool Performance</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-essence-of-effortless-live-broadcasts-with-one-device-use/"><u>[Updated] The Essence of Effortless Live Broadcasts with One-Device Use</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-pinnacle-of-vr-how-htc-vive-transforms-playtime/"><u>[Updated] The Pinnacle of VR  How HTC Vive Transforms Playtime</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-sound-trailing-in-premiere-pro/"><u>[Updated] The Ultimate Guide to Sound Trailing in Premiere Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-techniques-in-testimonial-production-an-experts-insight/"><u>[Updated] Top Techniques in Testimonial Production  An Expert's Insight</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-tips-for-creating-instagrammable-unboxing-highlights/"><u>[Updated] Top Tips for Creating Instagrammable Unboxing Highlights</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transform-your-images-into-nfts-the-best-generators-listed/"><u>[Updated] Transform Your Images Into NFTs - The Best Generators Listed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-twilight-crusaders-the-darkened-knight-vs-the-shining-one/"><u>[Updated] Twilight Crusaders  The Darkened Knight vs the Shining One</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-cropped-lengths-imovies-automatic-trimming-logic/"><u>[Updated] Unveiling Cropped Lengths  IMovie's Automatic Trimming Logic</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-mystery-writing-hooks-for-vlogger-scripts/"><u>[Updated] Unveiling the Mystery  Writing Hooks for Vlogger Scripts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-editors-almanac-key-takeaways-from-filmora-editioning/"><u>2024 Approved  The Editor’s Almanac  Key Takeaways From Filmora Editioning</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-pace-kings-and-queens-of-the-olympics-year-2022/"><u>2024 Approved  The Pace Kings & Queens of the Olympics, Year 2022</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-underdogs-playbook-livestream-youtube-on-smartphones-no-million-followers/"><u>2024 Approved  The Underdog's Playbook  Livestream YouTube on Smartphones, No Million Followers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tiktoks-best-practices-for-stellar-edits/"><u>2024 Approved  TikTok's Best Practices for Stellar Edits</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-11-techniques-for-perfecting-hue-balance/"><u>2024 Approved  Top 11 Techniques for Perfecting Hue Balance</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-iphone-audio-applications-ranked/"><u>2024 Approved  Top iPhone Audio Applications Ranked</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-understanding-and-exploring-telegrams-online-features/"><u>2024 Approved  Understanding and Exploring Telegram's Online Features</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-process-of-batched-tiktok-content-extraction/"><u>2024 Approved  Unveiling the Process of Batched TikTok Content Extraction</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/from-snap-to-share-the-ultimate-guide-to-archiving-photos/"><u>From Snap to Share  The Ultimate Guide to Archiving Photos</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-nokia-g42-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Nokia G42 5G to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-stolen-iphone-xs-in-different-conditionsin-drfone-by-drfone-ios/"><u>How To Unlock Stolen iPhone XS In Different Conditionsin | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-huawei-nova-y71-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Huawei Nova Y71 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-audio-integration-tunes-for-your-microsoft-slides/"><u>In 2024, The Art of Audio Integration  Tunes for Your Microsoft Slides</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-converting-video-frames-to-stunning-images-a-guide-to-10-top-converters/"><u>New 2024 Approved Converting Video Frames to Stunning Images A Guide to 10 Top Converters</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlicensed-zen-audio-streaming-for-2024/"><u>Unlicensed Zen Audio Streaming for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-the-potential-of-multi-stream-video-on-microsoft-edge-for-2024/"><u>Unlocking the Potential of Multi-Stream Video on Microsoft Edge for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/upholders-of-popularity-the-10-most-loved-reddit-stories-for-2024/"><u>Upholders of Popularity  The 10 Most Loved Reddit Stories for 2024</u></a></li>
+</ul></div>

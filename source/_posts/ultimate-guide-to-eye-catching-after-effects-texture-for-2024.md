@@ -1,7 +1,7 @@
 ---
 title: "\"Ultimate Guide to Eye-Catching After Effects Texture for 2024\""
-date: 2024-06-04T02:59:08.563Z
-updated: 2024-06-05T02:59:08.563Z
+date: 2024-07-22T03:23:16.990Z
+updated: 2024-07-23T03:23:16.990Z
 tags: 
   - screen-recording
   - ai video
@@ -35,6 +35,10 @@ Along with After Effects source text effect types, we have illustrated how you c
 * [AE Alternative to Edit Text Effects in Video](#part3)
 * [Related FAQs of Title Effects in After Effects](#part4)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Part 1\. 8 Popular Text Title Effects Types in AE
 
 There are certain properties and parameters associated with text effects and animations in After Effects. You need to get a complete overview of these types so that you can adjust them and come up with stunning text animations in After Effects.
@@ -45,6 +49,9 @@ Generally, when you type a text in After Effects, by default, it comes out to be
 
 After Effects has “Enable per-character 3D” property to all Z axis to applicable properties so that you can get the desired effect. You can go to properties like rotation or position to find Z axis that you can modify and get the perfect 3D text.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ### 2\. Rotation and Anchor Point
 
 Rotation is one of the most commonly used parameters in text animations. There are unlimited variations of text animations and effects that you can create using rotation parameter in After Effects. The rotation takes place in proportion to the anchor points of the text. When you change the value of Rotation parameter, the actual rotation takes place around the anchor points.
@@ -55,10 +62,16 @@ If you want to zoom in and zoom out animation for your text or title, you can us
 
 There are different variations of zoom in and out effect that you can try on your text and title to make animation creative and visually appealing. On the other hand, position refers to the location of the text on the video frame depending on X, Y, and Z axis values.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ### 4\. Blur and Opacity
 
 You must have seen the text animation where the blurry text comes into focus and this can be achieved using Blur parameter. Many people confused Blur with Opacity but blur refers to out of focus while opacity can be understood by fade in and fade out effect. You can adjust the horizontal and vertical blur amount separately and you can come up with stunning text animations by changing Blur value.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ### 5\. Fill and Stroke
 
 When it comes to text formatting in animation, fill color and stroke color play a major role. You can change the fill of the text so that the text animation is about changing color randomly. There are different options available for fill color such as RGB, Hue, Saturation, and likewise.
@@ -69,6 +82,9 @@ Similarly, the stroke color can be changed and you can create an animation with 
 
 If you want your text to be distorted and unusual, the skew parameter is there for you in After Effects. Skew means the character will not stay parallel and at right angles. You can adjust the skew value make texts distorted and this is useful in several text animations where distorted texts become normal texts. You can also skew texts in respect to different axis for creative animation.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 7\. Tracking
 
 Tracking refers to the spacing between the characters in a word for a text. You must have seen so many different types of text animations where the spacing between the characters is changing. You can create amazing funny and eye-catching text effects in After Effects by combining tracking and keyframe properly. Along with tracking, there is line anchor that determines the alignment of tracking. Similarly, there is line spacing parameter that controls the spacing between the lines.
@@ -107,10 +123,16 @@ If you are not comfortable with After Effects and you are looking for a better a
 
 Step1 Install Wondershare Filmora on your computer and launch the application. Click on New Project and drag and drop your video clip on Project Media folder.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![install wondershare filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
 Step2 Drag and drop the video clip onto timeline. Go to Titles option and you will see different categories of text effects on the left panel. Select any one of text effect templates and drop onto the timeline above the background video.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select background for text filmora](https://images.wondershare.com/filmora/article-images/2022/09/select-background-for-text-filmora.jpg)
 
 Step3 Double-click on the text layer on the timeline to edit the text preset. You can select any available text style as well as adjust parameters from font and settings sections.
@@ -119,8 +141,14 @@ Step3 Double-click on the text layer on the timeline to edit the text preset. Yo
 
 Step4 Go to Animation section and click on Advanced button. Change different parameters under Customize section such as Blue, Opacity, Shadow, and much more. You can create keyframes on the timeline like AE and edit parameters as per your preference.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add animation text in filmora](https://images.wondershare.com/filmora/article-images/2022/09/add-animation-text-in-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4\. Related FAQs of Title Effects in After Effects
 
 #### 1\. How do you make 3D text in After Effects?
@@ -160,3 +188,57 @@ Part 1\. 8 Popular Text Title Effects Types in AE
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-dissecting-youtubes-criteria-for-featured-community-inputs/"><u>[New] 2024 Approved  Dissecting YouTube's Criteria for Featured Community Inputs</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-pinnacle-nintendo-switch-fighting-game-index-max-156/"><u>[New] In 2024, Pinnacle Nintendo Switch Fighting Game Index (Max 156)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-leveraging-instagrams-capabilities-for-podcast-promotion/"><u>[New] Leveraging Instagram's Capabilities for Podcast Promotion</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tech-triad-analysis-unraveling-the-vr-ar-mr-tapestry/"><u>[New] Tech Triad Analysis  Unraveling the VR-AR-MR Tapestry</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-metaverse-versus-multi-meva-comprehensive-differences-overviewed/"><u>[New] The Metaverse Versus Multi-Meva  Comprehensive Differences Overviewed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-device-companion-for-metaventureers/"><u>[New] The Ultimate Device Companion for Metaventureers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-elevate-your-gaming-experience-with-voice-customization-in-free-fire/"><u>[New] The Ultimate Guide  Elevate Your Gaming Experience with Voice Customization in Free Fire</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transformative-strategies-for-podcast-rankings-and-visibility/"><u>[New] Transformative Strategies for Podcast Rankings and Visibility</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transforming-flat-text-into-sculptable-3d-characters/"><u>[New] Transforming Flat Text Into Sculptable 3D Characters</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-quick-picture-viewer-on-windows-10/"><u>[New] Ultimate Quick Picture Viewer on Windows 10</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-selection-budget-friendly-4k-cameras-(1k/"><u>[New] Ultimate Selection  Budget-Friendly 4K Cameras <$1K</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-unbeatable-value-free-professional-disco-emblem-artist/"><u>[New] Unbeatable Value  Free Professional Disco Emblem Artist</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlock-your-creative-potential-with-inshot-for-pcs-and-laptops/"><u>[New] Unlock Your Creative Potential with Inshot for PCs & Laptops</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unmatched-value-top-tier-asmr-microphones-on-a-budget/"><u>[New] Unmatched Value  Top-Tier ASMR Microphones on a Budget</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-legal-aspects-and-ethical-considerations-of-recording-whatsapp/"><u>[Updated] 2024 Approved  Legal Aspects and Ethical Considerations of Recording WhatsApp</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-prime-15-web-based-editing-platforms-reviewed-all-free/"><u>[Updated] Prime 15 Web-Based Editing Platforms Reviewed, All FREE</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-healing-power-of-asmr-explained-here/"><u>[Updated] The Healing Power of ASMR Explained Here</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-smart-buyers-guide-to-drones-crucial-info-upfront/"><u>[Updated] The Smart Buyer's Guide to Drones  Crucial Info Upfront</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tranquil-twilight-tales-in-video-form/"><u>[Updated] Tranquil Twilight Tales in Video Form</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-twitter-vids-to-mp3-easy-extraction-techniques/"><u>[Updated] Twitter Vids to MP3  Easy Extraction Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleash-potential-understanding-and-altering-account-numbers/"><u>[Updated] Unleash Potential  Understanding and Altering Account Numbers</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-2023s-best-updated-lg-bp550-overview/"><u>2024 Approved  2023'S Best  Updated LG BP550 Overview</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-cultivating-your-persona-in-the-world-of-gamers/"><u>2024 Approved  Cultivating Your Persona in the World of Gamers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-superior-sonic-aligner-android-version/"><u>2024 Approved  Superior Sonic Aligner, Android Version</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-complete-how-to-for-free-countdown-timers/"><u>2024 Approved  The Complete How-To for Free Countdown Timers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-audio-acquisition-iphoneipad-edition/"><u>2024 Approved  The Ultimate Guide to Audio Acquisition  IPhone/iPad Edition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-editing-upgrades-for-final-cut-pro-professionals/"><u>2024 Approved  Top 10 Editing Upgrades for Final Cut Pro Professionals</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unexpected-angle-alterations-in-instagram-video-posts/"><u>2024 Approved  Unexpected Angle Alterations in Instagram Video Posts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-professional-techniques-for-coloring-gopro-videos/"><u>2024 Approved  Unlock Professional Techniques for Coloring GoPro Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-curated-list-of-premium-podcast-enhancement-tools-for-2024/"><u>A Curated List of Premium Podcast Enhancement Tools for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-k11-5g-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from K11 5G?</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-free-discolinking-techniques-desktop-and-smartphone-edition/"><u>In 2024, Free DiscoLinking Techniques  Desktop & Smartphone Edition</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-tecno-pova-5withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Tecno Pova 5with/without a PC</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-syncopating-youtube-melodies-with-visuals/"><u>In 2024, Syncopating YouTube Melodies with Visuals</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-compre-writters-manual-for-great-documentary-storytelling/"><u>In 2024, The Compre Writter's Manual for Great Documentary Storytelling</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-thriving-on-the-grid-maximizing-your-telegram-impact/"><u>In 2024, Thriving on the Grid  Maximizing Your Telegram Impact</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-10-effect-enhancing-fcp-plug-ins/"><u>In 2024, Top 10 Effect-Enhancing FCP Plug-Ins</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-podcast-with-these-google-upload-insights/"><u>In 2024, Transform Your Podcast with These Google Upload Insights</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-video-playback-device-pcmobile-focus/"><u>In 2024, Ultimate Video Playback Device - PC/Mobile Focus</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-uncomplicated-technique-changing-vocal-pattern-in-winos/"><u>In 2024, Uncomplicated Technique  Changing Vocal Pattern in WinOS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlock-the-secrets-essential-tiktok-video-editing-techniques/"><u>In 2024, Unlock the Secrets  Essential TikTok Video Editing Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unrivaled-script-authority-place/"><u>In 2024, Unrivaled Script Authority Place</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-mastering-slow-motion-on-kapwing-tips-and-tricks-for-amazing-videos/"><u>New Mastering Slow Motion on Kapwing Tips and Tricks for Amazing Videos</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-poco-c55-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/survey-diverse-categories-in-visual-media-tech-for-2024/"><u>Survey  Diverse Categories in Visual Media Tech for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-sites-for-digital-metallic-text-with-a-golden-twist-for-2024/"><u>Top Sites for Digital Metallic Text with a Golden Twist for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transforming-pixels-to-audible-artistry-for-2024/"><u>Transforming Pixels to Audible Artistry for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/twitch-revival-tactics-for-forgotten-sessions-for-2024/"><u>Twitch Revival Tactics for Forgotten Sessions for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleash-vibrant-canvas-cropping-adding-and-editing-sound-effectively-for-2024/"><u>Unleash Vibrant Canvas  Cropping, Adding, & Editing Sound Effectively for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/why-does-imovie-crop-my-videos-for-2024/"><u>Why Does iMovie Crop My Videos for 2024</u></a></li>
+</ul></div>

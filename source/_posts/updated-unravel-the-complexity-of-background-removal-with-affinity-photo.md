@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unravel the Complexity of Background Removal with Affinity Photo"
-date: 2024-06-27T14:03:19.735Z
-updated: 2024-06-28T14:03:19.735Z
+date: 2024-07-22T05:19:06.598Z
+updated: 2024-07-23T05:19:06.598Z
 tags: 
   - screen-recording
   - ai video
@@ -26,6 +26,9 @@ No matter you are a professional content creator or a newbie, we'll be discussin
 
 Affinity Photo is a simple and easy-to-use editing software, and you can remove a background in it under two scenarios: remove a white or a busy background.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Erase a White Background in Affinity Designer
 
 To erase a white background in Affinity Designer, do these steps:
@@ -50,12 +53,18 @@ Step4 Next, zoom in on your subject. Press & hold the ALT key on your keyboard, 
 
 Click the **"Refine"** option in the toolbar to open the **"Refine Selection"** menu. A red mask will be applied to your subject, giving you an idea of how your image will look once you remove the background. Zoom in and if any details are excluded, paint them over. Once you are satisfied, click **"Apply"** to save your changes.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![refining the outline around the image to remove background in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/refining-the-outline-around-the-image-to-remove-background-in-affinity-designer.png)
 
 Step5 In the last step, press the **"Delete"** key on your keyboard to remove the background, or click **"Edit"** and choose the **"Cut"** option.
 
 Now, hit **"Control+D"** to deselect the selection. Alternatively, you can click **"Select"** in the top toolbar and choose the **"Deselect"** option. Finally, you can export your file using the **"File" > "Export"** option.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ### How to Remove a Busy Background in Affinity Designer
 
 If you want to remove a busy background of an image in the Affinity Designer software, follow these steps carefully:
@@ -81,10 +90,16 @@ Step5 In this last step, you must deselect the outline around your subject. For 
 
 Finally, click **"File"** and select the **"Export"** option from the drop-down menu. Then, in the Export Settings menu, choose PNG and click **"Export"** to save your file on your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** To save your image with a transparent background, do not export it in JPG file format.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Best Alternative of Affinity Photo
 
 Since Affinity Photo is a desktop software available for a one-time purchase of $40.99, you might be looking for an online free alternative if you need more space or can afford the subscription fee.
@@ -109,6 +124,9 @@ Editing experts recommend Wondershare PixCut as the best alternative to many edi
 * Paid and customized accounts for premium benefits.
 * Customized categories that include e-commerce, car dealership, social media, graphic designing, personal, and marketing use.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 This article discusses **removing a background in Affinity Photo**, whether the image has a white or a busy BG.
@@ -143,3 +161,49 @@ Hopefully, this article and video can help you create ideal images!
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-halt-youtubes-automatic-video-screening/"><u>[New] Halt YouTube's Automatic Video Screening</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-megasecond-analysis-understanding-20mb-video-time/"><u>[New] MegaSecond Analysis  Understanding 20Mb Video Time</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streaming-showdown-twitch-versus-youtube-unveiled/"><u>[New] Streaming Showdown  Twitch Versus YouTube Unveiled</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamlined-pathway-to-flipper-dialogue-switching-within-windows-network/"><u>[New] Streamlined Pathway to Flipper Dialogue Switching Within Windows Network</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-synopsis-of-crowd-opinions-on-vllo/"><u>[New] Synopsis of Crowd Opinions on VLLO</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tailoring-image-sizes-in-photos-for-ios-devices/"><u>[New] Tailoring Image Sizes in Photos for iOS Devices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-battle-of-live-streamers-twitch-versus-youtube/"><u>[New] The Battle of Live Streamers  Twitch Versus YouTube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-cost-effective-camera-guidebook/"><u>[New] The Cost-Effective Camera Guidebook</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-future-of-flying-games-mavic-air-vs-dji-spark-showdown/"><u>[New] The Future of Flying Games  Mavic Air Vs. DJI Spark Showdown</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-path-of-peacefulness-how-to-gently-dim-music-tracks/"><u>[New] The Path of Peacefulness  How To Gently Dim Music Tracks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-proper-way-to-link-zoom-and-your-gmail-accounts/"><u>[New] The Proper Way to Link Zoom and Your Gmail Accounts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-science-behind-sharing-memes-unveiled/"><u>[New] The Science Behind Sharing  Memes Unveiled</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-8-top-collaborative-video-collage-tools-on-android-affordable/"><u>[New] The Ultimate 8 Top Collaborative Video Collage Tools on Android (Affordable)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-undercover-upsell-simple-image-saving/"><u>[New] The Undercover Upsell  Simple Image Saving</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-guide-9-essential-360-degree-recording-techniques/"><u>[New] Ultimate Guide  9 Essential 360-Degree Recording Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-understanding-the-essence-of-digital-chronicles/"><u>[New] Understanding the Essence of Digital Chronicles</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-top-rated-srt-translators-for-zero-cost/"><u>[New] Unveiling the Top-Rated SRT Translators for Zero Cost</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-ultimate-photo-frame-tools/"><u>[New] Unveiling the Ultimate Photo Frame Tools</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-discovering-friends-the-cross-platform-guide/"><u>[Updated] Discovering Friends  The Cross-Platform Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamlined-approach-to-add-linktree-in-tiktok-about-section/"><u>[Updated] Streamlined Approach to Add Linktree in TikTok About Section</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-understanding-haul-content-production-and-post-production-techniques/"><u>[Updated] Understanding Haul Content  Production & Post-Production Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-upgraded-2023-samsung-bd-j5900/"><u>[Updated] Unveiling the Upgraded 2023 Samsung BD-J5900</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-updated-dialogue-tools-to-engage-audio-audiences/"><u>[Updated] Updated Dialogue Tools to Engage Audio Audiences</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-how-to-dodge-without-disruption-bypassing-edgenuity-courses-effortlessly/"><u>2024 Approved  How to Dodge Without Disruption  Bypassing Edgenuity Courses Effortlessly</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-anglers-arsenal-prime-piscine-recorders/"><u>2024 Approved  The Angler’s Arsenal  Prime Piscine Recorders</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-8-excellent-video-and-photo-mergers-on-desktopmobileonline/"><u>2024 Approved 8 Excellent Video and Photo Mergers on Desktop/Mobile/Online</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/all-about-iphone-12-mini-unlock-chip-you-need-to-know-by-drfone-ios/"><u>All About iPhone 12 mini Unlock Chip You Need to Know</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-htc-u23-pro-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best HTC U23 Pro Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-xiaomi-redmi-note-12-pro-4g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Xiaomi Redmi Note 12 Pro 4G?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-atandt-apple-iphone-xr-with-3-methods-by-drfone-ios/"><u>How to Unlock AT&T Apple iPhone XR with 3 Methods</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-6-android-apps-for-immersive-music-videos/"><u>In 2024, Top 6 Android Apps for Immersive Music Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleash-your-potential-top-6-head-mounted-cameras-by-gopro/"><u>In 2024, Unleash Your Potential  Top 6 Head-Mounted Cameras by GoPro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-the-power-of-voice-ms-words-speech-recognition-features/"><u>In 2024, Unleashing the Power of Voice  MS Word's Speech Recognition Features</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-best-mouse-traits-with-our-top-5-selection/"><u>Navigating the Best Mouse Traits with Our Top 5 Selection</u></a></li>
+<li><a href="https://some-skills.techidaily.com/streamline-your-journey-to-zoom-mastery-for-2024/"><u>Streamline Your Journey to Zoom Mastery for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-artisans-guide-to-aesthetic-photographic-adjustments-for-2024/"><u>The Artisan's Guide to Aesthetic Photographic Adjustments for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-10-sites-for-high-end-vector-graphics-for-2024/"><u>Top 10 Sites for High-End Vector Graphics for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-picks-in-affordable-home-cinema-setups-with-4k-for-2024/"><u>Top Picks in Affordable Home Cinema Setups with 4K for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-ranked-ai-enhanced-image-maker-for-2024/"><u>Top-Ranked AI Enhanced Image Maker for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleash-the-magic-of-videos-on-windows-mobile-for-2024/"><u>Unleash the Magic of Videos on Windows Mobile for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-secrets-how-to-efficiently-record-internet-radio-for-2024/"><u>Unveiling the Secrets  How To Efficiently Record Internet Radio for 2024</u></a></li>
+</ul></div>

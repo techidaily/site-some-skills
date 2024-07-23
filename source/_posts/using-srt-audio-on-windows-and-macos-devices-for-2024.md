@@ -1,7 +1,7 @@
 ---
 title: "Using SRT Audio on Windows & macOS Devices for 2024"
-date: 2024-06-04T03:51:37.221Z
-updated: 2024-06-05T03:51:37.221Z
+date: 2024-07-22T03:57:02.965Z
+updated: 2024-07-23T03:57:02.965Z
 tags: 
   - screen-recording
   - ai video
@@ -24,8 +24,14 @@ Standing for SubRip Subtitle, an SRT file is a plain text file that contains all
 
 So, if you too have videos and movies with SRT and looks for ways on **how to open SRT file**, this article will be a good read. The content below will help you learn about the platforms that support the SRT files, and several tools and programs that help to open the SRT files on Windows and Mac systems.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![open srt file](https://images.wondershare.com/filmora/article-images/2022/09/srt-file-how-to-open-srt-file-01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: Which Platforms support SRT files?
 
 An array of subtitle formats are available with support to different platforms, tools and devices. Some of the commonly used types include SRT., WebVTT, SSA, TTML, TXT, VTT, and more.
@@ -51,6 +57,9 @@ Steps to **open subtitles SRT** files in Windows 10/11
 2. Select the file, right-click and choose Properties.
 3. Under the General tab of the file properties, choose and click on the Change button.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![open srt on windows 1](https://images.wondershare.com/filmora/article-images/2022/09/srt-file-how-to-open-srt-file-02.jpg)
 
 1. Select Word or Notepad in the Open with window. You can choose the option- “Always use the selected program to open this type of file” so that all the srt files are opened using this selected program.
@@ -63,12 +72,18 @@ Steps to **open subtitles SRT** files in Windows 10/11
 
 1. The SRT file will open in the text editor and you can even edit it if required.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to Open SRT Files on Mac
 
 A multimedia player supporting the SRT feature will enable watching the videos with these subtitles. On the Mac system, there are several programs available that can be used for opening the SRT files like ObjectifMac, VLC Media Player, SubCleaner, and more. Also, you can even use the text editor-TextEdit for Mac. Simply find the desired SRT file and choose to open it using the TextEdit program. **QuickTime SRT** can also be used for opening and playing the SRT files.
 
 We recently covered some concrete methods in detail of **how to open SRT file on Mac**, we have now had the opportunity to test this with many people with different solutions and have found mixed results.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![text edit for mac](https://images.wondershare.com/filmora/article-images/2022/09/srt-file-how-to-open-srt-file-05.jpg)
 
 ## Part 4: Open the File with Online SRT Viewers \[Mac & Windows\]
@@ -105,6 +120,9 @@ Step1 Download, install, and run the Wondershare Filmora software on your Window
 
 Mac system. In the Media resource area, import the SRT subtitle files directly.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![open srt using wondershare filmora 1](https://images.wondershare.com/filmora/article-images/2022/09/srt-file-how-to-open-srt-file-07.jpg)
 
 Step2 Next, double-click on the selected SRT file or right-click on the timeline and then choose the Advanced Edit option.
@@ -115,6 +133,9 @@ Step3 Now, the software can be used for performing an array of SRT editing funct
 
 Step4 Once the subtitle file is edited, right-click and then choose the Export Subtitle File option.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![open srt using wondershare filmora 3](https://images.wondershare.com/filmora/article-images/2022/09/srt-file-how-to-open-srt-file-09.jpg)
 
 ## Final Words
@@ -146,3 +167,57 @@ Part 2: How to Open SRT Files in Windows 10/11?
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-elite-mp4-media-sender/"><u>[New] Elite MP4 Media Sender</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-high-speed-audio-alteration-software-summary/"><u>[New] High-Speed Audio Alteration Software Summary</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-the-game-plan-for-creating-a-hit-youtube-introduction-trailer/"><u>[New] In 2024, The Game Plan for Creating a Hit YouTube Introduction Trailer</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-quick-start-video-chatting-technique-for-snapchat-pros-for-2024/"><u>[New] Quick-Start Video Chatting Technique for Snapchat Pros for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-syncopate-screen-a-beginners-guide-to-mobile-video-making/"><u>[New] Syncopate Screen  A Beginner's Guide to Mobile Video Making</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-crafting-impactful-documentary-stories/"><u>[New] The Art of Crafting Impactful Documentary Stories</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-power-of-multitasking-mastering-ffpm/"><u>[New] The Power of Multitasking  Mastering FFPM</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tomorrows-examination-innovative-approaches/"><u>[New] Tomorrow’s Examination  Innovative Approaches</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transformative-tech-effortlessly-turning-phones-into-vr-gear/"><u>[New] Transformative Tech  Effortlessly Turning Phones Into VR Gear</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-turbocharged-windows-content-assessment/"><u>[New] Turbocharged Windows Content Assessment</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-understanding-your-srt-equipment-like-a-pro/"><u>[New] Understanding Your SRT Equipment Like a Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unmatched-storytelling-education-1-8-spotlight/"><u>[New] Unmatched Storytelling Education  #1-#8 Spotlight</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/1716068691809-updated-2024-approved-expert-picks-top-12-screen-recording-software-no-time-limit/"><u>[Updated] 2024 Approved  Expert Picks  Top 12 Screen Recording Software, No Time Limit!</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-pro-tiktok-intro-creation-maximizing-your-macs-capabilities/"><u>[Updated] 2024 Approved  Pro TikTok Intro Creation  Maximizing Your Mac's Capabilities</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-25-animated-visionaries-shaping-tiktok-trends/"><u>[Updated] In 2024, 25 Animated Visionaries Shaping TikTok Trends</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-cracking-the-code-to-niche-celeb-content-creators-on-insta/"><u>[Updated] In 2024, Cracking the Code to Niche Celeb Content Creators on Insta</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamlined-process-for-shaping-photos/"><u>[Updated] Streamlined Process for Shaping Photos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-complete-guide-to-hp-envy-27s-4k-features/"><u>[Updated] The Complete Guide to HP Envy 27'S 4K Features</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-power-of-consistency-steps-to-increase-youtube-views-and-subscriptions/"><u>[Updated] The Power of Consistency  Steps to Increase YouTube Views and Subscriptions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-gopro-feature-list-matchup/"><u>[Updated] The Ultimate Gopro Feature List Matchup</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-selecting-android-and-ios-clocks-for-weddings/"><u>[Updated] The Ultimate Guide to Selecting Android and iOS Clocks for Weddings</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-transform-your-youtube-footage-into-cinematic-delight-with-imovie-expertise/"><u>[Updated] Transform Your YouTube Footage Into Cinematic Delight with iMovie Expertise</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tricks-to-simulate-quantum-leap-phenomena/"><u>[Updated] Tricks to Simulate Quantum Leap Phenomena</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-5-affordable-pinterest-video-downloaders-unveiled/"><u>2024 Approved  Top 5 Affordable, Pinterest Video Downloaders Unveiled</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transform-your-footage-with-pro-tips-for-gopro-time-lapses/"><u>2024 Approved  Transform Your Footage with Pro Tips for GoPro Time Lapses</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleashing-full-potential-of-firefox-x-pie-mode/"><u>2024 Approved  Unleashing Full Potential of Firefox X-Pie Mode</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleashing-hidden-features-funimate-guide/"><u>2024 Approved  Unleashing Hidden Features - Funimate Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-the-art-of-photographic-posts-on-instagram/"><u>2024 Approved  Unlocking the Art of Photographic Posts on Instagram</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-the-world-of-no-cost-picture-frame-movies/"><u>2024 Approved  Unlocking the World of No-Cost Picture Frame Movies</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-contacts-from-nord-3-5g-by-fonelab-android-recover-contacts/"><u>Best Android Data Recovery - Retrieve Lost Contacts from Nord 3 5G.</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/enhancing-discord-communication-addition-of-emoji-based-statues/"><u>Enhancing Discord Communication  Addition of Emoji-Based Statues</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/how-to-live-stream-gopro-to-facebook-and-periscope-in-2024/"><u>How to Live Stream Gopro to Facebook and Periscope, In 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-v27e-bootloader-easily-by-drfone-android/"><u>How to Unlock Vivo V27e Bootloader Easily</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-avoid-common-errors-while-spinning-videos-in-android-apps/"><u>In 2024, Avoid Common Errors While Spinning Videos in Android Apps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-infuse-melodies-into-powerpoint-visuals/"><u>In 2024, Infuse Melodies Into PowerPoint Visuals</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-screen-it-right-best-free-apps-for-mac-and-windows-recording/"><u>In 2024, Screen It Right! Best Free Apps for Mac and Windows Recording</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-realme-11-proplus-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Realme 11 Pro+ Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-superior-routes-converting-pinners-videos-into-music-files/"><u>In 2024, Superior Routes  Converting Pinners' Videos Into Music Files</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-power-of-asmr-discovering-its-advantages/"><u>In 2024, The Power of ASMR  Discovering Its Advantages</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-10-extensions-for-speeding-up-facebook-videos-effortlessly/"><u>In 2024, Top 10 Extensions for Speeding up Facebook Videos Effortlessly</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-guide-to-7-superior-video-players-on-mac/"><u>In 2024, Ultimate Guide to 7 Superior Video Players on Mac</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unraveling-cuts-in-imovie-size-modification-mystery/"><u>In 2024, Unraveling Cuts in iMovie  Size Modification Mystery</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revealing-the-hidden-search-bar-in-win11s-task-manager/"><u>Revealing the Hidden Search Bar in Win11's Task Manager</u></a></li>
+<li><a href="https://some-skills.techidaily.com/stream-with-clarity-ranking-the-best-6-microphones-today-for-2024/"><u>Stream with Clarity  Ranking the Best 6 Microphones Today for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-fresh-film-enthusiasts-primer-on-visual-quality-for-2024/"><u>The Fresh Film Enthusiast’s Primer on Visual Quality for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-most-popular-free-soundtrack-sites-for-gamers-for-2024/"><u>The Most Popular Free Soundtrack Sites for Gamers for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-5-slick-online-apps-for-direct-gif-to-video-updates-for-2024/"><u>Top 5 Slick Online Apps for Direct GIF to Video Updates for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-your-gaming-experience-kinemaster-pros-and-10-online-counterparts-for-2024/"><u>Transform Your Gaming Experience  KineMaster Pros & 10 Online Counterparts for 2024</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-infinix-smart-7-hd-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Infinix Smart 7 HD Hard Reset | Dr.fone</u></a></li>
+</ul></div>

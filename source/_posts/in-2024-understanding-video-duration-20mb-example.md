@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Understanding Video Duration  20MB Example\""
-date: 2024-06-04T03:28:02.863Z
-updated: 2024-06-05T03:28:02.863Z
+date: 2024-07-22T03:42:05.178Z
+updated: 2024-07-23T03:42:05.178Z
 tags: 
   - screen-recording
   - ai video
@@ -80,12 +80,19 @@ Run Video Editor after installing it. Then, on your computer, click the "Import"
 
 * **Choose a video to watch.**
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-2.jpg)
 
 Then, on the Video or Audio timeline, drag and drop your video or audio file. Select your preferred video or audio format by clicking EXPORT. Click the Device tab and select the right device from the list of presets if you want to play the completed file on a mobile device like an iPhone, iPad, iPad, or Zune.
 
 * **Change the video or audio file's bitrate.**
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-3.jpg)
 
 After that, select SETTINGS. You can modify audio settings like encoder, sample rate, channel, and bitrate, as well as video parameters like encoder, frame rate, resolution, and bitrate, in the new window that appears. Simply select the needed value from the bitrate list to change the bitrate.
@@ -144,6 +151,9 @@ How many video minutes are there per gigabyte? One GB of digital storage may hol
 
 How many minutes of video is 100 megabytes of data used? A YouTube video that lasts 20 minutes uses about 100MB.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-1.jpg)
 
 Run Video Editor after installing it. Then, on your computer, click the "Import" button to locate the file you want to change the bitrate on, and then "Open." Drag and drop files into Video Editor from the Windows Explorer window
@@ -152,6 +162,9 @@ Run Video Editor after installing it. Then, on your computer, click the "Import"
 
 * **Choose a video to watch.**
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-2.jpg)
 
 Then, on the Video or Audio timeline, drag and drop your video or audio file. Select your preferred video or audio format by clicking EXPORT. Click the Device tab and select the right device from the list of presets if you want to play the completed file on a mobile device like an iPhone, iPad, iPad, or Zune.
@@ -168,6 +181,9 @@ Take note that Lowering the bitrate can help you compress your media files. The 
 
 * Magisto ( Supports IOS, Android, Online )
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-4.jpg)
 
 Magisto, which is owned by Vimeo, allows you to create amazing videos in three simple steps: You'll start by selecting your video editing style (the type of story you want to tell), then the photos and video clips you want to include, and finally, music from Magisto's built-in library.
@@ -182,6 +198,9 @@ ActivePresenter is a watermark-free screen recorder and video editor. Screencast
 
 * Openshot ( Supports Windows, Mac )
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-6.jpg)
 
 OpenShot is a free and versatile video editing and creation program. You may use the software to create professional-looking movies out of your photos, videos, and music files. Subtitles, special effects, and transitions can all be readily added. The videos that are made can be exported to DVD, Xbox 360, Vimeo, YouTube, and a variety of other formats.
@@ -240,3 +259,60 @@ How many minutes of video is 100 megabytes of data used? A YouTube video that la
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-enhance-photo-fun-with-the-coolest-snapchat-lenses/"><u>[New] 2024 Approved  Enhance Photo Fun with the Coolest Snapchat Lenses</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-crafting-captivating-youtube-closures-expert-guides-included-for-2024/"><u>[New] Crafting Captivating YouTube Closures - Expert Guides Included for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-essence-of-e-story-creation-techniques/"><u>[New] The Essence of E-Story Creation Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-path-to-proliferation-expanding-your-youtube-tribe/"><u>[New] The Path to Proliferation  Expanding Your Youtube Tribe</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tints-and-tonality-applying-theoretical-insight/"><u>[New] Tints & Tonality  Applying Theoretical Insight</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-alternative-to-samsungs-360-vr-camera/"><u>[New] Top Alternative to Samsung’s 360 VR Camera</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-tier-mobile-and-desktop-player-for-avis/"><u>[New] Top-Tier Mobile and Desktop Player for AVIs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transforming-footage-a-guide-to-gopro-color-tweaks/"><u>[New] Transforming Footage  A Guide to GoPro Color Tweaks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-conversion-manual-from-srt-to-various-formats/"><u>[New] Ultimate Conversion Manual  From SRT to Various Formats</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-creative-potential-the-artful-application-of-luts-in-premiere-pro/"><u>[New] Unlocking Creative Potential  The Artful Application of LUTs in Premiere Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-the-potential-of-virtual-backgrounds-in-webcasters-arsenal/"><u>[New] Unlocking the Potential of Virtual Backgrounds in Webcasters' Arsenal</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-5-excellent-mac-livestream-software/"><u>[New] Unveiling 5 Excellent Mac Livestream Software</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-enhancing-your-tiktok-videography-with-slow-motion-techniques-for-2024/"><u>[Updated] Enhancing Your TikTok Videography with Slow-Motion Techniques for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-exploring-the-world-of-youtube-channel-naming-innovative-ideas-for-vloggers-and-filmmakers-no-more-than-156-characters-for-2024/"><u>[Updated] Exploring the World of YouTube Channel Naming  Innovative Ideas For Vloggers & Filmmakers (No More than 156 Characters) for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastery-in-radio-theatre-craftsm-written/"><u>[Updated] Mastery in Radio-Theatre Craftsm Written</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streaming-software-showdown-the-verdict-on-wirecast-vs-obs/"><u>[Updated] Streaming Software Showdown  The Verdict on Wirecast Vs. OBS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tailoring-rss-files-for-impact-a-podcasters-blueprint/"><u>[Updated] Tailoring RSS Files for Impact  A Podcaster's Blueprint</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-trendsetters-in-virtual-reality-headsets/"><u>[Updated] Trendsetters in Virtual Reality Headsets</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-top-11-gk-quizzes-best-online-channels-2024/"><u>[Updated] Ultimate Top 11 GK Quizzes  Best Online Channels 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unbeatable-summer-movie-list-10-familial-classics/"><u>[Updated] Unbeatable Summer Movie List  10 Familial Classics</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-advanced-practices-for-capturing-iptv-visuals/"><u>2024 Approved  Advanced Practices for Capturing IPTV Visuals</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-lasting-freedom-how-to-banish-youtube-shorts-permanently/"><u>2024 Approved  Lasting Freedom  How To Banish YouTube Shorts Permanently</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-your-twitter-videos-with-pro-convertors/"><u>2024 Approved  Streamline Your Twitter Videos with Pro Convertors</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-decades-guide-to-superior-social-media-management-smm/"><u>2024 Approved  The Decade's Guide to Superior Social Media Management (SMM)</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-the-insiders-look-how-to-change-and-enhance-tiktok-audio-quality/"><u>2024 Approved  The Insider’s Look  How to Change and Enhance TikTok Audio Quality</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-smart-shoppers-guide-to-cloud-services-cost/"><u>2024 Approved  The Smart Shopper's Guide to Cloud Services Cost</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-voice-modification-tools-essential-choices-for-vtuber-creators/"><u>2024 Approved  Top Voice Modification Tools  Essential Choices for VTuber Creators</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-scenes-with-ease-your-gopro-time-lapse-guide/"><u>2024 Approved  Transforming Scenes with Ease  Your GoPro Time-Lapse Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-twitter-video-streams-download-and-convert-to-mp3/"><u>2024 Approved  Twitter Video Streams  Download & Convert to MP3</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-rotation-video-mounting/"><u>2024 Approved  Ultimate Rotation Video Mounting</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/2024-approved-pro-level-video-stabilization-on-your-phone-top-apps/"><u>2024 Approved Pro-Level Video Stabilization on Your Phone Top Apps</u></a></li>
+<li><a href="https://driver-install.techidaily.com/amplify-systems-visual-capabilities/"><u>Amplify System's Visual Capabilities</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-list-the-premier-mobile-dvd-units/"><u>Essential List  The Premier Mobile DVD Units</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Honor Play 40C? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-jump-into-gaming-evolution-explore-lgs-27ud68-monitor/"><u>In 2024, Jump Into Gaming Evolution  Explore LG's 27UD68 Monitor</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-vivo-y55s-5g-2023-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Vivo Y55s 5G (2023) Device</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-superior-vistas-for-digital-viewership/"><u>In 2024, Superior Vistas for Digital Viewership</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-top-strategies-for-box-enthusiasts/"><u>In 2024, The Top Strategies for Box Enthusiasts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-time-honored-tech-selfies-with-iphone-x/"><u>In 2024, Time-Honored Tech  Selfies with iPhone X</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-understanding-snapchats-high-value-content/"><u>In 2024, Understanding Snapchat's High-Value Content</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-the-secrets-of-turning-online-videos-into-desktop-music-files/"><u>In 2024, Unlocking the Secrets of Turning Online Videos Into Desktop Music Files</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-best-10-online-background-variant-software/"><u>In 2024, Unveiling the Best 10 Online Background Variant Software</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-vegaspros-new-era-reviewed-2019/"><u>In 2024, VegasPro's New Era Reviewed (2019)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-versions-of-windows-movie-maker/"><u>In 2024, Versions of Windows Movie Maker</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/jumpstart-your-day-top-10-motivational-feel-good-flicks/"><u>Jumpstart Your Day  Top 10 Motivational Feel-Good Flicks</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/leading-10-decibel-boosters-windows-macos-iphones-for-2024/"><u>Leading 10 Decibel Boosters  Windows, MacOS, iPhones for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-top-web-based-audio-visualization-tools/"><u>New In 2024, Top Web-Based Audio Visualization Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/synthesizing-clarity-a-complete-voice-note-taking-course-for-2024/"><u>Synthesizing Clarity  A Complete Voice Note-Taking Course for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tips-and-tricks-for-effective-azure-speech-to-text-use-for-2024/"><u>Tips and Tricks for Effective Azure Speech-to-Text Use for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-iphone-filming-software-catalog-for-2024/"><u>Top iPhone Filming Software Catalog for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/why-is-ipogo-not-working-on-nubia-red-magic-9-pro-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Nubia Red Magic 9 Pro? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-terminal-tailoring-the-visual-experience/"><u>Windows Terminal: Tailoring the Visual Experience</u></a></li>
+</ul></div>

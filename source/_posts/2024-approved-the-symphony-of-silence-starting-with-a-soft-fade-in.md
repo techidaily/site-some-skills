@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Symphony of Silence  Starting with a Soft Fade In\""
-date: 2024-06-04T08:28:18.522Z
-updated: 2024-06-05T08:28:18.522Z
+date: 2024-07-22T06:43:57.757Z
+updated: 2024-07-23T06:43:57.757Z
 tags: 
   - screen-recording
   - ai video
@@ -41,6 +41,9 @@ If you have audio that starts quite abruptly and you'd like to add a fade, Audit
 * Now, if you pull the Heads-Up Display out of the way and click and then drag right on the icon, you will see a fade in there which is a little bit longer than you need.
 * If you go up to your Effects menu and go to your Amplitude and Compression section, you have got a Fade Envelope and a Gain Envelope.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![amplitude and compression adobe audition](https://images.wondershare.com/filmora/article-images/2022/08/amplitude-and-compression-adobe-audition.jpg)
 
 * Now, if you choose Fade Envelope and of course, it is giving you the fade right the way through the audio. It will adjust for you and this is based on a Smooth Fade In.
@@ -51,6 +54,9 @@ If you have audio that starts quite abruptly and you'd like to add a fade, Audit
 * If you click on this yellow line, you can drag it in situ and reshape it any way you want and you can create any kind of stepped fade you want.
 * If you go back into your effects, go back into Amplitude and Compression and this time, Choose Gain envelope. Now, you will get the yellow line flowing right the way through the audio.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![gain envelop adobe audition](https://images.wondershare.com/filmora/article-images/2022/08/gain-envelop-adobe-audition.jpg)
 
 * Now exactly, in the same way, you can go in and begin to make adjustments. Now, when you make a selection here, Audition compresses your adjustments into that selected region. You will need to be a little careful about that when working with these effects. So, you can add fades very easily at any time by clicking on the handles at the top right and left of Waveform Display, or you can use dedicated effects for the purpose.
@@ -65,6 +71,9 @@ You can also split audio, adjust audio, replace the original audio of a video, a
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ### **Steps to use [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) to fade audio:**
 
 * First, do the installation of Filmora software from the home screen and set the default procedure for a successful installation, and then open it. Now, to your timeline, add your desired audio file, and then, opt for double-clicking on the same for opening the Audio editing menu.
@@ -76,16 +85,28 @@ You can also split audio, adjust audio, replace the original audio of a video, a
 * At the starting point of an audio clip, opt for dragging the fade-in maker that is to the right side. Then, opt for the application of the fade-in effect.
 * Now, opt for the clip's end, and then, opt for dragging the fade-out maker i.e. to the left side. This is for the addition of a fade-out effect. There is one thing to keep in mind if you drag it further, the fade effect lasts for a longer time.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3\. Related FAQs
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### 1\. How do you fade in multitrack in Audition?
 
 If you want to fade in and fade out two clips at the same time, then controlling just one track or multiple tracks will allow you to do fades on multiple audios inside the multitrack in Adobe Audition.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. How do you do a master fade in Audition?
 
 Select the option of amplifying the effects i.e., amplitude and compression. Do the necessary adjustments there. Then, go to effects and click on Special, and from there, select Mastering.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. Adobe Audition fade-out greyed out?
 
 Fade-in and fade-out options are available in the top-left and right corners of the waveform. Right-clicking in the project panel will produce no ability to work in the audition. That option is called grey out. Whatever you want to look for won't work in this view.
@@ -122,3 +143,60 @@ Adobe Audition has always been a powerful platform for audio editing. But as eve
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-apex-producer-syncing-shots-and-songs/"><u>[New] Apex Producer  Syncing Shots & Songs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-nikon-z6i-vs-d7500-in-depth-comparison/"><u>[New] Nikon Z6I vs D7500 In-Depth Comparison</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-the-8-best-zombie-games-for-2024/"><u>[New] The 8 Best Zombie Games for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-definitive-iphone-podcast-download-guide/"><u>[New] The Definitive iPhone Podcast Download Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-essential-guide-to-podcast-creation-in-garageband/"><u>[New] The Essential Guide to Podcast Creation in GarageBand</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-legally-sharing-tunes-on-instagram/"><u>[New] The Ultimate Guide to Legally Sharing Tunes on Instagram</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-kinemaster-guide-to-green-screening/"><u>[New] The Ultimate KineMaster Guide to Green Screening</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-black-battery-compatibility-with-gopro-hero5/"><u>[New] Ultimate Black Battery Compatibility with GoPro Hero5</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unforgettable-stop-motion-films-an-overview/"><u>[New] Unforgettable Stop-Motion Films - An Overview</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-best-ps5-and-xbox-gaming-monitors/"><u>[New] Unveiling the Best PS5 & Xbox Gaming Monitors</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-12-simple-tricks-to-make-your-youtube-videos-go-viral/"><u>[Updated] 12 Simple Tricks to Make Your YouTube Videos Go Viral</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-conquering-the-labyrinth-of-lesser-known-youtube-content/"><u>[Updated] 2024 Approved  Conquering the Labyrinth of Lesser-Known YouTube Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-last-to-first-deconstructing-your-video-watch-list-for-2024/"><u>[Updated] From Last to First  Deconstructing Your Video Watch List for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-taking-solo-shots-from-videos-in-windows-10-photos-interface/"><u>[Updated] Taking Solo Shots From Videos in Windows 10 Photos Interface</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-complete-beginners-manual-to-using-final-cut-pro/"><u>[Updated] The Complete Beginner's Manual to Using Final Cut Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-role-of-rhythm-and-pitch-in-trailer-tunes/"><u>[Updated] The Role of Rhythm and Pitch in Trailer Tunes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-key-to-exploring-without-boundaries-through-vr/"><u>[Updated] The Ultimate Key to Exploring Without Boundaries Through VR</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-recorders-companion-for-clear-notes/"><u>[Updated] The Ultimate Recorder's Companion for Clear Notes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-15-tips-for-accessing-nba-games-online/"><u>[Updated] Top 15 Tips for Accessing NBA Games Online</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-8-innovative-glasses-for-entering-metaverse-worlds/"><u>[Updated] Top 8 Innovative Glasses for Entering Metaverse Worlds</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlock-creative-expression-master-device-based-filters-and-effects/"><u>[Updated] Unlock Creative Expression  Master Device-Based Filters and Effects</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlock-virtual-worlds-top-10-pc-games-for-ultimate-vr-experience/"><u>[Updated] Unlock Virtual Worlds  Top 10 PC Games for Ultimate VR Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-path-to-costless-image-archives/"><u>[Updated] Unveiling the Path to Costless Image Archives</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-professional-photography-hacks-top-cinematic-tips/"><u>2024 Approved  Professional Photography Hacks  Top Cinematic Tips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-conversion-boosting-click-through-rates-on-social-platforms/"><u>2024 Approved  The Art of Conversion  Boosting Click-Through Rates on Social Platforms</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-best-mp4-players-handpicked/"><u>2024 Approved  The Best MP4 Players Handpicked</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-essential-handbook-for-instagram-reels/"><u>2024 Approved  The Essential Handbook for Instagram Reels</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-experts-techniques-for-clearing-figma-backdrops/"><u>2024 Approved  The Expert's Techniques for Clearing Figma Backdrops</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-harmony-of-collaboration-brands-and-youtube-unite/"><u>2024 Approved  The Harmony of Collaboration  Brands & YouTube Unite</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-takes-2022-skating-spectaculars/"><u>2024 Approved  Top Takes - 2022 Skating Spectaculars</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-twitter-vids-to-mp3-easy-extraction-techniques/"><u>2024 Approved  Twitter Vids to MP3  Easy Extraction Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultraview-app-functionality-survey/"><u>2024 Approved  UltraView App Functionality Survey</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unboxing-the-typhoon-h-yuneecs-drone-expertise/"><u>2024 Approved  Unboxing the Typhoon H  Yuneec's Drone Expertise</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-global-music-stream-service-for-2024/"><u>Best Global Music Stream Service for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/chucklecraft-constructor-for-2024/"><u>ChuckleCraft Constructor for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elevate-your-photos-utilizing-luts-in-adobes-image-editor/"><u>Elevate Your Photos  Utilizing LUTs in Adobe's Image Editor</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/te-your-video-popularity-essential-seo-techniques-for-success/"><u>Elevate Your Video Popularity  Essential SEO Techniques for Success</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-xiaomi-s-lock-screen-pattern-pin-or-password-by-drfone-android-unlock-android-unlock/"><u>How to bypass Xiaomi ’s lock screen pattern, PIN or password</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How to Check Distance and Radius on Google Maps For your Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-mc-homes-that-define-virtual-villages/"><u>In 2024, MC Homes that Define Virtual Villages</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-superior-communication-optimal-use-of-zoom-in-skype-sessions/"><u>In 2024, Unlocking Superior Communication  Optimal Use of ZOOM in Skype Sessions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-the-secrets-of-google-podcast-uploads/"><u>In 2024, Unlocking the Secrets of Google Podcast Uploads</u></a></li>
+<li><a href="https://facebook.techidaily.com/including-all-even-the-hidden-faces-of-your-group/"><u>Including All, Even the Hidden Faces of Your Group</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/mastery-in-stardew-navigating-the-intricacies-of-ginger-isle/"><u>Mastery in Stardew  Navigating the Intricacies of Ginger Isle</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/mimicking-marvels-how-to-create-comedic-videos/"><u>Mimicking Marvels  How to Create Comedic Videos</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/most-essential-free-comedy-tunes-a-selection-for-online-content-creators/"><u>Most Essential Free Comedy Tunes A Selection for Online Content Creators</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-the-ultimate-list-slow-motion-video-editing-solutions/"><u>New In 2024, The Ultimate List Slow Motion Video Editing Solutions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-sound-transition-in-logic-pro-x-for-2024/"><u>The Art of Sound Transition in Logic Pro X for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-art-of-subscriber-chatter-best-practices-for-comments/"><u>The Art of Subscriber Chatter  Best Practices for Comments</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-10-online-photo-editing-tools-to-unblur-photos-effectively-for-2024/"><u>Top 10 Online Photo Editing Tools to Unblur Photos Effectively for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-your-mac-interface-with-speech-recognition-software-review-for-2024/"><u>Transform Your Mac Interface with Speech Recognition Software Review for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-creative-expression-master-device-based-filters-and-effects-for-2024/"><u>Unlock Creative Expression  Master Device-Based Filters and Effects for 2024</u></a></li>
+</ul></div>

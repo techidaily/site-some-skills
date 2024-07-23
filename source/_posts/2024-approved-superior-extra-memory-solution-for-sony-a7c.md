@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Superior Extra Memory Solution for Sony A7C\""
-date: 2024-06-04T00:45:36.728Z
-updated: 2024-06-05T00:45:36.728Z
+date: 2024-07-22T01:59:30.671Z
+updated: 2024-07-23T01:59:30.671Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/06e8346e5608d987194209ad6987c897b2a9a9792
 
 # Best Memory Card for Sony A7S II
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -30,6 +33,9 @@ thumbnail: https://thmb.techidaily.com/06e8346e5608d987194209ad6987c897b2a9a9792
 
  The article below can help you to select right memory cards for your Sony A7S II camera:
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ## How to choose the right memory card for your Sony A7S II
 
 #### Section 1: UHS (Ultra High Speed) Card Classification
@@ -67,6 +73,9 @@ thumbnail: https://thmb.techidaily.com/06e8346e5608d987194209ad6987c897b2a9a9792
 * Note that there is no money saving deal in memory card price ranges. When you go to buy a 128GB memory card it will naturally cost same as if you buy two 64GB cards.
 * The SD cards are small sized, compact units so whether you carry a 64GB card in your pocket or choose a 128GB package, none of these are going to put additional weight on your pocket.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Best Memory Cards for Sony A7S II
 
 #### 1. Sony 64GB High Performance Class 10 UHS-1/U3 SDXC
@@ -105,6 +114,9 @@ thumbnail: https://thmb.techidaily.com/06e8346e5608d987194209ad6987c897b2a9a9792
 * Extreme Pro is compatible with SDXC devices.
 * Ensures perfect results for Full HD, 3D and 4K resolution levels.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -121,6 +133,9 @@ Follow @Max Wales
 
  The article below can help you to select right memory cards for your Sony A7S II camera:
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to choose the right memory card for your Sony A7S II
 
 #### Section 1: UHS (Ultra High Speed) Card Classification
@@ -158,6 +173,9 @@ Follow @Max Wales
 * Note that there is no money saving deal in memory card price ranges. When you go to buy a 128GB memory card it will naturally cost same as if you buy two 64GB cards.
 * The SD cards are small sized, compact units so whether you carry a 64GB card in your pocket or choose a 128GB package, none of these are going to put additional weight on your pocket.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ## Best Memory Cards for Sony A7S II
 
 #### 1. Sony 64GB High Performance Class 10 UHS-1/U3 SDXC
@@ -228,3 +246,46 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-tailored-tv-experience-via-social-media-content/"><u>[New] 2024 Approved  Tailored TV Experience via Social Media Content</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-chuckles-and-challenges-best-fun-for-young-minds-for-2024/"><u>[New] Chuckles & Challenges - Best Fun for Young Minds for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-transform-your-online-reputation-and-increase-your-social-media-following/"><u>[New] In 2024, Transform Your Online Reputation and Increase Your Social Media Following</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-real-life-quantum-mechanics-on-the-silver-screen/"><u>[New] Real-Life Quantum Mechanics on the Silver Screen</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-step-by-step-approach-for-stellar-gopro-videos/"><u>[New] Step-By-Step Approach for Stellar GoPro Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamlined-techniques-for-ios-image-sharing/"><u>[New] Streamlined Techniques for iOS Image Sharing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-list-of-ios-tools-for-erasing-intrusive-images/"><u>[New] The Ultimate List of iOS Tools for Erasing Intrusive Images</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-gamers-guide-to-live-platforms-1-9/"><u>[New] Top Gamer's Guide to Live Platforms #1-#9</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transforming-viral-tiktok-sounds-into-personalized-calls/"><u>[New] Transforming Viral TikTok Sounds Into Personalized Calls</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-successful-srt-shipping-out-of-premiere/"><u>[New] Unlocking Successful SRT Shipping Out of Premiere</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-exciting-photography-aspects-of-ios-11/"><u>[New] Unveiling Exciting Photography Aspects of iOS 11</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-rise-of-the-gaming-titans-top-10-on-tiktok/"><u>[Updated] In 2024, Rise of the Gaming Titans  Top 10 on TikTok</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-jest-in-jam-your-complete-manual-to-cartoon-snaps-on-snapchat/"><u>[Updated] Jest in Jam  Your Complete Manual to Cartoon Snaps on Snapchat</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-prime-20-opening-melodies-in-animation/"><u>[Updated] Prime 20 Opening Melodies in Animation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-essential-guide-to-youtube-time-tracking/"><u>[Updated] The Essential Guide to YouTube Time Tracking</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-time-lapse-magic-animation-through-the-lens-of-movie-maker/"><u>[Updated] Time-Lapse Magic  Animation Through the Lens of Movie Maker</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-5-methods-to-record-high-quality-audio-on-windows/"><u>[Updated] Top 5 Methods to Record High-Quality Audio on Windows</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-ultimate-list-of-youtube-entrance-software/"><u>[Updated] Ultimate List of YouTube Entrance Software</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-iphones-full-podcast-potential/"><u>[Updated] Unlocking iPhone's Full Podcast Potential</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-mysteries-of-firefoxs-pip-mode/"><u>[Updated] Unveiling the Mysteries of Firefox’s PIP Mode</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-vivacuts-latest-innovations-a-deep-dive-into-the-2024-update/"><u>[Updated] Unveiling VivaCut's Latest Innovations  A Deep Dive Into the 2024 Update</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/1kplus-followers-in-a-flash-the-youtube-ultimate-playbook-for-2024/"><u>1K+ Followers in a Flash  The YouTube Ultimate Playbook for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/2024-approved-trimming-videos-will-almost-always-result-in-quality-loss-here-are-the-three-best-video-cutters-you-can-use-to-edit-videos-without-losing-qual/"><u>2024 Approved Trimming Videos Will Almost Always Result in Quality Loss. Here Are the Three Best Video Cutters You Can Use to Edit Videos without Losing Quality</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/essential-profit-calculators-for-aspiring-tiktok-stars/"><u>Essential Profit Calculators for Aspiring TikTok Stars</u></a></li>
+<li><a href="https://windows11.techidaily.com/impact-breakdown-the-eradication-of-taskbar-chat-in-windows-11/"><u>Impact Breakdown: The Eradication of Taskbar Chat in Windows 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-oppo-reno-11-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Oppo Reno 11 5G without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-8-premium-mp3-extraction-software-android/"><u>In 2024, Unveiling 8 Premium MP3 Extraction Software (Android)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-top-5-elite-slow-camera-systems/"><u>In 2024, Unveiling the Top 5 Elite Slow Camera Systems</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-harnessing-hidden-auditory-elements-in-videos-a-2023-approach-to-enhanced-sound-recovery/"><u>New 2024 Approved Harnessing Hidden Auditory Elements in Videos A 2023 Approach to Enhanced Sound Recovery</u></a></li>
+<li><a href="https://some-skills.techidaily.com/streamlined-audio-processing-in-windows-media-player-for-2024/"><u>Streamlined Audio Processing in Windows Media Player for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/streamlining-video-editing-in-obs-with-luts-for-2024/"><u>Streamlining Video Editing in OBS With LUTs for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/sustaining-system-stability-returning-to-el-capitan-for-2024/"><u>Sustaining System Stability  Returning to El Capitan for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-handbook-for-swapping-music-libraries-for-2024/"><u>The Ultimate Handbook for Swapping Music Libraries for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-vivo-x-fold-2-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Vivo X Fold 2</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/top-custom-font-services-for-discord-on-iosandroid-devices-for-2024/"><u>Top Custom Font Services for Discord on iOS/Android Devices for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-the-full-capabilities-of-windows-11-for-2024/"><u>Unlocking the Full Capabilities of Windows 11 for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-best-free-user-friendly-srt-translators-online-for-2024/"><u>Unveiling Best Free, User-Friendly SRT Translators Online for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-effortless-conversion-a-step-by-step-guide-to-youtube-mp3-converters-for-2024/"><u>Updated Effortless Conversion A Step-by-Step Guide to YouTube MP3 Converters for 2024</u></a></li>
+</ul></div>

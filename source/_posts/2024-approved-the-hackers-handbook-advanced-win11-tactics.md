@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Hacker's Handbook  Advanced Win11 Tactics\""
-date: 2024-06-04T06:03:16.156Z
-updated: 2024-06-05T06:03:16.156Z
+date: 2024-07-22T05:16:44.967Z
+updated: 2024-07-23T05:16:44.967Z
 tags: 
   - screen-recording
   - ai video
@@ -30,12 +30,18 @@ Windows is nowhere to rock the world! If you are so excited about updating your 
 
 #### 1. Personalize the Start Menu
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![a8](https://images.wondershare.com/windows10/a8.png)
 
 The start menu of Windows 10 is now resizable. It can be quote odd for many but it is really surprising to know that with Windows 10, you can now customize the start menu and change its size to the extent you want. You now have the option to make it taller or wider as you like. If you wish to have the start menu taking up the whole left portion of the screen of your laptop or you want a thin strip transversely the taskbar, well that is now possible with Windows 10\. The taskbar is also resizable and that means you have the ability to some weird and pretty cool stuff with your device. You will surely find that having a resizable Start Menu is cool.
 
 #### 2. Using Cortana in Windows 10
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![update win10 13](https://images.wondershare.com/windows10/update-win10-13.png)
 
 Cortana is finally here in Windows 10, taking control of the search functions as well as dishing out as much sass of the operating system in the same way with Windows Phone edition. On the other hand, by default, it will never listen and follow your commands.
@@ -46,6 +52,10 @@ While you are poking around the Cortana’s options, you may dive in the Noteboo
 
 #### 3. Additional Apps you should try
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ![xbox games windows10](https://images.wondershare.com/windows10/xboy-games-windows10-1.png)
 
 The current Windows 10’s preview comes with some interesting apps like the new Xbox app, Insider Hub, Project Spartan web browser, Windows Feedback and a lot more. Though they are good apps to use when you want to get started in using Windows 10, Microsoft is likewise making available the preview of touch-friendly editions of Microsoft Word, Excel as well as the PowerPoint. All of these are known to be universal apps and that means similar code is running on the phones, PCs and tablets.
@@ -62,6 +72,9 @@ Windows Key-Tab open and leaves open the new task view to show all the running a
 
 #### 5. Using Virtual Desktop Feature
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![taskview](https://images.wondershare.com/filmora/article-images/taskview.jpg)
 
 Virtual desktops are among the most favorites of most Windows users and it is one of the coolest features of the new Windows 10\. You could move programs between a virtual desktop & another. To make it happen, when you are running different desktops, you proceed to Task View through pressing the Windows Key-Tab combo. You right click the app you want to transfer from a virtual desktop to the other, choose “Move To” and then you move the app to the desktop where it should go.
@@ -76,6 +89,9 @@ This is quite simple yet most people make use of the very capable contemporary e
 
 #### 7. New Edge Browser
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![edge](https://images.wondershare.com/filmora/article-images/edge.jpg)
 
 Most users were tired and sick of the Internet Explorer’s incompatibility with a few newer websites. They also hate the sluggish performance of the previous versions. While the latest editions of Internet Explorer have created some significant gains in these aspects, the new Edge Browser of Windows 10 can make a neat and perfect break and it also offers better speed as well as new compatibility which is likely to surprise you. Besides, it now comes with a number of tools that are not available in Internet Explorer and these include the site annotation, extensions and reading view.
@@ -102,6 +118,13 @@ The start menu of Windows 10 is now resizable. It can be quote odd for many but 
 
 #### 2. Using Cortana in Windows 10
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ![update win10 13](https://images.wondershare.com/windows10/update-win10-13.png)
 
 Cortana is finally here in Windows 10, taking control of the search functions as well as dishing out as much sass of the operating system in the same way with Windows Phone edition. On the other hand, by default, it will never listen and follow your commands.
@@ -120,6 +143,9 @@ On the other hand, Microsoft did not release similar apps that are optimized for
 
 #### 4. New Keyboard Shortcuts
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![Windows 10 keyboard shortcuts](https://images.wondershare.com/filmora/article-images/Windows-10-keyboard-shortcuts.png)
 
 Most of them include the Windows key. The New window-snapping choices allow you not just to fill partially the screen on one side but also the screen quadrant. Also, you may tap the Windows key downward and hit “Right Arrow” and the “Up Arrow”. With that, the program window would move to the top quadrant at the right side of the screen.
@@ -142,6 +168,9 @@ This is quite simple yet most people make use of the very capable contemporary e
 
 #### 7. New Edge Browser
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![edge](https://images.wondershare.com/filmora/article-images/edge.jpg)
 
 Most users were tired and sick of the Internet Explorer’s incompatibility with a few newer websites. They also hate the sluggish performance of the previous versions. While the latest editions of Internet Explorer have created some significant gains in these aspects, the new Edge Browser of Windows 10 can make a neat and perfect break and it also offers better speed as well as new compatibility which is likely to surprise you. Besides, it now comes with a number of tools that are not available in Internet Explorer and these include the site annotation, extensions and reading view.
@@ -178,3 +207,47 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-smallscreenvid-recorder-critique-for-2024/"><u>[New] SmallScreenVid Recorder Critique for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-essential-guide-to-exploring-youtube-comments/"><u>[New] The Essential Guide to Exploring YouTube Comments</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-directory-top-10-sources-for-free-graphics/"><u>[New] The Ultimate Directory  Top 10 Sources for Free Graphics</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-5-fast-framing-homemade-tips-for-pros/"><u>[New] Top 5 Fast-Framing Homemade Tips for Pros</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-rated-shot-recording-gear-for-the-hunter/"><u>[New] Top-Rated Shot-Recording Gear for the Hunter</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-the-power-of-multiframe-views-in-edge/"><u>[New] Unlocking the Power of Multiframe Views in Edge</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-the-ultimate-guide-to-creating-engaging-facebook-stories/"><u>[Updated] 2024 Approved  The Ultimate Guide to Creating Engaging Facebook Stories</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-expert-analysis-zdsoft-for-screen-recording-for-2024/"><u>[Updated] Expert Analysis  ZDSoft for Screen Recording for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-essence-of-burst-in-gopro-filming-techniques/"><u>[Updated] The Essence of Burst in GoPro Filming Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-pillars-of-profitable-digital-marketing/"><u>[Updated] The Pillars of Profitable Digital Marketing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-rise-of-remote-therapeutic-platforms/"><u>[Updated] The Rise of Remote Therapeutic Platforms</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-4k-experience-deep-dive-into-samsungs-ue590/"><u>[Updated] The Ultimate 4K Experience - Deep Dive Into Samsung's UE590</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-time-travelers-guide-mastering-video-speed-adjustment/"><u>[Updated] Time Traveler's Guide  Mastering Video Speed Adjustment</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-transform-your-igtv-visuals-with-updated-covers-for-2024/"><u>[Updated] Transform Your IGTV Visuals with Updated Covers for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-the-power-of-imagery-in-podcast-art/"><u>[Updated] Unlocking the Power of Imagery in Podcast Art</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-text-integration-techniques-for-digital-pictures/"><u>[Updated] Unveiling Text Integration Techniques for Digital Pictures</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unwavering-pictures-vivid-videos/"><u>[Updated] Unwavering Pictures, Vivid Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-utilizing-slug-lines-for-better-content-structure/"><u>[Updated] Utilizing Slug Lines for Better Content Structure</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streaming-stardom-versus-punch-driven-legends/"><u>2024 Approved  Streaming Stardom Versus Punch-Driven Legends</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-the-essential-toolkit-how-to-use-obs-for-youtube-and-twitch-streaming/"><u>2024 Approved  The Essential Toolkit  How to Use OBS for YouTube & Twitch Streaming</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-srt-mods-ultimate-upgrades-for-macwindows/"><u>Best SRT Mods  Ultimate Upgrades for Mac/Windows</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-8-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone 8</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-realme-narzo-n55-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Realme Narzo N55</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-average-playback-period-in-high-res-20mb-content/"><u>In 2024, Average Playback Period in High-Res 20MB Content</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-best-10-ipad-slideshow-apps-to-create-a-slideshow/"><u>In 2024, Best 10 iPad Slideshow Apps to Create a Slideshow</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-a18-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Oppo A18 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-oppo-reno-8t-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Oppo Reno 8T FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transformative-tinsel-a-journey-from-box-to-joy/"><u>In 2024, Transformative Tinsel  A Journey From Box to Joy</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-understanding-the-financial-demands-of-music-video-production/"><u>In 2024, Understanding the Financial Demands of Music Video Production</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-your-creative-potential-expert-led-audio-transition-workshops-in-audacity/"><u>In 2024, Unleashing Your Creative Potential  Expert-Led Audio Transition Workshops in Audacity</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/mac-video-editing-software-alternatives-to-pinnacle-studio-for-2024/"><u>Mac Video Editing Software Alternatives to Pinnacle Studio for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-change-video-resolution-in-filmora/"><u>New How to Change Video Resolution in Filmora</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/securing-snapshots-across-android-and-mac-platforms/"><u>Securing Snapshots Across Android and Mac Platforms</u></a></li>
+<li><a href="https://some-skills.techidaily.com/strengthening-bonds-networking-tips-for-youtube-content-creators-for-2024/"><u>Strengthening Bonds  Networking Tips for YouTube Content Creators for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-customizing-windows-photos-app-intertwining-visuals-and-audio-for-2024/"><u>The Art of Customizing Windows Photos App  Intertwining Visuals & Audio for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-tips-for-choosing-a-high-quality-4k-camera-lens-for-2024/"><u>Top Tips for Choosing a High-Quality 4K Camera Lens for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-vivas-multimedia-potential-for-2024/"><u>Unlocking Viva's Multimedia Potential for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-from-zero-to-hero-top-lyric-video-makers-online-free-and-paid/"><u>Updated From Zero to Hero Top Lyric Video Makers Online (Free and Paid)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/value-in-the-air-the-cheapest-yet-effective-drones-for-2024/"><u>Value in the Air  The Cheapest Yet Effective Drones for 2024</u></a></li>
+</ul></div>

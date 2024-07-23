@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Easy Way to Spot and View Trending YouTube Feedback"
-date: 2024-06-04T03:34:24.955Z
-updated: 2024-06-05T03:34:24.955Z
+date: 2024-07-22T03:46:19.055Z
+updated: 2024-07-23T03:46:19.055Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,9 @@ People nowadays can express their feelings and opinions online through social me
 
 People can watch, like, share, comment on, and upload videos using the YouTube service. You can access this video service on PCs, laptops, tablets, and mobile phones.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ## What Are YouTube's Primary Purposes?
 
 * Users can look up and view videos.
@@ -63,6 +66,9 @@ Given how many students have smartphones, video is an excellent medium for conne
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 ## How to See Liked Comments on YouTube?
@@ -81,6 +87,9 @@ But, if you want to retrace the videos you commented on and the videos/comments 
 
 Step1 Click on your Google Account icon and find **Your data in YouTube**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![find your data in youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-your-data-in-youtube.jpg)
 
 Step2 Scroll down a little bit and click the **More** button.
@@ -103,18 +112,30 @@ Step4 In the **Google My Activity** tab, click **Other activity**.
 
 Step5 Scroll down and find **Comment Likes and Dislikes on YouTube** section. Click **View Comment Likes and Dislikes**.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![your comment likes and dislikes](https://images.wondershare.com/filmora/article-images/2022/11/your-comment-likes-and-dislikes.jpg)
 
 Now you will see the videos you liked or disliked and also the comments you liked or disliked, including the date when you liked or disliked the video/comment.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![date likes videos youtube](https://images.wondershare.com/filmora/article-images/2022/11/date-likes-videos-youtube.jpg)
 
 This article tells you that you can't see who liked or disliked a comment, but you can see how many likes or dislikes a comment got. Then go to any video you want, scroll down to the comment section, and see how many likes or dislikes a comment received.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![likes comment received](https://images.wondershare.com/filmora/article-images/2022/11/likes-comment-received.jpg)
 
 In this image, the following comments only got likes and no dislikes. That is why there are just written numbers on the like button and on the dislike button there are none.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Respond to Comments
 
 Don't ignore someone who has questioned you or written you a heartfelt note. Keep the conversation (and engagement) going by responding to comments.
@@ -185,3 +206,45 @@ Additionally, video creators can manually highlight commenters to mark them for 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-click-inducing-headline-whiz-for-2024/"><u>[New] Click-Inducing Headline Whiz for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-30-leading-free-platforms-for-exceptional-youtube-intros/"><u>[New] In 2024, 30 Leading Free Platforms for Exceptional YouTube Intros</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-listenleaders-pursuing-better-podcasts/"><u>[New] ListenLeaders  Pursuing Better Podcasts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-panoramic-capture-9-techniques-to-perfection/"><u>[New] The Art of Panoramic Capture  9 Techniques to Perfection</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-full-picture-editpro-suite-review-of-2023/"><u>[New] The Full Picture  EditPro Suite Review of 2023</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-online-gif-video-converters/"><u>[New] The Ultimate Guide to Online GIF Video Converters</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-6-eco-friendly-affordable-4k-home-theaters/"><u>[New] Top 6 Eco-Friendly, Affordable 4K Home Theaters</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-top-tier-windows-10-screen-capture-programs-unveiled/"><u>[New] Top-Tier Windows 10 Screen Capture Programs Unveiled</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-trailblazers-in-auditory-and-visual-creation-list/"><u>[New] Trailblazers in Auditory & Visual Creation List</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-demystifying-instagram-selfies-a-comprehensive-guide/"><u>[Updated] In 2024, Demystifying Instagram Selfies  A Comprehensive Guide</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/1716490229619-updated-incor-written-a-master-level-story-in-english-containing-at-least-5-sentences-about-how-adding-text-to-videos-on-tiktok-can-enhance-user-engagement-/"><u>[Updated] Incor Written a Master Level Story in English, Containing at Least 5 Sentences, About How Adding Text to Videos on TikTok Can Enhance User Engagement and Communication. Title Should Not Exceed 156 Characters for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-complete-guide-to-harnessing-power-of-movie-maker-in-windows-8/"><u>[Updated] The Complete Guide to Harnessing Power of Movie Maker in Windows 8</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-essential-guide-to-saving-web-radio-broadcasts/"><u>[Updated] The Essential Guide to Saving Web Radio Broadcasts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tuning-into-audio-bliss-your-iphone-as-a-podcasters-companion/"><u>[Updated] Tuning Into Audio Bliss - Your iPhone as a Podcaster's Companion</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-describing-your-podcast-with-flair/"><u>2024 Approved  The Art of Describing Your Podcast with Flair</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-future-of-mobile-videography-6-pioneering-apps-beyond-periscope/"><u>2024 Approved  The Future of Mobile Videography  6 Pioneering Apps Beyond Periscope</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-insiders-look-at-mac-preview-software/"><u>2024 Approved  The Insider's Look at Mac Preview Software</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-pathway-to-captivating-audio-on-macos-via-audacity/"><u>2024 Approved  The Pathway to Captivating Audio on MacOS via Audacity</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-software-guide-to-gamers-broadcast/"><u>2024 Approved  Ultimate Software Guide to Gamers' Broadcast</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unforgettable-cinematic-journey-top-15-timeless-motion-pictures/"><u>2024 Approved  Unforgettable Cinematic Journey - Top 15 Timeless Motion Pictures</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/enhancing-visual-storytelling-on-instagram-with-loops/"><u>Enhancing Visual Storytelling on Instagram With Loops</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-vivo-y100a-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Vivo Y100A Devices</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-8-plus-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 8 Plus To Other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-xiaomi-redmi-k70e-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Xiaomi Redmi K70E Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-evolution-of-4k-a-look-at-the-d500-model/"><u>In 2024, The Evolution of 4K  A Look at the D500 Model</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-filmmakers-handbook-for-professional-gopro-videographers/"><u>In 2024, The Filmmaker's Handbook for Professional Gopro Videographers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-new-lens-on-sonys-s6500-bdp-features/"><u>In 2024, The New Lens on Sony’s S6500 BDP Features</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-decipherment-insiders-look-at-xvideo-hub-review/"><u>In 2024, The Ultimate Decipherment  Insider's Look at XVideo Hub Review</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-iphone-selfie-gear-rankings-8/"><u>In 2024, The Ultimate Guide to Iphone Selfie Gear Rankings (#8)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-best-fast-photo-viewer-for-windows-10/"><u>In 2024, Top Best Fast Photo Viewer for Windows 10?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-editing-techniques-for-final-cut-pro-professionals/"><u>In 2024, Ultimate Editing Techniques for Final Cut Pro Professionals</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-shot-recorder-hunters-top-picks/"><u>In 2024, Ultimate Shot Recorder  Hunters' Top Picks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-how-luts-transform-visual-elements-in-photos/"><u>In 2024, Unveiling How LUTs Transform Visual Elements in Photos</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-expert-fcpx-tutorials-top-picks-from-leading-creators-and-sites-for-2024/"><u>New Expert FCPX Tutorials Top Picks From Leading Creators and Sites for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/streamline-your-travel-narratives-top-ios-techniques-for-podcasting-for-2024/"><u>Streamline Your Travel Narratives  Top iOS Techniques for Podcasting for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/synchronizing-mac-writers-flows-efficiently-with-mixer-for-2024/"><u>Synchronizing Mac' Writers' Flows Efficiently With Mixer for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-iphone-photography-top-10-visual-arrangement-tips-for-2024/"><u>The Art of iPhone Photography  Top 10 Visual Arrangement Tips for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-profiting-off-reddit-13-ways-here-for-2024/"><u>The Ultimate Guide to Profiting Off Reddit - 13 Ways Here for 2024</u></a></li>
+</ul></div>

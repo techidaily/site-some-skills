@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Ultimate Guide to Leveraging Preview Capabilities on a Mac"
-date: 2024-06-04T06:13:49.327Z
-updated: 2024-06-05T06:13:49.327Z
+date: 2024-07-22T05:23:13.621Z
+updated: 2024-07-23T05:23:13.621Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/65d1648a69e474032218f98a4f9088236faaaabb2
 
 # How to Use Preview App on Mac
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -80,6 +83,9 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Rotate Image in Preview
 
 Rotating an image in the **Preview app** is fairly simple. To do so:
@@ -92,6 +98,9 @@ Use the method explained above to open the photo in Preview.
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Add Text to Image in Preview
 
 The **Preview app** even lets you annotate the images with ease. To add text to a photo:
@@ -108,6 +117,9 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ### How to Remove Background in Preview
 
 As it is with some of the advanced image manipulation programs, even the **Preview app** allows you to remove background from a photo, and that too pretty easily. To get this done:
@@ -140,6 +152,9 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### How to Save Images in Different Formats
 
 The **Preview app** has a built-in image converter as well. To convert an image to a different format with Preview, you must:
@@ -152,6 +167,9 @@ After opening an image, click **File** from the menu bar at the top, and click *
 
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ### Part 2: FAQs About Preview App on Mac
 
 #### What is the Preview App?
@@ -184,6 +202,9 @@ Choose a destination folder in the **Where** field, select your preferred format
 * Select your preferred output format for all the images from the **Format** drop-down list
 * Click **Choose** to convert all the images in a single go
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -250,6 +271,9 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ### How to Rotate Image in Preview
 
 Rotating an image in the **Preview app** is fairly simple. To do so:
@@ -262,6 +286,10 @@ Use the method explained above to open the photo in Preview.
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### How to Add Text to Image in Preview
 
 The **Preview app** even lets you annotate the images with ease. To add text to a photo:
@@ -322,6 +350,9 @@ After opening an image, click **File** from the menu bar at the top, and click *
 
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ### Part 2: FAQs About Preview App on Mac
 
 #### What is the Preview App?
@@ -354,6 +385,9 @@ Choose a destination folder in the **Where** field, select your preferred format
 * Select your preferred output format for all the images from the **Format** drop-down list
 * Click **Choose** to convert all the images in a single go
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -386,3 +420,68 @@ Follow @Ollie Mattison
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-streamlining-short-film-previews-for-channels/"><u>[New] 2024 Approved  Streamlining Short Film Previews for Channels</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-demystifying-youtube-shorts-for-total-beginners-for-2024/"><u>[New] Demystifying YouTube Shorts for Total Beginners for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-mastering-mac-screenshots-and-screen-recording/"><u>[New] In 2024, Mastering Mac Screenshots & Screen Recording</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-the-art-of-minimizing-lag-with-additional-ram-for-minecraft/"><u>[New] The Art of Minimizing Lag with Additional RAM for Minecraft</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-virtual-exploration-a-tactical-approach/"><u>[New] The Art of Virtual Exploration  A Tactical Approach</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-comprehensible-guide-downloading-safe-free-vlc-on-macos/"><u>[New] The Comprehensible Guide  Downloading Safe, Free VLC on macOS</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-enhancing-follows-into-genuine-subscriptions/"><u>[Updated] Enhancing Follows Into Genuine Subscriptions</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-elevate-your-video-game-youtube-production-mastery/"><u>[Updated] In 2024, Elevate Your Video Game  YouTube Production Mastery</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streaming-high-quality-vr-videos-made-easy-for-ios-users/"><u>[Updated] Streaming High-Quality VR Videos Made Easy for IOS Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-techniques-for-non-linear-eq-curves/"><u>[Updated] Techniques for Non-Linear EQ Curves</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-the-art-of-bio-storytelling-on-social-media-platforms/"><u>[Updated] The Art of Bio Storytelling on Social Media Platforms</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-ringers-guide-shaping-iphone-sounds/"><u>[Updated] The Ultimate Ringer's Guide  Shaping iPhone Sounds</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-8-recommended-free-srt-translation-websites-expert-selections/"><u>[Updated] Top 8 Recommended Free SRT Translation Websites  Expert Selections</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transforming-traditional-markets-with-virtual-engineering/"><u>[Updated] Transforming Traditional Markets with Virtual Engineering</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleashing-audio-pleasure-your-iphones-podcast-potential/"><u>[Updated] Unleashing Audio Pleasure - Your iPhone’s Podcast Potential</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlock-efficient-airdrop-transfers-fixes-for-all-apple-gadgets/"><u>[Updated] Unlock Efficient AirDrop Transfers - Fixes for All Apple Gadgets</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-sensational-tale-tiler-system/"><u>2024 Approved  Sensational Tale Tiler System</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-your-show-entry-on-apple-media/"><u>2024 Approved  Streamline Your Show Entry on Apple Media</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-syncing-sounds-to-visuals-online/"><u>2024 Approved  Syncing Sounds to Visuals Online</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-taming-the-audio-in-your-canva-videos-step-by-step/"><u>2024 Approved  Taming the Audio in Your Canva Videos Step by Step</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-techniques-to-weave-narrative-into-visual-content/"><u>2024 Approved  Techniques to Weave Narrative Into Visual Content</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-upward-landscapes-with-phones/"><u>2024 Approved  The Art of Upward Landscapes with Phones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-smart-guide-to-procuring-premium-image-banners/"><u>2024 Approved  The Smart Guide to Procuring Premium Image Banners</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-solo-art-of-personalized-instagram-ringtone-making/"><u>2024 Approved  The Solo Art of Personalized Instagram Ringtone Making</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-symphony-of-silence-starting-with-a-soft-fade-in/"><u>2024 Approved  The Symphony of Silence  Starting with a Soft Fade In</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-collection-of-iphone-and-pcs-top-8-converters/"><u>2024 Approved  The Ultimate Collection of iPhone & PC's Top 8 Converters</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-6-best-nft-services-for-creative-geniuses/"><u>2024 Approved  The Ultimate Guide to 6 Best NFT Services for Creative Geniuses</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-image-sharing-blueprint-for-youtube-enthusiasts/"><u>2024 Approved  The Ultimate Image Sharing Blueprint for YouTube Enthusiasts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-imagery-with-quantum-hdr/"><u>2024 Approved  Transforming Imagery with Quantum HDR</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-updated-parrot-ar-drone-experience/"><u>2024 Approved  Unveiling  The Updated Parrot AR Drone Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-best-lipos-a-drone-buyers-bible/"><u>2024 Approved  Unveiling the Best LiPos - A Drone Buyer's Bible</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-tecno-camon-30-pro-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Tecno Camon 30 Pro 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-tecno-camon-20-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Tecno Camon 20 FRP</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-14-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 14 with a Broken Screen?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-experts-choice-top-8-proven-video-marketing-actions/"><u>In 2024, Expert's Choice  Top 8 Proven Video Marketing Actions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-free-audio-to-text-conversion/"><u>In 2024, Free Audio to Text Conversion</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-14-pro-max-to-roku-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 14 Pro Max to Roku? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-tecno-camon-20-premier-5g-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Tecno Camon 20 Premier 5G online without jailbreak</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-crafting-text-memes-quickly/"><u>In 2024, The Art of Crafting Text Memes Quickly</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-crafting-viral-video-content-on-youtube/"><u>In 2024, The Art of Crafting Viral Video Content on YouTube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-strength-of-visual-client-commitment-to-brands/"><u>In 2024, The Strength of Visual Client Commitment to Brands</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-visuals-master-11-key-techniques-for-color-correction/"><u>In 2024, Transform Your Visuals  Master 11 Key Techniques for Color Correction</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-tutorial-on-3d-lut-tools/"><u>In 2024, Ultimate Tutorial on 3D LUT Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unclouded-vision-leading-online-tools-for-crisp-imagery/"><u>In 2024, Unclouded Vision  Leading Online Tools for Crisp Imagery</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlock-clarity-in-photos-leading-10-online-edits-at-a-glance/"><u>In 2024, Unlock Clarity in Photos  Leading 10 Online Edits at a Glance</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-your-journey-to-stylish-vlogging-a-beginners-guide-mac-edition/"><u>In 2024, Your Journey to Stylish Vlogging  A Beginner's Guide, Mac Edition</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-discover-the-best-lyric-video-production-tools-online/"><u>New 2024 Approved Discover the Best Lyric Video Production Tools Online</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/ranking-of-top-10-budget-friendly-video-calls-iphoneandroid-for-2024/"><u>Ranking of Top 10 Budget-Friendly Video Calls (iPhone/Android) for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/razr-40-messages-recovery-recover-deleted-messages-from-razr-40-by-fonelab-android-recover-messages/"><u>Razr 40 Messages Recovery - Recover Deleted Messages from Razr 40</u></a></li>
+<li><a href="https://some-skills.techidaily.com/subtlety-savvy-sound-settings-for-garageband-for-2024/"><u>Subtlety Savvy Sound Settings for Garageband for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-role-of-rhythm-and-pitch-in-trailer-tunes-for-2024/"><u>The Role of Rhythm and Pitch in Trailer Tunes for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-ranking-of-smartphone-vr-headsets-for-2024/"><u>The Ultimate Ranking of Smartphone VR Headsets for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-tally-unveiling-the-highest-rated-threads-on-reddit-for-2024/"><u>The Ultimate Tally  Unveiling the Highest-Rated Threads on Reddit for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tips-labeling-footage-with-text-via-photos-app-win-11-for-2024/"><u>Tips  Labeling Footage with Text via Photos App (Win 11) for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tips-for-adding-youtube-music-to-video-for-2024/"><u>Tips For Adding YouTube Music To Video for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-text-to-speech-online-for-2024/"><u>Updated Text To Speech | Online for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-the-latest-100plus-best-tiktok-captions-to-improve-your-next-post/"><u>Updated The Latest 100+ Best TikTok Captions to Improve Your Next Post</u></a></li>
+<li><a href="https://some-skills.techidaily.com/vanguard-headgear-companies-for-vr-for-2024/"><u>Vanguard Headgear Companies for VR for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-iphone-11-pro-max-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud From your iPhone 11 Pro Max</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Realme Narzo 60 Pro 5G? | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"Upholders of Popularity  The 10 Most Loved Reddit Stories for 2024\""
-date: 2024-06-04T08:34:46.443Z
-updated: 2024-06-05T08:34:46.443Z
+date: 2024-07-22T06:47:45.193Z
+updated: 2024-07-23T06:47:45.193Z
 tags: 
   - screen-recording
   - ai video
@@ -49,12 +49,18 @@ When writing the article (Nov., 2022), this Reddit post features over 400k votes
 
 (r/wallstreetbets)
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![times square billboard](https://images.wondershare.com/filmora/article-images/2023/01/times-square-billboard.png)
 
 Its purpose is quite ironic. The point was to make this image of Chancellor Palpatine from Star Wars the first result on Google whenever someone searched for "The Senate."
 
 Sadly, the attempt failed but still received a lot of attention.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. [$GME GO BRRR (r/wallstreetbets)](https://www.reddit.com/r/wallstreetbets/comments/l8rf4k/times%5Fsquare%5Fright%5Fnow/)
 
 This post currently has 469k votes with a stunning 99% Upvote rate. It’s now the most upvoted Reddit post in this list.
@@ -63,6 +69,9 @@ It represents a fun and public meme of someone buying a billboard in New York. T
 
 $GME stands for GameStop's stock name. BRR represents printing money. The idea behind it - publicly displaying the astonishing soar of GameStop's stock at that time.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ### 3\. [Rick Astley Rides a Bike (r/pics)](https://www.reddit.com/r/pics/comments/haucpf/ive%5Ffound%5Fa%5Ffew%5Ffunny%5Fmemories%5Fduring%5Flockdown/)
 
 ![rick astley rides a bike](https://images.wondershare.com/filmora/article-images/2023/01/rick-astley-old-photo.png)
@@ -71,8 +80,14 @@ Posted in 2020, this one currently has 438k votes with 99% Upvotes. It was poste
 
 If you know the famous song "Never Gonna Give You Up, " you know who this is. Well, this is the Reddit account of the artist Rick Astley himself, taking over the platform with a photo of himself he found in 1989.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ### 4\. [NYC Taxi Drivers Calendar (/r/funny)](https://www.reddit.com/r/funny/comments/7mjw12/my%5Fcab%5Fdriver%5Ftonight%5Fwas%5Fso%5Fexcited%5Fto%5Fshare/)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![nyc taxi driver calendar](https://images.wondershare.com/filmora/article-images/2023/01/new-york-taxi-driver.png)
 
 Another funny post in the official /r/funny subreddit itself. At this time, this one has 308k votes, 97% of which are Upvotes.
@@ -93,8 +108,15 @@ The image shows an experienced gamer who spent countless hours beating a game, t
 
 You understand the pain if you've gone through something like this.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ### 6\. [All News Anchors Say the Same Thing(/r/videos)](https://www.reddit.com/r/videos/comments/88ll08/this%5Fis%5Fwhat%5Fhappens%5Fwhen%5Fone%5Fcompany%5Fowns%5Fdozens/)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![all news anchors say the same thing reddit](https://images.wondershare.com/filmora/article-images/2023/01/news-anchors.png)
 
 293k users voted on this post, revealing what it looks like when a single company owns dozens of local news stations.
@@ -103,8 +125,14 @@ The phrase "this is extremely dangerous to our democracy" is repeated repeatedly
 
 97% of these 293k users upvoted and agreed that all news anchors say the same thing.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ### 7\. [Thirsty Frog Takes a Bath (r/aww)](https://www.reddit.com/r/aww/comments/90bu6w/heat%5Findex%5Fwas%5F110%5Fdegrees%5Fso%5Fwe%5Foffered%5Fhim%5Fa/)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![thirsty frog takes a bath reddit](https://images.wondershare.com/filmora/article-images/2023/01/frog-taking-a-bath.png)
 
 Some things on Reddit don't have to make sense to get a lot of attention.
@@ -123,6 +151,9 @@ It's a post with a title and a link to a site where anyone can join the battle. 
 
 ### 9\. [Deangelo Juggles Balls for Real(/r/DunderMifflin)](https://www.reddit.com/r/DunderMifflin/comments/cec448/i%5Fwas%5Fwithout%5Finternet%5Ffor%5Fa%5Fwhile%5Fdecided%5Fto%5Fuse/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![reddit post of deangelo juggling balls the office](https://images.wondershare.com/filmora/article-images/2023/01/deangelo-juggling-balls-on-the-office.png)
 
 Millions of fans worldwide loved The Office with Steve Carell, a.k.a Michael Scott. One of the funniest moments was when Will Ferrell juggled imaginary balls in the Dunder Mifflin office.
@@ -145,6 +176,10 @@ After an attempt by Union Troops to recover his body, they received a letter fro
 
 The Reddit post has over 4k comments, many of which feature thousands of upvotes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Video – Top 10 Most Upvoted Posts on Reddit
 
 Apart from what been introduced to you above, we also prepared a video about the most upvoted posts on Reddit. If you have any interests, you can watch it and get a deeper understanding of why these posts are so popular.
@@ -184,3 +219,55 @@ Whatever you decide to do, feel free to reflect on these posts and enjoy reading
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-must-visit-websites-for-obtaining-desired-youtube-ringtones/"><u>[New] Must-Visit Websites for Obtaining Desired YouTube Ringtones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-easy-to-learn-art-of-earning-wealth-reddits-ultimate-guide/"><u>[New] The Easy-to-Learn Art of Earning Wealth  Reddit's Ultimate Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-fast-lane-olympic-highlights-in-short-track-speed-skating/"><u>[New] The Fast Lane  Olympic Highlights in Short-Track Speed Skating</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-quest-for-perfection-topiary-angles-in-mobile-photography/"><u>[New] The Quest for Perfection  Topiary Angles in Mobile Photography</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-understanding-and-leveraging-snapchat-spotlight/"><u>[New] Understanding and Leveraging Snapchat Spotlight</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-get-the-most-out-of-instagram-photos-with-these-apps-for-2024/"><u>[Updated] Get the Most Out of Instagram Photos with These Apps for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-definitive-guide-to-post-production-perfection-on-instagram/"><u>[Updated] In 2024, The Definitive Guide to Post-Production Perfection on Instagram</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-cloud-price-wars-2024s-comprehensive-guide/"><u>[Updated] Mastering Cloud Price Wars - 2024'S Comprehensive Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamline-your-in-game-communication-pioneering-tips-for-vocal-modifications-pubg/"><u>[Updated] Streamline Your In-Game Communication  Pioneering Tips for Vocal Modifications (PUBG)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-best-of-both-worlds-2023s-device-agnostic-editors/"><u>[Updated] The Best of Both Worlds  2023’S Device-Agnostic Editors</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-key-to-crisp-clear-cinematography/"><u>[Updated] The Key to Crisp, Clear Cinematography</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-improved-zoom-video-quality/"><u>[Updated] The Ultimate Guide to Improved Zoom Video Quality</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-pubg-voice-customization/"><u>[Updated] The Ultimate Guide to PUBG Voice Customization</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-10-free-video-tools-cross-platform-os-support/"><u>[Updated] Top 10 Free Video Tools  Cross-Platform OS Support</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-spots-for-virtual-reality-experiences/"><u>[Updated] Top Spots for Virtual Reality Experiences</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transform-your-pubg-presence-with-new-sounds/"><u>[Updated] Transform Your PUBG Presence with New Sounds</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-8-enhancement-packs-for-live-video-feeds/"><u>[Updated] Ultimate 8 Enhancement Packs for Live Video Feeds</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-lunapics-power-expert-tips-and-hacks/"><u>[Updated] Unlocking LunaPic's Power  Expert Tips and Hacks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-the-full-capabilities-of-morphvox-voice-alteration/"><u>[Updated] Unlocking the Full Capabilities of MorphVOX Voice Alteration</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-the-world-of-no-cost-picture-frame-movies/"><u>[Updated] Unlocking the World of No-Cost Picture Frame Movies</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unraveling-the-lifecycle-of-windows-movie-maker-releases/"><u>[Updated] Unraveling the Lifecycle of Windows Movie Maker Releases</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-amplify-creativity-in-photography-innovative-pixlr-hacks/"><u>2024 Approved  Amplify Creativity in Photography  Innovative Pixlr Hacks</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-imageslice-editor/"><u>2024 Approved  ImageSlice Editor</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-mobile-artistry-ios-and-androids-creme-de-la-creme-of-image-stickers/"><u>2024 Approved  Mobile Artistry  IOS and Android's Crème De La Crème of Image Stickers</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-stepwise-process-turning-video-clocks-backward-on-snap/"><u>2024 Approved  Stepwise Process  Turning Video Clocks Backward on Snap</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-telegrams-wonders-for-marketers-beginning-their-journey/"><u>2024 Approved  Telegram’s Wonders for Marketers Beginning Their Journey</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-pioneers-guide-to-gopro-and-timelapse-magic/"><u>2024 Approved  The Pioneer's Guide to GoPro and Timelapse Magic</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-unseen-aspects-of-drone-shopping-you-mustnt-ignore/"><u>2024 Approved  The Unseen Aspects of Drone Shopping You Mustn’t Ignore</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-devices-for-home-and-office/"><u>2024 Approved  Ultimate Devices for Home and Office</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-video-mastery-with-these-quick-trimming-tips-for-windows-10/"><u>2024 Approved  Unlock Video Mastery with These Quick Trimming Tips for Windows 10</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-samsung-galaxy-m14-4g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Samsung Galaxy M14 4G</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-iphone-15-pro-max-icloud-activation-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing iPhone 15 Pro Max iCloud Activation Lock</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-subrip-file-creation-from-compressed-archives/"><u>In 2024, SubRip File Creation From Compressed Archives</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-labeling-images-adding-captions-to-photos-in-the-microsoft-suite/"><u>In 2024, The Art of Labeling Images  Adding Captions to Photos in the Microsoft Suite</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-comprehensive-users-manual-for-precision-playback/"><u>In 2024, The Comprehensive User's Manual for Precision Playback</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-linguistic-edge-influential-expressions-for-leaders/"><u>In 2024, The Linguistic Edge  Influential Expressions for Leaders</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-professional-photo-coloring/"><u>In 2024, The Ultimate Guide to Professional Photo Coloring</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tips-and-tricks-to-avoid-photo-crashes-on-windows-11/"><u>In 2024, Tips & Tricks to Avoid Photo Crashes on Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-ringtone-choices-essential-downloads-guide/"><u>In 2024, Top Ringtone Choices  Essential Downloads Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-images-with-picart-clear-canvas-technique/"><u>In 2024, Transform Your Images with PicArt Clear Canvas Technique</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleash-the-full-potential-of-your-xbox-series-x-with-ideal-displays/"><u>In 2024, Unleash The Full Potential of Your Xbox Series X with Ideal Displays</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-velocity-for-the-visionary-quick-frame-android-tools/"><u>In 2024, Velocity for the Visionary  Quick-Frame Android Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/investigating-magix-audio-mixer-mastery-for-2024/"><u>Investigating MAGIX Audio Mixer Mastery for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-prime-spots-for-downloading-authentic-natural-auditory-experiences/"><u>New In 2024, Prime Spots for Downloading Authentic Natural Auditory Experiences</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-science-behind-optimal-instagram-timings/"><u>The Science Behind Optimal Instagram Timings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unique-identity-creation-accessible-logo-base-and-personal-customization-for-no-cost-for-2024/"><u>Unique Identity Creation  Accessible Logo Base & Personal Customization for No-Cost for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleashing-full-potential-of-firefox-x-pie-mode-for-2024/"><u>Unleashing Full Potential of Firefox X-Pie Mode for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-the-power-of-preview-a-complete-user-guide-for-mac-for-2024/"><u>Unlocking the Power of Preview  A Complete User Guide for Mac for 2024</u></a></li>
+</ul></div>

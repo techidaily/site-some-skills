@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top Tricks for Optimizing Windows 11"
-date: 2024-06-04T05:15:02.738Z
-updated: 2024-06-05T05:15:02.738Z
+date: 2024-07-22T04:46:47.620Z
+updated: 2024-07-23T04:46:47.620Z
 tags: 
   - screen-recording
   - ai video
@@ -34,24 +34,40 @@ With the increased number of notifications in Windows 11, you might get annoyed.
 
 ![turn off unnecessary notifications](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Minimize Applications
 
 Minimizing Applications allows you to minimize the extra tabs as a whole rather than doing it individually. You have to hold the tab that you are using by left-clicking and shaking it. It will minimize all extra tabs. The same process can be done to restore the minimized windows.
 
 This feature can be activated through Windows Settings and then by clicking on ‘Multi-Tasking.' Switch on the toggle switch next to ‘Title Bar Window Shake,' and it is ready to use.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![minimize applications by shaking](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. Shortcut Keys
 
 Windows 11 has many shortcut keys that will save your time on a busy day. These shortcut keys cover areas such as Widgets with (Win + W). It Opens the Team Chat app (Win + C), notification center (Win + N), Quick settings with (Win + A), and a lot more. Whereas the shortcuts for copying, pasting, and screenshots are the same as Windows 10.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ![windows 11 shortcut keys](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-3.jpg)
 
 ### 4\. Taskbar and Start Menu Placements
 
 The biggest Windows 11 tip and trick is the placement of Taskbar and Start Menu. Windows 11 has a taskbar and start menu in the center. The relocation of the taskbar and the start menu can be done easily. By changing the placement, you can make Windows 11 look like Windows 10 if you prefer it that way. For that, open the ‘Taskbar Behavior’ and click on ‘Taskbar Alignment’ and relocate it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![align taskbar to the left](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-4.jpg)
 
 ### 5\. Remove Unwanted Ads on Apps
@@ -60,10 +76,20 @@ The updated technology allows you to have better control over the privacy of you
 
 ![disable unwanted ads](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ### 6\. Voice Typing Feature
 
 The coolest thing about Windows 11 that most people don’t know is the ‘Voice Typing’ feature. You might have experienced this before in your iPhones or Android devices, but this is new for Windows to have voice typing built-in. Press ‘Windows Key + H’ when you are in a text box and then start speaking. By using the mic button from the pop-out menu, you can start using the feature.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![windows 11 voice typing feature](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-6.jpg)
 
 ### 7\. Widgets and Chat Customization
@@ -72,12 +98,18 @@ Using Widgets and Chats helps the user have a quick chat with people that they l
 
 However, some people do not like using this kind of stuff. They don’t even prefer crowding their taskbar. For such cases, you can turn them off from the toggle switches that are available in the ‘Show or Hide the buttons that appear on Taskbar' or 'Taskbar Items. '
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ![disable widgets and other items](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-7.jpg)
 
 ### 8\. Block Trackers and Pop-up
 
 Another brilliant Windows 11 tip and trick is that it lets you block the pop-ups and also the tracking. For that, open Microsoft Edge and head over to the 3 dots on the top right corner to open 'Settings.' From the left panel in Settings, look for 'Privacy, Search and Services.' By default, it is set to 'Balanced.' You are suggested to select the 'Strict' option so that all the harmful trackers are blocked.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![secure your browsing on windows 11](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-8.jpg)
 
 ### 9\. Change your Geolocation
@@ -96,6 +128,9 @@ For that, press ‘Win + I’ and then select 'Personalization.' Now, choose 'St
 
 ![bring folders to windows 11 start](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### The Bottom Line
 
 This article is like a cherry on the cake for Windows lovers. The update of Windows 10 to Windows 11 is already the big news for them, but now, after going through the secret and hidden Windows 11 tips and tricks, the fans will be more than happy. The article has shared 10 secret tips that will amaze you.
@@ -114,8 +149,15 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 ![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
 ![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
@@ -143,3 +185,39 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/1716069140219-new-2024-approved-essential-game-picks-ghost-of-tsushima-rival-edition/"><u>[New] 2024 Approved  Essential Game Picks  Ghost of Tsushima Rival Edition!</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-saving-youtube-content-with-simple-steps/"><u>[New] In 2024, Saving YouTube Content with Simple Steps</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-swipe-right-to-fb-vids-swipe-left-for-mp4s-for-2024/"><u>[New] Swipe Right to FB Vids, Swipe Left for MP4s for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-virtual-exploration-a-tactical-approach/"><u>[New] The Art of Virtual Exploration  A Tactical Approach</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-comprehensible-guide-downloading-safe-free-vlc-on-macos/"><u>[New] The Comprehensible Guide  Downloading Safe, Free VLC on macOS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streaming-high-quality-vr-videos-made-easy-for-ios-users/"><u>[Updated] Streaming High-Quality VR Videos Made Easy for IOS Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-techniques-for-non-linear-eq-curves/"><u>[Updated] Techniques for Non-Linear EQ Curves</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-the-essentials-of-aerial-filmmaking-techniques-for-2024/"><u>[Updated] The Essentials of Aerial Filmmaking Techniques for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-ringers-guide-shaping-iphone-sounds/"><u>[Updated] The Ultimate Ringer's Guide  Shaping iPhone Sounds</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-8-recommended-free-srt-translation-websites-expert-selections/"><u>[Updated] Top 8 Recommended Free SRT Translation Websites  Expert Selections</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlock-efficient-airdrop-transfers-fixes-for-all-apple-gadgets/"><u>[Updated] Unlock Efficient AirDrop Transfers - Fixes for All Apple Gadgets</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-taming-the-audio-in-your-canva-videos-step-by-step/"><u>2024 Approved  Taming the Audio in Your Canva Videos Step by Step</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-techniques-to-weave-narrative-into-visual-content/"><u>2024 Approved  Techniques to Weave Narrative Into Visual Content</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-smart-guide-to-procuring-premium-image-banners/"><u>2024 Approved  The Smart Guide to Procuring Premium Image Banners</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-symphony-of-silence-starting-with-a-soft-fade-in/"><u>2024 Approved  The Symphony of Silence  Starting with a Soft Fade In</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transition-techniques-elevating-your-kinemaster-filmography/"><u>2024 Approved  Transition Techniques  Elevating Your Kinemaster Filmography</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-top-rated-srt-translators-for-zero-cost/"><u>2024 Approved  Unveiling the Top-Rated SRT Translators for Zero Cost</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063651654-enhance-device-functionality-simply-upload/"><u>Enhance Device Functionality, Simply Upload!</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On OnePlus 12? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-oppo-find-n3-flip-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Oppo Find N3 Flip for Free? | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-smartphones-meet-virtual-reality-best-10-models/"><u>In 2024, Smartphones Meet Virtual Reality  Best 10 Models</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-taming-soundtracks-audio-capture-in-windows-10/"><u>In 2024, Taming Soundtracks  Audio Capture in Windows 10</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/scrutinizing-selfies-on-instagram-validation-necessary-in-2024/"><u>Scrutinizing Selfies on Instagram  Validation Necessary, In 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/subtlety-savvy-sound-settings-for-garageband-for-2024/"><u>Subtlety Savvy Sound Settings for Garageband for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-role-of-rhythm-and-pitch-in-trailer-tunes-for-2024/"><u>The Role of Rhythm and Pitch in Trailer Tunes for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-ranking-of-smartphone-vr-headsets-for-2024/"><u>The Ultimate Ranking of Smartphone VR Headsets for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-tally-unveiling-the-highest-rated-threads-on-reddit-for-2024/"><u>The Ultimate Tally  Unveiling the Highest-Rated Threads on Reddit for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tips-labeling-footage-with-text-via-photos-app-win-11-for-2024/"><u>Tips  Labeling Footage with Text via Photos App (Win 11) for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tips-for-adding-youtube-music-to-video-for-2024/"><u>Tips For Adding YouTube Music To Video for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-disappointed-that-cant-use-pinnacle-studio-on-mac-weve-got-you-covered-check-out-our-list-below-for-some-great-alternatives-to-pinnacle-stud/"><u>Updated In 2024, Disappointed that Cant Use Pinnacle Studio on Mac? Weve Got You Covered! Check Out Our List Below for some Great Alternatives to Pinnacle Studio for Mac Users</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/video-rotation-made-easy-top-free-solutions-for-windows-mac-android-and-iphone-for-2024/"><u>Video Rotation Made Easy Top Free Solutions for Windows, Mac, Android, and iPhone for 2024</u></a></li>
+</ul></div>

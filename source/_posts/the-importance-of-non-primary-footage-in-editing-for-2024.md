@@ -1,7 +1,7 @@
 ---
 title: "\"The Importance of Non-Primary Footage in Editing for 2024\""
-date: 2024-06-04T09:08:20.330Z
-updated: 2024-06-05T09:08:20.330Z
+date: 2024-07-22T07:07:48.469Z
+updated: 2024-07-23T07:07:48.469Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,9 @@ B roll is a phrase used to describe supplemental video, which is frequently used
 
 Now that we know that, let's dive in!
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 1\. B roll In TV And Movies
 
 Broll is an acronym for "background" or "behind," respectively. It usually refers to extra footage captured with a movie camera while keeping the lighting consistent between scenes in the movie industry. When the filmmaker doesn't want to show any dialogue or action on screen but needs some movement within the frame, it might be utilized as filler.
@@ -32,6 +35,9 @@ B roll can be utilized for establishing shots as well as close-ups of items. It 
 
 For instance, wider shots are frequently used when someone is giving a speech while seated behind a podium so that we can see both them and their surroundings, such as audience members standing close and applauding or security personnel.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Methods to use b roll
 
 Now that there are so many stock footage platforms, you have a lot of choices when you need just the right scene for your project. Most of the time, filmmakers don't use B roll footage. One good way to use it is to use it as a way to move from one scene to the next. It can also be used to set the mood for an event or show what time of day it is when filming.
@@ -44,6 +50,9 @@ On the other hand, cutaways can show how different people react to what is being
 
 We'll examine the top 5 uses for B rolls across a variety of video genres and discuss how to implement them effectively in your own projects.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Archival b roll footage
 
 Aerial B roll is the solution when you like to show your viewers where your film is being recorded or when you are changing locations and want them to know it. The plane takes off and lands in another city, and then shots of the city, its landmarks, its famous streets, etc. are shown. You have probably seen this type of B roll footage in movies and TV shows. These images aid in putting the viewer in the character's current location. Check out this collection of setting images from the Neighbors television series.
@@ -66,16 +75,28 @@ When you are sharing a narrative that has been told in the past or that has hist
 
 Have a look at the scenes from the episode "14 Peaks: Nothing Is Impossible" that can be found on Netflix. As a result of the use of archive film footage of b roll from the relevant time period in its production, the audience is able to connect with the narrative on a deeper level.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### 6\. Pick-up shots
 
 A pick-up is a tiny shot added to previously captured material. Re-shoots involve redoing entire scenes. Both types of shots are commonly added during film editing to fix, logic, continuity, or quality flaws. These photos happen a while after the sets have been taken down, clothes and props stowed, and the actors and crew have gone on to new projects.
 
 If flaws were discovered during primary photography, the directors could have requested another take. The producer and director should weigh the cost of rejoining cast and crew against the need for pick-ups or re-shoots to address storyline flaws (or worse) in the final edit.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### 7\. A roll vs b roll
 
 Imagine the A roll as part of the video's story. This could be a documentary film, news show, or scripted sketch. Everything else on your editing table must be rearranged to fit it. When the speaker in the following video is directly talking to the camera or interviewer, this is A roll footage. The video's most crucial segments were filmed with primary footage.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 We sincerely hope that this post will be of use to you in making your films more cinematic. You not only know how to film and edit your videos utilizing B rolls, you also have an extremely effective hack that allows you to generate amazing videos using stock footage. This is both impressive and unique.
@@ -109,3 +130,46 @@ We sincerely hope that this post will be of use to you in making your films more
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-streamline-video-content-delivery-a-curated-list-of-players/"><u>[New] Streamline Video Content Delivery  A Curated List of Players</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-artists-guide-to-vivid-vsco-imagery/"><u>[New] The Artist's Guide to Vivid VSCO Imagery</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unleash-your-devices-potential-how-to-download-and-customize-whatsapp-ringtones/"><u>[New] Unleash Your Device's Potential  How to Download and Customize WhatsApp Ringtones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-cyber-companion-tone-downloads-guide/"><u>[Updated] Ultimate Cyber Companion  Tone Downloads Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-uncover-the-best-online-church-streaming-options/"><u>[Updated] Uncover The Best Online Church Streaming Options</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-creativity-top-20-vlogger-themes/"><u>[Updated] Unlocking Creativity  Top 20 Vlogger Themes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streaming-showdown-twitch-versus-youtube-unveiled/"><u>2024 Approved  Streaming Showdown  Twitch Versus YouTube Unveiled</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamlining-your-zoom-livestream-a-playbook-for-youtube-enthusiasts/"><u>2024 Approved  Streamlining Your Zoom Livestream  A Playbook for YouTube Enthusiasts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-superior-supplements-to-enhance-gopro/"><u>2024 Approved  Superior Supplements to Enhance GoPro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-2019-evolution-of-vegaspro/"><u>2024 Approved  The 2019 Evolution of VegasPro</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-art-of-gentle-audio-dampening-on-lumafusion-platforms/"><u>2024 Approved  The Art of Gentle Audio Dampening on Lumafusion Platforms</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-pros-guide-to-best-ever-360-degree-cams-2023/"><u>2024 Approved  The Pro’s Guide to Best-Ever 360-Degree Cams, 2023</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-underwater-gopro-filter-setup/"><u>2024 Approved  Ultimate Underwater Gopro Filter Setup</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-understanding-quantum-hdrs-impact-on-photography/"><u>2024 Approved  Understanding Quantum HDR's Impact on Photography</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unraveling-the-secrets-to-effortlessly-record-seascapes/"><u>2024 Approved  Unraveling the Secrets to Effortlessly Record Seascapes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-ultimate-photo-frame-tools/"><u>2024 Approved  Unveiling the Ultimate Photo Frame Tools</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-asus-rog-phone-7-ultimate-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Asus ROG Phone 7 Ultimate Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/echoes-of-celebration-finding-the-perfect-applaud-tones/"><u>Echoes of Celebration Finding the Perfect Applaud Tones</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Sony Xperia 10 V? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-poco-x6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streaming-showdown-twitchs-challenge-to-youtube/"><u>In 2024, Streaming Showdown  Twitch's Challenge to YouTube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-thank-you-in-motion-templates-for-every-budget-level/"><u>In 2024, Thank You in Motion  Templates for Every Budget Level</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-adding-audio-storytelling-to-video-content/"><u>In 2024, The Art of Adding Audio Storytelling to Video Content</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-iphone-x-handbook-for-users/"><u>In 2024, The Ultimate iPhone X Handbook for Users</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-transform-your-devices-display-into-a-high-quality-record/"><u>In 2024, Transform Your Device's Display Into a High-Quality Record</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transforming-images-with-complete-understanding-of-facetune/"><u>In 2024, Transforming Images with Complete Understanding of Facetune</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transition-to-hdr-a-step-forward-in-high-quality-video/"><u>In 2024, Transition to HDR  A Step Forward in High-Quality Video</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-full-multitasking-in-apple-browsers/"><u>In 2024, Unlocking Full Multitasking in Apple Browsers</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/navigate-to-tiktok-world-installation-for-macbook/"><u>Navigate to TikTok World  Installation for MacBook</u></a></li>
+<li><a href="https://some-skills.techidaily.com/streamlining-the-update-process-for-accurate-tiktok-age-details-for-2024/"><u>Streamlining the Update Process for Accurate TikTok Age Details for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/techniques-to-deactivate-auto-played-podcast-suggestions-in-spotify-for-2024/"><u>Techniques to Deactivate Auto-Played Podcast Suggestions in Spotify for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-infinix-hot-30-5g-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Infinix Hot 30 5G</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tips-and-tricks-erasing-unwanted-backdrops-for-2024/"><u>Tips and Tricks  Erasing Unwanted Backdrops for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/title-transformations-beyond-standard-styles-for-2024/"><u>Title Transformations  Beyond Standard Styles for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-creators-revolutionizing-virtual-environments-for-2024/"><u>Top Creators Revolutionizing Virtual Environments for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-windows-xp-professional-for-media-development-for-2024/"><u>Unlock Windows XP Professional for Media Development for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-your-phones-personality-with-a-customized-whatsapp-tone-for-2024/"><u>Unlock Your Phone's Personality with a Customized WhatsApp Tone for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-cut-trim-and-shine-top-free-online-video-editors-revealed/"><u>Updated Cut, Trim, and Shine Top Free Online Video Editors Revealed</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Vector Magic  Discovering the 10 Software Picks You Need\""
-date: 2024-06-04T09:24:26.579Z
-updated: 2024-06-05T09:24:26.579Z
+date: 2024-07-22T07:17:24.707Z
+updated: 2024-07-23T07:17:24.707Z
 tags: 
   - screen-recording
   - ai video
@@ -22,12 +22,18 @@ If you have ever been interested in graphic design, you must have heard of the t
 
 If you plan to create branded digital logos, you should know what they are and their difference from raster images. Here, we will discuss that specifically, including the types and software options to help create stunning ones. Let's get started.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![vector image vs zoomed in image in bitmap image](https://images.wondershare.com/filmora/article-images/2023/01/beginners-guide-to-all-things-vector-images-overview-types-and-software-choices-1.jpg)
 
 ## Part I. The Art of Vector Images
 
 Understanding what you will deal with in the name of **vector images** should be the first step. That is precisely what we will discuss here, beginning with what stands for vector as a picture format.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ### What are Vector Images?
 
 A vector image is a graphics-based file format made of a group of points with lines to join them. The vector drawing program's point-to-point illustration helps create complex and straightforward line-based geometric shapes. Therefore, when you see the images, it looks smoother and barely pixelated when zoomed into the image.
@@ -44,6 +50,9 @@ The common types of these images that graphic designers and other professionals 
 | **PROS**          | 1\. The images are easier to produce and distribute across platforms, devices, and other conventional input-output devices, like scanners, inkjet printers, etc.2\. It is compatible with different types of image types, like posters to small badges.3\. These have very high processing speeds.4\. Users can create different types of images without any concern about complexity. | 1\. Best for graphic design artwork, like branded logos and documents.2\. When you zoom the images, there are no noticeable pixels and the image still looks smooth.3\. When you try to decrease or increase a digitized object, the lines with pre-specified width is not controlled as per the image size.4\. It is easier to scale, move, or rotate the vector images without affecting image quality. |
 | **CONS**          | 1\. It only looks natural when seeing the images on a small scale or from far. When zoomed, the pictures look pixelated and rougher.2\. Blurry appearance.                                                                                                                                                                                                                             | 1\. Showing the image in low resolution has a different level of quality.2\. Only some graphic types will look good in vector file format.                                                                                                                                                                                                                                                                |
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ### What are vector images used for?
 
 Vector images are highly utilized in professional branding work, as the format gels so well with published and printed material. For an easier understanding, here are the most common types of content where vector images are more prominent.
@@ -51,6 +60,9 @@ Vector images are highly utilized in professional branding work, as the format g
 * **Company Logos-** A vector image gives a refined appearance that highlights a good brand image. Thus, logos are commonly based on this type of file format for the crisp and consistent clear text and vibrant color it ensures.
 * **Digital Illustrations-** Digital illustrative artwork also works with vector image types, and you should use capable **vector image software** for the process. The format assures zero issues with image quality and a consistently smooth appearance.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part II. Best 10 Vector Graphics Software
 
 If you are interested in creating high-quality vector images, you should use the correct type of paid or **free vector graphics software.** We have compiled then of the top software options you should consider here.
@@ -61,6 +73,9 @@ Regarding different graphic design solutions or image editing, Adobe products li
 
 You can use the app for high-quality prototyping work and collaboration design implementation in different image styles.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![adobe illustrator interface](https://images.wondershare.com/filmora/article-images/2023/01/beginners-guide-to-all-things-vector-images-overview-types-and-software-choices-2.jpg)
 
 **Cost**: USD 20.99 per month
@@ -80,6 +95,9 @@ You can use the app for high-quality prototyping work and collaboration design i
 
 You can use this **free vector image software** online or after logging into an account. The tool has intuitive capabilities that make it simple for users to create professional-level graphics easily. Later, share the files easily using their URL as well for faster work output.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![vectr interface](https://images.wondershare.com/filmora/article-images/2023/01/beginners-guide-to-all-things-vector-images-overview-types-and-software-choices-3.jpg)
 
 **Cost**: Free
@@ -95,6 +113,9 @@ You can use this **free vector image software** online or after logging into an 
 * It can get slightly complex to understand initially.
 * Basic-level functions.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. [Inkscape](https://inkscape.org/)
 
 Inkscape is one of the best software options for quickly creating vector images, whether for web design or illustration types. This software has multiple flexible editing and drawing tools and a robust text input tool. Plus, use this software to work with Spiro and Bezier curve types.
@@ -118,6 +139,9 @@ Inkscape is one of the best software options for quickly creating vector images,
 
 If you want access to diverse vector image options in stock for personalized use, you should use Vecteezy. The software comes with a variety of high-quality free vector image resources that you can use. It updates with new options consistently, so you should consider using this regularly.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![vecteezy interface](https://images.wondershare.com/filmora/article-images/2023/01/beginners-guide-to-all-things-vector-images-overview-types-and-software-choices-5.jpg)
 
 **Cost**: Free, Monthly- USD 7, Yearly- USD 4.50
@@ -156,6 +180,9 @@ If you plan on using one software to efficiently create different flowcharts, de
 
 If you want simple software for vector image programming and development, Boxy SVG is a suitable choice to consider. It is helpful for Windows, Mac, and iPad users in different versions, where they can operate as viewers or editors. The editors can make changes on the canvas via keypress and keyboard shortcuts.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![boxy svg interface](https://images.wondershare.com/filmora/article-images/2023/01/beginners-guide-to-all-things-vector-images-overview-types-and-software-choices-7.jpg)
 
 **Cost**: Standard- USD 10.18; Premium- USD 100.96
@@ -175,6 +202,9 @@ If you want simple software for vector image programming and development, Boxy S
 
 **In terms of the best free vector graphics software** to use, CoreDRAW is a suitable choice that offers a wide range of benefits in the free trial and paid software versions. You can produce files in different formats, including diverse vector image types like logos and illustrative imagery.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![coredraw vector graphics software interface](https://images.wondershare.com/filmora/article-images/2023/01/beginners-guide-to-all-things-vector-images-overview-types-and-software-choices-8.jpg)
 
 **Cost**: USD 63.53 per year
@@ -190,6 +220,9 @@ If you want simple software for vector image programming and development, Boxy S
 * The free trial lasts for around 15 days.
 * Registered users can try it out only.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 8\. [Sketch](https://www.sketch.com/)
 
 If you want to make superior-quality **free vector art**, Sketch is the best tool to do so, with its focus on workflow customization, prototyping, and collaboration support. The software comes with multiple integrations, assistants, and plugins that you can use to create accessible designs and animation-based interactions.
@@ -209,10 +242,16 @@ If you want to make superior-quality **free vector art**, Sketch is the best too
 * If you want to change from Viewer to Editor, or vice versa, you have to change the device-based Sketch version.
 * No free trial or plan is available here.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 9\. [Affinity Designer](https://affinity.serif.com/en-us/designer/)
 
 One of the best vector image creation and management software is the Affinity Designer software. Users of the software can expect high-speed performance with image processing, regardless of size or complexity. Plus, it is easy to use real-time blend modes, effects, gradients, and adjustment vector image files. Use it to pan on the image and zoom into it at 60 FPS.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![affinity designer interface](https://images.wondershare.com/filmora/article-images/2023/01/beginners-guide-to-all-things-vector-images-overview-types-and-software-choices-10.jpg)
 
 **Cost**: Full versions for Mac/Windows- USD 60.35, iPad- USD 21.71
@@ -247,6 +286,9 @@ This is one of the **best free vector graphics software** for vector-based desig
 * Limited advanced functions are available.
 * Only available for some operating systems, mainly only Windows.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Bonus Tips. Filmora - With Countless Graphic Resources for Video Editing
 
 If you are looking for an editor that you can use for advanced video editing work that also supports vector images, [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a good choice. The software has many pre-existing features like Effects, Transitions, and Titles that you can choose and add to files.
@@ -309,3 +351,54 @@ What are vector images used for?
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-audiophiles-recommend-top-5-headset-choices-for-2024/"><u>[New] Audiophiles Recommend  Top 5 Headset Choices for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nhance-video-storytelling-with-smart-chapter-insertion-techniques-on-youtube/"><u>[New] Enhance Video Storytelling with Smart Chapter Insertion Techniques on YouTube</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-innovate-your-content-leveraging-instagrams-green-screen-magic-for-2024/"><u>[New] Innovate Your Content  Leveraging Instagram's Green Screen Magic for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamlining-your-workflow-adding-descriptive-elements-to-photos-on-windowsmacos/"><u>[New] Streamlining Your Workflow  Adding Descriptive Elements to Photos on Windows/MacOS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-premier-list-visionary-audiovideo-makers-web/"><u>[New] The Premier List  Visionary Audio/Video Makers Web</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-10-android-and-ios-timers-for-effortless-wedding-countdown-management/"><u>[New] Top 10 Android and iOS Timers for Effortless Wedding Countdown Management</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-10-extensions-for-speeding-up-facebook-videos-effortlessly/"><u>[New] Top 10 Extensions for Speeding up Facebook Videos Effortlessly</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-10plus-online-photo-background-changers-to-remove-background-easily/"><u>[New] Top 10+ Online Photo Background Changers to Remove Background Easily</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-iphone-podcast-listening-experiences/"><u>[New] Top iPhone Podcast Listening Experiences</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unravel-your-pcs-potential-with-windows-10s-latest-games/"><u>[New] Unravel Your PC's Potential with Windows 10'S Latest Games</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unraveling-asmr-for-mental-and-physical-health/"><u>[New] Unraveling ASMR for Mental and Physical Health</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-secrets-of-vr-filmmaking-with-advanced-techniques-using-adobe-premiere-pro/"><u>[New] Unveiling the Secrets of VR Filmmaking with Advanced Techniques Using Adobe Premiere Pro</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-12-pioneering-offline-capture-tools/"><u>[Updated] In 2024, 12 Pioneering Offline Capture Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamlining-media-addition-a-comprehensive-guide-to-youtube-shelves/"><u>[Updated] Streamlining Media Addition  A Comprehensive Guide to YouTube Shelves</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-art-and-science-of-periscope-streaming/"><u>[Updated] The Art and Science of Periscope Streaming</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-evolution-of-video-from-sdr-to-the-era-of-high-dynamic-range/"><u>[Updated] The Evolution of Video  From SDR to the Era of High Dynamic Range</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-easytime-timer-solutions-at-zero-cost/"><u>[Updated] Top EasyTime Timer Solutions at Zero Cost</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transforming-in-game-audio-identity-for-a-unique-competitive-advantage-no-charge/"><u>[Updated] Transforming In-Game Audio Identity for a Unique Competitive Advantage (No Charge!)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-secrets-unveiled-best-practices-in-remote-audio-capture/"><u>2024 Approved  Secrets Unveiled  Best Practices in Remote Audio Capture</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-free-artistic-software-on-mac/"><u>2024 Approved  The Ultimate Guide to Free Artistic Software on Mac</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-voice-altering-tool-for-free-enhance-your-valorant-experience/"><u>2024 Approved  Top Voice Altering Tool for Free - Enhance Your Valorant Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-phantom-the-slow-motion-essentials/"><u>2024 Approved  Unlocking Phantom  The Slow-Motion Essentials</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-xiaomi-redmi-note-12r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/grasping-the-essence-an-in-depth-guide-to-tiktok-filters/"><u>Grasping the Essence  An In-Depth Guide to TikTok Filters</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-nokia-c22-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-a-step-by-step-guide-to-youtube-stats-analysis-via-social-blade-platform/"><u>In 2024, A Step-by-Step Guide to YouTube Stats Analysis via Social Blade Platform</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-examination-of-videoshow-24/"><u>In 2024, In-Depth Examination of VideoShow '24</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-retaining-snaps-effortlessly-with-androidmac-technology/"><u>In 2024, Retaining Snaps Effortlessly with Android/Mac Technology</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-superior-extra-memory-solution-for-sony-a7c/"><u>In 2024, Superior Extra Memory Solution for Sony A7C</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-swift-and-simple-techniques-to-download-hundreds-on-tiktok/"><u>In 2024, Swift and Simple Techniques to Download Hundreds on TikTok</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-mystery-of-off-facebook-activity-what-to-know-and-do/"><u>In 2024, The Mystery of Off-Facebook Activity  What to Know & Do</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-premier-5-ios-photo-background-swap-apps/"><u>In 2024, The Premier 5 iOS Photo Background Swap Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-techniques-for-youtube-video-format-switching/"><u>In 2024, Ultimate Techniques for YouTube Video Format Switching</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-variations-in-windows-movie-maker-clones/"><u>In 2024, Variations in Windows Movie Maker Clones</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Oppo Find N3 Flip? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/prime-picks-top-10-unrivaled-digital-backdrop-switchers-for-2024/"><u>Prime Picks  Top 10 Unrivaled Digital Backdrop Switchers for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-nokia-g310-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/supreme-speakers-showcase-selector-for-2024/"><u>Supreme Speakers' Showcase Selector for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/transformative-youtube-title-genesis-tools/"><u>Transformative YouTube Title Genesis Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/uncovering-hidden-wellsprings-of-free-graphic-designs-for-2024/"><u>Uncovering Hidden Wellsprings of Free Graphic Designs for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unleash-the-beats-try-these-free-web-scanners/"><u>Unleash the Beats  Try These Free Web Scanners</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-potential-with-efficient-audio-submission-for-2024/"><u>Unlocking Potential with Efficient Audio Submission for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-high-res-sky-scenes-with-mi-drone-for-2024/"><u>Unveiling the High-Res Sky Scenes with Mi Drone for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-oppo-a58-4g-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Oppo A58 4G? Fixed | Dr.fone</u></a></li>
+</ul></div>

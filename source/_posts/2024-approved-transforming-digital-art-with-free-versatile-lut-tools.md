@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Transforming Digital Art with Free, Versatile LUT Tools\""
-date: 2024-06-04T00:33:48.888Z
-updated: 2024-06-05T00:33:48.888Z
+date: 2024-07-22T01:52:27.470Z
+updated: 2024-07-23T01:52:27.470Z
 tags: 
   - screen-recording
   - ai video
@@ -20,12 +20,24 @@ thumbnail: https://thmb.techidaily.com/0ca201532589a8340625e0277d57d7a6d8a4fe5f0
 
 Color LUTs (Lookup Textures) are tables of RGB color values. In Spark AR, you can use color LUTs to quickly create color gradation effects throughout the scene. Go through the article and create your color LUT effect.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ## Part 1\. What are Luts in Spark AR used for?
 
 To create a color filter effect in [Spark AR](https://sparkar.facebook.com/ar-studio/), you need a color LUT in Spark AR.
 
 To develop AR effects for mobile cameras, you can use the Mac and Windows augmented reality platform Spark AR Studio. Imagine it like Sketch or Photoshop for augmented reality. The color values of the camera texture are mapped to the x, y, and z coordinates of the location in the color LUT. This location contains a corresponding output color that is drawn over the scene to create a color gradient effect.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ![create a color gradient effect](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-1.jpg)
 
 ## Part 2\. How to use LUTs in Spark AR?
@@ -46,12 +58,18 @@ When you import a color LUT, compression is always set to None, and filtering is
 
 A patch graph is automatically set that applies a color LUT to the entire scene.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![apply to the whole scene](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-2.jpg)
 
 **The color LUT patch graph**
 
 The patch graph that renders the color gradation effect looks like this:
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![color lut patch graph](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-3.jpg)
 
 **To create the effect:**
@@ -68,6 +86,9 @@ Here are the best free LUTs resources for Spark AR:
 
 Client filter pieces occasionally end up on the scrap heap. It was a poor Frost Zombie in this instance. Since this is one of my simpler filters, I felt it was okay to publish the build information. Four objects make up much of the scene: an EyeColor block, a custom canvas segmentation, a face mesh, and an emitter for the breath mist (my personal favorite). To show the layers used in generating the primary zombie texture, I also moved to Substance Painter. This is a demonstration of my methods rather than a step-by-step manual.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![frost zombie](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-4.jpg)
 
 ### 2\. Fur
@@ -87,6 +108,9 @@ Here are the key building principles.
 
 Even while using large image sequences is frequently discouraged, you can still use them to make some extremely spectacular effects! I'll explain how the screen tap computation procedure relates to texture position in this walkthrough. If you want to apply this approach and texture sequence in your projects or give it a try.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![shockwave](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-6.jpg)
 
 ### 4\. Transition Curves
@@ -95,6 +119,9 @@ There are 11 distinct animation curves included with Spark AR in the Transition 
 
 ![transition curves](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ### 5\. Realistic Smoke
 
 By adding smoke to a scene, you can easily add a lot of detail and realism. Nothing revolutionary is happening here. The particle emitter creates flat planes of smoke texture that are forced upward. The force slowly shifts left and right as seen in the patch editor. The Fade particle script (created by Josh Beckwith) enlarges the particles and fades them out at the same time.
@@ -105,8 +132,14 @@ By adding smoke to a scene, you can easily add a lot of detail and realism. Noth
 
 Given how beautifully Glitter Rain was received, I believed it would be fitting to broaden the potential with an HDR setting. While Glitter Rain made use of two different colors, this technique makes use of an entirely colorless substance and gets its color information via HDR.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![rainbow glitter](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ### Closing Thoughts
 
 Spark AR is an amazing website for LUTs and color grading. Whether you're a new student or a seasoned pro, Spark AR Studio has all the features and capabilities you need to become a good video editor. You can download free LUTs from Spark AR and apply them to your videos. The article guides on how to use LUTs in Spark AR and how to download free LUTs. So, Spark AR is one of the best online websites for LUTs I have tried.
@@ -140,3 +173,49 @@ Spark AR is an amazing website for LUTs and color grading. Whether you're a new 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-alternatives-spotlighted-by-az-screen-recorder/"><u>[New] Alternatives Spotlighted by AZ Screen Recorder</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-diy-tripods-how-to-stabilize-your-camera-without-buying-a-tripod-for-2024/"><u>[New] DIY Tripods| How to Stabilize Your Camera without Buying a Tripod for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-expert-guide-to-shooting-awe-inspiring-igtv-content-on-mobile-and-dslrs-for-2024/"><u>[New] Expert Guide to Shooting Awe-Inspiring IGTV Content on Mobile & DSLRs for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-unveiling-the-secrets-of-self-playing-fb-videos/"><u>[New] In 2024, Unveiling the Secrets of Self-Playing FB Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-paving-the-path-for-creativity-turning-gifs-to-stickers-on-all-social-platforms/"><u>[New] Paving the Path for Creativity  Turning GIFS to Stickers on All Social Platforms</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-full-scale-of-precision-a-review-of-asus-pa32us-capabilities/"><u>[New] The Full Scale of Precision  A Review of Asus PA32U's Capabilities</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-collection-5-outstanding-book-tts/"><u>[New] The Ultimate Collection  5 Outstanding Book TTs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-thrifty-shoppers-best-bargains-in-cams/"><u>[New] Thrifty Shopper's Best Bargains in Cams</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-toolwiz-explored-detailed-review-for-image-enthusiasts/"><u>[New] Toolwiz Explored  Detailed Review for Image Enthusiasts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-guide-top-6-cutting-edge-21-hdmi-portable-displays/"><u>[New] Ultimate Guide  Top 6 Cutting-Edge 2.1 HDMI Portable Displays</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-vegas-pro-gambit-unveiled-a-21-comprehensive-review/"><u>[New] Vegas Pro Gambit Unveiled  A '21 Comprehensive Review</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-transforming-smartphones-into-portable-cameras/"><u>[Updated] 2024 Approved  Transforming Smartphones Into Portable Cameras</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-control-over-your-ig-content-exposure-for-2024/"><u>[Updated] Control Over Your IG Content Exposure for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-how-to-find-and-change-your-youtube-channel-url-super-easy/"><u>[Updated] How to Find and Change Your YouTube Channel URL – Super Easy</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-untouched-live-visual-recorders/"><u>[Updated] In 2024, Untouched Live Visual Recorders</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-starting-youtube-essential-seo-tips/"><u>[Updated] Starting YouTube  Essential SEO Tips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-data-sanctuary-guide/"><u>[Updated] The Ultimate Data Sanctuary Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-for-premiere-pro-full-screen-viewing/"><u>[Updated] The Ultimate Guide for Premiere Pro Full Screen Viewing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-implementing-podcast-seo/"><u>[Updated] The Ultimate Guide to Implementing Podcast SEO</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-silent-transitions/"><u>[Updated] The Ultimate Guide to Silent Transitions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streaming-supremacy-pick-the-best-tool-for-your-vlogs-and-streams/"><u>2024 Approved  Streaming Supremacy  Pick the Best Tool for Your Vlogs & Streams</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-complete-iphone-audio-downloading-manual/"><u>2024 Approved  The Complete iPhone Audio Downloading Manual</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-drone-editors-toolkit-techniques-for-visual-excellence/"><u>2024 Approved  The Drone Editor's Toolkit  Techniques for Visual Excellence</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-editors-guide-to-effective-lut-implementation/"><u>2024 Approved  The Editor's Guide to Effective LUT Implementation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-the-potential-of-your-notes-use-mematic/"><u>2024 Approved  Unleash the Potential of Your Notes - Use Mematic</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unmarked-image-accumulation-essentials/"><u>2024 Approved  Unmarked Image Accumulation Essentials</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-complete-guide-to-microsoft-project-keyboard-shortcuts/"><u>A Complete Guide to Microsoft Project Keyboard Shortcuts</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-infinix-hot-40-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Infinix Hot 40</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-nubia-z50s-pro-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Nubia Z50S Pro Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-reinstate-crystal-clear-zoom-sound/"><u>In 2024, Reinstate Crystal-Clear Zoom Sound</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-subtitled-quickly-converting-from-compressed-files/"><u>In 2024, Subtitled Quickly! Converting From Compressed Files</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-superior-video-capture-leading-webcams-for-podcasts/"><u>In 2024, Superior Video Capture  Leading Webcams for Podcasts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/key-steps-in-manipulating-song-pace-in-spotify-app/"><u>Key Steps in Manipulating Song Pace in Spotify App</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/protecting-your-work-youtube-copyright-essentials-explained-for-2024/"><u>Protecting Your Work  YouTube Copyright Essentials Explained for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-finest-unboxing-content-15-top-ranked-youtube-vids-for-2024/"><u>The Finest Unboxing Content  15 Top-Ranked YouTube Vids for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-present-state-of-drones-and-their-future-expansion-for-2024/"><u>The Present State of Drones and Their Future Expansion for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-battle-ultrawide-vs-uhd-4k-display-options-for-2024/"><u>The Ultimate Battle  UltraWide vs UHD 4K Display Options for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-tier-eighth-edition-of-image-blender-tool-for-2024/"><u>Top Tier  Eighth Edition of Image Blender Tool for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-your-visual-storytelling-with-luts-in-ae-for-2024/"><u>Transform Your Visual Storytelling with LUTs in AE for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-buzz-generating-tie-for-2024/"><u>Ultimate Buzz-Generating Tie for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-no-cost-countdown-trackers-for-2024/"><u>Ultimate No-Cost Countdown Trackers for 2024</u></a></li>
+</ul></div>

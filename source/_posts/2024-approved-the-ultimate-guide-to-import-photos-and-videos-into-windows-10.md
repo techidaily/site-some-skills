@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate Guide to Import  Photos & Videos Into Windows 10\""
-date: 2024-06-04T01:26:43.803Z
-updated: 2024-06-05T01:26:43.803Z
+date: 2024-07-22T02:26:02.152Z
+updated: 2024-07-23T02:26:02.152Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/773bcb287706a7e5add3e76fb4807bc2dd418c60c
 
 # How to Import Photos and Videos in Windows 10 (Deepest Secret)
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -39,6 +42,9 @@ In the past, importing photos and videos to a laptop or desktop computer from va
 
 If you are moving photos and video to Windows 10 from a smartphone, you will first have to connect your phone to the computer. It can be done through the USB cable that you should have received with the smartphone. Plug one end of the cable into your phone and the other into the USB port of your desktop or laptop.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Import Photos and Video in windows 10](https://images.wondershare.com/filmora/article-images/usb-cable.jpg)
 
 ### Step 2: Enable File Exchange
@@ -51,12 +57,18 @@ Now that your phone is recognized, you should see the camera or phone pop up alo
 
 ![Import Photos and Video in windows 10](https://images.wondershare.com/filmora/article-images/import-video-photos-to-windows-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### Step 4: Import
 
 Your computer will tell you how many pictures and photos were found. You can either review, organize and group these items, or you can choose to import all the new items in one go.
 
 The great thing about reviewing the photos and videos before importing them onto your computer is that you can choose folders for different files, name those folders and ensure that you are only importing files that are not on your system already.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## Part 2: Start Importing in Photos App
 
 Another option for you is the Photos app that is pre-installed in computers with Windows 10.
@@ -81,6 +93,14 @@ As mentioned above, you must ensure that you have enabled media and file transfe
 
 If you have an iPhone, ensure that your device is unlocked. You will get a “Trust this device” prompt and you must accept it. And if your photos are saved directly to iCloud and not your iPhone, you will need to complete a transfer from iCloud, which you can do by visiting the website or using the relevant desktop app.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## Part 4: Import Photos and Video from a Camera
 
 Those who are importing photos and videos from a camera rather than a smartphone can use the above options as well. Both Windows 10 File Explorer and the Photos app will be compatible with your camera, provided it can connect through a USB cable and a USB port on the computer.
@@ -89,6 +109,9 @@ Connect the camera to your phone and then follow the above steps to import your 
 
 ![Import Photos and Video in windows 10](https://images.wondershare.com/filmora/article-images/import-photos-video-from-camera.jpg)
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## Conclusion
 
 If you own a Windows 10 desktop or laptop, it is very easy to connect a smartphone or digital camera to your computer. Then you will be able to use File Explorer or the built in Photos app to access and download your photos and videos. Adding your content to the computer lets you save the files, share them with friends, edit them using programs like Photoshop, or save space on your smartphone/camera.
@@ -114,28 +137,44 @@ In the past, importing photos and videos to a laptop or desktop computer from va
 
 ## Part 1: Import Photos and Video from a Phone
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 1: Connecting Your Phone
 
 If you are moving photos and video to Windows 10 from a smartphone, you will first have to connect your phone to the computer. It can be done through the USB cable that you should have received with the smartphone. Plug one end of the cable into your phone and the other into the USB port of your desktop or laptop.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![Import Photos and Video in windows 10](https://images.wondershare.com/filmora/article-images/usb-cable.jpg)
 
 ### Step 2: Enable File Exchange
 
 Your phone will have settings regarding file transfers when it is connected to a computer. Make sure that media viewing and transferring is selected, which will allow Windows 10 File Explorer on the computer to recognize your device.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Step 3: Import Photos and Videos
 
 Now that your phone is recognized, you should see the camera or phone pop up along with your hard drives and other external drives. You can right click on its icon, select “Import Photos and Videos” and proceed from there.
 
 ![Import Photos and Video in windows 10](https://images.wondershare.com/filmora/article-images/import-video-photos-to-windows-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ### Step 4: Import
 
 Your computer will tell you how many pictures and photos were found. You can either review, organize and group these items, or you can choose to import all the new items in one go.
 
 The great thing about reviewing the photos and videos before importing them onto your computer is that you can choose folders for different files, name those folders and ensure that you are only importing files that are not on your system already.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Start Importing in Photos App
 
 Another option for you is the Photos app that is pre-installed in computers with Windows 10.
@@ -144,6 +183,9 @@ Go to Start -> All Apps -> Photos and open it up. Your phone or camera should be
 
 Click the Import button on the Photos app and choose the items that you want to import. When you have selected all the items you want, click on continue and then import. All your files will be added onto your computer and they will be visible within the Photos app.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Import Photos and Video in windows 10](https://images.wondershare.com/filmora/article-images/import-photos-video-from-photos-app.jpg)
 
 Within the app, it is easy to see your photos and videos as they are organized based on the date they are imported. So you will be able to see exactly what you have added in the most recent imports and with future imports as well.
@@ -160,6 +202,9 @@ As mentioned above, you must ensure that you have enabled media and file transfe
 
 If you have an iPhone, ensure that your device is unlocked. You will get a “Trust this device” prompt and you must accept it. And if your photos are saved directly to iCloud and not your iPhone, you will need to complete a transfer from iCloud, which you can do by visiting the website or using the relevant desktop app.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: Import Photos and Video from a Camera
 
 Those who are importing photos and videos from a camera rather than a smartphone can use the above options as well. Both Windows 10 File Explorer and the Photos app will be compatible with your camera, provided it can connect through a USB cable and a USB port on the computer.
@@ -168,6 +213,9 @@ Connect the camera to your phone and then follow the above steps to import your 
 
 ![Import Photos and Video in windows 10](https://images.wondershare.com/filmora/article-images/import-photos-video-from-camera.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 If you own a Windows 10 desktop or laptop, it is very easy to connect a smartphone or digital camera to your computer. Then you will be able to use File Explorer or the built in Photos app to access and download your photos and videos. Adding your content to the computer lets you save the files, share them with friends, edit them using programs like Photoshop, or save space on your smartphone/camera.
@@ -204,3 +252,59 @@ Follow @Shanoon Cox
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-breakdown-of-essential-features-in-movie-maker-for-windows-8/"><u>[New] 2024 Approved  Breakdown of Essential Features in Movie Maker for Windows 8</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-cutting-edge-camera-technology-for-youtube-stars/"><u>[New] 2024 Approved  Cutting-Edge Camera Technology For YouTube Stars</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-lolkit-design-memes-and-graphics-with-a-click/"><u>[New] 2024 Approved  LolKit  Design Memes & Graphics with a Click</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamline-your-movie-watching-process-add-subtitles-to-wmp/"><u>[New] Streamline Your Movie-Watching Process  Add Subtitles to WMP</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-superior-6-apps-to-subtitle-videos-internationally/"><u>[New] Superior 6 Apps to Subtitle Videos Internationally</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-holding-attention-6-video-classifications/"><u>[New] The Art of Holding Attention  6 Video Classifications</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-thrifty-flyers-guide-5-drones-for-under-100/"><u>[New] Thrifty Flyers' Guide  5 Drones for Under $100</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tranquil-acoustic-settings-on-computers/"><u>[New] Tranquil Acoustic Settings on Computers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-list-of-3d-typographic-sites/"><u>[New] Ultimate List of 3D Typographic Sites</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unleashing-the-power-of-playback-turning-youtube-content-into-engaging-gifs-pcmobile/"><u>[New] Unleashing the Power of Playback  Turning YouTube Content Into Engaging GIFs (PC/Mobile)</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-essential-techniques-for-captivating-slow-motion-videos-on-tiktok/"><u>[Updated] 2024 Approved  Essential Techniques for Captivating Slow Motion Videos on TikTok</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-masterful-post-placement-to-surge-video-views-for-2024/"><u>[Updated] Masterful Post Placement to Surge Video Views for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streaming-showdown-twitch-versus-youtube-unveiled/"><u>[Updated] Streaming Showdown  Twitch Versus YouTube Unveiled</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-supercharge-your-pc-with-these-win-10-tricks/"><u>[Updated] Supercharge Your PC with These Win 10 Tricks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-roundup-unleashing-the-best-5-online-title-makers/"><u>[Updated] The Ultimate Roundup  Unleashing the Best 5 Online Title Makers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transform-your-movies-tips-for-amazing-slow-motion-on-android-phones/"><u>[Updated] Transform Your Movies  Tips for Amazing Slow Motion on Android Phones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-troubleshooting-tips-for-a-stable-windows-11-photo-experience/"><u>[Updated] Troubleshooting Tips for a Stable Windows 11 Photo Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlimited-choice-in-free-personalized-outro-sounds/"><u>[Updated] Unlimited Choice in Free, Personalized Outro Sounds</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-art-of-digital-broadcasting-in-real-time/"><u>[Updated] Unveiling the Art of Digital Broadcasting in Real Time</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-using-luts-in-spark-ar-and-download-free-luts/"><u>[Updated] Using LUTs in Spark AR & Download Free LUTs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-conquering-hdr-photography-with-ease/"><u>2024 Approved  Conquering HDR Photography with Ease</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-optimizing-living-area-for-oculus-virtual-reality/"><u>2024 Approved  Optimizing Living Area for Oculus Virtual Reality</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-artisans-guide-to-chromatic-mastery/"><u>2024 Approved  The Artisan's Guide to Chromatic Mastery</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-essential-companion-for-advanced-win10-users/"><u>2024 Approved  The Essential Companion for Advanced Win10 Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-top-strategies-for-box-enthusiasts/"><u>2024 Approved  The Top Strategies for Box Enthusiasts</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-thrifty-tech-finds-best-cameras-on-a-dime/"><u>2024 Approved  Thrifty Tech Finds  Best Cameras on a Dime</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-5-cloud-voice-editors-for-chrome-os-transforming-your-tone-and-pitch/"><u>2024 Approved  Top 5 Cloud Voice Editors for Chrome OS  Transforming Your Tone and Pitch</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-8-mobile-montages-androidios-screenshot-wonders/"><u>2024 Approved  Top 8 Mobile Montages  Android/iOS Screenshot Wonders</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-kid-friendly-drone-models-for-first-flights/"><u>2024 Approved  Top Kid-Friendly Drone Models for First Flights</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleashing-imagination-creating-motion-pictures-with-windows-movie-maker/"><u>2024 Approved  Unleashing Imagination  Creating Motion Pictures with Windows Movie Maker</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-xboxs-video-call-potential-with-zoom/"><u>2024 Approved  Unlocking Xbox's Video Call Potential with Zoom</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unmatched-performance-and-price-select-top-asmr-microphone-picks/"><u>2024 Approved  Unmatched Performance & Price - Select Top ASMR Microphone Picks</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-vivo-y200e-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Vivo Y200e 5G?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-vivo-s17-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-vivo-y27s-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Vivo Y27s Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-mastering-screen-recordings-powerpoint-edition/"><u>In 2024, Mastering Screen Recordings  PowerPoint Edition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-starter-gopro-gear-essentials/"><u>In 2024, Top Starter GoPro Gear Essentials</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlock-your-creative-potential-with-inshot-for-pcs-and-laptops/"><u>In 2024, Unlock Your Creative Potential with Inshot for PCs & Laptops</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-the-secrets-of-memetic-success-through-gifs/"><u>In 2024, Unlocking the Secrets of Memetic Success Through GIFs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-secrets-to-buying-todays-best-360-cameras/"><u>In 2024, Unveiling the Secrets to Buying Today's Best 360 Cameras</u></a></li>
+<li><a href="https://some-skills.techidaily.com/leading-the-charge-smart-transcription-in-professional-slides-for-2024/"><u>Leading the Charge  Smart Transcription in Professional Slides for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/streamline-your-creative-process-with-instagrams-photography-tips-for-2024/"><u>Streamline Your Creative Process with Instagram's Photography Tips for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-future-of-advertising-mastering-metaverse-for-2024/"><u>The Future of Advertising  Mastering Metaverse for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-key-elements-in-achieving-proficient-interview-performance-for-2024/"><u>The Key Elements in Achieving Proficient Interview Performance for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-path-to-perfect-streams-streamlabs-plus-obs-for-mac-users-for-2024/"><u>The Path to Perfect Streams  Streamlabs + OBS for Mac Users for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/the-ultimate-filmora-coupon-code-resource-7-ways-to-save-for-2024/"><u>The Ultimate Filmora Coupon Code Resource 7 Ways to Save for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-xiaomi-mix-fold-3-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Xiaomi Mix Fold 3 Location | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-8-webcam-filters-to-elevate-your-streaming-for-2024/"><u>Top 8 Webcam Filters to Elevate Your Streaming for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/under-a-hundred-bucks-heres-your-top-5-drones-for-2024/"><u>Under a Hundred Bucks? Here's Your Top 5 Drones for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-creative-potential-in-photography-top-15-tricks-for-using-pixlr-for-2024/"><u>Unlock Creative Potential in Photography  Top 15 Tricks for Using Pixlr for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-angles-strategic-composition-tips-for-iphone-photography-for-2024/"><u>Unveiling Angles  Strategic Composition Tips for iPhone Photography for 2024</u></a></li>
+</ul></div>

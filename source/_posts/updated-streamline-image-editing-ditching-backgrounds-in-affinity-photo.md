@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Streamline Image Editing  Ditching Backgrounds in Affinity Photo\""
-date: 2024-06-04T04:57:22.956Z
-updated: 2024-06-05T04:57:22.956Z
+date: 2024-07-22T04:36:52.553Z
+updated: 2024-07-23T04:36:52.553Z
 tags: 
   - screen-recording
   - ai video
@@ -26,6 +26,18 @@ No matter you are a professional content creator or a newbie, we'll be discussin
 
 Affinity Photo is a simple and easy-to-use editing software, and you can remove a background in it under two scenarios: remove a white or a busy background.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Erase a White Background in Affinity Designer
 
 To erase a white background in Affinity Designer, do these steps:
@@ -34,14 +46,23 @@ Step1 In the first step, install the [Affinity Designer](https://affinity.serif.
 
 Now access the **Pixel Persona** section in the left corner of the software screen by clicking the **colored boxes** icon.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![accessing the pixel persona in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-pixel-persona-in-affinity-designer.png)
 
 Step2 Go to the **"Layers"** tab in the right pane, right-click your layer, and disable **"Lock."** Now right-click on your layer again, and select **"Rasterize"** to enable editing of specific parts of the image.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unlocking the image layer in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/unlocking-the-image-layer-in-affinity-designer.png)
 
 Step3 To make a selection around your subject, first enable the **"Snap To Edges"** and **"Soft Edges"** feature from the top toolbar. This will help you automatically detect the edges and give it a more tapered finish.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![enabling snap to edges and soft edges in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/enabling-snap-to-edges-and-soft-edges-in-affinity-designer.png)
 
 Set your brush size using your keyboard's **left** and **right bracket** keys. Now, manually make a selection around your subject and white edges in the image as precisely as possible.
@@ -50,12 +71,18 @@ Step4 Next, zoom in on your subject. Press & hold the ALT key on your keyboard, 
 
 Click the **"Refine"** option in the toolbar to open the **"Refine Selection"** menu. A red mask will be applied to your subject, giving you an idea of how your image will look once you remove the background. Zoom in and if any details are excluded, paint them over. Once you are satisfied, click **"Apply"** to save your changes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![refining the outline around the image to remove background in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/refining-the-outline-around-the-image-to-remove-background-in-affinity-designer.png)
 
 Step5 In the last step, press the **"Delete"** key on your keyboard to remove the background, or click **"Edit"** and choose the **"Cut"** option.
 
 Now, hit **"Control+D"** to deselect the selection. Alternatively, you can click **"Select"** in the top toolbar and choose the **"Deselect"** option. Finally, you can export your file using the **"File" > "Export"** option.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Remove a Busy Background in Affinity Designer
 
 If you want to remove a busy background of an image in the Affinity Designer software, follow these steps carefully:
@@ -143,3 +170,38 @@ Hopefully, this article and video can help you create ideal images!
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-efficiency-incorporating-zoom-into-your-gmail-routine/"><u>[New] Unlocking Efficiency  Incorporating Zoom Into Your Gmail Routine</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-velocity-vision-speed-up-videos-on-android/"><u>[New] Velocity Vision  Speed Up Videos on Android</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-what-are-the-best-sites-to-download-text-effects/"><u>[New] What Are The Best Sites To Download Text Effects?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-igniting-instagram-interest-maximizing-content-reach-and-interactions-for-2024/"><u>[Updated] Igniting Instagram Interest  Maximizing Content Reach and Interactions for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-demystifying-twitters-ad-formats-and-targeting-options/"><u>[Updated] In 2024, Demystifying Twitter's Ad Formats and Targeting Options</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-integrating-zoom-and-skype-the-ultimate-guide-to-efficient-video-calls/"><u>[Updated] Integrating Zoom and Skype  The Ultimate Guide to Efficient Video Calls</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-essentials-of-expertly-editing-images-at-home/"><u>[Updated] The Essentials of Expertly Editing Images at Home</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-10-uplifting-films-for-momentum-and-motivation/"><u>[Updated] Top 10 Uplifting Films for Momentum & Motivation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transforming-audiencier-names-with-top-ai-tools/"><u>[Updated] Transforming Audiencier Names with Top AI Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-choice-elite-desktop-pcs/"><u>[Updated] Ultimate Choice  Elite Desktop PCs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlock-your-creativity-with-top-title-methods/"><u>[Updated] Unlock Your Creativity with Top Title Methods</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-vr-inventory-and-imagination-deficit/"><u>[Updated] Unveiling VR  Inventory and Imagination Deficit</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-your-multimedia-browsing-in-chrome-using-pip/"><u>2024 Approved  Streamline Your Multimedia Browsing in Chrome Using PIP</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-your-virtual-adventure-with-kinemaster-tips-and-competitor-analysis/"><u>2024 Approved  Streamline Your Virtual Adventure with KineMaster Tips & Competitor Analysis</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-essential-guide-to-blur-techniques-for-dynamic-artwork/"><u>2024 Approved  The Essential Guide to Blur Techniques for Dynamic Artwork</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explaining-the-freeze-photo-booth-film-flow-for-2024/"><u>Explaining the Freeze  Photo Booth Film Flow for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/finding-the-ideal-game-voice-modifier-a-comprehensive-guide-for-2024/"><u>Finding the Ideal Game Voice Modifier A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/get-your-plugins-back-on-track-fcpx-troubleshooting-tips/"><u>Get Your Plugins Back on Track FCPX Troubleshooting Tips</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-behind-the-scenes-with-filmora-top-10-must-haves/"><u>In 2024, Behind the Scenes with Filmora  Top 10 Must-Haves</u></a></li>
+<li><a href="https://review-topics.techidaily.com/pdf-repair-tool-to-repair-corrupt-pdf-files-pdf-stellar-by-stellar-guide/"><u>PDF Repair Tool to Repair Corrupt PDF files (.PDF) | Stellar</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/prime-picks-for-classroom-audio/"><u>Prime Picks for Classroom Audio</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/rhythm-on-rings-creating-tamil-ringtone-playlists/"><u>Rhythm on Rings  Creating Tamil Ringtone Playlists</u></a></li>
+<li><a href="https://extra-information.techidaily.com/sketch-up-your-ideas-an-essential-guide-to-the-top-8-drawing-tools-on-ios/"><u>Sketch Up Your Ideas  An Essential Guide to the Top 8 Drawing Tools on iOS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/stabilize-windows-11-screens-no-more-stretching/"><u>Stabilize Windows 11 Screens, No More Stretching</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/stepping-into-tiktoks-anime-universe-the-harmony-of-movement-music-and-visual-trends-for-2024/"><u>Stepping Into TikTok's Anime Universe  The Harmony of Movement, Music & Visual Trends for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/syncing-scenes-merging-pc-and-cloud-images-for-2024/"><u>Syncing Scenes  Merging PC & Cloud Images for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-essence-of-interactive-virtuality-for-2024/"><u>The Essence of Interactive Virtuality for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-sierras-icloud-drives-and-shares-for-2024/"><u>The Ultimate Guide to Sierra's iCloud Drives & Shares for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tools-and-gear-for-crafting-vlogs-for-2024/"><u>Tools & Gear for Crafting Vlogs for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-tier-text-transitions-reels-for-2024/"><u>Top-Tier Text Transitions Reels for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/uncovering-notable-versions-within-microsofts-movie-maker-for-2024/"><u>Uncovering Notable Versions Within Microsoft's Movie Maker for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Resource for Microsoft Azure Speech Services for 2024"
-date: 2024-07-05T16:05:25.126Z
-updated: 2024-07-06T16:05:25.126Z
+date: 2024-07-22T06:05:53.749Z
+updated: 2024-07-23T06:05:53.749Z
 tags: 
   - screen-recording
   - ai video
@@ -26,6 +26,9 @@ Are you tired of manually typing texts into document editors like Word and Notep
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: What is Microsoft Azure and Speech Studio?
 
 Microsoft Azure STT and TTS are part of **Microsoft Cognitive Services Speech**. These cognitive services feature state-of-the-art intelligence covering voice recognition, speaker recognition, machine translation, and OCR (Optical Character Recognition). The Microsoft speech to text service uses Azure Machine Learning (Azure ML) to auto-recognize, analyze, and convert human voices to editable and searchable texts.
@@ -38,6 +41,9 @@ If you're not good with programming languages, use Speech CLI, a command tool th
 
 It is also worth noting that Azure Speech Studio supports keyword recognition or keyword spotting. You can generate keyword recognition models and specify any short phrase or word. Users can also personalize keywords with the correct punctuations. And best of all, there is no extra cost for customizing keywords.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Step by Step Guide to Transcribe Speech to Text with Microsoft Speech Studio
 
 Now let's learn how to use Microsoft Azure speech recognition services. Remember, the conversion may not be accurate if the audio has lots of domain-industry jargon or ambient noises. Therefore, use crisp-clear audio with an external mic or train the software to recognize specific words or keywords. Let's get started!
@@ -48,6 +54,9 @@ Step2After creating a Microsoft Azure portal, you'll see all Azure services. Cli
 
 Step3The program will take a while to deploy an instance. Now tap Keys and endpoints on the left pane and copy the key and region identifier as you may need them later on.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![micrsoft azure speech to text copy key and region](https://images.wondershare.com/filmora/article-images/2022/07/microsoft-speech-to-text-1.jpg)
 
 Step4Download and install Microsoft Visual C++ and .NET Core 3.1 Runtime. Next, install Speech CL on .NET by running this command “**dotnet tool install -global Microsoft.CognitiveServices.Speech.CLI.**” Alternatively, download and install Speech CLI for Windows PCs as a [ZIP file](https://aka.ms/speech/spx-windows).
@@ -56,6 +65,9 @@ Step5Now enter the Azure regional identifier and subscription key on Windows Ter
 
 Step6Now it's time to convert speech to text using Azure STT Service. To do that, run “**spx recognize -microphone**” on Terminal or PowerShell. Azure Speech CLI will listen to sound input and convert it to text. And there is that!
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![icon note](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** Click [this video](https://docs.microsoft.com/en-us/shows/one-dev-minute/how-to-use-the-azure-cognitive-services-net-speech-sdk-for-recognition) for a detailed guide on how to use Azure Speech Services with Visual Basic (SDK).
@@ -96,10 +108,19 @@ Select the audio asset in the timeline, and click the "Speech-to-Text" icon in t
 
 Click the "Speech-to-Text" icon, and it will show the parameter settings. You can choose the languages to be transcribed and to be transcribed to. Filmora's STT feature supports direct transcription of bilingual subtitles with up to 27 languages of transcription
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![parameter setting](https://images.wondershare.com/filmora/guide/guide-win/setting-stt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. Google Docs - Free
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![micrsoft azure speech to text alternative google docs](https://images.wondershare.com/filmora/article-images/2022/07/microsoft-speech-to-text-6.jpg)
 
 If you're looking for free voice typing software, you're better off with Google Docs. Most of you may not be aware that Google Docs can accurately convert speech to text. This makes it a handy tool if you find speaking easier than writing. As expected, this voice transcription tool recognizes hundreds of languages, like English, French, Italian, Hindi, etc.
@@ -114,6 +135,9 @@ Step2Next, click the language drop-down arrow on the microphone to choose the tr
 
 Step3Click the Microphone icon to start dictating texts on Google Docs. After dictating enough texts, tap the red Microphone icon and edit your text. It's that simple!
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 3. Audtext
 
 ![micrsoft azure speech to text alternative audtext](https://images.wondershare.com/filmora/article-images/2022/07/microsoft-speech-to-text-7.jpg)
@@ -164,3 +188,54 @@ In that case, use a more straightforward option like Google Docs to dictate text
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-become-a-pro-at-screen-recording-essential-tips-for-xiaomi-users/"><u>[New] Become a Pro at Screen Recording  Essential Tips for Xiaomi Users</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-cutting-edge-creativity-choosing-high-quality-camera-lenses/"><u>[New] In 2024, Cutting Edge Creativity  Choosing High-Quality Camera Lenses</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-navigating-the-world-of-vr-playback-technology/"><u>[New] Navigating the World of VR Playback Technology</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-pinnacle-headlines-engineer/"><u>[New] Pinnacle Headlines Engineer</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-no-fuss-podcast-streaming-handbook/"><u>[New] The No-Fuss Podcast Streaming Handbook</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-quest-for-perfect-balance-top-gimbals-in-dronescapes/"><u>[New] The Quest for Perfect Balance  Top Gimbals in Dronescapes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-through-the-lens-through-the-mind-advanced-photo-editing-mastery/"><u>[New] Through the Lens, Through the Mind  Advanced Photo Editing Mastery</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-8-best-free-srt-translators-online-tips-to-choose/"><u>[New] Top 8 Best Free SRT Translators Online (Tips to Choose)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transform-your-images-with-easy-color-changes/"><u>[New] Transform Your Images with Easy Color Changes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-tune-master-app-for-android/"><u>[New] Ultimate Tune Master App for Android</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unleash-the-content-free-movie-player-windowsmac/"><u>[New] Unleash the Content  FREE MOVIE PLAYER (Windows/Mac)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlock-hidden-potential-top-10-enhancing-plug-ins/"><u>[New] Unlock Hidden Potential  Top 10 Enhancing Plug-Ins</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tailoring-medical-messages-in-social-media-ads/"><u>[Updated] Tailoring Medical Messages in Social Media Ads</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-techniques-for-realistic-photo-motions-in-illustrator/"><u>[Updated] Techniques for Realistic Photo Motions in Illustrator</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transform-your-vision-into-reality-windows-11-video-creation/"><u>[Updated] Transform Your Vision Into Reality  Windows 11 Video Creation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-telegram-web-potentials-a-practical-guide/"><u>[Updated] Unlocking Telegram Web Potentials  A Practical Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-precision-play-5-proven-techniques-for-zoomed-gameplay/"><u>2024 Approved  Precision Play  5 Proven Techniques for Zoomed Gameplay</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-superior-app-dev-editors-top-15-selection/"><u>2024 Approved  Superior App Dev Editors  Top 15 Selection</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-techniques-to-realize-time-bending-scenes/"><u>2024 Approved  Techniques to Realize Time-Bending Scenes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-master-plugins-for-final-cut-pro/"><u>2024 Approved  Top 10 Master Plugins for Final Cut Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-trendsetting-images-their-histories/"><u>2024 Approved  Trendsetting Images  Their Histories</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-cam-gear-mastering-low-speed-video-recording/"><u>2024 Approved  Ultimate Cam Gear  Mastering Low-Speed Video Recording</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unpacking-the-essentials-mastering-adobes-storage-solutions-and-their-rival-alternatives/"><u>2024 Approved  Unpacking The Essentials  Mastering Adobe's Storage Solutions & Their Rival Alternatives</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-worlds-in-virtual-reality-tours/"><u>2024 Approved  Unveiling Worlds in Virtual Reality Tours</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-realme-gt-neo-5-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Realme GT Neo 5 Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/deep-dive-into-freeweb-recorder-v2-interface-for-2024/"><u>Deep Dive Into FreeWeb Recorder V2 Interface for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/harmony-achieved-nvidia-7025-in-windows-10/"><u>Harmony Achieved: Nvidia 7025 in Windows 10</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-sony-xperia-5-v-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Sony Xperia 5 V without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamline-your-soundtrack-exchanging-playlists-seamlessly/"><u>In 2024, Streamline Your Soundtrack  Exchanging Playlists Seamlessly</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-complete-haul-video-manual-from-shopping-to-screen-time/"><u>In 2024, The Complete Haul Video Manual  From Shopping to Screen Time</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-the-insiders-guide-to-preserving-your-spotify-collection-in-local-formats/"><u>In 2024, The Insiders Guide to Preserving Your Spotify Collection in Local Formats</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-free-high-quality-subtitle-tools/"><u>In 2024, The Ultimate Guide to FREE, High-Quality Subtitle Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-time-lapse-potential-on-samsung-screens/"><u>In 2024, Unlocking Time-Lapse Potential on Samsung Screens</u></a></li>
+<li><a href="https://some-skills.techidaily.com/lightning-fast-retrieval-of-vanished-reddit-discussions-for-2024/"><u>Lightning-Fast Retrieval of Vanished Reddit Discussions for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-drone-flight-optimal-lipo-battery-selection-for-2024/"><u>Mastering Drone Flight  Optimal LiPo Battery Selection for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/premium-portals-best-websites-to-secure-snapalert-beats-for-2024/"><u>Premium Portals  Best Websites to Secure SnapAlert Beats for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/rapid-refit-youtube-on-mac-perfect-scaling-for-2024/"><u>Rapid Refit  Youtube on Mac Perfect Scaling for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/swiftly-enhanced-facebook-videos-best-extensions-hacks-and-apps-for-2024/"><u>Swiftly Enhanced Facebook Videos  Best Extensions, Hacks, and Apps for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/techniques-to-zoom-into-online-engagements-intelligently-for-2024/"><u>Techniques to Zoom Into Online Engagements Intelligently for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-writers-toolkit-dialogue-and-narration-techniques-for-success-for-2024/"><u>The Writer's Toolkit  Dialogue and Narration Techniques for Success for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-nokia-150-2023-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Nokia 150 (2023) Android SIM Unlock APK</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-5-gaming-monitors-tailored-for-playstation-and-xbox-for-2024/"><u>Top 5 Gaming Monitors Tailored for PlayStation & Xbox for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-your-reddit-potential-practical-tips-for-mastery-for-2024/"><u>Unlock Your Reddit Potential - Practical Tips for Mastery for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-the-secrets-quickly-change-your-characters-vocal-tone-pubg-for-2024/"><u>Unlocking the Secrets  Quickly Change Your Character's Vocal Tone (PUBG) for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-magic-of-vr-environments-for-2024/"><u>Unveiling the Magic of VR Environments for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-the-ultimate-podcast-recording-playbook-a-seamless-process/"><u>Updated 2024 Approved The Ultimate Podcast Recording Playbook A Seamless Process</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-top-free-video-smoothing-tools-for-pc-and-mac/"><u>Updated In 2024, Top Free Video Smoothing Tools for PC and Mac</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Skyward Gazing  Inside the World of X4 FPV Quads\""
-date: 2024-06-04T01:11:12.757Z
-updated: 2024-06-05T01:11:12.757Z
+date: 2024-07-22T02:16:02.394Z
+updated: 2024-07-23T02:16:02.394Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,13 @@ thumbnail: https://thmb.techidaily.com/6f98ed833e99780ec633017bfd02ba19a6f592b21
 
 # Hubsan H501S X4 FPV Quadcopter Review
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -106,18 +113,27 @@ thumbnail: https://thmb.techidaily.com/6f98ed833e99780ec633017bfd02ba19a6f592b21
 
 #### 5. Transmitter
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![hubsan h501S x4 controller](https://images.wondershare.com/filmora/article-images/hubsan-h501S-x4-controller.jpg)
 
  The Hubsan H501S X4 controller is designed with 4.3 LCD screen and it helps users to enjoy FPV camera operation with ease. This LCD screen can display all telemetry data for flights. It works on 5.8 GHz range to send video signals into MicroSD card whereas the controller itself works on 2.4 GHz frequency range.
 
 #### 6. Brushless Motors
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![hubsan h501s x4 brushless motor](https://images.wondershare.com/filmora/article-images/hubsan-h501s-x4-brushless-motor.jpg)
 
  Here is one interesting thing to know about Hubsan H501S, that is its brushless motor design. This motor is powerful enough with durable design so that users can enjoy uninterrupted flights for longer run.
 
 #### 7. Camera
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![hubsan h501s x4 brushless camera](https://images.wondershare.com/filmora/article-images/hubsan-h501s-x4-brushless-camera.jpg)
 
  If you are in search of a drone with great camera setup then you will be impressed with Hubsan X4 results. It captures stills with 1080p resolution and live videos need 5.8 GHz frequency from controller and you can view them directly on 4.3” built in screen of controller unit. All photos and videos are directly saved into MicroSD card.
@@ -126,6 +142,9 @@ thumbnail: https://thmb.techidaily.com/6f98ed833e99780ec633017bfd02ba19a6f592b21
 
  Wide range of impressive features have been covered in Hubsan H501S X4 review above so that buyers can make best decision about whether it fits their needs or not. Are you a beginner in the drone world? Then you may need to learn few tactics before arranging your first flight. This specially designed drone unit can also be a good choice for gift to someone you really love. Update your opinion so that we can have discussions about what drones are suitable for your general needs. Also, prefer to bookmark our page so that you can easily go through regular updates about drones and their flying tips. Have a great time with your new drone.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -143,12 +162,18 @@ Follow @Max Wales
 **You may also like:**
 [Drone racing: Things You need to Know and Top 5 best FPV racing drones >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 [![hubsan h501S x4](https://images.wondershare.com/filmora/article-images/hubsan-h501S-x4.jpg) ](https://www.amazon.com/gp/product/B019FHMZD8/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B019FHMZD8&linkId=9d34fd5276ff2e7909e54006b25f45fa
 )
 
 [Check at Amazon](https://www.amazon.com/gp/product/B019FHMZD8/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B019FHMZD8&linkId=9d34fd5276ff2e7909e54006b25f45fa
 )
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ## Pros and Cons
 
  **Pros:**
@@ -270,3 +295,44 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-easily-enable-offline-access-to-youtube-on-iphoneipad-for-2024/"><u>[New] Easily Enable Offline Access to YouTube on iPhone/iPad for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-favorite-frameworks-top-instagram-filters-for-2024/"><u>[New] Favorite Frameworks  Top Instagram Filters for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-stepwise-journey-to-excellence-in-voice-memos/"><u>[New] Stepwise Journey to Excellence in Voice Memos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streaming-selection-saga-choose-between-engaging-podcasts-and-youtube-channels/"><u>[New] Streaming Selection Saga  Choose Between Engaging Podcasts and YouTube Channels</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-best-gopro-hero5-black-batteries-and-chargers-official-and-3rd-party/"><u>[New] The Best GoPro Hero5 Black Batteries and Chargers  Official and 3Rd Party</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-guide-to-growing-instagram-video-audiences-for-2024/"><u>[New] The Guide to Growing Instagram Video Audiences for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-total-circles-capture-systems/"><u>[New] Total Circles Capture Systems</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-handbook-for-using-googles-ai-for-transcription-in-word-processors/"><u>[New] Ultimate Handbook for Using Google's AI for Transcription in Word Processors</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-tutorial-for-powerdirector-2024-users/"><u>[New] Ultimate Tutorial for PowerDirector 2024 Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-mp3-from-pinterest-video-files-with-these-steps/"><u>[New] Unlocking MP3 From Pinterest Video Files with These Steps</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-beyond-vidcon-top-50-youtube-celebrations/"><u>[Updated] 2024 Approved  Beyond VidCon  Top 50 YouTube Celebrations</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-crafting-a-hit-list-youtubes-way-for-fans-for-2024/"><u>[Updated] Crafting a Hit-List  Youtube's Way for Fans for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-10-best-mobile-edits-youtube-shorts-clips-on-iosandroid/"><u>[Updated] In 2024, 10 Best Mobile Edits  YouTube Shorts Clips on iOS/Android</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-sound-savants-playbook-for-efficient-audible-records/"><u>[Updated] The Sound Savant's Playbook for Efficient Audible Records</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-rated-components-for-smooth-live-transmissions/"><u>[Updated] Top-Rated Components for Smooth Live Transmissions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlock-the-potential-of-still-photos-through-video-creation-in-pixiz/"><u>[Updated] Unlock the Potential of Still Photos Through Video Creation in Pixiz</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-the-potential-comprehensive-analysis-of-dji-phantom-4/"><u>[Updated] Unlocking the Potential  Comprehensive Analysis of DJI Phantom 4</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-image-quality-a-newbies-comprehensible-guide/"><u>[Updated] Unveiling Image Quality  A Newbie's Comprehensible Guide</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/10-best-free-discord-voice-changers-2023-reviews-plusguide-for-2024/"><u>10 Best Free Discord Voice Changers [2023 Reviews +Guide] for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-synthesizing-best-canon-temporal-media/"><u>2024 Approved  Synthesizing Best Canon Temporal Media</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-taking-your-photo-skills-to-new-heights-creating-timelapse-footage-with-gopro-studio/"><u>2024 Approved  Taking Your Photo Skills to New Heights  Creating Timelapse Footage with GoPro Studio</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-understanding-recent-youtube-financial-policies/"><u>2024 Approved  Understanding Recent YouTube Financial Policies</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-hevc-h-265-files-on-samsung-galaxy-s24-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How do you play HEVC/H.265 files on Samsung Galaxy S24?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-v27e-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo V27e to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-the-latest-in-picsart-a-comprehensive-guide-and-review/"><u>In 2024, Explore the Latest in PicsArt - A Comprehensive Guide and Review</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-samsung-galaxy-s24-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Samsung Galaxy S24 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-easy-way-to-spot-and-view-trending-youtube-feedback/"><u>In 2024, The Easy Way to Spot and View Trending YouTube Feedback</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-first-step-in-vlogging-tools-you-need/"><u>In 2024, The First Step in Vlogging  Tools You Need</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-understanding-the-powerhouse-inside-apples-m1-chip/"><u>In 2024, Understanding the Powerhouse  Inside Apple's M1 Chip</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unraveling-the-mystery-of-online-broadcast-archiving/"><u>In 2024, Unraveling the Mystery of Online Broadcast Archiving</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-gopro-quik-for-pc-and-alternatives/"><u>New In 2024, GoPro Quik for PC and Alternatives</u></a></li>
+<li><a href="https://some-skills.techidaily.com/strategies-for-eye-catching-podcast-previews-for-2024/"><u>Strategies for Eye-Catching Podcast Previews for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-artisans-guide-to-blending-visuals-and-melodies-in-canvas-videos-for-2024/"><u>The Artisan's Guide to Blending Visuals & Melodies in Canvas Videos for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-8-gold-text-wonders-in-the-vast-world-of-3d-sites-for-2024/"><u>Top 8 Gold-Text Wonders in the Vast World of 3D Sites for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transforming-flat-text-into-3d-masterpieces-photo-for-2024/"><u>Transforming Flat Text Into 3D Masterpieces PHOTO for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-layers-intricate-analysis-of-vegas-pro-21-for-2024/"><u>Unveiling the Layers  Intricate Analysis of Vegas Pro '21 for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-seamless-blending-of-audio-with-visuals-using-quicktime-tools-and-techniques/"><u>Updated Seamless Blending of Audio with Visuals Using QuickTime Tools and Techniques</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Top 11 Hacks for New Windows 11 for 2024"
-date: 2024-06-04T03:22:07.037Z
-updated: 2024-06-05T03:22:07.037Z
+date: 2024-07-22T03:38:28.716Z
+updated: 2024-07-23T03:38:28.716Z
 tags: 
   - screen-recording
   - ai video
@@ -32,6 +32,9 @@ After years of small updates, the biggest and most popular operating system in t
 
 With the increased number of notifications in Windows 11, you might get annoyed. For that, you can turn off the notifications from the 'Settings.' Either you can go to the settings from the Start Menu or by pressing 'Win+I.' Then, head over to ‘System’ and hit 'Notifications.' The notifications are ‘On’ by default, but you can turn them 'Off' if you want to.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![turn off unnecessary notifications](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-1.jpg)
 
 ### 2\. Minimize Applications
@@ -42,6 +45,9 @@ This feature can be activated through Windows Settings and then by clicking on �
 
 ![minimize applications by shaking](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Shortcut Keys
 
 Windows 11 has many shortcut keys that will save your time on a busy day. These shortcut keys cover areas such as Widgets with (Win + W). It Opens the Team Chat app (Win + C), notification center (Win + N), Quick settings with (Win + A), and a lot more. Whereas the shortcuts for copying, pasting, and screenshots are the same as Windows 10.
@@ -52,14 +58,23 @@ Windows 11 has many shortcut keys that will save your time on a busy day. These 
 
 The biggest Windows 11 tip and trick is the placement of Taskbar and Start Menu. Windows 11 has a taskbar and start menu in the center. The relocation of the taskbar and the start menu can be done easily. By changing the placement, you can make Windows 11 look like Windows 10 if you prefer it that way. For that, open the ‘Taskbar Behavior’ and click on ‘Taskbar Alignment’ and relocate it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![align taskbar to the left](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-4.jpg)
 
 ### 5\. Remove Unwanted Ads on Apps
 
 The updated technology allows you to have better control over the privacy of your data and device from personalized ads. For this, go to the ‘Settings’ panel and then move over to the 'Privacy and Security’ section. From the right panel, hit the ‘General’ settings. Now you can select whether you want the apps or websites to show ads based on your interests.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![disable unwanted ads](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 6\. Voice Typing Feature
 
 The coolest thing about Windows 11 that most people don’t know is the ‘Voice Typing’ feature. You might have experienced this before in your iPhones or Android devices, but this is new for Windows to have voice typing built-in. Press ‘Windows Key + H’ when you are in a text box and then start speaking. By using the mic button from the pop-out menu, you can start using the feature.
@@ -72,12 +87,18 @@ Using Widgets and Chats helps the user have a quick chat with people that they l
 
 However, some people do not like using this kind of stuff. They don’t even prefer crowding their taskbar. For such cases, you can turn them off from the toggle switches that are available in the ‘Show or Hide the buttons that appear on Taskbar' or 'Taskbar Items. '
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ![disable widgets and other items](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-7.jpg)
 
 ### 8\. Block Trackers and Pop-up
 
 Another brilliant Windows 11 tip and trick is that it lets you block the pop-ups and also the tracking. For that, open Microsoft Edge and head over to the 3 dots on the top right corner to open 'Settings.' From the left panel in Settings, look for 'Privacy, Search and Services.' By default, it is set to 'Balanced.' You are suggested to select the 'Strict' option so that all the harmful trackers are blocked.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![secure your browsing on windows 11](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-8.jpg)
 
 ### 9\. Change your Geolocation
@@ -86,6 +107,9 @@ Every app we install has our location, but with Windows 11, we can change our de
 
 For changing your default location, hit the ‘Set Default’ button on the right side of the screen. This will open the Map. Now, enter the location that you want to have, and lastly, click on the ‘Change’ button in the top left corner.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![change windows 11 location](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-9.jpg)
 
 ### 10\. Bring Folders on Start
@@ -94,6 +118,23 @@ Windows 11 tips and tricks also include bringing back the folders on the start m
 
 For that, press ‘Win + I’ and then select 'Personalization.' Now, choose 'Start,' and after that, select 'Folders.' At this point, select the system folders that you want to see on the Start Menu. You can flip the switch to 'On.'
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ![bring folders to windows 11 start](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-10.jpg)
 
 ### The Bottom Line
@@ -112,12 +153,21 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
 ![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
 <ins class="adsbygoogle"
@@ -143,3 +193,43 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-best-approach-for-managing-cc-rights-and-usage/"><u>[New] 2024 Approved  Best Approach for Managing CC Rights & Usage</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-charismatic-oratory-study-part-8-for-2024/"><u>[New] Charismatic Oratory Study Part 8 for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-mac-high-quality-video-and-audible-recording/"><u>[New] In 2024, Mac High-Quality Video & Audible Recording</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-step-by-step-guide-to-image-text-overlay-online/"><u>[New] In 2024, Step-by-Step Guide to Image Text Overlay Online</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-crafting-exceptional-instagram-ringtone-alerts-a-compreeved-guide/"><u>[New] The Art of Crafting Exceptional Instagram Ringtone Alerts  A Compreeved Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-global-linguists-guide-to-top-28-applications-for-seamless-translation/"><u>[New] The Global Linguist's Guide to Top 28 Applications for Seamless Translation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-internet-based-image-trimming/"><u>[New] The Ultimate Guide to Internet-Based Image Trimming</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-media-player-replacements-for-vlc/"><u>[New] The Ultimate Guide to Media Player Replacements for VLC</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-toggle-picture-in-picture-feature-for-youtube-app/"><u>[New] Toggle Picture-in-Picture Feature for Youtube App</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-toontown-full-analysis-and-tutorial-24-edition/"><u>[New] ToonTown Full Analysis & Tutorial '24 Edition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-20-essential-gopro-extras/"><u>[New] Top 20 Essential Gopro Extras</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-editing-efforts-10-text-innovations/"><u>[New] Top Editing Efforts  10 Text Innovations</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimateglobalvision-select-live-and-home-channels-together/"><u>[New] UltimateGlobalVision  Select Live and Home Channels Together</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-apples-podcast-library-a-download-guide/"><u>[New] Unlocking Apple's Podcast Library  A Download Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-audio-anomalies-top-disruptive-apps-on-the-go/"><u>[Updated] 2024 Approved  Audio Anomalies  Top Disruptive Apps on the Go</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-comparative-analysis-inexpensive-cloud-storage-providers/"><u>[Updated] Comparative Analysis  Inexpensive Cloud Storage Providers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-leading-free-graphic-resource-hubs-to-elevate-your-artistry/"><u>[Updated] Leading Free Graphic Resource Hubs to Elevate Your Artistry</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-premier-macos-sierra-tools-for-video-changeovers/"><u>[Updated] Premier macOS Sierra Tools for Video Changeovers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/best-mac-screen-recorder-with-audio-for-2024/"><u>Best Mac Screen Recorder with Audio for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/essential-steps-to-connect-canon-to-network-wirelessly/"><u>Essential Steps to Connect Canon to Network Wirelessly</u></a></li>
+<li><a href="https://fox-info.techidaily.com/from-stills-to-movement-examining-the-action-potential-of-camplus/"><u>From Stills to Movement  Examining the Action Potential of Cam+</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-xr21-bootloader-easily-by-drfone-android/"><u>How to Unlock Nokia XR21 Bootloader Easily</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-best-youtube-hubs-for-professional-insights/"><u>In 2024, Best YouTube Hubs for Professional Insights</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-effortless-repetition-replay-your-youtube-videos-via-tv-connection/"><u>In 2024, Effortless Repetition  Replay Your YouTube Videos via TV Connection</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-mastering-legal-compliance-in-your-tiktok-content-upload/"><u>In 2024, Mastering Legal Compliance in Your TikTok Content Upload</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transforming-brand-stories-with-client-produced-testimonials/"><u>In 2024, Transforming Brand Stories with Client-Produced Testimonials</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transitioning-visuals-from-android-to-apple-gear/"><u>In 2024, Transitioning Visuals  From Android to Apple Gear</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-iphone-camera-not-auto-focusing-woes/"><u>Navigating iPhone Camera Not Auto-Focusing Woes</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-zte-blade-a73-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of ZTE Blade A73 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/subdued-soundscape-stitches-for-garageband-workflows-for-2024/"><u>Subdued Soundscape Stitches for Garageband Workflows for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/superior-satire-picture-styler-for-2024/"><u>Superior Satire Picture Styler for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-coolest-filmora-elements-for-enthusiastic-creators-for-2024/"><u>The Coolest Filmora Elements for Enthusiastic Creators for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-7-best-waterproof-video-recorders-for-2024/"><u>The Ultimate Guide  7 Best Waterproof Video Recorders for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-adding-effects-in-tiktok-videos-for-2024/"><u>The Ultimate Guide to Adding Effects in TikTok Videos for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-guide-top-10-preferred-gopro-housing-for-2024/"><u>Ultimate Guide  Top 10 Preferred GoPro Housing for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-steps-for-turning-pin-videos-into-music-files-for-2024/"><u>Ultimate Steps for Turning Pin Videos Into Music Files for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Text and Title Effect Types in After Effects\""
-date: 2024-06-04T06:30:23.973Z
-updated: 2024-06-05T06:30:23.973Z
+date: 2024-07-22T05:33:26.966Z
+updated: 2024-07-23T05:33:26.966Z
 tags: 
   - screen-recording
   - ai video
@@ -39,6 +39,9 @@ Along with After Effects source text effect types, we have illustrated how you c
 
 There are certain properties and parameters associated with text effects and animations in After Effects. You need to get a complete overview of these types so that you can adjust them and come up with stunning text animations in After Effects.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. 3D Text
 
 Generally, when you type a text in After Effects, by default, it comes out to be two-dimensional. All the associated properties have X and Y axis only. However, if you are planning to create 3D text and title, you need to have Z axis.
@@ -49,6 +52,10 @@ After Effects has “Enable per-character 3D” property to all Z axis to applic
 
 Rotation is one of the most commonly used parameters in text animations. There are unlimited variations of text animations and effects that you can create using rotation parameter in After Effects. The rotation takes place in proportion to the anchor points of the text. When you change the value of Rotation parameter, the actual rotation takes place around the anchor points.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ### 3\. Scale and Position
 
 If you want to zoom in and zoom out animation for your text or title, you can use the Scale property in After Effects. You can use keyframes and for each keyframe, you can adjust the scale value and create an illustration of zooming in and out very easily.
@@ -65,14 +72,28 @@ When it comes to text formatting in animation, fill color and stroke color play 
 
 Similarly, the stroke color can be changed and you can create an animation with changing outline color. At the same time, you can adjust the stroke width to make the text look thick or thin as per your animation requirements.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ### 6\. Skew
 
 If you want your text to be distorted and unusual, the skew parameter is there for you in After Effects. Skew means the character will not stay parallel and at right angles. You can adjust the skew value make texts distorted and this is useful in several text animations where distorted texts become normal texts. You can also skew texts in respect to different axis for creative animation.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 7\. Tracking
 
 Tracking refers to the spacing between the characters in a word for a text. You must have seen so many different types of text animations where the spacing between the characters is changing. You can create amazing funny and eye-catching text effects in After Effects by combining tracking and keyframe properly. Along with tracking, there is line anchor that determines the alignment of tracking. Similarly, there is line spacing parameter that controls the spacing between the lines.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ### 8\. Keyframe
 
 Keyframe is like stretching two points into multiple points and for every point, you can change the value of the different parameters we have mentioned. When different keyframes have different parameters, the text will automatically animate once you play the video.
@@ -89,6 +110,9 @@ Step1 Go to Tool panel, click on Type tool. Click on Composition panel and type 
 
 Step2 Go to Effects and Presets panel, search for the desired text effect preset that you want to apply on your text. Drag and drop the selected preset on the text layer and you will see your text getting transformed instantly.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![preview effects and presets ae](https://images.wondershare.com/filmora/article-images/2022/09/preview-effects-and-presets-ae.jpg)
 
 Step3 Go to Timeline and click on the text layer to expand it. Click on Animate option and select any property that you want to adjust and create animation based on the parameters. Go to Keyframe section and add keyframes and change parameters for different keyframes for the text to animate.
@@ -97,6 +121,9 @@ Step3 Go to Timeline and click on the text layer to expand it. Click on Animate 
 
 Apart from the animate option and its parameters, there are several parameters such as transform that you can adjust to edit the text effect as per your preference.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3\. AE Alternative to Edit Text Effects in Video
 
 If you are not comfortable with After Effects and you are looking for a better alternative to AE to add and edit text effects in videos, we recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Filmora has a super intuitive user interface and hence, it is easy to operate than After Effects. Besides, there are more text effects and animations available in Filmora as compared to AE. Editing text effects is super easy as well. Here are the steps to edit text effects in videos with Filmora.
@@ -111,6 +138,9 @@ Step1 Install Wondershare Filmora on your computer and launch the application. C
 
 Step2 Drag and drop the video clip onto timeline. Go to Titles option and you will see different categories of text effects on the left panel. Select any one of text effect templates and drop onto the timeline above the background video.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![select background for text filmora](https://images.wondershare.com/filmora/article-images/2022/09/select-background-for-text-filmora.jpg)
 
 Step3 Double-click on the text layer on the timeline to edit the text preset. You can select any available text style as well as adjust parameters from font and settings sections.
@@ -121,6 +151,9 @@ Step4 Go to Animation section and click on Advanced button. Change different par
 
 ![add animation text in filmora](https://images.wondershare.com/filmora/article-images/2022/09/add-animation-text-in-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ## Part 4\. Related FAQs of Title Effects in After Effects
 
 #### 1\. How do you make 3D text in After Effects?
@@ -160,3 +193,46 @@ Part 1\. 8 Popular Text Title Effects Types in AE
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-thriving-on-instagram-strategies-for-powerful-video-marketing/"><u>[New] In 2024, Thriving on Instagram  Strategies for Powerful Video Marketing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-integrated-dynamic-movement-analysis/"><u>[Updated] Integrated Dynamic Movement Analysis</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamlined-audiovisual-sequencing-in-audacity/"><u>[Updated] Streamlined Audiovisual Sequencing in Audacity</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-metaverse-vs-multimeva-understanding-their-distinct-qualities/"><u>[Updated] The Metaverse Vs. Multimeva  Understanding Their Distinct Qualities</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-10-photography-frames/"><u>[Updated] Top 10 Photography Frames</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-10-picture-frames-and-organizers/"><u>[Updated] Top 10 Picture Frames & Organizers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleash-the-beats-try-these-free-web-scanners/"><u>[Updated] Unleash the Beats  Try These Free Web Scanners</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleash-the-full-potential-of-your-hdr-images-with-lightroom/"><u>[Updated] Unleash the Full Potential of Your HDR Images with Lightroom</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleash-your-creativity-effective-techniques-for-crafting-podcast-scripts/"><u>[Updated] Unleash Your Creativity  Effective Techniques for Crafting Podcast Scripts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unmask-the-tricks-of-photo-and-video-upload-in-win11/"><u>[Updated] Unmask the Tricks of Photo & Video Upload in Win11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-secrets-of-lightroom-on-android-platforms/"><u>[Updated] Unveiling the Secrets of Lightroom on Android Platforms</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-2023-friendly-strategies-for-obtaining-status-video-files/"><u>2024 Approved  2023-Friendly Strategies for Obtaining Status Video Files</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-synergy-of-style-and-functionality-in-ae-plugins/"><u>2024 Approved  Synergy of Style and Functionality in AE Plugins</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-comedy-codex-choosing-your-meme-companion/"><u>2024 Approved  The Comedy Codex  Choosing Your Meme Companion</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-efficient-way-to-grab-all-episodes-on-your-idevice/"><u>2024 Approved  The Efficient Way to Grab All Episodes on Your iDevice</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tick-tock-tally-calculating-pewdiepies-cash/"><u>2024 Approved  Tick-Tock Tally  Calculating PewDiePie’s Cash</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-5-mac-videography-tools-unleashed-in-sierra-os/"><u>2024 Approved  Top 5 Mac Videography Tools Unleashed in Sierra OS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transform-your-beats-with-free-dji-luts-for-minis-and-air-devices/"><u>2024 Approved  Transform Your Beats with Free DJI LUTs for Minis & Air Devices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-understanding-the-price-tag-on-youtube-promo/"><u>2024 Approved  Understanding the Price Tag on Youtube Promo</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-hidden-treasure-of-royalty-free-graphics/"><u>2024 Approved  Unveiling the Hidden Treasure of Royalty-Free Graphics</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/craft-the-perfect-gif-message-in-snapchat-easy-steps/"><u>Craft the Perfect Gif Message in Snapchat [Easy Steps]</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-samsung-galaxy-f54-5g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Samsung Galaxy F54 5G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-apple-iphone-14-pro-prevention-and-solution-drfone-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of Apple iPhone 14 Pro Prevention & Solution | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-toolkit-for-editors-magix-video-pro-x-review/"><u>In 2024, The Ultimate Toolkit for Editors  Magix Video Pro X Review</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-timeless-stop-motion-films-a-celebratory-15-list/"><u>In 2024, Timeless Stop-Motion Films - A Celebratory 15 List</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tropical-tango-toucan/"><u>In 2024, Tropical Tango Toucan</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlock-15-simple-vlog-inspirations-today/"><u>In 2024, Unlock 15 Simple Vlog Inspirations Today</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-depth-appraisal-does-inshot-rule-in-video-edits-for-2024/"><u>In-Depth Appraisal  Does InShot Rule in Video Edits for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-webm-video-compressors-the-best-online-webm-video-compressors/"><u>New WebM Video Compressors The Best Online WebM Video Compressors</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-samsung-galaxy-a05-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Samsung Galaxy A05</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-20plus-speedy-controls-mastering-your-pcs-fps-for-2024/"><u>Top 20+ Speedy Controls  Mastering Your PC's FPS for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-cricket-ultimate-guide-to-live-streaming-selection-for-2024/"><u>Top Cricket  Ultimate Guide to Live Streaming Selection for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-ai-powered-image-editor-for-2024/"><u>Ultimate AI-Powered Image Editor for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-the-power-of-photo-editing-in-ps-novice-style-for-2024/"><u>Unlocking the Power of Photo Editing in PS, Novice Style for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unraveling-the-mystery-of-online-broadcast-archiving-for-2024/"><u>Unraveling the Mystery of Online Broadcast Archiving for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-elite-comprehensive-oculus-review-guide-for-2024/"><u>Unveiling the Elite  Comprehensive Oculus Review Guide for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-10-excellent-free-movie-editors-for-mov-files/"><u>Updated 10 Excellent Free Movie Editors for MOV Files</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-record-your-desktop-like-a-pro-a-filmora-scrn-guide/"><u>Updated Record Your Desktop Like a Pro A Filmora Scrn Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-sony-s3700-bd-review-2023-for-2024/"><u>Updated Sony S3700 BD REVIEW 2023 for 2024</u></a></li>
+</ul></div>

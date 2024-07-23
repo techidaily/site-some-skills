@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Skyward Voyage of GoPro Karma Analysis"
-date: 2024-06-04T00:30:32.134Z
-updated: 2024-06-05T00:30:32.134Z
+date: 2024-07-22T01:50:13.923Z
+updated: 2024-07-23T01:50:13.923Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/61e5e75a143019f7f7c8689be3de97fce55d395ac
 
 # GoPro Karma Drone Review
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -28,6 +31,9 @@ thumbnail: https://thmb.techidaily.com/61e5e75a143019f7f7c8689be3de97fce55d395ac
 
  The GoPro Karma is this second or [GoPro](https://tools.techidaily.com/wondershare/filmora/download/) has created and hopefully a much more refined version than the drones that GoPro first launched in October. The original version of the Karma drone was recalled just 16 days after its initial launch when many drones were losing connection and battery power at certain altitudes. GoPro discovered a fault with the battery popping out of place causing immediate power loss and returns the drone to the drawing board to produce improved versions of the device for release.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![gopro karma](https://images.wondershare.com/filmora/article-images/gopro-karma.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01N5V4HKQ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01N5V4HKQ&linkId=62a69de1ac6675d917158fa1421eceee)
@@ -85,6 +91,9 @@ thumbnail: https://thmb.techidaily.com/61e5e75a143019f7f7c8689be3de97fce55d395ac
 
 #### 5\.  Controller
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![gopro karma controller](https://images.wondershare.com/filmora/article-images/gopro-karma-controller.jpg)
 
  One thing that the GoPro Karma did especially well was creating a beautiful controller. The RC controller is relatively small but it feels exactly like playing a videogame with plenty of functions and no need to have a compatible device to use the drone. The other extremely strong point is the camera. Nobody can build a great outdoor camera that is it as resilient as a GoPro with the Hero 5 Black version of this drone capable of shooting in 4K with an astounding video quality, you can catch some amazing video as well as incredible still images on this drone.
@@ -107,6 +116,9 @@ Follow @Max Wales
 
  The GoPro Karma is this second or [GoPro](https://tools.techidaily.com/wondershare/filmora/download/) has created and hopefully a much more refined version than the drones that GoPro first launched in October. The original version of the Karma drone was recalled just 16 days after its initial launch when many drones were losing connection and battery power at certain altitudes. GoPro discovered a fault with the battery popping out of place causing immediate power loss and returns the drone to the drawing board to produce improved versions of the device for release.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![gopro karma](https://images.wondershare.com/filmora/article-images/gopro-karma.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01N5V4HKQ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01N5V4HKQ&linkId=62a69de1ac6675d917158fa1421eceee)
@@ -115,6 +127,9 @@ Follow @Max Wales
 
  Apart from the battery latch, GoPro introduced auxiliary features such as a tilted horizon line for improved imaging as well as quieter propellers. The rerelease of the Karma drone is a much more polished product that is more suitable for reviewing as well as improved for general use. But does the Karma drone matchup with major contenders in the marketplace such as the Parrot or the DJI phantom line?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Pros and cons of GoPro Karma
 
 **Pros**
@@ -172,6 +187,9 @@ Follow @Max Wales
 
 Overall, the GoPro Karma is a fairly strong showing for a drone. Although it can be expensive when compared to the specifications on some of the other drones, if you do have some experience flying drones and you are looking for a great image quality, this could be the choice for you especially if you are looking for a portable drone.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -204,3 +222,54 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-laugh-ledger-a-treasure-trove-of-free-meme-creations/"><u>[New] Laugh Ledger  A Treasure Trove of FREE Meme Creations</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-revealing-the-identity-of-viewers-on-youtube/"><u>[New] Revealing the Identity of Viewers on YouTube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tailoring-audio-alerts-setting-custom-ringtones-and-sounds-on-android-devices/"><u>[New] Tailoring Audio Alerts  Setting Custom Ringtones & Sounds on Android Devices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-photo-refreshment-how-to-tidy-up-images-on-canva/"><u>[New] The Art of Photo Refreshment  How to Tidy Up Images on Canva</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-complete-rundown-on-dji-inspire-2/"><u>[New] The Complete Rundown on DJI Inspire 2</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-guide-superior-ios-melody-creators/"><u>[New] Ultimate Guide  Superior iOS Melody Creators</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-understanding-hue-and-saturation-gopro-studio-edition/"><u>[New] Understanding Hue and Saturation  GoPro Studio Edition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-uninterrupted-airdrop-connections-in-the-world-of-iphones-and-macs/"><u>[New] Uninterrupted AirDrop Connections in the World of iPhones & Macs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-uniting-social-spheres-from-instagram-to-tiktok-triumphs/"><u>[New] Uniting Social Spheres  From Instagram to TikTok Triumphs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-efficient-google-podcast-postings/"><u>[New] Unlocking Efficient Google Podcast Postings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-strategies-for-selecting-and-syncing-music-with-visuals/"><u>[Updated] Strategies for Selecting and Syncing Music with Visuals</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tale-constructing-the-basic-blueprint/"><u>[Updated] Tale Constructing  The Basic Blueprint</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-full-spectrum-slomo-recording-app-evaluation/"><u>[Updated] The Full Spectrum SloMo Recording App Evaluation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-future-of-sound-design-magix-music-makers-latest-upgrade/"><u>[Updated] The Future of Sound Design  Magix Music Maker's Latest Upgrade</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-metaverse-and-omniverse-a-detailed-breakdown/"><u>[Updated] The Metaverse & Omniverse  A Detailed Breakdown</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-8-cam-filters-for-optimal-online-performance/"><u>[Updated] Top 8 Cam Filters for Optimal Online Performance</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-text-tilt-treasures/"><u>[Updated] Top Text Tilt Treasures</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-selection-of-budget-friendly-4k-projector-brands/"><u>[Updated] Ultimate Selection of Budget-Friendly 4K Projector Brands</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-turning-talk-into-top-tier-podcasts-writing-and-samples-included/"><u>2024 Approved  Turning Talk Into Top-Tier Podcasts  Writing & Samples Included</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-iphone-strategies-for-flawless-audio-downloads/"><u>2024 Approved  Ultimate iPhone Strategies for Flawless Audio Downloads</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-understanding-luts-to-amplify-your-photo-quality/"><u>2024 Approved  Understanding LUTs to Amplify Your Photo Quality</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-creativity-gratuity-in-humor-tools/"><u>2024 Approved  Unleash Creativity  Gratuity in Humor Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-versatile-tips-for-avoiding-vr-motion-sickness/"><u>2024 Approved  Versatile Tips for Avoiding VR Motion Sickness</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/exclusive-ig-edits-for-apple-and-android-users/"><u>Exclusive IG Edits for Apple & Android Users</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/from-novice-to-expert-navigating-telegram-web/"><u>From Novice to Expert  Navigating Telegram Web</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-apple-iphone-14-without-apple-id-password-by-drfone-ios/"><u>How To Erase an Apple iPhone 14 Without Apple ID Password?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-3-ways-to-unlock-your-apple-iphone-7-for-free-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Your Apple iPhone 7 for Free</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-exceptional-book-trailer-selections/"><u>In 2024, Exceptional Book Trailer Selections</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-explosive-entertainment-for-little-ones/"><u>In 2024, Explosive Entertainment for Little Ones</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-do-i-sim-unlock-my-iphone-12-mini-by-drfone-ios/"><u>In 2024, How Do I SIM Unlock My iPhone 12 mini?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-swift-remedies-for-iphone-unfocused-shots/"><u>In 2024, Swift Remedies for iPhone Unfocused Shots</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-professionalising-a-roadmap-in-graphic-design/"><u>In 2024, The Art of Professionalising  A Roadmap in Graphic Design</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-spectrum-of-virtuality-from-meta-to-omniverse-explored/"><u>In 2024, The Spectrum of Virtuality  From Meta to Omniverse Explored</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-top-8-free-resources-for-3d-text-psds/"><u>In 2024, The Top 8 Free Resources for 3D Text PSDs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-virtual-frontiers-anticipated-top-5-ps-vr-experiences/"><u>In 2024, Unveiling Virtual Frontiers  Anticipated Top 5 PS VR Experiences</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-vectors-for-novices-uncover-essentials-types-and-applications/"><u>In 2024, Vectors for Novices  Uncover Essentials, Types & Applications</u></a></li>
+<li><a href="https://some-skills.techidaily.com/superior-smartphones-that-dominate-in-video-recording-for-2024/"><u>Superior Smartphones That Dominate in Video Recording for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/teachers-handbook-bridging-traditional-and-digital-media-for-2024/"><u>Teacher's Handbook  Bridging Traditional & Digital Media for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-accompanying-imagery-with-audio-for-2024/"><u>The Art of Accompanying Imagery With Audio for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-nba-streaming-discover-the-best-15-techniques-for-2024/"><u>The Art of NBA Streaming - Discover the Best 15 Techniques for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-editors-echo-chamber-for-2024/"><u>The Editor's Echo Chamber for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-insiders-guide-to-uploading-with-google-for-2024/"><u>The Insider’s Guide to Uploading with Google for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-symphony-of-silence-breakers-crafting-your-own-custom-alerts-and-sounds-on-android-for-2024/"><u>The Symphony of Silence Breakers  Crafting Your Own Custom Alerts & Sounds on Android for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-10-power-upgrades-for-os-x-and-win-with-srt-systems-for-2024/"><u>Top 10 Power Upgrades for OS X and Win with SRT Systems for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveil-image-by-removing-surroundings-for-2024/"><u>Unveil Image by Removing Surroundings for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-from-vision-to-victory-utilizing-audacitys-tools-for-excellent-podcasting-for-2024/"><u>Updated From Vision to Victory Utilizing Audacitys Tools for Excellent Podcasting for 2024</u></a></li>
+</ul></div>

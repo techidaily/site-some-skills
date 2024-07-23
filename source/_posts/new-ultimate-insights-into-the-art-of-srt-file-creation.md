@@ -1,7 +1,7 @@
 ---
 title: "[New] Ultimate Insights Into the Art of SRT File Creation"
-date: 2024-06-04T03:55:28.725Z
-updated: 2024-06-05T03:55:28.725Z
+date: 2024-07-22T03:59:00.713Z
+updated: 2024-07-23T03:59:00.713Z
 tags: 
   - screen-recording
   - ai video
@@ -42,6 +42,9 @@ The stepwise guide illustrated below will walk you through how to create an SRT 
 
 Step1 Start your Windows computer and open the Notepad program. Then create a new file.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![create a new file](https://images.wondershare.com/filmora/article-images/2022/07/how-to-create-srt-file-1.jpg)
 
 Step2 Up next, play your video and listen to the first line of the dialogue. Then pause it and write your first subtitle in the note by doing the following;
@@ -76,10 +79,16 @@ _In this video, we'll be showing_
 
 Step5 Review the subtitle and edit every error after you've completed it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![review subtitle](https://images.wondershare.com/filmora/article-images/2022/07/how-to-create-srt-file-for-video-on-windows-2.jpg)
 
 Step6 Finally, save the file in .srt format by clicking **‘File’ > Save.** Then under **‘Save As’** enter the file name and add .srt as the preferred extension for your file. Click the ‘Save’ button to complete the task.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to create an SRT file for video on Mac?
 
 Are you using a Mac computer? Don't panic, we got you covered with the step-by-step instructions to create a .srt subtitle file and such a computer.
@@ -108,12 +117,27 @@ Step4 Repeat step 2&3 for the remaining subtitle contents.
 
 See what an SRT subtitle looks like below;
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![an example of an srt subtitle on mac](https://images.wondershare.com/filmora/article-images/2022/07/how-to-create-srt-file-for-video-on-mac-1.jpg)
 
 Step5 Review and edit the subtitle.
 
 Step6 To complete the operation, click **‘File’** at the top bar and select **Save** from the drop-down. Then navigate to ‘**Save As’** and type your file name, and change the extension from .txt to .srt.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![click on file](https://images.wondershare.com/filmora/article-images/2022/07/how-to-create-srt-file-for-video-on-mac-2.jpg)
 
 Make sure you Uncheck the ‘Hide Extension’ and ‘If no extension is provided’ checkboxes. Then click the ‘Save’ button to complete the operation!
@@ -142,10 +166,22 @@ Step2 Start the Filmora program and import the SRT file that you're looking to e
 
 Step3 Drag-n-drop the .srt file into the Timeline. Then right-click on it and select ‘Advanced Edit’ from the pop-up list.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ![drag and drop srt file into timeline](https://images.wondershare.com/filmora/article-images/2022/07/how-to-edit-srt-for-videos-2.jpg)
 
 Step4 Now, edit the SRT file as per requirements. The following editing operations you can perform with Filmora include;
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![edit srt file](https://images.wondershare.com/filmora/article-images/2022/07/how-to-edit-srt-for-videos-3.jpg)
 
 * Edit time code.
@@ -155,6 +191,9 @@ Step4 Now, edit the SRT file as per requirements. The following editing operatio
 
 Step5 Once you've successfully edited the SRT file. Navigate to the timeline and right-click on the SRT file. Then select ‘Export Subtitle File’ and save it to your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![select export subtitle file](https://images.wondershare.com/filmora/article-images/2022/07/how-to-edit-srt-for-videos-4.jpg)
 
 Filmora is the best choice for any kind of SRT editing. It doesn't matter if it's basic or advanced editing, all it takes is just a few clicks.
@@ -190,3 +229,51 @@ Part 1: What are SRT subtitles?
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-unleashing-the-power-of-your-instagram-vids-appeal/"><u>[New] In 2024, Unleashing the Power of Your Instagram Vids' Appeal</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-maximizing-classroom-impact-best-youtube-practices-for-educators/"><u>[New] Maximizing Classroom Impact  Best YouTube Practices for Educators</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-quick-launch-lines-a-practical-roadmap-for-product-review-channel-founders/"><u>[New] Quick Launch Lines  A Practical Roadmap for Product Review Channel Founders</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamline-your-podcasts-effective-editing-tips-for-garageband-users/"><u>[New] Streamline Your Podcasts  Effective Editing Tips for GarageBand Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-allure-of-video-crafting-filmoras-top-edits-explained/"><u>[New] The Allure of Video Crafting  Filmora’s Top Edits Explained</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-memetic-mastery/"><u>[New] The Art of Memetic Mastery</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-realm-of-ring-vs-reality-stream/"><u>[New] The Realm of Ring vs Reality Stream</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-uncover-10-keys-to-picking-your-perfect-broadcast-platform/"><u>[New] Uncover 10 Keys to Picking Your Perfect Broadcast Platform</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-digital-frontier-exploration-selecting-best-tools-for-turning-images-into-nfts/"><u>[Updated] Digital Frontier Exploration  Selecting Best Tools for Turning Images Into NFTs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-diy-sports-highlights-a-comprehensive-guide/"><u>[Updated] In 2024, DIY Sports Highlights  A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-mediamasher-deluxe-for-2024/"><u>[Updated] MediaMasher Deluxe for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-perfect-drone-companions-for-skilled-pilots-top-5/"><u>[Updated] Perfect Drone Companions for Skilled Pilots (Top 5)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tactics-to-maximize-engagement-with-every-reddit-post/"><u>[Updated] Tactics to Maximize Engagement with Every Reddit Post</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-easiest-path-to-personalizing-your-pubg-characters-speech/"><u>[Updated] The Easiest Path to Personalizing Your PUBG Character’s Speech</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-chroma-spectrum-now-crystal-clear-on-4k/"><u>[Updated] The Ultimate Chroma Spectrum, Now Crystal Clear on 4K</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-music-livestream-providers/"><u>[Updated] Top Music Livestream Providers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transcendence-in-music-mixing-crossfade-unveiled/"><u>[Updated] Transcendence in Music Mixing  Crossfade Unveiled</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transforming-ordinary-moments-into-viral-instagram-reels/"><u>[Updated] Transforming Ordinary Moments Into Viral Instagram Reels</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-choice-top-mp4-players-unveiled/"><u>[Updated] Ultimate Choice  Top MP4 Players Unveiled</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlock-the-power-of-spotifys-advertising-potential/"><u>[Updated] Unlock the Power of Spotify’s Advertising Potential</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unraveling-adobes-storage-system-guide-and-comparison-chart/"><u>[Updated] Unraveling Adobe's Storage System  Guide & Comparison Chart</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unraveling-rtmp-streams-overcoming-premieres-export-hurdle/"><u>[Updated] Unraveling RTMP Streams  Overcoming Premiere's Export Hurdle</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-vr-future-latest-trends/"><u>[Updated] Unveiling the VR Future  Latest Trends</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-velocity-for-the-visionary-quick-frame-android-tools/"><u>[Updated] Velocity for the Visionary  Quick-Frame Android Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-seamless-tweeting-expert-video-conversion-software/"><u>2024 Approved  Seamless Tweeting  Expert Video Conversion Software</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-thankful-tailings-templates-for-every-dollar-plan/"><u>2024 Approved  Thankful Tailings  Templates for Every Dollar Plan</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-role-of-slug-lines-in-seo-and-marketing/"><u>2024 Approved  The Role of Slug Lines in SEO & Marketing</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-vivo-v27e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/a-vloggers-dream-exploring-the-best-12-video-capture-devices/"><u>A Vlogger's Dream  Exploring the Best 12 Video Capture Devices</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/discover-your-preferred-music-experience-top-6-android-music-video-apps/"><u>Discover Your Preferred Music Experience - Top 6 Android Music Video Apps</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-asus-rog-phone-8-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Asus ROG Phone 8? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-oppo-reno-10-pro-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Oppo Reno 10 Pro 5G phone? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Honor Play 7T? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-top-tier-free-screen-capture-programs-2023-edition/"><u>In 2024, Top-Tier Free Screen Capture Programs – 2023 Edition</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-unveiling-the-best-video-grabber-listings/"><u>In 2024, Unveiling the Best Video Grabber Listings</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-a-comprehensive-look-at-the-roots-of-hip-hop-and-its-artistic-expression/"><u>New 2024 Approved A Comprehensive Look at the Roots of Hip-Hop and Its Artistic Expression</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-future-is-now-insights-from-jaunt-vr-review-for-2024/"><u>The Future Is Now  Insights From Jaunt VR Review for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-checklist-to-increase-likes-on-your-tiktok-videos-for-2024/"><u>The Ultimate Checklist to Increase Likes on Your TikTok Videos for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-ultimate-gear-list-for-any-aspiring-vlogger-top-12-cameras/"><u>The Ultimate Gear List for Any Aspiring Vlogger - Top 12 Cameras</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-10-free-graphics-websites-a-compreran-analysis-for-2024/"><u>Top 10 FREE Graphics Websites  A Compreran Analysis for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/standing-aspect-ratios-impact-on-youtube-viewership/"><u>Understanding ASPECT RATIOS' Impact on YOUTUBE Viewership</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleashing-potential-from-standard-sdr-to-high-end-hdr-for-2024/"><u>Unleashing Potential  From Standard SDR to High-End HDR for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-potential-top-tactics-for-medical-ads-on-social-networks-for-2024/"><u>Unlocking Potential  Top Tactics for Medical Ads on Social Networks for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unmatched-mounting-best-tripod-solutions-for-smartphones-for-2024/"><u>Unmatched Mounting  Best Tripod Solutions for Smartphones for 2024</u></a></li>
+</ul></div>

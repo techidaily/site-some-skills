@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Tonal Transition Triumphs for Creative Virtuosos"
-date: 2024-06-04T05:45:05.681Z
-updated: 2024-06-05T05:45:05.681Z
+date: 2024-07-22T05:05:33.744Z
+updated: 2024-07-23T05:05:33.744Z
 tags: 
   - screen-recording
   - ai video
@@ -32,12 +32,21 @@ Do you want to change the color of any particular shirt in the photo? Then use A
 
 On the tab of hue and saturation, you can use hue, saturation, and brightness to change the color of your selected shirt. Just use their draggers to change the color, brightness, and saturation according to your preferences. After making all the changes, you would need to find and tune the selection to get rid of minor flaws.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![change the hue to change color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-1.jpg)
 
 Another way to change the color of the shirt is by navigating to the “Solid Color Adjustment Layer.” After that, you just need to apply the "Hue and Saturation Layer" to the previous layer to make the color changes quickly. Now blend the colors by either using hue or color mode to adjust the layers.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select hue or color mode](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Tips 2: Use Black and White Colors
 
 Another option in Adobe Photoshop photo color editor to add black or white color to the shirt is by using the "Hue and Saturation Adjustment Layer.” For this, you need to create a group and then apply a layer mask to it by reducing its saturation. After that, you can apply a hue and saturation adjustment layer to it to have a white or black effect on the shirt.
@@ -52,6 +61,9 @@ Now do the tuning by navigating to the layer mask and also select the layers. Af
 
 If you want to add color to your black or white shirt, you can do it by “Hue and Saturation Adjustment Layer.” On this layer, tap on “Colorize” and choose the color you want to add. Another technique is to create a “Fill Adjustment Layer” and then change the blending mode into “Multiple.” Now, click on the “Color Picker,” and you can pick and choose your preferred color. If you want to add a dark color rather than a subtle color, change the mode to “Screen.”
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ pick the color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-4.jpg)
 
 ### 4\. Tip 4: Use Direct Selection Color Picker
@@ -62,6 +74,9 @@ At the bottom of the options, you can see two points that will tell you about yo
 
 ![ change specific color to another color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\. Tip 5: Choose Object Color Range
 
 Do you want to change the color of a specific part of the image? You can do this on Adobe Photoshop photo color editor by going to the "Quick Selection Tool" and then applying the colors, but it may leave edges and curves of the object. So, the recommended way is to navigate to the “Select” tab and then click on “Color Range” from its drop-down menu.
@@ -74,6 +89,10 @@ After clicking on the color range option, a pop-up window will appear from which
 
 Afterward, create a group in which add layers, mask, and adjustment layers to change the saturation, color, and brightness of the selected area accurately. To only change the color, drag the sliders of hue to do it instantly.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![change hue for changing color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-8.jpg)
 
 ### 6\. Tip 6: Use Blend IF
@@ -82,6 +101,9 @@ If you want to change the color of leaves on a tree, you can use the “Blend IF
 
 Similarly, if you drag the “Blend IF” sliders towards white pints, it can hide the light pixels. To hide any specific color from the picture, you can click on “Channels” and then select the color you want to eradicate completely.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select the channel color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-9.jpg)
 
 This method only hides color based on their luminance values; however, this loads the entire layer when loading the active pixels. Regardless, this can be changed into transparency. For this, you need to select the layer by right-clicking and selecting the option of “Convert to Smart Object.”
@@ -90,14 +112,23 @@ This method only hides color based on their luminance values; however, this load
 
 It helps the user create transparency across the layer. After hiding the layer and coming back to another object-specific layer, you can create a certain change in effect through adjustment layers. For instance, you can create a “Hue and Saturation” adjustment layer. With the above settings, Photoshop applies this as a layer mask for you. Use the sliders across the set layer to change the color across the selected areas.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![select your new color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 7\. Tip 7: Use Online Photo Editor to Change Colors
 
 If you don’t have an offline tool like Adobe Photoshop, you can use an online photo color editor to replace the colors quickly. In this part, we will suggest [BeFunky](https://www.befunky.com/) photo color editor change the photo colors efficiently.
 
 To change the color, navigate to this tool and upload the images. Then, head to the “Replace Color” option from the left section and click on it. On the menu of “Replace Color,” select the box next to “Source Color” to choose the color you want to replace. Use an eyedropper to select any color for your image.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select source color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-12.jpg)
 
 To increase or decrease the intensity of your color, use the “Tolerance” option, and drag it accordingly. If you want to change the hue of the source color, click on the box next to “Target Color.” If you have accidentally applied any color on some part, you can head to erase tab and can remove the alterations from the brush.
@@ -131,3 +162,53 @@ Changing the color of a photo can save us a lot of work done and effort. To effo
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-achieve-professional-quality-on-yt-with-simple-blurring/"><u>[New] 2024 Approved  Achieve Professional Quality on YT with Simple Blurring</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-audiovisual-experts-choices-the-ultimate-video-editing-gear/"><u>[New] 2024 Approved  Audiovisual Experts' Choices  The Ultimate Video Editing Gear</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-how-to-create-meme-with-kinemaster/"><u>[New] How to Create Meme with KineMaster</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-immediate-insta-photo-series-viewing/"><u>[New] Immediate Insta Photo Series Viewing</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-maximizing-stability-the-art-of-tripod-placement-in-vlogs/"><u>[New] Maximizing Stability  The Art of Tripod Placement in Vlogs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-future-of-virtual-spaces-comparing-meta-and-omniverse/"><u>[New] The Future of Virtual Spaces  Comparing Meta and Omniverse</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-healing-power-of-asmr-explained-here/"><u>[New] The Healing Power of ASMR Explained Here</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-strategies-for-adjusting-song-speed-on-spotify/"><u>[New] Top Strategies for Adjusting Song Speed on Spotify</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unleash-potential-secrets-for-career-growth-in-designing/"><u>[New] Unleash Potential  Secrets for Career Growth in Designing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unleash-potential-on-reddit-essential-post-guidelines-reviewed/"><u>[New] Unleash Potential on Reddit  Essential Post Guidelines Reviewed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-7-ideas-to-improve-the-unboxing-experience/"><u>[Updated] 7 Ideas to Improve the Unboxing Experience</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-editessence-system/"><u>[Updated] EditEssence System</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-secrets-unveiled-successful-podcast-on-apple-store/"><u>[Updated] Secrets Unveiled  Successful Podcast on Apple Store</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-artisans-secret-to-viral-youtube-success/"><u>[Updated] The Artisan's Secret to Viral YouTube Success</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-complete-guide-to-transforming-your-footages-hue/"><u>[Updated] The Complete Guide to Transforming Your Footage's Hue</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-free-image-editor-apps/"><u>[Updated] The Ultimate Guide to Free Image Editor Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-toolwiz-for-professionals-a-thorough-app-assessment/"><u>[Updated] Toolwiz for Professionals  A Thorough App Assessment</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-uncovering-key-differences-in-panoramic-and-vr-filmmaking/"><u>[Updated] Uncovering Key Differences in Panoramic & VR Filmmaking</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-advanced-features-of-vlc-for-mac-users/"><u>[Updated] Unveiling Advanced Features of VLC for Mac Users</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-cloudapp-studio-top-10-lightroom-alternatives/"><u>2024 Approved  CloudApp Studio  Top 10 Lightroom Alternatives</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-maximize-views-sharing-your-twitch-stream-on-fb/"><u>2024 Approved  Maximize Views  Sharing Your Twitch Stream on FB</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-starting-a-new-chapter-establishing-an-enterprise-ig-page/"><u>2024 Approved  Starting a New Chapter  Establishing an Enterprise IG Page</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-swift-remedies-to-rescue-your-windows-10-photos-app/"><u>2024 Approved  Swift Remedies to Rescue Your Windows 10 Photos App</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-fundamentals-of-creating-alluring-podcast-descriptions/"><u>2024 Approved  The Fundamentals of Creating Alluring Podcast Descriptions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-faster-facebook-videos/"><u>2024 Approved  The Ultimate Guide to Faster Facebook Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-vlog-stability-devices-for-smooth-screensavers/"><u>2024 Approved  Ultimate Vlog Stability Devices for Smooth Screensavers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleashing-the-full-potential-of-your-phone-into-vr-realm/"><u>2024 Approved  Unleashing the Full Potential of Your Phone Into VR Realm</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-vivo-x100-pro-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/discover-a-world-of-free-guitar-inspiration-imagery-and-music-downloads-for-2024/"><u>Discover a World of Free Guitar Inspiration Imagery & Music Downloads for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-s17t-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on S17t</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-on-iphone-6s-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even On iPhone 6s If Youve Tried Everything</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-expert-picks-of-premium-timelapse-capture-software/"><u>In 2024, Expert Picks of Premium Timelapse Capture Software</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-mastering-ifunny-meme-downloads-and-fun/"><u>In 2024, Mastering iFunny Meme Downloads & Fun</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamline-your-online-experience-insights-into-ffxp/"><u>In 2024, Streamline Your Online Experience  Insights Into FFXP</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-film-makers-quick-guide-to-perfect-sea-scenes/"><u>In 2024, The Film-Maker’s Quick Guide to Perfect Sea Scenes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-illustrator-wizards-guide-to-3d-text/"><u>In 2024, The Illustrator Wizard's Guide to 3D Text</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-lg-bp350-monitor-reviews-expert-opinions-and-ratings/"><u>In 2024, The Ultimate LG BP350 Monitor Reviews  Expert Opinions & Ratings</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-top-free-online-tools-for-creating-stunning-glitch-effects-updated-2023/"><u>New 2024 Approved Top Free Online Tools for Creating Stunning Glitch Effects (Updated 2023)</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-bring-back-the-80s-top-vhs-emulator-apps-for-mobile/"><u>New In 2024, Bring Back the 80S Top VHS Emulator Apps for Mobile</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-harnessing-snapchat-spotlight-for-2024/"><u>The Ultimate Guide to Harnessing Snapchat Spotlight for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-zen-masters-guide-to-zooming-your-youtube-livestreams-for-2024/"><u>The Zen Master’s Guide to Zooming Your YouTube Livestreams for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-10-gopro-cases-insight-for-adventurers/"><u>Top 10 GoPro Cases Insight for Adventurers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transforming-video-files-to-mp3-a-focused-guide-for-pinterest-users-for-2024/"><u>Transforming Video Files to MP3  A Focused Guide for Pinterest Users for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/unlocking-creative-expression-an-in-depth-guide-to-snapchat-filters/"><u>Unlocking Creative Expression  An In-Depth Guide to Snapchat Filters</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-celestial-beauty-premium-hdr-sky-portals-for-2024/"><u>Unveiling Celestial Beauty  Premium HDR Sky Portals for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-chromebooks-best-android-video-editors-you-need-to-try-for-2024/"><u>Updated Chromebooks Best Android Video Editors You Need to Try for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Uncluttered Focus  Affinity Photo's Cleanup Technique\""
-date: 2024-06-04T08:55:09.479Z
-updated: 2024-06-05T08:55:09.479Z
+date: 2024-07-22T06:59:48.393Z
+updated: 2024-07-23T06:59:48.393Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,9 @@ Affinity Photo is an image editor developed by Serif Ltd. in 2009 and is used by
 
 No matter you are a professional content creator or a newbie, we'll be discussing how to remove background in Affinity Photo. Let's explore how to use the good editing tool to be free of the stressful editing process.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Remove Affinity Photo to Remove Image's Background
 
 Affinity Photo is a simple and easy-to-use editing software, and you can remove a background in it under two scenarios: remove a white or a busy background.
@@ -42,6 +45,9 @@ Step2 Go to the **"Layers"** tab in the right pane, right-click your layer, and 
 
 Step3 To make a selection around your subject, first enable the **"Snap To Edges"** and **"Soft Edges"** feature from the top toolbar. This will help you automatically detect the edges and give it a more tapered finish.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![enabling snap to edges and soft edges in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/enabling-snap-to-edges-and-soft-edges-in-affinity-designer.png)
 
 Set your brush size using your keyboard's **left** and **right bracket** keys. Now, manually make a selection around your subject and white edges in the image as precisely as possible.
@@ -50,12 +56,18 @@ Step4 Next, zoom in on your subject. Press & hold the ALT key on your keyboard, 
 
 Click the **"Refine"** option in the toolbar to open the **"Refine Selection"** menu. A red mask will be applied to your subject, giving you an idea of how your image will look once you remove the background. Zoom in and if any details are excluded, paint them over. Once you are satisfied, click **"Apply"** to save your changes.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ![refining the outline around the image to remove background in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/refining-the-outline-around-the-image-to-remove-background-in-affinity-designer.png)
 
 Step5 In the last step, press the **"Delete"** key on your keyboard to remove the background, or click **"Edit"** and choose the **"Cut"** option.
 
 Now, hit **"Control+D"** to deselect the selection. Alternatively, you can click **"Select"** in the top toolbar and choose the **"Deselect"** option. Finally, you can export your file using the **"File" > "Export"** option.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Remove a Busy Background in Affinity Designer
 
 If you want to remove a busy background of an image in the Affinity Designer software, follow these steps carefully:
@@ -81,6 +93,13 @@ Step5 In this last step, you must deselect the outline around your subject. For 
 
 Finally, click **"File"** and select the **"Export"** option from the drop-down menu. Then, in the Export Settings menu, choose PNG and click **"Export"** to save your file on your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** To save your image with a transparent background, do not export it in JPG file format.
@@ -109,6 +128,9 @@ Editing experts recommend Wondershare PixCut as the best alternative to many edi
 * Paid and customized accounts for premium benefits.
 * Customized categories that include e-commerce, car dealership, social media, graphic designing, personal, and marketing use.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 This article discusses **removing a background in Affinity Photo**, whether the image has a white or a busy BG.
@@ -143,3 +165,41 @@ Hopefully, this article and video can help you create ideal images!
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-discover-efficient-techniques-for-live-discord-recording/"><u>[New] 2024 Approved  Discover Efficient Techniques for Live Discord Recording</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-essential-android-mobas-the-ultimate-list/"><u>[New] 2024 Approved  Essential Android MOBAs  The Ultimate List</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-strategies-for-swiftly-locating-forgotten-reddit-threads/"><u>[New] Strategies for Swiftly Locating Forgotten Reddit Threads</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-reviewing-window-recording-the-sprout-experience/"><u>[Updated] Reviewing Window Recording - The Sprout Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-techniques-in-testimonial-production-an-experts-insight/"><u>[Updated] Top Techniques in Testimonial Production  An Expert's Insight</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-tips-for-creating-instagrammable-unboxing-highlights/"><u>[Updated] Top Tips for Creating Instagrammable Unboxing Highlights</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transform-your-images-into-nfts-the-best-generators-listed/"><u>[Updated] Transform Your Images Into NFTs - The Best Generators Listed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-twilight-crusaders-the-darkened-knight-vs-the-shining-one/"><u>[Updated] Twilight Crusaders  The Darkened Knight vs the Shining One</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-cropped-lengths-imovies-automatic-trimming-logic/"><u>[Updated] Unveiling Cropped Lengths  IMovie's Automatic Trimming Logic</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-mystery-writing-hooks-for-vlogger-scripts/"><u>[Updated] Unveiling the Mystery  Writing Hooks for Vlogger Scripts</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-poco-x5-pro-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Poco X5 Pro</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-choosing-between-projectors-and-tvs-for-superior-4k-viewing/"><u>2024 Approved  Choosing Between Projectors & TVs for Superior 4K Viewing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-lens-and-light-essential-camera-movements-every-novice-needs/"><u>2024 Approved  Lens & Light  Essential Camera Movements Every Novice Needs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-editors-almanac-key-takeaways-from-filmora-editioning/"><u>2024 Approved  The Editor’s Almanac  Key Takeaways From Filmora Editioning</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-pace-kings-and-queens-of-the-olympics-year-2022/"><u>2024 Approved  The Pace Kings & Queens of the Olympics, Year 2022</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-underdogs-playbook-livestream-youtube-on-smartphones-no-million-followers/"><u>2024 Approved  The Underdog's Playbook  Livestream YouTube on Smartphones, No Million Followers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tiktoks-best-practices-for-stellar-edits/"><u>2024 Approved  TikTok's Best Practices for Stellar Edits</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-11-techniques-for-perfecting-hue-balance/"><u>2024 Approved  Top 11 Techniques for Perfecting Hue Balance</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-iphone-audio-applications-ranked/"><u>2024 Approved  Top iPhone Audio Applications Ranked</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-shot-upgrade-no-money-needed/"><u>2024 Approved  Ultimate Shot Upgrade - No Money Needed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-process-of-batched-tiktok-content-extraction/"><u>2024 Approved  Unveiling the Process of Batched TikTok Content Extraction</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/apeaksoft-2023-screens-recording-insights/"><u>Apeaksoft 2023 Screens Recording Insights</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/complete-guide-to-make-an-intro-video-for-2024/"><u>Complete Guide to Make an Intro Video for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-audio-integration-tunes-for-your-microsoft-slides/"><u>In 2024, The Art of Audio Integration  Tunes for Your Microsoft Slides</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-conveying-content-mastering-onestream-livestreams/"><u>In 2024, The Art of Conveying Content  Mastering OneStream Livestreams</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-journey-of-personalized-instagram-notification-creation/"><u>In 2024, The Journey of Personalized Instagram Notification Creation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-notch-animated-text-settings/"><u>In 2024, Top-Notch Animated Text Settings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-turn-your-image-brightness-upside-down-a-tutorial/"><u>In 2024, Turn Your Image Brightness Upside Down  A Tutorial</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-full-screen-tips-for-premiere-pro-users/"><u>In 2024, Ultimate Full Screen Tips for Premiere Pro Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-mkv-player-for-windows-and-mobile/"><u>In 2024, Ultimate MKV Player for Windows & Mobile</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-essential-guide-to-editing-youtube-videos-seamlessly-in-imovie/"><u>The Essential Guide to Editing YouTube Videos Seamlessly in iMovie</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-change-background-color-in-after-effects-for-2024/"><u>Updated Change Background Color in After Effects for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-top-8-multi-subtitles-translators-you-can-use/"><u>Updated In 2024, Top 8 Multi-Subtitles Translators You Can Use</u></a></li>
+<li><a href="https://some-skills.techidaily.com/upholders-of-popularity-the-10-most-loved-reddit-stories-for-2024/"><u>Upholders of Popularity  The 10 Most Loved Reddit Stories for 2024</u></a></li>
+</ul></div>

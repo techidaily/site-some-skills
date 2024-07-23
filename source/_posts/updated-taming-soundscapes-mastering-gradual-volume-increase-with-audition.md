@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Taming Soundscapes  Mastering Gradual Volume Increase with Audition\""
-date: 2024-06-04T04:01:33.848Z
-updated: 2024-06-05T04:01:33.848Z
+date: 2024-07-22T04:02:36.146Z
+updated: 2024-07-23T04:02:36.146Z
 tags: 
   - screen-recording
   - ai video
@@ -28,6 +28,9 @@ The multitrack view includes a comprehensive set of non-destructive editing tool
 
 Consider adjusting the level of a clip to create it more audible. In audio transitions, fading is widely used. With Fade it, the sound begins silently and slowly increases to full volume. With Adobe audition fade out, the audio begins at full volume and slightly declines to silence.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![start adobe audition audio edit](https://images.wondershare.com/filmora/article-images/2022/08/start-adobe-audition-audio-edit_.jpg)
 
 If you have audio that starts quite abruptly and you'd like to add a fade, Audition makes this very easy. Here are some steps to follow:
@@ -41,10 +44,17 @@ If you have audio that starts quite abruptly and you'd like to add a fade, Audit
 * Now, if you pull the Heads-Up Display out of the way and click and then drag right on the icon, you will see a fade in there which is a little bit longer than you need.
 * If you go up to your Effects menu and go to your Amplitude and Compression section, you have got a Fade Envelope and a Gain Envelope.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![amplitude and compression adobe audition](https://images.wondershare.com/filmora/article-images/2022/08/amplitude-and-compression-adobe-audition.jpg)
 
 * Now, if you choose Fade Envelope and of course, it is giving you the fade right the way through the audio. It will adjust for you and this is based on a Smooth Fade In.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![fade envelop adobe audition](https://images.wondershare.com/filmora/article-images/2022/08/fade-envelop-adobe-audition.jpg)
 
 * Now, go back to the Effects, Amplitude, and Compression and Click on Fade Envelope. Then, choose a Smooth Fade Out and there you will see after zooming a little bit more, a yellow line has been drawn to show what fade effect is going to be applied.
@@ -55,6 +65,9 @@ If you have audio that starts quite abruptly and you'd like to add a fade, Audit
 
 * Now exactly, in the same way, you can go in and begin to make adjustments. Now, when you make a selection here, Audition compresses your adjustments into that selected region. You will need to be a little careful about that when working with these effects. So, you can add fades very easily at any time by clicking on the handles at the top right and left of Waveform Display, or you can use dedicated effects for the purpose.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2\. Audition Alternative to Fade Audio
 
 [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is another best audio editing tool that is a great alternative to Adobe Audition software. Wondershare Filmora, which is the latest version of Filmora, has the visual audio editing potential to guide you in editing audio files. There are many features available in this like you can add background music, detect music beats, etc.
@@ -65,11 +78,17 @@ You can also split audio, adjust audio, replace the original audio of a video, a
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### **Steps to use [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) to fade audio:**
 
 * First, do the installation of Filmora software from the home screen and set the default procedure for a successful installation, and then open it. Now, to your timeline, add your desired audio file, and then, opt for double-clicking on the same for opening the Audio editing menu.
 * Drag the sliders and set fade-in along with fade-out effects.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ![set effects](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
 * There is an alternative to this. You may opt for the selection of fade icons that is on the left and/or right side of the waveform portion so you are able to fade in and/or fade out faster.
@@ -82,6 +101,9 @@ You can also split audio, adjust audio, replace the original audio of a video, a
 
 If you want to fade in and fade out two clips at the same time, then controlling just one track or multiple tracks will allow you to do fades on multiple audios inside the multitrack in Adobe Audition.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. How do you do a master fade in Audition?
 
 Select the option of amplifying the effects i.e., amplitude and compression. Do the necessary adjustments there. Then, go to effects and click on Special, and from there, select Mastering.
@@ -122,3 +144,57 @@ Adobe Audition has always been a powerful platform for audio editing. But as eve
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-save-and-stream-gotomeet-on-desktops-and-phones/"><u>[New] In 2024, Save and Stream  GoToMeet on Desktops & Phones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-maximize-ms-edge-usage-understanding-and-using-picture-in-picture/"><u>[New] Maximize MS Edge Usage  Understanding and Using Picture-in-Picture</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-superstar-sites-for-crafting-unique-handmade-boxes/"><u>[New] Superstar Sites for Crafting Unique, Handmade Boxes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-podcast-logo-design-for-maximum-impact/"><u>[New] The Art of Podcast Logo Design for Maximum Impact</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-evolution-of-cinematic-experience-virtual-reality/"><u>[New] The Evolution of Cinematic Experience  Virtual Reality</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-picking-drones-balance-equipment/"><u>[New] The Ultimate Guide to Picking Drones' Balance Equipment</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-screen-experience-with-hp-envy-27-display/"><u>[New] The Ultimate Screen Experience with HP Envy 27 Display</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-shot-recorder-hunters-top-picks/"><u>[New] Ultimate Shot Recorder  Hunters' Top Picks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-understanding-adobe-storage-alternatives-explained/"><u>[New] Understanding Adobe Storage, Alternatives Explained</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-uniting-sections-smoothly-inshot-transition-essentials/"><u>[New] Uniting Sections Smoothly  Inshot Transition Essentials</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-mellowing-sound-piece-by-piece-in-fl/"><u>[Updated] Mellowing Sound Piece-by-Piece in FL</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-strategies-to-procure-perfect-photographic-archives/"><u>[Updated] Strategies to Procure Perfect Photographic Archives</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-art-of-audio-visual-harmony-youtube-music-inclusion-guide/"><u>[Updated] The Art of Audio-Visual Harmony  YouTube Music Inclusion Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-photographers-blueprint-for-stunning-hdr-portraits/"><u>[Updated] The Photographer's Blueprint for Stunning HDR Portraits</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-skys-playground-discovering-the-husqvarna-x4-fpv/"><u>[Updated] The Sky's Playground  Discovering the Husqvarna X4 FPV</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-companion-for-enhancing-tiktok-bios-with-linktree/"><u>[Updated] The Ultimate Companion for Enhancing TikTok Bios with Linktree</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-audio-equipment-for-crystal-clear-4k-video-capture/"><u>[Updated] Top Audio Equipment for Crystal Clear 4K Video Capture</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-trusted-6-platforms-supporting-biz-success-stories/"><u>[Updated] Trusted 6 Platforms Supporting Biz Success Stories</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlock-full-potential-of-windows-photos-app-with-sound-and-filter-upgrades/"><u>[Updated] Unlock Full Potential of Windows Photos App with Sound & Filter Upgrades</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-smooth-playback-overcoming-booty-freezes/"><u>[Updated] Unlocking Smooth Playback  Overcoming Booty Freezes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-secrets-of-adobe-cloud-and-alternative-storage-solutions/"><u>[Updated] Unveiling the Secrets of Adobe Cloud & Alternative Storage Solutions</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-motorola-moto-g24-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-format-transmutation-srt-to-ssa-and-more/"><u>2024 Approved  The Art of Format Transmutation  SRT to SSA & More</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-increasing-indoor-ambiance-via-sunlight/"><u>2024 Approved  The Art of Increasing Indoor Ambiance via Sunlight</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-novices-path-to-effective-telegram-advertising/"><u>2024 Approved  The Novice’s Path to Effective Telegram Advertising</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transform-your-browsing-with-ms-edges-pip/"><u>2024 Approved  Transform Your Browsing with MS Edge's PIP</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-vr-advertising-potential/"><u>2024 Approved  Unlocking VR Advertising Potential</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/2024-approved-imovie-alternative/"><u>2024 Approved IMovie Alternative</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/directors-toolkit-win8/"><u>Director's Toolkit Win8</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-comprehensive-study-gopro-slr4-sliver-feature-review/"><u>In 2024, Comprehensive Study  GoPro SLR4 Sliver Feature Review</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-lava-yuva-3-pro-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Lava Yuva 3 Pro FRP?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-y100i-power-5g-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y100i Power 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mobile-mastery-high-shots-with-your-smartphone/"><u>In 2024, Mobile Mastery  High Shots with Your Smartphone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-screencasting-app-performance-examination/"><u>In 2024, ScreenCasting App Performance Examination</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-song-selection-spectrum-discovering-the-perfect-soundtrack-for-every-montage-visionary-project/"><u>In 2024, Song Selection Spectrum Discovering the Perfect Soundtrack for Every Montage Visionary Project</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tackling-latency-issues-for-smooth-video-conferencing-on-xbox-one/"><u>In 2024, Tackling Latency Issues for Smooth Video Conferencing on Xbox One</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tailored-dimensions-for-captivating-videos/"><u>In 2024, Tailored Dimensions for Captivating Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-complete-how-to-for-mac-obs-plus-streamlabs-integration/"><u>In 2024, The Complete How-To for Mac OBS + Streamlabs Integration</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transforming-simple-videos-text-addition-in-windows-10s-photos-software/"><u>In 2024, Transforming Simple Videos  Text Addition in Windows 10'S Photos Software</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-ultimate-photo-frame-tools/"><u>In 2024, Unveiling the Ultimate Photo Frame Tools</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/mastering-memories-transforming-snapshayers-to-share-for-2024/"><u>Mastering Memories  Transforming Snapshayer's to Share for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/seamless-creation-accessing-elite-afx-templates-for-free-for-2024/"><u>Seamless Creation  Accessing Elite AFX Templates for Free for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-filmmakers-almanac-of-cinematic-mastery-in-24-for-2024/"><u>The Filmmaker's Almanac of Cinematic Mastery in '24 for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-future-of-mobile-entertainment-is-here-discover-the-best-49-free-compression-tools-for-2024/"><u>The Future of Mobile Entertainment Is Here  Discover the Best 49 Free Compression Tools for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-role-of-workspace-dynamics-in-employee-output-for-2024/"><u>The Role of Workspace Dynamics in Employee Output for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-windows-11-audio-capture-for-2024/"><u>The Ultimate Guide to Windows 11 Audio Capture for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-7-hydro-resistant-camcorders-explored-for-2024/"><u>Top 7 Hydro-Resistant Camcorders Explored for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/turbo-faster-window-photo-editor-for-2024/"><u>Turbo Faster Window Photo Editor for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unpacking-the-wirecast-experience-and-its-rivals-for-2024/"><u>Unpacking the WireCast Experience & Its Rivals for 2024</u></a></li>
+</ul></div>

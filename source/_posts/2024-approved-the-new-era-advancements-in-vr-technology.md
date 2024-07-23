@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The New Era  Advancements in VR Technology\""
-date: 2024-06-04T00:18:41.647Z
-updated: 2024-06-05T00:18:41.647Z
+date: 2024-07-22T01:42:50.050Z
+updated: 2024-07-23T01:42:50.050Z
 tags: 
   - screen-recording
   - ai video
@@ -39,6 +39,9 @@ thumbnail: https://thmb.techidaily.com/bd7c586aade6fed49cfda54f6e705ff08c3876c36
 
  Is it really the right time to make comment like virtual reality is really uprising as a gaming platform? If you take the year of year survey report, yes the result shows a significant uptick for the interest of this platform. If we look back at the last year’s survey, it revealed that only 33.4 percent of the developers were interested to develop games for VR platforms. If you consider in terms of interest, VR was placed behind the PC/Mac, PlayStation 4, smartphones or tablets. But, considering this year’s data, we can see more advancement in the interest for the VR platform! More and more European developers are now getting interested to develop games for VR platforms that the smartphones or tablets.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![vr-gaming ](https://images.wondershare.com/filmora/resource/vr-gaming1.jpg )
 
  This clears the air that VR is turning to be an emerging platform for the European game developers but, which one is preferred more by the professional game developers – is it the Oculus Rift or HTC Vive or something else for that matter? The survey also includes a detailed report on that as well. Asking about which VR platform they are using – 23.1 percent developers said they are using Rift, Vive is slightly behind with 22 percent developers’ preferences. There is PlayStation VR headset as well with 11.8 percent preferences.
@@ -55,6 +58,9 @@ thumbnail: https://thmb.techidaily.com/bd7c586aade6fed49cfda54f6e705ff08c3876c36
 
  Overall, this is what cooking inside the VR gaming world and this survey report explains the different aspects of virtual reality that clearly presents the state of the VR industry on this year – 2016\. Hopefully, we will come across much more advancement to this process in the coming years since gaming on VR headsets is massively exciting and fun.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -76,16 +82,39 @@ Follow @Liza Brown
 ![google-cardbaorad-1]( https://images.wondershare.com/filmora/resource/google-cardbaorad-1.jpg
  )
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The VR gaming development is truly rising then
 
  Is it really the right time to make comment like virtual reality is really uprising as a gaming platform? If you take the year of year survey report, yes the result shows a significant uptick for the interest of this platform. If we look back at the last year’s survey, it revealed that only 33.4 percent of the developers were interested to develop games for VR platforms. If you consider in terms of interest, VR was placed behind the PC/Mac, PlayStation 4, smartphones or tablets. But, considering this year’s data, we can see more advancement in the interest for the VR platform! More and more European developers are now getting interested to develop games for VR platforms that the smartphones or tablets.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ![vr-gaming ](https://images.wondershare.com/filmora/resource/vr-gaming1.jpg )
 
  This clears the air that VR is turning to be an emerging platform for the European game developers but, which one is preferred more by the professional game developers – is it the Oculus Rift or HTC Vive or something else for that matter? The survey also includes a detailed report on that as well. Asking about which VR platform they are using – 23.1 percent developers said they are using Rift, Vive is slightly behind with 22 percent developers’ preferences. There is PlayStation VR headset as well with 11.8 percent preferences.
 
  However, despite having such acceptance by the professional game developers, the confidence for the VR games market seems to have dropped a bit – at least the recent survey is showing something like that. Last year, 71.7 percent of the game developers considered VR to be a sustainable long-term market while in this year, it slipped a little with 68.8 percent developers are thinking VR could be a long sustaining gaming market.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## About the European VR game makers and their funding
 
  Funding for the games has always remained one of the prime concerns for the game developers and publishers. You know that it takes large amounts to be invested for the games. When it comes to the funding policies for the European game developers, most of them are covering the entire expenses using their own funds. Take a look at what the survey report has to say about that. Asking about the sources of the fund for the games 57.8 percent said that their funds come from the company’s existing fund while contrary to this, 32.9 percent game developers said that they manage their own fund from their personal accounts.
@@ -96,6 +125,9 @@ Follow @Liza Brown
 
  Overall, this is what cooking inside the VR gaming world and this survey report explains the different aspects of virtual reality that clearly presents the state of the VR industry on this year – 2016\. Hopefully, we will come across much more advancement to this process in the coming years since gaming on VR headsets is massively exciting and fun.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -128,3 +160,41 @@ Follow @Liza Brown
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-guide-to-swiftly-eliminate-unwanted-youtube-comments/"><u>[New] 2024 Approved  Guide to Swiftly Eliminate Unwanted YouTube Comments</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-illuminating-photography-with-dynamic-mosaic-creations/"><u>[New] Illuminating Photography with Dynamic Mosaic Creations</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-exemplary-audio-enhancing-programs-for-youtube-artists/"><u>[New] In 2024, Exemplary Audio-Enhancing Programs for YouTube Artists</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-the-best-water-and-liquid-worlds-you-can-play/"><u>[New] In 2024, The Best Water & Liquid Worlds You Can Play</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unleash-speed-edit-windows-11-photos-like-a-pro/"><u>[New] Unleash Speed  Edit Windows 11 Photos Like a Pro</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-direct-download-and-mp3-creation-for-streaming-video-files-for-2024/"><u>[Updated] Direct Download & MP3 Creation for Streaming Video Files for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-ten-cyber-shops-where-every-gift-tells-a-story/"><u>[Updated] Top Ten Cyber Shops  Where Every Gift Tells a Story</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transform-photos-step-by-step-background-cleanup-for-canva-users/"><u>[Updated] Transform Photos  Step-by-Step Background Cleanup for Canva Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transforming-images-via-look-up-table-techniques-in-adobes-image-editor/"><u>[Updated] Transforming Images via Look-Up Table Techniques in Adobe's Image Editor</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-engaging-sound-stories-podcast-scriptwriting-demystified/"><u>[Updated] Unlocking Engaging Sound Stories  Podcast Scriptwriting Demystified</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-value-capture-affordable-cam-options/"><u>[Updated] Value Capture  Affordable Cam Options</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/150plus-top-rated-tiktok-inspirational-phrases-for-2024/"><u>150+ Top-Rated TikTok Inspirational Phrases for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-engineering-an-emotional-movie-segment/"><u>2024 Approved  Engineering an Emotional Movie Segment</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-how-to-avoid-and-eliminate-fog-on-gopro-lenshousing/"><u>2024 Approved  How to Avoid and Eliminate Fog on GoPro Lens/Housing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-instant-signature-background-erasure-techniques/"><u>2024 Approved  Instant Signature Background Erasure Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-polarr-photo-editor-demystified-in-depth-analysis/"><u>2024 Approved  Polarr Photo Editor Demystified  In-Depth Analysis</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-step-by-step-scripture-melodies-on-your-phone/"><u>2024 Approved  Step-by-Step  Scripture Melodies on Your Phone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-complete-guide-to-masterful-lunapic-photography/"><u>2024 Approved  The Complete Guide to Masterful LunaPic Photography</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-tutorial-adding-whimsy-with-snapchat-cartoons/"><u>2024 Approved  The Ultimate Tutorial  Adding Whimsy with Snapchat Cartoons</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-budget-friendly-image-editing-apps-for-smartphones/"><u>2024 Approved  Top 10 Budget-Friendly Image Editing Apps for Smartphones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-15-nba-live-stream-techniques/"><u>2024 Approved  Top 15 NBA LIVE STREAM Techniques</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-sound-sanitation-online-eliminating-unwanted-audio-disturbances-from-web-streams-for-2024/"><u>New Sound Sanitation Online Eliminating Unwanted Audio Disturbances From Web Streams for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-the-best-of-the-best-top-8-video-metadata-editors-for-mac-for-2024/"><u>New The Best of the Best Top 8 Video Metadata Editors for Mac for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-haul-videography-pre-and-post-editing-processes-for-2024/"><u>The Art of Haul Videography  Pre and Post Editing Processes for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-artists-pathway-journeying-from-hobbyist-to-professional-for-2024/"><u>The Artist's Pathway  Journeying From Hobbyist to Professional for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-oppo-reno-11-pro-5g-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Oppo Reno 11 Pro 5G Phone Hassle-Free</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-latest-evolution-2023s-samsung-bd-j5900-review-for-2024/"><u>The Latest Evolution  2023'S Samsung BD-J5900 Review for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/top-10-online-and-pc-cartoon-video-maker-2022-for-beginner-for-2024/"><u>Top 10 Online And PC Cartoon Video Maker 2022 For Beginner for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-audio-guide-to-the-top-5-4k-recording-microphones-for-2024/"><u>Ultimate Audio Guide to the Top 5 4K Recording Microphones for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleashing-potential-essential-win11-tools-for-2024/"><u>Unleashing Potential  Essential Win11 Tools for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-the-power-of-periscope-your-complete-manual-for-2024/"><u>Unlock the Power of Periscope  Your Complete Manual for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-mastering-fcp-top-3-transition-techniques-for-smooth-edits/"><u>Updated 2024 Approved Mastering FCP Top 3 Transition Techniques for Smooth Edits</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-video-editors-use-the-loading-text-effect-to-create-impressive-and-descriptive-videos-let-us-understand-the-detailed-steps-to-customize-the-/"><u>Updated In 2024, Video Editors Use the Loading Text Effect to Create Impressive and Descriptive Videos. Let Us Understand the Detailed Steps to Customize the Loading Text Effect in Wondershare Filmora</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Unveiling the Simplicity  Accessing Highly Engaged YouTube Reactions\""
-date: 2024-06-20T00:33:48.097Z
-updated: 2024-06-21T00:33:48.097Z
+date: 2024-07-22T03:43:05.063Z
+updated: 2024-07-23T03:43:05.063Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,9 @@ People nowadays can express their feelings and opinions online through social me
 
 People can watch, like, share, comment on, and upload videos using the YouTube service. You can access this video service on PCs, laptops, tablets, and mobile phones.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Are YouTube's Primary Purposes?
 
 * Users can look up and view videos.
@@ -31,6 +34,9 @@ People can watch, like, share, comment on, and upload videos using the YouTube s
 * Users can follow or subscribe to other YouTube channels.
 * To arrange videos and combine them together, make playlists.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why Use YouTube?
 
 YouTube is the second-largest web browser after Google. Every minute, YouTube receives more than 100 hours of video. Whether you're disseminating information to students or marketing activities, it's among the most significant ways to reach a large audience. Some of the benefits of YouTube are listed below.
@@ -63,6 +69,10 @@ Given how many students have smartphones, video is an excellent medium for conne
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 ## How to See Liked Comments on YouTube?
@@ -81,6 +91,9 @@ But, if you want to retrace the videos you commented on and the videos/comments 
 
 Step1 Click on your Google Account icon and find **Your data in YouTube**.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![find your data in youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-your-data-in-youtube.jpg)
 
 Step2 Scroll down a little bit and click the **More** button.
@@ -89,6 +102,9 @@ Step2 Scroll down a little bit and click the **More** button.
 
 Step3 Click the **Comments** section.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![click comments your youtube dashboard](https://images.wondershare.com/filmora/article-images/2022/11/click-comments-your-youtube-dashboard.jpg)
 
 Now you will see your comment history, including the date when you commented on a certain video and also the exact comment you posted.
@@ -99,6 +115,18 @@ To see videos/comments you liked or disliked, please follow these steps as conti
 
 Step4 In the **Google My Activity** tab, click **Other activity**.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![other activity youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/other-activity-youtube-comments.jpg)
 
 Step5 Scroll down and find **Comment Likes and Dislikes on YouTube** section. Click **View Comment Likes and Dislikes**.
@@ -147,6 +175,9 @@ Because understanding how to comment is only one aspect of the issue; very impor
 
 Try making a joke, pointing out something amusing, providing helpful information, or expressing sympathy or concern for a fan. Additionally, a simple thumbs-up or heart can go a long way to demonstrate that you are paying attention even if you aren't feeling very friendly (we all have bad days, it's OK!).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Did you know what a Highlighted comment is?
 
 A highlighted comment on YouTube aims to draw the content creator's attention with an automated feature.
@@ -183,3 +214,51 @@ Additionally, video creators can manually highlight commenters to mark them for 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-chromebook-screenshots-made-easy-top-5-app-choices/"><u>[New] In 2024, Chromebook Screenshots Made Easy  Top 5 App Choices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-laugh-labs-free-comedy-creation-for-creative-souls/"><u>[New] Laugh Labs  Free Comedy Creation for Creative Souls</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-leading-tools-for-instantaneous-gif-to-video-transformation/"><u>[New] Leading Tools for Instantaneous GIF to Video Transformation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ranking-the-best-ios-videography-tech/"><u>[New] Ranking the Best iOS Videography Tech</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-substitutes-to-winmovie-making-software/"><u>[New] Substitutes to WinMovie Making Software</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-syncing-yt-beats-with-visual-timelines/"><u>[New] Syncing YT Beats with Visual Timelines</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-beginners-besties-essential-gopro-upgrades-list/"><u>[New] The Beginner's Besties - Essential GoPro Upgrades List</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-definitive-vivacut-video-editing-manual-for-24/"><u>[New] The Definitive VivaCut Video Editing Manual for '24</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unfolding-the-tapestry-of-mixed-reality-experiences/"><u>[New] Unfolding the Tapestry of Mixed Reality Experiences</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-crafting-memorable-content-on-snapchat-top-tips/"><u>[Updated] 2024 Approved  Crafting Memorable Content on Snapchat (Top Tips)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-beginners-blueprint-for-yourwebcamrecord/"><u>[Updated] In 2024, Beginner's Blueprint for YourWebcamRecord</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-must-have-tech-for-clear-streamed-content/"><u>[Updated] Must-Have Tech for Clear Streamed Content</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-must-know-windows-10-tips-and-tricks/"><u>[Updated] Must-Know Windows 10 Tips and Tricks</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-navigating-video-uploads-on-youtube-a-comprehensive-tutorial/"><u>[Updated] Navigating Video Uploads on YouTube  A Comprehensive Tutorial</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-reinstate-precise-sound-in-zoom-chats/"><u>[Updated] Reinstate Precise Sound in Zoom Chats</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-capturing-youtube-videos-subtitles-in-srt-format/"><u>[Updated] The Ultimate Guide to Capturing YouTube Videos' Subtitles in SRT Format</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-discovering-elite-business-sims-for-mobile-and-pc-in-24/"><u>2024 Approved  Discovering Elite Business Sims for Mobile & PC in '24</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-screenplay-structure-unveiled/"><u>2024 Approved  The Screenplay Structure Unveiled</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transcription-made-simple-at-no-cost/"><u>2024 Approved  Transcription Made Simple  At No Cost</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-6-digital-backdrop-eradicators-boosting-image-clarity/"><u>2024 Approved  Ultimate 6 Digital Backdrop Eradicators Boosting Image Clarity</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-your-devices-new-tone-with-top-5-chrome-extensions/"><u>2024 Approved  Unleash Your Device's New Tone with Top 5 Chrome Extensions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocked-gems-seeking-free-tiktok-picture-perfections/"><u>2024 Approved  Unlocked Gems  Seeking Free TikTok Picture Perfections</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-vectors-unveiled-a-novices-path-through-types-and-apps/"><u>2024 Approved  Vectors Unveiled  A Novice’s Path Through Types and Apps</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-the-art-of-decibel-decline-uncovering-sound-management-with-audacity/"><u>2024 Approved The Art of Decibel Decline Uncovering Sound Management with Audacity</u></a></li>
+<li><a href="https://windows11.techidaily.com/breaking-through-qbittorrent-lag-a-windows-guide/"><u>Breaking Through qBittorrent Lag: A Windows Guide</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-nokia-c12-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Nokia C12 Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fast-track-to-driver-setup-3dconnexion-product-guide/"><u>Fast Track to Driver Setup: 3Dconnexion Product Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-oppo-find-x6-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Oppo Find X6 FRP Locks</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/goovision-promax-high-res-os-capturer/"><u>GooVision ProMax  High-Res OS Capturer</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-huawei-nova-y71-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-xiaomi-civi-3-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Xiaomi Civi 3 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-10-web-based-subtitle-editor-tools/"><u>In 2024, Top 10 Web-Based Subtitle Editor Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlock-video-brilliance-through-advanced-chroma-techniques-11-steps/"><u>In 2024, Unlock Video Brilliance Through Advanced Chroma Techniques (11 Steps)</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/the-ultimate-free-video-blur-hack-online-solution-for-2024/"><u>The Ultimate Free Video Blur Hack Online Solution for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-srt-file-craftsmanship-manual-for-2024/"><u>The Ultimate SRT File Craftsmanship Manual for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-20-essential-gopro-extras-for-2024/"><u>Top 20 Essential Gopro Extras for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/top-5-xiaomi-13t-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Xiaomi 13T Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-8-iphone-accessories-elevate-your-selfies-today-for-2024/"><u>Top 8 iPhone Accessories - Elevate Your Selfies Today for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-video-montages-on-mobile-devices-a-8-must-have-list-for-2024/"><u>Top Video Montages on Mobile Devices  A 8 Must-Have List for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/uncover-roblox-hidden-treasures-with-zoom-techniques-for-2024/"><u>Uncover Roblox Hidden Treasures with Zoom Techniques for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/understanding-and-implementing-audio-ebb-in-premiere-pro-for-2024/"><u>Understanding and Implementing Audio Ebb in Premiere Pro for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleash-creativity-with-these-free-web-photo-editors-for-2024/"><u>Unleash Creativity with These Free Web Photo Editors for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-secrets-of-strong-openings-podcasters-guidebook-for-2024/"><u>Unlocking Secrets of Strong Openings  Podcaster's Guidebook for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-voice-inputs-powerpoint-speech-to-text-guide-for-2024/"><u>Unlocking Voice Inputs  PowerPoint Speech-to-Text Guide for 2024</u></a></li>
+</ul></div>

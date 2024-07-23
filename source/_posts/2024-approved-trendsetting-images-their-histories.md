@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Trendsetting Images  Their Histories\""
-date: 2024-06-04T03:58:03.756Z
-updated: 2024-06-05T03:58:03.756Z
+date: 2024-07-22T04:00:24.044Z
+updated: 2024-07-23T04:00:24.044Z
 tags: 
   - screen-recording
   - ai video
@@ -24,6 +24,9 @@ So, what are the most popular stock photo memes, and how did they reach this sta
 
 ## Part1: Hide the Pain Harold
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![hide the pain harold](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-1.jpg)
 
 Since 2011, Hide the Pain Harold continues to rank as one of the world's most popular stock photo memes. Here are some numbers to show you how popular the meme is.
@@ -43,6 +46,9 @@ According to Andras, Hide the Pain Harold results from his vacation in Turkey. A
 
 Currently, Hide the Pain Harold has over 300,000 followers across all platforms. In addition, Hide the pain Harold has an official Facebook and Know Your Meme page that features the most popular versions of the stock image meme.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part2: Distracted Boyfriend
 
 Another popular stock image meme is Distracted Boyfriend. It features the stock photo meme guy looking at another woman's backside while walking with his girlfriend. In addition, the models' facial expressions add to the photo's impact. For example, the girlfriend shows her disapproval by staring at the man with her mouth open.
@@ -51,6 +57,9 @@ Another popular stock image meme is Distracted Boyfriend. It features the stock 
 
 The original photo is the work of Antonio Guillem, who uploaded it on iStock in November 2015\. Initially, the photo was labeled as a lisloyal man with his girlfriend looking at another girl and required purchasing the proper license to use it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![original photo](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-5.jpg)
 
 According to Meme Documentation, the first version of the Distracted boyfriend theme dates back to January 2017\. Prog Snob, a Turkish progressive rock group on Facebook, posted the meme on their page to reference Phil Collin's distraction from progressive rock by pop music. However, it was the August 2017 Twitter version referencing the youth's feelings towards capitalism and socialism that went viral.
@@ -68,20 +77,32 @@ The latest version of Distracted boyfriend is a compilation of photos featuring 
 
 In addition, Antonio Guillem also has a stock image meme where the roles are reversed. The meme was later posted on Reddit underneath the original and received over 25,600 points in 24 hours.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ## Part3: I Bet He's Thinking About Other Women
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![meme features](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-7.jpg)
 
 The meme features a couple in bed with the stock photo meme guy in contemplation and the woman facing him with a concerned look. At first glance, the image shows a couple experiencing relationship problems, with the original caption showing the woman worrying that the man is thinking about other women.
 
 However, subsequent memes feature satirical themes. Here are some of the most popular versions and their popularity.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![the most popular versions](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-8.jpg)
 
 A July 2017 Instagram post by Cathrottle gained over 13,400 likes in a month. In this version, the man wonders why there are so many Fast and the Furious movies.
 
 * Redditor GallowBoob received 34,700 points and 350 comments within 24 hours of posting it.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ![points and comments](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-9.jpg)
 
 The post references the Toy Story character Buzz Lightyear, with the man contemplating why Buzz is in denial of being a toy.
@@ -94,8 +115,14 @@ According to sources, the stock photo meme was first featured on Twitter in Dece
 
 Twitter user @chocos posts the image with Spanish captions, with the woman sure the man is thinking of another. However, the man wonders why there are sounds in Star Wars when the sound does not travel in space. Since then, the tweet has received over 1,700 retweets and 2,200 likes.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part4: Bonjour Bear
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ![bonjour bear](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-11.jpg)
 
 Unlike the previous stock image memes, Bonjour Bear was not an instant hit among netizens. The stock image was posted online in 2016 by Uryadnikov Sergey and featured a polar bear peeking through its winter den. However, it began causing a buzz in early 2019, following a Reddit post that included hilarious captions.
@@ -104,6 +131,9 @@ Since then, internet users have continued to use the Bonjour Bear meme to refere
 
 * In this version, Bonjour Bear reacts to the discovery of a wound after using hand sanitizer. The post became popular during the COVID-19 pandemic when using hand sanitizer was at its peak.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![using hand sanitizer](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-12.jpg)
 
 In addition, the post received over 91,700 points, with 95% of upvotes, within a day on Reddit.
@@ -160,3 +190,52 @@ Therefore, always perform stock image reverse searches to verify the image permi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-apple-devices-enthusiasts-guide-to-top-voice-recorders/"><u>[New] 2024 Approved  Apple Devices Enthusiast's Guide to Top Voice Recorders</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-exclusive-guide-to-high-performing-screens-for-xbox-series-x-gaming/"><u>[New] Exclusive Guide to High-Performing Screens for Xbox Series X Gaming</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-meme-mastery-iphone-edition/"><u>[Updated] Meme Mastery  IPhone Edition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-prime-practices-for-streaming-live-cricket-events/"><u>[Updated] Prime Practices for Streaming Live Cricket Events</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-syma-x8c-mastering-advanced-maneuvers/"><u>[Updated] Syma X8C  Mastering Advanced Maneuvers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-essentials-of-using-azures-voice-recognition/"><u>[Updated] The Essentials of Using Azure's Voice Recognition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-checklist-for-nfl-live-broadcasting/"><u>[Updated] The Ultimate Checklist for NFL Live Broadcasting</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-creating-fluid-edits/"><u>[Updated] The Ultimate Guide to Creating Fluid Edits</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-workings-of-drones-an-introduction-for-beginners/"><u>[Updated] The Workings of Drones  An Introduction for Beginners</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleash-creativity-mastering-high-quality-slow-motion-video-on-your-phone/"><u>[Updated] Unleash Creativity  Mastering High-Quality Slow Motion Video on Your Phone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-this-years-prime-pc-vr-tech/"><u>[Updated] Unveiling This Year's Prime PC VR Tech</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-superior-video-capture-leading-webcams-for-podcasts/"><u>2024 Approved  Superior Video Capture  Leading Webcams for Podcasts</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-the-art-of-pushing-twitter-vids-through-snapchat/"><u>2024 Approved  The Art of Pushing Twitter Vids Through Snapchat</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-artistic-revolution-identifying-top-6-nft-visionaries/"><u>2024 Approved  The Artistic Revolution  Identifying Top 6 NFT Visionaries</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-complete-guide-to-android-time-lapse-creation/"><u>2024 Approved  The Complete Guide to Android Time-Lapse Creation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-editors-echo-chamber/"><u>2024 Approved  The Editor's Echo Chamber</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-future-of-storytelling-full-rotational-videography/"><u>2024 Approved  The Future of Storytelling  Full Rotational Videography</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-impact-of-luts-on-professional-photography/"><u>2024 Approved  The Impact of LUTs on Professional Photography</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-peak-of-data-preservation-cloud-service-guide/"><u>2024 Approved  The Peak of Data Preservation  Cloud Service Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-wmm-tutorial-for-aspiring-animators/"><u>2024 Approved  The Ultimate WMM Tutorial for Aspiring Animators</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-networking-grounds-grow-your-youtube-audience/"><u>2024 Approved  Top Networking Grounds  Grow Your YouTube Audience</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-virtual-reality-vr-bikes-to-check-out/"><u>2024 Approved  Top Virtual Reality (VR) Bikes to Check Out</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-understanding-auto-hdr-and-smart-exposure-techniques-in-photos/"><u>2024 Approved  Understanding Auto HDR and Smart Exposure Techniques in Photos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-upgrading-to-big-sur-know-your-hardware-standards/"><u>2024 Approved  Upgrading to Big Sur? Know Your Hardware Standards</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/ausdruckswelt-deutsche-begrussungen-ohne-das-wort-hallo/"><u>Ausdruckswelt: Deutsche Begrüßungen Ohne Das Wort Hallo</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/enthralling-enchantment-youtube-edition-of-best-magic/"><u>Enthralling Enchantment  YouTube Edition of Best Magic</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/frequency-finder-the-leading-linux-audio-software-options-free-or-full-price-for-2024/"><u>Frequency Finder The Leading Linux Audio Software Options, Free or Full-Price, for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-lava-blaze-2-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Lava Blaze 2 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-xiaomi-redmi-a2-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Xiaomi Redmi A2 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-how-to-take-long-exposure-shots-with-iphone/"><u>In 2024, How to Take Long Exposure Shots with iPhone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-innovative-recording-solutions-for-igadgets/"><u>In 2024, Innovative Recording Solutions for iGadgets</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-definitive-iphone-hdr-technique/"><u>In 2024, The Definitive iPhone HDR Technique</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-top-anime-impersonators-a-voice-transformation-guide/"><u>In 2024, Top Anime Impersonators A Voice Transformation Guide</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-tips-for-perfecting-your-talking-face-content-a-complete-guide/"><u>New Tips for Perfecting Your Talking Face Content A Complete Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-oppo-find-x7-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Oppo Find X7 to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/revise-your-facebook-age-and-birthday-today/"><u>Revise Your Facebook Age and Birthday Today</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-5-easy-android-image-fixes-for-2024/"><u>Top 5 Easy Android Image Fixes for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-7-mac-friendly-video-players-reviewed/"><u>Top 7 Mac-Friendly Video Players Reviewed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/total-exploration-of-vsco-photography-functions-for-2024/"><u>Total Exploration of VSCO Photography Functions for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-movie-colors-with-cg-centrals-luts-guide-for-2024/"><u>Transform Movie Colors with CG Central's Luts Guide for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-15-color-grading-plugins-for-action-cam-video-for-2024/"><u>Ultimate 15 Color Grading Plugins for Action Cam Video for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/1714059796456-unleash-your-creativity-best-gopro-video-editing-software-beyond-gopro-studio/"><u>Unleash Your Creativity Best GoPro Video Editing Software Beyond GoPro Studio</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-lower-thirds-that-pop-advanced-techniques-for-fcpx-editors-for-2024/"><u>Updated Lower Thirds That Pop Advanced Techniques for FCPX Editors for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/utilizing-tailored-volume-reduction-in-audacity-for-2024/"><u>Utilizing Tailored Volume Reduction in Audacity for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Oppo Reno 11 Pro 5G? | Dr.fone</u></a></li>
+</ul></div>

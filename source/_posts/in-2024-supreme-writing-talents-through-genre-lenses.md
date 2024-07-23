@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Supreme Writing Talents Through Genre Lenses"
-date: 2024-06-04T02:18:46.230Z
-updated: 2024-06-05T02:18:46.230Z
+date: 2024-07-22T02:58:21.192Z
+updated: 2024-07-23T02:58:21.192Z
 tags: 
   - screen-recording
   - ai video
@@ -41,6 +41,9 @@ Sure, we'd all love to write one of those big blockbusters, but it's going to ta
 
 As aspiring screenwriters, it is important for us to focus on markets where we can break through. Some genres don't necessarily require a huge budget or an A-list star to be successful, and that's good news. Making a movie is the beginning of the journey to getting hired to write a superhero movie.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ## Part 2\. Scripts examples from 8 genre
 
 ### Best horror scripts
@@ -73,6 +76,9 @@ Part of its enduring appeal is the simplicity of its concept: A kid who murdered
 
 **_1\. 21 Jump Street_**
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![21 jump street](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-4.jpg)
 
 **Writer:** [Michael Bacall](https://en.wikipedia.org/wiki/Michael%5FBacall), [Stephen J. Cannell](https://en.wikipedia.org/wiki/Stephen%5FJ.%5FCannell)
@@ -85,6 +91,9 @@ Download the script here: <https://www.scriptslug.com/script/21-jump-street-2012
 
 **_2\. The Edge of Seventeen_**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![the edge of seventeen](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-5.jpg)
 
 **Writer:** Kelly Fremon Craig
@@ -99,6 +108,9 @@ That's exactly what new screenwriter [**Kelly Fremon Craig**](https://en.wikiped
 
 _**1\. A Christmas Carol – Large Cast**_Every man has the power to do good.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![a christmas carol is large cast](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-6.jpg)
 
 _**Writer:**_ [Charles Dickens](https://en.wikipedia.org/wiki/Charles%5FDickens)
@@ -109,6 +121,9 @@ When Scrooge's nephew Fred returns the letters Scrooge once wrote to his sister 
 
 _**2\. Angel's Poinsettia**_
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![angel's poinsettia](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-7.jpg)
 
 **Writer:** Sally Painter
@@ -117,8 +132,14 @@ Angel, a child fairy, learns a valuable lesson about caring for the sick when sh
 
 **Download the script here:** <https://cf.ltkcdn.net/christmas/files/2502-angels-poinsettia.pdf>
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ### Best promotional video scripts
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![best promotional video scripts](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-8.jpg)
 
 _**1\. Announcement**_
@@ -189,6 +210,9 @@ When Jack meets Esther in the park one day, he swears she looks familiar. Althou
 
 **Download the script here:** <http://offthewallplays.com/wp-content/uploads/2018/12/WALK-IN-PARK-half-script-1.pdf>
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Best action scripts
 
 **_1\. 2 Guns_**
@@ -203,6 +227,9 @@ This screenplay explores the relationship between two criminals – Denzel Washi
 
 _**2\. Casino Royale**_
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![casino royale](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-12.jpg)
 
 **Writers:** Robert Wade and Paul Haggis
@@ -211,6 +238,10 @@ Secret Agent James Bond sets out on a mission as 007 in a screenplay that can sh
 
 **Download the script:** <https://thescriptlab.com/script-library/casinoroyale-pdf/>
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### Best thriller scripts
 
 **_1\. PRIMER_**
@@ -229,6 +260,10 @@ Download the script here: <https://www.takarabio.com/documents/User%20Manual/RR0
 
 **_2\. UNBREAKABLE_**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![unbreakable](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-14.jpg)
 
 **Writer:** M. Night Shyamalan
@@ -243,6 +278,9 @@ The film stands out in the now crowded genre by avoiding any cataclysmic showdow
 
 **_1\. Cinderella_(1950)**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![cinderella 1950](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-15.jpg)
 
 **Writers:** William Peet, Ted Sears, Homer Brightman, Kenneth Anderson, Erdman Penner, Winston Hibler, Harry Reeves, Joe Rinaldi
@@ -275,12 +313,18 @@ Have you ever stored various videos and photos on a memory card or on the comput
 
 The key features offered by [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) include 4K editing support, GIF support, noise removal, color tuning, advanced text editor, audio mixer, video stabilization,[scene detection](https://tools.techidaily.com/wondershare/filmora/download/), and an audio equalizer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![make a video with wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-17.jpg)
 
 The 4K editing support feature enables users to edit and export videos at a resolution of up to 4K. The GIF support feature allows importing, editing, and exporting of GIF files. The noise removal feature facilitates removal of unwanted background noise readily.
 
 The [color tuning](https://tools.techidaily.com/wondershare/filmora/download/) feature enables users to adjust the white balance and dynamic range of their clips. The audio mixer feature enables changing the audio of each track. The advanced text editor allows editing the color, size, font, and even animation of the text. The screen recording feature enables recording the screen of the computer and webcam efficiently. The video stabilization feature eliminates the effects of camera shake.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![color tuning](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-18.jpg)
 
 ## Conclusion
@@ -312,3 +356,58 @@ Creating video content that can potentially go viral is no longer a complicated 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-instagram-influence-made-possible-today/"><u>[New] Instagram Influence Made Possible Today</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-laymans-land-easy-to-construct-mc-homes-unlocked/"><u>[New] Layman's Land  Easy-to-Construct MC Homes Unlocked</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-no-money-just-screen-time-how-to-record-youtube/"><u>[New] No Money, Just Screen Time  How To Record YouTube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-picks-for-integrating-frame-elements-with-images/"><u>[New] Top Picks for Integrating Frame Elements with Images</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transforming-static-text-into-dynamic-elements-on-a-budget/"><u>[New] Transforming Static Text Into Dynamic Elements on a Budget</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlock-your-podcast-potential-advanced-techniques-for-idevice-audio-recording/"><u>[New] Unlock Your Podcast Potential  Advanced Techniques for iDevice Audio Recording</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unrestricted-gaming-beats-digital-download/"><u>[New] Unrestricted Gaming Beats  Digital Download</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveil-the-potential-of-vfx-animated-text-for-free/"><u>[New] Unveil the Potential of VFX  Animated Text for Free</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-highest-rated-20-public-domain-pubg-combos/"><u>[Updated] Highest-Rated 20 Public Domain PUBG Combos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-the-art-of-virtual-visuals-zooms-step-by-step-filters-guide/"><u>[Updated] Mastering the Art of Virtual Visuals  Zoom's Step-By Step Filters Guide</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-redefining-user-engagement-with-top-10-video-editors-for-2024/"><u>[Updated] Redefining User Engagement with Top 10 Video Editors for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-simplified-storytelling-methodology/"><u>[Updated] Simplified Storytelling Methodology</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamline-your-podcast-with-ease/"><u>[Updated] Streamline Your Podcast With Ease</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-easy-way-to-spot-and-view-trending-youtube-feedback/"><u>[Updated] The Easy Way to Spot and View Trending YouTube Feedback</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-pioneers-guide-to-vr-terminology/"><u>[Updated] The Pioneer's Guide to VR Terminology</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-ultimate-12-camera-guide-for-effortless-screen-swivel-use-for-2024/"><u>[Updated] The Ultimate 12 Camera Guide for Effortless Screen Swivel Use for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-10-trends-in-effective-podcast-naming/"><u>[Updated] Top 10 Trends in Effective Podcast Naming</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-slide-show-collections-10-places-to-download-high-quality-designs/"><u>[Updated] Top Slide Show Collections  10 Places to Download High-Quality Designs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-tier-editing-suites-in-apples-macos-big-sur-release/"><u>[Updated] Top-Tier Editing Suites in Apple's MacOS Big Sur Release</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tracing-the-flow-of-money-in-consumer-opinions/"><u>[Updated] Tracing the Flow of Money in Consumer Opinions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-hd-encoding-devices-for-live-events/"><u>[Updated] Ultimate HD Encoding Devices for Live Events</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-software-guide-to-gamers-broadcast/"><u>[Updated] Ultimate Software Guide to Gamers' Broadcast</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-uncompromised-creativity-best-macos-big-sur-editing-tools-ranked/"><u>[Updated] Uncompromised Creativity  Best macOS Big Sur Editing Tools Ranked</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/11-key-steps-for-perfect-color-grading-in-photography-for-2024/"><u>11 Key Steps for Perfect Color Grading in Photography for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-from-concept-to-delivery-using-luts-with-adobe-ae/"><u>2024 Approved  From Concept to Delivery  Using LUTs with Adobe AE</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-one-device-two-os-file-migration-tactics/"><u>2024 Approved  One Device, Two OS File Migration Tactics</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-sky-high-storages-expert-recommendations/"><u>2024 Approved  Sky-High Storages  Expert Recommendations</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-stabilize-your-story-a-guide-to-steadying-handheld-gopro-recordings/"><u>2024 Approved  Stabilize Your Story  A Guide to Steadying Handheld GoPro Recordings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-strategizing-visibility-for-podcasts-through-design/"><u>2024 Approved  Strategizing Visibility for Podcasts Through Design</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/cinemas-resonating-reign-a-compilation-of-high-quality-royalty-free-piano-melodies-for-video-enhancement/"><u>Cinemas Resonating Reign A Compilation of High-Quality, Royalty-Free Piano Melodies for Video Enhancement</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/emotionally-enhanced-youtube-commentary-for-2024/"><u>Emotionally-Enhanced YouTube Commentary for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-se-to-other-iphone-14-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone SE To Other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-motorola-moto-g04-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Motorola Moto G04 online without jailbreak</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-12-bootloader-easily-by-drfone-android/"><u>How to Unlock Xiaomi Redmi 12 Bootloader Easily</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-from-video-to-mp3-maintaining-audio-fidelity-made-easy/"><u>In 2024, From Video to MP3 Maintaining Audio Fidelity Made Easy</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-the-ultimate-list-of-tiktok-influencers-for-momentum/"><u>In 2024, The Ultimate List of TikTok Influencers for Momentum</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-top-5-chill-out-scenes-to-add-zest-to-your-snowy-videos/"><u>In 2024, Top 5 Chill-Out Scenes to Add Zest to Your Snowy Videos</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-final-cut-pro-x-title-essentials-getting-started-with-style/"><u>New In 2024, Final Cut Pro X Title Essentials Getting Started with Style</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-vivo-y78t-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/stream-video-freely-on-any-os-no-cost-video-player-for-2024/"><u>Stream Video Freely on Any OS  No-Cost VIDEO Player for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/strengthening-video-impact-with-professional-audio-cues-for-2024/"><u>Strengthening Video Impact with Professional Audio Cues for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/submerge-mastery-top-tips-for-capturing-great-water-videos-for-2024/"><u>Submerge Mastery  Top Tips for Capturing Great Water Videos for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-checklist-lipo-batteries-for-drone-excellence-for-2024/"><u>The Ultimate Checklist  LiPo Batteries for Drone Excellence for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tips-of-recording-time-lapse-video-on-iphone-for-2024/"><u>Tips of Recording Time Lapse Video on iPhone for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-the-erratic-behavior-of-print-spooler-windows/"><u>Troubleshooting the Erratic Behavior of Print Spooler (Windows)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-guide-to-2023s-top-value-zero-cost-live-broadcasting-tools-for-2024/"><u>Ultimate Guide to 2023'S Top Value, Zero-Cost Live Broadcasting Tools for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-secrets-of-adobe-cloud-and-alternative-storage-solutions-for-2024/"><u>Unveiling the Secrets of Adobe Cloud & Alternative Storage Solutions for 2024</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-in-2024-a-detailed-review-of-murfai-ai-text-to-speech-tool/"><u>Updated In 2024, A Detailed Review of Murf.ai AI Text-to-Speech Tool</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-the-premier-selection-of-zero-cost-sound-balancers-for-2024/"><u>Updated The Premier Selection of Zero-Cost Sound Balancers for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/videotwitterconverter-mp4-and-webm-generator-for-2024/"><u>VideoTwitterConverter  MP4 & WebM Generator for 2024</u></a></li>
+</ul></div>

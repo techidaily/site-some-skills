@@ -1,7 +1,7 @@
 ---
 title: "\"The Hidden Guide  Watching Highly Engaged Comments with Ease on YouTube for 2024\""
-date: 2024-06-04T00:27:09.460Z
-updated: 2024-06-05T00:27:09.460Z
+date: 2024-07-22T01:48:08.772Z
+updated: 2024-07-23T01:48:08.772Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,18 @@ People nowadays can express their feelings and opinions online through social me
 
 People can watch, like, share, comment on, and upload videos using the YouTube service. You can access this video service on PCs, laptops, tablets, and mobile phones.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Are YouTube's Primary Purposes?
 
 * Users can look up and view videos.
@@ -63,8 +75,14 @@ Given how many students have smartphones, video is an excellent medium for conne
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to See Liked Comments on YouTube?
 
 YouTube is a service that is available for free, and it may be a terrific place for teenagers to find interest. Many young people use YouTube to watch comedy shows, how-to videos, recipes, hacks, and music videos. Teenagers also use the video-sharing platform to subscribe to other YouTubers and famous personalities and to follow their favorite vloggers (video bloggers).
@@ -85,6 +103,13 @@ Step1 Click on your Google Account icon and find **Your data in YouTube**.
 
 Step2 Scroll down a little bit and click the **More** button.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ![your youtube dashboard more](https://images.wondershare.com/filmora/article-images/2022/11/your-youtube-dashboard-more.jpg)
 
 Step3 Click the **Comments** section.
@@ -93,6 +118,9 @@ Step3 Click the **Comments** section.
 
 Now you will see your comment history, including the date when you commented on a certain video and also the exact comment you posted.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![your youtube comments date](https://images.wondershare.com/filmora/article-images/2022/11/your-youtube-comments-date.jpg)
 
 To see videos/comments you liked or disliked, please follow these steps as continuation:
@@ -103,6 +131,9 @@ Step4 In the **Google My Activity** tab, click **Other activity**.
 
 Step5 Scroll down and find **Comment Likes and Dislikes on YouTube** section. Click **View Comment Likes and Dislikes**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ![your comment likes and dislikes](https://images.wondershare.com/filmora/article-images/2022/11/your-comment-likes-and-dislikes.jpg)
 
 Now you will see the videos you liked or disliked and also the comments you liked or disliked, including the date when you liked or disliked the video/comment.
@@ -111,6 +142,14 @@ Now you will see the videos you liked or disliked and also the comments you like
 
 This article tells you that you can't see who liked or disliked a comment, but you can see how many likes or dislikes a comment got. Then go to any video you want, scroll down to the comment section, and see how many likes or dislikes a comment received.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![likes comment received](https://images.wondershare.com/filmora/article-images/2022/11/likes-comment-received.jpg)
 
 In this image, the following comments only got likes and no dislikes. That is why there are just written numbers on the like button and on the dislike button there are none.
@@ -185,3 +224,38 @@ Additionally, video creators can manually highlight commenters to mark them for 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-instagrams-secret-weapons-for-follower-increase/"><u>[New] 2024 Approved  Instagram's Secret Weapons for Follower Increase</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-structuring-vimeo-footage-chapter-creation-tips/"><u>[New] 2024 Approved  Structuring Vimeo Footage  Chapter Creation Tips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamline-iphone-videos-size-and-length-optimization/"><u>[New] Streamline iPhone Videos  Size & Length Optimization</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-fast-forwarding-safely-expedite-your-spotify-experience/"><u>[New] The Art of Fast-Forwarding  Safely Expedite Your Spotify Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-slomo-recording-tool-assessment-guide/"><u>[New] The Ultimate SloMo Recording Tool Assessment Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-today-in-virtual-reality-hardware/"><u>[New] Today in Virtual Reality Hardware</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-10-affordable-and-easy-online-passport-pics-tools/"><u>[New] Top 10 Affordable & Easy Online Passport Pics Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-8-montage-apps-for-androidiphone/"><u>[New] Top 8 Montage Apps for Android/iPhone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-smooth-ocean-footage-proven-film-makers-methods/"><u>[New] Unlocking Smooth Ocean Footage  Proven Film-Maker's Methods</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-speedy-streams-the-noobs-snapchat-guide/"><u>[New] Unlocking Speedy Streams  The Noob’s Snapchat Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/be-the-life-of-the-party-uploading-and-sharing-gifs-on-instagram-instant-guide/"><u>Be the Life of the Party  Uploading & Sharing GIFs on Instagram [Instant Guide]</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-xiaomi-14-pro-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Xiaomi 14 Pro</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-champion-steadicams-for-uav-filmmaking-excellence/"><u>In 2024, Champion Steadicams for UAV Filmmaking Excellence</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ultimate-guide-to-travel-blogs-on-youtube/"><u>In 2024, The Ultimate Guide to Travel Blogs on Youtube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transform-sound-with-cloud-tools-top-5-online-text-to-speech-services-reviewed/"><u>In 2024, Transform Sound with Cloud Tools  Top 5 Online Text-to-Speech Services Reviewed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-traverse-costs-watch-anywhere-gratis-video-player-pcmac/"><u>In 2024, Traverse Costs, Watch Anywhere - Gratis VIDEO Player (PC/Mac)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-comedy-in-the-virtual-realm-making-hits-with-metaverse-memes/"><u>In 2024, Unleashing Comedy in the Virtual Realm - Making Hits with Metaverse Memes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-powerdirector-a-compreran-review-and-tutorial/"><u>In 2024, Unlocking PowerDirector  A Compreran Review & Tutorial</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveil-your-creative-potential-comprehensive-guide-to-powerdirector-pro/"><u>In 2024, Unveil Your Creative Potential  Comprehensive Guide to PowerDirector Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-yuneecs-typhoon-h-an-aerial-powerhouse-review/"><u>In 2024, Unveiling Yuneec’s Typhoon H  An Aerial Powerhouse Review</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/launch-your-content-with-free-intros-for-2024/"><u>Launch Your Content with Free Intros for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/navigating-the-digital-maze-to-save-snaps-from-social-media/"><u>Navigating the Digital Maze to Save Snaps From Social Media</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-vivo-x-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tale-constructing-the-basic-blueprint-for-2024/"><u>Tale Constructing  The Basic Blueprint for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-experts-manual-to-windows-10-prowess/"><u>The Expert's Manual to WINDOWS 10 Prowess</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-blueprint-to-fullscreen-brilliance-in-adobe-premiere-for-2024/"><u>The Ultimate Blueprint to Fullscreen Brilliance in Adobe Premiere for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-for-a-smart-4k-lens-upgrade-for-2024/"><u>The Ultimate Guide for a Smart 4K Lens Upgrade for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-audio-assistant-software-android-version-for-2024/"><u>Top Audio Assistant Software, Android Version for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-ai-voice-wondershare-virbo-online/"><u>Updated 2024 Approved AI Voice | Wondershare Virbo Online</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-vlc-tricks-enable-slow-motion-playback-for-enhanced-viewing/"><u>Updated In 2024, VLC Tricks Enable Slow Motion Playback for Enhanced Viewing</u></a></li>
+</ul></div>
