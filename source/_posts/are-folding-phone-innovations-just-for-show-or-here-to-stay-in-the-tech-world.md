@@ -1,7 +1,7 @@
 ---
 title: Are Folding Phone Innovations Just for Show, or Here to Stay in the Tech World?
-date: 2024-08-27 17:23:26
-updated: 2024-08-29 12:12:42
+date: 2024-08-29T20:39:45.045Z
+updated: 2024-08-30T20:39:45.045Z
 tags:
   - mobile
 categories:
@@ -33,12 +33,19 @@ Justin Duino / How-To Geek
 
  Folding phones are cool, and a novelty, but for me, when you try to break down the value proposition to its essence, it doesn't quite add up to more than that.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ##  Moving Parts Are Always Less Reliable
 
  One of the best things about my [M1 MacBook Air](https://facebook-video-share.techidaily.com/new-2024-approved-discover-the-best-tools-and-tips-to-accurately-tag-your-videos/) is that it's almost entirely a solid-state device, except for the screen hinge and the keyboard, which are still failure points. My smartphone and iPad, on the other hand, are in completely solid state, with no moving parts. If it weren't for the current state of battery technology, these devices would probably work indefinitely. Barring physical damage, a modern phone is pretty much bulletproof until the battery gives up the ghost.
 
  With a folding phone you throw absolutely all of that out the window, with both a complex hinge and the folding screen itself, which is enormously more fragile. Until materials science advances to the point where these folding screens are as robust against wear and damage as typical smartphone screens are today, I'll remain hesitant to get one as my daily driver. I've also come to the point where I don't consider a smartphone something I use for two years and then replace. These devices are so powerful, and makers are promising such long support cycles, that I expect five years of use with [proper battery care](https://review-topics.techidaily.com/how-to-change-location-on-facebook-dating-for-your-infinix-gt-10-pro-drfone-by-drfone-virtual-android/). I just don't see folding phones doing that on average with normal daily use.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ##  The Sacrifices Aren’t Worth It
 
  Let's say you're totally convinced by the benefits of folding phones, or you personally love the concept and esthetics; what are you giving up to have them?
@@ -49,10 +56,16 @@ Justin Duino / How-To Geek
 
  Again, there's nothing wrong with someone deciding that those sacrifices are not an issue to them personally, but it seems to me that the benefits of a folding screen don't measure up favorably to the list of downsides.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Rolling Screens Might Be a Better Take
 
 ![The Phantom Ultimate 3 rollable phone held in a hand.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/phantom_ultimate_3.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 Tecno
 
  Flexible screen technology isn't going anywhere, but for me, a better use of it comes in the form of rolling rather than folding screens. Rollable screens made a splash [back in 2021](https://easy-unlock-android.techidaily.com/lock-your-nokia-c12-pro-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/), and now we have phones like the [Tecno Phantom Ultimate](https://www.mobile-phantom.com/ae/phantom-ultimate/) which uses this technology. It still carries some of the same drawbacks as folding screens, but to my eye, this approach seems to reduce the complexity of the moving parts, eliminate the screen crease foldable screens have, and allow you the same main benefit of expanding your screen as needed. The Phantom is motorized, which has its own issues, but presumably someone will come up with a good manually-operated take on this concept at some point.
@@ -73,3 +86,73 @@ Tecno
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-tech-vanguard-apoyser-vs-other-top-screen-capture-tools/"><u>[New] 2024 Approved  Tech Vanguard  Apoyser vs Other Top Screen Capture Tools</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-a-filmmakers-dream-the-8-best-no-fee-video-editors-on-the-market-for-2024/"><u>[New] A Filmmaker's Dream  The 8 Best No-Fee Video Editors on the Market for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/xplore-free-youtube-channel-imagery-tools/"><u>[New] Explore Free YouTube Channel Imagery Tools</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-ultimate-collection-optimal-fb-lite-videos/"><u>[New] In 2024, Ultimate Collection  Optimal FB Lite Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-morning-judgment-creative-viewpoints/"><u>[New] Morning Judgment  Creative Viewpoints</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-5-tips-for-enhancing-roblox-gaming-recordings-mac/"><u>[Updated] 2024 Approved  5 Tips for Enhancing Roblox Gaming Recordings (Mac)</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-instant-ig-glory-high-quality-covers-on-apple-and-android-devices/"><u>[Updated] 2024 Approved  Instant IG Glory  High-Quality Covers on Apple and Android Devices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-learn-more-top-education-streams-online/"><u>[Updated] Learn More  Top Education Streams Online</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-soundcheck-summary/"><u>[Updated] SoundCheck Summary</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-xiaomi-14-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/ace-every-gameplay-session-ensuring-optimal-frames-per-second-in-valorant-for-pc-users/"><u>Ace Every Gameplay Session: Ensuring Optimal Frames Per Second in Valorant for PC Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/adaptive-website-layout-techniques/"><u>Adaptive Website Layout Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/complete-guide-downloading-and-reading-azw3-ebooks-on-windowsmac/"><u>Complete Guide: Downloading & Reading AZW3 Ebooks on Windows/Mac</u></a></li>
+<li><a href="https://some-skills.techidaily.com/dark-mode-viewing-a-guide-for-playback-of-youtube-videos-in-private-mode-on-smartphones-ios-and-android/"><u>Dark Mode Viewing: A Guide for Playback of YouTube Videos in Private Mode on Smartphones (iOS & Android)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/discover-epubor-software-solutions-your-guide-to-advanced-publishing-tools/"><u>Discover Epubor Software Solutions - Your Guide to Advanced Publishing Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/discover-printed-classics-accessible-edition-of-google-books/"><u>Discover Printed Classics: Accessible Edition of Google Books</u></a></li>
+<li><a href="https://some-skills.techidaily.com/discover-the-future-of-reading-dive-into-the-world-of-kindle-e-readers/"><u>Discover the Future of Reading: Dive Into the World of Kindle E-Readers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-fixes-for-resolving-the-life-threatening-videodxgkrnl-error-on-pcs-running-windows/"><u>Easy Fixes for Resolving the Life-Threatening Video_Dxgkrnl Error on PCs Running Windows</u></a></li>
+<li><a href="https://some-skills.techidaily.com/easy-methods-for-transforming-nook-books-into-pdf-documents-on-windows-and-macos-systems/"><u>Easy Methods for Transforming NOOK Books Into PDF Documents on Windows & macOS Systems</u></a></li>
+<li><a href="https://some-skills.techidaily.com/easy-steps-to-get-your-ibooks-onto-your-ios-device/"><u>Easy Steps to Get Your iBooks Onto Your iOS Device</u></a></li>
+<li><a href="https://some-skills.techidaily.com/effective-methods-for-removing-digital-rights-management-from-sony-e-books/"><u>Effective Methods for Removing Digital Rights Management From Sony E-Books</u></a></li>
+<li><a href="https://some-skills.techidaily.com/efficiently-uninstalling-programs-on-a-kindle-fire-a-comprehensive-tutorial/"><u>Efficiently Uninstalling Programs on a Kindle Fire - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://some-skills.techidaily.com/effortless-conversion-of-drm-protected-epub-books-to-kindle-format-on-your-mac/"><u>Effortless Conversion of DRM-Protected EPUB Books to Kindle Format on Your Mac</u></a></li>
+<li><a href="https://some-skills.techidaily.com/effortless-methods-for-transforming-kindle-content-into-pdf-on-macos-systems/"><u>Effortless Methods for Transforming Kindle Content Into PDF on macOS Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhancing-your-twitch-security-with-2fa-the-complete-tutorial/"><u>Enhancing Your Twitch Security with 2FA: The Complete Tutorial</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/fcp-essentials-flipping-clips-made-easy-with-this-4-step-process/"><u>FCP Essentials Flipping Clips Made Easy with This 4-Step Process</u></a></li>
+<li><a href="https://some-skills.techidaily.com/free-audible-audiobooks-a-comprehensive-guide-to-downloading-without-cost/"><u>Free Audible Audiobooks: A Comprehensive Guide to Downloading Without Cost</u></a></li>
+<li><a href="https://some-skills.techidaily.com/from-sampling-to-subscribing-mastering-the-art-of-effective-trial-to-paying-user-transitions/"><u>From Sampling to Subscribing: Mastering the Art of Effective Trial-to-Paying User Transitions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/guide-facile-et-rapide-pour-deverrouiller-les-fichiers-pdf-avec-du-drm-des-fichiers-pdf-sans-restrictions/"><u>Guide Facile Et Rapide Pour Déverrouiller Les Fichiers PDF Avec Du DRM - Des Fichiers PDF Sans Restrictions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-samsung-galaxy-a25-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Samsung Galaxy A25 5G?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/how-to-convert-and-transfer-word-documents-onto-your-kobo-e-reader/"><u>How to Convert and Transfer Word Documents Onto Your Kobo E-Reader</u></a></li>
+<li><a href="https://some-skills.techidaily.com/how-to-convert-ereader-azw3-files-into-pdf-format-cross-device-compatibility/"><u>How to Convert eReader AZW3 Files Into PDF Format - Cross-Device Compatibility</u></a></li>
+<li><a href="https://some-skills.techidaily.com/how-to-convert-your-audiobooks-aax-files-into-mp3-format/"><u>How to Convert Your Audiobook's AAX Files Into MP3 Format</u></a></li>
+<li><a href="https://some-skills.techidaily.com/how-to-fix-unrecognized-epub-files-on-your-kindle-after-drm-removal/"><u>How to Fix Unrecognized EPUB Files on Your Kindle After DRM Removal</u></a></li>
+<li><a href="https://some-skills.techidaily.com/how-to-move-your-amazon-kindle-titles-seamlessly-to-a-kobo-reader/"><u>How to Move Your Amazon Kindle Titles Seamlessly to a Kobo Reader</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-lost-data-from-apple-iphone-12-pro-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data from Apple iPhone 12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-4-things-you-must-know-about-iphone-xs-max-activation-lock-by-drfone-ios/"><u>In 2024, 4 Things You Must Know About iPhone XS Max Activation Lock</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-hololens-breakthrough-by-microsoft-a-3d-reality-revolution/"><u>In 2024, HoloLens Breakthrough by Microsoft – A 3D Reality Revolution</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Realme GT Neo 5 SE? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-changefake-your-xiaomi-redmi-13c-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Xiaomi Redmi 13C Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-oppo-find-x6-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Oppo Find X6 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-inexpensive-chinese-virtual-reality-helmets/"><u>In 2024, Inexpensive Chinese Virtual Reality Helmets</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-top-10plus-best-free-online-screen-recorders/"><u>In 2024, Top 10+ Best Free Online Screen Recorders</u></a></li>
+<li><a href="https://some-skills.techidaily.com/locating-official-kobo-support-facilities-in-the-indian-market/"><u>Locating Official Kobo Support Facilities in the Indian Market</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/memetic-mastery-the-finest-text-based-jesters-for-2024/"><u>Memetic Mastery  The Finest Text-Based Jesters for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigate-through-time-easy-ways-to-retrieve-older-snapshots-reels-on-ig/"><u>Navigate Through Time: Easy Ways to Retrieve Older Snapshots (Reels) on IG</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-what-is-an-ai-tool-for-2024/"><u>New What Is an AI Tool for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/round-the-clock-insight-detailed-look-at-google-podcast-for-2024/"><u>Round-the-Clock Insight  Detailed Look at Google Podcast for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/step-by-step-guide-to-drm-removal-from-ebook-pages/"><u>Step-by-Step Guide to DRM Removal From eBook Pages</u></a></li>
+<li><a href="https://some-skills.techidaily.com/step-by-step-guide-transforming-mobi-files-into-compatible-amazon-kindle-azw-format/"><u>Step-by-Step Guide: Transforming MOBI Files Into Compatible Amazon Kindle AZW Format</u></a></li>
+<li><a href="https://some-skills.techidaily.com/step-by-step-guide-transforming-your-azw4-books-into-epub-format/"><u>Step-by-Step Guide: Transforming Your AZW4 Books Into EPUB Format</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/streamline-filming-borders-on-instagram-videos/"><u>Streamline Filming  Borders on Instagram Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-10-essential-kindle-applications-enhance-your-reading-experience/"><u>Top 10 Essential Kindle Applications: Enhance Your Reading Experience</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/0-trending-backgound-music-for-youtube-shorts/"><u>Top 10 Trending Backgound Music for YouTube Shorts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-kindle-fire-tablets-and-e-readers-reviewed-find-your-perfect-amazon-device/"><u>Top Kindle Fire Tablets and E-Readers Reviewed - Find Your Perfect Amazon Device!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-strategies-for-seamlessly-transforming-topaz-files-into-epub-format/"><u>Top Strategies for Seamlessly Transforming Topaz Files Into ePUB Format</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/transcending-platform-boundaries-from-tiktok-to-fb/"><u>Transcending Platform Boundaries  From TikTok To FB</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-guide-to-ebook-drm-removal-how-to-unlock-pdf-epub-and-mobi-formats/"><u>Ultimate Guide to Ebook DRM Removal - How to Unlock PDF, EPUB, and MOBI Formats</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-guide-diving-into-the-latest-kindle-oasis-2-edition-from-2017/"><u>Ultimate Guide: Diving Into the Latest Kindle Oasis 2 Edition From 2017</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-tips-for-splitting-audiobooks-into-chapters-the-top-four-techniques/"><u>Ultimate Tips for Splitting Audiobooks Into Chapters: The Top Four Techniques!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleashing-the-power-of-azw-discover-key-benefits-and-applications/"><u>Unleashing the Power of Azw: Discover Key Benefits and Applications</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-your-ebooks-expert-tips-for-disabling-drm-on-list-des-epotres-content/"><u>Unlock Your eBooks: Expert Tips for Disabling DRM on List Des Épôtres Content</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unrestricted-reading-discovering-drm-free-ebooks-compatible-with-all-your-gadgets/"><u>Unrestricted Reading: Discovering DRM-Free Ebooks Compatible with All Your Gadgets</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/unveiling-the-secrets-of-effective-screencasts-for-2024/"><u>Unveiling the Secrets of Effective Screencasts for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-mavericks-video-production-from-start-to-finish/"><u>Updated 2024 Approved Mavericks Video Production From Start to Finish</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/viral-video-potential-analyzing-dslr-and-mirrorless-cameras/"><u>Viral Video Potential  Analyzing DSLR and Mirrorless Cameras</u></a></li>
+</ul></div>

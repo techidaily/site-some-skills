@@ -1,7 +1,7 @@
 ---
 title: The Complete Tutorial on Utilizing the Gpasswd Command for Secure Password Changes on Your Linux System
-date: 2024-08-26 11:29:20
-updated: 2024-08-29 12:35:15
+date: 2024-08-29T20:42:28.674Z
+updated: 2024-08-30T20:42:28.674Z
 tags:
   - desktop
 categories:
@@ -25,6 +25,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  There are a few ways to overcome this problem. You can avoid using group passwords when possible and use alternative mechanisms such as sudoers or access control lists. You can also limit access to the group passwords using privilege control so that only authorized members can do any operations.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ##  gpasswd Command Basic Syntax and Options
 
  The basic syntax of the gpasswd command allows it to take two arguments: an option or flag argument and the name of the group where you'd like to run the operation. Here's how it looks:
@@ -52,12 +55,23 @@ sudo groupadd demogroup
 
 ![The Linux terminal displaying the process of creating a new group on Linux using the groupadd command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-8.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
  You can use any other name than "demogroup". To confirm if the group creation was successful, display all groups using:
 
 cat /etc/group
 
 ![The Linux terminal showing a list of all groups in the system](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-7.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
  You can see the new group on the list. Now let's create a password for the group. To do that, use:
 
 sudo gpasswd demogroup
@@ -66,6 +80,9 @@ sudo gpasswd demogroup
 
 ![The Linux terminal displaying the process of setting a new password for a group using the gpasswd command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-7.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Now if I try to log into this group, the system will ask for a password. That's because I'm not a member of the group. To log into the group, run:
 
 newgrp demogroup
@@ -80,6 +97,9 @@ sudo gpasswd -r demogroup
 
 ![The Linux terminal showing the process of removing the password from a a group in Linux using the gpasswd command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/10-3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
  If you try to log into the group now as a member, you'll be able to do so without entering the password.
 
 ##  Adding a User to a Group
@@ -100,6 +120,9 @@ getent group demogroup
 
 ![The Linux terminal shows the current members of the group named demogroup](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/6-7.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
  As you can see, I've successfully added myself to the group using gpasswd. For adding multiple users, you'll need to issue separate commands for each, like this:
 
 sudo gpasswd -a user1 group
@@ -108,6 +131,10 @@ sudo gpasswd -a user1 group
                     sudo gpasswd -a user2 group
                     
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ##  Removing a User From a Group
 
  If you want to delete a user from a specific group, you have the -d option for that. Much like the command for adding, simply provide the username and then the group name to the command, like this:
@@ -146,6 +173,9 @@ getent group demogroup
 
 ![The Linux terminal displaying the current the members of a group in Linux after setting the members list using gpasswd](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/12-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Promoting a User as the Group Administrator
 
  You can grant someone administrative privileges of a group using the -A flag. Simply pass the name of the member and the group of which you want to make him the administrator. See the command below:
@@ -156,12 +186,18 @@ sudo gpasswd -A zunaid demogroup
 
 ![The Linux terminal showcasing how to make a user the administrator of a group using the gpasswd command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/8-4.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
  This doesn't give any output to the terminal. However, you can see the list of administrators of the group to confirm if the operation was successful. Do that with this command:
 
 sudo cat /etc/gshadow
 
 ![The Linux terminal displaying the the administrators of every group in Linux](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/9-3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  gpasswd Makes Group Management Easy
 
  Now you've learned how to use the gpasswd command for controlling group access on Linux. I've covered some of its most useful operations. If you want to learn more about the command, check out its [manpage](https://man7.org/linux/man-pages/man1/gpasswd.1.html) or run the **gpasswd -h** command on your terminal.
@@ -180,3 +216,55 @@ sudo cat /etc/gshadow
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-leading-lines-in-iphone-visual-storytelling/"><u>[New] The Art of Leading Lines in iPhone Visual Storytelling</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-blueprint-for-lifelong-memories-storing-vintage-photos-digitally/"><u>[New] The Blueprint for Lifelong Memories  Storing Vintage Photos Digitally</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-definitive-srt-file-generation-manual/"><u>[New] The Definitive SRT File Generation Manual</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-monetary-reality-of-being-a-podcaster/"><u>[New] The Monetary Reality of Being a Podcaster</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-race-for-excellence-av1-vs-vp9-codec/"><u>[New] The Race for Excellence  AV1 Vs. VP9 Codec</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-mastering-zoom-in-windows-10/"><u>[New] The Ultimate Guide to Mastering Zoom in Windows 10</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-online-spaces-for-youtube-traffic-increase/"><u>[New] Top Online Spaces for YouTube Traffic Increase</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-the-potential-of-onestream-live-streaming/"><u>[New] Unlocking the Potential of OneStream Live Streaming</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-vault-selection-for-top-corporate-use/"><u>[New] Vault Selection for Top Corporate Use</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-green-thumbs-united-top-10-farm-titles-for-friendly-playtime/"><u>[Updated] Green Thumbs United  Top 10 Farm Titles for Friendly Playtime</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-pixel-perfect-fun-unveiling-the-secrets-of-snapchats-filters/"><u>[Updated] In 2024, Pixel Perfect Fun  Unveiling the Secrets of Snapchat's Filters</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-secrets-to-a-flawless-ps3-gameplay-record/"><u>[Updated] In 2024, Secrets to a Flawless PS3 Gameplay Record</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-platform-showdown-podcast-vs-youtube/"><u>[Updated] The Ultimate Platform Showdown  Podcast vs YouTube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-5-cinematiccamera-tips-of-2024/"><u>[Updated] Top 5 Cinematic/Camera Tips Of 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transform-canon-photos-gratuitous-fundamentals-plus-optional-lut-expansion/"><u>[Updated] Transform Canon Photos  Gratuitous Fundamentals + Optional LUT Expansion</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unravel-the-potential-of-multiple-screen-usage-in-netflix/"><u>[Updated] Unravel The Potential of Multiple Screen Usage in Netflix</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-shared-sights-untold-histories-revealed/"><u>2024 Approved  Shared Sights  Untold Histories Revealed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-storage-solutions-the-20-finest-free-online-spaces/"><u>2024 Approved  Streamline Storage Solutions  The 20 Finest FREE Online Spaces</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-techniques-for-smooth-audio-amplification-in-lumafusion/"><u>2024 Approved  Techniques for Smooth Audio Amplification in Lumafusion</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-archivists-collection-essential-retro-visual-hacks-for-video-editors/"><u>2024 Approved  The Archivist's Collection  Essential Retro Visual Hacks for Video Editors</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-essential-guide-to-tapered-music-transitions-in-premiere-pro/"><u>2024 Approved  The Essential Guide to Tapered Music Transitions in Premiere Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-creativity-with-iphone-burst-photography/"><u>2024 Approved  Unleash Creativity with iPhone Burst Photography</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-skypes-full-capacity-with-effective-zoom-methods/"><u>2024 Approved  Unlocking Skype's Full Capacity with Effective Zoom Methods</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unpacking-the-sequencing-of-a-20mb-file/"><u>2024 Approved  Unpacking the Sequencing of a 20MB File</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-vanguard-20-top-anime-song-starters/"><u>2024 Approved  Vanguard 20 Top Anime Song Starters</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/advanced-strategies-for-removing-background-in-figma-for-2024/"><u>Advanced Strategies for Removing Background in Figma for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ais-pioneering-role-in-prompt-creation-and-its-career-sustainability/"><u>AI's Pioneering Role in Prompt Creation & Its Career Sustainability</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/facebooks-approach-for-automatic-youtube-video-playback-for-2024/"><u>Facebook's Approach for Automatic YouTube Video Playback for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-realme-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Realme</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-on-iphone-13-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password On iPhone 13</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-techniques-for-stronger-video-content-with-b-clips/"><u>In 2024, Techniques for Stronger Video Content with B-Clips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-impact-and-innovations-in-vegaspro-a-2019-review/"><u>In 2024, The Impact and Innovations in VegasPro  A 2019 Review</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-monetary-reality-of-being-a-podcaster/"><u>In 2024, The Monetary Reality of Being a Podcaster</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-quick-access-handbook-for-rapid-srt-to-text-change/"><u>In 2024, The Ultimate, Quick-Access Handbook for Rapid SRT to Text Change</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transitioning-artistry-in-inshot-videos/"><u>In 2024, Transitioning Artistry in Inshot Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-series-exceptional-5-slow-mo-tech/"><u>In 2024, Ultimate Series  Exceptional 5 Slow Mo Tech</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-full-photo-viewing-capabilities-win-11-edition/"><u>In 2024, Unlocking Full Photo Viewing Capabilities  Win 11 Edition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-vivas-multimedia-potential/"><u>In 2024, Unlocking Viva's Multimedia Potential</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unrestricted-media-playback-free-on-windows-and-macos/"><u>In 2024, Unrestricted Media Playback  FREE on Windows & MacOS</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcome-search-issues-on-windows-10-with-these-effective-tips-and-tricks/"><u>Overcome Search Issues on Windows 10 with These Effective Tips and Tricks</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/quick-tips-eradicate-online-ads-from-your-feed-for-2024/"><u>Quick Tips  Eradicate Online Ads From Your Feed for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/strategies-for-creating-a-positive-interview-environment-for-2024/"><u>Strategies for Creating a Positive Interview Environment for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tailor-made-tunes-for-chrome-companions-for-2024/"><u>Tailor-Made Tunes for Chrome Companions for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-future-of-advertising-in-the-metaverse-for-2024/"><u>The Future of Advertising in the Metaverse for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-converting-any-tiktok-sound-into-phone-alerts-for-2024/"><u>The Ultimate Guide  Converting Any TikTok Sound Into Phone Alerts for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/underwater-cinematography-avoiding-blur-and-grain-with-a-gopro-for-2024/"><u>Underwater Cinematography  Avoiding Blur and Grain with a GoPro for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unmatched-mobileweb-image-magnification-toolkit-for-2024/"><u>Unmatched Mobile/Web Image Magnification Toolkit for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Top 8 Essential Factors to Consider When Purchasing a Pre-Owned Windows Laptop
-date: 2024-08-26 15:32:50
-updated: 2024-08-29 11:58:43
+date: 2024-08-29T20:42:58.010Z
+updated: 2024-08-30T20:42:58.010Z
 tags:
   - deals
 categories:
@@ -42,10 +42,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Testing the laptop speaker in Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/1-testing-the-laptop-speaker-in-settings.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To [test the built-in microphone](https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-vivo-y200e-5g-drfone-by-drfone-virtual-android/), return to the sound settings, click on "Microphone Array," and then click on the "Start Test" button next to Test Your Microphone. Speak for a few seconds, then stop the test. If you see a decent volume percentage recorded, the microphone is working as it should.
 
 ![Testing the laptop microphone in Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/2-testing-the-laptop-microphone-in-settings.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Test the Built-In Camera
 
  If you intend to use the laptop for video communication, test its built-in camera. To do this, type **Camera** in the Windows Search bar and open the Camera app.
@@ -62,6 +68,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Generating the battery health report from Windows PowerShell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/08/br_2-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Navigate to this location and open the battery report. Then, go to the "Installed Batteries" section and compare the "Design Capacity" with the "Full Charge Capacity." The difference between these values indicates the extent to which the battery's capacity has diminished due to usage. If the full charge capacity is significantly low, you may have to replace the battery.
 
 ![Checking the laptop battery report.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/08/br_5.png) 
@@ -78,18 +87,27 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Also, watch out for stickers that may be covering up wear and tear underneath, as this is a common practice.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Test the Wired and Wireless Connectivity
 
  The worst scenario you could face is finding your [laptop unable to connect to the internet](https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual/) (via Wi-Fi or Ethernet cable), USB ports failing to detect external devices, or Bluetooth malfunctioning—all after completing the purchase. Because of that, confirming there are no wired or wireless connectivity issues is important.
 
  Start by connecting your laptop to Wi-Fi. Then, [test its Ethernet port](https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/) by plugging it directly into the router. If the internet connection works well, test the audio jacks with headphones. Similarly, check the USB ports by connecting a wired device. Finally, make sure Bluetooth is working by pairing a Bluetooth-powered device.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Check the Health of RAM and Storage Drive
 
  Finally, [check the health of the RAM](https://hardware-help.techidaily.com/step-by-step-installation-amd-gpio-pin-driver-for-hexagon-devices/) and storage drive to ensure they're not faulty. To test the RAM, you can use the Windows Memory Diagnostic tool, which detects and displays potential issues with it. To run the test, open Command Prompt as an administrator, type **mdsched.exe**, and press Enter. Then, click "Restart Now and Check for Problems."
 
 ![Running the memory diagnostic test from Windows Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/3-running-the-memory-diagnostic-test-from-windows-command-prompt.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Windows will restart and run the test. Once it finishes testing the RAM, it'll restart again and display the test results. If you don't see them, you can use the Windows Event Viewer to search for potential issues identified during the test. Open Event Viewer and go to Windows Logs > System. Click "Find," type **MemoryDiagnostic**, and click "Find Next."
 
  Check the laptop's storage drive to see if it is an SSD rather than an HDD. SSDs are preferable due to their speed and quiet operation. You should treat any laptop with a hard drive somewhat skeptically. Hard drives haven't been the norm in many years, and finding one indicates that the laptop is likely quite old. Whichever you find, [check the drive's health](https://data-wizards.techidaily.com/preserve-the-purity-of-your-productions/) to ensure it isn't dying.
@@ -112,3 +130,40 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-applications-of-virtual-reality/"><u>[New] Applications of Virtual Reality</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-dive-deeper-into-life-advanced-strategies-for-capturing-the-essence-of-your-sims-adventures-in-sims-4/"><u>[New] In 2024, Dive Deeper Into Life  Advanced Strategies for Capturing the Essence of Your Sim's Adventures in Sims 4</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-mastering-the-art-of-focused-cinematography-on-kinemaster/"><u>[New] Mastering the Art of Focused Cinematography on Kinemaster</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-optibackup-insider-opinions/"><u>[New] OptiBackup Insider Opinions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-definitive-iphone-hdr-technique/"><u>[New] The Definitive iPhone HDR Technique</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-seamless-blend-enhancing-your-ae-projects-with-luts/"><u>[New] The Seamless Blend  Enhancing Your AE Projects with LUTs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-attractive-unboxing-videos-on-ig/"><u>[New] The Ultimate Guide to Attractive Unboxing Videos on IG</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-list-of-ai-named-generators-for-podcasters/"><u>[New] The Ultimate List of AI Named Generators for Podcasters</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-thorough-examination-straightforward-dynamic-range-methods/"><u>[New] Thorough Examination  Straightforward Dynamic Range Methods</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-understanding-and-leveraging-influencers-on-snapchat/"><u>[New] Understanding and Leveraging Influencers on Snapchat</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-sound-capture-on-windows-10/"><u>[New] Unlocking Sound Capture on Windows 10</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-mastering-azures-transcription-service/"><u>[Updated] Mastering Azure's Transcription Service</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-techniques-for-seamless-blending-of-hdr-photographs-in-lightroom/"><u>[Updated] Techniques for Seamless Blending of HDR Photographs in Lightroom</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tutorial-windows-movie-maker-for-effective-animation-designs/"><u>[Updated] Tutorial  Windows Movie Maker for Effective Animation Designs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-windows-11s-hidden-know-how-for-media-importing/"><u>[Updated] Unveiling Windows 11'S Hidden Know-How for Media Importing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-free-tools-for-efficient-screen-recording-on-windows-os/"><u>2024 Approved  Free Tools for Efficient Screen Recording on Windows OS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-synchronized-screenshots-pc-or-cloud-perfection/"><u>2024 Approved  Synchronized Screenshots  PC or Cloud Perfection</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-comprehensive-checklist-for-perfecting-your-reddit-posts/"><u>2024 Approved  The Comprehensive Checklist for Perfecting Your Reddit Posts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/blur-free-iphone-images-discover-7-techniques-to-enhance-camera-clarity/"><u>Blur-Free iPhone Images: Discover 7 Techniques to Enhance Camera Clarity</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/boosting-obs-streams-direct-to-facebook-feed-for-2024/"><u>Boosting OBS Streams Direct to Facebook Feed for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/delving-into-the-galaxy-s8s-immersive-4k-display/"><u>Delving Into the Galaxy S8's Immersive 4K Display</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-xiaomi-redmi-k70-pro-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-strategic-pathway-to-podcast-popularity-with-effective-seo-techniques/"><u>In 2024, The Strategic Pathway to Podcast Popularity with Effective SEO Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-50plus-overlays-for-engaging-media-content/"><u>In 2024, Top 50+ Overlays for Engaging Media Content</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleash-potential-with-magix-video-pro-xs-power-tools/"><u>In 2024, Unleash Potential with Magix Video Pro X's Power Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/master-iphone-cams-with-these-hacks-for-2024/"><u>Master iPhone Cams with These Hacks for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-dual-boot-like-a-pro-linux-and-chrome-os-on-one-device-for-2024/"><u>New Dual-Boot Like a Pro Linux and Chrome OS on One Device for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/pinnacle-of-photography-exceptional-sky-hd-sites-catalog-for-2024/"><u>Pinnacle of Photography - Exceptional Sky HD Sites Catalog for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/sync-your-display-flicker-free-surface-pro-7/"><u>Sync Your Display: Flicker-Free Surface Pro 7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-for-enabling-missing-device-drivers-in-windows-11/"><u>Techniques for Enabling Missing Device Drivers in Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-freeframe-forum-a-collectors-paradise-for-budget-friendly-backgrounds-for-2024/"><u>The FreeFrame Forum  A Collector's Paradise for Budget-Friendly Backgrounds for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-6-online-background-cleansers-for-pristine-photo-edits-for-2024/"><u>Top 6 Online Background Cleansers for Pristine Photo Edits for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-advanced-capabilities-with-windows-powershell-policy-settings/"><u>Unlock Advanced Capabilities with Windows PowerShell Policy Settings</u></a></li>
+</ul></div>

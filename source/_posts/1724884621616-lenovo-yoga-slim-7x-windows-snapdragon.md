@@ -1,7 +1,7 @@
 ---
 title: "Lenovo Yoga Slim 지갑쇼드라그래픅 7X 리뷰: Windows에서 Snapdragon은 완전히 안타깝게 신속하지 않음"
-date: 2024-08-27 23:21:29
-updated: 2024-08-29 12:20:21
+date: 2024-08-29T20:40:45.009Z
+updated: 2024-08-30T20:40:45.009Z
 tags:
   - desktop
 categories:
@@ -105,6 +105,9 @@ The Lenovo Yoga Slim 7x is one of the first Copilot+ PC laptops, with all-day ba
 
 Expand 
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Design: The Ports Are Lacking
 
  Even though the Yoga Slim 7x might have exciting new hardware and software, the design is typical for an ultrabook PC. It packs a large 14.5-inch screen, front-firing speakers, and a large keyboard and trackpad into a package measuring 12.80 x 8.86 inches. It weighs slightly more than the current 13-inch MacBook Air, at just 2.82 pounds.
@@ -131,6 +134,9 @@ Jerome Thomas / How-To Geek
 
  Finally, even though this laptop is sold under the Yoga brand, this is _not_ a convertible laptop. The screen can be pushed back to nearly flat with the keyboard, but it cannot bend all the way around for tent mode or functioning as a tablet.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Display: A Fantastic OLED
 
  The Yoga Slim 7x has an _excellent_ screen. It’s a large 14.5-inch OLED panel, with a resolution of 2,944 x 1,840 (3K) and a 16:10 aspect ratio. The screen also has touch support, a 100,000:1 contrast ratio, a 90Hz refresh rate, and a 100% DCI-P3 100% sRGB color gamut. That all adds up to a display that looks great and has super-smooth animations, no matter if you’re playing games, watching movies, or just reading emails.
@@ -145,6 +151,9 @@ Jerome Thomas / How-To Geek
 
  The display also supports HDR content, either through VESA DisplayHDR True Black 600 or Dolby Vision. However, there are still not many applications and games on Windows that support HDR, including most streaming services.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Software: Hello, ARM Windows
 
  The Yoga Slim 7x has an ARM-based Snapdragon X Elite processor, which means it runs [Windows 11 for ARM](https://fox-http.techidaily.com/essential-list-best-microphones-for-4k-ultra-hd/) instead of the typical Windows 11 operating system for x86-based Intel and AMD processors. The ARM edition looks exactly like Windows 11 on every other PC, and it has all the same included applications, but software and driver compatibility are a bit different.
@@ -179,6 +188,10 @@ Jerome Thomas / How-To Geek
 
  Even though the actual hardware in the Yoga Slim 7x is on par or exceeds most of the competition, your real-world performance will vary depending on how much of your software needs to be emulated.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ##  Battery Life: All Day on a Charge
 
  Windows laptops have historically struggled to maintain great battery life, thanks to the [broken Modern Standby in many newer laptops](https://www.spacebar.news/windows-pc-sleep-broken/), the inefficient architecture of x86-based processors, and other factors. Improved battery life was one of the promised advantages of the Snapdragon chip in the Yoga Slim 7x, and thankfully, that turns out to be true.
@@ -193,10 +206,16 @@ Jerome Thomas / How-To Geek
 
  It’s also worth keeping in mind that the [13-inch M2 MacBook Air](https://www.apple.com/macbook-air/) starts at $1,099\. The hardware is a poor match on paper, with only 8GB of unified memory and 256GB storage in the base configuration, but that hardware generally goes further on macOS than Windows. Apple’s modern M2 and M3 chips have similar power efficiency and battery life as the Snapdragon chip in the Yoga 7x, but software compatibility is far less of a gamble—as long as it’s available on macOS, anyway.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ##  Should You Buy the Lenovo Yoga Slim 7x?
 
 ![The back of the Lenovo Yoga Slim 7x.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-back-of-the-lenovo-yoga-slim-7x_53814663702_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The [Lenovo Yoga Slim 7x](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-yoga-slim-7x-copilot-pc-14-5-3k-oled-touch-screen-laptop-snapdragon-x-elite-16gb-memory-512gb-ssd-cosmic-blue%2F6582538.p%3FskuId%3D6582538) is a great laptop at a glance, with a thin and light design, great performance, and all-day battery life. The OLED screen is especially great, but without a fully convertible 2-in-1 design, there’s not much point to this laptop having a touchscreen.
@@ -207,6 +226,9 @@ Jerome Thomas / How-To Geek
 
 ![Lenovo Yoga Slim 7x laptop open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/laptop.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 #####  Lenovo Yoga Slim 7x
 
 5/ 10 
@@ -229,3 +251,42 @@ The Lenovo Yoga Slim 7x is one of the first Copilot+ PC laptops, with all-day ba
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-comparative-study-youtube-app-on-smartphone-platforms/"><u>[New] 2024 Approved  Comparative Study  YouTube App on Smartphone Platforms</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-freeze-entire-browser-sheet/"><u>[New] 2024 Approved  Freeze Entire Browser Sheet</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-immediate-pause-screen-capture-steps/"><u>[New] 2024 Approved  Immediate Pause Screen Capture Steps</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-exploring-alternate-functions-with-webcams/"><u>[New] In 2024, Exploring Alternate Functions with Webcams</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-internet-based-image-trimming/"><u>[New] The Ultimate Guide to Internet-Based Image Trimming</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-media-player-replacements-for-vlc/"><u>[New] The Ultimate Guide to Media Player Replacements for VLC</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-editing-efforts-10-text-innovations/"><u>[New] Top Editing Efforts  10 Text Innovations</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/op-picks-for-professional-video-opening-tools/"><u>[New] Top Picks for Professional Video Opening Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unleash-creative-potential-with-green-screen-tips/"><u>[New] Unleash Creative Potential with Green Screen Tips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-apples-podcast-library-a-download-guide/"><u>[New] Unlocking Apple's Podcast Library  A Download Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-5-breakthrough-ways-to-preserve-precise-moments-in-vr-games-for-2024/"><u>[Updated] 5 Breakthrough Ways to Preserve Precise Moments in VR Games for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-1-live-music-broadcasts/"><u>[Updated] Top 1 Live Music Broadcasts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unraveling-photoshops-magic-with-image-curving/"><u>[Updated] Unraveling Photoshop’s Magic with Image Curving</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-stream-video-freely-on-any-os-no-cost-video-player/"><u>2024 Approved  Stream Video Freely on Any OS  No-Cost VIDEO Player</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-techniques-for-increasing-youtube-video-size/"><u>2024 Approved  Techniques for Increasing YouTube Video Size</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-eternal-methodology-for-instantaneous-tiktok-linking/"><u>2024 Approved  The Eternal Methodology for Instantaneous TikTok Linking</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-path-to-perfect-podcast-scripts-writing-techniques-and-free-example-guides/"><u>2024 Approved  The Path to Perfect Podcast Scripts  Writing Techniques & Free Example Guides</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tips-for-kickstarting-a-social-philanthropy-blitz/"><u>2024 Approved  Tips for Kickstarting a Social Philanthropy Blitz</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-top-iphoneandroid-photo-editors-for-the-year-ahead/"><u>2024 Approved  Top iPhone/Android Photo Editors for the Year Ahead</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/affordable-umbrella-studiokit-xlz103-review/"><u>Affordable Umbrella StudioKit XLZ103 Review</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/from-amateur-to-pro-instagram-video-tutorials/"><u>From Amateur to Pro  Instagram Video Tutorials</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-vivo-s17t-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Vivo S17t Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-apple-iphone-15-pro-max-is-off-drfone-by-drfone-virtual-ios/"><u>In 2024, Can Life360 Track You When Your Apple iPhone 15 Pro Max is off? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-fast-track-to-zooming-proficiency/"><u>In 2024, The Fast Track to Zooming Proficiency</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-blueprint-for-seamless-eco-screen-integration/"><u>In 2024, The Ultimate Blueprint for Seamless Eco-Screen Integration</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-key-drone-upgrades-and-supplies/"><u>In 2024, The Ultimate Guide  Key Drone Upgrades & Supplies</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-6-eco-friendly-affordable-4k-home-theaters/"><u>In 2024, Top 6 Eco-Friendly, Affordable 4K Home Theaters</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transforming-brand-stories-with-client-produced-testimonials/"><u>In 2024, Transforming Brand Stories with Client-Produced Testimonials</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transitioning-visuals-from-android-to-apple-gear/"><u>In 2024, Transitioning Visuals  From Android to Apple Gear</u></a></li>
+<li><a href="https://some-skills.techidaily.com/streamlining-your-subtitles-top-10-web-based-editors-reviewed-for-2024/"><u>Streamlining Your Subtitles  Top 10 Web-Based Editors Reviewed for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/subdued-soundscape-stitches-for-garageband-workflows-for-2024/"><u>Subdued Soundscape Stitches for Garageband Workflows for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-coolest-filmora-elements-for-enthusiastic-creators-for-2024/"><u>The Coolest Filmora Elements for Enthusiastic Creators for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-7-best-waterproof-video-recorders-for-2024/"><u>The Ultimate Guide  7 Best Waterproof Video Recorders for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-adding-effects-in-tiktok-videos-for-2024/"><u>The Ultimate Guide to Adding Effects in TikTok Videos for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-steps-for-turning-pin-videos-into-music-files-for-2024/"><u>Ultimate Steps for Turning Pin Videos Into Music Files for 2024</u></a></li>
+</ul></div>

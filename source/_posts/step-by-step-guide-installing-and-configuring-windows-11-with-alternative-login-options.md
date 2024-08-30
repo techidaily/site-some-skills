@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Installing and Configuring Windows 11 with Alternative Login Options"
-date: 2024-08-27 11:50:45
-updated: 2024-08-29 10:56:14
+date: 2024-08-29T20:42:25.673Z
+updated: 2024-08-30T20:42:25.673Z
 tags:
   - desktop
 categories:
@@ -38,12 +38,18 @@ thumbnail: https://thmb.techidaily.com/f78d1d150df9704e5a6635f2d8f1d9b65ffaf1875
 
  Mac users who are [setting up Windows 11 inside of Parallels Desktop](https://some-knowledge.techidaily.com/in-2024-fast-forward-features-unveiled-the-editors-guidebook/) can skip the Microsoft account linking process. The virtualization software allows you to set up Windows "hands-free" and leaves you with a local account.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  How to Bypass Windows 11 Microsoft Account Requirement Using Command Prompt
 
  To bypass the Microsoft Account requirement, proceed with the first few steps of the installation process normally until you reach this screen:
 
 ![The Windows 11 installer prompting you to log in.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/microsoft-login-screen.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Once you're there, press Shift + F10 to open up a Command Prompt Window and type:
 
 oobe\bypassnro
@@ -58,6 +64,9 @@ Close
 
  Click "Continue with limited setup" on the next page if it appears, and then you'll be able to create a local account with a password and three security questions.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Install Windows 11 Without a Microsoft Account Using Rufus
 
 [Rufus](https://rufus.ie/en/) is a tool that can create bootable media from an ISO. It does everything the Windows Media Creation tool does, except it has additional options and works with [almost any operating system out there](https://instagram-video-files.techidaily.com/updated-elevate-your-instagram-game-with-pro-edit-techniques/).
@@ -114,6 +123,9 @@ Close
 
  The account will now be added to your computer. Click on Start followed by your username then select "Sign out" to log in to the account.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Convert an Existing Microsoft Account to a Local Account
 
  The easy workaround using Rufus to install Windows 11 without a Microsoft account only appeared a few months prior to the release of [Windows 11's 2022 Update](https://tech-renaissance.techidaily.com/watch-your-favorite-shows-on-hulu-with-this-simple-setup-for-lg-tvs/), so most people currently using Windows 11 will have Microsoft logins.
@@ -132,6 +144,9 @@ Close
 
  Additionally, if you attempt to encrypt your drive on a local account, you'll be told you need to sign in to a Microsoft account to finish the process. That is not accurate — your drive will be encrypted even if you do not sign in, so be sure to make a copy of your recovery key.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ##  How to Remove a Microsoft Account From Windows 11
 
  If you've set up your computer with a Microsoft account, you must first add a local account to remove the account associated with a Microsoft account. You can do this by following the steps under "How to Create a Local Account on Windows 11" above.
@@ -142,6 +157,9 @@ Close
 
 ![Changing the account type from standard to administrator.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/change-accont-type.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
  You can now log in to the other (local) account that you have created. Head to Settings > Accounts > Other users, select the (Microsoft) account you want to remove, and click "Remove" next to the "Account and data" field.
 
  This will delete your user account and data. This technique works best immediately following a Windows 11 install when you haven't added data or customized your account.
@@ -166,3 +184,60 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-from-zero-to-viral-video-top-10-user-friendly-youtube-concepts/"><u>[New] 2024 Approved  From Zero to Viral Video  Top 10 User-Friendly YouTube Concepts</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-asgardian-alliance-final-stand/"><u>[New] In 2024, Asgardian Alliance  Final Stand</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-discover-the-top-8-android-platforms-for-large-gatherings/"><u>[New] In 2024, Discover the Top 8 Android Platforms for Large Gatherings</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/phones-audio-upgrade-discover-best-software-for-youtube-to-mp3/"><u>[New] IPhone's Audio Upgrade  Discover Best Software for YouTube-to-MP3</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ractical-steps-for-disabling-youtube-channels-on-devices-for-2024/"><u>[New] Practical Steps for Disabling YouTube Channels on Devices for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-to-show-or-not-to-display-off-facebook-activities/"><u>[New] To Show or Not to Display Off-Facebook Activities</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transform-movie-colors-with-cg-centrals-luts-guide/"><u>[New] Transform Movie Colors with CG Central's Luts Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unleash-your-creativity-a-guide-to-crafting-custom-audio-on-android-phones/"><u>[New] Unleash Your Creativity  A Guide to Crafting Custom Audio on Android Phones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-zooms-potential-learn-how-to-use-video-filters/"><u>[New] Unlocking Zoom's Potential  Learn How to Use Video Filters</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-essential-mac-6-video-grabber-apps/"><u>[Updated] In 2024, Essential Mac 6 Video Grabber Apps</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-spice-up-viewers-innovative-cooking-channel-naming-tips/"><u>[Updated] In 2024, Spice Up Viewers  Innovative Cooking Channel Naming Tips</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-pro-level-strategies-for-saving-and-recording-movs-on-windows-pcs-for-2024/"><u>[Updated] Pro-Level Strategies for Saving and Recording MOVs on Windows PCs for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-slomo-video-app-critique-a-look-at-2024/"><u>[Updated] The SloMo Video App Critique - A Look at 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-hd-cameras-for-elk-and-mule-deer/"><u>[Updated] Top HD Cameras for Elk and Mule Deer</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-effortless-giggle-editor/"><u>[Updated] Ultimate Effortless Giggle Editor</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-strategies-for-streaming-fb-live-on-zoom-platform/"><u>2024 Approved  Strategies for Streaming FB Live on Zoom Platform</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-360-degree-video-9-must-have-tips-for-filmmakers/"><u>2024 Approved  The Art of 360-Degree Video  9 Must-Have Tips for Filmmakers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-5-audio-capture-methods-in-windows-11-operating-system/"><u>2024 Approved  Top 5 Audio Capture Methods in Windows 11 Operating System</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-8-virtual-spaces-for-3d-graffiti-fonts/"><u>2024 Approved  Top 8 Virtual Spaces for 3D Graffiti Fonts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-guide-newest-lg-bp550-specs/"><u>2024 Approved  Ultimate Guide  Newest LG BP550 Specs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-unison-unit-for-voice-broadcasting/"><u>2024 Approved  Ultimate Unison Unit for Voice Broadcasting</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-fresh-lg-bp550-update/"><u>2024 Approved  Unveiling the Fresh LG BP550 Update</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1722920213289-2024s-most-accurate-activity-trackers-reviewed-and-ranked/"><u>2024'S Most Accurate Activity Trackers Reviewed and Ranked!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/advanced-lighting-strategies-for-superior-iphone-photos-for-2024/"><u>Advanced Lighting Strategies for Superior iPhone Photos for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/comprehensive-coverage-coalition-picking-an-mcn-for-2024/"><u>Comprehensive Coverage Coalition  Picking an MCN for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-hp-elitebook-x360-1030-g2-driver-updates-free/"><u>Get the Latest HP EliteBook X360 1030 G2 Driver Updates Free</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/how-to-start-participating-in-google-webinars/"><u>How To Start Participating in Google Webinars</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-poco-x5-pro-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Poco X5 Pro to Roku | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-discover-vida-transform-your-video-creations/"><u>In 2024, Discover Vida  Transform Your Video Creations</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-eye-catching-narrative-starter-gadget/"><u>In 2024, Eye-Catching Narrative Starter Gadget</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-into-the-digital-frontier-vr-today-and-tomorrow/"><u>In 2024, Into the Digital Frontier  VR Today & Tomorrow</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-your-creative-process-with-windows-10-video-tools/"><u>In 2024, Streamlining Your Creative Process with Windows 10 Video Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-textual-tricks-for-tickling-funny-bones/"><u>In 2024, Textual Tricks for Tickling Funny Bones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-iphone-photography-top-10-visual-arrangement-tips/"><u>In 2024, The Art of iPhone Photography  Top 10 Visual Arrangement Tips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-fresh-film-enthusiasts-primer-on-visual-quality/"><u>In 2024, The Fresh Film Enthusiast’s Primer on Visual Quality</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-roadmap-to-instagram-star-status-9-must-do-tactics/"><u>In 2024, The Roadmap to Instagram Star Status  9 Must-Do Tactics</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-5-pro-drone-selections-for-professionals/"><u>In 2024, Top 5 Pro Drone Selections for Professionals</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-undetectable-volume-variations-in-garageband-artistry/"><u>In 2024, Undetectable Volume Variations in Garageband Artistry</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-the-full-potential-of-canvas-image-tools/"><u>In 2024, Unlocking the Full Potential of Canva's Image Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-hidden-facebook-data-and-protecting-yourself-online/"><u>In 2024, Unveiling Hidden Facebook Data & Protecting Yourself Online</u></a></li>
+<li><a href="https://win-dash.techidaily.com/lenovo-monitor-driver-downloads-and-firmware-upgrades-step-by-step/"><u>Lenovo Monitor Driver Downloads & Firmware Upgrades: Step-by-Step</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/mastering-the-art-of-obtaining-facebooks-prestigious-blue-badge-for-2024/"><u>Mastering the Art of Obtaining Facebook’s Prestigious Blue Badge for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/strategies-and-techniques-in-documentary-scriptwriting-for-2024/"><u>Strategies and Techniques in Documentary Scriptwriting for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-compre-writters-manual-for-great-documentary-storytelling-for-2024/"><u>The Compre Writter's Manual for Great Documentary Storytelling for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-platform-pair-comparison-twitch-and-youtube-for-2024/"><u>The Ultimate Platform Pair Comparison  Twitch and YouTube for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-chatgpt-journey-top-9-key-plugin-integrations/"><u>Transform Your ChatGPT Journey: Top 9 Key Plugin Integrations</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transforming-video-aesthetics-on-tiktok-dual-approach-for-2024/"><u>Transforming Video Aesthetics on TikTok (Dual Approach) for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-trailer-highlight-hodgepodge-for-2024/"><u>Ultimate Trailer Highlight Hodgepodge for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-removing-windows-bt-directories-effectively/"><u>Understanding and Removing Windows ~BT Directories Effectively</u></a></li>
+<li><a href="https://games-able.techidaily.com/unplug-and-play-the-allure-of-netflixs-gaming/"><u>Unplug and Play: The Allure of Netflix’s Gaming</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-youtubes-hidden-gems-the-comment-space-for-2024/"><u>Unveiling YouTube's Hidden Gems  The Comment Space for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-free-mov-video-editing-software-top-picks/"><u>Updated Best Free MOV Video Editing Software Top Picks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/your-ultimate-guide-to-finding-tiktok-wallpapers-for-2024/"><u>Your Ultimate Guide to Finding TikTok Wallpapers for 2024</u></a></li>
+</ul></div>

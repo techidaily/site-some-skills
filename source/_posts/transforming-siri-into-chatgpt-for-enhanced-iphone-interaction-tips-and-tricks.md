@@ -1,7 +1,7 @@
 ---
 title: "Transforming Siri Into ChatGPT for Enhanced iPhone Interaction: Tips and Tricks"
-date: 2024-08-28 21:32:47
-updated: 2024-08-29 11:39:51
+date: 2024-08-29T20:46:34.398Z
+updated: 2024-08-30T20:46:34.398Z
 tags:
   - cutting-edge
 categories:
@@ -40,6 +40,9 @@ thumbnail: https://thmb.techidaily.com/19760dde0975a0de0ce2cfe0db96677605f044bc9
 
 ![Generate OpenAI API key](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/openAI_api_key.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can complete this next step on an iPhone, iPad, or Mac, and the Shortcut will sync between platforms. Head to the [ChatGPT Siri GitHub page](https://github.com/Yue-Yang/ChatGPT-Siri) and grab the latest version of the shortcut. You'll find it listed on the main page via a link for the "English Version." At the time of writing, the latest version is [ChatGPT Siri 1.2.4](https://www.icloud.com/shortcuts/5590188f4e2541fba4da79b425be6db2).
 
  When you tap or click on the shortcut, you'll see a "Set Up Shortcut" button. Tap or click it, and you'll be asked to provide your API key. Paste the API key into the text field provided and move on to the next step.
@@ -50,6 +53,9 @@ thumbnail: https://thmb.techidaily.com/19760dde0975a0de0ce2cfe0db96677605f044bc9
 
 ![Configure ChatGPT's prompt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/shortcut_prompt.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
  Lastly, select the model you want to use. You can choose between GPT-3.5 Turbo and GPT-4\. The former is cheaper in terms of API calls and faster, while GPT-4 is more advanced, requires more processing, and is slower.
 
 ![Select GPT model to use with your shortcut](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/select_model.jpg) 
@@ -58,6 +64,9 @@ thumbnail: https://thmb.techidaily.com/19760dde0975a0de0ce2cfe0db96677605f044bc9
 
 ![ChatGPT 1.2.4 shortcut within Apple's Shortcuts app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/chatgpt_shortcut_within_shortcuts.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
  It's a good idea to run the Shortcut manually on your iPhone before doing so via Siri. Hit the "ChatGPT 1.2.4" shortcut you just made and ask ChatGPT a random question (try "tell me a story"), then you'll get a prompt asking you to grant access to OpenAI's website, which you should accept.
 
 ![Grant your shortcut access to OpenAI's server](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/allow_access_to_web.png) 
@@ -66,6 +75,9 @@ thumbnail: https://thmb.techidaily.com/19760dde0975a0de0ce2cfe0db96677605f044bc9
 
 Related: [How to Add ChatGPT to Your Apple Watch](https://fox-cloud.techidaily.com/new-step-by-step-process-for-gradual-audio-fading-in-premiere/) 
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Trigger ChatGPT Using Siri
 
  You can trigger ChatGPT by mentioning the shortcut by name to Siri. So if you have Siri on always-listening mode, you can say "Hey Siri, ChatGPT 1.2.4" (or whatever the shortcut you created is called). If all goes well, you'll see the response "I am here, always at your service!"
@@ -76,12 +88,18 @@ Related: [How to Add ChatGPT to Your Apple Watch](https://fox-cloud.techidaily.c
 
 ![This happens when ChatGPT has timed out](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/chatgpt_timeout.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
  For best results, consider naming your ChatGPT shortcut something else so that Siri better understands you. You can do this by launching Shortcuts on your iPhone, tapping and holding the Shortcut, and selecting "Rename" from the available options.
 
 ![Rename your ChatGPT shortcut in the Shortcuts](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/rename_chatgpt_shortcut.jpg) 
 
  Now Siri will run your ChatGPT shortcut using your new name. So if you rename the shortcut "GPT" you can say "Hey, Siri GPT" to start your chat.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Use the ChatGPT Shortcut for Text Chats Too
 
  The ChatGPT shortcut will quickly move on to the next prompt once you have received a reply, so it works best for short queries. Remember you can always ask the chatbot to "repeat your last answer" to see the response in full. Alternatively, running the shortcut from within the Shortcuts app lets you take the conversation at your own pace.
@@ -96,16 +114,25 @@ Related: [How to Add ChatGPT to Your Apple Watch](https://fox-cloud.techidaily.c
 
 ![View OpenAI usage](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/openAI_usage.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
  You can see your current usage on the [OpenAI Usage page](https://platform.openai.com/account/usage). Each ChatGPT response amounts to a fraction of a cent, with a full breakdown available on the [OpenAI Pricing page](https://openai.com/pricing).
 
  Add your card details and set usage limits on the [OpenAI Billing page](https://platform.openai.com/account/billing/overview) if you want to continue using OpenAI's APIs.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Use ChatGPT in a Browser for Free
 
  If you've run out of OpenAI credit and don't fancy setting up a paid account to continue using ChatGPT via Siri, use the good old [ChatGPT website](https://chat.openai.com/chat) instead.
 
 ![ChatGPT browser verification](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/02/chatgpt_checking_browser.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
  You can [use the web-based version of ChatGPT for free](https://extra-resources.techidaily.com/new-capture-clarity-editing-insights-for-professional-results/) from a mobile device like your iPhone or a desktop web browser on a Mac or PC. It's subject to [limits on usage during busy periods](https://win-dash.techidaily.com/latest-update-get-your-logitech-g933-headset-software-here/) unless you're subscribed to ChatGPT Plus, and you'll need to log in and verify you're human to use it so it's not seamless like Siri integration.
 
 ##  Use Bing Chat (GPT-4) With the Bing App
@@ -126,6 +153,9 @@ Related: [Why ChatGPT Is Not a Replacement for Siri and Google Assistant](https:
 
  ChatGPT and other AI generative systems [aren't "thinking" or being creative in the way that human beings are](https://youtube-blog.techidaily.com/te-your-channel-vision-selecting-ideal-content-strategies/), rather they're predicting patterns based on the underlying language model.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ##  More ChatGPT Alternatives
 
 [Google Bard is another search-engine-driven AI chatbot](https://video-screen-grab.techidaily.com/new-master-the-art-of-gameye-and-webcam-recordings/) you might want to try if Bing isn't cutting it. OpenAI Playground, GitHub CoPilot, and Jasper are among some of the [other ChatGPT alternatives you might want to try](https://screen-mirroring-recording.techidaily.com/in-2024-3-must-know-methods-to-record-on-your-ipad/).
@@ -146,3 +176,54 @@ Related: [Why ChatGPT Is Not a Replacement for Siri and Google Assistant](https:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-tapping-into-traditional-hymns-downloads-and-editing-guide/"><u>[New] Tapping Into Traditional Hymns  Downloads & Editing Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-comedic-journey-an-evaluation-of-goofy-adventures/"><u>[New] The Comedic Journey  An Evaluation of 'Goofy Adventures'</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-metaverse-journey-begins-exploring-6-engrossing-instances/"><u>[New] The Metaverse Journey Begins  Exploring 6 Engrossing Instances</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-for-effective-periscope-use/"><u>[New] The Ultimate Guide for Effective Periscope Use</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-marketing-playbook-for-digital-beginners-on-reddit/"><u>[New] The Ultimate Marketing Playbook for Digital Beginners on Reddit</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-verdict-on-video-clips-a-deep-dive-into-inshots-performance/"><u>[New] The Verdict on Video Clips  A Deep Dive Into InShot's Performance</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlock-the-power-of-design-in-audio-branding/"><u>[New] Unlock the Power of Design in Audio Branding</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-ultra-details-in-minecraft-games/"><u>[New] Unveiling Ultra Details in Minecraft Games</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-becoming-a-pro-with-obs-gaming-recordings/"><u>[Updated] 2024 Approved  Becoming a Pro with OBS Gaming Recordings</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-guiding-principles-for-hiring-high-caliber-film-makers/"><u>[Updated] 2024 Approved  Guiding Principles for Hiring High-Caliber Film Makers</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-dissecting-your-profit-share-in-youtube-short-creation/"><u>[Updated] Dissecting Your Profit Share in YouTube Short Creation</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-skyrocket-your-youtube-dollars-with-short-video-monetization/"><u>[Updated] Skyrocket Your YouTube Dollars with Short Video Monetization</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-subtitle-making-from-compressed-file-extraction/"><u>[Updated] Subtitle Making From Compressed File Extraction</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-swiftly-restoring-eliminated-reddit-content/"><u>[Updated] Swiftly Restoring Eliminated Reddit Content</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-timing-techniques-enhancing-narratives-with-on-screen-labels/"><u>[Updated] Timing Techniques  Enhancing Narratives With On-Screen Labels</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transforming-digital-art-with-free-versatile-lut-tools/"><u>[Updated] Transforming Digital Art with Free, Versatile LUT Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleashing-photography-potential-with-lightroom-hdrs/"><u>[Updated] Unleashing Photography Potential with Lightroom HDRs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-colors-top-11-grading-and-correction-techniques/"><u>[Updated] Unveiling Colors  Top 11 Grading & Correction Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-magic-of-ar-mastering-lut-applications/"><u>[Updated] Unveiling the Magic of AR  Mastering LUT Applications</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-making-a-statement-standout-content-via-fb-slideshows/"><u>2024 Approved  Making a Statement  Standout Content via FB Slideshows</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-switching-from-snippet-to-live-play-in-yt/"><u>2024 Approved  Switching From Snippet to Live Play in YT</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-essential-playbook-turning-your-phone-into-a-vr-setup/"><u>2024 Approved  The Essential Playbook  Turning Your Phone Into a VR Setup</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-a-detailed-walkthrough-of-internet-radio-logging/"><u>2024 Approved  The Ultimate Guide  A Detailed Walkthrough of Internet Radio Logging</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-8-metaverse-vr-experiences-and-headsets/"><u>2024 Approved  Top 8 Metaverse VR Experiences & Headsets</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-ultimate-guide-top-10-high-quality-no-cost-recording-tools/"><u>2024 Approved  Ultimate Guide  Top 10 High-Quality, No-Cost Recording Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-understanding-your-srt-equipment-like-a-pro/"><u>2024 Approved  Understanding Your SRT Equipment Like a Pro</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/all-about-firefoxs-split-screen-feature-for-2024/"><u>All About Firefox's Split Screen Feature for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-samsung-galaxy-s21-fe-5g-2023-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Samsung Galaxy S21 FE 5G (2023).</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-fixes-for-when-you-encounter-an-ntldr-is-missing-message/"><u>Effective Fixes for When You Encounter an 'NTLDR Is Missing' Message</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/exploring-the-best-free-and-paid-videomosaic-apps-for-android-enthusiasts-for-2024/"><u>Exploring the Best Free & Paid Videomosaic Apps for Android Enthusiasts for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-resolve-video-scheduler-internal-error-issues-on-your-pc-with-windows-10/"><u>How to Resolve Video Scheduler Internal Error Issues on Your PC with Windows 10</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-oppo-reno-8t-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Oppo Reno 8T 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-rediscovering-the-past-with-your-camera-roll-on-snapchat/"><u>In 2024, Rediscovering the Past with Your Camera Roll on Snapchat</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-subtlety-matters-fading-out-sounds-in-logic-pro/"><u>In 2024, Subtlety Matters  Fading Out Sounds in Logic Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-digital-sound-artists-guide-discovering-no-cost-audio-effect-solutions/"><u>In 2024, The Digital Sound Artist's Guide  Discovering No-Cost Audio Effect Solutions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-thwarting-vr-discomfort-tips-for-a-smooth-experience/"><u>In 2024, Thwarting VR Discomfort  Tips for a Smooth Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-6-video-tactics-for-captivating-audiences/"><u>In 2024, Top 6 Video Tactics for Captivating Audiences</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-videographers-choice-high-quality-camera-lenses-reviewed/"><u>In 2024, Videographers’ Choice  High-Quality Camera Lenses Reviewed</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/silencing-ringtones-mastering-the-art-of-call-muting-on-android-devices/"><u>Silencing Ringtones: Mastering the Art of Call Muting on Android Devices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/stream-to-stardom-mastering-live-with-xsplit-or-obs-for-2024/"><u>Stream to Stardom  Mastering Live with XSplit or OBS for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/swift-and-free-eradicate-red-eye-in-iphone-photography-tips-for-2024/"><u>Swift and FREE  Eradicate Red-Eye in iPhone Photography Tips for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-blueprint-to-surge-in-youtubers-popularity/"><u>The Blueprint to Surge in Youtubers' Popularity</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-15-video-reviews-ultimate-unboxing-channel-guide-for-2024/"><u>Top 15 Video Reviews  Ultimate Unboxing Channel Guide for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-ranked-pixel-perfection-appweb-software-for-2024/"><u>Top-Ranked Pixel Perfection App/Web Software for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/two-titans-clash-in-the-vr-arena/"><u>Two Titans Clash in the VR Arena</u></a></li>
+<li><a href="https://some-skills.techidaily.com/understanding-the-art-of-fiction-creation-for-2024/"><u>Understanding the Art of Fiction Creation for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-samsungs-image-editing-software-insights-for-2024/"><u>Unveiling Samsung's Image Editing Software Insights for 2024</u></a></li>
+</ul></div>

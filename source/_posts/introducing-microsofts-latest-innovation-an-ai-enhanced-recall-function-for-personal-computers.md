@@ -1,7 +1,7 @@
 ---
 title: "Introducing Microsoft's Latest Innovation: An AI-Enhanced Recall Function for Personal Computers"
-date: 2024-08-27 19:43:25
-updated: 2024-08-29 11:51:25
+date: 2024-08-29T20:42:39.737Z
+updated: 2024-08-30T20:42:39.737Z
 tags:
   - deals
 categories:
@@ -27,6 +27,9 @@ thumbnail: https://thmb.techidaily.com/5e8073ee6fa80b00481e787b8ffd70b1f1a083692
 
  It isn’t limited to basic information about files, though. Recall is built around a large number of more specialized AI features that will allow it to interact with everything from text to images to video.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  What Does Recall Require?
 
  Recall is one of several new AI features that are going to require a Neural Processing Unit (NPU), which is a special kind of processor that has been optimized for machine learning and artificial intelligence operations. Microsoft showcased several [Copilot Plus laptops](https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-motorola-moto-g24-drfone-by-drfone-virtual-android/) designed around Arm processors with dedicated NPUs that are ideal for AI applications like Recall.
@@ -37,6 +40,9 @@ thumbnail: https://thmb.techidaily.com/5e8073ee6fa80b00481e787b8ffd70b1f1a083692
 
  TOPs are a little different from the TFLOP figures you usually see thrown around when talking about super computers, GPUs, or CPUs. TOPs are measured in half-precision, FP16, or BFloat16, or BF16 calculations. TFlops usually (but not always) refer to “full precision” operations, which use 32-bit bit floating point numbers.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Is Microsoft Recall Secure?
 
  Microsoft didn’t go into detail about how they plan to secure Recall against malicious actors beyond using "device encryption," but it is a pressing question. They've stated that Recall will store its data locally on your PC, which is a bonus to the privacy concerns. However, Recall’s central promise—the ability to use natural language to recall anything you’ve done on your PC—is inherently an enormous security vulnerability.
@@ -63,3 +69,39 @@ thumbnail: https://thmb.techidaily.com/5e8073ee6fa80b00481e787b8ffd70b1f1a083692
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-syncing-scenes-merging-pc-and-cloud-images/"><u>[New] Syncing Scenes  Merging PC & Cloud Images</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-most-extensive-selection-of-free-illustrator-portals/"><u>[New] The Most Extensive Selection of Free Illustrator Portals</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-checklist-for-using-firefoxs-popup-window/"><u>[New] The Ultimate Checklist for Using Firefox's Popup Window</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-chromes-picture-in-picture-feature/"><u>[New] The Ultimate Guide to Chrome's Picture In Picture Feature</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-360-live-streaming-cameras-for-youtube-and-facebook-you-should-know/"><u>[New] Top 360 Live Streaming Cameras for Youtube and Facebook You Should Know</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-screenplay-crafting-site/"><u>[New] Ultimate Screenplay Crafting Site</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-secrets-of-video-filter-application-techniques/"><u>[New] Unveiling the Secrets of Video Filter Application Techniques</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-quick-guide-downloading-tiktok-for-mac-users/"><u>[Updated] Quick Guide  Downloading TikTok for Mac Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-power-of-free-enhancing-your-obs-studio-projects-using-luts/"><u>[Updated] The Power of Free  Enhancing Your OBS Studio Projects Using LUTs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-acceleration-manual-boosting-fb-video-speed-with-top-tools/"><u>[Updated] Ultimate Acceleration Manual  Boosting FB Video Speed with Top Tools</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-unending-screen-documentation-sites/"><u>[Updated] Unending Screen Documentation Sites</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-evolution-of-dynamic-range-control-in-digital-photography/"><u>2024 Approved  The Evolution of Dynamic Range Control in Digital Photography</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-fastest-way-to-scan-windows-files/"><u>2024 Approved  The Fastest Way to Scan Windows Files</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unmatched-mobileweb-image-magnification-toolkit/"><u>2024 Approved  Unmatched Mobile/Web Image Magnification Toolkit</u></a></li>
+<li><a href="https://article-helps.techidaily.com/brush-up-your-skills-and-inspire-creativity-top-10-freeware-for-mac-for-2024/"><u>Brush Up Your Skills & Inspire Creativity - Top 10 Freeware for Mac for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-the-microsoft-surface-pro-7-stable-upgrades-but-few-revolutionary-features/"><u>Exploring the Microsoft Surface Pro 7 - Stable Upgrades but Few Revolutionary Features</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-14-pro-max-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone 14 Pro Max</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-12-to-ipad-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 12 to iPad? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-essential-companion-for-advanced-win10-users/"><u>In 2024, The Essential Companion for Advanced Win10 Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-insiders-guide-to-professional-grade-editing-in-windows-10/"><u>In 2024, The Insider's Guide to Professional-Grade Editing in Windows 10</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-process-of-android-video-u-turns/"><u>In 2024, The Process of Android Video U-Turns</u></a></li>
+<li><a href="https://driver-download.techidaily.com/innovative-techniques-to-rectify-lg-usb-connectivity-hiccups-on-your-windows-10-8-or-7-device/"><u>Innovative Techniques to Rectify LG USB Connectivity Hiccups on Your Windows 10, 8, or 7 Device</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/perfecting-your-interview-role-a-comprehensive-guide/"><u>Perfecting Your Interview Role  A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/stay-ahead-of-the-curve-explore-top-tier-gadgets-with-toms-analysis/"><u>Stay Ahead of the Curve: Explore Top-Tier Gadgets with Tom’s Analysis</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-balance-of-serene-visuals-for-2024/"><u>The Balance of Serene Visuals for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-essential-route-for-finding-visual-gold-on-pexels-for-2024/"><u>The Essential Route for Finding Visual Gold on Pexels for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-reverse-rotation-riddle-on-social-media-platforms-for-2024/"><u>The Reverse Rotation Riddle on Social Media Platforms for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-budget-pick-for-gamers-a-closer-look-at-the-fellowes-microban-wired-keyboard/"><u>The Ultimate Budget Pick for Gamers: A Closer Look at the Fellowes Microban Wired Keyboard</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-5-ios-applications-bringing-your-podcast-to-life-for-2024/"><u>Top 5 iOS Applications Bringing Your Podcast to Life for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-secrets-to-adding-seconds-to-youtube-clips-for-2024/"><u>Unveiling Secrets to Adding Seconds to YouTube Clips for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-power-of-photos-a-comprehensive-polarr-guide-for-2024/"><u>Unveiling the Power of Photos  A Comprehensive Polarr Guide for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-demystifying-the-art-of-anime-adaptation-for-global-audiences/"><u>Updated Demystifying the Art of Anime Adaptation for Global Audiences</u></a></li>
+</ul></div>

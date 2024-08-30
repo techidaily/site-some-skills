@@ -1,7 +1,7 @@
 ---
 title: AI-Powered Techniques to Scale Up and Revitalize Classic Images Sans Photoshop
-date: 2024-08-26 11:20:35
-updated: 2024-08-29 10:51:33
+date: 2024-08-29T20:38:47.907Z
+updated: 2024-08-30T20:38:47.907Z
 tags:
   - web
 categories:
@@ -40,12 +40,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  This demonstration also includes two AI tools for colorizing and enhancing your restored photos. They’re both freely available on Replicate and Google Colab. I highly recommend trying them, but Microsoft’s AI alone is enough to cover basic restoration.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Restore, Colorize, and Upscale Old Photos
 
  Passing an old degraded photo through Microsoft’s AI is only the first step in my process. After that once over, we can use AI to colorize our restored photo (this bit is optional). Finally, I use a third AI to upscale the whole image.
 
  To get started with Replicate, all we need is a GitHub account. If you already have a GitHub, skip this step, otherwise, head over to [GitHub](https://github.com/join/). You need a valid email to join GitHub and the sign-up only takes a few minutes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ###  Restoring Old Photos
 
  After [logging into Replicate](https://replicate.com/), we’re ready for the first step. In the search bar, enter **Bringing Old Photos Back to Life**, or you can [go directly to the page](https://www.replicate.com/microsoft/bringing-old-photos-back-to-life).
@@ -62,12 +68,18 @@ Close
 
 ![Steps for running photo restoration AI on Replicate.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/run.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Keep an eye on the Warm or Cold tag under the title of the AI model. A cold tag means the model is booting, and your photo will take longer to process. If the model is already warm, you’ll get the output sooner.
 
  As you can see, the AI has done a great job of cleaning up the photo. ​​​​Click “Download” to get your restored image in full resolution. Or click “Tweak” to run the AI again with different settings.
 
 ![Arrow indicating the output preview window and the download button for the restored photo.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/download.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ###  Colorizing Restored Photos
 
  Before we upscale our restored photo, we are going to add color to it. You can skip this step if you want to keep the original colors.
@@ -84,10 +96,16 @@ Close
 
 ![Steps for running Deoldify on Replicate.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/set.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
  Click “Run” once you’ve selected your preferred settings. Wait for the processed output. If you’re happy with the result, click “Download.” Or click “Tweak it” to re-process it with different settings.
 
 ![Preview of the colorized photo along with the download button on Deoldify](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/download-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Upscaling Old Photos
 
  So far, we’ve restored a badly damaged photo and added a splash of color to it. To top off this restoration job, we’ll upscale the processed photo. Upscaling uses AI to add more pixels to an image, making it bigger, sharper, and clearer. Think of the [“zoom and enhance”](https://vimeo-videos.techidaily.com/updated-strategies-to-optimize-time-and-quality-in-thumbnail-design/) trope from CSI.
@@ -104,10 +122,16 @@ Close
 
 ![Steps for running the upscaling AI on Replicate.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/run-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
  When it's done, the before and after previews look identical. But when you download the processed file, it has a much higher resolution.
 
 ![Arrow indicating the download button on Replicate.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/download-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
  That’s all. Now our restored photo is ready for your digital or print album. Here’s a side-by-side comparison.
 
 ![Before and after preview of the restored photo.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/comparison.png) 
@@ -134,3 +158,48 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-the-power-of-first-impressions-crafting-impactful-youtube-images/"><u>[New] 2024 Approved  The Power of First Impressions  Crafting Impactful YouTube Images</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-echo-chamber-new-tech-insights/"><u>[New] In 2024, Echo Chamber  New Tech Insights</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-elevate-your-content-mastery-in-live-streaming-screens/"><u>[New] In 2024, Elevate Your Content  Mastery in Live Streaming Screens</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/op-15-channels-for-aspiring-stock-professionals-for-2024/"><u>[New] Top 15 Channels for Aspiring Stock Professionals for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-dominating-viewers-spaces-channel-empire-rules/"><u>[Updated] In 2024, Dominating Viewers' Spaces  Channel Empire Rules</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-episode-unveiling-optimized-by-day-and-time/"><u>2024 Approved  Episode Unveiling Optimized by Day & Time</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-melodic-freedom-fbs-music-library/"><u>2024 Approved  Melodic Freedom  FB's Music Library</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/a-comprehasterview-smooth-and-effortless-gaming-with-amazon-luna/"><u>A Comprehasterview: Smooth and Effortless Gaming with Amazon Luna</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-oneplus-12r-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General OnePlus 12R Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/complete-guide-how-to-resolve-windows-11-calculator-errors-effectively/"><u>Complete Guide: How to Resolve Windows 11 Calculator Errors Effectively</u></a></li>
+<li><a href="https://some-skills.techidaily.com/comprehensive-tutorial-how-to-wipe-out-browsing-data-from-microsoft-edge/"><u>Comprehensive Tutorial: How to Wipe Out Browsing Data From Microsoft Edge</u></a></li>
+<li><a href="https://some-skills.techidaily.com/discovering-system-information-unveiling-the-build-number-in-windows-11/"><u>Discovering System Information: Unveiling the Build Number in Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/easily-run-commands-as-an-administrator-in-windows-10-8-and-81-unlocking-the-power-of-the-command-prompt/"><u>Easily Run Commands as an Administrator in Windows 10, 8 & 8.1: Unlocking the Power of the Command Prompt</u></a></li>
+<li><a href="https://some-skills.techidaily.com/easy-guide-run-command-prompt-with-admin-rights-on-windows-11881/"><u>Easy Guide: Run Command Prompt with Admin Rights on Windows 11/8/8.1</u></a></li>
+<li><a href="https://some-skills.techidaily.com/easy-tutorial-enabling-windows-10-defender-for-optimal-security/"><u>Easy Tutorial: Enabling Windows 10 Defender for Optimal Security</u></a></li>
+<li><a href="https://some-skills.techidaily.com/expert-tips-for-launching-your-pc-with-windows-nto-default-settings-a-clean-start-process/"><u>Expert Tips for Launching Your PC with Windows Nto Default Settings – A Clean Start Process</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-toms-tech-the-ultimate-guide-to-computer-components/"><u>Exploring Tom's Tech: The Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://some-skills.techidaily.com/how-to-open-control-panel-in-windows-10-7-8/"><u>How to Open Control Panel in Windows 10, 7, 8</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ideal-protective-gear-for-your-samsung-galaxy-tab-a-amazon-fire-7hd-8hd-10/"><u>Ideal Protective Gear for Your Samsung Galaxy Tab A (Amazon Fire 7/HD 8/HD 10)</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-motorola-defy-2-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Motorola Defy 2 to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-infinix-note-30-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Infinix Note 30 Phone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/innovative-approach-to-enjoying-taylor-swift-reputation-turn-her-hits-into-a-storytelling-audiobook/"><u>Innovative Approach to Enjoying Taylor Swift - 'Reputation': Turn Her Hits Into a Storytelling Audiobook</u></a></li>
+<li><a href="https://some-skills.techidaily.com/mastering-the-art-of-crafting-effective-book-reviews/"><u>Mastering the Art of Crafting Effective Book Reviews</u></a></li>
+<li><a href="https://some-skills.techidaily.com/most-effective-azw4-e-readers-showdown-which-one-tops-the-list-for-desktop-and-laptop-users/"><u>Most Effective AZW4 E-Readers Showdown: Which One Tops the List for Desktop & Laptop Users?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/next-level-graphic-cards-for-4k-titles-for-2024/"><u>Next-Level Graphic Cards for 4K Titles for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/quick-guide-convert-your-acsm-files-into-editable-pdfs/"><u>Quick Guide: Convert Your ACSM Files Into Editable PDFs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/report-concerns-challenges-in-deciphering-digital-books/"><u>Report Concerns: Challenges in Deciphering Digital Books</u></a></li>
+<li><a href="https://some-skills.techidaily.com/resolving-the-post-windows-11-update-fixing-iphone-cant-sync-with-itunes-error-54/"><u>Resolving the Post-Windows 11 Update: Fixing 'iPhone Can't Sync with iTunes Error -54'</u></a></li>
+<li><a href="https://some-skills.techidaily.com/seamlessly-enjoy-ebooks-on-desktop-learn-how-to-bypass-drm-protection/"><u>Seamlessly Enjoy eBooks on Desktop: Learn How to Bypass DRM Protection</u></a></li>
+<li><a href="https://some-skills.techidaily.com/step-by-step-guide-how-to-publish-your-ebooks-on-google-play-books/"><u>Step-by-Step Guide: How to Publish Your Ebooks on Google Play Books</u></a></li>
+<li><a href="https://some-skills.techidaily.com/step-by-step-guide-moving-your-acsm-google-play-books-onto-compatible-ereader-devices/"><u>Step-by-Step Guide: Moving Your ACSM Google Play Books Onto Compatible eReader Devices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/step-by-step-guide-transforming-your-audiobooks-from-audible-format-to-mp3-on-macos-and-windows-systems/"><u>Step-by-Step Guide: Transforming Your Audiobooks From Audible Format to MP3 on macOS and Windows Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-beginners-guide-to-easily-determining-your-systems-bios-in-windows-11/"><u>The Beginner’s Guide to Easily Determining Your System's BIOS in Windows 11</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-list-of-video-editing-software-for-hot-vloggers-free-and-paid/"><u>The Ultimate List of Video Editing Software for Hot Vloggers Free & Paid</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-your-cbr-books-into-epub-without-costs-the-ultimate-how-to-tutorial/"><u>Transform Your CBR Books Into EPUB Without Costs: The Ultimate How-To Tutorial</u></a></li>
+<li><a href="https://some-skills.techidaily.com/troubleshoot-and-repair-your-nonfunctional-windows-1n-calculator-app/"><u>Troubleshoot and Repair Your Nonfunctional Windows 1N Calculator App</u></a></li>
+<li><a href="https://some-skills.techidaily.com/troubleshooting-guide-for-windows-11-upgrade-pause-and-speaker-dysfunction-effective-fixes-implemented/"><u>Troubleshooting Guide for Windows 11 Upgrade Pause and Speaker Dysfunction - Effective Fixes Implemented</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-honor-70-lite-5g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Honor 70 Lite 5G Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-your-ebooks-comprehensive-guide-to-removing-drm-from-epub-files/"><u>Unlocking Your Ebooks: Comprehensive Guide to Removing DRM From EPUB Files</u></a></li>
+<li><a href="https://some-skills.techidaily.com/windows-10-creators-update-download-stuck-and-no-sound-issues-fixed/"><u>Windows 10 Creators Update: Download Stuck & No Sound Issues [Fixed]</u></a></li>
+</ul></div>

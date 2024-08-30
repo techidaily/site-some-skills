@@ -1,7 +1,7 @@
 ---
 title: "Predictive Magic with Linux: Unlocking Fortune-Telling Scripts in Terminal"
-date: 2024-08-26 17:27:34
-updated: 2024-08-29 10:20:25
+date: 2024-08-29T20:40:34.904Z
+updated: 2024-08-30T20:40:34.904Z
 tags:
   - desktop
 categories:
@@ -89,6 +89,9 @@ strfile -c % funny funny.dat
 
 ![Converting plain text file to fortune supported file using strfile command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/file-conversoin-strfile.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Now, [move both files to the directory](https://some-knowledge.techidaily.com/in-2024-immersive-innovations-the-distinct-worlds-of-mr-ar-and-vr/) where fortune looks for its data. This location can vary, but it often looks like "/usr/share/games/fortunes/" or "/usr/local/share/games/fortunes/".
 
 sudo cp funny* /usr/share/games/fortunes/
@@ -107,6 +110,9 @@ fortune funny
 
 ![Displaying random saying from your newly created fortune file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/fotune-command-custom.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Every time you run the command, one of your hand-crafted fortunes will appear.
 
 ##  Combine fortune and cowsay for Extra Fun
@@ -123,6 +129,9 @@ fortune | cowsay
 
 ![Piping fortune output to cowsay command to display random saying along with ASCII art.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/fortune-cowsay.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
  Check it out! You've got a cow dispensing wisdom right there in your terminal. Just what you always wanted!
 
  But wait—there's more! You can also change the character delivering your fortune. For example, use **\-f** followed by the character's name to pick any other ASCII creature:
@@ -131,6 +140,9 @@ fortune | cowsay -f tux
 
 ![Tux displays random statements using fortune and cowsay commands.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/fortune-cowsay-tux.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can also make your tux [colorful by piping the lolcat command](https://youtube-tips.techidaily.com/n-2024-accelerate-yt-growth-strategies-for-1kplus-subscribers/).
 
 fortune | cowsay -f tux | lolcat
@@ -151,6 +163,9 @@ fortune | cowsay
 
 ![Adding fortune command along with cowsay to the end of bashrc file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/fortune-cowsay-bashrc-file.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  This will ensure that every time you open your terminal, you'll see a fortune delivered by a cow.
 
  After saving changes, press Ctrl+X to exit the editor. To see the changes happen, you can either [restart your terminal](https://data-wizards.techidaily.com/formatting-your-macs-storage-simplified-an-instructional-video/) or execute:
@@ -161,6 +176,9 @@ source ~/.bashrc
 
 ![Random fortune appearing on a Linux terminal after being launched.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/terminal-fortune-begin.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you want to use different ASCII art creatures, such as tux, just replace the **cowsay** command in the \~/.bashrc file with the **cowsay -f tux** command.
 
 ![Adding new fortune command with tux ASCII art to the end of bashrc file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/terminal-fortune-tux.png) 
@@ -179,6 +197,9 @@ cat file1
 
 ![Viewing the file using the cat command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/viewing-file-with-cat.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
  If you want to append multiple fortunes to the same file, you can do so in a loop.
 
         `for i in {1..10};  
@@ -189,6 +210,10 @@ done`
 
 fortune | wc -c
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ##  Create a Random Picker Game
 
  You can also use fortune to randomize data for other purposes. Say you have a list of friends, coworkers, or contest participants—just put their names into a file and let fortune pick a winner. To accomplish this, you'll need to make your own fortune file, as explained above.
@@ -211,3 +236,43 @@ fortune | wc -c
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-tools-for-effortless-video-image-retrieval/"><u>[New] 2024 Approved  Free Tools for Effortless Video Image Retrieval</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-sharex-overview-top-picks-and-substitutes/"><u>[New] ShareX Overview  Top Picks & Substitutes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-perfection-in-depth-tutorial-on-utilizing-photoshops-background-eraser-tool/"><u>[New] The Art of Perfection  In-Depth Tutorial on Utilizing Photoshop's Background Eraser Tool</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-essential-blueprint-for-configuring-a-zoom-space/"><u>[New] The Essential Blueprint for Configuring a Zoom Space</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-new-dawn-of-creativity-spotlight-on-six-visionary-nftos/"><u>[New] The New Dawn of Creativity  Spotlight on Six Visionary NFTOs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-best-toy-drones-for-kids/"><u>[New] The Ultimate Guide to Best Toy Drones for Kids</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-secrets-how-to-efficiently-record-internet-radio/"><u>[New] Unveiling the Secrets  How To Efficiently Record Internet Radio</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-instagram-video-to-mp3-everything-you-need-to-know/"><u>[Updated] 2024 Approved  Instagram Video to Mp3 - Everything You Need to Know</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-perfecting-switch-pro-techniques-on-steam-platform/"><u>[Updated] 2024 Approved  Perfecting Switch Pro Techniques on Steam Platform</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-facebook-video-marketing-top-20-strategies-to-watch-for-2024/"><u>[Updated] Facebook Video Marketing  Top 20 Strategies to Watch for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tailoring-your-streaming-experience-on-macos-via-mixer/"><u>[Updated] Tailoring Your Streaming Experience on macOS via Mixer</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-the-8-best-open-source-videoconference-systems-for-enterprises-today-for-2024/"><u>[Updated] The 8 Best Open Source Videoconference Systems for Enterprises Today for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-viewing-experience-insights-on-eizos-4kcg318/"><u>[Updated] The Ultimate Viewing Experience – Insights on EIZO’s 4KCG318</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-triggering-windows-11-hdr-in-dynamic-mode/"><u>[Updated] Triggering Windows 11 HDR in Dynamic Mode</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-swift-windows-document-reviewing-techniques/"><u>2024 Approved  Swift Windows Document Reviewing Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-best-10-final-cut-pro-plugins-ever/"><u>2024 Approved  The Best 10 Final Cut Pro Plugins Ever</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-for-a-smart-4k-lens-upgrade/"><u>2024 Approved  The Ultimate Guide for a Smart 4K Lens Upgrade</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-trending-stock-images-and-behind-the-scenes-stories/"><u>2024 Approved  Top Trending Stock Images & Behind-the-Scenes Stories</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-total-exploration-the-dji-phantom-4-experience-reviewed/"><u>2024 Approved  Total Exploration  The DJI Phantom 4 Experience Reviewed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-photos-remove-background-with-ease/"><u>2024 Approved  Transforming Photos  Remove Background with Ease</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-streaming-platforms-for-authors/"><u>2024 Approved  Ultimate Streaming Platforms for Authors</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-uncovering-8-superior-online-srt-translation-tools/"><u>2024 Approved  Uncovering 8 Superior Online SRT Translation Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-ai-write-accurate-code-unveiling-the-capabilities-of-codegpt/"><u>Can AI Write Accurate Code? Unveiling the Capabilities of CodeGPT</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-honor-magic5-ultimate-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Honor Magic5 Ultimate Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/cutting-edge-strategies-for-choosing-best-fpv-drone-blades-for-2024/"><u>Cutting-Edge Strategies for Choosing Best FPV Drone Blades for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/eradicating-flutter-phenomenon-from-drones-footage-for-2024/"><u>Eradicating Flutter Phenomenon From Drones' Footage for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-pixie-dust-game-hours-childrens-choice-edition/"><u>In 2024, Pixie-Dust Game Hours - Children's Choice Edition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-brawlers-domain-vs-twitch-territory/"><u>In 2024, The Brawler's Domain Vs. Twitch Territory</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-streaming-high-quality-cricket-matches/"><u>In 2024, The Ultimate Guide to Streaming High-Quality Cricket Matches</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-5-gaming-monitors-tailored-for-playstation-and-xbox/"><u>In 2024, Top 5 Gaming Monitors Tailored for PlayStation & Xbox</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-tube-tallies-counting-the-top-10-watched-videos-on-twit/"><u>In 2024, Tube Tallies  Counting the Top 10 Watched Videos on Twit</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unparalleled-templates-for-meme-artists/"><u>In 2024, Unparalleled Templates for Meme Artists</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-chiefs-guide-to-superior-cloud-vaults-for-2024/"><u>The Chief's Guide to Superior Cloud Vaults for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-dos-and-donts-of-mixing-music-in-instagram-videos-for-2024/"><u>The Do's and Don'ts of Mixing Music in Instagram Videos for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-guide-to-high-speed-pc-controller-extensions-for-2024/"><u>Ultimate Guide to High-Speed PC Controller Extensions for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unrivaled-script-authority-place-for-2024/"><u>Unrivaled Script Authority Place for 2024</u></a></li>
+</ul></div>

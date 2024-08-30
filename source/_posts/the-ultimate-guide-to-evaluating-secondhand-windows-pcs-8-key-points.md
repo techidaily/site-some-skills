@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Evaluating Secondhand Windows PCs – 8 Key Points
-date: 2024-08-26 14:53:49
-updated: 2024-08-29 12:12:22
+date: 2024-08-29T20:41:37.068Z
+updated: 2024-08-30T20:41:37.068Z
 tags:
   - desktop
 categories:
@@ -46,12 +46,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Testing the laptop microphone in Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/2-testing-the-laptop-microphone-in-settings.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ##  Test the Built-In Camera
 
  If you intend to use the laptop for video communication, test its built-in camera. To do this, type **Camera** in the Windows Search bar and open the Camera app.
 
  If the camera app detects the webcam and the visuals are clear and of satisfactory quality, as the seller claimed, then the camera is working correctly.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ##  Check the Health of Your Laptop Battery
 
  The more a laptop is used, the more its battery capacity diminishes. When purchasing a new laptop, you should ensure that it's not heavily worn out. You can check this by generating a battery health report on Windows. [Open the Windows PowerShell utility as an administrator](https://win11.techidaily.com/a-guide-to-quickly-opens-sticky-notes-in-windows-11/), enter the following command, and press Enter:
@@ -62,22 +68,36 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Generating the battery health report from Windows PowerShell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/08/br_2-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Navigate to this location and open the battery report. Then, go to the "Installed Batteries" section and compare the "Design Capacity" with the "Full Charge Capacity." The difference between these values indicates the extent to which the battery's capacity has diminished due to usage. If the full charge capacity is significantly low, you may have to replace the battery.
 
 ![Checking the laptop battery report.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/08/br_5.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ##  Ensure the Laptop Isn't Stolen
 
  If you're thinking about buying a used laptop from an unknown seller, make sure that it hasn't been stolen. One way to check this is to request a purchase receipt from the seller. If they are unable to provide one, this could be a red flag. If the laptop hasn't been reset, is password-protected, or is locked, these signs indicate that it's likely a stolen device.
 
  You can also confirm your suspicions by getting the laptop's serial number and contacting the manufacturer to verify whether the device has been reported stolen.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Perform the Physical Inspection
 
  The appearance of the laptop body is a direct reflection of how carefully the original owner has treated the device. Any signs of scratches, cracks, dents, or loose and damaged hinges indicate rough handling by the previous owner. Missing screws are another indicator that the laptop may have been opened for repair or replacement, which raises a red flag.
 
  Also, watch out for stickers that may be covering up wear and tear underneath, as this is a common practice.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ##  Test the Wired and Wireless Connectivity
 
  The worst scenario you could face is finding your [laptop unable to connect to the internet](https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual/) (via Wi-Fi or Ethernet cable), USB ports failing to detect external devices, or Bluetooth malfunctioning—all after completing the purchase. Because of that, confirming there are no wired or wireless connectivity issues is important.
@@ -112,3 +132,45 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-set-longer-duration-for-your-youtube-film/"><u>[New] Set Longer Duration for Your YouTube Film</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamlining-your-video-workflow-in-windows-11/"><u>[New] Streamlining Your Video Workflow in Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-financial-floor-and-ceiling-in-podcasting-world/"><u>[New] The Financial Floor and Ceiling in Podcasting World</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-leading-photo-framers-of-2024-reviewed/"><u>[New] The Leading Photo Framers of 2024 Reviewed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-5-best-monitors-for-ps5/"><u>[New] Top 5 Best Monitors for Ps5</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-hd-cameras-for-wildlife-enthusiasts/"><u>[New] Top HD Cameras For Wildlife Enthusiasts</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-transforming-your-media-expertise-in-itunes-recordings/"><u>[New] Transforming Your Media  Expertise in iTunes Recordings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-underwater-gopro-filter-setup/"><u>[New] Ultimate Underwater Gopro Filter Setup</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-creativity-an-in-depth-review-and-tutorial-for-powerdirector-2024/"><u>[New] Unlocking Creativity  An In-Depth Review & Tutorial for PowerDirector 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-hidden-secrets-for-advanced-win10-users/"><u>[New] Unveiling Hidden Secrets for Advanced Win10 Users</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-instagrams-audio-alteration-the-ultimate-guide/"><u>[Updated] 2024 Approved  Instagram's Audio Alteration  The Ultimate Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-apk-journey-to-gaming-bliss-funimate-pro-guide/"><u>[Updated] In 2024, APK Journey to Gaming Bliss  Funimate Pro Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-syma-x8c-feature-analysis/"><u>[Updated] Syma X8C Feature Analysis</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-premier-screen-picks-for-ps5-and-xbox-games/"><u>[Updated] The Premier Screen Picks for PS5 and Xbox Games</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-using-vlc-from-mpeg-4-to-all-media-types/"><u>[Updated] The Ultimate Guide to Using VLC  From MPEG-4 to All Media Types</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-strategies-for-zoom-use-with-a-chrome-os-device/"><u>[Updated] Top Strategies for Zoom Use with a Chrome OS Device</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-wealth-reddits-top-13-money-making-methods/"><u>[Updated] Unlocking Wealth  Reddit's Top 13 Money-Making Methods</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-5-ways-to-transfer-files-to-your-computer/"><u>2024 Approved  5 Ways To Transfer Files To Your Computer</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-above-and-beyond-uavs-for-gopro-recording-excellence/"><u>2024 Approved  Above and Beyond UAVs for GoPro Recording Excellence</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-conquerors-of-the-past-the-prime-7-battle-simulations/"><u>2024 Approved  Conquerors of the Past  The Prime 7 Battle Simulations</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-complete-sdr-to-hdr-upgrade-blueprint/"><u>2024 Approved  The Complete SDR to HDR Upgrade Blueprint</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-asmrists-aiding-the-nighttime-ritual/"><u>2024 Approved  Top ASMRists Aiding the Nighttime Ritual</u></a></li>
+<li><a href="https://some-skills.techidaily.com/amazing-way-to-unlock-your-mac-with-apple-watch-for-2024/"><u>Amazing Way to Unlock Your Mac with Apple Watch for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diagnosing-and-repairing-loud-or-malfunctioning-cpugpu-fans/"><u>Diagnosing and Repairing Loud or Malfunctioning CPU/GPU Fans</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-a54-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy A54 5G Phones with/without a PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-poco-m6-pro-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Poco M6 Pro 5G Data? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-no-cost-joke-factory-making-laughter-easy/"><u>In 2024, No Cost Joke Factory  Making Laughter Easy</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-swiftpodcasts-guide-for-iphone-users-download-made-simple/"><u>In 2024, SwiftPodcasts Guide for iPhone Users - Download Made Simple</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-insiders-guide-to-snapchats-spotlight-feature/"><u>In 2024, The Insider's Guide to Snapchat's Spotlight Feature</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-pulse-finder-your-free-online-music-buddy/"><u>In 2024, The Pulse Finder – Your Free, Online Music Buddy</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-easy-file-movement-to-pcs/"><u>In 2024, The Ultimate Guide  Easy File Movement to PCs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-through-the-fins-pro-techniques-for-taking-superior-gopro-videos-underwater/"><u>In 2024, Through the Fins  Pro Techniques for Taking Superior GoPro Videos Underwater</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-trailblaze-with-our-list-of-the-top-9-resources-for-dynamic-3d-fonts/"><u>In 2024, Trailblaze with Our List of The Top 9 Resources for Dynamic 3D Fonts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleash-your-potential-with-periscope-broadcasts/"><u>In 2024, Unleash Your Potential with Periscope Broadcasts</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/spark-interest-on-snapchat-15-innovative-strategies-for-2024/"><u>Spark Interest on Snapchat  15 Innovative Strategies for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-complete-guide-to-upgrading-mp4-with-premium-srt-sound-for-2024/"><u>The Complete Guide to Upgrading MP4 With Premium SRT Sound for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-economics-of-successful-podcasting-for-2024/"><u>The Economics of Successful Podcasting for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transforming-dull-interviews-into-engaging-assessments-for-2024/"><u>Transforming Dull Interviews Into Engaging Assessments for 2024</u></a></li>
+</ul></div>

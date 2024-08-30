@@ -1,7 +1,7 @@
 ---
 title: "Mastering Cross-Platform Development: Integrate Linux Bash with Windows 11 Systems"
-date: 2024-08-28 11:17:58
-updated: 2024-08-29 12:44:29
+date: 2024-08-29T20:43:38.475Z
+updated: 2024-08-30T20:43:38.475Z
 tags:
   - deals
 categories:
@@ -26,6 +26,9 @@ thumbnail: https://thmb.techidaily.com/655813b140cebedb2250090e80755301611474980
 
  The Windows Subsystem for Linux, introduced in the [Anniversary Update](https://twitter-videos.techidaily.com/2024-approved-clear-obstacle-youtube-tweets-on-google-chrome/), became a stable feature in the [Fall Creators Update](https://phone-solutions.techidaily.com/does-samsung-support-mkv-video-files-by-aiseesoft-video-converter-play-mkv-on-android/). You can now run Ubuntu, openSUSE, a remix of Fedora, and plenty of others on Windows, with more Linux distributions coming soon.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  What You Need to Know About Windows 10's Bash Shell
 
 ###  How Windows Subsystem for Linux 1 (WSL1) Works
@@ -56,6 +59,9 @@ thumbnail: https://thmb.techidaily.com/655813b140cebedb2250090e80755301611474980
 
 ![Open up the Windows Features menu, scroll down until you find &quot;Windows Subsystem for Linux,&quot; then tick the box and click &quot;OK.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a985001e7f37.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
  Click "Restart now" when you're prompted to restart your computer. The feature won't work until you reboot.
 
  Alternatively, you can also install it using PowerShell. [Launch PowerShell as an Administrator](https://win11.techidaily.com/a-guide-to-quickly-opens-sticky-notes-in-windows-11/), then enter:
@@ -66,10 +72,17 @@ wsl --install
 
 ![PowerShell running WSL install command successfully.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/WSL-install.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  After your computer restarts, open the Microsoft Store from the Start menu, and search for "Linux" in the store.
 
 ![Linux distros available on the Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/ms-store-linux.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
  You'll see a list of every Linux distribution currently available in the Windows Store.This includes [Ubuntu, openSUSE Leap, and openSUSE Enterprise](https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-nokia-c300-drfone-by-drfone-virtual-android/), Debian, Kali, and others. You can even find a few remixes of Fedora, though there isn't an official version available as of November 2023.
 
  If you want a specific distro, search for that rather than "Linux." You'll get better results.
@@ -82,6 +95,9 @@ wsl --install
 
  You can also install multiple Linux distributions and they'll each get their own unique shortcuts. You can even run multiple different Linux distributions at a time in different windows.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Use The Bash Shell and Install Linux Software
 
  You now have a full command-line bash shell through Ubuntu, or whichever other Linux distribution you installed.
@@ -94,12 +110,18 @@ wsl --install
 
 ![Searching for "Ubuntu" in the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/ubuntu-search.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
  The first time you launch the Linux environment, you're be prompted to enter a UNIX username and password. These don't have to match your Windows username and password, but will be used within the Linux environment.
 
  For example, if you enter "bob" and "letmein" as your credentials, your username in the Linux environment will be "bob" and the password you use inside the Linux environment will be "letmein" --- no matter what your Windows username and password are.
 
 ![Enter a username and password for your Linux distro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a985a5c26989.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
  You can launch your installed Linux environment by running the `wsl` command. If you have multiple Linux distributions installed, you can [choose the default Linux environment](https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-infinix-note-30-vip-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/) this command launches.
 
  If you have Ubuntu installed, you can also run the `ubuntu` command to install it. For openSUSE Leap 42, use `opensuse-42` . For SUSE Linux Enterprise Sever 12, use `sles-12` . These commands are listed on each Linux distribution's page on the Windows Store.
@@ -108,6 +130,9 @@ wsl --install
 
 ![Running &quot;bash&quot; in the Command Prompt will launch your default Linux environment.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a985b14e9795.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
  If you're experienced using a Bash shell on Linux, Mac OS X, or other platforms, you'll be right at home.
 
  On Ubuntu, you need to prefix a command with `sudo` to [run it with root permissions](https://extra-support.techidaily.com/maximize-your-listening-experience-ios-podcast-mastery-for-2024/). The "root" user on UNIX platforms has full system access, like the "Administrator" user on Windows. Your Windows file system is located at `/mnt/c` in the Bash shell environment.
@@ -142,6 +167,10 @@ wsl --install
 
 ![Installing GNU Compiler Collection with apt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a985e7d80a6b.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ##  Install the Ubuntu Font for a True Ubuntu Experience
 
  If you want a more accurate Ubuntu experience on Windows 10, you can also install the Ubuntu fonts and enable them in the terminal. You don't have to do this, as the default Windows command prompt font looks pretty good to us, but it's an option.
@@ -178,18 +207,27 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Console\TrueType
 
 ![Right-click the title bar of the terminal application you're using, go to &quot;Properties,&quot; then click &quot;Font.&quot; Select &quot;Ubuntu Mono&quot; from the list.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a986560320a0.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ##  Use the Ubuntu Monospace Font in the Terminal
 
  If you're using the Windows Terminal—and you should be, it is [a big improvement in most ways](https://video-screen-grab.techidaily.com/updated-2024-approved-effortless-screen-saving-on-android-devices/)—changing fonts is easier. After you've installed the Ubuntu font, open up the Terminal, click the small downward facing arrow, and select "Settings."
 
 ![Open the Terminal Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/open-settings-terminal.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Open to Defaults > Appearance, then select "Ubuntu Mono" from the list of available fonts.
 
  The Terminal automatically expands or collapses the labels in the left sidebar depending on the size of your window, much like the Settings app does. You may not see the "Default" text label depending on the size of your window.
 
 ![Enable the Ubuntu Mono font.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/font-ubuntu-mono.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
  Remember: software you install in the Bash shell is restricted to the Bash shell. You can access these programs from the Command Prompt, PowerShell, or elsewhere in Windows, but only if you [run the bash -c command](https://vp-tips.techidaily.com/building-a-brand-with-captivating-haul-videos-and-edits/).
 
 <ins class="adsbygoogle"
@@ -206,3 +244,42 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Console\TrueType
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-crafting-professional-content-on-youtube-via-enhancements/"><u>[New] In 2024, Crafting Professional Content on YouTube via Enhancements</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-designing-captivating-instagram-feed-summaries/"><u>[New] In 2024, Designing Captivating Instagram Feed Summaries</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ecure-steps-for-skyrocketing-video-engagement-a-million-wins-strategy/"><u>[New] Secure Steps for Skyrocketing Video Engagement  A Million Wins Strategy</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-stellar-spectrum-10-sites-cutting-edge-of-hd-astronomy/"><u>[New] Stellar Spectrum  10 Sites Cutting-Edge of HD Astronomy</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-techniques-for-depicting-realism-in-docuscripts/"><u>[New] Techniques for Depicting Realism in Docuscripts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-essential-e-steps-your-pathway-from-preparation-to-production-in-a-reviews-channel/"><u>[New] The Essential E-Steps  Your Pathway From Preparation to Production in a Reviews Channel</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-future-of-music-freedom-an-insightful-review-of-pazera-tools/"><u>[New] The Future of Music Freedom  An Insightful Review of Pazera Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-metaverse-multiverse-dichotomy-explained/"><u>[New] The Metaverse-Multiverse Dichotomy Explained</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-professionals-guide-to-4k-monitors-spotlight-on-bl2711u-by-benq/"><u>[New] The Professional's Guide to 4K Monitors - Spotlight on BL2711U by BenQ</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-list-of-steadicams-for-uav-videography-enthusiasts/"><u>[New] Ultimate List of Steadicams for UAV Videography Enthusiasts</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-design-principles-for-captivating-fb-advertising/"><u>[Updated] 2024 Approved  Design Principles for Captivating FB Advertising</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-redefining-social-sharing-alternatives-to-periscope-on-iphones-and-androids/"><u>[Updated] Redefining Social Sharing  Alternatives to Periscope on iPhones & Androids</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-essentials-understanding-whatsapp-calls/"><u>[Updated] The Essentials  Understanding WhatsApp Calls</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-a-step-by-step-approach-to-ad-revenue-in-youtube-videos/"><u>2024 Approved  A Step-by-Step Approach to Ad Revenue in YouTube Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-gopro-hero5-a-comprehensive-footage-study/"><u>2024 Approved  GoPro Hero5  A Comprehensive Footage Study</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-pc-edition-of-image-overlay-mastery/"><u>2024 Approved  Ultimate PC Edition of Image Overlay Mastery</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-vantage-point-critique/"><u>2024 Approved  Vantage Point Critique</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/balancing-system-heat-output-with-user-controls/"><u>Balancing System Heat Output with User Controls</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/choosing-the-best-screen-capture-app-obs-vs-fraps-for-2024/"><u>Choosing the Best Screen Capture App – OBS vs Fraps for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Samsung Galaxy A34 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-lava-yuva-2-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Lava Yuva 2 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-eye-of-the-tech-giants-leading-screen-capture-apps/"><u>In 2024, Eye of the Tech Giants  Leading Screen Capture Apps</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-oneplus-11r-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your OnePlus 11R Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-lava-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Lava ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-perfecting-titles-on-footage-step-by-step-tutorial-for-windows-photos-app/"><u>In 2024, Perfecting Titles on Footage  Step-by-Step Tutorial for Windows Photos App</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-essence-of-unaltered-audio-ffmpegs-precision/"><u>In 2024, The Essence of Unaltered Audio  FFmpeg’s Precision</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-economical-cloud-options/"><u>In 2024, The Ultimate Guide to Economical Cloud Options</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-dji-inspire-2s-features/"><u>In 2024, Unveiling DJI Inspire 2'S Features</u></a></li>
+<li><a href="https://some-skills.techidaily.com/magix-photographic-mastery-an-in-depth-review-for-2024/"><u>MAGIX Photographic Mastery  An In-Depth Review for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-mastering-nikon-d7500-for-2024/"><u>The Ultimate Guide to Mastering Nikon D7500 for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/to-embrace-or-not-the-sonoma-os-dilemma/"><u>To Embrace or Not: The Sonoma OS Dilemma</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-6-hdmi-21-screens-detailed-feature-rundown-for-2024/"><u>Top 6 HDMI 2.1 Screens  Detailed Feature Rundown for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/undead-lore-weaver-for-2024/"><u>Undead Lore Weaver for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-unleash-pro-level-video-editing-with-64-bit-software-for-2024/"><u>Updated Unleash Pro-Level Video Editing with 64-Bit Software for 2024</u></a></li>
+</ul></div>

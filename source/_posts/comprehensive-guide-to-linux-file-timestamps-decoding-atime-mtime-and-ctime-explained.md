@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Linux File Timestamps – Decoding Atime, Mtime, and Ctime Explained
-date: 2024-08-28 12:42:55
-updated: 2024-08-29 10:14:31
+date: 2024-08-29T20:40:26.082Z
+updated: 2024-08-30T20:40:26.082Z
 tags:
   - desktop
 categories:
@@ -42,6 +42,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  So, how many seconds can be stored in a timestamp? A lot—2,147,483,647, to be precise. That's a big number, but is it enough? If you add that to the Unix epoch, and then translate it to a date and time, you get Tuesday, January 19, 2038, at 03:14:07 a.m. We'll need a different scheme for timestamps before then, though.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Viewing Timestamps
 
  When you use the -l (long listing) option with ls, as shown below, [you can see the modified timestamp](http://man7.org/linux/man-pages/man1/ls.1.html):
@@ -66,6 +69,9 @@ stat dp.c
 
 ![stat dp.c in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/2-7.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
  The time zones are listed at the bottom of the display. As you can see, they have a very accurate, fractional seconds component. At the end of each timestamp, you also see a -0500 or -0400 .
 
  These are time zone offsets. The file system records the timestamps in UTC and converts them to the local time zone when displayed by stat. The computer we used to research this article is configured as if it were in the Eastern Standard Time (EST) zone of the U.S.
@@ -76,6 +82,9 @@ stat dp.c
 
  You also see a "Birth" timestamp, which is reserved for the creation date of the file. This is not implemented, and you see a hyphen "-" instead of a timestamp.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ##  Changing Timestamps
 
  If you want, you can change the timestamps on a file. You can use [the touch command](https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-vivo-y55s-5g-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/) to change the access or modified timestamps, [or both:](http://man7.org/linux/man-pages/man1/touch.1.html) 
@@ -120,6 +129,9 @@ stat dp.c
 
 ![touch dp.c -r dice_words.sl3 in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/6-5.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  And then, we're pretty much back where we started, with a mixture of -0400 and -0500 timestamps.
 
  Let's do something that only affects the changed timestamp. We'll use the chmod command to give an executable file [execute permissions for all users](http://man7.org/linux/man-pages/man1/chmod.1.html):
@@ -130,6 +142,10 @@ stat dp
 
 ![The &quot;chmod +x dp&quot; and &quot;stat dp&quot; commands in a terminal window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/10-6.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
  The changed timestamp was the only one that updated. This is because the file itself wasn't changed—it was neither accessed nor modified. However, the metadata about the file was changed.
 
 ##  How the File System Updates Timestamps
@@ -153,14 +169,29 @@ less /etc/fstab
 
 ![The /etc/fstab file in less in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/8-5.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
  Here's the content of the file without the wrap-around:
 
         `# /etc/fstab: static file system information.  
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 
 ## Use 'blkid' to print the universally unique identifier for a  
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## device; this may be used with UUID= as a more robust way to name devices  
 ## that works even if disks are added and removed. See fstab(5).  
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## <file system> <mount point> <type> <options> <dump> <pass>  
 ## / was on /dev/sda1 during installation  
 UUID=4a143d08-8695-475b-8243-b13b56050fc2 / ext4 errors=remount-ro 0 1  
@@ -219,3 +250,48 @@ cat /proc/mounts | grep "sda"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-the-ultimate-selection-top-6-lite-video-downloaders-from-facebook/"><u>[New] In 2024, The Ultimate Selection  Top 6 Lite Video Downloaders From Facebook</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamlined-audio-processing-in-windows-media-player/"><u>[New] Streamlined Audio Processing in Windows Media Player</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-instagram-image-addition-playbook/"><u>[New] The Instagram Image Addition Playbook</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-turbulence-tamer-for-mobile-cinematography/"><u>[New] Turbulence Tamer for Mobile Cinematography</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-ringtone-bazaar-navigating-online-sound-archives/"><u>[New] Ultimate Ringtone Bazaar  Navigating Online Sound Archives</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-universal-srt-to-various-subtitle-formats-handbook/"><u>[New] Universal SRT to Various Subtitle Formats Handbook</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-iphone-x-secrets-restoring-face-id-functionality/"><u>[New] Unlocking iPhone X Secrets  Restoring Face ID Functionality</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-the-potential-of-virtual-collaboration-starting-zoom-calls-on-android/"><u>[New] Unlocking the Potential of Virtual Collaboration  Starting Zoom Calls on Android</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-windows-high-dynamic-range-potential/"><u>[New] Unlocking Windows' High Dynamic Range Potential</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-art-of-converting-still-images-into-engaging-videos-with-pixiz/"><u>[New] Unveiling the Art of Converting Still Images Into Engaging Videos with Pixiz</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-how-to-embed-a-youtube-video-in-powerpoint/"><u>[Updated] 2024 Approved  How to Embed a YouTube Video in PowerPoint</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-expert-strategies-for-high-quality-macbook-webcam-recordings-for-2024/"><u>[Updated] Expert Strategies for High-Quality MacBook Webcam Recordings for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-exquisite-expression-saver-perfecting-the-art-of-twitter-animations/"><u>[Updated] Exquisite Expression Saver - Perfecting the Art of Twitter Animations</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-dividing-footage-top-splitcams-worth-in-review/"><u>[Updated] In 2024, Dividing Footage  Top SplitCam's Worth in Review?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-diving-deep-into-instagrams-new-features/"><u>[Updated] In 2024, Diving Deep Into Instagram's New Features</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-enhancing-videos-with-professional-voiceovers/"><u>[Updated] In 2024, Enhancing Videos with Professional Voiceovers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-art-of-digital-alterations-tips-for-text-in-pictures/"><u>[Updated] The Art of Digital Alterations  Tips for Text in Pictures</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-trailer-highlight-hodgepodge/"><u>[Updated] Ultimate Trailer Highlight Hodgepodge</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unaltered-audio-through-the-lens-of-ffmpeg-review/"><u>[Updated] Unaltered Audio Through the Lens of FFmpeg Review</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamlining-media-edits-storyremix-and-windows-11-photos-integration/"><u>2024 Approved  Streamlining Media Edits  StoryRemix & Windows 11 Photos Integration</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-synchronized-tasks-and-engaging-podcast-episodes/"><u>2024 Approved  Synchronized Tasks and Engaging Podcast Episodes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-crafting-compelling-and-credible-documentary-scripts/"><u>2024 Approved  The Ultimate Guide to Crafting Compelling and Credible Documentary Scripts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-enhancements-in-sonys-s6500-bdhd-player/"><u>2024 Approved  Unveiling Enhancements in Sony's S6500 BD/HD Player</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/amazfit-helio-ring-detailed-insights-into-pricing-strategy-market-debut-and-spec-sheet/"><u>Amazfit Helio Ring - Detailed Insights Into Pricing Strategy, Market Debut & Spec Sheet</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/best-ways-to-bypass-icloud-activation-lock-from-iphone-13-miniipadipod-by-drfone-ios/"><u>Best Ways to Bypass iCloud Activation Lock from iPhone 13 mini/iPad/iPod</u></a></li>
+<li><a href="https://fox-links.techidaily.com/building-brand-authority-top-tips-for-novice-marketers-on-reddit/"><u>Building Brand Authority  Top Tips for Novice Marketers on Reddit</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ing-2023s-social-trend-peaks-in-graphs-for-2024/"><u>Charting 2023'S Social Trend Peaks in Graphs for 2024</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/easy-steps-for-publishing-web-pages-directly-onto-your-kindle-device/"><u>Easy Steps for Publishing Web Pages Directly Onto Your Kindle Device</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-xiaomi-redmi-note-13-proplus-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Xiaomi Redmi Note 13 Pro+ 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-motorola-moto-g14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Motorola Moto G14? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-oppo-f25-pro-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Oppo F25 Pro 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-path-to-professional-looking-colors-in-gopro-editing/"><u>In 2024, The Path to Professional-Looking Colors in GoPro Editing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transforming-ideas-into-impactful-scenes-through-dialogue/"><u>In 2024, Transforming Ideas Into Impactful Scenes Through Dialogue</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unmatched-upticks-celebrating-top-10-reddit-discussions/"><u>In 2024, Unmatched Upticks  Celebrating Top 10 Reddit Discussions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveil-windows-xp-professional-for-video-production/"><u>In 2024, Unveil Windows XP Professional for Video Production</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-access-denied-error-during-usb-installation/"><u>Resolve 'Access Denied' Error During USB Installation</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-tutorial-on-downloading-and-updating-your-dell-latitude-e6430s-windows-drivers/"><u>Step-by-Step Tutorial on Downloading & Updating Your Dell Latitude E6430's Windows Drivers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-future-of-home-entertainment-tv-or-projection-for-4k-in-2024/"><u>The Future of Home Entertainment  TV or Projection for 4K, In 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleash-your-vision-the-best-360-livestimation-devices-for-2024/"><u>Unleash Your Vision  The Best 360° Livestimation Devices for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-vivo-y200-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Vivo Y200 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Understanding the Process of Wireless Electric Vehicle Charging
-date: 2024-08-28 15:31:32
-updated: 2024-08-29 11:59:44
+date: 2024-08-29T20:44:48.716Z
+updated: 2024-08-30T20:44:48.716Z
 tags:
   - cutting-edge
 categories:
@@ -41,6 +41,9 @@ Related: [How Does Wireless Charging Work?](https://eaxpv-info.techidaily.com/ne
 
  The cost of building that kind of tech into roadways on a wide scale remains to be seen and could get in the way of wireless charging roads becoming mainstream if prohibitively high. The U.S. doesn't have a great record when it comes to the upkeep of our [current roads and bridges,](https://www.cfr.org/backgrounder/state-us-infrastructure) but with Congress recently approving a large infrastructure bill we could, hopefully, see that trend improve.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  The Challenges of Wireless EV Charging
 
  One big hurdle to mass-market wireless charging is the expense. At the time of writing, WiTricity says one of their wireless charging stations costs around $700\. But calculating true cost is tricky at this point is difficult since the tech is so new. It depends on whether you're talking about retrofitting a single vehicle or outfitting a whole fleet. It'll also cost more to add several pads to a large electric bus than to fit a regular EV sedan with wireless charging --- up into the thousands, according to [The Eco Experts](https://www.theecoexperts.co.uk/electric-vehicles/wireless-ev-charging#link-how-much-does-wireless-electric-vehicle-charging-cost). The bottom line is that, at the time of writing, wireless charging tech will cost significantly more than a wired charging station to install for personal use.
@@ -55,6 +58,9 @@ Related: [Level 1, Level 2, or Level 3? EV Chargers Explained](https://visual-sc
 
  To address that, manufacturers are building fail safes. In Ferrell's video, WiTricity's CEO explained that if an object like a metal can or a cat that crawled under the car to try and get warm is detected, the charger would shut off and send a notification to your phone. If a person gets too close to the charging pad, it also shuts off. [WiTricity's website](https://witricity.com/products/automotive/) outlines these precautions in a little more detail.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  What's Next for Wireless EV Charging
 
  In development since around 2007, wireless EV charging could finally be coming to the mainstream in the next few years. The Society of Automotive Engineers (SAE) [ratified a standard](https://witricity.com/products/automotive/) for wireless EV charging in 2020, signaling it can be brought to the mass market. Once manufacturers have tested and developed the technology adequately, we'll probably start to see wireless charging come standard on electric cars.
@@ -75,3 +81,69 @@ Related: [Level 1, Level 2, or Level 3? EV Chargers Explained](https://visual-sc
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-strategies-to-eliminate-frames-loss-in-obs-recordings/"><u>[New] Strategies to Eliminate Frames Loss in OBS Recordings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streammastery-101-the-beginners-path-to-livestrancing-podcasts/"><u>[New] StreamMastery 101  The Beginner's Path to Livestrancing Podcasts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-toolwiz-photos-app-complete-review-2023/"><u>[New] Toolwiz Photos App - Complete Review 2023</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-tier-photographic-archives/"><u>[New] Top Tier Photographic Archives</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-capturemaster-x-overview-evaluation/"><u>[Updated] 2024 Approved  CaptureMaster X Overview Evaluation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-pivotal-ideas-behind-digital-tale-weaving/"><u>[Updated] Pivotal Ideas Behind Digital Tale Weaving</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-protect-privacy-with-fast-facial-masking-on-piscart/"><u>[Updated] Protect Privacy with Fast Facial Masking on PiscArt</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-softening-the-end-effective-methods-for-reducing-volume-in-premiere-pro/"><u>[Updated] Softening the End  Effective Methods for Reducing Volume in Premiere Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-strategies-for-acquiring-flawless-photos-on-the-internet/"><u>[Updated] Strategies for Acquiring Flawless Photos on the Internet</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-playstation-experience-transform-your-voice/"><u>[Updated] The PlayStation Experience  Transform Your Voice</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-vr-player-guide-unveiling-the-best-pc-streamers/"><u>[Updated] The Ultimate VR Player Guide  Unveiling the Best PC Streamers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-30-mobile-video-edits-using-dji-technology/"><u>[Updated] Top 30 Mobile Video Edits Using DJi Technology</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-canon-editing-kit-freepay-for-luts-included/"><u>[Updated] Ultimate Canon Editing Kit - Free/Pay for LUTs Included</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-guide-for-elevating-videos-from-basic-sdr-to-breathtaking-hdr-splendor/"><u>[Updated] Ultimate Guide for Elevating Videos  From Basic SDR to Breathtaking HDR Splendor</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-list-of-quick-pace-audio-apps/"><u>[Updated] Ultimate List of Quick-Pace Audio Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleashing-potential-career-exploration-in-design/"><u>[Updated] Unleashing Potential  Career Exploration in Design</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-mastering-image-quality-a-guide-without-watermarks/"><u>2024 Approved  Mastering Image Quality  A Guide Without Watermarks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-30-metaverse-gems-diy-meme-ideas-unleashed/"><u>2024 Approved  Top 30 Metaverse Gems  DIY Meme Ideas Unleashed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-free-screen-cast-tools-for-windows-ranked-1-5/"><u>2024 Approved  Ultimate Free Screen Cast Tools for Windows, Ranked #1-5</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-luxury-top-10-accessories-for-the-sj4000/"><u>2024 Approved  Unleash Luxury  Top 10 Accessories for the SJ4000</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleashing-potential-learning-to-race-with-drones-and-best-models/"><u>2024 Approved  Unleashing Potential  Learning to Race with Drones and Best Models</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlimited-dji-mini-and-air-2-luts-buy-or-free/"><u>2024 Approved  Unlimited DJI Mini & Air 2 LUTs - Buy or Free</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-real-time-collaboration-via-xbox-zoom/"><u>2024 Approved  Unlocking Real-Time Collaboration via Xbox Zoom</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-your-iphone-se-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From your iPhone SE</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-honor-x50iplus-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Honor X50i+ to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/elevate-your-valorant-experience-with-these-high-performance-tweaks-to-combat-low-fps-202n-edition/"><u>Elevate Your Valorant Experience with These High-Performance Tweaks to Combat Low FPS (202N Edition)</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/facebook-slideshow-maker-how-to-make-a-facebook-slideshow/"><u>Facebook Slideshow Maker  How to Make a Facebook Slideshow</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-lava-yuva-2-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-eliminate-the-persistent-bright-scarlet-error-on-your-pc-windows-10-solution/"><u>How to Eliminate the Persistent Bright Scarlet Error on Your PC (Windows 10 Solution)</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-flashlight-from-iphone-se-2022-lock-screen-drfone-by-drfone-ios/"><u>How To Remove Flashlight From iPhone SE (2022) Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-samsung-galaxy-s23-by-drfone-android/"><u>In 2024, How to Bypass FRP from Samsung Galaxy S23?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Itel A60s? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-c02-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Nokia C02 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-maximizing-your-firefox-multitasking-with-ffxp/"><u>In 2024, Maximizing Your Firefox Multitasking with FFXP</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-precision-trimming-elevating-your-youtube-video-quality/"><u>In 2024, Precision Trimming  Elevating Your YouTube Video Quality</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamline-filmmaking-install-xps-media-tools/"><u>In 2024, Streamline Filmmaking  Install XP's Media Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-symphony-of-sights-picture-plus-sound-videography/"><u>In 2024, Symphony of Sights  Picture + Sound Videography</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-editors-toolkit-elevating-your-video-with-inshot-transitions/"><u>In 2024, The Editor's Toolkit  Elevating Your Video with Inshot Transitions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-visual-strategy-for-podcast-branding/"><u>In 2024, The Ultimate Visual Strategy for Podcast Branding</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transforming-viewers-into-active-participants/"><u>In 2024, Transforming Viewers Into Active Participants</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-free-stopwatches-without-a-price-tag/"><u>In 2024, Ultimate Free Stopwatches Without a Price Tag</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-uncovering-key-pace-requirements-for-exceptional-slow-motion-videos/"><u>In 2024, Uncovering Key Pace Requirements for Exceptional Slow-Motion Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-clarity-with-eizos-coloredge-cg318-4k/"><u>In 2024, Unleashing Clarity with EIZO's ColorEdge CG318-4K</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-the-power-of-imagery-in-podcast-art/"><u>In 2024, Unlocking the Power of Imagery in Podcast Art</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-upgrade-your-editing-game-merging-windows-11-and-storyremix-for-video-magic/"><u>In 2024, Upgrade Your Editing Game  Merging Windows 11 & StoryRemix for Video Magic</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-venture-beyond-reality-with-our-top-1-cookies-in-mobile-vr-technology/"><u>In 2024, Venture Beyond Reality with Our Top 1 Cookies in Mobile VR Technology</u></a></li>
+<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Samsung Galaxy F04? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/magix-photography-control-an-in-depth-review-for-2024/"><u>MAGIX Photography Control  An In-Depth Review for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/proven-techniques-for-obs-broadcasting-on-fb-for-2024/"><u>Proven Techniques for OBS Broadcasting on FB for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/resolving-disabled-state-of-obs-fullscreen/"><u>Resolving Disabled State of OBS Fullscreen</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/sony-xperia-xz-superior-a-4k-mobile-experience-analysis/"><u>Sony Xperia XZ Superior  A 4K Mobile Experience Analysis</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-space-arrangement-in-fostering-a-high-performing-team-for-2024/"><u>The Art of Space Arrangement in Fostering a High-Performing Team for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-complete-guide-to-applying-vhs-filters-on-pconline-sites-for-2024/"><u>The Complete Guide to Applying VHS Filters on PC/Online Sites for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-complete-windows-10-hacks-playbook-for-2024/"><u>The Complete Windows 10 Hacks Playbook for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-complete-windows-10-know-how-reference-for-2024/"><u>The Complete WINDOWS 10 Know-How Reference for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-top-8-sites-for-sharing-and-downloading-free-3d-text-psds-for-2024/"><u>The Top 8 Sites for Sharing and Downloading Free 3D Text PSDs for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-showdown-twitchs-challenge-to-youtubes-market-for-2024/"><u>The Ultimate Showdown  Twitch's Challenge to YouTube's Market for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/top-10-iconic-song-selections-for-inspiring-short-film-scenes/"><u>Top 10 Iconic Song Selections for Inspiring Short Film Scenes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-tones-where-to-access-google-pixel-music-in-2024/"><u>Top Tones  Where to Access Google Pixel Music, In 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/unveiling-secret-youtube-clips-a-step-by-step-guide/"><u>Unveiling Secret YouTube Clips  A Step-by-Step Guide</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-the-best-places-to-download-games-online/"><u>Updated In 2024, The Best Places to Download Games Online</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>What is Geo-Blocking and How to Bypass it On Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
+</ul></div>

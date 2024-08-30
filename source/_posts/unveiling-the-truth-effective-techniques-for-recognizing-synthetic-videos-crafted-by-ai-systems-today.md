@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Truth: Effective Techniques for Recognizing Synthetic Videos Crafted by AI Systems Today"
-date: 2024-08-28 21:40:30
-updated: 2024-08-29 11:25:24
+date: 2024-08-29T20:44:50.117Z
+updated: 2024-08-30T20:44:50.117Z
 tags:
   - cutting-edge
 categories:
@@ -42,12 +42,18 @@ thumbnail: https://thmb.techidaily.com/db6e8bb5b9330de241494205e28fd162607bcee64
 
 ![OpenAI SORA Tokyo night scene example clip.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/tokyo_clothes1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 OpenAI
 
  Now take a look at the same clothes in the close-up and you’ll see that the dress now has dark patches on it and that the leather jacket has a much larger off-center lapel:
 
 ![OpenAI SORA Tokyo night scene close up.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/tokyo_clothes2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 OpenAI
 
  This is so subtle that most people would need to watch the footage multiple times to spot it. The scene is dense, filled with reflections, and background actors which helps distract you from the gaffe.
@@ -76,10 +82,16 @@ OpenAI
 
 ![OpenAI SORA Lagos street scene depicting some irregularities.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/lagos_third_arm.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 OpenAI
 
  Can you take your third arm off my leg, please?
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Look Closely at Objects in the Background of an Image
 
  Background details are often a dead giveaway when it comes to AI-generated video, even more so than photos. A good fake depends on the subject being convincing enough to distract you that the background isn’t quite behaving in the way it should be.
@@ -114,20 +126,32 @@ OpenAI
 
 ![OpenAI SORA spaceman with a knitted helmet video demonstrating the uncanny valley effect.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/uncanny_valley.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 OpenAI
 
  And there’s a similarly [ghoulish grandmother](https://cdn.openai.com/sora/videos/grandma-birthday.mp4) failing to blow out her birthday candles, which looks far worse in motion:
 
 ![OpenAI SORA's nightmare granny.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/nightmare_granny.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 OpenAI
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ##  Watch Out for Nonsense
 
  This seems like the easiest red flag to spot, but sometimes your brain just gives things a pass. The aforementioned spaceman video is a good example of this. There’s a brief scene of a door, or a handle, or a lever, or _something_ that just doesn’t make sense:
 
 ![OpenAI SORA spaceman video depicting a weird object.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/weird_lever.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 OpenAI
 
  What is this thing? Why is the animation seemingly played in reverse? The knitted helmet I can excuse, but this thing has puzzled me since the moment I saw it.
@@ -158,3 +182,50 @@ OpenAI
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-how-to-integrate-youtube-playlists-into-your-site/"><u>[New] 2024 Approved  How to Integrate YouTube Playlists Into Your Site</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamline-your-study-avoiding-edgenuity-videos-efficiently/"><u>[New] Streamline Your Study  Avoiding Edgenuity Videos Efficiently</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-taking-the-leap-secrets-for-free-fcp-acquisition/"><u>[New] Taking the Leap  Secrets for Free FCP Acquisition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-complete-sdr-to-hdr-upgrade-blueprint/"><u>[New] The Complete SDR to HDR Upgrade Blueprint</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-key-to-engaging-intros-in-podcast-scripts/"><u>[New] The Key to Engaging Intros in Podcast Scripts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-cheat-sheet-for-using-movie-maker-on-win11/"><u>[New] The Ultimate Cheat Sheet for Using Movie Maker on Win11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tips-for-optimizing-tiktok-video-sharing-on-zoom/"><u>[New] Tips for Optimizing TikTok Video Sharing on Zoom</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-psd-layer-control/"><u>[New] Ultimate PSD Layer Control</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unleash-your-potential-with-periscope-broadcasts/"><u>[New] Unleash Your Potential with Periscope Broadcasts</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-vanishing-in-the-crowd-how-to-peruse-instagram-stories-on-various-platforms-anonymously-for-2024/"><u>[New] Vanishing in the Crowd  How to Peruse Instagram Stories on Various Platforms Anonymously for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-a-guide-to-the-finest-apps-for-instagram-reel-creation/"><u>[Updated] A Guide to the Finest Apps for Instagram Reel Creation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-thriving-amidst-the-world-of-podcasts/"><u>[Updated] The Ultimate Guide to Thriving Amidst the World of Podcasts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tips-for-a-seamless-experience-accessing-youtube-video-comments/"><u>[Updated] Tips for a Seamless Experience  Accessing YouTube Video Comments</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-tier-tone-transmitter-for-voice-artists/"><u>[Updated] Top-Tier Tone Transmitter for Voice Artists</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tutorial-on-stopping-automatic-youtube-video-prefaces/"><u>[Updated] Tutorial on Stopping Automatic YouTube Video Prefaces</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-advanced-ar-visualization-techniques-using-custom-luts/"><u>[Updated] Unlocking Advanced AR Visualization Techniques Using Custom LUTs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-youtube-subtitles-a-guide-with-3-efficient-techniques/"><u>[Updated] Unlocking YouTube Subtitles  A Guide with 3 Efficient Techniques</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-catchy-captions-the-ultimate-guide-to-animated-text-on-ig/"><u>2024 Approved  Catchy Captions  The Ultimate Guide to Animated Text on IG</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-master-your-message-15-powerful-snap-ideas/"><u>2024 Approved  Master Your Message  15 Powerful Snap Ideas</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-professional-steps-for-high-quality-powerpoint-replays/"><u>2024 Approved  Professional Steps for High-Quality PowerPoint Replays</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-your-windows-10-experience-crash-free-photos-viewing/"><u>2024 Approved  Streamline Your Windows 10 Experience  Crash-Free Photos Viewing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamlining-communication-the-art-of-using-zoom-in-win11/"><u>2024 Approved  Streamlining Communication  The Art of Using Zoom in Win11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-going-unseen-during-instagram-live-events/"><u>2024 Approved  The Art of Going Unseen During Instagram Live Events</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-complete-handbook-to-securing-product-sponsorships-on-youtube/"><u>2024 Approved  The Complete Handbook to Securing Product Sponsorships on Youtube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transform-your-pubg-presence-with-new-sounds/"><u>2024 Approved  Transform Your PUBG Presence with New Sounds</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleashing-potential-key-tips-for-hospitals-fb-ad-reach/"><u>2024 Approved  Unleashing Potential  Key Tips for Hospitals' FB Ad Reach</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/capture-and-share-best-social-media-tools-of-the-year-for-2024/"><u>Capture and Share  Best Social Media Tools of the Year for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1721854852298-gpt-series-faceoff-exploring-the-unique-aspects-of-gpt-4-gpt-4-turbo-and-gpt-4o-models/"><u>GPT-Series Faceoff: Exploring the Unique Aspects of GPT-4, GPT-4 Turbo & GPT-4o Models</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-solve-the-unknown-usb-device-failure-problem-effectively/"><u>How To Solve the 'Unknown USB Device Failure' Problem Effectively</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-apple-iphone-12-online-without-jailbreak-by-drfone-ios/"><u>How to Unlock SIM Card on Apple iPhone 12 online without jailbreak</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-one-click-humor-your-guide-to-the-ifunny-meme-app/"><u>In 2024, One Click Humor  Your Guide to the iFunny Meme App</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-revolutionize-playtime-win11s-game-library/"><u>In 2024, Revolutionize Playtime  Win11's Game Library</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-sidestep-personalized-podcast-suggestions-in-spotify/"><u>In 2024, Sidestep Personalized Podcast Suggestions in Spotify</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-cinematographer-secrets-for-exceptional-visuals/"><u>In 2024, Top Cinematographer Secrets for Exceptional Visuals</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-ranked-comedic-image-editor/"><u>In 2024, Top-Ranked Comedic Image Editor</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-from-apple-iphone-6s-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server From Apple iPhone 6s</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-unveiling-premium-screen-recorders-in-tech/"><u>In 2024, Unveiling Premium Screen Recorders in Tech</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-upgrade-to-professionalism-the-most-advanced-9-filter-techniques/"><u>In 2024, Upgrade to Professionalism  The Most Advanced 9 Filter Techniques</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-edge-40-neo-won-t-play-mov-videos-how-to-fix-by-aiseesoft-video-converter-play-mov-on-android/"><u>Motorola Edge 40 Neo won't play MOV videos, how to fix ?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-srt-to-video-top-10-free-subtitle-tools-for-2024/"><u>Transform SRT to Video - Top 10 FREE Subtitle Tools for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-your-snapchat-pics-with-playful-cartoon-lens-for-2024/"><u>Transform Your Snapchat Pics with Playful Cartoon Lens for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unpacking-virtual-reality-its-upside-and-downside-for-2024/"><u>Unpacking Virtual Reality  Its Upside & Downside for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-ultimate-action-cam-max-360-vs-hero-11-gopro-showdown-for-2024/"><u>Unveiling the Ultimate Action Cam  Max 360 vs Hero 11 GoPro Showdown for 2024</u></a></li>
+</ul></div>

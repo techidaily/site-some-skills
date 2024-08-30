@@ -1,7 +1,7 @@
 ---
 title: How to Set Up a Personal Streaming Station with Icecast on Linux
-date: 2024-08-27 23:51:52
-updated: 2024-08-29 12:49:26
+date: 2024-08-29T20:42:03.708Z
+updated: 2024-08-30T20:42:03.708Z
 tags:
   - desktop
 categories:
@@ -50,10 +50,16 @@ sudo dnf install icecast
 
 ![Terminal window asking if you would like to configure Icecast on Debian](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-8.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
  Since we're setting up a private radio stream, we'll enter the machine's [LAN IP](https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/) at the next prompt:
 
 ![Terminal window asking for your address for Icecast on Debian](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-8.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
  A source client is the program you use that streams media files (or live audio) _to the server_. The source password authenticates with Icecast to allow you to start a stream. I recommend a unique password and not the default (which is "hackme"). Maybe something like:
 
 ![Terminal window asking for a source password for Icecast on Debian](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-6.png) 
@@ -62,6 +68,9 @@ sudo dnf install icecast
 
 ![Terminal window asking for a relay password for Icecast on Debian](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5-8.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Finally, we're asked for the admin user password. You'll use this to access Icecast's web interface admin section. Change the default to something unique:
 
 ![Terminal window asking for an admin password for Icecast on Debian](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/6-6.png) 
@@ -70,20 +79,32 @@ sudo dnf install icecast
 
 ![Terminal window showing the vim command to edit icecast.xml on Fedora](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-install-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
  The default configuration is well-thought-out for most simple installations like ours. Icecast developers recommend the best practice of changing as little as possible, and fine-tune afterwards to suit your needs.
 
  First, change passwords from their defaults:
 
 ![Editor with icecast icecast.xml open, showing passwords to edit](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5-install-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
  Next, change the bind-address to your server's LAN IP address:
 
 ![Editor with icecast icecast.xml open, showing bind-address to edit](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/7-install-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Save the configuration file, then restart Icecast for our changes to take effect:
 
 ![Terminal window showing the command to restart Icecast, applying new configuration](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/9-install.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
  Let's verify that we're up and running:
 
 sudo systemctl status icecast.service
@@ -117,6 +138,9 @@ ePirat / Xiph.org Foundation
 
 ![BUTT dialog window showing server settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/butt-1-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
  The test setup here uses non-[TLS](https://extra-skills.techidaily.com/2024-approved-inspirational-movies-for-momentum-and-self-belief/) communications on port 8000\. [Icecast fully supports SSL/TLS encryption](https://www.icecast.org/docs/icecast-2.4.1/config-file.html#ports) but [creating certs](https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-vivo-y17s-online-without-jailbreak-by-drfone-android/) is outside the scope of this tutorial. **I highly recommend using TLS** if you decide to make your stream accessible from anywhere outside your private, local network!
 
  Ok, let's talk sound! Following in the spirit of F/OSS, we'll use [Opus](https://www.opus-codec.org/) (a totally open, royalty-free, highly versatile and widely supported audio codec, also created by Xiph.org) for our stream.
@@ -129,10 +153,16 @@ ePirat / Xiph.org Foundation
 
 ![BUTT dialog window showing main settings and to save configuration](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/butt-3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
  From here you can close the "Settings" window. When you're ready, click on the "Play" button, which will start your stream. If you've configured everything correctly, you'll currently be making your server's radio stream debut!
 
 ![BUTT main window actively streaming to Icecast](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/butt-4.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
  Cool! Now let's log into the Icecast web UI at "http://LAN\_IP:8000/admin/" and enter "admin" for the username along with your configured Icecast admin password:
 
 ![Browser window asking for username and password to log into Icecast administration section](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/ff-1.png) 
@@ -145,6 +175,9 @@ ePirat / Xiph.org Foundation
 
 ![Browser window showing active Icecast mountpoints](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/ff-3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
  This link, minus the .M3U extension, is what you will use to listen with your web browser.
 
 ##  Choosing a Listener Client
@@ -193,3 +226,46 @@ ePirat / Xiph.org Foundation
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-transforming-hobby-footage-into-professional-vlogs/"><u>[New] Transforming Hobby Footage Into Professional Vlogs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transforming-srt-into-subc-top-3-actionable-steps/"><u>[New] Transforming SRT Into SUBC  Top 3 Actionable Steps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tweaking-sound-on-ps5ps4-games/"><u>[New] Tweaking Sound on PS5/PS4 Games</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-choice-top-5-pro-fish-action-cameras/"><u>[New] Ultimate Choice  Top 5 Pro-Fish Action Cameras</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-building-blocks-of-virtual-experience-terminology/"><u>[Updated] In 2024, Building Blocks of Virtual Experience Terminology</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-enhancing-collaboration-with-win11-and-zoom-techniques/"><u>[Updated] In 2024, Enhancing Collaboration with Win11 and Zoom Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tactics-for-pinpointing-ideal-podcast-debut-days/"><u>[Updated] Tactics for Pinpointing Ideal Podcast Debut Days</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-editing-odyssey-journey-to-photo-mastery/"><u>[Updated] The Editing Odyssey  Journey to Photo Mastery</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-mobile-solutions-to-sharpen-dji-drone-shoots/"><u>[Updated] Ultimate Mobile Solutions to Sharpen DJi Drone Shoots</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-mirthful-methods-building-humor-in-a-click/"><u>2024 Approved  Mirthful Methods  Building Humor in a Click</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-navigating-iphones-with-ease-download-podcasts-made-simple/"><u>2024 Approved  Navigating iPhones with Ease - Download Podcasts Made Simple</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-navigating-the-nuances-of-ps4-live-gaming-recordings/"><u>2024 Approved  Navigating the Nuances of PS4 Live Gaming Recordings</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-take-notes-if-necessary-jotting-down-key-points-can-help-you-better-remember-information-while-listening/"><u>2024 Approved  Take Notes (if Necessary)  Jotting Down Key Points Can Help You Better Remember Information While Listening</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-polishing-and-personalizing-drone-videos/"><u>2024 Approved  The Art of Polishing and Personalizing Drone Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-essentials-of-writing-amazing-end-of-episode-scripts/"><u>2024 Approved  The Essentials of Writing Amazing End-of-Episode Scripts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-picture-frames-and-organizers/"><u>2024 Approved  Top 10 Picture Frames & Organizers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transform-your-photos-removing-backdrops-with-ease/"><u>2024 Approved  Transform Your Photos  Removing Backdrops with Ease</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-images-with-dynamic-mosaic-designs/"><u>2024 Approved  Transforming Images with Dynamic Mosaic Designs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-art-of-audio-blend-with-audacity-techniques/"><u>2024 Approved  Unveiling the Art of Audio Blend with Audacity Techniques</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-realme-gt-neo-5-se-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Realme GT Neo 5 SE to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-slow-or-non-existent-data-transmission-in-epson-devices/"><u>Fixing Slow or Non-Existent Data Transmission in Epson Devices</u></a></li>
+<li><a href="https://fox-info.techidaily.com/full-exploration-of-the-sj7s-high-definition-star-cameras-for-action-for-2024/"><u>Full Exploration of the SJ7's High-Definition Star Cameras for Action for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-xiaomi-redmi-k70withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Xiaomi Redmi K70with/without a PC</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-itel-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Itel FRP In 3 Different Ways</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-xs-max-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone XS Max to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-multimedia-artists-cyber-meeting-room/"><u>In 2024, Multimedia Artists' Cyber Meeting Room</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-synchronized-screenshots-pc-or-cloud-perfection/"><u>In 2024, Synchronized Screenshots  PC or Cloud Perfection</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-10-mac-exclusive-free-drawing-platforms/"><u>In 2024, Top 10 Mac-Exclusive Free Drawing Platforms</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-backdrop-change-kit-pixelpioneers-reveal/"><u>In 2024, Ultimate Backdrop Change Kit  PixelPioneer's Reveal</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-the-power-of-zoom-with-your-chrome-os-device/"><u>In 2024, Unlocking the Power of Zoom with Your Chrome OS Device</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-freezing-how-to-repair-phoenix-point-game-crashes-easily/"><u>No More Freezing - How to Repair Phoenix Point Game Crashes Easily</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tapping-into-community-spirit-a-guide-to-thriving-fb-gifting-campaigns-for-2024/"><u>Tapping Into Community Spirit  A Guide to Thriving FB Gifting Campaigns for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/telescope-truth-expose-for-2024/"><u>Telescope Truth Exposé for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-elite-set-of-android-photoshoppers-for-2024/"><u>The Elite Set of Android Photoshoppers for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-removing-backdrops-a-comprehensive-approach-for-2024/"><u>The Ultimate Guide to Removing Backdrops  A Comprehensive Approach for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-ultimate-guide-to-skype-sessions-with-obs-streaming-for-2024/"><u>The Ultimate Guide to Skype Sessions with OBS Streaming for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-vivo-v27e-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Vivo V27e Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-persistent-freezing-issues-in-minecraft-dungeons-on-windowsmac/"><u>Troubleshooting Persistent Freezing Issues in Minecraft Dungeons on Windows/Mac</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/verifying-online-self-portraits-on-insta-for-2024/"><u>Verifying Online Self-Portraits on Insta for 2024</u></a></li>
+</ul></div>

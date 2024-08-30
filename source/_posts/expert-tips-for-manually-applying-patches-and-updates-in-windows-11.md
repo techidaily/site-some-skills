@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Manually Applying Patches and Updates in Windows 11
-date: 2024-08-28 16:33:46
-updated: 2024-08-29 10:53:57
+date: 2024-08-29T20:41:09.486Z
+updated: 2024-08-30T20:41:09.486Z
 tags:
   - desktop
 categories:
@@ -51,12 +51,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The trash can icon selected for the Windows Update cache files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/3-clear-windows-update-cache.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
  You’ve removed all the update files. Close File Explorer, return to the Services window, right-click the "Windows Update" service, and choose "Start."
 
 !['Start' selected for the Windows Update service.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/4-start-windows-update-service.jpg) 
 
  You’re set.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ##  From Windows Settings
 
  One way to force updates to install is by using the Settings app. Here, you can choose whether to install the available updates or only specific ones.
@@ -65,12 +71,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 !['Windows Update' highlighted in Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/5-windows-update-settings.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
  On the right pane, click "Download & Install All" to download and install the available updates. To only download and install specific updates, click the button next to those updates.
 
 !['Download & Install All' highlighted on the Windows Update screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/6-download-install-all-windows-updates.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Wait while Windows obtains and installs the selected updates, then [reboot your Windows 11 PC](https://screen-video-capture.techidaily.com/updated-in-2024-addressing-mute-problems-in-obs-live-recording/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  From Microsoft Update Catalog
 
 [Microsoft Update Catalog](https://www.catalog.update.microsoft.com/Home.aspx) is a site where you can find and download any Windows update you want. This allows you to manually download an update and then install that update on your PC—all without using the Windows Update feature.
@@ -83,6 +98,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![An update name typed in the search box on the Microsoft Update Catalog site.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/8-find-windows-update.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
  On the following screen, find the exact update and click "Download" next to that update.
 
 !['Download' highlighted for an update on the Microsoft Update Catalog site.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/9-choose-windows-update.jpg) 
@@ -91,6 +109,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![An update name highlighted on the Microsoft Update Catalog site.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/10-download-windows-update.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
  After downloading the update, run the update file and follow the on-screen instructions. The file will extract the update files and install the update on your system.
 
 ##  Using Command Prompt
@@ -117,6 +138,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
     
 ![The command to install a Windows update typed in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/12-install-windows-update-cmd.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
  Run the following command to check if the update was successfully installed:
 
         `wmic qfe list brief /format:pagele`
@@ -129,6 +153,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
     
  And your Windows PC is now up-to-date.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Using Windows PowerShell
 
  PowerShell allows you to find all the available updates for your PC and then download and install those updates. Unlike with Command Prompt, you don’t need to manually download the updates first.
@@ -143,6 +170,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
     
 ![The cmdlet to install the Windows Update module typed in PowerShell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/14-install-windows-update-module-powershell.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  When PowerShell prompts, type **Y** and press Enter. Then, run the following cmdlet, type **Y**, and press Enter:
 
         `Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser`
@@ -187,3 +217,46 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/-practical-approach-to-creating-captivating-youtube-shorts-templates-for-2024/"><u>[New] A Practical Approach to Creating Captivating YouTube Shorts Templates for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tooninnovate-master-review-year-2024-edition/"><u>[New] ToonInnovate Master Review - Year 2024 Edition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-considerations-for-enhancing-your-4k-cinematic-quality/"><u>[New] Top Considerations for Enhancing Your 4K Cinematic Quality</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-understanding-the-mechanics-of-whatsapp-voice-conversations/"><u>[New] Understanding the Mechanics of WhatsApp Voice Conversations</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlock-the-power-of-podcasts-15-activities-that-blend-multitasking-and-growth/"><u>[New] Unlock the Power of Podcasts  15 Activities that Blend Multitasking and Growth</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-art-of-masterful-job-interview-execution/"><u>[New] Unveiling the Art of Masterful Job Interview Execution</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-maximizing-play-in-apex-legends-without-cross-platform-limitations/"><u>[Updated] In 2024, Maximizing Play in Apex Legends Without Cross-Platform Limitations</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-spectrum-enhanced-by-blades-newest-quad-hd-cameras/"><u>[Updated] The Spectrum Enhanced by Blade's Newest Quad-HD Cameras</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-tips-for-optimal-frame-rate-manipulation/"><u>[Updated] Top Tips for Optimal Frame Rate Manipulation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-hidden-details-roblox-closeup-secrets/"><u>[Updated] Unlocking Hidden Details  Roblox Closeup Secrets</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-adobes-storage-mastery-and-the-hunt-for-top-non-adobe-backup-services/"><u>[Updated] Unveiling Adobe's Storage Mastery & The Hunt for Top Non-Adobe Backup Services</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-leveraging-video-features-annotations-and-cards/"><u>2024 Approved  Leveraging Video Features  Annotations & Cards</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-your-media-with-top-8-convertors-1-8/"><u>2024 Approved  Streamline Your Media with Top 8 Convertors #1-8</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-prime-monitor-companion-for-gaming-on-xbox-series-x/"><u>2024 Approved  The Prime Monitor Companion for Gaming on Xbox Series X</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tips-for-adding-personalized-audio-effects-to-windows-10-photos/"><u>2024 Approved  Tips for Adding Personalized Audio Effects to Windows 10 Photos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-notch-tricks-to-nail-every-green-screen-shot/"><u>2024 Approved  Top-Notch Tricks to Nail Every Green Screen Shot</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-black-battery-compatibility-with-gopro-hero5/"><u>2024 Approved  Ultimate Black Battery Compatibility with GoPro Hero5</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-uncovering-average-earnings-podcaster-edition/"><u>2024 Approved  Uncovering Average Earnings  Podcaster Edition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unparalleled-pc-sound-control/"><u>2024 Approved  Unparalleled PC Sound Control</u></a></li>
+<li><a href="https://article-posts.techidaily.com/assessing-ffmpegs-prowess-in-original-audio-extraction/"><u>Assessing FFmpeg’s Prowess in Original Audio Extraction</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-huawei-nova-y71-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Huawei Nova Y71.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-gt-neo-5-se-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on GT Neo 5 SE</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-harness-the-power-of-analytics-to-rise-in-fan-counts/"><u>In 2024, Harness the Power of Analytics to Rise in Fan Counts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-future-of-flying-games-mavic-air-vs-dji-spark-showdown/"><u>In 2024, The Future of Flying Games  Mavic Air Vs. DJI Spark Showdown</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-path-to-insta-prominence-unveiling-9-key-moves-for-fame-seekers/"><u>In 2024, The Path to Insta Prominence  Unveiling 9 Key Moves for Fame Seekers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-blueprint-for-flawless-srt-construction/"><u>In 2024, The Ultimate Blueprint for Flawless SRT Construction</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-through-the-viewfinder-tips-for-artistic-photo-edits/"><u>In 2024, Through the Viewfinder  Tips for Artistic Photo Edits</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-techniques-for-incorporating-hyperlinks-into-tiktok-profiles/"><u>In 2024, Top Techniques for Incorporating Hyperlinks Into TikTok Profiles</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-money-potential-a-beginners-guide-on-periscope/"><u>In 2024, Unlocking Money Potential  A Beginner's Guide on Periscope</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/interactive-media-meets-brand-partnerships-on-youtube/"><u>Interactive Media Meets Brand Partnerships on YouTube</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722977430713-keep-your-msi-x470-gaming-plus-updated-download-compatible-drivers-today/"><u>Keep Your MSI X470 Gaming Plus Updated - Download Compatible Drivers Today</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/mastering-twitter-videos-adhere-to-aspect-ratio-rules-for-2024/"><u>Mastering Twitter Videos  Adhere to Aspect Ratio Rules for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-amusement-master-memes-with-kapwing-for-2024/"><u>The Art of Amusement – Master Memes with Kapwing for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-best-of-the-best-unrivaled-business-strategy-games-guide/"><u>The Best of the Best  Unrivaled Business Strategy Games' Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-step-by-step-for-adding-a-link-in-your-tiktok-bios-for-2024/"><u>The Ultimate Step-by-Step for Adding a Link in Your TikTok Bios for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-10-live-audio-broadcast-networks-for-2024/"><u>Top 10 Live Audio Broadcast Networks for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleash-windows-11-potential-latest-apps-and-games-for-2024/"><u>Unleash Windows 11 Potential  Latest Apps & Games for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/venturing-into-video-production-top-5-mac-videographers-for-2024/"><u>Venturing Into Video Production? Top 5 Mac Videographers for 2024</u></a></li>
+</ul></div>

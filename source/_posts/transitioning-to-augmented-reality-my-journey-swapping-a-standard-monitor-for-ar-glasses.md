@@ -1,7 +1,7 @@
 ---
 title: "Transitioning to Augmented Reality: My Journey Swapping a Standard Monitor for AR Glasses"
-date: 2024-08-27 15:40:17
-updated: 2024-08-29 11:55:43
+date: 2024-08-29T20:45:47.472Z
+updated: 2024-08-30T20:45:47.472Z
 tags:
   - cutting-edge
 categories:
@@ -29,6 +29,9 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
 
 Bertel King / How-To Geek
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  I Sit With Better Posture
 
  The biggest impact has been the benefit to my posture. I've spent most of my career hunched over a laptop. I ended my days feeling drained, not aware that the angle of my neck had as much to do with that as the strain on my eyes. I was making one of the [posture mistakes you want to avoid](https://fox-cloud.techidaily.com/new-composing-an-alluring-cinematic-teaser-track/) when sitting at a desk. If you work from home, it's worth getting a computer monitor with a height set at eye level.
@@ -43,6 +46,9 @@ Bertel King / How-To Geek
 
 ![A desk without a monitor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/1000061003.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Bertel King / How-To Geek
 
 ##  I Love the Portability
@@ -55,16 +61,25 @@ Bertel King / How-To Geek
 
 ![A Samsung Galaxy Z Fold 5, XREAL Air 2 Pro AR Glasses, and glasses case.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/1000061021.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 Bertel King / How-To Geek
 
  To play games, I also grab a controller. For work, I also pack a keyboard and mouse. None of these things are particularly big. The keyboard is the only one I don't bring with me when packing up a laptop.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Awkward Social Interactions
 
  There's something intuitively weird about looking at someone wearing glasses who's just sitting there, staring at the wall or gazing up at the ceiling. It's obvious when someone is watching a movie on a computer monitor. No one has any idea what's going on in my glasses, unless they hear the sound coming through the speakers or get close enough to my face to see light from the tiny displays.
 
  Wearing AR glasses is a bit like making a switch from Bluetooth speakers to Bluetooth earbuds. The former tunes people in to what you're listening to, while the latter is completely private. The thing is, while we've had decades to get used to this with audio, it's pretty new for video. When I'm alone, AR glasses are awesome, but I feel weird when I'm wearing them around others.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Great for Working Around Kids
 
  Little kids are in some ways an exception. They don't really know what's normal. They're learning that from us. When I tell them my glasses have screens, and I'm watching a video, they kind of shrug that off. They find that easier to understand than the fact that the video on their tablet comes from something called the internet which stops working if the Wi-Fi is down. I invite you to try to explain buffering to a kid (and if they buy it, please tell me how you did it!).
@@ -73,6 +88,9 @@ Bertel King / How-To Geek
 
  With the glasses on, I can look at my toddler while she rambles and give her a hug. I can keep my eyes focused on whatever Slack conversation I was in the middle of following or continue watching the clip that I was considering inserting into an article. It feels wrong, not giving them my undivided attention. At the same time, I need to work and they're not letting me. The fact that the glasses help me turn toward them more quickly probably makes them feel like I'm giving them more attention, even if my attention is split. Is that better or worse? I don't know, but at least they get the hug.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ##  Your Own Portable, Private Home Theater
 
  Watching videos is one of the best uses for AR glasses. I can be sitting at the kitchen table eating my lunch while watching a video that takes up most of my field of view. I can lie down in bed and watch a film that takes up half of the ceiling. I'm not contorting my neck into whichever awkward position helps me see the phone or laptop screen.
@@ -105,3 +123,56 @@ Bertel King / How-To Geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-synchronize-successfully-5-steps-for-data-migration/"><u>[New] Synchronize Successfully  5 Steps for Data Migration</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-syncing-your-favorite-tunes-moving-playlists-across-platforms/"><u>[New] Syncing Your Favorite Tunes  Moving Playlists Across Platforms</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-thanks-for-curating-premium-and-free-outro-themes/"><u>[New] Thanks for Curating  Premium & Free Outro Themes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-kinemaster-guide-to-green-screening/"><u>[New] The Ultimate KineMaster Guide to Green Screening</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-5-cloud-giants-unlimited-capacity-showdown/"><u>[New] Top 5 Cloud Giants  Unlimited Capacity Showdown</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-twitch-replay-tricks-20-ways-to-retrace-your-stream-trail/"><u>[New] Twitch Replay Tricks  20 Ways to Retrace Your Stream Trail</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-black-battery-compatibility-with-gopro-hero5/"><u>[New] Ultimate Black Battery Compatibility with GoPro Hero5</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlock-the-full-potential-of-vr-on-your-android-device/"><u>[New] Unlock the Full Potential of VR on Your Android Device</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-apples-podcast-potential-an-instructional-guide/"><u>[New] Unlocking Apple's Podcast Potential  An Instructional Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-best-ps5-and-xbox-gaming-monitors/"><u>[New] Unveiling the Best PS5 & Xbox Gaming Monitors</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-updated-inquiry-collection-for-podcast-appeal/"><u>[New] Updated Inquiry Collection for Podcast Appeal</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-download-screen-recorder-pro-for-windows-11/"><u>[Updated] 2024 Approved  Download Screen Recorder Pro for Windows 11</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-ultimate-hd-capture-top-tier-recorder-titles/"><u>[Updated] 2024 Approved  Ultimate HD Capture  Top-Tier Recorder Titles</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-guide-to-use-luts-in-premiere-pro/"><u>[Updated] Guide to Use LUTs in Premiere Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-guide-to-using-eraser-tool-in-photoshop/"><u>[Updated] Guide to Using Eraser Tool In Photoshop</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-steps-to-prevent-youtube-channels-mobile-and-desktop-methods/"><u>[Updated] Steps to Prevent Youtube Channels  Mobile and Desktop Methods</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-total-capture-trio-setup/"><u>[Updated] Total Capture Trio Setup</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleashing-visual-velocity-illustrators-guide-to-motion-blurs/"><u>[Updated] Unleashing Visual Velocity  Illustrator's Guide to Motion Blurs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unraveling-the-mystery-of-vr-gear-selection-wireless-elegance-versus-cable-convenience/"><u>[Updated] Unraveling the Mystery of VR Gear Selection  Wireless Elegance versus Cable Convenience</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722960527189-0-driver-now/"><u>0 Driver Now!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-elevate-your-page-a-guide-to-growing-facebook-followers/"><u>2024 Approved  Elevate Your Page  A Guide to Growing Facebook Followers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-interactive-design-best-practices-for-srgb-and-rgb/"><u>2024 Approved  Interactive Design  Best Practices for Srgb and Rgb</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-navigating-the-world-of-lut-based-color-correction/"><u>2024 Approved  Navigating the World of LUT-Based Color Correction</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-strategies-and-techniques-in-documentary-scriptwriting/"><u>2024 Approved  Strategies and Techniques in Documentary Scriptwriting</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-synching-worlds-instagram-to-tiktok-essentials/"><u>2024 Approved  Synching Worlds  Instagram to TikTok Essentials</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-toolwiz-photosapp-overview-a-complete-analysis-and-future-prospects/"><u>2024 Approved  Toolwiz PhotosApp Overview - A Complete Analysis and Future Prospects</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-takes-2022-skating-spectaculars/"><u>2024 Approved  Top Takes - 2022 Skating Spectaculars</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-turning-pinterest-video-into-downloadable-mp3-files/"><u>2024 Approved  Turning Pinterest Video Into Downloadable MP3 Files</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unmask-the-tricks-of-photo-and-video-upload-in-win11/"><u>2024 Approved  Unmask the Tricks of Photo & Video Upload in Win11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unravel-the-potential-of-multiple-screen-usage-in-netflix/"><u>2024 Approved  Unravel The Potential of Multiple Screen Usage in Netflix</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-ace-video-capturers-guide/"><u>2024 Approved  Unveiling Ace Video Capturers Guide</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Oppo Find N3 Flip? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-and-science-of-capturing-stunning-gopro-time-lapse/"><u>In 2024, The Art & Science of Capturing Stunning GoPro Time Lapse</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-complete-guide-to-assembling-youtube-music-collections-onlineapp-wise/"><u>In 2024, The Complete Guide to Assembling YouTube Music Collections Online/App-Wise</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-creative-utilization-of-b-footage-in-media/"><u>In 2024, The Creative Utilization of B-Footage in Media</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-key-ingredients-for-successful-instagram-unboxing-reels/"><u>In 2024, The Key Ingredients for Successful Instagram Unboxing Reels</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tips-and-tricks-to-attract-product-sponsors-to-your-youtube-channel/"><u>In 2024, Tips and Tricks to Attract Product Sponsors to Your Youtube Channel</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-ranked-costless-pixel-perfection-aid/"><u>In 2024, Top-Ranked Costless Pixel Perfection Aid</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-superior-communication-optimal-use-of-zoom-in-skype-sessions/"><u>In 2024, Unlocking Superior Communication  Optimal Use of ZOOM in Skype Sessions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-linking-three-screens-to-one-laptopdesktop/"><u>Step-by-Step Tutorial: Linking Three Screens to One Laptop/Desktop</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-future-is-here-magix-vpx-unveiled-and-tested-for-2024/"><u>The Future Is Here  Magix VPX Unveiled and Tested for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-altering-voices-for-a-competitive-edge-in-free-fire-for-2024/"><u>The Ultimate Guide  Altering Voices for a Competitive Edge in Free Fire for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-chrome-browser-vocal-transformers-revealed-for-enthusiast-users-for-2024/"><u>Top Chrome Browser Vocal Transformers Revealed for Enthusiast Users for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-real-time-webcast-applications-for-2024/"><u>Top Real-Time Webcast Applications for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/total-locomotion-survey-2023-for-2024/"><u>Total Locomotion Survey 2023 for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-your-mac-interface-with-speech-recognition-software-review-for-2024/"><u>Transform Your Mac Interface with Speech Recognition Software Review for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleashing-the-power-of-edit-in-tiktok-video-creation-for-2024/"><u>Unleashing the Power of Edit in TikTok Video Creation for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/vanguard-devices-frontline-computing-titans-for-2024/"><u>Vanguard Devices  Frontline Computing Titans for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Setting Up a Swap Space in Linux"
-date: 2024-08-28 22:21:39
-updated: 2024-08-29 12:42:26
+date: 2024-08-29T20:41:30.134Z
+updated: 2024-08-30T20:41:30.134Z
 tags:
   - desktop
 categories:
@@ -42,6 +42,9 @@ thumbnail: https://thmb.techidaily.com/213b932fcd2c7374497ebb4064c054acfe0cd4d0b
 
  Swap isn't just used as a means to free up RAM when you're running low on memory. It's an important part of a well functioning system. Without any swap, sane memory management becomes very difficult for the kernel to achieve. Let's look at the easy way to add some swap space.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ##  Before We Dive In: Btrfs and SSDs
 
  There are two points we'd like to discuss quickly.
@@ -68,6 +71,9 @@ free -h
 
 ![fre -h  in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/1-5.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The output from `free` shows that there is no swap space configured on this machine.
 
  Swap is never discussed without RAM and free RAM cropping up. So it's worth noting that the free RAM is given as 237 MB. Don't mistake that for the total of RAM available for use. That value is provided by the "available" figure, which is 881 MB.
@@ -80,10 +86,16 @@ swapon --show
 
 ![swapon --show in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/2-8.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
  If there is no output from this command, there's no swap configured.
 
  If these commands had revealed some swap space is already configured, the size of the existing swap space should be factored into decisions regarding the size of the swap file you're going to create.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How Much Swap Space Do I Need?
 
  The traditional response was "twice the amount of RAM you have." But this was coined when computers used to have very limited RAM. As RAM has become cheaper, and programs and games more demanding of memory, PC specifications have adjusted accordingly. Home PCs with 32 GB of RAM are not uncommon nowadays. And you're not going to allocate 64 GB of hard drive space to swap space if you've got 32 GB of RAM. That's plainly excessive.
@@ -125,6 +137,10 @@ sudo dd if=/dev/zero of=/swapfile bs=1024 count=1048576
 
 ![output from sudo dd if=/dev/zero of=/swapfile bs=1024 count=1048576 in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/6-8.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
  We can see the number of blocks (records) that were written to the file, the size of the file, the time taken to create the file, and the effective data transfer rate.
 
  Use the `ls` command to see the file in the root directory:
@@ -151,6 +167,9 @@ sudo chmod 600 /swapfile
 
 ![sudo chmod 600 /swapfile in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/12-4.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
  This removes all permissions from the file group members and others, but allows the file owner, root, to read and write to the file.
 
  We need to use the `swapon` command to let Linux know there is a new swap file available to use. We only need to provide the path and the filename:
@@ -159,6 +178,9 @@ sudo swapon /swapfile
 
 ![sudo swapon /swapfile in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/9-7.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The swap file is now active.
 
 ##  Adding the Swap File to fstab
@@ -169,6 +191,9 @@ sudo gedit /etc/fstab
 
 ![sudo gedt /etc/fstab in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/10-6.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
  The line we need to add to the bottom of the file is:
 
 /swapfile none swap sw 0 0
@@ -202,6 +227,9 @@ swapon --show
 * **Used**: The amount of used swap space.
 * **Prio**: The priority of this swap space.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Swap Space Priority
 
  Each swap space is allocated a priority. If you don't provide one, one is automatically allocated. Automatically allocated priorities are always negative. The range of priorities that can be manually allocated is 0 to 32767\. Swap resources with higher priorities are used first.
@@ -218,6 +246,9 @@ swapon -- show
 
 ![swapon -- show in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/15-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The priority of this swap space has been elevated to 10\. Which is proof positive that the options field in the `/etc/fstab` entry is not ignored.
 
 ##  Swap Space Made Easy
@@ -238,6 +269,9 @@ swapon --show
 
 ![sudo dd if=/dev/zero /of=/swapfile2 bs=1024 count=104857 in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/16-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
  If you want to make that permanent drop, it into your `/etc/fstab` file.
 
  Boom. Job done.
@@ -262,3 +296,51 @@ swapon --show
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-answers.techidaily.com/fixed-6-fixes-for-modern-warfare-2-crashing-on-pc/"><u>[Fixed] 6 Fixes for Modern Warfare 2 Crashing on PC</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-new-iphone-x-camera-features-you-need-to-know/"><u>[New] New iPhone X Camera Features You Need to Know</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-pros-guide-to-efficient-win11-use/"><u>[New] The Pro's Guide to Efficient Win11 Use</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-10-subtitle-converters-no-cost-for-srt-files/"><u>[New] Top 10 Subtitle Converters, No Cost for SRT Files</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-error-1067-the-process-terminated-unexpectedly-on-windows/"><u>[SOLVED] Error 1067: The Process Terminated Unexpectedly on Windows</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-cinematic-evolution-the-best-youtube-guides-for-new-filmmakers/"><u>[Updated] 2024 Approved  Cinematic Evolution  The Best YouTube Guides for New Filmmakers</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-easy-ways-to-add-music-to-imovie-from-youtube/"><u>[Updated] 2024 Approved  Easy Ways to Add Music to iMovie From YouTube</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-highlight-heroics-in-samsung-phone-games/"><u>[Updated] Highlight Heroics in Samsung Phone Games</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-profits-in-pixels-the-complete-guide-to-making-money-on-vimeo/"><u>[Updated] Profits in Pixels  The Complete Guide to Making Money on Vimeo</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-strengthening-video-impact-with-professional-audio-cues/"><u>[Updated] Strengthening Video Impact with Professional Audio Cues</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-superior-selection-best-windows-videophone-apps-guide/"><u>[Updated] Superior Selection  Best Windows Videophone Apps Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-metaverse-multiverse-dichotomy-explained/"><u>[Updated] The Metaverse-Multiverse Dichotomy Explained</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-streaming-spectrum-digital-vs-physical-frontiers/"><u>[Updated] The Streaming Spectrum  Digital vs Physical Frontiers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-exploration-inside-xcreative-media-suite/"><u>[Updated] The Ultimate Exploration  Inside XCreative Media Suite</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-choice-video-capture-apps-iphone/"><u>[Updated] Top Choice Video Capture Apps iPhone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transform-your-images-basic-tips-with-lunapic/"><u>[Updated] Transform Your Images  Basic Tips with LunaPic</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transforming-photos-remove-background-with-ease/"><u>[Updated] Transforming Photos  Remove Background with Ease</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlock-video-quality-with-apple-music-addition/"><u>[Updated] Unlock Video Quality with Apple Music Addition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-animated-magic-with-movie-maker-software/"><u>[Updated] Unveiling Animated Magic with Movie Maker Software</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-starter-guide-to-motion-graphics-mastery/"><u>2024 Approved  Starter Guide to Motion Graphics Mastery</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-volume-of-videos-on-a-64128gb-memory-bank/"><u>2024 Approved  The Volume of Videos on a 64/128GB Memory Bank</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-tier-strategies-for-flawless-srt-file-integration-on-vero-and-tumblr/"><u>2024 Approved  Top-Tier Strategies for Flawless SRT File Integration on Vero & Tumblr</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transform-your-imagination-into-visual-masterpieces-on-windows-10/"><u>2024 Approved  Transform Your Imagination Into Visual Masterpieces on Windows 10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultima-designs-analysis-pinnacle-suite-studio-2023-overview/"><u>2024 Approved  Ultima Designs Analysis  Pinnacle Suite Studio, 2023 Overview</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-hdrs-impact-on-improved-video-workflow/"><u>2024 Approved  Unveiling HDR's Impact on Improved Video Workflow</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-motionmaster-win8-edition/"><u>In 2024, MotionMaster Win8 Edition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-swiftly-blur-your-iphone-shots-with-these-4-tricks/"><u>In 2024, Swiftly Blur Your iPhone Shots with These 4 Tricks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-syncopation-and-screenplay-directing-music-videos-with-ios/"><u>In 2024, Syncopation & Screenplay  Directing Music Videos with iOS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-science-of-color-representation-srgb-and-rgb/"><u>In 2024, The Science of Color Representation  Srgb & Rgb</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-podcast-introduction-skills/"><u>In 2024, The Ultimate Guide to Podcast Introduction Skills</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-meme-design-collection/"><u>In 2024, The Ultimate Meme Design Collection</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-choices-for-enhancing-drone-functionality-and-flexibility/"><u>In 2024, Top Choices for Enhancing Drone Functionality and Flexibility</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-shots-and-their-tales-the-most-shared-stock-memes/"><u>In 2024, Top Shots and Their Tales  The Most Shared Stock Memes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transform-images-top-5-android-tools/"><u>In 2024, Transform Images  Top 5 Android Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-conversion-guide-sdr-to-stunning-hdr-visuals/"><u>In 2024, Ultimate Conversion Guide  SDR to Stunning HDR Visuals</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unparalleled-screenplay-craftsmanship-across-varied-fields/"><u>In 2024, Unparalleled Screenplay Craftsmanship Across Varied Fields</u></a></li>
+<li><a href="https://some-skills.techidaily.com/swiftly-sharpen-images-with-windows-11-pro-for-2024/"><u>Swiftly Sharpen Images with Windows 11 Pro for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tailoring-humor-with-9gag-your-personal-meme-making-manual-for-2024/"><u>Tailoring Humor with 9GAG  Your Personal Meme Making Manual for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-elegant-appearance-for-2024/"><u>The Art of Elegant Appearance for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-ten-web-retailers-for-exquisite-wrapped-delights-for-2024/"><u>Top Ten Web Retailers for Exquisite Wrapped Delights for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-guide-premium-plugins-boosting-ae-projects-for-2024/"><u>Ultimate Guide  Premium Plugins Boosting AE Projects for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-solve-your-windows-11-audio-problems-in-just-five-simple-steps/"><u>Ultimate Guide: Solve Your Windows 11 Audio Problems in Just Five Simple Steps</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-infinix-note-30-5g-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Infinix Note 30 5G Device</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-top-5-essential-android-photo-editing-software-for-2024/"><u>Unveiling Top 5 Essential Android Photo Editing Software for 2024</u></a></li>
+</ul></div>

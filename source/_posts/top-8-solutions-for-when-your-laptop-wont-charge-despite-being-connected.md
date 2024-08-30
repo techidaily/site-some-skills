@@ -1,7 +1,7 @@
 ---
 title: Top 8 Solutions for When Your Laptop Won't Charge Despite Being Connected
-date: 2024-08-28 11:31:40
-updated: 2024-08-29 10:37:34
+date: 2024-08-29T20:42:59.345Z
+updated: 2024-08-30T20:42:59.345Z
 tags:
   - deals
 categories:
@@ -36,6 +36,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![A laptop adapter with a loose connection.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/laptop-adapter.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Aman Kumar / How-To Geek
 
  If you find that the power cord is loosely connected to the adapter brick, apply gentle pressure to firmly insert it into the adapter. Alternatively, you can unplug the power cord completely and then plug it back in again.
@@ -56,12 +68,18 @@ Jason Fitzpatrick / How-To Geek
 
  Counterfeit chargers often charge laptops at an extremely slow pace or, in some cases, not charge at all. If your original laptop charger is malfunctioning, opt to purchase the same model charger directly from the laptop manufacturer online or in-store instead of resorting to a third-party charger.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  4\. Examine the Charging Port and Pin
 
  If your laptop is still not charging, you should carefully examine your laptop's charging port for any dust or debris that might have accumulated inside. If any dust or debris is present, it will prevent the charger from supplying power to your laptop, ultimately causing the issue at hand.
 
 ![Charging port on a laptop with visible dust surrounding it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/charging-port.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Aman Kumar / How-To Geek
 
  You can use a toothpick to clean the grime. However, be very gentle while cleaning, as the charging ports are very sensitive, and you might damage them if you try to remove the grime too harshly. You can also use canned air if necessary.
@@ -70,10 +88,17 @@ Aman Kumar / How-To Geek
 
 ![The charging pin on a laptop adapter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/charging-pin.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Aman Kumar / How-To Geek
 
  If the charging pin is broken, you can easily cut the pin and connect a new one. However, if you don't feel confident in cutting and changing the pin yourself, you should contact an expert to do it.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ##  5\. Allow Your Laptop to Cool Down
 
  The issue can also arise if your [laptop has overheated](https://video-content-creator.techidaily.com/updated-trim-vlc-videos-on-mac-with-ease-no-quality-loss-guaranteed-for-2024/). Your laptop may have overheated if you've been engaged in CPU- and GPU-intensive tasks. In such cases, your laptop may intentionally halt the charging process to safeguard your battery.
@@ -82,6 +107,9 @@ Aman Kumar / How-To Geek
 
  In this situation, there's not much you can do. Simply shut down your laptop and allow it to cool down. Once you feel the temperature has decreased, reconnect the charger, and your laptop should start charging again.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  6\. Download Any Available BIOS Update
 
  The [BIOS (Basic Input/Output System)](https://buynow-info.techidaily.com/experience-the-rotibox-beanie-hat-your-ideal-bluetooth-headset-with-outstanding-comfort-and-clear-sound-quality/) is a low-level system software that controls various hardware functions, including power management and battery charging. If your laptop is running an extremely outdated BIOS version, it might encounter difficulties correctly recognizing the AC adapter, potentially leading to the charging issue at hand. The solution, in this case, is to update the system BIOS.
@@ -96,10 +124,16 @@ Aman Kumar / How-To Geek
 
 ![Batteries node in the Device Manager app on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/batteries-node.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
  Right-click on the "Microsoft AC Adapter" driver and select the "Uninstall device" option. Similarly, uninstall the "Microsoft ACPI-Compliant Control Method Battery" driver.
 
 ![The Uninstall Device option in Device Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/uninstall-device.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Once the drivers have been uninstalled, [restart your computer](https://screen-video-capture.techidaily.com/updated-in-2024-addressing-mute-problems-in-obs-live-recording/). Upon restart, Windows will automatically reinstall both battery drivers. However, if it fails to reinstall them for any reason, press Windows+i to open the "Settings" app, click on "Windows Update," and then select "Check for Updates." Windows will now install the missing driver, which in this case is the battery driver, on your computer.
 
 ![The Windows update menu in the Settings app with an arrow pointing to the Check for Updates button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/check-for-updates.jpg) 
@@ -144,3 +178,50 @@ Aman Kumar / How-To Geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-10-instagram-video-editing-app-marketers-must-know/"><u>[New] 2024 Approved  10 Instagram Video Editing App Marketers Must Know</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-champion-of-chiseled-cheeks-starting-your-youtube-aesthetic-venture/"><u>[New] 2024 Approved  Champion of Chiseled Cheeks  Starting Your YouTube Aesthetic Venture</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-snap-into-action-quick-tips-for-cellphone-screen-capture/"><u>[New] Snap Into Action  Quick Tips for Cellphone Screen Capture</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-swift-transformations-top-5-no-download-online-gif-to-video-tools/"><u>[New] Swift Transformations  Top 5 No-Download, Online GIF to Video Tools</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-terrariums-topography-selecting-prime-maps-for-2024/"><u>[New] Terrarium's Topography  Selecting Prime Maps for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-podcast-hooks-compelling-beginnings/"><u>[New] The Art of Podcast Hooks  Compelling Beginnings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-leading-list-where-to-find-gamers-music-without-costs/"><u>[New] The Leading List  Where to Find Gamers' Music Without Costs</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/he-ultimate-guide-to-freely-download-youtube-series-on-mobile/"><u>[New] The Ultimate Guide to Freely Download YouTube Series on Mobile</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-youtubes-most-captivating-storytellers-in-23/"><u>[New] The Ultimate Guide to YouTube's Most Captivating Storytellers in '23</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-throughput-your-videos-8-top-android-apps/"><u>[New] Throughput Your Videos  8 Top Android Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-10-motivational-films-for-a-zestful-life/"><u>[New] Top 10 Motivational Films for a Zestful Life</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-richest-rewards-for-creators/"><u>[Updated] Richest Rewards for Creators</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-functionality-of-unmanned-aerial-vehicles-explored/"><u>[Updated] The Functionality of Unmanned Aerial Vehicles Explored</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-todays-vr-an-inside-look/"><u>[Updated] Today’s VR  An Inside Look</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transformative-techniques-mastering-lut-application-in-post-production/"><u>[Updated] Transformative Techniques  Mastering LUT Application in Post-Production</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-perfect-your-images-with-polarr-a-complete-photography-resource/"><u>2024 Approved  Perfect Your Images with Polarr  A Complete Photography Resource</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-revised-take-on-s3700-sony-bdp-review/"><u>2024 Approved  Revised Take on S3700 Sony BDP Review</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-swift-top-tier-photo-viewing-app/"><u>2024 Approved  Swift Top-Tier Photo Viewing App</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-spectacular-journey-of-q500s-4k/"><u>2024 Approved  The Spectacular Journey of Q500's 4K</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-selection-high-quality-zero-price-free-luts/"><u>2024 Approved  The Ultimate Selection  High Quality, Zero Price Free LUTs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-total-gigabytes-for-an-entirety-of-daily-films/"><u>2024 Approved  Total Gigabytes for an Entirety of Daily Films</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transfer-tactics-efficiently-getting-data-on-your-computer/"><u>2024 Approved  Transfer Tactics  Efficiently Getting Data On Your Computer</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-translate-compressed-files-into-subtitle-format-srt/"><u>2024 Approved  Translate Compressed Files Into Subtitle Format (SRT)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-your-zexmte-bluetooth-device-driver-for-windows-versions-xpvista7/"><u>Download Your ZexMTE Bluetooth Device Driver for Windows Versions (XP/Vista/7)</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/exploring-creative-imagery-utilizing-dall-e-3-on-microsoft-bing-at-no-cost/"><u>Exploring Creative Imagery: Utilizing DALL-E 3 on Microsoft Bing at No Cost</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-update-a-samsung-smart-tv/"><u>How to Update a Samsung Smart TV</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-brainy-entertainment-roundup-selective-trivia-haven/"><u>In 2024, Brainy Entertainment Roundup  Selective Trivia Haven</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-echoes-of-exploration-in-role-playing-history/"><u>In 2024, Echoes of Exploration in Role-Playing History</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-subtle-start-sequence/"><u>In 2024, Subtle Start Sequence</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-comedic-potential-of-the-metaverses-vast-space/"><u>In 2024, The Comedic Potential of the Metaverse's Vast Space</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-fundamentals-of-compelling-documentary-screenplay/"><u>In 2024, The Fundamentals of Compelling Documentary Screenplay</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleash-your-creative-potential-with-picart-clear-skies/"><u>In 2024, Unleash Your Creative Potential with PicArt Clear Skies</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unpacking-the-multifaceted-nature-of-wirecast-tools/"><u>In 2024, Unpacking the Multifaceted Nature of WireCast Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-best-smartphone-friendly-vr-headgear/"><u>In 2024, Unveiling the Best Smartphone-Friendly VR Headgear</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-unveiling-the-hidden-process-of-downloading-fb-content/"><u>In 2024, Unveiling the Hidden Process of Downloading Fb Content</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-your-guide-to-favorite-tiktok-backgrounds/"><u>In 2024, Your Guide to Favorite TikTok Backgrounds</u></a></li>
+<li><a href="https://fox-links.techidaily.com/innovative-fading-approaches-with-ableton-for-2024/"><u>Innovative Fading Approaches with Ableton for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-cutting-avi-files-made-easy-tips-tricks-and-tools-for-video-editing-for-2024/"><u>New Cutting AVI Files Made Easy Tips, Tricks, and Tools for Video Editing for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/streamline-broadcasting-going-from-xbox-to-fb-live/"><u>Streamline Broadcasting  Going From Xbox to FB Live</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tailoring-your-story-a-guide-to-crafting-engaging-podcast-episodes-for-2024/"><u>Tailoring Your Story  A Guide to Crafting Engaging Podcast Episodes for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-guide-to-premium-gopro-case-selection-for-2024/"><u>Ultimate Guide to Premium GoPro Case Selection for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/understanding-whatsapps-sound-conversations-for-2024/"><u>Understanding WhatsApp's Sound Conversations for 2024</u></a></li>
+</ul></div>

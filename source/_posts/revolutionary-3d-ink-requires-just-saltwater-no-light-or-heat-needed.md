@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary 3D Ink Requires Just Saltwater: No Light or Heat Needed"
-date: 2024-08-26 13:26:46
-updated: 2024-08-29 12:24:14
+date: 2024-08-29T20:45:33.379Z
+updated: 2024-08-30T20:45:33.379Z
 tags:
   - cutting-edge
 categories:
@@ -39,3 +39,62 @@ A multinational team of researchers has developed a novel 3D printing ink that c
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-become-a-pro-at-setting-up-vrecorder-fast/"><u>[New] 2024 Approved  Become a Pro at Setting Up VRecorder Fast</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-imovie-blueprint-the-pathway-to-crafting-impressive-square-videos/"><u>[New] 2024 Approved  IMovie Blueprint  The Pathway to Crafting Impressive Square Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-sound-system-advances-announced/"><u>[New] In 2024, Sound System Advances Announced</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-techniques-to-weave-narrative-into-visual-content/"><u>[New] Techniques to Weave Narrative Into Visual Content</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-television-innovation-integrating-fb-live-experiences/"><u>[New] Television Innovation  Integrating FB Live Experiences</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-top-economical-live-capture-software-suite/"><u>[New] Top Economical Live Capture Software Suite</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-share-worthiness-creator/"><u>[New] Ultimate Share Worthiness Creator</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-untapped-potential-to-augment-your-youtube-audience/"><u>[New] Unveiling Untapped Potential to Augment Your Youtube Audience</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-discovering-hidden-gems-top-rated-free-macos-transcription-apps-for-2024/"><u>[Updated] Discovering Hidden Gems  Top-Rated Free macOS Transcription Apps for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-navigating-googles-augmented-reality-adornments/"><u>[Updated] Navigating Google's Augmented Reality Adornments</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamlining-speech-to-text-processing-in-powerpoint/"><u>[Updated] Streamlining Speech-To-Text Processing in Powerpoint</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-beginners-pathway-to-custom-vocalization-expert-tips-on-modifying-sounds-free/"><u>[Updated] The Beginner's Pathway to Custom Vocalization  Expert Tips on Modifying Sounds (Free)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-top-10-4k-screens/"><u>[Updated] The Ultimate Guide to #Top 10 4K Screens</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-list-of-top-5-iphone-podcast-software/"><u>[Updated] The Ultimate List of Top 5 iPhone Podcast Software</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transforming-simple-sessions-into-high-end-audacity-recordings/"><u>[Updated] Transforming Simple Sessions Into High-End Audacity Recordings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-gaming-experience-samsung-ue590-freesync-screen/"><u>[Updated] Ultimate Gaming Experience  Samsung UE590 FreeSync Screen</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-ar-a-modern-illusionists-toolkit/"><u>[Updated] Unveiling AR  A Modern Illusionist's Toolkit</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-perfect-process-iphones-podcast-downloading-technique/"><u>[Updated] Unveiling the Perfect Process  IPhone's Podcast Downloading Technique</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streaming-wars-the-top-10-platforms-ranked-and-compared/"><u>2024 Approved  Streaming Wars  The Top 10 Platforms Ranked and Compared</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-symphonic-streams-exclusive-sites-for-downloadable-tones/"><u>2024 Approved  Symphonic Streams  Exclusive Sites for Downloadable Tones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-usb-c-revolution-in-monitors-hp-envy-27s-journey/"><u>2024 Approved  USB-C Revolution in Monitors  HP Envy 27'S Journey</u></a></li>
+<li><a href="https://article-posts.techidaily.com/5-high-quality-displays-for-unparalleled-games-for-2024/"><u>5 High-Quality Displays for Unparalleled Games for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/5-next-level-editors-to-transcend-the-standard-youtube-videos-for-2024/"><u>5 Next-Level Editors to Transcend the Standard Youtube Videos for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-v30-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-infinix-smart-7-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Infinix Smart 7.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-your-pc-from-crashing-while-playing-elite-dangerous/"><u>How to Stop Your PC From Crashing While Playing Elite Dangerous</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-realme-v30t-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Realme V30T</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-perfect-portraits-changing-picture-sizes-on-ios/"><u>In 2024, Perfect Portraits  Changing Picture Sizes on iOS</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Vivo V29e? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-professionals-secret-utilizing-windows-movie-maker-expertly-in-windows-8-systems/"><u>In 2024, The Professional's Secret  Utilizing Windows Movie Maker Expertly in Windows 8 Systems</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-toolwiz-photosapp-for-photographers/"><u>In 2024, The Ultimate Guide to Toolwiz PhotosApp for Photographers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-how-to-on-using-voice-input-in-google-docs/"><u>In 2024, The Ultimate How-To on Using Voice Input in Google Docs</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-top-social-strategies-android-and-iphones-most-effective-fb-apps/"><u>In 2024, Top Social Strategies  Android & iPhone's Most Effective FB Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleash-creative-potential-using-storyremix-for-windows-11s-photo-videos/"><u>In 2024, Unleash Creative Potential  Using StoryRemix for Windows 11'S Photo Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-creativity-harnessing-the-full-potential-of-movie-maker-windows-8/"><u>In 2024, Unleashing Creativity  Harnessing the Full Potential of Movie Maker (Windows 8)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlock-the-secrets-to-intense-hdr-portraits/"><u>In 2024, Unlock the Secrets to Intense HDR Portraits</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unmatched-subtitle-expertise-top-10-leaders-in-video-caption-manipulation/"><u>In 2024, Unmatched Subtitle Expertise – Top 10 Leaders in Video Caption Manipulation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/introducing-efficient-speech-to-text-utilization-in-powerpoint-for-2024/"><u>Introducing Efficient Speech-to-Text Utilization in PowerPoint for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/iphone-filmmaking-masterclass-8-steps-to-pro-video-excellence-for-2024/"><u>IPhone Filmmaking Masterclass  8 Steps to Pro Video Excellence for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/network-neutralizer-overcoming-facebook-intrusion/"><u>Network Neutralizer  Overcoming Facebook Intrusion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719358270699-reclaim-shift-control-with-easy-fixes/"><u>Reclaim Shift Control with Easy Fixes.</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/streamlined-social-integration-linktree-and-tiktok-profiles-united-for-2024/"><u>Streamlined Social Integration  Linktree and TikTok Profiles United for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-best-professional-template-pack-for-premiere-pro-for-2024/"><u>The Best Professional Template Pack for Premiere Pro for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-comprehensible-guide-to-dji-inspire-2-for-2024/"><u>The Comprehensible Guide to DJI Inspire 2 for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/the-ultimate-guide-to-the-best-video-editors-not-on-youtoo/"><u>The Ultimate Guide to the Best Video Editors Not on YouToo</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-internet-delays-and-enhancing-connection-speeds-for-cs2/"><u>Troubleshooting Internet Delays & Enhancing Connection Speeds for CS2</u></a></li>
+<li><a href="https://some-skills.techidaily.com/understanding-the-power-shift-from-sdr-to-hdr-in-media-for-2024/"><u>Understanding the Power Shift From SDR to HDR in Media for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->

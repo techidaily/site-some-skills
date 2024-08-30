@@ -1,7 +1,7 @@
 ---
 title: "Mastering Expression Calculation: A Guide to Using 'Expr' On Linux Systems"
-date: 2024-08-28 20:40:49
-updated: 2024-08-29 12:27:44
+date: 2024-08-29T20:42:06.987Z
+updated: 2024-08-30T20:42:06.987Z
 tags:
   - desktop
 categories:
@@ -32,6 +32,9 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 
  Want to do some simple calculations in Linux? Just use the expr command. This command can perform various operations, such as evaluating expressions, extracting substrings, comparing strings, and more. Using expr, you can add, subtract, multiply, or divide two numbers, and get the answer as the output.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The expr Command
 
  expr is a tool that can perform calculations and manipulate strings based on the expressions you provide. With the expr command, you can perform various operations on integers and strings, like comparing values or finding specific patterns using [regular expressions](https://instagram-clips.techidaily.com/discreetly-explore-instagram-stories-with-us-for-2024/).
@@ -52,6 +55,9 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 
  For strings, you can use regular expressions and character sets to find matches and indexes. You can also use parentheses to group expressions and backslashes to escape special characters.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  expr Command Options
 
  While expr doesn't have traditional command-line options, it offers versatile operators for arithmetic, string manipulation, and comparison. Furthermore, you can use the **\--help** option to show expr's help page, which explains its syntax, features, and examples:
@@ -68,6 +74,9 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 
  This option displays the version number, source code, license, and author of expr.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ##  Performing Arithmetic Operations With expr
 
  To use the expr command for basic arithmetic operations, write the command expr followed by a space. Then, write the expression that you want to evaluate. This expression is a combination of integers and operators such as +, -, \*, and /. Make sure to separate each token (integer or operator) in the expression by a space character.
@@ -96,6 +105,9 @@ expr 10 / 2`
     
 ![Linux terminal with variables and operator quotes with double quotations marks](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-8.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Comparing Two Expressions With expr
 
  To compare two expressions using the expr command, you can use logical operators such as =, <, >, and !=. If you see the command output one, the condition is true, otherwise, it is false, and the value returned is zero.
@@ -112,18 +124,27 @@ expr 10 / 2`
     
 ![Linux terminal showing commands to check the smaller variable using the expr command with less than operator](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-9.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
  You can also check whether the values are not equal. To do that, simply use the != operator between the two arguments' values:
 
         `expr 45 \!= 55`
     
 ![Linux terminal showing the comparison of two values using the expr command with not equal to operator](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-8.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
  Here, the output 1 indicates that 45 is not equal to 55.
 
  This way, the expr command provides a simple and effective method to compare numerical values.
 
  Like the multiplication (\*) operator, the <, >, and != operators also need to be escaped with a backslash (\\). Otherwise, they may be interpreted as special characters by the shell.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ##  Finding a String's Length With expr
 
  To find the length of a string using the expr command, you can use the length method. This operator will return the number of characters present in the given string to the output.
@@ -158,12 +179,18 @@ expr 10 / 2`
     
 ![Linux terminal showing the matching of two different strings using the expr command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/10-7.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
  Consider another example, where two given strings are the same:
 
         `expr 'How To Geek' : 'How To Geek'`
     
 ![Linux terminal showing the matching of two same strings using the expr command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/11-4.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
  The output is 11 as both strings have all the characters in common, including the white spaces.
 
  If there is no matching character present, then the output will be zero:
@@ -184,6 +211,9 @@ echo $a ``
     
 ![The Linux terminal displays usage of expr command to increment the variable value by 1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/13-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
  Similarly, to decrement the variable value, use the same syntax but replace the addition sign with subtraction:
 
         `` a=20  
@@ -192,6 +222,9 @@ echo $a ``
     
 ![The Linux terminal displays usage of expr command to decrement the variable value by 1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/14-3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ##  Extracting a Substring Using expr
 
  To extract a substring from a given string, you can use the expr command with a substr operator. This way, you can extract specific information from a larger text, such as name, date, or any code. You can also use this operator to remove unwanted characters or spaces from a string.
@@ -204,6 +237,17 @@ echo $b ``
     
 ![The Linux terminal displays the usage of the expr command with substr option to extract a substring](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/15-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ##  Performing expr Operations Using a Shell Script
 
  To automate expression handling using the expr command, you can create a custom shell script. Shell scripts are multipurpose tools that can help you do more with less. With shell scripts, you can automate repetitive tasks, manipulate data, and perform complex calculations.
@@ -230,6 +274,9 @@ echo "Sum of two numbers is= $sum" ``
     
 ![Linux terminal displaying the execution of bash script file and displays the output](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/17-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
  You will be prompted to enter two numbers. After entering the numbers, you will see the script will display the sum of both numbers on screen. You can also modify the script to perform other operations or tasks as per your needs.
 
 ##  Try Some Alternative Linux Commands
@@ -252,3 +299,59 @@ echo "Sum of two numbers is= $sum" ``
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-content-creators-dilemma-which-site-reigns-vimeo-youtube/"><u>[New] 2024 Approved  Content Creators' Dilemma  Which Site Reigns - Vimeo, YouTube?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-crafting-news-end-credits-a-step-by-step-guide/"><u>[New] 2024 Approved  Crafting News End Credits  A Step-by-Step Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-explore-the-world-of-custom-thumbnails-top-6-tools-reviewed/"><u>[New] 2024 Approved  Explore the World of Custom Thumbnails - Top 6 Tools Reviewed</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-mastering-the-art-of-silent-videography/"><u>[New] 2024 Approved  Mastering the Art of Silent Videography</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-direct-webcam-streaming-with-vlc/"><u>[New] Direct Webcam Streaming with VLC</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamline-multitasking-switch-between-pip-and-normal-screen-mode-ios/"><u>[New] Streamline Multitasking  Switch Between PIP and Normal Screen Mode (iOS)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-synthesize-shots-the-photo-montage-methodology/"><u>[New] Synthesize Shots  The Photo Montage Methodology</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tailored-interventions/"><u>[New] Tailored Interventions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-editors-secret-smooth-transitions-in-premiere-pro/"><u>[New] The Editor's Secret  Smooth Transitions in Premiere Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-guide-to-economical-high-performance-asmr-microphones/"><u>[New] Ultimate Guide to Economical, High-Performance ASMR Microphones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlock-your-pcs-potential-exciting-new-windows-10-games/"><u>[New] Unlock Your PC’s Potential  Exciting New Windows 10 Games</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-the-full-spectrum-of-editing-power-in-polarr/"><u>[New] Unlocking the Full Spectrum of Editing Power in Polarr</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-revised-sony-s3700-experience/"><u>[New] Unveiling the Revised Sony S3700 Experience</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-unveiling-the-illusion-how-genuine-growth-is-stifled-by-shams/"><u>[Updated] 2024 Approved  Unveiling the Illusion  How Genuine Growth Is Stifled by Shams</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-perfecting-sims-4-live-action-for-videographers/"><u>[Updated] Perfecting Sims 4 Live Action for Videographers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-leading-list-for-best-vector-resources/"><u>[Updated] The Leading List for Best Vector Resources</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-path-to-proliferation-expanding-your-youtube-tribe/"><u>[Updated] The Path to Proliferation  Expanding Your Youtube Tribe</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-top-picks-for-hd-video-playback-on-your-android-device/"><u>[Updated] The Top Picks for HD Video Playback on Your Android Device</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-tiktok-video-amplification/"><u>[Updated] The Ultimate Guide to TikTok Video Amplification</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-srt-secrets-comprehensive-knowledge-guide/"><u>[Updated] Unlocking SRT Secrets  Comprehensive Knowledge Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-secret-how-to-disable-youtube-snippet-playback/"><u>[Updated] Unveiling the Secret  How to Disable YouTube Snippet Playback</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-hidden-world-exploring-vlc-player-extras/"><u>2024 Approved  The Hidden World  Exploring VLC Player Extras</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tomorrows-reality-progress-in-virtual-worlds/"><u>2024 Approved  Tomorrow's Reality  Progress in Virtual Worlds</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transform-your-tiktok-content-with-expert-number-manipulation/"><u>2024 Approved  Transform Your TikTok Content with Expert Number Manipulation</u></a></li>
+<li><a href="https://win-answers.techidaily.com/avoid-vrchat-crashes-in-virtual-reality-8-crucial-fixes-for-gaming-smoothness-on-pc/"><u>Avoid VRChat Crashes in Virtual Reality: 8 Crucial Fixes for Gaming Smoothness on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-your-win11-experience-learn-to-edit-faxes-easily/"><u>Enhancing Your Win11 Experience: Learn to Edit Faxes Easily</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-samsung-galaxy-f15-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Samsung Galaxy F15 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-missing-your-drivers-with-windows-device-manager-in-windows-7-by-drivereasy-guide/"><u>Identify missing your drivers with Windows Device Manager in Windows 7</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Oppo Reno 11F 5G? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-iphone-13-miniipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled iPhone 13 mini/iPad Without Computer</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-prime-8-transformative-lenses-for-virtual-conferencing/"><u>In 2024, Prime 8 Transformative Lenses for Virtual Conferencing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-handbook-to-effective-spotify-marketing/"><u>In 2024, The Ultimate Handbook to Effective Spotify Marketing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-seamless-ocean-footage-with-these-7-hacks/"><u>In 2024, Unlocking Seamless Ocean Footage with These 7 Hacks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unmatched-8-vr-equipment-companion-guide/"><u>In 2024, Unmatched 8 VR Equipment Companion Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/iphone-showdown-decoding-the-features-of-the-iphone-15-plus-and-pro-max/"><u>IPhone Showdown: Decoding the Features of the iPhone 15 Plus and Pro Max</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leading-6-titans-majestic-mlm-systems-review/"><u>Leading 6 Titans: Majestic MLM Systems Review</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/mastering-data-organization-tips-for-shifting-columns-and-rows-efficiently-in-excel/"><u>Mastering Data Organization: Tips for Shifting Columns & Rows Efficiently in Excel</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/mastering-the-ken-burns-effect-in-final-cut-pro-a-step-by-step-guide/"><u>Mastering the Ken Burns Effect in Final Cut Pro A Step-by-Step Guide</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-the-ultimate-list-of-video-invitation-makers-for-smartphone-users-for-2024/"><u>New The Ultimate List of Video Invitation Makers for Smartphone Users for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/rapid-routes-transferring-ios-photos-and-videos-for-2024/"><u>Rapid Routes  Transferring iOS Photos & Videos for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-days-gone-game-crashes-a-step-by-step-guide/"><u>Solving 'Days Gone' Game Crashes : A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/techniques-for-ensuring-unbiased-decision-making-for-2024/"><u>Techniques For Ensuring Unbiased Decision-Making for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-decreasing-audio-intensity-in-logic-pro-for-2024/"><u>The Art of Decreasing Audio Intensity in Logic Pro for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-lg-k51-phone-reviewed-aesthetic-appeal-hindered-by-underwhelming-processor-speed/"><u>The LG K51 Phone Reviewed: Aesthetic Appeal Hindered by Underwhelming Processor Speed</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/tips-for-recording-and-saving-google-voice-interactions-for-2024/"><u>Tips for Recording and Saving Google Voice Interactions for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/total-byte-requirement-for-24-hours-of-movie-viewing-for-2024/"><u>Total Byte Requirement for 24 Hours of Movie Viewing for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-capturing-screen-and-sound-seamlessly-on-windows/"><u>Ultimate Guide: Capturing Screen & Sound Seamlessly on Windows</u></a></li>
+<li><a href="https://some-skills.techidaily.com/understanding-the-financial-demands-of-music-video-production-for-2024/"><u>Understanding the Financial Demands of Music Video Production for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Nokia G310? | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/why-the-lg-oled-c9-65-4k-smart-tv-is-a-game-changer-for-home-theater-buffs-a-detailed-insight/"><u>Why the LG OLED C9 65 4K Smart TV Is a Game Changer for Home Theater Buffs: A Detailed Insight.</u></a></li>
+</ul></div>

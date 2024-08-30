@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Crafting Your Custom Shutdown Icon on Windows 11"
-date: 2024-08-27 12:30:47
-updated: 2024-08-29 11:42:47
+date: 2024-08-29T20:43:48.591Z
+updated: 2024-08-30T20:43:48.591Z
 tags:
   - deals
 categories:
@@ -24,12 +24,18 @@ thumbnail: https://thmb.techidaily.com/df49fa8741560cd4a2c304321a86cf5312094c292
 
  It's true that [shutting down your Windows 10 PC](https://screen-activity-recording.techidaily.com/updated-the-ultimate-guide-to-mac-based-sound-capture-in-audacity-for-2024/) the old-fashioned way only takes three clicks. But why spend the extra energy when you can do it in two? All you have to do is create a shutdown icon, and you'll save yourself some time.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Create a Shutdown Icon
 
  To create a shutdown icon, right-click your Desktop, hover over "New," and then select "Shortcut."
 
 ![RIght-click your desktop, then go to New > Shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-17.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The "Create Shortcut" menu appears. In the text box under "Type the location of the item," type the following command and then click "Next":
 
         `Shutdown.exe /s /t 00`
@@ -42,6 +48,15 @@ thumbnail: https://thmb.techidaily.com/df49fa8741560cd4a2c304321a86cf5312094c292
 
 **![Name shortcut](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/Name-shortcut.png)** 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
  Your new shutdown icon will appear on your Desktop.
 
 ![A restart shortcut on the desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/4-restart-icon.png) 
@@ -52,10 +67,24 @@ thumbnail: https://thmb.techidaily.com/df49fa8741560cd4a2c304321a86cf5312094c292
 
 ![Right-click the restart button and click "Properties."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-open-properties.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
  Click the "Change Icon" button, then select an icon from the default options available in Windows. Alternatively, you can [make your own icon](https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-motorola-razr-40-drfone-by-drfone-virtual-android/). 
 
 ![Click "Change Icon."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-change-icon.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Other Useful Shortcuts
 
  As you might have guessed, in addition to Shutdown, there are several other shortcuts you can create. The good news is you don’t have to sacrifice one shortcut to have another---you can create as many as you want.
@@ -85,3 +114,57 @@ thumbnail: https://thmb.techidaily.com/df49fa8741560cd4a2c304321a86cf5312094c292
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-instagrams-roadmap-to-fame-unlocking-the-power-of-9-tactics/"><u>[New] Instagram's Roadmap to Fame  Unlocking the Power of #9 Tactics</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-picking-aspect-ratios-for-media/"><u>[New] The Art of Picking Aspect Ratios for Media</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-path-to-precision-audio-starting-with-an-adobe-auditions-fade-in/"><u>[New] The Path to Precision Audio  Starting with an Adobe Audition's Fade In</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-the-secrets-of-impressive-hdr-portraits/"><u>[New] Unlocking the Secrets of Impressive HDR Portraits</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unraveling-the-ultimate-web-tools-for-superb-video-subtitles/"><u>[New] Unraveling the Ultimate Web Tools for Superb Video Subtitles</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-vegas-pros-21-landmark-release-a-complete-analysis/"><u>[New] Vegas Pro's '21 Landmark Release - A Complete Analysis</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-fine-tuning-speed-settings-for-snapchat-vids/"><u>[Updated] 2024 Approved  Fine-Tuning Speed Settings for Snapchat Vids</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-gastronomic-genius-ideal-culinary-network-name-strategies/"><u>[Updated] Gastronomic Genius  Ideal Culinary Network Name Strategies</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-heaviest-heroes-in-the-air-drone-power-list/"><u>[Updated] Heaviest Heroes in the Air  Drone Power List</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-next-gen-streaming-enable-av1-codec-on-youtube/"><u>[Updated] In 2024, Next-Gen Streaming  Enable AV1 Codec on YouTube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-masterpieces-of-radio-scripting-artistry/"><u>[Updated] Masterpieces of Radio Scripting Artistry</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-superior-online-emporiums-where-boxes-reflect-your-style/"><u>[Updated] Superior Online Emporiums  Where Boxes Reflect Your Style</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-art-of-iphone-framing-finding-the-best-camera-positions/"><u>[Updated] The Art of iPhone Framing  Finding the Best Camera Positions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-pathway-to-seamless-integration-of-voice-inputs-in-powerpoint-presentations/"><u>[Updated] The Pathway to Seamless Integration of Voice Inputs in PowerPoint Presentations</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-beginners-guide-to-mastering-final-cut-pro/"><u>[Updated] The Ultimate Beginner’s Guide to Mastering Final Cut Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-for-virtual-reality-content-android-friendly/"><u>[Updated] The Ultimate Guide for Virtual Reality Content (Android-Friendly)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-index-downloading-your-preferred-chime-files/"><u>[Updated] Ultimate Index  Downloading Your Preferred Chime Files</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pixel-perfect-video-modifier/"><u>2024 Approved  Pixel-Perfect Video Modifier</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-artisans-approach-to-metaverse-laughter-and-online-jokes/"><u>2024 Approved  The Artisan's Approach to Metaverse Laughter & Online Jokes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-essence-of-chuckles-in-single-photos/"><u>2024 Approved  The Essence of Chuckles in Single Photos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-detailed-analysis-djis-raptor-4-vr-goggle-features/"><u>A Detailed Analysis  DJi's Raptor 4 VR Goggle Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/darkthemetogglefornotepadw10w11/"><u>DarkThemeToggleForNotepadW10/W11</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/enhance-your-website-with-automated-tracking-powered-by-cockroach/"><u>Enhance Your Website with Automated Tracking: Powered by Cockroach</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011361025-fixing-high-input-delay-in-your-gameplay-of-cyberpunk-2dark-dreams-digital-official-site-for-cd-projekt-red-games-witcher-series-cyberpunk-2077-and-more/"><u>Fixing High Input Delay in Your Gameplay of Cyberpunk 2#Dark Dreams Digital - Official Site for CD Projekt Red Games, Witcher Series, Cyberpunk 2077, and More</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-hp-deskjet-2540-software-firmware-and-driver-updates-now/"><u>Get the Newest HP Deskjet 2540 Software, Firmware, and Driver Updates Now!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-nokia-xr21-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Nokia XR21 to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-7-plus-to-androidios-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 7 Plus To Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-google-pixel-fold-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Google Pixel Fold Unlock Without Password</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-oneplus-ace-2-by-drfone-android/"><u>In 2024, How to Bypass FRP from OnePlus Ace 2?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-fix-shaky-gopro-videos/"><u>In 2024, How to Fix Shaky GoPro Videos</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-oneplus-nord-n30-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from OnePlus Nord N30 5G to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-kinetic-control-on-android-the-kinemaster-dive/"><u>In 2024, Kinetic Control on Android  The KineMaster Dive</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-synchronizing-sound-to-pixels-online/"><u>In 2024, Synchronizing Sound to Pixels Online</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-realme-gt-neo-5-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Realme GT Neo 5 Phone Hassle-Free</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-5-methods-for-capturing-sound-in-windows-11/"><u>In 2024, Top 5 Methods for Capturing Sound in Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-total-circles-capture-systems/"><u>In 2024, Total Circles Capture Systems</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-total-data-usage-24-hour-videography-in-gbs/"><u>In 2024, Total Data Usage  24-Hour Videography in GBs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-cyberpunk-2077-for-lower-cpu-consumption-fixed/"><u>Optimizing Cyberpunk 2077 for Lower CPU Consumption - Fixed!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-realme-narzo-60x-5g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Realme Narzo 60x 5G Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-link-loss-in-winvpn-a-step-by-step-solution/"><u>Restoring Link Loss in WinVPN: A Step-By Step Solution</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/streamlining-laser-troubleshooting/"><u>Streamlining Laser Troubleshooting</u></a></li>
+<li><a href="https://some-skills.techidaily.com/take-control-of-your-tiktok-videos-learn-numeric-editing-techniques-for-2024/"><u>Take Control of Your TikTok Videos  Learn Numeric Editing Techniques for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-stabilizing-aerial-cameras-choosing-a-drone-gimbal-for-2024/"><u>The Art of Stabilizing Aerial Cameras  Choosing a Drone Gimbal for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/the-premier-livestream-networks-you-need-to-watch/"><u>The Premier Livestream Networks You Need To Watch</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-instagram-ringtone-making-manual-for-2024/"><u>The Ultimate Instagram Ringtone Making Manual for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-samsung-galaxy-s23-ultra-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Samsung Galaxy S23 Ultra to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-your-iphone-footage-filming-and-slowing-down-videos-for-2024/"><u>Transform Your iPhone Footage  Filming and Slowing Down Videos for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-fast-forward-tools-mastering-video-controls-for-2024/"><u>Ultimate Fast-Forward Tools  Mastering Video Controls for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/understanding-youtubes-view-threshold-for-money/"><u>Understanding Youtube’s View Threshold for Money</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-elite-choices-a-guide-to-hdr-cameras-for-2024/"><u>Unveiling Elite Choices  A Guide to HDR Cameras for 2024</u></a></li>
+</ul></div>

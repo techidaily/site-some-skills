@@ -1,7 +1,7 @@
 ---
 title: "Review of Lenovo Legion 7I 16Th Generation Unveiled: Surprisingly Powerful Performance for Its Category"
-date: 2024-08-28 19:30:41
-updated: 2024-08-29 12:37:56
+date: 2024-08-29T20:41:21.308Z
+updated: 2024-08-30T20:41:21.308Z
 tags:
   - desktop
 categories:
@@ -108,6 +108,9 @@ Lenovo's Legion 7i 16 Gen 9 laptop packs a punch in the power department, offeri
 
 Expand 
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ##  Lenovo Went All-In on a User-Upgradable Design
 
 ![The Lenovo Legion 7i 16 Gen 9 has an Intel i9 and Nvidia graphics card](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-legion-7i-16-gen-9-has-an-intel-i9-and-nvidia-graphics-card_53662863778_o.jpg) 
@@ -128,6 +131,9 @@ Jerome Thomas / How-To Geek
 
 ![The Lenovo Legion 7i 16 Gen 9 in quiet mode](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-legion-7i-16-gen-9-in-quiet-mode_53663112120_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  Battery life is something that’s coveted in a laptop, but, this isn’t just any laptop. It’s a gaming laptop. You’re not going to see stellar battery life here, and you’ll likely get around two to three hours of usage on a single charge when gaming. If you lower the brightness, drop the screen refresh rate, and disable all unnecessary software, you could eke out four to five hours, but that’ll be a stretch. However, with the included 230W power adapter, you can charge from 0% to 70% in just 30 minutes. And, if you have a compatible 140W USB-C battery, you can even power up on the go without a wall plug.
@@ -138,6 +144,9 @@ Jerome Thomas / How-To Geek
 
 ![The Lenovo Legion 7i 16 Gen 9 Legion branding](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-legion-7i-16-gen-9-legion-branding_53661777577_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  With the latest tech inside, this laptop has a lot to offer in the performance department. I tested it with some of my favorite games as well as some of the industry’s best synthetic benchmarks to give you a good idea as to what you can expect for performance out of this system.
@@ -166,10 +175,16 @@ Jerome Thomas / How-To Geek
 
  One thing that I wasn’t too happy with, however, was the coil whine. If you’ve not experienced coil whine before, you will with this laptop. Even at idle, there was a whine coming from the system that was a bit annoying. And, when the fans were at full tilt during a game, I could hear the coil whine even through my headphones. It’s not unbearable, but it’s something that I wasn’t very happy with for sure.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ##  Lenovo Included All the Ports You Could Want but Could Have Made It a Bit Less Confusing
 
 ![The ports on the left side of the Lenovo Legion 7i 16 Gen 9](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-ports-on-the-left-side-of-the-lenovo-legion-7i-16-gen-9_53662650521_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The Lenovo Legion 7i 16 Gen 9 has just about any port you could want, though, it can be a tad confusing about what’s what. On the left side of the laptop, you have a USB-A port at 5Gb/s, a USB-C 3.2 Gen 2 port, and a Thunderbolt 4 port. There’s only one Thunderbolt 4 port here though, so do keep in mind that the other USB-C ports on the laptop are only 3.2 Gen 2 (10Gb/s), and not rated for 40Gb/s transfer rates. The Thunderbolt 4 port does, however, support up to 140W charging, so you can use a single-cable setup when you’re not pushing the laptop to its max. In front of the Thunderbolt 4 port, you have a combined headphone and microphone jack.
@@ -186,6 +201,9 @@ Jerome Thomas / How-To Geek
 
  You’ll also find Wi-Fi 6E, alongside Bluetooth 5.3 and no ethernet jack. That’s right, there are no wired networking options, which is a shame to see. This laptop is thick enough that Lenovo could have packed in wired connectivity, and I really wish they had. Wi-Fi 6E is nice and all, but sometimes, you just want the low-latency connection of a physical plug.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The 16-Inch Display Is Honestly Quite Impressive for a Laptop
 
 ![The file explorer on the Lenovo Legion 7i 16 Gen 9](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-file-explorer-on-the-lenovo-legion-7i-16-gen-9_53661777622_o.jpg) 
@@ -210,8 +228,15 @@ Jerome Thomas / How-To Geek
 
 ![Lenovo Legion 7i 16 Gen 9 Laptop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/lenovo-legion-7i-16-gen-9-laptop.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 #####  Lenovo Legion 7i 16 Gen 9
 
 8/ 10 
@@ -236,3 +261,57 @@ Lenovo's Legion 7i 16 Gen 9 laptop packs a punch in the power department, offeri
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-interactive-media-meets-brand-partnerships-on-youtube/"><u>[New] Interactive Media Meets Brand Partnerships on YouTube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-m1-marvel-a-new-wave-of-smooth-and-efficient-editing/"><u>[New] M1 Marvel  A New Wave of Smooth and Efficient Editing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-teleportation-illusions-in-visual-effects-artistry/"><u>[New] Teleportation Illusions in Visual Effects Artistry</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-influence-elevating-messaging-on-telegram/"><u>[New] The Art of Influence  Elevating Messaging on Telegram</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-seamless-storyteller-leveraging-inshot-for-elegant-transitions/"><u>[New] The Seamless Storyteller  Leveraging Inshot for Elegant Transitions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-secrets-of-getting-up-close-in-roblox-environments/"><u>[New] The Secrets of Getting Up Close in Roblox Environments</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-applying-luts-in-obs-streaming/"><u>[New] The Ultimate Guide to Applying LUTs in OBS Streaming</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-tier-hdr-camera-selection-made-easy/"><u>[New] Top-Tier HDR Camera Selection Made Easy</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tutorial-triumphant-skyrocketing-your-youtube-presence/"><u>[New] Tutorial Triumphant  Skyrocketing Your YouTube Presence</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-smooth-playback-overcoming-booty-freezes/"><u>[New] Unlocking Smooth Playback  Overcoming Booty Freezes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-the-potentials-of-windows-11-movie-maker/"><u>[New] Unlocking the Potentials of Windows 11 Movie Maker</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-the-complete-breakdown-of-screen-casting-on-discord/"><u>[Updated] 2024 Approved  The Complete Breakdown of Screen Casting on Discord</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-tailoring-content-creating-ideal-instagram-video-experiences/"><u>[Updated] In 2024, Tailoring Content  Creating Ideal Instagram Video Experiences</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-art-of-capturing-kinetic-energy-in-iphone-images/"><u>[Updated] The Art of Capturing Kinetic Energy in iPhone Images</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-edge-of-gaming-technology-samsung-ue590-monitor/"><u>[Updated] The Edge of Gaming Technology  Samsung UE590 Monitor</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-fundamentals-of-exceptional-interviewing/"><u>[Updated] The Fundamentals of Exceptional Interviewing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-pathway-to-advanced-hd-video-on-windows-pcs/"><u>[Updated] The Ultimate Pathway to Advanced HD Video on Windows PCs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-filmmakers-choice-leading-15-creative-gopro-luts/"><u>[Updated] Ultimate Filmmaker's Choice  Leading 15 Creative GOPRO LUTs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlock-humor-pay-nothing-easymeme-tools-guide/"><u>[Updated] Unlock Humor, Pay Nothing  EasyMeme Tools Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-premier-selection-10-premium-image-replace-kits/"><u>2024 Approved  Premier Selection  10 Premium Image Replace Kits</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamlining-production-processes-a-magix-video-pro-x-perspective/"><u>2024 Approved  Streamlining Production Processes  A Magix Video Pro X Perspective</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-swiftly-convert-creepy-slow-videos-with-best-apps/"><u>2024 Approved  Swiftly Convert Creepy-Slow Videos with Best Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-sync-music-and-visuals-the-art-of-canva-editing/"><u>2024 Approved  Sync Music & Visuals  The Art of Canva Editing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-steps-to-youtube-to-mpeg-conversion/"><u>2024 Approved  Top 10 Steps to YouTube-to-MPEG Conversion</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transcoding-excellence-from-xml-ssa-to-srt-mastery/"><u>2024 Approved  Transcoding Excellence  From XML, SSA to SRT Mastery</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transform-your-podcast-with-these-google-upload-insights/"><u>2024 Approved  Transform Your Podcast with These Google Upload Insights</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleashing-creativity-making-photo-based-videos-using-pixiz/"><u>2024 Approved  Unleashing Creativity  Making Photo-Based Videos Using Pixiz</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-power-of-zoom-in-enhancing-your-youtube-experience/"><u>2024 Approved  Unveiling the Power of Zoom in Enhancing Your YouTube Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-vegas-pro-2021-reviewed-a-sports-betting-journey/"><u>2024 Approved  Vegas Pro 2021 Reviewed – A Sports Betting Journey</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/becoming-an-expert-in-lut-technology/"><u>Becoming an Expert in LUT Technology</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/data-recovery-on-iphone-with-no-previous-backups-using-stellar/"><u>Data Recovery on iPhone with No Previous Backups Using Stellar</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-your-elden-ring-lag-instantly-fast-solutions-for-enhanced-gaming-performance/"><u>Fix Your Elden Ring Lag Instantly: Fast Solutions for Enhanced Gaming Performance</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-reno-11-pro-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Oppo Reno 11 Pro 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-audio-quality-integrating-srt-into-mp4/"><u>In 2024, Mastering Audio Quality  Integrating SRT Into MP4</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-nikon-j5-in-4k-the-ultimate-camera-review/"><u>In 2024, Nikon J5 in 4K  The Ultimate Camera Review</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamline-your-video-experience-with-advanced-vlc-techniques-macos/"><u>In 2024, Streamline Your Video Experience with Advanced VLC Techniques (macOS)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-the-art-of-patience-transform-your-reels-through-slow-motion/"><u>In 2024, The Art of Patience  Transform Your Reels Through Slow-Motion</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-basic-blueprint-for-seamless-speech-alteration-in-your-windows-sphere/"><u>In 2024, The Basic Blueprint for Seamless Speech Alteration in Your Windows Sphere</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-complete-guide-to-mastering-polarrs-image-precision/"><u>In 2024, The Complete Guide to Mastering Polarr's Image Precision</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-8-mobile-mosaics-best-blend-of-affordable-and-premium-android-videomosaic-apps/"><u>In 2024, Top 8 Mobile Mosaics  Best Blend of Affordable and Premium Android Videomosaic Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-value-360-cameras-simplifying-visual-storytelling/"><u>In 2024, Top Value 360° Cameras Simplifying Visual Storytelling</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleash-video-potential-top-4k-downloader-apps-reviewed/"><u>In 2024, Unleash Video Potential  Top 4K Downloader Apps Reviewed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-4k-clarity-with-a-look-at-the-dell-p2715q-screen/"><u>In 2024, Unveiling 4K Clarity with a Look at the Dell P2715Q Screen</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-art-of-digital-cropping-on-websites/"><u>In 2024, Unveiling the Art of Digital Cropping on Websites</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/linksys-ae1200-driver-download-made-simple-do-it-today/"><u>Linksys AE1200 Driver Download Made Simple: Do It Today</u></a></li>
+<li><a href="https://some-skills.techidaily.com/navigating-the-landscape-of-digital-grading-tools-for-2024/"><u>Navigating the Landscape of Digital Grading Tools for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-palette-primer-compreenasive-guide-to-coloring-for-2024/"><u>The Palette Primer  Compreenasive Guide to Coloring for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-vivo-g2-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-alert-tones-superior-download-sites-list-for-2024/"><u>Top Alert Tones  Superior Download Sites List for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-guide-to-high-quality-cost-free-webm-viewers-for-2024/"><u>Ultimate Guide to High-Quality, Cost-Free WebM Viewers for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Images Using Artificial Intelligence: Mastering the Technique of Super-Resolution with Stable Diffusion"
-date: 2024-08-26 12:16:49
-updated: 2024-08-29 12:55:49
+date: 2024-08-29T20:46:00.945Z
+updated: 2024-08-30T20:46:00.945Z
 tags:
   - cutting-edge
 categories:
@@ -28,6 +28,9 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
 
  In this guide we're assuming you have [automatic11111's Stable Diffusion WebUI installed and running](https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-tecno-spark-go-2023-phone-by-drfone-android/). It's the definitive edition of Stable Diffusion and makes upscaling (along with many other aspects of work with AI images) much more simple and intuitive compared to [a standard Stable Diffusion installation](https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-xiaomi-redmi-k70-phone-by-drfone-android/).
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  How to Upscale Images in Stable Diffusion
 
  Whether you've got a [scan of an old photo](https://fox-cloud.techidaily.com/2024-approved-visualvision-studio-for-win8/), an old digital photo, or a low-res [AI-generated image](https://fox-info.techidaily.com/new-synthesize-stellar-titles-using-ai-insights/), start Stable Diffusion WebUI and follow the steps below.
@@ -44,16 +47,29 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
 
  If you have several images you want to upscale at once, switch to the "Batch Process" tab and drop several at once. In my experience, though, this doesn't always work, and
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ###  Step 2: Choose a Size
 
  Use the "Resize" slider to adjust how big the output image should be. By default, you'll use the "Scale By" tab which lets you multiply the image's current resolution by a given number. So for example, if you set it to 2 and your input image is 512x512, the image will be upscaled to 1024x1024.
 
 ![Adjust the "Scale By" slider or number field to choose the multiple you by which you want to upscale.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/scale-by.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Alternatively, you can switch to the "Scale To" tab and enter a specific resolution you want. Pay close attention to the image's current aspect ratio, and uncheck the "Crop to Fit" option if you don't want edges cut off.
 
  If you're planning to make a wallpaper, keep in mind that most modern phones use a 9:16 [aspect ratio](https://youtube-lab.techidaily.com/e-stock-images-directly-from-trusted-4-youtube-vids/), tablets use 4:3, and computers 16:9 (though ultrawide monitors go up to 21:9).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ###  Step 3: Choose an Upscaler
 
  Now, here's where it's easy to feel overwhelmed: you have at your disposal several different upscaling algorithms at your disposal, all with cryptic names, and you must choose one.
@@ -76,6 +92,9 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
 
 ![A photo placed in the Extras upload field in Stable Diffusion WebUI.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/generate.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The first time you upscale with a given algorithm Stable Diffusion will need to download the appropriate models, so expect the initial run to take extra time (which will depend in part on your connection speed).
 
  Once upscaling is complete, you'll find the output images in your the 
@@ -90,6 +109,9 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
 
 Related: [How to Use Stable Diffusion to Make AI GIFs and Videos](https://youtube-help.techidaily.com/in-2024-sonic-gold-standard-10-ways-to-elevate-home-recordings/) 
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ##  Tips for Better Upscaling Results
 
  If images aren't looking quite how you expected, there are a few things you can do get better results from Stable Diffusion's upscaling tools.
@@ -102,6 +124,9 @@ Related: [How to Use Stable Diffusion to Make AI GIFs and Videos](https://youtub
 
 ![Secondary upscaler selected in Stable Diffusino WebUI.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/second-upscaler.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ###  Fix Bad Aspect Ratios With Outpainting
 
  If you have an image you want to use at a specific aspect ratio but the upscaled image is too tall or two wide to use without cropping, you can potentially fix that problem using [Stable Diffusion's "outpainting" tool](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features#outpainting). It lets you generate "more" of the image, adding imagery to the sides or the top and bottom that weren't there before.
@@ -112,6 +137,9 @@ Related: [How to Use Stable Diffusion to Make AI GIFs and Videos](https://youtub
 
 ![Upscaled photo of a walking path in autumn with the left and right side generated using Stable Diffusion.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/wallpaper_outpainting.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Postprocess upscale by: 4, Postprocess upscaler: ESRGAN\_4x, Postprocess upscaler 2: SwinIR\_4x
 
 ###  Restore Distorted Faces With GPFGAN or CodeFormer
@@ -144,3 +172,38 @@ Related: [How to Make Awesome Wallpapers for Any Device With MidJourney](https:/
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-how-to-manage-youtube-video-comments-for-enhanced-privacy/"><u>[New] 2024 Approved  How to Manage YouTube Video Comments for Enhanced Privacy</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-twitch-content-integration-boosting-engagement-with-fb-sharing/"><u>[New] 2024 Approved  Twitch Content Integration  Boosting Engagement with FB Sharing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-and-craft-of-documentary-writing/"><u>[New] The Art and Craft of Documentary Writing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-insiders-look-at-mac-preview-software/"><u>[New] The Insider's Look at Mac Preview Software</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocked-treasures-art-without-intellectual-property-restrictions/"><u>[New] Unlocked Treasures  Art Without Intellectual Property Restrictions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unraveling-the-secrets-to-high-quality-zoom-streams-for-youtube/"><u>[New] Unraveling the Secrets to High-Quality Zoom Streams for YouTube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-ffmpegs-potential-for-original-formatted-audio-retrieval/"><u>[New] Unveiling FFmpeg's Potential for Original Formatted Audio Retrieval</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-leveraging-instagram-hashtags-to-amplify-social-media-impact/"><u>[Updated] In 2024, Leveraging Instagram Hashtags to Amplify Social Media Impact</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-mastering-instagram-reels-incorporating-tracks-seamlessly/"><u>[Updated] Mastering Instagram Reels  Incorporating Tracks Seamlessly</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-sustainable-cinematic-solutions-catalog/"><u>[Updated] Sustainable Cinematic Solutions Catalog</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-photographers-resource-efficient-online-photo-cropping/"><u>[Updated] The Photographer's Resource  Efficient Online Photo Cropping</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-live-broadcast-tech-for-industry-experts/"><u>[Updated] Top Live Broadcast Tech for Industry Experts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-highlight-reel-of-2022-skating-stars/"><u>[Updated] Ultimate Highlight Reel of 2022 Skating Stars</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-uncovering-ustream-plus-other-live-streamers/"><u>[Updated] Uncovering Ustream + Other Live Streamers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-artisans-secret-to-viral-youtube-success/"><u>2024 Approved  The Artisan's Secret to Viral YouTube Success</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-definitive-srt-file-generation-manual/"><u>2024 Approved  The Definitive SRT File Generation Manual</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-efficient-path-to-time-stamped-image-documentation/"><u>2024 Approved  The Efficient Path to Time-Stamped Image Documentation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-illustrators-journey-navigating-for-success-in-designing/"><u>2024 Approved  The Illustrator's Journey  Navigating for Success in Designing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/constructing-a-premium-video-editing-pc-from-the-ground-up-for-2024/"><u>Constructing a Premium Video Editing PC From the Ground Up for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-oneplus-open-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/improve-your-gaming-experience-with-the-latest-nvidia-rtx-3060-ti-drivers-windows-1011-supported/"><u>Improve Your Gaming Experience with the Latest NVIDIA RTX 3060 Ti Drivers - Windows 10/11 Supported</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-go-pro-simple-techniques-for-captivating-slow-motion-videos-on-android/"><u>In 2024, Go Pro  Simple Techniques for Captivating Slow Motion Videos on Android</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-insta-likes-and-video-powerhouse-get-noticed-and-grow-your-instagram-fast/"><u>In 2024, Insta Likes & Video Powerhouse  Get Noticed & Grow Your Instagram [Fast!]</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-uav-connoisseurs-guide-to-essential-equipment/"><u>In 2024, The UAV Connoisseur's Guide to Essential Equipment</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unique-voice-customization-for-chrome-os-5-top-cloud-audio-editors-reviewed/"><u>In 2024, Unique Voice Customization for Chrome OS  5 Top Cloud Audio Editors Reviewed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/smoothly-lowering-sound-levels-using-garageband-for-2024/"><u>Smoothly Lowering Sound Levels Using Garageband for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-comedic-potential-of-the-metaverses-vast-space-for-2024/"><u>The Comedic Potential of the Metaverse's Vast Space for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-insiders-guide-to-captivating-youtube-headlines-for-2024/"><u>The Insider's Guide to Captivating YouTube Headlines for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-unveiling-of-facebooks-open-policy-initiative-centre/"><u>The Unveiling of Facebook's Open Policy Initiative Centre</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-the-power-of-livestreaming-on-youtube-regardless-of-subscriber-numbers-for-2024/"><u>Unlock the Power of Livestreaming on YouTube, Regardless of Subscriber Numbers for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/wiring-psvr-to-a-laptop-comprehensive-instructions-for-gamers/"><u>Wiring PSVR To A Laptop: Comprehensive Instructions For Gamers</u></a></li>
+</ul></div>

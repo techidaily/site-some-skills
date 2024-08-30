@@ -1,7 +1,7 @@
 ---
 title: "Windows Migrants Beware: 7 Peculiar Mac Habits That Will Surprise You"
-date: 2024-08-26 20:49:28
-updated: 2024-08-29 11:34:13
+date: 2024-08-29T20:41:47.965Z
+updated: 2024-08-30T20:41:47.965Z
 tags:
   - desktop
 categories:
@@ -41,10 +41,16 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 
 ![The Globe, Control, Option, and Command keys on a Mac keyboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-globe-control-option-and-command-keys-on-a-mac-keyboard.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Some keys, like the Control button, are on both keyboards but have different uses. For instance, keyboard shortcuts that require you to press the Control key on a Windows keyboard often use the Command key instead on a Mac. So, [copy and paste](https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-itel-s23plus-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/) is Ctrl+C and Ctrl+V in Windows, but Command+C and Command+V in macOS.
 
  Newer Mac keyboards also feature a Globe key which brings up the emoji picker and can also be used to change your input language and keyboard layouts. Learn the relevant [macOS keyboard shortcuts](https://facebook-video-share.techidaily.com/updated-the-ultimate-youtube-editors-handbook-a-step-by-step-journey/) to speed up tasks for yourself.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Windows and Mac Use Different Names for the Same Things
 
  Whether you use Windows or a Mac, you'll need to familiarize yourself with the jargon. While many terms are the same regardless of which operating system you use, there are some key differences in terminology that you need to take note of. Here are a few examples to help you get started.
@@ -67,18 +73,27 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 
  Regardless of the shortcut you use, the screenshot is immediately saved to your macOS desktop for easy access.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  macOS Has Its Own Equivalents for the Windows Apps
 
  As you transition to macOS, you'll notice that the two operating systems come with a lot of preloaded apps that offer similar functionality. For instance, the built-in browser on Mac is Safari, as opposed to Edge on Windows.
 
 ![Some of the Mac apps in macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/some-of-the-mac-apps-in-macos.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Instead of the Task Manager on Windows, you can use Activity Monitor to view information about your laptop's hard drive utilization, memory usage, and other data.
 
  In place of the Microsoft Outlook app, you have the Mail app, which provides the same functionality. For media, and in place of Windows Media Player, macOS has Apple Music, Apple TV, Apple Podcasts, and Apple Books. The Notepad app on Windows is replaced by TextEdit on macOS. And Siri is in place of Cortana.
 
  One of the biggest benefits of macOS is that it comes with a lot of extra apps that you'd normally have to pay for. Pages and Numbers are replacements for Word and Excel, for example, and GarageBand is a music creation tool. You also get access to FaceTime and iMessage.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The UI Looks Similar but Is Not the Same
 
  When you navigate from a Windows laptop to a macOS computer, you'll see certain key differences in the UI design. For instance, when you open a window on a Mac, you'll notice that the resizing buttons for closing (red), minimizing (yellow), and maximizing (green) windows are located on the upper-left side.
@@ -93,6 +108,9 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 
 ![Spotlight search in macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/spotlight-search-in-macos.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Spotlight is packed with features](https://screen-capture.techidaily.com/updated-shadowed-swords-and-honored-combatants-must-try-titles-inspired-by-ghost-of-tsushi/). You can use it to find apps, documents, or emails by keying in a few keywords related to what you're searching for, as well as searching for news, sports scores, or weather updates, performing calculations, and much more.
 
  Another key difference in the UI is the menu bar. In macOS, the menu bar is always located at the top of the screen rather than the top of the window and extends across its width. It gives you access to the Apple menu, Finder, the time and date, Wi-Fi and Bluetooth settings, and the battery status, as well as app-specific menu options.
@@ -127,3 +145,62 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-a-step-by-step-guide-to-autoplaying-youtube-in-facebook-groups-and-pages/"><u>[New] In 2024, A Step-by-Step Guide to Autoplaying Youtube in Facebook Groups and Pages</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-streamline-creative-filmmaking-with-instagrams-background-swap/"><u>[New] In 2024, Streamline Creative Filmmaking with Instagram's Background Swap</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-the-essential-manual-to-measure-youtube-success-metrics/"><u>[New] In 2024, The Essential Manual to Measure YouTube Success Metrics</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-quick-paced-fortnite-visual-artistry/"><u>[New] Quick-Paced Fortnite Visual Artistry</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-growth-medical-ad-tricks-on-social-media/"><u>[New] Unlocking Growth  Medical Ad Tricks on Social Media</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-power-of-free-countdown-tools-for-time-management/"><u>[New] Unveiling the Power of Free Countdown Tools for Time Management</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-everything-about-facebook/"><u>[Updated] 2024 Approved  Everything About Facebook</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-expressive-imagery-premier-snapchat-filters-and-lenses-for-2024/"><u>[Updated] Expressive Imagery  Premier Snapchat Filters and Lenses for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-how-to-upload-and-share-videos-seamlessly-on-instagram/"><u>[Updated] In 2024, How to Upload and Share Videos Seamlessly on Instagram</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-tech-enthusiasts-manual-mastering-macoss-capture-tool-for-2024/"><u>[Updated] Tech Enthusiasts' Manual  Mastering macOS's Capture Tool for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-art-of-altering-photographic-contrast/"><u>[Updated] The Art of Altering Photographic Contrast</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-impact-of-photoshops-stabilization-on-quality-control/"><u>[Updated] The Impact of Photoshop's Stabilization on Quality Control</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-insiders-handbook-to-crafting-shareable-meme-gifs/"><u>[Updated] The Insider's Handbook to Crafting Shareable Meme GIFs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-breakdown-xstudio-video-production-mastery/"><u>[Updated] The Ultimate Breakdown  XStudio Video Production Mastery</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-hdr-monitor-in-depth-samsung-ue590-analysis/"><u>[Updated] The Ultimate HDR Monitor - In-Depth Samsung UE590 Analysis</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleashing-potential-in-ar-applying-lut-techniques/"><u>[Updated] Unleashing Potential in AR  Applying LUT Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-utilizing-zoom-services-directly-from-your-inbox-gmail-edition/"><u>[Updated] Utilizing Zoom Services Directly From Your Inbox - Gmail Edition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-vegas-pro-2021-unpacked-game-changer-or-just-another-tool/"><u>[Updated] Vegas Pro 2021 Unpacked  Game Changer or Just Another Tool?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-boost-your-insta-reels-with-tiktok-inspired-hits-and-stats/"><u>2024 Approved  Boost Your Insta Reels with TikTok-Inspired Hits and Stats</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-how-to-use-zoom-for-skype-easy-solutions/"><u>2024 Approved  How to Use Zoom for Skype [Easy Solutions]</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-initiating-immediate-creation-of-captivating-facebook-panoramas/"><u>2024 Approved  Initiating Immediate Creation of Captivating Facebook Panoramas</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-lighting-setup-tips-to-make-great-videos/"><u>2024 Approved  Lighting Setup Tips to Make Great Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-list-of-shopping-destinations-for-customizable-presents/"><u>2024 Approved  The Ultimate List of Shopping Destinations for Customizable Presents</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-affordable-panoramic-cameras-under-100/"><u>2024 Approved  Top Affordable Panoramic Cameras Under $100</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-mobile-experiences-ios-and-androids-vr-hits/"><u>2024 Approved  Top Mobile Experiences  IOS & Android's VR Hits</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-trailblazing-top-zooid-beginnings-list/"><u>2024 Approved  Trailblazing Top Zooid Beginnings List</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transform-your-hdr-images-into-professional-grade-time-lapses-with-gopro-studio/"><u>2024 Approved  Transform Your HDR Images Into Professional-Grade Time Lapses with GoPro Studio</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-video-playback-device-pcmobile-focus/"><u>2024 Approved  Ultimate Video Playback Device - PC/Mobile Focus</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-potential-our-picks-for-the-most-inspiring-films/"><u>2024 Approved  Unleash Potential  Our Picks for the Most Inspiring Films</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleashing-your-iphone-the-top-techniques-for-skyline-pics/"><u>2024 Approved  Unleashing Your iPhone  The Top Techniques for Skyline Pics</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/becoming-a-seo-guru-top-ten-facebook-optimization-tactics-for-2024/"><u>Becoming a SEO Guru  Top Ten Facebook Optimization Tactics for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/detailed-razer-kiyo-webcam-insights/"><u>Detailed Razer Kiyo Webcam Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-new-gadgets-with-toms-computing-hub/"><u>Discovering New Gadgets with Tom's Computing Hub</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-k70-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi K70 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-oppo-a1x-5g-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Oppo A1x 5G? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/how-kindle-oasis-2019-revolutionizes-reading-a-closer-look-at-its-paper-like-display-technology/"><u>How Kindle Oasis (2019) Revolutionizes Reading: A Closer Look at Its Paper-Like Display Technology</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Motorola Edge 2023? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-tecno-spark-20c-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Tecno Spark 20C Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tech-analysis-elite-parrot-ar-drone-20/"><u>In 2024, Tech Analysis  Elite Parrot AR Drone 2.0</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-vivo-y100t-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Vivo Y100t</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tickle-treasure-trove-uncovering-best-apps-for-memes/"><u>In 2024, Tickle Treasure Trove  Uncovering Best Apps for Memes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transforming-your-content-delivery-the-power-of-onestream/"><u>In 2024, Transforming Your Content Delivery  The Power of OneStream</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-potential-from-standard-sdr-to-high-end-hdr/"><u>In 2024, Unleashing Potential  From Standard SDR to High-End HDR</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-vivo-y100i-power-5g-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Vivo Y100i Power 5G Phones</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Sony Xperia 5 V? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/journey-to-metaverse-leading-vr-headsets-reviewed-for-2024/"><u>Journey to Metaverse  Leading VR Headsets Reviewed for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/next-gen-listening-experience-unveiled-by-facebook/"><u>Next-Gen Listening Experience Unveiled by Facebook</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/ready-set-edit-top-15-fast-and-fun-tricks-to-use-in-pixlr-for-2024/"><u>Ready, Set, Edit! Top 15 Fast and Fun Tricks to Use in Pixlr for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/sideways-instagram-videos-an-enigma-or-bug-in-2024/"><u>Sideways Instagram Videos  An Enigma or Bug, In 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/tailor-made-touches-a-users-guide-to-altering-taskbar-colors-on-windows-10-devices/"><u>Tailor-Made Touches: A User’s Guide to Altering Taskbar Colors on Windows 10 Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-game-changer-essential-nintendo-switch-customizations/"><u>The Game Changer: Essential Nintendo Switch Customizations</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-simple-art-of-capturing-breathtaking-slow-motion-shots-with-android-for-2024/"><u>The Simple Art of Capturing Breathtaking Slow-Motion Shots with Android for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-10-user-friendly-budget-optimizing-passport-photo-creators-for-2024/"><u>Top 10 User-Friendly, Budget-Optimizing Passport Photo Creators for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-5-android-photo-fixers-for-2024/"><u>Ultimate 5 Android Photo Fixers for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-top-online-markets-for-quality-tamil-ringtone-downloads-for-2024/"><u>Unveiling Top Online Markets for Quality Tamil Ringtone Downloads for 2024</u></a></li>
+</ul></div>

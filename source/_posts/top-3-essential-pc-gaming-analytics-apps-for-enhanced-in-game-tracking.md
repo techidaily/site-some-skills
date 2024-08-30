@@ -1,7 +1,7 @@
 ---
 title: Top 3 Essential PC Gaming Analytics Apps for Enhanced In-Game Tracking
-date: 2024-08-27 17:35:24
-updated: 2024-08-29 12:50:14
+date: 2024-08-29T20:43:57.184Z
+updated: 2024-08-30T20:43:57.184Z
 tags:
   - deals
 categories:
@@ -37,10 +37,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![NVIDIA Overlay main menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-01.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
  Once there, make sure to select the “Custom” statistics view, click on the "View All" button, and then simply enable the performance metrics you want to see on the statistics overlay.
 
 ![NVIDIA overlay in-game statistics options menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-03.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
  You can also configure the heads-up display by clicking the "Configure Heads Up Display" button in the "Statistics" options menu.
 
 ## ![NVIDIA Overlay Statistics options menu](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-02.png) RivaTuner Statistics Server
@@ -61,6 +67,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![RTSS Main Window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-04.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
  You can also use RTSS as an in-game frame limiter, which I recommend because I’ve found it works much better than frame limiters available in games or those available in NVIDIA and AMD apps.
 
  Once you finish setting up RTSS-related options, open MSI Afterburner, locate the settings icon, and click it. Once you're in the options menu, locate the “On-Screen Display” tab and assign the keys to show and hide the on-screen display, as shown below. You can also assign a key to toggle the OSD, but in my case, the OSD toggle doesn’t work no matter which key I assign.
@@ -71,8 +80,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![MSI Afterburner main window and the Monitoring menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-06-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
  After you enable the performance stats you want to see on the OSD, click the “Apply” button, and try out the OSD by entering the game and pressing the button you’ve mapped to open the RTSS performance overlay.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ##  Intel PresentMon
 
  The third and last entry on this list is [Intel PresentMon](https://game.intel.com/us/intel-presentmon/). I’ve been using PresentMon for a few months and can say that it works great and offers enough performance monitoring metrics for most PC gamers, including advanced users. Compared to RTSS, PresentMon may be a better solution because it doesn’t require third-party software to pull performance metrics from.
@@ -93,10 +108,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Intel PresentMon main Window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-07.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Once in the configuration menu, explore different options and create your perfect monitoring overlay.
 
 ![Intel PresentMon custom preset configuration menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-08.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
  You can combine multiple metrics by pressing the “Plus” button. For example, you can combine GPU and CPU busy graphs with GPU and CPU wait graphs, average and 99% low FPS, CPU and GPU utilization, and more. The “Options” button next to the “Plus” button allows you to customize each graph.
 
 ![Intel PresentMon custom preset configuration menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-09.png) 
@@ -121,3 +142,43 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-authenticity-matters-ensuring-your-tiktoks-are-legally-uploaded/"><u>[New] Authenticity Matters  Ensuring Your TikToks Are Legally Uploaded</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-facebooks-ultimate-add-ons-for-the-tech-enthusiast/"><u>[New] Facebook's Ultimate Add-Ons for the Tech Enthusiast</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-the-ultimate-reference-to-youtube-video-aspect-ratios/"><u>[New] In 2024, The Ultimate Reference to YouTube Video Aspect Ratios</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tailoring-your-video-sessions-with-zoom-on-youtube-platform/"><u>[New] Tailoring Your Video Sessions with Zoom on YouTube Platform</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-hilarious-side-of-iphones/"><u>[New] The Hilarious Side of iPhones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlock-professional-subtitle-transformation-at-zero-price/"><u>[New] Unlock Professional Subtitle Transformation at Zero Price</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-unveiling-color-depth-why-hdri-is-preferable-in-media-production/"><u>[New] Unveiling Color Depth  Why HDRI Is Preferable in Media Production</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-your-guide-to-stellar-igtv-talent-for-2024/"><u>[New] Your Guide to Stellar IGTV Talent for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-seamless-audio-transition-crossfade-explained/"><u>[Updated] Seamless Audio Transition - Crossfade Explained</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-taming-soundscapes-mastering-gradual-volume-increase-with-audition/"><u>[Updated] Taming Soundscapes  Mastering Gradual Volume Increase with Audition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-artisans-path-mastery-of-background-removal-tools-in-photoshop/"><u>[Updated] The Artisan's Path  Mastery of Background Removal Tools in Photoshop</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-percussion-prospector-find-and-test-free-software/"><u>[Updated] The Percussion Prospector – Find & Test Free Software</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-smartphone-photographers-handbook/"><u>[Updated] The Smartphone Photographer's Handbook</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unraveling-the-mysteries-of-quantum-hdr/"><u>[Updated] Unraveling the Mysteries of Quantum HDR</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-blueprint-for-attracting-brands-as-youtube-affiliates/"><u>2024 Approved  The Blueprint for Attracting Brands as Youtube Affiliates</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-photographers-toolkit-essential-tips-for-cutting-edge-edits/"><u>2024 Approved  The Photographer's Toolkit  Essential Tips for Cutting-Edge Edits</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-timing-analysis-of-a-20mb-film/"><u>2024 Approved  Timing Analysis of a 20MB Film</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-unfollow-trail-on-the-social-giant-instagram/"><u>2024 Approved  Unfollow Trail on the Social Giant Instagram</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-your-creative-potential-best-free-premiere-pro-libraries/"><u>2024 Approved  Unlock Your Creative Potential  Best Free Premiere Pro Libraries</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-creative-potential-garageband-editing-guide/"><u>2024 Approved  Unlocking Creative Potential  GarageBand Editing Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-poco-x6-pro-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Poco X6 Pro to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-oppo-f25-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/endless-entertainment-building-addictive-ig-boomerangs-for-2024/"><u>Endless Entertainment  Building Addictive IG Boomerangs for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-mastering-the-art-of-preventing-vr-sickness/"><u>In 2024, Mastering the Art of Preventing VR Sickness</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-premiered-patterns-for-panzoid-creation/"><u>In 2024, Premiered Patterns for Panzoid Creation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-pro-tips-for-iphone-burst-photo-sequences/"><u>In 2024, Pro Tips for iPhone Burst Photo Sequences</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-photos-into-dynamic-time-lapses-the-gopro-way/"><u>In 2024, Transform Your Photos Into Dynamic Time-Lapses  The GoPro Way</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-list-mac-video-editors-for-macos-big-sur-11-users/"><u>In 2024, Ultimate List  Mac Video Editors for macOS Big Sur 11 Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-to-ps4-device-communication-feasible/"><u>PS5-to-PS4 Device Communication Feasible?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/secure-and-verify-a-comprehensive-approach-to-listing-emails-safely/"><u>Secure and Verify: A Comprehensive Approach to Listing Emails Safely</u></a></li>
+<li><a href="https://some-skills.techidaily.com/taking-your-content-public-steps-for-live-streaming-for-2024/"><u>Taking Your Content Public  Steps for Live Streaming for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-portable-shake-reducer-for-clear-video-capture-for-2024/"><u>Ultimate Portable Shake Reducer for Clear Video Capture for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-webcam-selection-for-podcasting-for-2024/"><u>Ultimate Webcam Selection for Podcasting for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-chromecast-video-streaming-made-easy-support-for-all-formats/"><u>Updated Chromecast Video Streaming Made Easy Support for All Formats</u></a></li>
+</ul></div>

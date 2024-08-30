@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Updating Software in Windows 11: A Simple Process"
-date: 2024-08-27 23:14:34
-updated: 2024-08-29 11:10:56
+date: 2024-08-29T20:42:30.258Z
+updated: 2024-08-30T20:42:30.258Z
 tags:
   - desktop
 categories:
@@ -37,12 +37,18 @@ thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d
 
 !['Library' highlighted in Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-microsoft-store-library.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
  On the Library page, in the Updates and Downloads section, you’ll find the apps due for an update.
 
  To update a specific app, next to that app’s name, click the "Update" button. To update all your apps at once, at the top of the page, click the "Update All" button.
 
 !['Update All' highlighted in Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/12-update-apps-microsoft-store.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
  Wait for the Store to download and install the updates for your apps. Once that’s done, you can launch your apps.
 
 ###  How to Enable Automatic Updates in Microsoft Store
@@ -51,10 +57,16 @@ thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d
 
 !['Settings' highlighted in the profile menu of Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-microsoft-store-settings.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In Settings, turn on the "App Updates" option.
 
 !['App Updates' highlighted in Microsoft Store Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-microsoft-store-disable-app-updates.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In the future, to prevent the Store from automatically updating apps, turn off the "App Updates" option. We recommend keeping the option turned on, but if you’re on a metered connection, you might not want the Store to use so much of your internet data.
 
 ##  How to Update Non-Microsoft Store Apps
@@ -71,6 +83,10 @@ thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d
 
 !['Download' options highlighted on the 7-Zip website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-update-7-zip.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ##  How to Update Apps Using Command Prompt
 
  If you prefer command line methods over graphical ones, [use the winget (Windows Package Manager) command](https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-on-iphone-xs-by-drfone-ios/) in Command Prompt to update your apps. This command lets you update apps individually or all of them at once. 
@@ -87,6 +103,9 @@ winget upgrade
 
 !['winget upgrade' command typed in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/10-list-update-apps-winget.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You’ll see the installed apps, their current versions, and the latest versions you can update them to.
 
  To update a specific app, run the following command, replacing AppName with the name of the app. Make sure to enclose the app name in double quotes.
@@ -95,6 +114,9 @@ winget upgrade “AppName”
 
 !['winget upgrade 'Zoom' typed in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/11-update-specific-app-winget.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
  The command will begin updating the specified app. You’ll see the live progress on the CMD window. It’ll let you know when the app is updated.
 
  If you want to update all the apps at once, use the following command:
@@ -121,3 +143,75 @@ winget upgrade -h -all
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-conquer-recording-challenges-using-ezvides-screencasting/"><u>[New] 2024 Approved  Conquer Recording Challenges Using EZvide's Screencasting</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-elevating-your-vimeo-clips-a-guide-to-musical-additions/"><u>[New] 2024 Approved  Elevating Your Vimeo Clips  A Guide to Musical Additions</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-exploring-youtubes-payment-mechanisms-for-content-makers/"><u>[New] 2024 Approved  Exploring YouTube's Payment Mechanisms for Content Makers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-beat-matchers-playlist-selecting-flawless-dj-videos/"><u>[New] In 2024, Beat Matcher's Playlist  Selecting Flawless DJ Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-boosting-earning-potential-on-youtube-shorts/"><u>[New] In 2024, Boosting Earning Potential on YouTube Shorts</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-cutting-edge-fullscreen-capture-programs/"><u>[New] In 2024, Cutting-Edge Fullscreen Capture Programs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-strategies-to-enhance-testimonial-credibility-and-impact/"><u>[New] Strategies to Enhance Testimonial Credibility and Impact</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamlining-your-iphones-album-organization-and-icloud-connection/"><u>[New] Streamlining Your iPhone's Album Organization and iCloud Connection</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unleashing-potential-top-10-os-xwin-enhancements-for-srt/"><u>[New] Unleashing Potential  Top 10 OS X/Win Enhancements for SRT</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-major-modifications-in-windows-movie-maker/"><u>[New] Unveiling Major Modifications in Windows Movie Maker</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-from-content-creator-to-brand-ambassador-unlocking-instagram-sponsorship-for-2024/"><u>[Updated] From Content Creator to Brand Ambassador  Unlocking Instagram Sponsorship for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-illustrating-a-novel-tiktok-end-slide-for-2024/"><u>[Updated] Illustrating A Novel TikTok End Slide for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-revolutionizing-the-opening-experience/"><u>[Updated] Revolutionizing the Opening Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamline-storytelling-with-inshots-transition-features/"><u>[Updated] Streamline Storytelling with Inshot's Transition Features</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-art-of-textual-innovation-in-after-effects/"><u>[Updated] The Art of Textual Innovation in After Effects</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-beginners-guide-to-editing-content-on-windows-11/"><u>[Updated] The Beginner's Guide to Editing Content on Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-iphone-and-icloud-sync-a-step-by-step-photo-arrangement-guide/"><u>[Updated] The iPhone & iCloud Sync  A Step-by-Step Photo Arrangement Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-role-of-background-melody-in-a-cinematic-commercial/"><u>[Updated] The Role of Background Melody in a Cinematic Commercial</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-2024-rendition-of-audiofreex-insight/"><u>[Updated] The Ultimate 2024 Rendition of AudioFreex Insight</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleashing-potential-learning-to-race-with-drones-and-best-models/"><u>[Updated] Unleashing Potential  Learning to Race with Drones and Best Models</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2023-tech-scoop-efficiently-tracking-down-fb-vids-for-2024/"><u>2023 Tech Scoop  Efficiently Tracking Down FB Vids for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-superior-smartphone-apps-the-best-for-gopro-editing/"><u>2024 Approved  Superior Smartphone Apps  The Best for GoPro Editing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-silent-learners-guide-to-bypassing-edgenuity-videos-effortlessly/"><u>2024 Approved  The Silent Learner's Guide to Bypassing Edgenuity Videos Effortlessly</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-smart-way-to-shop-for-drones-must-know-information/"><u>2024 Approved  The Smart Way to Shop for Drones  Must-Know Information</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-free-hilarious-memetic-art/"><u>2024 Approved  The Ultimate Guide to Free, Hilarious Memetic Art</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-5-hd-hunting-cameras-unveiled/"><u>2024 Approved  Top 5 HD Hunting Cameras Unveiled</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-trends-and-techniques-for-skyrocketing-youtube-views/"><u>2024 Approved  Trends and Techniques for Skyrocketing YouTube Views</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-choice-for-gif-to-video-online-tools-best-5/"><u>2024 Approved  Ultimate Choice for GIF-to-Video Online Tools (Best 5)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-frames-per-second-for-slow-clips/"><u>2024 Approved  Ultimate Frames Per Second for Slow Clips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-the-hidden-potential-of-windows-11-with-these-tips/"><u>2024 Approved  Unlock the Hidden Potential of Windows 11 with These Tips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-vector-graphics-101-overview-of-varieties-and-tools/"><u>2024 Approved  Vector Graphics 101  Overview of Varieties & Tools</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-visual-storytelling-at-its-finest-youtube-trailers-through-filmoras-lens/"><u>2024 Approved  Visual Storytelling at Its Finest  YouTube Trailers Through Filmora's Lens</u></a></li>
+<li><a href="https://fox-access.techidaily.com/a-leap-forward-in-mobile-photography-iphone-x-unveiled-for-2024/"><u>A Leap Forward in Mobile Photography  IPhone X Unveiled for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beating-helldivers-2s-startup-glitch-a-complete-guide-to-restoring-gameplay-from-black-screen-errors/"><u>Beating Helldivers 2'S Startup Glitch: A Complete Guide to Restoring Gameplay From Black Screen Errors</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/bridging-language-barriers-masterful-grammar-insights-from-a-pro-esl-communicator/"><u>Bridging Language Barriers: Masterful Grammar Insights From a Pro ESL Communicator</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-phantom-hardware-listings-on-windows-system/"><u>Correcting Phantom Hardware Listings on Windows System</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-the-magic-behind-procedurally-crafted-games/"><u>Decoding the Magic Behind Procedurally Crafted Games</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-generalist-to-specialist-creating-a-personal-ai-assistant-with-gpt-based-tech/"><u>From Generalist to Specialist: Creating a Personal AI Assistant with GPT-Based Tech</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-mend-screen-driver-problems-in-windows-11/"><u>How to Mend Screen Driver Problems in Windows 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-11-pro-max-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-8-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, Apple iPhone 8 Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-samsung-galaxy-a24-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Samsung Galaxy A24</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-fcps-ultimate-effect-upgrade-the-best-10-plugins/"><u>In 2024, FCP’s Ultimate Effect Upgrade  The Best 10 Plugins</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-gif-animation-made-easy-top-free-makers/"><u>In 2024, GIF Animation Made Easy Top Free Makers</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-perfectly-pitched-headlines-maker/"><u>In 2024, Perfectly Pitched Headlines Maker</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-best-professional-template-pack-for-premiere-pro/"><u>In 2024, The Best Professional Template Pack for Premiere Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-premier-intro-list-for-panzoids/"><u>In 2024, The Premier Intro List for Panzoids</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-roadmap-to-crafting-memorable-tiktok-videos/"><u>In 2024, The Ultimate Roadmap to Crafting Memorable TikTok Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-watchful-eye-app-critique-and-rating/"><u>In 2024, The Watchful Eye  App Critique and Rating</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tiktok-to-tokens-financial-figures-of-pewdiepie/"><u>In 2024, TikTok to Tokens  Financial Figures of PewDiePie</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-strategy-with-these-20-marketing-terms/"><u>In 2024, Transform Your Strategy with These 20 Marketing Terms</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-true-to-life-shade-tweaker/"><u>In 2024, True-to-Life Shade Tweaker</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-turning-social-media-sounds-into-functional-phone-alarms/"><u>In 2024, Turning Social Media Sounds Into Functional Phone Alarms</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-premiere-pro-template-guide-no-cost/"><u>In 2024, Ultimate Premiere Pro Template Guide - No Cost</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-uniting-your-soundtrack-sets-from-different-spaces/"><u>In 2024, Uniting Your Soundtrack Sets From Different Spaces</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-secrets-of-hands-in-vrar/"><u>In 2024, Unveiling the Secrets of Hands in VR/AR</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-ultimate-iphone-selfie-sticks-8/"><u>In 2024, Unveiling the Ultimate IPhone Selfie Sticks (#8)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-personal-tones-androids-ringtone-and-sound-guide-for-2024/"><u>Mastering Personal Tones  Android's Ringtone & Sound Guide for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/prime-steadicams-to-elevate-uav-video-production-quality-for-2024/"><u>Prime Steadicams to Elevate UAV Video Production Quality for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-motorola-moto-g73-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Motorola Moto G73 5G Black and White | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/sculpting-soundscapes-gradual-volume-reduction/"><u>Sculpting Soundscapes  Gradual Volume Reduction</u></a></li>
+<li><a href="https://some-skills.techidaily.com/step-by-step-blueprint-for-successful-reddit-contributions-for-2024/"><u>Step-by-Step Blueprint for Successful Reddit Contributions for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/text-tactics-top-10-best-practices/"><u>Text Tactics  Top 10 Best Practices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/troubleshooting-iphone-camera-failing-to-autofocus-for-2024/"><u>Troubleshooting iPhone Camera Failing to Autofocus for 2024</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-your-hardware-drivers-with-windows-device-manager-in-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning your hardware drivers with Windows Device Manager in Windows 11 & 10</u></a></li>
+</ul></div>

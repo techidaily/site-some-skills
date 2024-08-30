@@ -1,7 +1,7 @@
 ---
 title: Seamless Access to Distant Linux Machine Files Made Simple
-date: 2024-08-28 22:33:22
-updated: 2024-08-29 11:34:40
+date: 2024-08-29T20:40:37.541Z
+updated: 2024-08-30T20:40:37.541Z
 tags:
   - desktop
 categories:
@@ -63,6 +63,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
     
 ![Using the --version option to discover the version of SSHFS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/4-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Making a Remote Connection
 
  We need to create a directory to act as the _mount point_. It’s where the remote file system will be grafted onto your directory tree.
@@ -75,12 +78,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
     
 ![Creating the mount point directory.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/5-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Let’s take a look at our new directory.
 
         `ls -hl /media/dave`
     
 ![Using ls to check the attributes of the mount point directory.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/6-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Our directory has been created, and it is owned by root. That won’t matter though, we’ll have [read and write permissions](https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-13-pro-without-itunes-by-drfone-ios/) on the mounted file system.
 
  The SSHFS command is long-ish, but fairly simple when you break it down.
@@ -89,6 +98,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
     
 ![Mounting the remote file system on the local mount point.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/7-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
  The command consists of:
 
 * **sudo**: We’re using sudo because our mount point is owned by root.
@@ -113,6 +125,9 @@ ls`
     
 ![Listing the contents of the remote file system in a terminal window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/8-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  We can see the home directory of the user account on the remote computer. Any changes you make here are made on the remote drive. Any edits or deletions will affect the remote computer.
 
  We ought to be able to create a new file.
@@ -133,6 +148,10 @@ ls /home/dave/Downloads/`
     
 ![Copying files from the remote file system to the local file system.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/10-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ##  Accessing Files in a File Browser
 
  Because the mounted file system looks and behaves like any other part of your file system’s directory tree, you can use your file browser to navigate it too.
@@ -141,12 +160,18 @@ ls /home/dave/Downloads/`
 
 ![Accessing the remote file system in a file browser.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/11-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
  Double-clicking a file opens the application associated with that file type. These actions are carried out by applications on your local computer.
 
 ![Editing a file in the remote file system with a local editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/12-1.png) 
 
  If you edit a document, for example, your default local editor is launched.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Breaking the Connection
 
  To break the connection and unmount the remote file system, we use the umount command. Note there’s no “n” before the “m” in the umount command.
@@ -155,6 +180,9 @@ ls /home/dave/Downloads/`
     
 ![Unmounting the remote file system.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/13-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  The Far Away, Up Close
 
  Having easy and direct access to files on remote computers simplifies maintenance and other tasks.
@@ -175,3 +203,38 @@ ls /home/dave/Downloads/`
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-the-ultimate-guide-to-zdsoft-video-recording/"><u>[New] 2024 Approved  The Ultimate Guide to ZDSoft Video Recording</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-chilly-celebrations-beijings-olympic-ice-showcase-2022/"><u>[New] Chilly Celebrations  Beijing's Olympic Ice Showcase, 2022</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-warriors-echoes-celebrating-ghost-of-tsushima-analogues/"><u>[New] In 2024, Warrior's Echoes  Celebrating Ghost of Tsushima Analogues</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-summit-elite-production-space-25/"><u>[New] Summit Elite Production Space 25</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-essential-guide-free-and-trusted-vlc-downloads-for-mac-os-x/"><u>[New] The Essential Guide  Free & Trusted VLC Downloads for Mac OS X</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-insiders-look-at-configuring-a-powerful-zoom-room/"><u>[New] The Insider's Look at Configuring a Powerful Zoom Room</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-revolution-of-perception-in-augmented-realms/"><u>[New] The Revolution of Perception in Augmented Realms</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-total-kinetic-analysis-exploration/"><u>[New] Total Kinetic Analysis Exploration</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ustream-showcase-plus-similar-video-sites/"><u>[New] Ustream Showcase + Similar Video Sites</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-war-thunder-keeps-crashing-2024-tips/"><u>[Solved] War Thunder Keeps Crashing | 2024 Tips</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-best-9-free-youtube-logo-makers/"><u>[Updated] 2024 Approved  Best 9 Free YouTube Logo Makers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-superior-audio-modification-software-with-enchanting-features/"><u>[Updated] Superior Audio Modification Software with Enchanting Features</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-drone-excellence-the-q500-experience/"><u>[Updated] Unveiling Drone Excellence  The Q500 Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-navigating-subtitle-files-like-a-pro-in-macos/"><u>2024 Approved  Navigating Subtitle Files Like a Pro in macOS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-complete-guide-to-mastering-polarrs-image-precision/"><u>2024 Approved  The Complete Guide to Mastering Polarr's Image Precision</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-essential-guide-to-choosing-video-aspect-ratios/"><u>2024 Approved  The Essential Guide to Choosing Video Aspect Ratios</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-uncover-roblox-hidden-treasures-with-zoom-techniques/"><u>2024 Approved  Uncover Roblox Hidden Treasures with Zoom Techniques</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-successfully-reset-your-computer-despite-errors/"><u>How to Successfully Reset Your Computer Despite Errors</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-honor-90-lite-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Honor 90 Lite to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-complete-blueprint-for-optimizing-data-in-adobes-cloud-realm/"><u>In 2024, The Complete Blueprint for Optimizing Data in Adobe's Cloud Realm</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-close-up-mastery-on-roblox/"><u>In 2024, The Ultimate Guide to Close-Up Mastery on Roblox</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-utilizing-zoom-to-upgrade-tiktok-video-aesthetics/"><u>In 2024, Utilizing Zoom to Upgrade TikTok Video Aesthetics</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/master-tips-securing-audio-for-unboxing-vids/"><u>Master Tips  Securing Audio for Unboxing Vids</u></a></li>
+<li><a href="https://some-skills.techidaily.com/strategic-unveiling-the-box-of-opportunity-for-2024/"><u>Strategic Unveiling  The Box of Opportunity for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/survey-unique-categories-in-visual-media-equipment-for-2024/"><u>Survey  Unique Categories in Visual Media Equipment for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/system-recourse-and-resource-conflicts/"><u>System Recourse and Resource Conflicts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/telegram-for-newcomers-how-to-make-your-advertising-stand-out-for-2024/"><u>Telegram for Newcomers  How to Make Your Advertising Stand Out for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-art-of-crossfade-audio-seamless-integration-in-logic-x/"><u>The Art of Crossfade Audio  Seamless Integration in Logic X</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-basic-hdr-imaging-for-2024/"><u>The Ultimate Guide to Basic HDR Imaging for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-the-full-potential-of-high-dynamic-range-photos-using-lightroom-for-2024/"><u>Unlocking the Full Potential of High Dynamic Range Photos Using Lightroom for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-best-storytelling-schools-1-8-guide-for-2024/"><u>Unveiling the Best Storytelling Schools - #1-#8 Guide for 2024</u></a></li>
+</ul></div>

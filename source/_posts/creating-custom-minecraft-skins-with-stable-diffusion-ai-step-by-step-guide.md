@@ -1,7 +1,7 @@
 ---
 title: Creating Custom Minecraft Skins with Stable Diffusion AI - Step-by-Step Guide
-date: 2024-08-28 17:19:28
-updated: 2024-08-29 12:59:52
+date: 2024-08-29T20:45:02.408Z
+updated: 2024-08-30T20:45:02.408Z
 tags:
   - cutting-edge
 categories:
@@ -46,6 +46,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 
  Once you've done all that, we're ready to start producing textures.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ##  Create a Folder to Hold Your Textures
 
  You need to create a folder to hold all of the textures you create --- we put ours right in the middle of our Desktop where it won't get lost. Just right-click on the Desktop, mouse over "new," then click "Folder." We named ours "HTGExampleTextures" since it is easy to remember.
@@ -56,14 +59,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 
 ![The Minecraft folder when it is installed in the default location.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/Minecraft-folder.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
  Double-click the "Versions" folder, open the "1.19.2" subfolder, then right-click "1.19.2.json" and open the archive with Z-Zip.
 
 ![Right-click the Minecraft JAR file and open it with 7-Zip, WinRAR, or any other archival program.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/open-1.19.2.jar_.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
  You'll see something like this:
 
 ![The contents of the JAR file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/2022-09-30_08h55_56.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Open "assets\\Minecraft\\Textures\\Block." This is where most of the textures for game blocks are stored --- things like stone, cobblestone, tree bark, flowers, all of the ores and gems, and everything like that.
 
  Mob textures are stored in the "entities" folder, and most of the items you can craft are in the "item" folder. 
@@ -78,6 +91,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 
  Now we're ready to actually make some textures.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Start Generating Textures With Stable Diffusion
 
  Stable Diffusion is good for generating all sorts of imagery. It turns out that, with the right prompt, you can also get it to generate the sort of flat images that work well for game textures.
@@ -107,6 +123,9 @@ BLOCKNAMEHERE, stock photography, game texture, game asset, photorealistic, phot
 
 ![Select the texture you like, click &quot;Save,&quot; then click &quot;Send to Inpaint.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/save.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Inpainting allows you to selectively re-generate certain parts of an image based on a new prompt. We'll use it to generate the ore variants of our base stone texture.
 
  Send to Inpaint can sometimes be a little buggy. If it doesn't show up, click over to the "img2img" tab, select "Inpaint Part of an Image" near the top, go back to the "txt2img" tab and try hitting "Send to Inpaint" again. If that doesn't work, you can always access your textures in your Stable Diffusion output folder. If you followed [our guide](https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-tecno-spark-go-2023-phone-by-drfone-android/) the output folder will be "C:\\stable-diffusion-webui-master\\outputs\\txt2img-images". 
@@ -129,6 +148,9 @@ BLOCKNAMEHERE, stock photography, game texture, game asset, photorealistic, phot
 
 ![The four textures we generated: diamond ore, oak tree, dirt, and stone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/Final-Textures.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Turning the Textures Into a Resource Pack for Minecraft
 
  Once you've generated all of the textures you want, move them from Stable Diffusion's output folder into the "block" folder in the texture pack folder on your desktop. The default Stable Diffusion output folder is located at "C:\\stable-diffusion-webui-master\\outputs\\" on your computer. There are two folders that are important: txt2img and img2img. Anything you generate with just a prompt will be in txt2img, while anything you inpaint will be in img2img.
@@ -159,6 +181,9 @@ pack.mcmeta
 
 ![Create a text file named &quot;pack.mcmeta&quot; in your texture folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/pack-mcmeta.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Then hit the Enter key. You'll get a warning about doing that. Normally the warning is correct; renaming file extensions at random is bad practice. In this case, however, it doesn't matter at all. Just click "Yes."
 
 ![Click yes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/click-yes.png) 
@@ -169,6 +194,9 @@ pack.mcmeta
 
 ![Open the MCMETA file with Visual Studio Code.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/pick-visual-studio-code.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
  Open up the MCMETA file, and paste the following contents in:
 
 
@@ -220,6 +248,9 @@ Related: [How to Clean Up Your Messy Windows Context Menu](https://extra-guidanc
 
 ![Our textures displayed in Minecraft. From left to right: Stone, Dirt, Diamond Ore, Oak.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/ingame-screenshot.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
  Stable Diffusion cuts down on the time required to make a new texture enormously, even if you do have to do a little correction on some textures.
 
  For example, our stone base texture is a bit dark. You can easily fix something like that by importing it into GIMP or Photoshop and lightening it up a bit. We could quickly make a dark oak variant by going into GIMP and dropping the highlights a bit on the oak texture we already made. It doesn't take more than a few minutes --- at most --- once you're comfortable using a photo editor.
@@ -244,3 +275,54 @@ Related: [How to Use Stable Diffusion to Make AI GIFs and Videos](https://youtub
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-mastering-podcast-beginnings-eye-catching-strategies/"><u>[New] Mastering Podcast Beginnings  Eye-Catching Strategies</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamlining-photo-editing-processes-a-guide/"><u>[New] Streamlining Photo Editing Processes  A Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-complete-handbook-for-telegram-web-newbies/"><u>[New] The Complete Handbook for Telegram Web Newbies</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-leading-selection-no-cost-outstanding-lut-links/"><u>[New] The Leading Selection  No-Cost, Outstanding LUT Links</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-science-and-magic-behind-full-circle-films/"><u>[New] The Science and Magic Behind Full Circle Films</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-8-photo-montage-synthesizer-online/"><u>[New] Ultimate 8 Photo Montage Synthesizer Online</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-selections-top-rated-webcam-platforms/"><u>[New] Ultimate Selections  Top-Rated Webcam Platforms</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocked-design-potential-100-free-pp-templates/"><u>[New] Unlocked Design Potential  100%% Free PP Templates</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-20-most-reliable-hashtag-tracker-tools-fbtwitterinsta/"><u>[Updated] 2024 Approved  20 Most Reliable Hashtag Tracker Tools (FB/Twitter/Insta)</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-exploring-boundaries-sharing-360-photos-from-mobile-devices/"><u>[Updated] Exploring Boundaries  Sharing 360 Photos From Mobile Devices</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-innovative-youtube-monikers-for-vloggers-and-filmmakers-up-to-156-characters/"><u>[Updated] Innovative Youtube Monikers for Vloggers & Filmmakers (Up to 156 Characters)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premiere-previews-extravaganza/"><u>[Updated] Premiere Previews Extravaganza</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-snapshot-preservation-android-and-mac-techniques/"><u>[Updated] Snapshot Preservation  Android & Mac Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-4k-aerial-photography-guide-mi-drone-review/"><u>[Updated] The Ultimate 4K Aerial Photography Guide  MI Drone Review</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleash-the-power-of-split-window-on-netflix-platform/"><u>[Updated] Unleash the Power of Split Window on Netflix Platform</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlock-creative-potential-top-methods-for-green-screen-filming/"><u>[Updated] Unlock Creative Potential  Top Methods for Green Screen Filming</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-chronicle-custodians-circle-top-7-treasures/"><u>2024 Approved  Chronicle Custodians Circle - Top 7 Treasures</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-techniques-for-capturing-minute-details-on-video/"><u>2024 Approved  Expert Techniques for Capturing Minute Details on Video</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-facebook-featured-best-10-music-clips-today/"><u>2024 Approved  Facebook Featured  Best 10 Music Clips Today</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-to-create-news-style-outro/"><u>2024 Approved  How To Create News Style Outro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-leading-android-and-ios-timer-tools-reviewed-your-big-day-planners-must-haves/"><u>2024 Approved  Leading Android & iOS Timer Tools Reviewed  Your Big Day Planner's Must-Haves</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-smooth-transition-tips-for-inshot-editors/"><u>2024 Approved  Smooth Transition Tips for Inshot Editors</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-filmmakers-roadmap-creating-youtube-trailers-using-filmora/"><u>2024 Approved  The Filmmaker's Roadmap  Creating YouTube Trailers Using Filmora</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-path-to-flawless-video-subtitles-via-internet-services/"><u>2024 Approved  The Ultimate Path to Flawless Video Subtitles via Internet Services</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/camera-editing-showdown-hero-vs-cubes-battle-of-the-screens/"><u>Camera Editing Showdown  Hero Vs. Cube's Battle of the Screens</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-lenovo-t420-driver-update-instructions-for-windows-operating-systems/"><u>Complete Lenovo T420 Driver Update Instructions for Windows Operating Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/fixing-overburdened-chat-on-pc-windows/"><u>Fixing Overburdened Chat on PC (Windows)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hustle-free-download-free-gif-conversion-tools-ranked-for-2024/"><u>Hustle-Free, Download-Free GIF Conversion Tools Ranked for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-6s-plus-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone 6s Plus in Lost Mode</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamlined-process-for-shaping-photos/"><u>In 2024, Streamlined Process for Shaping Photos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-sound-speeds-in-spotify-without-compromise/"><u>In 2024, Streamlining Sound Speeds in Spotify Without Compromise</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-artisan-writes-crafting-hdr-magic-with-iphone/"><u>In 2024, The Artisan’ Writes  Crafting HDR Magic with iPhone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-editors-playbook-for-social-media-stardom/"><u>In 2024, The Editor's Playbook for Social Media Stardom</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-essence-of-the-apple-m1-a-technological-marvel/"><u>In 2024, The Essence of the Apple M1  A Technological Marvel</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-role-of-asmr-in-improving-mental-clarity/"><u>In 2024, The Role of ASMR in Improving Mental Clarity</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tips-for-iphone-users-converting-standard-speed-to-slow-scenes/"><u>In 2024, Tips for iPhone Users  Converting Standard Speed to Slow Scenes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-xboxs-video-call-potential-with-zoom/"><u>In 2024, Unlocking Xbox's Video Call Potential with Zoom</u></a></li>
+<li><a href="https://some-skills.techidaily.com/renewal-of-windows-photo-viewer-two-efficient-methods-in-windows-10-for-2024/"><u>Renewal of Windows Photo Viewer  Two Efficient Methods in Windows 10 for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/skys-canvas-transforming-drones-into-dynamic-videos/"><u>Sky's Canvas  Transforming Drones Into Dynamic Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-your-bluetooth-connectivity-issues-repair-windows-mouse-connection/"><u>Solve Your Bluetooth Connectivity Issues - Repair Windows Mouse Connection</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tackling-latency-issues-for-smooth-video-conferencing-on-xbox-one-for-2024/"><u>Tackling Latency Issues for Smooth Video Conferencing on Xbox One for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-pros-guide-to-clearing-backdrops-in-figma-design-for-2024/"><u>The Pro's Guide to Clearing Backdrops in Figma Design for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-8-key-points-when-choosing-between-bing-chat-and-chatgpt-as-a-self-employed-professional/"><u>Top 8 Key Points When Choosing Between Bing Chat and ChatGPT as a Self-Employed Professional</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-ranked-animation-set-for-typography-for-2024/"><u>Top-Ranked Animation Set for Typography for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-the-absent-d3dx9amoorlddll-file-effective-fixes-and-solutions/"><u>Troubleshooting the Absent d3dx9_amoorl'd.dll File: Effective Fixes and Solutions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-oculus-rift-game-hits-of-the-season-for-2024/"><u>Ultimate Oculus Rift Game Hits of the Season for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unraveling-asmr-for-mental-and-physical-health-for-2024/"><u>Unraveling ASMR for Mental and Physical Health for 2024</u></a></li>
+</ul></div>

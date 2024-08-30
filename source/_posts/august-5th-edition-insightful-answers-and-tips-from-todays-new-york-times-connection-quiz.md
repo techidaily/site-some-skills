@@ -1,7 +1,7 @@
 ---
 title: "August 5Th Edition: Insightful Answers & Tips From Today's New York Times Connection Quiz"
-date: 2024-08-27 20:53:34
-updated: 2024-08-29 10:55:51
+date: 2024-08-29T20:38:52.017Z
+updated: 2024-08-30T20:38:52.017Z
 tags:
   - web
 categories:
@@ -27,6 +27,9 @@ thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac35624
 
  Once you're confident you understand the connection, select 4 words, then hit "Submit." You have only four attempts in total, so don't be too guess-happy.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Hints for Today's Connections Groups
 
  Here are a few hints for the 420th Connections game to get you started:
@@ -38,6 +41,9 @@ thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac35624
 
 ![The unsorted words for August 5 Connections game](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-unsorted-words-for-august-5-connections-game.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you still need help, the actual group names are:
 
 * **Yellow:** Survive
@@ -45,10 +51,16 @@ thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac35624
 * **Blue:** Are We Clear
 * **Purple:** Words After "Eye"
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Today's NYT Connections Answers
 
 ![The words for August 5 sorted into the correct groups](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-words-for-august-5-sorted-into-the-correct-groups.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 **Survive (Yellow):** 
 
  Get By, Hack It, Make Do, Manage
@@ -65,6 +77,9 @@ thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac35624
 
  Candy, Contact, Shadow, Witness
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How Did We Solve This Connections Game?
 
  August 5th's game came very easily. 
@@ -77,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac35624
 
  That left candy, contact, shadow, and witness in Purple. I started going through the usual methods to solve it—guessing missing words or letters—and eventually settled on "eye." Each word in the Purple group can follow the word "eye" to refer to something distinct. As you might imagine, the Purple group was "Words after Eye." 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ##  How Do You Guess Connections Groups?
 
  There is no quick, reliable way to approach Connections like there is with Wordle, since Connections isn't algorithmic. However, there are a few things to keep in mind that can help.
@@ -104,3 +123,48 @@ thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac35624
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-blurry-looks-simple-ways-to-hide-identities-in-pictures/"><u>[New] 2024 Approved  Blurry Looks  Simple Ways to Hide Identities in Pictures</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-cutting-edge-editing-a-roadmap-for-high-quality-youtube-sounds/"><u>[New] 2024 Approved  Cutting-Edge Editing  A Roadmap for High-Quality YouTube Sounds</u></a></li>
+<li><a href="https://some-skills.techidaily.com/1-infographic-guide-transforming-kobo-ebooks-into-compatible-kindle-format/"><u>1. Infographic Guide: Transforming Kobo Ebooks Into Compatible Kindle Format</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-fixing-stuck-feeds-on-instagram-videos/"><u>2024 Approved  Fixing Stuck Feeds on Instagram Videos</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-future-proofing-filmmaking-with-green-tools/"><u>2024 Approved  Future-Proofing Filmmaking with Green Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-vlc-software-basics-for-macos/"><u>2024 Approved  Navigating VLC Software Basics for MacOS</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-power-your-day-with-essential-windows-10-hacks/"><u>2024 Approved  Power Your Day with Essential Windows 10 Hacks</u></a></li>
+<li><a href="https://win11.techidaily.com/achieving-home-screen-norm-setting-default-position-of-win-11-keyboards/"><u>Achieving Home Screen Norm: Setting Default Position of Win 11 Keyboards</u></a></li>
+<li><a href="https://some-skills.techidaily.com/amazon-kindle-e-readers-compare-the-latest-kindle-paperwhite-and-basic-models/"><u>Amazon Kindle E-Readers: Compare the Latest Kindle Paperwhite & Basic Models</u></a></li>
+<li><a href="https://some-skills.techidaily.com/comparing-epubor-and-alfa-which-ebook-management-software-reigns-supreme/"><u>Comparing EPubor and Alfa: Which eBook Management Software Reigns Supreme?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/demystifying-hidden-drm-systems-and-their-impact-on-content-usage/"><u>Demystifying Hidden DRM Systems and Their Impact on Content Usage</u></a></li>
+<li><a href="https://some-skills.techidaily.com/effective-techniques-for-eliminating-digital-rights-management-on-ebook-content/"><u>Effective Techniques for Eliminating Digital Rights Management on eBook Content</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-the-ultimate-jrpg-in-yakuza-like-a-dragon-dont-miss-out/"><u>Experience the Ultimate JRPG in Yakuza: Like a Dragon – Don't Miss Out</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixed-how-to-troubleshoot-when-your-keyboards-number-keys-stop-responding/"><u>Fixed: How To Troubleshoot When Your Keyboard's Number Keys Stop Responding</u></a></li>
+<li><a href="https://some-skills.techidaily.com/free-conversion-processes-from-lit-to-epub-for-enhanced-ebook-accessibility/"><u>Free Conversion Processes From LIT to EPUB for Enhanced eBook Accessibility</u></a></li>
+<li><a href="https://some-skills.techidaily.com/freedom-from-restrictions-eliminate-kindle-drm-to-enjoy-books-everywhere/"><u>Freedom From Restrictions: Eliminate Kindle DRM to Enjoy Books Everywhere</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-steelseries-driver-installer-for-windows-users/"><u>Get the Latest SteelSeries Driver Installer for Windows Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/how-to-bypass-amazons-kindle-digital-rights-management-unlocking-azw-kfx-and-azw3-formats/"><u>How To Bypass Amazon's Kindle Digital Rights Management: Unlocking AZW, KFX & AZW3 Formats</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-ensure-optimal-performance-upgrading-ati-radeon-graphics-drivers-on-windows-machines/"><u>How To Ensure Optimal Performance: Upgrading ATI Radeon Graphics Drivers on Windows Machines</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ideal-protective-gear-for-your-samsung-galaxy-tab-a-amazon-fire-7hd-8hd-10/"><u>Ideal Protective Gear for Your Samsung Galaxy Tab A (Amazon Fire 7/HD 8/HD 10)</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-apple-iphone-7-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 7 Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-skys-the-limit-for-your-shots-blend-free-space-and-premium-subscriptions/"><u>In 2024, Sky's the Limit for Your Shots  Blend Free Space and Premium Subscriptions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/innovative-approach-to-enjoying-taylor-swift-reputation-turn-her-hits-into-a-storytelling-audiobook/"><u>Innovative Approach to Enjoying Taylor Swift - 'Reputation': Turn Her Hits Into a Storytelling Audiobook</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/safeguard-your-sensitive-information-the-downsides-of-trusting-it-with-chatgpt/"><u>Safeguard Your Sensitive Information: The Downsides of Trusting It with ChatGPT</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ing-successful-video-ventures-through-team-choices-for-2024/"><u>Securing Successful Video Ventures Through Team Choices for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/students-new-ally-in-academics-five-innovative-uses-for-chatgpt/"><u>Students' New Ally in Academics: Five Innovative Uses for ChatGPT</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-science-behind-chilling-temperatures-exploring-the-phenomenon-of-freezing/"><u>The Science Behind Chilling Temperatures: Exploring the Phenomenon of Freezing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-secure-your-account-with-personalized-registration-pins/"><u>The Ultimate Guide to Secure Your Account with Personalized Registration Pins</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-15-free-budget-friendly-web-photo-editors-2023-review-for-2024/"><u>Top 15 Free, Budget-Friendly Web Photo Editors - 2023 Review for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-rated-android-readers-a-comprehensive-reader-app-guide/"><u>Top Rated Android Readers: A Comprehensive Reader App Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-tutorial-on-shifting-epub-titles-to-your-kobo-device/"><u>Ultimate Tutorial on Shifting EPUB Titles to Your Kobo Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-how-digital-video-recorders-work-a-complete-guide/"><u>Understanding How Digital Video Recorders Work: A Complete Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/understanding-the-essentials-of-acquiring-a-legal-permit/"><u>Understanding the Essentials of Acquiring a Legal Permit</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unique-kindle-presents-perfect-for-children-top-christmas-gift-picks-of-2015/"><u>Unique Kindle Presents Perfect for Children: Top Christmas Gift Picks of 2015</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-a-treasure-trove-of-essential-tools-grab-your-complimentary-e-books-and-resource-guide-free/"><u>Unlock a Treasure Trove of Essential Tools – Grab Your Complimentary E-Books and Resource Guide Free!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-and-convert-digital-books-mastering-the-removal-of-drm-protection-on-epub-pdf-azw-files/"><u>Unlock and Convert Digital Books: Mastering the Removal of DRM Protection on ePUB, PDF, AZW Files</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-your-digital-library-how-to-bypass-nook-ebook-protection/"><u>Unlock Your Digital Library: How to Bypass Nook eBook Protection</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-digital-content-how-to-bypass-adobes-drm-protection-on-epubpdf-formats-for-pc-and-mac/"><u>Unlocking Digital Content: How to Bypass Adobe's DRM Protection on EPUB/PDF Formats for PC and Mac</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-digital-reading-how-to-easily-download-and-read-google-ebooks-on-amazons-kindle-fire/"><u>Unlocking Digital Reading: How to Easily Download & Read Google eBooks on Amazon's Kindle Fire</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-unleash-cinematic-quality-top-1080p-video-editing-software-for-creators/"><u>Updated 2024 Approved Unleash Cinematic Quality Top 1080P Video Editing Software for Creators</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/youtuber-yield-the-leaders-with-the-largest-audiences-for-2024/"><u>YouTuber Yield  The Leaders with the Largest Audiences for 2024</u></a></li>
+</ul></div>

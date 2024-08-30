@@ -1,7 +1,7 @@
 ---
 title: "Eliminating Unwanted Functionality in Microsoft Edge: A Step-by-Step Guide"
-date: 2024-08-28 10:41:34
-updated: 2024-08-29 11:17:17
+date: 2024-08-29T20:43:30.017Z
+updated: 2024-08-30T20:43:30.017Z
 tags:
   - deals
 categories:
@@ -34,6 +34,9 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
 
 ![Show Feed toggle in the Page Settings window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/show-feed-toggle-in-the-page-settings-window.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
  Edge also has a quick link section with links to various websites. These links are from companies that pay Microsoft to display them on the Edge home page. If you don’t want to see these links, click the gear icon and turn off the “Show Promoted Links” toggle.
 
 ![Show promoted links toggle in Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/show-promoted-links-toggle-in-edge.jpg) 
@@ -56,6 +59,9 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
 
 ![Startup Boost option in Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/startup-boost-option-in-edge.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ##  Change the Look Of Your Edge Browser
 
  Microsoft Edge has plenty of settings that allow you to change the overall look of the browser. While these settings can beautify the browser, enabling each one puts some extra load on your computer and takes it one step away from being a normal, simple-looking browser. Therefore, you should disable all those settings to get a better browsing experience on Edge.
@@ -64,6 +70,9 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
 
 ![System Default option in Edge](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/system-default-option-in-edge.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Next, in the top-left corner of the Edge browser, you will find a square icon called the "Tab Actions Menu" that allows you to manage tabs that are opened in the browser. You can access this menu to switch to [vertical tabs](https://youtube-sure.techidaily.com/n-2024-best-8-youtube-editing-software-for-linux/), look for a particular tab, and do many other tab-related things. However, as a general user, you are rarely going to need to access this menu. Therefore, it's better to disable it.
 
 ![Tab Action menu in Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/tab-action-menu-in-edge.jpg) 
@@ -72,6 +81,9 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
 
 ![Show tab action menu option in Edge](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/show-tab-action-menu-option-in-edge.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The next section you should edit in the Edge browser is its toolbar. By default, the Edge toolbar contains a lot of unnecessary options like [Collections](https://twitter-videos.techidaily.com/updated-in-2024-how-to-deafen-silent-tweets-impact/) that you're rarely going to use. It's better to get rid of those options and only keep the necessary ones. I would recommend disabling the toggle for all these options:
 
 * Favorites button
@@ -89,6 +101,12 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
 
 ![Show Workspaces toggle in Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/show-workspaces-toggle-in-edge.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ##  Adjust Edge Web Services
 
  Microsoft Edge offers various web services to improve your browsing experience. But in reality, most of these services clutter the browser and make it a fancy-looking application instead of a normal browser. Therefore, it's better to get rid of these services.
@@ -97,6 +115,9 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
 
 ![Services section in Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/services-section-in-edge.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  I'd recommend disabling all the services, but you might want to keep services like "Save screenshots of sites for history." So, go through each service one by one and make sure to keep only those that you think will actually help improve your browsing experience.
 
 ---
@@ -117,3 +138,64 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-sharing-laughter-iphone-memes/"><u>[New] Sharing Laughter  IPhone Memes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-superior-script-architect-space/"><u>[New] Superior Script Architect Space</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-swift-transfer-methods-getting-files-onto-computers/"><u>[New] Swift Transfer Methods  Getting Files Onto Computers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-techniques-for-swapping-video-content-in-android/"><u>[New] Techniques for Swapping Video Content in Android</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-techniques-for-swiftly-finding-deleted-reddit-contributions/"><u>[New] Techniques for Swiftly Finding Deleted Reddit Contributions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-experts-manual-to-windows-10-prowess/"><u>[New] The Expert's Manual to WINDOWS 10 Prowess</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-power-of-free-enhancing-your-obs-studio-projects-using-luts/"><u>[New] The Power of Free  Enhancing Your OBS Studio Projects Using LUTs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-macos-manual-for-mixer-live-streaming/"><u>[New] The Ultimate MacOS Manual for Mixer Live Streaming</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transform-your-beats-with-free-dji-luts-for-minis-and-air-devices/"><u>[New] Transform Your Beats with Free DJI LUTs for Minis & Air Devices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transitioning-photos-from-physical-to-digital-storage/"><u>[New] Transitioning Photos  From Physical to Digital Storage</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-idevice-video-recording-guide/"><u>[New] Ultimate iDevice Video Recording Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-from-still-shots-to-movies-mastering-logitech-webcam-videos/"><u>[Updated] 2024 Approved  From Still Shots to Movies  Mastering Logitech Webcam Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-lost-legacies-found-revelations-from-the-canon-of-classical-works/"><u>[Updated] 2024 Approved  Lost Legacies Found  Revelations From the Canon of Classical Works</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-hearnow-podcast-and-speaker-assessment/"><u>[Updated] HearNow  Podcast and Speaker Assessment</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-achieving-persistent-video-playback-on-your-social-media-page/"><u>[Updated] In 2024, Achieving Persistent Video Playback on Your Social Media Page</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-the-comprehensive-guide-to-farming-on-ginger-islet/"><u>[Updated] In 2024, The Comprehensive Guide to Farming on Ginger Islet</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-image-editors-ultimate-toolkit-review/"><u>[Updated] The Image Editor's Ultimate Toolkit Review</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-speedy-photographers-guide-to-google-collage-crafting/"><u>[Updated] The Speedy Photographer's Guide to Google Collage Crafting</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-10-immersive-traits-in-filmoras-editing-software/"><u>[Updated] Top 10 Immersive Traits in Filmora's Editing Software</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-transcoding-approaches-to-boost-zoom-videos/"><u>[Updated] Top Transcoding Approaches to Boost Zoom Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-tiktoks-potential-changing-your-profile-number/"><u>[Updated] Unlocking TikTok's Potential  Changing Your Profile Number</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-unveiling-instagrams-rule-on-posted-videos-for-2024/"><u>[Updated] Unveiling Instagram’s Rule on Posted Videos for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-magic-of-photo-cleanse-picsart-bg-removal/"><u>[Updated] Unveiling the Magic of Photo Cleanse  Picsart Bg Removal</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-the-ultimate-11-strategies-for-impeccable-color-balancing/"><u>[Updated] Unveiling the Ultimate 11 Strategies for Impeccable Color Balancing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-versions-of-windows-movie-maker/"><u>[Updated] Versions of Windows Movie Maker</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-youtube-masterclass-choose-your-development-stage/"><u>[Updated] YouTube Masterclass  Choose Your Development Stage</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-pioneering-platforms-for-no-cost-media-downloads/"><u>2024 Approved  Pioneering Platforms for No-Cost Media Downloads</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamlined-tactics-for-scrolling-through-popular-youtube-reactions/"><u>2024 Approved  Streamlined Tactics for Scrolling Through Popular YouTube Reactions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-superior-suggestions-prime-platforms-for-grabbing-snapalert-rhythms/"><u>2024 Approved  Superior Suggestions  Prime Platforms for Grabbing SnapAlert Rhythms</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-magic-of-time-expansion-a-comprehensive-guide-to-making-beautifully-long-movies-with-still-images-and-online-tools/"><u>2024 Approved  The Magic of Time Expansion  A Comprehensive Guide to Making Beautifully Long Movies with Still Images & Online Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-most-popular-wedding-countdown-clocks-a-top-10-list-androidios/"><u>2024 Approved  The Most Popular Wedding Countdown Clocks  A Top 10 List (Android/iOS)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-value-dome-cams-affordable-360-filmmaking-tools/"><u>2024 Approved  Top Value Dome Cams  Affordable 360° Filmmaking Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transform-your-images-with-freepaid-lut-bundles-for-canon/"><u>2024 Approved  Transform Your Images with Free/Paid LUT Bundles for Canon</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-unboxing-into-art/"><u>2024 Approved  Transforming Unboxing Into Art</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-uncover-the-best-online-church-streaming-options/"><u>2024 Approved  Uncover The Best Online Church Streaming Options</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-understanding-360-degree-and-virtual-reality-cinematography/"><u>2024 Approved  Understanding 360-Degree and Virtual Reality Cinematography</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-kinemasters-full-potential-techniques-and-10plus-superior-online-services/"><u>2024 Approved  Unlock KineMaster's Full Potential  Techniques & 10+ Superior Online Services</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-ways-to-learn-how-to-write-effective-chatgpt-prompts-for-the-best-ai-answers/"><u>5 Ways to Learn How to Write Effective ChatGPT Prompts for the Best AI Answers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/augmented-danger-the-deepening-ai-vulnerability-puzzle/"><u>Augmented Danger: The Deepening AI Vulnerability Puzzle</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-analysis-of-mingda-magician-pro2-powerful-performance-in-stealth-mode/"><u>Comprehensive Analysis of Mingda Magician Pro2: Powerful Performance in Stealth Mode</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhancing-your-gaming-experience-solve-wows-lagging-issues-for-a-smoother-2024-run/"><u>Enhancing Your Gaming Experience: Solve WoW's Lagging Issues for a Smoother 2024 Run</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-motorola-edge-2023-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Motorola Edge 2023?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-superior-streaming-with-integrated-local-channels-future-edition/"><u>In 2024, Superior Streaming with Integrated Local Channels, Future Edition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-intricate-yet-straightforward-guide-exploring-popular-youtube-reactions/"><u>In 2024, The Intricate Yet Straightforward Guide  Exploring Popular YouTube Reactions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-skys-the-limit-with-husqvarnas-x4-drone/"><u>In 2024, The Sky's the Limit with Husqvarna's X4 Drone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-selecting-peak-frames-per-second-for-slow-motion-cinema/"><u>In 2024, The Ultimate Guide to Selecting Peak Frames Per Second For Slow-Motion Cinema</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tips-for-adding-music-to-photo-online/"><u>In 2024, Tips for Adding Music to Photo Online</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-motorola-g54-5g-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Motorola G54 5G Device</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713963191163-new-have-you-ever-heard-hyperlapse-and-tume-lapse-videos-do-you-know-the-differences-between-them-this-article-will-introduce-the-concepts-features-and-diff/"><u>New Have You Ever Heard Hyperlapse and Tume Lapse Videos? Do You Know the Differences Between Them? This Article Will Introduce the Concepts, Features and Differnces of Them for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/pc-rec-room-audio-trouble-master-the-art-of-microphone-repair/"><u>PC Rec Room Audio Trouble? Master the Art of Microphone Repair</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/perfecting-videos-a-premier-editor-for-vimeo-professionals-for-2024/"><u>Perfecting Videos  A Premier Editor for Vimeo Professionals for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/seamless-sessions-tailoring-your-zoom-environment-for-2024/"><u>Seamless Sessions  Tailoring Your Zoom Environment for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-setting-up-and-enabling-revo-uninstaller-application-manager/"><u>Step-by-Step Guide: Setting Up & Enabling Revo Uninstaller Application Manager</u></a></li>
+<li><a href="https://some-skills.techidaily.com/superior-visual-experience-ranking-the-best-12-html5-players-for-2024/"><u>Superior Visual Experience  Ranking the Best 12 HTML5 Players for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-complete-checklist-for-capturing-flawless-ppts-for-2024/"><u>The Complete Checklist for Capturing Flawless PPTs for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-drone-tech-leading-gimbals-ranked-for-2024/"><u>Top Drone Tech  Leading Gimbals Ranked for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-your-trip-diary-into-haul-video-hype-for-2024/"><u>Transform Your Trip Diary Into Haul Video Hype for 2024</u></a></li>
+</ul></div>

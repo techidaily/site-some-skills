@@ -1,7 +1,7 @@
 ---
 title: Mastering Printer Configuration & Control in Windows 11 – A Comprehensive How-To
-date: 2024-08-26 19:56:59
-updated: 2024-08-29 10:42:32
+date: 2024-08-29T20:41:15.952Z
+updated: 2024-08-30T20:41:15.952Z
 tags:
   - desktop
 categories:
@@ -41,6 +41,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  You can remove a printer from here, too, if you like. In the Settings window, click a printer and click "Remove Device." In the Control Panel, right-click a printer and select "Remove Device."
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  How to Change Printing Preferences
 
  To change your printer's settings, head to either Settings > Devices > Printers & Scanners or Control Panel > Hardware and Sound > Devices and Printers. In the Settings interface, click a printer and then click "Manage" to see more options.
@@ -71,8 +74,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![img_5b760f54e0215](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760f54e0215.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
  On the "Advanced" pane, you'll even see an option that lets you choose when the printer is available. For example, if you only want to use your printer during business hours, you could select 9 am to 5 pm here. People wouldn't be able to print to the printer outside of your selected hours, which is especially useful if you've configured it as a network printer and don't want people printing to it during off hours.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ![](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760f9652249.png)How to Print a Test Page
 
  You can quickly check whether your printer is working and configured properly by printing a test page. Locate the printer in Settings > Devices > Printers & Scanners, click it, click the "Manage" button, and click the "Print a test page" link.
@@ -91,6 +100,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![img_5b76132b50e9d](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b76132b50e9d.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
  To choose your default printer, click a printer in the Printers & Scanners list, click "Manage," and click the "Set as Default" button.
 
 ![img_5b7613d4cbff2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b7613d4cbff2.png) 
@@ -99,6 +111,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![img_5b7612fc559b2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b7612fc559b2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ##  How to Manage Your Print Queue
 
  Each printer on your system has a print queue. When you print a document, that print job is stored in the print queue before it's sent to the printer and finishes printing.
@@ -109,14 +124,26 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![img_5b76179d0fa59](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b76179d0fa59.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Each pending print job appears in the queue. If no documents are printing, the list will be empty. You can right-click a job to cancel, pause, or restart it. Sometimes print jobs can get "stuck," and you may need to [delete them and try again](https://facebook-record-videos.techidaily.com/new-in-2024-cooking-crusaders-youtube-stars-serving-up-deliciousness/).
 
 ![img_5b761558b26c8](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b761558b26c8.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can also click the Printer menu and use the various options to manage your entire queue. For example, you can click Printer > Pause Printing to temporarily pause all print jobs until you unpause them, or click Printer > Cancel All Documents to cancel all pending print jobs.
 
 ![img_5b761543dc6fd](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b761543dc6fd.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Create Multiple Printer Profiles
 
  Normally, you must go into your printer's preferences or properties to change various settings. However, this can be inconvenient when you have multiple groups of settings you want to toggle between. For example, perhaps you have a color printer on which you sometimes print high-quality color photos and sometimes print lower detail black and white documents.
@@ -125,6 +152,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![img_5b76026c81a21](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b76026c81a21.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ##  How to Set Up a Shared Printer
 
  Windows 10's April 2018 Update [removed the HomeGroup feature](https://support.microsoft.com/en-us/windows/homegroup-removed-from-windows-10-version-1803-07ca5db1-7bca-4d11-68a3-a31ff4a09979), which was introduced in Windows 7 for sharing files and printers on a local network. However, it's still possible to share printers on your local network.
@@ -135,6 +165,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![img_5b76108e3056f](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b76108e3056f.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
  With the default settings, people on your local network can find the printer—but they'll need the username and password of an account on your computer to connect to it. The printer should be automatically detected as an available printer in the normal Add Printer interface. Bear in mind that the printer won't be available while your computer is asleep.
 
  To share a printer over the Internet—for example, to print to your home printer when you're away from home—[set up Google Cloud Print](https://facebook-video-footage.techidaily.com/updated-your-smartphone-as-an-artists-canvas-producing-quality-youtube-video-content/).
@@ -147,10 +180,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![img_5b7616f600c24](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b7616f600c24.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The printer troubleshooter checks for a variety of issues that could cause printing problems on your PC and tried to fix any it finds.
 
 ![img_5b7617390a489](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b7617390a489.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If the printer has a built-in display, check the display to see if it's reporting an error message. If you're not sure what the error messages mean, try plugging them into a web search engine or looking them up in your printer's manual.
 
  You might also need to run various diagnostic functions on the printer itself. Check your printer's manual for more information on its diagnostic features.
@@ -169,3 +208,59 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-constructing-unique-instagram-post-images-for-2024/"><u>[New] Constructing Unique Instagram Post Images for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-from-backstage-to-center-stage-mastering-twitter-livestreaming-for-2024/"><u>[New] From Backstage to Center Stage  Mastering Twitter Livestreaming for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-strategies-to-create-memorable-podcast-intro-lines/"><u>[New] Strategies to Create Memorable Podcast Intro Lines</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-superior-routes-converting-pinners-videos-into-music-files/"><u>[New] Superior Routes  Converting Pinners' Videos Into Music Files</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-complete-guide-to-selecting-best-free-srt-translators-online/"><u>[New] The Complete Guide to Selecting Best FREE SRT Translators Online</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-total-motion-analysis-2023/"><u>[New] Total Motion Analysis 2023</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-list-of-top-quality-cost-free-luts/"><u>[New] Ultimate List of Top-Quality, Cost-Free LUTs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-the-potential-comprehensive-analysis-of-dji-phantom-4/"><u>[New] Unlocking the Potential  Comprehensive Analysis of DJI Phantom 4</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-crafting-memorable-dialogues-a-screenwriters-guide/"><u>[Updated] Crafting Memorable Dialogues  A Screenwriter's Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-facebook-fb-upload-strategies-for-mobile-and-desktop/"><u>[Updated] In 2024, Facebook FB Upload Strategies for Mobile & Desktop</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harmonize-your-favorites-creating-custom-youtube-playlists/"><u>[Updated] In 2024, Harmonize Your Favorites  Creating Custom YouTube Playlists</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-top-10-hidden-functions-to-enhance-your-canva-artistry/"><u>[Updated] In 2024, Top 10 Hidden Functions to Enhance Your Canva Artistry</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-unleashing-sound-in-social-video-sharing-platforms/"><u>[Updated] In 2024, Unleashing Sound in Social Video Sharing Platforms</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-unveiling-effective-techniques-for-setting-up-and-gauging-fbs-instream-ads/"><u>[Updated] In 2024, Unveiling Effective Techniques for Setting Up and Gauging FB's Instream Ads</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-audio-transformation-complete-morphvox-techniques/"><u>[Updated] Mastering Audio Transformation  Complete MorphVOX Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamline-your-screens-youtube-video-resizing-tricks/"><u>[Updated] Streamline Your Screens  YouTube Video Resizing Tricks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-complete-powerdirector-2024-users-handbook/"><u>[Updated] The Complete PowerDirector 2024 User's Handbook</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-list-of-tamil-ringtones-purchase-hubs-and-hacks/"><u>[Updated] The Ultimate List of Tamil Ringtones Purchase Hubs & Hacks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transforming-images-with-ar-a-guide-to-free-lut-downloads/"><u>[Updated] Transforming Images with AR  A Guide to Free LUT Downloads</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-10-apps-to-boost-audio-velocity/"><u>[Updated] Ultimate 10 Apps to Boost Audio Velocity</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-potential-in-your-photography-with-gopro-time-lapses/"><u>[Updated] Unlocking Potential in Your Photography with GoPro Time-Lapses</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-types-and-methods-for-hand-detection-systems/"><u>[Updated] Unveiling Types and Methods for Hand Detection Systems</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-beijing-bid-wins-2022-winter-olympics-highlights/"><u>2024 Approved  Beijing Bid Wins  2022 Winter Olympics Highlights</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-no-expense-high-quality-topping-chromebook-screen-capture-apps/"><u>2024 Approved  No Expense, High Quality – Topping Chromebook Screen Capture Apps</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-premiered-screen-selections-for-ps5-aficionados/"><u>2024 Approved  Premiered Screen Selections for PS5 Aficionados</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-sprinkle-some-glitter-on-your-photos-ios-and-androids-prime-10-apps/"><u>2024 Approved  Sprinkle Some Glitter on Your Photos  IOS & Android's Prime 10 Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-xbox-interactions-by-embracing-zooming-capabilities/"><u>2024 Approved  Streamline Xbox Interactions by Embracing Zooming Capabilities</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-swift-and-simple-acquiring-itunes-radio-episodes/"><u>2024 Approved  Swift and Simple  Acquiring iTunes Radio Episodes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-aligning-brands-with-youtube-content/"><u>2024 Approved  The Art of Aligning Brands with YouTube Content</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-scope-of-panoramic-filmmaking-explained/"><u>2024 Approved  The Scope of Panoramic Filmmaking Explained</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-14-dynamic-text-animations-in-design/"><u>2024 Approved  Top 14 Dynamic Text Animations in Design</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-8-apps-accelerating-slow-motion-footage/"><u>2024 Approved  Top 8 Apps  Accelerating Slow Motion Footage</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-power-of-azure-voice-recognition-api/"><u>2024 Approved  Unveiling the Power of Azure Voice Recognition API</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ving-auditory-perfection-top-tips-for-quality-audio-for-2024/"><u>Achieving Auditory Perfection  Top Tips for Quality Audio for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-amd-radeon-hd-7700-drivers-freshest-updates-instantly-available/"><u>Download AMD Radeon HD 7700 Drivers: Freshest Updates Instantly Available</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-ensure-call-of-duty-warzone-takes-advantage-of-your-graphics-card-in-windows-11/"><u>How to Ensure Call of Duty Warzone Takes Advantage of Your Graphics Card in Windows 11</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-a-comprehensive-guide-to-mastering-ipogo-for-pokemon-go-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, A Comprehensive Guide to Mastering iPogo for Pokémon GO On Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-iphone-13-pro-drfone-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-snapseed-simplified-photo-editing-made-accessible/"><u>In 2024, Snapseed Simplified  Photo Editing Made Accessible</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-system-requirements-guide-for-the-latest-mac-os-release/"><u>In 2024, System Requirements Guide for the Latest Mac OS Release</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-documentarians-guide-to-captivating-audience/"><u>In 2024, The Documentarian's Guide to Captivating Audience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-full-access-to-itunes-radio-features/"><u>In 2024, Unlocking Full Access to iTunes Radio Features</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-upward-perspectives-capturing-landscapes-from-your-phone/"><u>In 2024, Upward Perspectives  Capturing Landscapes From Your Phone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-utilizing-zoom-services-directly-from-your-inbox-gmail-edition/"><u>In 2024, Utilizing Zoom Services Directly From Your Inbox - Gmail Edition</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/innovative-yet-easy-to-use-the-z-edge-z3-plus-dashcam-user-guide-a-cost-effective-choice/"><u>Innovative yet Easy to Use: The Z-Edge Z3 Plus Dashcam User Guide - A Cost-Effective Choice</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/join-the-international-english-community-at-pearson/"><u>Join the International English Community at Pearson</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/mastering-storytelling-anime-influencers-on-tiktok-for-2024/"><u>Mastering Storytelling  Anime Influencers on TikTok for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ring-youtube-video-edits-the-ultimate-step-by-step-guide-for-2024/"><u>Mastering YouTube Video Edits  The Ultimate Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/quick-fixes-for-hyperx-cloud-alpha-mic-malfunction-problems/"><u>Quick Fixes for HyperX Cloud Alpha Mic Malfunction Problems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/red-dead-online-stability-issues-heres-what-you-need-to-know/"><u>Red Dead Online Stability Issues? Here's What You Need to Know!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-10-high-quality-photography-lenses-for-2024/"><u>Top 10 High-Quality Photography Lenses for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-best-ways-to-watch-360-videos-on-android-for-2024/"><u>Unveiling the Best Ways to Watch 360 Videos on Android for 2024</u></a></li>
+</ul></div>

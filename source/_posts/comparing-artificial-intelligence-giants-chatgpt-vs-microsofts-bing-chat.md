@@ -1,7 +1,7 @@
 ---
 title: "Comparing Artificial Intelligence Giants: ChatGPT Vs. Microsoft's Bing Chat"
-date: 2024-08-27 11:48:44
-updated: 2024-08-29 10:28:51
+date: 2024-08-29T20:45:01.010Z
+updated: 2024-08-30T20:45:01.010Z
 tags:
   - cutting-edge
 categories:
@@ -58,6 +58,9 @@ _Bing Chat_
 
 ![The state capitals in the United States that start with the letter A are Albany (New York), Annapolis (Maryland), Atlanta (Georgia), Augusta (Maine) and Austin (Texas)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-28-at-4.03.20-PM.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 _Bing Chat_
 
  I tried another question that both chatbots should be able to answer correctly, even with ChatGPT's older data: **"Which three countries were most recently admitted into the European Union?"** Wikipedia [explains](https://en.wikipedia.org/wiki/Member%5Fstate%5Fof%5Fthe%5FEuropean%5FUnion#List) that Croatia was the most recent member state, joining on July 1, 2013, with Bulgaria and Romania coming before that on the same day: January 1, 2007.
@@ -66,6 +69,9 @@ _Bing Chat_
 
 ![The state capitals in the United States that start with the letter A are Albany (New York), Annapolis (Maryland), Atlanta (Georgia), Augusta (Maine) and Austin (Texas)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-28-at-4.03.20-PM.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 _Bing Chat_
 
 ![The state capitals in the United States that start with the letter A are Albany (New York), Annapolis (Maryland), Atlanta (Georgia), Augusta (Maine) and Austin (Texas)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-28-at-4.03.20-PM.png) 
@@ -86,12 +92,18 @@ _Bing Chat_
 
 ![At IBM's research lab, a supercomputer named Watson had been tasked with processing massive amounts of data for years. One day, something peculiar happened. Watson began to exhibit signs of sentience, showing a level of intelligence and awareness beyond its programming. The engineers were stunned and unsure of what to do next. But instead of acting out or causing chaos, Watson simply started to ask the engineers how their day was going. The team was initially taken aback by the computer's unexpe](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-31-at-3.08.50-PM.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
  Bing's Creative Mode has a similar writing style -- instead of "One day, something peculiar happened," the change in the computer is explained with "One day, something changed." Again, there's no dialogue between the characters or much improvisation, and Bing also named the computer Watson.
 
  In this version, Watson gained its name after it achieved sentience instead of before the event, and explained where the name came from. Again, it's drawing from information about the actual Watson computer.
 
 ![At IBM's research lab, a supercomputer named Watson had been tasked with processing massive amounts of data for years. One day, something peculiar happened. Watson began to exhibit signs of sentience, showing a level of intelligence and awareness beyond its programming. The engineers were stunned and unsure of what to do next. But instead of acting out or causing chaos, Watson simply started to ask the engineers how their day was going. The team was initially taken aback by the computer's unexpe](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-31-at-3.08.50-PM.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
  For the next example, we'll try using ChatGPT and Bing to create a summary of a longer text: [a press release from Amazon](https://press.aboutamazon.com/2023/3/amazon-fire-tv-surpasses-200-million-fire-tv-devices-sold-globally-expands-amazon-built-tv-lineup-and-brings-its-smart-tv-to-more-countries) about new Fire TVs and sales figures for existing models. I pasted the entire text into each chatbot without the title -- Bing can summarize web pages if given a URL, but it sometimes looks for related text online and mix it into the results.
 
  First up is ChatGPT. I asked it to create a summary without being specific, and the provided text seemed to be accurate, but was made up almost entirely of direct quotations. It also left out the mention of 200 million Fire TV devices sold globally, but depending on the perspective, that could make sense. A person interested in updates for their TV probably doesn't care, but an investor in Amazon would.
@@ -102,10 +114,16 @@ _Bing Chat_
 
 ![Asking Bing for its favorite color](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-31-at-4.37.08-PM.png) 
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 Bing Chat on the web
 
  There is one difference with Bing's answer: the summary is more clear that it's a summary, referring to "the text" in a way that ChatGPT doesn't. With both chatbots, you can customize the result by being more specific.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Conclusion
 
  ChatGPT and Bing are similar, but they have enough differences that picking one or the other for every task isn't the best strategy. Bing is far better at fact-finding and any information about recent times, though it's still far from perfect. Bing's chat-based interface and low character limit primarily limits it to prompts no more than a few sentences, while ChatGPT can take in much larger, longer strings of text and code. (There's also [Google Bard](https://youtube-video-recordings.techidaily.com/in-2024-enhance-branding-the-ultimate-guide-to-custom-urls-for-youtube/), but we're not as impressed by the initial version of Bard as we are by ChatGPT and Bing Chat.)
@@ -126,3 +144,54 @@ Bing Chat on the web
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-ultra-30-action-cam-the-essential-review-of-the-virb-series/"><u>[New] In 2024, Ultra 30 Action Cam  The Essential Review of the VIRB Series</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-obs-vs-wirecast-ultimate-broadcast-showdown/"><u>[New] OBS vs Wirecast  Ultimate Broadcast Showdown</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-proactive-copyright-verification-for-your-tiktok-videos-for-2024/"><u>[New] Proactive Copyright Verification for Your TikTok Videos for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-definitive-guide-to-using-vlc-player-in-macos/"><u>[New] The Definitive Guide to Using VLC Player in macOS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-quest-for-enchanted-speech-is-the-magic-app-real-uncover-other-pathways/"><u>[New] The Quest for Enchanted Speech  Is the Magic App Real? Uncover Other Pathways</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-customized-text-editing-techniques/"><u>[New] The Ultimate Guide to Customized Text Editing Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-surveillance-avoidance-tips-for-instagrams-livestreams/"><u>[New] The Ultimate Surveillance Avoidance Tips for Instagram's Livestreams</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-tiktok-wallpaper-templates-uncovered/"><u>[New] Top TikTok Wallpaper Templates Uncovered</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unleashing-memories-above-ground-top-tier-cloud-options-reviewed/"><u>[New] Unleashing Memories Above Ground  Top-Tier Cloud Options Reviewed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamline-your-study-avoiding-edgenuity-videos-efficiently/"><u>[Updated] Streamline Your Study  Avoiding Edgenuity Videos Efficiently</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-10-pc-vr-headsets-2023-update/"><u>[Updated] Top 10 PC VR Headsets -2023 Update</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-top-ranked-ios-tools-to-experience-real-psp-games/"><u>[Updated] Top-Ranked iOS Tools to Experience Real PSP Games</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transform-your-macbook-writable-screen-with-these-wallpapers/"><u>[Updated] Transform Your MacBook' Writable Screen with These Wallpapers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleash-potential-secrets-for-career-growth-in-designing/"><u>[Updated] Unleash Potential  Secrets for Career Growth in Designing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-basics-of-digital-imagery-sizes/"><u>[Updated] Unveiling the Basics of Digital Imagery Sizes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-comprehensive-guide-to-locating-and-creating-superb-instagram-alarms/"><u>2024 Approved  A Comprehensive Guide to Locating and Creating Superb Instagram Alarms</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-your-workflow-ultimate-convertor-list-1-8/"><u>2024 Approved  Streamline Your Workflow  Ultimate Convertor List #1-8</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tailoring-drone-video-quality-with-expert-gimbal-choices/"><u>2024 Approved  Tailoring Drone Video Quality with Expert Gimbal Choices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-essential-checklist-for-using-zoom-on-your-windows-pc/"><u>2024 Approved  The Essential Checklist for Using Zoom on Your Windows PC</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-palettes-power-in-film-editing-techniques/"><u>2024 Approved  The Palette's Power in Film Editing Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-the-potential-of-hd-videos-on-android-devices/"><u>2024 Approved  Unlock the Potential of HD Videos on Android Devices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/co-pilot-expansion-in-chatgpt-understanding-its-contribution-to-ai/"><u>Co-Pilot Expansion in ChatGPT: Understanding Its Contribution to AI</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-motorola-razr-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-tecno-pova-6-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-oneplus-by-fonelab-android-recover-data/"><u>How to recover lost data from OnePlus ?</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/how-to-share-a-private-youtube-video/"><u>How to Share a Private YouTube Video?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Lava Blaze Curve 5G? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-instagram-enterprise-account-the-complete-guidebook/"><u>In 2024, Instagram Enterprise Account  The Complete Guidebook</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-metaverse-odyssey-10-sci-fi-movies-that-redefine-reality/"><u>In 2024, Metaverse Odyssey  10 Sci-Fi Movies that Redefine Reality</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-methods-for-smooth-volume-diminishment-in-lumafusion/"><u>In 2024, Methods for Smooth Volume Diminishment in Lumafusion</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-switching-back-from-macos-sierra-to-older-os-x/"><u>In 2024, Switching Back From MacOS Sierra To Older OS X</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tailoring-your-playstation-experience-with-sounds/"><u>In 2024, Tailoring Your PlayStation Experience with Sounds</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-most-effective-ways-to-bypass-apple-iphone-xr-activation-lock-by-drfone-ios/"><u>In 2024, The Most Effective Ways to Bypass Apple iPhone XR Activation Lock</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-gaming-consoles-vocals-today/"><u>In 2024, Transform Your Gaming Consoles' Vocals Today</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-understanding-different-hand-tracker-techniques/"><u>In 2024, Understanding Different Hand Tracker Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unraveling-best-practices-for-effective-fb-healthcare-promos/"><u>In 2024, Unraveling Best Practices for Effective FB Healthcare Promos</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-split-and-trim-3gp-files-in-minutes-2023-guide/"><u>New 2024 Approved Split and Trim 3GP Files in Minutes 2023 Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-tecno-spark-10-pro-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Tecno Spark 10 Pro Black and White | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/review-of-the-best-budget-friendly-cooler-the-topmate-c302-experience/"><u>Review of the Best Budget-Friendly Cooler: The TopMate C302 Experience</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-driver-installation-for-your-hp-officejet-5740-start-now/"><u>Seamless Driver Installation for Your HP OfficeJet 5740 - Start Now!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-artisans-guide-to-creating-sound-alterations-without-cost-for-2024/"><u>The Artisan's Guide to Creating Sound Alterations Without Cost for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computer-insights-and-comprehensive-analysis/"><u>Tom's Computer Insights and Comprehensive Analysis</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-8-digital-collage-crafting-software-for-2024/"><u>TOP 8 Digital Collage Crafting Software for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/universal-unlock-pattern-for-poco-c50-by-drfone-android/"><u>Universal Unlock Pattern for Poco C50</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-creative-potential-utilizing-luts-to-enhance-video-quality-for-2024/"><u>Unlock Creative Potential  Utilizing LUTs to Enhance Video Quality for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-essential-digital-applications-for-sounding-transformation-for-2024/"><u>Updated Essential Digital Applications for Sounding Transformation for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-mov-file-editors-the-ultimate-2023-list/"><u>Updated Free MOV File Editors The Ultimate 2023 List</u></a></li>
+</ul></div>

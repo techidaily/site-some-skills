@@ -1,7 +1,7 @@
 ---
 title: Passionate About Personalizing My Discord Presence - Why I Find The Pricing To Be Excessive
-date: 2024-08-27 11:44:54
-updated: 2024-08-29 11:37:37
+date: 2024-08-29T20:38:34.560Z
+updated: 2024-08-30T20:38:34.560Z
 tags:
   - web
 categories:
@@ -33,6 +33,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Some of these customizations, like the banner image or using an animated GIF as your avatar, are only available if you [pay for Discord Nitro](https://ios-unlock.techidaily.com/forgot-apple-iphone-12-mini-backup-password-heres-what-to-do-by-drfone-ios/). Others, like the avatar decoration, have a small selection available to Nitro users, but have plenty available that anyone can purchase in the in-app shop.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ##  The Discord Shop Is Overpriced
 
  The shop is where the problem with profile decorations comes in. Discord sells lots of avatar decorations and profile effects based on charming themes like anime, pirates, and cyberpunk.
@@ -41,16 +44,25 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![SpongeBob SquarePants items on the Discord shop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/spongebob-squarepants-items-on-the-discord-shop-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
  These purchases are one-time and permanent, meaning you can use them forever even if they're seasonal and removed from the shop. But despite that, the pricing seems extortionate, especially if you're someone who likes to redesign their profile often.
 
  It also seems cheeky that Nitro members don't get more items for free, or at least a deeper discount in the shop, especially since Nitro costs a not-insignificant $9.99/month (for the tier that includes custom profiles).
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Is the Cost of Discord's Cosmetics a Problem?
 
  Paying for profile cosmetics isn't anything new. Steam sells similar goodies, payable in points which are mostly earned by buying games. This is more tolerable because Steam is primarily a game storefront, so you get points through natural use of the platform. You can also buy in local currency from others on the community marketplace.
 
 ![Steam points shop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/steam-points-shop.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
  Steam has many other avenues of revenue, so the comparison to Discord isn't equal. But when Discord already sells a monthly membership, and then sets the price of extra items so high, it makes it feel like a cash grab as opposed to a fun feature.
 
  All that said, the cosmetics are entirely optional—the core Discord experience isn't impacted. Discord itself is free to use, so you can happily chat to your friends without this bothering you, and if enough people are willing to buy these items to keep it that way, that's great.
@@ -73,3 +85,43 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-clear-youtubes-obscured-visual-field/"><u>[New] In 2024, Clear Youtube's Obscured Visual Field</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-route-to-record-your-favorite-streaming-content-hulu/"><u>[Updated] 2024 Approved  The Ultimate Route to Record Your Favorite Streaming Content (Hulu)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-ios-guide-your-step-by-step-vr-video-experience/"><u>[Updated] IOS Guide  Your Step-by-Step VR Video Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/adaptive-website-layout-techniques/"><u>Adaptive Website Layout Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/complete-guide-downloading-and-reading-azw3-ebooks-on-windowsmac/"><u>Complete Guide: Downloading & Reading AZW3 Ebooks on Windows/Mac</u></a></li>
+<li><a href="https://some-skills.techidaily.com/dark-mode-viewing-a-guide-for-playback-of-youtube-videos-in-private-mode-on-smartphones-ios-and-android/"><u>Dark Mode Viewing: A Guide for Playback of YouTube Videos in Private Mode on Smartphones (iOS & Android)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/discover-epubor-software-solutions-your-guide-to-advanced-publishing-tools/"><u>Discover Epubor Software Solutions - Your Guide to Advanced Publishing Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/discover-printed-classics-accessible-edition-of-google-books/"><u>Discover Printed Classics: Accessible Edition of Google Books</u></a></li>
+<li><a href="https://some-skills.techidaily.com/discover-the-future-of-reading-dive-into-the-world-of-kindle-e-readers/"><u>Discover the Future of Reading: Dive Into the World of Kindle E-Readers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/download-ultra-hd-60fps-videos-from-youtube-full-4k-quality/"><u>Download Ultra HD 60Fps Videos From YouTube - Full 4K Quality</u></a></li>
+<li><a href="https://some-skills.techidaily.com/easy-methods-for-transforming-nook-books-into-pdf-documents-on-windows-and-macos-systems/"><u>Easy Methods for Transforming NOOK Books Into PDF Documents on Windows & macOS Systems</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-realme-gt-neo-5-se-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from Realme GT Neo 5 SE</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/enhance-your-video-calls-solving-the-dilemma-of-a-broken-skype-mic-on-windows-11/"><u>Enhance Your Video Calls: Solving the Dilemma of a Broken Skype Mic on Windows 11</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-samsung-galaxy-s24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-tecno-pova-5-pro-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Tecno Pova 5 Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/how-to-convert-and-transfer-word-documents-onto-your-kobo-e-reader/"><u>How to Convert and Transfer Word Documents Onto Your Kobo E-Reader</u></a></li>
+<li><a href="https://some-skills.techidaily.com/how-to-convert-your-audiobooks-aax-files-into-mp3-format/"><u>How to Convert Your Audiobook's AAX Files Into MP3 Format</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-honor-magic-5-pro-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Honor Magic 5 Pro to Another | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Xiaomi 14 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/iphone-lights-mastery-guide/"><u>IPhone Lights Mastery Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-huawei-nova-y91-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Huawei Nova Y91 FRP Without Computer</u></a></li>
+<li><a href="https://some-skills.techidaily.com/locating-official-kobo-support-facilities-in-the-indian-market/"><u>Locating Official Kobo Support Facilities in the Indian Market</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-podcast-name-selection-step-by-step-guide-plus-50plus-top-ideas-list/"><u>Mastering Podcast Name Selection  Step-by-Step Guide + 50+ Top Ideas List</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-common-issues-with-winservicesexe-quickly/"><u>Solving Common Issues with Winservices.exe Quickly</u></a></li>
+<li><a href="https://some-skills.techidaily.com/step-by-step-guide-to-drm-removal-from-ebook-pages/"><u>Step-by-Step Guide to DRM Removal From eBook Pages</u></a></li>
+<li><a href="https://some-skills.techidaily.com/step-by-step-guide-transforming-mobi-files-into-compatible-amazon-kindle-azw-format/"><u>Step-by-Step Guide: Transforming MOBI Files Into Compatible Amazon Kindle AZW Format</u></a></li>
+<li><a href="https://some-skills.techidaily.com/step-by-step-guide-transforming-your-azw4-books-into-epub-format/"><u>Step-by-Step Guide: Transforming Your AZW4 Books Into EPUB Format</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-10-essential-kindle-applications-enhance-your-reading-experience/"><u>Top 10 Essential Kindle Applications: Enhance Your Reading Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-kindle-fire-tablets-and-e-readers-reviewed-find-your-perfect-amazon-device/"><u>Top Kindle Fire Tablets and E-Readers Reviewed - Find Your Perfect Amazon Device!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-strategies-for-seamlessly-transforming-topaz-files-into-epub-format/"><u>Top Strategies for Seamlessly Transforming Topaz Files Into ePUB Format</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-guide-to-ebook-drm-removal-how-to-unlock-pdf-epub-and-mobi-formats/"><u>Ultimate Guide to Ebook DRM Removal - How to Unlock PDF, EPUB, and MOBI Formats</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-guide-diving-into-the-latest-kindle-oasis-2-edition-from-2017/"><u>Ultimate Guide: Diving Into the Latest Kindle Oasis 2 Edition From 2017</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-tips-for-splitting-audiobooks-into-chapters-the-top-four-techniques/"><u>Ultimate Tips for Splitting Audiobooks Into Chapters: The Top Four Techniques!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleashing-the-power-of-azw-discover-key-benefits-and-applications/"><u>Unleashing the Power of Azw: Discover Key Benefits and Applications</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-your-ebooks-expert-tips-for-disabling-drm-on-list-des-epotres-content/"><u>Unlock Your eBooks: Expert Tips for Disabling DRM on List Des Épôtres Content</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unrestricted-reading-discovering-drm-free-ebooks-compatible-with-all-your-gadgets/"><u>Unrestricted Reading: Discovering DRM-Free Ebooks Compatible with All Your Gadgets</u></a></li>
+</ul></div>

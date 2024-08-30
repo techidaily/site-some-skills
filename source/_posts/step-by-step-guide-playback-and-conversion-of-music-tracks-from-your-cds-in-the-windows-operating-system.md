@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Playback and Conversion of Music Tracks From Your CDs in the Windows Operating System"
-date: 2024-08-27 17:43:50
-updated: 2024-08-29 12:28:53
+date: 2024-08-29T20:41:28.697Z
+updated: 2024-08-30T20:41:28.697Z
 tags:
   - desktop
 categories:
@@ -30,12 +30,18 @@ thumbnail: https://thmb.techidaily.com/50f9025d1cd24e51aee5d683c09c648b774d15c54
 
  Got a Mac? Check out [our guide for ripping an audio CD on Mac](https://eaxpv-info.techidaily.com/updated-in-2024-free-webinar-creation-and-management-on-youtube/).
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  You Need a Disc Drive
 
  You need a disc drive connected to your PC to read and rip CDs, so if you don't already have one, you'll need to get that first. The [ASUS ZenDrive Silver](https://www.amazon.com/ASUS-ZenDrive-External-Compatible-BackItUp/dp/B076CY7PW5?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003523&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fhow-to-rip-an-audio-cd-on-windows%2F&asc%5Fcampaign=Evergreen) is a basic option with support for reading and writing CDs and DVDs. It should come with a USB Type-C cable in the box, but if not, you might need a [USB Type-A-to-C adapter](https://www.amazon.com/Amazon-Basics-Converter-High-Speed-Certified/dp/B01GGKYXVE?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003523&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fhow-to-rip-an-audio-cd-on-windows%2F&asc%5Fcampaign=Evergreen) or [USB hub](https://extra-approaches.techidaily.com/2024-approved-joint-venture-campaigns-for-brands-on-video-platforms/) to connect it to laptops without a Type-A port.
 
 ![ASUS external disc drive with the tray open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/51y-aw6sijl-_ac_sl1000_.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 #####  ASUS ZenDrive Silver
 
 The ASUS ZenDrive Silver is a basic and affordable external optical drive, with support for reading and writing DVDs and CDs. It's designed for both Windows and Mac.
@@ -58,6 +64,9 @@ The ASUS ZenDrive Silver is a basic and affordable external optical drive, with 
 
 ![Screenshot of a disc selected in the Media Player app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/clipboard-jun-7-2024-at-4-13-pm.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can play music straight from the disc by clicking the 'Play all' button, or by double-clicking on an individual track. If you want to change the default audio import settings before ripping the disc, click the three-dots button and select the "Rip settings" option.
 
 ![Media Player screenshot showing settings for audio format and bitrate.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/clipboard-jun-7-2024-at-4-17-pm.png) 
@@ -72,14 +81,23 @@ The ASUS ZenDrive Silver is a basic and affordable external optical drive, with 
 
 ![Screenshot of Music page in Media Player.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/clipboard-jun-7-2024-at-4-38-pm.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
  Ripped audio doesn't include album art or other metadata, but you can fix that with a few clicks. Open the album you just ripped, click the "Edit info" button, then click "Update album info online."
 
 ![Screenshot of 'Update album info online' button in Media Player.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/untitled-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Media Player will check for metadata online, and if it finds more data, it will ask you for confirmation before writing changes to the files.
 
 ![Music Player asking user to check if metadata is correct.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/clipboard-jun-7-2024-at-4-44-pm.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Media Player can't always find album artwork automatically, but you can use a website like [Music Hoarders Covers](https://covers.musichoarders.xyz/) to find the right image, and then import that into Media Player. After you find the image, just click the "Edit info" button on the album again, then click the pencil button to select the right file.
 
 ##  Rip a CD on Older Windows PCs
@@ -102,16 +120,26 @@ wmplayer
 
 ![Rip CD button in Windows Media Player.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/rip.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
  After the rip is complete, your music will be accessible from the "Music" tab in the left sidebar.
 
 ![Screenshot of Music tab in Windows Media Player.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/music.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
  Ripped audio doesn't include album art or other metadata, but you can fix that with a few clicks. Right-click the album you just ripped, then select "Find album info."
 
 ![Find album info menu in Windows Media Player.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/music-1.png) 
 
  Windows Media Player will check for metadata online, and if it finds more data, it will ask you for confirmation before writing changes to the files.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Backing up Your Music
 
  There's no digital rights management (DRM) on music you rip from an audio CD, so you can freely copy it to your other devices, back it up to another drive, or upload it to your cloud storage.
@@ -140,3 +168,71 @@ shell:My Music
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-digital-detailing-at-your-command/"><u>[New] 2024 Approved  Digital Detailing at Your Command</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-capture-games-effortlessly-with-nvidia-for-2024/"><u>[New] Capture Games Effortlessly with NVIDIA for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-dynamic-hues-the-artists-toolkit-for-change-for-2024/"><u>[New] Dynamic Hues  The Artist's Toolkit for Change for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-maximizing-instagram-video-exposure-for-2024/"><u>[New] Maximizing Instagram Video Exposure for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamline-your-slide-show-enable-voice-input-with-powerpoint/"><u>[New] Streamline Your Slide Show  Enable Voice Input with PowerPoint</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamlining-your-social-media-presence-with-zoom-and-fb-live/"><u>[New] Streamlining Your Social Media Presence with ZOOM & FB Live</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-color-grading-employing-luts-from-cg-central/"><u>[New] The Art of Color Grading  Employing LUTs From CG Central</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-editing-reimagined-by-vidas-innovations/"><u>[New] The Art of Editing Reimagined by Vida's Innovations</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-social-stunt-planters-handbook-meme-mastery-at-9gag/"><u>[New] The Social Stunt Planters' Handbook  Meme Mastery at 9GAG</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-free-clip-art-licenses/"><u>[New] The Ultimate Guide to Free Clip Art Licenses</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transcription-mastery-for-office-productivity-using-microsoft-words-voice-recognition-features/"><u>[New] Transcription Mastery for Office Productivity  Using Microsoft Word's Voice Recognition Features</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transforming-iphone-photos-upside-down-and-sideways-tricks/"><u>[New] Transforming iPhone Photos  Upside-Down & Sideways Tricks</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-5-amazing-free-youtube-intro-makers-ranked/"><u>[Updated] 2024 Approved  5 Amazing Free YouTube Intro Makers Ranked</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-full-screen-recovered-from-obs-errors/"><u>[Updated] 2024 Approved  Full Screen Recovered From OBS Errors</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-smartphone-tools-for-crafting-your-ideal-vocal-sound-for-2024/"><u>[Updated] Smartphone Tools for Crafting Your Ideal Vocal Sound for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-complete-windows-10-hacks-playbook/"><u>[Updated] The Complete Windows 10 Hacks Playbook</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-secrets-to-effortless-iphone-photo-sorting-and-synchronizing-with-icloud/"><u>[Updated] The Secrets to Effortless iPhone Photo Sorting & Synchronizing with iCloud</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-iphone-and-ipad-podcast-recording-manual-for-interviews/"><u>[Updated] The Ultimate iPhone & iPad Podcast Recording Manual For Interviews</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-6-video-techniques-that-grab-eyes/"><u>[Updated] Unveiling 6 Video Techniques That Grab Eyes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1-how-do-fan-tokens-work-in-sports-betting/"><u>1. How Do Fan Tokens Work in Sports Betting?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/12-amazing-websites-for-free-stock-photos-for-2024/"><u>12 Amazing Websites for Free Stock Photos for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-easy-storage-solutions-for-androidmac-snaps-on-devices/"><u>2024 Approved  Easy Storage Solutions for Android/Mac Snaps on Devices</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-hassle-free-tiktok-age-checks/"><u>2024 Approved  Hassle-Free TikTok Age Checks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-perfecting-your-pics-with-facetune-a-full-guide/"><u>2024 Approved  Perfecting Your Pics with Facetune - A Full Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-supreme-cyber-seminar-sorter/"><u>2024 Approved  Supreme Cyber Seminar Sorter</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tactical-phone-data-shift-android-to-iphone/"><u>2024 Approved  Tactical Phone Data Shift  Android to iPhone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-complete-guide-to-essential-uav-upgrades-and-parts/"><u>2024 Approved  The Complete Guide to Essential UAV Upgrades & Parts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-key-elements-for-effective-spotify-ad-execution/"><u>2024 Approved  The Key Elements for Effective Spotify Ad Execution</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-secret-to-success-with-filmora-top-10-editing-traits/"><u>2024 Approved  The Secret to Success with Filmora  Top 10 Editing Traits</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-11-techniques-for-perfecting-color-in-post-production/"><u>2024 Approved  Top 11 Techniques for Perfecting Color in Post-Production</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-affordable-asmr-recording-setup-excellence/"><u>2024 Approved  Ultimate Affordable ASMR Recording Setup Excellence</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-auditory-performances/"><u>2024 Approved  Ultimate Auditory Performances</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-ultimate-guide-to-selecting-excellent-spotify-recorders/"><u>2024 Approved  Ultimate Guide to Selecting Excellent Spotify Recorders</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-windows-hdr-capabilities-for-cutting-edge-video-workflows/"><u>2024 Approved  Unlocking Windows' HDR Capabilities for Cutting-Edge Video Workflows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-browser-safety-on-windows-11-with-the-implementation-of-defender-aguard/"><u>Boost Browser Safety on Windows 11 with the Implementation of Defender Aguard</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-guide-to-address-dll-files-not-found-specifically-d3dx930dll-problems/"><u>Comprehensive Guide to Address DLL Files Not Found, Specifically D3DX9_30.dll Problems</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/essential-tech-skills-learn-how-to-record-your-mac-display/"><u>Essential Tech Skills  Learn How to Record Your Mac Display</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-next-generation-of-ai-introducing-googles-palm-2-large-language-architecture/"><u>Exploring the Next Generation of AI: Introducing Google's PALM 2 Large Language Architecture</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/guide-to-wipe-your-chathistory-on-gpt/"><u>Guide to Wipe Your ChatHistory on GPT</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-xiaomi-14-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Xiaomi 14 Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-xiaomi-redmi-note-13-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Xiaomi Redmi Note 13 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-step-by-step-to-superior-image-clarity-by-removing-backgrounds-using-affinity/"><u>In 2024, Step-by-Step to Superior Image Clarity by Removing Backgrounds Using Affinity</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-supreme-top-4k-tvs-for-gamers/"><u>In 2024, Supreme Top 4K TVs for Gamers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-syncing-sounds-to-visuals-online/"><u>In 2024, Syncing Sounds to Visuals Online</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-iphone-guide-for-shooting-hdr-photos/"><u>In 2024, The Ultimate iPhone Guide for Shooting HDR Photos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-30-tones-where-to-find-classical-callouts/"><u>In 2024, Top 30 Tones  Where to Find Classical Callouts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-pictures-the-leaderboard-of-phone-sticker-enhancers/"><u>In 2024, Transform Your Pictures - The Leaderboard of Phone Sticker-Enhancers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tying-emotions-to-the-right-soundtrack-in-movies/"><u>In 2024, Tying Emotions to the Right Soundtrack in Movies</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-potential-gopro-karmas-journey/"><u>In 2024, Unleashing Potential  GoPro Karma's Journey</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unseen-horizons-hot-list-of-vr-peripherals-top-10/"><u>In 2024, Unseen Horizons  Hot List of VR Peripherals (Top 10)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-uploading-subtitles-a-compreenas-guide-for-all-social-media-users/"><u>In 2024, Uploading Subtitles  A Compreenas Guide for All Social Media Users</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-over-visibility-in-windows-network-guard-area/"><u>Mastery over Visibility in Windows' Network Guard Area</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/power-in-portability-unveiling-canons-sx420-camera-capabilities/"><u>Power in Portability: Unveiling Canon’s SX420 Camera Capabilities</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-vivo-t2-5g-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Vivo T2 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-blueprint-of-successful-video-endorsements-for-2024/"><u>The Blueprint of Successful Video Endorsements for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-essentials-of-combining-apple-music-and-videos-for-2024/"><u>The Essentials of Combining Apple Music & Videos for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/toolwiz-scrutiny-expert-analysis-on-mobile-photo-tools-for-2024/"><u>Toolwiz Scrutiny  Expert Analysis on Mobile Photo Tools for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-streamers-choice-does-virusmix-or-wirecast-rule-the-game-for-2024/"><u>Top Streamers Choice  Does VirusMix or WireCast Rule the Game for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/total-control-over-youtube-playback-silence-previews-for-2024/"><u>Total Control Over YouTube Playback  Silence Previews for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-helldivers-2-how-to-restore-missing-msvcr110dll-file/"><u>Troubleshooting Helldivers 2: How to Restore Missing MSVCR110.dll File</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-tips-for-your-windows-predicaments/"><u>Troubleshooting Tips for Your Windows Predicaments</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-the-world-of-no-cost-picture-frame-movies-for-2024/"><u>Unlocking the World of No-Cost Picture Frame Movies for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-power-of-video-enhancer-22-for-professionals-for-2024/"><u>Unveiling the Power of Video Enhancer 2.2 for Professionals for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Motorola G54 5G | Dr.fone</u></a></li>
+</ul></div>
