@@ -1,7 +1,7 @@
 ---
 title: Understanding the Process of Wireless Electric Vehicle Charging
-date: 2024-08-29T20:44:48.716Z
-updated: 2024-08-30T20:44:48.716Z
+date: 2024-09-03T10:46:59.348Z
+updated: 2024-09-04T10:46:59.348Z
 tags:
   - cutting-edge
 categories:
@@ -42,7 +42,10 @@ Related: [How Does Wireless Charging Work?](https://eaxpv-info.techidaily.com/ne
  The cost of building that kind of tech into roadways on a wide scale remains to be seen and could get in the way of wireless charging roads becoming mainstream if prohibitively high. The U.S. doesn't have a great record when it comes to the upkeep of our [current roads and bridges,](https://www.cfr.org/backgrounder/state-us-infrastructure) but with Congress recently approving a large infrastructure bill we could, hopefully, see that trend improve.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  The Challenges of Wireless EV Charging
 
@@ -59,7 +62,10 @@ Related: [Level 1, Level 2, or Level 3? EV Chargers Explained](https://visual-sc
  To address that, manufacturers are building fail safes. In Ferrell's video, WiTricity's CEO explained that if an object like a metal can or a cat that crawled under the car to try and get warm is detected, the charger would shut off and send a notification to your phone. If a person gets too close to the charging pad, it also shuts off. [WiTricity's website](https://witricity.com/products/automotive/) outlines these precautions in a little more detail.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  What's Next for Wireless EV Charging
 

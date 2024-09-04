@@ -1,7 +1,7 @@
 ---
 title: "Digital Realities Unveiled: Understanding the Differences Between VR, AR, and MR Technologies"
-date: 2024-08-29T20:45:03.878Z
-updated: 2024-08-30T20:45:03.878Z
+date: 2024-09-03T10:46:59.564Z
+updated: 2024-09-04T10:46:59.564Z
 tags:
   - cutting-edge
 categories:
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/bf4984e0ce61370d66d64dec7394dd5194f1497b8
 ![A man wearing a VR headset and aiming with controllers.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/vr-headset-aiming-controllers.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe id="iframe_1498635" src="//a.impactradius-go.com/gen-ad-code/5597632/1498635/17326" width="400" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->
 _[Gorodenkoff/Shutterstock.com](https://www.shutterstock.com/image-photo/energetic-young-man-wearing-virtual-reality-1447982630)_
 
@@ -51,14 +51,20 @@ _[Gorodenkoff/Shutterstock.com](https://www.shutterstock.com/image-photo/energet
  However, PC-connected headsets can be very pricey, so they aren't accessible to everyone. The cheaper alternative here is a smartphone headset, which allows you to insert a smartphone into a slot in front of your eyes, giving you the ability to view a virtual world, but with more basic head tracking and less fidelity.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  What Is Augmented Reality (AR)?
 
 ![The hit augmented reality smartphone app "Pokemon GO" shows a Pokemon encounter overlain on a real world trail in the forest.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/pokemon-go.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 [Matthew Corley/Shutterstock.com](https://www.shutterstock.com/image-photo/santa-cruz-california-july-12-2016-451598275)
 
@@ -72,12 +78,21 @@ _[Gorodenkoff/Shutterstock.com](https://www.shutterstock.com/image-photo/energet
 
  It's important to note that, in an AR setting, the virtual elements are entirely separate to the physical ones, meaning the two cannot interact with one another. The interaction is left to the user, not the real-world environment itself.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  What Is Mixed Reality (MR)?
 
 ![Woman wearing a VR headset and making a surprised expression while reaching out with her index finger.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/woman-surprised-touching-vr.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 _[TierneyMJ/Shutterstock.com](https://www.shutterstock.com/image-photo/happy-young-woman-using-virtual-reality-573176878)_
 
@@ -90,7 +105,10 @@ _[TierneyMJ/Shutterstock.com](https://www.shutterstock.com/image-photo/happy-you
  Say, for example, you're playing a mixed reality tabletop game using a headset. In this game, the cards are entirely virtual, but they can be placed on a physical table in front of you. You can also pick the cards up from this surface. In such a scenario, the physical table recognizes the virtual cards, meaning real-world and digital elements are interacting. So, in any environment in which physical and virtual objects are acknowledging or interacting with each other, that's mixed reality.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Where You Can Experience VR, AR, and MR?
 
@@ -120,18 +138,6 @@ _[TierneyMJ/Shutterstock.com](https://www.shutterstock.com/image-photo/happy-you
 
  Like VR and AR, there are numerous potential applications for MR, though some may take longer than others to gain traction and popularity.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Digital Realities Are Becoming the Norm
 
  While digital realities have been around for years, the further development of these technologies over the past decade has highlighted how useful they can be in our world. We may all soon be using VR, AR, or MR in our daily lives, be it for work, health, or entertainment purposes. All of these technologies are now often referred to under the umbrella term XR, which is short for [Extended Reality](https://review-topics.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-tecno-spark-10-5g-drfone-by-drfone-virtual-android/).

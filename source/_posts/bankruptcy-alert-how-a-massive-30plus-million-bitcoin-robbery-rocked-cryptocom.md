@@ -1,7 +1,7 @@
 ---
 title: "Bankruptcy Alert: How a Massive $30+ Million Bitcoin Robbery Rocked Crypto.com"
-date: 2024-08-29T20:44:14.928Z
-updated: 2024-08-30T20:44:14.928Z
+date: 2024-09-03T10:46:58.917Z
+updated: 2024-09-04T10:46:58.917Z
 tags:
   - cutting-edge
 categories:
@@ -35,7 +35,10 @@ Related: [What is Ethereum, and What Are Smart Contracts?](https://extra-informa
 > On Monday, 17 January 2022 at approximately 12:46 AM UTC Crypto.com's risk monitoring systems detected unauthorized activity on a small number of user accounts where transactions were being approved without the 2FA authentication control being inputted by the user. This triggered an immediate response from multiple teams to assess the impact. All withdrawals on the platform were suspended for the duration of the investigation. Any accounts found to be impacted were fully restored. Crypto.com revoked all customer 2FA tokens, and added additional security hardening measures, which required all customers to re-login and set up their 2FA token to ensure only authorized activity would occur. Downtime of the withdrawal infrastructure was approximately 14 hours, and withdrawals were resumed at 5:46 PM UTC, 18 January 2022.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  What Is Crypto.com Doing to Fix It?
 

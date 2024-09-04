@@ -1,7 +1,7 @@
 ---
 title: Rekindling Interest in CDs and DVDs Through Innovative Disc Advancements
-date: 2024-08-29T20:45:30.563Z
-updated: 2024-08-30T20:45:30.563Z
+date: 2024-09-03T10:46:59.883Z
+updated: 2024-09-04T10:46:59.883Z
 tags:
   - cutting-edge
 categories:
@@ -26,7 +26,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Optical media use light to store and read data. An optical disc has microscopic pits and lands that either reflect or diffuse light. When you shine a laser beam at these discs and measure the light that comes back, you get a series of ones and zeros. All you need to store digital data. While optical discs are "pressed" in a factory, home-made discs use a laser to create these pits and lands by altering the chemistry in a special dye layer within the disc.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<a href="https://appsumo.8odi.net/c/5597632/2030381/7443" target="_top" id="2030381">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030381" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030381/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Why Is Optical Storage in Decline?
 
@@ -37,14 +40,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Modern PCs and Macs don't come with optical drives anymore, and it seems that gaming consoles are moving in this direction as well, with disc drives becoming optional, and major stores [phasing out physical media](https://gamerant.com/big-retailer-stop-selling-physical-games/). As a [physical media collector](https://windows11.techidaily.com/how-to-customize-sound-levels-with-dedicated-win11-keys/) it almost hurts to write this, but it does look like the writing is on the wall for optical media. However, the technology is far from a dead end, and a breakthrough in optical storage might bring back the optical disc yet!
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe id="iframe_1982456" src="//a.impactradius-go.com/gen-ad-code/5597632/1982456/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->
 ##  Say Hello to the Petabit Disc!
 
 ![Petabit disc diagram](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-19-at-15-35-51.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Miao Zhao, Jing Wen, Qiao Hu, Xunbin Wei, Yu-Wu Zhong, Hao Ruan & Min Gu 
 
@@ -55,7 +61,10 @@ Miao Zhao, Jing Wen, Qiao Hu, Xunbin Wei, Yu-Wu Zhong, Hao Ruan & Min Gu
  These discs have been designed for use in data centers and requires expensive and complex femtosecond lasers. Multiple lasers are needed to activate and deactivate the recording layers, so it's hardly a disc drive that will fit in your laptop bag, but it does show how much potential there still is in optical storage. In data centers, these discs promise safe, long-term storage of data that doesn't need to be accessed constantly, but should be in an accessible archive. The paper suggests these nanoscale discs can be stacked to create "exabit-level storage" which could be a huge deal given [how fragile the internet can be](https://some-techniques.techidaily.com/new-high-quality-hd-videos-at-a-tap-top-10-android-choices/).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  What Does This Mean for Us?
 

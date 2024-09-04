@@ -1,7 +1,7 @@
 ---
 title: "Mozilla Firefox Enhances User Experience with New Features: Vertical Tabs & Advanced Tab Groups"
-date: 2024-08-29T20:38:31.818Z
-updated: 2024-08-30T20:38:31.818Z
+date: 2024-09-03T10:46:54.185Z
+updated: 2024-09-04T10:46:54.185Z
 tags:
   - web
 categories:
@@ -96,5 +96,5 @@ In a world where all browsers are using the Chromium engine, Mozilla's Firefox p
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe id="iframe_1424529" src="//a.impactradius-go.com/gen-ad-code/5597632/1424529/16446" width="728" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: Guide to Removing Individual Key Bindings and Shortcuts on Windows Keyboards
-date: 2024-08-29T20:40:30.553Z
-updated: 2024-08-30T20:40:30.553Z
+date: 2024-09-03T10:46:55.821Z
+updated: 2024-09-04T10:46:55.821Z
 tags:
   - desktop
 categories:
@@ -35,45 +35,48 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Installing the Microsoft PowerToys app from the Microsoft Store on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-installing-the-microsoft-powertoys-app-from-the-microsoft-store-on-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe id="iframe_1993652" src="//a.impactradius-go.com/gen-ad-code/5597632/1993652/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->
  Let the installation process complete, and you will come across a User Account Control (UAC) window. Click "Yes" there, and the app will be successfully installed.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ##  Disable a Specific Keyboard Key With Microsoft PowerToys
 
  Type "PowerToys" in Windows Search and open the app. Navigate to the "Keyboard Manager" in the left sidebar. Then, click "Open Settings" in the right pane.
 
 ![Opening the Keyboard Manager settings in the Microsoft PowerToys app on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-opening-the-keyboard-manager-settings-in-the-microsoft-powertoys-app-on-windows.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Turn on the toggle next to Enable Keyboard Manager if it's currently turned off. Afterward, click on "Remap a Key."
 
 ![Enabling the Keyboard Manager in the Microsoft PowerToys app and opening the key remapping settings in it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-enabling-the-keyboard-manager-in-the-microsoft-powertoys-app-and-opening-the-key-remapping-settings-in-it.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  Click "Add Key Remapping," choose the key you want to disable under Select, and select "Disable" under To Send. Finally, click "OK" in the top-right corner.
 
 ![Disabling the 'R' key in the Keyboard Manager in the Microsoft PowerToys app on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-disabling-the-r-key-in-the-keyboard-manager-in-the-microsoft-powertoys-app-on-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  If you receive a warning, click "Continue Anyway," and your [specified key will be disabled](https://instagram-videos.techidaily.com/unlocking-igtvs-potential-5-ways-to-surge-follower-count/).
 
 ![Microsoft PowerToys giving a warning when disabling a key in the Keyboard Manager on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5-microsoft-powertoys-giving-a-warning-when-disabling-a-key-in-the-keyboard-manager-on-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<iframe id="iframe_1983552" src="//a.impactradius-go.com/gen-ad-code/5597632/1983552/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->
 ##  Disable a Specific Shortcut With Microsoft PowerToys
 
@@ -81,13 +84,16 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Opening the settings to remap a shortcut in the Keyboard Maager of the Microsoft PowerToys app on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/6-opening-the-settings-to-remap-a-shortcut-in-the-keyboard-maager-of-the-microsoft-powertoys-app-on-windows.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Click "Add Shortcut Remapping," select the first key of the shortcut (it must be a modifier key, or you'll receive a warning), and select the second key. Then, choose "Disable" under To Send and click "OK" in the top-right corner.
 
 ![Disabling a particular shortcut using Keyboard Manager in Microsoft PowerToys on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/7-disabling-a-particular-shortcut-using-keyboard-manager-in-microsoft-powertoys-on-windows.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  If you want to re-enable the disabled key or shortcut, go to the same settings, click the recycle bin icon next to it, and click "OK."
 
 ![Deleting the key remapping in the Keyboard Manager in the Microsoft PowerToys app to reenable the disabled key on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/8-deleting-the-key-remapping-in-the-keyboard-manager-in-the-microsoft-powertoys-app-to-reenable-the-disabled-key-on-windows.jpg) 

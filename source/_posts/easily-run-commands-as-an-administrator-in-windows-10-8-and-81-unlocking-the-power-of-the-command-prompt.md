@@ -1,7 +1,7 @@
 ---
 title: "Easily Run Commands as an Administrator in Windows 10, 8 & 8.1: Unlocking the Power of the Command Prompt"
-date: 2024-08-25T09:34:07.087Z
-updated: 2024-08-26T09:34:07.087Z
+date: 2024-09-03T10:47:00.957Z
+updated: 2024-09-04T10:47:00.957Z
 tags:
   - win11
   - win10
@@ -89,5 +89,8 @@ Follow steps below (apply to Windows 10, 8 & 8.1):
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

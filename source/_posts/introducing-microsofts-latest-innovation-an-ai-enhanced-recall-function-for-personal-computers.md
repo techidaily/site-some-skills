@@ -1,7 +1,7 @@
 ---
 title: "Introducing Microsoft's Latest Innovation: An AI-Enhanced Recall Function for Personal Computers"
-date: 2024-08-29T20:42:39.737Z
-updated: 2024-08-30T20:42:39.737Z
+date: 2024-09-03T10:46:57.715Z
+updated: 2024-09-04T10:46:57.715Z
 tags:
   - deals
 categories:
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/5e8073ee6fa80b00481e787b8ffd70b1f1a083692
  It isn’t limited to basic information about files, though. Recall is built around a large number of more specialized AI features that will allow it to interact with everything from text to images to video.
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe id="iframe_2127886" src="//a.impactradius-go.com/gen-ad-code/5597632/2127886/18498" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->
 ##  What Does Recall Require?
 
@@ -41,7 +41,10 @@ thumbnail: https://thmb.techidaily.com/5e8073ee6fa80b00481e787b8ffd70b1f1a083692
  TOPs are a little different from the TFLOP figures you usually see thrown around when talking about super computers, GPUs, or CPUs. TOPs are measured in half-precision, FP16, or BFloat16, or BF16 calculations. TFlops usually (but not always) refer to “full precision” operations, which use 32-bit bit floating point numbers.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Is Microsoft Recall Secure?
 

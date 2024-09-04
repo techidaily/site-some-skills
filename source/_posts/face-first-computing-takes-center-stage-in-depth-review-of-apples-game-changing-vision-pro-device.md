@@ -1,7 +1,7 @@
 ---
 title: "Face-First Computing Takes Center Stage: In Depth Review of Apple's Game-Changing Vision Pro Device"
-date: 2024-08-29T20:45:16.716Z
-updated: 2024-08-30T20:45:16.716Z
+date: 2024-09-03T10:46:59.716Z
+updated: 2024-09-04T10:46:59.716Z
 tags:
   - cutting-edge
 categories:
@@ -102,6 +102,12 @@ Tyler Hayes / How-To Geek
 
  To wrap up pricing, this face computer doesn’t have options for different processors, but there are multiple storage tiers. It’s $200 more to move from 256GB to 512GB and $200 more than that to get to 1TB. Why would you need the extra storage on the Vision Pro? I don’t know, exactly. I guess for people with huge photo, movie, and music libraries who want to download them locally.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Fit of a Wearable Computer
 
 ![view of the internal lens on Apple Vision Pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/view-of-the-internal-lens-on-apple-vision-pro.JPG) 
@@ -117,7 +123,7 @@ Tyler Hayes / How-To Geek
 ![Solo Knit Band connector on Apple Vision Pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/solo-knit-band-connector-on-apple-vision-pro.JPG) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe id="iframe_1982462" src="//a.impactradius-go.com/gen-ad-code/5597632/1982462/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
@@ -126,12 +132,18 @@ Tyler Hayes / How-To Geek
  Part of that is the roughly 625-gram weight, and the other part is how my unit lays on the brow or bridge of my nose, depending on which strap is being used. This device is wildly personal, though, so my experience around fit will vary from person to person. My own comfort level has varied from day to day.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2024333/7443" target="_top" id="2024333">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024333/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Software Interaction: Do Your Eyes Get Tired of Looking Around?
 
 ![Close up side view of the lightshield on Apple Vision Pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/close-up-side-view-of-the-lightshield-on-apple-vision-pro.JPG) 
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_1793213" src="//a.impactradius-go.com/gen-ad-code/5597632/1793213/19135" width="728" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  The Vision Pro doesn’t come with hand controllers. Your hands (and eyes) are the controllers. You use your eyes to look at what you want to select, and then hand gestures in the form of a subtle pinch or flick will select or scroll. You can pull windows to make them bigger or poke at the virtual keyboard too, if you want.
@@ -142,6 +154,12 @@ Tyler Hayes / How-To Geek
 
 ![default apps shown in visionOS](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/img_0023.PNG) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 The blurred edges are not visible while wearing Vision Pro because of how our eyes work.
 
  My eyes did feel strained after the first day. It can be exhausting to take information in with your eyes and then use them for output as well. It’s 100% neat and cool right now, but I’ll check back in with a long-term review in a month to let you know how eye-tracking has proved to be with more use.
@@ -152,9 +170,6 @@ The blurred edges are not visible while wearing Vision Pro because of how our ey
 
 ![A physical keyboard with a virtual text window above it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/img_0032.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 My real, physical, Magic Keyboard on a table with a virtual typing window above it inside visionOS.
 
  I connected a Magic Keyboard, and that worked well to type on. Interestingly, if you’re typing with the keyboard in an iPad-compatible or native visionOS app, you get a pop-up of the words you’re typing above it. If you’re typing in Safari, however, you don’t. (Not yet as of this writing at least.) I mention this because I do most of my writing in Google Docs, but Google has blocked its iPad apps from being used on Vision Pro.
@@ -163,9 +178,6 @@ My real, physical, Magic Keyboard on a table with a virtual typing window above 
 
 ![Control Center in visionOS](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/img_0029.PNG) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 A view of the Control Center in visionOS
 
  Environments are a key component of the operating system at launch, and they are the equivalent of curtains that you pull around your view to block out distractions. A twist on the Digitial Crown—the dial on the top of the headset—will activate an Environment that can be a total of 360 degrees around you or only cover up a portion of your room.
@@ -180,9 +192,6 @@ The Moon Environment in visionOS
 
  The Disney+ app includes its own custom Environments, including ones related to Marvel, Star Wars, Monsters Inc., and a movie theater. Max also has its own Game of Thrones Environment, and MLB has one.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Grading Apps on a Spatial Computer
 
  Everyone will ask, what can the Vision Pro do? Well, between dedicated apps built for Vision Pro and compatible iPad and iPhone apps, Apple says there are around one million pieces of software that can run on the hardware. There are plenty of things it _can_ do.
@@ -226,6 +235,12 @@ Close
 
 ![Apple Music in visionOS](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/img_0027.PNG) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Apple Music in visionOS
 
  The best surprise is that iPad apps work great. For example, I used the [Hotels](https://www.hotels.com/) iPad app to book a stay, and it worked exactly like it does on my other iOS/iPadOS devices. On the disappointing side, J.Crew's [Virtual Closet](https://apps.apple.com/us/app/j-crew-virtual-closet/id6473550031) is limited to placing a handful of outlets on a mannequin. I thought this app was the worst, but exemplifies Lowe's and Wayfair's apps, too. They are neat proof-of-concept ideas but aren't fully baked yet.
@@ -236,9 +251,6 @@ Apple Music in visionOS
 
 ![top view of Apple Vision Pro with digital crown](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/top-view-of-apple-vision-pro-with-digital-crown.JPG) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  Ultimately, the Vision Pro might want to be a MacBook killer, but the two play nice together for now. I opened my MacBook Air while wearing the headset and saw my Mac desktop inside Vision Pro. I could use the keyboard and trackpad on a bigger-than-life screen with all my familiar Mac software.
@@ -253,10 +265,22 @@ Tyler Hayes / How-To Geek
 
  Working in Vision Pro took a couple of days to get familiar with, but it wasn’t a problem. I was at least as productive as I would have been on an iPad. After a little time, I felt like I was approaching the levels of using my Mac. There are trade-offs, of course, but I had more flexibility in window placement and sizes in Vision Pro. I had Environments to block out distractions. It’s not a given that visionOS will progress significantly, but even just modest refinements could mean an operating system people prefer to work in compared to other options.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Wired Battery Isn’t a Big Deal
 
 ![Battery connector on Apple Vision Pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/battery-connector-on-apple-vision-pro.JPG) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  Apple advertises that the Vision Pro gets about two hours of battery life for general use via its wired battery pack. It also says the battery can sustain a longer, two-and-a-half hour time when watching 2D movies. I found that number to be generally right, but conservative, so you should get at least that.
@@ -267,9 +291,6 @@ Tyler Hayes / How-To Geek
 
  You can tuck the battery pack into your pocket, but I found the [Belkin Battery Holder](https://www.apple.com/shop/product/HRDR2ZM/A/belkin-battery-holder-for-apple-vision-pro) to be a handy way to clip it to my pants. It even comes with a clip to keep the cord wrangled.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Meta Quest 3 vs. Apple Vision Pro
 
  Whether it’s an accurate comparison or not, the Vision Pro will get positioned next to Meta’s Quest 3, starting at $499\. The 2023-released VR headset added video pass-through for mixed-reality experiences so, from a casual glance, the two products aren’t too far apart.
@@ -278,6 +299,12 @@ Tyler Hayes / How-To Geek
 
 [![Quest 3 headset and controllers sitting on a table-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/quest-3-headset-and-controllers-sitting-on-a-table-1.JPG)](https://article-helps.techidaily.com/new-securing-the-title-top-5-hmds-for-drone-pilots-for-2024/) Related 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### [Meta Quest 3 Review: A VR Headset Full of Promise](https://remote-screen-capture.techidaily.com/new-samsung-screen-captures-of-your-gaming-spree-for-2024/) 
 
 A great stand-alone VR headset that’s still learning how to blend the real world with a digital one.
@@ -288,31 +315,22 @@ A great stand-alone VR headset that’s still learning how to blend the real wor
 
  The Meta Quest 3 isn’t architected as a multi-modal computing device like the Vision Pro with free-flowing windows and a million applications. But I wouldn’t be surprised to see the Quest 3 evolve to be more Vision Pro-esque. For now, they’re just very different in scope and goals.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Vision Pro Availability
 
  The Apple Vision Pro went on sale on February 2, 2024, in the U.S. and is available to order now, starting at $3,499 for 256GB of storage. Other storage options include 512GB and 1TB.
 
  Prescription lenses cost $149, and reader lenses cost $99.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Should You Buy the Apple Vision Pro?
 
 ![side view of Apple Vision Pro on a table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/side-view-of-apple-vision-pro-on-a-table.JPG) 
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  If you’ve never thought of yourself as an early adaptor—someone concerned with trying unproven technology—then there’s no reason for you to place an order for an [Apple Vision Pro](https://www.apple.com/shop/buy-vision/apple-vision-pro). It’s worth trying a demo, but most people shouldn’t buy one yet.
@@ -329,9 +347,6 @@ Tyler Hayes / How-To Geek
 
 ![Apple-WWCD23-Vision-Pro-glass-230605](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/apple-wwcd23-vision-pro-glass-230605.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  Apple Vision Pro
 
 7/ 10 

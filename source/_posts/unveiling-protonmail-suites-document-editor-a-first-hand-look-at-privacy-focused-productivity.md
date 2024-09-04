@@ -1,7 +1,7 @@
 ---
 title: "Unveiling ProtonMail Suite's Document Editor: A First-Hand Look at Privacy-Focused Productivity"
-date: 2024-08-29T20:38:42.515Z
-updated: 2024-08-30T20:38:42.515Z
+date: 2024-09-03T10:46:54.329Z
+updated: 2024-09-04T10:46:54.329Z
 tags:
   - web
 categories:
@@ -28,7 +28,10 @@ Aran Folsom / How-To Geek | Proton
  For those unfamiliar with them, Proton is a privacy-first tech company that began in 2014 with the launch of its private email service, [Proton Mail](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003906/https://proton.me/mail). They have since expanded to include Proton VPN, [Proton Pass](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003906/https://proton.me/pass)—a password manager, [Proton Calendar](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003906/https://proton.me/calendar), and [Proton Drive](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003906/https://proton.me/drive). Proton has also acquired the email alias service SimpleLogin, along with the note-taking app, Standard Notes. As their primary focus is internet privacy, all of their services provide end-to-end encryption by default without hindering productivity.
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Proton Docs Vs. Google Docs
 
@@ -37,14 +40,20 @@ Aran Folsom / How-To Geek | Proton
 ![The Proton Docs user interface.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/docs.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2024347/7443" target="_top" id="2024347">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024347/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Collaborating in real-time is also a breeze with easy-to-navigate sharing features and instant updates between users. These two aspects alone make using Proton Docs very intuitive for Google users.
 
 ![The Share Document dialogue in Proton Docs.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/share-document.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  That said, there are some major differences. One of the biggest problems (and it is a fairly small one) for me is that the default font sizes are larger than the standard sizes of other document editing tools. Proton Docs defaults to size 16 font, whereas 11 or 12 is what you'd typically expect.
 
@@ -61,8 +70,10 @@ Aran Folsom / How-To Geek | Proton
  I personally love the default paperless view, though I hope Proton adds an option to change this for users who aren’t as fond of it. I also appreciate that Proton Docs opens a new document or the Proton Drive home page in a new tab, unlike Google Docs, which operates within a single tab.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Is Proton Docs Worth the Switch?
 

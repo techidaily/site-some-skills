@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Getting Your Non-Responsive Wireless Mouse Back Online on Windows 11"
-date: 2024-08-29T20:43:00.732Z
-updated: 2024-08-30T20:43:00.732Z
+date: 2024-09-03T10:46:58.007Z
+updated: 2024-09-04T10:46:58.007Z
 tags:
   - deals
 categories:
@@ -35,30 +35,10 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 
  Disconnect the USB receiver, wait ten seconds, then plug it back in. This is age-old advice, but it may kick Windows to recognize the mouse.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ###  Use a Different USB Port
 
  The USB port you're using for the receiver may be faulty, so use a different one to check. If your computer only has one USB port, you could use an adapter or a dongle that connects to a different port to provide more USB connections.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ###  Check the Mouse Battery
 
  The battery is typically the reason for wireless mice not working. Check the battery is fully inserted in the compartment and that it's positioned correctly. Also, replace it with a new battery if you're unsure how much charge it has left (or plug it in to charge if the battery isn't replaceable).
@@ -67,13 +47,16 @@ Key features:
 
  Other USB devices connected to your computer can cause interference. Disconnect these in turn; if it doesn't fix your mouse, plug them back in again.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Check for Hardware Damage
 
  Your mouse or USB receiver may be defective, especially if you accidentally dropped them recently. Examine your USB port, receiver, and mouse for physical damage. Check for dirt or dust in the USB ports and clean them if required.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Connect to Another PC
 
  Connect the receiver to a different Windows device and see if the mouse works there. If not, the mouse or receiver is probably defective. To determine which is to blame, you could get another receiver—most manufacturers sell them standalone or will send you one under warranty. If this doesn't work, you then know the fault lies with the mouse itself (so buy a new one or claim under warranty).
@@ -89,7 +72,10 @@ Key features:
 ![Windows 11 right-click Start Menu highlighting Device Manager option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-start-menu-options.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  In Device Manager, scroll down and double-click the "Universal Serial Bus Controllers" section to expand it. Right-click "USB Root Hub" and select "Properties."
 
@@ -101,9 +87,6 @@ Key features:
 
  Finally, remove and reconnect the USB receiver.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  3\. Disable Fast Start-up
 
  Windows' Fast Start-up feature launches your computer quickly, but [Fast Start-up has drawbacks](https://youtube-help.techidaily.com/in-2024-exploring-the-best-youtube-extractors-for-android-devices/), including connection issues with USB devices. Therefore, it's worth disabling it.
@@ -112,33 +95,66 @@ Key features:
 
 ![Windows 11 Power Options window highlighting 'Choose what the power button do' option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-control-panel-power-options-window-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Click "Change Settings That Are Currently Unavailable."
 
 ![Windows 11 System Settings window highlighting 'Change settings that are currently unavailable' option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-power-options-system-settings-window.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2024347/7443" target="_top" id="2024347">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024347/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Now, uncheck "Turn On Fast Start-up" and click "Save Changes."
 
 ![Windows 11 System Settings window highlighting 'Turn on fast startup' option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-power-options-system-settings-window-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Shut down your computer, unplug and reconnect the USB mouse receiver, then turn the computer back on.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  4\. Update or Rollback the Mouse Drivers
 
  If your mouse drivers are outdated or corrupted, this might cause connection issues. If they are outdated, you should [update your Windows 11 drivers](https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-redmi-13c-5g-phone-frp-lock-by-drfone-android/). Alternatively, if a recent update caused the issue, you should roll back.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_1982596" src="//a.impactradius-go.com/gen-ad-code/5597632/1982596/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ###  How to Update the Mouse Drivers
 
  The best way to do this is through Windows Update. Press Windows+i to open Settings and go to Windows Update > Advanced Options > Optional Updates. If available, click "Driver Updates", select those you need (any related to connectivity and the mouse), and click "Download & Install."
 
 ![Optional Updates in Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/install_optional_updates.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If Windows Update doesn't detect any available driver updates, manually install them. To do this, go directly to the mouse manufacturer's website. They should have a driver section, or they might have dedicated software—in either case, download and run the executable, then follow the prompts.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ###  How to Roll Back the Mouse Drivers
 
@@ -146,20 +162,17 @@ Key features:
 
 ![Windows 11 Device Manager window highlighting 'Mice and other pointing devices' right-click menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-device-manager-window-2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  In the Properties window, select the "Driver" tab and click "Roll Back Driver."
 
 ![Windows 11 mouse Properties window highlighting 'Roll Back Driver' option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-mouse-properties-window.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
  Click "Yes" on the warning pop-up and wait until Windows automatically restores to the previous version.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  5\. Reset the USB Ports 
 
@@ -169,16 +182,10 @@ Key features:
 
 ![Windows 11 Device Manager window highlighting 'USB Root Hub' right-click menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-device-manager-window-3.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
  Select "Uninstall" in the pop-up window.
 
 ![Windows 11 Uninstall Pop-Up Warning window highlighting Uninstall button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-uninstall-pop-up-warning-window.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
  Repeat the above steps for each USB Root Hub on the list.
 
  Restart your computer, and it will automatically scan and reinstall the USB controllers. If it doesn't, go back to Device Manager and select Action > Scan for Hardware Changes.
@@ -190,7 +197,10 @@ Key features:
 ![Click "Check for updates."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/win11_click_check_for_updates.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  On the other hand, sometimes Windows updates can be buggy and be the root of the problem. If you recently updated Windows and your mouse stopped working afterward, [uninstall the recent Windows update](https://hardware-help.techidaily.com/download-updated-wireless-network-adapter-driver-for-windows-versions-win11-win10-win8-win7/) (Windows+i > Windows Update > Update History > Uninstall Updates).
 
@@ -198,6 +208,9 @@ Key features:
 
  If your system is infected with malware, it can interfere with external devices like mice. This is why you should run a malware scan to detect and remove harmful threats, either [using Microsoft Defender](https://howto.techidaily.com/restore-missing-app-icon-on-lava-yuva-2-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/) or any [reliable third-party antivirus software](https://facebook-video-recording.techidaily.com/in-2024-access-high-res-fb-media-files/).
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_1977004" src="//a.impactradius-go.com/gen-ad-code/5597632/1977004/22993" width="160" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ##  8\. Connect the Mouse With Bluetooth
 
  The majority of wireless mice also connect to your computer via Bluetooth, bypassing the need to insert a USB receiver. However, your PC must also support Bluetooth.
@@ -217,10 +230,13 @@ Key features:
 ![Windows 11 Add a device window highlighting Bluetooth mouse.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-add-a-device-window-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe id="iframe_1982570" src="//a.impactradius-go.com/gen-ad-code/5597632/1982570/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->
  Wait until the connection is established. After a few seconds, your mouse is ready to use via Bluetooth.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_1982456" src="//a.impactradius-go.com/gen-ad-code/5597632/1982456/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ##  9\. Perform a System Restore
 
  If none of these steps helped and your wireless mouse is still not working, consider [performing a system restore](https://article-posts.techidaily.com/in-2024-proven-methods-to-infuse-engaging-dialogue-in-videos/) to set Windows back to an earlier state and uninstall drivers and updates added since the last restore point.

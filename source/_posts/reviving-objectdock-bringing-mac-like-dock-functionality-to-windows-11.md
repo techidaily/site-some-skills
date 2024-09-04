@@ -1,7 +1,7 @@
 ---
 title: "Reviving ObjectDock: Bringing Mac-Like Dock Functionality to Windows 11"
-date: 2024-08-29T20:43:42.957Z
-updated: 2024-08-30T20:43:42.957Z
+date: 2024-09-03T10:46:58.525Z
+updated: 2024-09-04T10:46:58.525Z
 tags:
   - deals
 categories:
@@ -117,5 +117,8 @@ Close
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

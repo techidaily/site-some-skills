@@ -1,7 +1,7 @@
 ---
 title: How to Convert and Transfer Word Documents Onto Your Kobo E-Reader
-date: 2024-08-20T22:46:51.800Z
-updated: 2024-08-21T22:46:51.800Z
+date: 2024-09-03T10:47:02.204Z
+updated: 2024-09-04T10:47:02.204Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/3b2bc9a3a892785318d5d0f2114220ad982ea100320932632e38a5b677339306.jpg
@@ -88,5 +88,8 @@ thumbnail: https://thmb.techidaily.com/3b2bc9a3a892785318d5d0f2114220ad982ea1003
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Installing and Running ChatGPT in Windows Environment"
-date: 2024-08-29T20:45:36.054Z
-updated: 2024-08-30T20:45:36.054Z
+date: 2024-09-03T10:46:59.943Z
+updated: 2024-09-04T10:46:59.943Z
 tags:
   - cutting-edge
 categories:
@@ -36,17 +36,26 @@ thumbnail: https://thmb.techidaily.com/d0add7542260b37a87b432f388dbcfdf91f7a9a63
 
 !['Install Page as App' highlighted in Chrome.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1-chrome-install-chatgpt.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You’ll see an "Install This Page as an App" dialog box. To change the app’s name, click the text field and type a name. This name will appear wherever the app is listed. Then, click "Install."
 
 ![The text box and 'Install' highlighted in Chrome.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2-chrome-create-chatgpt-app.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Chrome will create and launch the app in a new window. You may now start using the app.
 
  Windows will display a notification asking if you want to [pin the app to the taskbar](https://tech-hub.techidaily.com/understanding-the-five-main-causes-of-chatgpt-prohibitions-in-businesses/). To do that, click "Yes." Otherwise, select "No, Thanks." And that’s it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Download ChatGPT Using Edge
 
  Open the Edge web browser and access the [ChatGPT site](https://chatgpt.com/). Sign in to your account if you haven’t already done so.
@@ -56,7 +65,10 @@ thumbnail: https://thmb.techidaily.com/d0add7542260b37a87b432f388dbcfdf91f7a9a63
 !['Install This Site as an App' highlighted in Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/3-edge-install-chatgpt.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  An "Install This Site as an App" dialog box will open. To change the app’s default name, click the text field and type a new name. To change the app’s icon, beneath the current icon, click "Edit." Then, choose an ICO or [PNG file](https://remote-screen-capture.techidaily.com/new-2024-approved-immortalize-your-gaming-adventures-on-pc-6-ways/) as the app icon. There's a [way to turn any image into an icon file](https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-motorola-razr-40-drfone-by-drfone-virtual-android/).
 
@@ -66,9 +78,6 @@ thumbnail: https://thmb.techidaily.com/d0add7542260b37a87b432f388dbcfdf91f7a9a63
 
  And that’s all.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Launch the Downloaded ChatGPT App
 
  Since the ChatGPT app you’ve created works like any other installed app on your PC, you can [launch it like you would any other app](https://on-screen-recording.techidaily.com/ipad-timelapse-a-beginners-handbook-to-filming/). One way to do that is by using the Start Menu.
@@ -77,6 +86,12 @@ thumbnail: https://thmb.techidaily.com/d0add7542260b37a87b432f388dbcfdf91f7a9a63
 
 ![ChatGPT highlighted in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/5-launch-chatgpt-app.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To pin the app to the Start Menu or the taskbar, right-click the app in the search results and choose "Pin to Start" or "Pin to Taskbar." This allows you to launch the app quickly and conveniently.
 
 !['Pin to Start' and 'Pin to Taskbar' highlighted for ChatGPT in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/6-pin-chatgpt-app.jpg) 
@@ -84,7 +99,7 @@ thumbnail: https://thmb.techidaily.com/d0add7542260b37a87b432f388dbcfdf91f7a9a63
  And you now have access to your favorite AI tool as a native Windows app.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe id="iframe_1975555" src="//a.impactradius-go.com/gen-ad-code/5597632/1975555/22993" width="160" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->
 ##  How to Uninstall the ChatGPT App
 
@@ -98,15 +113,15 @@ thumbnail: https://thmb.techidaily.com/d0add7542260b37a87b432f388dbcfdf91f7a9a63
 
 !['Uninstall' highlighted for ChatGPT in Windows 10 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/8-delete-chatgpt-windows-10-settings.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
  If you made the app with Chrome, you can [use Control Panel to uninstall the app](https://video-screen-grab.techidaily.com/updated-mastering-video-best-practices-in-game-recording-and-streaming-for-2024/) [as well](https://video-screen-grab.techidaily.com/updated-mastering-video-best-practices-in-game-recording-and-streaming-for-2024/). To do that, navigate to Control Panel > Uninstall a Program. Find and select the ChatGPT app and choose "Uninstall" at the top. Click "Remove" in the prompt.
 
 ![ChatGPT and 'Uninstall' highlighted in Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/9-uninstall-chatgpt-control-panel.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  And that’s how you create, launch, and remove ChatGPT’s Windows version from your computer. Have a good time using your favorite AI tool!
 

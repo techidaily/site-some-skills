@@ -1,7 +1,7 @@
 ---
 title: Best Value Foldable Phone on the Market - Moto Razr
-date: 2024-08-29T20:45:58.308Z
-updated: 2024-08-30T20:45:58.308Z
+date: 2024-09-03T10:47:00.196Z
+updated: 2024-09-04T10:47:00.196Z
 tags:
   - cutting-edge
 categories:
@@ -113,5 +113,5 @@ Close
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe id="iframe_1424533" src="//a.impactradius-go.com/gen-ad-code/5597632/1424533/16446" width="728" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->

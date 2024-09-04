@@ -1,7 +1,7 @@
 ---
 title: "1. Uber Autonomous Vehicles in Vegas Require Human Supervision: Current Status"
-date: 2024-08-29T20:45:56.794Z
-updated: 2024-08-30T20:45:56.794Z
+date: 2024-09-03T10:47:00.182Z
+updated: 2024-09-04T10:47:00.182Z
 tags:
   - cutting-edge
 categories:
@@ -117,5 +117,5 @@ Related: [Mercedes Wants You to Pay a Subscription for Full Speed](https://windo
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe id="iframe_1834906" src="//a.impactradius-go.com/gen-ad-code/5597632/1834906/16836" width="728" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->

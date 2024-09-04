@@ -1,7 +1,7 @@
 ---
 title: "The Impact of AI on Next-Gen Computing Power: Expect Higher Specs in Future PCs"
-date: 2024-08-29T20:46:30.340Z
-updated: 2024-08-30T20:46:30.340Z
+date: 2024-09-03T10:47:00.558Z
+updated: 2024-09-04T10:47:00.558Z
 tags:
   - cutting-edge
 categories:
@@ -30,7 +30,7 @@ Microsoft
  There are many reasons to want local AI features. It's fast, you're not competing for resources with other users, and you don't have to pay beyond the cost of the hardware. Giving your laptop the smarts of something on the same continuum as ChatGPT and its contemporaries is definitely exciting!
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe id="iframe_1977020" src="//a.impactradius-go.com/gen-ad-code/5597632/1977020/22993" width="160" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->
 ##  Even “Small” LLMs Are Huge
 
@@ -39,14 +39,17 @@ Microsoft
  Then we have LLMs small enough to run on a smartphone, such as [phi-3-mini](https://techmonitor.ai/technology/ai-and-automation/microsoft-phi-3-mini) which clocks in at 2.4GB. That's more in line with what's actually going to be running on these AI laptops, though probably not quite as anemic!
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Models Have to Live in RAM
 
 ![AI chip hologram with circuits around.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ai-chip-hologram-with-circuits-around.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe id="iframe_1983539" src="//a.impactradius-go.com/gen-ad-code/5597632/1983539/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->
 Lucas Gouveia / How-To Geek
 
@@ -59,7 +62,10 @@ AI chip hologram with circuits around
  To be sure, these new PCs all have ultra-fast SSDs that can swap data in and out of RAM quickly, but apart from the additional wear and tear that puts on your SSD, it's still just not fast enough for everything to run smoothly, and don't forget you still want to run all of your other apps at the same time! If your PC had to dump your browser and other apps from RAM to disk every time you wanted the AI to do something, it wouldn't be a great experience.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  16GB Is the Absolute Minimum
 
@@ -68,7 +74,10 @@ AI chip hologram with circuits around
  While that's a healthy amount for a normal non-AI PC, I have a feeling that for PCs running local AI assistants in the background all the time, this will be more like an 8GB PC plus AI, unless you disable the AI part of the equation.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Some AI PCs Won’t Have Upgradable RAM
 
@@ -77,7 +86,10 @@ AI chip hologram with circuits around
  Some time ago, I looked at whether [32GB of RAM](https://extra-hints.techidaily.com/elevate-your-craft-canvas-hidden-design-secrets/) was not the amount to aim for, and my conclusion was that this amount of memory was still overkill for average users. However, with future AI model sizes in mind, I think 32GB should be what anyone who cares about these AI features must aim for.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  If You Care About AI, Get More Memory
 

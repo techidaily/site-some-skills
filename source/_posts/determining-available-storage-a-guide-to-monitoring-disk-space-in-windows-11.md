@@ -1,7 +1,7 @@
 ---
 title: "Determining Available Storage: A Guide to Monitoring Disk Space in Windows 11"
-date: 2024-08-29T20:43:23.232Z
-updated: 2024-08-30T20:43:23.232Z
+date: 2024-09-03T10:46:58.297Z
+updated: 2024-09-04T10:46:58.297Z
 tags:
   - deals
 categories:
@@ -24,12 +24,10 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
  Sometimes it feels like you never have enough free disk space. Every app you install takes up valuable room on your main drive, and you might eventually run out. Here's how to check how much you have left.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<a href="https://appsumo.8odi.net/c/5597632/2024338/7443" target="_top" id="2024338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Check Your Free Space Using File Explorer
 
@@ -37,18 +35,21 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 
 ![Click the File Explorer icon on the taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-6.png) 
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_1983471" src="//a.impactradius-go.com/gen-ad-code/5597632/1983471/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
  Click "This PC" in the left column. Under "Devices and Drives," you'll see your main system volume (C:) and any other drives in the computer. Windows shows the amount of free disk space on the drive directly below the drive's name.
 
 ![Click 'This PC' on the left, then note the free storage in your PC.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-6.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  In general, [Windows needs at least a few gigabytes of free storage space to perform optimally](https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-oneplus-12-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/). For example, it [uses this to cache important programs and virtual memory to disk](https://extra-tips.techidaily.com/updated-cinematic-masterpiece-dialogues/), which speeds up the operation of Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Check Free Space in the Settings App
 
  To check how much free space you have using the Settings app, open the Settings app and navigate to System > Storage. Alternatively, search for "Storage" in the Start menu or taskbar search and click "Storage Settings."
@@ -56,21 +57,30 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 ![Search for 'storage,' then click 'Storage Settings.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-storage-settings.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Scroll down a bit in the Storage window and click "View Storage on Other Drives" under More Storage Settings. 
 
 ![Click 'View Storage on Other Drives.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4-view-storage.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  You'll see a list of every storage device attached to your PC—internal and external. 
 
 ![The storage drives on the example PC.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/5-storage-drives.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  If you're running low on space, consider [freeing up storage](https://youtube-clips.techidaily.com/culinary-carousel-swirling-up-top-food-network-names-for-2024/) by [uninstalling programs you no longer use](https://some-approaches.techidaily.com/swift-closure-of-a-linkedin-account-the-how-to-guide-for-2024/). Also, Windows 10 includes a handy "Free Up Space" tool that [helps you clean up your hard drive](https://vp-tips.techidaily.com/launch-free-dvd-playback-capabilities-on-windowsmac-laptops/).
 

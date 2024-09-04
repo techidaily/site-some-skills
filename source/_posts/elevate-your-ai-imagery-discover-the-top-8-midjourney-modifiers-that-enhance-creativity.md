@@ -1,7 +1,7 @@
 ---
 title: "Elevate Your AI Imagery: Discover the Top 8 Midjourney Modifiers That Enhance Creativity"
-date: 2024-08-29T20:44:27.253Z
-updated: 2024-08-30T20:44:27.253Z
+date: 2024-09-03T10:46:59.062Z
+updated: 2024-09-04T10:46:59.062Z
 tags:
   - cutting-edge
 categories:
@@ -56,9 +56,6 @@ Close
 
  You can now use these prompts with the /imagine command to see what Midjourney cooks up. Or you can just use this to expand your artistic vocabulary. That said, one of the best use cases of this command is to reverse engineer AI images you see online and on social media and try to recreate them using Midjourney.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3  The No Parameter: Avoid Certain Elements In Images 
 
  Sometimes, when using a prompt, certain elements or items might repeatedly pop up in your image. At this point, you can use the _no_ parameter to remove items or objects you don’t want in your composition.
@@ -70,8 +67,10 @@ summer picnic scene
 ![Image of a Picnic generated using Midjourney showing trees](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/image-of-a-picnic-generated-using-midjourney-showing-trees.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  As you can see, Midjourney is creating images with trees in them. But I don’t want trees. So, if I modify the prompt to:
 
@@ -81,6 +80,12 @@ summer picnic scene without trees
 
 ![Midjourney image of a picnic scene that ignores the prompt asking to generate without trees](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/midjourney-image-of-a-picnic-scene-that-ignores-the-prompt-asking-to-generate-without-trees.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Still, the generated images include trees. But you can stop this from happening by using the “no” parameter and specifying what you want removed. The modified prompt becomes:
 
 summer picnic scene --no tree, branches, leaves, trunks.
@@ -90,12 +95,21 @@ summer picnic scene --no tree, branches, leaves, trunks.
 ![Midjourney image using no parameter to avoid trees successfully when generating a picnic scene](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/midjourney-image-using-no-parameter-to-avoid-trees-successfully-when-generating-a-picnic-scene.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Yes, trees are still present in the composition, but their presence is significantly reduced.
 
  You can remove multiple items using the “no” parameter, such as: --no item1, item2, item3, item4…
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4  The Stylize Parameter: Control Midjourney's Stylization 
 
  The 'stylize'parameter has a value between 0-1000 with the default value being 100\. You can freely increase or decrease it to create more or less stylistic art by adding "--s 10" or "--stylize 900" (or whatever value you want to specify) at the end of the prompt.
@@ -118,6 +132,12 @@ a child’s painting of a house with a car and a pool --s 10
 
 ![Midjourney image of a child's painting with stylize at 10](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/midjourney-image-of-a-child-s-painting-with-stylize-at-10.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  And with stylize set to 900:
 
 a child’s painting of a house with a car and a pool --s 900
@@ -127,10 +147,10 @@ a child’s painting of a house with a car and a pool --s 900
 ![Midjourney image of a child's painting with stylize at 900](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/midjourney-image-of-a-child-s-painting-with-stylize-at-900.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 5  The Repeat Parameters: Fast Visual Exploration 
 
@@ -142,6 +162,12 @@ two friends sitting at the beach, sunset, --r 5
 
 ![Using the Repeat Parameter in Midjourney](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/using-the-repeat-parameter-in-midjourney.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can also mix the “repeat” parameter with other options like the “stylize” parameter to speed up your explorations.
 
  Basic users can do 2-4 repeats, Standard users can do 2-10, and Pro/Mega users can go wild with 2-40 repeats. Also, the repeat parameter only works with Fast or Turbo GPU models, not Relax, and will eat up a fair amount of GPU hours very quickly.
@@ -163,7 +189,10 @@ a steampunk cyborg --w 100
 ![Midjourney image of a steampunk Cyborg with weird parameter at 100](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/midjourney-image-of-a-steampunk-cyborg-with-weird-parameter-at-100.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  This is with weird raised to 1000:
 
@@ -172,7 +201,10 @@ a steampunk cyborg --2 1000
 ![Midjourney image of a steampunk Cyborg with weird parameter at 1000](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/midjourney-image-of-a-steampunk-cyborg-with-weird-parameter-at-1000.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  And finally, this is with weird cranked up to 2500
 
@@ -180,12 +212,6 @@ a steampunk cyborg --w 2500
 
 ![Midjourney image of a steampunk Cyborg with weird parameter at 2500](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/midjourney-image-of-a-steampunk-cyborg-with-weird-parameter-at-2500.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## 7  The Video Parameter: Capture the Creation Process 
 
  As Midjourney processes your base imagine prompt and generates the final image grid, you get to see a slow evolutionary process of how your image goes from a crude blur to an AI masterpiece (most of the time). If you want to capture this creation process and save it as a GIF or short movie, you can do that using the "video"parameter. Just follow these steps:
@@ -198,26 +224,23 @@ watercolor scenery of a mountain in the woods --video
 
 ![Reacting with an envelope emoji to a Midjourney image created using video parameter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/reacting-with-an-envelope-emoji-to-a-midjourney-image-created-using-video-parameter.png) 
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The Midjourney bot will send you a direct message with the link to the video. You can open it to view in a browser or right-click (or long press if on mobile) to download it.
 
 ![Midjourney bot responds with a message with a link to a video of the image generation process](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/midjourney-bot-responds-with-a-message-with-a-link-to-a-video-of-the-image-generation-process.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  And here’s what the video looks like:
 
 Your browser does not support the video tag. 
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_1770544" src="//a.impactradius-go.com/gen-ad-code/5597632/1770544/20702" width="300" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## 8  The Tile Parameter: Craft Stunning Patterns 
 
  I often use Midjourney to create monotonous pattern-based wallpapers and this is when the 'tile"parameter comes in real handy. Of course, you can also use this feature to create any seamless repeating patterns, or textures, or even for printing on fabrics. To use the feature, simply prompt Midjourney to create a pattern and append it with the --tile parameter. You will get a grid of patterns that you can individually upscale and use them as repeating patterns to create large images.
@@ -236,14 +259,6 @@ a pattern of autumn leaves --tile
 
 ![Creating a Desktop wallpaper using Midjourney image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/creating-a-desktop-wallpaper-using-midjourney-image-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ---
 
  With these powerful Midjourney commands at your fingertips, you're well on your way to becoming an AI image wizard. Whether crafting seamless patterns, removing unwanted elements, or adding an extra dose of weirdness, these tools offer endless ways to refine and customize your creations.

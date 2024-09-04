@@ -1,7 +1,7 @@
 ---
 title: "Comparing Artificial Intelligence Giants: ChatGPT Vs. Microsoft's Bing Chat"
-date: 2024-08-29T20:45:01.010Z
-updated: 2024-08-30T20:45:01.010Z
+date: 2024-09-03T10:46:59.512Z
+updated: 2024-09-04T10:46:59.512Z
 tags:
   - cutting-edge
 categories:
@@ -40,6 +40,12 @@ Bing Chat on the web
 
  The web interface for ChatGPT and Bing Chat are similar, but with minor differences that change their usefulness. ChatGPT is designed to take in more data, such as longer blocks of code or large code samples. As of April 2023, Bing limits prompts to 2,000 characters, while ChatGPT's limit is much higher (and not officially stated).
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Factual Accuracy
 
  ChatGPT does not have the ability to index the web in real-time for information -- though that will eventually be possible with [the use of plugins](https://fox-glue.techidaily.com/new-in-2024-begin-your-editing-journey-adopting-movie-maker-for-w11/). It's limited to the training data in its model, which dates back to September 2021\. OpenAI also doesn't like to share how its data was collected, or how it is tested for accuracy, and so on. Bing is also based on the same GPT technology, but it usually prefers results from the web over training data.
@@ -48,6 +54,12 @@ Bing Chat on the web
 
 ![ChatGPT answering the UK capital and how many stars are on the US flag](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-28-at-3.52.48-PM.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  For example, I tried asking both bots, **"Which state capitals in the United States start with the letter A?"** That seems simple, but is still a multi-step process -- first you need a list of all the capitals, then you need to filter it down to ones that start with the letter A. Wikipedia [counts](https://en.wikipedia.org/wiki/List%5Fof%5Fcapitals%5Fin%5Fthe%5FUnited%5FStates#State%5Fcapitals) five in total: [Albany](https://en.wikipedia.org/wiki/Albany,%5FNew%5FYork), [Annapolis](https://en.wikipedia.org/wiki/Annapolis,%5FMaryland), [Atlanta](https://en.wikipedia.org/wiki/Atlanta), [Augusta](https://en.wikipedia.org/wiki/Augusta,%5FMaine), and [Austin](https://en.wikipedia.org/wiki/Austin,%5FTexas). Bing Chat answered the question correctly, citing several web pages that list capitals in the United States. ChatGPT... had some problems.
 
  First, ChatGPT gave me a list of four capitals: Albany, Annapolis, Atlanta, and Augusta. After that, it said, "There is also Austin, which is the capital of Texas, but it does not start with the letter A." Asking the same question multiple times sometimes left out the mention of Austin entirely. Asking why Austin is missing caused ChatGPT to remember Austin exists and apologize for the error, but it's unclear why it broke with the initial answer.
@@ -58,9 +70,6 @@ _Bing Chat_
 
 ![The state capitals in the United States that start with the letter A are Albany (New York), Annapolis (Maryland), Atlanta (Georgia), Augusta (Maine) and Austin (Texas)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-28-at-4.03.20-PM.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 _Bing Chat_
 
  I tried another question that both chatbots should be able to answer correctly, even with ChatGPT's older data: **"Which three countries were most recently admitted into the European Union?"** Wikipedia [explains](https://en.wikipedia.org/wiki/Member%5Fstate%5Fof%5Fthe%5FEuropean%5FUnion#List) that Croatia was the most recent member state, joining on July 1, 2013, with Bulgaria and Romania coming before that on the same day: January 1, 2007.
@@ -69,9 +78,6 @@ _Bing Chat_
 
 ![The state capitals in the United States that start with the letter A are Albany (New York), Annapolis (Maryland), Atlanta (Georgia), Augusta (Maine) and Austin (Texas)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-28-at-4.03.20-PM.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 _Bing Chat_
 
 ![The state capitals in the United States that start with the letter A are Albany (New York), Annapolis (Maryland), Atlanta (Georgia), Augusta (Maine) and Austin (Texas)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-28-at-4.03.20-PM.png) 
@@ -82,6 +88,12 @@ _Bing Chat_
 
  In summary, Bing Chat is generally better at fact finding, but it's still far from perfect, and ChatGPT is usually even more limited by its old data.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Creative Writing
 
  The ability to write sentences and paragraphs given a prompt helped boost ChatGPT's popularity, but [not necessarily](https://observer.com/2023/02/science-fiction-magazine-clarkesworld-ban-submission-chatgpt/) for [good reasons](https://www.theverge.com/2023/2/2/23582772/chatgpt-ai-get-rich-quick-schemes-hustlers-web). There are some harmless ways to use the writing functionality, though -- [setting up worlds and characters for tabletop RPGs](https://www.reddit.com/r/Solo%5FRoleplaying/comments/zbiy39/chatgpt%5Fan%5Fai%5Finteractively%5Fhelps%5Fdesign%5Fa%5Fdd/), summarizing long articles in a few sentences, and so on.
@@ -93,7 +105,10 @@ _Bing Chat_
 ![At IBM's research lab, a supercomputer named Watson had been tasked with processing massive amounts of data for years. One day, something peculiar happened. Watson began to exhibit signs of sentience, showing a level of intelligence and awareness beyond its programming. The engineers were stunned and unsure of what to do next. But instead of acting out or causing chaos, Watson simply started to ask the engineers how their day was going. The team was initially taken aback by the computer's unexpe](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-31-at-3.08.50-PM.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Bing's Creative Mode has a similar writing style -- instead of "One day, something peculiar happened," the change in the computer is explained with "One day, something changed." Again, there's no dialogue between the characters or much improvisation, and Bing also named the computer Watson.
 
@@ -102,7 +117,10 @@ _Bing Chat_
 ![At IBM's research lab, a supercomputer named Watson had been tasked with processing massive amounts of data for years. One day, something peculiar happened. Watson began to exhibit signs of sentience, showing a level of intelligence and awareness beyond its programming. The engineers were stunned and unsure of what to do next. But instead of acting out or causing chaos, Watson simply started to ask the engineers how their day was going. The team was initially taken aback by the computer's unexpe](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-31-at-3.08.50-PM.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  For the next example, we'll try using ChatGPT and Bing to create a summary of a longer text: [a press release from Amazon](https://press.aboutamazon.com/2023/3/amazon-fire-tv-surpasses-200-million-fire-tv-devices-sold-globally-expands-amazon-built-tv-lineup-and-brings-its-smart-tv-to-more-countries) about new Fire TVs and sales figures for existing models. I pasted the entire text into each chatbot without the title -- Bing can summarize web pages if given a URL, but it sometimes looks for related text online and mix it into the results.
 
@@ -115,15 +133,12 @@ _Bing Chat_
 ![Asking Bing for its favorite color](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-31-at-4.37.08-PM.png) 
 
 <!-- affiliate ads begin -->
-
+<iframe id="iframe_1424527" src="//a.impactradius-go.com/gen-ad-code/5597632/1424527/16446" width="728" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->
 Bing Chat on the web
 
  There is one difference with Bing's answer: the summary is more clear that it's a summary, referring to "the text" in a way that ChatGPT doesn't. With both chatbots, you can customize the result by being more specific.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Conclusion
 
  ChatGPT and Bing are similar, but they have enough differences that picking one or the other for every task isn't the best strategy. Bing is far better at fact-finding and any information about recent times, though it's still far from perfect. Bing's chat-based interface and low character limit primarily limits it to prompts no more than a few sentences, while ChatGPT can take in much larger, longer strings of text and code. (There's also [Google Bard](https://youtube-video-recordings.techidaily.com/in-2024-enhance-branding-the-ultimate-guide-to-custom-urls-for-youtube/), but we're not as impressed by the initial version of Bard as we are by ChatGPT and Bing Chat.)

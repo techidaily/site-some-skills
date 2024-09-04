@@ -1,7 +1,7 @@
 ---
 title: "A Beginner's Guide to Decentralized Finance (DeFi): Principles and Fundamentals Unveiled"
-date: 2024-08-29T20:44:51.547Z
-updated: 2024-08-30T20:44:51.547Z
+date: 2024-09-03T10:46:59.385Z
+updated: 2024-09-04T10:46:59.385Z
 tags:
   - cutting-edge
 categories:
@@ -27,7 +27,10 @@ thumbnail: https://thmb.techidaily.com/3f943451ad9f20674a4982a12bf6e3782b7a46fb4
 Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/updated-2024-approved-top-playlist-hits-social-medias-1-10-video-winners/) 
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Centralized Finance vs. Decentralized Finance
 
@@ -38,7 +41,7 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
  One good example are loans. Currently, to get a loan you need to go to a bank and jump through a number of hoops to qualify. Under DeFi, you could make a deal with somebody online, set down the terms and conditions in a smart contract and then go from there. Instead of dealing with a bank or some other kind of loan company, you'd just deal with another individual.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe id="iframe_1374819" src="//a.impactradius-go.com/gen-ad-code/5597632/1374819/15852" width="250" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->
 ##  How DeFi Works
 
@@ -51,8 +54,10 @@ Related: [What Is Bitcoin, and How Does it Work?](https://extra-support.techidai
  Conditions can be pretty simple, like a payment being transferred every first of the month, but they can be made as esoteric as the signatories would like. However, as these dApps exist on the blockchain, once the deal is made, it can't be altered. If you made a deal to transfer 100 Tether every first of the month, it'll fire every time unless you and your counterparty agree otherwise.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Problems With DeFi
 

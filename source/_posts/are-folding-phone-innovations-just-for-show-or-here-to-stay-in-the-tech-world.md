@@ -1,7 +1,7 @@
 ---
 title: Are Folding Phone Innovations Just for Show, or Here to Stay in the Tech World?
-date: 2024-08-29T20:39:45.045Z
-updated: 2024-08-30T20:39:45.045Z
+date: 2024-09-03T10:46:55.167Z
+updated: 2024-09-04T10:46:55.167Z
 tags:
   - mobile
 categories:
@@ -34,7 +34,7 @@ Justin Duino / How-To Geek
  Folding phones are cool, and a novelty, but for me, when you try to break down the value proposition to its essence, it doesn't quite add up to more than that.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe id="iframe_1834906" src="//a.impactradius-go.com/gen-ad-code/5597632/1834906/16836" width="728" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->
 ##  Moving Parts Are Always Less Reliable
 
@@ -43,8 +43,7 @@ Justin Duino / How-To Geek
  With a folding phone you throw absolutely all of that out the window, with both a complex hinge and the folding screen itself, which is enormously more fragile. Until materials science advances to the point where these folding screens are as robust against wear and damage as typical smartphone screens are today, I'll remain hesitant to get one as my daily driver. I've also come to the point where I don't consider a smartphone something I use for two years and then replace. These devices are so powerful, and makers are promising such long support cycles, that I expect five years of use with [proper battery care](https://review-topics.techidaily.com/how-to-change-location-on-facebook-dating-for-your-infinix-gt-10-pro-drfone-by-drfone-virtual-android/). I just don't see folding phones doing that on average with normal daily use.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe id="iframe_1982508" src="//a.impactradius-go.com/gen-ad-code/5597632/1982508/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->
 ##  The Sacrifices Aren’t Worth It
 
@@ -57,14 +56,20 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
  Again, there's nothing wrong with someone deciding that those sacrifices are not an issue to them personally, but it seems to me that the benefits of a folding screen don't measure up favorably to the list of downsides.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Rolling Screens Might Be a Better Take
 
 ![The Phantom Ultimate 3 rollable phone held in a hand.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/phantom_ultimate_3.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Tecno
 

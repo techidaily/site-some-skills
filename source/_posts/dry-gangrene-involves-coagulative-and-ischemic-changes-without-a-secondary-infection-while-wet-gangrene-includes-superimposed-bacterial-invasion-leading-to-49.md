@@ -1,7 +1,7 @@
 ---
 title: Dry Gangrene Involves Coagulative and Ischemic Changes without a Secondary Infection, While Wet Gangrene Includes Superimposed Bacterial Invasion Leading to Liquefactive Necrosis.
-date: 2024-08-29T20:39:50.457Z
-updated: 2024-08-30T20:39:50.457Z
+date: 2024-09-03T10:46:55.227Z
+updated: 2024-09-04T10:46:55.227Z
 tags:
   - mobile
 categories:
@@ -108,5 +108,8 @@ The Google Pixel 9 Pro XL offers an expansive 6.8-inch Super Actua display, comb
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

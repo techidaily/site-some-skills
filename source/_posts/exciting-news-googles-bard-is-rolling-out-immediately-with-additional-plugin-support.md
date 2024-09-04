@@ -1,7 +1,7 @@
 ---
 title: Exciting News! Google's Bard Is Rolling Out Immediately with Additional Plugin Support
-date: 2024-08-29T20:46:08.034Z
-updated: 2024-08-30T20:46:08.034Z
+date: 2024-09-03T10:47:00.317Z
+updated: 2024-09-04T10:47:00.317Z
 tags:
   - cutting-edge
 categories:
@@ -96,5 +96,8 @@ _[Google](https://www.youtube.com/watch?v=cNfINi5CNbY)_
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Expanding Reach: Google's Gemini Now Available on Legacy Android Devices"
-date: 2024-08-29T20:45:13.640Z
-updated: 2024-08-30T20:45:13.640Z
+date: 2024-09-03T10:46:59.667Z
+updated: 2024-09-04T10:46:59.667Z
 tags:
   - cutting-edge
 categories:
@@ -104,5 +104,8 @@ Google is really committed to its Gemini chatbot. The company recently gave peop
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

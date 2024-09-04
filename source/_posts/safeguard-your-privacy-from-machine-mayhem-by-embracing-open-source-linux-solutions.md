@@ -1,7 +1,7 @@
 ---
 title: Safeguard Your Privacy From Machine Mayhem by Embracing Open Source Linux Solutions
-date: 2024-08-29T20:44:44.228Z
-updated: 2024-08-30T20:44:44.228Z
+date: 2024-09-03T10:46:59.301Z
+updated: 2024-09-04T10:46:59.301Z
 tags:
   - cutting-edge
 categories:
@@ -30,7 +30,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  This effort to add AI to everything isn't stopping, despite users' trepidation. Windows, MacOS, and iOS are all plowing ahead with new AI features, and at no cost to you. This raises the question of how they plan on profiting from it (hint, the answer is probably by monetizing the data you feed to them).
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe id="iframe_1983446" src="//a.impactradius-go.com/gen-ad-code/5597632/1983446/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->
 ##  For AI to Work, It Needs to Scrape Your Data
 
@@ -43,14 +43,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  This doesn't just make AI output unoriginal, It's a massive privacy issue: how can you be sure some details of your private life that have been submitted to an AI platform won't be used to generate someone else's short story, business email, to create images, or just [revealed to the public outright](https://www.businessinsider.com/google-researchers-openai-chatgpt-to-reveal-its-training-data-study-2023-12 "https://www.businessinsider.com/google-researchers-openai-chatgpt-to-reveal-its-training-data-study-2023-12")?
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2024338/7443" target="_top" id="2024338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Take Control Back By Switching to Linux
 
 ![The Kubuntu Focus Ir16 Gen 2 laptop open on a desk in front of speakers and a headset.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/53784641964_d7cc9b8262_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<a href="https://appsumo.8odi.net/c/5597632/2030370/7443" target="_top" id="2030370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 

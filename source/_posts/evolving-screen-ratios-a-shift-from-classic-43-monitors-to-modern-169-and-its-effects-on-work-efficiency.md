@@ -1,7 +1,7 @@
 ---
 title: "Evolving Screen Ratios: A Shift From Classic 4:3 Monitors to Modern 16:9 and Its Effects on Work Efficiency"
-date: 2024-08-29T20:39:03.675Z
-updated: 2024-08-30T20:39:03.675Z
+date: 2024-09-03T10:46:54.596Z
+updated: 2024-09-04T10:46:54.596Z
 tags:
   - web
 categories:
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/35eb7ec70c3d68bdd6223aba9efbf03bc030e84e6
 
 ![An old beige PC with a CRT monitor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/an-old-pc.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 Santi S / Shutterstock.com
 
  One of the main reasons 4:3 monitors became popular during the '80s and '90s was because it was the [standard in television broadcasting](https://en.wikipedia.org/wiki/Standard-definition%5Ftelevision). That said, even on a practical level, this aspect ratio was great for most computing tasks at that time.
@@ -39,6 +35,12 @@ Santi S / Shutterstock.com
 
  However, computing habits started to change. People started to desire widescreen displays over square ones.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  The Move to 16:9 Monitors
 
  During the early 2000s, computers started to show significant advancements in their graphical capabilities. People began to want more from their PCs, primarily media consumption. [Windows Media Player](https://facebook-video-share.techidaily.com/updated-revolutionize-earning-with-youtube-short-tactics/) was already very popular. People used to watch movies and TV shows on their computers using attached [DVD drives](https://extra-support.techidaily.com/updated-premier-digital-discussion-director/).
@@ -49,15 +51,18 @@ Santi S / Shutterstock.com
 
 ![The Razer Aether monitor light bar lighting up a desk.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-razer-aether-monitor-light-bar-lighting-up-a-desk_53629693315_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  More powerful computers also meant you could run multiple apps together. A wider screen allowed for better multitasking, as you could now open and work with [multiple apps side by side](https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-honor-magic-v2-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/).
 
  Granted, this shift didn't happen overnight—but by the 2010s, widescreens were the norm. You could (and still can) find a few manufacturers making 4:3 monitors for industrial and CCTV use. However, you'd be hard-pressed to find these in somebody's home or even in an office setup.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  From 4:3 to 16:9 Monitors: How Did It Change Computing?
 
  Your monitor is the primary output device for your computer. Changing how you see information has a huge influence on how you interact with your PC.
@@ -77,7 +82,10 @@ Jerome Thomas / How-To Geek
  So, as you can see, considering the same monitor size, a 4:3 monitor will give you more vertical screen real estate compared to a 16:9 alternative. This has had an effect on the placement of the taskbar, user interfaces in game design, and more.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ###  Impact on the Placement of the Taskbar
 
@@ -85,9 +93,6 @@ Jerome Thomas / How-To Geek
 
 ![The default Windows 11 taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/52881834365_511de40661_o-3.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek  
   
  Developers and designers created this convention back in the 4:3 monitor era. Since you had more vertical screen space, you could have OS elements on the top and bottom, and app windows could still show sufficient information. You also had modest horizontal space for some split-screen action.
@@ -96,9 +101,6 @@ Hannah Stryker / How-To Geek
 
 ![A Linux Terminal open on Ubuntu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/52849124270_37375d86a3_o-3.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek  
   
  Ubuntu has done this. Their desktop experience puts the Ubuntu dock on the left side of the screen. I’d argue that this is the more logical UI choice, but because of familiarity and habit, we still have the bottom placement of the taskbar in popular operating systems.
@@ -118,7 +120,7 @@ Hannah Stryker / How-To Geek
  This just goes to show some of the ways the UI of video games, and even the overall game design can be influenced by the output screen.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe id="iframe_1993650" src="//a.impactradius-go.com/gen-ad-code/5597632/1993650/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->
 ###  Ergonomic Considerations
 
@@ -128,6 +130,12 @@ Hannah Stryker / How-To Geek
 
 ![Portrait Orientation of Samsung's Epic Odyssey Ark 55-inch Monitor](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/76f86454.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 _[Samsung](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fcomputing%2Fmonitors%2Fgaming%2F55-odyssey-ark-4k-uhd-165hz-1ms-quantum-mini-led-curved-gaming-screen-ls55bg970nnxgo%2F)_
 
  Of course, this doesn’t mean wider screens are automatically better ergonomically. The goal is to keep the screen in your field of view with limited neck movement. However, wider aspect ratios are better ergonomically with larger screens and the typically close viewing distance standard with PC monitors.
@@ -138,6 +146,12 @@ _[Samsung](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily1959
 
 ![HP E45c G5 Super Ultrawide monitor  against an orange background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/hp-e45c-g5.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 HP
 
  Typically sized at around 49 inches, super ultrawide monitors effectively give you the combined length of two 27-inch monitors side-by-side. These are most popular with video editors as they get to see the entire timeline of a video without scrolling. The behemoths are even popular among gamers looking for a visually immersive experience.

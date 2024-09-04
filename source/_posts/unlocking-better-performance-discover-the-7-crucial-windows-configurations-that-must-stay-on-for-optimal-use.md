@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Better Performance: Discover the 7 Crucial Windows Configurations That Must Stay On for Optimal Use"
-date: 2024-08-29T20:41:43.032Z
-updated: 2024-08-30T20:41:43.032Z
+date: 2024-09-03T10:46:56.907Z
+updated: 2024-09-04T10:46:56.907Z
 tags:
   - desktop
 categories:
@@ -35,19 +35,25 @@ Lucas Gouveia / How-To Geek | Microsoft
 
 ![The Windows Defender Firewall disabled.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/firewall.png) 
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_1834903" src="//a.impactradius-go.com/gen-ad-code/5597632/1834903/16836" width="728" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
  A [firewall](https://android-frp.techidaily.com/in-2024-top-5-oppo-k11-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/) acts as a barrier between your computer and harmful internet traffic. Think of it as a soldier on guard, monitoring incoming and outgoing network traffic and blocking anything suspicious. If malware sneaks into your device, this protection can prevent it from sending your data back to hackers so hackers can’t gain unauthorized access.
 
  When you [turn off your system’s firewall](https://screen-recording.techidaily.com/updated-in-2024-comprehensive-iptv-accessibility/), you remove this protection and leave your device vulnerable to viruses that can collect your data and send it to malicious hands. If you don’t want this to happen, never disable your firewall.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe id="iframe_1975636" src="//a.impactradius-go.com/gen-ad-code/5597632/1975636/22993" width="160" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->
 ##  Ensure User Account Control Is Active
 
 ![User Account page in the Control Panel on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/52780813472_45b8f2acb1_o-3.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Jason Fitzpatrick / How-To Geek  
   
@@ -57,6 +63,12 @@ Jason Fitzpatrick / How-To Geek
 
 [Disabling UAC](https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-sony-xperia-5-v-by-drfone-android/) allows anyone using your device and any malicious app to make unauthorized changes, potentially compromising your system’s stability. To avoid this risk, never disable UAC.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Don't Bypass the Login Window
 
 ![Microsoft account login screen at Windows setup](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/windows-setup-microsoft-sign-in.jpg) 
@@ -69,21 +81,27 @@ Jason Fitzpatrick / How-To Geek
 
 ![Virus and threat protection in Windows Security](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/virus-and-threat-protection.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If I had to keep only one setting enabled and turn off the rest, I would keep virus and threat protection enabled. It continually scans my device for infections and threats, detecting them before they can cause harm. If I mistakenly allow malware in, this protection detects, blocks, and removes it, preventing it from spreading further.
 
  If you [turn off this necessary protection](https://desktop-recording.techidaily.com/new-record-gameplay-in-samsung-galaxy-phones-for-2024/), viruses can easily infiltrate your device, remain undetected long enough to corrupt your files, steal sensitive information, and spread throughout your system. Additionally, if your device is connected to a network, it could become a source of infection for all devices on the network.
 
  Keeping this protection enabled can avoid all this. So, you should always keep it active to safeguard your device and protect other devices on the network.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ##  Don't Disable Ransomware Protection
 
 ![A laptop with the word &quot;Ransomware&quot; in big scary letters.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/9eb60bc8-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 _[Zephyr\_P/Shutterstock](https://www.shutterstock.com/image-photo/male-hacker-hand-on-laptop-computer-1141202159)_
 
@@ -93,16 +111,10 @@ _[Zephyr\_P/Shutterstock](https://www.shutterstock.com/image-photo/male-hacker-h
 
 [Windows provides ransomware protection](https://vimeo-videos.techidaily.com/in-2024-how-to-edit-videos-with-vimeo-create/) which blocks unauthorized apps from modifying your files. You should keep this feature enabled at all times.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Keep Reputation-Based Protection Features Active
 
 ![The SmartScreen filter for MS Edge](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-smartscreen-for-microsoft-edge.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
  Reputation-based protection uses data from millions of users and algorithms to protect your device from malicious and potentially unwanted apps, files, and websites. Features like [Microsoft Defender SmartScreen filters](https://pokemon-go-android.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-honor-100-pro-drfone-by-drfone-virtual-android/) protect your device from unrecognized apps from the web, while SmartScreen for Microsoft Edge alerts you to malicious websites.
 
  These tools help keep your device safe from unidentifiable threats and can automatically block suspicious downloads. Additionally, they offer phishing protection and can help block malicious email attachments and links, reducing potential security risks. To keep your device secure, I recommend not deactivating any of these features.

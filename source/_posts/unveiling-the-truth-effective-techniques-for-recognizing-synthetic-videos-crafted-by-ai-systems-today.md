@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Truth: Effective Techniques for Recognizing Synthetic Videos Crafted by AI Systems Today"
-date: 2024-08-29T20:44:50.117Z
-updated: 2024-08-30T20:44:50.117Z
+date: 2024-09-03T10:46:59.368Z
+updated: 2024-09-04T10:46:59.368Z
 tags:
   - cutting-edge
 categories:
@@ -42,18 +42,12 @@ thumbnail: https://thmb.techidaily.com/db6e8bb5b9330de241494205e28fd162607bcee64
 
 ![OpenAI SORA Tokyo night scene example clip.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/tokyo_clothes1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 OpenAI
 
  Now take a look at the same clothes in the close-up and you’ll see that the dress now has dark patches on it and that the leather jacket has a much larger off-center lapel:
 
 ![OpenAI SORA Tokyo night scene close up.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/tokyo_clothes2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 OpenAI
 
  This is so subtle that most people would need to watch the footage multiple times to spot it. The scene is dense, filled with reflections, and background actors which helps distract you from the gaffe.
@@ -68,6 +62,9 @@ OpenAI
 
 ![OpenAI SORA California gold rush town showing a "ghost" disappearing.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/goldrush2.png) 
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_1542129" src="//a.impactradius-go.com/gen-ad-code/5597632/1542129/16836" width="728" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 OpenAI
 
 ##  AI Struggles with Fingers, Glasses, and Finer Elements
@@ -83,14 +80,20 @@ OpenAI
 ![OpenAI SORA Lagos street scene depicting some irregularities.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/lagos_third_arm.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 OpenAI
 
  Can you take your third arm off my leg, please?
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Look Closely at Objects in the Background of an Image
 
@@ -100,6 +103,9 @@ OpenAI
 
 ![OpenAI SORA Tokyo night scene background details.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/background_people_tokyo.png) 
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_1328683" src="//a.impactradius-go.com/gen-ad-code/5597632/1328683/15852" width="250" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 OpenAI
 
  Some of this movement just doesn’t look right. At one point, a person seems to duplicate themselves. Later, what appears to be a group of people appears to phase into a single object as if they’re all wearing the same skirt or overcoat. In some areas, the walking animations are odd too.
@@ -116,6 +122,12 @@ OpenAI
 
  Everything can look a bit like a highly-produced music video, or like video games in the days before [realistic lighting and raytracing](https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-honor-90-drfone-by-drfone-virtual/). Subjects may look perfectly lit in instances where you’d expect them not to be.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Uncanny Valley Effect
 
  The uncanny valley effect is a term used to describe the mixing of human and inhuman traits in a manner that makes the viewer feel uncomfortable. Androids or human-like robots are oft-cited examples since they give the outward appearance of being human but are inescapably inhuman at the same time.
@@ -127,7 +139,7 @@ OpenAI
 ![OpenAI SORA spaceman with a knitted helmet video demonstrating the uncanny valley effect.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/uncanny_valley.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe id="iframe_1770776" src="//a.impactradius-go.com/gen-ad-code/5597632/1770776/20702" width="300" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->
 OpenAI
 
@@ -136,12 +148,18 @@ OpenAI
 ![OpenAI SORA's nightmare granny.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/nightmare_granny.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 OpenAI
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Watch Out for Nonsense
 
@@ -149,9 +167,6 @@ OpenAI
 
 ![OpenAI SORA spaceman video depicting a weird object.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/weird_lever.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 OpenAI
 
  What is this thing? Why is the animation seemingly played in reverse? The knitted helmet I can excuse, but this thing has puzzled me since the moment I saw it.

@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Your Prime Day Success: Utilizing Rufus, the Cutting-Edge Amazon AI Shopping Chatbot"
-date: 2024-08-29T20:44:35.184Z
-updated: 2024-08-30T20:44:35.184Z
+date: 2024-09-03T10:46:59.186Z
+updated: 2024-09-04T10:46:59.186Z
 tags:
   - cutting-edge
 categories:
@@ -36,21 +36,27 @@ thumbnail: https://thmb.techidaily.com/509fff23b0ac771700c9cc9f462572328b6f939b9
 ![Side-by-side screenshots of the two outdoor toys prompts and Rufus' responses.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_20240627_195714_amazon-shopping.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  My 3rd prompt was, "What are some fun outdoor toys for older kids under $500?" Rufus nailed it. Out of the five products Rufus suggested, we already own two of them and have long been in the market for the 3rd suggestion. Rufus' suggestions are exactly the type of product I was looking for.
 
 ![A screenshot of the above prompt and Rufus' response. Only the suggestion of a large outdoor basketball hoop is shown.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_20240627_200000_amazon-shopping.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Follow-up Questions
 
  After the list of ideal products, Rufus also offered a list of suggestions for follow-up questions. Again, some of the questions were more suited to younger kids. However, I clicked on "What outdoor toys foster teamwork among kids"? While I'm always hesitant to get toys with lots of pieces, I thought the suggestions of _Cornhole_ and _Giant Jenga_ were good. I should note that all of Rufus' "product suggestions" are actually product searches for a specific product. Clicking the suggestion doesn't take you to the product shown, but to an Amazon search for that product, usually listed first in the resulting search.
 
 ![A side-by-side of screenshots of Rufus' follow-up questions and its response to the follow-up question "What outdoor toys foster teamwork among kids?"](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_20240627_215749_amazon-shopping.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Specific Product Searches
 
  Next, I wanted Rufus to help me make a power station wishlist for Prime Day. I've learned that [solar panels are cheap](https://technical-tips.techidaily.com/enjoy-roku-channels-anywhere-even-without-owning-a-roku-player-heres-how/) and plentiful. I have several. However, finding a [portable power station](https://some-approaches.techidaily.com/updated-the-pros-guide-to-conquering-photovideo-importers-in-win11/) that can collect and store a useful amount of solar power has been a challenge!
@@ -59,12 +65,11 @@ thumbnail: https://thmb.techidaily.com/509fff23b0ac771700c9cc9f462572328b6f939b9
 
 ![A screenshot of the prompt "What is the most powerful portable power station for under $1000" and Rufus' response.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_20240628_204656_amazon-shopping.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_1975658" src="//a.impactradius-go.com/gen-ad-code/5597632/1975658/22993" width="160" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
  I notice that Rufus' product suggestions do not include prices. This is because they are product searches for a specific product instead of the product information page. You have to leave Rufus by clicking on one of the product search suggestions to see pricing information.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ##  Shopping Help
 
  Next on my shopping list were [Chromebooks](https://screen-mirroring-recording.techidaily.com/new-2024-approved-tranquility-techniques-how-to-mute-and-manage-gmeet-distractions/). I do much of my writing on my home office desktop, and I also follow my children around with a cheap Chromebook. I love Chromebooks because they run quickly without all the [baggage of Windows](https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-xiaomi-14-pro-without-puk-codes-by-drfone-android/), and they're cheap enough that it's not a crisis if they get lost or damaged. Since I work mostly from the cloud, I don't need the power of a PC. My most recent 2yr old Chromebook was mysteriously drenched by a pool toy in our backyard last week —we do not have a pool. So, I need to replace it, likely with another no-frills option. I know what brands I like, but I don't keep up with what product specs are current. I'm hoping Rufus can update me.
@@ -73,6 +78,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![A side-by-side screenshot of the Chrome book prompt and Rufus' response.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_20240628_204847_amazon-shopping.png) 
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_1993651" src="//a.impactradius-go.com/gen-ad-code/5597632/1993651/22993" width="160" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ##  Data Privacy and Security
 
  Customer interactions with Rufus are used for 28 days for additional testing and training to improve Rufus. After 28 days, the conversations are deleted and inaccessible by Amazon or the customer. An alternative for customers who want more data privacy is to delete their chat history immediately after use to prevent the chat from being reviewed by Amazon. You can do this by tapping the three dots in the right-hand corner of Rufus and accessing the "Manage Chats" options.
@@ -80,16 +88,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![Three screenshots that highlight the steps of tapping the three dots, tapping "Manage chat", and "Clear chat history".](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_20240628_225642_amazon-shopping.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe id="iframe_2127886" src="//a.impactradius-go.com/gen-ad-code/5597632/2127886/18498" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->
 ##  Other Rufus Notes
 
@@ -101,13 +106,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Rufus access from a product information page will suggest questions you can ask about that product, not including the price. At this point, I think we're all familiar enough with Amazon's product pages to scroll to the Q & A's and product specifications quicker than we can access Rufus. However, as Rufus develops, this ability may progress into something more useful.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## ![A screenshot of Rufus responding to a prompt with](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_20240628_213130_amazon-shopping-2.jpg) Prime Day Ready?
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  My first instinct was to judge Rufus harshly as unhelpful for Prime Day because it can not give prices. Prime Day is all about the prices! However, I got a lot of useful information from Rufus. In fact, I often jump for the Prime Day deals and end up returning a product that didn't meet my needs. Rufus could help me do a little more research before and during Prime Day to narrow down a wide selection of products and features. Rufus has proven helpful by making good suggestions and answering simple questions. It doesn't handle prices, and you can't use Rufus to buy things. However, I'd rather work with an AI that does one thing well than multiple things poorly. I'm optimistic that this rather painfully slow Rufus rollout means his quality will remain high. If you're in the US and on a mobile, give Rufus a try!
 

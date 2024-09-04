@@ -1,7 +1,7 @@
 ---
 title: Free Conversion Processes From LIT to EPUB for Enhanced eBook Accessibility
-date: 2024-08-20T22:45:27.193Z
-updated: 2024-08-21T22:45:27.193Z
+date: 2024-09-03T10:47:01.190Z
+updated: 2024-09-04T10:47:01.190Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/bc2d4277b292ae7f5948b4f932bd10c3a9f77d53f80591ecadf09ffda8a120cc.jpg
@@ -41,48 +41,48 @@ Firstly[download Calibre](http://calibre-ebook.com/download) and select a proper
 
 ![downlaod and install calibre](http://www.epubor.com/images/uppic/download-calibre-to-convert-lit-files.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ### Step2: Add Microsoft LIT Files to Calibre
 
 Drag and drop a few LIT e-book files into calibre, or click on the "Add Books" button at the upper left of the toolbar and browse for the LIT ebooks you want to work with. When you succeed in adding, the title of the ebook will show in the middle list.
 
 ![add lit files to calibre](http://www.epubor.com/images/uppic/add-lit-to-calibre.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Double click the file you want to select for a review before the ebook conversion.
 
 For DRM-free LIT files, you can open directly, then convert to ePub.
 
 ![open drm free lit files](http://www.epubor.com/images/uppic/open-free-drm-lit-with-calibre.jpg)
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_2135471" src="//a.impactradius-go.com/gen-ad-code/5597632/2135471/18498" width="728" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 But for DRM protected LIT files, it will pop up a window as the image shows below. This book is DRMed.
 
 ![open drm protected lit files](http://www.epubor.com/images/uppic/open-drmed-lit-with-calibre.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 So if also receive this dialog when converting lit to epub, maybe you should remove drm from lit files. 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ### Step 3: Convert LIT to EPUB: Calibre
 
 Select the lit files, then touch the "Convert books" button.
 
 ![convert LIT files](http://www.epubor.com/images/uppic/convert-lit-books.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Set "ePub" as output format at the new pop-up window. Then click "OK".
 
 ![convert lit to epub](http://www.epubor.com/images/uppic/convert-lit-to-epub.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 As the image shows, we can also set pdf as output format if we want to convert lit to pdf. Of course we can also convert lit to mobi and convert lit to azw. The formats calibre support are as below.
 
@@ -94,10 +94,19 @@ Look to the bottom of the right corner. As soon as you see the message "Jobs: 0"
 
 ![lit to epub converted](http://www.epubor.com/images/uppic/lit-to-epub-converted.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 After the conversion is completed, you can see the ebook cover, including the output format (ePub) and original format (LIT), then click "Click it to open" to get your books.
 
 ![click lit files to open](http://www.epubor.com/images/uppic/click-lit.jpg)
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_1424533" src="//a.impactradius-go.com/gen-ad-code/5597632/1424533/16446" width="728" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 Now you can transfer your converted LIT books to iPad, Nook, Sony e-reader, and so on. What do you think of this guide?
 
 Also Read
@@ -107,7 +116,10 @@ Also Read
 ![author](http://www.epubor.com/images/uppic/jonny.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) joined Epubor since 2011, loves everything about eBooks and eReaders. He seeks the methods to read eBooks more freely and wants to share all he has got with you.
 

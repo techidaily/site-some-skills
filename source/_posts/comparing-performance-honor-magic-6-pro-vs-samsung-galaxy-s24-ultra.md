@@ -1,7 +1,7 @@
 ---
 title: "Comparing Performance: Honor Magic 6 Pro Vs. Samsung Galaxy S24 Ultra"
-date: 2024-08-29T20:39:28.079Z
-updated: 2024-08-30T20:39:28.079Z
+date: 2024-09-03T10:46:54.889Z
+updated: 2024-09-04T10:46:54.889Z
 tags:
   - mobile
 categories:
@@ -107,5 +107,5 @@ Can a phone you probably haven't heard of beat Samsung at its own game?
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe id="iframe_1983446" src="//a.impactradius-go.com/gen-ad-code/5597632/1983446/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->

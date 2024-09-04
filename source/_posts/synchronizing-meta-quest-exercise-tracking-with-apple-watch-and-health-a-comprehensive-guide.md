@@ -1,7 +1,7 @@
 ---
 title: "Synchronizing Meta Quest Exercise Tracking with Apple Watch & Health: A Comprehensive Guide"
-date: 2024-08-29T20:46:26.048Z
-updated: 2024-08-30T20:46:26.048Z
+date: 2024-09-03T10:47:00.498Z
+updated: 2024-09-04T10:47:00.498Z
 tags:
   - cutting-edge
 categories:
@@ -30,9 +30,6 @@ Related: [10 Reasons You Might Want an Apple Watch Ultra](https://extra-approach
 
  Additionally, this connecting the Move app allows you to go without wearing your Apple Watch during a VR session, which may be more comfortable for you, depending on the type of VR activity.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ##  Do I Need Special VR Apps?
 
  One important thing to know about Meta Quest Move is that it tracks your activity throughout the entire VR session, regardless of what apps you're using or what you're doing. That means you don't have to buy special fitness-specific VR apps to benefit from the feature.
@@ -41,9 +38,6 @@ Related: [10 Reasons You Might Want an Apple Watch Ultra](https://extra-approach
 
 Related: [7 Video Games for Fitness and Exercise](https://screen-mirroring-recording.techidaily.com/in-2024-step-by-step-process-of-setting-up-your-logitech-webcam-for-video/) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Step 1: Set Up the Move App
 
  Before you can sync data to Apple Health, you have to enable the Move app on your headset. If you're already using Move, you can skip to [the next step](https://tech-revival.techidaily.com/ethical-engagement-chatgpt-for-emotional-support/).
@@ -52,16 +46,34 @@ Related: [7 Video Games for Fitness and Exercise](https://screen-mirroring-recor
 
 ![Quest VR App Library Button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/1-7.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Look for the Move app and open it.
 
 ![Quest Move App in Search Results of App Library](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/2-8.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If this is the first time you've opened Move, you'll be presented with a short introduction.
 
 ![Quest Move First Time Setup](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/3-6.png) 
 
  Follow the instructions to complete the first-time setup.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step 2: Sync Meta Quest Move Data to Apple Health
 
  Once the initial setup is done, you need to connect the Move app in your headset to the Quest mobile app on your [iPhone](https://review-topics.techidaily.com/play-mkv-movies-on-moto-g24-is-it-possible-by-aiseesoft-video-converter-play-mkv-on-android/). From the Move app, head to Settings and toggle "Connect Move to Oculus Mobile App."
@@ -73,28 +85,31 @@ Related: [7 Video Games for Fitness and Exercise](https://screen-mirroring-recor
 ![Quest App Open Explore tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/1-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Open Move by tapping on its widget in the Explore tab.
 
 ![Quest App Explore Tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/2-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Tap on "Connected Apps"
 
 ![Move App Connected Apps](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/3-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
  Toggle the "Apple Health" option on.
 
 ![Apple Health Toggle for Quest Move](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/6-6.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe id="iframe_1983474" src="//a.impactradius-go.com/gen-ad-code/5597632/1983474/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->
  Now your VR sessions will reflect in your Apple Health data. Finally, Beat Saber counts as real exercise!
 

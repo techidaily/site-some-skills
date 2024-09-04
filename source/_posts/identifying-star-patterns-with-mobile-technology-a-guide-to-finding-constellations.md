@@ -1,7 +1,7 @@
 ---
 title: "Identifying Star Patterns with Mobile Technology: A Guide to Finding Constellations"
-date: 2024-08-29T20:44:31.207Z
-updated: 2024-08-30T20:44:31.207Z
+date: 2024-09-03T10:46:59.124Z
+updated: 2024-09-04T10:46:59.124Z
 tags:
   - cutting-edge
 categories:
@@ -33,14 +33,17 @@ Related: [How Does My Phone Know Which Way I'm Holding It?](https://on-screen-re
  Stellarium also shows where planets, comets, satellites, and other deep space objects are in real time. You can even zoom in and out to get a different perspective on our planet. It's a great app to have in your back pocket.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe id="iframe_2135471" src="//a.impactradius-go.com/gen-ad-code/5597632/2135471/18498" width="728" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->
 ##  SkyView
 
 ![SkyView](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/2022-07-25_17-38-07.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Another great app for [Android](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU205103/https://play.google.com/store/apps/details?id=com.t11.skyviewfree&hl=en%5FUS), [iPhone](https://apps.apple.com/us/app/skyview-lite/id413936865), and [iPad](https://apps.apple.com/us/app/skyview-lite/id413936865) is SkyView. It's available for a one-time purchase price of $1.99, or you can use the "Lite" version for free. SkyView doesn't receive as many updates as Stellarium, but it still works well.
 

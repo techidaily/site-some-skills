@@ -1,7 +1,7 @@
 ---
 title: "Exploring Solana: The Emerging 'Ethereum Killer' Explained"
-date: 2024-08-29T20:44:28.507Z
-updated: 2024-08-30T20:44:28.507Z
+date: 2024-09-03T10:46:59.083Z
+updated: 2024-09-04T10:46:59.083Z
 tags:
   - cutting-edge
 categories:
@@ -30,9 +30,6 @@ Related: [What is Ethereum, and What Are Smart Contracts?](https://extra-informa
 
  Critics are quick to point out that Solana is more centralized by some definitions than other blockchains and therefore is somewhat removed from the core ethos of the [cryptocurrency](https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-itel-p40plus-phones-by-drfone-android/) movement that values decentralization and sovereignty. The Solana network has also suffered a few major outages which are largely being patched but still raises doubts in the eyes of some investors and users.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Architecture and Throughput** 
 
  The Solana blockchain is engineered to provide high performance when it comes to throughput. Solana uses a hybrid consensus mechanism to validate the chain based on a combination of a special proof-of-history (PoH) algorithm with the ultra-fast synchronization engine called proof of stake (PoS).
@@ -43,6 +40,9 @@ Related: [Proof of Work vs. Proof of Stake: What's the Difference?](https://grap
 
  Because of this, the Solana network can theoretically process over 710,000 transactions per second (TPS) without any scaling solutions needed. The design of Solana gives it a higher performance threshold than other chains, giving users the fast and cheap transactions they are used to when using web2 applications.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_2135471" src="//a.impactradius-go.com/gen-ad-code/5597632/2135471/18498" width="728" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## **Understanding the Solana (SOL) Token** 
 
  The native cryptocurrency for the Solana blockchain network is SOL, which functions as its utility token needed to pay for transaction fees for using the network, transferring value and compensation for providing security to the chain via staking. The SOL token launched in March 2020 and has since climbed to reach a market capitalization in the top 10 cryptocurrencies.
@@ -50,7 +50,10 @@ Related: [Proof of Work vs. Proof of Stake: What's the Difference?](https://grap
 ![Solana Token Distribution](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/Screen-Shot-2022-06-28-at-2.50.26-PM.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 _[The Tie Labs](https://research.thetie.io/solana-ecosystem/)_
 
@@ -66,15 +69,15 @@ _[The Tie Labs](https://research.thetie.io/solana-ecosystem/)_
 
  When Ethereum gas prices spike to high levels making it expensive to use the blockchain, then many cryptocurrency investors and traders look to other blockchains to conduct their trades and NFT trading. Solana's growth has benefitted from the high gas on Ethereum as users have fled to using Solana for [NFTs](https://sound-tweaking.techidaily.com/updated-2024-approved-mastering-echo-effects-implementing-reverb-in-digital-sound-environments-windows-edition/) and [decentralized finance (DeFi)](https://facebook-record-videos.techidaily.com/new-the-monetary-journey-of-ajey-nagar-on-youtube/) such as [yield farming](https://extra-tips.techidaily.com/updated-accelerate-with-these-key-windows-10-tricks/) or [staking](https://fox-cloud.techidaily.com/in-2024-syma-x5c-in-depth-guide-optimal-choice-to-lift-off-as-a-beginner/).
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **NFTs on Solana** 
 
 ![Solana Token Distribution](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/Screen-Shot-2022-06-28-at-2.50.26-PM.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 _[The Tie Labs](https://research.thetie.io/solana-ecosystem/)_
 
@@ -85,8 +88,10 @@ _[The Tie Labs](https://research.thetie.io/solana-ecosystem/)_
 ![Solana Token Distribution](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/Screen-Shot-2022-06-28-at-2.50.26-PM.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 _[The Tie Labs](https://research.thetie.io/solana-ecosystem/)_
 
@@ -94,19 +99,28 @@ _[The Tie Labs](https://research.thetie.io/solana-ecosystem/)_
 
  The performance of Solana has attracted game developers and there are several high-profile games in production that make use of NFTs including [STEPN](https://stepn.com/), a move-to-earn game, and [Star Atlas](https://staratlas.com/), which is an [MMORPG](https://driver-error.techidaily.com/re-establish-connection-with-devices-in-winnt-40/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Centralization Concerns** 
 
  Since Solana uses [Proof of Stake (PoS) versus Proof of Work (PoW)](https://graphic-issues.techidaily.com/blinking-void-after-graphic-patch/), there are different dynamics at play when it comes to determining the centralization of the validator network. If token accumulation by validators is the greatest factor in deciding who gets to validate the next block of transactions, then they are more likely to be rewarded with the block reward, which the compensation validators receive for securing the network.
 
  These can lead to a scenario in which the rich get richer as those entities or validators who already own an outsize amount of Solana tokens have a clear advantage of earning more than the average user who wants to validate the network. Around 60% of SOL tokens are controlled by Solana's founders and the Solana Foundation, with 38% reserved for the community.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Outages** 
 
 ![Solana Uptime Jan - March 2022](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/Screen-Shot-2022-06-28-at-1.11.14-PM.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 _[Solana Status](https://status.solana.com/uptime?page=2)_
 
  Solana blockchain has gone down, meaning it was inoperable, several times in the last six months. According to [Solana Status](https://status.solana.com/uptime), it has gone down 5 times in 2022\. Solana's worst outage so far was in early January 2022 -- this one lasted from January 6 to 12\. The network also saw another outage in late January and had a 96.4% uptime during the month.

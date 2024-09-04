@@ -1,7 +1,7 @@
 ---
 title: Steps to Disable Sound in Your Video Uploads on Instagram
-date: 2024-08-29T20:38:41.116Z
-updated: 2024-08-30T20:38:41.116Z
+date: 2024-09-03T10:46:54.315Z
+updated: 2024-09-04T10:46:54.315Z
 tags:
   - web
 categories:
@@ -37,7 +37,7 @@ Close
 Close 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe id="iframe_1977004" src="//a.impactradius-go.com/gen-ad-code/5597632/1977004/22993" width="160" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->
 ##  Removing Audio in Instagram Posts
 

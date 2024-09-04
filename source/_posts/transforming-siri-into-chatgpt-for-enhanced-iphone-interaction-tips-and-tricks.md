@@ -1,7 +1,7 @@
 ---
 title: "Transforming Siri Into ChatGPT for Enhanced iPhone Interaction: Tips and Tricks"
-date: 2024-08-29T20:46:34.398Z
-updated: 2024-08-30T20:46:34.398Z
+date: 2024-09-03T10:47:00.618Z
+updated: 2024-09-04T10:47:00.618Z
 tags:
   - cutting-edge
 categories:
@@ -28,6 +28,12 @@ thumbnail: https://thmb.techidaily.com/19760dde0975a0de0ce2cfe0db96677605f044bc9
 
  Siri can control your iPhone, but it's nowhere near as powerful as [ChatGPT](https://extra-resources.techidaily.com/new-capture-clarity-editing-insights-for-professional-results/). Fortunately, you can [add ChatGPT to your iPhone](https://change-location.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/) and talk to it with your voice, using Siri as a gateway to ChatGPT. Here's how.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2024333/7443" target="_top" id="2024333">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024333/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Add the ChatGPT Shortcut to Your iPhone
 
  ChatGPT Siri integration works using Apple's Shortcuts app and the OpenAI API. You can trigger the ChatGPT shortcut using Siri, after which you can dictate your request. This request is sent to OpenAI's servers, processed, and a response is returned to you. Note that using the OpenAI [API](https://extra-resources.techidaily.com/2024-approved-best-unsung-free-speech-to-text-apps-for-your-mac/) is not free---you'll get some sign-on credit to start with, but to keep using it, you'll eventually have to pay up, as we'll explain. (However, it's very cheap---much cheaper than even ChatGPT Plus.)
@@ -41,7 +47,10 @@ thumbnail: https://thmb.techidaily.com/19760dde0975a0de0ce2cfe0db96677605f044bc9
 ![Generate OpenAI API key](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/openAI_api_key.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  You can complete this next step on an iPhone, iPad, or Mac, and the Shortcut will sync between platforms. Head to the [ChatGPT Siri GitHub page](https://github.com/Yue-Yang/ChatGPT-Siri) and grab the latest version of the shortcut. You'll find it listed on the main page via a link for the "English Version." At the time of writing, the latest version is [ChatGPT Siri 1.2.4](https://www.icloud.com/shortcuts/5590188f4e2541fba4da79b425be6db2).
 
@@ -53,9 +62,6 @@ thumbnail: https://thmb.techidaily.com/19760dde0975a0de0ce2cfe0db96677605f044bc9
 
 ![Configure ChatGPT's prompt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/shortcut_prompt.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
  Lastly, select the model you want to use. You can choose between GPT-3.5 Turbo and GPT-4\. The former is cheaper in terms of API calls and faster, while GPT-4 is more advanced, requires more processing, and is slower.
 
 ![Select GPT model to use with your shortcut](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/select_model.jpg) 
@@ -64,19 +70,25 @@ thumbnail: https://thmb.techidaily.com/19760dde0975a0de0ce2cfe0db96677605f044bc9
 
 ![ChatGPT 1.2.4 shortcut within Apple's Shortcuts app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/chatgpt_shortcut_within_shortcuts.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
  It's a good idea to run the Shortcut manually on your iPhone before doing so via Siri. Hit the "ChatGPT 1.2.4" shortcut you just made and ask ChatGPT a random question (try "tell me a story"), then you'll get a prompt asking you to grant access to OpenAI's website, which you should accept.
 
 ![Grant your shortcut access to OpenAI's server](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/allow_access_to_web.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Finally, grant the shortcut access to your clipboard (so it can automatically copy responses to your clipboard). You should now see the response to your query appear in a window.
 
 Related: [How to Add ChatGPT to Your Apple Watch](https://fox-cloud.techidaily.com/new-step-by-step-process-for-gradual-audio-fading-in-premiere/) 
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Trigger ChatGPT Using Siri
 
@@ -84,21 +96,36 @@ Related: [How to Add ChatGPT to Your Apple Watch](https://fox-cloud.techidaily.c
 
 ![ChatGPT "At your service!" message](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/at_your_service.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  This is your cue to hit ChatGPT with a query. If you wait too long, Siri will stop listening and you'll see messages like "Still working..." and "One sec..." before being notified that "I'm having trouble with the connection" or similar.
 
 ![This happens when ChatGPT has timed out](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/chatgpt_timeout.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  For best results, consider naming your ChatGPT shortcut something else so that Siri better understands you. You can do this by launching Shortcuts on your iPhone, tapping and holding the Shortcut, and selecting "Rename" from the available options.
 
 ![Rename your ChatGPT shortcut in the Shortcuts](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/rename_chatgpt_shortcut.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Now Siri will run your ChatGPT shortcut using your new name. So if you rename the shortcut "GPT" you can say "Hey, Siri GPT" to start your chat.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe id="iframe_1834906" src="//a.impactradius-go.com/gen-ad-code/5597632/1834906/16836" width="728" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->
 ##  Use the ChatGPT Shortcut for Text Chats Too
 
@@ -114,16 +141,10 @@ Related: [How to Add ChatGPT to Your Apple Watch](https://fox-cloud.techidaily.c
 
 ![View OpenAI usage](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/openAI_usage.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
  You can see your current usage on the [OpenAI Usage page](https://platform.openai.com/account/usage). Each ChatGPT response amounts to a fraction of a cent, with a full breakdown available on the [OpenAI Pricing page](https://openai.com/pricing).
 
  Add your card details and set usage limits on the [OpenAI Billing page](https://platform.openai.com/account/billing/overview) if you want to continue using OpenAI's APIs.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Use ChatGPT in a Browser for Free
 
  If you've run out of OpenAI credit and don't fancy setting up a paid account to continue using ChatGPT via Siri, use the good old [ChatGPT website](https://chat.openai.com/chat) instead.
@@ -131,7 +152,7 @@ Related: [How to Add ChatGPT to Your Apple Watch](https://fox-cloud.techidaily.c
 ![ChatGPT browser verification](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/02/chatgpt_checking_browser.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe id="iframe_1977020" src="//a.impactradius-go.com/gen-ad-code/5597632/1977020/22993" width="160" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->
  You can [use the web-based version of ChatGPT for free](https://extra-resources.techidaily.com/new-capture-clarity-editing-insights-for-professional-results/) from a mobile device like your iPhone or a desktop web browser on a Mac or PC. It's subject to [limits on usage during busy periods](https://win-dash.techidaily.com/latest-update-get-your-logitech-g933-headset-software-here/) unless you're subscribed to ChatGPT Plus, and you'll need to log in and verify you're human to use it so it's not seamless like Siri integration.
 
@@ -141,6 +162,12 @@ Related: [How to Add ChatGPT to Your Apple Watch](https://fox-cloud.techidaily.c
 
  On the desktop, you'll need to use Microsoft Edge (at the time of writing), while mobile users are limited to the Bing apps for [iPhone](https://apps.apple.com/us/app/bing-your-ai-copilot/id345323231) and [Android](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU202224/https://play.google.com/store/apps/details?id=com.microsoft.bing). Download Bing for your iPhone, log in with an account that has Bing Chat access, and start chatting right away.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Why Use ChatGPT with Siri?
 
  Siri is useful for doing things with apps and services that reside on your iPhone. You can compose messages, place calls, add reminders, take new notes, launch apps, and even [restart your iPhone using Siri](https://extra-resources.techidaily.com/navigating-to-get-windows-movie-maker-6-installed/). Siri can handle simple web requests too, but it's simply not as good as Google's or Amazon's assistants in this regard.
@@ -153,9 +180,6 @@ Related: [Why ChatGPT Is Not a Replacement for Siri and Google Assistant](https:
 
  ChatGPT and other AI generative systems [aren't "thinking" or being creative in the way that human beings are](https://youtube-blog.techidaily.com/te-your-channel-vision-selecting-ideal-content-strategies/), rather they're predicting patterns based on the underlying language model.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ##  More ChatGPT Alternatives
 
 [Google Bard is another search-engine-driven AI chatbot](https://video-screen-grab.techidaily.com/new-master-the-art-of-gameye-and-webcam-recordings/) you might want to try if Bing isn't cutting it. OpenAI Playground, GitHub CoPilot, and Jasper are among some of the [other ChatGPT alternatives you might want to try](https://screen-mirroring-recording.techidaily.com/in-2024-3-must-know-methods-to-record-on-your-ipad/).

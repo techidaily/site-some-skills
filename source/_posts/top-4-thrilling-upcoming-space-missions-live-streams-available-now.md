@@ -1,7 +1,7 @@
 ---
 title: "Top 4 Thrilling Upcoming Space Missions: Live Streams Available Now!"
-date: 2024-08-29T20:46:31.708Z
-updated: 2024-08-30T20:46:31.708Z
+date: 2024-09-03T10:47:00.579Z
+updated: 2024-09-04T10:47:00.579Z
 tags:
   - cutting-edge
 categories:
@@ -34,7 +34,10 @@ _[NASA](https://www.nasa.gov/feature/goddard/2022/volunteers-worldwide-to-track-
  The launch has already been pushed back several times, due to technical problems and weather. The first launch window was [set for August 29, 2022](https://blogs.nasa.gov/artemis/2022/08/28/mission-management-team-go-to-proceed-with-tanking-for-artemis-i-mission/), but it was [cancelled](https://blogs.nasa.gov/artemis/2022/08/29/launch-attempt-scrubbed/) due to detected problems with cooling an engine. NASA tried again on September 3, but [stopped](https://blogs.nasa.gov/artemis/2022/09/03/artemis-i-launch-attempt-scrubbed/) due to a liquid hydrogen leak in the core stage, then the rocket was [rolled back](https://blogs.nasa.gov/artemis/2022/09/27/nasas-moon-rocket-and-spacecraft-arrive-at-vehicle-assembly-building-2/) into the Vehicle Assembly Building as [Hurricane Ian](https://en.wikipedia.org/wiki/Hurricane%5FIan) approached Florida. It's now back on the launchpad, but there's still a chance that Tropical Storm Nicole could [change NASA's plans again](https://blogs.nasa.gov/artemis/2022/11/08/nasa-prepares-rocket-spacecraft-ahead-of-tropical-storm-nicole-re-targets-launch/).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Cargo Dragon Launch: November 18, 2022
 
@@ -45,19 +48,20 @@ _[NASA](https://www.nasa.gov/feature/goddard/2022/volunteers-worldwide-to-track-
 ![Photo of SpaceX Falcon 9 rocket with Dragon launch](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/space_x_resupply_for_advisory_oct_25.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 _[NASA](https://blogs.nasa.gov/spacex-crs-26/2022/11/03/nasa-invites-media-to-spacexs-26th-resupply-launch-to-space-station/)_
 
  The current launch is targeted for November 18, and will take place at Launch Complex 39A at NASA's Kennedy Space Center in Florida. SpaceX will likely show a livestream on [its YouTube channel](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU203665/https://www.youtube.com/c/SpaceX), and the launch may also appear on the [NASA app](https://www.nasa.gov/connect/apps.html), the [agency's website](https://www.nasa.gov/live), and the [NASA YouTube channel](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU203665/https://www.youtube.com/c/NASA).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Intuitive Machines Moon Payload: December 22, 2022
 
@@ -68,14 +72,20 @@ _[NASA](https://blogs.nasa.gov/spacex-crs-26/2022/11/03/nasa-invites-media-to-sp
 ![Render image of the Intuitive Machines Nova-C lander](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/im-3_moonscape_logo-Large.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Render image of the Intuitive Machines Nova-C lander
 
  The launch is currently scheduled for December 22, 2022, using a SpaceX Falcon 9 rocket. Because SpaceX is handling the launch, there will likely be a livestream on [SpaceX's YouTube channel](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU203665/https://www.youtube.com/c/SpaceX), or possibly a stream on the [NASA YouTube channel](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU203665/https://www.youtube.com/c/NASA).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Boeing Crew Flight Test: April 2023
 
@@ -83,6 +93,12 @@ Render image of the Intuitive Machines Nova-C lander
 
 ![Photo of Barry “Butch” Wilmore and Sunita “Suni” Williams in front of a plane](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/Boeing-for-CCP-blog-768x512.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 _[NASA / Robert Markowitz](https://blogs.nasa.gov/commercialcrew/category/boeing/)_
 
  The first Boeing Crew Flight Test (CFT) is [scheduled for sometime in April 2023](https://blogs.nasa.gov/commercialcrew/category/boeing/), launched with an Atlas V rocket. NASA has selected [Barry Eugene Wilmore](https://en.wikipedia.org/wiki/Barry%5FEugene%5FWilmore) and [Sunita Williams](https://en.wikipedia.org/wiki/Sunita%5FWilliams) as the crew, both of whom previously flew on Space Shuttle missions, with [Michael Fincke](https://en.wikipedia.org/wiki/Michael%5FFincke) as a backup. If all goes well, Starliner will fly to the International Space Station, then return to Earth in the same ship after a week.
@@ -93,9 +109,6 @@ Related: [The James Webb Telescope Just Captured the "Pillars of Creation"](http
 
  April 2023 is a while away, but the launch will probably be broadcasted on the [NASA app](https://www.nasa.gov/connect/apps.html), the [agency's website](https://www.nasa.gov/live), and the [NASA YouTube channel](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU203665/https://www.youtube.com/c/NASA).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  CAPSTONE: Entering Orbit November 13, 2022
 
  Cislunar Autonomous Positioning System Technology Operations and Navigation Experiment, or CAPSTONE for short, is a small satellite about the size of a microwave oven. The rocket launch was back on July 4, 2022, so there's no exciting upcoming livestream for this one -- this is more of an honorary mention, since the satellite hasn't reached its target yet.

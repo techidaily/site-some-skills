@@ -1,7 +1,7 @@
 ---
 title: ARM-Based Windows Computers Now Come with Built-In Support for Google Chrome
-date: 2024-08-29T20:40:51.100Z
-updated: 2024-08-30T20:40:51.100Z
+date: 2024-09-03T10:46:56.091Z
+updated: 2024-09-04T10:46:56.091Z
 tags:
   - desktop
 categories:
@@ -96,5 +96,8 @@ Microsoft has been selling Windows 10 and Windows 11 PCs with ARM chips instead 
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

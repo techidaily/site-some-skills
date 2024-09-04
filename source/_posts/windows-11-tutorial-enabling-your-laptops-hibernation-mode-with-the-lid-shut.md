@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Tutorial: Enabling Your Laptop's Hibernation Mode with the Lid Shut"
-date: 2024-08-29T20:44:10.306Z
-updated: 2024-08-30T20:44:10.306Z
+date: 2024-09-03T10:46:58.871Z
+updated: 2024-09-04T10:46:58.871Z
 tags:
   - deals
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
  If you'd like to use your Windows 11 laptop with an [external monitor](https://desktop-recording.techidaily.com/updated-in-2024-in-depth-guide-to-2023s-leading-web-capture-applications/), mouse, and keyboard, it's often nice to keep the lid closed. Here's how to close the lid [without](https://youtube-docs.techidaily.com/ring-the-art-of-youtube-closings-inclusive-guide-for-2024/) putting your PC to sleep.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe id="iframe_1424529" src="//a.impactradius-go.com/gen-ad-code/5597632/1424529/16446" width="728" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->
 ##  Prevent Your Laptop from Shutting Down When You Close the Screen
 
@@ -33,14 +33,20 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
 ![In Windows 11, right-click the Start button and select "Settings."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/win11_right_click_start_settings.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  In Settings, click the search bar and type "lid," then click the "Change what closing the lid does" result that appears beneath it.
 
 ![In Settings, type "lid" in the search box, then click "Change what closing the lid does."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/search_lid_1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  A "System Settings" window will open (this is part of [Control Panel](https://facebook-clips.techidaily.com/seamless-media-exchange-transferring-facebook-content-to-whatsapp-for-2024/), which is the legacy setup program for Windows.) Under "Power and sleep buttons and lid settings," you'll see several options that let you choose what happens when you press the power or sleep buttons on your device.
 
@@ -51,19 +57,28 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
 ![In the "When I close the lid" drop-down menu for the power setting you want, select "Do Nothing."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/select_do_nothing.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  After that, click the "Save Changes" button at the bottom of the window.
 
 ![Click "Save Changes."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/click_save_changes.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  These changes will apply to all of your [power plans](https://apple-account.techidaily.com/how-to-unlink-your-iphone-11-pro-max-from-your-apple-id-by-drfone-ios/). When you're ready, close the "System Settings" and "Settings" windows. To test it out, plug your laptop into an external monitor and close the lid. If the video stays on, you'll know that you configured it properly. 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Does Keeping Your Laptop Running Hurt the Battery? 
 

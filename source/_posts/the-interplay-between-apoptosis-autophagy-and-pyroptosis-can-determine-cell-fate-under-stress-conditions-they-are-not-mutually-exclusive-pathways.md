@@ -1,7 +1,7 @@
 ---
 title: The Interplay Between Apoptosis, Autophagy, and Pyroptosis Can Determine Cell Fate Under Stress Conditions; They Are Not Mutually Exclusive Pathways.
-date: 2024-08-29T20:40:09.108Z
-updated: 2024-08-30T20:40:09.108Z
+date: 2024-09-03T10:46:55.481Z
+updated: 2024-09-04T10:46:55.481Z
 tags:
   - mobile
 categories:
@@ -119,5 +119,8 @@ The Google Pixel 9 Pro XL offers an expansive 6.8-inch Super Actua display, comb
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

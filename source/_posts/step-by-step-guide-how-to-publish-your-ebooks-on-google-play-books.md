@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: How to Publish Your Ebooks on Google Play Books"
-date: 2024-08-20T22:45:43.139Z
-updated: 2024-08-21T22:45:43.139Z
+date: 2024-09-03T10:47:01.356Z
+updated: 2024-09-04T10:47:01.356Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/3268231cc2e746a9acbe27cd5a06636ae1bf5dfa48dd515083acffe73b657f8a.jpg
@@ -174,6 +174,5 @@ Leave a comment
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe id="iframe_1982508" src="//a.impactradius-go.com/gen-ad-code/5597632/1982508/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->

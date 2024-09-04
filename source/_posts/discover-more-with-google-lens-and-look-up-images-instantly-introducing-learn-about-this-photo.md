@@ -1,7 +1,7 @@
 ---
 title: Discover More with Google Lens & Look Up Images Instantly - Introducing 'Learn About This Photo'
-date: 2024-08-29T20:38:56.234Z
-updated: 2024-08-30T20:38:56.234Z
+date: 2024-09-03T10:46:54.495Z
+updated: 2024-09-04T10:46:54.495Z
 tags:
   - web
 categories:
@@ -82,5 +82,5 @@ Google
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe id="iframe_1983588" src="//a.impactradius-go.com/gen-ad-code/5597632/1983588/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->

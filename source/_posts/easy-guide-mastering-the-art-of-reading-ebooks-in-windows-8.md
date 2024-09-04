@@ -1,7 +1,7 @@
 ---
 title: "Easy Guide: Mastering the Art of Reading eBooks in Windows 8"
-date: 2024-08-20T22:46:42.695Z
-updated: 2024-08-21T22:46:42.695Z
+date: 2024-09-03T10:47:02.095Z
+updated: 2024-09-04T10:47:02.095Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/373ffad1cf53faed0d680dfb4d0a7667079f49182ce78c94936651febf489146.jpg
@@ -40,7 +40,10 @@ Get the Kindle app running on windows 8\. Using your Amazon Account to register 
 After you register the Kindle app, all the Kindle books you purchased under your account will be synced automatically. The kindle books will be listed for you.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Read EPUB & PDF eBooks on Windows 8 
 
@@ -51,7 +54,10 @@ You can get specific software to read epub and pdf ebooks correspondingly which 
 ![read ebooks on windows 8](http://www.epubor.com/images/uppic/read-ebooks-on-windows-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  The epub books here have to be DRM-free ones. For reading epub ebooks on Windows 8, [Metro Reader](https://www.microsoft.com/en-us/store/p/metro-reader/9nblggh08czx) is the first off-line ebook reader for it. Metro Reader supports epub and txt formats. There are two reading modes provided: the day mode & the night mode. You can choose it as you need. And the snap mode is of course indispensable. The Table of Contents is supported (only for epub books). Besides, CoverFlow and GridView are supported in it. The font size of the content is customizable, so you can change it as you like. When reading your epub books with it, you can set it as the one-page mode or the two-page mode. Very flexible, right? It sells $2.99 now and free trial is available.
 
@@ -60,7 +66,7 @@ You can get specific software to read epub and pdf ebooks correspondingly which 
 ![read pdf on win 8](http://www.epubor.com/images/uppic/read-pdf-on-win-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe id="iframe_1975658" src="//a.impactradius-go.com/gen-ad-code/5597632/1975658/22993" width="160" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->
 For reading pdf ebooks on Windows 8, a nice choice would be [Adobe Reader.](http://apps.microsoft.com/windows/en-US/app/adobe-reader/162a2931-8ee6-4a56-9570-53282525d7a3)It's free in Windows app store, so this can be an advantage of it. There is nothing better than freebies. This software works perfectly with Windows 8 operating system. It opens your pdf files quickly (including password-protected but non-DRM pdfs). This software offers many functions to help users get a better reading experience. For example, you can take notes when you are reading. 
 
@@ -100,7 +106,10 @@ Related Articles
 ![author](https://www.epubor.com/images/uppic/1-22-2013 12-03-06 AM.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 [Ada Wang](https://plus.google.com/+AdaWang/posts) works for Epubor and writes articles for a collection of blogs such as ebookconverter.blogspot.com.
 

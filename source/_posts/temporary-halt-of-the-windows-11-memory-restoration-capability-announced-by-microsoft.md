@@ -1,7 +1,7 @@
 ---
 title: Temporary Halt of the Windows 11 Memory Restoration Capability Announced by Microsoft
-date: 2024-08-29T20:42:56.750Z
-updated: 2024-08-30T20:42:56.750Z
+date: 2024-09-03T10:46:57.929Z
+updated: 2024-09-04T10:46:57.929Z
 tags:
   - deals
 categories:
@@ -82,5 +82,8 @@ With Copilot+ PCs, Microsoft also announced a huge AI-fueled feature for Windows
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary 3D Ink Requires Just Saltwater: No Light or Heat Needed"
-date: 2024-08-29T20:45:33.379Z
-updated: 2024-08-30T20:45:33.379Z
+date: 2024-09-03T10:46:59.912Z
+updated: 2024-09-04T10:46:59.912Z
 tags:
   - cutting-edge
 categories:
@@ -96,5 +96,5 @@ A multinational team of researchers has developed a novel 3D printing ink that c
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe id="iframe_1993647" src="//a.impactradius-go.com/gen-ad-code/5597632/1993647/22993" width="160" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->

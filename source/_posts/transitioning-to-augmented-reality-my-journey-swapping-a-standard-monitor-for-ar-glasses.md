@@ -1,7 +1,7 @@
 ---
 title: "Transitioning to Augmented Reality: My Journey Swapping a Standard Monitor for AR Glasses"
-date: 2024-08-29T20:45:47.472Z
-updated: 2024-08-30T20:45:47.472Z
+date: 2024-09-03T10:47:00.083Z
+updated: 2024-09-04T10:47:00.083Z
 tags:
   - cutting-edge
 categories:
@@ -30,7 +30,10 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
 Bertel King / How-To Geek
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  I Sit With Better Posture
 
@@ -46,11 +49,14 @@ Bertel King / How-To Geek
 
 ![A desk without a monitor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/1000061003.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Bertel King / How-To Geek
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  I Love the Portability
 
  I was quick to embrace netbooks. I've experimented several times with using a tablet as a laptop replacement. I once carried around a [Toshiba Thrive](https://www.amazon.com/Toshiba-Thrive-10-1-Inch-Android-AT105-T1016/dp/B0052P6DQI?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003316&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fi-replaced-my-computer-monitor-with-ar-glasses-heres-how-it-went%2F&asc%5Fcampaign=Evergreen) running Android Honeycomb because it had a full-size USB port for flash drives and an SD card slot for getting photos off my camera.
@@ -62,14 +68,17 @@ Bertel King / How-To Geek
 ![A Samsung Galaxy Z Fold 5, XREAL Air 2 Pro AR Glasses, and glasses case.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/1000061021.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe id="iframe_1424529" src="//a.impactradius-go.com/gen-ad-code/5597632/1424529/16446" width="728" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->
 Bertel King / How-To Geek
 
  To play games, I also grab a controller. For work, I also pack a keyboard and mouse. None of these things are particularly big. The keyboard is the only one I don't bring with me when packing up a laptop.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Awkward Social Interactions
 
@@ -77,9 +86,6 @@ Bertel King / How-To Geek
 
  Wearing AR glasses is a bit like making a switch from Bluetooth speakers to Bluetooth earbuds. The former tunes people in to what you're listening to, while the latter is completely private. The thing is, while we've had decades to get used to this with audio, it's pretty new for video. When I'm alone, AR glasses are awesome, but I feel weird when I'm wearing them around others.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Great for Working Around Kids
 
  Little kids are in some ways an exception. They don't really know what's normal. They're learning that from us. When I tell them my glasses have screens, and I'm watching a video, they kind of shrug that off. They find that easier to understand than the fact that the video on their tablet comes from something called the internet which stops working if the Wi-Fi is down. I invite you to try to explain buffering to a kid (and if they buy it, please tell me how you did it!).
@@ -89,7 +95,10 @@ Bertel King / How-To Geek
  With the glasses on, I can look at my toddler while she rambles and give her a hug. I can keep my eyes focused on whatever Slack conversation I was in the middle of following or continue watching the clip that I was considering inserting into an article. It feels wrong, not giving them my undivided attention. At the same time, I need to work and they're not letting me. The fact that the glasses help me turn toward them more quickly probably makes them feel like I'm giving them more attention, even if my attention is split. Is that better or worse? I don't know, but at least they get the hug.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Your Own Portable, Private Home Theater
 
@@ -99,6 +108,12 @@ Bertel King / How-To Geek
 
  Playing video games is arguably even better. Games that don't play nice with my foldable's aspect ratio look just fine on the standard 16:9 ratio of the glasses. With just a game controller, I can feel like I'm sitting in front of a console wherever I am.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  All Isn't Perfect
 
  These are glasses, not goggles, which means I can see around the lenses at all times. While I can block out some of my peripheral vision using the included clasp-on cover, it's never one hundred percent. That's why the experience feels more like a portable home theater rather than [working in a virtual environment](https://screen-capture.techidaily.com/in-2024-budget-friendly-interactive-face-to-face-games/).

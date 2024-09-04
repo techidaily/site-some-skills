@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Personalizing Your Windows 11 Taskbar"
-date: 2024-08-29T20:42:53.897Z
-updated: 2024-08-30T20:42:53.897Z
+date: 2024-09-03T10:46:57.891Z
+updated: 2024-09-04T10:46:57.891Z
 tags:
   - deals
 categories:
@@ -38,20 +38,38 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
  We've taken a look at customizing the [Start menu](https://visual-screen-recording.techidaily.com/new-2024-approved-groundbreaking-6-modern-mc-residentials/) and the [Action Center](https://instagram-clips.techidaily.com/new-2024-approved-unlock-efficiency-cutting-edge-techniques-for-cropping-and-exporting-videos/) in Windows 10\. Now, it's time to tackle the taskbar. With just a little bit of work, you can tweak the taskbar to get it running just how you like it.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_1983472" src="//a.impactradius-go.com/gen-ad-code/5597632/1983472/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ##  Pin Apps to the Taskbar
 
  The simplest way to customize your taskbar is by pinning various apps and shortcuts to it so that you can access them more quickly in the future. There are two ways to do this. The first is to open the program, either from the Start menu or an existing shortcut. When the app's icon appears on the taskbar to indicate it's running, right-click the icon and select the "Pin to taskbar" option from the context menu.
 
 ![Right-click the icon of an open app and select "Pin to Taskbar."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-pin-app-ot-taskbar.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The second way to pin an app to the taskbar does not require the app to be running first. Find the app on the Start menu, right-click the app, point to "More," and then choose the "Pin to taskbar" option you find there. You could also drag the app icon to the taskbar if you prefer doing it that way.
 
 ![Right-click an app, go to "More," then select "Pin to Taskbar."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-select-app-more-pin.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  This will immediately add a new shortcut for the app to the taskbar. To remove an app from the taskbar, right-click the pinned app and choose the "Unpin from taskbar" option.
 
 ![Right-click a pinned icon, then select "Unpin from Taskbar" to remove it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-unpin-from-taskbar.png) 
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_1975562" src="//a.impactradius-go.com/gen-ad-code/5597632/1975562/22993" width="160" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ##  Pin a File or Folder to Taskbar Jump Lists
 
  Windows also provides an easy way to get access to folders — and individual files — on your taskbar. Jump lists are handy context menus associated with each pinned app that show certain actions you can perform with the app and, for apps where it's applicable, also show a list of recent files and folders you've accessed. You can view an app's jump list by right-clicking an icon.
@@ -60,9 +78,6 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
 ![Click the pin next to a folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/4-pin-to-this-list.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  By the way, if you want to view the conventional context menu for an icon on the taskbar, hold the Shift key while right-clicking the icon. This is particularly useful for configuring any folder shortcuts you've pinned there. And this is just one of the [many useful keyboard shortcuts](https://fox-links.techidaily.com/new-free-10-high-quality-passport-photos-available-here-for-2024/) you can use with the taskbar.
 
  When you've pinned items to a jump list, those items appear separately from recent items. All you have to do is click one of them to open that folder. And of course, exactly what you see on a jump list depends on the app. Apps like Notepad or Microsoft Word show recently opened files. A jump list for your browser might show favorite sites and provide actions for opening new tabs or windows.
@@ -80,7 +95,10 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
  Choose the "Hidden" option to remove both the search box and icon or choose "Show Search Icon" to have just the icon on the taskbar.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Remove the Task View Button
 
@@ -88,12 +106,21 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
 ![The results of clicking the Task View button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-task-view-button.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030385/7443" target="_top" id="2030385">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030385" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030385/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  But you don't need a button to do this. Simply press Windows+Tab to access the same interface. To save a little taskbar space and get rid of the button, right-click the taskbar and turn off the "Show Task View button" option.
 
 ![Right-click the Taskbar and untick "Show Task View button."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/7-show-task-view-button.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Hide System Icons in the Notification Area
 
@@ -105,9 +132,6 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
 ![Some system icons that can be toggled.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/13-system-icons.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Hide Application Icons in the Notification Area
 
  Many of the apps you install in Windows are designed to run in the background. They're not things you need to interact with regularly, so instead of appearing directly on your taskbar, their icons are relegated to the Notification area. This lets you know they're running and gives you quick access when you need it. A few of these appear right in the Notification Area to the left of the clock. Others are hidden, but you can see them by clicking the up arrow to the left.
@@ -119,41 +143,50 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 ![Drag icon in or out of the hidden area.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/11-drag-icon-off.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  You can also work with these icons through the settings interface. Right-click any open area of the taskbar and choose the "Settings" option. Scroll down and click the "Select which icons appear on the taskbar" link.
 
 ![Click "Select Which Icons Appear on the Taskbar."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/8-taskbar-settings.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030381/7443" target="_top" id="2030381">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030381" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030381/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you want to remove the hidden area and see all the icons all the time, turn on the "Always show all icons in the notification area" option. If you leave that setting off, you can also run through the list and turn individual apps on or off. Just note that turning an app off here doesn't remove it from the Notification Area altogether. When an app is turned off, it shows up in the hidden area. When it's on, it shows up in the main Notification Area.
 
 ![A list of toggleable icons that can appear on your Taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/9-taskbar-icons.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ##  Move the Taskbar to a Different Edge of the Screen
 
  The bottom edge of the screen is the default location of the taskbar in Windows 10, but you can move it. If you've got an extra-wide display — or multiple displays — you may find it nicer having the taskbar on the right or left edge of a display. Or maybe you prefer it at the top. You can move the taskbar in one of two ways. The first is just to drag it. Right-click the taskbar and turn off the "Lock the taskbar" option. If you have multiple displays you'll see "Lock All Taskbars" instead.
 
 ![Select "Lock All Taskbars" or "Lock the Taskbar."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/14-lock-all-taskbars.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Then, you can grab the taskbar in an empty area and drag it to any edge of your display.
 
 ![Taskbar on the left side of the screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/15-desktop-w-vert-taskbar.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
  The other way to change the taskbar location is through the settings interface. Right-click on any empty area of the taskbar and choose "Taskbar Settings." In the taskbar settings window, scroll down and find the "Taskbar location on screen" drop-down menu. You can choose any of the four sides of the display from this menu.
 
 ![Click the drop-down menu to change the Taskbar location.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/16-taskbar-location.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Change the Size of the Taskbar
 
@@ -161,18 +194,30 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
 ![Click the Taskbar's edge and drag to resize it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/17-huge-taskbar.png) 
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_2135472" src="//a.impactradius-go.com/gen-ad-code/5597632/2135472/18498" width="728" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ##  Use Small Icons to Fit More on the Taskbar
 
  If you want a few more icons on your taskbar, but aren't keen on resizing it, you can configure Windows 10 to show small taskbar icons. Right-click on any empty area of the taskbar and click "Taskbar Settings." In the settings window, turn on the "Use small taskbar icons" option.
 
 ![Go to the "Taskbar" section, then select "Use Small Taskbar Icons."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/18-use-small-taskbar-icons.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  As you can see, almost everything is the same except that the icons are smaller and you can cram a few more into the space. One difference you should note is that when you're using the smaller icons, the taskbar itself shrinks a bit vertically. As a result, only the clock is shown and not the date as well. But you can always hover your mouse over the clock or click it to check the date. This also applies if you've set your taskbar to display labels instead of just icons.
 
 ![Tiny taskbar labels and icons.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/19-small-taskbar-icons.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Show Labels for Taskbar Icons
 
@@ -180,6 +225,12 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
 ![The "Combine Taskbar Buttons" options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/20-set-combine-taskbar-labels-to-never.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The menu gives you three choices:
 
 * **Always, hide labels**. This is the Windows default setting. When it's selected, all windows for an app are grouped on the taskbar, and no labels are shown.
@@ -192,9 +243,6 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
 ![Select "Personalization."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/21-perosnalization.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In the Personalization window, scroll down until you see the colors.
 
  You'll see two options for controlling the taskbar — along with the Action Center and Start menu. Use the "Transparency Effects" toggle to choose whether those items should be transparent or opaque. When the "Start, taskbar, and action center" option is turned off, those items use the default black color. When you turn that option on, those items use the color you've picked in the color chooser at the top or, if you have the "Automatically pick an accent color from my background" option turned on, the color Windows has chosen.
@@ -202,12 +250,18 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 ![Tick "Start, Taskbar, and action center."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/22-taskbar-color.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  By the way, Windows doesn't offer any controls to adjust the transparency of the taskbar, Start menu, and Action Center. If you don't mind making a quick Registry hack, though, you can [make those items a bit more transparent](https://extra-resources.techidaily.com/best-value-for-money-selecting-the-leading-free-srt-services-for-2024/) than the default.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Enable the Peek Feature
 
@@ -215,15 +269,8 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
 ![Use peak option on Windows 10 taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/23-use-peak.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  With the Peek option turned on, you can move your mouse to the tiny sliver of space at the far right of the taskbar to hide all your windows and show you your desktop. When you move the mouse away, your windows return to their previous state. You can also click this area to automatically minimize all your windows so that you can actually do things on the desktop. Click the area again to restore your windows. You can also use the Windows+D keyboard shortcut to do the same thing as clicking the Peek area.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Add a Toolbar to the Taskbar
 
  Windows also allows you to add toolbars to the taskbar. A toolbar is essentially a shortcut to a folder on your system, but the shortcut is displayed as the same kind of toolbar you might see in a browser or other app. You can access toolbars by right-clicking the taskbar and then pointing to the "Toolbars" submenu.
@@ -231,8 +278,10 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 ![Right-click the taskbar and select "Toolbars."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/24-toolbars-w10.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  There are three toolbars built in:
 
@@ -244,18 +293,12 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
  You can also add a custom toolbar that points to any folder on your system. This can be a great way of adding quick, taskbar access to items you regularly need. To create a toolbar, all you have to do is select the "New toolbar" option from the Toolbars submenu and point it to a folder.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ##  Configure the Taskbar for Multiple Displays
 
  If you use multiple displays, you'll be happy to know that Windows 10 includes decent customization controls for using your taskbar across multiple monitors. You can have a taskbar shown on only one display, a single taskbar stretched across all displays and even a separate taskbar for each display that only shows the apps open on that display. To tweak all this, right-click any open area of the taskbar and choose "Taskbar Settings." In the settings window, scroll all the way to the bottom to find the controls for multiple displays.
 
 ![The options for controlling the Taskbar on multiple displays.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/25-multiple-displays.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you leave the "Show taskbar on all displays" option turned off — which is the default setting — then you'll see a single taskbar on your primary monitor only. All open windows for apps are shown on that taskbar, regardless of which display the windows are open on. Turn that option on to have a taskbar shown on all your displays and also open up the other options below.
 
  The "Show taskbar buttons on" drop-down menu contains three options:

@@ -1,7 +1,7 @@
 ---
 title: "The Next-Gen Leap for Gamers: Microsoft's DXR API Redefining PC Resolution and Performance"
-date: 2024-08-29T20:44:45.529Z
-updated: 2024-08-30T20:44:45.529Z
+date: 2024-09-03T10:46:59.313Z
+updated: 2024-09-04T10:46:59.313Z
 tags:
   - cutting-edge
 categories:
@@ -80,6 +80,5 @@ Upscaling technology can greatly enhance the PC gaming experience, particularly 
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe id="iframe_1983446" src="//a.impactradius-go.com/gen-ad-code/5597632/1983446/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->

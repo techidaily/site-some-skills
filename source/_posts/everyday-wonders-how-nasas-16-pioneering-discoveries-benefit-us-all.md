@@ -1,7 +1,7 @@
 ---
 title: "Everyday Wonders: How NASA's 16 Pioneering Discoveries Benefit Us All"
-date: 2024-08-29T20:46:05.338Z
-updated: 2024-08-30T20:46:05.338Z
+date: 2024-09-03T10:47:00.294Z
+updated: 2024-09-04T10:47:00.294Z
 tags:
   - cutting-edge
 categories:
@@ -51,6 +51,12 @@ NASA/Photobit
 
  Their research and persistence paved the way for the tiny sensors found in your cellphone as well as numerous other applications like compact home security cameras, video doorbells, dash cams, and anywhere else you need a tiny camera package but big results.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2024347/7443" target="_top" id="2024347">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024347/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Memory Foam
 
 ![A photo of a NASA Space Shuttle and a hand compressing some memory foam.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NASAInnovations6.jpg) 
@@ -63,14 +69,6 @@ NASA/Dynamic Systems
 
  It took a few years and a few revisions to the original foam formula---mostly to tweak it to be less insulative---but eventually, memory foam became ubiquitous. You'd be hard-pressed to find a household in America that doesn't have one (or a dozen) things with memory foam.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ##  Wireless Headphones
 
 ![A photo of Neil Armstrong and a wireless headset used during the Apollo missions.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NASAInnovations7.jpg) 
@@ -85,30 +83,15 @@ NASA/Poly
 
  This led to a long collaboration between Plantronics and NASA, resulting in a variety of innovations in miniaturization, improved wireless communication, noise canceling, and a variety of [wireless headphone benefits](https://ios-unlock.techidaily.com/locked-out-of-apple-iphone-xs-max-5-ways-to-get-into-a-locked-apple-iphone-xs-max-by-drfone-ios/) we all enjoy today.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ##  Clamshell Laptops
 
 ![An example of the GRiD Compass laptop from a museum collection and in space.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NASAInnovations2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 The Smithsonian Insitute/NASA
 
@@ -128,10 +111,19 @@ NASA/Foster Grant
 
  In a bid to make astronauts' helmet visors [more protective against ultraviolet light](https://spinoff.nasa.gov/Spinoff2006/ch%5F6.html) and more resistant to scratching, NASA researchers, working along with the Foster Grant eyeglass company, advanced both fronts significantly. Since the early 1980s, the [non-scratch coatings created by Theodore Wydeven](https://www.spacefoundation.org/space%5Ftechnology%5Fhal/scratch-resistant-lenses/) at NASA's Ames Research Center have been applied to millions of eyeglasses and other surfaces---first on pairs of Foster Grant sunglasses and shortly after on practically everything.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  LED Innovations
 
 ![LED grow lights in space and an LED healing lamp.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NASAInnovations9.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_1982459" src="//a.impactradius-go.com/gen-ad-code/5597632/1982459/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 NASA
 
  NASA didn't invent the LED. The history of prototypical LED winds all the way back to the early 20th century, and the LED as we know it now was first invented by General Electric scientist Nick Holonyak, Jr. in 1962.
@@ -141,14 +133,20 @@ NASA
  In fact, the latter research has found its way into home lighting design and even sleep tools and apps. When you set up a sleep routine with your Philips Hue lights or fire up an app like Sleep Cycle, you're tapping into decades of [NASA research on the subject](https://spinoff.nasa.gov/Spinoff2019/cg%5F8.html).
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Infrared Thermometers
 
 ![A deep space telescope and a woman getting her temperature checked with an ear probe.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NASAInnovations1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 iHealth/Apple/Invisalign
 
@@ -159,12 +157,15 @@ iHealth/Apple/Invisalign
  The technology eventually made its way into everything from [the thermometers we use when we're sick](https://www.amazon.com/iHealth-Thermometer-Vibration-Notification-Thermopile/dp/B075QQ8VZW/?tag=htg-v2-2q16d3n-20&ascsubtag=UUhtgUeUpU204545&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F831363%2Fthese-nasa-innovations-are-all-around-us-everyday%2F&asc%5Fcampaign=Short-Term) to the handy temperature guns we use to [check pizza ovens](https://www.lifesavvy.com/131867/gozney-roccbox-pizza-oven-review/) and other surfaces.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe id="iframe_1531879" src="//a.impactradius-go.com/gen-ad-code/5597632/1531879/16446" width="728" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->
 ##  Freeze Dried Foods
 
 ![Examples of freeze dried food.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NASAInnovations1.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_1993654" src="//a.impactradius-go.com/gen-ad-code/5597632/1993654/22993" width="160" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 iHealth/Apple/Invisalign
 
  Most of us aren't walking around every day munching on a daily ration of freeze-dried astronaut rations---though if you haven't tried freeze-dried ice cream at least once, you're missing out on a strange experience.
@@ -177,16 +178,10 @@ iHealth/Apple/Invisalign
 
  You can thank NASA gift shops and curious kids for the enduring popularity of "astronaut" ice cream, as well as the folks at [Astronaut Foods](https://astronautfoods.com/) who keep the freeze-dried space food dream alive for gift shop goers.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Better Baby Formula
 
 ![An example of a 1970s era space meal, and a canister of baby formula.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NASAInnovations1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 iHealth/Apple/Invisalign
 
  NASA didn't invent baby formula, but research into inexpensively and safely improving the nutritional value of food served to astronauts in space did.
@@ -200,12 +195,21 @@ iHealth/Apple/Invisalign
  DHA is critical to brain development, and since the discovery of this cheap production method, millions of babies around the world have enjoyed better brain growth as a result of its inclusion in formulas.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2030391/7443" target="_top" id="2030391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Cordless Vacuums and Power Tools
 
 ![An astronaut using a lunar drill and the DustBuster, made possible by the same motor technology.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NASAInnovations3.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 NASA/Industrial Designers Society of America
 
  Introduced to the market in 1979, the Black & Decker DustBuster was quite a novelty. It was a tiny hand-held vacuum that ran off an internal battery. That doesn't sound amazing today---practically everything is handheld and battery-powered now---but it kicked off a battery-powered revolution in home appliances and power tools.
@@ -226,6 +230,12 @@ iHealth/Apple/Invisalign
 
  NASA continues to [conduct research in the field](https://www.nasa.gov/mission%5Fpages/station/research/space%5Fsmoke.html) in service of creating new and advanced ways to detect fires in space---the photo, at right above, shows a type of infra-red laser backscatter smoke detection device designed for the International Space Station by Honeywell. Maybe one day, they'll even invent [a smoke detector that doesn't expire](https://location-social.techidaily.com/does-oppo-a38-have-find-my-friends-drfone-by-drfone-virtual-android/).
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Invisible Braces
 
 ![Two types of clear ceramic braces.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NASAInnovations1.jpg) 
@@ -238,10 +248,22 @@ iHealth/Apple/Invisalign
 
  The original dental application was for dental brace bases on each tooth but still linked together by a wire like traditional braces. Later, companies like Invisalign made alignment trays that covered the entire tooth without connective wires. And while that's a significant contribution to dentistry, it's hardly [the only one NASA has made](https://www.nasa.gov/audience/foreducators/k-4/features/F%5FBite%5FOut%5Fof%5FDiscomfort.html).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2024329/7443" target="_top" id="2024329">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024329" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024329/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Improved Tires
 
 ![A rendering of the Viking mission and a photo from the Goodyear archives.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NASAInnovations1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 iHealth/Apple/Invisalign
 
  In the 1970s, a collaboration between NASA and Goodyear Tire to [develop stronger materials for the parachute shrouds](https://spinoff.nasa.gov/node/9606) used on the Viking landers led to improved tires for everyone.
@@ -252,16 +274,10 @@ iHealth/Apple/Invisalign
 
  The grooves were originally applied to runways used for Space Shuttle landings to reduce skidding and have since been applied to roads, sidewalks, and other concrete surfaces for the same purpose.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Emergency Extraction Tools
 
 ![A shuttle launch and a set of Lifeshear tools.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NASAInnovations1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 iHealth/Apple/Invisalign
 
  This is, thankfully, an invention that none of us have to experience every day or even, for that matter, once in a lifetime if we're lucky.
@@ -272,13 +288,13 @@ iHealth/Apple/Invisalign
 
  The resulting product, [Lifeshears](https://www.nasa.gov/vision/earth/technologies/human%5Fspaceflight.html), has been in use since the 1990s and was even used during rescue efforts after the 9/11 attack.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Foil Blankets
 
 ![Examples of foil blankets in use.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NASAInnovations4.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_1542129" src="//a.impactradius-go.com/gen-ad-code/5597632/1542129/16836" width="728" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 NASA/AMC
 
  You'll often hear reflective emergency blankets, like those emergency responders wrap around car crash survivors and such, referred to as "[space blankets](https://spinoff.nasa.gov/Spinoff2006/ch%5F9.html)." This is because the reflective metallic material they are made out of was invented by NASA to help shield and insulate equipment and even entire portions of space stations. There's a reason that shiny-metal-foil look is inseparable from the space program.
@@ -289,9 +305,6 @@ NASA/AMC
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/Copy-of-2-Up-1080p-Header14.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 NASA/RadiaSource
 
  Closely related to the insulative properties of the space blankets is the use of NASA technology in [home insulation](https://spinoff.nasa.gov/Spinoff2004/ch%5F6.html). Many companies make radiant barrier styles of insulation based on technology first developed in the 1960s to help insulate Apollo-era astronauts from the temperature extremes of space, like [RadiaSource](https://www.radiasource.com/) seen above right.
@@ -300,9 +313,6 @@ NASA/RadiaSource
 
  Between the original space blankets and radiant barrier innovations, NASA's research has found its way into everything from our homes to our lunchboxes.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  More NASA-Funded Technology
 
  Speaking of finding its way into everything, we could write for months without covering everything NASA's efforts have brought into the public sphere. If you've read over these highlights with interest, we'd highly recommend you check out [NASA Spinoff](https://spinoff.nasa.gov/).

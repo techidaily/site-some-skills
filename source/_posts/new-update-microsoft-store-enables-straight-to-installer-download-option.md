@@ -1,7 +1,7 @@
 ---
 title: "New Update: Microsoft Store Enables Straight-to-Installer Download Option"
-date: 2024-08-29T20:42:13.517Z
-updated: 2024-08-30T20:42:13.517Z
+date: 2024-09-03T10:46:57.325Z
+updated: 2024-09-04T10:46:57.325Z
 tags:
   - desktop
 categories:
@@ -96,5 +96,5 @@ The Microsoft Store is the default app store on Windows PCs, and it has become m
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe id="iframe_1983551" src="//a.impactradius-go.com/gen-ad-code/5597632/1983551/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->

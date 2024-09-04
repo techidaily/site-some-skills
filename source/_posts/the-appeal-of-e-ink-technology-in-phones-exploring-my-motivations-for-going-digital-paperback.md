@@ -1,7 +1,7 @@
 ---
 title: "The Appeal of E-Ink Technology in Phones: Exploring My Motivations for Going Digital Paperback"
-date: 2024-08-29T20:40:07.800Z
-updated: 2024-08-30T20:40:07.800Z
+date: 2024-09-03T10:46:55.466Z
+updated: 2024-09-04T10:46:55.466Z
 tags:
   - mobile
 categories:
@@ -32,7 +32,10 @@ thumbnail: https://thmb.techidaily.com/c8e68cffef41fc4061ac722c7019bbd23a7bd7418
  I know, not using your device in the dark sounds downright primitive at this point. That's why e-ink devices come with front-lighting. This makes the screen glow, but the light comes from the sides of the screen rather than behind. It shines down onto the text you're reading, rather than out toward your face.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  E-Ink Helps Form Healthier Habits
 
@@ -49,15 +52,20 @@ thumbnail: https://thmb.techidaily.com/c8e68cffef41fc4061ac722c7019bbd23a7bd7418
  This might sound like an e-ink phone would be unusable, but rather it just means you would have to use it differently.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Less Streaming, More Reading
 
 ![reading on the onyx boox palma](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/reading-on-the-onyx-boox-palma_53279899430_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
@@ -67,10 +75,19 @@ Sergio Rodriguez / How-To Geek
 
  I love the idea of a portable eReader that can be used to place calls, send texts, and draft email. It's good for the stuff I find most important about using a phone and discourages many of the things I consider distractions.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  A Less-Distracting Interface
 
 ![Boox Tab Ultra C being held in a hand showing its home screen icons.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/C183E45A-A48E-4841-968E-DF39B15CD066.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_1977023" src="//a.impactradius-go.com/gen-ad-code/5597632/1977023/22993" width="160" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
  \- _Tyler Hayes / HowToGeek_
 
  It's not only the animations that take a hit. E-ink screens give icon designers more restrictions, limiting their ability to make their designs jump out at us as we swipe through our app drawers. This puts more control back in our hands, helping us resist the efforts of many of the world's best designers attempting to make us click on their team's app over doing something else.
@@ -80,24 +97,15 @@ Sergio Rodriguez / How-To Geek
  E-ink screens do better with simple layouts than they do with gradients and animations. This makes the devices less eye-catching. It's hard to get excited about a presentation showing off the new home screen on a [Nook GlowLight](https://instagram-video-recordings.techidaily.com/turning-horizons-into-heights-uploading-videos-to-igtv/), yet enough of us have come to the conclusion that that's a good thing. Give us something straightforward that helps us do the task at hand and then encourage us to put the phone back down when we're done.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  ​It's Like Writing on Paper
 
 ![Boox Tab Ultra C Pro with annotations on the screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/boox-tab-ultra-c-pro.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  Want to know why people buy the [reMarkable tablet](https://www.amazon.com/reMarkable-Essentials-Bundle-Marker-Leather/dp/B0BJNFJY8Y/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003688&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fwhy-i-want-an-e-ink-phone%2F&asc%5Fcampaign=Evergreen)? Just like e-ink better simulates the experience of reading a physical book, this type of panel also helps replicate what it's like to write on paper.
@@ -108,9 +116,6 @@ Jerome Thomas / How-To Geek
 
  You wouldn't be limited to writing, either. Color e-ink is an established technology at this point, one making advancements each year. If working on an iPad feels like using markers, drawing with e-ink feels like bringing out the color pencils. I'm not saving one is better than the other. Both have their place, and it's great to have the option. We do have this choice when it comes to tablets (shout out to the [Boox Tab Ultra C](https://extra-tips.techidaily.com/chucklecraft-suite-for-2024/) and similar slates), but it would be great to see this come to phones.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ##  Get More Life Out of Our Batteries
 
  ​Screens are the most demanding component in our phones. This is why screen-on time is a much smaller number than standby time. E-ink screens don't eliminate the gap between these two numbers, but they can bring them much closer. Look at how much battery life you can get out of a Kindle versus an iPad.

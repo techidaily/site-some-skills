@@ -1,7 +1,7 @@
 ---
 title: Expert Analysis of the Velotric GO 1 eBike – Ideal for Carrying Luggage & Passengers
-date: 2024-08-29T20:46:09.579Z
-updated: 2024-08-30T20:46:09.579Z
+date: 2024-09-03T10:47:00.338Z
+updated: 2024-09-04T10:47:00.338Z
 tags:
   - cutting-edge
 categories:
@@ -115,7 +115,10 @@ Expand
 ![Showing the Velotric Go 1 control buttons for power and lighting](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/08/f1e712b8-b098-4641-b887-7b1c3b033401.JPG) 
 
 <!-- affiliate ads begin -->
-
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
@@ -123,15 +126,16 @@ Tyler Hayes / How-To Geek
 
 ![Showing a close up of the dual-sided kick stand](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/08/c4ab32e5-97b2-4863-a432-21ea6912ac88.JPG) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  Another oddity was the underneath, dual-sided kickstand. To engage it, you step on the kickstand, roll the bike back, and then reverse to disengage it. It’s a more stable option for a bike that could have a lot of gear attached to it. It worked fine. In general, using the slightly unique kickstand wasn’t a pro or a con, simply an exercise in overcoming familiarity.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Speed and Range of a Cargo Ebike
 
 ![Showing the display of the Velotric Go 1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/08/829c16d4-8abf-49da-bb9a-c92a90558c68.JPG) 
@@ -157,19 +161,25 @@ Tyler Hayes / How-To Geek
  There's no app for the Go 1, so I liked that Find My compatibility was built-in, and it worked well. But I wouldn’t buy this bike solely because of this feature.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Velotric Go 1: Price and Availability
 
  The Velotric Go 1 is available now for a retail price of $1,799\. Currently, the bike is on sale for $1,599\. The Go 1 comes in either green or gray colors.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Using the Velotric Go 1 with Kids
 
 ![Showing the added padded seat to the rear of the Velotric Go 1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/08/4330cd5b-5a29-4fbc-a2c2-2ded5144ab69.JPG) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  The padded seat, foot pegs, and rear handlebars add-on costs total just north of $150\. Another 10% to the bike’s price isn’t crazy, but it does present another consideration.
@@ -182,15 +192,12 @@ Tyler Hayes / How-To Geek
 
  If you want to ride with multiple kids at once, Velotric also has the larger [Packer 1 ebike](https://www.velotricbike.com/products/velotric-packer-1-e-bike?variant=41850584039607). It's similar to the Go 1, but a step up in the amount of cargo it can carry.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ##  Should You Buy the Velotric Go 1?
 
 ![Showing the Velotric Go 1 standing in front of a body of water](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/08/f1bbe908-bd02-4046-a136-f732e0a8ec7f.JPG) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe id="iframe_1328683" src="//a.impactradius-go.com/gen-ad-code/5597632/1328683/15852" width="250" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
@@ -202,6 +209,9 @@ Tyler Hayes / How-To Geek
 
 ![Side view of Velotric Go 1 in green](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/go1_forest_rightside_609d8fc4-21b5-48c8-b918-20ddfb14ff24_1800x1800-removebg-preview.png) 
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_1516072" src="//a.impactradius-go.com/gen-ad-code/5597632/1516072/16446" width="728" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-ec_final.png) 
 
 #####  Velotric Go 1

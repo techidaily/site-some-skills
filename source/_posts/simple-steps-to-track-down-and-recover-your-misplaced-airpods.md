@@ -1,7 +1,7 @@
 ---
 title: Simple Steps to Track Down and Recover Your Misplaced AirPods
-date: 2024-08-29T20:40:03.809Z
-updated: 2024-08-30T20:40:03.809Z
+date: 2024-09-03T10:46:55.403Z
+updated: 2024-09-04T10:46:55.403Z
 tags:
   - mobile
 categories:
@@ -30,15 +30,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Gone are the days when you couldn't find your lost earbuds. If you own a pair of AirPods, it's easy to locate them thanks to Apple's Find My network. Here's how to track your AirPods, even if they're far away or offline.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Locate AirPods With the Find My Network
 
  The [Find My network consists of over a billion Apple devices](https://youtube-lab.techidaily.com/24-the-creators-guide-to-the-top-9-affordable-video-editing-apps/) that crowdsource a device's location every time the owner marks it as lost. However, that's not all the Find My app on your iPhone can do.
 
 ![Screenshot of Apple's Find My app over a plain white background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/apple-s-find-my-network.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Apple
 
  In the last few years, the company has integrated all its devices so well that you can use the app to locate a compatible Apple item (that you've lost) in your surroundings. All AirPods models can be located using the Find My app.
@@ -54,27 +57,27 @@ Apple
 ![Screenshot of the devices in Find My app on an iPhone with an arrow next to the AirPods Pro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  On the following screen, hit the "Play Sound" button.
 
 ![Screenshot of the Play Sound button for AirPods in the Find My app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
  If you have the AirPods Pro (2nd Generation), you can [play a sound on the charging case](https://facebook-videos.techidaily.com/updated-how-to-embed-facebook-live-on-a-website/) as well.
 
 ![Screenshot of the options to locate the charging case or both AirPods in the Find My app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  If one earbud of your AirPods Pro (2nd Generation) is out of the charging case, you can find it either by playing or following the sound.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Follow the Directions in Find My App
 
  If you've left your AirPods behind (out of the case), perhaps at the office or the gym across the street, you can get them using the Directions feature. All you have to do is open the Find My app, select your AirPods, and then hit the "Directions" button.
@@ -93,10 +96,6 @@ Close
 
  I use Precision Finding to locate my AirPods Pro (2nd Generation) all the time. The feature is that it works nine out of 10 times, giving you a direction to proceed, along with a sense of how far or close you're to the AirPods. If there's not enough light, the app will ask you to turn on the flashlight. Further, it can also tell you when your AirPods are on a different floor than yours.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ##  Get Notified When Leaving Your AirPods Behind
 
 [Separation alerts are yet another useful Find My feature](https://screen-activity-recording.techidaily.com/spring-screens-a-deep-dive-into-desktop-capturing-pro/) that warns you when you leave your AirPods (at an unknown location) and start moving away from their location. Once set up, you can get these alerts on your iPhone, Apple Watch, iPad, or MacBook.
@@ -109,6 +108,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Screenshot of the new location for Notify When Leave Behind in Find My.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/new-location-for-notify-when-leave-behind.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  What if Your AirPods Are Offline?
 
  There's no way to actively track your earbuds (or the charging case) once they run out of battery. However, you can still check their [last known location in the Find My App](https://win-able.techidaily.com/overcoming-valheim-stability-issues-a-guide-to-stop-pc-freezing-and-crashing/). As the name suggests, the feature gives you an idea of where your AirPods were before completely draining their battery.
@@ -117,19 +128,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Last known location in Find My on Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/last_known_airpods.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you've left your AirPods behind or suspect they've been stolen, [consider enabling Lost Mode](https://twitter-videos.techidaily.com/new-2024-approved-pioneering-success-with-real-time-twitter-videos/). Although it can't help you find a dead device, Lost Mode alerts you when your AirPods come back online and connect to a nearby device. AirPods can't access the Find My network independently; they require a nearby Apple device (with access to GPS) to update their location.
 
  To enable the lost mode, head to Find My > Devices > AirPods, and hit "Activate" under "Mark As Lost."
 
 ![Screenshot of the option to mark AirPods Pro as lost in Find My.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/option-to-mark-airpods-pro-as-lost-in-find-my.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The device will try to update the location of your earbuds as soon as it can. On the other hand, the user trying to connect to the AirPods will see the "Not Your AirPods" message if they try to use them with an Apple device. You can also customize the message, especially if you think the AirPods have been stolen. You might want to add contact details or instructions on where to leave them in this event.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe id="iframe_1374819" src="//a.impactradius-go.com/gen-ad-code/5597632/1374819/15852" width="250" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->
 ##  Find AirPods Using iCloud
 
@@ -140,12 +154,21 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![Screenshot of Find My on iCloud for Web.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/find-my-on-icloud-for-web.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  This will open Find My's web interface, which lists all the linked products to the left. Select your AirPods and check their current or last known location (on a map).
 
 ![Locating AirPods Pro using Find My on iCloud for Web.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/locating-airpods-pro-using-find-my-on-icloud-for-web.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Using Find My for the web, you can also play a sound on the AirPods. For some odd reason, though, Apple doesn't allow AirPods Pro (2nd Generation) users to play a sound on the charging case.
 
 ##  You Can Also Access Find My on Your Mac
@@ -160,13 +183,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Screenshot of the Play Sound and Direction option on Mac's Find My app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/locating-airpods-using-find-my-on-mac-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
  In my experience, I've noticed that when both the earbuds are out of the case (even on the second-generation AirPods Pro), the Find My app on Mac first locates one earbud and then the other. However, unlike Find My on the web, you can play a sound on the AirPods Pro (2nd Generation)'s charging case.
 
  You can also set up "Notify When Left Behind" or enable Lost Mode using Find My on Mac. It is worth noting that the steps to locate your AirPods with your iPad are similar to those of locating them with a Mac.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_1975555" src="//a.impactradius-go.com/gen-ad-code/5597632/1975555/22993" width="160" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ##  Find Lost AirPods on Your Apple Watch
 
  Apple provides a Find Devices app on the Apple Watch, which is a smaller version of the full-fledged Find My app on other devices. The Find Devices app can also show the location of the AirPods on a map, play sounds, and get directions to the device.
@@ -180,7 +203,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![Screenshot of the option to find AirPods Pro in Find Devices on Apple Watch.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/airpods-pro-in-find-devices-on-apple-watch.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  On the following screen, you can check the AirPods's current address and use the other features to locate them.
 

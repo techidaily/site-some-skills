@@ -1,7 +1,7 @@
 ---
 title: Next Generation Phones with AI Assistants Powered by Onboard Tech, Not the Cloud
-date: 2024-08-29T20:44:39.070Z
-updated: 2024-08-30T20:44:39.070Z
+date: 2024-09-03T10:46:59.226Z
+updated: 2024-09-04T10:46:59.226Z
 tags:
   - cutting-edge
 categories:
@@ -100,5 +100,5 @@ Qualcomm
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe id="iframe_1498635" src="//a.impactradius-go.com/gen-ad-code/5597632/1498635/17326" width="400" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->

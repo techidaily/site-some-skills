@@ -1,7 +1,7 @@
 ---
 title: "Windows 10 Lock Screen Timeout: Change and Adjust"
-date: 2024-08-25T09:34:03.286Z
-updated: 2024-08-26T09:34:03.286Z
+date: 2024-09-03T10:47:00.926Z
+updated: 2024-09-04T10:47:00.926Z
 tags:
   - win11
   - win10
@@ -159,5 +159,8 @@ HKEYLOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\7516b95f-
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

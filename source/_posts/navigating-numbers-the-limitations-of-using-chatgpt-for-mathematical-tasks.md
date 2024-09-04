@@ -1,7 +1,7 @@
 ---
 title: "Navigating Numbers: The Limitations of Using ChatGPT for Mathematical Tasks"
-date: 2024-08-29T20:46:20.292Z
-updated: 2024-08-30T20:46:20.292Z
+date: 2024-09-03T10:47:00.441Z
+updated: 2024-09-04T10:47:00.441Z
 tags:
   - cutting-edge
 categories:
@@ -35,7 +35,10 @@ thumbnail: https://thmb.techidaily.com/dccea8e74312ef3978115e47791b42d8d3af59dde
 Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.techidaily.com/new-capture-clarity-editing-insights-for-professional-results/) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  ChatGPT Can't Count
 
@@ -45,9 +48,6 @@ Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.t
 
 ![ChatGPT 3.5 failing at counting a list.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-count-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Even when you correct ChatGPT and it apologizes and offers up a new answer, you won't necessarily get a correct answer.
 
  ChatGPT often acts like a person frantically trying to cover up a mistake and give you an answer---any answer---to get you off its back. It's actually very lifelike!
@@ -60,9 +60,6 @@ Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.t
 
 ![Bing Chat failing to count.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/bing-count.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  ChatGPT Struggles With Math Logic Problems
 
  If you give ChatGPT a math "word problem," you'll often see strange twists and turns of logic that won't get you the right answer
@@ -71,9 +68,6 @@ Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.t
 
 ![A word-based math problem for ChatGPT.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-fruit-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
  ChatGPT starts off okay but quickly goes off the rails into logic that doesn't make any sense and won't give a correct answer.
 
 ![ChatGPT's logically incorrect response to the problem.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-fruit-2.png) 
@@ -83,7 +77,10 @@ Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.t
 ![The final part of ChatGPT's incorrect response.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-fruit-3.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  ChatGPT will often dig in and argue with you about its responses, too. (Again, that's very human-like behavior.)
 
@@ -91,21 +88,39 @@ Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.t
 
 ![ChatGPT acknowledging the answer was wrong but arguing about it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-fruit-4.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  For the record, Microsoft's Bing Chat based on GPT 4 struggled with this problem as well, giving us a clearly incorrect answer. GPT 4's logic quickly goes off the rails here, too.
 
 ![Bing Chat giving a confused response.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-fruit.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  We recommend not attempting to follow every twist and turn of logic---it's clear that the answer is incorrect.
 
 ![Bing Chat giving a confused response.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-fruit.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe id="iframe_1542129" src="//a.impactradius-go.com/gen-ad-code/5597632/1542129/16836" width="728" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->
  When we pointed out Bing's answer was incorrect, it kept arguing with us in circles, offering wrong answer after wrong answer.
 
 ![Bing Chat giving a confused response.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-fruit.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  ChatGPT Can't Reliably Do Arithmetic, Either
 
  It's worth noting that ChatGPT sometimes gets carried away and state basic arithmetic incorrectly, too. We've seen logical answers to problems with incorrect arithmetic similar to 1+1=3 smack-dab in the middle of the well-reasoned answer.

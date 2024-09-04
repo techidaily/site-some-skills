@@ -1,7 +1,7 @@
 ---
 title: "Resolving JavaScript Bugs: A Step-by-Step Guide for Discord Users"
-date: 2024-08-29T20:42:47.375Z
-updated: 2024-08-30T20:42:47.375Z
+date: 2024-09-03T10:46:57.797Z
+updated: 2024-09-04T10:46:57.797Z
 tags:
   - deals
 categories:
@@ -39,9 +39,6 @@ thumbnail: https://thmb.techidaily.com/e0dd15b42e7cb5414bdb7af5c281fcfdfef62e342
 
  Select "Apply," choose "Continue" in the prompt, and select "OK." From now on, whenever you launch Discord using your desktop shortcut, it’ll run with admin rights.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Delete Discord’s AppData Files
 
  Discord’s AppData file corruption can cause a JavaScript error. One way to fix this is to remove the faulty files and use the app installer to get the original app files.
@@ -62,14 +59,10 @@ thumbnail: https://thmb.techidaily.com/e0dd15b42e7cb5414bdb7af5c281fcfdfef62e342
 
 ![A trash can icon highlighted for Discord's local appdata files in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5-remove-discord-local-appdata-files.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  Launch the [Discord Download](https://discord.com/download) site, download the installer, and run the installer to reinstall fresh copies of the required files to your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe id="iframe_1770526" src="//a.impactradius-go.com/gen-ad-code/5597632/1770526/20702" width="300" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->
 ##  Turn Off Your Antivirus Program
 
@@ -79,22 +72,15 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 !['Manage Settings' highlighted in Windows Security.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/6-manage-virus-protection-settings.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
  Then, turn off "Real-Time Protection" and choose "Yes" in the prompt.
 
 !['Real-Time Protection' highlighted in Windows Security.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/7-disable-microsoft-defender-antivirus.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe id="iframe_1975555" src="//a.impactradius-go.com/gen-ad-code/5597632/1975555/22993" width="160" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->
  That’s it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Uninstall BetterDiscord
 
  If you’re using BetterDiscord (which adds extra features to your Discord experience), remove this app, as it isn’t the official client to use the platform’s features. Unlike other apps, you won’t find BetterDiscord in Windows’ installed apps list. Instead, you’ll have to run the app’s installer and choose an option to uninstall the app.
@@ -103,12 +89,30 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 !['Uninstall BetterDiscord' and 'Next' highlighted BetterDiscord installer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/8-uninstall-betterdiscord.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Select your current Discord app and choose "Uninstall."
 
 ![The current Discord app and 'Uninstall' highlighted in BetterDiscord installer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/9-remove-betterdiscord.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  When BetterDiscord is uninstalled, click "Close" to close the open window.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Reinstall Discord
 
  If nothing fixes your issue, your last resort is to completely remove and reinstall the Discord app on your computer. This removes all the app files (some of which may be faulty), helping you resolve the problem.
@@ -123,6 +127,12 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 !['Uninstall' highlighted for Discord in Windows 10 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/11-remove-discord-windows-10.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Head to the [Discord Download](https://discord.com/download) site and download and install the app on your computer. Your issue should now be fixed. Enjoy!
 
 <ins class="adsbygoogle"

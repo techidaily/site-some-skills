@@ -1,7 +1,7 @@
 ---
 title: International Space Station Nimbly Dodges Russian Orbital Debris, Sparing Data Swap
-date: 2024-08-29T20:46:15.444Z
-updated: 2024-08-30T20:46:15.444Z
+date: 2024-09-03T10:47:00.387Z
+updated: 2024-09-04T10:47:00.387Z
 tags:
   - cutting-edge
 categories:
@@ -100,5 +100,8 @@ Related: [Drone Keeps Food Warm by Crashing Into Powerlines and Catching Fire](h
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

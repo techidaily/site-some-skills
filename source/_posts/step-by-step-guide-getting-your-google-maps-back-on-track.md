@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Getting Your Google Maps Back on Track"
-date: 2024-08-29T20:42:24.429Z
-updated: 2024-08-30T20:42:24.429Z
+date: 2024-09-03T10:46:57.475Z
+updated: 2024-09-04T10:46:57.475Z
 tags:
   - desktop
 categories:
@@ -31,7 +31,10 @@ thumbnail: https://thmb.techidaily.com/26f65c8609b0e088bfc952ce0e1907346f9597a5e
  Google Maps is often a reliable travel companion, yet occasional glitches can leave us stranded. Issues like server outages, lack of internet connectivity, incorrect time and date settings, or restricted background data usage can contribute to these issues. Here are some troubleshooting steps you can take to resolve the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Perform Some Preliminary Checks
 
@@ -39,19 +42,25 @@ thumbnail: https://thmb.techidaily.com/26f65c8609b0e088bfc952ce0e1907346f9597a5e
 
  If the above basic checks do not solve the issue, you should try the remaining fixes listed below.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Ensure the Issue Isn't on the Backend
 
  If the basic checks don't resolve the issue, ensure it's not stemming from Google's backend servers. Go to the [Google Maps Status Dashboard](https://status.cloud.google.com/maps-platform/) and check for any service disruptions or outages.
 
 ![Google Maps status dashboard showing all Google services up and running.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/1-google-maps-status-dashboard-showing-all-google-services-up-and-running.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  If you see a yellow exclamation mark or a red cross in a circle sign indicating service disruption or outages, the issue is with Google's servers. In this case, you'll need to wait for Google to fix the backend problem.
 
  On the other hand, if you see a green check mark next to each service, it indicates there's likely no backend issue, and the problem may be on your end. In this situation, you'll need to try troubleshooting your device. 
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_1630055" src="//a.impactradius-go.com/gen-ad-code/5597632/1630055/18460" width="240" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ##  Ensure the Location Services Are Turned On
 
  If there's no backend issue on Google's end, you should [check whether your device's location services are enabled](https://blue-screen-error.techidaily.com/resolved-fixing-the-inescapable-blue-screen-error-wheauncorrectable/) or not. On an iPhone, open Settings, go to Privacy and Security > Location Services and turn on the toggle.
@@ -64,15 +73,12 @@ thumbnail: https://thmb.techidaily.com/26f65c8609b0e088bfc952ce0e1907346f9597a5e
 
 ![Turning on the location services on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/1-turning-on-the-location-services-on-android.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Find Google Maps among the apps and review its permission settings. Ensure the circle next to "Allow Only While Using the App" or "Ask Every Time" is selected.
 
 ![Changing the location permission of the Google Maps app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/2-changing-the-location-permission-of-the-google-maps-app.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe id="iframe_1993652" src="//a.impactradius-go.com/gen-ad-code/5597632/1993652/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->
 ##  Ensure the Date and Time Is Correctly Configured
 
@@ -82,12 +88,21 @@ thumbnail: https://thmb.techidaily.com/26f65c8609b0e088bfc952ce0e1907346f9597a5e
 
 ![Configuring time to update automatically.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/settings-the-time-to-update-automatically.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  On Android, open the Settings app and go to General Management > Date and Time. Toggle on both "Automatic Date and Time" and "Automatic Time Zone."
 
 ![Enabling the automatic date and time and time zone settings on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/3-enabling-the-automatic-date-and-time-and-time-zone-settings-on-android.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2024338/7443" target="_top" id="2024338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Turn On the Background Data
 
@@ -97,15 +112,21 @@ thumbnail: https://thmb.techidaily.com/26f65c8609b0e088bfc952ce0e1907346f9597a5e
 
 ![Turning on the background data usage on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/4-turning-on-the-background-data-usage-on-android.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  On iPhone, the feature is known as Background App Refresh. To [ensure the feature isn't disabled on your phone](https://facebook-video-footage.techidaily.com/seamlessly-integrating-device-screens-into-your-youtube-projects-for-2024/), go to Settings > General > Background App Refresh. Make sure that "Background App Refresh" is turned on. Also, ensure that the toggle next to the Maps app is turned on.
 
 ![Turning on background app refresh on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/turning-off-background-app-refresh-on-iphone.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Check for Available Updates
 
@@ -115,24 +136,24 @@ thumbnail: https://thmb.techidaily.com/26f65c8609b0e088bfc952ce0e1907346f9597a5e
 
 ![Updating the Google Maps app from the Android Play Store.-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/5-updating-the-google-maps-app-from-the-android-play-store-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ##  Clear the Google Maps App Cache
 
  Problems with cached data can also cause disruptions when using the app. To ensure that's not the case, you should [clear the cache of the Google Maps app](https://on-screen-recording.techidaily.com/updated-2024-approved-apeak-recorder-reviewed-speed-quality-and-ease-of-use-scored/). Open the Settings app on your Android phone. Then, navigate to Apps > Maps > Storage, and tap "Clear Cache" in the bottom-right corner.
 
 ![Clearing the cache of the Google Maps app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/clearing-the-cache-of-the-google-maps-app.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To clear the cache on an iPhone, you need to offload the app while retaining the app data and then reinstall it. Navigate to Settings > General > iPhone Storage > Maps, and then tap on "Offload App."
 
 ![Tap "Offload App" to confirm.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/10/IMG_0303-1.png) 
 
  After offloading the app, tap "Reinstall App" to reinstall it, restoring all the previously stored app data on your iPhone.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ##  Ensure the Problem Isn't Browser-Specific
 
  If Google Maps isn't working on your computer's web browser, ensure that the problem isn't specific to a single browser by trying a different one. If Google Maps works on other browsers but not on your primary one, the problem is likely browser-specific. In this case, you should focus on troubleshooting the issue with your primary browser.

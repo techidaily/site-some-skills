@@ -1,7 +1,7 @@
 ---
 title: "Microsoft's Legacy Operating Systems Drop: No More Windows 7 or 8 From Epic Games"
-date: 2024-08-29T20:42:42.647Z
-updated: 2024-08-30T20:42:42.647Z
+date: 2024-09-03T10:46:57.742Z
+updated: 2024-09-04T10:46:57.742Z
 tags:
   - deals
 categories:
@@ -83,5 +83,8 @@ In June 2024, the Epic Games Launcher will end support for Windows 7, Windows 8 
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

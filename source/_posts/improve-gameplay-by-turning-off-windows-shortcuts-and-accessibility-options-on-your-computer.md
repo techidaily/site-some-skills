@@ -1,7 +1,7 @@
 ---
 title: Improve Gameplay by Turning Off Windows Shortcuts & Accessibility Options on Your Computer
-date: 2024-08-29T20:41:12.341Z
-updated: 2024-08-30T20:41:12.341Z
+date: 2024-09-03T10:46:56.389Z
+updated: 2024-09-04T10:46:56.389Z
 tags:
   - desktop
 categories:
@@ -25,9 +25,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Windows is designed for general computer use, not specifically for gaming. The Windows key, Alt+Tab, and other keyboard shortcuts like Sticky Keys can pull you out of full-screen games and bring you back to the desktop. Luckily, it's very easy to disable them, so you can enjoy uninterrupted gaming sessions.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Disable the Windows Key
 
  There are a couple of methods by which you can disable the Windows key on your Windows PC. Let's check out all the methods in detail:
@@ -46,16 +43,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Scancode Map binary value in the Registry Editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/scancode-map-binary-value-in-the-registry-editor-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Right-click on the "Scancode Map" value and select "Modify."
 
 ![Modify option for the Scancode binary value.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/modify-option-for-the-scancode-binary-value.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe id="iframe_1770526" src="//a.impactradius-go.com/gen-ad-code/5597632/1770526/20702" width="300" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->
  Type the following value in the "Value Data" field and click "OK."
 
@@ -66,15 +59,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Edit Binary Value window in the Registry Editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/edit-binary-value-window-in-the-registry-editor.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe id="iframe_1982459" src="//a.impactradius-go.com/gen-ad-code/5597632/1982459/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->
  Afterward, [restart your computer](https://instagram-clips.techidaily.com/2024-approved-15-must-use-hashtags-for-popularity-on-instagram-feed/), and you'll find that the Windows key is no longer functioning. To re-enable the Windows key in the future, simply delete the "Scancode Map" binary value from the Registry Editor, and the Windows key will start working again.
 
 ![Delete option for Scancode Map binary value.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/delete-option-for-scancode-map-binary-value.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Using the Local Group Policy Editor
 
  If you have Windows Pro or Enterprise edition, you can use the Local Group Policy Editor to disable the Windows key on your computer. To do this, [open the Local Group Policy Editor](https://youtube-data.techidaily.com/approved-first-steps-in-the-youtubian-economy-building-a-brand-boosting-bank-balance/) and navigate to the following location:
@@ -90,12 +80,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Enable option  in the Local Group Policy Editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/enable-option-in-the-local-group-policy-editor.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Then, restart your computer to see the changes. If you want to re-enable the Windows key, you'll need to configure the "Turn Off Windows Key Hotkeys" policy to "Disabled" or "Not Configured."
 
 ![Disabled option  in the Local Group Policy Editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/disabled-option-in-the-local-group-policy-editor.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_1975648" src="//a.impactradius-go.com/gen-ad-code/5597632/1975648/22993" width="160" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ###  Using Microsoft PowerToys
 
 [Microsoft PowerToys](https://facebook-video-footage.techidaily.com/updated-2024-approved-auto-play-youtube-iphoneandroid-no-notification/) is a free app from Microsoft that lets you [disable keys on your Windows PC](https://smart-video-editing.techidaily.com/new-2024-approved-take-your-video-editing-to-the-next-level-adobe-premiere-pro-on-mac/). To use it to disable the Windows key, first [install it from the Microsoft Store](https://apps.microsoft.com/store/detail/XP89DCGQ3K6VLD?ocid=pdpshare) and then open it.
@@ -104,27 +100,26 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Remap a Key option in PowerToys.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/remap-a-key-option-in-powertoys.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  Choose "Add Key Remapping."
 
 ![Add key remapping option in PowerToys.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/add-key-remapping-option-in-powertoys.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Click the "Select" button, and then press the "Windows" key on your keyboard. Click "OK" after selecting the key.
 
 ![Selecting Windows key in PowerToys.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/selecting-windows-key-in-powertoys-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
  From the "To Send" drop-down menu, choose "Disable."
 
 ![Disable option for Windows key.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/disable-option-for-windows-key-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe id="iframe_1374820" src="//a.impactradius-go.com/gen-ad-code/5597632/1374820/15852" width="250" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->
  Click "OK" and then select "Continue Anyway" to confirm disabling the Windows key.
 
@@ -135,7 +130,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![Trash icon on PowerToys](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/trash-icon-on-powertoys-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ###  Using Your Keyboard Software
 
@@ -143,14 +141,16 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  For example, if you have an Alienware keyboard, you can use the Fn+F6 key combination to enable gaming mode. If you're unaware of the key combination for your keyboard, check the user manual for more information.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Disable the Alt+Tab Shortcut
 
  Pressing Alt+Tab opens the app switcher, which lets you see and switch between different programs running on your computer. However, you might not want to hit this key combination during an intense gaming session because it will minimize your game. You can prevent this from happening by temporarily disabling this shortcut.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ###  Using Microsoft PowerToys
 
  Similar to disabling the Windows key, you can also use Microsoft PowerToys to turn off the Alt+Tab shortcut. To do this, open Microsoft PowerToys, go to "Keyboard Manager," select "Remap a Shortcut," and then click "Add Shortcut Remapping."
@@ -158,30 +158,47 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![Add shortcut remapping option in PowerToys](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/add-shortcut-remapping-option-in-powertoys-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Click the pen icon next to "Shortcut," press the "Alt+Tab" keys together, and click "OK."
 
 ![Selecting ALT+Tab key in PowerToys](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/selecting-alt-tab-key-in-powertoys-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Choose "Disable" from the "Shortcut" dropdown menu under the "To" section.
 
 ![Disable option for ALT+Tab key](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/disable-option-for-alt-tab-key-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe id="iframe_1982456" src="//a.impactradius-go.com/gen-ad-code/5597632/1982456/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->
  Click "OK" to confirm the change.
 
 ![OK option in PowerToys](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ok-option-in-powertoys-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  When you're finished gaming on your computer, you can enable this shortcut combination again by clicking the trash can icon next to it.
 
 ![Trash icon on PowerToys for ALT+Tab shorcut](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/trash-icon-on-powertoys-for-alt-tab-shorcut-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ###  Using AutoHotKey
 
@@ -189,6 +206,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![AutoHotkey Script option in context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/autohotkey-script-option-in-context-menu.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Give a name to the script file and press Enter.
 
  Right-click on the newly created script file, choose "Open With," and select "Notepad."
@@ -196,7 +219,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![Open with Notepad option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/open-with-notepad-option.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Clear any default text in the Notepad document, paste the following codes and press Ctrl+S to save the changes.
 
@@ -208,15 +234,15 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![Code in Notepad.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/code-in-notepad.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2031472/7443" target="_top" id="2031472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2031472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2031472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Go back to your desktop, right-click on the script file again, select "Show More Options," and then choose "Run Script."
 
 ![Run Script option in context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/run-script-option-in-context-menu.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
  The Alt+Tab shortcut will now be disabled. To re-enable it, simply right-click on the AutoHotkey icon in the system tray and choose "Exit."
 
 ![Exit option in system tray area.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/exit-option-in-system-tray-area.jpg) 
@@ -235,6 +261,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Allow the shortcut key to start Sticky Keys box in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/allow-the-shortcut-key-to-start-sticky-keys-box-in-windows-10.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  For Windows 11, open Settings, select "Accessibility" from the left-hand side, and disable the toggle switch for "Sticky Keys" on the right.
 
 ![Sticky Keys toggle on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/sticky-keys-toggle-on-windows-11.jpg) 

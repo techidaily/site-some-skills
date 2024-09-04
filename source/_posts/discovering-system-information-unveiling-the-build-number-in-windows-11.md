@@ -1,7 +1,7 @@
 ---
 title: "Discovering System Information: Unveiling the Build Number in Windows 11"
-date: 2024-08-25T09:34:05.866Z
-updated: 2024-08-26T09:34:05.866Z
+date: 2024-09-03T10:47:00.948Z
+updated: 2024-09-04T10:47:00.948Z
 tags:
   - win11
   - win10
@@ -95,5 +95,5 @@ Refer steps below to check the version  number for Windows 10.
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe id="iframe_1982462" src="//a.impactradius-go.com/gen-ad-code/5597632/1982462/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->

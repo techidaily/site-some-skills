@@ -1,7 +1,7 @@
 ---
 title: How Does Conky Elevate the Visual Appeal of Your Linux Workspace?
-date: 2024-08-29T20:42:02.388Z
-updated: 2024-08-30T20:42:02.388Z
+date: 2024-09-03T10:46:57.185Z
+updated: 2024-09-04T10:46:57.185Z
 tags:
   - desktop
 categories:
@@ -57,14 +57,26 @@ sudo apt install conky-manager2
 ![Installing Conky and Conky Manager in a Linux terminal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/installing-conky-and-conky-manager.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe id="iframe_1977006" src="//a.impactradius-go.com/gen-ad-code/5597632/1977006/22993" width="160" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->
  You’ve successfully installed Conky and Conky Manager on your system. Now, you can technically run the Conky app directly, and you’ll get the following widget on your desktop. It’s a barebone experience where you’ll have to write scripts to tweak the appearance, behavior, and functionality of this widget.
 
 ![Conky and Conky Manager in Application Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/conky-and-conky-manager-in-application-menu.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Default Conky Widget and its script in a notepad window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/default-conky-widget-and-script.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Close 
 
  A more streamlined and user-friendly approach is using Conky Manager. It gives you a GUI interface with a list of all installed Conky widgets and themes on your PC. The names appear as complete paths to the specific file. So, instead of saying the "Network panel", it'll show you the entire path "\~/.conky/TeejeeTech/Network Panel."
@@ -76,7 +88,10 @@ Close
 ![Using Conky Manager to Edit Conky Widgets](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/using-conky-manager-to-edit-conky-widgets.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Close 
 
@@ -91,7 +106,10 @@ Close
 ![Extract the victorConky zip file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/extract-the-victorconky-zip-file.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Close 
 
@@ -99,24 +117,21 @@ Close
 
 ![Install necessary fonts for VictorConky theme.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/install-necessary-fonts-for-victorconky-theme.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
  Once done, you’ll need to move the victorConky file to the “.conky” folder in the [home directory](https://instagram-clips.techidaily.com/crafting-captivating-ig-stories-with-youtube-content-for-2024/), so that it becomes accessible via the Conky Manager. To do this, open the terminal in the download directory (or wherever you extracted the file to) and enter the following command:
 
 mv victorConky ~/.conky
 
 ![Move the victorConky file to your home directory conky folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/move-victoconky-file-to-home-directory-conky-folder.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now, the victorConky widgets should be accessible from the Conky Manager. Open it, and you should see a list of new widgets added. I personally liked the LinuxLarge widget and use it on my system. You can enable it by clicking the checkbox beside it.
 
 ![The victorConky widget enabled and visible on an Ubuntu desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/victorconky-widget-showcase.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ###  Useful Resources
 

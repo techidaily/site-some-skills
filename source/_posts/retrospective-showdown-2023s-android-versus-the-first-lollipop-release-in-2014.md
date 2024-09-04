@@ -1,7 +1,7 @@
 ---
 title: "Retrospective Showdown: 2023'S Android Versus the First Lollipop Release in 2014"
-date: 2024-08-29T20:40:00.109Z
-updated: 2024-08-30T20:40:00.109Z
+date: 2024-09-03T10:46:55.351Z
+updated: 2024-09-04T10:46:55.351Z
 tags:
   - mobile
 categories:
@@ -83,5 +83,8 @@ more
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

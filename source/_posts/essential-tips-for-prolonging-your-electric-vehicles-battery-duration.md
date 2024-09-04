@@ -1,7 +1,7 @@
 ---
 title: Essential Tips for Prolonging Your Electric Vehicle's Battery Duration
-date: 2024-08-29T20:46:03.862Z
-updated: 2024-08-30T20:46:03.862Z
+date: 2024-09-03T10:47:00.262Z
+updated: 2024-09-04T10:47:00.262Z
 tags:
   - cutting-edge
 categories:
@@ -33,15 +33,15 @@ Justin Duino / How-To Geek
 
  Electric vehicle experts suggest that most battery packs can easily last 10–20 years with minimal degradation. But just like your smartphone, it'll [hold less charge](https://youtube-web.techidaily.com/ed-in-2024-youtubes-earnings-go-up-with-500-subs/) over time, and the range will decrease. Excessively high or low temperatures can eventually speed up the degradation process. Tesla offers a battery and drive unit warranty for at least [eight years or 100,000 miles](https://www.tesla.com/support/vehicle-warranty), and some models extend to 150,000 miles. Just know that after eight years, there's a good chance it won't fully charge to 100%, and the range will slightly decrease, similar to an older car getting fewer miles per gallon.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ##  Stay in the 20-80% Zone
 
 ![Fast Charge display on the 2023 Chevy Bolt EV](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/674d5066.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
@@ -52,14 +52,17 @@ Hannah Stryker / How-To Geek
  A general rule of thumb is that it's better to do partial recharging from, say, 40% back to 80% whenever necessary rather than let it get extremely low (or near zero) and have to do a complete charge cycle back to the top. And while Tesla has said that charging to 100% isn't that big of a deal, battery experts have mentioned the 20/80 rule for longer than I can remember, and if it'll help that expensive battery last longer, it's worth doing.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe id="iframe_1983575" src="//a.impactradius-go.com/gen-ad-code/5597632/1983575/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->
 ##  Don't Let the Battery Go to Zero
 
 ![Closeup of a car battery warning light on dashboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/17d4c7d7.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 _[J.J. Gouin/Shutterstock.com](https://www.shutterstock.com/image-photo/car-battery-warning-light-on-dashboard-2035758833)_
 
@@ -69,15 +72,15 @@ _[J.J. Gouin/Shutterstock.com](https://www.shutterstock.com/image-photo/car-batt
 
  Did you know you can [jump-start an EV](https://some-knowledge.techidaily.com/2024-approved-gopros-deep-sea-capturing-unforgettable-underwater-scenes/)? You can't use jumper cables on the massive battery cell, but EVs still have a regular 12V auxiliary battery that can occasionally die. You'll want to take care of that battery just as you do the bigger one that keeps the wheels moving.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Opt for Slow Charging When Possible
 
 ![Rivian R1T plugged into a ChargePoint CCS charger.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/52766636975_33e3991188_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
@@ -87,10 +90,19 @@ Tyler Hayes / How-To Geek
 
  While there's nothing wrong with using something like a fast 350kW charging station, for overall lifetime longevity, opt for a slower charger when you have the time.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Drive With Restraint
 
 ![EV car battery pack](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/3c6fd70e.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_1265663" src="//a.impactradius-go.com/gen-ad-code/5597632/1265663/4482" width="300" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 _[Sergii Chernov/Shutterstock.com](https://www.shutterstock.com/image-photo/ev-car-battery-pack-electric-lithium-1297860037)_
 
  Just like aggressive driving with a gasoline vehicle will lower MPG and stress the engine, that same type of driving can negatively affect the battery in an EV. So, you'll want to try and maintain good driving habits alongside everything else mentioned above. Basically, treat the battery like you would an engine in any other vehicle, as it's the most important component to staying on the road and out of a junkyard.

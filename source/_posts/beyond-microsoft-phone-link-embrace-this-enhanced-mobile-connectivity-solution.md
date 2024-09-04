@@ -1,7 +1,7 @@
 ---
 title: "Beyond Microsoft Phone Link: Embrace This Enhanced Mobile Connectivity Solution"
-date: 2024-08-29T20:42:33.041Z
-updated: 2024-08-30T20:42:33.041Z
+date: 2024-09-03T10:46:57.614Z
+updated: 2024-09-04T10:46:57.614Z
 tags:
   - deals
 categories:
@@ -25,6 +25,9 @@ thumbnail: https://thmb.techidaily.com/1e11de4cf4f80ef092048741d4366db23f2bbee14
 
  Microsoft Phone Link is a great app that allows you to access your phone from your Windows PC. But what if you want to do that and also access your Windows PC from your phone? Well, here’s a feature-rich, versatile, cross-device wireless communication and data-sharing app: [KDE Connect](http://kdeconnect.kde.org/).
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_1982461" src="//a.impactradius-go.com/gen-ad-code/5597632/1982461/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ##  Microsoft Phone Link: Features and Limitation
 
  The [Microsoft Phone Link app](https://www.microsoft.com/en-in/windows/sync-across-your-devices), formerly Your Phone, is a Microsoft application that enables you to connect Android or iOS smartphones to your PC. Once set up, you can access your phone notifications and connectivity status from your PC. You can also control your phone’s media player, volume, and Do Not Disturb (DND) settings, respond to texts, take phone calls (if Bluetooth enabled), and view & transfer files from your photo gallery.
@@ -32,7 +35,10 @@ thumbnail: https://thmb.techidaily.com/1e11de4cf4f80ef092048741d4366db23f2bbee14
 ![Microsoft Phone Link App overview on PC 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/microsoft-phone-link-app-overview-on-pc-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  The app also provides advanced functionalities like phone screen mirroring, cross-device clipboard sharing, and opening phone apps on the PC. However, the complete Phone Link experience, including these advanced features, is only available to [mainly Samsung smartphones and a few other models](https://support.microsoft.com/en-gb/topic/supported-devices-for-phone-link-experiences-cb044172-87aa-9e41-d446-c4ac83ce8807). This makes the Phone Link app lackluster for most users with an unsupported smartphone. Luckily, all of us have got KDE Connect.
 
@@ -49,8 +55,10 @@ Close
 ![Open Plugin settings on KDE Connect Phone App](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/open-plugin-settings-on-kde-connect-phone-app-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Just tap the toggle next to each option to enable or disable it.
 
@@ -61,7 +69,10 @@ Close
 ![Permissions required for KDE Plugins to Funciton Properly](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/permissions-required-for-kde-plugins-to-funciton-properly.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  KDE Connect doesn’t send your data to the cloud and works over your local Wi-Fi without using the internet. This means your data transferred via the app isn’t stored on any server. What’s more, all data is TLS-encrypted. Check out its [privacy policy page](https://community.kde.org/KDEConnect/PrivacyPolicy) for more information on its security measures.
 
@@ -75,6 +86,12 @@ Close
 
 ![Phone Notifications showing on PC via KDE Connect](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/phone-notifications-showing-on-pc-via-kde-connect-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  KDE Connect also allows you to _share your clipboard_. Once you copy something on your PC, you can open the KDE Connect app and click "Send Clipboard" to your phone. Alternatively, you can also head over to the Plugin Settings, go to Clipboard settings, and check "Automatically share the clipboard from this device". Whereas on your phone, you need to first copy something and then use the KDE persistent notification to "Send Clipboard" to your PC.
 
 Close 
@@ -92,7 +109,10 @@ Close
 ![Incoming Phone call notification on PC via KDE Connect](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/incoming-phone-call-notification-on-pc-via-kde-connect-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  That said, you do get the handy option to automatically pause any media playback on your PC or reduce the volume when you get a call. To enable this, go to Plugin Settings on the KDE Connect PC app and check the "Pause media during calls" option.
 
@@ -100,9 +120,6 @@ Close
 
 Close 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ###  Slideshow Controls
 
  A unique and impressive feature of KDE Connect is Slideshow Controls. It allows you to control a slideshow on your PC from the KDE Connect app on your phone. You can open your Photo Gallery, Google Slides, or PowerPoint and use your phone to jump to the next or previous slides.
@@ -113,11 +130,11 @@ Close
 
 ![KDE Connect Slideshow Pointer feature](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/kde-connect-slideshow-pointer-feature.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Dibakar Ghosh | How-To Geek
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_1983471" src="//a.impactradius-go.com/gen-ad-code/5597632/1983471/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ###  Transfer Large Files
 
  With KDE Connect, you can send large files from your PC to your phone and vice versa. To send files from your PC to your phone, right-click on the KDE Connect icon in the system tray, select your phone, and then select "Send a File/URL." A pop-up dialog box will appear from where you can either type in a URL or select a file and then send it to your phone. Alternatively, you can also browse your phone storage using KDE Connect by selecting the "Browse Device" feature and then drag and drop files between your phone and PC.
@@ -148,9 +165,6 @@ Close
 
  To test, tap on "Lock Screen," and your PC's screen will lock. Likewise, tap on "File Explorer" to open File Explorer. You’re only restricted by your imagination at this point.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ##  What Happened to Screen Mirroring Though?
 
  Okay, KDE Connect can’t do screen mirroring. However, it’s also a very limited feature on Phone Link that is available for Microsoft Surface Duo and a few select devices, namely Samsung Galaxy smartphones. That said, you don't need to buy a Samsung device to have this feature. You can use [Scrcpy to mirror and control your android phone on any Windows PC](https://win11-tips.techidaily.com/workflow-enhancer-integrating-sticky-notes-into-your-windows-morning-ritual/).

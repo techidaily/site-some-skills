@@ -1,7 +1,7 @@
 ---
 title: "Exciting Updates: GIMP Introduces Advanced Gradient Capabilities Ahead of the 3.0 Update"
-date: 2024-08-29T20:43:32.486Z
-updated: 2024-08-30T20:43:32.486Z
+date: 2024-09-03T10:46:58.416Z
+updated: 2024-09-04T10:46:58.416Z
 tags:
   - deals
 categories:
@@ -86,5 +86,8 @@ The latest GIMP release (version 2.10.36) introduces a fun new gradient tool and
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
