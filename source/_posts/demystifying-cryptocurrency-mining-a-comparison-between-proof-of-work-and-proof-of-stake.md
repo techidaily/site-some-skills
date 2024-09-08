@@ -1,7 +1,7 @@
 ---
 title: "Demystifying Cryptocurrency Mining: A Comparison Between Proof of Work and Proof of Stake"
-date: 2024-09-03T10:46:59.040Z
-updated: 2024-09-04T10:46:59.040Z
+date: 2024-09-07T22:19:52.174Z
+updated: 2024-09-08T22:19:52.174Z
 tags:
   - cutting-edge
 categories:
@@ -9,8 +9,26 @@ categories:
 thumbnail: https://thmb.techidaily.com/dc4cacbc8b493fc632f86712912ebd59bbc9ecbefdaf01df729929788c56ed4e.jpeg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Demystifying Cryptocurrency Mining: A Comparison Between Proof of Work and Proof of Stake
 
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Proof of What?](https://remote-screen-capture.techidaily.com/new-conquering-common-challenges-easy-steps-for-your-ipad-capture-process-for-2024/)
@@ -20,6 +38,12 @@ thumbnail: https://thmb.techidaily.com/dc4cacbc8b493fc632f86712912ebd59bbc9ecbef
 
  Despite being such a new technology, there is a long-standing debate about the best method blockchains use to verify transactions and add them to the blockchain. The debate is between proof of work and proof of stake, and there are cryptocurrencies that use each.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Proof of What?
 
  This process of verifying transactions and adding them to a [blockchain](https://facebook-videos.techidaily.com/updated-2024-approved-top-playlist-hits-social-medias-1-10-video-winners/) is known as a consensus mechanism. In essence, blockchains are interconnected databases constantly trying to stay in communication with each other. To maintain accuracy all blockchains try to achieve consensus. Achieving consensus ensures that transactions on the network are all matching and therefore legitimate.
@@ -31,7 +55,10 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
  An understanding of proof of work and proof of stake helps establish foundational knowledge on the value of blockchain technology, the pros and cons of different consensus methods, and the current state of affairs in cryptocurrencies.
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_1983446" src="//a.impactradius-go.com/gen-ad-code/5597632/1983446/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Miners at Work
 
@@ -42,7 +69,10 @@ Related: [What Is Crypto Mining, and How Does It Work?](https://vimeo-videos.tec
  In order to mine the next block and earn their reward, miners must solve extremely complex math problems. These problems are solved quickest with the help of powerful computers that run 24/7 to solve the problem associated with the next block. One of the benefits of proof of work is that less powerful computers can pool resources together to compete with the stronger computers for these rewards. This feature ensures an individual with a large amount of computing power cannot centralize block creation or act maliciously.
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_1983545" src="//a.impactradius-go.com/gen-ad-code/5597632/1983545/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Validators and Staking
 
@@ -51,10 +81,16 @@ Related: [What Is Crypto Mining, and How Does It Work?](https://vimeo-videos.tec
  The proof of stake consensus mechanism selects validators at random, but those validators with the most money that has been staked the longest increase their chances of creating the next block. Similar to how miners with less powerful computers can group together on proof of work, validators on proof of stake can pool their money together to compete with other validators that might have more block-creating power. This is known as a staking pool.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  The Big Picture
 

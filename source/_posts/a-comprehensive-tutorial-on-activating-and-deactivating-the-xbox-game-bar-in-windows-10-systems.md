@@ -1,7 +1,7 @@
 ---
 title: A Comprehensive Tutorial on Activating and Deactivating the Xbox Game Bar in Windows 10 Systems
-date: 2024-09-03T10:46:56.053Z
-updated: 2024-09-04T10:46:56.053Z
+date: 2024-09-07T22:19:49.417Z
+updated: 2024-09-08T22:19:49.417Z
 tags:
   - desktop
 categories:
@@ -11,11 +11,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## A Comprehensive Tutorial on Activating and Deactivating the Xbox Game Bar in Windows 10 Systems
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [How to Disable (Or Enable) the Game Bar on Windows 10](https://www.howtogeek.com/705656/how-to-disable-or-enable-windows-10s-game-bar/#how-to-disable-or-enable-the-game-bar-on-windows-10)
 * [How to Disable the Xbox Button in Windows 10](https://youtube-clips.techidaily.com/2024-approved-elevate-your-recordings-doing-without-a-microphone/)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Open Windows Settings, click "Gaming," then click the "Enable Game Bar" switch to the "Off" position to disable the Game Bar completely.
@@ -24,7 +36,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Microsoft's [Game Bar](https://facebook-video-recording.techidaily.com/2024-approved-harnessing-the-power-of-imagery-for-engaging-fb-slideshows/) in Windows 10 is a handy way to call up an overlay of useful widgets using the Windows+G keyboard shortcut. But not everyone needs it, and if you'd like to disable it (or enable it again later), all it takes is a visit to Settings. Here's how.
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_1834906" src="//a.impactradius-go.com/gen-ad-code/5597632/1834906/16836" width="728" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  How to Disable (Or Enable) the Game Bar on Windows 10
 
@@ -33,21 +48,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Click the 'Gaming' option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-click-gaming.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Under "Game Bar" settings, click the switch beneath "Enable Game Bar" until it is turned off. That will disable the Game Bar.
 
 ![Click the toggle under 'Game Bar' to disable it completely.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-turn-game-bar-off.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After that, close the Settings app. Try pressing Windows+G, and nothing will pop up. Even if you press the Xbox button on an Xbox controller, nothing will happen. The Game Bar has been fully disabled.
 
  If you'd like to enable the Game Bar again, revisit the "Gaming" section in Windows Settings and flip the "Enable Game Bar" to the "On" position.
@@ -55,13 +64,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The Game Bar toggle in the On position.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-turn-game-bar-on.png) 
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_1982461" src="//a.impactradius-go.com/gen-ad-code/5597632/1982461/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  How to Disable the Xbox Button in Windows 10
 
@@ -72,10 +78,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Untick the box to disable the Game Bar button on your controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-disable-game-bar-button.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Alternately, if you disable the Game Bar completely using the "Enable Game Bar" switch, then the Xbox button on your controller will no longer call up the Game Bar. But that also disables calling up the Game Bar using other methods (such as the Windows+G shortcut).
 

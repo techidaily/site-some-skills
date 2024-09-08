@@ -1,7 +1,7 @@
 ---
 title: "Mastering Image Navigation: Tips on Zooming & Panning Features Within MidJourney"
-date: 2024-09-03T10:47:00.420Z
-updated: 2024-09-04T10:47:00.420Z
+date: 2024-09-07T22:19:53.464Z
+updated: 2024-09-08T22:19:53.464Z
 tags:
   - cutting-edge
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/3299531766a0d348d78dd04349d2683155a00d71b7ac283c24ce186055580244.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Mastering Image Navigation: Tips on Zooming & Panning Features Within MidJourney
 
 ### Key Takeaways
@@ -32,15 +38,27 @@ knight in shining armor art deco --ar 9:21
 
 ![Result of prompt "Knight in shining armor art deco --ar 9:21" showing a grid of four knights.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/screenshot-2023-07-27-at-14-51-56.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  That came out great! I like the first one the most, so next we're using the "U1" button to upscale that image.
 
 ![Screenshot 2023-07-27 at 14.56.36](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/screenshot-2023-07-27-at-14-56-36.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Panning Your MidJourney Image
 
@@ -49,16 +67,31 @@ knight in shining armor art deco --ar 9:21
 ![Selecting the pan-up button in a upscaled MidJourney Image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/screenshot-2023-07-27-at-14-56-36-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_1993651" src="//a.impactradius-go.com/gen-ad-code/5597632/1993651/22993" width="160" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  MidJourney now tries to "imagine" what might be above the knight's head. In this case, image three has the negative space we wanted, so we'll upscale that one.
 
 ![Four variations of the panned up knight image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/screenshot-2023-07-27-at-14-59-32.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  And now we have the perfect lock-screen composition.
 
 ![iPhone Lock screen using our panned up knight image with negative space above the head](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/img_4d99b4753a60-1.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  But that's just the tip of the iceberg when it comes to panning. It works with much more complex image. For example, let's take this image I prompted of a woman sitting on a couch in a pop art style.
 
 ![Pop art of woman sitting on a couch generated with MidJourney](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/pop-art-1.png) 
@@ -70,7 +103,16 @@ MidJourney / How-To Geek / Sydney Butler
 ![Pop art of two women sitting on a couch generated in MidJourney](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/pop-art-2.png) 
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_1983551" src="//a.impactradius-go.com/gen-ad-code/5597632/1983551/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 MidJourney / How-To Geek / Sydney Butler
 
@@ -82,38 +124,26 @@ Prompt: Woman Sitting on Couch 50 Pop Art
 
 ![MidJourney 2x Zoom Button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/screenshot-2023-07-27-at-15-12-06.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  As with a normal image prompt, you get four different variations and can upscale whichever ones you like best.
 
 ![Woman Sitting on Couch Variations After Zooming](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/gendowasright_woman_sitting_on_couch_50_pop_art_9215ff87-2c11-46ad-985c-be625c9d6f0d.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  While this is pretty cool, the real magic happens if you choose "custom zoom" instead.
 
 Prompt: woman sitting on couch 50 pop art surrounded by clowns --v5.1 --ar 16:9 --zoom 2
 
 ![The Custom Zoom Prompt Window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/screenshot-2023-07-27-at-15-17-41.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Here you can change the original prompt, add to it, change the zoom level, and set the aspect ratio. I've set the aspect ratio to 16:9, left the zoom level at 2x, and modified the prompt to ask that our couch lady be surrounded by pop art clowns, because I'm very evil.
 
 ![Pop Art Midjourney Image Custom Zoom Woman Surrounded by Clowns](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/gendowasright_woman_sitting_on_couch_50_pop_art_surrounded_by_c_3b0c83b7-81c2-4731-8e47-d5961538c317.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now we've expanded our original image into something cohesive and new! So go ahead and see what's hiding just outside of the frame of your MidJourney images.
 
 <ins class="adsbygoogle"

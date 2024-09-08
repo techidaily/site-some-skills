@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Simplicity of the Modern Volkswagen ID.3: A Button-Free Design Approach"
-date: 2024-09-03T10:46:59.682Z
-updated: 2024-09-04T10:46:59.682Z
+date: 2024-09-07T22:19:52.786Z
+updated: 2024-09-08T22:19:52.786Z
 tags:
   - cutting-edge
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/d63759b0de073aa0fe2a9e240d0626e991d2055a110a13a7ea5ba7a42e20218a.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Exploring the Simplicity of the Modern Volkswagen ID.3: A Button-Free Design Approach
 
 The all-electric Volkswagen ID.3 started rolling off assembly lines in 2020, and VW has been hard at work on a second-generation model. Now, Volkswagen has shared some details about the next version.
@@ -21,6 +27,12 @@ Related: [Volkswagen's New Battery Factories Could Lead to Cheaper EVs](https://
 
 ![Render of new ID.3 interior](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/VW-interior.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 _Volkswagen_
 
  Assuming the early renders are accurate, most of the car's controls appear to be accessible only from one of the touch screens. That would bring the car more in line with competitors like Tesla, but is definitely a downgrade in usability -- physical buttons are easier to find and press without [taking your eyes off the road](https://slate.com/business/2021/09/infotainment-tesla-mercedes-ford-volvo-distraction.html). Software controls in cars are also usually slow to respond, but the new ID.3 might be a different story.
@@ -114,10 +126,3 @@ Related: [Why You Should Buy a Hybrid Instead of an Electric Car](https://facebo
 <li><a href="https://win-blog.techidaily.com/unlock-your-palworld-account-on-eos-a-guide-to-successfully-resolving-6-common-login-problems/"><u>Unlock Your Palworld Account on EOS: A Guide to Successfully Resolving 6 Common Login Problems</u></a></li>
 <li><a href="https://facebook-video-share.techidaily.com/youtube-kiddie-corner-10-year-old-ryan-hits-millionaire-mark-for-2024/"><u>YouTube Kiddie Corner  10-Year-Old Ryan Hits Millionaire Mark for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

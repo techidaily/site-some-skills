@@ -1,7 +1,7 @@
 ---
 title: Microsoft Trials Innovative Start Menu and Promotional Content Integration in Windows 11 Preview
-date: 2024-09-03T10:46:57.292Z
-updated: 2024-09-04T10:46:57.292Z
+date: 2024-09-07T22:19:50.517Z
+updated: 2024-09-08T22:19:50.517Z
 tags:
   - desktop
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-logo.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Microsoft Trials Innovative Start Menu and Promotional Content Integration in Windows 11 Preview
 
 Microsoft is testing new account management, emailing, and widget functionality in the latest Windows 11 Beta build (version 22635.3500). Most users will appreciate the new Beta features, though we're sure to see complaints about integrated advertisements.
@@ -109,10 +115,3 @@ Close
 <li><a href="https://some-skills.techidaily.com/uncover-youtubes-preview-disabling-secret-for-2024/"><u>Uncover YouTube's Preview Disabling Secret for 2024</u></a></li>
 <li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-realme-11-5g-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Realme 11 5G on Windows?</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

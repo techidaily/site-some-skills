@@ -1,7 +1,7 @@
 ---
 title: How Meta Quest 3 Brings Apple-Inspired Innovation with Its New Oculus Headset
-date: 2024-09-03T10:47:00.364Z
-updated: 2024-09-04T10:47:00.364Z
+date: 2024-09-07T22:19:53.411Z
+updated: 2024-09-08T22:19:53.411Z
 tags:
   - cutting-edge
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/hand-holding-the-quest-3-1.JPG
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Meta Quest 3 Brings Apple-Inspired Innovation with Its New Oculus Headset
 
 Apple released the Vision Pro headset back in February, putting pressure on Meta and other companies making virtual reality and augmented reality devices to step up their game. Now, an update is rolling out to Meta Quest headsets with some helpful improvements.
@@ -23,6 +29,12 @@ Apple released the Vision Pro headset back in February, putting pressure on Meta
 
 ![Screenshot of external mic setting in Quest virtual environment.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/423715668_382067934657462_5576215747927304603_n-large.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Meta
 
  Meta is also improving the mobile casting feature on Quest headsets: the stream won’t shut down when the headset is taken off temporarily. The Lying Down mode is also coming to the Quest 3 after previously showing up on the Quest 2, and Meta is adding a new Horizon Worlds button to profiles in the People app.
@@ -107,10 +119,3 @@ Meta
 <li><a href="https://some-skills.techidaily.com/unlocking-the-secrets-of-turning-online-videos-into-desktop-music-files-for-2024/"><u>Unlocking the Secrets of Turning Online Videos Into Desktop Music Files for 2024</u></a></li>
 <li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-on-your-apple-iphone-x-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled On your Apple iPhone X? How to Fix</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

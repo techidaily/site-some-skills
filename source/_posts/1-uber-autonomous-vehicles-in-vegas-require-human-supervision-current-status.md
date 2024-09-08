@@ -1,7 +1,7 @@
 ---
 title: "1. Uber Autonomous Vehicles in Vegas Require Human Supervision: Current Status"
-date: 2024-09-03T10:47:00.182Z
-updated: 2024-09-04T10:47:00.182Z
+date: 2024-09-07T22:19:53.233Z
+updated: 2024-09-08T22:19:53.233Z
 tags:
   - cutting-edge
 categories:
@@ -9,6 +9,18 @@ categories:
 thumbnail: https://thmb.techidaily.com/7d954d5ef5beb31b578dcda4509d16e23f0ef0d1b79a76b01e4834ddb01328ea.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1. Uber Autonomous Vehicles in Vegas Require Human Supervision: Current Status
 
 Testing a robotaxi along the strip in Vegas with the drunken crowds and bright lights and occasional escaped lion seems like a natural fit. If they can handle that, other cities should be a breeze.
@@ -115,7 +127,3 @@ Related: [Mercedes Wants You to Pay a Subscription for Full Speed](https://windo
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-want-to-edit-your-nikon-video-files-here-a-powerful-yet-easy-to-use-nikon-video-editor-is-introduced-for-you-to-easily-achieve-that/"><u>Updated In 2024, Want to Edit Your Nikon Video Files? Here, a Powerful yet Easy-to-Use Nikon Video Editor Is Introduced for You to Easily Achieve That</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/windows-auditory-enhancement-tools-selecting-the-prime-candidates-for-decibel-reduction-for-2024/"><u>Windows Auditory Enhancement Tools Selecting the Prime Candidates for Decibel Reduction for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<iframe id="iframe_1834906" src="//a.impactradius-go.com/gen-ad-code/5597632/1834906/16836" width="728" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->

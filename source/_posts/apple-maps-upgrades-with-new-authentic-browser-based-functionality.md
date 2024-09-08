@@ -1,7 +1,7 @@
 ---
 title: Apple Maps Upgrades with New, Authentic Browser-Based Functionality
-date: 2024-09-03T10:46:54.410Z
-updated: 2024-09-04T10:46:54.410Z
+date: 2024-09-07T22:19:48.000Z
+updated: 2024-09-08T22:19:48.000Z
 tags:
   - web
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/apple-maps.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Apple Maps Upgrades with New, Authentic Browser-Based Functionality
 
 Apple Maps is a great alternative to Google Maps, but the lack of a desktop web app made it inaccessible outside of Apple’s own devices. That’s finally changing, with the arrival of Apple Maps on the web.
@@ -19,6 +25,12 @@ Apple Maps is a great alternative to Google Maps, but the lack of a desktop web 
 
 ![Screenshot of Raleigh, NC in the Apple Maps web app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/clipboard-jul-24-2024-at-5-00-pm.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Apple said in a press release, “Now, users can get driving and walking directions; find great places and useful information including photos, hours, ratings, and reviews; take actions like ordering food directly from the Maps place card; and browse curated Guides to discover places to eat, shop, and explore in cities around the world. Additional features, including Look Around, will be available in the coming months.”
 
  The web app still doesn’t make Apple Maps a drop-in replacement for Google Maps, since there’s no Android app or support for mobile web browsers, but it’s a step in the right direction. Once there’s better integration with iCloud, it could be especially helpful for people using an iPhone for most mapping and navigation, but still need to check their saved data on a PC or Chromebook.
@@ -82,10 +94,3 @@ Apple Maps is a great alternative to Google Maps, but the lack of a desktop web 
 <li><a href="https://some-skills.techidaily.com/windows-10-beta-version-update-downloaded-but-cant-progress-beyond-setup-fix-available/"><u>Windows 10 Beta Version Update Downloaded but Can't Progress Beyond Setup - Fix Available</u></a></li>
 <li><a href="https://some-skills.techidaily.com/windows-10-lock-screen-timeout-change-and-adjust/"><u>Windows 10 Lock Screen Timeout: Change and Adjust</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

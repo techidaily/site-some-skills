@@ -1,7 +1,7 @@
 ---
 title: "Potential Data Leak: How the Theft of Customer Information From Ticketmaster Raises Alarm"
-date: 2024-09-03T10:46:54.765Z
-updated: 2024-09-04T10:46:54.765Z
+date: 2024-09-07T22:19:48.340Z
+updated: 2024-09-08T22:19:48.340Z
 tags:
   - web
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/83c5660b04b63555c35a3b29a7e2fd7ac8060798e2fb3cf7dc99c41ddcfc3162.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Potential Data Leak: How the Theft of Customer Information From Ticketmaster Raises Alarm
 
 Concertgoers regularly complain about Ticketmaster's hidden fees and alleged monopolistic behavior. Unfortunately, we just found a new reason to be upset with Ticketmaster—hackers claim to have breached the vendor and are now selling the names, addresses, and partial payment details of over 500,000,000 customers.
@@ -113,10 +119,3 @@ Concertgoers regularly complain about Ticketmaster's hidden fees and alleged mon
 <li><a href="https://some-skills.techidaily.com/windows-10-creators-update-download-stuck-and-no-sound-issues-fixed/"><u>Windows 10 Creators Update: Download Stuck & No Sound Issues [Fixed]</u></a></li>
 <li><a href="https://some-skills.techidaily.com/windows-10-lock-screen-timeout-change-and-adjust/"><u>Windows 10 Lock Screen Timeout: Change and Adjust</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

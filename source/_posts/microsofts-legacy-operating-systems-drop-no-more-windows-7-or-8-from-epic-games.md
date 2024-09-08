@@ -1,7 +1,7 @@
 ---
 title: "Microsoft's Legacy Operating Systems Drop: No More Windows 7 or 8 From Epic Games"
-date: 2024-09-03T10:46:57.742Z
-updated: 2024-09-04T10:46:57.742Z
+date: 2024-09-07T22:19:50.933Z
+updated: 2024-09-08T22:19:50.933Z
 tags:
   - deals
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/802eeff691c55a6d5d09cbae446dc45a39ed24ae91160c0e7074f7929a9448f1.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Microsoft's Legacy Operating Systems Drop: No More Windows 7 or 8 From Epic Games
 
 In June 2024, the Epic Games Launcher will end support for Windows 7, Windows 8 (or 8.1), and 32-bit Windows 10 installations. You may continue using the Epic Games Launcher with these operating systems, but the lack of software support will eventually lead to broken or degraded functionality.
@@ -81,10 +87,3 @@ In June 2024, the Epic Games Launcher will end support for Windows 7, Windows 8 
 <li><a href="https://some-skills.techidaily.com/the-ultimate-windows-mobile-video-playback-guide-for-2024/"><u>The Ultimate Windows Mobile Video Playback Guide for 2024</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/updated-androids-premier-digital-audio-workstation-apps-for-top-notch-music-creation-for-2024/"><u>Updated Androids Premier Digital Audio Workstation Apps for Top-Notch Music Creation for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

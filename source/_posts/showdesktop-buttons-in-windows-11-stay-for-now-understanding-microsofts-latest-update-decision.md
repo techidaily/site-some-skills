@@ -1,7 +1,7 @@
 ---
 title: "ShowDesktop Buttons in Windows 11 Stay for Now: Understanding Microsoft’s Latest Update Decision"
-date: 2024-09-03T10:46:57.418Z
-updated: 2024-09-04T10:46:57.418Z
+date: 2024-09-07T22:19:50.619Z
+updated: 2024-09-08T22:19:50.619Z
 tags:
   - desktop
 categories:
@@ -9,6 +9,18 @@ categories:
 thumbnail: https://thmb.techidaily.com/bf6ce710c3b83bd0300511eb0a114987cd6a644274eb54a39fdf9870b6c3de78.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ShowDesktop Buttons in Windows 11 Stay for Now: Understanding Microsoft’s Latest Update Decision
 
 Microsoft _really_ wants you to use its Copilot AI assistant. The company even went as far as replacing the Show Desktop button in Windows 11 with a button to open Copilot. That was apparently a step too far, as the change is now being reversed.
@@ -19,6 +31,18 @@ Microsoft _really_ wants you to use its Copilot AI assistant. The company even w
 
 ![Copilot Invasive](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/copilot-invasive.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Microsoft
 
  Microsoft only said the reversal was “in response to feedback” and didn’t elaborate further. The change [didn’t seem](https://www.reddit.com/r/Windows11/comments/1as1yjk/microsoft%5Fin%5Ftheir%5Finfinite%5Fwisdom%5Fhas%5Freplaced/) to [be popular](https://www.reddit.com/r/Windows11/comments/1asc3ef/the%5Fshow%5Fdesktop%5Fbutton%5Fis%5Fgone%5Fhow%5Fdo%5Fi%5Fbring%5Fit/), since the Show Desktop button been around for 15 years and many people don’t want to use Copilot at all. It’s not clear if that initial change made it to many people outside the Windows 11 Insider Preview channels, but soon it will be reversed. You can also change it manually by right-clicking on the taskbar and selecting “Taskbar settings,” or by opening the Settings app and navigating to Personalization > Taskbar.
@@ -112,10 +136,3 @@ Microsoft
 <li><a href="https://some-skills.techidaily.com/unveiling-vr-video-versus-spherical-capture-tech-distinctions-for-2024/"><u>Unveiling VR Video versus Spherical Capture Tech Distinctions for 2024</u></a></li>
 <li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-free-dvd-playback-made-easy-top-10-windows-10-players/"><u>Updated 2024 Approved Free DVD Playback Made Easy Top 10 Windows 10 Players</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

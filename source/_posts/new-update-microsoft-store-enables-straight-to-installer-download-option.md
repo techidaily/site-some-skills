@@ -1,7 +1,7 @@
 ---
 title: "New Update: Microsoft Store Enables Straight-to-Installer Download Option"
-date: 2024-09-03T10:46:57.325Z
-updated: 2024-09-04T10:46:57.325Z
+date: 2024-09-07T22:19:50.547Z
+updated: 2024-09-08T22:19:50.547Z
 tags:
   - desktop
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/8f7f92c4fc16a81d47d86f2a37a2e3afe657d72abf04f0d91c9f6ae155f73630.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## New Update: Microsoft Store Enables Straight-to-Installer Download Option
 
 The Microsoft Store is the default app store on Windows PCs, and it has become much more usable over the past few years. There’s now another helpful improvement rolling out: direct downloads in the web browser.
@@ -19,6 +25,12 @@ The Microsoft Store is the default app store on Windows PCs, and it has become m
 
 ![Screenshot of the installer for iCloud opened from the Microsoft Store website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/clipboard-apr-22-2024-at-11-25-am.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Rudy Huyn from Microsoft said, “The feedback from developers and users who participated in the initial three rounds of our experiment has been extremely positive, and the results clearly demonstrate this. This new method of installing Store applications has, on average, led to a 12% increase in installations and a 54% increase in the number of applications launched after installation.”
 
  The new installer downloads are not yet rolled out to all applications on the Microsoft Store. For example, I tried clicking the Install button on OneNote and it opened in the Microsoft Store, but the Install button on the iCloud app downloaded an installer. That should change as Microsoft generates installers for more apps listed in the store.
@@ -94,7 +106,3 @@ The Microsoft Store is the default app store on Windows PCs, and it has become m
 <li><a href="https://buynow-reviews.techidaily.com/unlocking-the-future-elite-key-locators-ranked/"><u>Unlocking the Future: Elite Key Locators Ranked</u></a></li>
 <li><a href="https://ios-location-track.techidaily.com/1721099269689-your-seagate-hdd-on-the-fence-in-win10-heres-what-to-do/"><u>Your Seagate HDD on the Fence in Win10? Here's What To Do!</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<iframe id="iframe_1983551" src="//a.impactradius-go.com/gen-ad-code/5597632/1983551/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->

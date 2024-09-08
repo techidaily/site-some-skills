@@ -1,7 +1,7 @@
 ---
 title: Discover the Overlooked YouTube Function Both You & I Miss
-date: 2024-09-03T10:46:54.529Z
-updated: 2024-09-04T10:46:54.529Z
+date: 2024-09-07T22:19:48.112Z
+updated: 2024-09-08T22:19:48.112Z
 tags:
   - web
 categories:
@@ -9,8 +9,26 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-of-youtube-showing-the-watch-later-playlist.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Discover the Overlooked YouTube Function Both You & I Miss
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * "Watch Later" is often overlooked due to its hidden interface and placement of other buttons promoting Shorts, Premium, and donations.
@@ -19,21 +37,45 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  I spend my fair share on YouTube, especially when doing chores. A good proportion of the videos I watch are well over 30 minutes, so I watch them in installments. The problem is that I sometimes forget to finish these videos. The "Watch later" playlist can fix this, but I always forget it exists.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Why We Forget to Use “Watch Later”
 
  There are a few factors that contribute to us forgetting about "Watch Later." The first is that both the "Save" button and the playlist itself are buried just a bit too deep in the [interface](https://twitter-videos.techidaily.com/updated-2024-approved-from-novice-to-pro-conquering-twitter-streams/). If you want to save a video on a computer, you have to click on the three dots to open the additional menu, hit "Save," and then select the "Watch Later" playlist. It's also weird that they use the Add to Playlist icon style instead of a traditional Save icon.
 
 ![Saving a YT video on PC.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/saving-a-video-on-pc.png) 
 
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The Save button is less buried in the mobile app, but it's still preceded by Like, Dislike, Share, Remix, Download, and Thanks. While Like, Dislike, and Share make sense to go before the Save button, I can't help but think that the other buttons were placed deliberately and tactically to promote YouTube Shorts, Premium, and donations over a core app function. At least they use the more traditional Save icon we're accustomed to from other platforms. If it's out of sight, it's out of mind, which is why so many forget it even exists.
 
 ![Saving a video in the YT app on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot_2024-07-09-11-51-00-08_f9ee0578fe1cc94de7482bd41accb329.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  “Watch Later” Shouldn’t Be a Playlist
 

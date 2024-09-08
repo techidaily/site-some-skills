@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary 3D Ink Requires Just Saltwater: No Light or Heat Needed"
-date: 2024-09-03T10:46:59.912Z
-updated: 2024-09-04T10:46:59.912Z
+date: 2024-09-07T22:19:52.989Z
+updated: 2024-09-08T22:19:52.989Z
 tags:
   - cutting-edge
 categories:
@@ -9,6 +9,18 @@ categories:
 thumbnail: https://thmb.techidaily.com/60a050976608e9140d90809a0ac2529ef41e9995b243e26e295a790742b88b8b.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Revolutionary 3D Ink Requires Just Saltwater: No Light or Heat Needed
 
 A multinational team of researchers has developed a novel 3D printing ink that can be used to create easily recyclable electronic circuits without the need for toxic chemicals, heat, or even light.
@@ -17,6 +29,12 @@ A multinational team of researchers has developed a novel 3D printing ink that c
 
 ![a 3d printer extruding PNIPAM](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/3d-printer-pnipam.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Nature Communications](https://www.nature.com/articles/s41467-024-48121-7)
 
 [The newly developed ink](https://www.nature.com/articles/s41467-024-48121-7), which uses a non-toxic polymer called poly(N-isopropylacrylamide), or PNIPAM, needs neither light nor heat. For it to cure, it only needs room temperature salt water. PNIPAM has long been used by the pharmaceutical industry in drug delivery systems. In this case, it is extruded from a healthcare-grade [3D printer](https://screen-activity-recording.techidaily.com/new-in-2024-obs-full-screen-no-more-problem/) directly into a solution of calcium chloride and water to form neatly arrayed, electrically conductive structures the moment the polymers contact the water. And because the PNIPAM molecules crosslink with themselves due to this "salting out" effect, the material doesn't need to be bathed in ultraviolet light and high temperatures at the end of the printing process. The research team envisions the new ink being used in a variety of applications including "water-soluble disposable electronic circuits, carriers for delivering small materials, and smart actuators."
@@ -94,7 +112,3 @@ A multinational team of researchers has developed a novel 3D printing ink that c
 <li><a href="https://win-blog.techidaily.com/troubleshooting-internet-delays-and-enhancing-connection-speeds-for-cs2/"><u>Troubleshooting Internet Delays & Enhancing Connection Speeds for CS2</u></a></li>
 <li><a href="https://some-skills.techidaily.com/understanding-the-power-shift-from-sdr-to-hdr-in-media-for-2024/"><u>Understanding the Power Shift From SDR to HDR in Media for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<iframe id="iframe_1993647" src="//a.impactradius-go.com/gen-ad-code/5597632/1993647/22993" width="160" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->

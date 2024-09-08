@@ -1,7 +1,7 @@
 ---
 title: "Creating Music with AI Without Spending a Penny: Discover 5 Effective Techniques"
-date: 2024-09-03T10:46:59.013Z
-updated: 2024-09-04T10:46:59.013Z
+date: 2024-09-07T22:19:52.147Z
+updated: 2024-09-08T22:19:52.147Z
 tags:
   - cutting-edge
 categories:
@@ -38,8 +38,20 @@ thumbnail: https://thmb.techidaily.com/6b2ec2941933023600c9882b03f190635c85fa9ba
 
 ![Suno.com, a user is describing their song to the website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/suno-create.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Suno is pretty generous to free users. You can download your creations or share them with the world. I highly recommend Suno, especially because it's so easy for anyone to use.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  2\. Starting with AIVA
 
 [AVIA](https://creators.aiva.ai/) is an advanced music generation assistant that lets you compose your own music. It's quite different from OpenAI's Suno. Instead of just typing in lyrics, and a musical style, and hitting "Create," AVIA involves a more interactive process where you choose musical styles, keys, and more to craft a new song.
@@ -50,6 +62,12 @@ thumbnail: https://thmb.techidaily.com/6b2ec2941933023600c9882b03f190635c85fa9ba
 
 ![The first section of Avia's 'step-by-step,' where you choose  style.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/avia-style.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Next, you’ll pick a musical style. Hit the preview button, find what you like, and click "Select."
 
  Then, move on to choosing a "Chord Progression." Enter your progression in the text box and hit "Generate."
@@ -57,24 +75,30 @@ thumbnail: https://thmb.techidaily.com/6b2ec2941933023600c9882b03f190635c85fa9ba
 ![The AVIA chord progression area of the music creation ai tool.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/avia-chrod.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  You can play around with the composition’s layers next, selecting the instruments you want to include. After setting up your instruments, click "Next" to finalize your composition and take a listen.
 
 ![The AVIA musical layers of the composition.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/avia-workflow.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  AVIA is an incredible tool for those who want to dive deeper into creating music with AI. While some musical knowledge can help, it’s also a great starting point for beginners!
 
 ![The AVIA composition finalization page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/avia-create.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  3\. Playing Around with MusicGen by Meta
 
@@ -86,22 +110,10 @@ thumbnail: https://thmb.techidaily.com/6b2ec2941933023600c9882b03f190635c85fa9ba
 
 ![The Meta MusicGen page on Huggingface.com.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/meta-musicgen-desc.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  There are a few limitations to keep in mind when using MusicGen on Hugging Face. It only lets you create 15 seconds of music at a time, and you don't have many options to change how the music sounds to better match what you might be looking for.
 
  While MusicGen by Meta is great for those who have the right kind of computer to handle it, it might not be ideal for everyone, particularly if you're just starting and want to play around without getting too technical.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  4\. Exploring Dance Diffusion
 
  Dance Diffusion is a bit more complex compared to other AI music generation tools, but it's still free to use. This music generation tool from Stability AI was created by the same team that developed [Stable Diffusion](https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-tecno-spark-go-2023-phone-by-drfone-android/), a tool that lets you create images using AI on your computer.
@@ -118,25 +130,25 @@ thumbnail: https://thmb.techidaily.com/6b2ec2941933023600c9882b03f190635c85fa9ba
 
  Dance Diffusion is a powerful tool for making music, and you can create some cool stuff if you learn how to use it. However, it's not the easiest to use right now. Hopefully, there will soon be a simpler interface for Dance Diffusion, making it easier for everyone to use, just like what was done with Stable Diffusion.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  5\. Using Magenta by Google
 
  Magenta by Google is a collection of tools designed to assist musicians in creating music using machine learning technology. It includes a variety of functionalities that can generate melodies, rhythms, and other advanced musical features.
 
 ![The Google Magenta demos page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/google-magenta.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Developed using TensorFlow, a powerful technology for deploying machine learning models, Magenta is quite sophisticated. While it doesn't have a simple "Create" button like Suno or AIVA, Magenta offers a range of [unique demos](https://magenta.tensorflow.org/demos/web/). These demos are available on its demo site, where you can experiment with AI music generation for free.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Choosing Your AI Music Companion
 

@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Better Performance: Discover the 7 Crucial Windows Configurations That Must Stay On for Optimal Use"
-date: 2024-09-03T10:46:56.907Z
-updated: 2024-09-04T10:46:56.907Z
+date: 2024-09-07T22:19:50.192Z
+updated: 2024-09-08T22:19:50.192Z
 tags:
   - desktop
 categories:
@@ -19,6 +19,12 @@ thumbnail: https://thmb.techidaily.com/011cd437a5e5d10d41a78dcfee8a0e614c88ee22e
 
  Ads, suggestions, diagnostic data, and many other unnecessary settings are enabled by default in Windows. You can turn these off if you wish. However, you should never disable some features to protect your security and privacy. Today, I'll discuss some settings you should always keep enabled.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Keep Windows Update Enabled
 
 ![Laptop with Windows 10 and a 'no updates' icon next to the text 'Windows 10'.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/laptop-with-windows-10-and-a-no-updates-icon-next-to-the-text-windows-10.jpg) 
@@ -36,24 +42,30 @@ Lucas Gouveia / How-To Geek | Microsoft
 ![The Windows Defender Firewall disabled.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/firewall.png) 
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_1834903" src="//a.impactradius-go.com/gen-ad-code/5597632/1834903/16836" width="728" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  A [firewall](https://android-frp.techidaily.com/in-2024-top-5-oppo-k11-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/) acts as a barrier between your computer and harmful internet traffic. Think of it as a soldier on guard, monitoring incoming and outgoing network traffic and blocking anything suspicious. If malware sneaks into your device, this protection can prevent it from sending your data back to hackers so hackers can’t gain unauthorized access.
 
  When you [turn off your system’s firewall](https://screen-recording.techidaily.com/updated-in-2024-comprehensive-iptv-accessibility/), you remove this protection and leave your device vulnerable to viruses that can collect your data and send it to malicious hands. If you don’t want this to happen, never disable your firewall.
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_1975636" src="//a.impactradius-go.com/gen-ad-code/5597632/1975636/22993" width="160" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Ensure User Account Control Is Active
 
 ![User Account page in the Control Panel on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/52780813472_45b8f2acb1_o-3.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Jason Fitzpatrick / How-To Geek  
   
@@ -63,16 +75,16 @@ Jason Fitzpatrick / How-To Geek
 
 [Disabling UAC](https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-sony-xperia-5-v-by-drfone-android/) allows anyone using your device and any malicious app to make unauthorized changes, potentially compromising your system’s stability. To avoid this risk, never disable UAC.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Don't Bypass the Login Window
 
 ![Microsoft account login screen at Windows setup](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/windows-setup-microsoft-sign-in.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The login screen is your first line of defense against unauthorized access. While Windows allows you to [bypass the sign-in screen](https://network-issues.techidaily.com/gladiator-glitch-gadget-grind/), you should never do this. Disabling it might seem convenient to avoid entering a password or PIN, but it leaves your device vulnerable to anyone who can physically access it. They can access your data and make unauthorized changes.
 
  Even if you don't use your device in a shared environment, you should keep this protection in place since you never know who might get their hands on your device. If your device gets stolen, everything stored on it would be at the thief's mercy. So, tolerate the inconvenience of entering a password (or [use Windows Hello sign-in](https://extra-tips.techidaily.com/updated-capturing-brilliance-essential-angles-in-iphone-photography/)) and keep the login screen enabled.
@@ -82,10 +94,10 @@ Jason Fitzpatrick / How-To Geek
 ![Virus and threat protection in Windows Security](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/virus-and-threat-protection.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  If I had to keep only one setting enabled and turn off the rest, I would keep virus and threat protection enabled. It continually scans my device for infections and threats, detecting them before they can cause harm. If I mistakenly allow malware in, this protection detects, blocks, and removes it, preventing it from spreading further.
 
@@ -98,10 +110,10 @@ Jason Fitzpatrick / How-To Geek
 ![A laptop with the word &quot;Ransomware&quot; in big scary letters.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/9eb60bc8-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 _[Zephyr\_P/Shutterstock](https://www.shutterstock.com/image-photo/male-hacker-hand-on-laptop-computer-1141202159)_
 
@@ -111,6 +123,12 @@ _[Zephyr\_P/Shutterstock](https://www.shutterstock.com/image-photo/male-hacker-h
 
 [Windows provides ransomware protection](https://vimeo-videos.techidaily.com/in-2024-how-to-edit-videos-with-vimeo-create/) which blocks unauthorized apps from modifying your files. You should keep this feature enabled at all times.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Keep Reputation-Based Protection Features Active
 
 ![The SmartScreen filter for MS Edge](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-smartscreen-for-microsoft-edge.png) 

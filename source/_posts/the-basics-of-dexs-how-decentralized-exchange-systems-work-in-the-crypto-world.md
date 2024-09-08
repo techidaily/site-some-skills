@@ -1,7 +1,7 @@
 ---
 title: "The Basics of DEXs: How Decentralized Exchange Systems Work in the Crypto World"
-date: 2024-09-03T10:46:59.956Z
-updated: 2024-09-04T10:46:59.956Z
+date: 2024-09-07T22:19:53.034Z
+updated: 2024-09-08T22:19:53.034Z
 tags:
   - cutting-edge
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/48491c0a3b929750d09e0d3e1dede43e654117023e73246a1998baa96a66f8fd.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Basics of DEXs: How Decentralized Exchange Systems Work in the Crypto World
 
 ### Quick Links
@@ -20,6 +26,12 @@ thumbnail: https://thmb.techidaily.com/48491c0a3b929750d09e0d3e1dede43e654117023
 
  A decentralized exchange (DEX) has distinct advantages over centralized exchanges. However, before using a DEX for all of your cryptocurrency transactions, you should be aware of the limitations.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  DEX vs. Centralized Exchange
 
  A DEX is commonly used to purchase [tokens, not coins](https://vimeo-videos.techidaily.com/new-turbo-charging-your-vimeo-views-for-2024/). These tokens can only be purchased with native currencies of blockchains, like Ethereum. Centralized [exchanges](https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/), like [Coinbase](https://www.coinbase.com/) or [Gemini](https://www.gemini.com/), are usually used to purchase cryptocurrencies with cash. Only some of the most popular tokens may be listed on centralized exchanges. If traders want to buy and sell lesser-known tokens, a DEX is the way to go.
@@ -33,10 +45,10 @@ Related: [Crypto Token vs. Coin: What's the Difference?](https://vimeo-videos.te
  Be aware: Since DEXs are not operated by a company, there is no customer support. Ensure that you are familiar with how to use a DEX before starting to trade. They can require a little more know-how than centralized exchanges. If you do something wrong or make a mistake, there is no person there to help.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  DEXs Use Liquidity Pools
 
@@ -51,18 +63,18 @@ Related: [What is Ethereum, and What Are Smart Contracts?](https://extra-informa
 ![Uniswap and PancakeSwap coins.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/shutterstock_1966756618.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 [INDEEDLYxZilverlight/Shutterstock.com](https://www.shutterstock.com/image-vector/uniswap-pancakeswap-coin-crypto-market-1966756618)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  DEX Details
 
@@ -77,10 +89,16 @@ Related: [What is Ethereum, and What Are Smart Contracts?](https://extra-informa
  There are ways to trade tokens built on different blockchains but it can be a little more complicated for users. These are known as aggregate DEXs. If interested in an aggregate DEX, [1Inch](https://app.1inch.io/#/1/swap/ETH/DAI) is widely used to find users the best deals on their token transactions.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Final Word of Caution
 

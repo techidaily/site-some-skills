@@ -1,7 +1,7 @@
 ---
 title: "New Feature Alert: Apple's 'Pay Later' Option Arrives – Consider Alternatives Carefully"
-date: 2024-09-03T10:47:00.454Z
-updated: 2024-09-04T10:47:00.454Z
+date: 2024-09-07T22:19:53.493Z
+updated: 2024-09-08T22:19:53.493Z
 tags:
   - cutting-edge
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/eb6701eb360daf00501aea3027f5f407ca588034548873224d944d5de49dcde3.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## New Feature Alert: Apple's 'Pay Later' Option Arrives – Consider Alternatives Carefully
 
 [Apple Pay](https://vimeo-videos.techidaily.com/efficient-techniques-for-accessing-and-saving-vimeo-videos/) has been around for years as a seamless way to pay for purchases on Apple devices from websites, apps, or physical stores. There's now a feature for splitting any purchase across multiple payments: Apple Pay Later.
@@ -19,6 +25,12 @@ thumbnail: https://thmb.techidaily.com/eb6701eb360daf00501aea3027f5f407ca5880345
 
 ![Apple Pay Later screenshots](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Image-4.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 _[Apple](https://www.apple.com/newsroom/2023/03/apple-introduces-apple-pay-later/)_
 
  You should be extremely careful when using Apple Pay Later, [Zip payments in Microsoft Edge](https://driver-download.techidaily.com/how-to-access-and-apply-updates-for-your-canon-dslr-camera-d53n-model/), and similar "buy now, pay later" (BNPL) services. They are designed to incentivize purchases that you cannot normally afford, and managing payment schedules for multiple purchases on top of your normal bills can be difficult. A [survey by DebtHammer in 2022](https://debthammer.org/buy-now-pay-later-survey/) reported that 22% of people who made purchases with BNPL services later regrated the decision, and 30% said they had to skip other bills to make the payments. CreditKarma conducted [a similar survey in 2021](https://www.creditkarma.com/about/commentary/buy-now-pay-later-surges-throughout-pandemic-consumers-credit-takes-a-hit), reporting that 34% of the surveyed group fell behind on one or more payments, and 72% of that group believe that it negatively affected their credit score.
@@ -91,10 +103,3 @@ _[Apple](https://www.apple.com/newsroom/2023/03/apple-introduces-apple-pay-later
 <li><a href="https://some-skills.techidaily.com/unraveling-the-mystery-of-iphone-based-podcast-access-for-2024/"><u>Unraveling the Mystery of iPhone-Based Podcast Access for 2024</u></a></li>
 <li><a href="https://some-skills.techidaily.com/upgrading-effortlessly-with-a-focus-on-key-lens-features-for-2024/"><u>Upgrading Effortlessly with a Focus on Key Lens Features for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

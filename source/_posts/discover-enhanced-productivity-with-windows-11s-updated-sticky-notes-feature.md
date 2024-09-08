@@ -1,7 +1,7 @@
 ---
 title: Discover Enhanced Productivity with Windows 11’S Updated Sticky Notes Feature
-date: 2024-09-03T10:46:57.053Z
-updated: 2024-09-04T10:46:57.053Z
+date: 2024-09-07T22:19:50.320Z
+updated: 2024-09-08T22:19:50.320Z
 tags:
   - desktop
 categories:
@@ -9,6 +9,18 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-logo.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Discover Enhanced Productivity with Windows 11’S Updated Sticky Notes Feature
 
 The Sticky Notes application in Windows is a great way to quickly write notes that stay on your desktop and (if you want) synchronize with your mobile devices. Microsoft is now testing a revamped version of Sticky Notes based on its OneNote service.
@@ -19,6 +31,12 @@ The Sticky Notes application in Windows is a great way to quickly write notes th
 
 ![Screen recording of creating a note in Sticky Notes from a PowerPoint screenshot.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/sticky-notes_5-anim.gif) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Microsoft](https://insider.microsoft365.com/en-us/blog/introducing-the-new-sticky-notes-app-for-windows)
 
  The new Sticky Notes can create text notes, just like the earlier version, but it also has a new Screenshot button that saves the current window along with its source. For example, clicking the Screenshot button while you have a PowerPoint presentation open will save the entire window, the name of the presentation, and the application icon in the note. If the note is a screenshot of a website, clicking it will open the original page. Your notes appear in the Sticky Notes list, the OneNote app on Windows, or the OneNote app on mobile devices.
@@ -96,10 +114,3 @@ The Sticky Notes application in Windows is a great way to quickly write notes th
 <li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-nokia-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Nokia fingerprint</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Tecno Pova 5? | Dr.fone</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

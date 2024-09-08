@@ -1,7 +1,7 @@
 ---
 title: Top 8 Crucial Cybersecurity Practices for the Digital Newcomer
-date: 2024-09-03T10:46:54.806Z
-updated: 2024-09-04T10:46:54.806Z
+date: 2024-09-07T22:19:48.375Z
+updated: 2024-09-08T22:19:48.375Z
 tags:
   - web
 categories:
@@ -9,6 +9,18 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/person-holding-a-phone-with-a-tip-icon-above-the-screen.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Top 8 Crucial Cybersecurity Practices for the Digital Newcomer
 
 ### Quick Links
@@ -28,6 +40,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![A text message stating 'Florida toll services: We've noticed an outstanding toll amount of $12.51 on your record. To avoid a late fee of $50.00, visit UNFRIENDLY URL to settle your balance.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/23.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Andrew Heinzman / How-To Geek
 
  Phishing is a common tactic hackers use to infect or gain unauthorized access to your devices or accounts. To protect yourself, you have to be familiar with the [signs of fraudulent emails](https://on-screen-recording.techidaily.com/new-2024-approved-permanent-name-shift-on-google-meet-devices/) and texts. Check the sender's email address or phone number to ensure it's legitimate. Scammers use slight variations, such as replacing "PayPal" with "PayPak" or "PayPaI" (with a capital I and not a lowercase L), which can be _easily_ overlooked.
@@ -40,12 +58,6 @@ Andrew Heinzman / How-To Geek
 
 ![iPad mini remotely accessing a Mac desktop using AnyDesk application.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/img_4835.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Hannah Brostrom / How-To Geek
 
 [Tech support scams](https://extra-information.techidaily.com/full-range-virtual-sphere-review/) are among the most common traps scammers use to deceive non-tech-savvy individuals.
@@ -54,6 +66,12 @@ Hannah Brostrom / How-To Geek
 
  Once they have access, they may turn your screen black, transfer funds from your bank account (if they can), install malicious software, or use other tactics to defraud you. To protect yourself, ignore such popups and _never_ allow anyone remote access to your device. If you need genuine tech support, always seek assistance from the official website of the company.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3  Avoid Befriending Strangers Online 
 
  Social media and online communities are rife with scammers. Therefore, it's crucial never to befriend strangers you’ve never met. Only connect with people you know in real life. Also, ensure you don’t connect with an impersonator. Always verify that the profile is authentic, check mutual connections, and don’t accept friend requests from newly created profiles.
@@ -62,18 +80,15 @@ Hannah Brostrom / How-To Geek
 
 ![A bot impersonating a real person on Facebook.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/scammer.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2031472/7443" target="_top" id="2031472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2031472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2031472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4  Don’t Overshare Your Critical Information 
 
 ![A hacker stealing a credit card in an online store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-hacker-stealing-a-credit-card-in-an-online-store.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_1424528" src="//a.impactradius-go.com/gen-ad-code/5597632/1424528/16446" width="728" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Lucas Gouveia / How-To Geek | [Creativa Images](https://www.shutterstock.com/image-photo/picture-male-hacker-stealing-credit-card-2102624236) / Shutterstock
 
@@ -82,10 +97,16 @@ Lucas Gouveia / How-To Geek | [Creativa Images](https://www.shutterstock.com/ima
  Most importantly, never post photos of your driver's license, credit card, passwords, ID, or other sensitive information that could be easily misused. Keep expensive purchases private to avoid attracting theft attempts. Similarly, avoid sharing details about your work or company that could lead to legal issues. Following these tips will help you avoid unnecessary trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 5  Follow Safe Browsing Practice 
 
@@ -95,15 +116,27 @@ Lucas Gouveia / How-To Geek | [Creativa Images](https://www.shutterstock.com/ima
 
  Lastly, enable safe search filters to avoid encountering inappropriate content, be wary of malicious search ads, and regularly clear your browsing data.
 
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6  Be Skeptical of Unverified Callers 
 
 ![A phone with an incoming call and a call forwarding icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-phone-with-an-incoming-call-and-a-call-forwarding-icon.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Lucas Gouveia / Justin Duino / How-To Geek
 
@@ -117,6 +150,12 @@ Lucas Gouveia / Justin Duino / How-To Geek
 
 ![A phone above a newspaper with the Spotify AI DJ icon on the screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-phone-above-a-newspaper-with-the-spotify-ai-dj-icon-on-the-screen.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Lucas Gouveia / How-To Geek | [DONOT6\_STUDIO](https://www.shutterstock.com/image-photo/business-newspaper-isolated-on-white-background-1272343108) / Shutterstock
 
  The internet is flooded with fake and fraudulent news. Don’t let it affect your emotions or push you to take hasty actions. Learn to [recognize the signs to identify such misinformation quickly](https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-vivo-v29e-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/). Ensure that the news comes from a reputable source, verify that other established outlets are reporting the same story, and check the date to confirm it's current.
@@ -127,9 +166,6 @@ Lucas Gouveia / How-To Geek | [DONOT6\_STUDIO](https://www.shutterstock.com/imag
 
 ![Hands holding credit card and using laptop to shop online.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/8d330f6d.png) 
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_1982462" src="//a.impactradius-go.com/gen-ad-code/5597632/1982462/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 [Ivan Kruk/Shutterstock.com](https://www.shutterstock.com/image-photo/hands-holding-credit-card-using-laptop-291627674)
 
  Lastly, you should [take some precautions when shopping online](https://fox-http.techidaily.com/new-launching-an-online-fundraising-challenge-on-facebook-for-2024/). Always shop from well-known and trusted retailers, read reviews about the seller to ensure their credibility, make sure the store's website is SSL protected, avoid making purchases when connected to public Wi-Fi, and use a secondary card for online payments.

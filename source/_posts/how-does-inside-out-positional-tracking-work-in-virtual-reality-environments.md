@@ -1,7 +1,7 @@
 ---
 title: How Does Inside-Out Positional Tracking Work in Virtual Reality Environments?
-date: 2024-09-03T10:46:59.103Z
-updated: 2024-09-04T10:46:59.103Z
+date: 2024-09-07T22:19:52.229Z
+updated: 2024-09-08T22:19:52.229Z
 tags:
   - cutting-edge
 categories:
@@ -9,8 +9,26 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/shutterstock_1899784174.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Does Inside-Out Positional Tracking Work in Virtual Reality Environments?
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Conventional Positional Tracking](https://screen-sharing-recording.techidaily.com/in-2024-greatest-war-themed-games-the-7-finest-total-war-experiences/)
@@ -20,10 +38,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
  For virtual reality to work, the position of the headset in 3D space is crucial information. Inside-out VR tracking uses onboard cameras and machine learning to perform this measurement, and it's quickly becoming the gold standard for VR head tracking.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Conventional Positional Tracking
 
 ![An original Oculus Rift headset with the touch controllers and tracking sensors.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/shutterstock_1472152544.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Alberto Garcia Guillen/Shutterstock.com](https://www.shutterstock.com/image-photo/oculus-rift-cv1-virtual-reality-goggles-1472152544)
 
  There have been many different approaches to positional tracking for VR, but when we refer to "conventional" positional tracking, it's in reference to [the modern VR revolution](https://www.reviewgeek.com/93593/vr-isnt-a-fad-anymore-it-really-is-the-future/), starting around the mid-2010s, rather than the early virtual reality days of the late 80s or early 90s.
@@ -34,21 +64,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
  Combined, all of this sensor data offers accurate positioning anywhere within 3D space, at least insofar as the external tracker can see the headset. Later, products such as the [HTC Vive](https://facebook-video-footage.techidaily.com/new-audio-perfection-achieved-expert-tips-without-a-microphone-for-2024/) would introduce laser-based room-scale trackers. These were mounted on the walls of a room and allowed headset positions to be tracked anywhere within their range.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Inside-Out Tracking
 
 ![An Oculus Quest 2 headset.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/shutterstock_1892967694.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 [Boumen Japet/Shutterstock.com](https://www.shutterstock.com/image-photo/white-new-generation-vr-headset-isolated-1892967694)
 
@@ -63,10 +87,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
  Inside-out tracking can also offer a form of "[mixed reality](https://tech-recovery.techidaily.com/unleash-inspiration-the-507-most-captivating-instagram-captions/)." That is, where real-world and virtual objects are blended together as one experience. The onboard headset cameras can do things like let you see your real-world keyboard when using an app like [Virtual Desktop](https://www.oculus.com/experiences/quest/2017050365004772/) or bring your real-world chair into the virtual space to make it easy to sit down or get up.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  The Advantages of Inside-Out Tracking
 
@@ -82,12 +106,6 @@ Related: [How to Play PC VR Games on an Oculus Quest 2](https://twitter-videos.t
 
 ![31NLGzA5upL._SL500_-33](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/31nlgza5upl-_sl500_-33.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Best Overall VR Headset
 
 #####  Oculus Quest 2
@@ -96,9 +114,6 @@ The Oculus Quest 2 is our favorite VR headset given its ease of setup and inexpe
 
 [$289 at Amazon](https://www.amazon.com/Oculus-Quest-Advanced-All-One-Carrying/dp/B099VMT8VZ) [See at Bestbuy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmeta__quest_2_advanc%2F6473553.p%3FskuId%3D6473553%2522target%253D%2522_blank) [See at Target](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fdisneyplus.bn5x.net%2Fc%2F156932%2F564546%2F9358%3FsubId1%3DUUhtgUeUpU208569%26subId2%3Dehtg%26u%3Dhttps%253A%252F%252Fwww.target.com%252Fp%252Fmeta%255Fquest%255F2%255Fadvance%252F-%252FA-83984421%2522target%253D%2522%255Fblank) 
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_1977023" src="//a.impactradius-go.com/gen-ad-code/5597632/1977023/22993" width="160" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ##  The Downside of Inside-Out Tracking
 
  Inside-out tracking is an impressive technology, but some of the most premium VR products, such as the Valve Index, still use externally-mounted trackers. If inside-out tracking is so great, why isn't it universal? The main reason comes down to precision and accuracy. The software that drives inside-out tracking has to do a lot of "guessing" since no algorithm is 100% accurate. This is limited by how much computational power the headset has on-board since more accurate and sophisticated machine vision technology needs more processing power. Over time, this problem is addressed simply by the march of computer performance.

@@ -1,7 +1,7 @@
 ---
 title: "New Feature Alert: Save Location Data Directly on Your Device with Google Maps"
-date: 2024-09-03T10:46:54.733Z
-updated: 2024-09-04T10:46:54.733Z
+date: 2024-09-07T22:19:48.308Z
+updated: 2024-09-08T22:19:48.308Z
 tags:
   - web
 categories:
@@ -9,6 +9,18 @@ categories:
 thumbnail: https://thmb.techidaily.com/151e2edee1a0284cef5f2216fc95a6d76e6031c7de10b21fb5cd31a56d669f73.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## New Feature Alert: Save Location Data Directly on Your Device with Google Maps
 
 It can be easy to forget sometimes, but Google keeps track of all places you've been through the Timeline feature and uploads them to the cloud so you can look at it from any device. It's meant to be a "convenient" feature, but it can get problematic, especially if other eyes that are not yours get access to that data. That's why Google is moving it away from the cloud and for your device's eyes only.
@@ -77,10 +89,3 @@ It can be easy to forget sometimes, but Google keeps track of all places you've 
 <li><a href="https://some-skills.techidaily.com/unlock-your-ebooks-expert-tips-for-disabling-drm-on-list-des-epotres-content/"><u>Unlock Your eBooks: Expert Tips for Disabling DRM on List Des Épôtres Content</u></a></li>
 <li><a href="https://some-skills.techidaily.com/unrestricted-reading-discovering-drm-free-ebooks-compatible-with-all-your-gadgets/"><u>Unrestricted Reading: Discovering DRM-Free Ebooks Compatible with All Your Gadgets</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

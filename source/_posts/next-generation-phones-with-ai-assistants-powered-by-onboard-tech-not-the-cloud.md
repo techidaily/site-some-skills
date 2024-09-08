@@ -1,7 +1,7 @@
 ---
 title: Next Generation Phones with AI Assistants Powered by Onboard Tech, Not the Cloud
-date: 2024-09-03T10:46:59.226Z
-updated: 2024-09-04T10:46:59.226Z
+date: 2024-09-07T22:19:52.337Z
+updated: 2024-09-08T22:19:52.337Z
 tags:
   - cutting-edge
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/person-using-writing-style-ai-feature-on-the-samsung-galaxy-s24-ultra-1.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Next Generation Phones with AI Assistants Powered by Onboard Tech, Not the Cloud
 
 Qualcomm chipsets power many Android smartphones and tablets, as well as some Windows PCs and embedded devices. Today the company revealed some advancements that could mean your next Android phone will have its own local ChatGPT-like chatbot or Stable Diffusion-like image generator, without needing external servers or paid subscriptions.
@@ -17,6 +23,18 @@ Qualcomm chipsets power many Android smartphones and tablets, as well as some Wi
 
 ![Screenshot of LMM on an Android phone with the caption: "LLMs can now see. 7+ billion parameter LMM, LLaVA, with text, speech, and image inputs. Multi-turn intuitive conversations about an image at a responsive token rate. Full-stack Al optimization to achieve high performance at low power. Enhanced privacy, reliability, personalization, and cost with on-device processing."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/demo-image_-llava-large-multimodal-model-on-an-android-phone.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Qualcomm
 
  In a press release, Qualcomm says it has the world’s first LMM running on an Android smartphone, but didn’t mention the exact hardware being used (presumably a phone with Qualcomm’s latest [Snapdragon 8 Gen 3](https://ai-video-translation.techidaily.com/updated-in-2024-translate-video-from-japanese-to-english-online-for-free/) chip). The company described the demo as “a 7+ billion parameter LMM that can accept multiple types of data inputs, including text and images, and generate multi-turn conversations with an AI assistant about an image — running on an Android smartphone for the first time.” It’s a modified version of the [LLaVA model](https://github.com/haotian-liu/LLaVA).
@@ -25,6 +43,18 @@ Qualcomm
 
 ![Screenshot of AI image generator with caption: "1+ billion parameter Stable Diffusion with LoRA adapter for customized experiences. Create high-quality custom images based on personal or artistic preferences. LoRA enables scalability and customization of on-device generative Al across use cases. Full-stack Al optimization to achieve high performance at low power and fast switching between adapters. Enhanced privacy, reliability, personalization, and cost with on-device processing."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/demo-image_-low-rank-adaptation-lora-customization-on-an-android-phone.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Qualcomm
 
  These demos exist more as technical benchmarks for Qualcomm’s hardware than anything else, and it’s unclear if this will become a polished app you can run on Android phones and tablets. It’s possible Qualcomm might share its work on its new “AI Hub,” where other developers could use it in their own phone and tablet apps. With some more work, we could have a limited ChatGPT-like assistant on android phones without a cloud requirement—something that Apple is [rumored to be working on for iPhones](https://www.macrumors.com/2023/12/21/apple-ai-researchers-run-llms-iphones/).
@@ -98,7 +128,3 @@ Qualcomm
 <li><a href="https://some-skills.techidaily.com/transform-your-images-basic-tips-with-lunapic-for-2024/"><u>Transform Your Images  Basic Tips with LunaPic for 2024</u></a></li>
 <li><a href="https://some-skills.techidaily.com/under-the-lens-hero-4-meets-hero-5-for-2024/"><u>Under the Lens  Hero 4 Meets Hero 5 for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<iframe id="iframe_1498635" src="//a.impactradius-go.com/gen-ad-code/5597632/1498635/17326" width="400" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->

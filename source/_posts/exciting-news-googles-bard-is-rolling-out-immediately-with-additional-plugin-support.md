@@ -1,7 +1,7 @@
 ---
 title: Exciting News! Google's Bard Is Rolling Out Immediately with Additional Plugin Support
-date: 2024-09-03T10:47:00.317Z
-updated: 2024-09-04T10:47:00.317Z
+date: 2024-09-07T22:19:53.364Z
+updated: 2024-09-08T22:19:53.364Z
 tags:
   - cutting-edge
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/52887898515_f665319f91_o.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Exciting News! Google's Bard Is Rolling Out Immediately with Additional Plugin Support
 
 [Google Bard](https://youtube-video-recordings.techidaily.com/in-2024-enhance-branding-the-ultimate-guide-to-custom-urls-for-youtube/) first arrived earlier this year as the company's response to ChatGPT, Bing Chat, and other AI assistants. Today at Google I/O, the company showed off several improvements coming to Bard.
@@ -17,6 +23,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Table from Google Bard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/screenshot-05-10-2023-132527.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 _[Google](https://www.youtube.com/watch?v=cNfINi5CNbY)_
 
  Google is also improving the interface and answer formatting for Bard. The company is improving support for writing and formatting code, with inline citations (e.g. a link to a GitHub repository where a block of code came from) and the ability to export code to other services. There's also a dark mode option now, and formatting like tables should be more reliable. [Google Lens](https://facebook-clips.techidaily.com/new-music-syncing-for-iphones-and-androids-in-fb/) integration is also in the works, giving Bard the ability to recognize objects in images and use that context in answers.
@@ -25,6 +37,12 @@ _[Google](https://www.youtube.com/watch?v=cNfINi5CNbY)_
 
 ![Google Lens screenshot in Bard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/screenshot-05-10-2023-132409.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 _[Google](https://www.youtube.com/watch?v=cNfINi5CNbY)_
 
  Finally, Google revealed that it is adding "tools" to Bard, like the plugins feature [in development for ChatGPT](https://fox-glue.techidaily.com/new-in-2024-begin-your-editing-journey-adopting-movie-maker-for-w11/) and [Bing Chat](https://fox-info.techidaily.com/2024-approved-journey-to-stickers-full-tutorial-for-turning-gifs-in-chat-apps-like-discord-and-telegram/). Google revealed a tool for generating AI images from [Adobe Firefly](https://instagram-videos.techidaily.com/in-2024-tailoring-video-content-for-igtv-with-horizontal-footage/), similar to the image generation feature in Bing Chat. Tools from Spotify, Instacart, Walmart, YouTube, Google Calendar, Tripadvisor, Redfin, and others are in development.
@@ -94,10 +112,3 @@ _[Google](https://www.youtube.com/watch?v=cNfINi5CNbY)_
 <li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-honor-magic-vs-2-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Honor Magic Vs 2 Phone Network-Ready</u></a></li>
 <li><a href="https://howto.techidaily.com/why-is-my-lava-yuva-2-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Lava Yuva 2 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

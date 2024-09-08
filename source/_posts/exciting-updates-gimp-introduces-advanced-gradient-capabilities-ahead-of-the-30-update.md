@@ -1,7 +1,7 @@
 ---
 title: "Exciting Updates: GIMP Introduces Advanced Gradient Capabilities Ahead of the 3.0 Update"
-date: 2024-09-03T10:46:58.416Z
-updated: 2024-09-04T10:46:58.416Z
+date: 2024-09-07T22:19:51.578Z
+updated: 2024-09-08T22:19:51.578Z
 tags:
   - deals
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/21aecb659e7a5e8e968da4a0f8638ae8bdef383eb58685f2674b422f72c9c0b9.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Exciting Updates: GIMP Introduces Advanced Gradient Capabilities Ahead of the 3.0 Update
 
 The latest GIMP release (version 2.10.36) introduces a fun new gradient tool and support for additional palette formats. More notably, this might be "the next to last release in the 2.10 branch," meaning that the delayed GIMP 3.0 launch should occur relatively soon. Even if you're uninterested in today's update, the GIMP Team suggests installing it for security fixes.
@@ -84,10 +90,3 @@ The latest GIMP release (version 2.10.36) introduces a fun new gradient tool and
 <li><a href="https://some-skills.techidaily.com/unveiling-the-wonders-mastering-firefox-x-pie-mode-for-2024/"><u>Unveiling the Wonders  Mastering Firefox X-Pie Mode for 2024</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-art-of-slow-motion-top-video-editing-software-for-professionals/"><u>Updated In 2024, The Art of Slow Motion Top Video Editing Software for Professionals</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

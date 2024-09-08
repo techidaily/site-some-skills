@@ -1,7 +1,7 @@
 ---
 title: "Windows Aesthetics Unveiled: Tracing the Lineage of OS Desktop Imagery"
-date: 2024-09-03T10:46:58.115Z
-updated: 2024-09-04T10:46:58.115Z
+date: 2024-09-07T22:19:51.242Z
+updated: 2024-09-08T22:19:51.242Z
 tags:
   - deals
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/f1a796c007bdb54a5d32d237286b0c583ae30258c2ed2bd3a37271e2bf51c230.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Windows Aesthetics Unveiled: Tracing the Lineage of OS Desktop Imagery
 
 ### Quick Links
@@ -26,6 +32,18 @@ thumbnail: https://thmb.techidaily.com/f1a796c007bdb54a5d32d237286b0c583ae30258c
 
  The photographer of the famous Windows XP desktop background landscape picture didn't anticipate it becoming one of the most iconic Windows images of all time. This realization inspired me to look back through time at some of the designs that have adorned our screens.
 
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Windows 95
 
 ![The Windows 95 desktop background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-95.jpg) 
@@ -34,43 +52,46 @@ wallpapers.com
 
  Anytime I see this teal color—with the hexadecimal code #00807F—it reminds me of the Windows 95 desktop background. While this choice of color might seem unpleasant and unimaginative by today's standards, it offers a certain nostalgic vintage appeal that takes me back to the early days of the Windows desktop setup with those clunky PC units and monitors that were deeper than they were wide. Also used in earlier Windows NT versions in 1992 in pre-release builds, the teal color was pretty much the unofficial color of the 1990s. Not much is known about why this shade was chosen, but given that electric pink would have been a little more eye-searing, it seemed a wise choice and made its unforgettable mark on Windows history.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Windows 98
 
 ![The Windows 98 desktop background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-98.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_701707" src="//a.impactradius-go.com/gen-ad-code/5597632/701707/7443" width="728" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 wallpapers.com
 
  In 1998, Windows launched the blue-sky theme that has been commonplace on our desktop background ever since, introducing white, fluffy clouds to distinguish it from its plainer predecessors. Windows 98 brought us many internet companion programs, such as Outlook Express, Microsoft Chat, and the Personal Web Server, so the blue sky is a nod to the freedom and endlessness offered by online browsing. Personally, I love the retro Windows icon and its representation of the developing technological world in which this desktop background was released.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Windows 2000
 
 ![The Windows 2000 desktop background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-2000.png) 
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_1993651" src="//a.impactradius-go.com/gen-ad-code/5597632/1993651/22993" width="160" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 WinClassic
 
  If the Windows 98 desktop background didn't scream _freedom_, the [Windows 2000](https://fix-guide.techidaily.com/how-to-unbrick-a-dead-oneplus-12-drfone-by-drfone-fix-android-problems-fix-android-problems/) one certainly did, with the silhouette of a person flying through an even clearer sky with their arms reaching out in front. While similar to the previous background, the inclusion of two overlapping squares in the top-left corner boldly serves as a marker of difference and change, as [Microsoft introduced translucent pop-up reminders and windows](https://learn.microsoft.com/en-us/previous-versions/ms997507%28v=msdn.10%29?redirectedfrom=MSDN) to allow multitasking and a less-intrusive experience.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_1630055" src="//a.impactradius-go.com/gen-ad-code/5597632/1630055/18460" width="240" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ##  Windows XP
 
 ![The Windows XP desktop background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-xp.jpg) 
@@ -98,10 +119,10 @@ Microsoft
  While the XP design eight years prior was a more explicit representation of the outdoors, the tree and butterfly watermarked into the Windows logo in the Windows 7 background design is a more subtle nod towards the world's increasing interest in nature. Designed by Chuck Anderson and Erik Attkisson, "Harmony" reverted to simplicity and a focus on the Windows branding while re-emphasizing the famous blue-sky depiction in the background.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Windows 8
 
@@ -111,13 +132,16 @@ The Verge
 
  Not much is known about the [Windows 8](https://some-approaches.techidaily.com/strategies-for-skipping-virtual-learning-videos-for-2024/) background, including why daisies were chosen as the centerpiece. However, the focused flower on the left and the unfocused flower on the right coincide with the launch of the Windows Photos app in the same year, and the repeated emphasis towards nature continues the theme in the previous desktop background. Interestingly, though, this was the last time we saw the blue sky and white clouds that had filled our screens on and off for the past 12 years.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_1975648" src="//a.impactradius-go.com/gen-ad-code/5597632/1975648/22993" width="160" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ##  Windows 10
 
 ![The Windows 10 desktop background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-10.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 GMUNK
 
  "Hero," designed by GMUNK, saw the return of a live photograph as the desktop background image—albeit heavily layered. The designers began by cutting four squares into black cardboard before cutting the same design into some acrylic and matching them together. Then, light was directed through the design from an off-angle to capture the glints of the acrylic, resulting in the glistening effect we see in the image. In total, over 3,000 pictures were taken and combined at 9k resolution. [According to GMUNK](https://gmunk.com/Windows-10-Desktop), the aim was "not to just tell the story of Windows, but to tell the story of everything behind and traveling through it, of the advances and techniques that keep the brand moving forward into the future"—and that's clear to see in this striking design.
@@ -126,20 +150,29 @@ GMUNK
 
 ![The Windows 11 desktop background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-11.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Microsoft
 
 [Windows 11](https://easy-unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-realme-12-5g-by-drfone-android/) brought a more centrally-aligned theme to its customers, with the taskbar more closely mirroring the MacOS design. Designed by Six N. Five, "Bloom" returns to the subtle environmental hints we've seen over the years in some Windows desktop backgrounds, no less than in its name. The "[bold and abstract](https://sixnfive.com/projects/windows-11/)" design, which depicts a delicately layered rose-type image, points towards Microsoft's modern-day growth, aligning closely with its aim for an "[effortless, calm, personal, familiar, complete, and coherent](https://learn.microsoft.com/en-us/windows/apps/design/signature-experiences/design-principles)" design principle.
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_1983552" src="//a.impactradius-go.com/gen-ad-code/5597632/1983552/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  The Future
 

@@ -1,7 +1,7 @@
 ---
 title: "The Next-Gen Leap for Gamers: Microsoft's DXR API Redefining PC Resolution and Performance"
-date: 2024-09-03T10:46:59.313Z
-updated: 2024-09-04T10:46:59.313Z
+date: 2024-09-07T22:19:52.412Z
+updated: 2024-09-08T22:19:52.412Z
 tags:
   - cutting-edge
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/4e1e135a4b0338f686903eb0c608ba2a349e6fad2f1ea5329a35a6ad22caba43.png
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Next-Gen Leap for Gamers: Microsoft's DXR API Redefining PC Resolution and Performance
 
 Upscaling technology can greatly enhance the PC gaming experience, particularly on low-wattage laptops. But because each GPU platform has a unique "[Super Resolution](https://desktop-recording.techidaily.com/new-2024-approved-capture-master-high-res-screen-record/)" upscaler, game developers aren't keen on implementing the technology. Now, Microsoft hopes to solve the problem with its new [DirectSR API](https://devblogs.microsoft.com/directx/directx-innovation-on-display-at-gdc-2024/).
@@ -78,7 +84,3 @@ Upscaling technology can greatly enhance the PC gaming experience, particularly 
 <li><a href="https://some-skills.techidaily.com/unveiling-the-best-free-video-player-vlc-versus-mpc-for-2024/"><u>Unveiling the Best Free Video Player  VLC versus MPC for 2024</u></a></li>
 <li><a href="https://techidaily.com/your-complete-guide-to-reset-honor-play-8t-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Honor Play 8T | Dr.fone</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<iframe id="iframe_1983446" src="//a.impactradius-go.com/gen-ad-code/5597632/1983446/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->

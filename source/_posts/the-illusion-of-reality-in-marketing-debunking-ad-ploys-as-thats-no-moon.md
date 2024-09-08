@@ -1,7 +1,7 @@
 ---
 title: "The Illusion of Reality in Marketing: Debunking Ad Ploys as 'That’s No Moon'"
-date: 2024-09-03T10:47:00.538Z
-updated: 2024-09-04T10:47:00.538Z
+date: 2024-09-07T22:19:53.574Z
+updated: 2024-09-08T22:19:53.574Z
 tags:
   - cutting-edge
 categories:
@@ -9,8 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/3371d97eae392c322e9b82d456ad7eef262a0a211072cf38379ccece2b069d93.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Illusion of Reality in Marketing: Debunking Ad Ploys as 'That’s No Moon'
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [How it Works](https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-honor-magic-5-lite-frp-bypass-by-drfone-android/)
@@ -28,6 +40,18 @@ Related: [The 5-Foot-long Keyboard from Google Japan is Almost a Sword](https://
 
  "In this case, an advertisement appears as a constellation of bright artificial stars formed into an image that can be observed in clear night sky for several minutes."
 
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How it Works
 
  The paper entitled ["Satellite Formation Flying for Space Advertising: From Technically Feasible to Economically Viable"](https://www.mdpi.com/2226-4310/9/8/419/htm#B6-aerospace-09-00419) contains equations and charts I can't begin to understand, but the general idea is this: The satellite formation would involve placing CubeSats equipped with solar reflectors in a low orbit in unison with the sun's light.
@@ -39,10 +63,10 @@ Related: [The 5-Foot-long Keyboard from Google Japan is Almost a Sword](https://
  Where you'd normally see something totally not profitable like the beautiful night sky, you may instead see "Taste the Rainbow" or "Drink Coke" or a really rich guy proposing to his girlfriend and getting a "No" via skywriter.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Not the First Plan of this Sort
 

@@ -1,7 +1,7 @@
 ---
 title: Passionate About Personalizing My Discord Presence - Why I Find The Pricing To Be Excessive
-date: 2024-09-03T10:46:54.218Z
-updated: 2024-09-04T10:46:54.218Z
+date: 2024-09-07T22:19:47.829Z
+updated: 2024-09-08T22:19:47.829Z
 tags:
   - web
 categories:
@@ -9,8 +9,20 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/discord-logo-with-the-store-in-the-background-and-several-thumbs-down-icons.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Passionate About Personalizing My Discord Presence - Why I Find The Pricing To Be Excessive
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * You can customize your Discord profile with an avatar, banner, animated effects, and more.
@@ -19,6 +31,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  To stand out from the crowd on Discord, you can customize your profile to apply colors, images, and animated effects—but using all these features comes with a price. Let's explore how it works and whether it's worth it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Customize Your Discord Profile
 
  If you want to customize your Discord profile, there are plenty of options available. At the most basic, you can upload an avatar to represent yourself and fill out a short bio to fill with personal information. Fancier options include setting an image as your profile banner, adding decoration around your avatar, and layering an animated effect across your whole profile.
@@ -29,13 +47,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Editing a profile on Discord.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/editing-a-profile-on-discord.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  I think it's great that [Discord offers so much personalization](https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/), especially on the profile. It's a nice way to express yourself, and I like checking out other people's profiles to see what they look like.
 
  Some of these customizations, like the banner image or using an animated GIF as your avatar, are only available if you [pay for Discord Nitro](https://ios-unlock.techidaily.com/forgot-apple-iphone-12-mini-backup-password-heres-what-to-do-by-drfone-ios/). Others, like the avatar decoration, have a small selection available to Nitro users, but have plenty available that anyone can purchase in the in-app shop.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_1982457" src="//a.impactradius-go.com/gen-ad-code/5597632/1982457/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ##  The Discord Shop Is Overpriced
 
  The shop is where the problem with profile decorations comes in. Discord sells lots of avatar decorations and profile effects based on charming themes like anime, pirates, and cyberpunk.
@@ -45,21 +66,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![SpongeBob SquarePants items on the Discord shop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/spongebob-squarepants-items-on-the-discord-shop-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  These purchases are one-time and permanent, meaning you can use them forever even if they're seasonal and removed from the shop. But despite that, the pricing seems extortionate, especially if you're someone who likes to redesign their profile often.
 
  It also seems cheeky that Nitro members don't get more items for free, or at least a deeper discount in the shop, especially since Nitro costs a not-insignificant $9.99/month (for the tier that includes custom profiles).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Is the Cost of Discord's Cosmetics a Problem?
 
  Paying for profile cosmetics isn't anything new. Steam sells similar goodies, payable in points which are mostly earned by buying games. This is more tolerable because Steam is primarily a game storefront, so you get points through natural use of the platform. You can also buy in local currency from others on the community marketplace.
@@ -67,10 +82,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Steam points shop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/steam-points-shop.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Steam has many other avenues of revenue, so the comparison to Discord isn't equal. But when Discord already sells a monthly membership, and then sets the price of extra items so high, it makes it feel like a cash grab as opposed to a fun feature.
 

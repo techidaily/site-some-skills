@@ -1,7 +1,7 @@
 ---
 title: New Windows 11 Patch Ends Previous Local User Setup Loophole
-date: 2024-09-03T10:46:57.349Z
-updated: 2024-09-04T10:46:57.349Z
+date: 2024-09-07T22:19:50.562Z
+updated: 2024-09-08T22:19:50.562Z
 tags:
   - desktop
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-logo.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## New Windows 11 Patch Ends Previous Local User Setup Loophole
 
 Windows 10 started the trend of asking people to use Microsoft accounts when setting up PCs instead of local accounts. Windows 11 made it much harder to opt out of Microsoft accounts, and now another local account workaround has been removed.
@@ -111,10 +117,3 @@ Windows 10 started the trend of asking people to use Microsoft accounts when set
 <li><a href="https://vp-tips.techidaily.com/unravel-the-mystery-of-scouring-exceptional-photos-on-pexels/"><u>Unravel the Mystery of Scouring Exceptional Photos on Pexels</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-looking-beyond-vsdc-top-mac-video-editing-alternatives-for-2024/"><u>Updated Looking Beyond VSDC Top Mac Video Editing Alternatives for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

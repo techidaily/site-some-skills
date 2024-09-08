@@ -1,7 +1,7 @@
 ---
 title: "Steps to Access Restricted Tweets on Twitter: A Comprehensive Guide"
-date: 2024-09-03T10:46:54.275Z
-updated: 2024-09-04T10:46:54.275Z
+date: 2024-09-07T22:19:47.880Z
+updated: 2024-09-08T22:19:47.880Z
 tags:
   - web
 categories:
@@ -11,6 +11,12 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 
 ## Steps to Access Restricted Tweets on Twitter: A Comprehensive Guide
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Is "Sensitive Content?"](https://some-skills.techidaily.com/the-creative-entrepreneurs-handbook-in-design-for-2024/)
@@ -26,12 +32,6 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 
  By default, X restricts such media with a warning like, "This media may contain sensitive material," "This profile may include potentially sensitive content," or "The following media includes potentially sensitive content."
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Skip the "Sensitive Content" Warning
 
  You can [disable the sensitive content warning](https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-honor-100-pro-to-roku-drfone-by-drfone-android/) in X's privacy settings. You'll find these options in the same place on the [Android app](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU213517/https://play.google.com/store/apps/details?id=com.twitter.android&hl=en%5FUS&gl=US), but they aren't available on the [X app for iPhone](https://apps.apple.com/us/app/twitter/id333903271). However, if you change the setting on the web, the X iPhone and iPad apps will show you sensitive content without any warnings.
@@ -44,25 +44,25 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 
 ![Settings and privacy option on the X website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/settings-and-privacy-option-on-the-x-website.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_1424529" src="//a.impactradius-go.com/gen-ad-code/5597632/1424529/16446" width="728" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
  Choose "Privacy and Safety" from the list of options on the left and then select "Content You See."
 
 ![Content you see option on X.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/content-you-see-option-on-x.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_1983575" src="//a.impactradius-go.com/gen-ad-code/5597632/1983575/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Check the box next to "Display media that may contain sensitive content" to disable the warning for tweets.
 
 ![Display media that may contain sensitive content option in X.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/display-media-that-may-contain-sensitive-content-option-in-x.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  How to Show "Sensitive Content" in Searches
 
@@ -73,7 +73,16 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 ![Uncheck the "Hide Sensitive Content" box](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/08/uncheck-the-hide-sensitive-content-box.png) 
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_1982508" src="//a.impactradius-go.com/gen-ad-code/5597632/1982508/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  How to Remove the Warning From Your Own Tweets
 
@@ -82,10 +91,10 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 ![Mark media you post as having material that may be sensitive option in X.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/mark-media-you-post-as-having-material-that-may-be-sensitive-option-in-x.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  This option is available on the web and in the Android app but not in the X app for iPhone and iPad.
 

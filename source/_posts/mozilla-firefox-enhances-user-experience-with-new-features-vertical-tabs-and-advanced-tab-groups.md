@@ -1,7 +1,7 @@
 ---
 title: "Mozilla Firefox Enhances User Experience with New Features: Vertical Tabs & Advanced Tab Groups"
-date: 2024-09-03T10:46:54.185Z
-updated: 2024-09-04T10:46:54.185Z
+date: 2024-09-07T22:19:47.797Z
+updated: 2024-09-08T22:19:47.797Z
 tags:
   - web
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/dc5fff1a9acb5e2e1b1bb4c72b06c12c5151a76a3bb3ac96ddd883f3e1ef8520.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Mozilla Firefox Enhances User Experience with New Features: Vertical Tabs & Advanced Tab Groups
 
 In a world where all browsers are using the Chromium engine, Mozilla's Firefox prides itself in being the odd one out. Firefox gets new features and performance improvements on a regular basis, and now Mozilla has confirmed a few upcoming changes coming to the browser.
@@ -94,7 +100,3 @@ In a world where all browsers are using the Chromium engine, Mozilla's Firefox p
 <li><a href="https://some-skills.techidaily.com/windows-10-creators-update-download-stuck-and-no-sound-issues-fixed/"><u>Windows 10 Creators Update: Download Stuck & No Sound Issues [Fixed]</u></a></li>
 <li><a href="https://some-skills.techidaily.com/windows-10-lock-screen-timeout-change-and-adjust/"><u>Windows 10 Lock Screen Timeout: Change and Adjust</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<iframe id="iframe_1424529" src="//a.impactradius-go.com/gen-ad-code/5597632/1424529/16446" width="728" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->

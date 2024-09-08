@@ -1,7 +1,7 @@
 ---
 title: Free Use of Midjourney Service to Be Permanently Discontinnued, Says Official Statement
-date: 2024-09-03T10:46:59.729Z
-updated: 2024-09-04T10:46:59.729Z
+date: 2024-09-07T22:19:52.826Z
+updated: 2024-09-08T22:19:52.826Z
 tags:
   - cutting-edge
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Robot-painter.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Free Use of Midjourney Service to Be Permanently Discontinnued, Says Official Statement
 
 [Midjourney](https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-motorola-moto-g73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/) is one of the most popular AI art generators, thanks to its ability to create both realistic-looking photos and regular art. However, free access is being shut off while the service deals with "extraordinary demand and trial abuse."
@@ -19,6 +25,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Pope wearing a jacket](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/sub-buzz-520-1679939494.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 _Pablo Xavier / Midjourney_
 
  It's likely that news stories reporting on the images boosted demand in Midjourney, and some of the new users might have been trying to create similar images to the ones going viral. The company's usage statistics aren't public, but the Midjourney Twiter account did see a spike in followers over the weekend, [according to SocialBlade](https://socialblade.com/twitter/user/midjourney). The company already has limits in place to prevent abuse (and [banned the person who created the images of Trump](https://www.buzzfeednews.com/article/chrisstokelwalker/midjourney-ai-donald-trump-arrest-images-ban)), but the existing restrictions apparently aren't enough.
@@ -101,10 +113,3 @@ _Pablo Xavier / Midjourney_
 <li><a href="https://some-skills.techidaily.com/unlock-your-tunes-curated-list-of-websites-for-youtuberingtones-for-2024/"><u>Unlock Your Tunes  Curated List of Websites For YouTubeRingtones for 2024</u></a></li>
 <li><a href="https://some-skills.techidaily.com/unveiling-your-design-how-to-eliminate-backgrounds-in-figma-for-2024/"><u>Unveiling Your Design  How To Eliminate Backgrounds in Figma for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

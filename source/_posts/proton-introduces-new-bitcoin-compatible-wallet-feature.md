@@ -1,7 +1,7 @@
 ---
 title: Proton Introduces New Bitcoin-Compatible Wallet Feature
-date: 2024-09-03T10:46:59.868Z
-updated: 2024-09-04T10:46:59.868Z
+date: 2024-09-07T22:19:52.943Z
+updated: 2024-09-08T22:19:52.943Z
 tags:
   - cutting-edge
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/proton-1.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Proton Introduces New Bitcoin-Compatible Wallet Feature
 
 Proton might be best known for its Mail and VPN services, but the company now has an entire ecosystem of privacy-preserving apps and services. The latest addition is certainly questionable, though: a bitcoin wallet.
@@ -21,6 +27,12 @@ Proton might be best known for its Mail and VPN services, but the company now ha
 
 ![Screenshot of Proton wallet on a computer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/proton-wallet-pr-3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Proton
 
  Bitcoin has had roughly 15 years to prove itself as a viable alternative to fiat currency, and it has [failed](https://fortune.com/2022/01/19/el-salvador-bitcoin-economy-distressed-debt/) at almost every opportunity. Proton pointed out in its announcement that it has accepted payments in Bitcoin since [its initial funding round in 2014](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004351/https://proton.me/blog/paypal-freezes-protonmail-campaign-funds), but that’s not the same as convincing people to enter the ecosystem for the first time, or hoping Bitcoin can finally “gain mainstream trust and acceptance.” Proton Wallet is also a significant departure from Proton’s other apps and services, which mostly serve as alternatives to big tech services like Gmail and Google Calendar. Google and Microsoft have never launched a crypto wallet, and [Meta’s ambitions for cryptocurrency payments](https://en.wikipedia.org/wiki/Diem%5F%28digital%5Fcurrency%29) fell apart in 2019.
@@ -89,10 +101,3 @@ Proton
 <li><a href="https://some-skills.techidaily.com/unlock-your-phones-personality-with-a-customized-whatsapp-tone-for-2024/"><u>Unlock Your Phone's Personality with a Customized WhatsApp Tone for 2024</u></a></li>
 <li><a href="https://some-skills.techidaily.com/unmarked-image-accumulation-essentials-for-2024/"><u>Unmarked Image Accumulation Essentials for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

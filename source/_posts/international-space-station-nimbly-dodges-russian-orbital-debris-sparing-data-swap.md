@@ -1,7 +1,7 @@
 ---
 title: International Space Station Nimbly Dodges Russian Orbital Debris, Sparing Data Swap
-date: 2024-09-03T10:47:00.387Z
-updated: 2024-09-04T10:47:00.387Z
+date: 2024-09-07T22:19:53.433Z
+updated: 2024-09-08T22:19:53.433Z
 tags:
   - cutting-edge
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/imageedit_1_9887762912.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## International Space Station Nimbly Dodges Russian Orbital Debris, Sparing Data Swap
 
 On Monday night, the International Space Station noticed some Russian space junk in its side view mirror, which was closer than it appeared, and fired its thrusters to avoid an accident.
@@ -98,10 +104,3 @@ Related: [Drone Keeps Food Warm by Crashing Into Powerlines and Catching Fire](h
 <li><a href="https://some-skills.techidaily.com/unleash-the-magic-of-time-lapse-photography-on-samsung-gear-for-2024/"><u>Unleash the Magic of Time-Lapse Photography on Samsung Gear for 2024</u></a></li>
 <li><a href="https://some-skills.techidaily.com/unmatched-visual-transformation-toolkit-for-2024/"><u>Unmatched Visual Transformation Toolkit for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

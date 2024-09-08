@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Truth: Effective Techniques for Recognizing Synthetic Videos Crafted by AI Systems Today"
-date: 2024-09-03T10:46:59.368Z
-updated: 2024-09-04T10:46:59.368Z
+date: 2024-09-07T22:19:52.469Z
+updated: 2024-09-08T22:19:52.469Z
 tags:
   - cutting-edge
 categories:
@@ -9,8 +9,32 @@ categories:
 thumbnail: https://thmb.techidaily.com/db6e8bb5b9330de241494205e28fd162607bcee64226c4e5f87f88fc35435d44.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Unveiling the Truth: Effective Techniques for Recognizing Synthetic Videos Crafted by AI Systems Today
 
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Spotting AI Generated Content Can Be a Challenge](https://win-solutions.techidaily.com/itunes-audio-problems-heres-how-to-fix-your-audio-configurations-correctly/)
@@ -34,6 +58,12 @@ thumbnail: https://thmb.techidaily.com/db6e8bb5b9330de241494205e28fd162607bcee64
 
  The aim here is to highlight some of the ways you can pick out AI-generated content, at least for now. Remember that models are always evolving, so these traits will become harder to spot. Sometimes the choice of subject and context of the video can make all the difference.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Watch for Subtle Changes and "Ghosts"
 
  Looking for subtle changes is one way to spot a convincing AI fake, but it’s not exactly easy. One example of OpenAI’s SORA depicted a woman walking down a [neon-lit Tokyo street](https://cdn.openai.com/sora/videos/tokyo-walk.mp4). The scene is impressive for a text-to-video tool, so impressive that you might have missed the wardrobe change towards the end of the footage.
@@ -42,6 +72,18 @@ thumbnail: https://thmb.techidaily.com/db6e8bb5b9330de241494205e28fd162607bcee64
 
 ![OpenAI SORA Tokyo night scene example clip.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/tokyo_clothes1.png) 
 
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 OpenAI
 
  Now take a look at the same clothes in the close-up and you’ll see that the dress now has dark patches on it and that the leather jacket has a much larger off-center lapel:
@@ -56,17 +98,26 @@ OpenAI
 
 ![OpenAI SORA California gold rush town.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/goldrush1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 OpenAI
 
  Two seconds later, the figure has disappeared entirely. If you watch the video, you’ll see this figure blend right into the dirt as if it were a ghost:
 
 ![OpenAI SORA California gold rush town showing a "ghost" disappearing.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/goldrush2.png) 
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_1542129" src="//a.impactradius-go.com/gen-ad-code/5597632/1542129/16836" width="728" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 OpenAI
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  AI Struggles with Fingers, Glasses, and Finer Elements
 
  One of the biggest problems for AI-generative models are extremities and fine lines. In particular, have a good hard look at hands, held objects, spectacles, and the way things interact with human features (like hats, helmets, or even hair).
@@ -79,22 +130,10 @@ OpenAI
 
 ![OpenAI SORA Lagos street scene depicting some irregularities.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/lagos_third_arm.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 OpenAI
 
  Can you take your third arm off my leg, please?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Look Closely at Objects in the Background of an Image
 
  Background details are often a dead giveaway when it comes to AI-generated video, even more so than photos. A good fake depends on the subject being convincing enough to distract you that the background isn’t quite behaving in the way it should be.
@@ -104,7 +143,16 @@ OpenAI
 ![OpenAI SORA Tokyo night scene background details.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/background_people_tokyo.png) 
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_1328683" src="//a.impactradius-go.com/gen-ad-code/5597632/1328683/15852" width="250" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 OpenAI
 
@@ -122,12 +170,6 @@ OpenAI
 
  Everything can look a bit like a highly-produced music video, or like video games in the days before [realistic lighting and raytracing](https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-honor-90-drfone-by-drfone-virtual/). Subjects may look perfectly lit in instances where you’d expect them not to be.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  The Uncanny Valley Effect
 
  The uncanny valley effect is a term used to describe the mixing of human and inhuman traits in a manner that makes the viewer feel uncomfortable. Androids or human-like robots are oft-cited examples since they give the outward appearance of being human but are inescapably inhuman at the same time.
@@ -138,9 +180,6 @@ OpenAI
 
 ![OpenAI SORA spaceman with a knitted helmet video demonstrating the uncanny valley effect.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/uncanny_valley.png) 
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_1770776" src="//a.impactradius-go.com/gen-ad-code/5597632/1770776/20702" width="300" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 OpenAI
 
  And there’s a similarly [ghoulish grandmother](https://cdn.openai.com/sora/videos/grandma-birthday.mp4) failing to blow out her birthday candles, which looks far worse in motion:
@@ -148,19 +187,13 @@ OpenAI
 ![OpenAI SORA's nightmare granny.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/nightmare_granny.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 OpenAI
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Watch Out for Nonsense
 
  This seems like the easiest red flag to spot, but sometimes your brain just gives things a pass. The aforementioned spaceman video is a good example of this. There’s a brief scene of a door, or a handle, or a lever, or _something_ that just doesn’t make sense:
@@ -175,6 +208,12 @@ OpenAI
 
  Garbled text is another good example of what AI generative processes often get wrong. The Japanese characters in SORA’s Tokyo night scene video are a jumble, and so is some of the road and shop signage. Choosing a scene where most people are unable to distinguish Japanese from a bad tribute was a smart choice on OpenAI’s part.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Train Yourself to Better Spot This Content
 
  The best way to train yourself to spot AI-generated content is to study it yourself. Most generative models have active communities both on the web and on social media platforms like Reddit. Find some and take a look at what people are coming up with.

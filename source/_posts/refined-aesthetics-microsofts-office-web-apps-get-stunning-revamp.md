@@ -1,7 +1,7 @@
 ---
 title: "Refined Aesthetics: Microsoft's Office Web Apps Get Stunning Revamp"
-date: 2024-09-03T10:46:54.237Z
-updated: 2024-09-04T10:46:54.237Z
+date: 2024-09-07T22:19:47.845Z
+updated: 2024-09-08T22:19:47.845Z
 tags:
   - web
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/1f78d2fb13516bc942d880b1ed451501538b368f9a6b178eea0c04126c8f2280.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Refined Aesthetics: Microsoft's Office Web Apps Get Stunning Revamp
 
 Microsoft has rolled out a few improvements to the Word, Excel, and PowerPoint web apps over the past few months. Those updates aren’t stopping, as updated menus and file controls have now arrived in the Office web apps.
@@ -17,6 +23,18 @@ Microsoft has rolled out a few improvements to the Word, Excel, and PowerPoint w
 
 ![File menu in Word web app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/untitled-1.png) 
 
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The file autosave status is now a simple green icon at the top of the browser tab, and it’s also at the top of the File menu when opened. You can also now rename a file just by clicking its name at the top-left corner of the web app.
 
  Microsoft said in a blog post, “The File menu is at the center of your productivity in Word, Excel and PowerPoint for the web. It allows you to create, open, save, share, and manage your documents. We’ve heard from many of you that finding commands can be difficult and less than intuitive.” The changes are “designed to make the File menu more intuitive and lightweight.”
@@ -114,10 +132,3 @@ Microsoft has rolled out a few improvements to the Word, Excel, and PowerPoint w
 <li><a href="https://fox-friendly.techidaily.com/unpacking-the-sequencing-of-a-20mb-file/"><u>Unpacking the Sequencing of a 20MB File</u></a></li>
 <li><a href="https://win11.techidaily.com/windows-11-understanding-and-turning-off-system-lockdown/"><u>Windows 11: Understanding & Turning Off System Lockdown</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: Best Value Foldable Phone on the Market - Moto Razr
-date: 2024-09-03T10:47:00.196Z
-updated: 2024-09-04T10:47:00.196Z
+date: 2024-09-07T22:19:53.248Z
+updated: 2024-09-08T22:19:53.248Z
 tags:
   - cutting-edge
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/79.png
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Best Value Foldable Phone on the Market - Moto Razr
 
 Foldable phones are cool, but they can cost a fortune. Now, Motorola is flipping the script: the [2023 Moto Razr](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.motorola.com%2Fus%2Fsmartphones-razr-gen-3%2Fp) costs just $700\. It launches in the United States and Canada on October 19th and will be the most "affordable" current-generation foldable on the market. Additionally, Motorola will offer a special $100 discount if you pre-order the Razr after October 12th.
@@ -111,7 +117,3 @@ Close
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-freeze-rewind-repeat-fcpx-time-manipulation-mastery/"><u>Updated In 2024, Freeze, Rewind, Repeat FCPX Time Manipulation Mastery</u></a></li>
 <li><a href="https://video-capture.techidaily.com/your-guide-to-affordable-cloud-collaboration-top-10-software-recommendations/"><u>Your Guide to Affordable Cloud Collaboration  Top 10 Software Recommendations</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<iframe id="iframe_1424533" src="//a.impactradius-go.com/gen-ad-code/5597632/1424533/16446" width="728" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->

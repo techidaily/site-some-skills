@@ -1,7 +1,7 @@
 ---
 title: Next Generation Search Evolves as Alphabet and Microsoft Prepare to Unveil AI-Powered Web Query Innovations Similar to ChatGPT
-date: 2024-09-03T10:46:59.820Z
-updated: 2024-09-04T10:46:59.820Z
+date: 2024-09-07T22:19:52.918Z
+updated: 2024-09-08T22:19:52.918Z
 tags:
   - cutting-edge
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/02/google-chat.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Next Generation Search Evolves as Alphabet and Microsoft Prepare to Unveil AI-Powered Web Query Innovations Similar to ChatGPT
 
 ChatGPT, [the AI chatbot that can't stop lying](https://youtube-help.techidaily.com/free-method-to-record-your-youtube-watching-experience-for-2024/), has exploded in popularity over the past few weeks. Despite many problems with the technology, Google and Microsoft are pushing ahead with plans to turn web searches into conversations.
@@ -81,10 +87,3 @@ Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.t
 <li><a href="https://some-skills.techidaily.com/top-ranked-ai-enhanced-image-maker-for-2024/"><u>Top-Ranked AI Enhanced Image Maker for 2024</u></a></li>
 <li><a href="https://win-dash.techidaily.com/update-your-hp-officejet-4655-printer-drivers-with-our-guide-and-download-links/"><u>Update Your HP OfficeJet 4655 Printer Drivers with Our Guide & Download Links</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

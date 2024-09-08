@@ -1,7 +1,7 @@
 ---
 title: Microsoft Rolls Out Latest Windows 11 Version 1607 (KB5040442) Patch
-date: 2024-09-03T10:46:56.552Z
-updated: 2024-09-04T10:46:56.552Z
+date: 2024-09-07T22:19:49.858Z
+updated: 2024-09-08T22:19:49.858Z
 tags:
   - desktop
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-logo.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Microsoft Rolls Out Latest Windows 11 Version 1607 (KB5040442) Patch
 
 A great big collection of Windows 11 improvements that were previously limited to beta testers are now available everyone. The Windows 11 KB5040442 cumulative update is currently rolling out to 23H2 and 22H2 installations with new Start menu functionality, expanded file archive options, a revived "show desktop" button, and an obligatory advertisement for Game Pass.
@@ -89,10 +95,3 @@ Close
 <li><a href="https://some-skills.techidaily.com/tranquil-sleep-soundtrack-expertly-selected-voices-for-2024/"><u>Tranquil Sleep Soundtrack  Expertly Selected Voices for 2024</u></a></li>
 <li><a href="https://some-skills.techidaily.com/unleash-the-potential-a-comprehensively-curated-list-of-nft-creating-engines-for-2024/"><u>Unleash the Potential  A Comprehensively Curated List of NFT-Creating Engines for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

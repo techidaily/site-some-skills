@@ -1,7 +1,7 @@
 ---
 title: Effective Web Exploration Strategies with ChatGPT
-date: 2024-09-03T10:47:00.211Z
-updated: 2024-09-04T10:47:00.211Z
+date: 2024-09-07T22:19:53.262Z
+updated: 2024-09-08T22:19:53.262Z
 tags:
   - cutting-edge
 categories:
@@ -9,8 +9,26 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/33-2.png
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Effective Web Exploration Strategies with ChatGPT
 
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * ChatGPT's web search feature, known as ChatGPT Browse or Browse with Bing, allows you to search the web with a simple request in-chat.
@@ -23,6 +41,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Web search request within chatgpt conversation on desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/gpt-search-web.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  With GPT-4, OpenAI's newest, premium version of ChatGPT, you can search the web with a simple request in-chat. This is known as ChatGPT Browse or Browse with Bing, and was permanently introduced in November 2022\. The feature had been launched prior to this date, in mid-2023, but was [abused by some users](http://decrypt.co/147300/openai-disables-web-browse-bing-chatgpt) to access premium content on website usually hidden behind a paywall.
 
  Because of this, the web search tool was taken down shortly after its initial launch for a few months. When the feature returned, it no longer allowed users to trick the bot into supplying information to access paywalled information. So, what does the web search tool look like today?
@@ -42,7 +72,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  If you're doing some research, you can use ChatGPT to access a huge base of information on the topic of your choosing. If you're shopping online, you can use the tool to find the best deals on offer right now. If you're looking for a site on which to stream content, download software, or similar, ChatGPT can also help you out.
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_1531882" src="//a.impactradius-go.com/gen-ad-code/5597632/1531882/16446" width="728" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  How to Use ChatGPT's Web Search
 
@@ -52,12 +91,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![ChatGPT's Bing search response to weather forecast request.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/forecast-gpt4-bing.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Alternatively, you can ask a question and specify that you want a recent result. For instance, you could ask what the biggest star is in the universe, but specify that you want an answer provided in 2024\. If you don't specify for web search, ChatGPT will still provide an answer, but it will be using data published pre-April 2023, so the answer may be outdated.
 
  If you want to ask a question and don't want a web search conducted, just tell ChatGPT in your prompt that you don't wish for this feature to be used. Depending on what you're asking for, ChatGPT may still provide a solid answer, or may tell you that the scope of the prompt goes beyond their training data. In this case, you may be better off using Browse with Bing.
@@ -65,10 +98,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  ChatGPT often provides its sources via a hyperlinked quote in brackets (\["\]). Click on this, and you'll be taken to the page from which ChatGPT got the information it provided.
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  What to Avoid When Browsing the Web With ChatGPT
 
@@ -78,9 +111,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![ChatGPT's response to ecommerce web search request.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/gpt4-deals-bing.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_1495277" src="//a.impactradius-go.com/gen-ad-code/5597632/1495277/17189" width="728" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
  This narrows down the scope of the search results, saving you time and energy.
 
  Additionally, you should always check the sources fromm which ChatGPT gets its information. Even if a source is linked, the website itself isn't necessarily trustworthy, and may not be real at all. ChatGPT has been known to provide hyperlinks to entirely fabricated sources, as found in a [2023 NIH study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9939079/). ChatGPT can even [hide its web sources](https://vp-tips.techidaily.com/updated-unveiling-the-1-to-5-of-windows-free-screen-capture-apps-for-2024/), making it hard to trust in certain scenarios.
@@ -88,10 +118,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  So, before taking anything as oath, fact-check what you're told. If ChatGPT provides one source, have a quick look online if you can find other reputable sources that provide the same information. This will allow you to confirm whether ChatGPT has provided accurate data.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  ChatGPT Can Make Surfing the Web Easy
 

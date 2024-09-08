@@ -1,7 +1,7 @@
 ---
 title: Windows 10 Beta Version Update Downloaded but Can't Progress Beyond Setup - Fix Available
-date: 2024-09-03T10:47:00.911Z
-updated: 2024-09-04T10:47:00.911Z
+date: 2024-09-07T22:19:53.860Z
+updated: 2024-09-08T22:19:53.860Z
 tags:
   - win11
   - win10
@@ -13,6 +13,12 @@ excerpt: This Article Describes Windows 10 Beta Version Update Downloaded but Ca
 thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea886bdb64936441ab4225274.png
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Windows 10 Beta Version Update Downloaded but Can't Progress Beyond Setup - Fix Available
 
 When downloading Windows 10 Insider Preview Build 15031, if you stuck at “Initializing…” for a long time, don’t worry. You can download the build successfully in the end.  
@@ -27,14 +33,32 @@ If you can’t wait so long, try below method.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589c1a89707c7.jpg)   
   
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3\. In Services dialog box, find and double-click on**Windows Update** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589c1b4c8af69.jpg)   
   
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  4\. Under Service status, click**Stop** button. Then click**OK** button.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589c1bca0e384.jpg)   
   
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  5\. Reboot your PC.  
   
  6\. Launch Windows Update and check for updates again.  
@@ -116,7 +140,3 @@ If you can’t wait so long, try below method.
 <li><a href="https://some-skills.techidaily.com/transform-your-cbr-books-into-epub-without-costs-the-ultimate-how-to-tutorial/"><u>Transform Your CBR Books Into EPUB Without Costs: The Ultimate How-To Tutorial</u></a></li>
 <li><a href="https://some-skills.techidaily.com/unlocking-your-ebooks-comprehensive-guide-to-removing-drm-from-epub-files/"><u>Unlocking Your Ebooks: Comprehensive Guide to Removing DRM From EPUB Files</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<iframe id="iframe_1983553" src="//a.impactradius-go.com/gen-ad-code/5597632/1983553/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->

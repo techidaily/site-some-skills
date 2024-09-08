@@ -1,7 +1,7 @@
 ---
 title: Can Apple's Gaming Performance on Macs Match PC Rivals and Win Over Gamers?
-date: 2024-09-03T10:46:56.151Z
-updated: 2024-09-04T10:46:56.151Z
+date: 2024-09-07T22:19:49.496Z
+updated: 2024-09-08T22:19:49.496Z
 tags:
   - desktop
 categories:
@@ -19,6 +19,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  For decades the idea of gaming on a Mac has been seen as a joke by "hardcore" gamers, but that wasn't always the case, and maybe in the near future the Mac's gaming credentials will return.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Macs Used to Be the Best Gaming Computers
 
  When PC gaming was still just PC speaker bleeps and bloops, Apple computers offered a gaming experience on another level. Games like _Karateka_, _Prince of Persia_, _Oregon Trail_, and _Ultima 1_ on the Apple II set the standard for high-end gaming in the late 70s and early 80s. By the 90s every major game worth mentioning had a Mac version, and titles like _Myst_ and the _Marathon_ Trilogy by Bungie showed that Mac was a serious gaming platform, even if it only catered to a much smaller segment of the personal computer market than it does today. Heck, the first _Halo_ game was set to be a Mac exclusive, [announced by Steve Jobs himself](https://youtu.be/qVMD7wx-peU?si=0rzEBXnRCr8-Njh7). Sure, it was a totally different style of game at that point, but it was still on everyone's radar.
@@ -26,17 +32,26 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  From there, the shift to Intel from PowerPC made porting Windows games to Mac easier, but the results weren't always stellar, and when Apple killed 32-bit app support for macOS Catalina, making most of the Mac back catalog unplayable, it didn't help. Still, anyone who doesn't think of the Mac as an important gaming platform has to completely ignore the points in its long existence where it was leading gaming technology or highly influential.
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_1630055" src="//a.impactradius-go.com/gen-ad-code/5597632/1630055/18460" width="240" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Apple Is Taking Gaming Seriously
 
 ![macOS 14 Game Mode cuts latency for AirPods and controllers](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/macos_14_Games.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 _Apple_
 
@@ -45,17 +60,20 @@ _Apple_
  It's not just the hardware that's ready to game. Apple has its own API known as Metal, and includes AI-upscaling technology in the form of [MetalFX](https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-itel-s23plus-drfone-by-drfone-virtual-android/). Controller support is universal across macOS and the iOS family. Apple has even created a special porting kit which makes it as easy as possible for developers to port their Windows games to Mac. All the groundwork for an Apple gaming renaissance is in place, now the games have to come.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Developers Need to Take It Seriously (and Some Are)
 
 ![Resident Evil Village Mac Announcement](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/Screenshot-2023-06-09-at-11.19.17.png) 
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_1982461" src="//a.impactradius-go.com/gen-ad-code/5597632/1982461/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 _Apple_
 
@@ -64,7 +82,10 @@ _Apple_
  Even without any prodding from Apple, the [rise in computer market share](https://macdailynews.com/2024/01/10/apples-mac-takes-16-1-share-of-u-s-personal-computer-market-in-q423-gartner/) that Apple has undergone in the past few years is surely attracting the attention of developers who are looking to expand their potential customer base. If you look at the [2024 Game Awards nominees](https://thegameawards.com/nominees/game-of-the-year) several of these games have native Mac versions, including _Baldur's Gate 3_, _Resident Evil 4 Remake_, and _Dave the Diver_. Perusing Steam on macOS, and you'll see a long list of new and older games that are either native to Apple Silicon or will run via [Rosetta](https://instagram-video-recordings.techidaily.com/updated-2024-approved-demystifying-viewer-statistics-on-instagram-images/), and even the humble [M1 MacBook Air](https://fox-cloud.techidaily.com/updated-in-2024-professional-gopro-footage-in-3-simple-steps/) can run most of these titles well.
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_1770526" src="//a.impactradius-go.com/gen-ad-code/5597632/1770526/20702" width="300" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Mac Owners Need to Spread the Word
 

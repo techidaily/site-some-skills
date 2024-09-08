@@ -1,7 +1,7 @@
 ---
 title: Experience the New Vertical Tab Feature with Mozilla's Firefox Browser
-date: 2024-09-03T10:46:54.622Z
-updated: 2024-09-04T10:46:54.622Z
+date: 2024-09-07T22:19:48.205Z
+updated: 2024-09-08T22:19:48.205Z
 tags:
   - web
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/firefox-hero.png
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Experience the New Vertical Tab Feature with Mozilla's Firefox Browser
 
 Last month, Mozilla announced that it’s working on a bunch of new features for Firefox, including tab grouping, vertical tabs, sidebar, and a new profile management system. The vertical tabs and sidebar updates were just rolled out for testing.
@@ -19,14 +25,32 @@ Last month, Mozilla announced that it’s working on a bunch of new features for
 
 ![Firefox sidebar customization settings and vertical tabs.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ksnip_20240808-221934.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  These features are still in active development and have to be manually enabled in the settings. To test them yourself, install the latest [Firefox Nightly build](https://www.mozilla.org/en-US/firefox/channel/desktop/) and enable the sidebar under the “Firefox Labs” section. You can customize the sidebar to display the tools of your choice, change tab alignment, or move the bar to the right side.
 
 ![Enabling the sidebar using Firefox Labs settings in Firefox Nightly.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ksnip_20240808-221652.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The sidebar also has a button for launching AI chatbots inside it. It supports Gemini, [ChatGPT](https://smart-video-editing.techidaily.com/new-how-to-find-free-sites-for-sound-effect-and-add-them-in-final-cut-pro-for-2024/), Claude, Mistral, and [HuggingChat](https://buynow-marvelous.techidaily.com/in-depth-review-why-the-fujitsu-scansnap-ix1400-is-a-game-changer-for-home-office-efficiency-and-smb-productivity/). You can quickly chat with these bots in the sidebar, or select text anywhere in the browser to use it as a one-click prompt.
 
 ![Google Gemini running in the Firefox sidebar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ksnip_20240808-222830.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Mozilla is still working on the tab grouping and profile management features that were announced alongside vertical tabs. These updates give us a peek into how the Firefox UI might change in the coming months, though.
 
  Source: [Mozilla Blog](https://blog.nightly.mozilla.org/2024/08/07/firefox-sidebar-and-vertical-tabs-try-them-out-in-nightly-firefox-labs-131/)
@@ -88,10 +112,3 @@ Last month, Mozilla announced that it’s working on a bunch of new features for
 <li><a href="https://some-skills.techidaily.com/unlocking-digital-content-how-to-bypass-adobes-drm-protection-on-epubpdf-formats-for-pc-and-mac/"><u>Unlocking Digital Content: How to Bypass Adobe's DRM Protection on EPUB/PDF Formats for PC and Mac</u></a></li>
 <li><a href="https://some-skills.techidaily.com/unlocking-digital-reading-how-to-easily-download-and-read-google-ebooks-on-amazons-kindle-fire/"><u>Unlocking Digital Reading: How to Easily Download & Read Google eBooks on Amazon's Kindle Fire</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

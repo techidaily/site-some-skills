@@ -1,7 +1,7 @@
 ---
 title: "Introducing Microsoft's Latest Innovation: An AI-Enhanced Recall Function for Personal Computers"
-date: 2024-09-03T10:46:57.715Z
-updated: 2024-09-04T10:46:57.715Z
+date: 2024-09-07T22:19:50.905Z
+updated: 2024-09-08T22:19:50.905Z
 tags:
   - deals
 categories:
@@ -9,8 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/5e8073ee6fa80b00481e787b8ffd70b1f1a083692a90f4785a3be5a978334fdb.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Introducing Microsoft's Latest Innovation: An AI-Enhanced Recall Function for Personal Computers
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [What is Microsoft Recall?](https://facebook-video-recording.techidaily.com/in-2024-enhance-connection-top-tips-to-craft-compelling-facebook-profiles/)
@@ -19,6 +31,12 @@ thumbnail: https://thmb.techidaily.com/5e8073ee6fa80b00481e787b8ffd70b1f1a083692
 
  Microsoft has leaned heavily into AI recently, and nowhere is that more on display than their latest addition to Windows: Recall. Here's what you need to know.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  What is Microsoft Recall?
 
  Microsoft Recall, formerly internally called AI Explorer, is a new, special kind of AI-powered search that is set to be integrated into Windows 11 (and likely subsequent Windows releases). It’ll have the ability to make note of everything you do on your PC, which you can then search using natural language. In other words, if you were writing a short story about a cat and forgot where you saved it, you should be able to ask Recall, “Where did I save my story about the cat” and it’ll be able to tell you.
@@ -28,7 +46,10 @@ thumbnail: https://thmb.techidaily.com/5e8073ee6fa80b00481e787b8ffd70b1f1a083692
  It isn’t limited to basic information about files, though. Recall is built around a large number of more specialized AI features that will allow it to interact with everything from text to images to video.
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_2127886" src="//a.impactradius-go.com/gen-ad-code/5597632/2127886/18498" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  What Does Recall Require?
 
@@ -41,10 +62,10 @@ thumbnail: https://thmb.techidaily.com/5e8073ee6fa80b00481e787b8ffd70b1f1a083692
  TOPs are a little different from the TFLOP figures you usually see thrown around when talking about super computers, GPUs, or CPUs. TOPs are measured in half-precision, FP16, or BFloat16, or BF16 calculations. TFlops usually (but not always) refer to “full precision” operations, which use 32-bit bit floating point numbers.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Is Microsoft Recall Secure?
 

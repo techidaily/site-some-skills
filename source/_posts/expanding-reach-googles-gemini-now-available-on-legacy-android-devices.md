@@ -1,7 +1,7 @@
 ---
 title: "Expanding Reach: Google's Gemini Now Available on Legacy Android Devices"
-date: 2024-09-03T10:46:59.667Z
-updated: 2024-09-04T10:46:59.667Z
+date: 2024-09-07T22:19:52.772Z
+updated: 2024-09-08T22:19:52.772Z
 tags:
   - cutting-edge
 categories:
@@ -9,6 +9,18 @@ categories:
 thumbnail: https://thmb.techidaily.com/a68fefb1cd3e565ec5f454a0d5028d3000ec7ede8d478967f77735423a6ab539.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Expanding Reach: Google's Gemini Now Available on Legacy Android Devices
 
 Google is really committed to its Gemini chatbot. The company recently gave people the option to replace the standard Google Assistant app with Gemini, with Assistant taking over regular queries and Gemini stepping in for more complex ones. However, the app was only supported on Android phones running Android 12 or higher. Now, though, that requirement is being lowered.
@@ -102,10 +114,3 @@ Google is really committed to its Gemini chatbot. The company recently gave peop
 <li><a href="https://some-skills.techidaily.com/unleash-your-inner-animator-with-these-14-text-wonders-for-2024/"><u>Unleash Your Inner Animator with These 14 Text Wonders for 2024</u></a></li>
 <li><a href="https://driver-download.techidaily.com/updated-logitech-audio-device-drivers-compatible-with-windows-11-7-and-8-how-to-install/"><u>Updated Logitech Audio Device Drivers: Compatible with Windows 11, 7 & 8 – How to Install</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

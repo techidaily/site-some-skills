@@ -1,7 +1,7 @@
 ---
 title: How Cozi Became the Ultimate Tool for Keeping My Family Life in Perfect Harmony
-date: 2024-09-03T10:46:55.291Z
-updated: 2024-09-04T10:46:55.291Z
+date: 2024-09-07T22:19:48.740Z
+updated: 2024-09-08T22:19:48.740Z
 tags:
   - mobile
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-phone-with-the-cozi-app-and-the-cozi-logo-in-the-background-with-a-family-using-a-phone.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Cozi Became the Ultimate Tool for Keeping My Family Life in Perfect Harmony
 
 ### Quick Links
@@ -30,15 +36,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The Cozi menu on the iPhone app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/cozi-menu.jpeg) 
 
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The app has just five main areas, meaning it's easily navigable, and you don't need to spend long doing what you need to do. Because the app is so streamlined and focused, the Home tab handily summarizes everything contained in the other tabs, so you can see everything at a glance.
 
 ![The Home tab of the Cozi app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/cozi-home.jpeg) 
 
  Cozi is available on all devices, from [iPhones and iPads](https://apps.apple.com/us/app/cozi-family-organizer/id407108860) to [Android phones and tablets](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004123/https://play.google.com/store/apps/details?id=com.cozi.androidfree&hl=en%5FUS) to [web browsers](https://www.cozi.com/)—a real bonus for a program that is intended to be shared by lots of people who want to see the same things.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_1983584" src="//a.impactradius-go.com/gen-ad-code/5597632/1983584/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ##  Go Straight to Cozi Gold
 
  Before I dive deeper, I should mention that this article mostly reviews the benefits of [Cozi Gold](http://www.cozi.com/cozi-gold/), an optional upgrade. Some features discussed are also available in the free version of the app. As soon as we started using the app, we realized that upgrading was the best option, given the low price and the host of benefits Cozi Gold offers.
@@ -64,7 +79,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  You can trial Cozi Gold for free for a fortnight, and you can cancel anytime during this test-drive period without being charged. Upgrading to Cozi Gold costs just $39 annually (or £29 if you're in the UK), and the upgrade applies to all devices in your family plan. Once you've added the app to your device and created a free account, you can manage your subscription in your app store.
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_1743243" src="//a.impactradius-go.com/gen-ad-code/5597632/1743243/19272" width="250" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Even My Dad Can Use It
 
@@ -76,6 +94,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 Close 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Cozi Offers What You'd Expect From a Basic Calendar
 
  Cozi offers everything you'd expect from a family planner, from events and reminders to repeated events and birthdays.
@@ -84,6 +108,12 @@ Close
 
 ![The '+' icon in Cozi.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/cozi-add-event.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Then, on the Add New Event screen, type the event title and location (this appears in brackets when you return to the Calendar view), and tap "Who's Going?" to assign the event to the relevant members of your family.
 
 ![The event details fields for a new event in Cozi.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/cozi-event-details-1.jpeg) 
@@ -96,12 +126,6 @@ Close
 
 ![The event details fields for a new event in Cozi.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/cozi-event-details-3.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Finally, if needed, you can add a note to the event at the bottom of the Add New Event screen, which everyone in your plan can see.
 
  When you're done, tap "Save."
@@ -111,10 +135,10 @@ Close
  You can add the birthday of anyone you know, not just those in your Cozi family subscription.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  It's Easy to See Who's Doing What at a Glance
 
@@ -122,12 +146,6 @@ Close
 
 ![The Search option in the Cozi app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/cozi-search.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Sync Cozi With Your Phone's Calendar
 
  If you want to sync events linked to a certain person to your phone's calendar, in the Family tab, tap "Settings," and then choose "Shared Cozi Calendars."
@@ -135,33 +153,39 @@ Close
 ![The Shared Cozi Calendars option in the Cozi app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/shared-cozi-calendars.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Then, check the individuals whose calendars you want to download and [add the URL to your calendar](https://win-howtos.techidaily.com/resolve-your-ps4-nat-problems-a-comprehensive-step-by-step-fixing-guide/). If you want to add all events to your phone's calendar, check "Calendar Of All Events."
 
 ![The Calendar Of All Events option in Cozi's Share Calendars menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/calendar-of-all-events-cozi.jpeg) 
 
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Similarly, if you need to import a calendar from your phone to Cozi (especially useful if you subscribe to an online calendar, such as your football team's fixtures), go to your phone's calendar, copy the URL, and tap "Connected Calendars" in the Settings menu of the Family tab. From there, tap "Add A Calendar From A URL."
 
 ![The Add A Calendar From A URL option in Cozi.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/add-calendar-to-cozi-from-url.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030375/7443" target="_top" id="2030375">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030375/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  All imported and exported calendars are read-only, so you can only amend the details at their source.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  It's Easy to Manage and Add Members (Even the Dog!)
 
  Adding someone to your Cozi plan is straightforward. In the Family tab, tap "Settings," and choose "Add" or "Add Another" in the Family Member Settings section.
@@ -174,15 +198,21 @@ Close
 
  Members of your calendar don't have to have an email address to be added, but this means they won't be able to access the calendar. While this might seem counter-intuitive, we use it to add our dog's vet appointments and walks.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Other Useful Cozi Features
 
  As well as the many useful features discussed above, Cozi also offers some peripheral tools that might come in handy for your family.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ###  Weekly Agenda Emails
 
@@ -197,17 +227,26 @@ Close
 ![The Groceries and Other lists in the Cozi app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/cozi-lists.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  You can also use block capitals to create a category or shop name, making organizing the list even easier.
 
 ![The Cozi Groceries list with categories and items added.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/cozi-shopping-list.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_1982461" src="//a.impactradius-go.com/gen-ad-code/5597632/1982461/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ###  Recipe Boxes
 
@@ -215,6 +254,18 @@ Close
 
 ![The recipe options in the Cozi app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/cozi-recipe-options.jpeg) 
 
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ---
 
  If you're a fan of Microsoft, consider also adding [Microsoft To-Do](https://digital-screen-recording.techidaily.com/new-2024-approved-direct-viewing-verdict-obs-vs-shadowcast/) to organizational tools. Great for personal or professional use, this app lets you collaborate with others, delegate responsibilities, and distribute lists via email.
