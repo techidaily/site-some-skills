@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -248,7 +305,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"some-skills.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -629,74 +686,74 @@
               
                 
                     
-                    <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='09-03'>
+                    <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='09-07'>
                 
                     
-                        <a href="/unrestricted-reading-discovering-drm-free-ebooks-compatible-with-all-your-gadgets/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Unrestricted Reading: Discovering DRM-Free Ebooks Compatible with All Your Gadgets</span>
+                        <a href="/step-by-step-guide-transforming-mobi-files-into-compatible-amazon-kindle-azw-format/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Step-by-Step Guide: Transforming MOBI Files Into Compatible Amazon Kindle AZW Format</span>
                         </a>
                     
               
                 
                     
-                        <a href="/unlock-your-ebooks-expert-tips-for-disabling-drm-on-list-des-epotres-content/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Unlock Your eBooks: Expert Tips for Disabling DRM on List Des Épôtres Content</span>
+                        <a href="/step-by-step-guide-to-drm-removal-from-ebook-pages/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Step-by-Step Guide to DRM Removal From eBook Pages</span>
                         </a>
                     
               
                 
                     
-                        <a href="/unleashing-the-power-of-azw-discover-key-benefits-and-applications/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Unleashing the Power of Azw: Discover Key Benefits and Applications</span>
+                        <a href="/locating-official-kobo-support-facilities-in-the-indian-market/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Locating Official Kobo Support Facilities in the Indian Market</span>
                         </a>
                     
               
                 
                     
-                        <a href="/ultimate-tips-for-splitting-audiobooks-into-chapters-the-top-four-techniques/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Ultimate Tips for Splitting Audiobooks Into Chapters: The Top Four Techniques!</span>
+                        <a href="/how-to-convert-your-audiobooks-aax-files-into-mp3-format/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">How to Convert Your Audiobook&#39;s AAX Files Into MP3 Format</span>
                         </a>
                     
               
                 
                     
-                        <a href="/ultimate-guide-to-ebook-drm-removal-how-to-unlock-pdf-epub-and-mobi-formats/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Ultimate Guide to Ebook DRM Removal - How to Unlock PDF, EPUB, and MOBI Formats</span>
+                        <a href="/how-to-convert-and-transfer-word-documents-onto-your-kobo-e-reader/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">How to Convert and Transfer Word Documents Onto Your Kobo E-Reader</span>
                         </a>
                     
               
                 
                     
-                        <a href="/ultimate-guide-diving-into-the-latest-kindle-oasis-2-edition-from-2017/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Ultimate Guide: Diving Into the Latest Kindle Oasis 2 Edition From 2017</span>
+                        <a href="/guide-facile-et-rapide-pour-deverrouiller-les-fichiers-pdf-avec-du-drm-des-fichiers-pdf-sans-restrictions/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Guide Facile Et Rapide Pour Déverrouiller Les Fichiers PDF Avec Du DRM - Des Fichiers PDF Sans Restrictions</span>
                         </a>
                     
               
                 
                     
-                        <a href="/top-strategies-for-seamlessly-transforming-topaz-files-into-epub-format/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Top Strategies for Seamlessly Transforming Topaz Files Into ePUB Format</span>
+                        <a href="/from-sampling-to-subscribing-mastering-the-art-of-effective-trial-to-paying-user-transitions/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">From Sampling to Subscribing: Mastering the Art of Effective Trial-to-Paying User Transitions</span>
                         </a>
                     
               
                 
                     
-                        <a href="/top-kindle-fire-tablets-and-e-readers-reviewed-find-your-perfect-amazon-device/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Top Kindle Fire Tablets and E-Readers Reviewed - Find Your Perfect Amazon Device!</span>
+                        <a href="/epub-and-mobi-conversion-mastery-unlocking-the-full-potential/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">EPUB and MOBI Conversion Mastery: Unlocking the Full Potential</span>
                         </a>
                     
               
                 
                     
-                        <a href="/top-10-essential-kindle-applications-enhance-your-reading-experience/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Top 10 Essential Kindle Applications: Enhance Your Reading Experience</span>
+                        <a href="/effortless-conversion-techniques-for-transforming-kindle-kfx-ebooks-into-epubpdfmobi-with-the-help-of-calibre-tool/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Effortless Conversion Techniques for Transforming Kindle KFX Ebooks Into ePub/PDF/Mobi with the Help of Calibre Tool</span>
                         </a>
                     
               
                 
                     
-                        <a href="/step-by-step-guide-transforming-your-azw4-books-into-epub-format/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Step-by-Step Guide: Transforming Your AZW4 Books Into EPUB Format</span>
+                        <a href="/easy-guide-on-how-to-convert-ebooks-from-epub-format-to-pdf/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Easy Guide on How to Convert eBooks From EPUB Format to PDF</span>
                         </a>
                     
               

@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"some-skills.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -790,14 +847,14 @@
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
                         <a href="/updated-ultimate-facetune-a-comprehensive-2024-user-manual/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/0f5fc285546b265c973fbaa96cd3591b73387ac3a0f71577bc77fa3f28f478c0.jpg" alt="&#34;[Updated] Ultimate Facetune  A Comprehensive 2024 User Manual&#34;" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                            <img src="https://thmb.techidaily.com/0f5fc285546b265c973fbaa96cd3591b73387ac3a0f71577bc77fa3f28f478c0.jpg" alt="[Updated] Ultimate Facetune A Comprehensive 2024 User Manual" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
                         <a href="/updated-ultimate-facetune-a-comprehensive-2024-user-manual/">
-                            &#34;[Updated] Ultimate Facetune  A Comprehensive 2024 User Manual&#34;
+                            [Updated] Ultimate Facetune A Comprehensive 2024 User Manual
                         </a>
                     </h3>
 
@@ -869,7 +926,7 @@
         
     </div>
 
-    <a href="/updated-ultimate-facetune-a-comprehensive-2024-user-manual/">Read more<span class="seo-reader-text">&#34;[Updated] Ultimate Facetune  A Comprehensive 2024 User Manual&#34;</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/updated-ultimate-facetune-a-comprehensive-2024-user-manual/">Read more<span class="seo-reader-text">[Updated] Ultimate Facetune A Comprehensive 2024 User Manual</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -982,14 +1039,14 @@
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
                         <a href="/updated-the-path-to-personalization-adjusting-snapchat-videos-pace/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/7f531620a49852bbff7e687b5f3193b68bdfdcb0db935514f90e93325010d261.jpg" alt="&#34;[Updated] The Path to Personalization  Adjusting Snapchat Videos&#39; Pace&#34;" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                            <img src="https://thmb.techidaily.com/7f531620a49852bbff7e687b5f3193b68bdfdcb0db935514f90e93325010d261.jpg" alt="[Updated] The Path to Personalization Adjusting Snapchat Videos&#39; Pace" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
                         <a href="/updated-the-path-to-personalization-adjusting-snapchat-videos-pace/">
-                            &#34;[Updated] The Path to Personalization  Adjusting Snapchat Videos&#39; Pace&#34;
+                            [Updated] The Path to Personalization Adjusting Snapchat Videos&#39; Pace
                         </a>
                     </h3>
 
@@ -1061,7 +1118,7 @@
         
     </div>
 
-    <a href="/updated-the-path-to-personalization-adjusting-snapchat-videos-pace/">Read more<span class="seo-reader-text">&#34;[Updated] The Path to Personalization  Adjusting Snapchat Videos&#39; Pace&#34;</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/updated-the-path-to-personalization-adjusting-snapchat-videos-pace/">Read more<span class="seo-reader-text">[Updated] The Path to Personalization Adjusting Snapchat Videos&#39; Pace</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1078,14 +1135,14 @@
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
                         <a href="/updated-the-best-anti-shake-gimblers-reviewed-by-vloggers/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/ee5c0d7e477d155cf7c4d7a41bb4baf523bd4dd370c1eec84bd95b2e762714db.png" alt="&#34;[Updated] The Best Anti-Shake Gimblers Reviewed by Vloggers&#34;" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                            <img src="https://thmb.techidaily.com/ee5c0d7e477d155cf7c4d7a41bb4baf523bd4dd370c1eec84bd95b2e762714db.png" alt="[Updated] The Best Anti-Shake Gimblers Reviewed by Vloggers" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
                         <a href="/updated-the-best-anti-shake-gimblers-reviewed-by-vloggers/">
-                            &#34;[Updated] The Best Anti-Shake Gimblers Reviewed by Vloggers&#34;
+                            [Updated] The Best Anti-Shake Gimblers Reviewed by Vloggers
                         </a>
                     </h3>
 
@@ -1157,7 +1214,7 @@
         
     </div>
 
-    <a href="/updated-the-best-anti-shake-gimblers-reviewed-by-vloggers/">Read more<span class="seo-reader-text">&#34;[Updated] The Best Anti-Shake Gimblers Reviewed by Vloggers&#34;</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/updated-the-best-anti-shake-gimblers-reviewed-by-vloggers/">Read more<span class="seo-reader-text">[Updated] The Best Anti-Shake Gimblers Reviewed by Vloggers</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1174,14 +1231,14 @@
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
                         <a href="/updated-the-art-of-producing-attention-grabbing-podcast-openers/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/4f252061500e08e9c2f2521977c5b0253a500625454298afd84e9855ed4fbb6b.jpg" alt="&#34;[Updated] The Art of Producing Attention-Grabbing Podcast Openers&#34;" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                            <img src="https://thmb.techidaily.com/4f252061500e08e9c2f2521977c5b0253a500625454298afd84e9855ed4fbb6b.jpg" alt="[Updated] The Art of Producing Attention-Grabbing Podcast Openers" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
                         <a href="/updated-the-art-of-producing-attention-grabbing-podcast-openers/">
-                            &#34;[Updated] The Art of Producing Attention-Grabbing Podcast Openers&#34;
+                            [Updated] The Art of Producing Attention-Grabbing Podcast Openers
                         </a>
                     </h3>
 
@@ -1253,7 +1310,7 @@
         
     </div>
 
-    <a href="/updated-the-art-of-producing-attention-grabbing-podcast-openers/">Read more<span class="seo-reader-text">&#34;[Updated] The Art of Producing Attention-Grabbing Podcast Openers&#34;</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/updated-the-art-of-producing-attention-grabbing-podcast-openers/">Read more<span class="seo-reader-text">[Updated] The Art of Producing Attention-Grabbing Podcast Openers</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1270,14 +1327,14 @@
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
                         <a href="/updated-the-art-of-captioning-text-techniques-for-images-in-oses/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/f3b9ebc545f359ab98a545c4a62ebaee9fb8e9ec48b8af506bc5428bdf5f9d0e.jpg" alt="&#34;[Updated] The Art of Captioning  Text Techniques for Images in OSes&#34;" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                            <img src="https://thmb.techidaily.com/f3b9ebc545f359ab98a545c4a62ebaee9fb8e9ec48b8af506bc5428bdf5f9d0e.jpg" alt="[Updated] The Art of Captioning Text Techniques for Images in OSes" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
                         <a href="/updated-the-art-of-captioning-text-techniques-for-images-in-oses/">
-                            &#34;[Updated] The Art of Captioning  Text Techniques for Images in OSes&#34;
+                            [Updated] The Art of Captioning Text Techniques for Images in OSes
                         </a>
                     </h3>
 
@@ -1349,7 +1406,7 @@
         
     </div>
 
-    <a href="/updated-the-art-of-captioning-text-techniques-for-images-in-oses/">Read more<span class="seo-reader-text">&#34;[Updated] The Art of Captioning  Text Techniques for Images in OSes&#34;</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/updated-the-art-of-captioning-text-techniques-for-images-in-oses/">Read more<span class="seo-reader-text">[Updated] The Art of Captioning Text Techniques for Images in OSes</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1462,14 +1519,14 @@
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
                         <a href="/the-ultimate-composition-crafting-memorable-podcast-covers-for-2024/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/b4646e6c7dd57e63be8305e5fc613622e6d7e19134ef2ba8ba5fe989f296bf0b.png" alt="&#34;The Ultimate Composition  Crafting Memorable Podcast Covers for 2024&#34;" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                            <img src="https://thmb.techidaily.com/b4646e6c7dd57e63be8305e5fc613622e6d7e19134ef2ba8ba5fe989f296bf0b.png" alt="The Ultimate Composition Crafting Memorable Podcast Covers for 2024" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
                         <a href="/the-ultimate-composition-crafting-memorable-podcast-covers-for-2024/">
-                            &#34;The Ultimate Composition  Crafting Memorable Podcast Covers for 2024&#34;
+                            The Ultimate Composition Crafting Memorable Podcast Covers for 2024
                         </a>
                     </h3>
 
@@ -1541,7 +1598,7 @@
         
     </div>
 
-    <a href="/the-ultimate-composition-crafting-memorable-podcast-covers-for-2024/">Read more<span class="seo-reader-text">&#34;The Ultimate Composition  Crafting Memorable Podcast Covers for 2024&#34;</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/the-ultimate-composition-crafting-memorable-podcast-covers-for-2024/">Read more<span class="seo-reader-text">The Ultimate Composition Crafting Memorable Podcast Covers for 2024</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1558,14 +1615,14 @@
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
                         <a href="/the-seamless-shift-your-path-to-kinemaster-expertise-for-2024/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/446c2c83401a2bf43df1ddd12db668c5d64cb21efbb35cbfda2026996e2400a4.jpg" alt="&#34;The Seamless Shift  Your Path to Kinemaster Expertise for 2024&#34;" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                            <img src="https://thmb.techidaily.com/446c2c83401a2bf43df1ddd12db668c5d64cb21efbb35cbfda2026996e2400a4.jpg" alt="The Seamless Shift Your Path to Kinemaster Expertise for 2024" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
                         <a href="/the-seamless-shift-your-path-to-kinemaster-expertise-for-2024/">
-                            &#34;The Seamless Shift  Your Path to Kinemaster Expertise for 2024&#34;
+                            The Seamless Shift Your Path to Kinemaster Expertise for 2024
                         </a>
                     </h3>
 
@@ -1637,7 +1694,7 @@
         
     </div>
 
-    <a href="/the-seamless-shift-your-path-to-kinemaster-expertise-for-2024/">Read more<span class="seo-reader-text">&#34;The Seamless Shift  Your Path to Kinemaster Expertise for 2024&#34;</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/the-seamless-shift-your-path-to-kinemaster-expertise-for-2024/">Read more<span class="seo-reader-text">The Seamless Shift Your Path to Kinemaster Expertise for 2024</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
