@@ -1,7 +1,7 @@
 ---
 title: Discover Effortless iPhone Circle Searching with This Simple Shortcut
-date: 2024-09-07T22:19:48.677Z
-updated: 2024-09-08T22:19:48.677Z
+date: 2024-09-05T23:08:12.581Z
+updated: 2024-09-13T09:05:13.649Z
 tags:
   - mobile
 categories:
@@ -9,20 +9,8 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/an-iphone-with-the-shortcuts-app-screen.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Discover Effortless iPhone Circle Searching with This Simple Shortcut
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Circle to Search is an Android exclusive feature allowing users to search for items on their screen by circling them.
@@ -32,14 +20,28 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Circle to Search cuts through the traditional Google search experience, helping you find what you need in an instant. The feature isn't natively available on iPhones, but there's a workaround that lets you use Google Lens similarly. Here's how.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  What Is Circle to Search?
 
 ![Person holding the Google Pixel 8a using Circle to Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/person-holding-the-google-pixel-8a-using-circle-to-search-1.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -59,48 +61,45 @@ Justin Duino / How-To Geek
 
 ![Screenshot of the iPhone's Shortcuts app highlighting the option to add a shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-3.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Tap on "Add Action."
 
 ![Screenshot of the Add Action button in iPhone's Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  On the following screen, type "take screenshot" in the search bar (at the top) and select the right option.
 
 ![Screenshot of the Take Screenshot button in Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Now, tap on the search bar at the bottom and type "Search Image with Lens." This option will not appear unless you've downloaded the Google app. Choose the correct option from the results.
 
 ![Search Image with Lens shortcut for iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-1.png) 
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  With the selected actions, the shortcut flow should look like the screenshot attached below. Once you're set, tap "Done" in the top right corner.
 
 ![Screenshot of iPhone's Shortcut app highlighting the Done option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/7-1.png) 
@@ -111,6 +110,13 @@ Justin Duino / How-To Geek
 
 ![Screenshot of the Back Tap option in iPhone's Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/8-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Choose whether you want to trigger the shortcut from a double or triple tap. I'm going with double tap.
 
 ![Screenshot of the Back Tap option in iPhone's Settings section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/9.png) 
@@ -118,6 +124,13 @@ Justin Duino / How-To Geek
  Scroll to the bottom and select "Search Image with Lens" in the Shortcuts menu.
 
 ![Search Image with Lens in iPhone's Back Tap menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/10.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Use Back Tap to Invoke Google Lens' Visual Search
 
@@ -139,8 +152,6 @@ Justin Duino / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,45 +161,14 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-navigating-the-essentials-of-attractive-profiles-for-2024/"><u>[New] Navigating the Essentials of Attractive Profiles for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-unveil-top-8-websites-with-free-green-screen-video-treasures/"><u>[New] Unveil Top 8 Websites with FREE Green Screen Video Treasures</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-advanced-windows-11-video-recording-software-guide/"><u>[Updated] Advanced Windows 11 Video Recording Software Guide</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-changes-in-instagrams-algorithm-user-perspectives/"><u>[Updated] In 2024, Changes in Instagram's Algorithm  User Perspectives</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-jest-sculptor-undead-funnybots/"><u>[Updated] Jest Sculptor  Undead Funnybots</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-unlocking-iphone-x-ease-mending-face-id-problems/"><u>[Updated] Unlocking iPhone X Ease  Mending Face ID Problems</u></a></li>
-<li><a href="https://some-skills.techidaily.com/1-mastering-epub-covers-comprehensive-steps-to-updating-and-adding-them/"><u>1. Mastering EPUB Covers: Comprehensive Steps to Updating and Adding Them</u></a></li>
-<li><a href="https://some-skills.techidaily.com/azw3-book-conversion-made-simple-transform-your-ebooks-into-epub-pdf-and-mobi-files-today/"><u>AZW3 Book Conversion Made Simple: Transform Your eBooks Into EPUB, PDF & Mobi Files Today!</u></a></li>
-<li><a href="https://some-skills.techidaily.com/code-mastery-the-definitive-path-to-programming-excellence/"><u>Code Mastery: The Definitive Path to Programming Excellence</u></a></li>
-<li><a href="https://some-skills.techidaily.com/comparing-reading-experiences-google-play-vs-amazon-audible-book-recordings/"><u>Comparing Reading Experiences: Google Play Vs. Amazon Audible Book Recordings</u></a></li>
-<li><a href="https://some-skills.techidaily.com/convert-your-aax-audios-to-mp3-on-a-mac-using-an-advanced-and-fast-audio-converter-tool/"><u>Convert Your AAX Audios to MP3 on a Mac Using an Advanced and Fast Audio Converter Tool</u></a></li>
-<li><a href="https://some-skills.techidaily.com/cross-platform-ebook-reader-for-windowsmac-handles-epub-kindle-formatmobi-azw3-and-more/"><u>Cross-Platform eBook Reader for Windows/Mac - Handles EPUB, Kindle Format(MOBI, AZW3), and More</u></a></li>
-<li><a href="https://some-skills.techidaily.com/easy-guide-on-how-to-convert-ebooks-from-epub-format-to-pdf/"><u>Easy Guide on How to Convert eBooks From EPUB Format to PDF</u></a></li>
-<li><a href="https://some-skills.techidaily.com/easy-guide-mastering-the-art-of-reading-ebooks-in-windows-8/"><u>Easy Guide: Mastering the Art of Reading eBooks in Windows 8</u></a></li>
-<li><a href="https://some-skills.techidaily.com/effortless-conversion-techniques-for-transforming-kindle-kfx-ebooks-into-epubpdfmobi-with-the-help-of-calibre-tool/"><u>Effortless Conversion Techniques for Transforming Kindle KFX Ebooks Into ePub/PDF/Mobi with the Help of Calibre Tool</u></a></li>
-<li><a href="https://some-skills.techidaily.com/epub-and-mobi-conversion-mastery-unlocking-the-full-potential/"><u>EPUB and MOBI Conversion Mastery: Unlocking the Full Potential</u></a></li>
-<li><a href="https://some-skills.techidaily.com/finding-your-pcs-details-a-guide-to-locating-the-windows-11-build-version/"><u>Finding Your PC's Details: A Guide to Locating the Windows 11 Build Version</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-poco-c55-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Poco C55 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/from-sampling-to-subscribing-mastering-the-art-of-effective-trial-to-paying-user-transitions/"><u>From Sampling to Subscribing: Mastering the Art of Effective Trial-to-Paying User Transitions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/guide-facile-et-rapide-pour-deverrouiller-les-fichiers-pdf-avec-du-drm-des-fichiers-pdf-sans-restrictions/"><u>Guide Facile Et Rapide Pour Déverrouiller Les Fichiers PDF Avec Du DRM - Des Fichiers PDF Sans Restrictions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/how-to-convert-and-transfer-word-documents-onto-your-kobo-e-reader/"><u>How to Convert and Transfer Word Documents Onto Your Kobo E-Reader</u></a></li>
-<li><a href="https://some-skills.techidaily.com/how-to-convert-your-audiobooks-aax-files-into-mp3-format/"><u>How to Convert Your Audiobook's AAX Files Into MP3 Format</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-best-slideshow-apps-iphone-series-8-series-12/"><u>In 2024, Best Slideshow Apps (iPhone Series 8-Series 12)</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-timeless-triumphs-screen-captures-of-samsungs/"><u>In 2024, Timeless Triumphs  Screen Captures of Samsungs</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ipogo-will-be-the-new-ispoofer-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Poco F5 5G? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/locating-official-kobo-support-facilities-in-the-indian-market/"><u>Locating Official Kobo Support Facilities in the Indian Market</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/market-mastery-top-20-words-for-effective-advertising/"><u>Market Mastery  Top 20 Words for Effective Advertising</u></a></li>
-<li><a href="https://some-skills.techidaily.com/resolving-windows-11-creators-update-installation-hang-and-audio-malfunction-solutions-applied/"><u>Resolving Windows 11 Creator's Update Installation Hang & Audio Malfunction – Solutions Applied</u></a></li>
-<li><a href="https://some-skills.techidaily.com/step-by-step-guide-to-drm-removal-from-ebook-pages/"><u>Step-by-Step Guide to DRM Removal From eBook Pages</u></a></li>
-<li><a href="https://some-skills.techidaily.com/step-by-step-guide-running-a-fresh-boot-on-windows-10-without-third-party-software/"><u>Step-by-Step Guide: Running a Fresh Boot on Windows 10 Without Third-Party Software</u></a></li>
-<li><a href="https://some-skills.techidaily.com/step-by-step-guide-setting-up-and-using-system-restore-feature-on-windows-10/"><u>Step-by-Step Guide: Setting Up & Using System Restore Feature on Windows 10</u></a></li>
-<li><a href="https://some-skills.techidaily.com/step-by-step-guide-transforming-mobi-files-into-compatible-amazon-kindle-azw-format/"><u>Step-by-Step Guide: Transforming MOBI Files Into Compatible Amazon Kindle AZW Format</u></a></li>
-<li><a href="https://some-skills.techidaily.com/step-by-step-guide-transforming-your-azw4-books-into-epub-format/"><u>Step-by-Step Guide: Transforming Your AZW4 Books Into EPUB Format</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-10-essential-kindle-applications-enhance-your-reading-experience/"><u>Top 10 Essential Kindle Applications: Enhance Your Reading Experience</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-kindle-fire-tablets-and-e-readers-reviewed-find-your-perfect-amazon-device/"><u>Top Kindle Fire Tablets and E-Readers Reviewed - Find Your Perfect Amazon Device!</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-strategies-for-seamlessly-transforming-topaz-files-into-epub-format/"><u>Top Strategies for Seamlessly Transforming Topaz Files Into ePUB Format</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-guide-to-ebook-drm-removal-how-to-unlock-pdf-epub-and-mobi-formats/"><u>Ultimate Guide to Ebook DRM Removal - How to Unlock PDF, EPUB, and MOBI Formats</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-guide-diving-into-the-latest-kindle-oasis-2-edition-from-2017/"><u>Ultimate Guide: Diving Into the Latest Kindle Oasis 2 Edition From 2017</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-data-protection-how-to-activate-and-make-restore-points-in-windows-10-easily/"><u>Unlocking Data Protection: How To Activate And Make Restore Points In Windows 10 Easily</u></a></li>
-<li><a href="https://some-skills.techidaily.com/windows-10-beta-version-update-downloaded-but-cant-progress-beyond-setup-fix-available/"><u>Windows 10 Beta Version Update Downloaded but Can't Progress Beyond Setup - Fix Available</u></a></li>
-<li><a href="https://some-skills.techidaily.com/windows-10-lock-screen-timeout-change-and-adjust/"><u>Windows 10 Lock Screen Timeout: Change and Adjust</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-youtube-movie-maker-unleashed-creative-possibilities-explored/"><u>[New] In 2024, YouTube Movie Maker Unleashed Creative Possibilities Explored</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-discover-the-power-of-luts-in-digital-photography/"><u>[Updated] Discover the Power of LUTs in Digital Photography</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-video-capture-perfection-achieving-silence-success/"><u>[Updated] Video Capture Perfection Achieving Silence Success</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2-cracking-todays-puzzle-uncover-secrets-of-nyt-connections-hints-for-june-9-364/"><u>2. 'Cracking Today's Puzzle: Uncover Secrets of NYT Connections Hints for June 9 (#364)'</u></a></li>
+<li><a href="https://some-skills.techidaily.com/account-safety-boosted-with-new-recovery-codes-in-1password-reducing-risk-of-access-denials/"><u>Account Safety Boosted with New Recovery Codes in 1Password, Reducing Risk of Access Denials</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-of-social-media-stardom-nine-tracks-to-insta-success/"><u>In 2024, The Art of Social Media Stardom Nine Tracks to Insta Success</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-googles-new-arsenal-immersive-review-of-pixel-phones-9-and-9-pro-w-foldable-pixel-watch-series-3-and-next-gen-pixel-audio-buds/"><u>Unveiling Google's New Arsenal: Immersive Review of Pixel Phones (9 & 9 Pro W/ Foldable), Pixel Watch Series 3, and Next-Gen Pixel Audio Buds</u></a></li>
+<li><a href="https://some-skills.techidaily.com/why-the-oneplus-12-still-stands-out-after-six-months-a-loyal-users-perspective/"><u>Why the OnePlus 12 Still Stands Out After Six Months - A Loyal User's Perspective</u></a></li>
 </ul></div>
+

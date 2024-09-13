@@ -1,7 +1,7 @@
 ---
 title: "Microsoft's Legacy Operating Systems Drop: No More Windows 7 or 8 From Epic Games"
-date: 2024-09-07T22:19:50.933Z
-updated: 2024-09-08T22:19:50.933Z
+date: 2024-09-08T19:58:25.471Z
+updated: 2024-09-12T23:32:20.055Z
 tags:
   - deals
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/802eeff691c55a6d5d09cbae446dc45a39ed24ae91160c0e7074f7929a9448f1.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Microsoft's Legacy Operating Systems Drop: No More Windows 7 or 8 From Epic Games
 
 In June 2024, the Epic Games Launcher will end support for Windows 7, Windows 8 (or 8.1), and 32-bit Windows 10 installations. You may continue using the Epic Games Launcher with these operating systems, but the lack of software support will eventually lead to broken or degraded functionality.
@@ -37,8 +31,6 @@ In June 2024, the Epic Games Launcher will end support for Windows 7, Windows 8 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -48,42 +40,27 @@ In June 2024, the Epic Games Launcher will end support for Windows 7, Windows 8 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-elevate-engagement-escalate-ranks-on-fb-pages/"><u>[New] 2024 Approved  Elevate Engagement, Escalate Ranks on FB Pages</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-overwatch-gameplay-captured-step-by-step-guide-for-2024/"><u>[New] Overwatch Gameplay Captured - Step by Step Guide for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-practice-of-progressive-audio-suppression-in-fl-studio/"><u>[New] The Practice of Progressive Audio Suppression in FL Studio</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-6-iphone-tools-for-erasing-unwanted-items-in-images/"><u>[New] Top 6 iPhone Tools for Erasing Unwanted Items in Images</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transforming-footage-into-high-quality-content/"><u>[New] Transforming Footage Into High-Quality Content</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transforming-photos-adding-motion-blur-to-peoples-portraits-with-picsart/"><u>[New] Transforming Photos  Adding Motion Blur to People's Portraits with Picsart</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unveiling-secrets-the-best-dronescopic-stabilizers-reviewed/"><u>[New] Unveiling Secrets  The Best Dronescopic Stabilizers Reviewed</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-cash-growth-forecasts-at-no-cost/"><u>[New] YouTube Cash Growth Forecasts at No Cost</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-5-elite-webcams-offering-clear-visuals-and-inbuilt-mics/"><u>[Updated] 5 Elite Webcams Offering Clear Visuals & Inbuilt Mics</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-strategies-for-eye-catching-podcast-previews/"><u>[Updated] Strategies for Eye-Catching Podcast Previews</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-streamlined-steps-wearable-opens-mac-gadget/"><u>[Updated] Streamlined Steps  Wearable Opens Mac Gadget</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-supercharged-productivity-while-flipping-audio-switches/"><u>[Updated] Supercharged Productivity While Flipping Audio Switches</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-gradual-volume-curve-of-audio-reduction-in-fl-studio/"><u>[Updated] The Gradual Volume Curve of Audio Reduction in FL Studio</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-the-least-expensive-skyvault-service-for-big-files/"><u>[Updated] The Least Expensive SkyVault Service for Big Files</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-10-dynamic-image-backdrops-viewer/"><u>[Updated] Top 10 Dynamic Image Backdrops Viewer</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-transforming-video-files-to-mp3-a-focused-guide-for-pinterest-users/"><u>[Updated] Transforming Video Files to MP3  A Focused Guide for Pinterest Users</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-true-to-life-shade-tweaker/"><u>[Updated] True-to-Life Shade Tweaker</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-nextgen-hd-optimizer-multiplatform-compatible/"><u>2024 Approved  NextGen HD Optimizer  Multiplatform Compatible</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-your-information-with-mematics-app/"><u>2024 Approved  Streamline Your Information with Mematic's App</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-photographers-route-to-perfectly-trimmed-web-pics/"><u>2024 Approved  The Photographer's Route to Perfectly Trimmed Web Pics</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-5-best-full-hd-action-cameras-below-100/"><u>2024 Approved  Top 5 Best Full HD Action Cameras Below $100</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-latest-in-sony-blu-ray-s6700/"><u>2024 Approved  Unveiling the Latest in Sony Blu-Ray S6700</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/cutting-edge-strategies-for-recording-online-classes/"><u>Cutting-Edge Strategies for Recording Online Classes</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-from-iphone-6-plus-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account From iPhone 6 Plus without Password?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-peoples-take-on-vllo/"><u>In 2024, The People's Take on VLLO</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-photographers-guide-to-digital-cropting/"><u>In 2024, The Photographer's Guide to Digital Cropting</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-realme-narzo-n55-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Realme Narzo N55 Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-your-channels-potential-the-cost-analysis/"><u>In 2024, Unlocking Your Channel's Potential  The Cost Analysis</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-windows-11s-core-enhancements/"><u>In 2024, Unveiling Windows 11'S Core Enhancements</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-fixes-ensuring-smooth-gameplay-of-forza-horizon-5-on-your-computer/"><u>Mastering Fixes: Ensuring Smooth Gameplay of Forza Horizon 5 on Your Computer</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/navigating-showmores-features-for-best-screen-recording/"><u>Navigating ShowMore's Features for Best Screen Recording</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-social-sphere-an-in-depth-look-at-facebook-twitter-instagram-and-youtube-trends/"><u>Navigating the Social Sphere: An In-Depth Look at Facebook, Twitter, Instagram, and YouTube Trends</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-comprehensive-guide-to-dji-phantom-3-testing-for-2024/"><u>The Comprehensive Guide to DJI Phantom 3 Testing for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-hidden-world-of-your-online-footprint-unveiling-facebooks-secrets-for-2024/"><u>The Hidden World of Your Online Footprint - Unveiling Facebook’s Secrets for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-path-to-efficient-workflow-learning-voice-to-text-conversion-in-ms-word-for-2024/"><u>The Path to Efficient Workflow  Learning Voice-to-Text Conversion in MS Word for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-shift-from-rgb-to-srgb-in-digital-imaging-for-2024/"><u>The Shift From Rgb to Srgb in Digital Imaging for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-windows-mobile-video-playback-guide-for-2024/"><u>The Ultimate Windows Mobile Video Playback Guide for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-androids-premier-digital-audio-workstation-apps-for-top-notch-music-creation-for-2024/"><u>Updated Androids Premier Digital Audio Workstation Apps for Top-Notch Music Creation for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-boost-traffic-with-these-essential-hashtags-for-youtube-gamers/"><u>[New] 2024 Approved Boost Traffic with These Essential Hashtags for YouTube Gamers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-unlock-the-potential-of-live-streaming-facebook-via-obs-devices/"><u>[Updated] In 2024, Unlock the Potential of Live Streaming Facebook via OBS Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-motorola-g54-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Motorola G54 5G Devices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/how-to-set-up-a-personal-streaming-station-with-icecast-on-linux/"><u>How to Set Up a Personal Streaming Station with Icecast on Linux</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-realme-narzo-n53-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Realme Narzo N53 Fingerprint Lock</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-sculpt-visual-jokes-adobe-memes-guide/"><u>In 2024, Sculpt Visual Jokes Adobe Memes Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/introducing-windows-11-compatible-logitech-peripherals-enhanced-dynamic-lighting-capability/"><u>Introducing Windows 11 Compatible Logitech Peripherals: Enhanced Dynamic Lighting Capability</u></a></li>
+<li><a href="https://some-skills.techidaily.com/mastering-expression-calculation-a-guide-to-using-expr-on-linux-systems/"><u>Mastering Expression Calculation: A Guide to Using 'Expr' On Linux Systems</u></a></li>
+<li><a href="https://some-skills.techidaily.com/maximize-your-icloud-capacity-effective-methods-to-clear-and-reclaim-storage/"><u>Maximize Your iCloud Capacity: Effective Methods to Clear and Reclaim Storage</u></a></li>
+<li><a href="https://some-skills.techidaily.com/microsoft-trials-innovative-start-menu-and-promotional-content-integration-in-windows-11-preview/"><u>Microsoft Trials Innovative Start Menu and Promotional Content Integration in Windows 11 Preview</u></a></li>
+<li><a href="https://some-skills.techidaily.com/my-experience-with-a-windows-replica-for-everyday-use-a-comprehensive-review/"><u>My Experience with a Windows Replica for Everyday Use: A Comprehensive Review</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-update-microsoft-store-enables-straight-to-installer-download-option/"><u>New Update: Microsoft Store Enables Straight-to-Installer Download Option</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-fixing-issues-when-your-microsoft-outlook-wont-open/"><u>Step-by-Step Guide: Fixing Issues When Your Microsoft Outlook Won't Open</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-to-overcome-realtek-hd-motherboard-driver-complications-fixed/"><u>Step-by-Step Tutorial to Overcome Realtek HD Motherboard Driver Complications [Fixed]</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-fixing-the-slowdown-of-spotifys-online-player/"><u>Ultimate Guide: Fixing the Slowdown of Spotify's Online Player</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

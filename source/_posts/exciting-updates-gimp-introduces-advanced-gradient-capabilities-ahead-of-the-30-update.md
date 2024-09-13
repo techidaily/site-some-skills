@@ -1,7 +1,7 @@
 ---
 title: "Exciting Updates: GIMP Introduces Advanced Gradient Capabilities Ahead of the 3.0 Update"
-date: 2024-09-07T22:19:51.578Z
-updated: 2024-09-08T22:19:51.578Z
+date: 2024-09-09T05:05:38.818Z
+updated: 2024-09-13T00:33:45.311Z
 tags:
   - deals
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/21aecb659e7a5e8e968da4a0f8638ae8bdef383eb58685f2674b422f72c9c0b9.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Exciting Updates: GIMP Introduces Advanced Gradient Capabilities Ahead of the 3.0 Update
 
 The latest GIMP release (version 2.10.36) introduces a fun new gradient tool and support for additional palette formats. More notably, this might be "the next to last release in the 2.10 branch," meaning that the delayed GIMP 3.0 launch should occur relatively soon. Even if you're uninterested in today's update, the GIMP Team suggests installing it for security fixes.
@@ -35,8 +29,6 @@ The latest GIMP release (version 2.10.36) introduces a fun new gradient tool and
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -46,47 +38,27 @@ The latest GIMP release (version 2.10.36) introduces a fun new gradient tool and
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-videoharvester-fb-groups/"><u>[New] 2024 Approved  VideoHarvester  FB Groups</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-how-to-get-more-likes-on-your-tiktok-unboxing-video/"><u>[New] How to Get More Likes on Your TikTok Unboxing Video?</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-take-fullscreen-digital-canvas/"><u>[New] In 2024, Take Fullscreen Digital Canvas</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-the-beginner-pro-marketing-playbook-secrets-of-facebook-success/"><u>[New] The Beginner-Pro Marketing Playbook  Secrets of Facebook Success</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-10-free-tools-to-convert-srt-into-engaging-video-content/"><u>[New] Top 10 FREE Tools to Convert SRT Into Engaging Video Content</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-tools-for-timely-subtitle-conversion-win-and-mac-edition-best-8-srtr-creators-from-sub/"><u>[New] Top Tools for Timely Subtitle Conversion - Win & Mac Edition  Best 8 SRTR Creators From SUB</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transform-your-chromebooks-auditory-experience-with-top-5-web-tools/"><u>[New] Transform Your Chromebook's Auditory Experience with Top 5 Web Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unaltered-audio-through-the-lens-of-ffmpeg-review/"><u>[New] Unaltered Audio Through the Lens of FFmpeg Review</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-streamline-your-workflow-must-know-win-10-tactics/"><u>[Updated] Streamline Your Workflow  Must-Know Win 10 Tactics</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-illustrator-wizards-guide-to-3d-text/"><u>[Updated] The Illustrator Wizard's Guide to 3D Text</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-transforming-videos-from-low-to-high-dynamic-range/"><u>[Updated] Transforming Videos From Low to High Dynamic Range</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-the-full-potential-of-tiktok-with-zoom-video-sharing/"><u>[Updated] Unlocking the Full Potential of TikTok with Zoom Video Sharing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-masters-crafting-unparalleled-vr-adventures/"><u>2024 Approved  Masters Crafting Unparalleled VR Adventures</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-multimedia-mastery-pc-mac-and-mobile-movie-screening/"><u>2024 Approved  Multimedia Mastery  PC, Mac & Mobile Movie Screening</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-navigating-the-best-lipo-cells-for-quality-flight-time/"><u>2024 Approved  Navigating the Best LiPo Cells for Quality Flight Time</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-refine-image-quality-on-canon-devices-using-free-plus-payable-lut-tools/"><u>2024 Approved  Refine Image Quality on Canon Devices Using Free + Payable LUT Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-srt-enhancements-maximizing-performance-on-both-platforms/"><u>2024 Approved  Top SRT Enhancements  Maximizing Performance on Both Platforms</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-utility-watch-opens-your-macdevice/"><u>2024 Approved  Ultimate Utility  Watch Opens Your MacDevice</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unravel-the-power-of-wmp-in-audio-transition-from-cds/"><u>2024 Approved  Unravel the Power of WMP in Audio Transition From Cds</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-honor-magic-5-lite-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Honor Magic 5 Lite</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/auditory-augmentation-for-win11-clips-for-2024/"><u>Auditory Augmentation for Win11 Clips for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722971614062-continuous-monitoring-and-adjustment-of-environmental-conditions-are-crucial-for-effective-concrete-curing/"><u>Continuous Monitoring and Adjustment of Environmental Conditions Are Crucial for Effective Concrete Curing.</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-samsung-galaxy-m34-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Samsung Galaxy M34 5G | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-maximum-performance-upgrade-to-new-geforce-rtx-2080-ti-graphics-drivers/"><u>Get Maximum Performance: Upgrade to New GeForce RTX 2080 Ti Graphics Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-find-and-install-updated-drivers-for-your-canon-mg3022/"><u>How to Find and Install Updated Drivers for Your Canon MG3022</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-adept-adapters-top-5-chrome-extensions-for-facebook-films/"><u>In 2024, Adept Adapters  Top 5 Chrome Extensions for Facebook Films</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-samsung-galaxy-m34-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Samsung Galaxy M34 | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-panoramic-storytelling-simplified-top-9-tips-for-filmmakers/"><u>In 2024, Panoramic Storytelling Simplified  Top 9 Tips for Filmmakers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-simplified-access-how-to-dive-into-youtube-comment-threads/"><u>In 2024, Simplified Access  How to Dive Into YouTube Comment Threads</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-sonic-social-media-merging-melodies-and-memes-on-instagram/"><u>In 2024, Sonic Social Media  Merging Melodies and Memes on Instagram</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-logo-journey-key-steps-in-crafting-iconic-covers/"><u>In 2024, The Logo Journey  Key Steps in Crafting Iconic Covers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-playstation-audio-modification-guidebook/"><u>In 2024, The Ultimate PlayStation Audio Modification Guidebook</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-online-sources-for-high-quality-vector-illustrations/"><u>In 2024, Top Online Sources for High-Quality Vector Illustrations</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/y-anywhere-instant-guide-to-youtube-video-loops/"><u>Replay Anywhere  Instant Guide to YouTube Video Loops</u></a></li>
-<li><a href="https://some-skills.techidaily.com/strategies-for-precise-age-entry-in-tiktok-profiles-for-2024/"><u>Strategies for Precise Age Entry in TikTok Profiles for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/superior-pfv-optimization-in-tardy-action-for-2024/"><u>Superior PFV Optimization in Tardy Action for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-experts-guide-to-instagrams-licensed-music-posting-policies/"><u>The Expert’s Guide to Instagram's Licensed Music Posting Policies</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-path-to-pure-audio-pazera-free-tool-review-for-2024/"><u>The Path to Pure Audio  Pazera Free Tool Review for 2024</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-poco-f5-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Poco F5 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/total-gb-for-24-hour-movie-size-for-2024/"><u>Total GB for 24-Hour Movie Size for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiled-top-6-tools-to-purify-signature-images-online-for-2024/"><u>Unveiled  Top 6 Tools to Purify Signature Images Online for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-the-wonders-mastering-firefox-x-pie-mode-for-2024/"><u>Unveiling the Wonders  Mastering Firefox X-Pie Mode for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-art-of-slow-motion-top-video-editing-software-for-professionals/"><u>Updated In 2024, The Art of Slow Motion Top Video Editing Software for Professionals</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-the-ultimate-pathway-to-perfected-kinemaster-edits-for-2024/"><u>[New] The Ultimate Pathway to Perfected Kinemaster Edits for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-revolutionizing-video-production-with-skillful-audio-crafting/"><u>[Updated] Revolutionizing Video Production with Skillful Audio Crafting</u></a></li>
+<li><a href="https://some-skills.techidaily.com/everyday-wonders-how-nasas-16-pioneering-discoveries-benefit-us-all/"><u>Everyday Wonders: How NASA's 16 Pioneering Discoveries Benefit Us All</u></a></li>
+<li><a href="https://some-skills.techidaily.com/evolving-smartphone-intelligence-how-oneplus-is-integrating-advanced-ai-capabilities/"><u>Evolving Smartphone Intelligence: How OnePlus Is Integrating Advanced AI Capabilities</u></a></li>
+<li><a href="https://some-skills.techidaily.com/exciting-news-googles-bard-is-rolling-out-immediately-with-additional-plugin-support/"><u>Exciting News! Google's Bard Is Rolling Out Immediately with Additional Plugin Support</u></a></li>
+<li><a href="https://some-skills.techidaily.com/expert-analysis-of-the-velotric-go-1-ebike-ideal-for-carrying-luggage-and-passengers/"><u>Expert Analysis of the Velotric GO 1 eBike – Ideal for Carrying Luggage & Passengers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/exploring-aviras-new-feature-integrated-cryptocurrency-mining-functionality/"><u>Exploring Avira's New Feature: Integrated Cryptocurrency Mining Functionality</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/from-fast-pace-to-deliberate-motion-making-slow-movies-on-insta/"><u>From Fast Pace to Deliberate Motion Making Slow Movies on Insta</u></a></li>
+<li><a href="https://blog-min.techidaily.com/guida-completa-ai-top-3-lettori-dvd-gratuiti-per-windows-10-per-una-riproduzione-ottimale-dei-tuoi-film-preferiti/"><u>Guida Completa Ai Top 3 Lettori DVD Gratuiti Per Windows 10 per Una Riproduzione Ottimale Dei Tuoi Film Preferiti</u></a></li>
+<li><a href="https://some-skills.techidaily.com/how-meta-quest-3-brings-apple-inspired-innovation-with-its-new-oculus-headset/"><u>How Meta Quest 3 Brings Apple-Inspired Innovation with Its New Oculus Headset</u></a></li>
+<li><a href="https://some-skills.techidaily.com/improve-your-gaming-experience-why-oculus-quest-outshines-with-pc-vr-titles-from-steam/"><u>Improve Your Gaming Experience: Why Oculus Quest Outshines with PC VR Titles From Steam</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-discover-movie-substitutes-7-recommended/"><u>In 2024, Discover Movie Substitutes, #7 Recommended</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-oppo-reno-11-pro-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Oppo Reno 11 Pro 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-vivo-t2-pro-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Vivo T2 Pro 5G? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-oneplus-nord-n10-5g-top-reasons-to-consider-this-model/"><u>Unveiling the OnePlus Nord N10 5G - Top Reasons to Consider This Model</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

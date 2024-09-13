@@ -1,7 +1,7 @@
 ---
 title: Next Generation Search Evolves as Alphabet and Microsoft Prepare to Unveil AI-Powered Web Query Innovations Similar to ChatGPT
-date: 2024-09-07T22:19:52.918Z
-updated: 2024-09-08T22:19:52.918Z
+date: 2024-09-10T00:21:42.852Z
+updated: 2024-09-12T23:33:02.535Z
 tags:
   - cutting-edge
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/02/google-chat.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Next Generation Search Evolves as Alphabet and Microsoft Prepare to Unveil AI-Powered Web Query Innovations Similar to ChatGPT
 
 ChatGPT, [the AI chatbot that can't stop lying](https://youtube-help.techidaily.com/free-method-to-record-your-youtube-watching-experience-for-2024/), has exploded in popularity over the past few weeks. Despite many problems with the technology, Google and Microsoft are pushing ahead with plans to turn web searches into conversations.
@@ -41,8 +35,6 @@ Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.t
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -52,38 +44,27 @@ Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-12-innovative-online-platforms-to-elevate-your-facebook-cover-pics/"><u>[New] 12 Innovative Online Platforms to Elevate Your Facebook Cover Pics</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-birth-of-an-internet-persona-the-vtuber-blueprint-in-2024/"><u>[New] Birth of an Internet Persona – The VTuber Blueprint, In 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-protecting-privacy-top-10-webcam-covers/"><u>[New] Protecting Privacy  Top 10 Webcam Covers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-streaming-showdown-twitch-versus-youtube-unveiled/"><u>[New] Streaming Showdown  Twitch Versus YouTube Unveiled</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-streamlined-pathway-to-flipper-dialogue-switching-within-windows-network/"><u>[New] Streamlined Pathway to Flipper Dialogue Switching Within Windows Network</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-tailoring-image-sizes-in-photos-for-ios-devices/"><u>[New] Tailoring Image Sizes in Photos for iOS Devices</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-battle-of-live-streamers-twitch-versus-youtube/"><u>[New] The Battle of Live Streamers  Twitch Versus YouTube</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-proper-way-to-link-zoom-and-your-gmail-accounts/"><u>[New] The Proper Way to Link Zoom and Your Gmail Accounts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-science-behind-sharing-memes-unveiled/"><u>[New] The Science Behind Sharing  Memes Unveiled</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-undercover-upsell-simple-image-saving/"><u>[New] The Undercover Upsell  Simple Image Saving</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unveiling-the-top-rated-srt-translators-for-zero-cost/"><u>[New] Unveiling the Top-Rated SRT Translators for Zero Cost</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unveiling-the-ultimate-photo-frame-tools/"><u>[New] Unveiling the Ultimate Photo Frame Tools</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-maximizing-gaming-experience-record-games-on-win10-for-2024/"><u>[Updated] Maximizing Gaming Experience  Record Games on Win10 for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-upgraded-2023-samsung-bd-j5900/"><u>[Updated] Unveiling the Upgraded 2023 Samsung BD-J5900</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-updated-dialogue-tools-to-engage-audio-audiences/"><u>[Updated] Updated Dialogue Tools to Engage Audio Audiences</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-downloading-audio-made-simple-with-these-19-top-quality-free-rippers-from-youtube/"><u>2024 Approved  Downloading Audio Made Simple with These 19 Top-Quality Free Rippers From YouTube</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-supreme-display-quality-top-10-ranking-of-4k-screens/"><u>2024 Approved  Supreme Display Quality  #Top 10 Ranking of 4K Screens</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-6-creative-editors-on-the-latest-macos-big-sur/"><u>2024 Approved  Top 6 Creative Editors on the Latest macOS Big Sur</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transform-every-moment-top-ideas-for-productive-podcast-sessions/"><u>2024 Approved  Transform Every Moment  Top Ideas for Productive Podcast Sessions</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-vivo-x-fold-2-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo X Fold 2 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Motorola Moto G14? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-c55-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Poco C55 Phone with Broken Screen</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-6-android-apps-for-immersive-music-videos/"><u>In 2024, Top 6 Android Apps for Immersive Music Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unleash-your-potential-top-6-head-mounted-cameras-by-gopro/"><u>In 2024, Unleash Your Potential  Top 6 Head-Mounted Cameras by GoPro</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mastering-the-art-of-saying-hello-in-spanish-dive-into-these-top-10-phrases/"><u>Mastering the Art of Saying 'Hello' In Spanish - Dive Into These Top 10 Phrases</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/msvc-runtime-library-woes-heres-how-to-solve-a-missing-msvcrt10dll-file-issue/"><u>MSVC Runtime Library Woes? Here’s How to Solve a Missing msvcrt10.dll File Issue</u></a></li>
-<li><a href="https://some-skills.techidaily.com/streamline-your-journey-to-zoom-mastery-for-2024/"><u>Streamline Your Journey to Zoom Mastery for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-art-of-viral-marketing-mastering-instagram-fame-through-9-key-tips-for-2024/"><u>The Art of Viral Marketing  Mastering Instagram Fame Through 9 Key Tips for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-creme-de-la-meme-collection-10-for-2024/"><u>The Crème De La Meme Collection - #10 for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-ultimate-guide-to-sharing-3d-facebook-photos/"><u>The Ultimate Guide to Sharing 3D Facebook Photos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-10-sites-for-high-end-vector-graphics-for-2024/"><u>Top 10 Sites for High-End Vector Graphics for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-picks-in-affordable-home-cinema-setups-with-4k-for-2024/"><u>Top Picks in Affordable Home Cinema Setups with 4K for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-ranked-ai-enhanced-image-maker-for-2024/"><u>Top-Ranked AI Enhanced Image Maker for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/update-your-hp-officejet-4655-printer-drivers-with-our-guide-and-download-links/"><u>Update Your HP OfficeJet 4655 Printer Drivers with Our Guide & Download Links</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-a-guide-to-macs-finest-sniping-tools-uncovered-for-2024/"><u>[New] A Guide to Mac's Finest Sniping Tools Uncovered for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-find-the-forgotten-top-10-innovative-facebook-memes-for-2024/"><u>[New] Find the Forgotten Top 10 Innovative Facebook Memes for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-the-art-of-selling-through-influence-5-key-strategies-on-instagram/"><u>[New] In 2024, The Art of Selling Through Influence 5 Key Strategies on Instagram</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-depth-analysis-best-valheim-seeds-for-growth/"><u>[New] In-Depth Analysis Best Valheim Seeds for Growth</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-securing-your-scene-minimize-camera-jostle/"><u>[Updated] 2024 Approved Securing Your Scene Minimize Camera Jostle</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-how-to-make-a-cooking-video-in-steps-an-ultimate-guide-for-2024/"><u>[Updated] How to Make a Cooking Video in Steps - an Ultimate Guide for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-perfect-synergy-discover-5-superior-webcams-with-sound-tech-for-2024/"><u>[Updated] Perfect Synergy Discover 5 Superior Webcams with Sound Tech for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-skaldic-epic-odins-final-stand/"><u>2024 Approved Skaldic Epic Odin's Final Stand</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-to-prevent-and-fix-repeated-palworld-crashing-issues-on-computers/"><u>Expert Tips to Prevent and Fix Repeated Palworld Crashing Issues on Computers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-next-level-of-storage-how-your-personal-files-could-soar-into-outer-space/"><u>The Next Level of Storage: How Your Personal Files Could Soar Into Outer Space</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-test-of-the-inmotion-electric-scooter-unleashing-its-impressive-strength/"><u>The Ultimate Test of the InMotion Electric Scooter: Unleashing Its Impressive Strength</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-6-missteps-why-using-chatgpt-could-be-a-bad-idea/"><u>Top 6 Missteps: Why Using ChatGPT Could Be a Bad Idea</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-strategies-to-ensure-youre-making-the-right-choice-in-secondhand-evs/"><u>Top Strategies to Ensure You're Making the Right Choice in Secondhand EVs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transitioning-to-augmented-reality-my-journey-swapping-a-standard-monitor-for-ar-glasses/"><u>Transitioning to Augmented Reality: My Journey Swapping a Standard Monitor for AR Glasses</u></a></li>
+<li><a href="https://some-skills.techidaily.com/understanding-the-causes-of-electric-vehicle-battery-wear-and-tear/"><u>Understanding the Causes of Electric Vehicle Battery Wear and Tear</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

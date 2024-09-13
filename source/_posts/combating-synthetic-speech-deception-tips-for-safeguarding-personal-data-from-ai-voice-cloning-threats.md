@@ -1,7 +1,7 @@
 ---
 title: "Combating Synthetic Speech Deception: Tips for Safeguarding Personal Data From AI Voice Cloning Threats"
-date: 2024-09-07T22:19:52.131Z
-updated: 2024-09-08T22:19:52.131Z
+date: 2024-09-10T05:32:29.462Z
+updated: 2024-09-13T05:09:17.048Z
 tags:
   - cutting-edge
 categories:
@@ -9,20 +9,15 @@ categories:
 thumbnail: https://thmb.techidaily.com/d7bfa61b324ffaea9cbfc11e938036f2476668f1b77c7e6a5441829794f7ed33.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Combating Synthetic Speech Deception: Tips for Safeguarding Personal Data From AI Voice Cloning Threats
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Voice cloning scams are on the rise and can tap into our emotions to make us act irrationally. Beware and stay alert.
@@ -31,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/d7bfa61b324ffaea9cbfc11e938036f2476668f1b
 
  Cloning someone's voice using AI is now easy enough even scammers can do it. People are already being victimized by this abuse of AI technology, but you don't have to be the next person to fall for the scam. Here's how you can beat them before they get you.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How Voice Cloning Scams Work
 
  Imagine getting a phone call from a family member. It's 3AM, they've been in an accident, they've been arrested, they need money to post bail. You get passed to his "lawyer" and are asked to wire money. This is what happened to attorney [Gary Schildhorn](https://www.independent.co.uk/news/world/americas/ai-phone-scam-voice-call-b2459449.html). What about getting a call from your daughter, claiming that she's been kidnapped, but she's asleep in bed. That happened to [Jennifer DeStefano](https://www.cbsnews.com/news/scammers-ai-mimic-voices-loved-ones-in-distress/), and could have ended much worse if the scammers had timed things differently.
@@ -38,17 +40,12 @@ thumbnail: https://thmb.techidaily.com/d7bfa61b324ffaea9cbfc11e938036f2476668f1b
  By [misusing AI software tools](https://youtube-lab.techidaily.com/ed-crafting-visual-wonders-home-made-effects-demystified/) that can create voice profiles from, for example, videos someone might leave on social media, scammers can tap into our emotions to make us behave irrationally. This is already happening and will only increase in sophistication, so there's no better time to arm yourself with knowledge and strategies to combat this.
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Signs That You're Being Scammed
 
  While it can be hard to tell the difference between a cloned voice and the real thing, there are a few signs that might tip you off that something isn't right:
@@ -61,11 +58,12 @@ thumbnail: https://thmb.techidaily.com/d7bfa61b324ffaea9cbfc11e938036f2476668f1b
  The most important thing is to be aware that such scams are possible, and to have healthy skepticism when you're confronted by these types of semi-emergency scenarios.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Decide on a Safe Phrase With Family and Friends
 
  The scammers have done some research on the information that's publicly available about you and the person they are impersonating. However, if you take the time to come up with a safe word or a phrase that's only known to you and your loved ones, then you can confirm you're speaking to the real person. This phrase must never be written down or sent over the internet.
@@ -73,21 +71,23 @@ thumbnail: https://thmb.techidaily.com/d7bfa61b324ffaea9cbfc11e938036f2476668f1b
  Then, if you ever receive an emergency call, you can just ask for the safe word and unless the scammer can somehow guess it, you'll stop the whole scam in its tracks.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Stop to Think
 
  A hallmark of scams, both old and new, is to stop you from having time to think. The less time we have to make decisions, the worse our decisions tend to be. They don't want you thinking too much or you might notice gaps in the story or realize you're being asked to do unreasonable or illogical things. So, once you're off the phone, take five minutes and just think about everything that's been said. Does it really all make sense?
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Get Third-Party Information Verification
 
  Finally, the easiest way to expose one of these scams is to take control over where your information is coming from. Have you only been speaking to people who have phoned you? Phone the person who supposedly called you. Phone someone close to them. Message them, do anything using a communication channel the scammers have no control over. You can figure out if something has really happened in seconds just by taking a minute to do your own investigations.
@@ -102,8 +102,6 @@ thumbnail: https://thmb.techidaily.com/d7bfa61b324ffaea9cbfc11e938036f2476668f1b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -113,45 +111,20 @@ thumbnail: https://thmb.techidaily.com/d7bfa61b324ffaea9cbfc11e938036f2476668f1b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-from-likes-to-leads-top-30-tactics-for-social-media-success/"><u>[New] From Likes to Leads  Top 30 Tactics for Social Media Success</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-avoiding-piracy-safe-techniques-for-youtube-to-mp4/"><u>[New] In 2024, Avoiding Piracy  Safe Techniques for Youtube-to-MP4</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-laptop-and-mobile-entry-into-google-meet-for-2024/"><u>[New] Laptop & Mobile  Entry Into Google Meet for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-navigating-top-purchasers-for-monetized-yt-channels/"><u>[New] Navigating Top Purchasers for Monetized YT Channels</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-snapshot-survival-guide-top-recorders-evaluated-for-2024/"><u>[New] SnapShot Survival Guide  Top Recorders Evaluated for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-definitive-guide-to-googles-podcast-submission/"><u>[New] The Definitive Guide to Google’s Podcast Submission</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-youtube-video-blueprint-mastering-visual-content-sharing/"><u>[New] The Ultimate Youtube Video Blueprint  Mastering Visual Content Sharing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-8-recommended-free-srt-translation-websites-expert-selections/"><u>[New] Top 8 Recommended Free SRT Translation Websites  Expert Selections</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unbeatable-5-photo-backdrop-switchers-for-x8-series/"><u>[New] Unbeatable 5 Photo Backdrop Switchers for X/8 Series</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-updated-insights-sonys-s3700-blu-ray-box-player/"><u>[New] Updated Insights  Sony's S3700 Blu-Ray Box Player</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-byte-sized-hits-the-heart-of-viral-content/"><u>[Updated] 2024 Approved  Byte-Sized Hits  The Heart of Viral Content</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-acoustic-amplification-of-social-media-content-on-facebook/"><u>[Updated] In 2024, Acoustic Amplification of Social Media Content on Facebook</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-syncopating-sounds-how-to-edit-music-effectively-in-canva/"><u>[Updated] Syncopating Sounds  How to Edit Music Effectively in Canva</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-telegram-for-novices-an-easy-path-to-effective-advertising/"><u>[Updated] Telegram for Novices  An Easy Path to Effective Advertising</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-template-transformations-build-unique-logos-for-pennies/"><u>[Updated] Template Transformations  Build Unique Logos for Pennies</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-canvas-of-success-unveiling-10-essential-design-tricks/"><u>[Updated] The Canvas of Success  Unveiling 10 Essential Design Tricks</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-path-to-richer-textual-design-in-ae/"><u>[Updated] The Path to Richer Textual Design in AE</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-supercharging-srt-with-macwindows/"><u>[Updated] The Ultimate Guide to Supercharging SRT with Mac/Windows</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-how-to-applying-captions-to-pictures-in-pcmac-environments/"><u>[Updated] The Ultimate How-To  Applying Captions to Pictures in PC/Mac Environments</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-resource-for-morphvox-audio-transformation/"><u>[Updated] The Ultimate Resource for MorphVOX Audio Transformation</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-6-platforms-revolutionizing-business-social-interaction/"><u>[Updated] Top 6 Platforms Revolutionizing Business-Social Interaction</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-picks-explore-the-best-new-windows-10-apps-and-games/"><u>[Updated] Top Picks  Explore the Best New Windows 10 Apps and Games</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-turbocharged-windows-content-assessment/"><u>[Updated] Turbocharged Windows Content Assessment</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-youtube-subtitles-srt-3-steps-guide/"><u>[Updated] Unlocking YouTube Subtitles (SRT) - 3 Steps Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unmatched-mounting-best-tripod-solutions-for-smartphones/"><u>[Updated] Unmatched Mounting  Best Tripod Solutions for Smartphones</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveil-windows-xp-professional-for-video-production/"><u>[Updated] Unveil Windows XP Professional for Video Production</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-top-8-free-resources-for-3d-text-psds/"><u>2024 Approved  The Top 8 Free Resources for 3D Text PSDs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-streaming-high-quality-cricket-matches/"><u>2024 Approved  The Ultimate Guide to Streaming High-Quality Cricket Matches</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-trivial-talent-into-thriving-tv-subscribers-triumphs/"><u>2024 Approved  Transforming Trivial Talent Into Thriving TV (Subscribers) Triumphs</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/disabled-iphone-se-how-to-unlock-a-disabled-iphone-se-by-drfone-ios/"><u>Disabled iPhone SE How to Unlock a Disabled iPhone SE?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/dominate-your-games-secure-the-powerful-msi-katana-laptop-156-nvidia-geforce-rtx-4070-for-an-unbeatable-price-of-1199/"><u>Dominate Your Games: Secure the Powerful MSI Katana Laptop (15.6, NVIDIA GeForce RTX 4070) for an Unbeatable Price of $1,199</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-mechanics-of-swift-content-on-facebook/"><u>In 2024, The Mechanics of Swift Content on Facebook</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-techniques-for-professional-voice-capture/"><u>In 2024, Top Techniques for Professional Voice Capture</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-hidden-gems-essential-tricks-for-win11/"><u>In 2024, Unveiling Hidden Gems  Essential Tricks for Win11</u></a></li>
-<li><a href="https://some-skills.techidaily.com/learn-smart-circumventing-edgenuity-video-lessons-quickly-for-2024/"><u>Learn Smart  Circumventing Edgenuity Video Lessons Quickly for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/removing-problematic-programs-on-windows-11-a-guide/"><u>Removing Problematic Programs on Windows 11: A Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/step-towards-stunning-visuals-using-video-enhancer-22/"><u>Step Towards Stunning Visuals - Using Video Enhancer 2.2</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/tech-insights-with-tom-exploring-the-latest-in-hardware-innovation/"><u>Tech Insights with Tom - Exploring the Latest in Hardware Innovation</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-essential-guide-for-beginners-in-final-cut-pro-for-2024/"><u>The Ultimate Essential Guide for Beginners in Final Cut Pro for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transform-canvas-into-magic-the-best-mac-drawing-apps-for-2024/"><u>Transform Canvas Into Magic - The Best Mac Drawing Apps for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-invitation-goals-top-video-maker-apps-for-iphone-and-android-users-for-2024/"><u>Updated Invitation Goals Top Video Maker Apps for iPhone and Android Users for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-building-interest-with-budget-friendly-youtube-video-intros/"><u>[New] In 2024, Building Interest with Budget-Friendly YouTube Video Intros</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-uncovering-the-best-unnoticed-speech-to-text-on-mac/"><u>[Updated] Uncovering the Best Unnoticed Speech to Text on Mac</u></a></li>
+<li><a href="https://some-skills.techidaily.com/emerging-threat-hacker-exploits-in-the-latest-microsoft-office-software-packages/"><u>Emerging Threat: Hacker Exploits in the Latest Microsoft Office Software Packages</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ensuring-file-security-avoid-common-pitfalls-in-microsoft-onedrive/"><u>Ensuring File Security: Avoid Common Pitfalls in Microsoft OneDrive</u></a></li>
+<li><a href="https://some-skills.techidaily.com/how-does-conky-elevate-the-visual-appeal-of-your-linux-workspace/"><u>How Does Conky Elevate the Visual Appeal of Your Linux Workspace?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-vivo-s17-pro-to-mac-drfone-by-drfone-android/"><u>How to Mirror Vivo S17 Pro to Mac? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/how-to-set-up-a-personal-streaming-station-with-icecast-on-linux/"><u>How to Set Up a Personal Streaming Station with Icecast on Linux</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-send-ringtones-from-apple-iphone-14-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Send Ringtones from Apple iPhone 14 to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-samsung-galaxy-a05-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Samsung Galaxy A05 Location | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/introducing-windows-11-compatible-logitech-peripherals-enhanced-dynamic-lighting-capability/"><u>Introducing Windows 11 Compatible Logitech Peripherals: Enhanced Dynamic Lighting Capability</u></a></li>
+<li><a href="https://some-skills.techidaily.com/mastering-expression-calculation-a-guide-to-using-expr-on-linux-systems/"><u>Mastering Expression Calculation: A Guide to Using 'Expr' On Linux Systems</u></a></li>
+<li><a href="https://some-skills.techidaily.com/maximize-your-icloud-capacity-effective-methods-to-clear-and-reclaim-storage/"><u>Maximize Your iCloud Capacity: Effective Methods to Clear and Reclaim Storage</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reconnecting-to-imessage-solutions-for-the-signed-out-error-on-ios-devices/"><u>Reconnecting to iMessage: Solutions for the 'Signed Out' Error on iOS Devices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/steps-to-convert-your-imovie-project-into-a-high-quality-mp4-file/"><u>Steps to Convert Your iMovie Project Into a High-Quality MP4 File</u></a></li>
+<li><a href="https://fox-that.techidaily.com/urgent-fixes-getting-rid-of-water-in-your-iphone-audio-ports/"><u>Urgent Fixes: Getting Rid of Water in Your iPhone Audio Ports</u></a></li>
 </ul></div>
+

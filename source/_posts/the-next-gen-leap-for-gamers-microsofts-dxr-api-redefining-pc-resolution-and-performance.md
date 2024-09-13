@@ -1,7 +1,7 @@
 ---
 title: "The Next-Gen Leap for Gamers: Microsoft's DXR API Redefining PC Resolution and Performance"
-date: 2024-09-07T22:19:52.412Z
-updated: 2024-09-08T22:19:52.412Z
+date: 2024-09-10T17:33:11.014Z
+updated: 2024-09-13T06:49:06.645Z
 tags:
   - cutting-edge
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/4e1e135a4b0338f686903eb0c608ba2a349e6fad2f1ea5329a35a6ad22caba43.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Next-Gen Leap for Gamers: Microsoft's DXR API Redefining PC Resolution and Performance
 
 Upscaling technology can greatly enhance the PC gaming experience, particularly on low-wattage laptops. But because each GPU platform has a unique "[Super Resolution](https://desktop-recording.techidaily.com/new-2024-approved-capture-master-high-res-screen-record/)" upscaler, game developers aren't keen on implementing the technology. Now, Microsoft hopes to solve the problem with its new [DirectSR API](https://devblogs.microsoft.com/directx/directx-innovation-on-display-at-gdc-2024/).
@@ -39,8 +33,6 @@ Upscaling technology can greatly enhance the PC gaming experience, particularly 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -50,37 +42,24 @@ Upscaling technology can greatly enhance the PC gaming experience, particularly 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-streamline-your-gaming-experience-with-top-tools/"><u>[New] Streamline Your Gaming Experience with Top Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-tech-driven-pleasure-exploring-vr-in-media/"><u>[New] Tech-Driven Pleasure  Exploring VR in Media</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-places-for-free-text-visual-enhancements/"><u>[New] Top Places for Free Text Visual Enhancements</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unveiling-the-immersive-era-vrs-progress-and-upcoming-struggles/"><u>[New] Unveiling the Immersive Era  VR's Progress & Upcoming Struggles</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-enhancing-engagement-on-igtv-with-well-oriented-videos-for-2024/"><u>[Updated] Enhancing Engagement on IGTV with Well-Oriented Videos for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-syma-x5c-reviewed-ideal-entry-level-flying-machine/"><u>[Updated] Syma X5C Reviewed  Ideal Entry-Level Flying Machine</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-filming-in-full-view-9-tips/"><u>[Updated] The Ultimate Guide to Filming in Full View (9 Tips)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-10-free-templates-for-engaging-presentations-and-slideshows/"><u>[Updated] Top 10 Free Templates for Engaging Presentations and Slideshows</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-video-playback-device-pcmobile-focus/"><u>[Updated] Ultimate Video Playback Device - PC/Mobile Focus</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-the-potential-of-time-extension/"><u>[Updated] Unlocking the Potential of Time Extension</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-glacial-glory-celebrating-olympic-champions-and-their-epic-slopesideshow-22/"><u>2024 Approved  Glacial Glory  Celebrating Olympic Champions & Their Epic Slopesideshow '22</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-streamlined-social-integration-linktree-and-tiktok-profiles-united/"><u>2024 Approved  Streamlined Social Integration  Linktree and TikTok Profiles United</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-sound-of-you-how-to-add-a-personal-touch-with-ringtones-and-alerts-on-android-phones/"><u>2024 Approved  The Sound of You  How to Add a Personal Touch with Ringtones and Alerts on Android Phones</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-twitch-reversion-made-simple-top-ten-instructions-at-hand/"><u>2024 Approved  Twitch Reversion Made Simple  Top Ten Instructions at Hand</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unifying-visual-experience-in-iphone-recording/"><u>2024 Approved  Unifying Visual Experience in iPhone Recording</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-the-secrets-to-enthralling-unboxing-content-on-insta/"><u>2024 Approved  Unlock the Secrets to Enthralling Unboxing Content on Insta</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-creative-potential-turning-graphics-into-stickers-on-chat-apps/"><u>2024 Approved  Unlocking Creative Potential  Turning Graphics Into Stickers on Chat Apps</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/from-twitter-to-whatsapp-a-guide-to-sharing-online-videos-for-2024/"><u>From Twitter to WhatsApp  A Guide to Sharing Online Videos for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-epson-workforce-ds30-usb-printer-drivers-for-win10win8win7-systems/"><u>Get the Latest Epson WorkForce DS30 USB Printer Drivers for Win10/Win8/Win7 Systems</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-google-pixel-8-pro-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Google Pixel 8 Pro Bootloader Easily</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streamline-your-audio-content-with-googles-tools/"><u>In 2024, Streamline Your Audio Content with Google’s Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-artisans-guide-to-aesthetic-photographic-adjustments/"><u>In 2024, The Artisan's Guide to Aesthetic Photographic Adjustments</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Oppo Reno 9A | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-it-appropriate-to-use-good-manners-with-digital-companebots-such-as-chatgpt-alexa-or-siri/"><u>Is It Appropriate to Use Good Manners With Digital Companebots Such as ChatGPT, Alexa, or Siri?</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/optimize-performance-for-god-of-war-by-lowering-cpu-usage-a-comprehensive-guide/"><u>Optimize Performance for God of War by Lowering CPU Usage - A Comprehensive Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/prime-steps-to-modify-playback-rate-of-songs-in-spotify-for-2024/"><u>Prime Steps to Modify Playback Rate of Songs in Spotify for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/supreme-narrative-designers-den-for-2024/"><u>Supreme Narrative Designer's Den for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-docu-script-writers-guide-for-2024/"><u>The Docu-Script Writer's Guide for 2024</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/transforming-doc-mastery-with-abbyy-marketplace-advanced-llm-and-rag-technology-unleashed/"><u>Transforming Doc Mastery with ABBYY Marketplace: Advanced LLM and Rag Technology Unleashed</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unraveling-vr-a-clear-explanation-of-its-function-for-2024/"><u>Unraveling VR  A Clear Explanation of Its Function for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-the-best-free-video-player-vlc-versus-mpc-for-2024/"><u>Unveiling the Best Free Video Player  VLC versus MPC for 2024</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-honor-play-8t-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-a-journey-through-the-digital-landscape-six-engaging-quizzes-for-every-vlogger-admirer/"><u>[New] In 2024, A Journey Through the Digital Landscape Six Engaging Quizzes for Every Vlogger Admirer</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-is-it-lawful-to-screen-capture-youtube-content/"><u>[Updated] Is It Lawful to Screen-Capture YouTube Content?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-masterful-dissection-the-complete-guide-to-bublcams-vision/"><u>[Updated] Masterful Dissection The Complete Guide to Bublcam's Vision</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-through-chromes-black-screen-barrier/"><u>Breaking Through Chrome's Black Screen Barrier</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-view-mov-movies-content-on-samsung-galaxy-s23-fe-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can’t view MOV movies content on Samsung Galaxy S23 FE</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-muffled-to-clear-the-initial-use-of-fade-in-audition-for-2024/"><u>From Muffled to Clear The Initial Use of Fade in Audition for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/get-your-personalized-internet-access-with-spacexs-new-portable-starlink-mini-device/"><u>Get Your Personalized Internet Access with SpaceX’s New Portable Starlink Mini Device</u></a></li>
+<li><a href="https://some-skills.techidaily.com/how-cozi-became-the-ultimate-tool-for-keeping-my-family-life-in-perfect-harmony/"><u>How Cozi Became the Ultimate Tool for Keeping My Family Life in Perfect Harmony</u></a></li>
+<li><a href="https://some-skills.techidaily.com/how-factory-restoring-can-potentially-ruin-your-pixel-6/"><u>How Factory Restoring Can Potentially Ruin Your Pixel 6</u></a></li>
+<li><a href="https://some-skills.techidaily.com/how-iphone-loyalists-embrace-apples-strict-guidelines-despite-limitations/"><u>How iPhone Loyalists Embrace Apple's Strict Guidelines Despite Limitations</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-best-ways-to-transcribe-twitter-videos-into-high-fidelity-mp3s/"><u>In 2024, Best Ways to Transcribe Twitter Videos Into High-Fidelity MP3s</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-how-to-make-youtube-thumbnails-online-and-offline/"><u>In 2024, How to Make YouTube Thumbnails Online & Offline</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

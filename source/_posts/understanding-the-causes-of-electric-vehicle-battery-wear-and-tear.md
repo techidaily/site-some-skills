@@ -1,7 +1,7 @@
 ---
 title: Understanding the Causes of Electric Vehicle Battery Wear and Tear
-date: 2024-09-07T22:19:53.158Z
-updated: 2024-09-08T22:19:53.158Z
+date: 2024-09-11T11:43:44.994Z
+updated: 2024-09-13T12:24:43.620Z
 tags:
   - cutting-edge
 categories:
@@ -9,20 +9,21 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/lithium-ion-batteries-fanned.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Understanding the Causes of Electric Vehicle Battery Wear and Tear
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Quick Links
 
 * [How An EV Battery Degrades Over Time](https://some-guidance.techidaily.com/updated-top-questions-on-vlc-player-mac-integration/)
@@ -33,21 +34,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 Related: [How Does an Electric Vehicle Work?](https://instagram-video-recordings.techidaily.com/new-2024-approved-heres-what-you-dont-know-about-instagram-story-viewer2/) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  How An EV Battery Degrades Over Time
 
  Two main factors will affect the speed at which an EV's battery degrades: how old the battery is, and your use and environment. The second category includes things like how the electric car is driven, how the battery is charged, how the vehicle is stored, and environmental factors like climate.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ###  Battery Age
 
  The first category, degradation due to the battery's age, is inevitable---[all lithium-ion batteries steadily decline in effectiveness](https://screen-capture.techidaily.com/in-2024-ranking-the-ultimate-in-mac-gif-recorders/) with use over time. This is also called calendar aging, and it's a very gradual process. It also doesn't happen at the same rate year-over-year.
@@ -61,11 +64,12 @@ Related: [Debunking Battery Life Myths for Mobile Phones, Tablets, and Laptops](
  As the battery is used over and over again, some of that lithium is used up permanently. When that happens for long enough, you see a decrease in the overall charge that the battery can hold because there's just not enough active material to generate the same amount of energy. This type of degradation is also called capacity fade.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ###  Environmental and Use Factors
 
  Environmental factors, especially temperature, are proven to affect how well an EV's battery works. [In very cold weather](https://pokemon-go-android.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-poco-x5-pro-drfone-by-drfone-virtual-android/), for example, the liquid inside an electric car's battery becomes more viscous, slowing the reactions necessary to generate electricity. That means less electricity is available for the motor to use, so you have less power to accelerate. This is called, unsurprisingly, power fade. EVs are built with temperature regulation systems to help keep this from happening, but in extreme weather, it'll still be an issue to some degree. Corrosion or buildup inside the battery over time can also result in power fade.
@@ -81,11 +85,12 @@ Related: [Level 1, Level 2, or Level 3? EV Chargers Explained](https://visual-sc
  Most electric car manufacturers agree fast charging should be used "sparingly," but as of this writing, there's no set definition of what sparingly means. A good rule to go by is to fast charge as little as possible, when it can't be avoided or on long trips, and stick to regular [level 1 or 2 charging](https://visual-screen-recording.techidaily.com/unveiling-wintv-magic-compre-written-guide-to-capturing-live-on-windows-pc-for-2024/) most of the time.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Should You Be Worried About Battery Degradation?
 
  As long as you're aware the battery will decrease in capacity, slowly, over time, you shouldn't need to worry about degradation much. You will want to plan for that decrease ahead of time, though, and factor it into your calculations of how far you'll be able to drive the vehicle a few years down the line. As far as complete failure is concerned, total battery failure is very rare and usually covered by the manufacturer's warranty.
@@ -100,8 +105,6 @@ Related: [How Much Does an Electric Car Battery Replacement Cost?](https://phone
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -111,38 +114,20 @@ Related: [How Much Does an Electric Car Battery Replacement Cost?](https://phone
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-ranking-the-top-16-youtube-intros-to-amplify-views/"><u>[New] 2024 Approved  Ranking the Top 16 YouTube Intros to Amplify Views</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-expert-video-downloader-kit-ideal-for-firefox-browser-users-for-2024/"><u>[New] Expert Video Downloader Kit  Ideal for FireFox Browser Users for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-mastery-of-visual-storytelling-advanced-techniques-with-luts-in-after-effects/"><u>[New] Mastery of Visual Storytelling  Advanced Techniques with LUTs in After Effects</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-nikon-z6i-vs-d7500-in-depth-comparison/"><u>[New] Nikon Z6I vs D7500 In-Depth Comparison</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-smooth-snapshot-mastery-eliminate-shakes-for-2024/"><u>[New] Smooth Snapshot Mastery - Eliminate Shakes for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-essential-guide-to-podcast-creation-in-garageband/"><u>[New] The Essential Guide to Podcast Creation in GarageBand</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unforgettable-stop-motion-films-an-overview/"><u>[New] Unforgettable Stop-Motion Films - An Overview</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-unveiling-the-best-practices-for-crafting-viral-instagram-reels/"><u>[New] Unveiling the Best Practices for Crafting Viral Instagram Reels</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-complete-beginners-manual-to-using-final-cut-pro/"><u>[Updated] The Complete Beginner's Manual to Using Final Cut Pro</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-role-of-rhythm-and-pitch-in-trailer-tunes/"><u>[Updated] The Role of Rhythm and Pitch in Trailer Tunes</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-key-to-exploring-without-boundaries-through-vr/"><u>[Updated] The Ultimate Key to Exploring Without Boundaries Through VR</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-recorders-companion-for-clear-notes/"><u>[Updated] The Ultimate Recorder's Companion for Clear Notes</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-8-innovative-glasses-for-entering-metaverse-worlds/"><u>[Updated] Top 8 Innovative Glasses for Entering Metaverse Worlds</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlock-creative-expression-master-device-based-filters-and-effects/"><u>[Updated] Unlock Creative Expression  Master Device-Based Filters and Effects</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlock-virtual-worlds-top-10-pc-games-for-ultimate-vr-experience/"><u>[Updated] Unlock Virtual Worlds  Top 10 PC Games for Ultimate VR Experience</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-path-to-costless-image-archives/"><u>[Updated] Unveiling the Path to Costless Image Archives</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-zoom-breakout-rooms-for-newcomers-explored-for-2024/"><u>[Updated] Zoom Breakout Rooms for Newcomers Explored for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-streamlining-picture-shading-with-adobe-tools/"><u>2024 Approved  Streamlining Picture Shading with Adobe Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-synthetic-worlds-the-future-of-gaming-with-vr/"><u>2024 Approved  Synthetic Worlds  The Future of Gaming with VR</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-complete-cheat-sheet-mastering-googles-voice-transcription-tool/"><u>2024 Approved  The Complete Cheat Sheet  Mastering Google's Voice Transcription Tool</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultraview-app-functionality-survey/"><u>2024 Approved  UltraView App Functionality Survey</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unboxing-the-typhoon-h-yuneecs-drone-expertise/"><u>2024 Approved  Unboxing the Typhoon H  Yuneec's Drone Expertise</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-tips-to-overcome-common-flaws-in-windows-applications/"><u>Essential Tips to Overcome Common Flaws in Windows Applications</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/highlighting-heroics-at-the-x-olympics-2022/"><u>Highlighting Heroics at the X-Olympics 2022</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-stop-your-macbook-from-falling-asleep-on-closed-lid-a-step-by-step-guide/"><u>How to Stop Your MacBook From Falling Asleep on Closed Lid: A Step-by-Step Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-ispoofer-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Samsung Galaxy F15 5G? | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-getting-started-with-vlc-screen-recordings/"><u>In 2024, Getting Started with VLC Screen Recordings</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-pro-max-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-tailor-your-own-memetic-masterpiece-now/"><u>In 2024, Tailor Your Own Memetic Masterpiece Now</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-the-secrets-of-google-podcast-uploads/"><u>In 2024, Unlocking the Secrets of Google Podcast Uploads</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/precision-in-every-frame-top-9-tips-for-vr-filmmaking-for-2024/"><u>Precision in Every Frame  Top 9 Tips for VR Filmmaking for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-10-online-photo-editing-tools-to-unblur-photos-effectively-for-2024/"><u>Top 10 Online Photo Editing Tools to Unblur Photos Effectively for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlock-creative-expression-master-device-based-filters-and-effects-for-2024/"><u>Unlock Creative Expression  Master Device-Based Filters and Effects for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-free-quicktime-video-editing-software-top-10-choices-for-2024/"><u>Updated Free QuickTime Video Editing Software Top 10 Choices for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/remier-roundup-2023s-top-free-video-editing-apps-for-2024/"><u>[New] Premier Roundup 2023'S Top Free Video Editing Apps for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-10-best-no-cost-video-calls-for-remote-collaboration/"><u>[Updated] In 2024, 10 Best No-Cost Video Calls for Remote Collaboration</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-eradicated-muted-video-entries-shorts/"><u>[Updated] In 2024, Eradicated Muted Video Entries (Shorts)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-easy-to-use-zoom-camera-for-instant-sharing/"><u>2024 Approved Easy-to-Use Zoom Camera for Instant Sharing</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-skyrocket-space-utilization-top-20-cost-free-storage-providers-up-to-1tb/"><u>2024 Approved Skyrocket Space Utilization - Top 20 Cost-Free Storage Providers (Up To 1TB)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/be-prepared-without-delay-step-by-step-tutorial-on-crafting-a-bootable-windows-11-usb-thrive-in-advance/"><u>Be Prepared Without Delay: Step-by-Step Tutorial on Crafting a Bootable Windows #11 USB Thrive in Advance</u></a></li>
+<li><a href="https://some-skills.techidaily.com/beyond-microsoft-phone-link-embrace-this-enhanced-mobile-connectivity-solution/"><u>Beyond Microsoft Phone Link: Embrace This Enhanced Mobile Connectivity Solution</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capturing-timeless-moments-iphones-prolonged-shots-guide-for-2024/"><u>Capturing Timeless Moments IPhone’s Prolonged Shots Guide for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/effective-strategies-to-resolve-the-secured-no-internet-access-issue-in-windows-systems/"><u>Effective Strategies to Resolve the 'Secured – No Internet Access' Issue in Windows Systems</u></a></li>
+<li><a href="https://some-skills.techidaily.com/enhanced-security-features-in-google-chrome-version-127-guard-against-malware/"><u>Enhanced Security Features in Google Chrome Version 127 - Guard Against Malware</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/explore-the-most-reliable-photo-background-alternation-apps-for-2024/"><u>Explore the Most Reliable Photo-Background Alternation Apps for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/exploring-the-differences-between-arm-based-windows-11-and-traditional-windows-systems/"><u>Exploring the Differences Between ARM-Based Windows 11 and Traditional Windows Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-eliminate-echo-problems-on-your-discord-app-for-windows/"><u>Step-by-Step Tutorial: Eliminate Echo Problems on Your Discord App for Windows</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/unwind-yourself-with-these-20-best-country-songs-on-tiktok-for-2024/"><u>Unwind Yourself with These 20 Best Country Songs on TikTok for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/windows-11-tutorial-enabling-your-laptops-hibernation-mode-with-the-lid-shut/"><u>Windows 11 Tutorial: Enabling Your Laptop's Hibernation Mode with the Lid Shut</u></a></li>
 </ul></div>
+

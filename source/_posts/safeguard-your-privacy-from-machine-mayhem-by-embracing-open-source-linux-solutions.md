@@ -1,7 +1,7 @@
 ---
 title: Safeguard Your Privacy From Machine Mayhem by Embracing Open Source Linux Solutions
-date: 2024-09-07T22:19:52.401Z
-updated: 2024-09-08T22:19:52.401Z
+date: 2024-09-10T02:15:26.602Z
+updated: 2024-09-12T17:52:54.509Z
 tags:
   - cutting-edge
 categories:
@@ -9,20 +9,21 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-linux-mascot-tux-wearing-sunglasses-against-a-matrix-style-background.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Safeguard Your Privacy From Machine Mayhem by Embracing Open Source Linux Solutions
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Products everywhere are incorporating AI, leading to privacy breaches and creating junk AI output.
@@ -32,11 +33,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Every other app and service now seems to be tacking on AI functionality to try to entice weary users or satisfy shareholders. Sometimes, AI features work well. Often, it just results in junk output (at least for now) and a privacy nightmare. Here's how Linux can help you escape the AI apocalypse.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Everyone Is Adding AI to Their Products and Services
 
  I'm no curmudgeon: Generative AI is an awesome new technology, and I think that anyone with the hardware should try hosting their own [AI chat bots](https://facebook-video-content.techidaily.com/updated-whats-new-on-facebook-an-updated-look/) and [image generators](https://screen-recording.techidaily.com/in-2024-odins-legacy-destiny-of-ragnarok/) to learn how they work and prepare for the future. It's the haphazard application of AI, without any thought for users, and that makes products worse that I object to. For example:
@@ -48,11 +50,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  This effort to add AI to everything isn't stopping, despite users' trepidation. Windows, MacOS, and iOS are all plowing ahead with new AI features, and at no cost to you. This raises the question of how they plan on profiting from it (hint, the answer is probably by monetizing the data you feed to them).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  For AI to Work, It Needs to Scrape Your Data
 
  Generative AI isn't pushing the limits of creativity, it's just an algorithm that mashes together pieces of data it's been trained on. That means generative AI needs a constant stream of new information to work with to stay up-to-date.
@@ -64,27 +67,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  This doesn't just make AI output unoriginal, It's a massive privacy issue: how can you be sure some details of your private life that have been submitted to an AI platform won't be used to generate someone else's short story, business email, to create images, or just [revealed to the public outright](https://www.businessinsider.com/google-researchers-openai-chatgpt-to-reveal-its-training-data-study-2023-12 "https://www.businessinsider.com/google-researchers-openai-chatgpt-to-reveal-its-training-data-study-2023-12")?
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Take Control Back By Switching to Linux
 
 ![The Kubuntu Focus Ir16 Gen 2 laptop open on a desk in front of speakers and a headset.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/53784641964_d7cc9b8262_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  Alright, I've kvetched about AI privacy enough, so what can you actually do about it? The answer is pretty short.
@@ -101,8 +100,6 @@ Jerome Thomas / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -112,41 +109,17 @@ Jerome Thomas / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-acme-audio-playwriting-compendium/"><u>[New] Acme Audio Playwriting Compendium</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-best-cutting-edge-tools-for-intro-edits-on-devices/"><u>[New] Best Cutting-Edge Tools for Intro Edits on Devices</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-standout-soundstage-sagas-and-plots/"><u>[New] Standout Soundstage Sagas and Plots</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-freevista-landing-on-exquisite-costless-tiktok-screenshots/"><u>[New] The FREEvista  Landing on Exquisite, Costless TikTok Screenshots</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-for-streamlining-iphone-video-content/"><u>[New] The Ultimate Guide for Streamlining iPhone Video Content</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-roadmap-to-proficiency-in-lut-construction/"><u>[New] The Ultimate Roadmap to Proficiency in LUT Construction</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transforming-digital-media-expert-advice-for-macs-dvd-creation/"><u>[New] Transforming Digital Media  Expert Advice for Mac's DVD Creation</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-guide-the-art-of-background-music-for-video-unboxing/"><u>[New] Ultimate Guide  The Art of Background Music for Video Unboxing</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-2023s-ultimate-capture-software-revisited/"><u>[Updated] 2024 Approved  2023'S Ultimate Capture Software Revisited</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-micro-movies-on-facebook-galore/"><u>[Updated] 2024 Approved  Micro-Movies on Facebook Galore</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-streamlined-steps-to-watching-vr-on-your-ios-device/"><u>[Updated] Streamlined Steps to Watching VR on Your IOS Device</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-artisans-touch-skillfully-applying-face-centric-motion-blur-using-picsart/"><u>[Updated] The Artisan’s Touch  Skillfully Applying Face-Centric Motion Blur Using Picsart</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-transforming-digital-media-expert-advice-for-macs-dvd-creation/"><u>[Updated] Transforming Digital Media  Expert Advice for Mac's DVD Creation</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-understanding-cropping-settings-in-digital-editors/"><u>[Updated] Understanding Cropping Settings in Digital Editors</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unleashing-creativity-making-photo-based-videos-using-pixiz/"><u>[Updated] Unleashing Creativity  Making Photo-Based Videos Using Pixiz</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-stream-smarter-with-float-mastery-over-pip-on-netflix/"><u>2024 Approved  Stream Smarter with Float  Mastery Over PIP on Netflix</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-selecting-and-using-b-roll-in-productions/"><u>2024 Approved  The Art of Selecting and Using B-Roll in Productions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-color-correctors-handbook/"><u>2024 Approved  The Ultimate Color Corrector's Handbook</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-faster-periscope-streams/"><u>2024 Approved  The Ultimate Guide  Faster Periscope Streams</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-tunes-where-to-secure-soundscapes/"><u>2024 Approved  Top Tunes  Where to Secure Soundscapes</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/creating-focus-in-meetings-blurring-the-video-uniformity/"><u>Creating Focus in Meetings  Blurring the Video Uniformity</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/illustration-giggles-memecrafterz-for-2024/"><u>Illustration Giggles  MemeCrafterz for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/1719153057153-impending-ruling-trumps-ban-under-scrutiny-at-fb-oversight-panel/"><u>Impending Ruling: Trump's Ban Under Scrutiny at FB Oversight Panel</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-proven-techniques-for-capturing-dynamic-and-engaging-ppts/"><u>In 2024, Proven Techniques for Capturing Dynamic and Engaging PPTs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-balancing-act-managing-your-off-facebook-activity-displays/"><u>In 2024, The Balancing Act  Managing Your Off-Facebook Activity Displays</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transforming-video-conferencing-with-zoom-and-youtube-for-impactful-live-events/"><u>In 2024, Transforming Video Conferencing with Zoom and YouTube for Impactful Live Events</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-understanding-the-quantum-leap-hdr-innovations/"><u>In 2024, Understanding the Quantum Leap  HDR Innovations</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unleash-your-time-potential-with-gratuitous-clock-tools/"><u>In 2024, Unleash Your Time Potential with Gratuitous Clock Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/switch-onoff-youtubes-pip-mode-on-your-iphone-for-2024/"><u>Switch On/Off YouTube's PIP Mode on Your iPhone for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-fastest-route-for-srt-to-text-file-conversion-for-2024/"><u>The Fastest Route for SRT to Text File Conversion for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-low-light-guru-writes-for-iphone-users-for-2024/"><u>The Low Light Guru' Writes for iPhone Users for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-roadmap-to-acquiring-perfect-copyright-free-photos-for-2024/"><u>The Roadmap to Acquiring Perfect, Copyright-Free Photos for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-picks-free-download-sites-for-custom-skype-tones-for-2024/"><u>Top Picks  Free Download Sites for Custom Skype Tones for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unparalleled-background-music-compilation-for-2024/"><u>Unparalleled Background Music Compilation for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-do-you-use-premiere-pro-and-want-to-learn-how-to-change-a-videos-frame-rate-using-the-tool-here-are-the-steps-that-you-need-to-follow./"><u>Updated 2024 Approved Do You Use Premiere Pro and Want to Learn How to Change a Videos Frame Rate Using the Tool? Here Are the Steps that You Need to Follow</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-pc-video-editing-made-easy-gopro-quik-and-its-alternatives/"><u>Updated PC Video Editing Made Easy GoPro Quik and Its Alternatives</u></a></li>
-<li><a href="https://some-skills.techidaily.com/vanguard-enterprises-of-spatial-display-tech-for-2024/"><u>Vanguard Enterprises of Spatial Display Tech for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fusion-of-youtube-beats-and-imovie-editing-magic/"><u>[Updated] 2024 Approved Fusion of YouTube Beats and iMovie Editing Magic</u></a></li>
+<li><a href="https://some-skills.techidaily.com/celebrate-the-4th-of-july-with-a-spectacular-offer-from-urban-armor-gear-enjoy-20-savings-across-our-entire-collection/"><u>Celebrate the 4Th of July with a Spectacular Offer From Urban Armor Gear - Enjoy 20% Savings Across Our Entire Collection!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/comparing-pixel-pro-8-and-oneplus-12-which-smartphone-takes-the-crown/"><u>Comparing Pixel Pro 8 & OnePlus 12 – Which Smartphone Takes the Crown?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/discover-effortless-iphone-circle-searching-with-this-simple-shortcut/"><u>Discover Effortless iPhone Circle Searching with This Simple Shortcut</u></a></li>
+<li><a href="https://some-skills.techidaily.com/dry-gangrene-involves-coagulative-and-ischemic-changes-without-a-secondary-infection-while-wet-gangrene-includes-superimposed-bacterial-invasion-leading-to-49/"><u>Dry Gangrene Involves Coagulative and Ischemic Changes without a Secondary Infection, While Wet Gangrene Includes Superimposed Bacterial Invasion Leading to Liquefactive Necrosis.</u></a></li>
+<li><a href="https://some-skills.techidaily.com/exploring-the-need-for-enhanced-capabilities-in-modern-smartphones/"><u>Exploring the Need for Enhanced Capabilities in Modern Smartphones</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How to Fix Pokemon Go Route Not Working On Apple iPhone XR? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-x100-pro-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Vivo X100 Pro Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/proven-techniques-and-choices-for-trimming-premium-tamil-melodies-for-2024/"><u>Proven Techniques and Choices for Trimming Premium Tamil Melodies for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-players-secret-ultimate-techniques-for-taking-pictures-on-your-ps4/"><u>The Player's Secret: Ultimate Techniques for Taking Pictures on Your PS4</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-lava-blaze-2-pro-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Lava Blaze 2 Pro Location By Mobile Number | Dr.fone</u></a></li>
 </ul></div>
+

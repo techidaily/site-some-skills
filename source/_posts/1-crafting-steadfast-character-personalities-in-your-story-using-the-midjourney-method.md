@@ -1,7 +1,7 @@
 ---
 title: 1. Crafting Steadfast Character Personalities in Your Story Using the MidJourney Method
-date: 2024-09-07T22:19:52.039Z
-updated: 2024-09-08T22:19:52.039Z
+date: 2024-09-06T22:34:37.346Z
+updated: 2024-09-13T03:40:27.695Z
 tags:
   - cutting-edge
 categories:
@@ -12,11 +12,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## 1. Crafting Steadfast Character Personalities in Your Story Using the MidJourney Method
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Midjourney lets you create consistent characters using the "cref" or "character reference" command.
@@ -25,12 +26,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  One of the worst limitations of using Midjourney and other AI image generators is the lack of repeatability. However, it's now possible to create a character and then repeatedly use that character in subsequent images. While it's not perfect yet, it's a powerful creative feature in the right hands.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  What Is a Consistent Character?
 
  In [Midjourney](https://buynow-tips.techidaily.com/review-of-audews-portable-air-compressor-unmatched-portability-and-dependability/) terms, a consistent character is a humanoid subject in an existing image that the AI can extract and recreate in a new image. So, for example, if you've created a character, or there's a character in an image that you like, you can tell Midjourney to extract it and reuse it.
@@ -38,11 +33,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  It's important to understand that Midjourney is basically using AI image recognition methods on the image that you provide. So, in other words, it's not like it's cutting and pasting the character, but rather it's converting it to a sophisticated set of attributes that make up that character. This means that, in many cases, the extracted character won't look exactly like the source, but we'll get to how you can mitigate that in just a minute. First, let's look at "cref" or "character reference", the command that makes all of this possible.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  How to Use the "cref" Command
 
  Just like command for [aspect ratio](https://youtube-lab.techidaily.com/gateway-to-youtube-entrepreneurship-the-best-10-easy-to-create-channels/) (--ar X:Y) the cref command goes into your prompt, stacked at the end with any other commands. To use it, simply put "--cref" at the end of your prompt, followed by the URL of the reference image, separated by a space. For example:
@@ -58,30 +54,32 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Saving an image link from the Discord bot interface.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/saving-an-image-link-from-the-discord-bot-interface.png) 
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you're using the new [Midjourney Alpha web interface](https://vp-tips.techidaily.com/new-2024-approved-heaviest-lifting-uavs-the-definitive-top-10/), simply click the little picture icon to the left of the prompt bar. Then upload the image of your choice. Once you have it uploaded, right-click on it and copy the link. Then you can use the --cref command as you do in Discord.
 
 ![Saving an image link in the Midjourney web interface.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-30-at-14-10-50.png) 
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  That's really all there is to it, so next let's run through it step-by-step.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Let’s Make a Character Step-by-Step
 
  In this example, I'm going to generate a character, then use that character in subsequent generations. I'll be using the Discord interface here.
@@ -92,9 +90,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Examples of an anime elf generated by Midjourney.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/examples-of-an-anime-elf-generated-by-midjourney.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Next, I pick the one I like the most using the upscale buttons. In this case, I clicked "U1" to upscale the upper-left image.
 
 ![Anime elf image final upscale in Midjourney](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-30-at-14-13-03.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now I copy the image address as described above in the previous section. Then I use this prompt with the full address pasted at the end.
 
@@ -105,12 +117,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![New characters based on an existing character using the CREF command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/new-characters-based-on-an-existing-character-using-the-cref-command.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Tips and Tricks
 
  Note how I've re-used the character description portion of my previous prompt. This isn't strictly necessary, but I find it has better results in many cases. Even if I just typed "plays the violin" as my prompt, the cref image would still have been used and the character would still have appeared.
@@ -127,8 +133,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,50 +142,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-100-hysterical-moments-on-tiktok/"><u>[New] 2024 Approved  100 Hysterical Moments on TikTok</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-precision-guide-to-mastering-mobizens-screen-capture-functionality-for-2024/"><u>[New] Precision Guide to Mastering Mobizen's Screen Capture Functionality for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-art-of-preserving-your-playlist-perfection-in-cross-services/"><u>[New] The Art of Preserving Your Playlist Perfection in Cross Services</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-the-best-cloud-storage-for-your-photos-free-and-paid-included-for-2024/"><u>[New] The Best Cloud Storage for Your Photos  Free and Paid Included for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-blueprint-for-mastering-picsart/"><u>[New] The Ultimate Blueprint for Mastering PicsArt</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-android-photo-enhancement-5-top-apps/"><u>[New] The Ultimate Guide to Android Photo Enhancement  5 Top Apps</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-cloud-storage-pricing-comparisons/"><u>[New] The Ultimate Guide to Cloud Storage Pricing Comparisons</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-memorable-anime-opens/"><u>[New] The Ultimate Guide to Memorable Anime Opens</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-total-gaze-field-vr-device-overview/"><u>[New] Total Gaze Field VR Device Overview</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transformative-srt-to-txt-guide-for-time-saving/"><u>[New] Transformative SRT to TXT Guide for Time-Saving</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-undertaking-decoding-digital-picture-resolutions/"><u>[New] Ultimate Undertaking  Decoding Digital Picture Resolutions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-streamline-your-audio-experience-with-apods/"><u>[Updated] Streamline Your Audio Experience with APods</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-superior-viewing-experience-essentials-of-4k-downloading/"><u>[Updated] Superior Viewing Experience  Essentials of 4K Downloading</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-full-picture-editpro-suite-review-of-2023/"><u>[Updated] The Full Picture  EditPro Suite Review of 2023</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-most-memorable-2022-ice-sculpture-moves/"><u>[Updated] The Most Memorable 2022 Ice Sculpture Moves</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-ps4ps5-voice-modification-handbook/"><u>[Updated] The Ultimate PS4/PS5 Voice Modification Handbook</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-budget-conscious-video-modification-sites-explored-and-rated/"><u>[Updated] Top Budget-Conscious Video Modification Sites Explored and Rated</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-understanding-the-impact-of-nikon-d500s-4k-output/"><u>[Updated] Understanding the Impact of Nikon D500's 4K Output</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-full-potential-with-powerdirector-a-comprehensive-review/"><u>[Updated] Unlocking Full Potential with PowerDirector - A Comprehensive Review</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-high-end-picture-sources-at-zero-cost/"><u>[Updated] Unveiling High-End Picture Sources at Zero Cost</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-captioning-images-with-text/"><u>2024 Approved  The Art of Captioning Images with Text</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-secret-to-love-in-video-editing-filmoras-best-aspects/"><u>2024 Approved  The Secret to Love in Video Editing  Filmora's Best Aspects</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-secrets-to-effortless-iphone-photo-sorting-and-synchronizing-with-icloud/"><u>2024 Approved  The Secrets to Effortless iPhone Photo Sorting & Synchronizing with iCloud</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-strategies-for-adjusting-song-speed-on-spotify/"><u>2024 Approved  Top Strategies for Adjusting Song Speed on Spotify</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-twitter-video-links-to-audio/"><u>2024 Approved  Transforming Twitter Video Links to Audio</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-comic-strip-editor/"><u>2024 Approved  Ultimate Comic Strip Editor</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199746265-comprehensive-solutions-to-the-bsod-error-0xc00lete-on-windows-10-and-8-get-your-pc-back-online/"><u>Comprehensive Solutions to the BSOD (Error 0xC00lete) on Windows 10 and 8: Get Your PC Back Online</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/effective-guide-to-cast-apple-iphone-xs-to-macbook-without-hindrance-drfone-by-drfone-ios/"><u>Effective Guide to Cast Apple iPhone XS to MacBook without Hindrance | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ideal-dslrs-for-animation-filmmaking-for-2024/"><u>Ideal DSLRs for Animation Filmmaking for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-integrating-zoom-with-your-android-gadget/"><u>In 2024, Integrating Zoom with Your Android Gadget</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-techniques-to-create-compelling-vlogger-dialogue-plans/"><u>In 2024, Techniques to Create Compelling Vlogger Dialogue Plans</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-tips-for-removing-spotifys-auto-suggesting-podcasts/"><u>In 2024, Tips for Removing Spotify's Auto-Suggesting Podcasts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-6-online-communities-catering-to-the-commercial-world/"><u>In 2024, Top 6 Online Communities Catering to the Commercial World</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-pages-for-stylish-shiny-3d-type-creations/"><u>In 2024, Top Pages for Stylish, Shiny 3D Type Creations</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-zeoid-startups-revealed-in-panzoids/"><u>In 2024, Top Zeoid Startups Revealed in Panzoids</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-tuneful-transmissions-integrating-audio-with-statuses/"><u>In 2024, Tuneful Transmissions  Integrating Audio with Statuses</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-secrets-of-canon-timelapse-crafting/"><u>In 2024, Unveiling the Secrets of Canon Timelapse Crafting</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/leading-android-companion-apps-for-your-smartwatch/"><u>Leading Android Companion Apps for Your Smartwatch</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/seamless-setup-guide-pairing-your-kindle-fire-device-and-pc-without-cables/"><u>Seamless Setup Guide: Pairing Your Kindle Fire Device and PC without Cables</u></a></li>
-<li><a href="https://some-skills.techidaily.com/srt-playback-guide-on-different-os-platforms-for-2024/"><u>SRT Playback Guide on Different OS Platforms for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/textual-transformation-in-adobe-after-effects-for-2024/"><u>Textual Transformation in Adobe After Effects for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-zoom-video-enhancement-playbook-for-2024/"><u>The Ultimate Zoom Video Enhancement Playbook for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transform-your-recordings-expert-tips-for-zoom-changer-for-2024/"><u>Transform Your Recordings  Expert Tips for Zoom Changer for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-vivo-y100i-power-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Vivo Y100i Power 5G without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-secrets-of-iphone-x-resolving-face-recognition-issues-for-2024/"><u>Unlocking Secrets of iPhone X  Resolving Face Recognition Issues for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-the-ultimate-social-media-companion-discover-top-7-tiktok-charms-plus-hidden-symbols/"><u>[New] 2024 Approved The Ultimate Social Media Companion – Discover Top 7 TikTok Charms + Hidden Symbols</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-13-mini-drfone-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-nokia-g22-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/indepth-review-gigabyte-aorus-co49dq-oled-monitor-exceptional-color-and-contrast-performance/"><u>InDepth Review: Gigabyte Aorus CO49DQ OLED Monitor - Exceptional Color & Contrast Performance</u></a></li>
+<li><a href="https://some-skills.techidaily.com/introducing-microsofts-latest-innovation-an-ai-enhanced-recall-function-for-personal-computers/"><u>Introducing Microsoft's Latest Innovation: An AI-Enhanced Recall Function for Personal Computers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/mandatory-survey-prompt-launched-by-microsoft-when-exiting-onedrive/"><u>Mandatory Survey Prompt Launched by Microsoft When Exiting OneDrive</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-samsung-galaxy-xcover-6-pro-tactical-edition-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Samsung Galaxy XCover 6 Pro Tactical Edition Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/windows-11-tutorial-enabling-your-laptops-hibernation-mode-with-the-lid-shut/"><u>Windows 11 Tutorial: Enabling Your Laptop's Hibernation Mode with the Lid Shut</u></a></li>
 </ul></div>
+

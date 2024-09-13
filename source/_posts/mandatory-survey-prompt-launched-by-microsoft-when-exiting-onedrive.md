@@ -1,7 +1,7 @@
 ---
 title: Mandatory Survey Prompt Launched by Microsoft When Exiting OneDrive
-date: 2024-09-07T22:19:50.921Z
-updated: 2024-09-08T22:19:50.921Z
+date: 2024-09-10T12:49:57.152Z
+updated: 2024-09-12T16:51:49.489Z
 tags:
   - deals
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/microsoft-onedrive-logo-2.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Mandatory Survey Prompt Launched by Microsoft When Exiting OneDrive
 
 ###### [Read update](https://screen-video-capture.techidaily.com/updated-2024-approved-capturing-the-heart-of-sims-4-games/) 
@@ -24,17 +18,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Microsoft's clingy behavior continues to annoy Windows users. Last month, the company introduced an optional [pop-up survey](https://article-files.techidaily.com/2024-approved-the-ultimate-guide-for-implementing-look-up-tables-in-creative-suite/) that's triggered when installing Chrome from Edge. Now, Windows users are being hit with a _mandatory_ survey when they try to _close_ OneDrive.
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ###  UPDATE: 2023/11/10 10:11 EST BY ANDREW HEINZMAN
 
 **_Statement from Microsoft_** 
@@ -46,11 +35,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![The "quit OneDrive" popup prompting a user to complete a survey.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/11-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 [Neowin](https://www.neowin.net/news/microsoft-wont-let-you-close-onedrive-in-windows-without-you-explaining-it-first/)
 
  A warning is fine, and this particular warning has been around for a while. But the new survey dropdown forces users to "select a reason for quitting OneDrive." Here are the answers you're allowed to choose from:
@@ -75,8 +65,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -86,70 +74,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-aesthetic-assembly-android-and-ios-video-sets-for-insta/"><u>[New] 2024 Approved  Aesthetic Assembly  Android & iOS Video Sets for Insta</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-crafting-curls-and-contours-creating-a-personalized-beauty-channel-for-2024/"><u>[New] Crafting Curls and Contours  Creating a Personalized Beauty Channel for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-discover-how-these-15-advanced-facebook-gadgets-boost-e-commerce-sale-traffic/"><u>[New] Discover How These 15 Advanced Facebook Gadgets Boost E-Commerce Sale Traffic</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-fine-tune-video-quality-for-instagram-excellence-for-2024/"><u>[New] Fine-Tune Video Quality for Instagram Excellence for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-fists-fighting-fames-flame/"><u>[New] Fists Fighting Fame's Flame</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-eye-opening-list-of-the-top-12-yt-gamers-intros-freepaid-sessions/"><u>[New] In 2024, Eye-Opening List of the Top 12 YT Gamers' Intros (Free/Paid Sessions)</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-unveiling-mystery-behind-invisible-facebook-vids-with-12-steps/"><u>[New] In 2024, Unveiling Mystery Behind Invisible Facebook Vids with 12 Steps</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-streamline-content-creation-leading-after-effects-plugins/"><u>[New] Streamline Content Creation  Leading After Effects Plugins</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-techniques-for-unbiased-and-structured-interviews/"><u>[New] Techniques for Unbiased and Structured Interviews</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-calming-chorus-proven-voices-aid-sleep/"><u>[New] The Calming Chorus  Proven Voices Aid Sleep</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-painters-touch-mastering-color-artistry/"><u>[New] The Painter's Touch  Mastering Color Artistry</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-swift-guide-to-validate-your-tiktok-age/"><u>[New] The Swift Guide to Validate Your TikTok Age</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-image-editor-repertoire-for-text-addition/"><u>[New] The Ultimate Image Editor Repertoire for Text Addition</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transforming-views-into-brand-loyalty/"><u>[New] Transforming Views Into Brand Loyalty</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-insight-2024-video-showcase-guidebook/"><u>[New] Ultimate Insight  2024 Video Showcase Guidebook</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-the-potential-of-quantum-hdr/"><u>[New] Unlocking the Potential of Quantum HDR</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-joyful-jokes-on-pixels-35-best-mobile-apps/"><u>[Updated] Joyful Jokes on Pixels  35 Best Mobile Apps</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-master-quick-red-eye-correction-in-iphone-photos-for-free/"><u>[Updated] Master Quick Red-Eye Correction in iPhone Photos for FREE</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-science-of-sensor-based-hands-monitoring/"><u>[Updated] The Science of Sensor-Based Hands Monitoring</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-truth-about-magix-video-pro-xs-performance/"><u>[Updated] The Truth About Magix Video Pro X's Performance</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-tier-business-data-haven-selection/"><u>[Updated] Top-Tier Business Data Haven Selection</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unattached-audio-puzzle-resolution-guide/"><u>[Updated] Unattached Audio Puzzle  Resolution Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-speed-instant-signature-background-cleanup/"><u>[Updated] Unlocking Speed  Instant Signature Background Cleanup</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-engaging-audiences-perfecting-the-art-of-igtv-titles-and-summaries/"><u>2024 Approved  Engaging Audiences  Perfecting the Art of IGTV Titles & Summaries</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-gazing-into-clarity-in-depth-on-the-hp-z32x-monitor/"><u>2024 Approved  Gazing Into Clarity  In-Depth on the HP Z32X Monitor</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-level-up-your-livestream-game-using-obs-youtube-and-twitch/"><u>2024 Approved  Level-Up Your Livestream Game  Using OBS, YouTube & Twitch</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-the-filmmakers-handbook-for-professional-gopro-videographers/"><u>2024 Approved  The Filmmaker's Handbook for Professional Gopro Videographers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-picks-for-gaming-displays-on-xbox-series-x-console/"><u>2024 Approved  Top Picks for Gaming Displays on Xbox Series X Console</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-tips-for-secure-clear-stock-purchases/"><u>2024 Approved  Top Tips for Secure, Clear Stock Purchases</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transform-images-top-5-android-tools/"><u>2024 Approved  Transform Images  Top 5 Android Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-5-speedy-shot-strategies-right-from-your-living-room/"><u>2024 Approved  Ultimate 5 Speedy Shot Strategies Right From Your Living Room</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-choice-for-engaging-type-animations/"><u>2024 Approved  Ultimate Choice for Engaging Type Animations</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unleashing-full-potential-nikon-1j5-in-4k-videography/"><u>2024 Approved  Unleashing Full Potential  Nikon 1J5 in 4K Videography</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-infinix-smart-7-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Infinix Smart 7 HD | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-huawei-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Huawei</u></a></li>
-<li><a href="https://program-issues.techidaily.com/conquering-test-time-anxiety-strategies-to-correct-the-tfla0002-malfunction/"><u>Conquering Test Time Anxiety: Strategies to Correct the 'TFLA0002' Malfunction</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-itel-p55-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Itel P55 using Video Repair Utility on Windows?</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-resolve-oneplus-12r-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve OnePlus 12R Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-resolve-oppo-find-x6-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Oppo Find X6 Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/how-to-transferring-youtube-shorts-from-pcandroid-or-ios/"><u>How-To  Transferring YouTube Shorts From PC/Android or iOS</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-on-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock on Apple iPhone 14 Pro</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-a-comprehensive-guide-to-icloud-unlock-on-apple-iphone-se-2022-online-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iCloud Unlock On Apple iPhone SE (2022) Online</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-asus-rog-phone-7-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Asus ROG Phone 7 Location Settings | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-nokia-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Nokia</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-hd-blackouts-on-facebook-live-tips-for-chromesafari-users/"><u>In 2024, Navigating HD Blackouts on Facebook Live  Tips for Chrome/Safari Users</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-swiftly-freeze-action-in-your-iphone-photography-journey/"><u>In 2024, Swiftly Freeze Action in Your iPhone Photography Journey</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-going-unseen-during-instagram-live-events/"><u>In 2024, The Art of Going Unseen During Instagram Live Events</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-next-level-in-monitor-technology-a-deep-dive-into-p2715qs-wonders/"><u>In 2024, The Next Level in Monitor Technology - A Deep Dive Into P2715Q's Wonders</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-tint-tuning-toolkit/"><u>In 2024, Tint Tuning Toolkit</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unleash-creative-freedom-crafting-your-own-insta-tones/"><u>In 2024, Unleash Creative Freedom  Crafting Your Own Insta Tones</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-windows-live-movie-maker-tutorial-easy-video-splitting-techniques/"><u>In 2024, Windows Live Movie Maker Tutorial Easy Video Splitting Techniques</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Xiaomi Civi 3 | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/new-release-enhanced-drivers-for-tp-link-ac-network-interface-card-on-win7-8-and-10-systems/"><u>New Release: Enhanced Drivers for TP-Link AC Network Interface Card on Win7, 8 & 10 Systems</u></a></li>
-<li><a href="https://os-tips.techidaily.com/no-backup-no-problem-mastering-the-art-of-retrieving-deleted-iphone-contact-details-easily/"><u>No Backup? No Problem! Mastering the Art of Retrieving Deleted iPhone Contact Details Easily</u></a></li>
-<li><a href="https://some-skills.techidaily.com/pioneering-free-convertors-top-5-online-apps-for-gifs-to-videos-for-2024/"><u>Pioneering Free Convertors  Top 5 Online Apps for GIFs to Videos for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/reverting-your-pc-with-system-restore-step-by-step/"><u>Reverting Your PC with System Restore: Step-by-Step</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-tutorial-how-to-eliminate-crash-dump-files-in-windows-11/"><u>Step-by-Step Tutorial: How to Eliminate Crash Dump Files in Windows 11</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-cinematic-revolution-exploring-the-best-shots-and-lighting-tips-24-edition-for-2024/"><u>The Cinematic Revolution  Exploring the Best Shots & Lighting Tips - '24 Edition for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-finest-picks-top-8-web-sites-with-rich-3d-and-gold-lined-texts-for-2024/"><u>The Finest Picks  Top 8 Web Sites with Rich 3D & Gold-Lined Texts for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-handheld-tech-to-eliminate-shaky-screenshot-videos-for-2024/"><u>Top Handheld Tech to Eliminate Shaky Screenshot Videos for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transitioning-from-rgb-to-srgb-for-2024/"><u>Transitioning From Rgb to Srgb for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unleash-humor-kapwings-meme-crafting-app-for-2024/"><u>Unleash Humor  Kapwing's Meme Crafting App for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-magix-vpx-a-comprehensive-analysis-for-2024/"><u>Unveiling Magix VPX  A Comprehensive Analysis for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-the-metaverse-and-multimetase-core-disparities-explored-for-2024/"><u>Unveiling the Metaverse & MultiMetase  Core Disparities Explored for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unzipping-subtitles-turning-zip-archives-into-srt-files-for-2024/"><u>Unzipping Subtitles  Turning Zip Archives Into .SRT Files for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-how-to-make-a-valentines-day-video-for-the-person-you-love/"><u>Updated In 2024, How to Make a Valentines Day Video for the Person You Love?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-sustained-disconnection-technique-from-youtube-shorts/"><u>[New] 2024 Approved Sustained Disconnection Technique From YouTube Shorts</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-advanced-mac-recorder-with-superior-hd-and-sound-quality/"><u>[New] In 2024, Advanced Mac Recorder with Superior HD and Sound Quality</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-achieving-zen-in-meetings-how-to-disable-background-speech/"><u>[Updated] In 2024, Achieving Zen in Meetings How to Disable Background Speech</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-innovative-strategies-for-recording-in-audacity/"><u>2024 Approved Innovative Strategies for Recording in Audacity</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-drivers-for-canon-mf8500c-printers-compatible-with-windows-7-81-and-10/"><u>Download Drivers for Canon MF8500C Printers Compatible with Windows 7, 8.1 & 10</u></a></li>
+<li><a href="https://some-skills.techidaily.com/emerging-threat-hacker-exploits-in-the-latest-microsoft-office-software-packages/"><u>Emerging Threat: Hacker Exploits in the Latest Microsoft Office Software Packages</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ensuring-file-security-avoid-common-pitfalls-in-microsoft-onedrive/"><u>Ensuring File Security: Avoid Common Pitfalls in Microsoft OneDrive</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/how-does-conky-elevate-the-visual-appeal-of-your-linux-workspace/"><u>How Does Conky Elevate the Visual Appeal of Your Linux Workspace?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-motorola-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Motorola</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-metaverse-musings-top-30-quotes-for-immersive-living/"><u>In 2024, Metaverse Musings Top 30 Quotes for Immersive Living</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximize-your-potential-using-auto-gpt-discover-8-effective-techniques/"><u>Maximize Your Potential Using Auto-GPT: Discover 8 Effective Techniques</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Maximize Performance: Boost Computers with Under 8GB RAM Using Compact Local LLM Technologies"
-date: 2024-09-07T22:19:52.906Z
-updated: 2024-09-08T22:19:52.906Z
+date: 2024-09-11T03:36:55.644Z
+updated: 2024-09-13T07:18:12.002Z
 tags:
   - cutting-edge
 categories:
@@ -9,32 +9,34 @@ categories:
 thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5dbda3843a3191dbeadf76d9d.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Maximize Performance: Boost Computers with Under 8GB RAM Using Compact Local LLM Technologies
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Using local LLM-powered chatbots strengthens data privacy, increases chatbot availability, and helps minimize the cost of monthly online AI subscriptions.
 * Local LLM-powered chatbots DistilBERT, ALBERT, GPT-2 124M, and GPT-Neo 125M can work well on PCs with 4 to 8GBs of RAM.
 
  Local AI chatbots, powered by large language models (LLMs), work only on your computer after correctly downloading and setting them up. They usually need a lot of computer memory (RAM) to work well. However, a few great models can perform on computers with as little as 4GB of RAM.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Why Use Local LLM Chatbots?
 
@@ -65,21 +67,16 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 ![DistilBERT Homepage-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/distilbert-homepage-1.PNG) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 [ALBERT](https://huggingface.co/docs/transformers/model%5Fdoc/albert)is designed differently than DistilBERT, as it works by sharing parts of the model in a way that helps it process data quickly without using much memory.
 
 ![Hugging Face ALBERT Homepage](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/hugging-face-albert-homepage.PNG) 
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  I highly recommend starting as a beginner with DistilBERT and ALBERT, even if you have a high-memory PC. Beginning with these two models allowed me to learn the basics without being overwhelmed by the complexity of larger models.
 
  If you feel ambitious or have a machine with 8GBs or more, you could leapfrog the BERTs and work with OpenAI's GPT-2 models. Which are like the Swiss Army knives of the local AI world. GPT-2 models come in different sizes, some more suited for low-RAM PCs than others.
@@ -89,11 +86,12 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 ![GPT-2 124 model repository homepage](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/gpt-2-model-homepage.PNG) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  My favorite lightweight LLM by far is the [GPT-Neo 125M](https://huggingface.co/EleutherAI/gpt-neo-125m) because of its adjustable customization options. It was developed by the respected developers at EleutherAI and is like the open-source cousin of GPT-2.
 
  The Neo 125M is designed to balance performance and resource requirements. This model’s performance is on par with GPT-2, but it's adjusted to use memory more efficiently. It’s powerful enough for many tasks yet light enough to run on only 8GBs, although it struggles with anything less than that.
@@ -101,11 +99,25 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 ![GPT-Neo 125 Model Repository](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/gpt-neo-125-source-code.PNG) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Get Started with Local LLM Chatbots
 
  Running your own chatbot is easier than you think. First, you need to know what your computer can do. [Check how much memory (RAM) you have](https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-oppo-a1x-5g-by-drfone-android/) and how fast your computer is. Using the information provided above, make sure your computer's system can work with the chatbot you want.
@@ -128,8 +140,6 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,39 +149,20 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-top-places-to-find-background-music-for-videos/"><u>[New] Top Places to Find Background Music for Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transition-smoothly-with-chromes-picture-in-picture/"><u>[New] Transition Smoothly with Chrome’s Picture In Picture</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-twitch-reversion-made-simple-top-ten-instructions-at-hand/"><u>[New] Twitch Reversion Made Simple  Top Ten Instructions at Hand</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-which-live-stream-software-wins-exploring-obs-vs-streamlabs-for-2024/"><u>[New] Which Live Stream Software Wins? Exploring OBS Vs. Streamlabs for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-beyond-whats-visible-insights-into-instagram-story-consumers/"><u>[Updated] 2024 Approved  Beyond What's Visible  Insights Into Instagram Story Consumers</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-essential-tips-for-producing-engaging-educational-content-for-youtube/"><u>[Updated] 2024 Approved  Essential Tips for Producing Engaging Educational Content for YouTube</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-strategic-interaction-for-sustainable-subscriber-acquisition/"><u>[Updated] In 2024, Strategic Interaction for Sustainable Subscriber Acquisition</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-restore-shadows-in-iphone-hdr-footage-using-premiere-pro-techniques/"><u>[Updated] Restore Shadows in iPhone HDR Footage Using Premiere Pro Techniques</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-top-5-alternatives-to-bandicam-for-pro-mac-users-for-2024/"><u>[Updated] Top 5 Alternatives to Bandicam for Pro Mac Users for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unleash-the-artistry-of-impressive-gopro-timelapse-videos/"><u>[Updated] Unleash the Artistry of Impressive GoPro Timelapse Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-strategic-approaches-to-metaverse-promotion/"><u>2024 Approved  Strategic Approaches to Metaverse Promotion</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-the-age-update-process-on-tiktok/"><u>2024 Approved  Streamline the Age Update Process on TikTok</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-supreme-writing-talents-through-genre-lenses/"><u>2024 Approved  Supreme Writing Talents Through Genre Lenses</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-soft-ending-sounds-in-premiere-pro/"><u>2024 Approved  The Art of Soft-Ending Sounds in Premiere Pro</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-complete-guide-to-selecting-high-performance-fpv-drone-propellers/"><u>2024 Approved  The Complete Guide to Selecting High-Performance FPV Drone Propellers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-essence-of-the-apple-m1-a-technological-marvel/"><u>2024 Approved  The Essence of the Apple M1  A Technological Marvel</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-professional-livestreamers-vmix-or-wirecast/"><u>2024 Approved  The Ultimate Guide to Professional Livestreamers  VMix or Wirecast?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-list-top-10-subtitle-editors-web/"><u>2024 Approved  Ultimate List  Top 10 Subtitle Editors Web</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/excellent-choice-7-premium-videos-on-mac-for-2024/"><u>Excellent Choice  7 Premium Videos on Mac for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-motorola-moto-g-5g-2023-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Motorola Moto G 5G (2023) to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-vivo-y100i-power-5g-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Vivo Y100i Power 5G</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streaming-giants-clash-a-detailed-twitchyoutube-analysis/"><u>In 2024, Streaming Giants Clash  A Detailed Twitch/YouTube Analysis</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-supreme-five-optimal-dvd-software-for-sierra-os/"><u>In 2024, Supreme Five  Optimal Dvd Software for Sierra OS</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-the-ultimate-snapshot-experience-mastering-snapchat-filters/"><u>In 2024, The Ultimate Snapshot Experience  Mastering Snapchat Filters</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-14-engaging-text-movies-for-creative-experimentation/"><u>In 2024, Top 14 Engaging Text Movies for Creative Experimentation</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-android-photo-tech-tips-and-apps-guide/"><u>In 2024, Top Android Photo-Tech Tips & Apps Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-selection-economical-hd-action-recordings/"><u>In 2024, Ultimate Selection  Economical HD Action Recordings</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-the-potential-comprehensive-analysis-of-dji-phantom-4/"><u>In 2024, Unlocking the Potential  Comprehensive Analysis of DJI Phantom 4</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-beginners-pathway-to-custom-vocalization-expert-tips-on-modifying-sounds-free-for-2024/"><u>The Beginner's Pathway to Custom Vocalization  Expert Tips on Modifying Sounds (Free) for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-ultimate-iphone-manual-for-capturing-and-adjusting-pace-in-motion/"><u>The Ultimate iPhone Manual for Capturing and Adjusting Pace in Motion</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-verdict-on-android-photo-editing-does-picku-excel-for-2024/"><u>The Verdict on Android Photo Editing – Does PickU Excel for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-5-budget-friendly-camcorders-with-hd-quality-for-2024/"><u>Top 5 Budget-Friendly Camcorders with HD Quality for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transforming-live-photos-into-time-lapse-videos-for-2024/"><u>Transforming Live Photos Into Time-Lapse Videos for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-platforms-for-animated-3d-creation-for-2024/"><u>Ultimate Platforms for Animated 3D Creation for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-selection-of-budget-friendly-4k-projector-brands-for-2024/"><u>Ultimate Selection of Budget-Friendly 4K Projector Brands for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-leading-7-video-streaming-apps-to-enhance-your-youtube-mobile-experience/"><u>[New] 2024 Approved Leading 7 Video Streaming Apps to Enhance Your YouTube Mobile Experience</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-step-by-step-guide-establishing-your-first-youtube-profile/"><u>[New] 2024 Approved Step-by-Step Guide Establishing Your First YouTube Profile</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-macs-top-mp4-cutters-for-youtube-success/"><u>[Updated] 2024 Approved Mac's Top MP4 Cutters for YouTube Success</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-instant-video-post-how-to-turn-mp3s-into-youtube-playables/"><u>[Updated] Instant Video Post How to Turn MP3s Into YouTube Playables</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-playtime-registration-and-logout-tutorials/"><u>[Updated] Playtime Registration & Logout Tutorials</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-stability-problems-with-sony-vegas-no-more-crashes-guaranteed/"><u>Fixing Stability Problems with Sony Vegas - No More Crashes Guaranteed!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-spectrum-mastery-in-depth-color-techniques/"><u>In 2024, Spectrum Mastery In-Depth Color Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/inside-teslas-enhanced-performance-feature-decoding-the-intricacies-of-track-mode/"><u>Inside Tesla's Enhanced Performance Feature - Decoding the Intricacies of Track Mode</u></a></li>
+<li><a href="https://some-skills.techidaily.com/revolutionary-3d-ink-requires-just-saltwater-no-light-or-heat-needed/"><u>Revolutionary 3D Ink Requires Just Saltwater: No Light or Heat Needed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/revolutionizing-search-discover-how-chatgpt-is-transforming-with-duckduckgo/"><u>Revolutionizing Search: Discover How ChatGPT Is Transforming with DuckDuckGo</u></a></li>
+<li><a href="https://some-skills.techidaily.com/step-by-step-tutorial-installing-and-running-chatgpt-in-windows-environment/"><u>Step-by-Step Tutorial: Installing and Running ChatGPT in Windows Environment</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-basics-of-dexs-how-decentralized-exchange-systems-work-in-the-crypto-world/"><u>The Basics of DEXs: How Decentralized Exchange Systems Work in the Crypto World</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-future-of-wearable-tech-what-are-smart-rings-heading-towards/"><u>The Future of Wearable Tech: What Are Smart Rings Heading Towards?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-influence-of-winter-conditions-on-electric-car-battery-durability-what-to-expect/"><u>The Influence of Winter Conditions on Electric Car Battery Durability: What to Expect?</u></a></li>
 </ul></div>
+
