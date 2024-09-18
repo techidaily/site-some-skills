@@ -1,7 +1,7 @@
 ---
 title: How Does Inside-Out Positional Tracking Work in Virtual Reality Environments?
-date: 2024-09-12T01:56:33.878Z
-updated: 2024-09-12T16:03:12.905Z
+date: 2024-09-12T09:01:08.361Z
+updated: 2024-09-18T04:28:04.850Z
 tags:
   - cutting-edge
 categories:
@@ -10,13 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 ---
 
 ## How Does Inside-Out Positional Tracking Work in Virtual Reality Environments?
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -27,23 +20,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
  For virtual reality to work, the position of the headset in 3D space is crucial information. Inside-out VR tracking uses onboard cameras and machine learning to perform this measurement, and it's quickly becoming the gold standard for VR head tracking.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Conventional Positional Tracking
 
 ![An original Oculus Rift headset with the touch controllers and tracking sensors.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/shutterstock_1472152544.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Alberto Garcia Guillen/Shutterstock.com](https://www.shutterstock.com/image-photo/oculus-rift-cv1-virtual-reality-goggles-1472152544)
 
@@ -54,13 +33,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
  The original Rift's solution was to use an external tracking camera. The camera sees in the infrared spectrum and on the surface of the headset is an array of infrared lights. The camera tracks these lights and, since it knows their exact scale and pattern, can figure out exactly where the headset is relative to the camera itself.
 
  Combined, all of this sensor data offers accurate positioning anywhere within 3D space, at least insofar as the external tracker can see the headset. Later, products such as the [HTC Vive](https://facebook-video-footage.techidaily.com/new-audio-perfection-achieved-expert-tips-without-a-microphone-for-2024/) would introduce laser-based room-scale trackers. These were mounted on the walls of a room and allowed headset positions to be tracked anywhere within their range.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Inside-Out Tracking
 
@@ -78,6 +50,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
  Inside-out tracking can also offer a form of "[mixed reality](https://tech-recovery.techidaily.com/unleash-inspiration-the-507-most-captivating-instagram-captions/)." That is, where real-world and virtual objects are blended together as one experience. The onboard headset cameras can do things like let you see your real-world keyboard when using an app like [Virtual Desktop](https://www.oculus.com/experiences/quest/2017050365004772/) or bring your real-world chair into the virtual space to make it easy to sit down or get up.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Advantages of Inside-Out Tracking
 
  Inside-out tracking is quickly becoming the norm for VR headsets and it's not hard to see why. This approach has numerous benefits, but the most prominent one is elegance and simplicity.
@@ -92,19 +71,6 @@ Related: [How to Play PC VR Games on an Oculus Quest 2](https://twitter-videos.t
 
 ![31NLGzA5upL._SL500_-33](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/31nlgza5upl-_sl500_-33.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Best Overall VR Headset
 
 #####  Oculus Quest 2
@@ -114,10 +80,10 @@ The Oculus Quest 2 is our favorite VR headset given its ease of setup and inexpe
 [$289 at Amazon](https://www.amazon.com/Oculus-Quest-Advanced-All-One-Carrying/dp/B099VMT8VZ) [See at Bestbuy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmeta__quest_2_advanc%2F6473553.p%3FskuId%3D6473553%2522target%253D%2522_blank) [See at Target](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fdisneyplus.bn5x.net%2Fc%2F156932%2F564546%2F9358%3FsubId1%3DUUhtgUeUpU208569%26subId2%3Dehtg%26u%3Dhttps%253A%252F%252Fwww.target.com%252Fp%252Fmeta%255Fquest%255F2%255Fadvance%252F-%252FA-83984421%2522target%253D%2522%255Fblank) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The Downside of Inside-Out Tracking
@@ -141,21 +107,15 @@ The Oculus Quest 2 is our favorite VR headset given its ease of setup and inexpe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-perfecting-content-aesthetics-crafting-personalized-thumbnails/"><u>[New] Perfecting Content Aesthetics Crafting Personalized Thumbnails</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-masterclass-in-youtube-video-previews-and-trailers/"><u>[Updated] 2024 Approved Masterclass in YouTube Video Previews and Trailers</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-enjoy-uninterrupted-youtube-with-effective-adblocking-methods-for-2024/"><u>[Updated] Enjoy Uninterrupted YouTube with Effective Adblocking Methods for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-setting-up-your-tiktok-broadcast-on-a-desktop/"><u>[Updated] In 2024, Setting Up Your TikTok Broadcast on a Desktop</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-unleashing-potential-advanced-xbox-live-captures/"><u>2024 Approved Unleashing Potential Advanced Xbox Live Captures</u></a></li>
-<li><a href="https://some-skills.techidaily.com/avoidance-of-stage-manager-5-compelling-justifications-for-non-use-on-apples-ipad-and-macbook-platforms/"><u>Avoidance of Stage Manager: 5 Compelling Justifications for Non-Use on Apple's iPad and MacBook Platforms</u></a></li>
-<li><a href="https://some-skills.techidaily.com/boosting-linux-protection-6-essential-strategies-for-secure-computing/"><u>Boosting Linux Protection: 6 Essential Strategies for Secure Computing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/can-apples-gaming-performance-on-macs-match-pc-rivals-and-win-over-gamers/"><u>Can Apple's Gaming Performance on Macs Match PC Rivals and Win Over Gamers?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/compatibility-issues-with-windows-11-built-in-software-emerging-in-certain-computers/"><u>Compatibility Issues with Windows 11 Built-In Software Emerging in Certain Computers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/comprehensive-guide-to-setting-up-full-screen-color-selection-tools-in-windows-10/"><u>Comprehensive Guide to Setting Up Full-Screen Color Selection Tools in Windows 10</u></a></li>
-<li><a href="https://some-skills.techidaily.com/comprehensive-guide-easily-setting-up-and-controlling-fonts-on-macos/"><u>Comprehensive Guide: Easily Setting Up & Controlling Fonts on macOS</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/connect-worldwide-mondlys-enhanced-multicultural-phrasebook/"><u>Connect Worldwide: Mondly's Enhanced Multicultural Phrasebook</u></a></li>
-<li><a href="https://some-skills.techidaily.com/creating-an-impressive-windows-desktop-mastering-rainmeter-customization-techniques/"><u>Creating an Impressive Windows Desktop: Mastering Rainmeter Customization Techniques</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-crashing-problems-in-nba-k23-for-pc-learn-our-best-solutions/"><u>Overcome Crashing Problems in NBA ^K23 for PC – Learn Our Best Solutions!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/why-weekly-windows-file-backups-matter/"><u>Why Weekly Windows File Backups Matter</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-boosting-channels-growth-strategies-for-effective-trailers-for-2024/"><u>[Updated] Boosting Channels' Growth Strategies for Effective Trailers for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-chatgpt-create-a-breakthrough-in-health-tech/"><u>Can ChatGPT Create a Breakthrough in Health Tech?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-unparalleled-performance-in-depth-review-of-hyte-thicc-q60-quietest-and-strongest-240mm-aio-cooler/"><u>Discover Unparalleled Performance: In-Depth Review of Hyte THICC Q60 Quietest & Strongest 240MM AIO Cooler</u></a></li>
+<li><a href="https://some-skills.techidaily.com/microsofts-legacy-operating-systems-drop-no-more-windows-7-or-8-from-epic-games/"><u>Microsoft's Legacy Operating Systems Drop: No More Windows 7 or 8 From Epic Games</u></a></li>
+<li><a href="https://some-skills.techidaily.com/organize-and-revamp-your-mp3-collection-with-mp3tag-version-327/"><u>Organize and Revamp Your MP3 Collection with Mp3tag Version 3.27</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/overcome-chatbot-confusions-learn-these-6-techniques-for-accurate-ai-interpretations-through-skillful-prompt-design/"><u>Overcome Chatbot Confusions - Learn These 6 Techniques for Accurate AI Interpretations Through Skillful Prompt Design</u></a></li>
+<li><a href="https://some-skills.techidaily.com/qualcomm-unveils-groundbreaking-arm-powered-windows-desktop-computing/"><u>Qualcomm Unveils Groundbreaking ARM-Powered Windows Desktop Computing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/resolving-javascript-bugs-a-step-by-step-guide-for-discord-users/"><u>Resolving JavaScript Bugs: A Step-by-Step Guide for Discord Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-x3daudiodll-file-not-detected-issue-a-step-by-step-guide/"><u>Solving the x3daudio.dll File Not Detected Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/top-3-premium-phones-excelling-in-quality-video-capture-for-2024/"><u>Top 3 Premium Phones Excelling in Quality Video Capture for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Top 4 Thrilling Upcoming Space Missions: Live Streams Available Now!"
-date: 2024-09-07T22:19:53.609Z
-updated: 2024-09-08T22:19:53.609Z
+date: 2024-09-14T18:23:24.594Z
+updated: 2024-09-18T06:55:07.153Z
 tags:
   - cutting-edge
 categories:
@@ -21,24 +21,12 @@ thumbnail: https://thmb.techidaily.com/ebac8749de86200184a77a3fa2bb901785d67bf12
 
  Even though humans have been pushing satellites and other people into space for over 50 years now, space travel isn't any less exciting. Here are a few upcoming launches you should watch, and why they matter.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Artemis 1: November 16, 2022
 
  Artemis 1 might be the most important mission for NASA in at least the past decade. It's the first full test of the Space Launch System, a massive multi-stage rocket intended to serve the same purpose as the [Saturn V](https://en.wikipedia.org/wiki/Saturn%5FV) from the 1960s -- sending humans to the Moon. Modified versions could be used to send heavy cargo into space (like parts for new space stations) or to take humans to Mars and beyond.
 
 ![Orion capsule passing the Moon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/orion_-_pic_0.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 _[NASA](https://www.nasa.gov/feature/goddard/2022/volunteers-worldwide-to-track-lunar-journey-of-nasas-artemis-i-mission)_
 
  This initial mission is uncrewed (no people are in the ship), but the goal is to launch the empty Orion space capsule on a 280,000-mile trip to the Moon and back. If all goes well, Artemis II could take humans on the same trip. The current launch window opens on November 16, 2022 at 1:04 AM Eastern Time. Live coverage will be available on the [NASA app](https://www.nasa.gov/connect/apps.html), the [agency's website](https://www.nasa.gov/live), and the [NASA YouTube channel](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU203665/https://www.youtube.com/c/NASA).
@@ -57,12 +45,6 @@ _[NASA](https://blogs.nasa.gov/spacex-crs-26/2022/11/03/nasa-invites-media-to-sp
 
  The current launch is targeted for November 18, and will take place at Launch Complex 39A at NASA's Kennedy Space Center in Florida. SpaceX will likely show a livestream on [its YouTube channel](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU203665/https://www.youtube.com/c/SpaceX), and the launch may also appear on the [NASA app](https://www.nasa.gov/connect/apps.html), the [agency's website](https://www.nasa.gov/live), and the [NASA YouTube channel](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU203665/https://www.youtube.com/c/NASA).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Intuitive Machines Moon Payload: December 22, 2022
 
  Another part of NASA's plan for Moon missions is Commercial Lunar Payload Services, or CLPS for short. The program aims to have private companies (like SpaceX) launch cargo to the moon and/or conduct science missions on behalf of NASA.
@@ -71,12 +53,6 @@ _[NASA](https://blogs.nasa.gov/spacex-crs-26/2022/11/03/nasa-invites-media-to-sp
 
 ![Render image of the Intuitive Machines Nova-C lander](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/im-3_moonscape_logo-Large.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Render image of the Intuitive Machines Nova-C lander
 
  The launch is currently scheduled for December 22, 2022, using a SpaceX Falcon 9 rocket. Because SpaceX is handling the launch, there will likely be a livestream on [SpaceX's YouTube channel](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU203665/https://www.youtube.com/c/SpaceX), or possibly a stream on the [NASA YouTube channel](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU203665/https://www.youtube.com/c/NASA).
@@ -88,11 +64,12 @@ Render image of the Intuitive Machines Nova-C lander
 ![Photo of Barry “Butch” Wilmore and Sunita “Suni” Williams in front of a plane](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/Boeing-for-CCP-blog-768x512.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 _[NASA / Robert Markowitz](https://blogs.nasa.gov/commercialcrew/category/boeing/)_
 
  The first Boeing Crew Flight Test (CFT) is [scheduled for sometime in April 2023](https://blogs.nasa.gov/commercialcrew/category/boeing/), launched with an Atlas V rocket. NASA has selected [Barry Eugene Wilmore](https://en.wikipedia.org/wiki/Barry%5FEugene%5FWilmore) and [Sunita Williams](https://en.wikipedia.org/wiki/Sunita%5FWilliams) as the crew, both of whom previously flew on Space Shuttle missions, with [Michael Fincke](https://en.wikipedia.org/wiki/Michael%5FFincke) as a backup. If all goes well, Starliner will fly to the International Space Station, then return to Earth in the same ship after a week.
@@ -104,11 +81,12 @@ Related: [The James Webb Telescope Just Captured the "Pillars of Creation"](http
  April 2023 is a while away, but the launch will probably be broadcasted on the [NASA app](https://www.nasa.gov/connect/apps.html), the [agency's website](https://www.nasa.gov/live), and the [NASA YouTube channel](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU203665/https://www.youtube.com/c/NASA).
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  CAPSTONE: Entering Orbit November 13, 2022
 
  Cislunar Autonomous Positioning System Technology Operations and Navigation Experiment, or CAPSTONE for short, is a small satellite about the size of a microwave oven. The rocket launch was back on July 4, 2022, so there's no exciting upcoming livestream for this one -- this is more of an honorary mention, since the satellite hasn't reached its target yet.
@@ -127,8 +105,6 @@ Related: [The James Webb Telescope Just Captured the "Pillars of Creation"](http
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,51 +114,16 @@ Related: [The James Webb Telescope Just Captured the "Pillars of Creation"](http
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-transforming-viewing-habits-with-fb-live-on-roku/"><u>[New] 2024 Approved  Transforming Viewing Habits with FB Live on Roku</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-the-ultimate-editor-showdown-for-superior-reels-for-2024/"><u>[New] The Ultimate Editor Showdown for Superior Reels for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transform-your-visual-storytelling-with-clear-backdrops-in-figma/"><u>[New] Transform Your Visual Storytelling with Clear Backdrops in Figma</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-brain-challenge-top-trivia-networks-for-24/"><u>[New] Ultimate Brain Challenge - Top Trivia Networks for '24</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-video-editing-on-windows-11-for-professionals/"><u>[New] Unlocking Video Editing on Windows 11 for Professionals</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-unlocking-viral-potential-in-digital-content-creation/"><u>[New] Unlocking Viral Potential in Digital Content Creation</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unveiling-the-best-vr-applications-for-phones/"><u>[New] Unveiling the Best VR Applications for Phones</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-360-aerial-panoramas-with-yuneec-breeze-drone-review/"><u>[Updated] 360 Aerial Panoramas with Yuneec Breeze Drone Review</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-boosting-youtube-rankings-with-top-seo-practices-1-11-for-2024/"><u>[Updated] Boosting YouTube Rankings with Top SEO Practices (1-11) for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-download-mastery-11-key-youtube-extractors-for-2024/"><u>[Updated] Download Mastery  11 Key YouTube Extractors for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-eliminated-invisible-youtube-micro-videos-for-2024/"><u>[Updated] Eliminated  Invisible YouTube Micro Videos for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-from-flat-to-framed-achieving-realistic-text-effects-in-photoshop/"><u>[Updated] From Flat to Framed  Achieving Realistic Text Effects in Photoshop</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-understanding-the-advantages-manycams-multicam-recordings/"><u>[Updated] In 2024, Understanding the Advantages  ManyCam's MultiCam Recordings</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-incorporating-instagrams-cutting-edge-filters/"><u>[Updated] Incorporating Instagram's Cutting Edge Filters</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-complete-checklist-for-internet-broadcast-preservation/"><u>[Updated] The Complete Checklist for Internet Broadcast Preservation</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-memorable-anime-opens/"><u>[Updated] The Ultimate Guide to Memorable Anime Opens</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-selection-showcase-the-premier-15-unboxing-channel-sites-2024-edition/"><u>[Updated] Ultimate Selection Showcase  The Premier 15 Unboxing Channel Sites, 2024 Edition</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-beginners-bonanza-affordable-profitable-channel-options/"><u>2024 Approved  Beginner's Bonanza  Affordable, Profitable Channel Options</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-swift-shutter-speed-iphone-tricks-for-blur-magic/"><u>2024 Approved  Swift Shutter Speed  IPhone Tricks for Blur Magic</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-definitive-vivacut-video-editing-manual-for-24/"><u>2024 Approved  The Definitive VivaCut Video Editing Manual for '24</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-role-of-authenticity-in-client-generated-marketing/"><u>2024 Approved  The Role of Authenticity in Client-Generated Marketing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transformative-image-processing-auto-smart-hdr-3-and-4-insights/"><u>2024 Approved  Transformative Image Processing  Auto, Smart HDR 3 & 4 Insights</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-unseen-marvels-of-vr-elite-headset-comparisons/"><u>2024 Approved  Unseen Marvels of VR  Elite Headset Comparisons</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-mp4-play-on-samsung-galaxy-s24-ultra-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Does MP4 play on Samsung Galaxy S24 Ultra?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/efficient-techniques-for-app-management-and-removal-on-samsung-smart-tvs/"><u>Efficient Techniques for App Management & Removal on Samsung Smart TVs</u></a></li>
-<li><a href="https://driver-install.techidaily.com/hardware-drivers-manual-update-techniques-for-vista-users/"><u>Hardware Drivers: Manual Update Techniques for Vista Users</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/how-does-the-fitbit-charge-6-stack-up-detailed-comparison-and-review/"><u>How Does the Fitbit Charge 6 Stack Up? Detailed Comparison and Review</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-10-visionary-beauty-experts-leading-online-trends/"><u>In 2024, 10 Visionary Beauty Experts Leading Online Trends</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Samsung Galaxy Z Fold 5? | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-revitalize-your-virtual-team-sessions-with-google-hangouts/"><u>In 2024, Revitalize Your Virtual Team Sessions with Google Hangouts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streamlined-techniques-for-transforming-vids-on-pinterest-to-mp3s/"><u>In 2024, Streamlined Techniques for Transforming Vids on Pinterest to MP3s</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-art-of-changing-igtv-video-covers/"><u>In 2024, The Art of Changing IGTV Video Covers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-elevation-of-professional-display-an-in-depth-examination-of-the-bl2711u/"><u>In 2024, The Elevation of Professional Display  An In-Depth Examination of the BL2711U</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-toolwiz-photo-experience-analyzed-2023/"><u>In 2024, The Ultimate Toolwiz Photo Experience, Analyzed 2023</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlock-the-secrets-to-stunning-and-shareable-tiktok-videos/"><u>In 2024, Unlock the Secrets to Stunning and Shareable TikTok Videos</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-xiaomi-redmi-note-13-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Xiaomi Redmi Note 13 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-the-potential-with-samsungs-latest-photo-editor/"><u>In 2024, Unlocking the Potential with Samsung's Latest Photo Editor</u></a></li>
-<li><a href="https://some-skills.techidaily.com/taking-the-leap-secrets-for-free-fcp-acquisition-for-2024/"><u>Taking the Leap  Secrets for Free FCP Acquisition for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-secrets-behind-top-performers-in-online-forums-like-reddit-for-2024/"><u>The Secrets Behind Top Performers in Online Forums Like Reddit for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-updated-review-sonys-blu-ray-and-hd-masterpiece-for-2024/"><u>The Updated Review  Sony's Blu-Ray and HD Masterpiece for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-10-creative-overlays-for-video-content-for-2024/"><u>Top 10 Creative Overlays for Video Content for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transformative-notetaking-the-mematic-way-for-2024/"><u>Transformative Notetaking  The Mematic Way for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transforming-views-into-brand-loyalty-for-2024/"><u>Transforming Views Into Brand Loyalty for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-visual-storytelling-with-ar-and-luts-for-2024/"><u>Unlocking Visual Storytelling with AR & LUTs for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unravel-costs-liberating-your-vob-experience-pcmac-for-2024/"><u>Unravel Costs  Liberating Your VOB Experience (PC/Mac) for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/unveiling-hidden-techniques-for-clear-ppt-transcriptions-for-2024/"><u>Unveiling Hidden Techniques for Clear PPT Transcriptions for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-the-secrets-of-iphone-podcast-integration-for-2024/"><u>Unveiling the Secrets of iPhone Podcast Integration for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-spice-up-your-storytelling-the-secrets-behind-looped-videos-in-instagram/"><u>[New] 2024 Approved Spice Up Your Storytelling The Secrets Behind Looped Videos in Instagram</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-the-future-of-game-monitoring-advanced-alternatives-to-fbx/"><u>[New] 2024 Approved The Future of Game Monitoring Advanced Alternatives to FBX</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-virtual-worlds-unleashed-predicted-best-psvr-gaming-experiences/"><u>[New] In 2024, Virtual Worlds Unleashed Predicted Best PSVR Gaming Experiences</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ushering-bliss-in-unboxing-7-strategies/"><u>2024 Approved Ushering Bliss in Unboxing 7 Strategies</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/formato-de-archivo-libre-conversion-wav-a-ogg-sin-coste/"><u>Formato De Archivo Libre Conversión WAV a OGG Sin Coste</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-11-best-pokemon-go-spoofers-for-gps-spoofing-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, 11 Best Pokemon Go Spoofers for GPS Spoofing on Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-oneplus-nord-ce-3-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP on OnePlus Nord CE 3 5G?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/is-your-macs-ram-consumption-too-much-heres-why-that-shouldnt-concern-you/"><u>Is Your Mac's RAM Consumption Too Much? Here's Why That Shouldn't Concern You</u></a></li>
+<li><a href="https://some-skills.techidaily.com/kickstart-your-workday-effortlessly-with-a-handy-mac-shortcut/"><u>Kickstart Your Workday Effortlessly with a Handy Mac Shortcut!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/mastering-printer-configuration-and-control-in-windows-11-a-comprehensive-how-to/"><u>Mastering Printer Configuration & Control in Windows 11 – A Comprehensive How-To</u></a></li>
+<li><a href="https://some-skills.techidaily.com/mastering-the-history-function-in-linux-a-step-by-step-guide/"><u>Mastering the 'History' Function in Linux: A Step-by-Step Guide</u></a></li>
 </ul></div>
+

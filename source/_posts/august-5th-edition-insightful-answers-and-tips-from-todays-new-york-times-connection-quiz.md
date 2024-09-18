@@ -1,7 +1,7 @@
 ---
 title: "August 5Th Edition: Insightful Answers & Tips From Today's New York Times Connection Quiz"
-date: 2024-09-12T10:55:33.423Z
-updated: 2024-09-12T21:40:16.872Z
+date: 2024-09-17T02:20:57.703Z
+updated: 2024-09-18T03:36:29.717Z
 tags:
   - web
 categories:
@@ -10,19 +10,6 @@ thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac35624
 ---
 
 ## August 5Th Edition: Insightful Answers & Tips From Today's New York Times Connection Quiz
-
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -34,31 +21,11 @@ thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac35624
 
  Connections is a game from the New York Times that challenges you to find the association between words. It sounds easy, but it isn't—Connections categories can be almost anything, and they're usually quite specific. If you need a hand getting the answers, we've got you covered.
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  What Is Connections?
 
  Connections is a game from the New York Times. The objective is simple: sort 16 words into groups of 4\. Each group of words will be connected by some common idea or theme. That common element could be anything. We have seen everything from games that rely on the number of letters in the words to categories that require you to spot an extra letter at the end of the word. Sometimes they're references to economics, other times they reference fairy tales. There is no telling what sort of association there will be between words.
 
  Once you're confident you understand the connection, select 4 words, then hit "Submit." You have only four attempts in total, so don't be too guess-happy.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Hints for Today's Connections Groups
 
@@ -71,19 +38,6 @@ thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac35624
 
 ![The unsorted words for August 5 Connections game](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-unsorted-words-for-august-5-connections-game.png) 
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you still need help, the actual group names are:
 
 * **Yellow:** Survive
@@ -92,10 +46,16 @@ thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac35624
 * **Purple:** Words After "Eye"
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Today's NYT Connections Answers
@@ -131,10 +91,10 @@ thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac35624
  That left candy, contact, shadow, and witness in Purple. I started going through the usual methods to solve it—guessing missing words or letters—and eventually settled on "eye." Each word in the Purple group can follow the word "eye" to refer to something distinct. As you might imagine, the Purple group was "Words after Eye." 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How Do You Guess Connections Groups?
@@ -165,21 +125,18 @@ thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac35624
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-effortless-screen-capturing-with-your-iphone-7/"><u>[New] 2024 Approved Effortless Screen Capturing with Your iPhone 7</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-video-to-animation-easy-youtube-gif-creation-tips-for-2024/"><u>[New] From Video to Animation Easy YouTube GIF Creation Tips for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-closer-look-techniques-for-minecraft-exploration/"><u>[Updated] Closer Look Techniques for Minecraft Exploration</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-essential-ingredients-for-triumphant-tiktok-marketing-plans/"><u>[Updated] In 2024, Essential Ingredients for Triumphant TikTok Marketing Plans</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-the-complete-checklist-for-pureaudioextract-2024-usage/"><u>[Updated] The Complete Checklist for PureAudioExtract 2024 Usage</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-decoding-the-art-of-time-lapses-a-comprehensible-guide-with-gopro/"><u>2024 Approved Decoding the Art of Time Lapses A Comprehensible Guide with GoPro</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723006753729-6-fixes-for-escape-from-tarkov-low-fps-pro-guide/"><u>6 Fixes for Escape From Tarkov Low FPS – Pro Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/boost-your-icloud-photostream-capacity-without-spending-a-penny-tips-and-tricks/"><u>Boost Your iCloud Photostream Capacity Without Spending a Penny: Tips and Tricks</u></a></li>
-<li><a href="https://some-skills.techidaily.com/maximize-your-musical-potential-with-udio-the-top-choice-in-artificamatic-intelligence-right-now-learn-how-to-get-started/"><u>Maximize Your Musical Potential with Udio – The Top Choice in Artificamatic Intelligence Right Now, Learn How to Get Started.</u></a></li>
-<li><a href="https://some-skills.techidaily.com/maximizing-your-prime-day-success-utilizing-rufus-the-cutting-edge-amazon-ai-shopping-chatbot/"><u>Maximizing Your Prime Day Success: Utilizing Rufus, the Cutting-Edge Amazon AI Shopping Chatbot</u></a></li>
-<li><a href="https://some-skills.techidaily.com/meta-questplus-revolutionizes-vr-entertainment-serving-as-a-one-stop-game-pass-solution/"><u>Meta Quest+ Revolutionizes VR Entertainment, Serving as a One-Stop Game Pass Solution!</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-us-policies-promote-rapid-electrification-of-cars-with-revised-emissions-standards/"><u>New U.S. Policies Promote Rapid Electrification of Cars with Revised Emissions Standards</u></a></li>
-<li><a href="https://some-skills.techidaily.com/next-generation-phones-with-ai-assistants-powered-by-onboard-tech-not-the-cloud/"><u>Next Generation Phones with AI Assistants Powered by Onboard Tech, Not the Cloud</u></a></li>
-<li><a href="https://some-skills.techidaily.com/preventative-tips-for-a-smooth-electric-vehicle-charging-experience/"><u>Preventative Tips for a Smooth Electric Vehicle Charging Experience</u></a></li>
-<li><a href="https://some-skills.techidaily.com/rectified-previously-encountered-errors-while-generating-replies-on-chatgpt-no-longer-apply/"><u>Rectified: Previously Encountered Errors While Generating Replies on ChatGPT No Longer Apply</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/the-simple-steps-to-embed-youtube-playlists-on-any-website/"><u>The Simple Steps to Embed YouTube Playlists on Any Website</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-integrating-obs-for-youtube-and-twitch-streaming-for-2024/"><u>[New] Integrating OBS for YouTube & Twitch Streaming for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-combining-camera-and-display-in-one-go/"><u>[Updated] Combining Camera and Display in One Go</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-video-reverse-technique-iphone-expertise-guide/"><u>2024 Approved Video Reverse Technique IPhone Expertise Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/boost-your-periscope-broadcast-speed-a-guide-for-2024/"><u>Boost Your Periscope Broadcast Speed A Guide for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/exciting-news-googles-bard-is-rolling-out-immediately-with-additional-plugin-support/"><u>Exciting News! Google's Bard Is Rolling Out Immediately with Additional Plugin Support</u></a></li>
+<li><a href="https://some-skills.techidaily.com/expert-analysis-of-the-velotric-go-1-ebike-ideal-for-carrying-luggage-and-passengers/"><u>Expert Analysis of the Velotric GO 1 eBike – Ideal for Carrying Luggage & Passengers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/exploring-aviras-new-feature-integrated-cryptocurrency-mining-functionality/"><u>Exploring Avira's New Feature: Integrated Cryptocurrency Mining Functionality</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/guide-to-top-8-linux-screenshot-solutions-for-2024/"><u>Guide to Top 8 Linux Screenshot Solutions for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/how-meta-quest-3-brings-apple-inspired-innovation-with-its-new-oculus-headset/"><u>How Meta Quest 3 Brings Apple-Inspired Innovation with Its New Oculus Headset</u></a></li>
+<li><a href="https://some-skills.techidaily.com/improve-your-gaming-experience-why-oculus-quest-outshines-with-pc-vr-titles-from-steam/"><u>Improve Your Gaming Experience: Why Oculus Quest Outshines with PC VR Titles From Steam</u></a></li>
+<li><a href="https://some-skills.techidaily.com/international-space-station-nimbly-dodges-russian-orbital-debris-sparing-data-swap/"><u>International Space Station Nimbly Dodges Russian Orbital Debris, Sparing Data Swap</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/los-mejores-utilidades-de-grabacion-de-pantalla-para-linux-en-2024-ranking-completo-comparado-por-movavi/"><u>Los Mejores Utilidades De Grabación De Pantalla Para Linux En 2024: Ranking Completo Comparado Por Movavi</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-stop-xcom-2-from-freezing-and-crashing-in-windows/"><u>Troubleshooting Guide: Stop XCOM 2 From Freezing and Crashing in Windows</u></a></li>
 </ul></div>
 

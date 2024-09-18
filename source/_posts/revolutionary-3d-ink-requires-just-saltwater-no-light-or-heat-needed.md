@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary 3D Ink Requires Just Saltwater: No Light or Heat Needed"
-date: 2024-09-06T05:18:05.870Z
-updated: 2024-09-13T04:55:20.539Z
+date: 2024-09-13T10:16:59.649Z
+updated: 2024-09-18T08:26:34.366Z
 tags:
   - cutting-edge
 categories:
@@ -40,21 +40,23 @@ A multinational team of researchers has developed a novel 3D printing ink that c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-ultimate-choice-5-sound-devices-for-streamers/"><u>[New] 2024 Approved Ultimate Choice 5 Sound Devices for Streamers</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/boundless-memories-archive-instagrams-free-saves/"><u>Boundless Memories Archive Instagram’s Free Saves</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/electric-cars-and-severe-climates-can-they-withstand-the-heat-or-cold/"><u>Electric Cars & Severe Climates: Can They Withstand the Heat or Cold?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/identifying-star-patterns-with-mobile-technology-a-guide-to-finding-constellations/"><u>Identifying Star Patterns with Mobile Technology: A Guide to Finding Constellations</u></a></li>
-<li><a href="https://some-skills.techidaily.com/is-it-possible-to-tune-electric-vehicles-evs/"><u>Is It Possible to Tune Electric Vehicles (EVs)?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/maximize-your-musical-potential-with-udio-the-top-choice-in-artificamatic-intelligence-right-now-learn-how-to-get-started/"><u>Maximize Your Musical Potential with Udio – The Top Choice in Artificamatic Intelligence Right Now, Learn How to Get Started.</u></a></li>
-<li><a href="https://some-skills.techidaily.com/maximizing-your-prime-day-success-utilizing-rufus-the-cutting-edge-amazon-ai-shopping-chatbot/"><u>Maximizing Your Prime Day Success: Utilizing Rufus, the Cutting-Edge Amazon AI Shopping Chatbot</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-apple-iphone-11-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock On your Apple iPhone 11</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/sierra-users-the-ultimate-list-for-video-editing-apps/"><u>Sierra Users The Ultimate List for Video Editing Apps</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-indulge-in-9-holiday-blockbusters-free-online-christmas-viewing/"><u>[New] Indulge in 9 Holiday Blockbusters Free Online Christmas Viewing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pro-level-video-editing-with-vivacut-full-review-and-guidebook/"><u>[New] Pro-Level Video Editing with VivaCut Full Review & Guidebook</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-tech-bites-the-future-of-screen-capture-apps-for-2024/"><u>[Updated] Tech Bites The Future of Screen Capture Apps for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/a-beginners-guide-to-decentralized-finance-defi-principles-and-fundamentals-unveiled/"><u>A Beginner's Guide to Decentralized Finance (DeFi): Principles and Fundamentals Unveiled</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/guidelines-to-affirm-your-youtube-status-for-2024/"><u>Guidelines to Affirm Your YouTube Status for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-vivo-v29-pro-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Vivo V29 Pro?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/overcome-video-subtitle-hurdles-fix-amazon-primes-non-working-closed-caption-system-easily/"><u>Overcome Video Subtitle Hurdles: Fix Amazon Prime's Non-Working Closed Caption System Easily</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/step-by-step-guide-installing-popcorn-time-on-your-ipad-without-jailbreaking/"><u>Step-by-Step Guide: Installing Popcorn Time on Your iPad Without Jailbreaking</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-from-iphone-12-mini-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server From iPhone 12 mini</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleash-your-creativity-discover-klings-revolutionary-ai-video-production-technology/"><u>Unleash Your Creativity: Discover Kling's Revolutionary AI Video Production Technology</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-bing-chat-expert-strategies-for-harnessing-microsofts-advanced-artificial-intelligence-chatbot-capabilities/"><u>Unveiling Bing Chat: Expert Strategies for Harnessing Microsoft's Advanced Artificial Intelligence Chatbot Capabilities</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

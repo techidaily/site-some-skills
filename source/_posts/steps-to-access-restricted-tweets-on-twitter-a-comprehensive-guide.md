@@ -1,7 +1,7 @@
 ---
 title: "Steps to Access Restricted Tweets on Twitter: A Comprehensive Guide"
-date: 2024-09-10T04:32:12.708Z
-updated: 2024-09-12T21:09:42.620Z
+date: 2024-09-13T09:35:58.006Z
+updated: 2024-09-17T22:02:04.431Z
 tags:
   - web
 categories:
@@ -19,13 +19,6 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 * [How to Remove the Warning From Your Own Tweets](https://instagram-video-recordings.techidaily.com/updated-2024-approved-the-ultimate-strategies-for-leveraging-the-question-sticker-on-instagram/)
 
  X, formerly known as Twitter, blocks some tweets with a "potentially sensitive content" warning, including when you're retweeting them. You can disable this warning—even on an iPhone or iPad. You can also disable sensitive content warnings on your tweets without making your account private.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  What Is "Sensitive Content?"
 
@@ -45,33 +38,26 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 
 ![Settings and privacy option on the X website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/settings-and-privacy-option-on-the-x-website.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Choose "Privacy and Safety" from the list of options on the left and then select "Content You See."
 
 ![Content you see option on X.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/content-you-see-option-on-x.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Check the box next to "Display media that may contain sensitive content" to disable the warning for tweets.
 
 ![Display media that may contain sensitive content option in X.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/display-media-that-may-contain-sensitive-content-option-in-x.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Show "Sensitive Content" in Searches
 
@@ -82,23 +68,10 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 ![Uncheck the "Hide Sensitive Content" box](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/08/uncheck-the-hide-sensitive-content-box.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Remove the Warning From Your Own Tweets
@@ -106,13 +79,6 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
  To stop X from marking [media you upload as sensitive](https://facebook-clips.techidaily.com/step-by-step-guide-live-broadcast-of-recorded-videos-on-fb-for-2024/), choose More > Settings and Privacy > Privacy and Safety > Your Posts. Ensure "Mark media you post as having material that may be sensitive" is unchecked.
 
 ![Mark media you post as having material that may be sensitive option in X.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/mark-media-you-post-as-having-material-that-may-be-sensitive-option-in-x.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This option is available on the web and in the Android app but not in the X app for iPhone and iPad.
 
@@ -139,19 +105,19 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-ultimate-guide-how-to-make-money-from-instagram/"><u>[New] In 2024, Ultimate Guide How to Make Money From Instagram</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-capturing-action-choosing-from-5-leading-game-stream-webcams/"><u>[Updated] In 2024, Capturing Action Choosing From 5 Leading Game Stream Webcams</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-in-search-of-greatness-top-15-timeless-stop-motion-films/"><u>[Updated] In Search of Greatness Top 15 Timeless Stop Motion Films</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/2024-approved-mastering-live-broadcasts-your-step-by-step-guide-to-discord-streaming/"><u>2024 Approved Mastering Live Broadcasts Your Step-by-Step Guide to Discord Streaming</u></a></li>
-<li><a href="https://some-skills.techidaily.com/get-a-fraction-of-apples-vision-pro-experience-with-meta-quest-3-at-just-one-seventh-the-pricing/"><u>Get a Fraction of Apple's Vision Pro Experience with Meta Quest 3 at Just One-Seventh the Pricing!</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-vivo-y77t-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Vivo Y77t Phones with/without a PC</u></a></li>
-<li><a href="https://some-skills.techidaily.com/incredible-insights-into-the-credit-card-sized-ai-voice-capture-device-the-plaud-note-experience-unveiled/"><u>Incredible Insights Into the Credit Card-Sized AI Voice Capture Device - The Plaud Note Experience Unveiled!</u></a></li>
-<li><a href="https://some-skills.techidaily.com/innovative-move-by-bmw-integration-into-teslas-supercharger-grid-enables-broad-ev-connectivity-growth/"><u>Innovative Move by BMW: Integration Into Tesla's Supercharger Grid Enables Broad EV Connectivity Growth</u></a></li>
-<li><a href="https://some-skills.techidaily.com/inside-teslas-enhanced-performance-feature-decoding-the-intricacies-of-track-mode/"><u>Inside Tesla's Enhanced Performance Feature - Decoding the Intricacies of Track Mode</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-nvidia-geforce-rtx-1080-driver-update-for-windows-11-made-easy/"><u>Latest Nvidia GeForce RTX 1080 Driver Update for Windows 11 Made Easy</u></a></li>
-<li><a href="https://some-skills.techidaily.com/maximize-performance-boost-computers-with-under-8gb-ram-using-compact-local-llm-technologies/"><u>Maximize Performance: Boost Computers with Under 8GB RAM Using Compact Local LLM Technologies</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-apps-and-online-tools-to-track-oneplus-ace-2-pro-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track OnePlus Ace 2 Pro Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-the-eu-ai-regulation-impact-on-tools-like-chatgpt/"><u>Understanding the EU AI Regulation: Impact on Tools Like ChatGPT</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Oppo A78 5G? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-best-20-facebook-jail-memes-to-brighten-up-your-day-filmora/"><u>[Updated] 2024 Approved Best 20 Facebook Jail Memes to Brighten Up Your Day - Filmora</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-camtech-dive-looking-for-improved-alternatives-for-2024/"><u>[Updated] CamTech Dive Looking for Improved Alternatives for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-unveiling-the-20-core-strategies-for-effective-facebook-video-ads-for-2024/"><u>[Updated] Unveiling the 20 Core Strategies for Effective Facebook Video Ads for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/discover-more-with-google-lens-and-look-up-images-instantly-introducing-learn-about-this-photo/"><u>Discover More with Google Lens & Look Up Images Instantly - Introducing 'Learn About This Photo'</u></a></li>
+<li><a href="https://some-skills.techidaily.com/discover-the-most-loved-google-doodle-titles-to-enjoy-today/"><u>Discover the Most Loved Google Doodle Titles to Enjoy Today</u></a></li>
+<li><a href="https://some-skills.techidaily.com/discover-the-overlooked-youtube-function-both-you-and-i-miss/"><u>Discover the Overlooked YouTube Function Both You & I Miss</u></a></li>
+<li><a href="https://some-skills.techidaily.com/earning-money-by-using-microsofts-bing-a-personal-experience-of-successful-rewards/"><u>Earning Money by Using Microsoft's Bing - A Personal Experience of Successful Rewards</u></a></li>
+<li><a href="https://some-skills.techidaily.com/enhanced-security-protonpass-introduces-shared-login-feature/"><u>Enhanced Security: ProtonPass Introduces Shared Login Feature</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-unlock-the-power-of-visual-storytelling-with-screen-capture-skills/"><u>In 2024, Unlock the Power of Visual Storytelling with Screen Capture Skills</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/insta-to-tik-integration-masterclass/"><u>Insta-to-Tik Integration Masterclass</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instagram-video-preservation-straightforward-techniques-unpacked/"><u>Instagram Video Preservation Straightforward Techniques Unpacked</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/learn-and-master-io-screen-recording-today-for-2024/"><u>Learn and Master IO Screen Recording Today for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-gaming-keyboards-of-2024-compare-full-size-tkl-and-mini/"><u>Top Rated Gaming Keyboards of 2024 - Compare Full-Size, TKL & Mini</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-video-orientation-issues-in-asus-laptops-how-to-get-things-right-side-up-again/"><u>Troubleshooting Video Orientation Issues in ASUS Laptops – How To Get Things Right-Side Up Again</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Transitioning to Augmented Reality: My Journey Swapping a Standard Monitor for AR Glasses"
-date: 2024-09-06T22:12:33.578Z
-updated: 2024-09-13T05:17:53.015Z
+date: 2024-09-13T10:17:12.769Z
+updated: 2024-09-17T19:59:43.201Z
 tags:
   - cutting-edge
 categories:
@@ -27,19 +27,6 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
 
 ![XREAL Air 2 Pro AR glasses resting on the bridge of a nose.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/1000060992.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Bertel King / How-To Geek
 
 ##  I Sit With Better Posture
@@ -47,13 +34,6 @@ Bertel King / How-To Geek
  The biggest impact has been the benefit to my posture. I've spent most of my career hunched over a laptop. I ended my days feeling drained, not aware that the angle of my neck had as much to do with that as the strain on my eyes. I was making one of the [posture mistakes you want to avoid](https://fox-cloud.techidaily.com/new-composing-an-alluring-cinematic-teaser-track/) when sitting at a desk. If you work from home, it's worth getting a computer monitor with a height set at eye level.
 
  With AR glasses, my display is always at eye level. This means I can rest my neck in a natural position. I can also stretch or look side to side without actually turning away from whatever I'm reading. This allows me to move a bit more throughout the day without shifting my focus away from what I'm working on.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  My Desk Has More Space
 
@@ -63,7 +43,21 @@ Bertel King / How-To Geek
 
 ![A desk without a monitor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/1000061003.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Bertel King / How-To Geek
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  I Love the Portability
 
@@ -76,16 +70,10 @@ Bertel King / How-To Geek
 ![A Samsung Galaxy Z Fold 5, XREAL Air 2 Pro AR Glasses, and glasses case.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/1000061021.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Bertel King / How-To Geek
@@ -98,13 +86,6 @@ Bertel King / How-To Geek
 
  Wearing AR glasses is a bit like making a switch from Bluetooth speakers to Bluetooth earbuds. The former tunes people in to what you're listening to, while the latter is completely private. The thing is, while we've had decades to get used to this with audio, it's pretty new for video. When I'm alone, AR glasses are awesome, but I feel weird when I'm wearing them around others.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Great for Working Around Kids
 
  Little kids are in some ways an exception. They don't really know what's normal. They're learning that from us. When I tell them my glasses have screens, and I'm watching a video, they kind of shrug that off. They find that easier to understand than the fact that the video on their tablet comes from something called the internet which stops working if the Wi-Fi is down. I invite you to try to explain buffering to a kid (and if they buy it, please tell me how you did it!).
@@ -113,13 +94,6 @@ Bertel King / How-To Geek
 
  With the glasses on, I can look at my toddler while she rambles and give her a hug. I can keep my eyes focused on whatever Slack conversation I was in the middle of following or continue watching the clip that I was considering inserting into an article. It feels wrong, not giving them my undivided attention. At the same time, I need to work and they're not letting me. The fact that the glasses help me turn toward them more quickly probably makes them feel like I'm giving them more attention, even if my attention is split. Is that better or worse? I don't know, but at least they get the hug.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Your Own Portable, Private Home Theater
 
  Watching videos is one of the best uses for AR glasses. I can be sitting at the kitchen table eating my lunch while watching a video that takes up most of my field of view. I can lie down in bed and watch a film that takes up half of the ceiling. I'm not contorting my neck into whichever awkward position helps me see the phone or laptop screen.
@@ -127,19 +101,6 @@ Bertel King / How-To Geek
  The biggest downside is that AR glasses are a solitary experience. I wish my wife and I could watch a movie on the ceiling together. After all, I rarely watch movies alone.
 
  Playing video games is arguably even better. Games that don't play nice with my foldable's aspect ratio look just fine on the standard 16:9 ratio of the glasses. With just a game controller, I can feel like I'm sitting in front of a console wherever I am.
-
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  All Isn't Perfect
 
@@ -166,21 +127,16 @@ Bertel King / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-the-essential-voice-manual-for-tiktok-creators/"><u>[Updated] 2024 Approved The Essential Voice Manual for TikTok Creators</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-reviving-retro-film-techniques-detailed-instructions/"><u>[Updated] In 2024, Reviving Retro Film Techniques Detailed Instructions</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-success-starts-with-these-strategies/"><u>[Updated] Instagram Success Starts with These Strategies</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-the-future-of-flight-hubsans-revolutionary-h501s-explored-for-2024/"><u>[Updated] The Future of Flight - Hubsan's Revolutionary H501S Explored for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-bridging-words-to-visuals-the-scriptwriters-craft/"><u>2024 Approved Bridging Words to Visuals The Scriptwriter's Craft</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-apple-iphone-6s-plus-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For Apple iPhone 6s Plus</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-xiaomi-redmi-note-12r-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Xiaomi Redmi Note 12R</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/stepwise-guide-to-windows-11-sound-capture-setup/"><u>Stepwise Guide to Windows 11 Sound Capture Setup</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-6-microsoft-edge-features-enhancing-productivity-for-remote-workers-on-windows-11/"><u>Top 6 Microsoft Edge Features Enhancing Productivity for Remote Workers on Windows 11</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-guide-activating-and-deactivating-the-xbox-game-bar-on-windows-10/"><u>Ultimate Guide: Activating and Deactivating the Xbox Game Bar on Windows 10</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-solve-high-ram-consumption-in-windows-10/"><u>Ultimate Guide: Solve High RAM Consumption in Windows 10</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-tutorial-on-performing-a-clean-installation-and-reboot-of-windows-11/"><u>Ultimate Tutorial on Performing a Clean Installation & Reboot of Windows 11</u></a></li>
-<li><a href="https://some-skills.techidaily.com/uncover-the-best-kept-tricks-of-windows-11-to-enhance-your-experience/"><u>Uncover the Best-Kept Tricks of Windows 11 to Enhance Your Experience</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-the-secrets-top-13-steps-to-access-windows-11-settings-easily/"><u>Unlocking the Secrets: Top 13 Steps to Access Windows 11 Settings Easily</u></a></li>
-<li><a href="https://some-skills.techidaily.com/weekly-tech-digest-unveiling-the-latest-features-of-modern-windows-laptops-and-exclusive-insights-into-upcoming-spotify-initiatives/"><u>Weekly Tech Digest: Unveiling the Latest Features of Modern Windows Laptops & Exclusive Insights Into Upcoming Spotify Initiatives</u></a></li>
-<li><a href="https://some-skills.techidaily.com/why-your-windows-pc-no-longer-seems-like-yours-understanding-emotional-attachment-and-technology/"><u>Why Your Windows PC No Longer Seems Like Yours: Understanding Emotional Attachment & Technology</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-branding-success-on-fb-through-immersive-cover-videos/"><u>[New] 2024 Approved Branding Success on FB Through Immersive Cover Videos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-agriculture-amalgamations-best-friendly-farmers-game-roster/"><u>[Updated] 2024 Approved Agriculture Amalgamations Best Friendly Farmer's Game Roster</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-screen-recorder-no-time-limits/"><u>2024 Approved Screen Recorder No Time Limits</u></a></li>
+<li><a href="https://some-skills.techidaily.com/boosted-brainpower-microsofts-latest-leap-with-copilot-and-bing-chat-utilizing-gpt-4-enhancements/"><u>Boosted Brainpower: Microsoft's Latest Leap with Copilot & Bing Chat Utilizing GPT-4 Enhancements</u></a></li>
+<li><a href="https://some-skills.techidaily.com/chatgpt-not-responding-discover-strategies-for-uninterrupted-assistance/"><u>ChatGPT Not Responding? Discover Strategies for Uninterrupted Assistance</u></a></li>
+<li><a href="https://some-skills.techidaily.com/chevy-bolt-ev-still-going-strong-despite-rumors-of-its-demise/"><u>Chevy Bolt EV Still Going Strong, Despite Rumors of Its Demise</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/far-cry-nix-the-blues-with-our-fix-for-black-screen-problems/"><u>Far Cry Nix the Blues with Our Fix for Black Screen Problems</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mirth-machines-zombie-comedy-constructors/"><u>Mirth Machines Zombie Comedy Constructors</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-direct3d-startup-failures/"><u>Resolving Direct3D Startup Failures</u></a></li>
+<li><a href="https://games-able.techidaily.com/tips-for-writing-standout-game-reviews-on-steam/"><u>Tips for Writing Standout Game Reviews on Steam</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-your-non-responsive-wacom-graphics-tablet/"><u>Troubleshooting Guide: Fixing Your Non-Responsive Wacom Graphics Tablet</u></a></li>
 </ul></div>
 

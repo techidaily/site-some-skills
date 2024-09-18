@@ -1,7 +1,7 @@
 ---
 title: Understanding the Process of Wireless Electric Vehicle Charging
-date: 2024-09-11T01:10:51.435Z
-updated: 2024-09-13T10:19:22.177Z
+date: 2024-09-17T00:59:41.250Z
+updated: 2024-09-18T04:31:12.567Z
 tags:
   - cutting-edge
 categories:
@@ -11,13 +11,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 
 ## Understanding the Process of Wireless Electric Vehicle Charging
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [How Wirelessly Electric Vehicle Charging Works](https://fox-http.techidaily.com/updated-bright-future-for-your-android-videos-a-comprehensive-plan/)
@@ -25,13 +18,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 * [What's Next for Wireless EV Charging](https://snapchat-videos.techidaily.com/updated-2024-approved-evaluating-engagement-a-side-by-side-look-at-tiktok-and-snap/)
 
  We've all grown pretty used to wireless smartphone charging by now, but what if you could charge an electric car the same way? The technology is currently being developed --- pretty soon, all you might need to do to charge your Tesla is park it.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How Wirelessly Electric Vehicle Charging Works
 
@@ -55,13 +41,6 @@ Related: [How Does Wireless Charging Work?](https://eaxpv-info.techidaily.com/ne
 
  The cost of building that kind of tech into roadways on a wide scale remains to be seen and could get in the way of wireless charging roads becoming mainstream if prohibitively high. The U.S. doesn't have a great record when it comes to the upkeep of our [current roads and bridges,](https://www.cfr.org/backgrounder/state-us-infrastructure) but with Congress recently approving a large infrastructure bill we could, hopefully, see that trend improve.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  The Challenges of Wireless EV Charging
 
  One big hurdle to mass-market wireless charging is the expense. At the time of writing, WiTricity says one of their wireless charging stations costs around $700\. But calculating true cost is tricky at this point is difficult since the tech is so new. It depends on whether you're talking about retrofitting a single vehicle or outfitting a whole fleet. It'll also cost more to add several pads to a large electric bus than to fit a regular EV sedan with wireless charging --- up into the thousands, according to [The Eco Experts](https://www.theecoexperts.co.uk/electric-vehicles/wireless-ev-charging#link-how-much-does-wireless-electric-vehicle-charging-cost). The bottom line is that, at the time of writing, wireless charging tech will cost significantly more than a wired charging station to install for personal use.
@@ -77,10 +56,10 @@ Related: [Level 1, Level 2, or Level 3? EV Chargers Explained](https://visual-sc
  To address that, manufacturers are building fail safes. In Ferrell's video, WiTricity's CEO explained that if an object like a metal can or a cat that crawled under the car to try and get warm is detected, the charger would shut off and send a notification to your phone. If a person gets too close to the charging pad, it also shuts off. [WiTricity's website](https://witricity.com/products/automotive/) outlines these precautions in a little more detail.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What's Next for Wireless EV Charging
@@ -104,18 +83,20 @@ Related: [Level 1, Level 2, or Level 3? EV Chargers Explained](https://visual-sc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-iphones-panoramic-videos-explained-for-fb-sharing/"><u>[New] In 2024, IPhone's Panoramic Videos Explained for FB Sharing</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/uick-cut-technique-making-your-vlog-more-engaging/"><u>[New] Quick-Cut Technique Making Your Vlog More Engaging</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-sprint-through-slow-androids-premier-video-fixes/"><u>[New] Sprint Through Slow Android's Premier Video Fixes</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-the-beginners-guide-to-efficient-zoom-meeting-recordings/"><u>[New] The Beginner's Guide to Efficient Zoom Meeting Recordings</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-seamless-creation-with-xp-movie-maker-features/"><u>[Updated] Seamless Creation with XP Movie Maker Features</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-sync-vimeo-videos-with-powerpoint-a-step-by-step-approach/"><u>[Updated] Sync Vimeo Videos with PowerPoint A Step-by-Step Approach</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-fast-windows-file-check-up-tips-and-tricks/"><u>In 2024, Fast Windows File Check-Up Tips and Tricks</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Honor 100 | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/simplifying-smartphone-productivity-emulate-pc-window-management-for-efficient-task-handling/"><u>Simplifying Smartphone Productivity: Emulate PC Window Management for Efficient Task Handling</u></a></li>
-<li><a href="https://some-skills.techidaily.com/taking-over-android-googles-rise-as-premier-developer-of-additional-features/"><u>Taking Over Android: Google's Rise as Premier Developer of Additional Features</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-appeal-of-e-ink-technology-in-phones-exploring-my-motivations-for-going-digital-paperback/"><u>The Appeal of E-Ink Technology in Phones: Exploring My Motivations for Going Digital Paperback</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-interplay-between-apoptosis-autophagy-and-pyroptosis-can-determine-cell-fate-under-stress-conditions-they-are-not-mutually-exclusive-pathways/"><u>The Interplay Between Apoptosis, Autophagy, and Pyroptosis Can Determine Cell Fate Under Stress Conditions; They Are Not Mutually Exclusive Pathways.</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-8-essential-tips-for-maintaining-optimal-smartphone-performance/"><u>Top 8 Essential Tips for Maintaining Optimal Smartphone Performance</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-overcoming-social-media-roadblocks-fix-your-story-upload-for-2024/"><u>[New] Overcoming Social Media Roadblocks Fix Your Story Upload for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-defending-your-youtube-profile/"><u>[Updated] 2024 Approved Defending Your YouTube Profile</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastery-in-making-single-stream-live-events-stand-out/"><u>[Updated] Mastery in Making Single-Stream LIVE Events Stand Out</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-conquer-the-social-networking-landscape-and-grow-your-followers/"><u>2024 Approved Conquer the Social Networking Landscape and Grow Your Followers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/experience-the-best-of-modern-melodies-through-apple-musics-radio-stream-dont-miss-out/"><u>Experience the Best of Modern Melodies Through Apple Music's Radio Stream – Don’t Miss Out!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/expert-tips-for-manually-applying-patches-and-updates-in-windows-11/"><u>Expert Tips for Manually Applying Patches and Updates in Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/how-iphone-screen-mirroring-eliminates-the-need-for-ios-apps-on-your-mac/"><u>How iPhone Screen Mirroring Eliminates the Need for iOS Apps on Your Mac</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Lava Yuva 3? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-lost-data-of-apple-iphone-15-plus-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data of Apple iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/improve-gameplay-by-turning-off-windows-shortcuts-and-accessibility-options-on-your-computer/"><u>Improve Gameplay by Turning Off Windows Shortcuts & Accessibility Options on Your Computer</u></a></li>
+<li><a href="https://some-skills.techidaily.com/is-your-macs-ram-consumption-too-much-heres-why-that-shouldnt-concern-you/"><u>Is Your Mac's RAM Consumption Too Much? Here's Why That Shouldn't Concern You</u></a></li>
+<li><a href="https://some-skills.techidaily.com/kickstart-your-workday-effortlessly-with-a-handy-mac-shortcut/"><u>Kickstart Your Workday Effortlessly with a Handy Mac Shortcut!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/mastering-printer-configuration-and-control-in-windows-11-a-comprehensive-how-to/"><u>Mastering Printer Configuration & Control in Windows 11 – A Comprehensive How-To</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mp4-video-repair-tool-repair-corrupt-damaged-unplayable-video-files-of-infinix-note-30-vip-racing-edition-by-stellar-video-repair-mobile-video-repair/"><u>MP4 Video Repair Tool - Repair corrupt, damaged, unplayable video files of Infinix Note 30 VIP Racing Edition</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-50plus-overlays-for-engaging-media-content/"><u>Top 50+ Overlays for Engaging Media Content</u></a></li>
 </ul></div>
 
