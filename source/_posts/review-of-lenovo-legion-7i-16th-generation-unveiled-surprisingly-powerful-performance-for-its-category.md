@@ -1,7 +1,7 @@
 ---
 title: "Review of Lenovo Legion 7I 16Th Generation Unveiled: Surprisingly Powerful Performance for Its Category"
-date: 2024-09-13T10:01:34.830Z
-updated: 2024-09-18T01:27:20.218Z
+date: 2024-09-18T20:33:31.661Z
+updated: 2024-09-23T03:19:54.810Z
 tags:
   - desktop
 categories:
@@ -134,16 +134,16 @@ Jerome Thomas / How-To Geek
 
  Lenovo chose to put the power key dead center of the top of the keyboard and built a fingerprint reader into it. I found that the reader worked reliably every time for me, and it was a great placement for me as well.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Hitting Above Its Weight Class, This Laptop Really Packs a Punch
 
 ![The Lenovo Legion 7i 16 Gen 9 Legion branding](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-legion-7i-16-gen-9-legion-branding_53661777577_o.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -165,13 +165,6 @@ Jerome Thomas / How-To Geek
 
 ![The Lenovo Legion 7i 16 Gen 9 on a table (2)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-legion-7i-16-gen-9-on-a-table-2_53661777582_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Jerome Thomas / How-To Geek
 
  In PCMark 10, the Legion 7i 16 Gen 9 scored 8,175, which is better than 94% of all results. PCMark 10 measures the complete system performance for office needs, like spreadsheet work, document editing, and more. Plus, the average gaming laptop only scored 7,066 here, making this a pretty solid performance metric.
@@ -179,13 +172,6 @@ Jerome Thomas / How-To Geek
  Then, there’s 3DMark’s Time Spy, which measures the DirectX 12 performance for gaming PCs. The Legion 7i 16 Gen 9 achieved a score of 11,099, making it more powerful than 60% of all results, though it did come in a little under the average gaming laptop performance of 11,619.
 
  One thing that I wasn’t too happy with, however, was the coil whine. If you’ve not experienced coil whine before, you will with this laptop. Even at idle, there was a whine coming from the system that was a bit annoying. And, when the fans were at full tilt during a game, I could hear the coil whine even through my headphones. It’s not unbearable, but it’s something that I wasn’t very happy with for sure.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Lenovo Included All the Ports You Could Want but Could Have Made It a Bit Less Confusing
 
@@ -201,24 +187,18 @@ Jerome Thomas / How-To Geek
 
 ![The ports on the right side of the Lenovo Legion 7i 16 Gen 9](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-ports-on-the-right-side-of-the-lenovo-legion-7i-16-gen-9_53663005784_o.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Jerome Thomas / How-To Geek
 
  All that to say, this laptop has a slew of port options to choose from. The inclusion of SD and HDMI is really nice, and, while there is Thunderbolt 4, I would have liked to see more than one port be rated at 40Gb/s here.
 
  You’ll also find Wi-Fi 6E, alongside Bluetooth 5.3 and no ethernet jack. That’s right, there are no wired networking options, which is a shame to see. This laptop is thick enough that Lenovo could have packed in wired connectivity, and I really wish they had. Wi-Fi 6E is nice and all, but sometimes, you just want the low-latency connection of a physical plug.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  The 16-Inch Display Is Honestly Quite Impressive for a Laptop
 
@@ -237,10 +217,10 @@ Jerome Thomas / How-To Geek
 ![The Lenovo Legion 7i 16 Gen 9 with charger](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-legion-7i-16-gen-9-with-charger_53662863758_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -251,7 +231,21 @@ Jerome Thomas / How-To Geek
 
 ![Lenovo Legion 7i 16 Gen 9 Laptop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/lenovo-legion-7i-16-gen-9-laptop.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #####  Lenovo Legion 7i 16 Gen 9
 
@@ -278,14 +272,17 @@ Lenovo's Legion 7i 16 Gen 9 laptop packs a punch in the power department, offeri
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-video-editing-made-simple-using-windows-10s-built-in-features-easily/"><u>[New] 2024 Approved Video Editing Made Simple Using Windows 10'S Built-In Features Easily</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ain-more-views-beginners-guide-to-youtube-seo/"><u>[New] Gain More Views Beginner’s Guide to YouTube SEO</u></a></li>
-<li><a href="https://some-skills.techidaily.com/12-surprising-tricks-you-never-knew-about-using-preview-on-your-mac/"><u>12 Surprising Tricks You Never Knew About Using Preview on Your Mac</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-quintessential-5-add-ons-for-sea-cameras/"><u>2024 Approved Quintessential 5 Add-Ons for Sea Cameras</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-unlocking-retro-titles-best-pc-emulators-for-ps1-games/"><u>2024 Approved Unlocking Retro Titles Best PC Emulators for PS1 Games</u></a></li>
-<li><a href="https://some-skills.techidaily.com/7-tips-for-resolving-camera-not-found-on-windows-11-devices/"><u>7 Tips for Resolving 'Camera Not Found' On Windows 11 Devices</u></a></li>
-<li><a href="https://some-skills.techidaily.com/a-comprehensive-tutorial-on-activating-and-deactivating-the-xbox-game-bar-in-windows-10-systems/"><u>A Comprehensive Tutorial on Activating and Deactivating the Xbox Game Bar in Windows 10 Systems</u></a></li>
-<li><a href="https://some-skills.techidaily.com/1724884621616-lenovo-yoga-slim-7x-windows-snapdragon/"><u>Lenovo Yoga Slim 지갑쇼드라그래픅 7X 리뷰: Windows에서 Snapdragon은 완전히 안타깝게 신속하지 않음</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-low-cost-film-production-software-top-picks-for-beginners-for-2024/"><u>New Low-Cost Film Production Software Top Picks for Beginners for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-flashframe-crafter/"><u>[New] 2024 Approved FlashFrame Crafter</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-direct-engagement-broadcasting-from-your-xbox-to-fb/"><u>[New] Direct Engagement Broadcasting From Your Xbox to FB</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-smooth-transition-of-scale-enhancing-instagram-tv-video-clarity-for-2024/"><u>[New] Smooth Transition of Scale Enhancing Instagram TV Video Clarity for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-creating-compelling-sports-content-from-the-ground-up/"><u>[Updated] In 2024, Creating Compelling Sports Content From the Ground Up</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-pioneering-podcast-titling-with-leading-ai-driven-apps/"><u>2024 Approved Pioneering Podcast Titling with Leading AI-Driven Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/be-prepared-without-delay-step-by-step-tutorial-on-crafting-a-bootable-windows-11-usb-thrive-in-advance/"><u>Be Prepared Without Delay: Step-by-Step Tutorial on Crafting a Bootable Windows #11 USB Thrive in Advance</u></a></li>
+<li><a href="https://some-skills.techidaily.com/beyond-microsoft-phone-link-embrace-this-enhanced-mobile-connectivity-solution/"><u>Beyond Microsoft Phone Link: Embrace This Enhanced Mobile Connectivity Solution</u></a></li>
+<li><a href="https://some-skills.techidaily.com/effective-strategies-to-resolve-the-secured-no-internet-access-issue-in-windows-systems/"><u>Effective Strategies to Resolve the 'Secured – No Internet Access' Issue in Windows Systems</u></a></li>
+<li><a href="https://some-skills.techidaily.com/enhanced-security-features-in-google-chrome-version-127-guard-against-malware/"><u>Enhanced Security Features in Google Chrome Version 127 - Guard Against Malware</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-silent-mode-expert-tips-on-getting-fortnites-sound-working-again/"><u>Fixing the Silent Mode: Expert Tips on Getting Fortnite's Sound Working Again</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/jestjamboree-discover-a-sea-of-memes-at-your-feet/"><u>JestJamboree Discover a Sea of Memes at Your Feet</u></a></li>
+<li><a href="https://some-skills.techidaily.com/windows-11-tutorial-enabling-your-laptops-hibernation-mode-with-the-lid-shut/"><u>Windows 11 Tutorial: Enabling Your Laptop's Hibernation Mode with the Lid Shut</u></a></li>
 </ul></div>
 

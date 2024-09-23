@@ -1,7 +1,7 @@
 ---
 title: NY Times Crossword Puzzle Solutions - Today's Clues & Answers Revealed, May 31St Edition
-date: 2024-09-14T16:11:02.851Z
-updated: 2024-09-17T23:50:20.062Z
+date: 2024-09-20T02:27:45.034Z
+updated: 2024-09-22T21:11:56.517Z
 tags:
   - web
 categories:
@@ -45,16 +45,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * **Blue:** Components of an LP
 * **Purple:** Things People Shake
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Today's NYT Connections Answers
 
 ![May 31st's Connections groups and word.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/may-31stconnections-filled.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Corpus (Yellow):** 
 
@@ -72,6 +72,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Hands, Maraca, Polaroid, Snowglobe
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How Did We Solve This Connections Game?
 
  May 31st wasn't too bad, but it had one major red herring that threw me off immediately.
@@ -85,13 +92,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Body and canon can refer to "a body of literary works." That brought in works. Of the remaining words, I don't recognize the word oeuvre at all, so I threw that one in for good measure. Together, body, canon, oeuvre, and works were in the Yellow group, "Corpus." 
 
  That left hands, maraca, polaroid, and snowglobe. I wasn't able to figure out the connection between them, but luckily I didn't need to. Purple was "Things People Shake." 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How Do You Guess Connections Groups?
 
@@ -121,17 +121,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-elevating-shorts-visibility-a-thumbnail-transformation-journey/"><u>[New] 2024 Approved Elevating Shorts Visibility A Thumbnail Transformation Journey</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-effortless-guide-to-free-melodies-in-youtube-productions-for-2024/"><u>[New] Effortless Guide to Free Melodies in YouTube Productions for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-twitter-video-viral/"><u>[Updated] In 2024, Twitter Video Viral</u></a></li>
-<li><a href="https://some-skills.techidaily.com/access-and-review-your-devices-past-locations-steps-for-iphone-and-ipad-users/"><u>Access and Review Your Device's Past Locations: Steps for iPhone & iPad Users</u></a></li>
-<li><a href="https://some-skills.techidaily.com/comparing-performance-honor-magic-6-pro-vs-samsung-galaxy-s24-ultra/"><u>Comparing Performance: Honor Magic 6 Pro Vs. Samsung Galaxy S24 Ultra</u></a></li>
-<li><a href="https://video-capture.techidaily.com/discover-efficiency-with-these-5-essential-mac-snippers/"><u>Discover Efficiency with These 5 Essential Mac Snippers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-canon-pixma-mg2520-driver-compatible-with-all-windows-versions/"><u>Download Canon PIXMA MG2520 Driver: Compatible with All Windows Versions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/expanded-google-circle-search-now-available-on-additional-smartphones-and-tablets/"><u>Expanded Google Circle Search Now Available on Additional Smartphones & Tablets</u></a></li>
-<li><a href="https://some-skills.techidaily.com/exploring-the-remarkable-ease-of-repairing-the-hmd-skyline-among-modern-mobile-devices/"><u>Exploring the Remarkable Ease of Repairing the HMD Skyline Among Modern Mobile Devices</u></a></li>
-<li><a href="https://some-skills.techidaily.com/find-the-perfect-earphone-charger-must-have-sound-level-adjustment-feature/"><u>Find the Perfect Earphone Charger - Must Have Sound Level Adjustment Feature!</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-expert-insights-the-best-screen-recording-software-reviewed/"><u>In 2024, Expert Insights The Best Screen Recording Software Reviewed</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-motorola-moto-g73-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Motorola Moto G73 5G Phones with/without a PC</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/aximize-engagement-with-custom-youtube-thumbnails-for-2024/"><u>[New] Maximize Engagement with Custom YouTube Thumbnails for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-expert-techniques-for-professionalizing-mobile-based-youtube-thumbnails-for-2024/"><u>[Updated] Expert Techniques for Professionalizing Mobile-Based YouTube Thumbnails for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-unlocking-the-secrets-of-instagrams-trending-reels-for-2024/"><u>[Updated] Unlocking the Secrets of Instagram's Trending Reels for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-viral-visualization-top-story-filter-guide/"><u>[Updated] Viral Visualization Top Story Filter Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/celebrate-the-4th-of-july-with-a-spectacular-offer-from-urban-armor-gear-enjoy-20-savings-across-our-entire-collection/"><u>Celebrate the 4Th of July with a Spectacular Offer From Urban Armor Gear - Enjoy 20% Savings Across Our Entire Collection!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/comparing-pixel-pro-8-and-oneplus-12-which-smartphone-takes-the-crown/"><u>Comparing Pixel Pro 8 & OnePlus 12 – Which Smartphone Takes the Crown?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/discover-effortless-iphone-circle-searching-with-this-simple-shortcut/"><u>Discover Effortless iPhone Circle Searching with This Simple Shortcut</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-latest-toshiba-dynabook-docking-station-drivers-on-windows/"><u>Download & Install Latest Toshiba Dynabook Docking Station Drivers on Windows</u></a></li>
+<li><a href="https://some-skills.techidaily.com/dry-gangrene-involves-coagulative-and-ischemic-changes-without-a-secondary-infection-while-wet-gangrene-includes-superimposed-bacterial-invasion-leading-to-49/"><u>Dry Gangrene Involves Coagulative and Ischemic Changes without a Secondary Infection, While Wet Gangrene Includes Superimposed Bacterial Invasion Leading to Liquefactive Necrosis.</u></a></li>
+<li><a href="https://some-skills.techidaily.com/exploring-the-need-for-enhanced-capabilities-in-modern-smartphones/"><u>Exploring the Need for Enhanced Capabilities in Modern Smartphones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/get-your-personalized-internet-access-with-spacexs-new-portable-starlink-mini-device/"><u>Get Your Personalized Internet Access with SpaceX’s New Portable Starlink Mini Device</u></a></li>
+<li><a href="https://some-skills.techidaily.com/how-cozi-became-the-ultimate-tool-for-keeping-my-family-life-in-perfect-harmony/"><u>How Cozi Became the Ultimate Tool for Keeping My Family Life in Perfect Harmony</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-premium-top-8-smoothest-capture-tools/"><u>In 2024, Premium Top 8 Smoothest Capture Tools</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-stutters-on-u23-pro-and-stops-randomly-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV stutters on U23 Pro and stops randomly</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/revolutionizing-recovery-stellars-historic-hdd-success-story/"><u>Revolutionizing Recovery: Stellar's Historic HDD Success Story</u></a></li>
+<li><a href="https://article-files.techidaily.com/turn-off-youtube-preview-in-one-easy-step-guide/"><u>Turn Off YouTube Preview in One Easy Step Guide</u></a></li>
 </ul></div>
 

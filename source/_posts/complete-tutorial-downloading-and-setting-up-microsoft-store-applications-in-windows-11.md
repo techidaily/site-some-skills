@@ -1,7 +1,7 @@
 ---
 title: "Complete Tutorial: Downloading and Setting Up Microsoft Store Applications in Windows 11"
-date: 2024-09-11T00:06:38.361Z
-updated: 2024-09-18T00:19:03.307Z
+date: 2024-09-18T19:02:09.613Z
+updated: 2024-09-22T19:42:00.288Z
 tags:
   - deals
 categories:
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 
  The second type is "paid" software, which you buy up front before you download and then usually you own the right to use it completely, although there are also paid apps that sell more features later through in-app purchases.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Install Software Using the Microsoft Store on Windows 10
 
  Before we begin, we'll assume that you have already [created a Microsoft account](https://sim-unlock.techidaily.com/in-2024-sim-unlock-vivo-y17s-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/) and you are logged in. For app purchases, you'll need some form of payment that has already been linked to your Microsoft account.
@@ -40,23 +47,9 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 
 ![Search for 'Microsoft store' in the Start menu search bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-microsoft-store.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When the "Microsoft Store" app opens, you will see a screen that includes many flashy banners that advertise the latest deals and other promotions.
 
 ![The Microsoft Store advertises all kinds of apps and media.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-the-microsoft-store.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you're looking for a specific type of app, click one of the categories to the left-hand side. Some categories, most notably Movies & TV, also allow you to purchase media, like movies. 
 
@@ -66,20 +59,27 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 
 ![Search for an app using the search bar at the top of the Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-searching-for-the-hulu-app.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you locate a program you'd like to install, first check whether it is a free or paid app. If you don't see a price listed, the app is generally free, or requires a separate purchase (as with a Netflix account). Click the "Get" button to add and app to your account and download it for the first time. If you've downloaded an app previously but unistalled it, you'll see an "Install" button instead. 
 
 ![Click the 'Get' button to add an app to your account, then click 'Install' to actually install it to your PC.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-get-app.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If the program requires a purchase before downloading, you will see a large "Buy for" button followed by a price. 
 
 ![Buy Microsoft Flight Simulator for 59.99 USD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-buy-for-x-price.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After following the purchase steps, the download will begin. You will see the "Get" or "Install" button change to a small circle that indicates your download's progress. You can also click this button to stop a download in progress if you change your mind, or if it is taking up too much time or bandwidth. 
 
@@ -90,10 +90,10 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 ![Netflix in the Start menu under 'N' in the alphabetical list.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-netflix-in-start-menu.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you have trouble finding the app you just downloaded in the "Start" menu, open "Start" and begin typing the name of the app to perform a search. When the results appear, click the icon of the app to launch it.
@@ -123,18 +123,15 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-dive-into-the-world-of-youtube-shorts-mastering-video-creation/"><u>[New] In 2024, Dive Into the World of YouTube Shorts Mastering Video Creation</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-yt-thumbnail-design-for-enhanced-views/"><u>[Updated] Mastering YT Thumbnail Design for Enhanced Views</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-nightly-serenity-with-asmr-top-choices-to-listen-to-for-2024/"><u>[Updated] Nightly Serenity with ASMR Top Choices to Listen To for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-trailblaze-with-our-list-of-the-top-9-resources-for-dynamic-3d-fonts/"><u>[Updated] Trailblaze with Our List of The Top 9 Resources for Dynamic 3D Fonts</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mirthful-stream-retriever-review/"><u>2024 Approved Mirthful Stream Retriever Review</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-fixes-to-restore-in-game-voice-chat-in-dota-2-windows-version/"><u>Effective Fixes to Restore In-Game Voice Chat in Dota 2 Windows Version</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Oppo Reno 8T | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/installing-canon-mf4er-driver-for-smooth-printing-experience-step-by-step/"><u>Installing Canon MF4er Driver for Smooth Printing Experience – Step-by-Step</u></a></li>
-<li><a href="https://some-skills.techidaily.com/retrospective-showdown-2023s-android-versus-the-first-lollipop-release-in-2014/"><u>Retrospective Showdown: 2023'S Android Versus the First Lollipop Release in 2014</u></a></li>
-<li><a href="https://some-skills.techidaily.com/revolutionary-voice-capabilities-how-your-iphone-mirrors-the-classic-macintosh/"><u>Revolutionary Voice Capabilities: How Your iPhone Mirrors the Classic Macintosh</u></a></li>
-<li><a href="https://some-skills.techidaily.com/simple-steps-to-track-down-and-recover-your-misplaced-airpods/"><u>Simple Steps to Track Down and Recover Your Misplaced AirPods</u></a></li>
-<li><a href="https://some-skills.techidaily.com/simplifying-smartphone-productivity-emulate-pc-window-management-for-efficient-task-handling/"><u>Simplifying Smartphone Productivity: Emulate PC Window Management for Efficient Task Handling</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-journey-to-crafting-wow-worthy-collage-art/"><u>The Journey to Crafting Wow-Worthy Collage Art</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-a-gamers-guide-to-high-quality-gameplay-recordings-on-ps4/"><u>[New] 2024 Approved A Gamer's Guide to High-Quality Gameplay Recordings on PS4</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-vivo-y78plus-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Vivo Y78+</u></a></li>
+<li><a href="https://driver-install.techidaily.com/gtx-970-performance-improvement-windows-10-version/"><u>GTX 970 Performance Improvement: Windows 10 Version</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-do-ai-chatbots-work-and-what-makes-them-so-trendy/"><u>How Do AI Chatbots Work & What Makes Them So Trendy?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/revolutionary-macx-hevc-video-transcoder-unveiled-effortless-encoding-and-decoding-for-ios-devices-with-minimal-file-bloat/"><u>Revolutionary MacX HEVC Video Transcoder Unveiled: Effortless Encoding & Decoding for iOS Devices with Minimal File Bloat</u></a></li>
+<li><a href="https://some-skills.techidaily.com/step-by-step-guide-getting-your-google-maps-back-on-track/"><u>Step-by-Step Guide: Getting Your Google Maps Back on Track</u></a></li>
+<li><a href="https://some-skills.techidaily.com/step-by-step-guide-installing-and-configuring-windows-11-with-alternative-login-options/"><u>Step-by-Step Guide: Installing and Configuring Windows 11 with Alternative Login Options</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tech-update-anticipating-the-latest-features-of-new-devices-by-google-and-samsung-a-weekly-overview/"><u>Tech Update: Anticipating the Latest Features of New Devices by Google & Samsung - A Weekly Overview</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-complete-tutorial-on-utilizing-the-gpasswd-command-for-secure-password-changes-on-your-linux-system/"><u>The Complete Tutorial on Utilizing the Gpasswd Command for Secure Password Changes on Your Linux System</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-honor-x50iplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Honor X50i+ | Dr.fone</u></a></li>
 </ul></div>
 

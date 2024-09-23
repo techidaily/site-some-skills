@@ -1,7 +1,7 @@
 ---
 title: Complete Reinstallation Tutorial for NVIDIA & AMD Graphics Drivers From Scratch
-date: 2024-09-13T17:55:53.450Z
-updated: 2024-09-17T18:06:18.550Z
+date: 2024-09-21T00:04:21.706Z
+updated: 2024-09-22T20:17:18.765Z
 tags:
   - deals
 categories:
@@ -48,13 +48,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Once you've completed this guide and freshly installed your GPU driver, repeat these instructions to re-enable automatic driver updates.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Completely Uninstall AMD and Nvidia Drivers
 
  If you have an Nvidia card, the company's GeForce Experience software provides a clean installation option. If you have an AMD card, you can use its Cleanup Utility, a standalone tool which removes AMD drivers and software.
@@ -79,14 +72,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Running AMD cleanup utility Prompt in Safe Mode](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/running-amd-cleanup-utility-in-safe-mode-3.jpg) 
 
- Once the driver is removed, click "Finish," then click "Yes" to restart your computer.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Once the driver is removed, click "Finish," then click "Yes" to restart your computer.
 
 ###  2\. Using Nvidia's Driver Installer
 
@@ -96,13 +89,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Nvidia Geforce Experience Game Ready Driver package extraction prompt in Windows 11](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/extract-the-nvidia-geforce-experience-game-ready-driver-package-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Select "Nvidia Graphics Driver and GeForce Experience" to install both the necessary driver and the GeForce Experience client. Alternatively, choose "Nvidia Graphics Driver," if you only need to install the driver. Then click "Agree And Continue."
 
 ![Nvidia Graphics Driver Intaller prompt with Nvidia Graphics Driver and GeForce Experience Option Selected](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/nvidia-graphics-driver-intaller-prompt-2.jpg) 
@@ -110,6 +96,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Under "Installation options," choose "Custom (Advanced)" and click "Next."
 
 ![Nvidia Graphics Driver installer prompt with the Custom Option selected](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/nvidia-graphics-driver-installer-choose-custom-installation-option-2.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Under Custom installation options, select "Perform a clean installation", then click "Next" to continue.
 
@@ -141,22 +134,29 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Display Driver Uninstaller prompt with the Select device type option selected](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/ddu-select-device-type-option-2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then, click the "Select device" dropdown and select your GPU manufacturer.
 
 ![Display Driver Uninstaller prompt with GPU options visible](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/ddu-select-device-option-2.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To begin uninstallation, click "Clean and restart (highly recommended)." DDU will then remove all traces of previous graphics drivers, including files, folders, and registry keys, and restart your computer.
 
 ![Display Driver Uninstaller prompt with Clean and Restart Option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/ddu-clean-and-restart-option-2.jpg) 
 
  After the restart, your computer may fall back to the basic graphics driver for the graphics chip, to ensure your display still renders an image.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Reinstall AMD and Nvidia Drivers
 
@@ -180,16 +180,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Nvidia Graphics Driver Intaller prompt with Nvidia Graphics Driver and GeForce Experience Option Selected](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/nvidia-graphics-driver-intaller-prompt-2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next, select an "Express" install with the recommended settings, or opt for "Custom" where you can toggle additional software components.
 
 ![Nvidia Graphics Driver installer prompt with the Custom Option selected](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/nvidia-graphics-driver-installer-choose-custom-installation-option-2.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Click "Next" to install the driver. This process may take some time to complete, and your display may momentarily flash a few times during the installation.
 
@@ -216,17 +216,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-inside-story-stock-pictures-and-their-internet-fame/"><u>[New] Inside Story Stock Pictures and Their Internet Fame</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-unlocking-your-audience-youtube-subscriber-insights/"><u>[Updated] In 2024, Unlocking Your Audience YouTube Subscriber Insights</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-photography-made-easy-beginners-guide-to-lunapic/"><u>[Updated] Photography Made Easy Beginner’s Guide to LunaPic</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-a-complete-guide-to-recording-live-tv-on-your-windows-pc/"><u>2024 Approved A Complete Guide to Recording Live TV on Your Windows PC</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-fists-fighting-fames-flame/"><u>2024 Approved Fists Fighting Fame's Flame</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/coming-soon-windows-10-eol-approaches-explore-alternative-operating-systems/"><u>Coming Soon: Windows 10 EOL Approaches – Explore Alternative Operating Systems</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-recommendations-on-top-password-storage-apps-from-no-cost-to-full-price-options/"><u>Expert Recommendations on Top Password Storage Apps - From No Cost to Full Price Options</u></a></li>
-<li><a href="https://some-skills.techidaily.com/how-cozi-became-the-ultimate-tool-for-keeping-my-family-life-in-perfect-harmony/"><u>How Cozi Became the Ultimate Tool for Keeping My Family Life in Perfect Harmony</u></a></li>
-<li><a href="https://some-skills.techidaily.com/how-factory-restoring-can-potentially-ruin-your-pixel-6/"><u>How Factory Restoring Can Potentially Ruin Your Pixel 6</u></a></li>
-<li><a href="https://some-skills.techidaily.com/how-iphone-loyalists-embrace-apples-strict-guidelines-despite-limitations/"><u>How iPhone Loyalists Embrace Apple's Strict Guidelines Despite Limitations</u></a></li>
-<li><a href="https://some-skills.techidaily.com/oneplus-tablet-2-unveiled-featuring-superior-3k-display-and-advanced-snapdragon-processor/"><u>OnePlus Tablet 2 Unveiled Featuring Superior 3K Display & Advanced Snapdragon Processor</u></a></li>
-<li><a href="https://change-location.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-recording-titans-collide/"><u>[New] 2024 Approved Recording Titans Collide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-swipe-right-on-creativity-youtubes-top-techniques-for-greenscreens/"><u>[New] 2024 Approved Swipe Right on Creativity YouTube’s Top Techniques for Greenscreens</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-youcamsimplified-quickguidetorecordings/"><u>[New] 2024 Approved YouCamSimplified QuickGuideToRecordings</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-elite-firefox-visual-recorders/"><u>[New] Elite Firefox Visual Recorders</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-effortless-zoom-the-path-to-crystal-clear-borders/"><u>[Updated] In 2024, Effortless Zoom The Path to Crystal Clear Borders</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-navigating-the-pinning-landscape-in-snapchat-for-2024/"><u>[Updated] Navigating the Pinning Landscape in Snapchat for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-camera-for-video-enthusiasts-nikons-j5-review/"><u>[Updated] The Ultimate Camera for Video Enthusiasts - Nikon's J5 Review</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-continuous-crashes-during-the-gameplay-loop-on-widows-1110-systems/"><u>Fixing Continuous Crashes During the Gameplay Loop on Widows 11/10 Systems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-11r-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from 11R?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/recognizing-the-8-crucial-signs-your-laptop-needs-replacement/"><u>Recognizing the 8 Crucial Signs Your Laptop Needs Replacement</u></a></li>
+<li><a href="https://some-skills.techidaily.com/revolutionize-your-command-line-experience-with-top-notch-alternatives-to-default-linux-terminal-emulators/"><u>Revolutionize Your Command Line Experience with Top-Notch Alternatives to Default Linux Terminal Emulators</u></a></li>
+<li><a href="https://some-skills.techidaily.com/showdesktop-buttons-in-windows-11-stay-for-now-understanding-microsofts-latest-update-decision/"><u>ShowDesktop Buttons in Windows 11 Stay for Now: Understanding Microsoft’s Latest Update Decision</u></a></li>
+<li><a href="https://some-skills.techidaily.com/simple-methods-to-locate-and-remove-outdated-data-in-windows-11/"><u>Simple Methods to Locate & Remove Outdated Data in Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/step-by-step-guide-accessing-your-recent-copied-items-in-macos/"><u>Step-by-Step Guide: Accessing Your Recent Copied Items in macOS</u></a></li>
 </ul></div>
 

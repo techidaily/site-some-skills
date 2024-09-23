@@ -1,7 +1,7 @@
 ---
 title: 12 Surprising Tricks You Never Knew About Using Preview on Your Mac
-date: 2024-09-15T21:58:16.020Z
-updated: 2024-09-17T19:43:32.638Z
+date: 2024-09-17T06:45:36.089Z
+updated: 2024-09-23T00:57:50.694Z
 tags:
   - desktop
 categories:
@@ -52,6 +52,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  If your image isn't in the PNG format, you'll be prompted to convert it first.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Extract the Subject From an Image
 
  As well as removing the background from an image, you can isolate and extract the subject.
@@ -63,10 +70,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The subject will be copied to your clipboard so that you can paste it into another app. Alternatively, go to File > New from Clipboard to create a new image.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Undo All Your Edits
@@ -77,13 +84,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Revert to an earlier saved version of an image in Preview.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/revert-to-an-earlier-saved-version-of-an-image-in-preview.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Copy Text, Links, Numbers, and More
 
  Preview has a built-in OCR feature that enables you to grab text, numbers, links, and numerous other things from photos.
@@ -93,6 +93,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Select the text and hit Command+C to copy it, for example, or if it's a link, you can click on it to open it in your web browser.
 
 ![Select text in an image in Preview](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/select-text-in-an-image-in-preview.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Scan Documents
 
@@ -120,13 +127,6 @@ Close
 
 ![View images in the slideshow in Preview.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/view-images-in-the-slideshow-in-preview.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Create and Encrypt PDFs
 
  Preview's PDF support is a little more advanced than you might realize. You can save images, or documents from Pages and Numbers, as PDFs, and you can encrypt them so they're only accessible with a password.
@@ -145,15 +145,28 @@ Close
 
 ![Delete a page from a PDF in Preview.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/delete-a-page-from-a-pdf-in-preview.png) 
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  For further edits, click the "Show Markup Toolbar" button in the toolbar. Here, you have several tools for editing and annotating your PDFs.
 
 ![The Show Markup Toolbar button in Preview.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-show-markup-toolbar-button-in-preview.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To [redact information from a file](https://extra-support.techidaily.com/2024-approved-steps-for-writing-engaging-video-blogging-content/), click the Redact button and highlight the words, sentences, or paragraphs that you want to remove. Note that this is permanent and cannot be undone once you've saved your changes.
@@ -188,13 +201,6 @@ Close
 
 ![Batch convert images in Preview.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/batch-convert-images-in-preview.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can use this method to compress images in batches as well, just by converting them to the same file type but setting a higher compression level.
 
 ---
@@ -216,16 +222,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-subtitle-extraction-from-zip-archives-the-srt-solution/"><u>[New] Subtitle Extraction From ZIP Archives – The Srt Solution</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-box-enthusiasm/"><u>[New] The Ultimate Guide to Box Enthusiasm</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-affordable-minecraft-video-graphics/"><u>[Updated] In 2024, Affordable Minecraft Video Graphics</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>4 Feasible Ways to Fake Location on Facebook For your Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-celestial-canvas-unveiled-select-10-sites-for-high-quality-skies/"><u>In 2024, Celestial Canvas Unveiled Select 10 Sites for High-Quality Skies</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-free-webm-video-editing-software-top-picks/"><u>New In 2024, Free WebM Video Editing Software Top Picks</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/pioneering-a-new-world-in-visual-storytelling-spotlighting-the-top-10-budget-friendly-youtube-sites-for-2024/"><u>Pioneering a New World in Visual Storytelling Spotlighting the Top 10 Budget-Friendly YouTube Sites for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/universal-ai-chatbot-coaching-with-newly-released-chatgpt-enhancements/"><u>Universal AI Chatbot Coaching with Newly Released ChatGPT Enhancements</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unleashing-creativity-without-costly-fees-discover-alternatives-to-chatgpts-imagery/"><u>Unleashing Creativity Without Costly Fees - Discover Alternatives to ChatGPT's Imagery!</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unlocking-the-secrets-to-outstanding-documentary-storytelling-for-2024/"><u>Unlocking the Secrets to Outstanding Documentary Storytelling for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/volkswagen-unveils-eco-friendly-electric-golf-gti-prototype/"><u>Volkswagen Unveils Eco-Friendly Electric Golf GTI Prototype</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-how-to-add-auto-captions-to-instagram-stories-and-reels/"><u>[New] In 2024, How to Add Auto Captions to Instagram Stories and Reels?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-reducing-loudness-gradually-techniques-for-logic-pro-users/"><u>[New] Reducing Loudness Gradually Techniques for Logic Pro Users</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-crafting-a-memorable-look-back-experience-on-fb/"><u>[Updated] Crafting a Memorable Look Back Experience on FB</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-isolating-image-moments-from-videos-using-windows-photos-software/"><u>[Updated] In 2024, Isolating Image Moments From Videos Using Windows Photos Software</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-launchpad-to-digital-society-the-essentials-of-facebook-account-creation-for-2024/"><u>[Updated] Launchpad to Digital Society The Essentials of Facebook Account Creation for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-legalities-of-cutting-staff-based-on-chatgpt-implementation/"><u>The Legalities of Cutting Staff Based on ChatGPT Implementation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-rated-no-cost-mp4-to-avi-converter-for-windows-computers/"><u>Top-Rated No Cost MP4 to AVI Converter for Windows Computers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/understanding-electric-cars-how-expensive-is-it-to-recharge-them/"><u>Understanding Electric Cars: How Expensive Is It to Recharge Them?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/understanding-foldable-laptops-pros-and-cons-of-investing-in-a-portable-future/"><u>Understanding Foldable Laptops: Pros & Cons of Investing in a Portable Future</u></a></li>
+<li><a href="https://some-skills.techidaily.com/understanding-the-lifespan-of-electric-vehicle-batteries-a-comprehensive-guide/"><u>Understanding the Lifespan of Electric Vehicle Batteries: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleash-your-creativity-discover-klings-revolutionary-ai-video-production-technology/"><u>Unleash Your Creativity: Discover Kling's Revolutionary AI Video Production Technology</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-bing-chat-expert-strategies-for-harnessing-microsofts-advanced-artificial-intelligence-chatbot-capabilities/"><u>Unveiling Bing Chat: Expert Strategies for Harnessing Microsoft's Advanced Artificial Intelligence Chatbot Capabilities</u></a></li>
 </ul></div>
 

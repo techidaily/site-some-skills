@@ -1,7 +1,7 @@
 ---
 title: "Boost Productivity Fast: Efficiently Start Programs via Keyboard Triggers on Windows 11"
-date: 2024-09-16T22:25:21.292Z
-updated: 2024-09-17T23:10:57.804Z
+date: 2024-09-17T18:28:38.568Z
+updated: 2024-09-23T06:31:12.389Z
 tags:
   - deals
 categories:
@@ -68,13 +68,6 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 
 ![PowerToys Keyboard Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/powertoys-keyboard-manager.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To create your shortcut, first click "Add Shortcut Remapping." Click the pencil next to "Shortcut" and press the keys for your shortcut, then "OK" when done.
 
  Next, use the "Action" dropdown and click "Run Program", then click "Select Program" and find the program you want your shortcut to open.
@@ -86,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
  If you ever want to delete a shortcut, return to this screen and click the trash can.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Use AutoHotkey to Open Apps
@@ -100,15 +93,22 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 
 ![AutoHotkey with the 'New Script' option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/autohotkey-new-script.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Next, give your script a name and select the "Edit" button.
 
 ![A screenshot of AutoHotkey with the Name and Edit options highlighted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/autohotkey-name.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Choose Notepad (or a development environment of your choosing, if you're an advanced user) as the code editor and press "OK."
@@ -155,18 +155,18 @@ Run "C:\Program Files (x86)\Steam\steam.exe"
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-demystifying-youtube-analytics-views-subscriptions-and-profits/"><u>[New] 2024 Approved Demystifying YouTube Analytics Views, Subscriptions & Profits</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-prime-steps-to-modify-playback-rate-of-songs-in-spotify/"><u>[New] Prime Steps to Modify Playback Rate of Songs in Spotify</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-proven-ways-to-cash-in-instagrams-leading-revenue-methods/"><u>[Updated] 2024 Approved Proven Ways to Cash In Instagram's Leading Revenue Methods</u></a></li>
-<li><a href="https://some-skills.techidaily.com/9-essential-yet-underrated-features-in-evernote-for-enhanced-organization-and-workflow/"><u>9 Essential, Yet Underrated, Features in Evernote for Enhanced Organization and Workflow</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/comprehensible-guide-to-swapping-facial-gender-in-snapchat-images/"><u>Comprehensible Guide to Swapping Facial Gender in Snapchat Images</u></a></li>
-<li><a href="https://some-skills.techidaily.com/comprehensive-guide-to-linux-file-timestamps-decoding-atime-mtime-and-ctime-explained/"><u>Comprehensive Guide to Linux File Timestamps – Decoding Atime, Mtime, and Ctime Explained</u></a></li>
-<li><a href="https://some-skills.techidaily.com/decoding-visual-changes-a-complete-overview-of-desktop-images-in-windows-os-history/"><u>Decoding Visual Changes: A Complete Overview of Desktop Images in Windows OS History</u></a></li>
-<li><a href="https://some-skills.techidaily.com/explore-the-latest-in-ubuntu-2/"><u>Explore the Latest in Ubuntu 2</u></a></li>
-<li><a href="https://win-forum.techidaily.com/1722915141040-exploring-the-giants-of-social-networking-facebook-twitter-instagram-and-youtube/"><u>Exploring the Giants of Social Networking: Facebook, Twitter, Instagram & Youtube</u></a></li>
-<li><a href="https://some-skills.techidaily.com/guide-to-removing-individual-key-bindings-and-shortcuts-on-windows-keyboards/"><u>Guide to Removing Individual Key Bindings and Shortcuts on Windows Keyboards</u></a></li>
-<li><a href="https://some-skills.techidaily.com/how-microsoft-is-reinventing-the-print-experience-in-its-latest-windows-11-update/"><u>How Microsoft Is Reinventing the Print Experience in Its Latest Windows 11 Update</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-unlock-iphone-14-pro-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock iPhone 14 Pro without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/streaming-regional-films-via-usb-on-your-amazon-fire-stick-a-step-by-step-guide/"><u>Streaming Regional Films via USB on Your Amazon Fire Stick: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-affordable-webm-streaming-alternatives-unveiled/"><u>[Updated] Affordable WebM Streaming Alternatives Unveiled</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-identifying-your-one-of-a-kind-tiktok-sequence/"><u>[Updated] Identifying Your One-of-a-Kind TikTok Sequence</u></a></li>
+<li><a href="https://some-skills.techidaily.com/1-seamless-data-transition-mastering-the-art-of-using-windows-backup-for-upgrading-your-pc/"><u>1. Seamless Data Transition: Mastering the Art of Using Windows Backup for Upgrading Your PC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-classic-comedy-time-machine-the-goofy-tape-journey/"><u>2024 Approved Classic Comedy Time Machine The Goofy Tape Journey</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exclusive-techniques-to-maximize-windows-11/"><u>2024 Approved Exclusive Techniques to Maximize Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transform-textual-treasures-ae-font-exploration/"><u>2024 Approved Transform Textual Treasures AE Font Exploration</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-analysis-of-the-google-wifi-network-solution-perfect-choice-for-a-seamless-mesh-wi-fi-experience/"><u>Comprehensive Analysis of the Google Wifi Network Solution: Perfect Choice for a Seamless Mesh Wi-Fi Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/connect-seamlessly-with-friends-a-guide-to-facetime-calling-from-windows/"><u>Connect Seamlessly with Friends: A Guide to Facetime Calling From Windows</u></a></li>
+<li><a href="https://some-skills.techidaily.com/cost-effective-solutions-enjoy-apple-macintosh-elegance-at-a-fraction-of-the-price-with-secure-online-macbook-leasing-options/"><u>Cost-Effective Solutions: Enjoy Apple Macintosh Elegance at a Fraction of the Price with Secure Online Macbook Leasing Options</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-best-text-plugins-for-after-effects/"><u>In 2024, Best Text Plugins For After Effects</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-savor-success-ideas-to-bolster-cookery-channel-brands/"><u>In 2024, Savor Success Ideas to Bolster Cookery Channel Brands</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mastering-video-enhancement-converting-your-480p-content-into-high-definition-1080p-brilliance/"><u>Mastering Video Enhancement: Converting Your 480P Content Into High-Definition 1080P Brilliance</u></a></li>
+<li><a href="https://some-skills.techidaily.com/windows-aesthetics-unveiled-tracing-the-lineage-of-os-desktop-imagery/"><u>Windows Aesthetics Unveiled: Tracing the Lineage of OS Desktop Imagery</u></a></li>
 </ul></div>
 

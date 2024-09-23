@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Linux File Timestamps – Decoding Atime, Mtime, and Ctime Explained
-date: 2024-09-15T17:51:47.453Z
-updated: 2024-09-18T09:54:13.126Z
+date: 2024-09-22T04:45:49.741Z
+updated: 2024-09-22T23:51:01.428Z
 tags:
   - desktop
 categories:
@@ -42,13 +42,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  So, how many seconds can be stored in a timestamp? A lot—2,147,483,647, to be precise. That's a big number, but is it enough? If you add that to the Unix epoch, and then translate it to a date and time, you get Tuesday, January 19, 2038, at 03:14:07 a.m. We'll need a different scheme for timestamps before then, though.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Viewing Timestamps
 
  When you use the -l (long listing) option with ls, as shown below, [you can see the modified timestamp](http://man7.org/linux/man-pages/man1/ls.1.html):
@@ -73,13 +66,6 @@ stat dp.c
 
 ![stat dp.c in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/2-7.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The time zones are listed at the bottom of the display. As you can see, they have a very accurate, fractional seconds component. At the end of each timestamp, you also see a -0500 or -0400 .
 
  These are time zone offsets. The file system records the timestamps in UTC and converts them to the local time zone when displayed by stat. The computer we used to research this article is configured as if it were in the Eastern Standard Time (EST) zone of the U.S.
@@ -102,6 +88,19 @@ stat dp.c
 
 ![touch -a dp.c in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/3-8.png) 
 
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The access timestamp changed, as expected. However, the changed timestamp was updated as well; this is normal.
 
  To change the modified timestamp, you can use the -m (modified time) option:
@@ -123,6 +122,13 @@ touch -d "2020-01-15 10:30:45" dp.c
 stat dp.c
 
 ![touch -d "2020-01-15 10:30:45" dp.c in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/5-6.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  We've now set the access and modified timestamps to a date in the past. The changed timestamp was also updated to the current time of the computer.
 
@@ -167,19 +173,6 @@ less /etc/fstab
 
 ![The /etc/fstab file in less in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/8-5.png) 
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Here's the content of the file without the wrap-around:
 
         `# /etc/fstab: static file system information.  
@@ -187,10 +180,16 @@ less /etc/fstab
 ## 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Use 'blkid' to print the universally unique identifier for a  
@@ -200,6 +199,14 @@ less /etc/fstab
 
 ## 
 ## <file system> <mount point> <type> <options> <dump> <pass>  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## / was on /dev/sda1 during installation  
 UUID=4a143d08-8695-475b-8243-b13b56050fc2 / ext4 errors=remount-ro 0 1  
 /swapfile none swap sw 0 0`
@@ -216,13 +223,6 @@ cat /proc/mounts | grep "sda"
 
 ![cat /proc/mounts | grep "sda" in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/9-6.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now we see the following options:
 
 * **rw**: The file system will be mounted as a read and write file system.
@@ -235,6 +235,13 @@ cat /proc/mounts | grep "sda"
 * When no access timestamp options are used in /etc/fstab, and you're using Linux kernel 2.6.30 or newer.
 
  Our /etc/fstab entry for the ext4 file system didn't specify any access timestamp update options, so Linux made the sensible choice and used relatime.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Timestamps Are Important
 
@@ -265,14 +272,13 @@ cat /proc/mounts | grep "sda"
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-block-spontaneous-youtube-video-triggers/"><u>[New] 2024 Approved Block Spontaneous YouTube Video Triggers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-esports-news-and-analysis-from-top-vloggers-for-2024/"><u>[Updated] Esports News and Analysis From Top Vloggers for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-ultimate-guide-to-creating-engaging-youtube-channel-names-limit-it-to-156-characters/"><u>[Updated] The Ultimate Guide to Creating Engaging Youtube Channel Names (Limit It to 156 Characters)</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-unique-14-motion-graphics-showcasing-text-for-2024/"><u>[Updated] Unique 14 Motion Graphics Showcasing Text for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-an-honest-review-of-recordcast/"><u>2024 Approved An Honest Review of RecordCast</u></a></li>
-<li><a href="https://some-skills.techidaily.com/evolving-smartphone-intelligence-how-oneplus-is-integrating-advanced-ai-capabilities/"><u>Evolving Smartphone Intelligence: How OnePlus Is Integrating Advanced AI Capabilities</u></a></li>
-<li><a href="https://some-skills.techidaily.com/exciting-news-googles-bard-is-rolling-out-immediately-with-additional-plugin-support/"><u>Exciting News! Google's Bard Is Rolling Out Immediately with Additional Plugin Support</u></a></li>
-<li><a href="https://some-skills.techidaily.com/expert-analysis-of-the-velotric-go-1-ebike-ideal-for-carrying-luggage-and-passengers/"><u>Expert Analysis of the Velotric GO 1 eBike – Ideal for Carrying Luggage & Passengers</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/latest-guide-on-ipad-23-and-iphone-se-icloud-activation-lock-bypass-by-drfone-ios/"><u>Latest Guide on iPad 2/3 and iPhone SE iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-the-complete-guide-to-tunefabs-screen-capturing/"><u>[New] The Complete Guide to Tunefab's Screen Capturing</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-maximize-video-discoverability-key-youtube-seo-techniques/"><u>[Updated] 2024 Approved Maximize Video Discoverability Key YouTube SEO Techniques</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-no-price-just-perfect-screen-recordings-on-android/"><u>[Updated] In 2024, No Price, Just Perfect Screen Recordings on Android</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unlocking-the-mysteries-behind-youtube-wealth-ajey-nagar-edition/"><u>2024 Approved Unlocking the Mysteries Behind YouTube Wealth - Ajey Nagar Edition</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/assessing-the-proficiency-of-chatgpt-in-mathematical-problem-resolution/"><u>Assessing the Proficiency of ChatGPT in Mathematical Problem Resolution</u></a></li>
+<li><a href="https://some-skills.techidaily.com/global-access-boost-proton-vpn-enhances-censorship-avoidance-efforts-in-new-regions/"><u>Global Access Boost: Proton VPN Enhances Censorship Avoidance Efforts in New Regions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/july-16-2024-marks-the-start-of-amazon-prime-day-shopping-extravaganza/"><u>July 16, 2024 Marks the Start of Amazon Prime Day Shopping Extravaganza</u></a></li>
+<li><a href="https://some-skills.techidaily.com/june-20th-new-york-times-puzzle-solutions-and-answers-issue-375/"><u>June 20Th New York Times Puzzle Solutions & Answers (Issue #375)</u></a></li>
 </ul></div>
 

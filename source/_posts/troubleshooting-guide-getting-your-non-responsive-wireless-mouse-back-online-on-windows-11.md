@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Getting Your Non-Responsive Wireless Mouse Back Online on Windows 11"
-date: 2024-09-12T22:40:22.886Z
-updated: 2024-09-17T20:47:20.349Z
+date: 2024-09-16T03:25:03.356Z
+updated: 2024-09-22T21:23:57.066Z
 tags:
   - deals
 categories:
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 
  Disconnect the USB receiver, wait ten seconds, then plug it back in. This is age-old advice, but it may kick Windows to recognize the mouse.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Use a Different USB Port
 
  The USB port you're using for the receiver may be faulty, so use a different one to check. If your computer only has one USB port, you could use an adapter or a dongle that connects to a different port to provide more USB connections.
@@ -57,6 +64,13 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 
  Alternatively, if everything works on another device, it means the issue is with your computer rather than the mouse or receiver.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. Disable USB Power Management
 
  A USB receiver requires an adequate amount of power from the computer to work properly. Windows has a setting which disables USB devices to save power, and this can cause issues.
@@ -64,6 +78,13 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
  To change this, press Windows+X and select "Device Manager" from the pop-up menu.
 
 ![Windows 11 right-click Start Menu highlighting Device Manager option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-start-menu-options.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In Device Manager, scroll down and double-click the "Universal Serial Bus Controllers" section to expand it. Right-click "USB Root Hub" and select "Properties."
 
@@ -105,13 +126,6 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 
  If Windows Update doesn't detect any available driver updates, manually install them. To do this, go directly to the mouse manufacturer's website. They should have a driver section, or they might have dedicated software—in either case, download and run the executable, then follow the prompts.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  How to Roll Back the Mouse Drivers
 
  To [roll back the drivers](https://youtube-tips.techidaily.com/24-crafting-your-youtube-legacy-a-deep-dive-into-creator-studio-mastery/), press Windows+X and select "Device Manager." Double-click the "Mice and Other Pointing Devices" section to expand it. Right-click the wireless mouse and select "Properties."
@@ -119,10 +133,16 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 ![Windows 11 Device Manager window highlighting 'Mice and other pointing devices' right-click menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-device-manager-window-2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In the Properties window, select the "Driver" tab and click "Roll Back Driver."
@@ -130,13 +150,6 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 ![Windows 11 mouse Properties window highlighting 'Roll Back Driver' option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-mouse-properties-window.jpg) 
 
  Click "Yes" on the warning pop-up and wait until Windows automatically restores to the previous version.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  5\. Reset the USB Ports 
 
@@ -150,13 +163,6 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 
 ![Windows 11 Uninstall Pop-Up Warning window highlighting Uninstall button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-uninstall-pop-up-warning-window.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Repeat the above steps for each USB Root Hub on the list.
 
  Restart your computer, and it will automatically scan and reinstall the USB controllers. If it doesn't, go back to Device Manager and select Action > Scan for Hardware Changes.
@@ -168,13 +174,6 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 ![Click "Check for updates."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/win11_click_check_for_updates.jpg) 
 
  On the other hand, sometimes Windows updates can be buggy and be the root of the problem. If you recently updated Windows and your mouse stopped working afterward, [uninstall the recent Windows update](https://hardware-help.techidaily.com/download-updated-wireless-network-adapter-driver-for-windows-versions-win11-win10-win8-win7/) (Windows+i > Windows Update > Update History > Uninstall Updates).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  7\. Run a Malware Scan
 
@@ -199,6 +198,13 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 ![Windows 11 Add a device window highlighting Bluetooth mouse.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-add-a-device-window-1.jpg) 
 
  Wait until the connection is established. After a few seconds, your mouse is ready to use via Bluetooth.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  9\. Perform a System Restore
 
@@ -225,18 +231,20 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/updated-crafting-vague-scenes-skillful-use-of-gaussian-blur/"><u>[Updated] Crafting Vague Scenes Skillful Use of Gaussian Blur</u></a></li>
-<li><a href="https://some-skills.techidaily.com/arm-based-windows-computers-now-come-with-built-in-support-for-google-chrome/"><u>ARM-Based Windows Computers Now Come with Built-In Support for Google Chrome</u></a></li>
-<li><a href="https://some-skills.techidaily.com/avoidance-of-stage-manager-5-compelling-justifications-for-non-use-on-apples-ipad-and-macbook-platforms/"><u>Avoidance of Stage Manager: 5 Compelling Justifications for Non-Use on Apple's iPad and MacBook Platforms</u></a></li>
-<li><a href="https://some-skills.techidaily.com/boosting-linux-protection-6-essential-strategies-for-secure-computing/"><u>Boosting Linux Protection: 6 Essential Strategies for Secure Computing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/can-apples-gaming-performance-on-macs-match-pc-rivals-and-win-over-gamers/"><u>Can Apple's Gaming Performance on Macs Match PC Rivals and Win Over Gamers?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/compatibility-issues-with-windows-11-built-in-software-emerging-in-certain-computers/"><u>Compatibility Issues with Windows 11 Built-In Software Emerging in Certain Computers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/comprehensive-guide-easily-setting-up-and-controlling-fonts-on-macos/"><u>Comprehensive Guide: Easily Setting Up & Controlling Fonts on macOS</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/effizientes-video-umwandeln-mit-winx-hd-beschleunigte-konvertierung-und-verbesserte-videobehandlung-durch-gpu-unterstutzung/"><u>Effizientes Video Umwandeln Mit WinX HD - Beschleunigte Konvertierung Und Verbesserte Videobehandlung Durch GPU Unterstützung</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Realme GT 5? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-reno-10-pro-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo Reno 10 Pro 5G to Outlook | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/step-up-your-content-learn-how-to-make-captivating-youtube-shorts-for-2024/"><u>Step Up Your Content Learn How to Make Captivating YouTube Shorts for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-split-your-screen-for-free-top-online-and-offline-video-editors/"><u>Updated Split Your Screen for Free Top Online and Offline Video Editors</u></a></li>
-<li><a href="https://article-tips.techidaily.com/why-real-peoples-testimonial-videos-matter/"><u>Why Real People's Testimonial Videos Matter</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-green-background-blueprints-download-free-practical-template-guides/"><u>[Updated] Green Background Blueprints Download Free, Practical Template Guides</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-moto-z2-masterclass-smartphone-smarts-explored/"><u>[Updated] Moto Z2 Masterclass Smartphone Smarts Explored</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-honor-play-7t-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Honor Play 7T by Name | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/blu-raywindows-11/"><u>Blu-Rayプレイヤーが動かないWindows 11での専門家ガイド：根本原因分析と解決策</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/iptv-recording-on-various-platforms/"><u>IPTV Recording on Various Platforms</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/leading-voice-assistants-and-smart-speakers-a-2024-buyers-guide/"><u>Leading Voice Assistants & Smart Speakers - A 2024 Buyer's Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-troubleshooting-how-to-fix-the-ghostrunner-malfunction-on-your-windows-10-pc/"><u>Mastering Troubleshooting: How to Fix the Ghostrunner Malfunction on Your Windows 10 PC</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-guide-activating-and-deactivating-the-xbox-game-bar-on-windows-10/"><u>Ultimate Guide: Activating and Deactivating the Xbox Game Bar on Windows 10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-viewing-and-modifying-a-pages-file-on-desktop-pcs/"><u>Ultimate Guide: Viewing and Modifying a Pages File on Desktop PCs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-tutorial-on-performing-a-clean-installation-and-reboot-of-windows-11/"><u>Ultimate Tutorial on Performing a Clean Installation & Reboot of Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/uncover-the-best-kept-tricks-of-windows-11-to-enhance-your-experience/"><u>Uncover the Best-Kept Tricks of Windows 11 to Enhance Your Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-the-secrets-top-13-steps-to-access-windows-11-settings-easily/"><u>Unlocking the Secrets: Top 13 Steps to Access Windows 11 Settings Easily</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-best-10-emoji-apps-to-emoji-yourself-make-an-emoji-of-yourself-for-2024/"><u>Updated Best 10 Emoji Apps to Emoji Yourself-Make an Emoji of Yourself for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/weekly-tech-digest-unveiling-the-latest-features-of-modern-windows-laptops-and-exclusive-insights-into-upcoming-spotify-initiatives/"><u>Weekly Tech Digest: Unveiling the Latest Features of Modern Windows Laptops & Exclusive Insights Into Upcoming Spotify Initiatives</u></a></li>
+<li><a href="https://some-skills.techidaily.com/why-your-windows-pc-no-longer-seems-like-yours-understanding-emotional-attachment-and-technology/"><u>Why Your Windows PC No Longer Seems Like Yours: Understanding Emotional Attachment & Technology</u></a></li>
 </ul></div>
 

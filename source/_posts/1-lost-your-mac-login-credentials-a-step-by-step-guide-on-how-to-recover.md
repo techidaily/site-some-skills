@@ -1,7 +1,7 @@
 ---
 title: 1. Lost Your Mac Login Credentials? A Step-by-Step Guide on How to Recover
-date: 2024-09-11T20:17:19.835Z
-updated: 2024-09-17T18:26:08.265Z
+date: 2024-09-17T00:56:52.893Z
+updated: 2024-09-22T19:50:24.914Z
 tags:
   - desktop
 categories:
@@ -45,17 +45,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The setting that allows you to reset the password of another user.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/the-setting-that-allows-you-to-reset-the-password-of-another-user.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Reset Your Password Using Your Apple ID
@@ -66,9 +59,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The password reset options on the macOS lock screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/the-password-reset-options-on-the-macos-lock-screen.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  A dialog box will open, asking for your Apple ID email and password. Enter those and click "Reset Password."
 
 ![The reset password box on the macOS lock screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/the-reset-password-box-on-the-macos-lock-screen.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Next, you'll see a warning that you'll lose access to your keychain if you change the password, since the password for the keychain will remain the same. This is a problem, but if you ever remember the old password, you will be able to gain access to the keychain again. Click "OK" to continue.
 
@@ -84,13 +91,6 @@ Close
 
 ![The screen to reset the password on macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/the-screen-to-reset-the-password-on-macos.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Reset the Password From macOS Recovery
 
  As long as you've got your Apple ID tied to your Mac account, and can remember the login details, the steps above will get you back up and running again. But if you have any problems along the way, there are a few other things you can try.
@@ -105,13 +105,6 @@ Close
 
 ![Launch the Terminal through Recovery.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/launch-the-terminal-through-recovery.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  At the Terminal prompt, type:
 
         `resetpassword`
@@ -119,6 +112,13 @@ Close
  Then hit Enter to launch the Reset Password tool. On encrypted Macs, you'll be prompted to enter your Apple ID details, but on older, non-encrypted Macs you'll simply be able to reset your password.
 
 ![The Recovery Assistant password reset screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/the-recovery-assistant-password-reset-screen.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Erase Your Mac
 
@@ -129,10 +129,10 @@ Close
 ![The Erase Mac settings in macOS Recovery.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/the-erase-mac-settings-in-macos-recovery.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  If You're Running an Older Version of macOS
@@ -162,18 +162,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-10-igtv-channels-shaping-content-trends/"><u>[Updated] 2024 Approved The 10 IGTV Channels Shaping Content Trends</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-elite-capture-best-screen-recorder-apps-timelapse-for-2024/"><u>[Updated] Elite Capture Best Screen Recorder Apps (Timelapse) for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-premium-after-effects-text-enhancements/"><u>2024 Approved Premium After Effects Text Enhancements</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/apex-in-mobile-videography-select-the-10-best-phones-for-2024/"><u>Apex in Mobile Videography - Select the 10 Best Phones for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Vivo S18e? | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/laugh-loop-meme-treasures-for-diverse-events/"><u>Laugh Loop Meme Treasures for Diverse Events</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-to-correct-a-d3derrnotavailable-issue/"><u>Step-by-Step Solutions to Correct a D3DERR_NotAvailable Issue</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-test-of-the-inmotion-electric-scooter-unleashing-its-impressive-strength/"><u>The Ultimate Test of the InMotion Electric Scooter: Unleashing Its Impressive Strength</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-6-missteps-why-using-chatgpt-could-be-a-bad-idea/"><u>Top 6 Missteps: Why Using ChatGPT Could Be a Bad Idea</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-strategies-to-ensure-youre-making-the-right-choice-in-secondhand-evs/"><u>Top Strategies to Ensure You're Making the Right Choice in Secondhand EVs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transitioning-to-augmented-reality-my-journey-swapping-a-standard-monitor-for-ar-glasses/"><u>Transitioning to Augmented Reality: My Journey Swapping a Standard Monitor for AR Glasses</u></a></li>
-<li><a href="https://some-skills.techidaily.com/understanding-the-causes-of-electric-vehicle-battery-wear-and-tear/"><u>Understanding the Causes of Electric Vehicle Battery Wear and Tear</u></a></li>
-<li><a href="https://some-skills.techidaily.com/understanding-the-mechanics-of-electric-vehicle-battery-exchange-systems/"><u>Understanding the Mechanics of Electric Vehicle Battery Exchange Systems</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-in-depth-look-at-instagrams-video-time-restrictions/"><u>[New] 2024 Approved In-Depth Look at Instagram's Video Time Restrictions</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-leveraging-instagrams-newest-filters-techniques-and-trends/"><u>[New] 2024 Approved Leveraging Instagram's Newest Filters - Techniques and Trends</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-cutting-edge-imagery-iphones-photo-cropping-techniques/"><u>[Updated] In 2024, Cutting Edge Imagery IPhone's Photo Cropping Techniques</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-seamless-transition-fb-video-sharing-via-whatsapp/"><u>[Updated] In 2024, Seamless Transition FB Video Sharing via WhatsApp</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabled-apple-iphone-se-2020-how-to-unlock-a-disabled-apple-iphone-se-2020-drfone-by-drfone-ios/"><u>Disabled Apple iPhone SE (2020) How to Unlock a Disabled Apple iPhone SE (2020)? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-nubia-z50s-pro-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Nubia Z50S Pro Phone Screen?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-set-up-a-shared-network-printer-for-seamless-device-compatibility/"><u>How to Set Up a Shared Network Printer for Seamless Device Compatibility</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-radeon-r9-driver-crashes-on-win11/"><u>Overcoming Radeon R9 Driver Crashes on Win11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/qualcomm-atheros-bluetooth-drivers-failing-on-windows-10-easy-fixes-that-work/"><u>Qualcomm Atheros Bluetooth Drivers Failing on Windows 10: Easy Fixes That Work</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-impact-of-ai-on-next-gen-computing-power-expect-higher-specs-in-future-pcs/"><u>The Impact of AI on Next-Gen Computing Power: Expect Higher Specs in Future PCs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-4-thrilling-upcoming-space-missions-live-streams-available-now/"><u>Top 4 Thrilling Upcoming Space Missions: Live Streams Available Now!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-8-alternative-ai-chat-platforms-free-and-premium-options-beyond-chatgpt/"><u>Top 8 Alternative AI Chat Platforms: Free & Premium Options Beyond ChatGPT</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transforming-siri-into-chatgpt-for-enhanced-iphone-interaction-tips-and-tricks/"><u>Transforming Siri Into ChatGPT for Enhanced iPhone Interaction: Tips and Tricks</u></a></li>
 </ul></div>
 

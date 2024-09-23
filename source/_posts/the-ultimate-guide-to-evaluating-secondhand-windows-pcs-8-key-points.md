@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Evaluating Secondhand Windows PCs – 8 Key Points
-date: 2024-09-17T09:22:03.566Z
-updated: 2024-09-17T21:10:29.632Z
+date: 2024-09-20T19:00:53.032Z
+updated: 2024-09-23T05:02:41.031Z
 tags:
   - desktop
 categories:
@@ -46,6 +46,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Testing the laptop microphone in Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/2-testing-the-laptop-microphone-in-settings.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Test the Built-In Camera
 
  If you intend to use the laptop for video communication, test its built-in camera. To do this, type **Camera** in the Windows Search bar and open the Camera app.
@@ -66,25 +73,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Checking the laptop battery report.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/08/br_5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Ensure the Laptop Isn't Stolen
 
  If you're thinking about buying a used laptop from an unknown seller, make sure that it hasn't been stolen. One way to check this is to request a purchase receipt from the seller. If they are unable to provide one, this could be a red flag. If the laptop hasn't been reset, is password-protected, or is locked, these signs indicate that it's likely a stolen device.
 
  You can also confirm your suspicions by getting the laptop's serial number and contacting the manufacturer to verify whether the device has been reported stolen.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Perform the Physical Inspection
 
@@ -93,10 +86,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Also, watch out for stickers that may be covering up wear and tear underneath, as this is a common practice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Test the Wired and Wireless Connectivity
@@ -110,6 +103,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Finally, [check the health of the RAM](https://hardware-help.techidaily.com/step-by-step-installation-amd-gpio-pin-driver-for-hexagon-devices/) and storage drive to ensure they're not faulty. To test the RAM, you can use the Windows Memory Diagnostic tool, which detects and displays potential issues with it. To run the test, open Command Prompt as an administrator, type **mdsched.exe**, and press Enter. Then, click "Restart Now and Check for Problems."
 
 ![Running the memory diagnostic test from Windows Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/3-running-the-memory-diagnostic-test-from-windows-command-prompt.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Windows will restart and run the test. Once it finishes testing the RAM, it'll restart again and display the test results. If you don't see them, you can use the Windows Event Viewer to search for potential issues identified during the test. Open Event Viewer and go to Windows Logs > System. Click "Find," type **MemoryDiagnostic**, and click "Find Next."
 
@@ -134,21 +134,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-essential-techniques-for-convenient-iphone-screen-recording/"><u>[New] Essential Techniques for Convenient Iphone Screen Recording</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-bridging-games-and-friends-xbox-live-to-facebook-broadcasting/"><u>2024 Approved Bridging Games and Friends Xbox Live to Facebook Broadcasting</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-shopping-highlights-editing-steps-for-hauls-and-collections/"><u>2024 Approved Shopping Highlights Editing Steps for Hauls & Collections</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/easy-recording-tips-for-your-hp-laptops-camera/"><u>Easy Recording Tips for Your HP Laptop's Camera</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/embrace-change-on-the-move-with-flexible-tripod-12/"><u>Embrace Change on the Move with Flexible Tripod 12</u></a></li>
-<li><a href="https://some-skills.techidaily.com/exploring-the-need-for-enhanced-capabilities-in-modern-smartphones/"><u>Exploring the Need for Enhanced Capabilities in Modern Smartphones</u></a></li>
-<li><a href="https://some-skills.techidaily.com/get-your-personalized-internet-access-with-spacexs-new-portable-starlink-mini-device/"><u>Get Your Personalized Internet Access with SpaceX’s New Portable Starlink Mini Device</u></a></li>
-<li><a href="https://some-skills.techidaily.com/how-cozi-became-the-ultimate-tool-for-keeping-my-family-life-in-perfect-harmony/"><u>How Cozi Became the Ultimate Tool for Keeping My Family Life in Perfect Harmony</u></a></li>
-<li><a href="https://some-skills.techidaily.com/how-factory-restoring-can-potentially-ruin-your-pixel-6/"><u>How Factory Restoring Can Potentially Ruin Your Pixel 6</u></a></li>
-<li><a href="https://some-skills.techidaily.com/how-iphone-loyalists-embrace-apples-strict-guidelines-despite-limitations/"><u>How iPhone Loyalists Embrace Apple's Strict Guidelines Despite Limitations</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-leveraging-board-features-for-virtual-collaboration-android-ios-and-windows-guide/"><u>In 2024, Leveraging Board Features for Virtual Collaboration Android, iOS & Windows Guide</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/is-the-fitbit-charge-3-worth-buying-comprehensive-review/"><u>Is the Fitbit Charge 3 Worth Buying – Comprehensive Review</u></a></li>
-<li><a href="https://some-skills.techidaily.com/oneplus-tablet-2-unveiled-featuring-superior-3k-display-and-advanced-snapdragon-processor/"><u>OnePlus Tablet 2 Unveiled Featuring Superior 3K Display & Advanced Snapdragon Processor</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/um-tools-for-saving-your-live-video-memories-for-2024/"><u>Premium Tools for Saving Your Live Video Memories for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/retrospective-showdown-2023s-android-versus-the-first-lollipop-release-in-2014/"><u>Retrospective Showdown: 2023'S Android Versus the First Lollipop Release in 2014</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailoring-thumbnails-on-your-pc-a-guide/"><u>Tailoring Thumbnails on Your PC: A Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/12-surprising-tricks-you-never-knew-about-using-preview-on-your-mac/"><u>12 Surprising Tricks You Never Knew About Using Preview on Your Mac</u></a></li>
+<li><a href="https://some-skills.techidaily.com/7-tips-for-resolving-camera-not-found-on-windows-11-devices/"><u>7 Tips for Resolving 'Camera Not Found' On Windows 11 Devices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/a-comprehensive-tutorial-on-activating-and-deactivating-the-xbox-game-bar-in-windows-10-systems/"><u>A Comprehensive Tutorial on Activating and Deactivating the Xbox Game Bar in Windows 10 Systems</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-honor-magic-v2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/cultivating-patience-with-youtube-disapproval-for-2024/"><u>Cultivating Patience with YouTube Disapproval for 2024</u></a></li>
+<li><a href="https://win-top.techidaily.com/gratuitos-conversor-de-f4v-en-linea-con-movavi-movili/"><u>Gratuitos Conversor De F4V en Línea Con Movavi - Móvili</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-honor-90-gt-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-crafty-escapades-discover-top-imaginative-venues/"><u>In 2024, Crafty Escapades Discover Top Imaginative Venues</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-the-ultimate-users-guide-for-navigating-durecorder-world/"><u>In 2024, The Ultimate User’s Guide for Navigating DuRecorder World</u></a></li>
+<li><a href="https://some-skills.techidaily.com/1724884621616-lenovo-yoga-slim-7x-windows-snapdragon/"><u>Lenovo Yoga Slim 지갑쇼드라그래픅 7X 리뷰: Windows에서 Snapdragon은 완전히 안타깝게 신속하지 않음</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-discord-troubles-fixing-launch-failures-effectively/"><u>Mastering Discord Troubles: Fixing Launch Failures Effectively</u></a></li>
 </ul></div>
 

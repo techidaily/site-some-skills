@@ -1,7 +1,7 @@
 ---
 title: How to Set Up a Personal Streaming Station with Icecast on Linux
-date: 2024-09-11T07:59:31.382Z
-updated: 2024-09-18T09:00:18.313Z
+date: 2024-09-16T01:57:03.375Z
+updated: 2024-09-23T00:34:45.460Z
 tags:
   - desktop
 categories:
@@ -92,13 +92,6 @@ sudo systemctl status icecast.service
 
  Great! Now that Icecast is up, let's get started on our source client.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Choosing a Source Client
 
  There are 3 primary components of Icecast streaming: the source client, the Icecast server, and the listener client. They are all independent of each other and can all (and many times do) operate on different machines. A source client is what actually plays your music files, or streams live audio to Icecast. Icecast then distributes that stream to listeners via the HTTP protocol. It goes a little something like this:
@@ -133,15 +126,22 @@ ePirat / Xiph.org Foundation
 ![BUTT dialog window showing audio settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/butt-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Finally, go back to the "Main" tab and click "Save":
 
 ![BUTT dialog window showing main settings and to save configuration](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/butt-3.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  From here you can close the "Settings" window. When you're ready, click on the "Play" button, which will start your stream. If you've configured everything correctly, you'll currently be making your server's radio stream debut!
 
@@ -151,33 +151,19 @@ ePirat / Xiph.org Foundation
 
 ![Browser window asking for username and password to log into Icecast administration section](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/ff-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Select "Mountpoint List" from the main Admin page:
 
 ![Browser window showing Icecast administration section](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/ff-2.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Copy the "M3U" hyperlink:
 
 ![Browser window showing active Icecast mountpoints](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/ff-3.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This link, minus the .M3U extension, is what you will use to listen with your web browser.
@@ -189,6 +175,13 @@ ePirat / Xiph.org Foundation
  Using a web browser, paste the stream URL you copied above into the address bar (again, removing the .M3U extension) and hit Enter.
 
 ![Browser window playing Icecast stream in HTML5 audio player](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/ff-4.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Do you hear your stream? That's Icecast at work.
 
@@ -207,6 +200,13 @@ ePirat / Xiph.org Foundation
  These features and more are very well explained in the [official Icecast documentation](https://www.icecast.org/docs/).
 
  You can also use [port forwarding](https://facebook-videos.techidaily.com/new-in-2024-converting-stored-content-into-real-time-livestreams-on-social-media/) to access your stream from outside your local network.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Promoting Your Station
 
@@ -229,13 +229,15 @@ ePirat / Xiph.org Foundation
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-a-beginners-pathway-to-screen-casting-and-capturing-macos/"><u>[New] In 2024, A Beginner's Pathway to Screen Casting and Capturing macOS</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-obs-revived-camera-back-to-life/"><u>2024 Approved OBS Revived Camera Back to Life</u></a></li>
-<li><a href="https://some-skills.techidaily.com/exciting-news-googles-bard-is-rolling-out-immediately-with-additional-plugin-support/"><u>Exciting News! Google's Bard Is Rolling Out Immediately with Additional Plugin Support</u></a></li>
-<li><a href="https://some-skills.techidaily.com/expert-analysis-of-the-velotric-go-1-ebike-ideal-for-carrying-luggage-and-passengers/"><u>Expert Analysis of the Velotric GO 1 eBike – Ideal for Carrying Luggage & Passengers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/exploring-aviras-new-feature-integrated-cryptocurrency-mining-functionality/"><u>Exploring Avira's New Feature: Integrated Cryptocurrency Mining Functionality</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-ios-system-of-apple-iphone-14-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Vivo Y27s | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-xr-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone XR Data From iCloud | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-unleash-creativity-with-these-top-10-instagram-reel-apps/"><u>[New] Unleash Creativity with These Top 10 Instagram Reel Apps</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-vlc-screencasting-live-feed-webcam-integration/"><u>[Updated] 2024 Approved VLC Screencasting Live Feed – Webcam Integration</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-expert-strategies-for-seamless-clip-composition/"><u>[Updated] Expert Strategies for Seamless Clip Composition</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-mastering-video-quality-in-obs-for-2024/"><u>[Updated] Mastering Video Quality in OBS for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-driver-for-brother-hl-l23eb4e6dprinter-instant-download-available/"><u>Get the Latest Driver for Brother HL-L23eb4e6d_Printer - Instant Download Available</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-free-video-editing-made-easy-top-online-choices/"><u>New 2024 Approved Free Video Editing Made Easy Top Online Choices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/optimize-your-health-goals-with-the-top-iphone-workout-and-wellness-apps-for-staying-fit-in-the-sunny-season/"><u>Optimize Your Health Goals with the Top iPhone Workout and Wellness Apps for Staying Fit in the Sunny Season</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-next-big-thing-in-smartphones-exclusive-insights-into-the-iphone-16-16-pro-and-max/"><u>The Next Big Thing in Smartphones - Exclusive Insights Into the iPhone 16, 16 Pro & Max</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-13-creative-uses-for-your-outdated-android-device/"><u>Top 13 Creative Uses for Your Outdated Android Device</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-the-power-of-apple-music-radio-for-a-personalized-journey-into-new-sounds-join-me-on-this-musical-adventure/"><u>Unlock the Power of Apple Music Radio for a Personalized Journey Into New Sounds – Join Me on This Musical Adventure!</u></a></li>
 </ul></div>
 

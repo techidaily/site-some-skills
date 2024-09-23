@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Tutorial for Disabling SmartScreen Protection in Windows 10/8 Systems
-date: 2024-09-14T17:41:00.852Z
-updated: 2024-09-17T18:57:40.455Z
+date: 2024-09-17T22:19:20.567Z
+updated: 2024-09-22T17:34:23.837Z
 tags:
   - deals
 categories:
@@ -42,10 +42,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Click 'App and Browser Control.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-app-and-browser-control.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then click on "Reputation-based Protection Settings." 
@@ -58,22 +58,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Toggle 'Check Apps and Files' on or off.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-check-apps-and-files-1.png) 
 
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also control whether or not Windows Security will block potentially unwanted software. You can disable it completely, or you can set it to block apps or downloads individually. 
 
 ![The settings that allow SmartScreen to block Potentially Unwanted Programs.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-block-pups.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The "SmartScreen for Microsoft Edge" option controls [the SmartScreen filter build into the Microsoft Edge browser](https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-8-plus-by-drfone-ios/). It blocks malicious websites and downloads, but only in Microsoft Edge.
 
@@ -81,14 +75,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The "SmartScreen for Windows Store apps" filter is used when apps you download from the Windows Store access web content. It warns you before those apps load dangerous content.
 
-## ![The SmartScreen for Microsoft Store apps](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/for-windows-smartscreen.png)Disable SmartScreen on Windows 8
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## ![The SmartScreen for Microsoft Store apps](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/for-windows-smartscreen.png)Disable SmartScreen on Windows 8
 
  On Windows 8, you'll find this option in the Control Panel. Navigate to Control Panel > System and Security > Action Center.
 
@@ -97,10 +91,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![img_5912453496fed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/05/img_5912453496fed.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can then choose what Windows does with unrecognized programs. You can have Windows require administrator approval before running an unknown program, warn you without requiring administrator approval, or select "Don't do anything" to turn off Windows SmartScreen.
@@ -120,12 +120,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-expert-tips-on-sharing-colossal-video-content-ios-to-mac-connection/"><u>[New] In 2024, Expert Tips on Sharing Colossal Video Content IOS to Mac Connection</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-most-valuable-maps-top-treasures-in-terraria/"><u>[Updated] In 2024, Most Valuable Maps Top Treasures in Terraria</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-prime-websites-to-acquire-custom-youtube-ringtones/"><u>2024 Approved Prime Websites to Acquire Custom YouTube Ringtones</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-d3dx926dll-file-missing-issues-a-comprehensive-guide/"><u>Resolving d3dx9_26.dll File Missing Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/taking-over-android-googles-rise-as-premier-developer-of-additional-features/"><u>Taking Over Android: Google's Rise as Premier Developer of Additional Features</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-appeal-of-e-ink-technology-in-phones-exploring-my-motivations-for-going-digital-paperback/"><u>The Appeal of E-Ink Technology in Phones: Exploring My Motivations for Going Digital Paperback</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-interplay-between-apoptosis-autophagy-and-pyroptosis-can-determine-cell-fate-under-stress-conditions-they-are-not-mutually-exclusive-pathways/"><u>The Interplay Between Apoptosis, Autophagy, and Pyroptosis Can Determine Cell Fate Under Stress Conditions; They Are Not Mutually Exclusive Pathways.</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-leading-green-screen-systems-expert-utilization-tips/"><u>[Updated] 2024 Approved Leading Green Screen Systems Expert Utilization Tips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/1-explore-the-enhanced-experience-with-apples-macos-sequoia-unveiling-top-3-desired-functionalities/"><u>1. Explore the Enhanced Experience with Apple's macOS Sequoia: Unveiling Top 3 Desired Functionalities</u></a></li>
+<li><a href="https://some-skills.techidaily.com/1-lost-your-mac-login-credentials-a-step-by-step-guide-on-how-to-recover/"><u>1. Lost Your Mac Login Credentials? A Step-by-Step Guide on How to Recover</u></a></li>
+<li><a href="https://some-skills.techidaily.com/12-surprising-tricks-you-never-knew-about-using-preview-on-your-mac/"><u>12 Surprising Tricks You Never Knew About Using Preview on Your Mac</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-polishing-up-your-past-looking-back-in-style/"><u>2024 Approved Polishing Up Your Past Looking Back in Style</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-updated-nvidia-rtx-2080-super-driver-pack-compatible-with-windows-10-and-11/"><u>Download Updated NVIDIA RTX 2080 Super Driver Pack - Compatible with Windows 10 and 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/1724884621616-lenovo-yoga-slim-7x-windows-snapdragon/"><u>Lenovo Yoga Slim 지갑쇼드라그래픅 7X 리뷰: Windows에서 Snapdragon은 완전히 안타깝게 신속하지 않음</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-the-art-of-sharing-on-reddit-your-complete-guide-for-2024/"><u>Mastering the Art of Sharing on Reddit - Your Complete Guide for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-hey-siri-malfunctions-on-iphones-a-guide-to-17-effective-fixes/"><u>Overcoming 'Hey Siri' Malfunctions on iPhones: A Guide to 17 Effective Fixes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-updating-software-in-windows-11-a-simple-process/"><u>The Ultimate Guide to Updating Software in Windows 11: A Simple Process</u></a></li>
+<li><a href="https://win11.techidaily.com/traversing-technological-timelines-using-a-windows-7-key-in-windows-11-setup/"><u>Traversing Technological Timelines: Using a Windows 7 Key in Windows 11 Setup</u></a></li>
 </ul></div>
 

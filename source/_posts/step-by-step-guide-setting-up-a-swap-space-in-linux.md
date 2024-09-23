@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Setting Up a Swap Space in Linux"
-date: 2024-09-12T21:04:50.052Z
-updated: 2024-09-17T20:55:26.236Z
+date: 2024-09-17T17:55:57.132Z
+updated: 2024-09-23T00:51:53.443Z
 tags:
   - desktop
 categories:
@@ -60,6 +60,13 @@ thumbnail: https://thmb.techidaily.com/213b932fcd2c7374497ebb4064c054acfe0cd4d0b
 
  This is much less of a concern nowadays, and [many SSDs that are on sale have life expectancies that will outlast most PCs](https://mondly-stories.techidaily.com/arabic-for-beginners-a-step-by-step-guide/). A swap file on an SSD will have a far better performance than a swap partition on a mechanical hard drive.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Checking Existing Swap Space
 
  Look before you leap. Let's check what swap space is available on your computer. You can do this two ways, and we'll use both. [The free command will display the used and free memory](https://hardware-updates.techidaily.com/get-the-latest-lenovo-ideapad-vehicle-your-ultimate-guide-to-driver-updates-on-windows-10/). The -h (human readable) option will cause `free` to use sensible units when it displays the memory values.
@@ -94,6 +101,13 @@ swapon --show
 
  Pick [a swap file size from the table](https://help.ubuntu.com/community/SwapFaq#How%5Fmuch%5Fswap%5Fdo%5FI%5Fneed.3F), and run it for a while. Monitor your system's use of the swap space. If fine-tuning is required, changes are easily made. With swap files, It's a two-minute job. Compare that to adjusting partitions on a live Linux computer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Creating the Swap File
 
  You shouldn't use the `fallocate` command [to create your swapfile](http://man7.org/linux/man-pages/man1/fallocate.1.html). This is from the man page for `swapon`:
@@ -122,10 +136,10 @@ sudo dd if=/dev/zero of=/swapfile bs=1024 count=1048576
 ![sudo dd if=/dev/zero of=/swapfile bs=1024 count=1048576 in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/5-6.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Some statistics are provided when the file is created.
@@ -139,13 +153,6 @@ sudo dd if=/dev/zero of=/swapfile bs=1024 count=1048576
 ls /
 
 ![ls / in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/7-7.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Preparing the Swap File
 
@@ -164,13 +171,6 @@ sudo mkswap /swapfile
 sudo chmod 600 /swapfile
 
 ![sudo chmod 600 /swapfile in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/12-4.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This removes all permissions from the file group members and others, but allows the file owner, root, to read and write to the file.
 
@@ -207,13 +207,6 @@ sudo gedit /etc/fstab
 
  Save the changes and close the editor.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Checking Swap Usage
 
  To see if your swap space is being used, use the `swapon` command with the `--show` option:
@@ -230,6 +223,13 @@ swapon --show
 * **Used**: The amount of used swap space.
 * **Prio**: The priority of this swap space.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Swap Space Priority
 
  Each swap space is allocated a priority. If you don't provide one, one is automatically allocated. Automatically allocated priorities are always negative. The range of priorities that can be manually allocated is 0 to 32767\. Swap resources with higher priorities are used first.
@@ -245,13 +245,6 @@ swapon --show
 swapon -- show
 
 ![swapon -- show in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/15-2.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The priority of this swap space has been elevated to 10\. Which is proof positive that the options field in the `/etc/fstab` entry is not ignored.
 
@@ -272,6 +265,13 @@ sudo swapon /swapfile2
 swapon --show
 
 ![sudo dd if=/dev/zero /of=/swapfile2 bs=1024 count=104857 in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/16-2.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you want to make that permanent drop, it into your `/etc/fstab` file.
 
@@ -298,13 +298,18 @@ swapon --show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-assessing-the-video-capacity-of-64gb-drives/"><u>[New] 2024 Approved Assessing the Video Capacity of 64Gb Drives</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-tailored-techniques-to-procure-tweets-gifs/"><u>[New] In 2024, Tailored Techniques to Procure Tweets GIFs</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-perfecting-speech-recognition-on-google-platforms/"><u>[New] Perfecting Speech Recognition on Google Platforms</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y100t-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y100t If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/solving-common-problems-with-mp4-files-on-google-drive-expert-tips-and-tricks/"><u>Solving Common Problems with MP4 Files on Google Drive - Expert Tips & Tricks</u></a></li>
-<li><a href="https://some-skills.techidaily.com/step-by-step-guide-playback-and-conversion-of-music-tracks-from-your-cds-in-the-windows-operating-system/"><u>Step-by-Step Guide: Playback and Conversion of Music Tracks From Your CDs in the Windows Operating System</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-future-looks-bleak-why-you-wont-find-macos-on-your-ipad/"><u>The Future Looks Bleak: Why You Won't Find macOS on Your iPad</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-evaluating-secondhand-windows-pcs-8-key-points/"><u>The Ultimate Guide to Evaluating Secondhand Windows PCs – 8 Key Points</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-select-the-best-cameras-beyond-your-gopro-companion/"><u>[New] In 2024, Select the Best Cameras Beyond Your GoPro Companion</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-effortless-windows-11-must-know-essentials-for-2024/"><u>[Updated] Effortless Windows 11 Must-Know Essentials for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-discover-your-rhythm-assembling-tailored-youtube-playlists-for-the-digital-age-webmobile/"><u>2024 Approved Discover Your Rhythm Assembling Tailored YouTube Playlists for the Digital Age (Web/Mobile)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-honor-play-7t-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Honor Play 7T Phone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/easy-guide-adding-your-site-to-the-windows-11-taskbar-and-start-menu/"><u>Easy Guide: Adding Your Site to the Windows 11 Taskbar and Start Menu</u></a></li>
+<li><a href="https://some-skills.techidaily.com/efficient-file-comparison-techniques-using-notepadplusplus/"><u>Efficient File Comparison Techniques Using Notepad++</u></a></li>
+<li><a href="https://some-skills.techidaily.com/emerging-threat-hacker-exploits-in-the-latest-microsoft-office-software-packages/"><u>Emerging Threat: Hacker Exploits in the Latest Microsoft Office Software Packages</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ensuring-file-security-avoid-common-pitfalls-in-microsoft-onedrive/"><u>Ensuring File Security: Avoid Common Pitfalls in Microsoft OneDrive</u></a></li>
+<li><a href="https://some-skills.techidaily.com/how-does-conky-elevate-the-visual-appeal-of-your-linux-workspace/"><u>How Does Conky Elevate the Visual Appeal of Your Linux Workspace?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-vivo-t2x-5g-lock-screen-password-by-drfone-android/"><u>How To Change Vivo T2x 5G Lock Screen Password?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/how-to-set-up-a-personal-streaming-station-with-icecast-on-linux/"><u>How to Set Up a Personal Streaming Station with Icecast on Linux</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723014036325-quick-solutions-upping-the-pace-of-your-utorrent-transfer-speeds/"><u>Quick Solutions: Upping the Pace of Your uTorrent Transfer Speeds!</u></a></li>
+<li><a href="https://solve-help.techidaily.com/step-by-step-guide-successfully-streaming-flac-audio-on-your-iphone-and-ipad/"><u>Step-by-Step Guide: Successfully Streaming FLAC Audio on Your iPhone and iPad</u></a></li>
 </ul></div>
 

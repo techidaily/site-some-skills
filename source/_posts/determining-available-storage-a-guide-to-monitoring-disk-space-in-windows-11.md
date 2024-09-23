@@ -1,7 +1,7 @@
 ---
 title: "Determining Available Storage: A Guide to Monitoring Disk Space in Windows 11"
-date: 2024-09-13T00:58:06.882Z
-updated: 2024-09-17T16:17:31.122Z
+date: 2024-09-21T01:31:37.196Z
+updated: 2024-09-23T02:16:31.280Z
 tags:
   - deals
 categories:
@@ -36,10 +36,10 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
  In general, [Windows needs at least a few gigabytes of free storage space to perform optimally](https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-oneplus-12-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/). For example, it [uses this to cache important programs and virtual memory to disk](https://extra-tips.techidaily.com/updated-cinematic-masterpiece-dialogues/), which speeds up the operation of Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Check Free Space in the Settings App
@@ -48,13 +48,6 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 
 ![Search for 'storage,' then click 'Storage Settings.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-storage-settings.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Scroll down a bit in the Storage window and click "View Storage on Other Drives" under More Storage Settings. 
 
 ![Click 'View Storage on Other Drives.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4-view-storage.png) 
@@ -62,6 +55,19 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
  You'll see a list of every storage device attached to your PC—internal and external. 
 
 ![The storage drives on the example PC.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/5-storage-drives.png) 
+
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you're running low on space, consider [freeing up storage](https://youtube-clips.techidaily.com/culinary-carousel-swirling-up-top-food-network-names-for-2024/) by [uninstalling programs you no longer use](https://some-approaches.techidaily.com/swift-closure-of-a-linkedin-account-the-how-to-guide-for-2024/). Also, Windows 10 includes a handy "Free Up Space" tool that [helps you clean up your hard drive](https://vp-tips.techidaily.com/launch-free-dvd-playback-capabilities-on-windowsmac-laptops/).
 
@@ -80,19 +86,19 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/updated-next-gen-gaming-horizon-upcoming-bests-in-playstation-vr/"><u>[Updated] Next-Gen Gaming Horizon Upcoming Bests in PlayStation VR</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-soundtracks-for-snaps-a-guide-to-video-audio-selection/"><u>2024 Approved Soundtracks for Snaps A Guide to Video Audio Selection</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-oppo-reno-11f-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Oppo Reno 11F 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/disney-revolutionizes-home-entertainment-with-the-launch-of-its-new-max-streaming-collection/"><u>Disney Revolutionizes Home Entertainment with the Launch of Its New MAX Streaming Collection</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/immortals-fenyx-rising-crash-woes-now-sorted-and-running-smoothly/"><u>Immortals Fenyx Rising Crash Woes - Now Sorted and Running Smoothly</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Tecno Pova 5 | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-samsung-galaxy-f54-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Samsung Galaxy F54 5G FRP</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/poco-c51-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco C51 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/system-boost-with-updated-intel-82579lm-windows-driver-installation/"><u>System Boost with Updated Intel 82579LM Windows Driver Installation</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-8-essential-tips-for-maintaining-optimal-smartphone-performance/"><u>Top 8 Essential Tips for Maintaining Optimal Smartphone Performance</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-rated-usb-c-chargers-and-converters-expert-picks-for-2n25/"><u>Top Rated USB-C Chargers and Converters: Expert Picks for 2N25</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tracking-the-unseen-passenger-what-to-do-if-your-airtag-continues-its-travels-alongside-you/"><u>Tracking the Unseen Passenger: What to Do If Your AirTag Continues Its Travels Alongside You</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transformative-tips-how-iphones-elevate-the-road-trip-experience/"><u>Transformative Tips: How iPhones Elevate the Road Trip Experience</u></a></li>
-<li><a href="https://some-skills.techidaily.com/troubleshooting-homekit-connectivity-how-to-restore-response-in-your-smart-devices/"><u>Troubleshooting HomeKit Connectivity: How to Restore Response in Your Smart Devices</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-best-free-open-source-video-conferencing-software-ranked-by-industry-for-2024/"><u>[New] Best Free Open Source Video Conferencing Software Ranked by Industry for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-expertly-selected-8-filters-for-virtual-showcases-for-2024/"><u>[New] Expertly Selected 8 Filters for Virtual Showcases for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-effortless-access-to-videos-find-your-perfect-chromium-extension-for-fb-vids/"><u>[New] In 2024, Effortless Access to Videos Find Your Perfect Chromium Extension for FB Vids</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-microphone-feedback-audio-recorder/"><u>[New] Microphone Feedback Audio Recorder</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-cut-to-perfection-10-premier-online-video-editors-ranked-for-2024/"><u>[Updated] Cut to Perfection 10 Premier Online Video Editors Ranked for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/7-tips-for-resolving-camera-not-found-on-windows-11-devices/"><u>7 Tips for Resolving 'Camera Not Found' On Windows 11 Devices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/a-comprehensive-tutorial-on-activating-and-deactivating-the-xbox-game-bar-in-windows-10-systems/"><u>A Comprehensive Tutorial on Activating and Deactivating the Xbox Game Bar in Windows 10 Systems</u></a></li>
+<li><a href="https://some-skills.techidaily.com/apple-launches-self-repair-initiative-adding-support-for-m3-series-to-its-range/"><u>Apple Launches Self-Repair Initiative, Adding Support for M3 Series to Its Range</u></a></li>
+<li><a href="https://some-skills.techidaily.com/arm-based-windows-computers-now-come-with-built-in-support-for-google-chrome/"><u>ARM-Based Windows Computers Now Come with Built-In Support for Google Chrome</u></a></li>
+<li><a href="https://some-skills.techidaily.com/avoidance-of-stage-manager-5-compelling-justifications-for-non-use-on-apples-ipad-and-macbook-platforms/"><u>Avoidance of Stage Manager: 5 Compelling Justifications for Non-Use on Apple's iPad and MacBook Platforms</u></a></li>
+<li><a href="https://some-skills.techidaily.com/boosting-linux-protection-6-essential-strategies-for-secure-computing/"><u>Boosting Linux Protection: 6 Essential Strategies for Secure Computing</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-6s-official-method-to-unlock-your-iphone-6s-by-drfone-ios/"><u>How To Unlock iPhone 6s Official Method to Unlock Your iPhone 6s</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-top-rated-motion-graphics-software-for-text-tracking/"><u>New In 2024, Top-Rated Motion Graphics Software for Text Tracking</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719581512791-revolutionize-your-year-with-unlimited-lifetime-access-to-mondly-premium-at-no-cost/"><u>Revolutionize Your Year with Unlimited Lifetime Access to Mondly Premium at No Cost!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Eliminating Unwanted Functionality in Microsoft Edge: A Step-by-Step Guide"
-date: 2024-09-11T06:23:09.454Z
-updated: 2024-09-17T22:31:14.668Z
+date: 2024-09-17T02:16:32.077Z
+updated: 2024-09-22T22:03:02.260Z
 tags:
   - deals
 categories:
@@ -52,16 +52,16 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
 
 ![Settings option in Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/settings-option-in-edge.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the Edge Settings menu, select "System and Performance" from the left sidebar and turn off the "Continue running background extensions and apps when Microsoft Edge is closed" and "Startup Boost" toggles on the right.
 
 ![Startup Boost option in Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/startup-boost-option-in-edge.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Change the Look Of Your Edge Browser
 
@@ -72,10 +72,10 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
 ![System Default option in Edge](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/system-default-option-in-edge.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Next, in the top-left corner of the Edge browser, you will find a square icon called the "Tab Actions Menu" that allows you to manage tabs that are opened in the browser. You can access this menu to switch to [vertical tabs](https://youtube-sure.techidaily.com/n-2024-best-8-youtube-editing-software-for-linux/), look for a particular tab, and do many other tab-related things. However, as a general user, you are rarely going to need to access this menu. Therefore, it's better to disable it.
@@ -85,6 +85,13 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
  To do that, open the Edge Settings menu, select "Appearance," and disable the "Show Tab Actions Menu" toggle on the right. You should also disable the "Show Tab Preview on Hover" toggle, as it shows a [preview of the tabs](https://remote-screen-capture.techidaily.com/the-evolution-of-video-capturing-insights-into-the-latest-apeaksoft-software/) when you hover over them. I really can't find any use case for this feature and I don't think anyone ever actually hovers over a tab to view its content, as the content will be too small to see.
 
 ![Show tab action menu option in Edge](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/show-tab-action-menu-option-in-edge.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The next section you should edit in the Edge browser is its toolbar. By default, the Edge toolbar contains a lot of unnecessary options like [Collections](https://twitter-videos.techidaily.com/updated-in-2024-how-to-deafen-silent-tweets-impact/) that you're rarely going to use. It's better to get rid of those options and only keep the necessary ones. I would recommend disabling the toggle for all these options:
 
@@ -104,17 +111,10 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
 ![Show Workspaces toggle in Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/show-workspaces-toggle-in-edge.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Adjust Edge Web Services
@@ -146,21 +146,16 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-step-by-step-guide-to-mastering-streamlabs-obs-usage-for-2024/"><u>[Updated] Step-by-Step Guide to Mastering Streamlabs OBS Usage for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/charting-the-past-the-inception-of-ai/"><u>Charting the Past: The Inception of AI</u></a></li>
-<li><a href="https://some-skills.techidaily.com/decoding-project-fuchsia-exploring-googles-covert-and-revolutionary-os-endeavour/"><u>Decoding Project Fuchsia: Exploring Google's Covert and Revolutionary OS Endeavour</u></a></li>
-<li><a href="https://some-skills.techidaily.com/discover-key-answers-in-todays-nyt-puzzle-challenge-august-21-connect-the-dots-with-hint-437/"><u>Discover Key Answers in Today's NYT Puzzle Challenge - August 21, Connect the Dots with Hint #437!</u></a></li>
-<li><a href="https://some-skills.techidaily.com/discover-more-with-google-lens-and-look-up-images-instantly-introducing-learn-about-this-photo/"><u>Discover More with Google Lens & Look Up Images Instantly - Introducing 'Learn About This Photo'</u></a></li>
-<li><a href="https://some-skills.techidaily.com/discover-the-most-loved-google-doodle-titles-to-enjoy-today/"><u>Discover the Most Loved Google Doodle Titles to Enjoy Today</u></a></li>
-<li><a href="https://some-skills.techidaily.com/discover-the-overlooked-youtube-function-both-you-and-i-miss/"><u>Discover the Overlooked YouTube Function Both You & I Miss</u></a></li>
-<li><a href="https://some-skills.techidaily.com/earning-money-by-using-microsofts-bing-a-personal-experience-of-successful-rewards/"><u>Earning Money by Using Microsoft's Bing - A Personal Experience of Successful Rewards</u></a></li>
-<li><a href="https://some-skills.techidaily.com/enhanced-security-protonpass-introduces-shared-login-feature/"><u>Enhanced Security: ProtonPass Introduces Shared Login Feature</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-xiaomi-redmi-note-12-5g-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Xiaomi Redmi Note 12 5G</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-nokia-c32-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Nokia C32 | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-on-iphone-13-by-drfone-ios/"><u>How to Bypass iCloud Lock on iPhone 13</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-oneplus-ace-2v-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From OnePlus Ace 2V to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-yt-treasure-hunt-accessing-previously-deleted-content/"><u>In 2024, YT Treasure Hunt Accessing Previously Deleted Content</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/making-a-difference-structuring-video-content-with-chapters/"><u>Making a Difference Structuring Video Content with Chapters</u></a></li>
-<li><a href="https://fox-that.techidaily.com/one-airpod-loud-and-proud-the-other-quiet-unravel-this-mystery-and-learn-the-four-solutions/"><u>One AirPod Loud and Proud, The Other Quiet – Unravel This Mystery & Learn the Four Solutions!</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-boosting-channel-profitability-famebit-powered-sponsorship-tactics/"><u>[New] 2024 Approved Boosting Channel Profitability FameBit-Powered Sponsorship Tactics</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-what-is-anime-filter-on-snapchat-how-to-get-it/"><u>[New] What Is Anime Filter On Snapchat? [How to Get It]</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-step-by-step-guide-instal-subtitles-on-mediaplayer/"><u>2024 Approved Step-by-Step Guide Instal Subtitles on MediaPlayer</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/best-fixes-for-computer-speakers-not-working/"><u>Best Fixes for Computer Speakers Not Working</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/microsoft-rolls-out-latest-windows-11-version-1607-kb5040442-patch/"><u>Microsoft Rolls Out Latest Windows 11 Version 1607 (KB5040442) Patch</u></a></li>
+<li><a href="https://some-skills.techidaily.com/my-top-pick-for-windows-the-simple-power-of-the-unassuming-notepad/"><u>My Top Pick for Windows: The Simple Power of the Unassuming Notepad</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/professional-webcam-setup-on-macbook/"><u>Professional Webcam Setup on MacBook</u></a></li>
+<li><a href="https://some-skills.techidaily.com/review-of-lenovo-legion-7i-16th-generation-unveiled-surprisingly-powerful-performance-for-its-category/"><u>Review of Lenovo Legion 7I 16Th Generation Unveiled: Surprisingly Powerful Performance for Its Category</u></a></li>
+<li><a href="https://some-skills.techidaily.com/save-big-get-a-whopping-88-discount-on-upgrading-to-windows-11-pro-act-now/"><u>Save Big: Get a Whopping 88% Discount on Upgrading to Windows 11 Pro – Act Now!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/shift-your-taskbar-icons-leftwards-in-windows-11-with-ease-complete-tutorial/"><u>Shift Your Taskbar Icons Leftwards in Windows 11 with Ease - Complete Tutorial</u></a></li>
 </ul></div>
 

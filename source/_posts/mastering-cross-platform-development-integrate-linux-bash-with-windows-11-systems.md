@@ -1,7 +1,7 @@
 ---
 title: "Mastering Cross-Platform Development: Integrate Linux Bash with Windows 11 Systems"
-date: 2024-09-13T00:14:56.352Z
-updated: 2024-09-17T20:54:47.566Z
+date: 2024-09-20T21:40:34.467Z
+updated: 2024-09-22T22:57:39.143Z
 tags:
   - deals
 categories:
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/655813b140cebedb2250090e80755301611474980
 
 ##  What You Need to Know About Windows 10's Bash Shell
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  How Windows Subsystem for Linux 1 (WSL1) Works
 
  Windows 10 offers a full Windows Subsystem intended for Linux (WSL) for running Linux software. This isn't a [virtual machine](https://remote-screen-capture.techidaily.com/2024-approved-essential-guide-video-recording-with-vlc/), a container, or Linux software compiled for Windows (like [Cygwin](https://tech-savvy.techidaily.com/global-network-ai-versus-closed-system-deployment/)). It's based on Microsoft's abandoned Project Astoria work for running Android apps on Windows.
@@ -48,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/655813b140cebedb2250090e80755301611474980
 
  WSL2 supports GUI applications on Windows 11.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Install Bash on Windows 10
 
  This feature doesn't work on the 32-bit version of Windows 10, so [ensure you're using the 64-bit version of Windows](https://extra-tips.techidaily.com/acclaimed-websites-for-google-pixel-tonal-sounds-for-2024/). It's time to [switch to the 64-bit version of Windows 10](https://facebook-record-videos.techidaily.com/understanding-filmoras-creative-certification-protocol-for-2024/) if you're still using the 32-bit version, anyway.
@@ -65,6 +79,13 @@ wsl --install
  It'll take a few minutes to download and install all of the required components --- after it does, you need to restart your computer.
 
 ![PowerShell running WSL install command successfully.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/WSL-install.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After your computer restarts, open the Microsoft Store from the Start menu, and search for "Linux" in the store.
 
@@ -142,13 +163,6 @@ wsl --install
 
 ![Installing GNU Compiler Collection with apt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a985e7d80a6b.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Install the Ubuntu Font for a True Ubuntu Experience
 
  If you want a more accurate Ubuntu experience on Windows 10, you can also install the Ubuntu fonts and enable them in the terminal. You don't have to do this, as the default Windows command prompt font looks pretty good to us, but it's an option.
@@ -157,6 +171,13 @@ wsl --install
 
 ![The default font, Consolas.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a9864cb2035c.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To install the font, first download the [Ubuntu Font Family](http://font.ubuntu.com/) from Ubuntu's website. Open the downloaded .zip file and locate the "UbuntuMono-R.ttf" file. This is the Ubuntu monospace font, which is the only one used in the terminal. It's the only font you need to install.
 
 ![Open the font ZIP file, then double-click the font you want to preview or install.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a985eba01a04.png) 
@@ -164,20 +185,6 @@ wsl --install
  Double-click the "UbuntuMono-R.ttf" file and you'll see a preview of the font. Click "Install" to install it to your system.
 
 ![Click &quot;Install&quot; near the top if you want to use the font.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a985ee273570.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Use the Ubuntu Monospace Font in the Console
 
@@ -199,37 +206,24 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Console\TrueType
 
 ![Right-click the title bar of the terminal application you're using, go to &quot;Properties,&quot; then click &quot;Font.&quot; Select &quot;Ubuntu Mono&quot; from the list.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a986560320a0.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Use the Ubuntu Monospace Font in the Terminal
 
  If you're using the Windows Terminal—and you should be, it is [a big improvement in most ways](https://video-screen-grab.techidaily.com/updated-2024-approved-effortless-screen-saving-on-android-devices/)—changing fonts is easier. After you've installed the Ubuntu font, open up the Terminal, click the small downward facing arrow, and select "Settings."
 
 ![Open the Terminal Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/open-settings-terminal.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Open to Defaults > Appearance, then select "Ubuntu Mono" from the list of available fonts.
 
  The Terminal automatically expands or collapses the labels in the left sidebar depending on the size of your window, much like the Settings app does. You may not see the "Default" text label depending on the size of your window.
 
 ![Enable the Ubuntu Mono font.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/font-ubuntu-mono.png) 
-
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Remember: software you install in the Bash shell is restricted to the Bash shell. You can access these programs from the Command Prompt, PowerShell, or elsewhere in Windows, but only if you [run the bash -c command](https://vp-tips.techidaily.com/building-a-brand-with-captivating-haul-videos-and-edits/).
 
@@ -248,18 +242,21 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Console\TrueType
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://pokemon-go-android.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/crack-the-code-of-june-28ths-nyt-connections-quiz-hints-and-answers/"><u>Crack the Code of June 28Th's NYT Connections Quiz, Hints & Answers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/cracking-the-nyt-connections-challenge-key-tips-and-answers-for-julys-update-410/"><u>Cracking the NYT Connections Challenge: Key Tips and Answers for July's Update (#410)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/enhancing-online-security-the-importance-of-using-longer-passwords/"><u>Enhancing Online Security: The Importance of Using Longer Passwords</u></a></li>
-<li><a href="https://some-skills.techidaily.com/global-rollout-of-googles-contentious-search-functionality-sparks-debate/"><u>Global Rollout of Google's Contentious Search Functionality Sparks Debate</u></a></li>
-<li><a href="https://some-skills.techidaily.com/how-reddit-limits-visibility-key-search-engines-barred-entry/"><u>How Reddit Limits Visibility: Key Search Engines Barred Entry</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-samsung-galaxy-z-flip-5-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Samsung Galaxy Z Flip 5 on Windows??</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-on-iphone-15-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication On iPhone 15</u></a></li>
-<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Realme C33 2023? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/mozilla-firefox-enhances-user-experience-with-new-features-vertical-tabs-and-advanced-tab-groups/"><u>Mozilla Firefox Enhances User Experience with New Features: Vertical Tabs & Advanced Tab Groups</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-ultimate-compilation-top-vr-games-on-google-cardboard/"><u>The Ultimate Compilation Top VR Games on Google Cardboard</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-non-functional-skype-mic-on-windows-11/"><u>Troubleshooting Guide: Fixing Non-Functional Skype Mic on Windows 11</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/whos-following-amazon-prime-series-with-the-highest-tweets-2023/"><u>Who's Following? Amazon Prime Series with the Highest Tweets, 2023</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-capturing-content-the-leading-online-television-recordings-for-2024/"><u>[New] Capturing Content The Leading Online Television Recordings for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-mastering-auto-play-on-fb-video-streams/"><u>[New] Mastering Auto-Play on FB Video Streams</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-craft-the-perfect-stream-a-comprehensive-guide-to-youtubes-full-rotation-videos/"><u>[Updated] In 2024, Craft the Perfect Stream A Comprehensive Guide to YouTube’s Full-Rotation Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-excellent-selection-of-top-8-blu-ray-player-models/"><u>2024 Approved Excellent Selection of Top 8 Blu-Ray Player Models</u></a></li>
+<li><a href="https://some-skills.techidaily.com/apples-services-interrupted-iphone-applications-failing-due-to-system-outages/"><u>Apple's Services Interrupted: IPhone Applications Failing Due to System Outages</u></a></li>
+<li><a href="https://some-skills.techidaily.com/are-folding-phone-innovations-just-for-show-or-here-to-stay-in-the-tech-world/"><u>Are Folding Phone Innovations Just for Show, or Here to Stay in the Tech World?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/celebrate-the-4th-of-july-with-a-spectacular-offer-from-urban-armor-gear-enjoy-20-savings-across-our-entire-collection/"><u>Celebrate the 4Th of July with a Spectacular Offer From Urban Armor Gear - Enjoy 20% Savings Across Our Entire Collection!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/comparing-pixel-pro-8-and-oneplus-12-which-smartphone-takes-the-crown/"><u>Comparing Pixel Pro 8 & OnePlus 12 – Which Smartphone Takes the Crown?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/discover-effortless-iphone-circle-searching-with-this-simple-shortcut/"><u>Discover Effortless iPhone Circle Searching with This Simple Shortcut</u></a></li>
+<li><a href="https://some-skills.techidaily.com/dry-gangrene-involves-coagulative-and-ischemic-changes-without-a-secondary-infection-while-wet-gangrene-includes-superimposed-bacterial-invasion-leading-to-49/"><u>Dry Gangrene Involves Coagulative and Ischemic Changes without a Secondary Infection, While Wet Gangrene Includes Superimposed Bacterial Invasion Leading to Liquefactive Necrosis.</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/enable-scanner-activation-after-updating-win10/"><u>Enable Scanner Activation After Updating Win10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/imoviewindowspc/"><u>IMovie免费Windows版：如何在PC上安装并使用</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-apple-iphone-x-and-browser-drfone-by-drfone-virtual-ios/"><u>In 2024, Prevent Cross-Site Tracking on Apple iPhone X and Browser | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/trasforma-file-aac-nel-formato-m4a-senza-costi-il-modo-piu-semplice-online-con-convertitore-di-media-di-movavi/"><u>Trasforma File AAC Nel Formato M4A Senza Costi: Il Modo Più Semplice Online Con Convertitore Di Media Di Movavi!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/understanding-chipset-drivers-installation-guide-and-tips/"><u>Understanding Chipset Drivers: Installation Guide & Tips</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Substituting Characters with Line Breaks Using Notepad++
-date: 2024-09-11T04:34:51.813Z
-updated: 2024-09-18T05:55:53.212Z
+date: 2024-09-15T16:26:55.280Z
+updated: 2024-09-23T03:48:41.323Z
 tags:
   - deals
 categories:
@@ -56,6 +56,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  If you want to reverse the process, just open Search > Replace in the menu again. In the "Find What" box, enter "\\n". In the Replace with box, type the character that you want to replace it with. Make sure "Extended" is selected and click "Replace All," and your list will go back to being separated by a standard character, such as a comma or pipe.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Convert a Newline Character into Any Other Separator
 
  Likewise, you can also replace the newline character with any other separator using the same method as described above in Notepad++. (There are only a few minor differences in the process [due to the different ways that various platforms handle newlines](https://en.wikipedia.org/wiki/Newline).)
@@ -63,13 +70,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  To do this, open Notepad++ and the text file that you want to convert or paste your items list into.
 
 ![New-line items list in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/paste-list.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In your Notepad++ window, click the "Edit" menu and select Blank Operations > EOL to Space. Here, EOL means "End of Line," and this option converts the invisible newline characters into spaces.
 
@@ -80,10 +80,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![List items on one line in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/items-one-line.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To convert this into a comma-separated list using Notepad++, click Search > Replace in the menu.
@@ -96,22 +96,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Replace window in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/new-line-comma.png) 
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Your list items will now be separated by the new separator you chose.
 
 ![Replace window in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/new-line-comma.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Repeat this as often as you'd like, and you'll have all your lists in perfect shape quickly.
 
@@ -132,17 +126,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-displaycast-critique-service-for-2024/"><u>[New] DisplayCast Critique Service for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-key-pillars-top-6-social-platforms-benefiting-businesses/"><u>[New] In 2024, Key Pillars Top 6 Social Platforms Benefiting Businesses</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-continuous-streams-perfect-loops-of-youtube-videos-for-tvs-for-2024/"><u>[Updated] Continuous Streams Perfect Loops of YouTube Videos for TVs for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-discovering-superior-alternatives-to-cyberlink-for-2024/"><u>[Updated] Discovering Superior Alternatives to Cyberlink for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-precision-video-capture-experts/"><u>2024 Approved Precision Video Capture Experts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/bard-vs-chatgpt-showdown-determining-the-ultimate-ai-conversationalist/"><u>Bard Vs. ChatGPT Showdown: Determining the Ultimate AI Conversationalist</u></a></li>
-<li><a href="https://some-skills.techidaily.com/beyond-our-planet-exploring-how-space-technology-could-resolve-terrestrial-issues/"><u>Beyond Our Planet: Exploring How Space Technology Could Resolve Terrestrial Issues</u></a></li>
-<li><a href="https://some-skills.techidaily.com/boost-productivity-switch-from-complex-excel-formulas-to-efficient-chatgpt-solutions/"><u>Boost Productivity: Switch From Complex Excel Formulas to Efficient ChatGPT Solutions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/can-i-safely-mount-my-own-tesla-ev-charger-in-the-yard/"><u>Can I Safely Mount My Own Tesla EV Charger in the Yard?</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-infinix-smart-8-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Infinix Smart 8 Pro Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-xiaomi-redmi-k70e-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Xiaomi Redmi K70E FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/insurgency-how-to-fix-sandstorm-game-crashes/"><u>Insurgency: How to Fix Sandstorm Game Crashes</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-immersive-experience-creating-rich-skype-recordings-using-obs-for-2024/"><u>[Updated] Immersive Experience Creating Rich Skype Recordings Using OBS for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-innovative-solutions-advanced-mobile-recording-on-android/"><u>[Updated] Innovative Solutions Advanced Mobile Recording on Android</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2-cracking-todays-puzzle-uncover-secrets-of-nyt-connections-hints-for-june-9-364/"><u>2. 'Cracking Today's Puzzle: Uncover Secrets of NYT Connections Hints for June 9 (#364)'</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-top-applications-for-remote-team-connection/"><u>2024 Approved Top Applications for Remote Team Connection</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/a-guide-to-fixing-unresponsive-nvidia-video-output-connections/"><u>A Guide to Fixing Unresponsive Nvidia Video Output Connections</u></a></li>
+<li><a href="https://some-skills.techidaily.com/account-safety-boosted-with-new-recovery-codes-in-1password-reducing-risk-of-access-denials/"><u>Account Safety Boosted with New Recovery Codes in 1Password, Reducing Risk of Access Denials</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ai-powered-techniques-to-scale-up-and-revitalize-classic-images-sans-photoshop/"><u>AI-Powered Techniques to Scale Up and Revitalize Classic Images Sans Photoshop</u></a></li>
+<li><a href="https://some-skills.techidaily.com/apple-maps-upgrades-with-new-authentic-browser-based-functionality/"><u>Apple Maps Upgrades with New, Authentic Browser-Based Functionality</u></a></li>
+<li><a href="https://some-skills.techidaily.com/august-16th-new-york-times-connection-quiz-uncover-hidden-answers-431/"><u>August 16Th New York Times Connection Quiz: Uncover Hidden Answers #431</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-warcraft-3-reforged-stability-fixes-for-pc-users-top-tips-of-2n4/"><u>Mastering Warcraft 3 Reforged Stability Fixes for PC Users - Top Tips of 2N4</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-ultimate-path-to-crafting-killer-podcast-names-plus-inspiration-sparks-for-2024/"><u>The Ultimate Path to Crafting Killer Podcast Names, Plus Inspiration Sparks for 2024</u></a></li>
 </ul></div>
 

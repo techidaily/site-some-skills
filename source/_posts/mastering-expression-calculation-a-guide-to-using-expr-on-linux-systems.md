@@ -1,7 +1,7 @@
 ---
 title: "Mastering Expression Calculation: A Guide to Using 'Expr' On Linux Systems"
-date: 2024-09-16T10:18:35.723Z
-updated: 2024-09-18T05:58:04.468Z
+date: 2024-09-15T21:35:44.234Z
+updated: 2024-09-22T16:44:32.341Z
 tags:
   - desktop
 categories:
@@ -60,6 +60,13 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
     
 ![Linux terminal with expr command documentation](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-11.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To check the expr command version, run:
 
         `expr --version`
@@ -106,13 +113,6 @@ expr 10 / 2`
     
 ![Linux terminal displaying checking of the two numbers equality using expr command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-8.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now, let's check whether the first argument is smaller than the other argument. For that, we use the < operator:
 
         `expr 40 \< 50`
@@ -124,13 +124,6 @@ expr 10 / 2`
         `expr 45 \!= 55`
     
 ![Linux terminal showing the comparison of two values using the expr command with not equal to operator](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-8.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Here, the output 1 indicates that 45 is not equal to 55.
 
@@ -155,20 +148,13 @@ expr 10 / 2`
 ![Linux terminal displaying the string length without the including the white spaces](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-1-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The output will be nine because the tr command deletes all the spaces in the string before passing it to the expr length command.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Matching Two Strings With expr
 
@@ -185,6 +171,13 @@ expr 10 / 2`
         `expr 'HowToGeek' : 'HowTo'`
     
 ![Linux terminal showing the matching of two different strings using the expr command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/10-7.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Consider another example, where two given strings are the same:
 
@@ -220,6 +213,13 @@ echo $a ``
     
 ![The Linux terminal displays usage of expr command to decrement the variable value by 1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/14-3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Extracting a Substring Using expr
 
  To extract a substring from a given string, you can use the expr command with a substr operator. This way, you can extract specific information from a larger text, such as name, date, or any code. You can also use this operator to remove unwanted characters or spaces from a string.
@@ -231,13 +231,6 @@ b=`expr substr $a 2 5`
 echo $b ``
     
 ![The Linux terminal displays the usage of the expr command with substr option to extract a substring](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/15-2.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Performing expr Operations Using a Shell Script
 
@@ -252,6 +245,13 @@ sum=`expr $a + $b`
 echo "Sum of two numbers is= $sum" ``
     
 ![Bash script file containing the script of adding two numbers](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/16-2.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This script uses the expr command to evaluate arithmetic operations on the variables "a" and "b." The echo command prints a message to the standard output, while the read command reads a line from the standard input and puts it in a variable.
 
@@ -288,18 +288,15 @@ echo "Sum of two numbers is= $sum" ``
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-free-traffic-on-youtube-tips-that-actually-work-for-2024/"><u>[New] Free Traffic on YouTube Tips That Actually Work for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unlocking-hidden-details-roblox-closeup-secrets/"><u>[New] Unlocking Hidden Details Roblox Closeup Secrets</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/experience-the-newly-resurrected-blamo-repo-on-kodi-leia-krypton-installation-guide/"><u>Experience the Newly Resurrected Blamo Repo on Kodi (Leia, Krypton) - Installation Guide</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-seamless-streaming-5-chrome-tools-to-secure-fb-videos/"><u>In 2024, Seamless Streaming 5 Chrome Tools to Secure FB Videos</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-transform-your-video-cover-image-with-easy-steps/"><u>In 2024, Transform Your Video Cover Image with Easy Steps</u></a></li>
-<li><a href="https://some-skills.techidaily.com/introducing-googles-cutting-edge-ai-web-search-now-available-for-select-users/"><u>Introducing Google's Cutting-Edge AI Web Search: Now Available for Select Users</u></a></li>
-<li><a href="https://some-skills.techidaily.com/mastering-image-navigation-tips-on-zooming-and-panning-features-within-midjourney/"><u>Mastering Image Navigation: Tips on Zooming & Panning Features Within MidJourney</u></a></li>
-<li><a href="https://some-skills.techidaily.com/navigating-numbers-the-limitations-of-using-chatgpt-for-mathematical-tasks/"><u>Navigating Numbers: The Limitations of Using ChatGPT for Mathematical Tasks</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-feature-alert-apples-pay-later-option-arrives-consider-alternatives-carefully/"><u>New Feature Alert: Apple's 'Pay Later' Option Arrives – Consider Alternatives Carefully</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/pioneering-mobile-broadcasting-mastering-obs-studio-and-android-for-2024/"><u>Pioneering Mobile Broadcasting Mastering OBS Studio and Android for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/secure-your-virtual-reality-experience-a-guide-to-tightening-privacy-controls-on-your-quest-vr-headset/"><u>Secure Your Virtual Reality Experience: A Guide to Tightening Privacy Controls on Your Quest VR Headset</u></a></li>
-<li><a href="https://some-skills.techidaily.com/simplify-shopping-with-amazons-innovative-groceboard-subscription-service/"><u>Simplify Shopping with Amazon's Innovative Groceboard Subscription Service!</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/transform-your-farm-life-with-the-best-7-14-upgrades-for-2024/"><u>Transform Your Farm Life with the Best #7-14 Upgrades for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-scrutinized-screen-recording-tools-top-8-picks/"><u>[New] In 2024, Scrutinized Screen Recording Tools Top 8 Picks</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-ultimate-guide-to-longer-instagram-videos/"><u>[Updated] The Ultimate Guide to Longer Instagram Videos</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-humour-haven-strategies-for-parody-video-creation/"><u>2024 Approved Humour Haven Strategies for Parody Video Creation</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-master-avi-gif-transformation-an-all-inclusive-guide-by-filmora/"><u>2024 Approved Master AVI-GIF Transformation An All-Inclusive Guide by Filmora</u></a></li>
+<li><a href="https://some-skills.techidaily.com/august-5th-edition-insightful-answers-and-tips-from-todays-new-york-times-connection-quiz/"><u>August 5Th Edition: Insightful Answers & Tips From Today's New York Times Connection Quiz</u></a></li>
+<li><a href="https://some-skills.techidaily.com/decoding-project-fuchsia-exploring-googles-covert-and-revolutionary-os-endeavour/"><u>Decoding Project Fuchsia: Exploring Google's Covert and Revolutionary OS Endeavour</u></a></li>
+<li><a href="https://some-skills.techidaily.com/discover-key-answers-in-todays-nyt-puzzle-challenge-august-21-connect-the-dots-with-hint-437/"><u>Discover Key Answers in Today's NYT Puzzle Challenge - August 21, Connect the Dots with Hint #437!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/discover-more-with-google-lens-and-look-up-images-instantly-introducing-learn-about-this-photo/"><u>Discover More with Google Lens & Look Up Images Instantly - Introducing 'Learn About This Photo'</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-oneplus-ace-2v-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your OnePlus Ace 2V</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-god-of-war-pc-version-suddenly-crashes/"><u>Fixing the Issue: God of War PC Version Suddenly Crashes</u></a></li>
 </ul></div>
 

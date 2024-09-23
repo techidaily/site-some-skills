@@ -1,7 +1,7 @@
 ---
 title: "Bridging Operating Systems: A Comprehensive Guide to Using Ubuntu Software on Your Windows 11 Machine"
-date: 2024-09-13T07:57:06.782Z
-updated: 2024-09-17T21:04:56.807Z
+date: 2024-09-20T17:02:13.660Z
+updated: 2024-09-23T00:37:39.472Z
 tags:
   - deals
 categories:
@@ -34,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 
  Lastly, ensure you have Administrator rights on your Windows 11 system. Using WSL requires modifying Windows features, and it won't work if you don't have Administrator privileges.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Enabling Windows Subsystem for Linux (WSL)
 
  Windows Subsystem for Linux is not enabled by default on Windows 11\. You'll need to activate this feature on Windows before you can use it to run Ubuntu apps on your Windows PC.
@@ -51,9 +44,23 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 
 ![WSL feature being turned on in Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/flameshot-wsl-check-box.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now that the "OK" button has been selected, Windows 11 will begin setting up WSL on your system. This setup process should take a few minutes to complete. When the setup is complete, you must reboot your Windows PC. Select the "Restart now" button to reboot.
 
  Upon rebooting, log back into your Windows 11 desktop. Once you've logged back in, the Windows Subsystem for Linux will be enabled on Windows 11.
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Installing Ubuntu
 
@@ -65,6 +72,13 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 
 ![The user is searching for Ubuntu WSL 22.04.3 LTS in the Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-ubuntu-22.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After selecting "Ubuntu 22.04.3 LTS," you will be directed to its feature page in the Microsoft Store. Locate the "Get" button and click on it. Selecting the "Get" button will initiate the Ubuntu download for Windows 11.
 
  Downloading Ubuntu 22.04.3 LTS on Windows 11 should be swift, given the program's size is only about 560 MB. Once the download is complete, Ubuntu will be accessible in the Windows Start Menu.
@@ -73,14 +87,14 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 
 ![Ubuntu WSL is installing itself to Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-ubuntu-is-installing.png) 
 
- Once Ubuntu has finished its setup on Windows 11, you will see an empty terminal window, ready for you to interact with Ubuntu on your Windows 11 system.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Once Ubuntu has finished its setup on Windows 11, you will see an empty terminal window, ready for you to interact with Ubuntu on your Windows 11 system.
 
 ##  Basic Configuration Tips
 
@@ -100,13 +114,6 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 
 cd /mnt/c
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Update your Ubuntu WSL app
 
  It is good practice to update your Ubuntu WSL app from time to time, otherwise programs will stop working. Here's how to do it on Windows 11.
@@ -122,10 +129,16 @@ sudo apt upgrade
 ![Ubuntu WSL is being updated.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-installing-kdenlive.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Starting and Using Ubuntu
@@ -156,13 +169,6 @@ nohup program_name & disown
 
  The WSL integration with Windows 11 is quite good. However, keep in mind that not every single application is going to create a desktop icon. Sometimes, you may need to launch your Ubuntu programs directly from the terminal. You typically do this by typing its package name and hitting Enter.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Troubleshooting Common Setup Issues
 
  WSL usually installs without a hitch on Windows 11\. However, if you're having issues, there is a quick and easy fix. First, open up PowerShell in Windows 11\. Once it is open, use the update command for WSL. Updating WSL will install various patches and fixes that are sure to alleviate the issues you're experiencing.
@@ -190,18 +196,18 @@ wsl --update
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/10-memetic-engineering-techniques-for-2024/"><u>10 Memetic Engineering Techniques for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-navigating-your-way-in-graphic-design-careers/"><u>2024 Approved Navigating Your Way in Graphic Design Careers</u></a></li>
-<li><a href="https://techidaily.com/75-discount-and-10-off-nordvpn-coupon/"><u>75% Discount & $10 Off - NordVPN Coupon</u></a></li>
-<li><a href="https://some-skills.techidaily.com/comparing-pixel-pro-8-and-oneplus-12-which-smartphone-takes-the-crown/"><u>Comparing Pixel Pro 8 & OnePlus 12 – Which Smartphone Takes the Crown?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/discover-effortless-iphone-circle-searching-with-this-simple-shortcut/"><u>Discover Effortless iPhone Circle Searching with This Simple Shortcut</u></a></li>
-<li><a href="https://some-skills.techidaily.com/dry-gangrene-involves-coagulative-and-ischemic-changes-without-a-secondary-infection-while-wet-gangrene-includes-superimposed-bacterial-invasion-leading-to-49/"><u>Dry Gangrene Involves Coagulative and Ischemic Changes without a Secondary Infection, While Wet Gangrene Includes Superimposed Bacterial Invasion Leading to Liquefactive Necrosis.</u></a></li>
-<li><a href="https://win-dash.techidaily.com/efficient-epson-v700-driver-downloads-for-seamless-printing-on-win7win81win10/"><u>Efficient Epson V700 Driver Downloads for Seamless Printing on Win7/Win8.1/Win10</u></a></li>
-<li><a href="https://some-skills.techidaily.com/exploring-the-need-for-enhanced-capabilities-in-modern-smartphones/"><u>Exploring the Need for Enhanced Capabilities in Modern Smartphones</u></a></li>
-<li><a href="https://some-skills.techidaily.com/get-your-personalized-internet-access-with-spacexs-new-portable-starlink-mini-device/"><u>Get Your Personalized Internet Access with SpaceX’s New Portable Starlink Mini Device</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Vivo S17 | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-install-updated-software-for-epson-xp-420-driver-downloads-available/"><u>How to Install Updated Software for Epson XP 420 - Driver Downloads Available</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/the-pinnacle-of-vr-how-htc-vive-transforms-playtime-for-2024/"><u>The Pinnacle of VR How HTC Vive Transforms Playtime for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/xbox-one-x-reigning-supreme-in-todays-video-game-arena/"><u>Xbox One X - Reigning Supreme in Today's Video Game Arena</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-clear-focus-navigating-the-nuances-of-zooming-for-2024/"><u>[New] Clear Focus Navigating the Nuances of Zooming for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-the-complete-guide-to-livestreaming-on-mobile-devices-for-2024/"><u>[New] The Complete Guide to Livestreaming on Mobile Devices for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-depth-guide-to-archiving-online-conversations-with-fb-for-2024/"><u>[Updated] In-Depth Guide to Archiving Online Conversations with FB for 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-messages-from-apple-iphone-x-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Messages from Apple iPhone X to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-overcoming-problems-with-starting-davinci-resolve-on-windows-systems/"><u>Expert Tips: Overcoming Problems with Starting DaVinci Resolve on Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-and-updated-driver-for-brother-hl-l2300d-download-here/"><u>Latest & Updated Driver for Brother HL-L2300D - Download Here</u></a></li>
+<li><a href="https://some-skills.techidaily.com/mastering-expression-calculation-a-guide-to-using-expr-on-linux-systems/"><u>Mastering Expression Calculation: A Guide to Using 'Expr' On Linux Systems</u></a></li>
+<li><a href="https://some-skills.techidaily.com/maximize-your-icloud-capacity-effective-methods-to-clear-and-reclaim-storage/"><u>Maximize Your iCloud Capacity: Effective Methods to Clear and Reclaim Storage</u></a></li>
+<li><a href="https://some-skills.techidaily.com/microsoft-trials-innovative-start-menu-and-promotional-content-integration-in-windows-11-preview/"><u>Microsoft Trials Innovative Start Menu and Promotional Content Integration in Windows 11 Preview</u></a></li>
+<li><a href="https://some-skills.techidaily.com/my-experience-with-a-windows-replica-for-everyday-use-a-comprehensive-review/"><u>My Experience with a Windows Replica for Everyday Use: A Comprehensive Review</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-update-microsoft-store-enables-straight-to-installer-download-option/"><u>New Update: Microsoft Store Enables Straight-to-Installer Download Option</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-windows-11-patch-ends-previous-local-user-setup-loophole/"><u>New Windows 11 Patch Ends Previous Local User Setup Loophole</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/alent-spotlights-inspiring-recruitment-chronicles-1-10/"><u>Top Talent Spotlights Inspiring Recruitment Chronicles #1-10</u></a></li>
 </ul></div>
 

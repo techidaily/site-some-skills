@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Installing and Configuring Windows 11 with Alternative Login Options"
-date: 2024-09-12T01:28:48.468Z
-updated: 2024-09-17T20:54:30.449Z
+date: 2024-09-20T06:18:48.679Z
+updated: 2024-09-23T07:18:01.352Z
 tags:
   - desktop
 categories:
@@ -59,10 +59,10 @@ Close
  Click "Continue with limited setup" on the next page if it appears, and then you'll be able to create a local account with a password and three security questions.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Install Windows 11 Without a Microsoft Account Using Rufus
@@ -96,16 +96,10 @@ Close
 ![Disabling the Microsoft Account requirement via Rufus.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/disable-online-acct.png) 
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After that you just need to wait for Rufus to actually make the bootable media. It will take a few minutes at least, especially if you're using an older flash drive.
@@ -119,10 +113,10 @@ Close
  It is smooth sailing after you change the boot order. Windows 11 will walk you through the rest of the installation process.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Create a Local Account on Windows 11
@@ -155,16 +149,16 @@ Close
 
 ![The popup to switch to a local account on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/switching-to-local.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You should probably restart your PC even after you sign out just to fix any weird bugs that crop up. You also need to be careful now. Your account is a local-only account, which means that Microsoft won't be able to help you regain access if you forget something.
 
  Additionally, if you attempt to encrypt your drive on a local account, you'll be told you need to sign in to a Microsoft account to finish the process. That is not accurate — your drive will be encrypted even if you do not sign in, so be sure to make a copy of your recovery key.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Remove a Microsoft Account From Windows 11
 
@@ -201,18 +195,15 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-copyright-laws-and-screencasting-of-online-video-platforms-youtube/"><u>[New] Copyright Laws and Screencasting of Online Video Platforms (YouTube)</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-decoding-instagram-selfies-the-validation-handbook-for-2024/"><u>[Updated] Decoding Instagram Selfies The Validation Handbook for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/acceptance-in-ev-battery-limitations-why-we-shouldnt-expect-a-dramatic-increase/"><u>Acceptance in EV Battery Limitations: Why We Shouldn't Expect a Dramatic Increase</u></a></li>
-<li><a href="https://some-skills.techidaily.com/bankruptcy-alert-how-a-massive-30plus-million-bitcoin-robbery-rocked-cryptocom/"><u>Bankruptcy Alert: How a Massive $30+ Million Bitcoin Robbery Rocked Crypto.com</u></a></li>
-<li><a href="https://some-skills.techidaily.com/boosted-brainpower-microsofts-latest-leap-with-copilot-and-bing-chat-utilizing-gpt-4-enhancements/"><u>Boosted Brainpower: Microsoft's Latest Leap with Copilot & Bing Chat Utilizing GPT-4 Enhancements</u></a></li>
-<li><a href="https://some-skills.techidaily.com/chatgpt-not-responding-discover-strategies-for-uninterrupted-assistance/"><u>ChatGPT Not Responding? Discover Strategies for Uninterrupted Assistance</u></a></li>
-<li><a href="https://some-skills.techidaily.com/chevy-bolt-ev-still-going-strong-despite-rumors-of-its-demise/"><u>Chevy Bolt EV Still Going Strong, Despite Rumors of Its Demise</u></a></li>
-<li><a href="https://some-skills.techidaily.com/combating-synthetic-speech-deception-tips-for-safeguarding-personal-data-from-ai-voice-cloning-threats/"><u>Combating Synthetic Speech Deception: Tips for Safeguarding Personal Data From AI Voice Cloning Threats</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-nubia-red-magic-9-pro-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Nubia Red Magic 9 Pro to New Android? | Dr.fone</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-best-tiktok-watermark-removers-online/"><u>New In 2024, Best TikTok Watermark Removers Online</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/secrets-to-immediate-access-of-erased-reddit-threads/"><u>Secrets to Immediate Access of Erased Reddit Threads</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/stay-ahead-adapting-your-approach-for-instagrams-evolved-feed-for-2024/"><u>Stay Ahead Adapting Your Approach for Instagram’s Evolved Feed for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unsuccessful-driver-installation-by-os/"><u>Unsuccessful Driver Installation by OS</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-in-depth-look-the-prime-snipping-options-on-macos/"><u>[Updated] In 2024, In-Depth Look The Prime Snipping Options on macOS</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-top-10-cost-free-screen-capture-apps-for-mac-users-for-2024/"><u>[Updated] Top 10 Cost-Free Screen Capture Apps for Mac Users for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-open-broadcasters-versus-shadowreplay/"><u>2024 Approved Open Broadcasters Versus ShadowReplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/adding-funds-a-key-to-ps-store-success/"><u>Adding Funds: A Key to PS Store Success</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-pixel-perfection-leading-ps5-compatible-hdmi-21-monitors/"><u>In 2024, Pixel Perfection Leading PS5 Compatible HDMI 2.1 Monitors</u></a></li>
+<li><a href="https://some-skills.techidaily.com/simplify-shopping-with-amazons-innovative-groceboard-subscription-service/"><u>Simplify Shopping with Amazon's Innovative Groceboard Subscription Service!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/synchronizing-meta-quest-exercise-tracking-with-apple-watch-and-health-a-comprehensive-guide/"><u>Synchronizing Meta Quest Exercise Tracking with Apple Watch & Health: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-2e33-vw-id4-user-guide-a-perfect-choice-for-newcomers-to-ev-technology/"><u>The 2E33 VW ID.4 User Guide: A Perfect Choice for Newcomers to EV Technology</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-illusion-of-reality-in-marketing-debunking-ad-ploys-as-thats-no-moon/"><u>The Illusion of Reality in Marketing: Debunking Ad Ploys as 'That’s No Moon'</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-guide-to-resolving-whatsapp-backup-issues-on-icloud-devices/"><u>The Ultimate Guide to Resolving WhatsApp Backup Issues on iCloud Devices</u></a></li>
 </ul></div>
 

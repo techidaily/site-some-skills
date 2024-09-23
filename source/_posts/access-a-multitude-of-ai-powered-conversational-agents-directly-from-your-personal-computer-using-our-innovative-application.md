@@ -1,7 +1,7 @@
 ---
 title: Access a Multitude of AI-Powered Conversational Agents Directly From Your Personal Computer Using Our Innovative Application
-date: 2024-09-17T10:10:10.740Z
-updated: 2024-09-17T22:04:33.379Z
+date: 2024-09-16T22:07:48.806Z
+updated: 2024-09-23T02:24:33.738Z
 tags:
   - deals
 categories:
@@ -49,6 +49,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The LM Studio home page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/lm-studio-home.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can use this search box to browse for various models, like Facebook's Llama 3, Mistral AI's model, Google Gemma, Phi 2, and so many more.
 
 ##  Choose Your AI Model
@@ -57,27 +64,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Searching for llama 3 on LM Studio.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/click-dl.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you're unsure, select the most popular result. LM Studio filters by compatibility, so it should work on your system. For more information, click the "What's the difference between all these files? Which one should I download?" button. It explains each model and helps you decide.
 
 ![The search results for Qwen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/qwen-ai-model-search-lmstudio.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  For example, Llama 3 powers the "Messenger AI" feature on Facebook and matches the intelligence of tools like ChatGPT and Google Gemini.
 
 ![LM Studio giving me advice.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/lm-studio-advice.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Google Gemma is another excellent choice. This collection of smart models powers Google’s Gemini tool, catering to various needs. CodeGemma can help you write computer code, while RecurrentGemma is a fast, versatile chat model. Just search for "Gemma" on LM Studio and download the one that suits your needs.
 
@@ -98,26 +98,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Choosing the LM Studio model.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/lm-studio-choose-model.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When you type your message, LM Studio will process your text using your computer’s resources. Remember, the speed of the response depends on your computer’s capabilities. If you're working with limited RAM or an older graphics card, responses might take longer.
-
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Privacy First, Always
 
@@ -127,6 +114,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  If concerns about the privacy implications of technologies like Co-Pilot, ChatGPT, and Gemini weigh on you, LM Studio offers a secure alternative that keeps your interactions private.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How I Use LM Studio
 
  I use LM Studio for several purposes, and one of the most useful is to automate my daily setup on Windows 11\. I've developed a PowerShell script with LM Studio that launches my preferred applications—Firefox, Windows Terminal, Ghostwriter (my favorite writing tool), Spotify, and others when I want to get to work. This automation skips the hassle of opening each program individually and helps me jump straight into my tasks.
@@ -134,10 +128,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![LM Studio writing a script.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/lm-code-instruct.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In addition to script writing, I've found LM Studio particularly helpful in improving my programming skills, which are a work in progress. I primarily use the code-instruct model to enhance my understanding of Go and Python. LM Studio supports a wide range of programming languages, making it an invaluable, free resource for learning and refining coding skills.
@@ -159,18 +153,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-edge-your-way-to-success-instagrams-finest-border-applications/"><u>[Updated] Edge Your Way to Success Instagram's Finest Border Applications</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-personalize-facebook-page-with-video-for-2024/"><u>[Updated] Personalize Facebook Page with Video for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-creating-professional-looking-videos-with-windows-8-movie-maker/"><u>2024 Approved Creating Professional-Looking Videos with Windows 8 Movie Maker</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/elevating-your-gopro-vlogs-with-professionals-strategies/"><u>Elevating Your Gopro Vlogs with Professionals Strategies</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/enhancing-corporate-efficiency-with-abbyys-cognitive-capture-solutions-for-digital-transformation/"><u>Enhancing Corporate Efficiency with ABBYY's Cognitive Capture Solutions for Digital Transformation</u></a></li>
-<li><a href="https://change-location.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Vivo T2 5G | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-s24-ultra-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy S24 Ultra PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-iphone-6-plus-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled iPhone 6 Plus Without iTunes in 5 Ways</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Xiaomi 13 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-better-performance-discover-the-7-crucial-windows-configurations-that-must-stay-on-for-optimal-use/"><u>Unlocking Better Performance: Discover the 7 Crucial Windows Configurations That Must Stay On for Optimal Use</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-hidden-gems-the-top-14-facetime-tricks-youre-not-using/"><u>Unlocking Hidden Gems: The Top 14 FaceTime Tricks You're Not Using</u></a></li>
-<li><a href="https://some-skills.techidaily.com/upgrade-to-a-samsung-galaxy-book-4-unlock-savings-with-trade-in-deals/"><u>Upgrade to a Samsung Galaxy Book 4 - Unlock Savings with Trade-In Deals!</u></a></li>
-<li><a href="https://some-skills.techidaily.com/windows-migrants-beware-7-peculiar-mac-habits-that-will-surprise-you/"><u>Windows Migrants Beware: 7 Peculiar Mac Habits That Will Surprise You</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-transform-the-virtual-arena-engage-with-ease-during-live-streaming/"><u>[New] 2024 Approved Transform the Virtual Arena Engage with Ease During Live Streaming</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-mastering-the-art-of-discovering-elusive-youtube-videos/"><u>[New] In 2024, Mastering the Art of Discovering Elusive YouTube Videos</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-intro-to-radial-photo-distortion-ps-tutorial/"><u>[Updated] 2024 Approved Intro to Radial Photo Distortion PS Tutorial</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/castcritique-exploring-dacast-options-for-2024/"><u>CastCritique Exploring DaCast Options for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reducing-loudness-on-your-ps4-console-diagnosis-and-repair-guide/"><u>Reducing Loudness on Your PS4 Console: Diagnosis and Repair Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/starfield-unable-to-boot-up-troubleshoot-your-steam-and-xbox-installations-here/"><u>Starfield Unable to Boot Up? Troubleshoot Your Steam and Xbox Installations Here</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-art-of-engaging-crafting-compelling-reddit-content/"><u>The Art of Engaging Crafting Compelling Reddit Content</u></a></li>
+<li><a href="https://some-skills.techidaily.com/troubleshooting-guide-resolving-windows-spotlight-malfunctions-effortlessly/"><u>Troubleshooting Guide: Resolving Windows Spotlight Malfunctions Effortlessly</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-tutorial-for-using-cut-copy-and-paste-commands-on-windows-1011-systems/"><u>Ultimate Tutorial for Using Cut, Copy & Paste Commands on Windows 10/11 Systems</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-tutorial-enabling-specific-ports-in-windows-firewall-settings/"><u>Ultimate Tutorial: Enabling Specific Ports in Windows Firewall Settings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleash-the-power-of-crossover-24-on-mac-and-linux-for-free-optimize-your-pc-apps-today-at-a-sale-price/"><u>Unleash the Power of CrossOver 24 on Mac & Linux for Free - Optimize Your PC Apps Today at a Sale Price</u></a></li>
 </ul></div>
 

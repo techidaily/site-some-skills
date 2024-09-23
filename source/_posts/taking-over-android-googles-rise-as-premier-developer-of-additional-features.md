@@ -1,7 +1,7 @@
 ---
 title: "Taking Over Android: Google's Rise as Premier Developer of Additional Features"
-date: 2024-09-17T08:04:36.178Z
-updated: 2024-09-18T04:00:13.600Z
+date: 2024-09-22T06:58:18.502Z
+updated: 2024-09-22T19:13:48.224Z
 tags:
   - mobile
 categories:
@@ -39,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/e591b5728fa84d66a3323b91b4ed2e3f5b0efaa53
 ![The app drawer of the OnePlus12R](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-app-drawer-of-the-oneplus12rjpg_53485300814_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -54,13 +54,6 @@ Jerome Thomas / How-To Geek
  Google's insistence on making Android phone makers ship their apps is why a company like Samsung ships duplicate programs on their phones. They either give Google full control over the software experience, or they settle for confusing duplication. Samsung at least tries to clean up the clutter a bit by dumping most of the search giants' apps into a folder labeled "Google" on the home screen.
 
 ![Galaxy Z Flip 6 next to the Fold 6 on a table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/flip-6-next-to-fold-6-1.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -76,13 +69,6 @@ Justin Duino / How-To Geek
 
  People are quick to call out budget Motorola phones for installing unwanted shopping apps and random games, but Google's software collects far more data and is much more intrusive. We're just conditioned to expect them, even if we have never once clicked on Google Home.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Some Preinstalled Apps Are Better Than Google's
 
  Even if I liked the Google ecosystem and actively took part in it, I would still be sad to see Android phone makers give up on making their own software. Some companies [do a better job at creating certain apps than Google does](https://extra-hints.techidaily.com/new-an-examination-of-photoshops-anti-shake-capabilities/).
@@ -97,6 +83,13 @@ Close
 
  Nothing (the company) shows [how much style a phone maker can give their phones](https://hardware-reviews.techidaily.com/toms-tech-insights-exploring-the-latest-in-hardware-innovation/) without making their devices as garish and inconsistent as the Android skins of years past. Android would be far less interesting without their innovations and experimentation.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Google Apps Make Android Phones All Feel the Same
 
  As Google's control over software has grown, there is increasingly less difference between one Android device and the next. You walk through similar set-up screens, are presented with the same data collection options, and see your app drawer pre-populated with largely the same software.
@@ -106,6 +99,13 @@ Close
  Phones aren't the only devices that suffer from this. Consider the [XREAL Beam Pro](https://us.shop.xreal.com/products/xreal-beam-pro), an Android-based (and far more affordable) alternative to Apple's Vision Pro. It's a tempting addition to [the AR glasses I replaced my computer monitor with](https://youtube-docs.techidaily.com/approved-expert-insights-where-to-invest-in-youtube-creator-revenue/). When you launch the device for the first time, you're presented with a large array of Google apps that you probably didn't buy AR glasses to use. They continue to clutter up the launcher unless you dive into settings and disable them.
 
 ![Apps in the launcher on an XREAL Beam Pro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/xreal_shot_1723131795364.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  XREAL isn't a Google company, but since access to the Play Store is a big part of the device's appeal, they're required to shill Google services, at a detriment to the user experience.
 
@@ -130,17 +130,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-elevating-your-contents-presence-perfecting-youtube-thumbnails-size/"><u>[New] In 2024, Elevating Your Content's Presence Perfecting YouTube Thumbnails Size</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-innovating-visual-identity-with-ae-titles-for-2024/"><u>[New] Innovating Visual Identity with AE Titles for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-securely-capturing-your-zoom-sessions/"><u>[Updated] In 2024, Securely Capturing Your Zoom Sessions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/access-and-review-your-devices-past-locations-steps-for-iphone-and-ipad-users/"><u>Access and Review Your Device's Past Locations: Steps for iPhone & iPad Users</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/easy-steps-to-convert-your-wmv-videos-to-mov-on-a-mac-for-enhanced-playback-and-editing/"><u>Easy Steps to Convert Your WMV Videos to MOV on a Mac for Enhanced Playback and Editing</u></a></li>
-<li><a href="https://fox-that.techidaily.com/efficient-photo-management-combining-identical-pictures-of-the-same-individuals-using-iphone-and-mac-tools/"><u>Efficient Photo Management: Combining Identical Pictures of the Same Individuals Using iPhone & Mac Tools</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/hilarious-highlights-reddit-and-twitters-best-bits/"><u>Hilarious Highlights Reddit and Twitter's Best Bits</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-ideal-hues-the-ultimate-guide-to-color-enhancement-11-steps/"><u>In 2024, Ideal Hues The Ultimate Guide to Color Enhancement (11 Steps)</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-snippet-storyboarding-procedure/"><u>In 2024, Snippet Storyboarding Procedure</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unmatched-user-experience-the-ultimate-blueprint-of-the-perfect-timing-app/"><u>Unmatched User Experience: The Ultimate Blueprint of the Perfect Timing App</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ways-to-discover-whether-your-phone-number-has-been-blacklisted-in-imessage-conversations/"><u>Ways To Discover Whether Your Phone Number Has Been Blacklisted in iMessage Conversations</u></a></li>
-<li><a href="https://some-skills.techidaily.com/week-in-review-atandt-data-incident-and-latest-samsung-smartphone-launch/"><u>Week in Review: AT&T Data Incident & Latest Samsung Smartphone Launch</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-keeping-tabs-on-instagram-unfollows/"><u>[New] In 2024, Keeping Tabs on Instagram Unfollows</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-laptop-and-web-navigating-live-video-communication-in-whatsapp/"><u>[Updated] 2024 Approved Laptop & Web Navigating Live Video Communication in WhatsApp</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-revolutionary-entry-tool-for-all-devices-this-year/"><u>2024 Approved Revolutionary Entry Tool for All Devices This Year</u></a></li>
+<li><a href="https://some-skills.techidaily.com/comprehensive-guide-to-linux-file-timestamps-decoding-atime-mtime-and-ctime-explained/"><u>Comprehensive Guide to Linux File Timestamps – Decoding Atime, Mtime, and Ctime Explained</u></a></li>
+<li><a href="https://some-skills.techidaily.com/decoding-visual-changes-a-complete-overview-of-desktop-images-in-windows-os-history/"><u>Decoding Visual Changes: A Complete Overview of Desktop Images in Windows OS History</u></a></li>
+<li><a href="https://some-skills.techidaily.com/explore-the-latest-in-ubuntu-2/"><u>Explore the Latest in Ubuntu 2</u></a></li>
+<li><a href="https://some-skills.techidaily.com/guide-to-removing-individual-key-bindings-and-shortcuts-on-windows-keyboards/"><u>Guide to Removing Individual Key Bindings and Shortcuts on Windows Keyboards</u></a></li>
+<li><a href="https://some-skills.techidaily.com/how-microsoft-is-reinventing-the-print-experience-in-its-latest-windows-11-update/"><u>How Microsoft Is Reinventing the Print Experience in Its Latest Windows 11 Update</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-conquer-youtubes-default-snippet-feature/"><u>In 2024, Conquer YouTube's Default Snippet Feature</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-social-media-savvy-creating-share-worthy-ig-content/"><u>In 2024, Social Media Savvy Creating Share-Worthy IG Content</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-boost-mobile-apple-iphone-15-pro-before-the-plan-expires-by-drfone-ios/"><u>In 2024, Unlock Your Boost Mobile Apple iPhone 15 Pro Before the Plan Expires</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-windows-services-command-line-tool-with-these-7-steps/"><u>Restoring Window's Services Command Line Tool with These 7 Steps</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/uninterrupted-quest-experience-addressing-the-immortals-fenynzings-crash-dilemma/"><u>Uninterrupted Quest Experience: Addressing the Immortals Fenynzing's Crash Dilemma</u></a></li>
 </ul></div>
 

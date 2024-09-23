@@ -1,7 +1,7 @@
 ---
 title: Seamless Access to Distant Linux Machine Files Made Simple
-date: 2024-09-14T18:43:29.286Z
-updated: 2024-09-18T08:42:59.286Z
+date: 2024-09-17T16:49:15.319Z
+updated: 2024-09-22T23:26:07.171Z
 tags:
   - desktop
 categories:
@@ -63,6 +63,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
     
 ![Using the --version option to discover the version of SSHFS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/4-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Making a Remote Connection
 
  We need to create a directory to act as the _mount point_. It’s where the remote file system will be grafted onto your directory tree.
@@ -75,18 +82,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
     
 ![Creating the mount point directory.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/5-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Let’s take a look at our new directory.
 
         `ls -hl /media/dave`
     
 ![Using ls to check the attributes of the mount point directory.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/6-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Our directory has been created, and it is owned by root. That won’t matter though, we’ll have [read and write permissions](https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-13-pro-without-itunes-by-drfone-ios/) on the mounted file system.
 
@@ -109,19 +116,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The first time you connect, you’ll probably be asked a yes/no question about whether you want to trust the remote computer and have its details added to your list of known SSH hosts. Answer yes to this.
 
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Accessing Files in the Terminal Window
 
  When you make a normal SSH connection, your command prompt changes to the command prompt of the machine you’ve connected to. That doesn’t happen when you mount a file system with SSHFS.
@@ -133,13 +127,6 @@ ls`
     
 ![Listing the contents of the remote file system in a terminal window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/8-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  We can see the home directory of the user account on the remote computer. Any changes you make here are made on the remote drive. Any edits or deletions will affect the remote computer.
 
  We ought to be able to create a new file.
@@ -148,13 +135,6 @@ ls`
 ls -hl new-file.txt`
     
 ![Creating a file in the remote file system and checking its attributes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/9-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Our file is created, and we’re the owner of it. There was no need to use sudo.
 
@@ -167,6 +147,20 @@ ls /home/dave/Downloads/`
     
 ![Copying files from the remote file system to the local file system.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/10-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Accessing Files in a File Browser
 
  Because the mounted file system looks and behaves like any other part of your file system’s directory tree, you can use your file browser to navigate it too.
@@ -175,16 +169,16 @@ ls /home/dave/Downloads/`
 
 ![Accessing the remote file system in a file browser.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/11-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Double-clicking a file opens the application associated with that file type. These actions are carried out by applications on your local computer.
 
 ![Editing a file in the remote file system with a local editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/12-1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you edit a document, for example, your default local editor is launched.
 
@@ -217,21 +211,16 @@ ls /home/dave/Downloads/`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-boost-visibility-selecting-the-right-youtube-thumbnail-dimensions/"><u>[New] Boost Visibility Selecting the Right YouTube Thumbnail Dimensions</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-how-to-add-music-to-a-video-on-iphone-for-free/"><u>[New] How to Add Music to a Video on iPhone for FREE</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-top-entry-level-gaming-edit-suite-reviews/"><u>[New] Top Entry-Level Gaming Edit Suite Reviews</u></a></li>
-<li><a href="https://some-skills.techidaily.com/face-first-computing-takes-center-stage-in-depth-review-of-apples-game-changing-vision-pro-device/"><u>Face-First Computing Takes Center Stage: In Depth Review of Apple's Game-Changing Vision Pro Device</u></a></li>
-<li><a href="https://some-skills.techidaily.com/free-use-of-midjourney-service-to-be-permanently-discontinnued-says-official-statement/"><u>Free Use of Midjourney Service to Be Permanently Discontinnued, Says Official Statement</u></a></li>
-<li><a href="https://article-helps.techidaily.com/gentle-glide-of-noises-subdued-amplitude-adjustment/"><u>Gentle Glide of Noises Subdued Amplitude Adjustment</u></a></li>
-<li><a href="https://some-skills.techidaily.com/get-a-fraction-of-apples-vision-pro-experience-with-meta-quest-3-at-just-one-seventh-the-pricing/"><u>Get a Fraction of Apple's Vision Pro Experience with Meta Quest 3 at Just One-Seventh the Pricing!</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-vivo-y27-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Vivo Y27 5G Phones with/without a PC</u></a></li>
-<li><a href="https://some-skills.techidaily.com/incredible-insights-into-the-credit-card-sized-ai-voice-capture-device-the-plaud-note-experience-unveiled/"><u>Incredible Insights Into the Credit Card-Sized AI Voice Capture Device - The Plaud Note Experience Unveiled!</u></a></li>
-<li><a href="https://some-skills.techidaily.com/innovative-move-by-bmw-integration-into-teslas-supercharger-grid-enables-broad-ev-connectivity-growth/"><u>Innovative Move by BMW: Integration Into Tesla's Supercharger Grid Enables Broad EV Connectivity Growth</u></a></li>
-<li><a href="https://some-skills.techidaily.com/inside-teslas-enhanced-performance-feature-decoding-the-intricacies-of-track-mode/"><u>Inside Tesla's Enhanced Performance Feature - Decoding the Intricacies of Track Mode</u></a></li>
-<li><a href="https://some-skills.techidaily.com/maximize-performance-boost-computers-with-under-8gb-ram-using-compact-local-llm-technologies/"><u>Maximize Performance: Boost Computers with Under 8GB RAM Using Compact Local LLM Technologies</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-samsung-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Samsung</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-the-silent-battlefield-troubleshooting-no-sound-for-apex-legends-players/"><u>Solve the Silent Battlefield: Troubleshooting No Sound for Apex Legends Players</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/under-200-high-speed-action-cameras-for-captivating-shots/"><u>Under $200 High-Speed Action Cameras for Captivating Shots</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-rundll32exe-identification-and-response-strategies/"><u>Understanding rundll32.exe: Identification & Response Strategies</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-fraps-as-a-video-recorder-what-you-need-to-know-for-2024/"><u>[Updated] Fraps as a Video Recorder What You Need To Know for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-motorola-razr-40-ultra-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Motorola Razr 40 Ultra by Name | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Google Pixel 7a? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/how-meta-quest-3-brings-apple-inspired-innovation-with-its-new-oculus-headset/"><u>How Meta Quest 3 Brings Apple-Inspired Innovation with Its New Oculus Headset</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/improve-your-gaming-experience-why-oculus-quest-outshines-with-pc-vr-titles-from-steam/"><u>Improve Your Gaming Experience: Why Oculus Quest Outshines with PC VR Titles From Steam</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-guide-on-how-to-remove-apple-id-from-apple-iphone-15-by-drfone-ios/"><u>In 2024, Guide on How To Remove Apple ID From Apple iPhone 15</u></a></li>
+<li><a href="https://some-skills.techidaily.com/international-space-station-nimbly-dodges-russian-orbital-debris-sparing-data-swap/"><u>International Space Station Nimbly Dodges Russian Orbital Debris, Sparing Data Swap</u></a></li>
+<li><a href="https://some-skills.techidaily.com/introducing-googles-cutting-edge-ai-web-search-now-available-for-select-users/"><u>Introducing Google's Cutting-Edge AI Web Search: Now Available for Select Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/mastering-image-navigation-tips-on-zooming-and-panning-features-within-midjourney/"><u>Mastering Image Navigation: Tips on Zooming & Panning Features Within MidJourney</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/izing-video-playback-loops-for-comfortable-viewing-on-tv-for-2024/"><u>Optimizing Video Playback Loops for Comfortable Viewing on TV for 2024</u></a></li>
 </ul></div>
 

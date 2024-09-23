@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Tutorial: Enabling Specific Ports in Windows Firewall Settings"
-date: 2024-09-16T16:42:44.203Z
-updated: 2024-09-18T01:53:01.326Z
+date: 2024-09-20T22:10:58.665Z
+updated: 2024-09-23T01:00:33.488Z
 tags:
   - deals
 categories:
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/96d460ad778074a93b63a308714d13a6fb98bd643
 
  This article shows you how to open a port on a particular PC's firewall to let traffic in. If you have a router on your network (which you likely do), you will also need to allow the same traffic through that router by [forwarding the port](https://tech-revival.techidaily.com/unlock-chatgpts-potential-with-simple-plugin-signups/) there.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Open a Port on Windows 10
 
  Clicking Start, type "Windows Firewall" into the search box, and then click on "Windows Defender Firewall."
@@ -40,16 +47,16 @@ thumbnail: https://thmb.techidaily.com/96d460ad778074a93b63a308714d13a6fb98bd643
 
 ![Click on "Advanced Settings" on the left-hand side.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-click-advanced-setting.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This launches Windows Defender Firewall with Advanced Security. Click the "Inbound Rules" category on the left. In the far right pane, click the "New Rule" command.
 
 ![Click the "Inbound Rule" item, then click "New Rule."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-inbound-service-rules.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you need to open a rule for outgoing traffic, instead of clicking "Inbound Rule," you'd click "Outbound Rule." Most apps are pretty good about creating their own outbound rules when you install them, but you might occasionally run into one that cannot.
 
@@ -68,10 +75,10 @@ thumbnail: https://thmb.techidaily.com/96d460ad778074a93b63a308714d13a6fb98bd643
 ![Select the port you want to forward. Do not open "All local ports."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-specify-ports.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  On the next page, click "Allow the Connection" and then click "Next."
@@ -93,22 +100,15 @@ thumbnail: https://thmb.techidaily.com/96d460ad778074a93b63a308714d13a6fb98bd643
 ![Enter a rule name and description.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/9-click-finish-after-entering-description.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you want to disable the rule at any point, locate it in the list of Inbound or Outbound Rules, right-click it, and then click "Disable Rule."
 
 ![Right-click the rule to disable it without removing it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/10-disable-the-rule.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  That's all there is to it. If you need to open any other ports for a different program or with a different rule, repeat the steps above using a different set of ports to open.
 
@@ -127,18 +127,14 @@ thumbnail: https://thmb.techidaily.com/96d460ad778074a93b63a308714d13a6fb98bd643
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-revealing-hidden-social-exchanges-in-yt-discussions/"><u>[New] Revealing Hidden Social Exchanges in YT Discussions</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-enhancing-visibility-and-discoverability-via-targeted-tags/"><u>[Updated] In 2024, Enhancing Visibility and Discoverability via Targeted Tags</u></a></li>
-<li><a href="https://some-skills.techidaily.com/disabling-microsoft-defender-antivirus-in-windows-11-a-step-by-step-guide/"><u>Disabling Microsoft Defender Antivirus in Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/discover-the-ultimate-gaming-browser-choices-for-microsoft-windows-users/"><u>Discover the Ultimate Gaming Browser Choices for Microsoft Windows Users</u></a></li>
-<li><a href="https://some-skills.techidaily.com/essential-12-apple-macintosh-utility-programs-the-must-have-tools-for-solo-users/"><u>Essential 12 Apple Macintosh Utility Programs: The Must-Have Tools for Solo Users</u></a></li>
-<li><a href="https://some-skills.techidaily.com/experience-the-best-of-modern-melodies-through-apple-musics-radio-stream-dont-miss-out/"><u>Experience the Best of Modern Melodies Through Apple Music's Radio Stream – Don’t Miss Out!</u></a></li>
-<li><a href="https://some-skills.techidaily.com/expert-tips-for-manually-applying-patches-and-updates-in-windows-11/"><u>Expert Tips for Manually Applying Patches and Updates in Windows 11</u></a></li>
-<li><a href="https://some-skills.techidaily.com/how-iphone-screen-mirroring-eliminates-the-need-for-ios-apps-on-your-mac/"><u>How iPhone Screen Mirroring Eliminates the Need for iOS Apps on Your Mac</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-front-seat-escapades-beyond-athletic-viewing/"><u>In 2024, Front Seat Escapades Beyond Athletic Viewing</u></a></li>
-<li><a href="https://media-tips.techidaily.com/quick-and-easy-steps-free-conversion-of-m4a-files-to-wav-format-on-mac-and-windows/"><u>Quick & Easy Steps: Free Conversion of M4A Files to WAV Format on Mac and Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-setup-instructions-for-download-validity-fingerprint-recognition-driver-download/"><u>Quick Setup Instructions for [DOWNLOAD]: Validity Fingerprint Recognition Driver Download</u></a></li>
-<li><a href="https://win11.techidaily.com/swift-remedies-restoring-the-functionality-of-windows-defenders-threat-barrier/"><u>Swift Remedies: Restoring the Functionality of Windows Defender's Threat Barrier</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-iphones-for-gamers-choosing-the-ideal-device/"><u>Top iPhones for Gamers: Choosing the Ideal Device</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-how-to-search-filters-on-instagram/"><u>[New] How to Search Filters on Instagram</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pewdiepie-financial-overview-monetary-metrics/"><u>[New] PewDiePie Financial Overview – Monetary Metrics</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-the-nostalgia-edition-revisiting-goofy-film-for-2024/"><u>[New] The Nostalgia Edition Revisiting Goofy Film for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/enhanced-security-features-in-google-chrome-version-127-guard-against-malware/"><u>Enhanced Security Features in Google Chrome Version 127 - Guard Against Malware</u></a></li>
+<li><a href="https://some-skills.techidaily.com/exploring-the-differences-between-arm-based-windows-11-and-traditional-windows-systems/"><u>Exploring the Differences Between ARM-Based Windows 11 and Traditional Windows Systems</u></a></li>
+<li><a href="https://some-skills.techidaily.com/fast-and-easy-ways-to-access-your-desktop-in-windows-11/"><u>Fast & Easy Ways to Access Your Desktop in Windows 11</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-honor-v-purse-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/slendersky-saver-economic-storage-for-voluminous-files-for-2024/"><u>SlenderSky Saver - Economic Storage for Voluminous Files for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-inaccessibility-of-altering-chatgpt-framework/"><u>The Inaccessibility of Altering ChatGPT Framework</u></a></li>
 </ul></div>
 

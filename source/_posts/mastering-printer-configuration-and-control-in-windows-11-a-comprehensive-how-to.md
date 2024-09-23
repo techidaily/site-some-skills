@@ -1,7 +1,7 @@
 ---
 title: Mastering Printer Configuration & Control in Windows 11 – A Comprehensive How-To
-date: 2024-09-12T23:19:34.777Z
-updated: 2024-09-17T20:59:29.201Z
+date: 2024-09-16T02:55:30.488Z
+updated: 2024-09-22T20:56:37.250Z
 tags:
   - desktop
 categories:
@@ -61,13 +61,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![img_5b760ef96454b](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760ef96454b.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Change Printer Device Settings
 
  To configure your printer device, click "Printer Properties" instead of "Printing Preferences" from the context menu after right-clicking a printer.
@@ -80,13 +73,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  On the "Advanced" pane, you'll even see an option that lets you choose when the printer is available. For example, if you only want to use your printer during business hours, you could select 9 am to 5 pm here. People wouldn't be able to print to the printer outside of your selected hours, which is especially useful if you've configured it as a network printer and don't want people printing to it during off hours.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ![](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760f9652249.png)How to Print a Test Page
 
  You can quickly check whether your printer is working and configured properly by printing a test page. Locate the printer in Settings > Devices > Printers & Scanners, click it, click the "Manage" button, and click the "Print a test page" link.
@@ -97,6 +83,26 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![img_5b761244d9161](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b761244d9161.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Set Your Default Printer
 
  By default, Windows 10 automatically manages which printer is the default. It sets your default printer as the last printer you last printed to—in other words, whenever you select a printer and print to it, Windows 10 makes that your default printer.
@@ -105,27 +111,27 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![img_5b76132b50e9d](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b76132b50e9d.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To choose your default printer, click a printer in the Printers & Scanners list, click "Manage," and click the "Set as Default" button.
 
 ![img_5b7613d4cbff2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b7613d4cbff2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also right-click a printer in the Control Panel's Devices and Printers window and select "Set as Default Printer" to set it as your default.
 
 ![img_5b7612fc559b2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b7612fc559b2.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Manage Your Print Queue
 
@@ -146,10 +152,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![img_5b761543dc6fd](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b761543dc6fd.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Create Multiple Printer Profiles
@@ -205,18 +211,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-live-coverage-10-key-approaches-in-cricket-streaming/"><u>[New] Mastering Live Coverage 10 Key Approaches in Cricket Streaming</u></a></li>
-<li><a href="https://some-skills.techidaily.com/how-does-conky-elevate-the-visual-appeal-of-your-linux-workspace/"><u>How Does Conky Elevate the Visual Appeal of Your Linux Workspace?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/how-to-set-up-a-personal-streaming-station-with-icecast-on-linux/"><u>How to Set Up a Personal Streaming Station with Icecast on Linux</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-honor-90-pro-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Honor 90 Pro? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-asus-rog-phone-8-pro-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Asus ROG Phone 8 Pro?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-creating-an-ideal-oculus-rift-environment/"><u>In 2024, Creating an Ideal Oculus Rift Environment</u></a></li>
-<li><a href="https://some-skills.techidaily.com/introducing-windows-11-compatible-logitech-peripherals-enhanced-dynamic-lighting-capability/"><u>Introducing Windows 11 Compatible Logitech Peripherals: Enhanced Dynamic Lighting Capability</u></a></li>
-<li><a href="https://some-skills.techidaily.com/mastering-expression-calculation-a-guide-to-using-expr-on-linux-systems/"><u>Mastering Expression Calculation: A Guide to Using 'Expr' On Linux Systems</u></a></li>
-<li><a href="https://some-skills.techidaily.com/maximize-your-icloud-capacity-effective-methods-to-clear-and-reclaim-storage/"><u>Maximize Your iCloud Capacity: Effective Methods to Clear and Reclaim Storage</u></a></li>
-<li><a href="https://some-skills.techidaily.com/microsoft-trials-innovative-start-menu-and-promotional-content-integration-in-windows-11-preview/"><u>Microsoft Trials Innovative Start Menu and Promotional Content Integration in Windows 11 Preview</u></a></li>
-<li><a href="https://extra-support.techidaily.com/punpixel-producer-for-2024/"><u>PunPixel Producer for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Nubia Z50S Pro? | Dr.fone</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/unveiling-tiktok-to-twitter-conversion-for-2024/"><u>Unveiling TikTok to Twitter Conversion for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-how-to-expertly-record-and-save-your-favorite-hulu-shows/"><u>[Updated] 2024 Approved How To Expertly Record and Save Your Favorite Hulu Shows</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-facebook-frenzy-top-downloader-tools-that-bring-videos-to-life-on-idevices/"><u>2024 Approved Facebook Frenzy Top Downloader Tools that Bring Videos to Life on iDevices</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/advanced-tools-for-efficient-language-learning/"><u>Advanced Tools for Efficient Language Learning</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-xiaomi-redmi-k70e-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Xiaomi Redmi K70E</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-12-with-imei-code-by-drfone-ios/"><u>How to Unlock iPhone 12 with IMEI Code?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Apple iPhone 14? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamlining-your-drone-footage-with-advanced-techniques/"><u>In 2024, Streamlining Your Drone Footage with Advanced Techniques</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/language-mastery-made-easy-mondly-launches-virtual-reality-for-learners/"><u>Language Mastery Made Easy: Mondly Launches Virtual Reality for Learners</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/overcoming-connectivity-hurdles-resolving-windows-10-bluetooth-driver-issues-effectively/"><u>Overcoming Connectivity Hurdles: Resolving Windows 10 Bluetooth Driver Issues Effectively</u></a></li>
+<li><a href="https://some-skills.techidaily.com/simplifying-your-experience-the-ever-evolving-user-friendliness-of-the-windows-subsystem-for-linux/"><u>Simplifying Your Experience: The Ever-Evolving User-Friendliness of the Windows Subsystem for Linux</u></a></li>
+<li><a href="https://some-skills.techidaily.com/solve-your-wi-fi-woes-a-guide-to-restoring-internet-access-in-windows-11-with-10-effective-tips/"><u>Solve Your Wi-Fi Woes! A Guide to Restoring Internet Access in Windows 11 with 10 Effective Tips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/step-by-step-guide-clearing-your-domain-name-system-cache-in-windows-10/"><u>Step-by-Step Guide: Clearing Your Domain Name System Cache in Windows 10</u></a></li>
+<li><a href="https://some-skills.techidaily.com/step-by-step-guide-crafting-your-custom-shutdown-icon-on-windows-11/"><u>Step-by-Step Guide: Crafting Your Custom Shutdown Icon on Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/step-by-step-guide-installing-iso-files-on-pcs-with-windows-7810/"><u>Step-by-Step Guide: Installing ISO Files on PCs with Windows 7/8/10</u></a></li>
 </ul></div>
 

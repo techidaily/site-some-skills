@@ -1,7 +1,7 @@
 ---
 title: "Securing Your System: A Step-by-Step Guide to Locking a Windows 10 PC via Command Line"
-date: 2024-09-12T22:33:45.861Z
-updated: 2024-09-18T06:14:52.829Z
+date: 2024-09-19T18:36:42.545Z
+updated: 2024-09-23T06:39:16.198Z
 tags:
   - deals
 categories:
@@ -39,10 +39,10 @@ Rundll32.exe user32.dll,LockWorkStation
  Once executed, your PC will be locked. You'll have to sign back in with your PIN, password, or whatever sign-in method you usually use.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Set the Lock Screen Timeout Setting Using Command Prompt
@@ -52,6 +52,13 @@ Rundll32.exe user32.dll,LockWorkStation
  To do this, you’ll need to [open Command Prompt as an admin](https://screen-mirror.techidaily.com/how-to-screen-mirroring-xiaomi-14-ultra-drfone-by-drfone-android/). Do so by typing “cmd” in the Windows Search bar and then right-clicking “Command Prompt” from the results. Next, select “Run As Administrator” from the menu that appears.
 
 ![Launching Command Prompt as admin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-launch-cmd.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  With Command Prompt open, run this command.
 
@@ -71,13 +78,6 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 
 ![Apply the setting to the currently active scheme.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-set-active.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now your [lock screen](https://driver-download.techidaily.com/1722977751917-synaptics-drivers-download-and-update-for-windows-easily/) will timeout after the set amount of time. Give it a try!
 
 <ins class="adsbygoogle"
@@ -95,20 +95,16 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-igniting-creativity-in-your-channel-top-youtube-video-ideas/"><u>[New] 2024 Approved Igniting Creativity in Your Channel Top YouTube Video Ideas</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-effortless-online-transformation-ff-vids-to-mp4-in-high-definition-for-2024/"><u>[New] Effortless Online Transformation FF Vids to MP4 in High Definition for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-best-camera-lenses-for-youtube-for-2024/"><u>[Updated] Best Camera Lenses for YouTube for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/1-seamless-data-transition-mastering-the-art-of-using-windows-backup-for-upgrading-your-pc/"><u>1. Seamless Data Transition: Mastering the Art of Using Windows Backup for Upgrading Your PC</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-secretive-suggestions-for-enhanced-vlc-usage/"><u>2024 Approved Secretive Suggestions for Enhanced VLC Usage</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-failure-code-0x0001-on-nvidia-software/"><u>Addressing Failure Code 0X0001 on Nvidia Software</u></a></li>
-<li><a href="https://some-skills.techidaily.com/connect-seamlessly-with-friends-a-guide-to-facetime-calling-from-windows/"><u>Connect Seamlessly with Friends: A Guide to Facetime Calling From Windows</u></a></li>
-<li><a href="https://some-skills.techidaily.com/cost-effective-solutions-enjoy-apple-macintosh-elegance-at-a-fraction-of-the-price-with-secure-online-macbook-leasing-options/"><u>Cost-Effective Solutions: Enjoy Apple Macintosh Elegance at a Fraction of the Price with Secure Online Macbook Leasing Options</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/enlightening-your-iphone-experience-with-new-camera-features/"><u>Enlightening Your iPhone Experience with New Camera Features</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/guida-passo-passo-alla-libera-acquisizione-del-convertitore-videoclip-freemaker-su-un-computer-apple/"><u>Guida Passo-Passo Alla Libera Acquisizione Del Convertitore Videoclip FreeMaker Su Un Computer Apple</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/shoppers-insight-making-an-informed-choice-on-your-next-360camera/"><u>Shopper's Insight Making an Informed Choice on Your Next 360Camera</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-tutorial-for-using-cut-copy-and-paste-commands-on-windows-1011-systems/"><u>Ultimate Tutorial for Using Cut, Copy & Paste Commands on Windows 10/11 Systems</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-tutorial-enabling-specific-ports-in-windows-firewall-settings/"><u>Ultimate Tutorial: Enabling Specific Ports in Windows Firewall Settings</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unleash-the-power-of-crossover-24-on-mac-and-linux-for-free-optimize-your-pc-apps-today-at-a-sale-price/"><u>Unleash the Power of CrossOver 24 on Mac & Linux for Free - Optimize Your PC Apps Today at a Sale Price</u></a></li>
-<li><a href="https://some-skills.techidaily.com/windows-aesthetics-unveiled-tracing-the-lineage-of-os-desktop-imagery/"><u>Windows Aesthetics Unveiled: Tracing the Lineage of OS Desktop Imagery</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-rapid-training-image-transformation-for-dynamic-youtube-desktop-thumbnails/"><u>[New] Rapid Training Image Transformation for Dynamic YouTube Desktop Thumbnails</u></a></li>
+<li><a href="https://some-skills.techidaily.com/12-quick-methods-to-access-windows-10-file-explorer/"><u>12 Quick Methods to Access Windows 10 File Explorer</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-calculated-viewing-time-for-a-standard-20mb-film/"><u>2024 Approved Calculated Viewing Time for a Standard 20Mb Film</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-how-to-quickly-stream-spotify-audio-with-integrity/"><u>2024 Approved How to Quickly Stream Spotify Audio with Integrity</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-calculus-of-cashflow-from-creativity-measuring-your-youtube-earnings-and-impact/"><u>2024 Approved The Ultimate Calculus of Cashflow From Creativity Measuring Your YouTube Earnings and Impact</u></a></li>
+<li><a href="https://some-skills.techidaily.com/access-a-multitude-of-ai-powered-conversational-agents-directly-from-your-personal-computer-using-our-innovative-application/"><u>Access a Multitude of AI-Powered Conversational Agents Directly From Your Personal Computer Using Our Innovative Application</u></a></li>
+<li><a href="https://some-skills.techidaily.com/boost-productivity-fast-efficiently-start-programs-via-keyboard-triggers-on-windows-11/"><u>Boost Productivity Fast: Efficiently Start Programs via Keyboard Triggers on Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/boost-your-gameplay-the-best-3-software-solutions-for-real-time-pc-gaming-stats-analysis/"><u>Boost Your Gameplay: The Best 3 Software Solutions for Real-Time PC Gaming Stats Analysis</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-xiaomi-13t-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Xiaomi 13T</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/mac-users-essential-skills-how-to-safeguard-access-and-recover-hard-drive-data-informative-video-series/"><u>Mac Users' Essential Skills: How to Safeguard, Access, and Recover Hard Drive Data – Informative Video Series</u></a></li>
+<li><a href="https://driver-download.techidaily.com/troubleshooting-synaptics-driver-problems-in-windows-11-a-complete-guide/"><u>Troubleshooting Synaptics Driver Problems in Windows 11 – A Complete Guide</u></a></li>
 </ul></div>
 

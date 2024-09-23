@@ -1,7 +1,7 @@
 ---
 title: Top 8 Essential Factors to Consider When Purchasing a Pre-Owned Windows Laptop
-date: 2024-09-16T03:09:42.956Z
-updated: 2024-09-17T16:41:57.487Z
+date: 2024-09-15T23:42:10.352Z
+updated: 2024-09-23T02:02:20.181Z
 tags:
   - deals
 categories:
@@ -46,18 +46,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Testing the laptop microphone in Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/2-testing-the-laptop-microphone-in-settings.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Test the Built-In Camera
 
  If you intend to use the laptop for video communication, test its built-in camera. To do this, type **Camera** in the Windows Search bar and open the Camera app.
 
  If the camera app detects the webcam and the visuals are clear and of satisfactory quality, as the seller claimed, then the camera is working correctly.
+
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Check the Health of Your Laptop Battery
 
@@ -74,10 +80,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Checking the laptop battery report.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/08/br_5.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Ensure the Laptop Isn't Stolen
@@ -85,13 +91,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  If you're thinking about buying a used laptop from an unknown seller, make sure that it hasn't been stolen. One way to check this is to request a purchase receipt from the seller. If they are unable to provide one, this could be a red flag. If the laptop hasn't been reset, is password-protected, or is locked, these signs indicate that it's likely a stolen device.
 
  You can also confirm your suspicions by getting the laptop's serial number and contacting the manufacturer to verify whether the device has been reported stolen.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Perform the Physical Inspection
 
@@ -104,6 +103,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The worst scenario you could face is finding your [laptop unable to connect to the internet](https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual/) (via Wi-Fi or Ethernet cable), USB ports failing to detect external devices, or Bluetooth malfunctioning—all after completing the purchase. Because of that, confirming there are no wired or wireless connectivity issues is important.
 
  Start by connecting your laptop to Wi-Fi. Then, [test its Ethernet port](https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/) by plugging it directly into the router. If the internet connection works well, test the audio jacks with headphones. Similarly, check the USB ports by connecting a wired device. Finally, make sure Bluetooth is working by pairing a Bluetooth-powered device.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Check the Health of RAM and Storage Drive
 
@@ -134,18 +140,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-thriving-in-digital-discussions-essential-strategies-for-proficient-zoom-chats/"><u>[New] 2024 Approved Thriving in Digital Discussions Essential Strategies for Proficient ZOOM Chats</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-unlock-the-power-of-pixels-master-color-correction-techniques-11-steps/"><u>[New] In 2024, Unlock the Power of Pixels - Master Color Correction Techniques (11 Steps)</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-navigating-youtubes-monetization-frequency/"><u>[New] Navigating YouTube's Monetization Frequency</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-discreetly-discovering-content-how-to-read-instagram-stories-privately-on-pcandroidios/"><u>[Updated] 2024 Approved Discreetly Discovering Content How to Read Instagram Stories Privately on PC/Android/iOS</u></a></li>
-<li><a href="https://some-skills.techidaily.com/1-explore-the-enhanced-experience-with-apples-macos-sequoia-unveiling-top-3-desired-functionalities/"><u>1. Explore the Enhanced Experience with Apple's macOS Sequoia: Unveiling Top 3 Desired Functionalities</u></a></li>
-<li><a href="https://some-skills.techidaily.com/1-lost-your-mac-login-credentials-a-step-by-step-guide-on-how-to-recover/"><u>1. Lost Your Mac Login Credentials? A Step-by-Step Guide on How to Recover</u></a></li>
-<li><a href="https://some-skills.techidaily.com/12-surprising-tricks-you-never-knew-about-using-preview-on-your-mac/"><u>12 Surprising Tricks You Never Knew About Using Preview on Your Mac</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-dslr-broadcast-101-using-facebook-live-from-home-pcs/"><u>2024 Approved DSLR Broadcast 101 Using Facebook LIVE From Home PCs</u></a></li>
-<li><a href="https://facebook.techidaily.com/a-primer-to-social-media-symbol-mastery-facebooks-icons-explained/"><u>A Primer to Social Media Symbol Mastery: Facebook's Icons Explained</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/capture-life-in-all-directions-11-excellence-in-multi-angle-cameras-for-2024/"><u>Capture Life in All Directions #11 Excellence in Multi-Angle Cameras for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-dive-into-the-world-of-interactive-video-features-on-youtube/"><u>In 2024, Dive Into the World of Interactive Video Features on YouTube</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/leading-tweeters-choice-youtube-to-twitter/"><u>Leading Tweeters' Choice YouTube to Twitter</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-updating-software-in-windows-11-a-simple-process/"><u>The Ultimate Guide to Updating Software in Windows 11: A Simple Process</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-best-software-for-live-broadcasting/"><u>[New] 2024 Approved Best Software for Live Broadcasting</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-efficient-way-to-insert-a-hyperlink-in-your-tiktok-bio/"><u>[New] In 2024, Efficient Way to Insert a Hyperlink in Your TikTok Bio</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-vocalvault-recorder-reviewed-for-2024/"><u>[New] VocalVault Recorder Reviewed for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Vivo T2 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-realme-gt-3-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Realme GT 3 Phone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-next-gen-gadgets-with-expertise-from-toms-hardware-central/"><u>Navigating Next-Gen Gadgets with Expertise From Tom's Hardware Central</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/roblox-server-status-checking-if-the-game-is-down-or-your-connection-is-weak/"><u>Roblox Server Status: Checking if the Game Is Down or Your Connection Is Weak</u></a></li>
+<li><a href="https://some-skills.techidaily.com/solve-your-wi-fi-woes-a-guide-to-restoring-internet-access-in-windows-11-with-10-effective-tips/"><u>Solve Your Wi-Fi Woes! A Guide to Restoring Internet Access in Windows 11 with 10 Effective Tips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/step-by-step-guide-clearing-your-domain-name-system-cache-in-windows-10/"><u>Step-by-Step Guide: Clearing Your Domain Name System Cache in Windows 10</u></a></li>
+<li><a href="https://some-skills.techidaily.com/step-by-step-guide-crafting-your-custom-shutdown-icon-on-windows-11/"><u>Step-by-Step Guide: Crafting Your Custom Shutdown Icon on Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/step-by-step-guide-installing-iso-files-on-pcs-with-windows-7810/"><u>Step-by-Step Guide: Installing ISO Files on PCs with Windows 7/8/10</u></a></li>
+<li><a href="https://some-skills.techidaily.com/step-by-step-guide-launching-admin-command-prompt-on-windows-10/"><u>Step-by-Step Guide: Launching Admin Command Prompt on Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tailoring-chatgpt-for-global-language-diversity/"><u>Tailoring ChatGPT for Global Language Diversity</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-vivo-y78plus-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Vivo Y78+</u></a></li>
 </ul></div>
 

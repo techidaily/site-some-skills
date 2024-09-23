@@ -1,7 +1,7 @@
 ---
 title: "Disabling Microsoft Defender Antivirus in Windows 11: A Step-by-Step Guide"
-date: 2024-09-10T17:18:30.187Z
-updated: 2024-09-17T21:07:33.414Z
+date: 2024-09-21T00:39:57.860Z
+updated: 2024-09-23T03:40:28.309Z
 tags:
   - desktop
 categories:
@@ -44,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/7d0feaf90637aa15b789896b9b4144f8ee9d0a151
  Now that you know when you should and should not permanently disable Microsoft Defender, let’s check out how you can permanently disable Microsoft Defender on Windows 11.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Turn Off Real-Time Protection and Tamper Protection in the Windows Security App
@@ -58,22 +58,16 @@ thumbnail: https://thmb.techidaily.com/7d0feaf90637aa15b789896b9b4144f8ee9d0a151
 
 ![Typing Windows Security in the Start Menu search bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/typing-windows-defender-in-the-start-menu-search-bar.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Choose "Virus & Threat Protection" from the left sidebar, then click "Manage Settings" on the right.
 
 ![Virus & Threat Protection option in the Windows Security App.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/virus-threat-protection-option-in-the-windows-security-app.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Turn off the “Real-Time Protection” toggle. If UAC pops up, click “Yes” to confirm your decision.
 
@@ -99,13 +93,6 @@ thumbnail: https://thmb.techidaily.com/7d0feaf90637aa15b789896b9b4144f8ee9d0a151
 
 ![Windows Defender Key in the Registry Editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/windows-defender-key-in-the-registry-editor.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Name the value “DisableAntiSpyware.” Then, double-click the “DisableAntiSpyware” value, type **1** in the “Value Data” field, and click “OK.”
 
 ![Value Data field in the Registry Editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/value-data-field-in-the-registry-editor.jpg) 
@@ -125,10 +112,10 @@ thumbnail: https://thmb.techidaily.com/7d0feaf90637aa15b789896b9b4144f8ee9d0a151
 ![Gpedit.msc command in the Run tool.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/gpedit-msc-command-in-the-run-tool.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In the Local Group Policy Editor window, navigate to the following location:
@@ -143,18 +130,18 @@ thumbnail: https://thmb.techidaily.com/7d0feaf90637aa15b789896b9b4144f8ee9d0a151
 
 ![Enabled option in the Local Group Policy Editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/enabled-option-in-the-local-group-policy-editor.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  That’s it! Restart your computer, and you’ll see that Microsoft Defender is disabled.
 
  If you want to enable Microsoft Defender in the future, set the “Turn Off Microsoft Defender Antivirus” policy to “Disable.” After that, turn on the “Real-time Protection” and “Tamper Protection” toggles in the Windows Security app."
 
 ![Disabled option in the Local Group Policy Editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/disabled-option-in-the-local-group-policy-editor.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Check the State of Microsoft Defender on Windows 11
 
@@ -165,6 +152,13 @@ thumbnail: https://thmb.techidaily.com/7d0feaf90637aa15b789896b9b4144f8ee9d0a151
  If you get “Not Running” as the result, then it confirms that you have disabled Microsoft Defender.
 
 ![PowerShell window showing Not Running in result.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/powershell-window-showing-not-running-in-result.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  However, if you get “Normal” as the result, it means Microsoft Defender is still running on your computer. In this case, double-check that you followed the steps correctly.
 
@@ -189,19 +183,18 @@ thumbnail: https://thmb.techidaily.com/7d0feaf90637aa15b789896b9b4144f8ee9d0a151
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-spotting-the-top-10-covert-instagram-story-spectators/"><u>[New] In 2024, Spotting the Top 10 Covert Instagram Story Spectators</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-dive-into-the-world-of-expertise-with-youtubes-top-10-makeup-vloggers/"><u>[Updated] 2024 Approved Dive Into the World of Expertise with YouTube's Top 10 Makeup Vloggers</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-google-meet-a-self-teached-path-for-hosts-and-attendees/"><u>[Updated] In 2024, Google Meet A Self-Teached Path for Hosts & Attendees</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-tecno-camon-30-pro-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Tecno Camon 30 Pro 5G Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-poco-x6-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Poco X6 Phone When You Forget the Password</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/in-2024-the-best-of-the-best-movie-trailer-creation-software-for-mac-and-pc/"><u>In 2024, The Best of the Best Movie Trailer Creation Software for Mac and PC</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-the-ultimate-guide-to-productive-online-team-sessions/"><u>In 2024, The Ultimate Guide to Productive Online Team Sessions</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-motorola-moto-g34-5g-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Motorola Moto G34 5G</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/the-virtual-reality-archivists-handbook-for-game-recordings/"><u>The Virtual Reality Archivist's Handbook for Game Recordings</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-5-solutions-for-resolving-memory-integrity-issues-in-windows-11/"><u>Top 5 Solutions for Resolving Memory Integrity Issues in Windows 11</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-6-microsoft-edge-features-enhancing-productivity-for-remote-workers-on-windows-11/"><u>Top 6 Microsoft Edge Features Enhancing Productivity for Remote Workers on Windows 11</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-guide-activating-and-deactivating-the-xbox-game-bar-on-windows-10/"><u>Ultimate Guide: Activating and Deactivating the Xbox Game Bar on Windows 10</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-tutorial-on-performing-a-clean-installation-and-reboot-of-windows-11/"><u>Ultimate Tutorial on Performing a Clean Installation & Reboot of Windows 11</u></a></li>
-<li><a href="https://some-skills.techidaily.com/uncover-the-best-kept-tricks-of-windows-11-to-enhance-your-experience/"><u>Uncover the Best-Kept Tricks of Windows 11 to Enhance Your Experience</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-how-to-downloadsave-instagram-photosvideos-on-iphone/"><u>2024 Approved How to Download/Save Instagram Photos/Videos on iPhone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ace-your-project-advanced-srt-tweaks-on-a-mac/"><u>Ace Your Project Advanced SRT Tweaks on a Mac</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-xiaomi-redmi-note-13-5g-support-mkv-video-files-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Xiaomi Redmi Note 13 5G support MKV video files?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/how-does-inside-out-positional-tracking-work-in-virtual-reality-environments/"><u>How Does Inside-Out Positional Tracking Work in Virtual Reality Environments?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/identifying-star-patterns-with-mobile-technology-a-guide-to-finding-constellations/"><u>Identifying Star Patterns with Mobile Technology: A Guide to Finding Constellations</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-motorola-edge-40-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Motorola Edge 40 Data? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-definitive-guide-for-choosing-best-youtube-visual-elements/"><u>In 2024, The Definitive Guide for Choosing Best YouTube Visual Elements</u></a></li>
+<li><a href="https://some-skills.techidaily.com/is-it-possible-to-tune-electric-vehicles-evs/"><u>Is It Possible to Tune Electric Vehicles (EVs)?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/maximize-your-musical-potential-with-udio-the-top-choice-in-artificamatic-intelligence-right-now-learn-how-to-get-started/"><u>Maximize Your Musical Potential with Udio – The Top Choice in Artificamatic Intelligence Right Now, Learn How to Get Started.</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/metaverse-vs-multimeva-unveiling-their-comparative-features-for-2024/"><u>Metaverse Vs. Multimeva Unveiling Their Comparative Features for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/slomo-mastery-unleashed-in-depth-2024-review/"><u>SloMo Mastery Unleashed In-Depth 2024 Review</u></a></li>
+<li><a href="https://win-webster.techidaily.com/transform-pdf-and-various-image-formats-into-stunning-android-books-with-flipbuilder/"><u>Transform PDF & Various Image Formats Into Stunning Android Books with FlipBuilder</u></a></li>
+<li><a href="https://video-capture.techidaily.com/44km44kj44o844oc44gn5pya6ygp44gq5l244ge5pa544go44ot44oh44kq5lplusd5oyb44gu44kz44oe/"><u>ウィーボで最適な使い方とビデオ保持のコツ</u></a></li>
 </ul></div>
 

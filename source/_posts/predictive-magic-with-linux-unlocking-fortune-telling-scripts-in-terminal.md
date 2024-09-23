@@ -1,7 +1,7 @@
 ---
 title: "Predictive Magic with Linux: Unlocking Fortune-Telling Scripts in Terminal"
-date: 2024-09-10T19:43:40.775Z
-updated: 2024-09-17T22:56:05.061Z
+date: 2024-09-16T23:35:05.228Z
+updated: 2024-09-23T05:59:06.170Z
 tags:
   - desktop
 categories:
@@ -71,6 +71,13 @@ fortune literature
 
 fortune -s -o literature
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Create Your Own fortune File
 
  What if I told you that you could create your own fortunes? That's right, it's a straightforward process. All you need is to create your custom fortune file and make it compatible with the fortune command's requirements. In this way, you're not bound to the predefined messages.
@@ -84,10 +91,10 @@ nano funny
 ![Adding fortunes text to a plain text file using nano text editor in Linux terminal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/adding-fortunes-saying.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once your file is ready, you need to convert it to a format that fortune can use. You can do this with the strfile command, which generates the necessary "funny.dat" file for the fortune command:
@@ -95,19 +102,6 @@ nano funny
 strfile -c % funny funny.dat
 
 ![Converting plain text file to fortune supported file using strfile command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/file-conversoin-strfile.png) 
-
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now, [move both files to the directory](https://some-knowledge.techidaily.com/in-2024-immersive-innovations-the-distinct-worlds-of-mr-ar-and-vr/) where fortune looks for its data. This location can vary, but it often looks like "/usr/share/games/fortunes/" or "/usr/local/share/games/fortunes/".
 
@@ -119,13 +113,6 @@ fortune -f
 
 ![Listing all fortune source files using the -f option of fortune command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/fortune-listing.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The percentage here gives you a rough idea of how much of the total database size is taken up by a particular file.
 
  Finally, you can use the fortune command to get fortunes from your customs file.
@@ -133,6 +120,13 @@ fortune -f
 fortune funny
 
 ![Displaying random saying from your newly created fortune file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/fotune-command-custom.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Every time you run the command, one of your hand-crafted fortunes will appear.
 
@@ -149,6 +143,13 @@ sudo apt install cowsay
 fortune | cowsay
 
 ![Piping fortune output to cowsay command to display random saying along with ASCII art.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/fortune-cowsay.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Check it out! You've got a cow dispensing wisdom right there in your terminal. Just what you always wanted!
 
@@ -188,13 +189,6 @@ source ~/.bashrc
 
 ![Random fortune appearing on a Linux terminal after being launched.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/terminal-fortune-begin.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you want to use different ASCII art creatures, such as tux, just replace the **cowsay** command in the \~/.bashrc file with the **cowsay -f tux** command.
 
 ![Adding new fortune command with tux ASCII art to the end of bashrc file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/terminal-fortune-tux.png) 
@@ -224,10 +218,10 @@ done`
 fortune | wc -c
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Create a Random Picker Game
@@ -253,21 +247,20 @@ fortune | wc -c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-video-vanguard-sj6-legend-against-xiaomis-yi-kickstart/"><u>[Updated] 2024 Approved Video Vanguard SJ6 Legend Against Xiaomi's Yi Kickstart</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-10-best-android-and-ios-clock-apps-for-a-perfectly-countdownwedding/"><u>[Updated] The 10 Best Android & iOS Clock Apps for a Perfectly Countdownwedding</u></a></li>
-<li><a href="https://some-skills.techidaily.com/beyond-our-planet-exploring-how-space-technology-could-resolve-terrestrial-issues/"><u>Beyond Our Planet: Exploring How Space Technology Could Resolve Terrestrial Issues</u></a></li>
-<li><a href="https://some-skills.techidaily.com/boost-productivity-switch-from-complex-excel-formulas-to-efficient-chatgpt-solutions/"><u>Boost Productivity: Switch From Complex Excel Formulas to Efficient ChatGPT Solutions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/can-i-safely-mount-my-own-tesla-ev-charger-in-the-yard/"><u>Can I Safely Mount My Own Tesla EV Charger in the Yard?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/comparing-artificial-intelligence-giants-chatgpt-vs-microsofts-bing-chat/"><u>Comparing Artificial Intelligence Giants: ChatGPT Vs. Microsoft's Bing Chat</u></a></li>
-<li><a href="https://some-skills.techidaily.com/creating-custom-minecraft-skins-with-stable-diffusion-ai-step-by-step-guide/"><u>Creating Custom Minecraft Skins with Stable Diffusion AI - Step-by-Step Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/digital-realities-unveiled-understanding-the-differences-between-vr-ar-and-mr-technologies/"><u>Digital Realities Unveiled: Understanding the Differences Between VR, AR, and MR Technologies</u></a></li>
-<li><a href="https://some-skills.techidaily.com/discover-perplexity-the-unique-ai-chatbot-worth-paying-for/"><u>Discover Perplexity – The Unique AI Chatbot Worth Paying For</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/enhance-your-livestreams-effortlessly-using-manycam-top-virtual-camera-tool-for-online-engagement/"><u>Enhance Your Livestreams Effortlessly Using ManyCam – Top Virtual Camera Tool for Online Engagement</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/explore-fauna-fun-top-12-android-simulation-games-for-2024/"><u>Explore Fauna Fun Top 12 Android Simulation Games for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/from-selfies-to-skies-uncovering-the-intricacies-with-the-dji-spark/"><u>From Selfies to Skies Uncovering The Intricacies with the DJI Spark</u></a></li>
-<li><a href="https://win11.techidaily.com/network-prowess-4-tactics-to-measure-ethernet-speed-on-windows/"><u>Network Prowess: 4 Tactics to Measure Ethernet Speed on Windows</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/silly-suggestions-10-hilarious-concepts-for-quick-quirky-videos-for-2024/"><u>Silly Suggestions 10 Hilarious Concepts for Quick, Quirky Videos for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/visual-description-programmer/"><u>Visual Description Programmer</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-oneplus-12-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On OnePlus 12 Device</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-extract-facebook-videos-for-mobile-and-desktop-easy/"><u>[New] In 2024, Extract Facebook Videos for Mobile & Desktop Easy</u></a></li>
+<li><a href="https://some-skills.techidaily.com/1-uber-autonomous-vehicles-in-vegas-require-human-supervision-current-status/"><u>1. Uber Autonomous Vehicles in Vegas Require Human Supervision: Current Status</u></a></li>
+<li><a href="https://some-skills.techidaily.com/best-value-foldable-phone-on-the-market-moto-razr/"><u>Best Value Foldable Phone on the Market - Moto Razr</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-from-your-iphone-14-plus-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password From your iPhone 14 Plus</u></a></li>
+<li><a href="https://some-skills.techidaily.com/effective-web-exploration-strategies-with-chatgpt/"><u>Effective Web Exploration Strategies with ChatGPT</u></a></li>
+<li><a href="https://some-skills.techidaily.com/enhancing-images-using-artificial-intelligence-mastering-the-technique-of-super-resolution-with-stable-diffusion/"><u>Enhancing Images Using Artificial Intelligence: Mastering the Technique of Super-Resolution with Stable Diffusion</u></a></li>
+<li><a href="https://some-skills.techidaily.com/essential-insights-you-should-know-before-investing-in-a-smart-ring/"><u>Essential Insights You Should Know Before Investing in a Smart Ring</u></a></li>
+<li><a href="https://some-skills.techidaily.com/essential-tips-for-prolonging-your-electric-vehicles-battery-duration/"><u>Essential Tips for Prolonging Your Electric Vehicle's Battery Duration</u></a></li>
+<li><a href="https://some-skills.techidaily.com/everyday-wonders-how-nasas-16-pioneering-discoveries-benefit-us-all/"><u>Everyday Wonders: How NASA's 16 Pioneering Discoveries Benefit Us All</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-samsung-galaxy-a05-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Samsung Galaxy A05 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-videopad-video-editor-review-the-best-choice-for-your-video-editing-needs/"><u>New In 2024, Videopad Video Editor Review The Best Choice for Your Video Editing Needs</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/quick-steps-to-change-weather-location-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>Quick Steps to Change Weather Location on Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-showdown-how-ipad-pro-stands-against-macbook-air/"><u>The Ultimate Showdown: How IPad Pro Stands Against MacBook Air</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transformar-archivos-flv-a-formato-avi-con-el-conversor-gratuito-de-movavi/"><u>Transformar Archivos FLV a Formato AVI Con El Conversor Gratuito De Movavi</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-ftdibussys-the-impact-on-windows-memory-standards-and-safety/"><u>Unraveling ftdibus.sys: The Impact on Windows' Memory Standards and Safety</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Simple Methods to Locate & Remove Outdated Data in Windows 11
-date: 2024-09-17T09:09:23.548Z
-updated: 2024-09-17T17:42:26.182Z
+date: 2024-09-18T23:40:04.733Z
+updated: 2024-09-23T06:25:13.394Z
 tags:
   - desktop
 categories:
@@ -57,18 +57,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![File cleanup options in PC Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/4-pc-manager-file-cleanup-options.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The first option is "Downloaded Files," which lets you remove the files you’ve downloaded using the installed web browsers. Click it, and it’ll open a window listing your recent file downloads. You can sort these files by their type using the tabs at the top.
 
  Then, select the files you’re happy to let go of. At the bottom, you’ll see the storage space you’ll reclaim after deleting these files. To remove the files, click "Permanently Delete."
 
 ![Downloaded files and 'Permanently Delete' highlighted in PC Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/5-delete-downloaded-files.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The second option in PC Manager is "Large Files." As you can guess, it lets you find and remove large files. You can specify the file size here so it only finds files larger than that.
 
@@ -77,10 +77,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 !['Size' drop-down menu highlighted for large files in PC Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/6-specify-file-size.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When you see the files listed, choose the ones you want to remove and click "Permanently Delete."
@@ -93,6 +93,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Duplicate files and 'Permanently Delete' highlighted in PC Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/8-remove-duplicate-files.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  And you’re all set.
 
 ##  Using Command Prompt
@@ -102,13 +109,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  To use it, open Windows Search, search for **Command Prompt**, and select "Run as Administrator."
 
 !['Run as Administrator' highlighted for Command Prompt in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/9-open-command-prompt.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In the User Account Control prompt, choose "Yes."
 
@@ -133,16 +133,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Save the ForFiles command as a batch file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/10-save-batch-file.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When you want to run your command, right-click your batch script and choose "Run as Administrator."
 
 !['Run as Administrator' highlighted for a batch file in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/11-run-batch-file.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can integrate this batch script with Task Manager, and Task Manager will run the script at your specified time. This basically automates the entire process of finding and removing old files from your specified folders.
 
@@ -165,21 +165,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-analyzing-the-updated-sony-s6500-blu-ray-player/"><u>[New] Analyzing the Updated Sony S6500 Blu-Ray Player</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-high-stakes-gopro-matchup-hero5b-and-hero5-session-edition/"><u>[New] High-Stakes GoPro Matchup Hero5B & Hero5 Session Edition</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dive-into-high-tech-world-with-tom-a-hardware-enthusiasts-perspective/"><u>Dive Into High-Tech World with Tom: A Hardware Enthusiast's Perspective</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Honor X50 GT | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-free-frame-conversion-tweeting-vids-into-animated-gifs/"><u>In 2024, Free Frame Conversion Tweeting Vids Into Animated GIFs</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Infinix Hot 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/kindles-role-in-future-book-consumption/"><u>Kindle's Role in Future Book Consumption</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-windows-10-privacy-how-to-turn-network-discovery-on-and-off/"><u>Mastering Windows 10 Privacy: How to Turn Network Discovery On and Off</u></a></li>
-<li><a href="https://win-dash.techidaily.com/quick-fix-for-acers-speakers-update-drivers-with-ease/"><u>Quick Fix for Acer's Speakers: Update Drivers with Ease</u></a></li>
-<li><a href="https://some-skills.techidaily.com/step-by-step-tutorial-installing-and-running-chatgpt-in-windows-environment/"><u>Step-by-Step Tutorial: Installing and Running ChatGPT in Windows Environment</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-basics-of-dexs-how-decentralized-exchange-systems-work-in-the-crypto-world/"><u>The Basics of DEXs: How Decentralized Exchange Systems Work in the Crypto World</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-future-of-wearable-tech-what-are-smart-rings-heading-towards/"><u>The Future of Wearable Tech: What Are Smart Rings Heading Towards?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-influence-of-winter-conditions-on-electric-car-battery-durability-what-to-expect/"><u>The Influence of Winter Conditions on Electric Car Battery Durability: What to Expect?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-next-level-of-storage-how-your-personal-files-could-soar-into-outer-space/"><u>The Next Level of Storage: How Your Personal Files Could Soar Into Outer Space</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-test-of-the-inmotion-electric-scooter-unleashing-its-impressive-strength/"><u>The Ultimate Test of the InMotion Electric Scooter: Unleashing Its Impressive Strength</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-6-missteps-why-using-chatgpt-could-be-a-bad-idea/"><u>Top 6 Missteps: Why Using ChatGPT Could Be a Bad Idea</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/outube-video-shooting-equipment-list-what-you-need-to-start-recording-videos-for-2024/"><u>[New] YouTube Video Shooting Equipment List What You Need to Start Recording Videos for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-high-resolution-horizons-an-in-depth-look-at-the-asus-mg28uq/"><u>2024 Approved High-Resolution Horizons An In-Depth Look at the ASUS MG28UQ</u></a></li>
+<li><a href="https://some-skills.techidaily.com/essential-tips-for-prolonging-your-electric-vehicles-battery-duration/"><u>Essential Tips for Prolonging Your Electric Vehicle's Battery Duration</u></a></li>
+<li><a href="https://some-skills.techidaily.com/everyday-wonders-how-nasas-16-pioneering-discoveries-benefit-us-all/"><u>Everyday Wonders: How NASA's 16 Pioneering Discoveries Benefit Us All</u></a></li>
+<li><a href="https://some-skills.techidaily.com/evolving-smartphone-intelligence-how-oneplus-is-integrating-advanced-ai-capabilities/"><u>Evolving Smartphone Intelligence: How OnePlus Is Integrating Advanced AI Capabilities</u></a></li>
+<li><a href="https://some-skills.techidaily.com/exciting-news-googles-bard-is-rolling-out-immediately-with-additional-plugin-support/"><u>Exciting News! Google's Bard Is Rolling Out Immediately with Additional Plugin Support</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-on-diagnosing-and-repairing-post-problems-during-computer-startup/"><u>Expert Advice on Diagnosing and Repairing POST Problems During Computer Startup</u></a></li>
+<li><a href="https://some-skills.techidaily.com/expert-analysis-of-the-velotric-go-1-ebike-ideal-for-carrying-luggage-and-passengers/"><u>Expert Analysis of the Velotric GO 1 eBike – Ideal for Carrying Luggage & Passengers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/exploring-aviras-new-feature-integrated-cryptocurrency-mining-functionality/"><u>Exploring Avira's New Feature: Integrated Cryptocurrency Mining Functionality</u></a></li>
+<li><a href="https://some-skills.techidaily.com/how-meta-quest-3-brings-apple-inspired-innovation-with-its-new-oculus-headset/"><u>How Meta Quest 3 Brings Apple-Inspired Innovation with Its New Oculus Headset</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-get-your-twitch-stream-up-and-running-again-with-these-groovy-7-fixes/"><u>How To Get Your Twitch Stream Up & Running Again With These Groovy 7 Fixes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unmissable-vr-immersive-storytelling/"><u>In 2024, Unmissable VR Immersive Storytelling</u></a></li>
+<li><a href="https://video-capture.techidaily.com/nocturnal-nuances-essential-tips-for-moonlit-portraiture-for-2024/"><u>Nocturnal Nuances Essential Tips for Moonlit Portraiture for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/simplified-system-management-through-task-scheduler/"><u>Simplified System Management Through Task Scheduler</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/understanding-the-mechanics-behind-altering-gender-in-snapchatfacebook-images/"><u>Understanding the Mechanics Behind Altering Gender in Snapchat/Facebook Images</u></a></li>
 </ul></div>
 

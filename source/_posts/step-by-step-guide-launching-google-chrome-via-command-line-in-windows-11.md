@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Launching Google Chrome via Command Line in Windows 11"
-date: 2024-09-12T01:40:15.580Z
-updated: 2024-09-17T17:53:15.996Z
+date: 2024-09-18T07:50:09.979Z
+updated: 2024-09-23T04:34:09.301Z
 tags:
   - deals
 categories:
@@ -49,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/5eb42b490725ed54872c9c11b47aee171fe6d7919
  The web browser will now open.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Open Chrome as Administrator
@@ -65,14 +65,14 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 
 ![Launching Chrome as an admin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/4-running-as-admin.png) 
 
- You'll now be running Chrome as an administrator.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ You'll now be running Chrome as an administrator.
 
 ##  Open Chrome in Incognito Mode
 
@@ -82,6 +82,13 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 
 ![Start Google Chrome with the /incognito flag.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-opening-chrome-in-incognito-mode.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To do this from the Run program, enter this command instead:
 
 `chrome /incognito` 
@@ -89,19 +96,6 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 ![Starting Chrome in incognito mode from a Run window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-chrome-incognito-run-window.png) 
 
  Chrome will now open in incognito mode.
-
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Open Chrome Straight to a Specific Website
 
@@ -112,13 +106,6 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 `start chrome www.howtogeek.com` 
 
 ![Opening Chrome to howtogeek.com](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/7-starting-chrome-with-a-specific-website.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you have multiple profiles on Google Chrome, opening Chrome in this way to a specific website will automatically launch into the most recently used profile. 
 
@@ -133,6 +120,19 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 `chrome www.howtogeek.com` 
 
 ![Opening Chrome to a specific website using a Run window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/9-run-howtogeek.png) 
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Or, to open the site in incognito mode, use:
 
@@ -157,20 +157,20 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-from-front-to-back-the-instagram-art-of-flipping-visuals-with-ease/"><u>[New] In 2024, From Front to Back The Instagram Art of Flipping Visuals with Ease</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-how-to-record-webinar-for-free/"><u>[Updated] How to Record Webinar for Free</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-tailoring-your-zoom-experience-for-different-industries-on-windows-11-for-2024/"><u>[Updated] Tailoring Your Zoom Experience for Different Industries on Windows 11 for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/discover-enhanced-productivity-with-windows-11s-updated-sticky-notes-feature/"><u>Discover Enhanced Productivity with Windows 11’S Updated Sticky Notes Feature</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/discover-exceptional-places-for-buying-your-next-smartphone/"><u>Discover Exceptional Places for Buying Your Next Smartphone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/easy-guide-adding-your-site-to-the-windows-11-taskbar-and-start-menu/"><u>Easy Guide: Adding Your Site to the Windows 11 Taskbar and Start Menu</u></a></li>
-<li><a href="https://some-skills.techidaily.com/efficient-file-comparison-techniques-using-notepadplusplus/"><u>Efficient File Comparison Techniques Using Notepad++</u></a></li>
-<li><a href="https://some-skills.techidaily.com/emerging-threat-hacker-exploits-in-the-latest-microsoft-office-software-packages/"><u>Emerging Threat: Hacker Exploits in the Latest Microsoft Office Software Packages</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ensuring-file-security-avoid-common-pitfalls-in-microsoft-onedrive/"><u>Ensuring File Security: Avoid Common Pitfalls in Microsoft OneDrive</u></a></li>
-<li><a href="https://some-skills.techidaily.com/how-does-conky-elevate-the-visual-appeal-of-your-linux-workspace/"><u>How Does Conky Elevate the Visual Appeal of Your Linux Workspace?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/how-to-set-up-a-personal-streaming-station-with-icecast-on-linux/"><u>How to Set Up a Personal Streaming Station with Icecast on Linux</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-on-your-apple-iphone-6-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID On your Apple iPhone 6 without Security Questions?</u></a></li>
-<li><a href="https://solve-news.techidaily.com/itunes-dvd/"><u>ITunesで素早く簡単な方法： DVDのオーディオコンテンツをインポートするために？</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/juxtaposing-flight-with-flair-a-bebop-parrot-analysis-for-2024/"><u>Juxtaposing Flight with Flair – A Bebop Parrot Analysis for 2024</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/sysbus-verstarkung-der-digitalen-fahigkeiten-ihrer-teammitglieder/"><u>Sysbus - Verstärkung Der Digitalen Fähigkeiten Ihrer Teammitglieder</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-from-creative-visionaries-to-paid-influencers-the-instagram-route/"><u>[New] In 2024, From Creative Visionaries to Paid Influencers The Instagram Route</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-essential-firefox-screen-capturing-plugins/"><u>[Updated] Essential Firefox Screen Capturing Plugins</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-slow-motion-journey-for-aspiring-ig-video-makers/"><u>[Updated] The Slow-Motion Journey for Aspiring IG Video Makers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/boosting-focus-using-windows-grokas-pomodoro-timer-in-windows-11-a-pros-and-cons-review/"><u>Boosting Focus Using Windows Grokas Pomodoro Timer in Windows 11 – A Pros and Cons Review</u></a></li>
+<li><a href="https://some-skills.techidaily.com/bridging-operating-systems-a-comprehensive-guide-to-using-ubuntu-software-on-your-windows-11-machine/"><u>Bridging Operating Systems: A Comprehensive Guide to Using Ubuntu Software on Your Windows 11 Machine</u></a></li>
+<li><a href="https://some-skills.techidaily.com/complete-reinstallation-tutorial-for-nvidia-and-amd-graphics-drivers-from-scratch/"><u>Complete Reinstallation Tutorial for NVIDIA & AMD Graphics Drivers From Scratch</u></a></li>
+<li><a href="https://some-skills.techidaily.com/complete-tutorial-downloading-and-setting-up-microsoft-store-applications-in-windows-11/"><u>Complete Tutorial: Downloading and Setting Up Microsoft Store Applications in Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/comprehensive-tutorial-for-disabling-smartscreen-protection-in-windows-108-systems/"><u>Comprehensive Tutorial for Disabling SmartScreen Protection in Windows 10/8 Systems</u></a></li>
+<li><a href="https://some-skills.techidaily.com/determining-available-storage-a-guide-to-monitoring-disk-space-in-windows-11/"><u>Determining Available Storage: A Guide to Monitoring Disk Space in Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/discover-how-microsoft-is-revolutionizing-the-print-experience-in-windows-11/"><u>Discover How Microsoft Is Revolutionizing the Print Experience in Windows 11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-meizu-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Meizu Without PUK Codes</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-definitive-guide-to-instagram-to-mp4-transformation-2-ways/"><u>The Definitive Guide to Instagram-to-MP4 Transformation 2 Ways</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-oneplus-e-9-critique-mathematics-still-on-the-lower-side/"><u>The OnePlus E 9 Critique: Mathematics Still on the Lower Side</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-laptop-displays-of-2024-a-comprehensive-guide/"><u>Top Rated Laptop Displays of 2024: A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/understanding-ios-video-recording-for-2024/"><u>Understanding iOS Video Recording for 2024</u></a></li>
 </ul></div>
 

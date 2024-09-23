@@ -1,7 +1,7 @@
 ---
 title: 12 Quick Methods to Access Windows 10 File Explorer
-date: 2024-09-10T22:52:00.257Z
-updated: 2024-09-18T04:36:52.181Z
+date: 2024-09-19T18:13:50.202Z
+updated: 2024-09-23T06:45:09.622Z
 tags:
   - deals
 categories:
@@ -43,23 +43,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Click the File Explorer button on the taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/icon-on-taskbar.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Use the Keyboard Shortcut
 
  Almost every keyboard on a Windows PC has a Windows key (it's the one with the Windows icon). You can open File Explorer by pressing Windows+E.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Via Windows Search
 
@@ -95,13 +81,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![File explorer tile](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/10/File-explorer-tile.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  From Within File Explorer
 
  You can launch anything that is [on your system PATH](https://android-frp.techidaily.com/in-2024-the-complete-guide-to-meizu-frp-bypass-everything-you-need-to-know-by-drfone-android/) from the address bar without specifying a full path to the executable, just like a Run window, Command Prompt, or PowerShell.
@@ -111,10 +90,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Running File Explorer from within File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/explorer-in-explorer.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  From the Power User Menu
@@ -122,6 +101,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  You can also open File Explorer from the Power User Menu. To access it, press Windows+X or right-click the Start button, and then click "File Explorer."
 
 ![File Explorer in Power User menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/10/File-Explorer-in-Power-User-menu.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Use the Run Application
 
@@ -145,6 +131,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![File explorer desktop shortcut](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/10/File-explorer-desktop-shortcut.gif) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now, you can just double-click the shortcut on your desktop to open File Explorer anytime.
 
 ##  From Task Manager
@@ -153,16 +146,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Open Task Manager, then navigate to File > Run New Task.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/task-manager-file-run-new-task.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The "Create New Task" window will appear. Type "Explorer" in the "Open:" text box, click "OK," and File Explorer will open.
 
 ![Enter 'explorer' into the 'Create New Task' window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/create-new-task-task-manager.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  From Command Prompt
 
@@ -190,6 +183,13 @@ explorer
 
 ![Run 'explorer' in PowerShell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/explorer-in-powerhsell.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  File Explorer will then open.
 
 ---
@@ -211,18 +211,19 @@ explorer
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-mastering-youtube-video-extraction-a-step-by-step-guide/"><u>[New] In 2024, Mastering YouTube Video Extraction A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/vercoming-anxiety-in-your-camera-lens-youtube-wisdom-for-2024/"><u>[New] Overcoming Anxiety in Your Camera Lens YouTube Wisdom for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-earning-potential-steps-to-join-the-youtube-premium-club/"><u>[Updated] In 2024, Earning Potential Steps to Join the YouTube Premium Club</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-oneplus-ace-2v-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on OnePlus Ace 2V? | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/hp-laserjet-pro-m428fdx-printer-drivers-for-windows-install-guides-and-downloads-windows-11-10-and-7/"><u>HP LaserJet Pro M428fdx Printer Drivers for Windows: Install Guides & Downloads (Windows 11, 10, and 7)</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Samsung Galaxy F15 5G? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/les-6-meilleurs-outils-de-copie-video-libres-recuperer-lintegralite-du-film-sur-ton-disque-dur/"><u>Les 6 Meilleurs Outils De Copie Vidéo Libres: Récupérer L'Intégralité Du Film Sur Ton Disque Dur!</u></a></li>
-<li><a href="https://windows11.techidaily.com/precision-in-file-ordering-with-these-tools/"><u>Precision in File Ordering with These Tools</u></a></li>
-<li><a href="https://howto.techidaily.com/realme-note-50-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme Note 50 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-evaluating-secondhand-windows-pcs-8-key-points/"><u>The Ultimate Guide to Evaluating Secondhand Windows PCs – 8 Key Points</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-7-linux-innovations-perfectly-suited-for-integration-into-the-next-version-of-windows/"><u>Top 7 Linux Innovations Perfectly Suited for Integration Into the Next Version of Windows</u></a></li>
-<li><a href="https://some-skills.techidaily.com/troubleshooting-and-repairing-ethernet-issues-in-windows-11-a-comprehensive-guide/"><u>Troubleshooting and Repairing Ethernet Issues in Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-guide-linking-your-xbox-gamepad-to-windows-computer/"><u>Ultimate Guide: Linking Your Xbox Gamepad to Windows Computer</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-aspect-modification-at-your-fingertips-online/"><u>[Updated] Aspect Modification at Your Fingertips Online</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-how-to-create-a-youtube-channel-today/"><u>[Updated] How to Create A YouTube Channel Today</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-spiritual-stretching-youtubes-best-yoga-content-crews/"><u>[Updated] Spiritual Stretching – YouTube’s Best Yoga Content Crews</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/bite-sized-video-knowledge-now-for-2024/"><u>Bite-Sized Video Knowledge Now for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-understanding-earnings-potential-per-video-consumption/"><u>In 2024, Understanding Earnings Potential per Video Consumption</u></a></li>
+<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On OnePlus Open? | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/propella-7s-40-review-light-nimble-affordable/"><u>Propella 7S 4.0 Review: Light, Nimble, Affordable</u></a></li>
+<li><a href="https://some-skills.techidaily.com/step-by-step-instructions-for-resetting-microsoft-onedrive-on-windows-10-to-resolve-data-synchronization-errors/"><u>Step-by-Step Instructions for Resetting Microsoft OneDrive on Windows 10 to Resolve Data Synchronization Errors</u></a></li>
+<li><a href="https://some-skills.techidaily.com/temporary-halt-of-the-windows-11-memory-restoration-capability-announced-by-microsoft/"><u>Temporary Halt of the Windows 11 Memory Restoration Capability Announced by Microsoft</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-bypassing-icloud-activation-lock-on-iphone-14-by-drfone-ios/"><u>The Ultimate Guide to Bypassing iCloud Activation Lock on iPhone 14</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-8-essential-factors-to-consider-when-purchasing-a-pre-owned-windows-laptop/"><u>Top 8 Essential Factors to Consider When Purchasing a Pre-Owned Windows Laptop</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-8-solutions-for-when-your-laptop-wont-charge-despite-being-connected/"><u>Top 8 Solutions for When Your Laptop Won't Charge Despite Being Connected</u></a></li>
+<li><a href="https://some-skills.techidaily.com/troubleshooting-guide-getting-your-non-responsive-wireless-mouse-back-online-on-windows-11/"><u>Troubleshooting Guide: Getting Your Non-Responsive Wireless Mouse Back Online on Windows 11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-does-my-iphoneipad-overheat-find-out-causes-and-solutions/"><u>Why Does My iPhone/iPad Overheat? Find Out Causes & Solutions</u></a></li>
 </ul></div>
 

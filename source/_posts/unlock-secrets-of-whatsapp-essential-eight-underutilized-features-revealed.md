@@ -1,7 +1,7 @@
 ---
 title: "Unlock Secrets of WhatsApp: Essential Eight Underutilized Features Revealed!"
-date: 2024-09-16T05:04:20.481Z
-updated: 2024-09-18T05:00:44.776Z
+date: 2024-09-16T03:13:38.647Z
+updated: 2024-09-22T22:13:08.824Z
 tags:
   - web
 categories:
@@ -52,13 +52,6 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
 
 ![Disabling read receipts in WhatsApp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-disabling-read-receipts-in-whatsapp.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  However, this feature works both ways: you also won't be able to see when others have read your messages. Also, remember that this setting doesn't apply to group chats.
 
 ## 4  Create Custom Notifications for Specific Chats 
@@ -69,16 +62,16 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
 
 ![Selecting a custom alert tone for a contact in WhatsApp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-selecting-a-custom-alert-tone-in-whatsapp.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On Android, you can choose separate tones for messages and calls. On the iPhone, you can only select a single tone for all alerts.
 
 ![Selecting a custom call or text notification tone for a specific contact in WhatsApp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-selecting-a-new-tone-for-specific-contacts-in-whatsapp.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5  Send a Message to Multiple Contacts at Once 
 
@@ -90,13 +83,6 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
 
 ![Creating a new broadcast list in WhatsApp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-creating-a-new-broadcast-list-in-whatsapp.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6  Use Avatars and Custom Stickers 
 
  WhatsApp lets you create an avatar either automatically by taking a selfie or manually by choosing your skin tone, hairstyle, and other features. Once created, you'll have access to custom stickers featuring your avatar, which you can use in chats. You can also use different images of your avatar for your profile picture.
@@ -106,15 +92,22 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
 ![Options to create an avatar manually or automatically](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-options-to-create-an-avatar-manually-or-automatically.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once your avatar is ready, you'll see two options: "Browse Stickers," where you can see and [use custom stickers](https://youtube-clips.techidaily.com/shaping-viewers-attention-employing-jump-cuts-in-video-editing/), and "Create Profile Photo," where you can select an avatar image for your profile picture.
 
 ![Checking the custom avatar stickers and profile photo in WhatsApp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/6-checking-the-custom-avatar-stickers-and-profile-photo-in-whatsapp.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7  Set Custom Wallpapers for Individual Contacts 
 
@@ -124,9 +117,23 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
 
 ![Selecting a custom chat wallpaper for a contact in WhatsApp on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/7-selecting-a-new-whatsapp-wallpaper-in-whatsapp.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To set a custom wallpaper for a contact on Android, open the chat, tap the three vertical dots in the top-right corner, and select "Wallpaper." Then, choose a wallpaper and tap "Set Wallpaper." When prompted, select "For This Chat."
 
 ![Changing a wallpaper for a particular chat in WhatsApp on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-changing-a-wallpaper-for-a-particular-chat-in-whatsapp.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8  Share Your Live Location with Others 
 
@@ -135,13 +142,6 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
  To share your live location, ensure WhatsApp has permission to access your location and that your phone’s location services are enabled. Then, open the chat with the person you want to share your location with, tap the paperclip icon on Android (or the plus icon in the bottom-left corner on iPhone), and select "Location."
 
 ![The menu to share the location in WhatsApp.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/8-trying-to-share-the-location-in-whatsapp.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Next, tap "Share Live Location," choose how long you want to share it, add a caption if you'd like, and tap the send button. Your contact will see your exact location, and they can also share their live location with you if they wish.
 
@@ -170,16 +170,21 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-best-firefox-screencasting-extensions-for-2024/"><u>[Updated] Best FireFox Screencasting Extensions for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-the-elite-selection-of-10-websites-offering-free-photos/"><u>[Updated] In 2024, The Elite Selection of 10 Websites Offering FREE Photos</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-iphone-filmmaking-essentials-creating-and-changing-video-speed-dynamics-for-2024/"><u>[Updated] IPhone Filmmaking Essentials Creating and Changing Video Speed Dynamics for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-painless-audio-progression-the-unobtrusive-way/"><u>2024 Approved Painless Audio Progression The Unobtrusive Way</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-pause-life360-location-sharing-for-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For ZTE Axon 40 Lite | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-watch-or-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How To Bypass Activation Lock On Apple Watch Or Apple iPhone 13 Pro Max?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Samsung Galaxy F54 5G? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/step-by-step-guide-to-substituting-characters-with-line-breaks-using-notepadplusplus/"><u>Step-by-Step Guide to Substituting Characters with Line Breaks Using Notepad++</u></a></li>
-<li><a href="https://some-skills.techidaily.com/step-by-step-guide-installing-iso-files-on-pcs-with-windows-7810/"><u>Step-by-Step Guide: Installing ISO Files on PCs with Windows 7/8/10</u></a></li>
-<li><a href="https://some-skills.techidaily.com/step-by-step-guide-launching-admin-command-prompt-on-windows-10/"><u>Step-by-Step Guide: Launching Admin Command Prompt on Windows 10</u></a></li>
-<li><a href="https://fox-access.techidaily.com/the-ultimate-high-res-guide-best-and-worst-8k-televisions/"><u>The Ultimate High-Res Guide Best and Worst 8K Televisions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-creators-uniting-for-marvels-digital-future/"><u>[New] In 2024, Creators Uniting for Marvel's Digital Future</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-mastering-selfies-on-instagram-a-guide/"><u>[New] Mastering Selfies on Instagram A Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-comprehensive-review-slomo-video-app-2024-edition/"><u>[Updated] Comprehensive Review SloMo Video App - 2024 Edition</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-the-ultimate-guide-downloading-setting-up-and-operating-ez-grabber/"><u>[Updated] The Ultimate Guide Downloading, Setting Up & Operating EZ Grabber</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/boost-your-instagram-with-easily-shareable-gifs-step-by-step/"><u>Boost Your Instagram with Easily Shareable GIFs (Step-by-Step)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/decouvrez-comment-utiliser-le-processus-mining-et-le-task-mining-a-votre-avantage-grace-au-qanda-de-abbyy-et-nelsonhall-suivez-la-lecture-pour-plus-dinforma22/"><u>Découvrez Comment Utiliser Le Processus Mining Et Le Task Mining À Votre Avantage Grâce Au Q&A De ABBYY Et NelsonHall : Suivez La Lecture Pour Plus D'informations</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-instagram-filming-blending-into-new-backgrounds-easily/"><u>In 2024, Instagram Filming Blending Into New Backgrounds Easily</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/leading-edge-stabilized-gimbals-iphoneandroidprofessional-rankings-1-10-for-2024/"><u>Leading-Edge Stabilized Gimbals IPhone/Android/Professional Rankings #1-#10 for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-us-policies-promote-rapid-electrification-of-cars-with-revised-emissions-standards/"><u>New U.S. Policies Promote Rapid Electrification of Cars with Revised Emissions Standards</u></a></li>
+<li><a href="https://some-skills.techidaily.com/next-generation-phones-with-ai-assistants-powered-by-onboard-tech-not-the-cloud/"><u>Next Generation Phones with AI Assistants Powered by Onboard Tech, Not the Cloud</u></a></li>
+<li><a href="https://some-skills.techidaily.com/preventative-tips-for-a-smooth-electric-vehicle-charging-experience/"><u>Preventative Tips for a Smooth Electric Vehicle Charging Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/rectified-previously-encountered-errors-while-generating-replies-on-chatgpt-no-longer-apply/"><u>Rectified: Previously Encountered Errors While Generating Replies on ChatGPT No Longer Apply</u></a></li>
+<li><a href="https://some-skills.techidaily.com/revamped-features-on-the-horizon-for-google-bard-a-strategic-improvement-overview/"><u>Revamped Features on the Horizon for Google Bard - A Strategic Improvement Overview</u></a></li>
+<li><a href="https://some-skills.techidaily.com/safeguard-your-privacy-from-machine-mayhem-by-embracing-open-source-linux-solutions/"><u>Safeguard Your Privacy From Machine Mayhem by Embracing Open Source Linux Solutions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-next-gen-leap-for-gamers-microsofts-dxr-api-redefining-pc-resolution-and-performance/"><u>The Next-Gen Leap for Gamers: Microsoft's DXR API Redefining PC Resolution and Performance</u></a></li>
 </ul></div>
 

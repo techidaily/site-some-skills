@@ -1,7 +1,7 @@
 ---
 title: Efficient File Comparison Techniques Using Notepad++
-date: 2024-09-13T08:38:31.225Z
-updated: 2024-09-18T07:03:56.810Z
+date: 2024-09-16T19:09:56.358Z
+updated: 2024-09-22T19:02:42.960Z
 tags:
   - desktop
 categories:
@@ -62,10 +62,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Notepad++ will relaunch with the Compare plugin installed.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Step 3\. Compare Two Files in Notepad++
@@ -76,13 +76,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Open' highlighted in Notepad++.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/7-open-files-notepad-plus-plus.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After opening both files, from the app’s menu bar, select Plugins > Compare > Compare.
 
 !['Compare' highlighted in Notepad++.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/8-compare-files-notepad-plus-plus.png) 
@@ -91,9 +84,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![The file content differences highlighted in Notepad++.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/9-file-differences-highlighted-notepad-plus-plus.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  By default, the app shows your files in a vertical view. To change the view to horizontal mode, right-click the border dividing your files and choose "Rotate to Left" or "Rotate to Right."
 
 !['Rotate to Left' and 'Rotate to Right' options highlighted in Notepad++.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/10-change-view-mode-notepad-plus-plus.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To change the colors used to highlight differences, from the app’s menu bar, select Plugins > Compare > Settings.
 
@@ -102,13 +109,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  On the "Compare Plugins" window, in the "Color Settings" section, choose the various colors you’d like to use. Then, click "OK." To revert your changes, choose "Reset."
 
 !['Color Settings' and 'OK' highlighted on the 'Compare Plugin Settings' window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/12-change-color-settings-compare-plugin-notepad-plus-plus.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After using the plugin, when you want to close the plugin’s functionality, select Plugins > Compare > Clear All Compares from the menu bar.
 
@@ -131,19 +131,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-boost-your-brand-twitter-ads-guide/"><u>[New] 2024 Approved Boost Your Brand Twitter Ads Guide</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-unleash-productivity-learn-to-screen-record-on-mac-using-just-keys-for-2024/"><u>[New] Unleash Productivity Learn to Screen Record on Mac Using Just Keys for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-benq-bl2711u-masterpiece-in-the-realm-of-high-definition-monitors/"><u>[Updated] BenQ BL2711U - Masterpiece in the Realm of High-Definition Monitors</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-capture-spectacular-video-on-youtube-top-webcam-picks/"><u>[Updated] Capture Spectacular Video on YouTube Top Webcam Picks</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-elevate-streams-using-youtubes-av1-settings/"><u>[Updated] In 2024, Elevate Streams Using YouTube's AV1 Settings</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-innovative-hd-technology-showcased-by-best-screen-recorders/"><u>2024 Approved Innovative HD Technology Showcased by Best Screen Recorders</u></a></li>
-<li><a href="https://some-skills.techidaily.com/how-reddit-limits-visibility-key-search-engines-barred-entry/"><u>How Reddit Limits Visibility: Key Search Engines Barred Entry</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-oppo-reno-8t-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Oppo Reno 8T Phone Screen?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-se-passcode-not-working-drfone-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone SE Passcode not Working? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/mozilla-firefox-enhances-user-experience-with-new-features-vertical-tabs-and-advanced-tab-groups/"><u>Mozilla Firefox Enhances User Experience with New Features: Vertical Tabs & Advanced Tab Groups</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ny-times-crossword-puzzle-solutions-todays-clues-and-answers-revealed-may-31st-edition/"><u>NY Times Crossword Puzzle Solutions - Today's Clues & Answers Revealed, May 31St Edition</u></a></li>
-<li><a href="https://some-skills.techidaily.com/passionate-about-personalizing-my-discord-presence-why-i-find-the-pricing-to-be-excessive/"><u>Passionate About Personalizing My Discord Presence - Why I Find The Pricing To Be Excessive</u></a></li>
-<li><a href="https://some-skills.techidaily.com/refined-aesthetics-microsofts-office-web-apps-get-stunning-revamp/"><u>Refined Aesthetics: Microsoft's Office Web Apps Get Stunning Revamp</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-vivo-t2-pro-5g-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Vivo T2 Pro 5G Phones</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-transforming-film-frames-on-insta-with-easy-steps/"><u>[New] Transforming Film Frames on Insta with Easy Steps</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-batch-save-presentations-in-video-format/"><u>[Updated] 2024 Approved Batch Save Presentations in Video Format</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-the-comprehensive-list-of-webinar-recording-methods/"><u>[Updated] In 2024, The Comprehensive List of Webinar Recording Methods</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/multi-friend-removal-guide-streamline-your-snapchat-circle-today/"><u>Multi-Friend Removal Guide: Streamline Your Snapchat Circle Today!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/simple-steps-to-track-down-and-recover-your-misplaced-airpods/"><u>Simple Steps to Track Down and Recover Your Misplaced AirPods</u></a></li>
+<li><a href="https://some-skills.techidaily.com/simplifying-smartphone-productivity-emulate-pc-window-management-for-efficient-task-handling/"><u>Simplifying Smartphone Productivity: Emulate PC Window Management for Efficient Task Handling</u></a></li>
+<li><a href="https://some-skills.techidaily.com/taking-over-android-googles-rise-as-premier-developer-of-additional-features/"><u>Taking Over Android: Google's Rise as Premier Developer of Additional Features</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-appeal-of-e-ink-technology-in-phones-exploring-my-motivations-for-going-digital-paperback/"><u>The Appeal of E-Ink Technology in Phones: Exploring My Motivations for Going Digital Paperback</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-interplay-between-apoptosis-autophagy-and-pyroptosis-can-determine-cell-fate-under-stress-conditions-they-are-not-mutually-exclusive-pathways/"><u>The Interplay Between Apoptosis, Autophagy, and Pyroptosis Can Determine Cell Fate Under Stress Conditions; They Are Not Mutually Exclusive Pathways.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-educational-materials-into-pdfs-effortlessly-using-vitalsource-technology/"><u>Transform Educational Materials Into PDFs Effortlessly Using Vitalsource Technology</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/watch-share-repeat-the-best-movie-trailer-apps-for-iphone-and-ipad/"><u>Watch, Share, Repeat The Best Movie Trailer Apps for iPhone and iPad</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Online Security: The Importance of Using Longer Passwords"
-date: 2024-09-15T03:13:03.141Z
-updated: 2024-09-18T07:23:00.088Z
+date: 2024-09-16T04:39:21.012Z
+updated: 2024-09-23T04:31:58.216Z
 tags:
   - web
 categories:
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
 
  However, this doesn’t work as it’s not random. Attackers can easily account for a change like this, and it will take them maybe a nanosecond longer to gain access to an account. For something to be closer to truly random, you have to take humans out of the equation entirely and use a computer to create a random password. The [best password managers](https://facebook-video-content.techidaily.com/updated-how-to-create-facebook-video-ads-with-free-video-creation-kit-for-2024/), programs that create and store passwords for you, have this functionality built in.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How Entropy Affects Password Length
 
  Greater entropy creates better passwords, but what exactly makes for better entropy? There are four factors to take into consideration:
@@ -51,13 +58,6 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
 * Use of numbers
 
  All of these are important, but length plays a special role, one we need some math to explain.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  How to Calculate Password Entropy
 
@@ -77,10 +77,10 @@ E = log2(RL)
  If we add the digits 0-9 we come to a range of 62, and then once we add the 33 symbol keys, our range is increased to 95\. Using just 8 characters, that gives us an entropy score of 52.56 bits, still well below the cutoff of 64 bits. The only other way to further increase your entropy is to make the password longer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Should Be Your Minimum Password Length?
@@ -104,17 +104,21 @@ E = log2(RL)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-top-7-video-to-text-converters-for-seamless-content-translation/"><u>[New] 2024 Approved Top 7 Video-to-Text Converters for Seamless Content Translation</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-androidios-resolve-youtube-freezing-for-2024/"><u>[New] Android/iOS Resolve YouTube Freezing for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-dissecting-vidmas-screen-recorder-performance/"><u>[Updated] 2024 Approved Dissecting Vidma’s Screen Recorder Performance</u></a></li>
-<li><a href="https://facebook.techidaily.com/clearing-up-conversation-clutter-in-facebook/"><u>Clearing Up Conversation Clutter in Facebook</u></a></li>
-<li><a href="https://article-tips.techidaily.com/crafting-compelling-content-weaving-text-into-os-imagery/"><u>Crafting Compelling Content Weaving Text Into OS Imagery</u></a></li>
-<li><a href="https://some-skills.techidaily.com/how-factory-restoring-can-potentially-ruin-your-pixel-6/"><u>How Factory Restoring Can Potentially Ruin Your Pixel 6</u></a></li>
-<li><a href="https://some-skills.techidaily.com/how-iphone-loyalists-embrace-apples-strict-guidelines-despite-limitations/"><u>How iPhone Loyalists Embrace Apple's Strict Guidelines Despite Limitations</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-infinix-hot-30-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Infinix Hot 30 5G Devices</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-revolutionize-your-mobile-videos-with-these-text-animation-apps/"><u>New 2024 Approved Revolutionize Your Mobile Videos with These Text Animation Apps</u></a></li>
-<li><a href="https://some-skills.techidaily.com/oneplus-tablet-2-unveiled-featuring-superior-3k-display-and-advanced-snapdragon-processor/"><u>OnePlus Tablet 2 Unveiled Featuring Superior 3K Display & Advanced Snapdragon Processor</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/pioneering-methods-for-increased-srt-on-macoswindows/"><u>Pioneering Methods for Increased SRT on macOS/Windows</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/yearly-compilation-of-exciting-yt-unboxing-clips-for-2024/"><u>Yearly Compilation of Exciting YT Unboxing Clips for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/9-essential-yet-underrated-features-in-evernote-for-enhanced-organization-and-workflow/"><u>9 Essential, Yet Underrated, Features in Evernote for Enhanced Organization and Workflow</u></a></li>
+<li><a href="https://games-able.techidaily.com/adapting-the-theme-of-your-ps5/"><u>Adapting the Theme of Your PS5</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypass-the-bother-effective-ways-to-solve-steams-write-protected-game-discs/"><u>Bypass the Bother: Effective Ways to Solve Steam's Write-Protected Game Discs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/content-marketing/"><u>Content Marketing</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-asus-rog-phone-8-pro-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Asus ROG Phone 8 Pro.</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/embrace-efficiency-with-msi-pro-mp-portable-161e2-display-unit/"><u>Embrace Efficiency with MSI PRO MP-Portable 161E2 Display Unit</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/game-changing-growl-techniques-in-free-fire/"><u>Game-Changing Growl Techniques in Free Fire</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/optimal-8-camera-stands-for-ultra-hd-shooting/"><u>Optimal 8 Camera Stands for Ultra-HD Shooting</u></a></li>
+<li><a href="https://some-skills.techidaily.com/troubleshooting-and-repairing-ethernet-issues-in-windows-11-a-comprehensive-guide/"><u>Troubleshooting and Repairing Ethernet Issues in Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-guide-linking-your-xbox-gamepad-to-windows-computer/"><u>Ultimate Guide: Linking Your Xbox Gamepad to Windows Computer</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-better-performance-discover-the-7-crucial-windows-configurations-that-must-stay-on-for-optimal-use/"><u>Unlocking Better Performance: Discover the 7 Crucial Windows Configurations That Must Stay On for Optimal Use</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-hidden-gems-the-top-14-facetime-tricks-youre-not-using/"><u>Unlocking Hidden Gems: The Top 14 FaceTime Tricks You're Not Using</u></a></li>
+<li><a href="https://some-skills.techidaily.com/upgrade-to-a-samsung-galaxy-book-4-unlock-savings-with-trade-in-deals/"><u>Upgrade to a Samsung Galaxy Book 4 - Unlock Savings with Trade-In Deals!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/windows-migrants-beware-7-peculiar-mac-habits-that-will-surprise-you/"><u>Windows Migrants Beware: 7 Peculiar Mac Habits That Will Surprise You</u></a></li>
 </ul></div>
 

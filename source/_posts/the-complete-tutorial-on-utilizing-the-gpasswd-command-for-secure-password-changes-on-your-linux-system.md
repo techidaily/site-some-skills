@@ -1,7 +1,7 @@
 ---
 title: The Complete Tutorial on Utilizing the Gpasswd Command for Secure Password Changes on Your Linux System
-date: 2024-09-14T17:39:08.942Z
-updated: 2024-09-18T09:28:44.938Z
+date: 2024-09-21T18:26:50.573Z
+updated: 2024-09-23T01:57:49.197Z
 tags:
   - desktop
 categories:
@@ -53,10 +53,10 @@ sudo groupadd demogroup
 ![The Linux terminal displaying the process of creating a new group on Linux using the groupadd command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-8.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can use any other name than "demogroup". To confirm if the group creation was successful, display all groups using:
@@ -80,10 +80,10 @@ newgrp demogroup
 ![The Linux terminal showing the process of logging into a group in Linux using the newgrp command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4-4.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Removing Password from Group
@@ -95,13 +95,6 @@ sudo gpasswd -r demogroup
 ![The Linux terminal showing the process of removing the password from a a group in Linux using the gpasswd command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/10-3.png) 
 
  If you try to log into the group now as a member, you'll be able to do so without entering the password.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Adding a User to a Group
 
@@ -141,13 +134,6 @@ sudo gpasswd -d zunaid demogroup
 
 ![The Linux terminal showing how to remove a user from a group using the gpasswd command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/7-6.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Again, you can confirm if the user was removed successfully by [listing the group members](https://hardware-updates.techidaily.com/comprehensive-guide-downloading-and-installing-canon-ip1-10-drivers-on-windows-windows-111087/) with this command:
 
 getent group demogroup
@@ -160,6 +146,13 @@ sudo gpasswd -d user1 group
                     sudo gpasswd -d user2 group
                     
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Setting the List of Group Members
 
  The gpasswd command allows you to replace the current members of the group with members you want to add. In other words, you can empty the group and then add as many new members as you want with a single command. The -M flag serves that purpose. So for example, currently there are user1 and user2 in a group. You want to remove them and add user3 and user4\. To do this, run:
@@ -167,13 +160,6 @@ sudo gpasswd -d user1 group
 sudo gpasswd -M user2,user3 demogroup
 
 ![The Linux terminal showing the process of setting the list of members of a group using the gpasswd command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/11-3.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now if you check the members list of the group, you should see that the previous members are not there. Instead, you'll find the new members.
 
@@ -191,11 +177,31 @@ sudo gpasswd -A zunaid demogroup
 
 ![The Linux terminal showcasing how to make a user the administrator of a group using the gpasswd command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/8-4.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This doesn't give any output to the terminal. However, you can see the list of administrators of the group to confirm if the operation was successful. Do that with this command:
 
 sudo cat /etc/gshadow
 
 ![The Linux terminal displaying the the administrators of every group in Linux](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/9-3.png) 
+
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  gpasswd Makes Group Management Easy
 
@@ -216,17 +222,21 @@ sudo cat /etc/gshadow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-direct-youtube-video-capture-guide/"><u>[New] 2024 Approved Direct YouTube Video Capture Guide</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-evasive-action-to-escape-the-shadowban-snare/"><u>[New] Evasive Action to Escape the Shadowban Snare</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-rapid-audio-to-video-conversion-for-youtube-fans-for-2024/"><u>[Updated] Rapid Audio-to-Video Conversion for YouTube Fans for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/detailed-solutions-to-age-of-empires-iv-not-starting-problems/"><u>Detailed Solutions to 'Age of Empires IV Not Starting' Problems</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Sony Xperia 1 V? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-pro-to-other-iphone-11-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 Pro To Other iPhone 11 devices? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-taking-your-filmed-artistry-on-a-journey-with-imovie-and-youtube/"><u>In 2024, Taking Your Filmed Artistry on a Journey with iMovie & YouTube</u></a></li>
-<li><a href="https://some-skills.techidaily.com/is-it-possible-to-tune-electric-vehicles-evs/"><u>Is It Possible to Tune Electric Vehicles (EVs)?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Motorola Moto G84 5G | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/maximize-your-musical-potential-with-udio-the-top-choice-in-artificamatic-intelligence-right-now-learn-how-to-get-started/"><u>Maximize Your Musical Potential with Udio – The Top Choice in Artificamatic Intelligence Right Now, Learn How to Get Started.</u></a></li>
-<li><a href="https://some-skills.techidaily.com/maximizing-your-prime-day-success-utilizing-rufus-the-cutting-edge-amazon-ai-shopping-chatbot/"><u>Maximizing Your Prime Day Success: Utilizing Rufus, the Cutting-Edge Amazon AI Shopping Chatbot</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolve-unresponsive-behavior-in-windows-11-during-shutdown-process/"><u>Resolve Unresponsive Behavior in Windows 11 During Shutdown Process</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-unleashing-your-gaming-potential-with-win10-recordings/"><u>[New] 2024 Approved Unleashing Your Gaming Potential with Win10 Recordings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/a-beginners-guide-to-decentralized-finance-defi-principles-and-fundamentals-unveiled/"><u>A Beginner's Guide to Decentralized Finance (DeFi): Principles and Fundamentals Unveiled</u></a></li>
+<li><a href="https://some-skills.techidaily.com/a-step-by-step-guide-to-crafting-professional-voiceovers-via-chatgpts-interactive-communication-skills/"><u>A Step-by-Step Guide to Crafting Professional Voiceovers via ChatGPT’s Interactive Communication Skills</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/alleviating-isolation-with-chatgpt-your-guide/"><u>Alleviating Isolation with ChatGPT - Your Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Nokia G22? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Lava Storm 5G? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/the-future-of-iptv-screening-and-preservation-techniques-for-2024/"><u>The Future of IPTV Screening and Preservation Techniques for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-12-prominent-vivo-t2-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Vivo T2 5G Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-tier-tripods-ultimate-photo-and-video-stability-on-iosandroiddslr/"><u>Top-Tier Tripods Ultimate Photo & Video Stability on iOS/Android/DSLR</u></a></li>
+<li><a href="https://some-skills.techidaily.com/understanding-electric-cars-how-expensive-is-it-to-recharge-them/"><u>Understanding Electric Cars: How Expensive Is It to Recharge Them?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/understanding-foldable-laptops-pros-and-cons-of-investing-in-a-portable-future/"><u>Understanding Foldable Laptops: Pros & Cons of Investing in a Portable Future</u></a></li>
+<li><a href="https://some-skills.techidaily.com/understanding-the-lifespan-of-electric-vehicle-batteries-a-comprehensive-guide/"><u>Understanding the Lifespan of Electric Vehicle Batteries: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleash-your-creativity-discover-klings-revolutionary-ai-video-production-technology/"><u>Unleash Your Creativity: Discover Kling's Revolutionary AI Video Production Technology</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-bing-chat-expert-strategies-for-harnessing-microsofts-advanced-artificial-intelligence-chatbot-capabilities/"><u>Unveiling Bing Chat: Expert Strategies for Harnessing Microsoft's Advanced Artificial Intelligence Chatbot Capabilities</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/bes-copyright-rules-simplified-a-non-legal-guide/"><u>YouTube's Copyright Rules Simplified A Non-Legal Guide</u></a></li>
 </ul></div>
 

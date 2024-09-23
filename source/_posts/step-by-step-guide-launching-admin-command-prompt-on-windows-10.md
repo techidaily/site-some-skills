@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Launching Admin Command Prompt on Windows 10"
-date: 2024-09-16T09:32:53.542Z
-updated: 2024-09-18T02:11:21.855Z
+date: 2024-09-17T05:50:24.897Z
+updated: 2024-09-22T20:59:45.056Z
 tags:
   - deals
 categories:
@@ -46,16 +46,10 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
 ![Cmd in a run window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-cmd-via-run.png) 
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Open Command Prompt as Admin with the Power User Menu
@@ -65,10 +59,10 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
 ![Right-click the Start Menu button or press Windows+X, then click &quot;Command Prompt.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/05/from-the-power-user-menu.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You'll probably see PowerShell instead of Command Prompt unless you're using a really old version of Windows 10\. The [Creators Update for Windows 10](https://hardware-help.techidaily.com/exploring-technology-with-tom-your-trusted-source-for-hardware-insights-and-reviews/) swapped PowerShell for Command Prompt in the Power User menu, but you can [switch back to Command Prompt](https://video-screen-grab.techidaily.com/updated-in-2024-gameboy-advance-mastered-android-emulator-selection/) if you want. Ideally, you should give [PowerShell](https://techno-recovery.techidaily.com/x-men-film-series-viewing-guide-the-ultimate-sequence/) a try — it can do most everything Command Prompt can, and a ton of additional useful things.
@@ -90,17 +84,15 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-chromebook-screenshot-hacks-in-four-steps-for-2024/"><u>[New] Chromebook Screenshot Hacks in Four Steps for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-unlocking-the-art-of-iphone-podcast-downloads-with-ease/"><u>2024 Approved Unlocking the Art of iPhone Podcast Downloads with Ease</u></a></li>
-<li><a href="https://some-skills.techidaily.com/a-beginners-guide-to-decentralized-finance-defi-principles-and-fundamentals-unveiled/"><u>A Beginner's Guide to Decentralized Finance (DeFi): Principles and Fundamentals Unveiled</u></a></li>
-<li><a href="https://some-skills.techidaily.com/a-step-by-step-guide-to-crafting-professional-voiceovers-via-chatgpts-interactive-communication-skills/"><u>A Step-by-Step Guide to Crafting Professional Voiceovers via ChatGPT’s Interactive Communication Skills</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/cheap-and-secure-with-vuebells-video-doorbell-in-depth-evaluation/"><u>Cheap and Secure with VueBell's Video Doorbell - In-Depth Evaluation</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-audience-captivation-through-crossfade-mastery-in-audacity/"><u>In 2024, Audience Captivation Through Crossfade Mastery in Audacity</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-mastering-instagram-incorporating-music-in-videos-and-stories/"><u>In 2024, Mastering Instagram Incorporating Music in Videos & Stories</u></a></li>
-<li><a href="https://extra-support.techidaily.com/prime-selection-of-streaming-services-explored-for-2024/"><u>Prime Selection of Streaming Services Explored for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/troubleshooting-and-repairing-windows-11s-ethernet-connectivity-issues-a-step-by-step-guide/"><u>Troubleshooting and Repairing Windows 11'S Ethernet Connectivity Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/understanding-the-lifespan-of-electric-vehicle-batteries-a-comprehensive-guide/"><u>Understanding the Lifespan of Electric Vehicle Batteries: A Comprehensive Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unleash-your-creativity-discover-klings-revolutionary-ai-video-production-technology/"><u>Unleash Your Creativity: Discover Kling's Revolutionary AI Video Production Technology</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-bing-chat-expert-strategies-for-harnessing-microsofts-advanced-artificial-intelligence-chatbot-capabilities/"><u>Unveiling Bing Chat: Expert Strategies for Harnessing Microsoft's Advanced Artificial Intelligence Chatbot Capabilities</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-innovative-tricks-for-captivating-boomerangs/"><u>[Updated] 2024 Approved Innovative Tricks for Captivating Boomerangs</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-overcome-fps-hiccups-tips-and-tricks-for-enhancing-your-call-of-duty-modern-warfare-3-experience-2amo2024/"><u>How to Overcome FPS Hiccups: Tips and Tricks for Enhancing Your Call of Duty: Modern Warfare 3 Experience (2Amo2024)</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-find-happiness-in-everyday-life-via-youtubes-anime-hubs/"><u>In 2024, Find Happiness in Everyday Life via YouTube's Anime Hubs</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-free-online-video-editors-that-rival-imovie-2023-edition/"><u>New In 2024, Free Online Video Editors That Rival iMovie (2023 Edition)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-13-creative-uses-for-your-outdated-android-device/"><u>Top 13 Creative Uses for Your Outdated Android Device</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-huawei-p60-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Huawei P60 Phone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-restart-diagnostics-policy-service/"><u>Troubleshooting Guide: Restart Diagnostics Policy Service</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-the-power-of-apple-music-radio-for-a-personalized-journey-into-new-sounds-join-me-on-this-musical-adventure/"><u>Unlock the Power of Apple Music Radio for a Personalized Journey Into New Sounds – Join Me on This Musical Adventure!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-googles-new-arsenal-immersive-review-of-pixel-phones-9-and-9-pro-w-foldable-pixel-watch-series-3-and-next-gen-pixel-audio-buds/"><u>Unveiling Google's New Arsenal: Immersive Review of Pixel Phones (9 & 9 Pro W/ Foldable), Pixel Watch Series 3, and Next-Gen Pixel Audio Buds</u></a></li>
+<li><a href="https://some-skills.techidaily.com/why-the-oneplus-12-still-stands-out-after-six-months-a-loyal-users-perspective/"><u>Why the OnePlus 12 Still Stands Out After Six Months - A Loyal User's Perspective</u></a></li>
 </ul></div>
 

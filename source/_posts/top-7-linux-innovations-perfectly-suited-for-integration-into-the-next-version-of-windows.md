@@ -1,7 +1,7 @@
 ---
 title: Top 7 Linux Innovations Perfectly Suited for Integration Into the Next Version of Windows
-date: 2024-09-17T03:49:05.473Z
-updated: 2024-09-17T21:40:36.905Z
+date: 2024-09-21T23:46:37.045Z
+updated: 2024-09-23T02:51:34.512Z
 tags:
   - desktop
 categories:
@@ -53,6 +53,13 @@ Close
 
 ![Image of Arc Menu Extension and Menu Layout Variations on Ubuntu 22.04](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/3-image-of-arc-menu-extension-and-menu-layout-variations-on-ubuntu-22-04.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Widgets on the Desktop
 
  Windows 7 had widgets and it was wonderful. Sadly, Microsoft [removed them because of security concerns](https://blog-min.techidaily.com/5-ways-to-move-contacts-from-realme-c33-2023-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/), but they made a comeback (sort of) with Windows 11\. The problem is that Windows 11 widgets are [tucked away inside a separate panel](https://buynow-tips.techidaily.com/comprehensive-review-of-the-stylish-and-modern-swagtron-swagger-electric-scooter/) and not embedded directly on the desktop. It would be very nice to see Windows 12 will properly implement desktop widgets, like you can see here on Kubuntu:
@@ -60,22 +67,15 @@ Close
 ![Desktop Widgets on Kubuntu 23.10 Spread across the screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/4-desktop-widgets-on-kubuntu-23-10-spread-across-the-screen.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Having desktop widgets means you have direct access to useful information like reminders, to-do lists, weather updates, a world clock, and more, without having to open multiple apps. It’d be awesome if I turned on the computer every morning and got a snapshot of my entire day right there on the desktop.
 
  If you can’t wait for Windows 12 and whether it will or will not introduce desktop widgets, you can use Rainmeter to display helpful information straight on your desktop.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Automatic Window Tiling
 
@@ -103,15 +103,28 @@ Close
 
 ![Virtual Desktops on Windows 11](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/8-virtual-desktops-on-windows-11.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To enhance this in Windows 12, it would be awesome to have the option to visualize and manage all virtual desktops directly from the Taskbar. Also, the option to launch apps to different desktops from the Task View would be a game-changer. Look at Ubuntu’s Activities Overview (equivalent to Windows 11’s Task View) to see what I’m talking about.
 
 ![Image Showing Ubuntu 22.04 Activities Overview](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/9-image-showing-ubuntu-22-04-activities-overview.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  At the top, there’s a row of mini windows for all open virtual desktops (Workspaces). You can click to switch between them. The center shows your current desktop with all open apps. On the left, the Ubuntu Dash (similar to Windows' Taskbar) lets you drag and drop apps to any virtual desktop.
@@ -119,13 +132,6 @@ Close
  Additionally, the [Workspace Indicator](https://visual-screen-recording.techidaily.com/2024-approved-instantaneous-screen-logger-for-chrome/) extension adds a virtual desktop switcher to the panel, allowing you to switch and move apps between desktops directly from the panel without opening the Activities Overview.
 
 ![Ubuntu 22.04 Panel based Virtual Desktop switcher](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/10-ubuntu-22-04-panel-based-virtual-desktop-switcher.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  KDE Activities
 
@@ -156,20 +162,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-polishing-your-production-perfect-for-instagram-viewers-for-2024/"><u>[New] Polishing Your Production Perfect for Instagram Viewers for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-exporting-your-youtube-and-twitter-creations-via-whatsapp-for-2024/"><u>[Updated] Exporting Your YouTube & Twitter Creations via WhatsApp for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/discreetly-share-life-with-instagram-live-for-2024/"><u>Discreetly Share Life with Instagram Live for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Huawei Nova Y91 | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-fix-windows-11-boot-up-restoring-functionality-when-f8-is-unresponsive/"><u>How to Fix Windows 11 Boot Up: Restoring Functionality When F8 Is Unresponsive</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-tecno-spark-10c-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Tecno Spark 10C without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723007879431-mastering-hitman-3-on-pc-avoid-crashes-and-enjoy-gaming-with-these-tips/"><u>Mastering Hitman 3 on PC - Avoid Crashes and Enjoy Gaming with These Tips</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/rapidly-convert-your-vintage-dvd-collection-with-winx-dvd-ripper-platinum-ultimate-fast-track-copying-solution/"><u>Rapidly Convert Your Vintage DVD Collection with WinX DVD Ripper Platinum – Ultimate Fast-Track Copying Solution</u></a></li>
-<li><a href="https://some-skills.techidaily.com/revolutionary-voice-capabilities-how-your-iphone-mirrors-the-classic-macintosh/"><u>Revolutionary Voice Capabilities: How Your iPhone Mirrors the Classic Macintosh</u></a></li>
-<li><a href="https://some-skills.techidaily.com/simple-steps-to-track-down-and-recover-your-misplaced-airpods/"><u>Simple Steps to Track Down and Recover Your Misplaced AirPods</u></a></li>
-<li><a href="https://some-skills.techidaily.com/simplifying-smartphone-productivity-emulate-pc-window-management-for-efficient-task-handling/"><u>Simplifying Smartphone Productivity: Emulate PC Window Management for Efficient Task Handling</u></a></li>
-<li><a href="https://some-skills.techidaily.com/taking-over-android-googles-rise-as-premier-developer-of-additional-features/"><u>Taking Over Android: Google's Rise as Premier Developer of Additional Features</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-appeal-of-e-ink-technology-in-phones-exploring-my-motivations-for-going-digital-paperback/"><u>The Appeal of E-Ink Technology in Phones: Exploring My Motivations for Going Digital Paperback</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-interplay-between-apoptosis-autophagy-and-pyroptosis-can-determine-cell-fate-under-stress-conditions-they-are-not-mutually-exclusive-pathways/"><u>The Interplay Between Apoptosis, Autophagy, and Pyroptosis Can Determine Cell Fate Under Stress Conditions; They Are Not Mutually Exclusive Pathways.</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-8-essential-tips-for-maintaining-optimal-smartphone-performance/"><u>Top 8 Essential Tips for Maintaining Optimal Smartphone Performance</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-high-five-lookout-breakdown/"><u>[Updated] High-Five Lookout Breakdown</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-violating-copyrights-in-video-posting-what-are-the-consequences-for-2024/"><u>[Updated] Violating Copyrights in Video Posting What Are the Consequences for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/apple-launches-self-repair-initiative-adding-support-for-m3-series-to-its-range/"><u>Apple Launches Self-Repair Initiative, Adding Support for M3 Series to Its Range</u></a></li>
+<li><a href="https://some-skills.techidaily.com/arm-based-windows-computers-now-come-with-built-in-support-for-google-chrome/"><u>ARM-Based Windows Computers Now Come with Built-In Support for Google Chrome</u></a></li>
+<li><a href="https://some-skills.techidaily.com/avoidance-of-stage-manager-5-compelling-justifications-for-non-use-on-apples-ipad-and-macbook-platforms/"><u>Avoidance of Stage Manager: 5 Compelling Justifications for Non-Use on Apple's iPad and MacBook Platforms</u></a></li>
+<li><a href="https://some-skills.techidaily.com/boosting-linux-protection-6-essential-strategies-for-secure-computing/"><u>Boosting Linux Protection: 6 Essential Strategies for Secure Computing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/can-apples-gaming-performance-on-macs-match-pc-rivals-and-win-over-gamers/"><u>Can Apple's Gaming Performance on Macs Match PC Rivals and Win Over Gamers?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/compatibility-issues-with-windows-11-built-in-software-emerging-in-certain-computers/"><u>Compatibility Issues with Windows 11 Built-In Software Emerging in Certain Computers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-toms-electronics-in-depth-analysis-by-toms-hardware-experts/"><u>Exploring Tom's Electronics: In-Depth Analysis by Tom's Hardware Experts</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-itel-p40-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Itel P40 to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-10-outils-libres-de-production-musique-ideaux-pour-les-nouveaux-commences/"><u>Top 10 Outils Libres De Production Musique Idéaux Pour Les Nouveaux Commencés</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-11-premier-game-capture-programs-a-comprehensive-selection/"><u>Top 11 Premier Game Capture Programs: A Comprehensive Selection</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/transformative-content-blocks-enhanced-youtube-decks/"><u>Transformative Content Blocks Enhanced Youtube Decks</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unpacking-the-benefits-of-the-maxoak-battery-pack-a-high-performance-185wh-5000flya-review/"><u>Unpacking the Benefits of the MaxOak Battery Pack - A High-Performance 185Wh / 50,00Flya Review</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/webinar-recording-tactics-zero-price-strategy/"><u>Webinar Recording Tactics Zero Price Strategy</u></a></li>
 </ul></div>
 

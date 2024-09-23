@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Playback and Conversion of Music Tracks From Your CDs in the Windows Operating System"
-date: 2024-09-16T06:05:53.842Z
-updated: 2024-09-18T00:55:18.240Z
+date: 2024-09-21T18:53:13.027Z
+updated: 2024-09-23T01:22:37.790Z
 tags:
   - desktop
 categories:
@@ -53,16 +53,10 @@ The ASUS ZenDrive Silver is a basic and affordable external optical drive, with 
 ![Searching for Media Player in Start Menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/clipboard-jun-7-2024-at-4-03-pm.png) 
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you don't have Media Player on your PC, you can [download it for free from the Microsoft Store](https://apps.microsoft.com/detail/9wzdncrfj3pt?hl=en-us&gl=US). It requires Windows 10 version 19042 or higher—if your PC is too old, jump to the next section.
@@ -71,9 +65,23 @@ The ASUS ZenDrive Silver is a basic and affordable external optical drive, with 
 
 ![Screenshot of a disc selected in the Media Player app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/clipboard-jun-7-2024-at-4-13-pm.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can play music straight from the disc by clicking the 'Play all' button, or by double-clicking on an individual track. If you want to change the default audio import settings before ripping the disc, click the three-dots button and select the "Rip settings" option.
 
 ![Media Player screenshot showing settings for audio format and bitrate.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/clipboard-jun-7-2024-at-4-17-pm.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The settings panel gives you options for changing the music format and bitrate. Most people should stick to the default AAC format and 256 kbps bitrate, but the other options can be helpful in specific use cases. For example, if you plan to copy music to a music player or other device that only supports MP3 files, you might want to import music in that format instead of AAC to avoid converting it again later. A lossless format like FLAC or ALAC would give you the highest quality possible, but the difference isn't all that noticeable with typical speakers or headphones.
 
@@ -85,6 +93,19 @@ The ASUS ZenDrive Silver is a basic and affordable external optical drive, with 
 
 ![Screenshot of Music page in Media Player.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/clipboard-jun-7-2024-at-4-38-pm.png) 
 
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Ripped audio doesn't include album art or other metadata, but you can fix that with a few clicks. Open the album you just ripped, click the "Edit info" button, then click "Update album info online."
 
 ![Screenshot of 'Update album info online' button in Media Player.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/untitled-1.png) 
@@ -93,14 +114,14 @@ The ASUS ZenDrive Silver is a basic and affordable external optical drive, with 
 
 ![Music Player asking user to check if metadata is correct.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/clipboard-jun-7-2024-at-4-44-pm.png) 
 
- Media Player can't always find album artwork automatically, but you can use a website like [Music Hoarders Covers](https://covers.musichoarders.xyz/) to find the right image, and then import that into Media Player. After you find the image, just click the "Edit info" button on the album again, then click the pencil button to select the right file.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Media Player can't always find album artwork automatically, but you can use a website like [Music Hoarders Covers](https://covers.musichoarders.xyz/) to find the right image, and then import that into Media Player. After you find the image, just click the "Edit info" button on the album again, then click the pencil button to select the right file.
 
 ##  Rip a CD on Older Windows PCs
 
@@ -122,13 +143,6 @@ wmplayer
 
 ![Rip CD button in Windows Media Player.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/rip.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After the rip is complete, your music will be accessible from the "Music" tab in the left sidebar.
 
 ![Screenshot of Music tab in Windows Media Player.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/music.png) 
@@ -139,13 +153,6 @@ wmplayer
 
  Windows Media Player will check for metadata online, and if it finds more data, it will ask you for confirmation before writing changes to the files.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Backing up Your Music
 
  There's no digital rights management (DRM) on music you rip from an audio CD, so you can freely copy it to your other devices, back it up to another drive, or upload it to your cloud storage.
@@ -153,13 +160,6 @@ wmplayer
  The new Media Player and the classic Windows Media Player both store music files in your Music folder by default. You can get there by opening the File Explorer, then clicking the "Music" shortcut in the sidebar.
 
 ![Screenshot of Music folder in the File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/music-2.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If the shortcut isn't in your sidebar, open the Windows Run dialog (**Win+R** keyboard shortcut), type the below command, and press the OK button.
 
@@ -182,19 +182,20 @@ shell:My Music
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-bi-panel-screen-transcription/"><u>[New] Bi-Panel Screen Transcription</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-the-ultimate-guide-to-using-snapchat-in-biz/"><u>[Updated] 2024 Approved The Ultimate Guide to Using Snapchat in Biz</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-simple-window-recording-on-windows-10/"><u>[Updated] Simple Window Recording on Windows 10</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-spotifys-1-hit-list-update/"><u>[Updated] Spotify's #1 Hit List Update</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-science-behind-stopping-photo-booth-movies/"><u>[Updated] The Science Behind Stopping Photo Booth Movies</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-y27-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo Y27 5G | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-from-iphone-x-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication From iPhone X? 5 Tips You Must Know</u></a></li>
-<li><a href="https://extra-support.techidaily.com/inspection-enhanced-edition-parrot-ar-drone-for-2024/"><u>Inspection Enhanced Edition Parrot AR Drone for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/similar-experiences-with-linux-as-windows-the-ultimate-os-showdown/"><u>Similar Experiences with Linux as Windows: The Ultimate OS Showdown</u></a></li>
-<li><a href="https://some-skills.techidaily.com/step-by-step-guide-erasing-your-clipboard-memory-in-windows-11/"><u>Step-by-Step Guide: Erasing Your Clipboard Memory in Windows 11</u></a></li>
-<li><a href="https://some-skills.techidaily.com/step-by-step-guide-setting-up-a-swap-space-in-linux/"><u>Step-by-Step Guide: Setting Up a Swap Space in Linux</u></a></li>
-<li><a href="https://some-skills.techidaily.com/step-by-step-guide-swap-out-chars-for-newlines-in-notepad-plusplus/"><u>Step-by-Step Guide: Swap Out Chars for Newlines in Notepad ++</u></a></li>
-<li><a href="https://some-skills.techidaily.com/step-by-step-tutorial-boosting-graphics-performance-with-hardware-accelerated-gpu-scheduling-in-windows/"><u>Step-by-Step Tutorial: Boosting Graphics Performance with Hardware-Accelerated GPU Scheduling in Windows</u></a></li>
-<li><a href="https://some-skills.techidaily.com/struggling-with-linking-your-pc-to-the-smartphone-wi-fi-network-discover-effective-techniques-for-successful-pairing/"><u>Struggling with Linking Your PC to the Smartphone Wi-Fi Network? Discover Effective Techniques for Successful Pairing!</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-acclaimed-editing-software-for-virtual-recordings/"><u>[New] 2024 Approved Acclaimed Editing Software for Virtual Recordings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/1-seamless-data-transition-mastering-the-art-of-using-windows-backup-for-upgrading-your-pc/"><u>1. Seamless Data Transition: Mastering the Art of Using Windows Backup for Upgrading Your PC</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-samsung-galaxy-m34-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Samsung Galaxy M34 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/5-hilarious-tiktoks-laughter-unleashed-for-2024/"><u>5 Hilarious TikToks Laughter Unleashed for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/connect-seamlessly-with-friends-a-guide-to-facetime-calling-from-windows/"><u>Connect Seamlessly with Friends: A Guide to Facetime Calling From Windows</u></a></li>
+<li><a href="https://some-skills.techidaily.com/cost-effective-solutions-enjoy-apple-macintosh-elegance-at-a-fraction-of-the-price-with-secure-online-macbook-leasing-options/"><u>Cost-Effective Solutions: Enjoy Apple Macintosh Elegance at a Fraction of the Price with Secure Online Macbook Leasing Options</u></a></li>
+<li><a href="https://some-skills.techidaily.com/discover-enhanced-productivity-with-windows-11s-updated-sticky-notes-feature/"><u>Discover Enhanced Productivity with Windows 11’S Updated Sticky Notes Feature</u></a></li>
+<li><a href="https://fox-links.techidaily.com/essential-steps-in-effective-technology-upgrades-for-2024/"><u>Essential Steps in Effective Technology Upgrades for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-from-apple-iphone-6s-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock from Apple iPhone 6s</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/secrets-to-effective-vr-game-playback-for-2024/"><u>Secrets to Effective VR Game Playback for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/secure-extraction-of-audio-from-youtube-at-zero-cost/"><u>Secure Extraction of Audio From YouTube at Zero Cost</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-chipset-functionality-with-updated-drivers-for-win-11781/"><u>Streamline Chipset Functionality with Updated Drivers for Win 11/7/8.1</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-tutorial-for-using-cut-copy-and-paste-commands-on-windows-1011-systems/"><u>Ultimate Tutorial for Using Cut, Copy & Paste Commands on Windows 10/11 Systems</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleash-the-power-of-crossover-24-on-mac-and-linux-for-free-optimize-your-pc-apps-today-at-a-sale-price/"><u>Unleash the Power of CrossOver 24 on Mac & Linux for Free - Optimize Your PC Apps Today at a Sale Price</u></a></li>
+<li><a href="https://some-skills.techidaily.com/windows-aesthetics-unveiled-tracing-the-lineage-of-os-desktop-imagery/"><u>Windows Aesthetics Unveiled: Tracing the Lineage of OS Desktop Imagery</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Windows Migrants Beware: 7 Peculiar Mac Habits That Will Surprise You"
-date: 2024-09-14T01:43:51.511Z
-updated: 2024-09-17T18:18:22.292Z
+date: 2024-09-17T02:33:41.569Z
+updated: 2024-09-22T23:16:01.100Z
 tags:
   - desktop
 categories:
@@ -45,13 +45,6 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 
  Newer Mac keyboards also feature a Globe key which brings up the emoji picker and can also be used to change your input language and keyboard layouts. Learn the relevant [macOS keyboard shortcuts](https://facebook-video-share.techidaily.com/updated-the-ultimate-youtube-editors-handbook-a-step-by-step-journey/) to speed up tasks for yourself.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Windows and Mac Use Different Names for the Same Things
 
  Whether you use Windows or a Mac, you'll need to familiarize yourself with the jargon. While many terms are the same regardless of which operating system you use, there are some key differences in terminology that you need to take note of. Here are a few examples to help you get started.
@@ -65,10 +58,16 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 | Shortcut icon   | Alias                 |
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Taking Screenshots Is Easy
@@ -78,13 +77,6 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
  To capture the entire screen, you will use the shortcut Command+Shift+3\. If you want to capture a part of the screen, you will use Command+Shift+4\. Alternatively, you can also use the shortcut Command+Shift+5, which displays screenshot and screen recording options.
 
 ![Use the Command+Shift+5 shortcut to view screenshot and screen record options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/img_5723.JPG) 
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Regardless of the shortcut you use, the screenshot is immediately saved to your macOS desktop for easy access.
 
@@ -101,16 +93,10 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
  One of the biggest benefits of macOS is that it comes with a lot of extra apps that you'd normally have to pay for. Pages and Numbers are replacements for Word and Excel, for example, and GarageBand is a music creation tool. You also get access to FaceTime and iMessage.
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The UI Looks Similar but Is Not the Same
@@ -120,6 +106,13 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
  Hover the mouse pointer over the green icon to see options for tiling two apps alongside each other.
 
 ![The window resizing buttons on macOS](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-1-58-58-pm.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Similarly, Windows has a search bar directly in the taskbar, while Mac uses Spotlight for search.
 
@@ -134,6 +127,13 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 ![The menubar in macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-menubar-in-macos.png) 
 
  In comparison, Windows laptops combine the Start menu, system tray, and taskbar into a single bar that's located at the bottom of the screen by default.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  You Open Apps With the Launchpad Instead of the Start Menu
 
@@ -162,18 +162,14 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://bypass-frp.techidaily.com/about-vivo-y02t-frp-bypass-by-drfone-android/"><u>About Vivo Y02T FRP Bypass</u></a></li>
-<li><a href="https://some-skills.techidaily.com/august-16th-new-york-times-connection-quiz-uncover-hidden-answers-431/"><u>August 16Th New York Times Connection Quiz: Uncover Hidden Answers #431</u></a></li>
-<li><a href="https://some-skills.techidaily.com/august-5th-edition-insightful-answers-and-tips-from-todays-new-york-times-connection-quiz/"><u>August 5Th Edition: Insightful Answers & Tips From Today's New York Times Connection Quiz</u></a></li>
-<li><a href="https://some-skills.techidaily.com/decoding-project-fuchsia-exploring-googles-covert-and-revolutionary-os-endeavour/"><u>Decoding Project Fuchsia: Exploring Google's Covert and Revolutionary OS Endeavour</u></a></li>
-<li><a href="https://some-skills.techidaily.com/discover-key-answers-in-todays-nyt-puzzle-challenge-august-21-connect-the-dots-with-hint-437/"><u>Discover Key Answers in Today's NYT Puzzle Challenge - August 21, Connect the Dots with Hint #437!</u></a></li>
-<li><a href="https://some-skills.techidaily.com/discover-more-with-google-lens-and-look-up-images-instantly-introducing-learn-about-this-photo/"><u>Discover More with Google Lens & Look Up Images Instantly - Introducing 'Learn About This Photo'</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/enhance-website-traffic-with-cutting-edge-cookiebot-technology/"><u>Enhance Website Traffic with Cutting-Edge Cookiebot Technology</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-50plus-text-wonders-in-video-editing/"><u>In 2024, 50+ Text Wonders in Video Editing</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-simplicity-in-code-constructing-a-streamlined-youtube-sign-up/"><u>In 2024, Simplicity in Code Constructing a Streamlined YouTube Sign-Up</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-samsung-galaxy-a23-5g-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Samsung Galaxy A23 5G Device</u></a></li>
-<li><a href="https://win-blog.techidaily.com/los-mejores-reproductores-gratis-de-pantallas-con-calidad-optima-no-pirateados-listado-de-20-en-2019-movavi/"><u>Los Mejores Reproductores Gratis De Pantallas Con Calidad Óptima, No Pirateados: Listado De 20 en 2019 - Movavi</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/permanently-quit-youtube-shorts-now-for-2024/"><u>Permanently Quit YouTube Shorts Now for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-conversores-de-video-em-gif-ferramentas-on-line-e-off-line-mais-eficientes/"><u>Top Conversores De Vídeo Em GIF: Ferramentas On-Line E Off-Line Mais Eficientes</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-complete-guide-to-mastering-picsart-for-2024/"><u>[New] Complete Guide to Mastering PicsArt for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-lightning-loop-transferring-youtube-playlists-fast/"><u>[New] In 2024, Lightning Loop Transferring YouTube Playlists Fast</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-poco-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Poco</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-vivo-y100-5g-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Vivo Y100 5G</u></a></li>
+<li><a href="https://facebook.techidaily.com/no-change-in-whatsapp-capabilities-with-privacy-term-rejection/"><u>No Change in WhatsApp Capabilities with Privacy Term Rejection</u></a></li>
+<li><a href="https://some-skills.techidaily.com/struggling-with-linking-your-pc-to-the-smartphone-wi-fi-network-discover-effective-techniques-for-successful-pairing/"><u>Struggling with Linking Your PC to the Smartphone Wi-Fi Network? Discover Effective Techniques for Successful Pairing!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-future-looks-bleak-why-you-wont-find-macos-on-your-ipad/"><u>The Future Looks Bleak: Why You Won't Find macOS on Your iPad</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-evaluating-secondhand-windows-pcs-8-key-points/"><u>The Ultimate Guide to Evaluating Secondhand Windows PCs – 8 Key Points</u></a></li>
+<li><a href="https://solve-news.techidaily.com/troubleshooting-common-issues-flawless-mp4-file-playback-on-your-samsung-lg-sony-or-other-smart-tvs/"><u>Troubleshooting Common Issues: Flawless MP4 File Playback on Your Samsung, LG, Sony or Other Smart TVs</u></a></li>
 </ul></div>
 

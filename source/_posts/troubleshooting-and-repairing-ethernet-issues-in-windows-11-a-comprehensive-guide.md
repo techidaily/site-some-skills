@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting and Repairing Ethernet Issues in Windows 11: A Comprehensive Guide"
-date: 2024-09-13T01:49:23.504Z
-updated: 2024-09-18T07:15:45.419Z
+date: 2024-09-15T18:07:56.853Z
+updated: 2024-09-23T03:00:22.439Z
 tags:
   - desktop
 categories:
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/77e8784ddc309f16b18e178f4d3e63a6403d2aa17
 
 ![Running the network and internet troubleshooter in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/run-option.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Preliminary Checks
 
  If the troubleshooter doesn't identify any problems, you should perform some basic checks manually. First, verify that airplane mode is disabled—click on the Wi-Fi icon in the taskbar and check that [Flight (otherwise called Airplane) Mode isn't enabled](https://hardware-help.techidaily.com/jersey-boys/). If it's already off, restart your computer to fix any temporary operating system issues affecting the Ethernet connection.
@@ -63,13 +70,6 @@ Hannah Stryker / How-To Geek
 
  If you can successfully connect to the internet via Wi-Fi, your internet connection is active, and the problem likely lies with your device's Ethernet connection.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Test the Ethernet Connection on Another Device
 
  To ensure that the problem doesn't stem from your faulty router hardware, a damaged Ethernet cable, or misconfigured router settings, test your Ethernet connection on another device (if available). Connect your Ethernet cable to a different device and check if the connection works properly.
@@ -83,15 +83,22 @@ Hannah Stryker / How-To Geek
  If the Ethernet cable and its connectors are in good condition, check the ports where the cable is plugged into your router or PC for any obvious signs of damage. Connect the cable to a different port on your PC (if one is available) to confirm whether the PC port is working properly. Then, try plugging the cable to a different port on your router. If changing the ports does not resolve the issue, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Rule Out Issues With Your Router
 
 ![The back of a TP-Link Archer C6 router.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/img20240122150429.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ismar Hrnjicevic / How-To Geek
 
@@ -100,10 +107,10 @@ Ismar Hrnjicevic / How-To Geek
  If you're up to it, you can [log into your router's admin interface](https://buynow-reviews.techidaily.com/unveiling-the-potential-a-full-review-of-tp-links-re5-grower-tp-link-re505x-wifi-range-extender/) and confirm that your device isn't blacklisted. If all else fails, you can [completely reset your router settings](https://digital-screen-recording.techidaily.com/microcapture-video-logger-analysis-and-options-for-2024/) to ensure that misconfigured settings aren't causing the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Ensure the Ethernet Connection Is Enabled
@@ -113,13 +120,6 @@ Ismar Hrnjicevic / How-To Geek
  If you see this arrow, it means the Ethernet connection is disabled. To enable it, right-click on the network adapter and choose "Enable Device."
 
 ![Enabling the disabled ethernet connection adapter in device manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/enabling-the-disabled-ethernet-connection-adapter-in-device-manager.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Update or Reinstall Ethernet Adapter Drivers
 
@@ -137,13 +137,6 @@ Ismar Hrnjicevic / How-To Geek
 
 ![Uninstalling the ethernet driver in Device Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/uninstalling-the-ethernet-driver-in-device-manager.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Then, follow the previous instructions to reinstall it manually.
 
 ##  Disable Proxy Server Over LAN
@@ -155,6 +148,13 @@ Ismar Hrnjicevic / How-To Geek
  Then, move to the "Connections" tab and click the "LAN Settings" button. If the box beside"Use a Proxy Server for Your LAN" is checked, uncheck it to turn off the proxy server. Click "Apply" and hit "OK."
 
 ![Turning off the proxy server from LAN settings on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/2-turning-off-the-proxy-server-from-lan-settings-on-windows.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -175,18 +175,21 @@ Ismar Hrnjicevic / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://techno-recovery.techidaily.com/best-apps-for-high-school-students-a-selection-of-the-top-10-picks/"><u>Best Apps for High School Students: A Selection of the Top 10 Picks</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/capturing-your-laptop-simple-lenovo-steps-for-2024/"><u>Capturing Your Laptop Simple Lenovo Steps for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-remove-iphone-11-pro-max-sim-lock-by-drfone-ios/"><u>How to Remove iPhone 11 Pro Max SIM Lock?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/improve-your-iphones-audio-experience-remedies-for-sound-problems/"><u>Improve Your iPhone's Audio Experience - Remedies for Sound Problems</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-unleash-creativity-youtube-videos-on-instagram-snapshits/"><u>In 2024, Unleash Creativity YouTube Videos on Instagram Snapshits</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/step-up-to-stardom-10-pro-tips-for-pixlr-excellence-for-2024/"><u>Step up to Stardom 10 Pro Tips for Pixlr Excellence for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/tackling-last-character-unavailable-glitch-on-your-ios-device-expert-strategies-for-success/"><u>Tackling 'Last Character Unavailable' Glitch on Your iOS Device: Expert Strategies for Success</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-rated-usb-c-chargers-and-converters-expert-picks-for-2n25/"><u>Top Rated USB-C Chargers and Converters: Expert Picks for 2N25</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tracking-the-unseen-passenger-what-to-do-if-your-airtag-continues-its-travels-alongside-you/"><u>Tracking the Unseen Passenger: What to Do If Your AirTag Continues Its Travels Alongside You</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transformative-tips-how-iphones-elevate-the-road-trip-experience/"><u>Transformative Tips: How iPhones Elevate the Road Trip Experience</u></a></li>
-<li><a href="https://some-skills.techidaily.com/troubleshooting-homekit-connectivity-how-to-restore-response-in-your-smart-devices/"><u>Troubleshooting HomeKit Connectivity: How to Restore Response in Your Smart Devices</u></a></li>
-<li><a href="https://some-skills.techidaily.com/understanding-the-reasons-behind-the-nsas-odd-request-to-regularly-refresh-your-devices/"><u>Understanding the Reasons Behind the NSA's Odd Request to Regularly Refresh Your Devices</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1725289142028-dvd/"><u>エラーフリーでDVDを保存する: 高性能無料ソフトとそのテクニックの解明</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-orchestrating-the-soundscape-finding-perfect-background-tunes/"><u>[New] 2024 Approved Orchestrating the Soundscape Finding Perfect Background Tunes</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-uncover-the-top-12-best-flip-screen-vlogging-tools/"><u>[Updated] 2024 Approved Uncover the Top 12 Best Flip-Screen Vlogging Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/comprehensive-guide-to-setting-up-full-screen-color-selection-tools-in-windows-10/"><u>Comprehensive Guide to Setting Up Full-Screen Color Selection Tools in Windows 10</u></a></li>
+<li><a href="https://some-skills.techidaily.com/comprehensive-guide-easily-setting-up-and-controlling-fonts-on-macos/"><u>Comprehensive Guide: Easily Setting Up & Controlling Fonts on macOS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/creating-an-impressive-windows-desktop-mastering-rainmeter-customization-techniques/"><u>Creating an Impressive Windows Desktop: Mastering Rainmeter Customization Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/direct-microsoft-store-installers-now-available-streamline-your-setup/"><u>Direct Microsoft Store Installers Now Available: Streamline Your Setup!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/disabling-microsoft-defender-antivirus-in-windows-11-a-step-by-step-guide/"><u>Disabling Microsoft Defender Antivirus in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/discover-the-ultimate-gaming-browser-choices-for-microsoft-windows-users/"><u>Discover the Ultimate Gaming Browser Choices for Microsoft Windows Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/essential-12-apple-macintosh-utility-programs-the-must-have-tools-for-solo-users/"><u>Essential 12 Apple Macintosh Utility Programs: The Must-Have Tools for Solo Users</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-nokia-c02-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Nokia C02 Devices | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-samsung-galaxy-m14-4g-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Samsung Galaxy M14 4G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-cut-to-the-chase-filmora-coupon-codes-without-the-fuss-for-2024/"><u>New Cut to the Chase Filmora Coupon Codes Without the Fuss for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/no-more-freezes-overcome-ark-community-survivals-pc-downloads-and-play-smoothly-again/"><u>No More Freezes! Overcome ARK: Community Survival's PC Downloads & Play Smoothly Again</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-ultimate-guide-to-facebook-livestreaming-via-wirecast/"><u>The Ultimate Guide to Facebook Livestreaming via Wirecast</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Infinix GT 10 Pro | Dr.fone</u></a></li>
 </ul></div>
 

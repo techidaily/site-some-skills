@@ -1,7 +1,7 @@
 ---
 title: "Mastering the 'History' Function in Linux: A Step-by-Step Guide"
-date: 2024-09-16T23:22:44.069Z
-updated: 2024-09-18T08:31:05.162Z
+date: 2024-09-17T22:34:11.160Z
+updated: 2024-09-22T16:57:55.456Z
 tags:
   - desktop
 categories:
@@ -76,6 +76,13 @@ history | tail -n 10
 
 ![!! in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/6-10.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This can be useful when you issue a command and forget to use `sudo` . Type `sudo`, one space, the double exclamation points, and then hit Enter.
 
  For the following example, we typed a command that requires `sudo`. Instead of retyping the whole line, we can save a bunch of keystrokes and just type `sudo !!`, as shown below:
@@ -96,6 +103,13 @@ sudo !!
 
 ![!-13 ina terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/8-8.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Searching for Commands by String
 
  To repeat the last command that starts with a particular string, you can type an exclamation point, and then the string with no spaces, and then hit Enter.
@@ -106,6 +120,19 @@ sudo !!
 
 ![!sudo in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/9-9.png) 
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  There's an element of danger in this, though. If the last command that started with `sudo` isn't the one you think it is, you'll launch the wrong command.
 
  To provide a safety net, though, you can use the `:p` (print) modifier, as shown below:
@@ -113,13 +140,6 @@ sudo !!
 !sudo:p
 
 ![!sudo:p in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/10-8.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This instructs `history` to print the command to the terminal window, rather than executing it. This allows you to see the command before you use it. If it is the command you want, press the Up arrow, and then hit Enter to use it.
 
@@ -148,13 +168,6 @@ sudo !!
  Each time you press Ctrl+r, you're searching backward for the next matching command, which appears in the terminal window.
 
 ![Ctrl+r search with a matching command in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/15-4.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  When you press Enter, the displayed command will execute.
 
@@ -191,13 +204,6 @@ sudo systemctl start shhd
 ![sudo systemctl start shhd in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/20-3.png) 
 
  The command is executed with "shhd" corrected to "sshd."
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Deleting Commands from the History List
 
@@ -244,10 +250,10 @@ history -w
 ![history -w in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/23-3.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Clearing the History List
@@ -272,13 +278,6 @@ history 5
 
 ![special-app my-secret-password;history -d $(history 1) in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/25-3.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This structure includes two commands separated with a semicolon (;). Let's break this down:
 
 * **special-app**: The name of the program we're using.
@@ -297,6 +296,13 @@ history 5
 ![special-app another-password in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/26-1.png) 
 
  The command with the password isn't added to the history list. The reason this trick works is contained within the `.bashrc` file.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  The .bashrc File
 
@@ -413,18 +419,18 @@ export HISTTIMEFORMAT="%T "
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-your-roadmap-to-acquiring-facebooks-esteemed-verification/"><u>[New] In 2024, Your Roadmap to Acquiring Facebook’s Esteemed Verification</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-5-techniques-for-capturing-win10-games/"><u>[Updated] 2024 Approved 5 Techniques for Capturing Win10 Games</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-optimizing-engagement-how-to-block-on-insta-for-2024/"><u>[Updated] Optimizing Engagement How to Block on Insta for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-online-upgrade-fb-story-repository/"><u>2024 Approved Online Upgrade Fb Story Repository</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/amplifi-hd-mesh-wi-fi-system-review-no-more-wi-fi-dead-zones/"><u>Amplifi HD Mesh Wi-Fi System Review: No More Wi-Fi Dead Zones</u></a></li>
-<li><a href="https://techtrends.techidaily.com/erfolgreich-komprimieren-und-konvertieren-sie-ihre-4k-inhalte-mit-diesen-7-bewahrten-methoden-in-1080p/"><u>Erfolgreich Komprimieren Und Konvertieren Sie Ihre 4K Inhalte Mit Diesen 7 Bewährten Methoden in 1080P</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-fix-connectivity-errors-with-your-lg-usb-driver-in-windows-1087-environments/"><u>How to Fix Connectivity Errors with Your LG USB Driver in Windows 10/8/7 Environments</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-review-of-the-lg-gram-17-svelte-design-meets-high-efficiency/"><u>In-Depth Review of the LG Gram 17: Svelte Design Meets High Efficiency</u></a></li>
-<li><a href="https://some-skills.techidaily.com/my-experience-with-a-windows-replica-for-everyday-use-a-comprehensive-review/"><u>My Experience with a Windows Replica for Everyday Use: A Comprehensive Review</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-update-microsoft-store-enables-straight-to-installer-download-option/"><u>New Update: Microsoft Store Enables Straight-to-Installer Download Option</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-windows-11-patch-ends-previous-local-user-setup-loophole/"><u>New Windows 11 Patch Ends Previous Local User Setup Loophole</u></a></li>
-<li><a href="https://some-skills.techidaily.com/recognizing-the-8-crucial-signs-your-laptop-needs-replacement/"><u>Recognizing the 8 Crucial Signs Your Laptop Needs Replacement</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-how-to-make-your-memoji-talk-get-creative-with-your-messaging/"><u>Updated In 2024, How To Make Your Memoji Talk? Get Creative With Your Messaging</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-muting-problem-solutions-for-obs-sound-capture/"><u>[New] 2024 Approved Muting Problem Solutions for OBS Sound Capture</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-zoom-in-to-speed-boosting-video-playback-mobileonline/"><u>[Updated] Zoom in to Speed Boosting Video Playback (Mobile/Online)</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-realme-gt-5-frp-bypass-by-drfone-android/"><u>About Realme GT 5 FRP Bypass</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-vivo-y100-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Motorola G24 Power? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-how-to-adapt-posting-techniques-after-instagrams-revisions/"><u>In 2024, How to Adapt Posting Techniques After Instagram’s Revisions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-the-winhttpdll-file-not-detected-issue-on-your-computer/"><u>Resolving the winhttp.dll File Not Detected Issue on Your Computer</u></a></li>
+<li><a href="https://some-skills.techidaily.com/step-by-step-guide-to-substituting-characters-with-line-breaks-using-notepadplusplus/"><u>Step-by-Step Guide to Substituting Characters with Line Breaks Using Notepad++</u></a></li>
+<li><a href="https://some-skills.techidaily.com/step-by-step-guide-launching-admin-command-prompt-on-windows-10/"><u>Step-by-Step Guide: Launching Admin Command Prompt on Windows 10</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-top-picks-from-how-to-geeks-prestigious-ces-2024-honors/"><u>The Top Picks From How-To Geek’s Prestigious CES 2024 Honors</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-list-of-7-indispensable-software-for-windows-users-explained/"><u>The Ultimate List of 7 Indispensable Software for Windows Users Explained</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-3-essential-pc-gaming-analytics-apps-for-enhanced-in-game-tracking/"><u>Top 3 Essential PC Gaming Analytics Apps for Enhanced In-Game Tracking</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-5-solutions-for-resolving-memory-integrity-issues-in-windows-11/"><u>Top 5 Solutions for Resolving Memory Integrity Issues in Windows 11</u></a></li>
 </ul></div>
 

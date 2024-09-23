@@ -1,7 +1,7 @@
 ---
 title: Simple Steps to Track Down and Recover Your Misplaced AirPods
-date: 2024-09-12T08:19:55.729Z
-updated: 2024-09-18T05:01:20.322Z
+date: 2024-09-19T20:34:15.332Z
+updated: 2024-09-23T03:57:58.047Z
 tags:
   - mobile
 categories:
@@ -58,13 +58,26 @@ Apple
 
 ![Screenshot of the options to locate the charging case or both AirPods in the Find My app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-1.png) 
 
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If one earbud of your AirPods Pro (2nd Generation) is out of the charging case, you can find it either by playing or following the sound.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Follow the Directions in Find My App
@@ -74,13 +87,6 @@ Apple
  The Directions section either shows the [current location of your AirPods](https://some-skills.techidaily.com/2024-approved-unlocking-vsco-photo-editing-tips-and-tricks/) (if they're online) or the last known location (if they're dead, but more on that later).
 
 ![Screenshot of the Directions option in Apple's Find My app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/directions-to-airpods-pro-in-find-my.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  For [AirPods (3rd Generation)](https://www.howtogeek.com/100819/3rd-gen-airpods-debut-with-spatial-audio-more-for-179/) and AirPods Pro (1st Generation), you can see the location of only one earbud at a time. To find both earbuds, locate the one that Find My shows on the map and put it back in the charging case. In a few seconds, you should be able to track the second one.
 
@@ -103,13 +109,6 @@ Close
  You can also add a trusted location, such as your workplace, for which you don't want to get notified. In the Notify When Left Behind menu, hit "New Location" under "Notify Me, Except At" and select the location on the map. If a suitable place appears under "Suggestions," simply tap the plus button to the right.
 
 ![Screenshot of the new location for Notify When Leave Behind in Find My.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/new-location-for-notify-when-leave-behind.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  What if Your AirPods Are Offline?
 
@@ -135,6 +134,13 @@ Close
 
 ![Screenshot of Find My on iCloud for Web.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/find-my-on-icloud-for-web.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This will open Find My's web interface, which lists all the linked products to the left. Select your AirPods and check their current or last known location (on a map).
 
 ![Locating AirPods Pro using Find My on iCloud for Web.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/locating-airpods-pro-using-find-my-on-icloud-for-web.png) 
@@ -150,10 +156,10 @@ Close
 ![Screenshot of the Find My app on MacBook locating AirPods.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/locating-airpods-using-find-my-on-mac.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Hit the information icon next to the AirPods (on the map) to play sound or get directions to the device.
@@ -161,10 +167,10 @@ Close
 ![Screenshot of the Play Sound and Direction option on Mac's Find My app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/locating-airpods-using-find-my-on-mac-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In my experience, I've noticed that when both the earbuds are out of the case (even on the second-generation AirPods Pro), the Find My app on Mac first locates one earbud and then the other. However, unlike Find My on the web, you can play a sound on the AirPods Pro (2nd Generation)'s charging case.
@@ -204,17 +210,14 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-essential-tips-for-glow-in-the-dark-portraiture-for-2024/"><u>[New] Essential Tips for Glow-in-the-Dark Portraiture for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-tiny-vid-creators/"><u>[Updated] In 2024, Tiny Vid Creators</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/easy-steps-for-sending-files-directly-to-your-computer/"><u>Easy Steps for Sending Files Directly to Your Computer</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/non-google-augmented-reality-visual-aids-for-2024/"><u>Non-Google Augmented Reality Visual Aids for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-basics-of-electronic-story-craftsmanship-for-2024/"><u>The Basics of Electronic Story Craftsmanship for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-interplay-between-apoptosis-autophagy-and-pyroptosis-can-determine-cell-fate-under-stress-conditions-they-are-not-mutually-exclusive-pathways/"><u>The Interplay Between Apoptosis, Autophagy, and Pyroptosis Can Determine Cell Fate Under Stress Conditions; They Are Not Mutually Exclusive Pathways.</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-8-essential-tips-for-maintaining-optimal-smartphone-performance/"><u>Top 8 Essential Tips for Maintaining Optimal Smartphone Performance</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-rated-usb-c-chargers-and-converters-expert-picks-for-2n25/"><u>Top Rated USB-C Chargers and Converters: Expert Picks for 2N25</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tracking-the-unseen-passenger-what-to-do-if-your-airtag-continues-its-travels-alongside-you/"><u>Tracking the Unseen Passenger: What to Do If Your AirTag Continues Its Travels Alongside You</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transformative-tips-how-iphones-elevate-the-road-trip-experience/"><u>Transformative Tips: How iPhones Elevate the Road Trip Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooters-no-more-chivalry-2-freezing-up/"><u>Ultimate TroubleShooters: No More Chivalry 2 Freezing Up</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-google-fi-vs-conventional-wireless-services-key-differences-explained/"><u>Unveiling Google Fi Vs. Conventional Wireless Services: Key Differences Explained</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-how-to-create-a-square-video-for-instragram-in-imovie-in-2024/"><u>[Updated] How to Create a Square Video for Instragram in iMovie, In 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-mastering-close-up-cinematography-through-zooming-for-2024/"><u>[Updated] Mastering Close-Up Cinematography Through Zooming for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-b550-chipsets-harnessing-amds-value-packed-pcie-40-technology-for-gamers-and-professionals/"><u>Affordable B550 Chipsets: Harnessing AMD’s Value-Packed PCIe 지속성 4.0 Technology for Gamers and Professionals</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/best-songs-logging-top-tools-for-quickly-preserving-your-cherished-tunes/"><u>Best Songs Logging Top Tools for Quickly Preserving Your Cherished Tunes</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-honor-magic-5-pro-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Honor Magic 5 Pro FRP</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-guide-linking-your-xbox-gamepad-to-windows-computer/"><u>Ultimate Guide: Linking Your Xbox Gamepad to Windows Computer</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-better-performance-discover-the-7-crucial-windows-configurations-that-must-stay-on-for-optimal-use/"><u>Unlocking Better Performance: Discover the 7 Crucial Windows Configurations That Must Stay On for Optimal Use</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-hidden-gems-the-top-14-facetime-tricks-youre-not-using/"><u>Unlocking Hidden Gems: The Top 14 FaceTime Tricks You're Not Using</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/viewerships-value-to-creators-understanding-revenue-per-stream-for-2024/"><u>Viewership's Value to Creators Understanding Revenue per Stream for 2024</u></a></li>
 </ul></div>
 

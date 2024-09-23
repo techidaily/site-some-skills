@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Manually Applying Patches and Updates in Windows 11
-date: 2024-09-16T19:49:43.983Z
-updated: 2024-09-18T06:16:06.105Z
+date: 2024-09-21T04:38:15.495Z
+updated: 2024-09-22T17:15:21.060Z
 tags:
   - desktop
 categories:
@@ -57,6 +57,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  You’re set.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  From Windows Settings
 
  One way to force updates to install is by using the Settings app. Here, you can choose whether to install the available updates or only specific ones.
@@ -65,38 +72,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 !['Windows Update' highlighted in Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/5-windows-update-settings.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On the right pane, click "Download & Install All" to download and install the available updates. To only download and install specific updates, click the button next to those updates.
 
 !['Download & Install All' highlighted on the Windows Update screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/6-download-install-all-windows-updates.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Wait while Windows obtains and installs the selected updates, then [reboot your Windows 11 PC](https://screen-video-capture.techidaily.com/updated-in-2024-addressing-mute-problems-in-obs-live-recording/).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  From Microsoft Update Catalog
 
@@ -110,13 +90,40 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![An update name typed in the search box on the Microsoft Update Catalog site.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/8-find-windows-update.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  On the following screen, find the exact update and click "Download" next to that update.
 
 !['Download' highlighted for an update on the Microsoft Update Catalog site.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/9-choose-windows-update.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the open window, click the update name to begin downloading the update to your PC. The download can take anywhere from a few seconds to several minutes, depending on the update size and your internet connection speed.
 
 ![An update name highlighted on the Microsoft Update Catalog site.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/10-download-windows-update.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After downloading the update, run the update file and follow the on-screen instructions. The file will extract the update files and install the update on your system.
 
@@ -131,6 +138,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  After successfully downloading the update, [open Command Prompt](https://screen-mirror.techidaily.com/how-to-screen-mirroring-xiaomi-14-ultra-drfone-by-drfone-android/). Do this by pressing the Windows key, typing **Command Prompt**, and selecting "Run as Administrator."
 
 !['Run as Administrator' highlighted for Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/11-launch-cmd-as-admin.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In the User Account Control prompt, select "Yes."
 
@@ -156,13 +170,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
     
  And your Windows PC is now up-to-date.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Using Windows PowerShell
 
  PowerShell allows you to find all the available updates for your PC and then download and install those updates. Unlike with Command Prompt, you don’t need to manually download the updates first.
@@ -170,13 +177,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  To use this method, open Windows Search, type **PowerShell**, and select "Run as Administrator." In the User Account Control prompt, select "Yes."
 
 !['Run as Administrator' highlighted for PowerShell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/13-launch-powershell-as-admin.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In PowerShell, type the following command (called a [cmdlet](https://extra-guidance.techidaily.com/new-prophotomaster-the-ai-enhanced-editing-edge/)) and press Enter. This cmdlet installs the Windows Update module to allow you to manage Windows updates from PowerShell.
 
@@ -229,18 +229,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/sive-list-of-the-top-10-digital-recording-apps-for-2024/"><u>Exclusive List of the Top 10 Digital Recording Apps for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721478705012-fix-a-halted-ios-update-effortlessly-in-just-6-steps/"><u>Fix a Halted iOS Update Effortlessly in Just 6 Steps!</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-2022-3-ways-to-unlock-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone SE (2022) 3 Ways To Unlock</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Xiaomi Redmi A2? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/mandatory-survey-prompt-launched-by-microsoft-when-exiting-onedrive/"><u>Mandatory Survey Prompt Launched by Microsoft When Exiting OneDrive</u></a></li>
-<li><a href="https://some-skills.techidaily.com/microsofts-legacy-operating-systems-drop-no-more-windows-7-or-8-from-epic-games/"><u>Microsoft's Legacy Operating Systems Drop: No More Windows 7 or 8 From Epic Games</u></a></li>
-<li><a href="https://some-skills.techidaily.com/organize-and-revamp-your-mp3-collection-with-mp3tag-version-327/"><u>Organize and Revamp Your MP3 Collection with Mp3tag Version 3.27</u></a></li>
-<li><a href="https://some-skills.techidaily.com/qualcomm-unveils-groundbreaking-arm-powered-windows-desktop-computing/"><u>Qualcomm Unveils Groundbreaking ARM-Powered Windows Desktop Computing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/resolving-javascript-bugs-a-step-by-step-guide-for-discord-users/"><u>Resolving JavaScript Bugs: A Step-by-Step Guide for Discord Users</u></a></li>
-<li><a href="https://some-skills.techidaily.com/securing-a-no-cost-copy-of-microsofts-latest-os-a-guide-to-windows-11/"><u>Securing a No-Cost Copy of Microsoft's Latest OS: A Guide to Windows 11</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-ultimate-8-top-collaborative-video-collage-tools-on-android-affordable/"><u>The Ultimate 8 Top Collaborative Video Collage Tools on Android (Affordable)</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-realme-note-50-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Realme Note 50 Phones</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/ultimate-tips-and-troubleshooting-for-enhancing-skype-calls-with-manycam-your-essential-how-to-manual/"><u>Ultimate Tips & Troubleshooting for Enhancing Skype Calls with ManyCam - Your Essential How-To Manual</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-extract-and-save-youtube-gallery-files-for-2024/"><u>[New] Extract and Save YouTube Gallery Files for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-leading-websites-to-discover-glossy-gold-letter-effects/"><u>[Updated] Leading Websites to Discover Glossy Gold Letter Effects</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-soundscapes-the-ultimate-guide-to-iphoneipad-podcast-downloads/"><u>[Updated] Mastering Soundscapes The Ultimate Guide to iPhone/iPad Podcast Downloads</u></a></li>
+<li><a href="https://some-skills.techidaily.com/access-a-multitude-of-ai-powered-conversational-agents-directly-from-your-personal-computer-using-our-innovative-application/"><u>Access a Multitude of AI-Powered Conversational Agents Directly From Your Personal Computer Using Our Innovative Application</u></a></li>
+<li><a href="https://some-skills.techidaily.com/boost-productivity-fast-efficiently-start-programs-via-keyboard-triggers-on-windows-11/"><u>Boost Productivity Fast: Efficiently Start Programs via Keyboard Triggers on Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/boost-your-gameplay-the-best-3-software-solutions-for-real-time-pc-gaming-stats-analysis/"><u>Boost Your Gameplay: The Best 3 Software Solutions for Real-Time PC Gaming Stats Analysis</u></a></li>
+<li><a href="https://some-skills.techidaily.com/boosting-focus-using-windows-grokas-pomodoro-timer-in-windows-11-a-pros-and-cons-review/"><u>Boosting Focus Using Windows Grokas Pomodoro Timer in Windows 11 – A Pros and Cons Review</u></a></li>
+<li><a href="https://some-skills.techidaily.com/bridging-operating-systems-a-comprehensive-guide-to-using-ubuntu-software-on-your-windows-11-machine/"><u>Bridging Operating Systems: A Comprehensive Guide to Using Ubuntu Software on Your Windows 11 Machine</u></a></li>
+<li><a href="https://some-skills.techidaily.com/complete-reinstallation-tutorial-for-nvidia-and-amd-graphics-drivers-from-scratch/"><u>Complete Reinstallation Tutorial for NVIDIA & AMD Graphics Drivers From Scratch</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-itel-a70-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Itel A70</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-infinix-gt-10-pro-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Infinix GT 10 Pro Phones</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fix-for-silent-mics-restoring-functionality-to-your-steelseries-arctis-7-audio/"><u>Quick Fix for Silent Mics: Restoring Functionality to Your SteelSeries Arctis 7 Audio</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/ultimate-guide-to-the-2020-lenovo-tab-m1n-stunning-hd-display-without-breaking-the-bank/"><u>Ultimate Guide to the 2020 Lenovo Tab M1n: Stunning HD Display Without Breaking the Bank</u></a></li>
 </ul></div>
 

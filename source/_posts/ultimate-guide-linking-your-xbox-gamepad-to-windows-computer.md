@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Linking Your Xbox Gamepad to Windows Computer"
-date: 2024-09-16T06:41:06.336Z
-updated: 2024-09-18T06:32:23.941Z
+date: 2024-09-20T19:29:03.404Z
+updated: 2024-09-23T07:32:05.044Z
 tags:
   - desktop
 categories:
@@ -78,10 +78,10 @@ Xbox
  When you're done playing, it'll turn off automatically after a while, but you can also [turn the Xbox controller off](https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-google-pixel-fold-drfone-by-drfone-virtual/) manually to save battery life. To do this, press and hold the Xbox button or pop the batteries out.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Connect an Xbox Wireless Controller with an Xbox Wireless Adapter
@@ -90,13 +90,6 @@ Xbox
 
 ![The Xbox Wireless adapter next to a controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/wirelsss-adapter.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Xbox](https://www.xbox.com/en-US/accessories/controllers/xbox-wireless-controller-adapter-windows)
 
  To use it, plug the Xbox Wireless Adapter into your PC's USB port and press and hold the pairing button until its light starts blinking rapidly. Next, turn on your controller by pressing and holding the Xbox button and put it in pairing mode by pressing and holding the pairing button for a few seconds.
@@ -104,6 +97,13 @@ Xbox
  The controller will automatically connect to your computer through the Xbox Wireless Adapter. If that doesn't work, go over the same steps for connecting the controller via Bluetooth, but instead of selecting "Bluetooth" under "Add a Device," select "Everything Else" to connect the controller to your PC via the adapter.
 
 ![The Bluetooth settings showing the "Add a device" window in WIndows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/adapter-bluetooth-settings.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -124,13 +124,16 @@ Xbox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-go-live-on-youtube-from-a-phone-no-need-for-huge-fans-yet-for-2024/"><u>[Updated] Go Live on YouTube From a Phone, No Need for Huge Fans Yet for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-essentials-to-skyrocketing-video-views-on-youtube/"><u>[Updated] In 2024, Essentials to Skyrocketing Video Views on YouTube</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-unlicensed-music-for-games-top-10-online-hits/"><u>[Updated] In 2024, Unlicensed Music for Games - Top 10 Online Hits</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-unleash-creativity-the-premier-apps-for-picture-framing/"><u>[Updated] Unleash Creativity The Premier Apps for Picture Framing</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-inside-scoop-on-cutting-edge-pc-components-by-tomngeartech/"><u>The Inside Scoop on Cutting-Edge PC Components by Tom'nGearTech</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlock-the-full-potential-of-your-journeys-why-utilizing-google-maps-save-location-function-is-essential/"><u>Unlock the Full Potential of Your Journeys: Why Utilizing Google Maps' Save Location Function Is Essential</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unmatched-user-experience-the-ultimate-blueprint-of-the-perfect-timing-app/"><u>Unmatched User Experience: The Ultimate Blueprint of the Perfect Timing App</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ways-to-discover-whether-your-phone-number-has-been-blacklisted-in-imessage-conversations/"><u>Ways To Discover Whether Your Phone Number Has Been Blacklisted in iMessage Conversations</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhanced-sound-clarity-new-audio-drivers-in-win7-release/"><u>Enhanced Sound Clarity: New Audio Drivers in Win7 Release</u></a></li>
+<li><a href="https://some-skills.techidaily.com/experience-the-best-of-modern-melodies-through-apple-musics-radio-stream-dont-miss-out/"><u>Experience the Best of Modern Melodies Through Apple Music's Radio Stream – Don’t Miss Out!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/expert-tips-for-manually-applying-patches-and-updates-in-windows-11/"><u>Expert Tips for Manually Applying Patches and Updates in Windows 11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/get-your-editing-mojo-back-with-this-final-cut-pro-overview-for-2024/"><u>Get Your Editing Mojo Back with This Final Cut Pro Overview for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/how-iphone-screen-mirroring-eliminates-the-need-for-ios-apps-on-your-mac/"><u>How iPhone Screen Mirroring Eliminates the Need for iOS Apps on Your Mac</u></a></li>
+<li><a href="https://some-skills.techidaily.com/improve-gameplay-by-turning-off-windows-shortcuts-and-accessibility-options-on-your-computer/"><u>Improve Gameplay by Turning Off Windows Shortcuts & Accessibility Options on Your Computer</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-the-art-of-valorant-thumbnail-design-for-youtube-content/"><u>In 2024, Mastering the Art of Valorant Thumbnail Design for YouTube Content</u></a></li>
+<li><a href="https://some-skills.techidaily.com/is-your-macs-ram-consumption-too-much-heres-why-that-shouldnt-concern-you/"><u>Is Your Mac's RAM Consumption Too Much? Here's Why That Shouldn't Concern You</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/simple-strategies-for-saving-video-calls-for-2024/"><u>Simple Strategies for Saving Video Calls for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/spoken-confidence-with-these-17-instantaneous-expressions/"><u>Spoken Confidence with These 17 Instantaneous Expressions</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-winning-combination-to-recover-deleted-windows-files/"><u>The Winning Combination to Recover Deleted Windows Files</u></a></li>
 </ul></div>
 

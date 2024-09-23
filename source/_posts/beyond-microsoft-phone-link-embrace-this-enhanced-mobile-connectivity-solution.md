@@ -1,7 +1,7 @@
 ---
 title: "Beyond Microsoft Phone Link: Embrace This Enhanced Mobile Connectivity Solution"
-date: 2024-09-15T19:34:15.665Z
-updated: 2024-09-17T22:46:46.472Z
+date: 2024-09-16T19:08:32.882Z
+updated: 2024-09-22T17:12:15.844Z
 tags:
   - deals
 categories:
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/1e11de4cf4f80ef092048741d4366db23f2bbee14
 
  The app also provides advanced functionalities like phone screen mirroring, cross-device clipboard sharing, and opening phone apps on the PC. However, the complete Phone Link experience, including these advanced features, is only available to [mainly Samsung smartphones and a few other models](https://support.microsoft.com/en-gb/topic/supported-devices-for-phone-link-experiences-cb044172-87aa-9e41-d446-c4ac83ce8807). This makes the Phone Link app lackluster for most users with an unsupported smartphone. Luckily, all of us have got KDE Connect.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  What Is KDE Connect, and What Can It Do?
 
 [KDE Connect](https://kdeconnect.kde.org/)is a free and open-source app that connects your smartphone to your desktop, so you can access notifications, transfer files, and send inputs from one device to the other. It’s important to note that this is a two-way connection. This means KDE Connect will let you monitor and control your smartphone from your PC and vice versa.
@@ -52,6 +45,13 @@ Close
 
 ![Open Plugin settings on KDE Connect Phone App](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/open-plugin-settings-on-kde-connect-phone-app-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Just tap the toggle next to each option to enable or disable it.
 
 Close 
@@ -59,13 +59,6 @@ Close
  Do remember that you need to enable the plugin and also provide the necessary permissions for the respective features to work. Even if the plugin is enabled, without the proper permissions, the app won't be able to send and receive data between devices. KDE Connect will let you know which plugins require your attention as soon as you open the app.
 
 ![Permissions required for KDE Plugins to Funciton Properly](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/permissions-required-for-kde-plugins-to-funciton-properly.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  KDE Connect doesn’t send your data to the cloud and works over your local Wi-Fi without using the internet. This means your data transferred via the app isn’t stored on any server. What’s more, all data is TLS-encrypted. Check out its [privacy policy page](https://community.kde.org/KDEConnect/PrivacyPolicy) for more information on its security measures.
 
@@ -92,21 +85,22 @@ Close
 ![Control Media Playback using KDE Connect](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/control-media-playback-using-kde-connect-2.png) 
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Another feature I love is getting notified of incoming calls on my desktop**.** When you get a call on your phone, you’ll see the caller's name and the option to mute the call. Unfortunately, the option to receive calls right from your PC is missing.
 
 ![Incoming Phone call notification on PC via KDE Connect](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/incoming-phone-call-notification-on-pc-via-kde-connect-1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  That said, you do get the handy option to automatically pause any media playback on your PC or reduce the volume when you get a call. To enable this, go to Plugin Settings on the KDE Connect PC app and check the "Pause media during calls" option.
 
@@ -115,10 +109,10 @@ Close
 Close 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Slideshow Controls
@@ -132,13 +126,6 @@ Close
 ![KDE Connect Slideshow Pointer feature](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/kde-connect-slideshow-pointer-feature.jpg) 
 
 Dibakar Ghosh | How-To Geek
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Transfer Large Files
 
@@ -170,6 +157,19 @@ Close
 
  To test, tap on "Lock Screen," and your PC's screen will lock. Likewise, tap on "File Explorer" to open File Explorer. You’re only restricted by your imagination at this point.
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What Happened to Screen Mirroring Though?
 
  Okay, KDE Connect can’t do screen mirroring. However, it’s also a very limited feature on Phone Link that is available for Microsoft Surface Duo and a few select devices, namely Samsung Galaxy smartphones. That said, you don't need to buy a Samsung device to have this feature. You can use [Scrcpy to mirror and control your android phone on any Windows PC](https://win11-tips.techidaily.com/workflow-enhancer-integrating-sticky-notes-into-your-windows-morning-ritual/).
@@ -193,17 +193,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-top-tips-for-masterful-looped-videos-on-instagram-for-2024/"><u>[New] Top Tips for Masterful Looped Videos on Instagram for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-engage-fully-with-podcasts-15-essential-tasks/"><u>[Updated] 2024 Approved Engage Fully with Podcasts 15 Essential Tasks</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-professional-approaches-to-preserving-ps3-games-on-screen/"><u>[Updated] 2024 Approved Professional Approaches to Preserving PS3 Games On Screen</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-capture-and-share-with-confidence-a-step-by-step-guide-to-desktop-video-uploads-on-instagram/"><u>[Updated] In 2024, Capture & Share with Confidence A Step-by-Step Guide to Desktop Video Uploads on Instagram</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-top-10-accelerating-yt-channels-for-intellectual-enlightenment/"><u>[Updated] In 2024, Top 10 Accelerating YT Channels for Intellectual Enlightenment</u></a></li>
-<li><a href="https://some-skills.techidaily.com/12-quick-methods-to-access-windows-10-file-explorer/"><u>12 Quick Methods to Access Windows 10 File Explorer</u></a></li>
-<li><a href="https://some-skills.techidaily.com/access-a-multitude-of-ai-powered-conversational-agents-directly-from-your-personal-computer-using-our-innovative-application/"><u>Access a Multitude of AI-Powered Conversational Agents Directly From Your Personal Computer Using Our Innovative Application</u></a></li>
-<li><a href="https://some-skills.techidaily.com/boost-productivity-fast-efficiently-start-programs-via-keyboard-triggers-on-windows-11/"><u>Boost Productivity Fast: Efficiently Start Programs via Keyboard Triggers on Windows 11</u></a></li>
-<li><a href="https://some-skills.techidaily.com/boost-your-gameplay-the-best-3-software-solutions-for-real-time-pc-gaming-stats-analysis/"><u>Boost Your Gameplay: The Best 3 Software Solutions for Real-Time PC Gaming Stats Analysis</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/inshot-free-pc-video-editing-solutions/"><u>Inshot-Free PC Video Editing Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-seamless-link-for-windows-steam-streaming/"><u>Restoring Seamless Link for Windows Steam Streaming</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-top-5-freebie-car-race-games-to-play-standalone-edition/"><u>The Top 5 Freebie Car Race Games to Play - Standalone Edition</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-reel-of-excellence-ice-artistry-in-22-summary/"><u>[New] In 2024, Reel of Excellence - Ice Artistry in '22 Summary</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-insta-perfect-pivoting-mastering-video-angles-for-social-success/"><u>[New] Insta Perfect Pivoting Mastering Video Angles for Social Success</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-unlock-the-full-potential-of-your-pcgaming-with-obs/"><u>[Updated] 2024 Approved Unlock the Full Potential of Your PC/Gaming with OBS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-framework-developing-transformative-lifestyle-broadcasts-for-2024/"><u>[Updated] Framework Developing Transformative Lifestyle Broadcasts for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-podcasting-from-afar-a-guide/"><u>[Updated] Podcasting From Afar A Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/elon-musks-spacex-begins-rollout-of-revolutionary-satellite-powered-phone-network-starlink/"><u>Elon Musk's SpaceX Begins Rollout of Revolutionary Satellite-Powered Phone Network, Starlink</u></a></li>
+<li><a href="https://some-skills.techidaily.com/enhanced-performance-intels-top-tier-computers-now-support-superior-ai-models-and-advanced-stability/"><u>Enhanced Performance: Intel's Top-Tier Computers Now Support Superior AI Models and Advanced Stability</u></a></li>
+<li><a href="https://some-skills.techidaily.com/enhancing-siris-capabilities-with-advanced-apple-ai-revolutionizing-user-experience/"><u>Enhancing Siri's Capabilities with Advanced Apple AI: Revolutionizing User Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/expanding-reach-googles-gemini-now-available-on-legacy-android-devices/"><u>Expanding Reach: Google's Gemini Now Available on Legacy Android Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-on-repairing-realtek-hd-audio-hardware-malfunctions/"><u>Expert Advice on Repairing Realtek HD Audio Hardware Malfunctions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/exploring-the-simplicity-of-the-modern-volkswagen-id3-a-button-free-design-approach/"><u>Exploring the Simplicity of the Modern Volkswagen ID.3: A Button-Free Design Approach</u></a></li>
+<li><a href="https://some-skills.techidaily.com/face-first-computing-takes-center-stage-in-depth-review-of-apples-game-changing-vision-pro-device/"><u>Face-First Computing Takes Center Stage: In Depth Review of Apple's Game-Changing Vision Pro Device</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-reviving-retro-shots-step-by-step-for-image-conversion-and-curation/"><u>In 2024, Reviving Retro Shots Step-by-Step for Image Conversion & Curation</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigate-the-metaverse-with-these-7-key-technologies-for-2024/"><u>Navigate the Metaverse with These 7 Key Technologies for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-landscape-of-ai-based-prompt-engineering-long-term-viability/"><u>Navigating the Landscape of AI-Based Prompt Engineering: Long-Term Viability</u></a></li>
 </ul></div>
 

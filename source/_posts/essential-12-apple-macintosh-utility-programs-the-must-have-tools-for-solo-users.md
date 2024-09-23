@@ -1,7 +1,7 @@
 ---
 title: "Essential 12 Apple Macintosh Utility Programs: The Must-Have Tools for Solo Users"
-date: 2024-09-14T04:47:45.853Z
-updated: 2024-09-17T20:51:33.103Z
+date: 2024-09-18T04:35:32.230Z
+updated: 2024-09-23T07:35:21.662Z
 tags:
   - desktop
 categories:
@@ -44,16 +44,16 @@ thumbnail: https://thmb.techidaily.com/d10946fd797c909f3b766507ccc413e54b73231c6
 
  By default, traffic will be blocked. This allows you to create an allow-list of apps that are mission-critical. You can then block the heavy hitters like Photos or your Mac’s background cloud syncing processes. Try it for free and then buy a single-use license for $17.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3 [Maccy](https://github.com/p0deje/Maccy) for Recalling Clipboard Items 
 
 ![Maccy clipboard manager for macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/maccy-clipboard-manager-for-macos.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Maccy is a clipboard manager for macOS that you can download for free from the project’s [GitHub page](https://github.com/p0deje/Maccy) or for $9.99 on the [Mac App Store](https://apps.apple.com/us/app/maccy/id1527619437?mt=12). The app stores your clipboard history for easy retrieval, with a global hotkey (by default Command+Shift+C) for quickly accessing the app.
 
@@ -71,22 +71,15 @@ thumbnail: https://thmb.techidaily.com/d10946fd797c909f3b766507ccc413e54b73231c6
 
 ![Amphetamine app for keeping a Mac awake.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/amphetamine-app-for-keeping-a-mac-awake.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Sometimes you need to keep your Mac awake, and [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12) is the answer. This highly configurable free app is designed to prevent your Mac from sleeping, allowing you to keep your Mac awake in a variety of situations.
 
  The app lets you sleep the screen but keep your Mac running, keep everything awake so that the screen remains on, or even close the lid without putting your MacBook to sleep (which requires the free [Amphetamine-Enhancer](https://github.com/x74353/Amphetamine-Enhancer) add-on). You can configure triggers and hotkeys, use the app as a [mouse jiggler](https://facebook-record-videos.techidaily.com/updated-optimizing-video-content-with-powerful-hashtags-on-youtube/), and more.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6 [Homebrew](https://brew.sh) for Installing Software via Terminal 
@@ -102,6 +95,13 @@ thumbnail: https://thmb.techidaily.com/d10946fd797c909f3b766507ccc413e54b73231c6
 ## 7 [Speedtest CLI](https://www.speedtest.net/apps/cli) for Testing Internet Speed 
 
 ![Speedtest CLI running in Terminal on macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/speedtest-cli-running-in-terminal-on-macos.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Speedtest by Ookla is one of the most popular internet speed test services, but it can be a drag having to open a new tab, navigate to the website, and click the “Go” button. The fastest way is to [use the companion command-line utility](https://extra-tips.techidaily.com/fading-audio-dynamics-a-logic-pro-approach/).
 
@@ -133,6 +133,13 @@ speedtest-cli -help
 
 [Switching from Evernote to Apple Notes](https://article-files.techidaily.com/updated-tiktokplusinstagram-social-media-fusion-guide-for-2024/) was one of the best things I did to improve personal organization. If you also rely on Android or Windows you might want to check out [our note-taking app roundup](https://games-able.techidaily.com/sonys-ps5-dualsense-controller-excellence-with-new-chargers/) for some better recommendations.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 10 [Hyperkey](https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-on-apple-iphone-15-plus-by-drfone-ios/) for Boosting Keyboard Shortcuts 
 
 ![HyperKey for macOS for improving shortcut options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/hyperkey-for-macos-for-improving-shortcut-options.png) 
@@ -142,22 +149,15 @@ speedtest-cli -help
  Then all you need to do is assign some shortcuts that depend on your new “hyper” key. So, for example, Instead of hitting Shift+Control+Option+Command+R to trigger a Shortcut, you can just hit Caps Lock+R instead.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 11 [The Unarchiver](https://theunarchiver.com) for Extracting Archives 
 
 ![The file association options on Unarchiver.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/mac-unarchiver-options.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Perhaps the most boring app on this list, [The Unarchiver](https://theunarchiver.com) is a free app that adds support for archive formats that aren’t supported in macOS by default like RAR and 7Z. It can also unpack deprecated formats from forgotten platforms, and do interesting things like extract images and audio from SWF files.
 
@@ -190,18 +190,16 @@ speedtest-cli -help
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-the-ultimate-guide-to-setting-up-a-group-conversation-that-caters-to-all-systems-in-skype/"><u>[New] 2024 Approved The Ultimate Guide to Setting up a Group Conversation that Caters to All Systems in Skype</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-from-silence-to-clarity-recording-on-your-iphone-easy-way-for-2024/"><u>[New] From Silence to Clarity Recording on Your iPhone Easy Way for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-optimize-video-publishing-timing-for-maximum-views/"><u>[New] In 2024, Optimize Video Publishing Timing for Maximum Views</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-converting-twitter-video-lyrics-to-custom-gif-animations/"><u>[Updated] 2024 Approved Converting Twitter Video Lyrics to Custom GIF Animations</u></a></li>
-<li><a href="https://some-skills.techidaily.com/be-prepared-without-delay-step-by-step-tutorial-on-crafting-a-bootable-windows-11-usb-thrive-in-advance/"><u>Be Prepared Without Delay: Step-by-Step Tutorial on Crafting a Bootable Windows #11 USB Thrive in Advance</u></a></li>
-<li><a href="https://some-skills.techidaily.com/beyond-microsoft-phone-link-embrace-this-enhanced-mobile-connectivity-solution/"><u>Beyond Microsoft Phone Link: Embrace This Enhanced Mobile Connectivity Solution</u></a></li>
-<li><a href="https://some-skills.techidaily.com/effective-strategies-to-resolve-the-secured-no-internet-access-issue-in-windows-systems/"><u>Effective Strategies to Resolve the 'Secured – No Internet Access' Issue in Windows Systems</u></a></li>
-<li><a href="https://some-skills.techidaily.com/enhanced-security-features-in-google-chrome-version-127-guard-against-malware/"><u>Enhanced Security Features in Google Chrome Version 127 - Guard Against Malware</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Honor Play 8T? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-honor-magic5-ultimate-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Honor Magic5 Ultimate Through Google Earth?</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-top-picks-user-friendly-software-for-new-game-recorders-and-editors/"><u>In 2024, Top Picks User-Friendly Software for New Game Recorders & Editors</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-elevate-your-edits-advanced-l-cuts-and-j-cuts-techniques-in-fcpx/"><u>New Elevate Your Edits Advanced L-Cuts and J-Cuts Techniques in FCPX</u></a></li>
-<li><a href="https://some-skills.techidaily.com/windows-11-tutorial-enabling-your-laptops-hibernation-mode-with-the-lid-shut/"><u>Windows 11 Tutorial: Enabling Your Laptop's Hibernation Mode with the Lid Shut</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/nique-channels-generating-top-notch-video-naming-for-2024/"><u>[New] Unique Channels Generating Top-Notch Video Naming for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-from-views-to-valuables-the-ultimate-video-income-play-for-2024/"><u>[Updated] From Views to Valuables The Ultimate Video Income Play for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/alan-wake-2-stability-fixes-and-optimization-tips-players/"><u>Alan Wake 2 Stability Fixes and Optimization Tips Players</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-se-2020-waze-drfone-by-drfone-virtual-ios/"><u>In 2024, 7 Fixes to No GPS - Showing Approximate Location on Apple iPhone SE (2020) Waze | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-discord-speed-issues-the-definitive-2ertofix-your-lagging-problems-now/"><u>Mastering Discord Speed Issues: The Definitive 2Ertofix Your Lagging Problems Now!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/rectified-previously-encountered-errors-while-generating-replies-on-chatgpt-no-longer-apply/"><u>Rectified: Previously Encountered Errors While Generating Replies on ChatGPT No Longer Apply</u></a></li>
+<li><a href="https://some-skills.techidaily.com/revamped-features-on-the-horizon-for-google-bard-a-strategic-improvement-overview/"><u>Revamped Features on the Horizon for Google Bard - A Strategic Improvement Overview</u></a></li>
+<li><a href="https://some-skills.techidaily.com/safeguard-your-privacy-from-machine-mayhem-by-embracing-open-source-linux-solutions/"><u>Safeguard Your Privacy From Machine Mayhem by Embracing Open Source Linux Solutions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/secure-image-privacy-with-blur-features-for-2024/"><u>Secure Image Privacy with Blur Features for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/unlock-fb-security-2fa-essentials-and-usage/"><u>Unlock FB Security: 2FA Essentials and Usage</u></a></li>
 </ul></div>
 

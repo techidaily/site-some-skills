@@ -1,7 +1,7 @@
 ---
 title: Top 3 Essential PC Gaming Analytics Apps for Enhanced In-Game Tracking
-date: 2024-09-15T05:00:20.663Z
-updated: 2024-09-17T20:54:03.210Z
+date: 2024-09-22T06:53:26.394Z
+updated: 2024-09-22T22:33:58.474Z
 tags:
   - deals
 categories:
@@ -43,6 +43,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  You can also configure the heads-up display by clicking the "Configure Heads Up Display" button in the "Statistics" options menu.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ![NVIDIA Overlay Statistics options menu](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-02.png) RivaTuner Statistics Server
 
  The legendary [RivaTuner Statistics Server](https://www.guru3d.com/page/rivatuner-rtss-homepage/), also known as RTSS, is the oldest in-game performance monitoring tool on this list. I’ve been using RTSS for more than a decade, and in that time, I’ve had zero issues with it.
@@ -67,25 +74,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![MSI Afterburner Main window and the On-Screen Display options menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-05.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now, click the “Monitoring” tab. In this tab, you can pick any in-game performance metric you want to see on the OSD; to enable it, click the “Show in On-Screen Display” box. You can also rename every metric by clicking the "Override Graph Name" and "Override Group Name" buttons.
 
 ![MSI Afterburner main window and the Monitoring menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-06-2.png) 
 
- After you enable the performance stats you want to see on the OSD, click the “Apply” button, and try out the OSD by entering the game and pressing the button you’ve mapped to open the RTSS performance overlay.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ After you enable the performance stats you want to see on the OSD, click the “Apply” button, and try out the OSD by entering the game and pressing the button you’ve mapped to open the RTSS performance overlay.
 
 ##  Intel PresentMon
 
@@ -103,13 +103,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Intel PresentMon main window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-007.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When you select the custom preset, click the “Edit” button to customize it.
 
 ![Intel PresentMon main Window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-07.png) 
@@ -119,15 +112,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Intel PresentMon custom preset configuration menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-08.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can combine multiple metrics by pressing the “Plus” button. For example, you can combine GPU and CPU busy graphs with GPU and CPU wait graphs, average and 99% low FPS, CPU and GPU utilization, and more. The “Options” button next to the “Plus” button allows you to customize each graph.
 
 ![Intel PresentMon custom preset configuration menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-09.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Don’t forget that you can show most data as readouts—numbers, in other words—or graphs.
 
@@ -150,14 +150,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-discovering-the-best-4k-monitors-1-10-for-2024/"><u>[New] Discovering the Best 4K Monitors #1-10 for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/nlocking-potential-creating-compelling-content-on-your-phone/"><u>[New] Unlocking Potential Creating Compelling Content on Your Phone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/face-first-computing-takes-center-stage-in-depth-review-of-apples-game-changing-vision-pro-device/"><u>Face-First Computing Takes Center Stage: In Depth Review of Apple's Game-Changing Vision Pro Device</u></a></li>
-<li><a href="https://some-skills.techidaily.com/free-use-of-midjourney-service-to-be-permanently-discontinnued-says-official-statement/"><u>Free Use of Midjourney Service to Be Permanently Discontinnued, Says Official Statement</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/friendship-and-farms-the-10-favorite-farming-titles/"><u>Friendship & Farms The 10 Favorite Farming Titles</u></a></li>
-<li><a href="https://some-skills.techidaily.com/get-a-fraction-of-apples-vision-pro-experience-with-meta-quest-3-at-just-one-seventh-the-pricing/"><u>Get a Fraction of Apple's Vision Pro Experience with Meta Quest 3 at Just One-Seventh the Pricing!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Infinix Hot 40i | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-ultimate-gamesnapper-strategies-for-captures/"><u>In 2024, Ultimate GameSnapper Strategies for Captures</u></a></li>
-<li><a href="https://some-skills.techidaily.com/incredible-insights-into-the-credit-card-sized-ai-voice-capture-device-the-plaud-note-experience-unveiled/"><u>Incredible Insights Into the Credit Card-Sized AI Voice Capture Device - The Plaud Note Experience Unveiled!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-action-filming-at-its-peak-garmin-virb-ultra-30-analysis/"><u>[New] 2024 Approved Action Filming at Its Peak Garmin VIRB Ultra 30 Analysis</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-viral-visions-top-ig-story-filters/"><u>[New] 2024 Approved Viral Visions Top IG Story Filters</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-swift-action-on-slow-footage-with-best-apps/"><u>[New] Swift Action on Slow Footage with Best Apps</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-transformative-instagram-edits-professional-strategies-for-2024/"><u>[New] Transformative Instagram Edits Professional Strategies for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-amplifying-your-content-free-techniques-to-boost-youtube-views/"><u>[Updated] 2024 Approved Amplifying Your Content Free Techniques to Boost YouTube Views</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-to-add-music-to-imovie-from-youtube/"><u>2024 Approved How to Add Music to iMovie From YouTube?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-boundaries-of-chatgpt-token-usage-can-it-be-expanded/"><u>Exploring the Boundaries of ChatGPT Token Usage: Can It Be Expanded?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/exploring-the-new-york-times-todays-topic-hints-and-solutions-for-june-1-356/"><u>Exploring the New York Times' Today's Topic: Hints and Solutions for June 1 (#356)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/global-access-boost-proton-vpn-enhances-censorship-avoidance-efforts-in-new-regions/"><u>Global Access Boost: Proton VPN Enhances Censorship Avoidance Efforts in New Regions</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Realme Narzo N53? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/july-16-2024-marks-the-start-of-amazon-prime-day-shopping-extravaganza/"><u>July 16, 2024 Marks the Start of Amazon Prime Day Shopping Extravaganza</u></a></li>
+<li><a href="https://some-skills.techidaily.com/june-20th-new-york-times-puzzle-solutions-and-answers-issue-375/"><u>June 20Th New York Times Puzzle Solutions & Answers (Issue #375)</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Personalizing Your Windows 11 Taskbar"
-date: 2024-09-16T22:24:31.011Z
-updated: 2024-09-18T01:57:44.576Z
+date: 2024-09-18T19:16:46.650Z
+updated: 2024-09-22T21:46:51.608Z
 tags:
   - deals
 categories:
@@ -60,6 +60,13 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
 ![Click the pin next to a folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/4-pin-to-this-list.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  By the way, if you want to view the conventional context menu for an icon on the taskbar, hold the Shift key while right-clicking the icon. This is particularly useful for configuring any folder shortcuts you've pinned there. And this is just one of the [many useful keyboard shortcuts](https://fox-links.techidaily.com/new-free-10-high-quality-passport-photos-available-here-for-2024/) you can use with the taskbar.
 
  When you've pinned items to a jump list, those items appear separately from recent items. All you have to do is click one of them to open that folder. And of course, exactly what you see on a jump list depends on the app. Apps like Notepad or Microsoft Word show recently opened files. A jump list for your browser might show favorite sites and provide actions for opening new tabs or windows.
@@ -76,22 +83,35 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
  Choose the "Hidden" option to remove both the search box and icon or choose "Show Search Icon" to have just the icon on the taskbar.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Remove the Task View Button
 
  The "Task View" button provides access to a thumbnail view of all your open apps and windows. It also lets you work with [virtual desktops](https://tiktok-videos.techidaily.com/updated-virtual-performances-on-kuaishou-for-2024/) and shows you your [Timeline](https://screen-recording.techidaily.com/pocket-safari-androids-selection-of-best-simulators-for-2024/) if you enabled that.
 
 ![The results of clicking the Task View button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-task-view-button.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  But you don't need a button to do this. Simply press Windows+Tab to access the same interface. To save a little taskbar space and get rid of the button, right-click the taskbar and turn off the "Show Task View button" option.
 
 ![Right-click the Taskbar and untick "Show Task View button."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/7-show-task-view-button.png) 
+
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Hide System Icons in the Notification Area
 
@@ -103,6 +123,13 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
 ![Some system icons that can be toggled.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/13-system-icons.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Hide Application Icons in the Notification Area
 
  Many of the apps you install in Windows are designed to run in the background. They're not things you need to interact with regularly, so instead of appearing directly on your taskbar, their icons are relegated to the Notification area. This lets you know they're running and gives you quick access when you need it. A few of these appear right in the Notification Area to the left of the clock. Others are hidden, but you can see them by clicking the up arrow to the left.
@@ -113,6 +140,13 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
 ![Drag icon in or out of the hidden area.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/11-drag-icon-off.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also work with these icons through the settings interface. Right-click any open area of the taskbar and choose the "Settings" option. Scroll down and click the "Select which icons appear on the taskbar" link.
 
 ![Click "Select Which Icons Appear on the Taskbar."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/8-taskbar-settings.png) 
@@ -120,13 +154,6 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
  If you want to remove the hidden area and see all the icons all the time, turn on the "Always show all icons in the notification area" option. If you leave that setting off, you can also run through the list and turn individual apps on or off. Just note that turning an app off here doesn't remove it from the Notification Area altogether. When an app is turned off, it shows up in the hidden area. When it's on, it shows up in the main Notification Area.
 
 ![A list of toggleable icons that can appear on your Taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/9-taskbar-icons.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Move the Taskbar to a Different Edge of the Screen
 
@@ -170,25 +197,11 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 * **When taskbar is full**. This is a middle-range setting. When selected, windows are not grouped, and labels are shown unless the taskbar becomes full. When it fills up, it reverts to the "Always, hide labels" functionality.
 * **Never**. When selected, windows are never grouped, and labels are always shown. You can see this setting in action below. Note that instead of a single File Explorer icon and a single Chrome icon, I now have two of each and the titles of the windows are displayed as labels.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Change the Color and Transparency of the Taskbar
 
  In Windows 10, the default color of the taskbar is black. To change the color, press Windows+I to open the settings interface. In the main Settings window, click "Personalization."
 
 ![Select "Personalization."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/21-perosnalization.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In the Personalization window, scroll down until you see the colors.
 
@@ -228,13 +241,6 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
 ![The options for controlling the Taskbar on multiple displays.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/25-multiple-displays.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you leave the "Show taskbar on all displays" option turned off — which is the default setting — then you'll see a single taskbar on your primary monitor only. All open windows for apps are shown on that taskbar, regardless of which display the windows are open on. Turn that option on to have a taskbar shown on all your displays and also open up the other options below.
 
  The "Show taskbar buttons on" drop-down menu contains three options:
@@ -264,19 +270,15 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-youcamease-step-by-steprecording/"><u>[New] 2024 Approved YouCamEase Step-by-StepRecording</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-top-7-epic-strategy-battles-unveiling-ultimate-total-wars/"><u>[New] Top 7 Epic Strategy Battles Unveiling Ultimate Total Wars</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-global-presence-via-instagram-100-inspiring-self-captions/"><u>[Updated] Global Presence via Instagram 100 Inspiring Self-Captions</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-ultimate-mac-video-frames-catalog-max-156-chars/"><u>[Updated] In 2024, Ultimate Mac Video Frames Catalog (Max 156 Chars)</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-pixel-perfect-memes-with-kinemaster/"><u>[Updated] Pixel Perfect Memes with KineMaster</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-discover-the-art-of-youtube-playlist-shuffling/"><u>2024 Approved Discover the Art of YouTube Playlist Shuffling</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-the-ultimate-test-mycam-cams-features-analyzed/"><u>2024 Approved The Ultimate Test MyCam Cam's Features Analyzed</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Tecno Phantom V Fold | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-realme-11-pro-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Realme 11 Pro?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/introducing-windows-11-compatible-logitech-peripherals-enhanced-dynamic-lighting-capability/"><u>Introducing Windows 11 Compatible Logitech Peripherals: Enhanced Dynamic Lighting Capability</u></a></li>
-<li><a href="https://some-skills.techidaily.com/mastering-expression-calculation-a-guide-to-using-expr-on-linux-systems/"><u>Mastering Expression Calculation: A Guide to Using 'Expr' On Linux Systems</u></a></li>
-<li><a href="https://some-skills.techidaily.com/maximize-your-icloud-capacity-effective-methods-to-clear-and-reclaim-storage/"><u>Maximize Your iCloud Capacity: Effective Methods to Clear and Reclaim Storage</u></a></li>
-<li><a href="https://some-skills.techidaily.com/microsoft-trials-innovative-start-menu-and-promotional-content-integration-in-windows-11-preview/"><u>Microsoft Trials Innovative Start Menu and Promotional Content Integration in Windows 11 Preview</u></a></li>
-<li><a href="https://some-skills.techidaily.com/my-experience-with-a-windows-replica-for-everyday-use-a-comprehensive-review/"><u>My Experience with a Windows Replica for Everyday Use: A Comprehensive Review</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-the-abcs-of-amassing-affection-on-fb-squaring-up-your-video-strategy/"><u>[New] The ABC's of Amassing Affection on FB Squaring Up Your Video Strategy</u></a></li>
+<li><a href="https://fox-that.techidaily.com/comprehensive-instructions-initiating-recovery-mode-on-your-ipad/"><u>Comprehensive Instructions: Initiating Recovery Mode on Your iPad</u></a></li>
+<li><a href="https://some-skills.techidaily.com/discover-the-latest-in-tech-with-dells-new-xps-laptops-say-goodbye-to-physical-pads-and-keyboard-keys/"><u>Discover the Latest in Tech with Dell's New XPS Laptops - Say Goodbye to Physical Pads and Keyboard Keys</u></a></li>
+<li><a href="https://some-skills.techidaily.com/discover-unexplored-functions-in-evernote-for-superior-organization-and-note-taking-mastery/"><u>Discover Unexplored Functions in Evernote for Superior Organization and Note-Taking Mastery</u></a></li>
+<li><a href="https://some-skills.techidaily.com/easy-techniques-to-refresh-and-optimize-driver-software-in-windows-10/"><u>Easy Techniques to Refresh and Optimize Driver Software in Windows 10</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-key-contrasts-between-natural-language-processing-nlp-and-machine-learning-ml/"><u>Exploring Key Contrasts Between Natural Language Processing (NLP) & Machine Learning (ML)</u></a></li>
+<li><a href="https://win-able.techidaily.com/improved-gameplay-experience-with-optimized-frame-rates-for-playing-farming-simulator-22-on-personal-computers/"><u>Improved Gameplay Experience with Optimized Frame Rates for Playing Farming Simulator 22 on Personal Computers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/saving-youtube-content-with-simple-steps-for-2024/"><u>Saving YouTube Content with Simple Steps for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/unlocking-the-potential-of-virtual-collaboration-starting-zoom-calls-on-android/"><u>Unlocking the Potential of Virtual Collaboration Starting Zoom Calls on Android</u></a></li>
 </ul></div>
 
