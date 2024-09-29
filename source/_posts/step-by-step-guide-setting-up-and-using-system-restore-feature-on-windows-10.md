@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Setting Up & Using System Restore Feature on Windows 10"
-date: 2024-09-07T22:19:53.833Z
-updated: 2024-09-08T22:19:53.833Z
+date: 2024-09-28T01:34:52.097Z
+updated: 2024-09-29T01:17:50.495Z
 tags:
   - win11
   - win10
@@ -23,69 +23,27 @@ thumbnail: https://thmb.techidaily.com/a37ab7bacfd21717668bfcf5969765b4a3a3d0a9b
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/create-a-restore-point.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
   
  2) The status of the**Protection** should be**Off** if you haven’t done anything to it before.   
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/protection-off.jpg)   
   
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Under**System Protection** tab, you need to click**Configure** button.   
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/configure.jpg)   
   
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Click to enable**Turn on system protection** . Then use the**Max Usage** slider to decide how much of your hard drive you would like to use to store Restore Points. (5% to 10% is usually enough.) Then click**OK** .   
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/turn-on-system-protection.jpg)   
   
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) You can manually create a restore point now by going back to System Properties window. Under**System Protection** tab, click the**Create** button.   
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/system-protection.jpg)   
   
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  6) Type in the name you want to name the restore point and click**Create** to continue.   
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5816c15d989ef.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
   
  7) Wait for the process to finish. Then you will see a notification as shown below.   
   
@@ -97,8 +55,6 @@ thumbnail: https://thmb.techidaily.com/a37ab7bacfd21717668bfcf5969765b4a3a3d0a9b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -106,4 +62,26 @@ thumbnail: https://thmb.techidaily.com/a37ab7bacfd21717668bfcf5969765b4a3a3d0a9b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-breaking-into-livestreaming-steps-to-successfully-begin-on-tiktok-from-desktop/"><u>[New] In 2024, Breaking Into Livestreaming Steps to Successfully Begin on TikTok From Desktop</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-crafting-exquisite-hdr-portraits/"><u>[New] The Ultimate Guide to Crafting Exquisite HDR Portraits</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-monitors-unveiled-the-ultimate-guide-for-sourcing-a-stellar-4k-screen/"><u>[Updated] In 2024, Monitors Unveiled The Ultimate Guide for Sourcing a Stellar 4K Screen</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-path-to-virtual-visualization-excellence-a-zoom-video-filters-tutorial/"><u>[Updated] The Path to Virtual Visualization Excellence A Zoom Video Filters Tutorial</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/dvd-regions-locked-unlocking-dvd-region-codes-on-windows-pcs-windows-1187-support-guide/"><u>DVD Regions Locked? Unlocking DVD Region Codes on Windows PCs - Windows 11/8/7 Support Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/effortless-gameplay-preservation-for-overwatch/"><u>Effortless Gameplay Preservation for Overwatch</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-poco-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Poco Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tailoring-the-spectrum-of-light-in-windows-based-video-editing/"><u>In 2024, Tailoring the Spectrum of Light in Windows-Based Video Editing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-understanding-seconds-for-a-20mb-movie/"><u>In 2024, Understanding Seconds for a 20MB Movie</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solutions-for-resolving-playstation-4-hang-ups/"><u>Step-by-Step Solutions for Resolving PlayStation 4 Hang-Ups</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-simple-guide-making-your-windows-computer-speak-like-a-fish-for-2024/"><u>The Simple Guide Making Your Window's Computer Speak Like a Fish for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Vivo V29 Pro | Dr.fone</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

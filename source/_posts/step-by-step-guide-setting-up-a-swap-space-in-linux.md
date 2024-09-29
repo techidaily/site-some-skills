@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Setting Up a Swap Space in Linux"
-date: 2024-09-17T17:55:57.132Z
-updated: 2024-09-23T00:51:53.443Z
+date: 2024-09-25T10:17:52.023Z
+updated: 2024-09-29T04:57:54.450Z
 tags:
   - desktop
 categories:
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/213b932fcd2c7374497ebb4064c054acfe0cd4d0b
 * [Swap Space Made Easy](https://youtube-data.techidaily.com/ver-8-essential-sites-for-pristine-green-screen-images-for-2024/)
 
  Add swap space to a Linux computer, or increase the swap space that's already present, without messing about with partitions. We show you the easy way to tailor your swap space.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Swap Files vs. Swap Partitions
 
@@ -61,10 +68,10 @@ thumbnail: https://thmb.techidaily.com/213b932fcd2c7374497ebb4064c054acfe0cd4d0b
  This is much less of a concern nowadays, and [many SSDs that are on sale have life expectancies that will outlast most PCs](https://mondly-stories.techidaily.com/arabic-for-beginners-a-step-by-step-guide/). A swap file on an SSD will have a far better performance than a swap partition on a mechanical hard drive.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Checking Existing Swap Space
@@ -91,6 +98,13 @@ swapon --show
 
  If these commands had revealed some swap space is already configured, the size of the existing swap space should be factored into decisions regarding the size of the swap file you're going to create.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How Much Swap Space Do I Need?
 
  The traditional response was "twice the amount of RAM you have." But this was coined when computers used to have very limited RAM. As RAM has become cheaper, and programs and games more demanding of memory, PC specifications have adjusted accordingly. Home PCs with 32 GB of RAM are not uncommon nowadays. And you're not going to allocate 64 GB of hard drive space to swap space if you've got 32 GB of RAM. That's plainly excessive.
@@ -100,13 +114,6 @@ swapon --show
  And the good news is, it doesn't really matter what value you pick. We can always remove a swap file and replace it with a bigger one or, for that matter, a smaller one. Or you could just add another swap file.
 
  Pick [a swap file size from the table](https://help.ubuntu.com/community/SwapFaq#How%5Fmuch%5Fswap%5Fdo%5FI%5Fneed.3F), and run it for a while. Monitor your system's use of the swap space. If fine-tuning is required, changes are easily made. With swap files, It's a two-minute job. Compare that to adjusting partitions on a live Linux computer.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Creating the Swap File
 
@@ -136,10 +143,10 @@ sudo dd if=/dev/zero of=/swapfile bs=1024 count=1048576
 ![sudo dd if=/dev/zero of=/swapfile bs=1024 count=1048576 in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/5-6.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Some statistics are provided when the file is created.
@@ -180,7 +187,21 @@ sudo swapon /swapfile
 
 ![sudo swapon /swapfile in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/9-7.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The swap file is now active.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Adding the Swap File to fstab
 
@@ -189,6 +210,13 @@ sudo swapon /swapfile
 sudo gedit /etc/fstab
 
 ![sudo gedt /etc/fstab in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/10-6.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The line we need to add to the bottom of the file is:
 
@@ -223,13 +251,6 @@ swapon --show
 * **Used**: The amount of used swap space.
 * **Prio**: The priority of this swap space.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  The Swap Space Priority
 
  Each swap space is allocated a priority. If you don't provide one, one is automatically allocated. Automatically allocated priorities are always negative. The range of priorities that can be manually allocated is 0 to 32767\. Swap resources with higher priorities are used first.
@@ -248,6 +269,13 @@ swapon -- show
 
  The priority of this swap space has been elevated to 10\. Which is proof positive that the options field in the `/etc/fstab` entry is not ignored.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Swap Space Made Easy
 
  Cutting through the exposition and explanation, we can create a new swap file as easily and quickly as this:
@@ -265,13 +293,6 @@ sudo swapon /swapfile2
 swapon --show
 
 ![sudo dd if=/dev/zero /of=/swapfile2 bs=1024 count=104857 in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/16-2.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you want to make that permanent drop, it into your `/etc/fstab` file.
 
@@ -296,5 +317,18 @@ swapon --show
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-capture-joy-online-kapwing-meme-studio/"><u>[Updated] Capture Joy Online Kapwing Meme Studio</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-convert-with-ease-the-top-10-best-tools-for-flv-to-youtubes-for-2024/"><u>[Updated] Convert With Ease The Top 10 Best Tools for Flv to YouTubes for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-master-the-art-of-captivating-instagram-video-audiences-for-2024/"><u>[Updated] Master the Art of Captivating Instagram Video Audiences for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-intersection-of-reality-and-illusion-through-ar/"><u>In 2024, The Intersection of Reality and Illusion Through AR</u></a></li>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-oppo-a59-5g-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Oppo A59 5G FRP</u></a></li>
+<li><a href="https://facebook.techidaily.com/tech-community-standards-appropriate-suspension-of-trump-temporarily/"><u>Tech Community Standards: Appropriate Suspension of Trump, Temporarily</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-5-tools-for-enhancing-web-videos-for-2024/"><u>Top 5 Tools for Enhancing Web Videos for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transforming-moments-samsungs-time-lapse-tutorial-for-2024/"><u>Transforming Moments Samsung's Time-Lapse Tutorial for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/troubleshooting-pip-connectivity-on-apple-gadgets-for-2024/"><u>Troubleshooting PIP Connectivity on Apple Gadgets for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-the-joy-television-looping-of-online-video/"><u>Twice the Joy Television Looping of Online Video</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-media-creator-win8-for-2024/"><u>Ultimate Media Creator Win8 for 2024</u></a></li>
+</ul></div>
 

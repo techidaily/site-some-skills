@@ -1,7 +1,7 @@
 ---
 title: "Elevate Your AI Imagery: Discover the Top 8 Midjourney Modifiers That Enhance Creativity"
-date: 2024-09-12T17:50:58.255Z
-updated: 2024-09-18T07:33:37.251Z
+date: 2024-09-25T20:45:20.652Z
+updated: 2024-09-29T04:25:02.168Z
 tags:
   - cutting-edge
 categories:
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/5961427253350c1b74e1650e9c2f8a99858d6dfe3
 
 ![Image of a Steampunk Lion Created using Midjourney](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/image-of-a-steampunk-lion-created-using-midjourney.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Image of a cyberpunk dog created using Midjourney](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/image-of-a-cyberpunk-dog-created-using-midjourney.png) 
 
 ![Image of a magical aether eagle created using Midjourney](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/image-of-a-magical-aether-eagle-created-using-midjourney.png) 
@@ -45,6 +52,13 @@ Close
  And got this blended result:
 
 ![Midjourney blended image of a Steampunk lion with a cyberpunk dog with a magical eagle](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/midjourney-blended-image-of-a-steampunk-lion-with-a-cyberpunk-dog-with-a-magical-eagle.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  By default, /blend generates square images with a 1:1 aspect ratio. You can customize this by going into Options > Dimension, in the prompt window and specifying the aspect ratio to Portrait, Square, or Landscape. You can also add suffixes and parameters to your blend command just like with /imagine, to further customize the results.
 
@@ -82,6 +96,13 @@ summer picnic scene --no tree, branches, leaves, trunks.
 
 ![Midjourney image using no parameter to avoid trees successfully when generating a picnic scene](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/midjourney-image-using-no-parameter-to-avoid-trees-successfully-when-generating-a-picnic-scene.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Yes, trees are still present in the composition, but their presence is significantly reduced.
 
  You can remove multiple items using the “no” parameter, such as: --no item1, item2, item3, item4…
@@ -100,13 +121,6 @@ a child’s painting of a house with a car and a pool.
 
 ![Midjourney image of a child's painting of a house with pool and car](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/midjourney-image-of-a-child-s-painting-of-a-house-with-pool-and-car.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now, with stylize set to 10:
 
 a child’s painting of a house with a car and a pool --s 10
@@ -116,10 +130,10 @@ a child’s painting of a house with a car and a pool --s 10
 ![Midjourney image of a child's painting with stylize at 10](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/midjourney-image-of-a-child-s-painting-with-stylize-at-10.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  And with stylize set to 900:
@@ -144,6 +158,13 @@ two friends sitting at the beach, sunset, --r 5
 
  Basic users can do 2-4 repeats, Standard users can do 2-10, and Pro/Mega users can go wild with 2-40 repeats. Also, the repeat parameter only works with Fast or Turbo GPU models, not Relax, and will eat up a fair amount of GPU hours very quickly.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6  The Weird Parameter: Make Images Stranger 
 
  If you’ve used Midjourney long enough, you’ll soon realize it has a distinct style and aesthetic preference. If you want to force it to move away from the default styling, you can use the "weird"parameter. To do so, append your prompt with "--weird" (or "--w") at the end of your prompt along with a number between 0-3000, with 0 being the default value, meaning no weirdness.
@@ -153,6 +174,13 @@ two friends sitting at the beach, sunset, --r 5
 a steampunk cyborg
 
 ![Midjourney image of a steampunk Cyborg](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/midjourney-image-of-a-steampunk-cyborg.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This is exactly how you'd expect Midjourney to create images. Now, let’s set weird to 100:
 
@@ -166,11 +194,25 @@ a steampunk cyborg --2 1000
 
 ![Midjourney image of a steampunk Cyborg with weird parameter at 1000](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/midjourney-image-of-a-steampunk-cyborg-with-weird-parameter-at-1000.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  And finally, this is with weird cranked up to 2500
 
 a steampunk cyborg --w 2500
 
 ![Midjourney image of a steampunk Cyborg with weird parameter at 2500](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/midjourney-image-of-a-steampunk-cyborg-with-weird-parameter-at-2500.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7  The Video Parameter: Capture the Creation Process 
 
@@ -184,29 +226,9 @@ watercolor scenery of a mountain in the woods --video
 
 ![Reacting with an envelope emoji to a Midjourney image created using video parameter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/reacting-with-an-envelope-emoji-to-a-midjourney-image-created-using-video-parameter.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The Midjourney bot will send you a direct message with the link to the video. You can open it to view in a browser or right-click (or long press if on mobile) to download it.
 
 ![Midjourney bot responds with a message with a link to a video of the image generation process](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/midjourney-bot-responds-with-a-message-with-a-link-to-a-video-of-the-image-generation-process.png) 
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  And here’s what the video looks like:
 
@@ -223,13 +245,6 @@ a pattern of autumn leaves --tile
  And this is the result:
 
 ![Midjourney generates a pattern using the tile parameter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/midjourney-generates-a-pattern-using-the-tile-parameter.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Ensure to mention "pattern"in the prompt or else the generated image will have absurd cuts and breaks in the image.
 
@@ -254,5 +269,20 @@ a pattern of autumn leaves --tile
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-wechat-photo-frame-specifications/"><u>[Updated] WeChat Photo Frame Specifications</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-decisive-captures-combatting-disarray/"><u>2024 Approved Decisive Captures Combatting Disarray</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/combine-videos-without-branding-top-7-tools-reviewed/"><u>Combine Videos Without Branding Top 7 Tools Reviewed</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-mastering-the-art-of-creating-an-original-tiktok-hashtag/"><u>In 2024, Mastering the Art of Creating an Original TikTok Hashtag</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-metaverse-laughs-crafting-funny-virtual-memes/"><u>In 2024, Metaverse Laughs Crafting Funny Virtual Memes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tailor-topical-laughs/"><u>In 2024, Tailor Topical Laughs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-file-management-free-cloud-storage-service-guide/"><u>In 2024, Transform Your File Management - Free Cloud Storage Service Guide</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-in-2024-easy-guide-how-to-make-talking-head-videos/"><u>New In 2024, Easy Guide How To Make Talking Head Videos</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/the-art-of-sustaining-snapstreaks-for-hours-on-end/"><u>The Art of Sustaining Snapstreaks for Hours on End</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-most-reliable-gopro-cases-1-10-showdown-for-2024/"><u>The Most Reliable GoPro Cases - #1-10 Showdown for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-8-speed-upters-accelerate-your-android-media-for-2024/"><u>Top 8 Speed Upters - Accelerate Your Android Media for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-iphone-se-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled iPhone SE Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/web-funniness-constructor/"><u>Web Funniness Constructor</u></a></li>
+</ul></div>
 

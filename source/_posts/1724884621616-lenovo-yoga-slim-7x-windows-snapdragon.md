@@ -1,7 +1,7 @@
 ---
 title: "Lenovo Yoga Slim 지갑쇼드라그래픅 7X 리뷰: Windows에서 Snapdragon은 완전히 안타깝게 신속하지 않음"
-date: 2024-09-19T03:55:05.423Z
-updated: 2024-09-23T04:01:33.769Z
+date: 2024-09-28T06:24:45.506Z
+updated: 2024-09-29T07:03:08.116Z
 tags:
   - desktop
 categories:
@@ -139,18 +139,18 @@ Jerome Thomas / How-To Geek
 
 ![The start menu on the Lenovo Yoga Slim 7x](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-start-menu-on-the-lenovo-yoga-slim-7x_53815828798_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  The 90Hz refresh rate gives you more fluid animations and more responsive games than a typical 60Hz screen while using less power than the 120Hz screens that are more common on smartphones and gaming hardware. However, Windows still isn’t consistent with supporting high refresh rates. Moving around windows and scrolling through the Microsoft Store might be silky smooth, but opening the Start menu or performing other actions seem to be stuck at 60Hz.
 
  The display also supports HDR content, either through VESA DisplayHDR True Black 600 or Dolby Vision. However, there are still not many applications and games on Windows that support HDR, including most streaming services.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Software: Hello, ARM Windows
 
@@ -159,6 +159,13 @@ Jerome Thomas / How-To Geek
  Most applications, games, and drivers for Windows were built for 32-bit or 64-bit x86 computers, though most web browsers and some other applications are now ARM-native as well. Windows on ARM can run most x86 applications and games with the [Prism compatibility layer](https://learn.microsoft.com/en-us/windows/arm/apps-on-arm-x86-emulation), which translates x86 code to ARM code as needed.
 
 ![Windows 11 screenshot with Task Manager and Microsoft Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/image.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When the Prism emulator works, you don’t notice it at all, though the software might run a bit slower than it would on a comparable Intel or AMD-powered computer. This is also similar to how the [Rosetta 2 emulation layer](https://instagram-video-recordings.techidaily.com/updated-2024-approved-demystifying-viewer-statistics-on-instagram-images/) works on Mac computers with ARM-based Apple Silicon chips.
 
@@ -172,6 +179,19 @@ Jerome Thomas / How-To Geek
 
  Finally, it’s worth noting that Windows 11 is currently the only operating system for these Snapdragon X laptops. If you want to give desktop Linux a serious try, buy a different laptop with an x86 Intel or AMD CPU (or better yet, [a laptop designed specifically for Linux](https://win-howtos.techidaily.com/ensure-file-placement-consistency-across-windows-10-boots/)).
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Performance: Great, If Your Apps Work
 
  This is one of the first PC laptops with a Snapdragon X Elite chipset, and thankfully, it doesn’t disappoint. I spent most of my workday switching between Firefox, Slack, Discord, and Outlook, usually with music playing from Spotify or YouTube, and the laptop remained snappy and responsive the whole time. I tested the 16GB RAM model, but there’s also a 32GB RAM configuration—the memory is not user-upgradable.
@@ -181,10 +201,10 @@ Jerome Thomas / How-To Geek
 ![The Snapdragon processor on the Lenovo Yoga Slim 7x.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-snapdragon-processor-on-the-lenovo-yoga-slim-7x-2_53814663467_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -194,10 +214,10 @@ Jerome Thomas / How-To Geek
  Even though the actual hardware in the Yoga Slim 7x is on par or exceeds most of the competition, your real-world performance will vary depending on how much of your software needs to be emulated.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Battery Life: All Day on a Charge
@@ -207,13 +227,6 @@ Jerome Thomas / How-To Geek
  I was able to easily get all-day battery life on the Yoga Slim 7x, with my usual mix of managing emails, talking in Slack, juggling five to 20 tabs in Firefox, and checking Discord. The Snapdragon X Elite chipset also didn't generate much heat, so when I wasn’t gaming or running benchmarks, the laptop fans were quiet or not running at all.
 
  The battery life here is much closer to a tablet or MacBook than most other Windows laptops. It's great to see Microsoft and Qualcomm make actual progress in this department, even if there are other limitations with this hardware that need to be improved.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  The Competition: It's Tough
 
@@ -234,6 +247,13 @@ Jerome Thomas / How-To Geek
  If you want a Windows laptop, and you primarily work in a web browser and basic productivity software, the Yoga Slim 7x is _probably_ a good laptop. There are too many edge cases where it falls flat, though, and you shouldn't pay this much money to be beta testers for Microsoft and Qualcomm. If you know the software you need works on ARM Windows, or the situation dramatically improves with Windows updates, consider picking it up on sale.
 
 ![Lenovo Yoga Slim 7x laptop open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/laptop.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #####  Lenovo Yoga Slim 7x
 
@@ -256,5 +276,17 @@ The Lenovo Yoga Slim 7x is one of the first Copilot+ PC laptops, with all-day ba
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-transform-your-visuals-with-these-11-expert-strategies/"><u>[New] 2024 Approved Transform Your Visuals with These 11 Expert Strategies</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-10-methods-for-effective-youtube-transcoding/"><u>[New] Top 10 Methods for Effective YouTube Transcoding</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-ace-list-of-low-cost-youtube-caption-tools/"><u>[Updated] 2024 Approved Ace List of Low-Cost YouTube Caption Tools</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-iphone-7-screen-save-made-simple/"><u>[Updated] IPhone 7 Screen Save Made Simple</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-itel-a60-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Itel A60? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-comprehensive-guide-to-crafting-great-documentary-narratives/"><u>In 2024, The Comprehensive Guide to Crafting Great Documentary Narratives</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-10-master-plugins-for-final-cut-pro/"><u>In 2024, Top 10 Master Plugins for Final Cut Pro</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-easy-way-to-install-new-or-updated-microsoft-drivers-on-your-pc-windows-7-10/"><u>The Easy Way to Install New or Updated Microsoft Drivers on Your PC (Windows 7-10)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-nvidia-hd-audio-malfunctions-and-mute-issues/"><u>Troubleshooting Steps for Nvidia HD Audio Malfunctions and Mute Issues</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unpacking-the-dji-phantom-3-standard-features-for-2024/"><u>Unpacking the DJI Phantom 3 Standard Features for 2024</u></a></li>
+</ul></div>
 

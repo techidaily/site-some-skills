@@ -1,7 +1,7 @@
 ---
 title: "Transitioning to Augmented Reality: My Journey Swapping a Standard Monitor for AR Glasses"
-date: 2024-09-13T10:17:12.769Z
-updated: 2024-09-17T19:59:43.201Z
+date: 2024-09-22T21:28:51.536Z
+updated: 2024-09-29T03:32:26.444Z
 tags:
   - cutting-edge
 categories:
@@ -29,11 +29,25 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
 
 Bertel King / How-To Geek
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  I Sit With Better Posture
 
  The biggest impact has been the benefit to my posture. I've spent most of my career hunched over a laptop. I ended my days feeling drained, not aware that the angle of my neck had as much to do with that as the strain on my eyes. I was making one of the [posture mistakes you want to avoid](https://fox-cloud.techidaily.com/new-composing-an-alluring-cinematic-teaser-track/) when sitting at a desk. If you work from home, it's worth getting a computer monitor with a height set at eye level.
 
  With AR glasses, my display is always at eye level. This means I can rest my neck in a natural position. I can also stretch or look side to side without actually turning away from whatever I'm reading. This allows me to move a bit more throughout the day without shifting my focus away from what I'm working on.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  My Desk Has More Space
 
@@ -43,21 +57,7 @@ Bertel King / How-To Geek
 
 ![A desk without a monitor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/1000061003.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Bertel King / How-To Geek
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  I Love the Portability
 
@@ -69,22 +69,29 @@ Bertel King / How-To Geek
 
 ![A Samsung Galaxy Z Fold 5, XREAL Air 2 Pro AR Glasses, and glasses case.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/1000061021.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Bertel King / How-To Geek
 
  To play games, I also grab a controller. For work, I also pack a keyboard and mouse. None of these things are particularly big. The keyboard is the only one I don't bring with me when packing up a laptop.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Awkward Social Interactions
 
  There's something intuitively weird about looking at someone wearing glasses who's just sitting there, staring at the wall or gazing up at the ceiling. It's obvious when someone is watching a movie on a computer monitor. No one has any idea what's going on in my glasses, unless they hear the sound coming through the speakers or get close enough to my face to see light from the tiny displays.
 
  Wearing AR glasses is a bit like making a switch from Bluetooth speakers to Bluetooth earbuds. The former tunes people in to what you're listening to, while the latter is completely private. The thing is, while we've had decades to get used to this with audio, it's pretty new for video. When I'm alone, AR glasses are awesome, but I feel weird when I'm wearing them around others.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Great for Working Around Kids
 
@@ -125,5 +132,24 @@ Bertel King / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-must-play-openworld-experiences-for-2024/"><u>[New] Must-Play Openworld Experiences for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-impact-of-testimonial-videos-today/"><u>[New] The Impact of Testimonial Videos Today</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transform-photos-step-by-step-background-cleanup-for-canva-users/"><u>[New] Transform Photos Step-by-Step Background Cleanup for Canva Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unraveling-the-enthralling-elements-of-filmora-editing/"><u>[New] Unraveling the Enthralling Elements of Filmora Editing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-best-web-conversion-solutions-for-direct-hassle-free-gif-to-video-for-2024/"><u>[Updated] Best Web Conversion Solutions For Direct, Hassle-Free GIF To Video for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tips-for-smooth-transitioning-from-zoom-to-fb-live-events/"><u>[Updated] Tips for Smooth Transitioning From ZOOM to FB Live Events</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-clear-out-instructions-for-disabling-an-old-linkedin-profile/"><u>2024 Approved The Clear-Out Instructions for Disabling an Old LinkedIn Profile</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transcription-and-task-execution-on-the-go-fee-free/"><u>2024 Approved Transcription and Task Execution on the Go – Fee-Free</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-academic-utility-of-viewing-the-internet-as-a-virtual-encyclopedia-without-fiscal-barriers/"><u>Exploring the Academic Utility of Viewing the Internet as a Virtual Encyclopedia without Fiscal Barriers</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-your-apple-iphone-11-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your Apple iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamlined-process-for-upgrading-macos-sierra/"><u>In 2024, Streamlined Process for Upgrading macOS Sierra</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/live-streaming-mastery-discover-manycam-the-ultimate-virtual-webcam-and-video-editing-tool/"><u>Live Streaming Mastery: Discover ManyCam - The Ultimate Virtual Webcam and Video Editing Tool</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/next-gen-homes-in-minecraft-top-6-concepts-for-2024/"><u>Next-Gen Homes in Minecraft Top 6 Concepts for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/next-level-immersion-top-10-innovative-pc-vr-headsets-for-360-views-for-2024/"><u>Next-Level Immersion Top 10 Innovative PC VR Headsets for 360 Views for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/rocket-league-crashes-how-to-fix-and-prevent-game-lag/"><u>Rocket League Crashes: How to Fix and Prevent Game Lag</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-correcting-installation-problems-with-audio-devices-on-windows-11/"><u>Step-by-Step Guide: Correcting Installation Problems with Audio Devices on Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-5-macos-safari-video-conversion-apps-for-2024/"><u>Top 5 macOS Safari Video Conversion Apps for 2024</u></a></li>
+</ul></div>
 

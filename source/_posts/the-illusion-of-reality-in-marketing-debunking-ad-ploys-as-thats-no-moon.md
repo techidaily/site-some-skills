@@ -1,7 +1,7 @@
 ---
 title: "The Illusion of Reality in Marketing: Debunking Ad Ploys as 'That’s No Moon'"
-date: 2024-09-13T19:59:59.453Z
-updated: 2024-09-18T08:45:59.176Z
+date: 2024-09-24T00:02:40.108Z
+updated: 2024-09-29T05:09:15.421Z
 tags:
   - cutting-edge
 categories:
@@ -28,6 +28,13 @@ Related: [The 5-Foot-long Keyboard from Google Japan is Almost a Sword](https://
 
  "In this case, an advertisement appears as a constellation of bright artificial stars formed into an image that can be observed in clear night sky for several minutes."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How it Works
 
  The paper entitled ["Satellite Formation Flying for Space Advertising: From Technically Feasible to Economically Viable"](https://www.mdpi.com/2226-4310/9/8/419/htm#B6-aerospace-09-00419) contains equations and charts I can't begin to understand, but the general idea is this: The satellite formation would involve placing CubeSats equipped with solar reflectors in a low orbit in unison with the sun's light.
@@ -37,6 +44,13 @@ Related: [The 5-Foot-long Keyboard from Google Japan is Almost a Sword](https://
  As a result, they would be visible from the ground as bright stars, and could be programmed into any formation as quasi space billboards, so "the group of satellites brought into a specific orbital configuration can be seen as a pixel image."
 
  Where you'd normally see something totally not profitable like the beautiful night sky, you may instead see "Taste the Rainbow" or "Drink Coke" or a really rich guy proposing to his girlfriend and getting a "No" via skywriter.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Not the First Plan of this Sort
 
@@ -65,18 +79,26 @@ Related: [We Wanted a Star Trek Replicator and All We Got Was Keurig Machines](h
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-techniques-to-soften-volume-peaks-in-lumafusion/"><u>[New] Techniques to Soften Volume Peaks in Lumafusion</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-20-tales-on-yt-where-to-find-the-best-storytelling/"><u>[New] Top 20 Tales on YT Where to Find the Best Storytelling</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-boundless-savings-for-your-captured-moments/"><u>[Updated] In 2024, Boundless Savings for Your Captured Moments</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-social-media-sound-conversion-for-2024/"><u>[Updated] Social Media Sound Conversion for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleashing-the-full-potential-of-zoom-on-chrome-os/"><u>[Updated] Unleashing the Full Potential of Zoom on Chrome OS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-quantum-hdr-essentials/"><u>[Updated] Unveiling Quantum HDR Essentials</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-finest-affordable-webm-players-on-market/"><u>[Updated] Unveiling the Finest Affordable WebM Players on Market</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-editors-edge-insider-strategies-to-supercharge-your-photos/"><u>2024 Approved The Editor's Edge Insider Strategies to Supercharge Your Photos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-15-film-enhancing-luts-for-gopro-cameras/"><u>2024 Approved Top 15 Film-Enhancing LUTs for GoPro Cameras</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-20-mobiles-perfecting-dji-visual-content/"><u>2024 Approved Top 20 Mobiles Perfecting DJi Visual Content</u></a></li>
+<li><a href="https://fox-info.techidaily.com/beginners-guide-to-masterful-marketing-with-reddit-insights/"><u>Beginner's Guide to Masterful Marketing with Reddit Insights</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-honor-90-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/guide-pratique-comment-partager-des-fichiers-multimedias-volumineux-superieur-a-25mo-par-email-gratuitement-sur-google/"><u>Guide Pratique: Comment Partager Des Fichiers Multimédias Volumineux Supérieur À 25Mo Par Email Gratuitement Sur Google</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-xiaomi-redmi-note-13-proplus-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Xiaomi Redmi Note 13 Pro+ 5G Devices</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-vivo-y28-5g-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Vivo Y28 5G?</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-reset-your-social-media-browsing-history/"><u>How to Reset Your Social Media Browsing History</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-honor-magic-6-pro-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Honor Magic 6 Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-creativity-making-photo-based-videos-using-pixiz/"><u>In 2024, Unleashing Creativity Making Photo-Based Videos Using Pixiz</u></a></li>
+<li><a href="https://common-error.techidaily.com/tackling-windows-update-issues-head-on-effective-fixes-for-error-0x8024a105/"><u>Tackling Windows Update Issues Head-On: Effective Fixes for Error 0X8024a105</u></a></li>
+</ul></div>
 

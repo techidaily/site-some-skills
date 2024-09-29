@@ -1,7 +1,7 @@
 ---
 title: Identify Your Windows 11 Edition & Anniversary Updates with Ease
-date: 2024-09-16T17:51:32.056Z
-updated: 2024-09-22T19:33:48.173Z
+date: 2024-09-23T11:02:13.687Z
+updated: 2024-09-29T02:31:33.734Z
 tags:
   - desktop
 categories:
@@ -23,6 +23,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  You may not have really thought about Windows build numbers in the past unless it was part of your job to do so. Here's how to find out what build—and edition and version—of Windows 10 you're running.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What Do Build Versions Mean?
 
  Windows has always used build numbers. They represent significant updates to Windows. Traditionally, most people have referred to Windows based on the major, named [version](https://extra-tips.techidaily.com/innovative-ai-tools-to-spark-your-podcast-written-name/) they're using—Windows Vista, 7, 8, and so on. Within those versions, we also had [service packs](https://techidaily.com/undeleted-lost-videos-from-infinix-smart-8-pro-by-fonelab-android-recover-video/) to refer to: Windows 7 Service Pack 1, for example.
@@ -38,10 +45,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Open the Settings app, then go to System; About to display information about your Windows version.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-7.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Navigate to System > About and scroll down. You'll see the "Version" and "Build" numbers here.
@@ -52,10 +59,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * **System Type.** This line tells you whether you're [using the 32-bit version of Windows 10 or the 64-bit version](https://twitter-videos.techidaily.com/updated-snapchat-integration-for-twitters-visual-content/). It also tells you whether your PC is compatible with the 64-bit version or not. For example, "64-bit operating system, x64-based processor" indicates you're using a 64-bit version of Windows 10 on a 64-bit processor. "32-bit operating system, x64-based processor" indicates you're using a 32-bit version of Windows 10, but you could [install the 64-bit version on your hardware if you preferred](https://facebook-record-videos.techidaily.com/understanding-filmoras-creative-certification-protocol-for-2024/).
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Find Your Windows Edition and Build Number with the Winver Dialog
@@ -67,6 +74,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The second line in the "About Windows" box tells you which version and build of Windows 10 you have. Remember, the version number is in the form YYMM—so 1607 means the 7th month of 2016\. A couple of lines down, you'll see the edition of Windows 10 you're using—Windows 10 Pro in our example.
 
 ![The version information in the Windows Version window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-search.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The "About Windows" box does not show whether you're using a 64-bit or 32-bit version of Windows 10, but it does give you a quicker way to check your version and build than navigating through the Settings app.
 
@@ -85,5 +99,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-benq-bl2711u-where-art-meets-science-in-professional-4k-monitoring/"><u>[New] BenQ BL2711U - Where Art Meets Science in Professional 4K Monitoring</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fotowiz-pro-step-by-step-guide/"><u>[New] FotoWiz Pro Step-by-Step Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-game-on-essential-samsung-gear-vr-experiences/"><u>[New] Game On Essential Samsung Gear VR Experiences</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-eco-effect-filmmaking-youtubes-guide-to-green-magic/"><u>[Updated] Eco-Effect Filmmaking YouTube's Guide to Green Magic</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-swift-restoration-of-photos-viewer-performance-in-windows-10/"><u>[Updated] Swift Restoration of Photos Viewer Performance in Windows 10</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-secrets-of-avi-to-gif-transition-filmora-software-windowsmacos/"><u>[Updated] Unveiling the Secrets of AVI to GIF Transition Filmora Software (Windows/macOS)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-cream-of-the-crop-top-8-sites-for-rich-3d-and-text/"><u>2024 Approved The Cream of the Crop Top 8 Sites for Rich 3D & Text</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-route-to-richer-tiktok-bios-including-linktree-links/"><u>2024 Approved The Route to Richer TikTok Bios Including Linktree Links</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-try-these-free-online-tempo-trackers-today/"><u>2024 Approved Try These FREE Online Tempo Trackers Today</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-11-pro-max-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-mac-for-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock on Mac For Apple iPhone 15 Plus?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-secrets-of-avi-to-gif-transition-filmora-software-windowsmacos/"><u>In 2024, Unveiling the Secrets of AVI to GIF Transition Filmora Software (Windows/macOS)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transforming-drones-into-cinematic-experiences-with-editing-for-2024/"><u>Transforming Drones Into Cinematic Experiences with Editing for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-fix-hp-laptops-malfunctioning-usb-port/"><u>Troubleshooting Steps: Fix HP Laptop's Malfunctioning USB Port</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-from-iphone-15-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication From iPhone 15? 5 Tips You Must Know</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top Strategies to Ensure You're Making the Right Choice in Secondhand EVs
-date: 2024-09-10T17:50:07.467Z
-updated: 2024-09-17T22:34:08.803Z
+date: 2024-09-26T18:30:22.947Z
+updated: 2024-09-28T20:12:46.609Z
 tags:
   - cutting-edge
 categories:
@@ -25,6 +25,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Close up of the Chevy badge on the back of the 2023 Chevy Bolt EV](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/ae55ab54.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Justin Duino / How-To Geek
 
  Show me the CarFax! Vehicle accident, service history, and recall reports are important no matter what car you buy, but with how difficult some EVs can be to repair, getting a detailed breakdown of anything is crucial.
@@ -37,6 +44,13 @@ Justin Duino / How-To Geek
 
 ![Electric car dash range gauge](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/ba587f48.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 _[Southworks/Shutterstock.com](https://www.shutterstock.com/image-photo/close-shot-electric-car-battery-range-2115845192)_
 
  We all know that the engine is the most important part of an ICE (internal combustion engine) vehicle, and buyers typically ask about oil leaks and funny noises to ensure the engine is in tip-top shape. The battery is the single biggest factor you'll want to consider with an electric car. Sure, the electric motors are a big deal, but the battery pack does all the heavy lifting.
@@ -48,10 +62,10 @@ _[Southworks/Shutterstock.com](https://www.shutterstock.com/image-photo/close-sh
  Similarly to how your 3-year-old iPhone doesn't hold a charge as well as it did the first year, electric cars experience battery degradation. For example, Tesla claims that after 100,000 miles, you'll still have over 90% battery capacity. Even an aging Tesla Model S with 180K miles should be more than capable, even if you lose around 12-15% of range due to an aging battery. At that point, it doesn't need to be replaced; it just won't charge to 100%, which is perfectly normal. Once you buy a used EV, you'll want to take a few steps to [extend the life of the battery](https://remote-screen-capture.techidaily.com/new-in-2024-top-approaches-to-non-audio-recording/).
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Don't Forget About Charging
@@ -66,13 +80,6 @@ Tyler Hayes / Review Geek
 
  Look into charging accessories, speeds, and port type, then factor all of that into which car is right for you.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Buy Used EVs From a Dealer or Tesla
 
 ![Front trunk open on a Tesla Model 3.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/tesla-model-3-frunk-maintenance.jpg) 
@@ -82,13 +89,6 @@ Hannah Stryker / How-To Geek
  Tesla vehicles are trendy, and you likely see them on the road everywhere you go. As a result, they're one of the most in-demand used electric cars for sale. Buying a used EV directly from a manufacturer like Tesla is your best bet. They'll do visual and software inspections that a regular person or used car lot won't. In fact, Tesla does a [102-point inspection](https://www.tesla.com/support/ordering-used-tesla) on every used vehicle.
 
  More importantly, buying a vehicle from a manufacturer like Tesla, Chevy, or Rivian will ensure the best experience, extended warranty options, and any issues fixed by a certified mechanic before being sold. Considering how advanced EVs are, you don't want to take any chances.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Take it For a Test Drive
 
@@ -101,6 +101,19 @@ Justin Duino / How-To Geek
  Taking a used vehicle for a test drive isn't just about getting a feel for the car, punching the pedal, or feeling the get-up-and-go. You're listening for funny noises, ensuring everything feels tight, and testing that the brakes, alignment, suspension, and software like autopilot or lane-assist all work as expected.
 
  Run the heater and air conditioning, maybe go somewhere and try charging it for a few minutes, test all the windows, etc. Again, do your due diligence and check anything and everything that's important or could go wrong. Then, you can bring anything up with the seller, use it as a bargaining chip for a lower price, or pass on the vehicle and find something better.
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Consider Getting a Used Electric Car
 
@@ -121,5 +134,19 @@ Justin Duino / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-behind-the-scenes-a-tech-savvy-approach-to-messenger-downloads/"><u>[New] Behind the Scenes A Tech-Savvy Approach to Messenger Downloads</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-haul-videography-pre-and-post-editing-processes/"><u>[New] The Art of Haul Videography Pre and Post Editing Processes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-your-images-true-self-a-canva-step-by-step/"><u>[New] Unveiling Your Image’s True Self A Canva Step-by-Step</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-this-video-will-get-you-100000-views-on-youtube/"><u>[Updated] This Video Will Get You 100000 Views on YouTube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-ai-visual-effects-system/"><u>[Updated] Ultimate AI Visual Effects System</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-youtube-studio-monetization-check-ensure-your-channels-monetization-for-2024/"><u>[Updated] YouTube Studio Monetization Check Ensure Your Channel's Monetization for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-pro-video-gear-the-ultimate-stabilizers-selection/"><u>2024 Approved Pro Video Gear – The Ultimate Stabilizers Selection</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-vivo-y27s-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Vivo Y27s Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On OnePlus 12R? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-technical-edge-why-high-dynamic-range-triumphs-over-standard-dynamic-range/"><u>In 2024, The Technical Edge Why High Dynamic Range Triumphs over Standard Dynamic Range</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/tigating-why-specific-youtube-remarks-get-prominence/"><u>Investigating Why Specific YouTube Remarks Get Prominence</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-infinix-hot-30i-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Infinix Hot 30i</u></a></li>
+</ul></div>
 

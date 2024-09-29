@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Easily Setting Up & Controlling Fonts on macOS"
-date: 2024-09-16T17:31:07.404Z
-updated: 2024-09-23T03:44:34.113Z
+date: 2024-09-26T03:12:12.117Z
+updated: 2024-09-28T18:08:01.628Z
 tags:
   - desktop
 categories:
@@ -59,6 +59,13 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 
 ![The installation screen of a new font on Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2cc-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you prefer installing a font from Font Book, go to File > Add Fonts (or press ⌘+O). A window opens where you can choose the font(s) you want to install. Once ready, click "Open."
 
  Avoid going overboard with font installations. Installing more fonts than you actually use can lead to sluggish performance in certain apps and create an overwhelming font menu.
@@ -70,10 +77,10 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 ![Selecting All Users from Font Book's Installation menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-12-at-2-55-14-pm.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Deactivate or Remove a Font
@@ -82,9 +89,23 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 
 ![The deactivate option in Font Book.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-12-at-2-57-58-pm.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Alternatively, to delete it entirely, select "Remove." However, note that Font Book won't let you deactivate or delete any fonts that macOS needs to operate, like Arial, Times New Roman, and Avenir.
 
  If any font starts misbehaving, like displaying incorrect characters, you can [validate your fonts in Font Book](https://on-screen-recording.techidaily.com/in-2024-speaking-like-a-pro-tips-to-upgrade-your-google-meet-skills/). Just select "Validate" from the context menu.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Organize Your Fonts Into Collections
 
@@ -95,22 +116,15 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 ![Creating a new font collection.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-24-at-1-07-32-am.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Select the fonts you want to include in your collection (you can choose them from an existing collection, if needed.) To do that, click and drag to highlight multiple fonts, or use the Command key to select non-contiguous fonts. Then, drag the fonts to the collection, or right-click and use the "Add to" menu.
 
 ![Selecting fonts to be included in a new font collection.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-24-at-1-11-20-am.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Finally, double-click the collection name to retitle it and make it easy for you to identify later.
 
@@ -135,5 +149,26 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/-bundle-of-nine-premium-holiday-treasures-watch-for-free-on-youtube/"><u>[New] A Bundle of Nine Premium Holiday Treasures Watch for Free on YouTube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-snap-snip-and-compile-instantaneous-google-image-art/"><u>[New] Snap, Snip & Compile Instantaneous Google Image Art</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-acid-pro-effect-exploring-similar-tools/"><u>[New] The ACID Pro Effect Exploring Similar Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-achieving-vibrant-colors-srgb-techniques/"><u>[Updated] Achieving Vibrant Colors Srgb Techniques</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-laughter-ledger-ranking-the-highest-viral-jokes/"><u>[Updated] Laughter Ledger Ranking the Highest Viral Jokes</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-top-voice-transformation-tools-for-personal-use/"><u>[Updated] Top Voice Transformation Tools for Personal Use</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-how-to-terminate-your-own-discord-server-pcmobile/"><u>2024 Approved How to Terminate Your Own Discord Server (PC/Mobile)</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-maximizing-meeting-impact-with-effective-snap-usage/"><u>2024 Approved Maximizing Meeting Impact with Effective Snap Usage</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-taking-flight-to-better-photos-an-intensive-look-at-dji-sparks-miniature-design/"><u>2024 Approved Taking Flight to Better Photos An Intensive Look at DJI Spark's Miniature Design</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-dimming-down-soundtracks-in-premiere-pro/"><u>2024 Approved The Ultimate Guide to Dimming Down Soundtracks in Premiere Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transform-into-a-hdr-photography-wizard-via-photoshop/"><u>2024 Approved Transform Into a HDR Photography Wizard via Photoshop</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-converters-handbook-from-srt-to-multiple-formats/"><u>2024 Approved Ultimate Converter's Handbook From SRT to Multiple Formats</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-oppo-find-x7-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Oppo Find X7 Devices</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-vivo-y78plus-t1-edition-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Vivo Y78+ (T1) Edition Devices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-superlative-frame-storyteller-bundle/"><u>In 2024, Superlative Frame Storyteller Bundle</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-skyborne-duo-faceoff-dji-mavic-pro-and-gopro-karma/"><u>In 2024, The Skyborne Duo Faceoff DJI Mavic Pro & GoPro Karma</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-list-of-accessibility-8-premium-free-mp3-grabber-apps-android/"><u>In 2024, Ultimate List of Accessibility 8 Premium Free MP3 Grabber Apps (Android)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/launching-videos-efficiently-with-free-intros/"><u>Launching Videos Efficiently with FREE Intros</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/the-best-video-editing-software-for-mac-besides-pinnacle-studio-for-2024/"><u>The Best Video Editing Software for Mac (Besides Pinnacle Studio) for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Hidden Gems: The Top 14 FaceTime Tricks You're Not Using"
-date: 2024-09-21T16:51:47.595Z
-updated: 2024-09-23T04:47:02.660Z
+date: 2024-09-26T23:47:43.804Z
+updated: 2024-09-29T05:42:26.659Z
 tags:
   - desktop
 categories:
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/cbd55a60b36d243580c486b7896cd6baf0fe5a1c6
 * [Reduce Background Noise on Your iPhone](https://windows11.techidaily.com/learn-9-keys-to-tweaking-windows-audio-properties/)
 
  FaceTime lets you make audio and video calls on your Apple devices, but are you aware of its other features, such as hidden chat or sharing your screen to assist others remotely? Here are some underused FaceTime features that we think are worth checking out.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  1\. Use FaceTime Audio for Crystal Clear Calls
 
@@ -76,6 +83,13 @@ Apple
 
  RTT is useful if you're hard of hearing or in a noisy environment, and is an excellent option for privately exchanging sensitive info like passwords or addresses in public.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  4\. Move the FaceTime Window to an iPad
 
 [Sidecar lets you use your iPad as an external Mac display](https://android-location-track.techidaily.com/best-anti-tracker-software-for-lenovo-thinkphone-drfone-by-drfone-virtual-android/) to extend or mirror your canvas. You can use Sidecar to move a FaceTime window to your iPad. This is perfect for FaceTiming on a screen-less device like the Mac mini, especially if you don't have an external display.
@@ -83,13 +97,6 @@ Apple
  Hover over the FaceTime window's green full-screen button and choose "Move to iPad."
 
 ![Using fullscreen window control to move a FaceTime for Mac window to a nearby iPad Pro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-macos-sequoia-facetime-app-window-control-menu-sidecar-move-to-ipad-pro.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now you have more room to multitask on your Mac while FaceTiming.
 
@@ -109,6 +116,13 @@ Apple
 
 ![Choosing iPhone Continuity Camera when recording video using QuickTime Player for Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-macos-sequoia-quicktime-player-new-recording-continuity-camera-iphone-selected.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  iOS 18 enables call recording in some countries with an automatic warning to the other party that the call is being recorded to comply with consent laws.
 
 ##  6\. Take Control of Another Device
@@ -126,6 +140,13 @@ Apple
  I'm ashamed of my MacBook's potato cam but don't get me started on my Thunderbolt Display's 720p webcam. God bless Continuity Camera, one of Apple's best features!
 
 ![Using an iPhone as a webcam using Continuity Camera for macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/macos-ventura-macbook-pro-iphone-13-pro-continuity-camera-desk-view-hero.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Apple
 
@@ -148,10 +169,10 @@ Close
 Christian Zibreg / How-To Geek
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  8\. Save FaceTime Snapshots as Live Photos
@@ -159,19 +180,6 @@ Christian Zibreg / How-To Geek
  I use this helpful feature whenever I'd like to capture short snapshots of my favorite video conversations with loved ones to cherish those moments later. Select "Allow Live Photos to be captured during Video calls" in FaceTime > Settings > General on macOS.
 
 ![Apple macOS Sequoia FaceTime App Settings General FaceTime Live Photos Enabled](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-macos-sequoia-facetime-app-settings-general-facetime-live-photos-enabled.png) 
-
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  On iOS, enable "FaceTime Live Photos" in Settings > FaceTime.
 
@@ -181,18 +189,18 @@ Christian Zibreg / How-To Geek
 
 ![A FaceTime video call on iPhone with the Live Photo shutter button highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-ios-18-facetime-app-video-call-live-photos-button-highlighted.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The other party will be notified that you snapped a photo.
 
 ![FaceTime video call on iPhone displaying a notification that a Live Photo has been taken.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-ios-18-facetime-app-video-call-live-photos-notification.jpg) 
 
  Look for your image in the Live Photos album in the Photos app, where you can [turn your Live Photo into an animated GIF](https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  9\. FaceTime With Android or Windows Friends
 
@@ -216,6 +224,13 @@ Close
 
 ![The Ringtone menu highlighted in the FaceTime for Mac settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-macos-sequoia-facetime-app-settings-general-section-ringtone-menu-highlight.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  11\. Mute Yourself or Switch to Audio-Only
 
  You can mute audio or video for more privacy to take another call or answer the door. Toggle the microphone icon on the calling screen to mute and unmute yourself.
@@ -236,13 +251,6 @@ Close
 
 ![Pages for Mac with the Collaborate option selected in the share menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-maclos-sequoia-pages-app-share-menu-collaborate-option-highlighted.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  13\. FaceTime on Mac Faster With Keyboard Shortcuts
 
  Become more productive with the helpful keyboard shortcuts in FaceTime for Mac. Click through the FaceTime menus to view the available shortcuts, and [Apple](https://support.apple.com/en-gb/guide/facetime/fctma3b7b94b/mac) has a full list of them.
@@ -250,6 +258,13 @@ Close
 ![The FaceTime for Mac menu with the keyboard shortcuts higlhighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-macos-sequoia-facetime-menu-keyboard-shortcuts-highlighted.jpg) 
 
  I've memorized two combinations for in-call control. One takes FaceTime full screen by pressing Control+Command+F because who wants to video chat in a window? The other switches between portrait and landscape mode with the Command+R combo. This also changes video orientation for the other party.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  14\. Reduce Background Noise on Your iPhone
 
@@ -278,5 +293,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-h501x4-fpv-quadcopter-unveiled-review-breakdown/"><u>[New] 2024 Approved H501X4 FPV Quadcopter Unveiled - Review Breakdown</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unexplained-tilted-images-on-instagrams-video-section/"><u>[New] Unexplained Tilted Images on Instagram's Video Section</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-photopea-blueprint-for-flawless-image-backdrop/"><u>[Updated] The Photopea Blueprint for Flawless Image Backdrop</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-enthralling-type-mobility-setups/"><u>2024 Approved Enthralling Type Mobility Setups</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-essential-guide-to-blur-techniques-for-dynamic-artwork/"><u>2024 Approved The Essential Guide to Blur Techniques for Dynamic Artwork</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-next-generation-of-social-video-periscopes-counterparts/"><u>2024 Approved The Next Generation of Social Video Periscope's Counterparts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-the-upside-exploring-asmrs-advantages/"><u>2024 Approved Unlocking the Upside Exploring ASMR's Advantages</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comment-decouper-des-clips-dans-une-video-avec-le-logiciel-vlc/"><u>Comment Découper Des Clips Dans Une Vidéo Avec Le Logiciel VLC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-nokia-130-music-by-drfone-android/"><u>How to Bypass FRP from Nokia 130 Music?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-xiaomi-14-pro-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Xiaomi 14 Pro Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Vivo V29 Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-swiftly-survey-your-windows-documentation/"><u>In 2024, Swiftly Survey Your Windows Documentation</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/streamlined-video-submission-mmc-to-vimeo-journey-explained/"><u>Streamlined Video Submission MMC to Vimeo Journey Explained</u></a></li>
+<li><a href="https://some-skills.techidaily.com/swift-solutions-shifting-ios-media-files-for-2024/"><u>Swift Solutions Shifting iOS Media Files for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-cinema-mastering-the-best-5-camera-tips-for-2024/"><u>The Art of Cinema Mastering the Best 5 Camera Tips for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-best-of-editing-filmoras-captivating-features-for-2024/"><u>The Best of Editing Filmora's Captivating Features for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725290316129-ai-8/"><u>가장 좋은 무료 AI 이미지 회상 도구: 8개 권장 리스트</u></a></li>
+</ul></div>
 

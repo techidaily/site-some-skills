@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Truth: Effective Techniques for Recognizing Synthetic Videos Crafted by AI Systems Today"
-date: 2024-09-16T18:31:08.072Z
-updated: 2024-09-18T08:22:08.204Z
+date: 2024-09-23T19:18:23.283Z
+updated: 2024-09-29T08:35:06.074Z
 tags:
   - cutting-edge
 categories:
@@ -23,6 +23,13 @@ thumbnail: https://thmb.techidaily.com/db6e8bb5b9330de241494205e28fd162607bcee64
 * [Train Yourself to Better Spot This Content](https://extra-resources.techidaily.com/new-best-assortment-professional-webcam-platforms/)
 
  With the arrival of OpenAI’s SORA text-to-video model, we’re staring at an inescapable future full of AI-generated video. But the technology hasn’t yet been perfected, so here are some tips for spotting AI-generated video (for now).
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Spotting AI Generated Content Can Be a Challenge
 
@@ -64,13 +71,6 @@ OpenAI
 
 OpenAI
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  AI Struggles with Fingers, Glasses, and Finer Elements
 
  One of the biggest problems for AI-generative models are extremities and fine lines. In particular, have a good hard look at hands, held objects, spectacles, and the way things interact with human features (like hats, helmets, or even hair).
@@ -87,13 +87,6 @@ OpenAI
 
  Can you take your third arm off my leg, please?
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Look Closely at Objects in the Background of an Image
 
  Background details are often a dead giveaway when it comes to AI-generated video, even more so than photos. A good fake depends on the subject being convincing enough to distract you that the background isn’t quite behaving in the way it should be.
@@ -101,6 +94,13 @@ OpenAI
  Take a look at the Tokyo night scene video again. This scene is so dense that it’s easy to just take everything at face value, but look closely at the people walking in the background, particularly those to the left of the subject:
 
 ![OpenAI SORA Tokyo night scene background details.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/background_people_tokyo.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 OpenAI
 
@@ -110,13 +110,6 @@ OpenAI
 
  Another example is OpenAI’s [Big Sur coastline drone shot](https://cdn.openai.com/sora/videos/big-sur.mp4). Have you ever seen a wave that looks that straight in nature?
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Lighting and the "AI Aura"
 
  This is something we’ve seen a lot in AI-generated photos, and it’s arguably more of a “feel” than an objectively identifiable trait. If lighting feels particularly flat and unnatural in instances where you’d expect more variance, that can signal that it might not be real.
@@ -124,6 +117,13 @@ OpenAI
  For example, a lack of camera imperfections like blooming, highlight blowout (where highlights are lost due to too much light entering the lens), or shadow roll-off (where shadow detail is lost due to the absence of light) simply aren’t present.
 
  Everything can look a bit like a highly-produced music video, or like video games in the days before [realistic lighting and raytracing](https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-honor-90-drfone-by-drfone-virtual/). Subjects may look perfectly lit in instances where you’d expect them not to be.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  The Uncanny Valley Effect
 
@@ -144,10 +144,16 @@ OpenAI
 OpenAI
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Watch Out for Nonsense
@@ -156,6 +162,13 @@ OpenAI
 
 ![OpenAI SORA spaceman video depicting a weird object.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/weird_lever.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 OpenAI
 
  What is this thing? Why is the animation seemingly played in reverse? The knitted helmet I can excuse, but this thing has puzzled me since the moment I saw it.
@@ -163,6 +176,13 @@ OpenAI
  The same goes for movements. The SORA [cat in bed video](https://cdn.openai.com/sora/videos/cat-on-bed.mp4) is impressive, but the movement isn't right. Cat owners will recognize that the behavior is strange and unnatural. It feels like there’s a mismatch between the behavior of the subject and the context of the situation. Over time, this will improve.
 
  Garbled text is another good example of what AI generative processes often get wrong. The Japanese characters in SORA’s Tokyo night scene video are a jumble, and so is some of the road and shop signage. Choosing a scene where most people are unable to distinguish Japanese from a bad tribute was a smart choice on OpenAI’s part.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Train Yourself to Better Spot This Content
 
@@ -185,5 +205,17 @@ OpenAI
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-creative-twists-on-image-captions-for-2024/"><u>[New] Creative Twists on Image Captions for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-dos-and-donts-of-mixing-music-in-instagram-videos/"><u>[New] The Do's and Don'ts of Mixing Music in Instagram Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-subscriber-sequence-strategizing-success-on-youtube/"><u>[New] The Subscriber Sequence Strategizing Success on YouTube</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-prime-image-editing-techniques/"><u>[Updated] Prime Image Editing Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlock-the-secrets-essential-tiktok-video-editing-techniques/"><u>[Updated] Unlock the Secrets Essential TikTok Video Editing Techniques</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-poco-m6-pro-5g-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Poco M6 Pro 5G Phones? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/plan-trips-effortlessly-7-complimentary-chatgpt-apps-for-on-the-spot-trip-planning/"><u>Plan Trips Effortlessly: 7 Complimentary ChatGPT Apps for On-the-Spot Trip Planning</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-vivo-v27-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Vivo V27 Screen | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-fundamentals-of-compelling-documentary-screenplay-for-2024/"><u>The Fundamentals of Compelling Documentary Screenplay for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Boost Productivity Fast: Efficiently Start Programs via Keyboard Triggers on Windows 11"
-date: 2024-09-17T18:28:38.568Z
-updated: 2024-09-23T06:31:12.389Z
+date: 2024-09-26T23:41:33.744Z
+updated: 2024-09-29T05:36:37.981Z
 tags:
   - deals
 categories:
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 
 ![Pinning an app to the Taskbar on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/pin-to-taskbar-2.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once pinned to the taskbar, click and drag the icons to move them to a different position.
 
  Your taskbar may have items like the search bar, task view, and widgets—these are not launchable through this specific keyboard shortcut. So, the app that you pin after these takes slot one, which you can open by pressing Windows+1 on your keyboard.
@@ -37,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
  In the screenshot below, File Explorer is first and Steam (highlighted) is fourth. This is because we don't count the Windows button, the search bar, or the task view icon. Since Steam is fourth, I can launch it by pressing Windows+4.
 
 ![Windows 11 with the Steam app pinned to the Taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/windows-steam-taskbar-1.jpeg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  While this method is fairly simple, its biggest drawback is that you can only use the taskbar shortcuts for a maximum of ten applications, with Win+0 being the key combination to launch the tenth.
 
@@ -56,9 +70,29 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 
 ![Setting a shortcut key from the Properties window on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/properties-shortcut-key.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To remove a shortcut, press the Delete key within the "Shortcut Key" field.
 
  You can change "Ctrl + Alt" to "Shift + Alt" if you hold those keys while pressing your other desired key. Overall, though, this method is a bit limiting because you don't have complete control over the keys used.
+
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Use PowerToys to Open Apps
 
@@ -78,13 +112,6 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 
  If you ever want to delete a shortcut, return to this screen and click the trash can.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Use AutoHotkey to Open Apps
 
  AutoHotkey is a third-party tool that allows you to create macros which you can map to any function, including [creating custom keyboard shortcuts](https://driver-download.techidaily.com/download-logitech-k400-plus-driver/) to launch an app. AutoHotkey is significantly more powerful than the other options we've mentioned so far, though its reliance on scripting means it has a higher learning curve.
@@ -94,22 +121,15 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 ![AutoHotkey with the 'New Script' option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/autohotkey-new-script.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Next, give your script a name and select the "Edit" button.
 
 ![A screenshot of AutoHotkey with the Name and Edit options highlighted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/autohotkey-name.jpeg) 
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Choose Notepad (or a development environment of your choosing, if you're an advanced user) as the code editor and press "OK."
 
@@ -153,5 +173,18 @@ Run "C:\Program Files (x86)\Steam\steam.exe"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-favorite-list-ideal-mac-devices-for-video-grabbing-for-2024/"><u>[New] Favorite List Ideal Mac Devices for Video Grabbing for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-top-social-media-hash-tracking-software-fb-tweet-and-ig-edition/"><u>[New] In 2024, Top Social Media Hash Tracking Software FB, Tweet & IG Edition</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-mirth-in-monotony-the-top-20-fb-detention-reprieve-humor-for-2024/"><u>[New] Mirth in Monotony The Top 20 Fb Detention Reprieve Humor for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/tep-into-the-future-youtubes-best-vr-experiences/"><u>[New] Step Into the Future YouTube's Best VR Experiences</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-5-ways-to-transfer-files-to-your-computer/"><u>[Updated] 5 Ways To Transfer Files To Your Computer</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-srt-potential-mac-edition-tutorial/"><u>[Updated] Unlocking SRT Potential Mac Edition Tutorial</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-success-with-effective-video-praise-techniques/"><u>[Updated] Unlocking Success with Effective Video Praise Techniques</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-your-cheat-sheet-for-auditing-friends-vibrant-livestrances/"><u>2024 Approved Your Cheat Sheet for Auditing Friends’ Vibrant Livestrances</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypassing-the-persistent-launch-hurdle-in-far-cry-5/"><u>Bypassing the Persistent Launch Hurdle in Far Cry 5</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/streamlining-visual-enhancements-via-luts-in-pro-for-2024/"><u>Streamlining Visual Enhancements via LUTs in Pro for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-your-image-picsart-bg-erasure-technique-for-2024/"><u>Unveiling Your Image Picsart Bg Erasure Technique for 2024</u></a></li>
+</ul></div>
 

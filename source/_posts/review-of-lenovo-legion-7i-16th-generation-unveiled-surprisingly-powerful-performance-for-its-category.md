@@ -1,7 +1,7 @@
 ---
 title: "Review of Lenovo Legion 7I 16Th Generation Unveiled: Surprisingly Powerful Performance for Its Category"
-date: 2024-09-18T20:33:31.661Z
-updated: 2024-09-23T03:19:54.810Z
+date: 2024-09-26T20:22:22.822Z
+updated: 2024-09-29T10:05:17.096Z
 tags:
   - desktop
 categories:
@@ -112,6 +112,13 @@ Expand
 
 ![The Lenovo Legion 7i 16 Gen 9 has an Intel i9 and Nvidia graphics card](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-legion-7i-16-gen-9-has-an-intel-i9-and-nvidia-graphics-card_53662863778_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  The overall design of Lenovo’s latest Legion 7i 16 Gen 9 is pretty sleek if I do say so myself. I had the privilege of testing the white model and, while I typically like gray or dark laptops, the white is pretty crisp and clean. The branding is minimal with just "Legion" and "Lenovo" graphics on the top. Overall, the aesthetic is definitely on the cleaner side for gaming laptops.
@@ -134,16 +141,16 @@ Jerome Thomas / How-To Geek
 
  Lenovo chose to put the power key dead center of the top of the keyboard and built a fingerprint reader into it. I found that the reader worked reliably every time for me, and it was a great placement for me as well.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Hitting Above Its Weight Class, This Laptop Really Packs a Punch
 
 ![The Lenovo Legion 7i 16 Gen 9 Legion branding](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-legion-7i-16-gen-9-legion-branding_53661777577_o.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -156,6 +163,13 @@ Jerome Thomas / How-To Geek
  Continuing, "Forza Horizon 5," which, at the extreme preset, got an average of 89 FPS during gameplay. And, rounding out real-world games is "Minecraft." "Minecraft"? Yes, the 13-year-old block-building game can bring even the highest-power system to its knees. On this laptop, however, with Complimentary Shaders Reimagined on high, I was able to hit 125FPS on average. When cranked to ultra, it only dropped to 115FPS with dips into the high 90s when in areas with lots of lava.
 
 ![The backlit keyboard on the Lenovo Legion 7i 16 Gen 9](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-backlit-keyboard-on-the-lenovo-legion-7i-16-gen-9_53661777647_o.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -177,6 +191,13 @@ Jerome Thomas / How-To Geek
 
 ![The ports on the left side of the Lenovo Legion 7i 16 Gen 9](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-ports-on-the-left-side-of-the-lenovo-legion-7i-16-gen-9_53662650521_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  The Lenovo Legion 7i 16 Gen 9 has just about any port you could want, though, it can be a tad confusing about what’s what. On the left side of the laptop, you have a USB-A port at 5Gb/s, a USB-C 3.2 Gen 2 port, and a Thunderbolt 4 port. There’s only one Thunderbolt 4 port here though, so do keep in mind that the other USB-C ports on the laptop are only 3.2 Gen 2 (10Gb/s), and not rated for 40Gb/s transfer rates. The Thunderbolt 4 port does, however, support up to 140W charging, so you can use a single-cable setup when you’re not pushing the laptop to its max. In front of the Thunderbolt 4 port, you have a combined headphone and microphone jack.
@@ -194,10 +215,10 @@ Jerome Thomas / How-To Geek
  You’ll also find Wi-Fi 6E, alongside Bluetooth 5.3 and no ethernet jack. That’s right, there are no wired networking options, which is a shame to see. This laptop is thick enough that Lenovo could have packed in wired connectivity, and I really wish they had. Wi-Fi 6E is nice and all, but sometimes, you just want the low-latency connection of a physical plug.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The 16-Inch Display Is Honestly Quite Impressive for a Laptop
@@ -217,10 +238,10 @@ Jerome Thomas / How-To Geek
 ![The Lenovo Legion 7i 16 Gen 9 with charger](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-legion-7i-16-gen-9-with-charger_53662863758_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -231,21 +252,7 @@ Jerome Thomas / How-To Geek
 
 ![Lenovo Legion 7i 16 Gen 9 Laptop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/lenovo-legion-7i-16-gen-9-laptop.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #####  Lenovo Legion 7i 16 Gen 9
 
@@ -270,5 +277,24 @@ Lenovo's Legion 7i 16 Gen 9 laptop packs a punch in the power department, offeri
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-essential-guide-for-macbook-webcam-capture-for-2024/"><u>[New] Essential Guide for MacBook Webcam Capture for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamlined-iphones-how-to-grab-your-favorite-podcasts/"><u>[New] Streamlined iPhones How to Grab Your Favorite Podcasts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unleashing-imagination-creating-motion-pictures-with-windows-movie-maker/"><u>[New] Unleashing Imagination Creating Motion Pictures with Windows Movie Maker</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-list-best-general-knowledge-trivia-series-2024/"><u>[Updated] Ultimate List Best General Knowledge Trivia Series 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-complete-beginners-guide-to-utilizing-look-up-tables-luts/"><u>2024 Approved The Complete Beginner’s Guide to Utilizing Look-Up Tables (LUTs)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-finest-9-digital-places-for-harvesting-futuristic-3d-typefaces/"><u>2024 Approved The Finest 9 Digital Places for Harvesting Futuristic 3D Typefaces</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-future-of-audio-srt-in-mp4-video-files/"><u>2024 Approved The Future of Audio SRT in MP4 Video Files</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-list-of-live-streaming-camera-models/"><u>2024 Approved The Ultimate List of Live-Streaming Camera Models</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/embracing-strategy-why-classic-turn-based-titles-like-chess-and-baldurs-gate-lete-gaming/"><u>Embracing Strategy: Why Classic Turn-Based Titles Like Chess and Baldur's Gate Lete Gaming</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/experience-gaming-excellence-with-kinemaster-on-android/"><u>Experience Gaming Excellence with KineMaster on Android</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/freedomforsounders-review-extraction-excellence/"><u>FreedomForSounders Review Extraction Excellence</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-realme-12-proplus-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Realme 12 Pro+ 5G Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-masterclass-acquiring-free-photo-frames-effortlessly/"><u>In 2024, Masterclass Acquiring Free Photo Frames Effortlessly</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-rank-5-premium-android-image-editing-tools/"><u>In 2024, The Ultimate Rank 5 Premium Android Image Editing Tools</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-xiaomi-civi-3-disney-100th-anniversary-edition-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Xiaomi Civi 3 Disney 100th Anniversary Edition Location | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-oppo-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Oppo has been deleted.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/windows-11-ultimate-upgrade-path-from-windows-8-a-detailed-how-to-tutorial-for-tech-enthusiasts/"><u>Windows 11 Ultimate Upgrade Path From Windows 8: A Detailed How-To Tutorial for Tech Enthusiasts</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Maximize Your iCloud Capacity: Effective Methods to Clear and Reclaim Storage"
-date: 2024-09-15T19:48:16.249Z
-updated: 2024-09-22T16:54:22.387Z
+date: 2024-09-21T19:46:24.142Z
+updated: 2024-09-29T12:15:39.004Z
 tags:
   - desktop
 categories:
@@ -43,6 +43,13 @@ Close
 
 ![An iCloud storage graph closeup in System Settings on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-macos-sonoma-14-5-system-settings-icloud-storage-graph-backups-category-size-tooltip.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To manage iCloud storage access for the biggest storage hogs like iCloud Drive, Messages, Photos, Mail, or iCloud Backup and turn syncing on or off, select the feature under "Apps Using iCloud" in General > Storage in the Settings (iOS/iPadOS) or System Settings app (Mac)
 
 Close 
@@ -54,10 +61,16 @@ Close
  Depending on how you use your iCloud storage, recommendations may include slimming down the Photos library by [identifying duplicate images](https://ai-topics.techidaily.com/updated-2024-approved-what-is-chatgpt/), deleting large files and old backups, among other things.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Delete Outdated iPhone and iPad Backups
@@ -74,13 +87,6 @@ Close
 
 ![iPad Pro selected on the iCloud Backups screen in the Mac's System Settings app, with the Delete option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-macos-sonoma-14-5-system-settings-app-icloud-section-manage-account-storage-backups-delete-option-highlight.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This will permanently remove the entire backup archive from your iCloud account and switch off the iCloud Backup feature for that device.
 
  When you [disable the iCloud Backup option](https://win-howtos.techidaily.com/troubleshoot-and-resolve-sluggish-startup-problems-in-windows-7/), your iPhone will stop automatically backing up to iCloud when plugged in, locked, and connected to Wi-Fi, but its backup will stay in iCloud.
@@ -90,10 +96,10 @@ Close
 ![Syncing an iPhone in the Finder on macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-macos-sonoma-14-5-finder-iphone-sync-in-progress.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Backing up to a computer will ensure you can quickly [restore your iPhone or iPad using a Mac](https://screen-mirroring-recording.techidaily.com/enhancing-presentations-the-captivate-way/) and get everything back to how it was should you ever lose it or need to reset it. If you're a power user, you may want to use a specialized app like [iMazing](https://imazing.com) to selectively back up and restore files from iPhones and iPads, create local backup snapshots, and transfer media.
@@ -118,6 +124,13 @@ Close
 
  With iCloud Photos disabled, you're wholeheartedly recommended to try [Google Photos](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU220865/https://itunes.apple.com/us/app/google-photos-free-photo-video/id962194608?mt=8), [Dropbox](https://geo.itunes.apple.com/en/app/dropbox/id327630330?at=1010loXs&ct=191340), or [Flickr](https://apps.apple.com/gb/app/flickr/id328407587), which can automatically back up your photos to a separate pool of cloud storage that's often bigger than iCloud. That way, you'll have a backup copy of your photos and videos stored online and retain your precious iCloud storage for other functions.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Delete App Documents and Data From iCloud
 
  Some apps store large amounts of data in iCloud, such as documents, settings, and saved games. These bits of data sync between all your devices and count toward your iCloud storage. You can delete these files if you don't need them.
@@ -133,10 +146,10 @@ Close
  Be careful when doing this, though, as you could delete essential documents and files you might want to keep.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Triage Your iCloud Mail Inbox
@@ -158,6 +171,13 @@ Close
  When you delete emails, remember to empty the trash afterward to have them removed permanently and free up storage space.
 
  You don't need to delete your emails from Gmail, Outlook, or Yahoo as those services don't store inboxes in iCloud but rather within their own cloud space.
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Delete Old Chats and Messages Attachments
 
@@ -212,5 +232,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-conquer-with-titans-top-7-strategic-multiplayer-battles/"><u>[New] Conquer with Titans Top 7 Strategic Multiplayer Battles</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-backchannel-bridge-engaging-with-your-audience/"><u>[New] The Backchannel Bridge Engaging with Your Audience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-10-creative-ai-solutions-for-podcast-names-online/"><u>[Updated] Top 10 Creative AI Solutions for Podcast Names Online</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-enhance-your-videos-with-easy-cuts-on-windows-11/"><u>2024 Approved Enhance Your Videos with Easy Cuts on Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-healing-power-of-asmr-explained-here/"><u>2024 Approved The Healing Power of ASMR Explained Here</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-checkpoint-a-2021-review-of-vegas-pros-latest-features/"><u>2024 Approved The Ultimate Checkpoint A 2021 Review of Vegas Pro's Latest Features</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-comic-editor-app/"><u>2024 Approved Ultimate Comic Editor App</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ng-stream-start-small-see-big-on-youtube-for-2024/"><u>Earning Stream Start Small, See Big on YouTube for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-for-overcoming-game-errors-in-naraka-bladepoint/"><u>Expert Tips for Overcoming Game Errors in Naraka: Bladepoint</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-nokia-xr21-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Nokia XR21? Try These Fixes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-syncing-scores-and-screenplays-top-tunes-for-video-unboxing/"><u>In 2024, Syncing Scores and Screenplays Top Tunes for Video Unboxing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-authoritative-handbook-on-selecting-impactful-podcast-monikers-plus-examples/"><u>In 2024, The Authoritative Handbook on Selecting Impactful Podcast Monikers, Plus Examples</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-itel-a60-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/industrial-giants-taking-flight-heavy-duty-drones-for-2024/"><u>Industrial Giants Taking Flight Heavy-Duty Drones for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-microsoft-offices-error-0x80041015/"><u>Navigating Through Microsoft Office's Error 0X80041015</u></a></li>
+<li><a href="https://some-skills.techidaily.com/old-world-wonders-iphone-x-portraits-for-2024/"><u>Old World Wonders – iPhone X Portraits for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/perfecting-iphone-cinematic-work-top-8-tips-for-excellent-pro-video-production/"><u>Perfecting iPhone Cinematic Work Top 8 Tips for Excellent Pro Video Production</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/quick-and-simple-guide-transform-your-avi-videos-into-mp4-for-free-using-a-web-based-tool/"><u>Quick and Simple Guide: Transform Your AVI Videos Into MP4 for Free Using a Web-Based Tool</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transforming-images-with-ar-a-guide-to-free-lut-downloads-for-2024/"><u>Transforming Images with AR A Guide to Free LUT Downloads for 2024</u></a></li>
+</ul></div>
 

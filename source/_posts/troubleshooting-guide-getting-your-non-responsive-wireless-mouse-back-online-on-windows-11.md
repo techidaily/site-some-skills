@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Getting Your Non-Responsive Wireless Mouse Back Online on Windows 11"
-date: 2024-09-16T03:25:03.356Z
-updated: 2024-09-22T21:23:57.066Z
+date: 2024-09-25T06:50:02.443Z
+updated: 2024-09-29T06:57:01.548Z
 tags:
   - deals
 categories:
@@ -31,16 +31,16 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 
  If the mouse still doesn't work after these basic checks, try these other hardware-orientated fixes:
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Reconnect the USB Receiver
 
  Disconnect the USB receiver, wait ten seconds, then plug it back in. This is age-old advice, but it may kick Windows to recognize the mouse.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Use a Different USB Port
 
@@ -54,22 +54,29 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 
  Other USB devices connected to your computer can cause interference. Disconnect these in turn; if it doesn't fix your mouse, plug them back in again.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Check for Hardware Damage
 
  Your mouse or USB receiver may be defective, especially if you accidentally dropped them recently. Examine your USB port, receiver, and mouse for physical damage. Check for dirt or dust in the USB ports and clean them if required.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Connect to Another PC
 
  Connect the receiver to a different Windows device and see if the mouse works there. If not, the mouse or receiver is probably defective. To determine which is to blame, you could get another receiver—most manufacturers sell them standalone or will send you one under warranty. If this doesn't work, you then know the fault lies with the mouse itself (so buy a new one or claim under warranty).
 
  Alternatively, if everything works on another device, it means the issue is with your computer rather than the mouse or receiver.
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  2\. Disable USB Power Management
 
@@ -78,13 +85,6 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
  To change this, press Windows+X and select "Device Manager" from the pop-up menu.
 
 ![Windows 11 right-click Start Menu highlighting Device Manager option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-start-menu-options.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In Device Manager, scroll down and double-click the "Universal Serial Bus Controllers" section to expand it. Right-click "USB Root Hub" and select "Properties."
 
@@ -103,6 +103,13 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
  Search for "Control Panel" in the Start menu and open it. Go to "Power Options" (search for it if you don't see it), then click "Choose What the Power Buttons Do."
 
 ![Windows 11 Power Options window highlighting 'Choose what the power button do' option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-control-panel-power-options-window-1.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Click "Change Settings That Are Currently Unavailable."
 
@@ -126,28 +133,29 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 
  If Windows Update doesn't detect any available driver updates, manually install them. To do this, go directly to the mouse manufacturer's website. They should have a driver section, or they might have dedicated software—in either case, download and run the executable, then follow the prompts.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  How to Roll Back the Mouse Drivers
 
  To [roll back the drivers](https://youtube-tips.techidaily.com/24-crafting-your-youtube-legacy-a-deep-dive-into-creator-studio-mastery/), press Windows+X and select "Device Manager." Double-click the "Mice and Other Pointing Devices" section to expand it. Right-click the wireless mouse and select "Properties."
 
 ![Windows 11 Device Manager window highlighting 'Mice and other pointing devices' right-click menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-device-manager-window-2.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the Properties window, select the "Driver" tab and click "Roll Back Driver."
 
 ![Windows 11 mouse Properties window highlighting 'Roll Back Driver' option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-mouse-properties-window.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Click "Yes" on the warning pop-up and wait until Windows automatically restores to the previous version.
 
@@ -166,6 +174,13 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
  Repeat the above steps for each USB Root Hub on the list.
 
  Restart your computer, and it will automatically scan and reinstall the USB controllers. If it doesn't, go back to Device Manager and select Action > Scan for Hardware Changes.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  6\. Update Windows 11
 
@@ -200,10 +215,10 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
  Wait until the connection is established. After a few seconds, your mouse is ready to use via Bluetooth.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  9\. Perform a System Restore
@@ -229,5 +244,21 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/aving-parts-of-youtube-a-comprehensive-tutorial-for-2024/"><u>[New] Saving Parts of YouTube A Comprehensive Tutorial for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-scrolling-through-engaging-youtube-remarks/"><u>[New] The Ultimate Guide to Scrolling Through Engaging YouTube Remarks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transform-into-a-hdr-photography-wizard-via-photoshop/"><u>[New] Transform Into a HDR Photography Wizard via Photoshop</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fluxvideoart-compile-and-display-on-macos-sierra/"><u>2024 Approved FluxVideoArt Compile & Display on macOS Sierra</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-revolutionize-recording-the-ultimate-guide-to-minecraft-screenshots-on-mac/"><u>2024 Approved Revolutionize Recording The Ultimate Guide to Minecraft Screenshots on Mac</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-synthesizing-best-canon-temporal-videography/"><u>2024 Approved Synthesizing Best Canon Temporal Videography</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-hidden-potential-snapchat-zooming-tips/"><u>2024 Approved Unlock Hidden Potential Snapchat Zooming Tips</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/achetez-la-solution-video-daffaires-de-movavi-performante-convenable-et-economique/"><u>Achetez La Solution Vidéo D'affaires De Movavi: Performante, Convenable Et Économique!</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-revolutionizing-video-content-youtube-marketings-top-5-secrets/"><u>In 2024, Revolutionizing Video Content YouTube Marketing's #Top 5 Secrets</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-nokia-g310-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Nokia G310 FRP</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transforming-the-metaverse-essential-gear-to-consider-top-7/"><u>In 2024, Transforming the Metaverse Essential Gear to Consider (Top 7)</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-oppo-reno-11f-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Oppo Reno 11F 5G to Gmail | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/speedy-shot-mastery-discovering-the-best-5-hacks-for-filming-for-2024/"><u>Speedy Shot Mastery Discovering the Best 5 Hacks for Filming for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-windows-media-seamless-cd-extraction-for-2024/"><u>Unveiling Windows Media Seamless CD Extraction for 2024</u></a></li>
+</ul></div>
 

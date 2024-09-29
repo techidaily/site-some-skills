@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Personalizing Your Windows 11 Taskbar"
-date: 2024-09-18T19:16:46.650Z
-updated: 2024-09-22T21:46:51.608Z
+date: 2024-09-26T00:58:15.857Z
+updated: 2024-09-29T03:08:59.162Z
 tags:
   - deals
 categories:
@@ -48,6 +48,19 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
 ![Right-click an app, go to "More," then select "Pin to Taskbar."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-select-app-more-pin.png) 
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This will immediately add a new shortcut for the app to the taskbar. To remove an app from the taskbar, right-click the pinned app and choose the "Unpin from taskbar" option.
 
 ![Right-click a pinned icon, then select "Unpin from Taskbar" to remove it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-unpin-from-taskbar.png) 
@@ -59,13 +72,6 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
  For example, the jump list for the File Explorer icon lets you open a new File Explorer window and shows recent folders you've viewed and folders you've pinned. Just point your mouse at a recent item to reveal a pushpin icon to its right. Click the pushpin to pin the item to the jump list.
 
 ![Click the pin next to a folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/4-pin-to-this-list.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  By the way, if you want to view the conventional context menu for an icon on the taskbar, hold the Shift key while right-clicking the icon. This is particularly useful for configuring any folder shortcuts you've pinned there. And this is just one of the [many useful keyboard shortcuts](https://fox-links.techidaily.com/new-free-10-high-quality-passport-photos-available-here-for-2024/) you can use with the taskbar.
 
@@ -81,14 +87,14 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
 ![Right-click the Taskbar, mouse over "Search," and select "Hidden" or "Show Search Icon."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-hide-search-bar.png) 
 
- Choose the "Hidden" option to remove both the search box and icon or choose "Show Search Icon" to have just the icon on the taskbar.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Choose the "Hidden" option to remove both the search box and icon or choose "Show Search Icon" to have just the icon on the taskbar.
 
 ##  Remove the Task View Button
 
@@ -100,19 +106,6 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
 ![Right-click the Taskbar and untick "Show Task View button."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/7-show-task-view-button.png) 
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Hide System Icons in the Notification Area
 
  The Notification Area (sometimes called the "System Tray") holds system icons — like your Action Center and clock — and icons for various apps that run in the background. You can easily tweak which system icons appear in the Notification Area. Right-click any open area on the taskbar and then click "Taskbar Settings." On the taskbar settings page, scroll down a bit to the "Notification Area" section and click the "Turn system icons on or off" link.
@@ -123,33 +116,33 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
 ![Some system icons that can be toggled.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/13-system-icons.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Hide Application Icons in the Notification Area
 
  Many of the apps you install in Windows are designed to run in the background. They're not things you need to interact with regularly, so instead of appearing directly on your taskbar, their icons are relegated to the Notification area. This lets you know they're running and gives you quick access when you need it. A few of these appear right in the Notification Area to the left of the clock. Others are hidden, but you can see them by clicking the up arrow to the left.
 
 ![Click the chevron to see hidden icons.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/10-click-the-chevron.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can quickly customize where these icons appear by dragging them between these two locations. For example, you might prefer that your OneDrive icon is always visible, in which case you'd drag it to the main Notification Area. You can also hide less important icons by dragging them to the hidden area.
 
 ![Drag icon in or out of the hidden area.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/11-drag-icon-off.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also work with these icons through the settings interface. Right-click any open area of the taskbar and choose the "Settings" option. Scroll down and click the "Select which icons appear on the taskbar" link.
 
 ![Click "Select Which Icons Appear on the Taskbar."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/8-taskbar-settings.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you want to remove the hidden area and see all the icons all the time, turn on the "Always show all icons in the notification area" option. If you leave that setting off, you can also run through the list and turn individual apps on or off. Just note that turning an app off here doesn't remove it from the Notification Area altogether. When an app is turned off, it shows up in the hidden area. When it's on, it shows up in the main Notification Area.
 
@@ -174,6 +167,13 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
  You can also resize the taskbar to get a little additional space. This can be particularly handy if you moved it to the right or left edge of your screen, but it's also good if you just want space for loads of icons. Right-click the taskbar and turn off the "Lock the taskbar" option. Then place your mouse at the top edge of the taskbar and drag to resize it just like you would with a window. You can increase the size of the taskbar up to about half your screen size.
 
 ![Click the Taskbar's edge and drag to resize it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/17-huge-taskbar.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Use Small Icons to Fit More on the Taskbar
 
@@ -217,6 +217,13 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
 ![Use peak option on Windows 10 taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/23-use-peak.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  With the Peek option turned on, you can move your mouse to the tiny sliver of space at the far right of the taskbar to hide all your windows and show you your desktop. When you move the mouse away, your windows return to their previous state. You can also click this area to automatically minimize all your windows so that you can actually do things on the desktop. Click the area again to restore your windows. You can also use the Windows+D keyboard shortcut to do the same thing as clicking the Peek area.
 
 ##  Add a Toolbar to the Taskbar
@@ -235,11 +242,25 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
  You can also add a custom toolbar that points to any folder on your system. This can be a great way of adding quick, taskbar access to items you regularly need. To create a toolbar, all you have to do is select the "New toolbar" option from the Toolbars submenu and point it to a folder.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Configure the Taskbar for Multiple Displays
 
  If you use multiple displays, you'll be happy to know that Windows 10 includes decent customization controls for using your taskbar across multiple monitors. You can have a taskbar shown on only one display, a single taskbar stretched across all displays and even a separate taskbar for each display that only shows the apps open on that display. To tweak all this, right-click any open area of the taskbar and choose "Taskbar Settings." In the settings window, scroll all the way to the bottom to find the controls for multiple displays.
 
 ![The options for controlling the Taskbar on multiple displays.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/25-multiple-displays.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you leave the "Show taskbar on all displays" option turned off — which is the default setting — then you'll see a single taskbar on your primary monitor only. All open windows for apps are shown on that taskbar, regardless of which display the windows are open on. Turn that option on to have a taskbar shown on all your displays and also open up the other options below.
 
@@ -268,5 +289,17 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-mastering-nikon-d7500/"><u>[New] The Ultimate Guide to Mastering Nikon D7500</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-creative-uses-for-home-webcams/"><u>2024 Approved Creative Uses for Home Webcams</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-explore-10-premier-historical-youtube-networks/"><u>2024 Approved Explore 10 Premier Historical Youtube Networks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-filming-in-water-proven-7-tips-for-vids/"><u>2024 Approved Streamline Filming in Water Proven 7 Tips for Vids</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-competition-unveiled-twitchs-clash-with-youtube/"><u>2024 Approved The Competition Unveiled Twitch's Clash with YouTube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-magic-of-ar-mastering-lut-applications/"><u>2024 Approved Unveiling the Magic of AR Mastering LUT Applications</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-poco-c55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/bridging-language-barriers-windows-media-player-subtitle-guide-for-2024/"><u>Bridging Language Barriers Windows Media Player Subtitle Guide for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-samsung-galaxy-s23-ultra-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Samsung Galaxy S23 Ultra</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-fuzzy-visuals-in-far-cry-6/"><u>Tackling Fuzzy Visuals in Far Cry 6</u></a></li>
+</ul></div>
 

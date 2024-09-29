@@ -1,18 +1,12 @@
 ---
 title: Mastering the Art of Crafting Effective Book Reviews
-date: 2024-09-07T22:19:54.213Z
-updated: 2024-09-08T22:19:54.213Z
+date: 2024-09-25T23:02:56.216Z
+updated: 2024-09-29T03:52:34.649Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/57fc80a0532998e9a3fa34c3a10aaf11a38c8a2570d6f12d0969979c5207b72c.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Mastering the Art of Crafting Effective Book Reviews
 
 ## How to Write a Book Review
@@ -21,16 +15,8 @@ Posted by [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) on 1
 
 3 [(0 comments)](http://www.epubor.com/#comment-area) 
 
-
-
 ![follow](http://www.epubor.com/images/follow.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Seems that writing a book review is a nova in this industry, I am seeing more and more newly born blogs are focusing on book reviews and recommendations, and all kinds of book reviews and questions about how to start a book review are flooding my twitter.
 
 ![questions about how to write a book review on twitter](http://www.epubor.com/images/tweet-about-book-review.png)
@@ -41,26 +27,15 @@ Write a book review is not that difficult as you thought. It is just a plot desc
 
 ![write a book review in 10 steps](http://www.epubor.com/images/write-book-review.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Here I've summed up **10 steps about how to write a book review**, and in my opinion, it will be more feasible when you are required to do so. Let's be more straight, if you need to write a review for someone's new book on KDP (Kindle Direct Publishing) to cooperate with his ebook promotion campaign, this is exactly what you need.
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Here we go! Finish your book review in just 10 steps
 
 **Step 1.** Try to dig out some clues about this book without reading it. For example: Does the book having an elegant typography? Can you figure out what the book will tell you from the cover? Is the book advertised exaggeratedly? In which genre does the publisher classify it? All these will tell you who is the target-reader of this book.
@@ -84,16 +59,24 @@ Here I've summed up **10 steps about how to write a book review**, and in my opi
 **Step 10.** Now you have almost finished your book review, time to look back and test your points. Have you covered all the important elements of the book? Who are your target reader? Are you writing this review to serve someone? Is your review outstanding among all the reviews of this book? If not, then you need to check the previous 9 steps and enhance your book review; if yes, your book review is finished!
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Now let's take a NY Times book review as example
 
 I randomly pick a book review from the New York Times, it's a review on the book _The Insurgents: David Petraeus and the Plot to Change the American Way of War._
 
 ![book information](http://www.epubor.com/images/book-information.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 From the first glance on this book's information, we can know it's a book about war in Iraq, and it's written by Fred Kaplan. This book ranks #151 in all the Amazon Best-Sellers, and its book review appears on many authority sites. Upon the information above, we can figure out some clues about this book. Obviously, if you are writing for a book review blog, and its target readers are teenage women, then you definitely can't choose this book.
 
@@ -162,11 +145,12 @@ Pretty simple. Click the buttons below to help us spread the world.
 ![author](http://www.epubor.com/images/uppic/jonny.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) joined Epubor since 2011, loves everything about eBooks and eReaders. He seeks the methods to read eBooks more freely and wants to share all he has got with you.
 
 SHARING IS GREAT!
@@ -174,8 +158,6 @@ SHARING IS GREAT!
 [Tweet](https://twitter.com/share) 
 
 [SAVE PAGE AS PDF](https://tools.techidaily.com/epubor/products/) 
-
-
 
 0 Comments
 
@@ -201,8 +183,6 @@ Leave a comment
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -210,4 +190,21 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-standard-youtube-vs-creative-commons-liberty-clauses/"><u>[New] 2024 Approved Standard YouTube Vs. Creative Commons Liberty Clauses</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-overlaying-photos-digitally/"><u>[New] The Ultimate Guide Overlaying Photos Digitally</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-windows-10-apps-and-games-to-explore-and-download/"><u>[Updated] 2024 Approved Windows 10 Apps and Games to Explore and Download</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streaming-showdown-the-ultimate-guide-for-xsplit-and-obs-fans/"><u>[Updated] Streaming Showdown The Ultimate Guide for XSplit and OBS Fans</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-creators-guide-to-youtube-monetization-via-mobile-for-2024/"><u>[Updated] The Creator's Guide to YouTube Monetization via Mobile for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-through-the-eye-a-top-ten-glimpse-at-2024s-superior-camera-lenses/"><u>[Updated] Through The Eye A Top Ten Glimpse at 2024'S Superior Camera Lenses</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlock-pinterests-treasure-trove-with-top-free-video-downloads/"><u>[Updated] Unlock Pinterest's Treasure Trove with Top Free Video Downloads</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-design-mastery-building-an-mc-village-home/"><u>2024 Approved Design Mastery Building an MC Village Home</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamlining-photo-and-video-transfer-from-android/"><u>2024 Approved Streamlining Photo & Video Transfer From Android</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-why-your-razer-man-o-war-microphone-isnt-functioning/"><u>Fixing the Issue: Why Your Razer Man O' War Microphone Isn't Functioning</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-enhance-presentations-with-background-music/"><u>In 2024, Enhance Presentations with Background Music</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-the-groove-guide-navigating-todays-hot-raps-in-156-characters-or-less/"><u>In 2024, The Groove Guide Navigating Today's Hot Raps in 156 Characters or Less</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/maximize-your-play-top-iphones-ranked-for-gaming-enthusiasts/"><u>Maximize Your Play: Top iPhones Ranked for Gaming Enthusiasts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transforming-srt-into-subc-top-3-actionable-steps-for-2024/"><u>Transforming SRT Into SUBC Top 3 Actionable Steps for 2024</u></a></li>
+</ul></div>
 

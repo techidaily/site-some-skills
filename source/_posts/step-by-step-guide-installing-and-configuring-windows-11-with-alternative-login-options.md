@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Installing and Configuring Windows 11 with Alternative Login Options"
-date: 2024-09-20T06:18:48.679Z
-updated: 2024-09-23T07:18:01.352Z
+date: 2024-09-24T07:52:43.503Z
+updated: 2024-09-29T02:06:39.451Z
 tags:
   - desktop
 categories:
@@ -38,11 +38,25 @@ thumbnail: https://thmb.techidaily.com/f78d1d150df9704e5a6635f2d8f1d9b65ffaf1875
 
  Mac users who are [setting up Windows 11 inside of Parallels Desktop](https://some-knowledge.techidaily.com/in-2024-fast-forward-features-unveiled-the-editors-guidebook/) can skip the Microsoft account linking process. The virtualization software allows you to set up Windows "hands-free" and leaves you with a local account.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Bypass Windows 11 Microsoft Account Requirement Using Command Prompt
 
  To bypass the Microsoft Account requirement, proceed with the first few steps of the installation process normally until you reach this screen:
 
 ![The Windows 11 installer prompting you to log in.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/microsoft-login-screen.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once you're there, press Shift + F10 to open up a Command Prompt Window and type:
 
@@ -57,13 +71,6 @@ oobe\bypassnro
 Close 
 
  Click "Continue with limited setup" on the next page if it appears, and then you'll be able to create a local account with a password and three security questions.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Install Windows 11 Without a Microsoft Account Using Rufus
 
@@ -95,13 +102,6 @@ Close
 
 ![Disabling the Microsoft Account requirement via Rufus.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/disable-online-acct.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After that you just need to wait for Rufus to actually make the bootable media. It will take a few minutes at least, especially if you're using an older flash drive.
 
  Next, you need to restart your computer and[change the boot order](https://extra-guidance.techidaily.com/2024-approved-navigating-through-gopros-burst-recording-options/). Typically, your computer boots from the hard drive or solid-state drive that Windows is installed on.
@@ -113,10 +113,10 @@ Close
  It is smooth sailing after you change the boot order. Windows 11 will walk you through the rest of the installation process.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Create a Local Account on Windows 11
@@ -135,6 +135,13 @@ Close
 
  The account will now be added to your computer. Click on Start followed by your username then select "Sign out" to log in to the account.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Convert an Existing Microsoft Account to a Local Account
 
  The easy workaround using Rufus to install Windows 11 without a Microsoft account only appeared a few months prior to the release of [Windows 11's 2022 Update](https://tech-renaissance.techidaily.com/watch-your-favorite-shows-on-hulu-with-this-simple-setup-for-lg-tvs/), so most people currently using Windows 11 will have Microsoft logins.
@@ -145,6 +152,13 @@ Close
 
 ![Select 'Accounts,' then scroll down until you see 'Your Info.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/accounts-your-info.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Scroll towards the bottom and click "Sign In With A Local Account Instead." If you get a huge popup warning you about backing up your BitLocker key,**_do not ignore it_.** Your drive is encrypted, and if something happens, you could lose access to all of your files without the recovery key. Make sure you [back up your BitLocker encryption key](https://instagram-clips.techidaily.com/2024-approved-engaging-users-with-instagrams-interactive-survey-feature/) before proceeding, then click through the next few prompts. You may need to pick a username, password, and password hint, then go to the next page and click "Sign Out And Finish."
 
 ![The popup to switch to a local account on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/switching-to-local.png) 
@@ -152,13 +166,6 @@ Close
  You should probably restart your PC even after you sign out just to fix any weird bugs that crop up. You also need to be careful now. Your account is a local-only account, which means that Microsoft won't be able to help you regain access if you forget something.
 
  Additionally, if you attempt to encrypt your drive on a local account, you'll be told you need to sign in to a Microsoft account to finish the process. That is not accurate — your drive will be encrypted even if you do not sign in, so be sure to make a copy of your recovery key.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Remove a Microsoft Account From Windows 11
 
@@ -193,5 +200,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/updated-the-insiders-pathway-to-effective-auditory-notes/"><u>[Updated] The Insider’s Pathway to Effective Auditory Notes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-mobile-and-web-photo-booster-at-no-cost/"><u>[Updated] Ultimate Mobile & Web Photo Booster at No Cost</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-swiftly-blur-your-iphone-shots-with-these-4-tricks/"><u>2024 Approved Swiftly Blur Your iPhone Shots with These 4 Tricks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-guide-to-mastering-final-cut-pro-essentials/"><u>2024 Approved Ultimate Guide to Mastering Final Cut Pro Essentials</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-revolutionizes-personal-trainer-routines-crafting-individualized-exercise-plans-with-chatgpt/"><u>AI Revolutionizes Personal Trainer Routines: Crafting Individualized Exercise Plans with ChatGPT</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/eliminating-the-dsounddll-not-found-issue-in-windows-computers/"><u>Eliminating the dsound.dll Not Found Issue in Windows Computers</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-essential-guide-to-exploring-youtube-comments/"><u>In 2024, The Essential Guide to Exploring YouTube Comments</u></a></li>
+<li><a href="https://win-webster.techidaily.com/introducing-flipbuilders-multilingual-feature-build-and-publish-in-german-easily/"><u>Introducing FlipBuilder's Multilingual Feature: Build and Publish in German Easily!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-stability-solutions-for-persistent-crashes-in-total-war-warhammer-iii/"><u>Mastering Stability: Solutions for Persistent Crashes in Total War: Warhammer III</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-issue-steps-to-get-your-icloud-pictures-up-to-date-on-iphone/"><u>Solving the Issue: Steps to Get Your iCloud Pictures Up-to-Date on iPhone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/twitter-video-viral-2024/"><u>Twitter Video Viral 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-your-images-true-self-a-canva-step-by-step-for-2024/"><u>Unveiling Your Image’s True Self A Canva Step-by-Step for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-in-2024-top-6-free-talking-stock-photo-sites/"><u>Updated In 2024, Top 6 Free Talking Stock Photo Sites</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-samsung-galaxy-f14-5g-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Samsung Galaxy F14 5G Phones</u></a></li>
+</ul></div>
 

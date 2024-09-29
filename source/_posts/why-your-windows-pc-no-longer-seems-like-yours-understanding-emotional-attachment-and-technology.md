@@ -1,7 +1,7 @@
 ---
 title: "Why Your Windows PC No Longer Seems Like Yours: Understanding Emotional Attachment & Technology"
-date: 2024-09-14T06:14:10.809Z
-updated: 2024-09-17T16:59:34.610Z
+date: 2024-09-24T21:19:09.273Z
+updated: 2024-09-28T17:09:46.662Z
 tags:
   - deals
 categories:
@@ -19,15 +19,36 @@ thumbnail: https://thmb.techidaily.com/3a45d2f58796a5984d88b42acb22f94c8f8721b15
 
  An operating system is the most personal part of a "personal" computer, and it used to be that as a Windows user I didn't feel like I was renting my computer from Microsoft, but in recent years that feeling has all but evaporated. To me, Windows feels cheaper and more commercial than ever, and that's not a recipe for a good user experience.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Offline Glory Days of Windows
 
  The first version of Windows I ever used, coming from MS-DOS, was Windows 3.1\. While Windows 3.1 might look incredibly primitive today, it's hard to explain just how big of a leap this was for a kid who had to memorize the Command Line instructions just to play some games. Things didn't really kick off for me until Windows 95 and our first taste of the internet, but even then, 99% of my Windows time up until Windows 7 was spent disconnected from the net.
 
 ![exit-windows-3.1-to-dos](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2014/05/exit-windows-3.1-to-dos.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In retrospect, this was actually a good thing in some ways, because it meant that Microsoft couldn't remotely mess with my Windows installation. Patches and updates came in the form of Windows service packs, and those were on actual physical floppy disks or CD-ROMs. If my computer worked yesterday, and I didn't change anything myself, it would almost certainly keep working until I inadvertently broke it myself.
 
  Now that Windows is almost always online, my "personal" computer experience is feeling quite a bit less personal.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Advertising Sneaking In
 
@@ -44,13 +65,6 @@ Jerome Thomas / How-To Geek
  At this point, I have lost count of the number of times that I've left my perfectly working Windows computer at the end of my work day, only to return to a completely broken computer that won't boot the next morning. We have numerous articles at How-To Geek on how to [stop Windows from updating](https://driver-download.techidaily.com/boost-your-pcs-gameplay-download-the-new-steelseries-engine-for-windows-11-enthusiasts/), and the mere fact that readers are searching for this information should tell you something.
 
  Forced, automatic Windows updates seem inevitable now, and with every workaround people come up with, the loopholes are closed. Updates can be delayed, but not deferred. Resistance is futile. Which is why I find it hard to even trust Windows to run a Plex server or a NAS, because inevitably it will reboot the computer without asking me first.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Leave My Settings Alone, Microsoft
 
@@ -69,10 +83,16 @@ Sergio Rodriguez / How-To Geek
  When I use my Windows 11 laptop (which was more expensive than my Mac, mind you), it feels like those Amazon Kindles that are subsidized by ad money. Except, at least Amazon gave us the choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Linux Respects Its Users
@@ -102,5 +122,21 @@ Sergio Rodriguez / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-professional-video-capture-techniques-mastering-movs-on-win10/"><u>[New] Professional Video Capture Techniques Mastering MOVs on Win10</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-the-top-10-capture-cards-for-youtube/"><u>[Updated] In 2024, The Top 10 Capture Cards for YouTube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-smart-guide-to-procuring-premium-image-banners/"><u>[Updated] The Smart Guide to Procuring Premium Image Banners</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-gopro-studio-steps-for-time-lapse-magic/"><u>[Updated] Ultimate GoPro Studio Steps for Time Lapse Magic</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-10-best-free-os-agnostic-video-solutions/"><u>[Updated] Unveiling the 10 Best Free OS-Agnostic Video Solutions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-vegaspro-the-19-edition/"><u>[Updated] Unveiling VegasPro The '19 Edition</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-breaking-the-internet-hashtag-wisdom-for-short-films/"><u>2024 Approved Breaking the Internet Hashtag Wisdom for Short Films</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-the-curveball-mastering-gopro-lens-distortion/"><u>2024 Approved Navigating the Curveball Mastering GoPro Lens Distortion</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-rhythm-and-recording-in-snapchat/"><u>2024 Approved Rhythm & Recording in Snapchat</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/bulk-word-doc-to-flash-movie-conversion-free-online-tool/"><u>Bulk Word Doc-to-Flash Movie Conversion: Free Online Tool</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/hits-at-hyperspeed-the-fast-track-to-100-million-views-on-youtube-in-24/"><u>Hits at Hyperspeed The Fast Track to 100 Million Views on YouTube in '24</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamlined-method-for-modifying-fish-vocal-patterns/"><u>In 2024, Streamlined Method for Modifying Fish Vocal Patterns</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/monetized-critique-videos-the-truth-unveiled/"><u>Monetized Critique Videos The Truth Unveiled</u></a></li>
+</ul></div>
 

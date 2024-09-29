@@ -1,7 +1,7 @@
 ---
 title: The Top Picks From How-To Geek’s Prestigious CES 2024 Honors
-date: 2024-09-16T23:52:36.913Z
-updated: 2024-09-23T07:24:29.049Z
+date: 2024-09-26T05:44:45.867Z
+updated: 2024-09-29T08:46:10.724Z
 tags:
   - deals
 categories:
@@ -44,6 +44,13 @@ Justin Duino / How-To Geek
 
  The new Thinkpad X1 Carbon Gen 12 looks like a fantastic Windows laptop, but it’s also priced to match: it starts at $2,989\. Some configurations [already went on sale in December](https://desktop-recording.techidaily.com/updated-transforming-live-dialogues-into-permanent-history/), but the rest of the configuration options will be available starting in March 2024.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Best Router: TP-Link Deco BE65 Pro Mesh Router
 
 ![TP Link Deco BE65 Pro Wi Fi 7 Router at CES 2024](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/tp-link-deco-be65-pro-wi-fi-7-router-at-ces-2024.jpg) 
@@ -53,6 +60,13 @@ Hannah Stryker / How-To Geek
  While wireless devices that support the [Wi-Fi 7 standard](https://win-solutions.techidaily.com/fix-starfields-unwanted-behavior-no-more-pc-freezing-or-crashing-moments/) aren't common just yet, you can prepare for them with the [TP-Link Deco BE65 Pro Mesh Router](https://www.tp-link.com/us/deco-mesh-wifi/product-family/deco-be65-pro/). A [mesh Wi-Fi system](https://extra-lessons.techidaily.com/manipulating-media-with-mastery-tools/) is ideal when you need to cover a lot of ground with your wireless network and can't rely on the weak performance of Wi-Fi extenders. The BE65 Pro system supports a multi-gig network with a 2.5 Gbps WAN port on the base node, along with two Ethernet ports hitting aggregated speeds of 5 Gbps. It also boasts what TP-Link calls "AI-Roaming technology," promising a seamless experience as you move from room to room with your wireless devices. A mobile yet reliable connection will be critical for using the latest AR headsets and gaming handhelds.
 
  These features complement everything offered by the Wi-Fi 7 standard, whose [finalized version was also unveiled at CES](https://smart-video-creator.techidaily.com/new-in-2024-trim-and-refine-a-step-by-step-guide-to-cropping-videos-in-avidemux/) this year. That means you can expect to see fully compatible wireless devices entering the market this year. Even if you don't live on the cutting edge, once available, the TP-Link's cylindrical mesh units should keep you sitting pretty in terms of wireless capabilities for a long time.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Best Gaming Laptop: Razer Blade 16
 
@@ -78,6 +92,13 @@ Justin Duino / How-To Geek
 
  JBL says the Go 4 is rated for 7 hours of battery life. It's IP67 rated, has Bluetooth 5.3, and [Bluetooth LE audio](https://screen-video-capture.techidaily.com/updated-the-experts-guide-to-live-classroom-capturing-via-macos-for-2024/). It will be available in June for only $50, which is $30 cheaper than the JBL Clip 5, the company's slightly larger portable speaker.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Best Mouse: Cherry M64 Pro Wireless Mouse
 
 ![Cherry M64 Pro Wireless Mouse at CES 2024](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/cherry-m64-pro-wireless-mouse-at-ces-2024.jpg) 
@@ -95,10 +116,10 @@ Hannah Stryker / How-To Geek
  Launching alongside keyboards, microphones, and other [CHERRY XTRFY gaming gear](https://www.cherry-world.com/company/press/article/cherry-xtrfy-reveals-entire-range-of-new-gaming-products-at-ces), the M64 Pro will be available for $139 in Q2 of 2024.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Best TV: LG G4 OLED
@@ -117,6 +138,13 @@ Hannah Stryker / How-To Geek
 
  LG hasn’t revealed the price or release date for the G4 OLED yet, but last year’s model was released in March and started at $2,300\. The G4 will range in sizes from 55 inches all the way up to 97 inches, though the very top size lacks the MLA technology.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Best Projector: XGIMI Horizon Max
 
 ![XGIMI Horizon Max projector sitting on a table at CES 2024](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/xgimi-horizon-max-projector-sitting-on-a-table-at-ces-2024.jpg) 
@@ -128,6 +156,13 @@ Justin Duino / How-To Geek
  The XGIMI Horizon Max is also a smart projector that will run on Android TV/Google TV, which will make it easy to access thousands of apps and streaming services. Our own Andrew Heinzman was at CES and had this to say about the projector: "An excellent looking projector. The extreme brightness, long throw ratio, motorized gimbal, and automatic keystone features are perfect for large home theaters or small venues. It’s a substantial upgrade from the Horizon Ultra, which was already great in its own right."
 
  XGIMI says the Horizon Max is scheduled for a late 2024 release, and while it didn't share specific pricing details, it will cost less than $3,000.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Best Keyboard: Satechi SM1 Slim
 
@@ -167,13 +202,6 @@ Justin Duino / How-To Geek
 
  As expected, all this tech comes at a price. The Roborock S8 MaxV Ultra costs $1,800 and will be launching in April.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Best Smart Lighting: Govee AI Sync Box Kit 2
 
 ![Govee AI Sync Box Kit 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/govee-ai-sync-box-kit-2.jpg) 
@@ -188,22 +216,15 @@ Govee
 
  Govee has promised an update for later in 2024 that will bring Matter support, which should make it easy to get your AI Sync Box 2 working with your other smart appliances.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Best Gaming: NVIDIA VRR Pulsar
 
 ![NVIDIA G-Sync Pulsar comparison stacked](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/nvidia-g-sync-pulsar-comparison-stacked.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 NVIDIA
@@ -234,13 +255,6 @@ Justin Duino / How-To Geek
 
 ![Sennheiser Momentum Sport earbuds sitting outside of their charging case at CES 2024](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/sennheiser-momentum-sport-earbuds-sitting-outside-of-their-charging-case-at-ces-2024.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Justin Duino / How-To Geek
 
  Sennheiser MOMENTUM Sport come equipped with a heart rate monitor and body temperature sensor, which can interface with a range of fitness apps, allowing you to optimize your workout and analyze long-term fitness trends. They also have other features we’ve come to expect from high-end earbuds, including adaptive noise cancellation, a transparency mode, and IP55 certification. Above and beyond the fitness tracking features, the earbuds deliver the kind of excellent sound quality Sennheiser is known for.
@@ -252,6 +266,13 @@ Justin Duino / How-To Geek
 ##  Best Health: Withings BeamO
 
 ![Person checking their heart rate using the Withings BeamO at CES 2024](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/person-checking-their-heart-rate-using-the-withings-beamo-at-ces-2024.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -288,5 +309,18 @@ Hannah Stryker / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-budget-conscious-video-modification-sites-explored-and-rated/"><u>2024 Approved Top Budget-Conscious Video Modification Sites Explored and Rated</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlimited-audio-processing-at-zero-cost/"><u>2024 Approved Unlimited Audio Processing at Zero Cost</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/access-unlimited-stock-photos-via-four-noteworthy-youtubes/"><u>Access Unlimited Stock Photos via Four Noteworthy YouTubes</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ing-income-via-youtube-ads-and-analytics-across-platforms-for-2024/"><u>Boosting Income via YouTube Ads & Analytics Across Platforms for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-motorola-moto-g84-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cutting-edge-convenience-smartwatch-mac-access/"><u>Cutting-Edge Convenience Smartwatch, Mac Access</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-windows-8-radeon-hd-graphics-drivers-for-free-amd/"><u>Download Windows 8 Radeon HD Graphics Drivers For Free - AMD</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/flight-to-imagery-a-review-of-dji-sparks-miniature-drone-innovation/"><u>Flight to Imagery A Review of DJI Spark's Miniature Drone Innovation</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-the-iphone-13-mini-icloud-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing the iPhone 13 mini iCloud Lock</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-meme-making-method-unveiling-6-crucial-gif-production-strategies/"><u>In 2024, The Meme-Making Method Unveiling 6 Crucial GIF Production Strategies</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-skys-playground-discovering-the-husqvarna-x4-fpv-for-2024/"><u>The Sky's Playground Discovering the Husqvarna X4 FPV for 2024</u></a></li>
+</ul></div>
 

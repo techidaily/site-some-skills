@@ -1,7 +1,7 @@
 ---
 title: Top 7 Linux Innovations Perfectly Suited for Integration Into the Next Version of Windows
-date: 2024-09-21T23:46:37.045Z
-updated: 2024-09-23T02:51:34.512Z
+date: 2024-09-26T02:33:58.546Z
+updated: 2024-09-29T10:50:07.130Z
 tags:
   - desktop
 categories:
@@ -22,6 +22,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [KDE Activities](https://screen-mirror.techidaily.com/overview-of-the-best-google-pixel-8-pro-screen-mirroring-app-drfone-by-drfone-android/)
 
  Windows 12 is still in development, giving us time to make some demands. For inspiration, let's look at Linux, the underdog of desktop computing. Here are 7 surprisingly advanced, quality-of-life features that Linux offers, and Windows 12 should definitely steal them.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  No Ads in the User Interface
 
@@ -53,29 +60,22 @@ Close
 
 ![Image of Arc Menu Extension and Menu Layout Variations on Ubuntu 22.04](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/3-image-of-arc-menu-extension-and-menu-layout-variations-on-ubuntu-22-04.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Widgets on the Desktop
 
  Windows 7 had widgets and it was wonderful. Sadly, Microsoft [removed them because of security concerns](https://blog-min.techidaily.com/5-ways-to-move-contacts-from-realme-c33-2023-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/), but they made a comeback (sort of) with Windows 11\. The problem is that Windows 11 widgets are [tucked away inside a separate panel](https://buynow-tips.techidaily.com/comprehensive-review-of-the-stylish-and-modern-swagtron-swagger-electric-scooter/) and not embedded directly on the desktop. It would be very nice to see Windows 12 will properly implement desktop widgets, like you can see here on Kubuntu:
 
 ![Desktop Widgets on Kubuntu 23.10 Spread across the screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/4-desktop-widgets-on-kubuntu-23-10-spread-across-the-screen.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Having desktop widgets means you have direct access to useful information like reminders, to-do lists, weather updates, a world clock, and more, without having to open multiple apps. It’d be awesome if I turned on the computer every morning and got a snapshot of my entire day right there on the desktop.
 
  If you can’t wait for Windows 12 and whether it will or will not introduce desktop widgets, you can use Rainmeter to display helpful information straight on your desktop.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Automatic Window Tiling
 
@@ -87,6 +87,13 @@ Close
 
 ![Pop!_OS in-built Tiling Window functionality auto-tiling two windows side by side.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/pop-_os-in-built-tiling-window-functionality.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Options to Customize the Taskbar
 
  Windows 10 offered a decent amount of customization options for the Taskbar. Unfortunately, Windows 11 severely reduced them to the point where the Taskbar is now fixed at the bottom; you can’t move it to the left, right, or top. Also, the right-click menu is overly simplified to just two options—Taskbar Setting or the Task Manager.
@@ -97,41 +104,35 @@ Close
 
  The ability to move the taskbar again would be a great start. On top of that, different Taskbar variations, like a floating one or a minimized one similar to the Mac Dock, would really help users to personalize their personal computers.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  A More Integrated Virtual Desktop Experience
 
  Virtual desktops are a great way to organize open apps and boost productivity. Microsoft introduced them to Windows 10 and improved their overall experience with [Windows 11](https://hardware-tips.techidaily.com/mastering-tech-essentials-at-toms-hardware-source/).
 
 ![Virtual Desktops on Windows 11](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/8-virtual-desktops-on-windows-11.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To enhance this in Windows 12, it would be awesome to have the option to visualize and manage all virtual desktops directly from the Taskbar. Also, the option to launch apps to different desktops from the Task View would be a game-changer. Look at Ubuntu’s Activities Overview (equivalent to Windows 11’s Task View) to see what I’m talking about.
 
 ![Image Showing Ubuntu 22.04 Activities Overview](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/9-image-showing-ubuntu-22-04-activities-overview.png) 
-
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  At the top, there’s a row of mini windows for all open virtual desktops (Workspaces). You can click to switch between them. The center shows your current desktop with all open apps. On the left, the Ubuntu Dash (similar to Windows' Taskbar) lets you drag and drop apps to any virtual desktop.
 
  Additionally, the [Workspace Indicator](https://visual-screen-recording.techidaily.com/2024-approved-instantaneous-screen-logger-for-chrome/) extension adds a virtual desktop switcher to the panel, allowing you to switch and move apps between desktops directly from the panel without opening the Activities Overview.
 
 ![Ubuntu 22.04 Panel based Virtual Desktop switcher](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/10-ubuntu-22-04-panel-based-virtual-desktop-switcher.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  KDE Activities
 
@@ -160,5 +161,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-first-steps-in-the-digital-dollar-youtube-earning-hacks/"><u>[New] 2024 Approved First Steps in the Digital Dollar - YouTube Earning Hacks</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-saving-game-moments-top-5-techniques-on-win10/"><u>[New] 2024 Approved Saving Game Moments Top 5 Techniques on Win10</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-from-idea-to-reality-examining-mycams-video-recorder-performance/"><u>[New] In 2024, From Idea to Reality Examining MyCam’s Video Recorder Performance</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-premiere-virtual-artist-streams/"><u>[New] Premiere Virtual Artist Streams</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-innovators-defining-next-gen-vr-experiences/"><u>[New] Top Innovators Defining Next-Gen VR Experiences</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-velocity-vision-speed-up-videos-on-android/"><u>[New] Velocity Vision Speed Up Videos on Android</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-capturing-online-seminars-for-2024/"><u>[Updated] Capturing Online Seminars for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-integrating-zoom-and-skype-the-ultimate-guide-to-efficient-video-calls/"><u>[Updated] Integrating Zoom and Skype The Ultimate Guide to Efficient Video Calls</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transforming-audiencier-names-with-top-ai-tools/"><u>[Updated] Transforming Audiencier Names with Top AI Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-choice-elite-desktop-pcs/"><u>[Updated] Ultimate Choice Elite Desktop PCs</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-standout-6-sites-connecting-corporate-leaders/"><u>2024 Approved Standout 6 Sites Connecting Corporate Leaders</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-symphony-of-well-being-learn-from-asmr/"><u>2024 Approved The Symphony of Well-Being – Learn From ASMR</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-picture-narrative-craft-pro-edition/"><u>2024 Approved Ultimate Picture Narrative Craft - Pro Edition</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>How to Change/Add Location Filters on Snapchat For your Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-update-released-for-logitech-extreme-3d/"><u>Latest Update Released for Logitech Extreme 3D!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-pictures-from-xiaomi-13t-by-fonelab-android-recover-pictures/"><u>Possible solutions to restore deleted pictures from Xiaomi 13T.</u></a></li>
+<li><a href="https://some-skills.techidaily.com/syncing-scenes-merging-pc-and-cloud-images-for-2024/"><u>Syncing Scenes Merging PC & Cloud Images for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/transform-your-livestreams-with-eco-friendly-screen-effects/"><u>Transform Your Livestreams with Eco-Friendly Screen Effects</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-and-repairing-the-apple-watchs-touch-sensor-issues/"><u>Understanding and Repairing the Apple Watch's Touch Sensor Issues</u></a></li>
+</ul></div>
 

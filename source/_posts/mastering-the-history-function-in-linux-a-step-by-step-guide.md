@@ -1,7 +1,7 @@
 ---
 title: "Mastering the 'History' Function in Linux: A Step-by-Step Guide"
-date: 2024-09-17T22:34:11.160Z
-updated: 2024-09-22T16:57:55.456Z
+date: 2024-09-26T11:49:55.326Z
+updated: 2024-09-29T01:19:50.904Z
 tags:
   - desktop
 categories:
@@ -46,6 +46,13 @@ history
 
 ![Output from history in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/2-10.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The commands are numbered, with the most recently used (those with the highest numbers) at the end of the list.
 
  To see a certain number of commands, you can pass a number to `history` on the command line. For example, to see the last 10 commands you've used, type the following:
@@ -76,13 +83,6 @@ history | tail -n 10
 
 ![!! in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/6-10.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This can be useful when you issue a command and forget to use `sudo` . Type `sudo`, one space, the double exclamation points, and then hit Enter.
 
  For the following example, we typed a command that requires `sudo`. Instead of retyping the whole line, we can save a bunch of keystrokes and just type `sudo !!`, as shown below:
@@ -103,13 +103,6 @@ sudo !!
 
 ![!-13 ina terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/8-8.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Searching for Commands by String
 
  To repeat the last command that starts with a particular string, you can type an exclamation point, and then the string with no spaces, and then hit Enter.
@@ -121,16 +114,10 @@ sudo !!
 ![!sudo in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/9-9.png) 
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  There's an element of danger in this, though. If the last command that started with `sudo` isn't the one you think it is, you'll launch the wrong command.
@@ -249,13 +236,6 @@ history -w
 
 ![history -w in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/23-3.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Clearing the History List
 
  To clear all commands from the history list, you can use the `-c` (clear) option, as follows:
@@ -297,13 +277,6 @@ history 5
 
  The command with the password isn't added to the history list. The reason this trick works is contained within the `.bashrc` file.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  The .bashrc File
 
  The `.bashrc` file executes each time you log in or open a terminal window. It also contains some values that control the behavior of the `history` command. Let's [edit this file with gedit](https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-pro-passcode-without-computer-drfone-by-drfone-ios/).
@@ -331,6 +304,13 @@ gedit .bashrc
  Also near the top of the file, you see an entry for the `HISTCONTROL` value.
 
 ![HISTCONTROL entry n the .bashrc file in gedit](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/31b.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can set this value to do any of the following:
 
@@ -360,6 +340,13 @@ export HISTTIMEFORMAT="%c "
 
 ![history listing with timestamps in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/30-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  That's a very long-winded timestamp. However, you can use tokens other than `%c` to refine it. The other tokens you can use are:
 
 * **`%d`:** Day
@@ -378,9 +365,23 @@ export HISTTIMEFORMAT="%d n%m %T "
 
 ![export HISTTIMEFORMAT="%d n%m %T " in gedit](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/31a.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The output uses the day, month, and time.
 
 ![history list with timestamps in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/32-2.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If we remove the day and month, though, it will just show the time.
 
@@ -390,9 +391,23 @@ export HISTTIMEFORMAT="%T "
 
 ![The &quot;export HISTTIMEFORMAT=&quot;%T&quot; command in gedit.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/33-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Our output is now more manageable.
 
 ![history list with timestamps in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/34-1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also use the `history` command to audit. Sometimes, reviewing [commands](https://buynow-help.techidaily.com/misinterpretation-of-gram-staining-results-can-lead-to-incorrect-identification-affecting-treatment-decisions-in-clinical-settings/) you've used in the past can help you identify what might have caused an issue.
 
@@ -417,5 +432,24 @@ export HISTTIMEFORMAT="%T "
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-ranked-worlds-best-anime-opening-music-for-2024/"><u>[New] Ranked World's Best Anime Opening Music for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamlined-file-sharing-from-your-computer-to-iphone/"><u>[New] Streamlined File Sharing From Your Computer To iPhone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-guide-to-top-8-gold-text-in-3d-realms/"><u>[New] Ultimate Guide to Top 8 Gold Text in 3D Realms</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-capture-and-transfer-igtv-videos-on-handheld-tech/"><u>[Updated] In 2024, Capture and Transfer IGTV Videos on Handheld Tech</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-ingenious-tactics-to-elevate-customer-feedback-visual-content/"><u>[Updated] Ingenious Tactics to Elevate Customer Feedback Visual Content</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveil-the-quickest-ways-to-transform-your-game-characters-speech-in-pubg/"><u>[Updated] Unveil the Quickest Ways to Transform Your Game Characters' Speech in PUBG</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-take-it-upward-expert-techniques-for-phones/"><u>2024 Approved Take It Upward Expert Techniques for Phones</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-from-apple-iphone-7-plus-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled From Apple iPhone 7 Plus? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-analysis-testing-the-strength-of-urban-armor-gear-macbook-case/"><u>Expert Analysis: Testing the Strength of Urban Armor Gear MacBook Case</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-sony-xperia-1-v-is-unlocked-by-drfone-android/"><u>How To Check if Your Sony Xperia 1 V Is Unlocked</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-solved-obs-full-screen-not-working/"><u>In 2024, [Solved] OBS Full Screen Not Working</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tactics-for-integrating-multimedia-into-lessons/"><u>In 2024, Tactics for Integrating Multimedia Into Lessons</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tonal-transition-triumphs-for-creative-virtuosos/"><u>In 2024, Tonal Transition Triumphs for Creative Virtuosos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unraveling-the-itunes-radio-download-process/"><u>In 2024, Unraveling the iTunes Radio Download Process</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleash-the-full-potential-top-6-music-video-watching-apps-on-android-for-2024/"><u>Unleash the Full Potential - Top 6 Music Video Watching Apps on Android for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-samsung-galaxy-xcover-7-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Samsung Galaxy XCover 7 Users</u></a></li>
+</ul></div>
 

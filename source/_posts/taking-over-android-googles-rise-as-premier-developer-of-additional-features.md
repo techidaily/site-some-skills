@@ -1,7 +1,7 @@
 ---
 title: "Taking Over Android: Google's Rise as Premier Developer of Additional Features"
-date: 2024-09-22T06:58:18.502Z
-updated: 2024-09-22T19:13:48.224Z
+date: 2024-09-22T21:26:19.505Z
+updated: 2024-09-29T03:13:42.395Z
 tags:
   - mobile
 categories:
@@ -19,12 +19,26 @@ thumbnail: https://thmb.techidaily.com/e591b5728fa84d66a3323b91b4ed2e3f5b0efaa53
 * [Some Preinstalled Apps Are Better Than Google's](https://win-blog.techidaily.com/error-0xc19001e1-in-windows-10-a-complete-walkthrough-to-restore-system-health/)
 * [Google Apps Make Android Phones All Feel the Same](https://fox-friendly.techidaily.com/decreasing-audio-intensity-protocol/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Google controls the most popular store for distributing Android apps and requires Android phone makers to ship a suite of Google software in order to have access.
 * Some OEM apps are better than Google's, but fewer phone companies are going through the effort of making their own software.
 
  Back in the day, I used to loathe the custom skins and apps that Android phone makers added to their phones. Android's vendor-neutral default apps have since been replaced by Google apps, and the tech giant has used its dominance to fill our Android devices with far more pre-installed software than any other company.
+
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Google and Android Are Not One and the Same
 
@@ -39,10 +53,10 @@ thumbnail: https://thmb.techidaily.com/e591b5728fa84d66a3323b91b4ed2e3f5b0efaa53
 ![The app drawer of the OnePlus12R](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-app-drawer-of-the-oneplus12rjpg_53485300814_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -69,6 +83,13 @@ Justin Duino / How-To Geek
 
  People are quick to call out budget Motorola phones for installing unwanted shopping apps and random games, but Google's software collects far more data and is much more intrusive. We're just conditioned to expect them, even if we have never once clicked on Google Home.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Some Preinstalled Apps Are Better Than Google's
 
  Even if I liked the Google ecosystem and actively took part in it, I would still be sad to see Android phone makers give up on making their own software. Some companies [do a better job at creating certain apps than Google does](https://extra-hints.techidaily.com/new-an-examination-of-photoshops-anti-shake-capabilities/).
@@ -83,13 +104,6 @@ Close
 
  Nothing (the company) shows [how much style a phone maker can give their phones](https://hardware-reviews.techidaily.com/toms-tech-insights-exploring-the-latest-in-hardware-innovation/) without making their devices as garish and inconsistent as the Android skins of years past. Android would be far less interesting without their innovations and experimentation.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Google Apps Make Android Phones All Feel the Same
 
  As Google's control over software has grown, there is increasingly less difference between one Android device and the next. You walk through similar set-up screens, are presented with the same data collection options, and see your app drawer pre-populated with largely the same software.
@@ -99,13 +113,6 @@ Close
  Phones aren't the only devices that suffer from this. Consider the [XREAL Beam Pro](https://us.shop.xreal.com/products/xreal-beam-pro), an Android-based (and far more affordable) alternative to Apple's Vision Pro. It's a tempting addition to [the AR glasses I replaced my computer monitor with](https://youtube-docs.techidaily.com/approved-expert-insights-where-to-invest-in-youtube-creator-revenue/). When you launch the device for the first time, you're presented with a large array of Google apps that you probably didn't buy AR glasses to use. They continue to clutter up the launcher unless you dive into settings and disable them.
 
 ![Apps in the launcher on an XREAL Beam Pro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/xreal_shot_1723131795364.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  XREAL isn't a Google company, but since access to the Play Store is a big part of the device's appeal, they're required to shill Google services, at a detriment to the user experience.
 
@@ -128,5 +135,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-streamlined-techniques-for-ios-image-sharing/"><u>[New] Streamlined Techniques for iOS Image Sharing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-time-lapse-magic-animation-through-the-lens-of-movie-maker/"><u>[Updated] Time-Lapse Magic Animation Through the Lens of Movie Maker</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-mysteries-of-firefoxs-pip-mode/"><u>[Updated] Unveiling the Mysteries of Firefox’s PIP Mode</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-updating-your-skills-regularly/"><u>[Updated] Updating Your Skills Regularly</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamlined-multitasking-in-safari-with-pip/"><u>2024 Approved Streamlined Multitasking in Safari with PIP</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/break-the-blackout-blank-screen-on-twitch/"><u>Break the Blackout Blank Screen on Twitch</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/discover-how-to-securely-obtain-and-enjoy-the-official-2018-world-cup-fifa-hymn-for-free/"><u>Discover How to Securely Obtain and Enjoy the Official 2018 World Cup FIFA Hymn for Free!</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/elevate-your-global-presence-learn-croatian-and-these-7-benefits/"><u>Elevate Your Global Presence - Learn Croatian and These 7 Benefits!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Motorola Moto G 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tis-the-tape-a-1992-rewind-at-goofys-cinema/"><u>In 2024, 'Tis the Tape!' A 1992 Rewind at Goofy's Cinema</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-iphone-filmmaking-made-simple-learn-three-free-ways-to-add-audio-to-clips/"><u>In 2024, IPhone Filmmaking Made Simple – Learn Three Free Ways to Add Audio to Clips</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/maximizing-your-visuals-the-ultrawide-vs-uhd-4k-debate/"><u>Maximizing Your Visuals The UltraWide vs UHD 4K Debate</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-realme-11-pro-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Realme 11 Pro Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/streamlined-audio-processing-in-windows-media-player-for-2024/"><u>Streamlined Audio Processing in Windows Media Player for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-handbook-for-swapping-music-libraries-for-2024/"><u>The Ultimate Handbook for Swapping Music Libraries for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-resource-50plus-no-fee-visual-effects-websites-reviewed-for-2024/"><u>The Ultimate Resource 50+ No-Fee Visual Effects Websites Reviewed for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-and-managing-your-online-bandwidth-expenditure/"><u>Understanding & Managing Your Online Bandwidth Expenditure</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Introducing Microsoft's Latest Innovation: An AI-Enhanced Recall Function for Personal Computers"
-date: 2024-09-21T17:15:29.358Z
-updated: 2024-09-23T01:44:43.300Z
+date: 2024-09-24T04:42:52.754Z
+updated: 2024-09-29T03:03:01.645Z
 tags:
   - deals
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/5e8073ee6fa80b00481e787b8ffd70b1f1a083692
 
  Microsoft has leaned heavily into AI recently, and nowhere is that more on display than their latest addition to Windows: Recall. Here's what you need to know.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What is Microsoft Recall?
 
  Microsoft Recall, formerly internally called AI Explorer, is a new, special kind of AI-powered search that is set to be integrated into Windows 11 (and likely subsequent Windows releases). It’ll have the ability to make note of everything you do on your PC, which you can then search using natural language. In other words, if you were writing a short story about a cat and forgot where you saved it, you should be able to ask Recall, “Where did I save my story about the cat” and it’ll be able to tell you.
@@ -26,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/5e8073ee6fa80b00481e787b8ffd70b1f1a083692
  It’s like having someone with an eidetic memory watching what you do all the time, although Microsoft has stated that [users will be able to control what content Recall captures](https://blogs.windows.com/windowsexperience/2024/05/20/accelerating-innovation-a-new-era-of-ai-at-work-begins/).
 
  It isn’t limited to basic information about files, though. Recall is built around a large number of more specialized AI features that will allow it to interact with everything from text to images to video.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What Does Recall Require?
 
@@ -38,16 +52,10 @@ thumbnail: https://thmb.techidaily.com/5e8073ee6fa80b00481e787b8ffd70b1f1a083692
  TOPs are a little different from the TFLOP figures you usually see thrown around when talking about super computers, GPUs, or CPUs. TOPs are measured in half-precision, FP16, or BFloat16, or BF16 calculations. TFlops usually (but not always) refer to “full precision” operations, which use 32-bit bit floating point numbers.
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Is Microsoft Recall Secure?
@@ -75,5 +83,18 @@ thumbnail: https://thmb.techidaily.com/5e8073ee6fa80b00481e787b8ffd70b1f1a083692
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/updated-navigating-the-digital-space-with-ease-via-onestream-platform-for-2024/"><u>[Updated] Navigating the Digital Space with Ease via OneStream Platform for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-collection-8-amazing-3d-websites-with-gold/"><u>[Updated] The Ultimate Collection 8 Amazing 3D Websites with Gold</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-from-disjointed-to-harmonious-the-logic-pro-x-transition-tale/"><u>2024 Approved From Disjointed to Harmonious The Logic Pro X Transition Tale</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-professionals-almanac-to-efficient-voice-recording/"><u>2024 Approved Professional's Almanac to Efficient Voice Recording</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-quick-and-the-funny-with-kinemaster-memes/"><u>2024 Approved The Quick and the Funny with KineMaster Memes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-hp-officejet-pro-8720-driver-software-update-for-windows-os/"><u>Get the Latest HP Officejet Pro #8720 Driver Software Update for Windows OS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tap-into-the-funny-kapwing-for-meme-makers/"><u>In 2024, Tap Into the Funny Kapwing for Meme Makers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-most-affordable-gaming-tunes-top-10-lists/"><u>In 2024, The Most Affordable Gaming Tunes Top 10 Lists</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-huawei-nova-y71-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Huawei Nova Y71? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ne-watching-made-simple-youtube-videos-for-ios-users/"><u>Offline Watching Made Simple YouTube Videos for iOS Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-the-power-of-a-new-identity-step-by-step-guide-to-alter-your-game-characters-voice-for-free-for-2024/"><u>Unlock the Power of a New Identity Step-by-Step Guide to Alter Your Game Character's Voice for FREE for 2024</u></a></li>
+</ul></div>
 

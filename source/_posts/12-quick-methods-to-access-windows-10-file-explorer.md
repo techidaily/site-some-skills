@@ -1,7 +1,7 @@
 ---
 title: 12 Quick Methods to Access Windows 10 File Explorer
-date: 2024-09-19T18:13:50.202Z
-updated: 2024-09-23T06:45:09.622Z
+date: 2024-09-28T05:05:03.535Z
+updated: 2024-09-29T07:22:40.228Z
 tags:
   - deals
 categories:
@@ -47,11 +47,25 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Almost every keyboard on a Windows PC has a Windows key (it's the one with the Windows icon). You can open File Explorer by pressing Windows+E.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Via Windows Search
 
  You can search for any application on your PC in Windows Search. In the Search box to the left of the Taskbar, just type "File Explorer," and then click (or use the arrow keys to select) "File Explorer" in the search results to launch it.
 
 ![Search for 'file explorer' in the search bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/file-explorer-on-search.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  From the Start Menu
 
@@ -81,6 +95,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![File explorer tile](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/10/File-explorer-tile.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  From Within File Explorer
 
  You can launch anything that is [on your system PATH](https://android-frp.techidaily.com/in-2024-the-complete-guide-to-meizu-frp-bypass-everything-you-need-to-know-by-drfone-android/) from the address bar without specifying a full path to the executable, just like a Run window, Command Prompt, or PowerShell.
@@ -89,25 +110,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Running File Explorer from within File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/explorer-in-explorer.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  From the Power User Menu
 
  You can also open File Explorer from the Power User Menu. To access it, press Windows+X or right-click the Start button, and then click "File Explorer."
 
 ![File Explorer in Power User menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/10/File-Explorer-in-Power-User-menu.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Use the Run Application
 
@@ -121,24 +128,51 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![File Explorer exe file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/10/File-Explorer-exe-file.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Add a Shortcut to the Desktop
 
  For quicker access to File Explorer, you can [create a desktop shortcut](https://extra-approaches.techidaily.com/updated-skys-limit-for-your-visual-stories-unlimited-free-options-and-premium-choices/). To do so, click the Start button at the bottom left.
 
 ![Windows start button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/10/Windows-start-button.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the app list, scroll down and click "Windows System." In the submenu, click and drag "File Explorer" to the desktop. You can also drag and drop File Explorer from the pinned app tiles on the right.
 
 ![File explorer desktop shortcut](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/10/File-explorer-desktop-shortcut.gif) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now, you can just double-click the shortcut on your desktop to open File Explorer anytime.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  From Task Manager
 
@@ -146,16 +180,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Open Task Manager, then navigate to File > Run New Task.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/task-manager-file-run-new-task.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The "Create New Task" window will appear. Type "Explorer" in the "Open:" text box, click "OK," and File Explorer will open.
 
 ![Enter 'explorer' into the 'Create New Task' window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/create-new-task-task-manager.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  From Command Prompt
 
@@ -183,13 +217,6 @@ explorer
 
 ![Run 'explorer' in PowerShell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/explorer-in-powerhsell.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  File Explorer will then open.
 
 ---
@@ -209,5 +236,20 @@ explorer
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ntegrating-youtube-effective-strategies-for-modern-teachers-for-2024/"><u>[New] Integrating YouTube Effective Strategies for Modern Teachers for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-teaching-through-media-pro-video-editing-hacks/"><u>[New] Teaching Through Media Pro Video Editing Hacks</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/91757373-updated-step-by-written-by-a-language-model-ai-i-can-help-rewrite-the-paragraph-into-an-academic-style-but-please-note-that-my-responses-may-not-have-the-sa/"><u>[Updated] Step-By Written by a Language Model AI. I Can Help Rewrite the Paragraph Into an Academic Style, but Please Note that My Responses May Not Have the Same Depth as Those Written by Subject Matter Experts. Here Is a Revised Version For 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamlining-cd-manipulation-with-wmp/"><u>[Updated] Streamlining Cd Manipulation with WMP</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-toolwiz-photosapp-for-photographers/"><u>2024 Approved The Ultimate Guide to Toolwiz PhotosApp for Photographers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-twitter-video-requirements-how-to-upload-a-video-on-twitter/"><u>2024 Approved Twitter Video Requirements | How to Upload a Video on Twitter?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-screen-mirroring-apple-iphone-15-plus-to-tv-or-pc-drfone-by-drfone-ios/"><u>In 2024, How Screen Mirroring Apple iPhone 15 Plus to TV or PC? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamlined-iphones-how-to-grab-your-favorite-podcasts/"><u>In 2024, Streamlined iPhones How to Grab Your Favorite Podcasts</u></a></li>
+<li><a href="https://facebook.techidaily.com/personal-info-paradox-how-much-can-you-really-share/"><u>Personal Info Paradox: How Much Can You Really Share?</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/pioneering-peace-in-personal-audio-24/"><u>Pioneering Peace in Personal Audio '24</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-fixing-system-cannot-allocate-enough-memory-error/"><u>Resolved: Fixing 'System Cannot Allocate Enough Memory' Error</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/trustworthy-guides-for-all-your-computer-needs-discover-with-tom/"><u>Trustworthy Guides for All Your Computer Needs: Discover with Tom</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unboxing-viva-a-user-guide-to-its-videos-for-2024/"><u>Unboxing Viva A User Guide to Its Videos for 2024</u></a></li>
+</ul></div>
 

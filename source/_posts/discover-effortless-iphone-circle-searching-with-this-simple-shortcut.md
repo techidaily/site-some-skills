@@ -1,7 +1,7 @@
 ---
 title: Discover Effortless iPhone Circle Searching with This Simple Shortcut
-date: 2024-09-19T20:45:27.117Z
-updated: 2024-09-23T06:06:23.280Z
+date: 2024-09-28T05:05:05.858Z
+updated: 2024-09-28T17:01:31.684Z
 tags:
   - mobile
 categories:
@@ -18,6 +18,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * While not an exact replacement, this workaround allows iPhone users to access a feature typically only available on select Android phones.
 
  Circle to Search cuts through the traditional Google search experience, helping you find what you need in an instant. The feature isn't natively available on iPhones, but there's a workaround that lets you use Google Lens similarly. Here's how.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What Is Circle to Search?
 
@@ -37,6 +44,13 @@ Justin Duino / How-To Geek
 
 ![Screenshot of the Google app for iPhone for App Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Open the [iPhone's Shortcuts app](https://win-solutions.techidaily.com/expert-tips-for-when-you-cant-get-far-cry-6-running-on-your-desktop/) and hit the "+" plus icon in the top right corner.
 
 ![Screenshot of the iPhone's Shortcuts app highlighting the option to add a shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-3.png) 
@@ -45,9 +59,23 @@ Justin Duino / How-To Geek
 
 ![Screenshot of the Add Action button in iPhone's Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  On the following screen, type "take screenshot" in the search bar (at the top) and select the right option.
 
 ![Screenshot of the Take Screenshot button in Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now, tap on the search bar at the bottom and type "Search Image with Lens." This option will not appear unless you've downloaded the Google app. Choose the correct option from the results.
 
@@ -63,6 +91,13 @@ Justin Duino / How-To Geek
 
 ![Screenshot of the Back Tap option in iPhone's Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/8-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Choose whether you want to trigger the shortcut from a double or triple tap. I'm going with double tap.
 
 ![Screenshot of the Back Tap option in iPhone's Settings section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/9.png) 
@@ -70,19 +105,6 @@ Justin Duino / How-To Geek
  Scroll to the bottom and select "Search Image with Lens" in the Shortcuts menu.
 
 ![Search Image with Lens in iPhone's Back Tap menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/10.png) 
-
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Use Back Tap to Invoke Google Lens' Visual Search
 
@@ -111,5 +133,24 @@ Justin Duino / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-expertly-mastering-file-imports-in-the-realm-of-windows-10/"><u>[New] Expertly Mastering File Imports in the Realm of Windows 10</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-the-ultimate-skype-call-recording-methodology-explained/"><u>[New] The Ultimate Skype Call Recording Methodology Explained</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-6-video-formats-for-captivated-audiences/"><u>[New] Top 6 Video Formats for Captivated Audiences</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-best-storytelling-schools-1-8-guide/"><u>[New] Unveiling the Best Storytelling Schools - #1-#8 Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-inside-look-analyzing-androids-photoshop-substitute-lightroom/"><u>[Updated] Inside Look Analyzing Android's Photoshop Substitute, Lightroom</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-loop-video-liftoff-engaging-audiences-on-ig/"><u>[Updated] Loop Video Liftoff Engaging Audiences on IG</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-comprehensive-srt-handbook-for-enthusiasts/"><u>[Updated] The Comprehensive SRT Handbook for Enthusiasts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-creating-smooth-audio-cuts/"><u>2024 Approved The Art of Creating Smooth Audio Cuts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cinematic-vibes-photos-with-a-soundtrack-twist-for-2024/"><u>Cinematic Vibes Photos with a Soundtrack Twist for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-altering-photographic-contrast/"><u>In 2024, The Art of Altering Photographic Contrast</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-canon-shots-access-to-unlimited-free-and-purchasable-luts/"><u>In 2024, Transform Your Canon Shots Access to Unlimited Free & Purchasable LUTs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/stunning-celestinas-and-skies-online-directory-for-2024/"><u>Stunning Celestinas and Skies Online Directory for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/the-essential-guide-to-win10s-video-grabbing-software-for-2024/"><u>The Essential Guide to Win10's Video Grabbing Software for 2024</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/top-5-powerful-tools-for-enhancing-your-mkv-file-metadata/"><u>Top 5 Powerful Tools for Enhancing Your MKV File Metadata</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-cinematic-trailer-collection/"><u>Ultimate Cinematic Trailer Collection</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-swiftness-in-fb-video-transfers-with-top-tools-and-extensions-for-2024/"><u>Unlocking Swiftness in FB Video Transfers with Top Tools and Extensions for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-squeeze-the-most-out-of-your-storage-5-best-free-video-compression-apps/"><u>Updated In 2024, Squeeze the Most Out of Your Storage 5 Best Free Video Compression Apps</u></a></li>
+</ul></div>
 

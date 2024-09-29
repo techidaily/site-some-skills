@@ -1,7 +1,7 @@
 ---
 title: Understanding the Process of Wireless Electric Vehicle Charging
-date: 2024-09-17T00:59:41.250Z
-updated: 2024-09-18T04:31:12.567Z
+date: 2024-09-27T03:33:18.987Z
+updated: 2024-09-28T18:11:22.716Z
 tags:
   - cutting-edge
 categories:
@@ -18,6 +18,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 * [What's Next for Wireless EV Charging](https://snapchat-videos.techidaily.com/updated-2024-approved-evaluating-engagement-a-side-by-side-look-at-tiktok-and-snap/)
 
  We've all grown pretty used to wireless smartphone charging by now, but what if you could charge an electric car the same way? The technology is currently being developed --- pretty soon, all you might need to do to charge your Tesla is park it.
+
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How Wirelessly Electric Vehicle Charging Works
 
@@ -41,6 +54,13 @@ Related: [How Does Wireless Charging Work?](https://eaxpv-info.techidaily.com/ne
 
  The cost of building that kind of tech into roadways on a wide scale remains to be seen and could get in the way of wireless charging roads becoming mainstream if prohibitively high. The U.S. doesn't have a great record when it comes to the upkeep of our [current roads and bridges,](https://www.cfr.org/backgrounder/state-us-infrastructure) but with Congress recently approving a large infrastructure bill we could, hopefully, see that trend improve.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Challenges of Wireless EV Charging
 
  One big hurdle to mass-market wireless charging is the expense. At the time of writing, WiTricity says one of their wireless charging stations costs around $700\. But calculating true cost is tricky at this point is difficult since the tech is so new. It depends on whether you're talking about retrofitting a single vehicle or outfitting a whole fleet. It'll also cost more to add several pads to a large electric bus than to fit a regular EV sedan with wireless charging --- up into the thousands, according to [The Eco Experts](https://www.theecoexperts.co.uk/electric-vehicles/wireless-ev-charging#link-how-much-does-wireless-electric-vehicle-charging-cost). The bottom line is that, at the time of writing, wireless charging tech will cost significantly more than a wired charging station to install for personal use.
@@ -56,10 +76,10 @@ Related: [Level 1, Level 2, or Level 3? EV Chargers Explained](https://visual-sc
  To address that, manufacturers are building fail safes. In Ferrell's video, WiTricity's CEO explained that if an object like a metal can or a cat that crawled under the car to try and get warm is detected, the charger would shut off and send a notification to your phone. If a person gets too close to the charging pad, it also shuts off. [WiTricity's website](https://witricity.com/products/automotive/) outlines these precautions in a little more detail.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What's Next for Wireless EV Charging
@@ -81,5 +101,24 @@ Related: [Level 1, Level 2, or Level 3? EV Chargers Explained](https://visual-sc
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-effortless-time-lapse-videos-in-gopro-studio-tutorial-for-2024/"><u>[New] Effortless Time Lapse Videos in GoPro Studio Tutorial for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-2024-high-definition-cameras/"><u>[New] The Ultimate 2024 High Definition Cameras</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-twilight-treasures-iphone-night-photography-secrets/"><u>[New] Twilight Treasures IPhone Night Photography Secrets</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-a-peek-into-the-best-mac-applications-for-sniping-perfectly/"><u>[Updated] 2024 Approved A Peek Into the Best Mac Applications for Sniping Perfectly</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-effective-habits-to-monitor-and-record-gotomeetings/"><u>[Updated] 2024 Approved Effective Habits to Monitor and Record GoToMeetings</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-ranked-list-of-pristine-cost-free-websites-for-designers-delight-for-2024/"><u>[Updated] Ranked List of Pristine, Cost-Free Websites for Designers' Delight for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamlining-post-production-with-luts-in-ae/"><u>2024 Approved Streamlining Post-Production with LUTs in AE</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-syncing-visual-elements-across-platforms/"><u>2024 Approved Syncing Visual Elements Across Platforms</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-what-are-the-best-sites-to-download-text-effects/"><u>2024 Approved What Are The Best Sites To Download Text Effects?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-now-hassle-free-process-linksys-e9000-ac1750-wifi-router-latest-drivers-and-quick-setup-steps/"><u>Download Now: [Hassle-Free Process] Linksys E9000 AC1750 WiFi Router - Latest Drivers & Quick Setup Steps</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-the-foundation-of-a-great-facebook-presence-mastering-covers/"><u>In 2024, The Foundation of a Great Facebook Presence Mastering Covers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiled-top-10-superior-gopro-housing-options/"><u>In 2024, Unveiled Top 10 Superior GoPro Housing Options</u></a></li>
+<li><a href="https://fox-access.techidaily.com/inshot-vs-competitors-a-detailed-video-app-review/"><u>InShot vs Competitors A Detailed Video App Review</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-infinix-note-30-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Infinix Note 30 5G</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-metaverse-advertising-playbook-for-2024/"><u>The Ultimate Metaverse Advertising Playbook for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-solution-for-stopping-youtube-video-previews-for-2024/"><u>The Ultimate Solution for Stopping YouTube Video Previews for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/vanguard-devices-frontline-computing-titans/"><u>Vanguard Devices Frontline Computing Titans</u></a></li>
+</ul></div>
 

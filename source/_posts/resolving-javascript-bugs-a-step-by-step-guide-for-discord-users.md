@@ -1,7 +1,7 @@
 ---
 title: "Resolving JavaScript Bugs: A Step-by-Step Guide for Discord Users"
-date: 2024-09-20T06:51:19.492Z
-updated: 2024-09-23T02:42:37.656Z
+date: 2024-09-25T03:08:17.678Z
+updated: 2024-09-28T18:26:04.871Z
 tags:
   - deals
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/e0dd15b42e7cb5414bdb7af5c281fcfdfef62e342
 
  Running into a JavaScript error on Discord makes you unable to use the app. Luckily, you have a few ways to fix the problem and get the app running as smoothly as possible. Here are the possible solutions to your issue.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Run Discord as an Admin
 
  One reason you get the above error is that Discord doesn’t have full permission to function. You can fix that by [running the app with administrator rights on your Windows PC](https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual/).
@@ -26,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/e0dd15b42e7cb5414bdb7af5c281fcfdfef62e342
  To do that, find Discord on your desktop or in Start Menu. Right-click the app, and from the open menu, select "Run as Administrator."
 
 !['Run as Administrator' highlighted for Discord in Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-run-discord-as-admin.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In the User Account Control prompt, select "Yes."
 
@@ -39,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/e0dd15b42e7cb5414bdb7af5c281fcfdfef62e342
 
  Select "Apply," choose "Continue" in the prompt, and select "OK." From now on, whenever you launch Discord using your desktop shortcut, it’ll run with admin rights.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Delete Discord’s AppData Files
 
  Discord’s AppData file corruption can cause a JavaScript error. One way to fix this is to remove the faulty files and use the app installer to get the original app files.
@@ -50,6 +71,13 @@ thumbnail: https://thmb.techidaily.com/e0dd15b42e7cb5414bdb7af5c281fcfdfef62e342
  Open the "Discord" folder and select all files by pressing Ctrl+A. Right-click a selected file and choose "Delete" (a trash can icon).
 
 ![A trash can icon highlighted for Discord's appdata files in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-delete-discord-appdata-files.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Open Run again (by pressing Windows+R), type the following path, and press Enter:
 
@@ -75,13 +103,6 @@ thumbnail: https://thmb.techidaily.com/e0dd15b42e7cb5414bdb7af5c281fcfdfef62e342
 
  That’s it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Uninstall BetterDiscord
 
  If you’re using BetterDiscord (which adds extra features to your Discord experience), remove this app, as it isn’t the official client to use the platform’s features. Unlike other apps, you won’t find BetterDiscord in Windows’ installed apps list. Instead, you’ll have to run the app’s installer and choose an option to uninstall the app.
@@ -91,16 +112,10 @@ thumbnail: https://thmb.techidaily.com/e0dd15b42e7cb5414bdb7af5c281fcfdfef62e342
 !['Uninstall BetterDiscord' and 'Next' highlighted BetterDiscord installer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/8-uninstall-betterdiscord.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Select your current Discord app and choose "Uninstall."
@@ -108,10 +123,10 @@ thumbnail: https://thmb.techidaily.com/e0dd15b42e7cb5414bdb7af5c281fcfdfef62e342
 ![The current Discord app and 'Uninstall' highlighted in BetterDiscord installer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/9-remove-betterdiscord.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When BetterDiscord is uninstalled, click "Close" to close the open window.
@@ -145,5 +160,26 @@ thumbnail: https://thmb.techidaily.com/e0dd15b42e7cb5414bdb7af5c281fcfdfef62e342
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-discover-the-epic-android-video-editor-apps/"><u>[New] Discover the Epic Android Video Editor Apps</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-secrets-to-preventing-photo-app-problems-in-windows-11/"><u>[New] In 2024, Secrets to Preventing Photo App Problems in Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ins-and-outs-of-designing-a-standout-podcast-promo/"><u>[New] The Ins and Outs of Designing a Standout Podcast Promo</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-video-cuts-windows-edition-made-simple/"><u>[New] The Ultimate Guide to Video Cuts Windows Edition, Made Simple</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transforming-youtube-viewing-how-to-efficiently-insert-timestamps/"><u>[New] Transforming YouTube Viewing How to Efficiently Insert Timestamps</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-ultimate-top-10-tiktok-editor-tools-for-windows-users-for-2024/"><u>[New] Ultimate Top 10 TikTok Editor Tools for Windows Users for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-gaming-pros-choice-of-5-microphones/"><u>[New] YouTube Gaming Pros' Choice of 5 Microphones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-leveraging-alternative-footage-in-filmmaking/"><u>[Updated] Leveraging Alternative Footage in Filmmaking</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-exploring-youtubes-latest-revenue-guidelines/"><u>2024 Approved Exploring YouTube's Latest Revenue Guidelines</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-low-cost-options-for-acquiring-gopro-cameras/"><u>2024 Approved Low-Cost Options for Acquiring GoPro Cameras</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-magnification-in-roblox-worlds/"><u>2024 Approved The Art of Magnification in Roblox Worlds</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-streamers-for-real-time-television-content/"><u>2024 Approved Top 10 Streamers for Real-Time Television Content</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-nokia-c300-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Nokia C300 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/epic-imagery-crafting-inspiring-instagram-posts-top20/"><u>Epic Imagery Crafting Inspiring Instagram Posts #Top20</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-vectors-sourcebook-top-10-list/"><u>In 2024, The Ultimate Vectors Sourcebook - Top 10 List</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-total-gaze-field-vr-device-overview/"><u>In 2024, Total Gaze Field VR Device Overview</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-the-ultimate-selection-5-premium-audiovideo-integration-tools-for-2024/"><u>New The Ultimate Selection 5 Premium Audio/Video Integration Tools for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-10-effect-enhancing-fcp-plug-ins-for-2024/"><u>Top 10 Effect-Enhancing FCP Plug-Ins for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-strategies-for-high-fidelity-video-conversion-to-dvd-for-2024/"><u>Top Strategies for High-Fidelity Video Conversion to DVD for 2024</u></a></li>
+</ul></div>
 

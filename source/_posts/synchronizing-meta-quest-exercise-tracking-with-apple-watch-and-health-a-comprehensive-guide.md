@@ -1,7 +1,7 @@
 ---
 title: "Synchronizing Meta Quest Exercise Tracking with Apple Watch & Health: A Comprehensive Guide"
-date: 2024-09-13T07:29:42.149Z
-updated: 2024-09-17T21:16:42.850Z
+date: 2024-09-25T09:23:32.200Z
+updated: 2024-09-29T11:10:21.091Z
 tags:
   - cutting-edge
 categories:
@@ -30,6 +30,13 @@ Related: [10 Reasons You Might Want an Apple Watch Ultra](https://extra-approach
 
  Additionally, this connecting the Move app allows you to go without wearing your Apple Watch during a VR session, which may be more comfortable for you, depending on the type of VR activity.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Do I Need Special VR Apps?
 
  One important thing to know about Meta Quest Move is that it tracks your activity throughout the entire VR session, regardless of what apps you're using or what you're doing. That means you don't have to buy special fitness-specific VR apps to benefit from the feature.
@@ -37,13 +44,6 @@ Related: [10 Reasons You Might Want an Apple Watch Ultra](https://extra-approach
  That said, if you're really wanting to get active, some of [our favorite video games for fitness](https://screen-mirroring-recording.techidaily.com/in-2024-step-by-step-process-of-setting-up-your-logitech-webcam-for-video/) have Quest editions you can play right now.
 
 Related: [7 Video Games for Fitness and Exercise](https://screen-mirroring-recording.techidaily.com/in-2024-step-by-step-process-of-setting-up-your-logitech-webcam-for-video/) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Step 1: Set Up the Move App
 
@@ -61,26 +61,19 @@ Related: [7 Video Games for Fitness and Exercise](https://screen-mirroring-recor
 
 ![Quest Move First Time Setup](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/3-6.png) 
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Follow the instructions to complete the first-time setup.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 2: Sync Meta Quest Move Data to Apple Health
@@ -97,20 +90,33 @@ Related: [7 Video Games for Fitness and Exercise](https://screen-mirroring-recor
 
 ![Quest App Explore Tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/2-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Tap on "Connected Apps"
 
 ![Move App Connected Apps](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/3-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Toggle the "Apple Health" option on.
 
 ![Apple Health Toggle for Quest Move](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/6-6.png) 
+
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now your VR sessions will reflect in your Apple Health data. Finally, Beat Saber counts as real exercise!
 
@@ -127,5 +133,18 @@ Related: [7 Video Games for Fitness and Exercise](https://screen-mirroring-recor
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-thorough-investigation-dji-inspire-1-reviewed/"><u>[New] Thorough Investigation DJI Inspire 1 Reviewed</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-leveraging-azures-speech-to-text-for-enterprise-solutions/"><u>[Updated] Leveraging Azure's Speech-to-Text for Enterprise Solutions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-taxonomy-of-diverse-camera-systems-for-videos/"><u>[Updated] Taxonomy of Diverse Camera Systems for Videos</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-haunting-horrors-the-ultimate-list-of-engaging-zombie-games/"><u>2024 Approved Haunting Horrors The Ultimate List of Engaging Zombie Games</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-creative-vanguard-top-6-redefining-digital-arts/"><u>2024 Approved The Creative Vanguard Top 6 Redefining Digital Arts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-list-leading-vr-biking-rides/"><u>2024 Approved Ultimate List Leading VR Biking Rides</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-zte-nubia-z60-ultra-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-105-classic-by-fonelab-android-recover-messages/"><u>How to recover old messages from your 105 Classic</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-best-screen-recording-apps-for-mac-users-excluded-from-bandicam/"><u>In 2024, Best Screen Recording Apps for Mac Users - Excluded From Bandicam</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-ultimate-guide-to-iphoneipad-screenshot-tools/"><u>The Ultimate Guide to iPhone/iPad Screenshot Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-your-hero5-expert-guides-to-stunning-images-and-movies-for-2024/"><u>Unlock Your Hero5 Expert Guides to Stunning Images & Movies for 2024</u></a></li>
+</ul></div>
 

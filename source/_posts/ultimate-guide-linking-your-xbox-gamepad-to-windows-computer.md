@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Linking Your Xbox Gamepad to Windows Computer"
-date: 2024-09-20T19:29:03.404Z
-updated: 2024-09-23T07:32:05.044Z
+date: 2024-09-27T05:01:23.571Z
+updated: 2024-09-28T21:30:01.692Z
 tags:
   - desktop
 categories:
@@ -18,6 +18,13 @@ thumbnail: https://thmb.techidaily.com/c8166e8b96eec7a32e2c5447a156a34a01b3ade6d
 * [How to Connect an Xbox Wireless Controller with an Xbox Wireless Adapter](https://youtube-lab.techidaily.com/e-stock-images-directly-from-trusted-4-youtube-vids-for-2024/)
 
  You can connect any Xbox controller to your Windows PC, including the latest Xbox Wireless Controller and the premium Elite lineup. You can choose between a wireless connection and a wired connection using a USB cable, depending on your setup.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Connect an Xbox Controller to a PC Using a USB Cable
 
@@ -41,6 +48,13 @@ Xbox
 
 ![Settings in the Windows 10 Start menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/settings.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In Settings, click "Devices."
 
 ![Windows 10 Settings Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/devices-1.png) 
@@ -63,6 +77,13 @@ Xbox
 
 ![Front view of the Xbox Wireless Controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/xbox-pair.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Xbox](https://www.xbox.com/en-US/accessories/controllers/xbox-wireless-controller-usb-c)
 
  On your computer, click "Xbox Wireless Controller" when it appears in the "Add a Device" list.
@@ -78,10 +99,10 @@ Xbox
  When you're done playing, it'll turn off automatically after a while, but you can also [turn the Xbox controller off](https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-google-pixel-fold-drfone-by-drfone-virtual/) manually to save battery life. To do this, press and hold the Xbox button or pop the batteries out.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Connect an Xbox Wireless Controller with an Xbox Wireless Adapter
@@ -90,6 +111,13 @@ Xbox
 
 ![The Xbox Wireless adapter next to a controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/wirelsss-adapter.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Xbox](https://www.xbox.com/en-US/accessories/controllers/xbox-wireless-controller-adapter-windows)
 
  To use it, plug the Xbox Wireless Adapter into your PC's USB port and press and hold the pairing button until its light starts blinking rapidly. Next, turn on your controller by pressing and holding the Xbox button and put it in pairing mode by pressing and holding the pairing button for a few seconds.
@@ -97,13 +125,6 @@ Xbox
  The controller will automatically connect to your computer through the Xbox Wireless Adapter. If that doesn't work, go over the same steps for connecting the controller via Bluetooth, but instead of selecting "Bluetooth" under "Add a Device," select "Everything Else" to connect the controller to your PC via the adapter.
 
 ![The Bluetooth settings showing the "Add a device" window in WIndows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/adapter-bluetooth-settings.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -122,5 +143,20 @@ Xbox
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-directory-where-to-download-youtube-ringtones/"><u>[New] Ultimate Directory Where to Download YouTube Ringtones?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-all-inclusive-guide-what-is-googles-podcast-service/"><u>[Updated] All-Inclusive Guide What Is Google's Podcast Service?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-beat-your-song-into-success-with-fb-top-vids-guide/"><u>[Updated] Beat Your Song Into Success with FB Top Vids Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-livestreaming-pre-recorded-content-seamlessly-on-fb-for-2024/"><u>[Updated] Livestreaming Pre-Recorded Content Seamlessly on FB for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlock-your-creativity-with-top-title-methods/"><u>[Updated] Unlock Your Creativity with Top Title Methods</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ace-your-gameplay-tackling-and-correcting-centurys-age-of-ashes-pc-malfunctions/"><u>Ace Your Gameplay: Tackling and Correcting Century's 'Age of Ashes' PC Malfunctions</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-honor-magic-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-picks-amplifying-vhs-pictures-via-computer-software/"><u>In 2024, Top Picks Amplifying VHS Pictures via Computer Software</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transformative-podcast-branding-through-logo-artistry/"><u>In 2024, Transformative Podcast Branding Through Logo Artistry</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-diverse-windows-movie-maker-versions/"><u>In 2024, Unveiling Diverse Windows Movie Maker Versions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/uncovering-notable-versions-within-microsofts-movie-maker-for-2024/"><u>Uncovering Notable Versions Within Microsoft's Movie Maker for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-flawless-gameplay-combat-apex-legends-freezes/"><u>Unleash Flawless Gameplay: Combat Apex Legends Freezes</u></a></li>
+</ul></div>
 

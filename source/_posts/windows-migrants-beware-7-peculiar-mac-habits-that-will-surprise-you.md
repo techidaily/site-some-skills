@@ -1,7 +1,7 @@
 ---
 title: "Windows Migrants Beware: 7 Peculiar Mac Habits That Will Surprise You"
-date: 2024-09-17T02:33:41.569Z
-updated: 2024-09-22T23:16:01.100Z
+date: 2024-09-23T02:40:08.263Z
+updated: 2024-09-29T06:33:49.262Z
 tags:
   - desktop
 categories:
@@ -29,11 +29,25 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 
 ![The Dock on a Mac laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/screenshot-2024-03-20-at-3-52-28-am.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The Windows Taskbar is a comprehensive tool that displays everything from program icons to the time and date, and the search bar in one horizontal location. In comparison, the Dock simply focuses on displaying [app icons that you can pin,](https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-htc-u23-by-fonelab-android-recover-data/) as well as recently minimized windows and folders.
 
  You'll notice that some app icons in the Dock have a dot beneath them. These are the apps that you've got running—and in macOS, apps remain in the background even after you've closed the last window. You have to hit Command+Q to shut them down.
 
  You can access any apps that aren't in the Dock via the Launchpad, which is itself in the Dock by default.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Mac and Windows Keyboards Have Different Keys
 
@@ -44,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
  Some keys, like the Control button, are on both keyboards but have different uses. For instance, keyboard shortcuts that require you to press the Control key on a Windows keyboard often use the Command key instead on a Mac. So, [copy and paste](https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-itel-s23plus-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/) is Ctrl+C and Ctrl+V in Windows, but Command+C and Command+V in macOS.
 
  Newer Mac keyboards also feature a Globe key which brings up the emoji picker and can also be used to change your input language and keyboard layouts. Learn the relevant [macOS keyboard shortcuts](https://facebook-video-share.techidaily.com/updated-the-ultimate-youtube-editors-handbook-a-step-by-step-journey/) to speed up tasks for yourself.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Windows and Mac Use Different Names for the Same Things
 
@@ -58,16 +79,16 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 | Shortcut icon   | Alias                 |
 
 <!-- affiliate ads begin -->
-<span id="1982508">
+<span id="1982570">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Taking Screenshots Is Easy
@@ -79,6 +100,19 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 ![Use the Command+Shift+5 shortcut to view screenshot and screen record options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/img_5723.JPG) 
 
  Regardless of the shortcut you use, the screenshot is immediately saved to your macOS desktop for easy access.
+
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  macOS Has Its Own Equivalents for the Windows Apps
 
@@ -92,13 +126,6 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 
  One of the biggest benefits of macOS is that it comes with a lot of extra apps that you'd normally have to pay for. Pages and Numbers are replacements for Word and Excel, for example, and GarageBand is a music creation tool. You also get access to FaceTime and iMessage.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  The UI Looks Similar but Is Not the Same
 
  When you navigate from a Windows laptop to a macOS computer, you'll see certain key differences in the UI design. For instance, when you open a window on a Mac, you'll notice that the resizing buttons for closing (red), minimizing (yellow), and maximizing (green) windows are located on the upper-left side.
@@ -106,13 +133,6 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
  Hover the mouse pointer over the green icon to see options for tiling two apps alongside each other.
 
 ![The window resizing buttons on macOS](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-1-58-58-pm.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Similarly, Windows has a search bar directly in the taskbar, while Mac uses Spotlight for search.
 
@@ -127,13 +147,6 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 ![The menubar in macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-menubar-in-macos.png) 
 
  In comparison, Windows laptops combine the Start menu, system tray, and taskbar into a single bar that's located at the bottom of the screen by default.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  You Open Apps With the Launchpad Instead of the Start Menu
 
@@ -160,5 +173,21 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-peekintobettercams-beyond-mycam/"><u>[Updated] PeekIntoBetterCams Beyond MyCam?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-total-guide-ultimate-video-show-experience-in-24/"><u>[Updated] Total Guide Ultimate Video Show Experience in '24</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-guide-to-fade-out-music-in-premiere-pro/"><u>2024 Approved Guide To Fade Out Music In Premiere Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-your-virtual-adventure-with-kinemaster-tips-and-competitor-analysis/"><u>2024 Approved Streamline Your Virtual Adventure with KineMaster Tips & Competitor Analysis</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-through-the-eyes-of-one-a-critical-look-at-3dr/"><u>2024 Approved Through the Eyes of One A Critical Look at '3DR'</u></a></li>
+<li><a href="https://blog-min.techidaily.com/gratuito-obs-italia-installazione-facile-su-windowsmaclinux/"><u>Gratuito OBS Italia - Installazione Facile Su Windows/Mac/Linux</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-samsung-galaxy-a34-5g-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Samsung Galaxy A34 5G Unlock Without Password</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlock-the-hidden-potential-of-windows-11-with-these-tips/"><u>In 2024, Unlock the Hidden Potential of Windows 11 with These Tips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unraveling-the-discrepant-nature-of-vr-and-full-sphere-capture/"><u>In 2024, Unraveling the Discrepant Nature of VR and Full Sphere Capture</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-7-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 7</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/simple-steps-populating-your-samsung-smart-tv-with-various-applications/"><u>Simple Steps: Populating Your Samsung Smart TV with Various Applications</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-your-ideas-into-videos-with-the-power-of-movie-maker-windows-11-edition-for-2024/"><u>Transform Your Ideas Into Videos with the Power of Movie Maker, Windows 11 Edition for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-complete-insight-into-the-wave-editor-vital-elements-expert-opinions-and-instructional-videos/"><u>Updated Complete Insight Into the Wave Editor Vital Elements, Expert Opinions, and Instructional Videos</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-vignette-perfection-the-best-mobile-apps-for-adding-frames-and-borders/"><u>Updated Vignette Perfection The Best Mobile Apps for Adding Frames and Borders</u></a></li>
+</ul></div>
 

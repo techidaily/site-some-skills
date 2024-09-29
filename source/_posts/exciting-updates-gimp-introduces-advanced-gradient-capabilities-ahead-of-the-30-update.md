@@ -1,7 +1,7 @@
 ---
 title: "Exciting Updates: GIMP Introduces Advanced Gradient Capabilities Ahead of the 3.0 Update"
-date: 2024-09-20T17:33:08.753Z
-updated: 2024-09-23T03:49:09.815Z
+date: 2024-09-27T07:37:04.464Z
+updated: 2024-09-28T20:05:23.370Z
 tags:
   - deals
 categories:
@@ -36,12 +36,33 @@ The latest GIMP release (version 2.10.36) introduces a fun new gradient tool and
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-essential-6-microphone-selections-for-high-quality-livestreams-for-2024/"><u>[New] Essential 6 Microphone Selections for High-Quality Livestreams for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-eliminated-invisible-youtube-micro-videos/"><u>[New] In 2024, Eliminated Invisible YouTube Micro Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-tunes-palette-for-video-storytelling/"><u>[New] Top Tunes Palette for Video Storytelling</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-canvasknotter-your-ultimate-photo-blend-tool-for-2024/"><u>[Updated] CanvasKnotter Your Ultimate Photo Blend Tool for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-facetune-photo-enhancement/"><u>[Updated] The Ultimate Guide to Facetune Photo Enhancement</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultra-clarity-the-new-era-of-hd-monitors-envy-27/"><u>[Updated] Ultra Clarity The New Era of HD Monitors - Envy 27</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-tips-for-meme-magic-with-kinemaster/"><u>2024 Approved Top Tips for Meme Magic with KineMaster</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleashing-potential-a-guide-for-solitary-showrunners/"><u>2024 Approved Unleashing Potential A Guide for Solitary Showrunners</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-secrets-of-lightroom-on-android-platforms/"><u>2024 Approved Unveiling the Secrets of Lightroom on Android Platforms</u></a></li>
+<li><a href="https://article-tips.techidaily.com/chuckle-chasers-your-ultimate-list-of-funny-tools-for-2024/"><u>Chuckle Chasers Your Ultimate List of Funny Tools for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-y100i-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on Y100i</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-infinix-note-30-pro-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Infinix Note 30 Pro Face Lock?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-honor-magic-5-lite-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Honor Magic 5 Lite to iPod | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transformative-notetaking-the-mematic-way/"><u>In 2024, Transformative Notetaking The Mematic Way</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mp4-hls-m3u8ts-and/"><u>MP4への変換 - HLS (M3u8、TS) ビデオファイルを効果的にマージ&変換する手順</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-for-incorporating-emojis-in-imessages-and-more/"><u>Step-by-Step Instructions for Incorporating Emojis in iMessages and More</u></a></li>
+<li><a href="https://some-skills.techidaily.com/strategize-and-succeed-a-stepwise-approach-to-impactful-reddit-sharing-for-2024/"><u>Strategize & Succeed A Stepwise Approach to Impactful Reddit Sharing for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-auditory-alchemy-does-the-magic-voice-modifier-work-seek-alternates-for-2024/"><u>The Art of Auditory Alchemy Does the Magic Voice Modifier Work? Seek Alternates for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-art-of-recording-your-steam-gaming-sessions/"><u>The Art of Recording Your Steam Gaming Sessions</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

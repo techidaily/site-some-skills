@@ -1,7 +1,7 @@
 ---
 title: Creating Custom Minecraft Skins with Stable Diffusion AI - Step-by-Step Guide
-date: 2024-09-14T20:37:22.145Z
-updated: 2024-09-17T20:38:48.735Z
+date: 2024-09-28T00:18:11.252Z
+updated: 2024-09-28T16:07:58.479Z
 tags:
   - cutting-edge
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 * [Turning the Textures Into a Resource Pack for Minecraft](https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-realme-v30-by-fonelab-android-recover-call-logs/)
 
  Minecraft is a fantastic game, and it has one of the largest modding communities in gaming history. What if you want to add some personal flair to your game, but you're not a graphic artist? Here's how to use Stable Diffusion to make textures for Minecraft.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Everything You Need to Get Started
 
@@ -60,6 +67,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 
 ![Right-click the Minecraft JAR file and open it with 7-Zip, WinRAR, or any other archival program.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/open-1.19.2.jar_.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You'll see something like this:
 
 ![The contents of the JAR file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/2022-09-30_08h55_56.png) 
@@ -69,6 +83,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
  Mob textures are stored in the "entities" folder, and most of the items you can craft are in the "item" folder. 
 
 ![The folder in the JAR file that contains the textures for blocks.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/dirt-diamonds-note-the-folder-hierarchy.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Note the file path at the top, marked "1." Minecraft will look for certain textures, like "diamond\_ore.png," at this location. That means when we want to replace it with our own texture, we need to use the same folder structure, or folder hierarchy, that the game uses by default.
 
@@ -107,6 +128,13 @@ BLOCKNAMEHERE, stock photography, game texture, game asset, photorealistic, phot
 
 ![Select the texture you like, click &quot;Save,&quot; then click &quot;Send to Inpaint.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/save.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Inpainting allows you to selectively re-generate certain parts of an image based on a new prompt. We'll use it to generate the ore variants of our base stone texture.
 
  Send to Inpaint can sometimes be a little buggy. If it doesn't show up, click over to the "img2img" tab, select "Inpaint Part of an Image" near the top, go back to the "txt2img" tab and try hitting "Send to Inpaint" again. If that doesn't work, you can always access your textures in your Stable Diffusion output folder. If you followed [our guide](https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-tecno-spark-go-2023-phone-by-drfone-android/) the output folder will be "C:\\stable-diffusion-webui-master\\outputs\\txt2img-images". 
@@ -117,13 +145,6 @@ BLOCKNAMEHERE, stock photography, game texture, game asset, photorealistic, phot
 
 ![Masked regions where diamonds will be generated.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/masked-area-real.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After you're done masking, click "Generate." We're going to go with the middle-bottom result.
 
  Notice the square grid that is visible? That occurs because we picked a texture that was dimmer along the outside edges and brighter towards the center. You need to try to avoid that, as it will look strange in-game. 
@@ -131,10 +152,10 @@ BLOCKNAMEHERE, stock photography, game texture, game asset, photorealistic, phot
 ![A tiled image showing six prospective diamond ore textures.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/masked-area.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Click "Save" again to make sure that you don't lose any results you like.
@@ -142,6 +163,13 @@ BLOCKNAMEHERE, stock photography, game texture, game asset, photorealistic, phot
  Repeat this process for as many ores or blocks as you want to replace. We're replacing oak trees, stone, diamond ore, and dirt. Here are the final texture selections we made below:
 
 ![The four textures we generated: diamond ore, oak tree, dirt, and stone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/Final-Textures.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Turning the Textures Into a Resource Pack for Minecraft
 
@@ -154,13 +182,6 @@ BLOCKNAMEHERE, stock photography, game texture, game asset, photorealistic, phot
  We also need to scale these images down a bit since they're currently a bit large. Right-click your texture, mouse over "Open With," and select GIMP. Give GIMP a second to launch and import your texture, click "Image" on the menu bar at the top, then and select "Scale Image."
 
 ![Click &quot;Image,&quot; then &quot;Scale Image,&quot; to change the size of the texture.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/scale-image-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can scale it down as far as you'd like --- Minecraft's default is 16x16 pixels --- but we'll only go down to 128x128 to preserve the details. Enter the dimensions you want and click "Scale."
 
@@ -180,13 +201,6 @@ pack.mcmeta
 
 ![Create a text file named &quot;pack.mcmeta&quot; in your texture folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/pack-mcmeta.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Then hit the Enter key. You'll get a warning about doing that. Normally the warning is correct; renaming file extensions at random is bad practice. In this case, however, it doesn't matter at all. Just click "Yes."
 
 ![Click yes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/click-yes.png) 
@@ -196,13 +210,6 @@ pack.mcmeta
  Notepad will work in a pinch, but there are better programs. 
 
 ![Open the MCMETA file with Visual Studio Code.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/pick-visual-studio-code.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Open up the MCMETA file, and paste the following contents in:
 
@@ -239,6 +246,13 @@ pack.mcmeta
 
 ![Select both the assets folder and the MCMETA file, right-click, then click &quot;Add to HTGExampleTextures.zip&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/clcik-both.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Related: [How to Clean Up Your Messy Windows Context Menu](https://extra-guidance.techidaily.com/new-master-iphone-filmmaking-for-full-sphere-effects/) 
 
  Copy and paste the ZIP file you just created into the Minecraft resource pack folder. By default, it is located in "C:\\Users\\**(YourUserName)**\\AppData\\Roaming\\.Minecraft\\resourcepacks" --- though that could be different if you installed it elsewhere.
@@ -250,6 +264,19 @@ Related: [How to Clean Up Your Messy Windows Context Menu](https://extra-guidanc
  When you load into any world, your textures will replace the corresponding vanilla textures. Here they are, right in a row:
 
 ![Our textures displayed in Minecraft. From left to right: Stone, Dirt, Diamond Ore, Oak.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/ingame-screenshot.png) 
+
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Stable Diffusion cuts down on the time required to make a new texture enormously, even if you do have to do a little correction on some textures.
 
@@ -274,5 +301,26 @@ Related: [How to Use Stable Diffusion to Make AI GIFs and Videos](https://youtub
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-step-by-step-guide-find-your-own-tiktok-stream-key-for-2024/"><u>[New] [Step-by-Step Guide] Find Your Own TikTok Stream Key for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2023s-elite-fb-content-collectors-ranked-8-for-2024/"><u>[New] 2023'S Elite FB Content Collectors Ranked 8 for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-the-art-of-auditory-identity-crafting-your-own-ringtones-and-sounds-for-android/"><u>[New] The Art of Auditory Identity Crafting Your Own Ringtones & Sounds for Android</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-tips-on-using-uavs-creatively-in-filmmaking/"><u>[New] Tips on Using UAVs Creatively in Filmmaking</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-google-meetings-mastered-best-practices-4/"><u>[Updated] Google Meetings Mastered Best Practices #4</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streaming-giants-clash-a-detailed-twitchyoutube-analysis/"><u>[Updated] Streaming Giants Clash A Detailed Twitch/YouTube Analysis</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamlining-video-editing-using-luts-with-obs-studio/"><u>[Updated] Streamlining Video Editing Using LUTs with OBS Studio</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transformative-tactics-for-impeccable-hue-correction/"><u>[Updated] Transformative Tactics for Impeccable Hue Correction</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlock-reddits-potential-for-your-brand-with-these-top-tactics/"><u>[Updated] Unlock Reddit's Potential for Your Brand with These Top Tactics</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-avi-to-gif-filmora-for-pc-and-mac-users/"><u>2024 Approved Streamline AVI to GIF Filmora for PC & Mac Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unraveling-the-mystery-of-apples-new-ios-camera/"><u>2024 Approved Unraveling the Mystery of Apple's New iOS Camera</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/high-quality-6-video-transcription-services/"><u>High-Quality 6 Video Transcription Services</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-ensure-a-perfect-launch-and-gameplay-experience-for-tiny-tinas-wonderland-on-your-desktop-system/"><u>How To Ensure a Perfect Launch and Gameplay Experience for Tiny Tina’s Wonderland on Your Desktop System</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-does-pokegoplusplus-still-work-on-apple-iphone-14ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does PokeGo++ still work on Apple iPhone 14/iPad? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-enhanced-samsung-k850u-experience/"><u>In 2024, Unveiling the Enhanced Samsung K850U Experience</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-importance-of-non-primary-shots-in-media-for-2024/"><u>The Importance of Non-Primary Shots in Media for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-list-all-rounder-camcorders-for-2024/"><u>Ultimate List All-Rounder Camcorders for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-a-million-eyes-engaging-content-strategy-for-2024/"><u>Unlock a Million Eyes Engaging Content Strategy for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Seamless Access to Distant Linux Machine Files Made Simple
-date: 2024-09-17T16:49:15.319Z
-updated: 2024-09-22T23:26:07.171Z
+date: 2024-09-28T01:19:04.222Z
+updated: 2024-09-29T04:30:50.326Z
 tags:
   - desktop
 categories:
@@ -64,10 +64,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Using the --version option to discover the version of SSHFS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/4-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Making a Remote Connection
@@ -82,18 +82,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
     
 ![Creating the mount point directory.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/5-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Let’s take a look at our new directory.
 
         `ls -hl /media/dave`
     
 ![Using ls to check the attributes of the mount point directory.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/6-1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Our directory has been created, and it is owned by root. That won’t matter though, we’ll have [read and write permissions](https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-13-pro-without-itunes-by-drfone-ios/) on the mounted file system.
 
@@ -102,6 +102,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
         `sudo sshfs -o allow_other,default_permissions dave@net-scan.lan: /media/dave/netscan/`
     
 ![Mounting the remote file system on the local mount point.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/7-1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The command consists of:
 
@@ -147,20 +154,6 @@ ls /home/dave/Downloads/`
     
 ![Copying files from the remote file system to the local file system.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/10-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Accessing Files in a File Browser
 
  Because the mounted file system looks and behaves like any other part of your file system’s directory tree, you can use your file browser to navigate it too.
@@ -169,18 +162,38 @@ ls /home/dave/Downloads/`
 
 ![Accessing the remote file system in a file browser.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/11-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Double-clicking a file opens the application associated with that file type. These actions are carried out by applications on your local computer.
 
 ![Editing a file in the remote file system with a local editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/12-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you edit a document, for example, your default local editor is launched.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Breaking the Connection
 
@@ -189,6 +202,13 @@ ls /home/dave/Downloads/`
         `sudo umount /media/dave/netscan`
     
 ![Unmounting the remote file system.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/13-1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  The Far Away, Up Close
 
@@ -209,5 +229,24 @@ ls /home/dave/Downloads/`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-the-essential-path-to-prodigious-smm-results-delivered-in-10-steps/"><u>[New] The Essential Path to Prodigious SMM Results, Delivered in 10 Steps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-picks-for-top-rated-free-srt-translation-tools/"><u>[New] Ultimate Picks for Top-Rated Free SRT Translation Tools</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-full-dynamics-review-2023/"><u>[Updated] 2024 Approved Full Dynamics Review 2023</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-covert-calls-chroniclers-top-secret-audio-gadgets-androidios-for-2024/"><u>[Updated] Covert Calls Chroniclers Top-Secret Audio Gadgets (Android/iOS) for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-mastering-fbs-look-back-feature-edit-tutorial-for-2024/"><u>[Updated] Mastering FB's Look Back Feature Edit Tutorial for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-techniques-for-professional-voice-capture/"><u>[Updated] Top Techniques for Professional Voice Capture</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transform-canvas-into-magic-the-best-mac-drawing-apps/"><u>[Updated] Transform Canvas Into Magic - The Best Mac Drawing Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-guide-to-weaving-gopro-footage-into-circular-films/"><u>[Updated] Ultimate Guide to Weaving GoPro Footage Into Circular Films</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-complete-srt-encyclopedia-key-facts-explored/"><u>2024 Approved The Complete SRT Encyclopedia Key Facts Explored</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-role-of-b-roll-in-polishing-video-projects/"><u>2024 Approved The Role of B-Roll in Polishing Video Projects</u></a></li>
+<li><a href="https://article-files.techidaily.com/capture-crop-and-color-correct-with-this-lists-top-5-android-apps/"><u>Capture, Crop, and Color-Correct with This List's Top 5 Android Apps</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-honor-magic5-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/in-2024-best-5-quandale-dingle-voice-generators/"><u>In 2024, Best 5 Quandale Dingle Voice Generators</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-under-the-waves-best-practices-in-underwater-filming-with-a-gopro/"><u>In 2024, Under the Waves Best Practices in Underwater Filming with a GoPro</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/optimal-video-techniques-to-dominate-freefire-vlogs-for-2024/"><u>Optimal Video Techniques to Dominate FreeFire Vlogs for 2024</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/top-3-secure-erome-video-downloading-tools-safely-extracting-content/"><u>Top 3 Secure Erome Video Downloading Tools - Safely Extracting Content</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-vlog-a-beginners-guide-to-start-vlogging-for-2024/"><u>Updated How to Vlog? A Beginners Guide to Start Vlogging for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Everyday Wonders: How NASA's 16 Pioneering Discoveries Benefit Us All"
-date: 2024-09-13T09:30:31.961Z
-updated: 2024-09-18T05:04:52.046Z
+date: 2024-09-26T13:05:30.277Z
+updated: 2024-09-29T08:10:30.335Z
 tags:
   - cutting-edge
 categories:
@@ -55,6 +55,13 @@ NASA/Photobit
 
 ![A photo of a NASA Space Shuttle and a hand compressing some memory foam.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NASAInnovations6.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 NASA/Dynamic Systems
 
  From [memory foam pillows](https://www.lifesavvy.com/28161/the-comfiest-pillows-for-a-good-nights-sleep/) to entire [memory foam beds](https://www.amazon.com/LUCID-Inch-Memory-Foam-Medium/dp/B08624TRBP/?tag=htg-v2-2q16d3n-20&ascsubtag=UUhtgUeUpU204545&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F831363%2Fthese-nasa-innovations-are-all-around-us-everyday%2F&asc%5Fcampaign=Short-Term) and even the premium memory foam seats in your car, you can thank NASA for all that cushy goodness.
@@ -99,6 +106,13 @@ NASA/Foster Grant
 
  In a bid to make astronauts' helmet visors [more protective against ultraviolet light](https://spinoff.nasa.gov/Spinoff2006/ch%5F6.html) and more resistant to scratching, NASA researchers, working along with the Foster Grant eyeglass company, advanced both fronts significantly. Since the early 1980s, the [non-scratch coatings created by Theodore Wydeven](https://www.spacefoundation.org/space%5Ftechnology%5Fhal/scratch-resistant-lenses/) at NASA's Ames Research Center have been applied to millions of eyeglasses and other surfaces---first on pairs of Foster Grant sunglasses and shortly after on practically everything.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  LED Innovations
 
 ![LED grow lights in space and an LED healing lamp.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NASAInnovations9.jpg) 
@@ -122,6 +136,13 @@ iHealth/Apple/Invisalign
  The method of temperature taking was based on the same infrared technology NASA used to measure deep space infrared energy sources, repurposed to provide readouts of human body temperatures.
 
  The technology eventually made its way into everything from [the thermometers we use when we're sick](https://www.amazon.com/iHealth-Thermometer-Vibration-Notification-Thermopile/dp/B075QQ8VZW/?tag=htg-v2-2q16d3n-20&ascsubtag=UUhtgUeUpU204545&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F831363%2Fthese-nasa-innovations-are-all-around-us-everyday%2F&asc%5Fcampaign=Short-Term) to the handy temperature guns we use to [check pizza ovens](https://www.lifesavvy.com/131867/gozney-roccbox-pizza-oven-review/) and other surfaces.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Freeze Dried Foods
 
@@ -155,13 +176,6 @@ iHealth/Apple/Invisalign
 
  DHA is critical to brain development, and since the discovery of this cheap production method, millions of babies around the world have enjoyed better brain growth as a result of its inclusion in formulas.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Cordless Vacuums and Power Tools
 
 ![An astronaut using a lunar drill and the DustBuster, made possible by the same motor technology.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NASAInnovations3.jpg) 
@@ -190,13 +204,6 @@ iHealth/Apple/Invisalign
 
 ![Two types of clear ceramic braces.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NASAInnovations1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 iHealth/Apple/Invisalign
 
  The memory foam connection and freeze-dried foods might have a fairly well-known NASA connection, but most people don't realize Invisalign and similar "invisible" braces do too.
@@ -205,9 +212,23 @@ iHealth/Apple/Invisalign
 
  The original dental application was for dental brace bases on each tooth but still linked together by a wire like traditional braces. Later, companies like Invisalign made alignment trays that covered the entire tooth without connective wires. And while that's a significant contribution to dentistry, it's hardly [the only one NASA has made](https://www.nasa.gov/audience/foreducators/k-4/features/F%5FBite%5FOut%5Fof%5FDiscomfort.html).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Improved Tires
 
 ![A rendering of the Viking mission and a photo from the Goodyear archives.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NASAInnovations1.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 iHealth/Apple/Invisalign
 
@@ -219,16 +240,22 @@ iHealth/Apple/Invisalign
 
  The grooves were originally applied to runways used for Space Shuttle landings to reduce skidding and have since been applied to roads, sidewalks, and other concrete surfaces for the same purpose.
 
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Emergency Extraction Tools
 
 ![A shuttle launch and a set of Lifeshear tools.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NASAInnovations1.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 iHealth/Apple/Invisalign
 
@@ -240,22 +267,21 @@ iHealth/Apple/Invisalign
 
  The resulting product, [Lifeshears](https://www.nasa.gov/vision/earth/technologies/human%5Fspaceflight.html), has been in use since the 1990s and was even used during rescue efforts after the 9/11 attack.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Foil Blankets
 
 ![Examples of foil blankets in use.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NASAInnovations4.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 NASA/AMC
@@ -263,6 +289,13 @@ NASA/AMC
  You'll often hear reflective emergency blankets, like those emergency responders wrap around car crash survivors and such, referred to as "[space blankets](https://spinoff.nasa.gov/Spinoff2006/ch%5F9.html)." This is because the reflective metallic material they are made out of was invented by NASA to help shield and insulate equipment and even entire portions of space stations. There's a reason that shiny-metal-foil look is inseparable from the space program.
 
  Not only does the technology persist in the form of the space blankets used for emergencies and by performance athletes, but a variety of companies have also incorporated the technology into gloves, clothing, and other garments. Which, given NASA's long history of [spurring textile innovation](https://spinoff.nasa.gov/Spinoff2013/cg%5F5.html), is no surprise.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Home Insulation
 
@@ -297,5 +330,16 @@ NASA/RadiaSource
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-swiftpodcasts-guide-for-iphone-users-download-made-simple/"><u>[New] SwiftPodcasts Guide for iPhone Users - Download Made Simple</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-green-screen-templates-free-download-videography-and-filmmaking/"><u>[Updated] Green Screen Templates Free Download – Videography, and Filmmaking</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-10-streaming-software-in-the-gaming-world/"><u>[Updated] Top 10 Streaming Software in the Gaming World</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-seo-potential-top-strategies-to-dominate-online-search-results-as-a-novice/"><u>[Updated] Unlocking SEO Potential Top Strategies to Dominate Online Search Results as a Novice</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-itel-a70-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Itel A70 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/battling-bother-ais-role-in-relaxation/"><u>Battling Bother: AI's Role in Relaxation</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/tening-up-your-youtube-pixels/"><u>Brightening Up Your YouTube Pixels</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ins-and-outs-of-tracking-text-message-read-receipts/"><u>The Ins and Outs of Tracking Text Message Read Receipts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-pathway-understanding-adobes-storage-solutions-and-best-backups-for-2024/"><u>The Ultimate Pathway Understanding Adobe's Storage Solutions & Best Backups for 2024</u></a></li>
+</ul></div>
 

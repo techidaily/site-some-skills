@@ -1,7 +1,7 @@
 ---
 title: "Bankruptcy Alert: How a Massive $30+ Million Bitcoin Robbery Rocked Crypto.com"
-date: 2024-09-12T17:04:51.711Z
-updated: 2024-09-18T07:24:55.538Z
+date: 2024-09-23T01:23:41.316Z
+updated: 2024-09-29T11:30:12.085Z
 tags:
   - cutting-edge
 categories:
@@ -18,6 +18,13 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 
  A considerable hack occurred on the popular [cryptocurrency exchange](https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-itel-p40plus-phones-by-drfone-android/) Crypto.com. The hack led to over $30 million in crypto being stolen in the form of 4,836.26 Ethereum and 443.93 bitcoin.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What Happened to Crypto.com?
 
  The hack occurred on January 17, 2022, and the company finally issued a statement in a [blog post](https://blog.crypto.com/crypto-com-security-report-next-steps/) on January 20, 2022\. In it, the company addressed the hack, broke down how much crypto was stolen, and explained how it handled the situation for its users.
@@ -33,6 +40,13 @@ Related: [What is Ethereum, and What Are Smart Contracts?](https://extra-informa
  From the blog post, here's what Crypto.com said happened:
 
 > On Monday, 17 January 2022 at approximately 12:46 AM UTC Crypto.com's risk monitoring systems detected unauthorized activity on a small number of user accounts where transactions were being approved without the 2FA authentication control being inputted by the user. This triggered an immediate response from multiple teams to assess the impact. All withdrawals on the platform were suspended for the duration of the investigation. Any accounts found to be impacted were fully restored. Crypto.com revoked all customer 2FA tokens, and added additional security hardening measures, which required all customers to re-login and set up their 2FA token to ensure only authorized activity would occur. Downtime of the withdrawal infrastructure was approximately 14 hours, and withdrawals were resumed at 5:46 PM UTC, 18 January 2022.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What Is Crypto.com Doing to Fix It?
 
@@ -61,12 +75,20 @@ Related: [Opera Just Launched a Crypto Browser for Some Reason](https://howto.te
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-top-titans-of-transportation-in-drone-tech/"><u>[New] 2024 Approved Top Titans of Transportation in Drone Tech</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-boosting-engagement-with-effective-youtube-banners-and-thumbnails/"><u>[Updated] In 2024, Boosting Engagement with Effective YouTube Banners & Thumbnails</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-optimal-strategies-for-editing-and-upgrading-youtube-profiles/"><u>[Updated] In 2024, Optimal Strategies for Editing and Upgrading YouTube Profiles</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-sculpting-unique-fb-ad-visuals/"><u>[Updated] Sculpting Unique FB Ad Visuals</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-techniques-for-transferring-media-between-two-iphones/"><u>[Updated] Techniques for Transferring Media Between Two iPhones</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-re-evaluating-video-streamers-for-maximum-impact/"><u>2024 Approved Re-Evaluating Video Streamers for Maximum Impact</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-7-best-waterproof-video-recorders/"><u>2024 Approved The Ultimate Guide 7 Best Waterproof Video Recorders</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-best-voice-alteration-programs-for-vtubers/"><u>2024 Approved Unveiling the Best Voice Alteration Programs for VTubers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-vanguard-visual-transformers-lenscrafters-art/"><u>2024 Approved Vanguard Visual Transformers LensCrafters' Art</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-playlist-portability-service-to-service-swap/"><u>In 2024, The Art of Playlist Portability Service to Service Swap</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-watching-dragon-ball-z-chronologically-explained/"><u>Step by Step: Watching Dragon Ball Z Chronologically Explained</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/top-6-efficient-urban-minecraft-residences-for-2024/"><u>Top 6 Efficient Urban Minecraft Residences for 2024</u></a></li>
+</ul></div>
 

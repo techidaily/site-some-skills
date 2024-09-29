@@ -1,7 +1,7 @@
 ---
 title: "Be Prepared Without Delay: Step-by-Step Tutorial on Crafting a Bootable Windows #11 USB Thrive in Advance"
-date: 2024-09-17T22:17:03.467Z
-updated: 2024-09-23T04:14:07.821Z
+date: 2024-09-24T19:40:31.940Z
+updated: 2024-09-29T12:59:29.398Z
 tags:
   - deals
 categories:
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 
  In any case, a bootable USB drive is one of the most important tools in your toolbox that you should have ready, because you never know when you'll come across a situation where you'll need it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Create a Bootable Windows 11 USB Drive Using the Media Creation Tool
 
  The easiest and Microsoft-recommended way to create a bootable USB drive is by using the Media Creation Tool. It's a program by Microsoft that allows you to create a bootable USB drive or DVD that contains the operating system files. To use the Media Creation Tool, first plug in a [USB](https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-realme-11-5g-by-drfone-android/) drive to your computer. The USB drive must have at least 8GB of space available.
@@ -43,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
  Then, visit the [Windows 11 download page](https://www.microsoft.com/software-download/windows11), and click the "Download Now" button under the Create Windows 11 Installation Media option. This will download the Media Creation Tool on your computer.
 
 ![Download Now button for the Media Creation Tool.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/download-now-button-for-the-media-creation-tool.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Open the downloaded Media Creation Tool, and click the "Accept" button to accept all the Microsoft terms and conditions.
 
@@ -67,13 +81,6 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
  Once your USB flash drive is ready, click the "Finish" option to close the window.
 
 ![Finish option in the Windows 11 Setup window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/finish-option-in-the-windows-11-setup-window.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can now use the USB drive to install Windows 11 on a computer.
 
@@ -110,10 +117,10 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 ![Selecting the Windows 11 ISO File.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/selecting-the-windows-11-iso-file.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Make sure the Partition Scheme is set to "GPT" and File System is set to "NTFS." Then, click "Start."
@@ -158,16 +165,16 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 
 ![Selecting the USB Drive.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/selecting-the-usb-drive.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You will now have to clean the drive. For this, type **Clean** and hit Enter.
 
 ![Clean command in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/clean-command-in-command-prompt.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Next, type the following command and hit the Enter key to create a primary partition:
 
@@ -176,10 +183,10 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 ![Partition creating command in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/partition-creating-command-in-command-prompt.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Type **List par** and press Enter to choose the main partition.
@@ -192,18 +199,18 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
     
 ![Format command in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/format-command-in-command-prompt.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now, you need to assign a volume letter to the USB drive. To do this, type the following command and press Enter.
 
         `assign letter=(Letter)`
     
 ![Assign letter command in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/assign-letter-command-in-command-prompt.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Type **exit** and hit Enter to exit the Diskpart utility.
 
@@ -231,9 +238,23 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
     
 ![Accessing the mounted volume drive.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/accessing-the-mounted-volume-drive.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Type **cd** **boot** and hit Enter.
 
 ![cd boot command in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/cd-boot-command-in-command-prompt.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After that, type the following command and press Enter:
 
@@ -268,5 +289,22 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-accelerating-periscope-video-transmission/"><u>[New] Accelerating Periscope Video Transmission</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-decoding-the-meaning-and-usage-facebooks-icon-in-chat-for-2024/"><u>[New] Decoding the Meaning and Usage Facebook's Icon in Chat for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-future-is-now-how-vivacuts-2024-updates-are-redefining-editing/"><u>[New] The Future Is Now How VivaCut's 2024 Updates Are Redefining Editing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-android-3d-viewer-experience/"><u>[Updated] Top Android 3D Viewer Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-essence-of-polarr-revolutionizing-digital-photography/"><u>2024 Approved The Essence of Polarr Revolutionizing Digital Photography</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-power-of-asmr-discovering-its-advantages/"><u>2024 Approved The Power of ASMR Discovering Its Advantages</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transferring-media-pc-files-to-your-ios-device/"><u>2024 Approved Transferring Media PC Files To Your iOS Device</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ced-techniques-for-high-quality-youtube-content/"><u>Advanced Techniques for High-Quality YouTube Content</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-honor-90-gt-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Honor 90 GT via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleash-creativity-no-cost-high-quality-text-psds/"><u>In 2024, Unleash Creativity No-Cost, High-Quality Text PSDs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlock-the-magic-of-motion-in-video-text-elements/"><u>In 2024, Unlock the Magic of Motion in Video Text Elements</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-trim-and-refine-a-step-by-step-guide-to-cropping-videos-in-avidemux/"><u>New Trim and Refine A Step-by-Step Guide to Cropping Videos in Avidemux</u></a></li>
+<li><a href="https://blog-min.techidaily.com/quality-preserving-mp4-rotation-techniques-drehung-um-90-180-und-270/"><u>Quality-Preserving MP4 Rotation Techniques - Drehung Um 90°, 180°, Und 270°</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reconnecting-to-lost-wireless-network-in-windows-10/"><u>Reconnecting to Lost Wireless Network in Windows 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/transformer-votre-fichier-tga-en-format-jpeg-facilement-et-sans-frais-avec-movavi/"><u>Transformer Votre Fichier TGA en Format JPEG Facilement Et Sans Frais Avec Movavi</u></a></li>
+</ul></div>
 

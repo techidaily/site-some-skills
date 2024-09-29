@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Images Using Artificial Intelligence: Mastering the Technique of Super-Resolution with Stable Diffusion"
-date: 2024-09-10T21:12:40.611Z
-updated: 2024-09-18T00:47:21.157Z
+date: 2024-09-25T22:53:36.833Z
+updated: 2024-09-29T06:41:15.828Z
 tags:
   - cutting-edge
 categories:
@@ -15,6 +15,13 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
 
 * [How to Upscale Images in Stable Diffusion](https://screen-sharing-recording.techidaily.com/updated-2024-approved-exploring-premium-webcams-shoppers-insights/)
 * [Tips for Better Upscaling Results](https://facebook-video-content.techidaily.com/updated-silent-canvases-unscheduled-vid-removal/)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -32,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
 
  Whether you've got a [scan of an old photo](https://fox-cloud.techidaily.com/2024-approved-visualvision-studio-for-win8/), an old digital photo, or a low-res [AI-generated image](https://fox-info.techidaily.com/new-synthesize-stellar-titles-using-ai-insights/), start Stable Diffusion WebUI and follow the steps below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  1\. Upload an Image
 
  All of Stable Diffusion's upscaling tools are located in the "Extras" tab, so click it to open the upscaling menu.
@@ -49,7 +49,21 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
 
 ![A photo placed in the Extras upload field in Stable Diffusion WebUI.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/generate.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you have several images you want to upscale at once, switch to the "Batch Process" tab and drop several at once. In my experience, though, this doesn't always work, and
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Step 2: Choose a Size
 
@@ -57,16 +71,16 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
 
 ![Adjust the "Scale By" slider or number field to choose the multiple you by which you want to upscale.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/scale-by.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Alternatively, you can switch to the "Scale To" tab and enter a specific resolution you want. Pay close attention to the image's current aspect ratio, and uncheck the "Crop to Fit" option if you don't want edges cut off.
 
  If you're planning to make a wallpaper, keep in mind that most modern phones use a 9:16 [aspect ratio](https://youtube-lab.techidaily.com/e-stock-images-directly-from-trusted-4-youtube-vids/), tablets use 4:3, and computers 16:9 (though ultrawide monitors go up to 21:9).
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Step 3: Choose an Upscaler
 
@@ -90,19 +104,6 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
 
 ![A photo placed in the Extras upload field in Stable Diffusion WebUI.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/generate.png) 
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The first time you upscale with a given algorithm Stable Diffusion will need to download the appropriate models, so expect the initial run to take extra time (which will depend in part on your connection speed).
 
  Once upscaling is complete, you'll find the output images in your the 
@@ -117,16 +118,16 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
 
 Related: [How to Use Stable Diffusion to Make AI GIFs and Videos](https://youtube-help.techidaily.com/in-2024-sonic-gold-standard-10-ways-to-elevate-home-recordings/) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Tips for Better Upscaling Results
 
  If images aren't looking quite how you expected, there are a few things you can do get better results from Stable Diffusion's upscaling tools.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Try an Upscaler Combo
 
@@ -135,13 +136,6 @@ Related: [How to Use Stable Diffusion to Make AI GIFs and Videos](https://youtub
  For example, in my testing, I found ESRGAN\_4x was best at maintaining detail, but SwinIR had less grain, while also introducing some annoying tile artifacts. I could get the best of both worlds by setting ESRGAN\_4x as the primary upscaler and SwinIR as the secondary, with 0.5 visibility.
 
 ![Secondary upscaler selected in Stable Diffusino WebUI.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/second-upscaler.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Fix Bad Aspect Ratios With Outpainting
 
@@ -152,6 +146,13 @@ Related: [How to Use Stable Diffusion to Make AI GIFs and Videos](https://youtub
  As you'll quickly find out, outpainting well is difficult, and probably a subject for another guide, especially with complex image content like people and animals. That said, just messing around and not making too many changes I was able to generate this panoramic version of my image that, at first glance, looks half-believable.
 
 ![Upscaled photo of a walking path in autumn with the left and right side generated using Stable Diffusion.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/wallpaper_outpainting.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Postprocess upscale by: 4, Postprocess upscaler: ESRGAN\_4x, Postprocess upscaler 2: SwinIR\_4x
 
@@ -184,5 +185,19 @@ Related: [How to Make Awesome Wallpapers for Any Device With MidJourney](https:/
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-unlock-creative-potential-with-premium-effects-extensions/"><u>[New] Unlock Creative Potential with Premium Effects Extensions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-lone-user-review-of-future-printer-world/"><u>[New] Unveiling the Lone User Review of Future Printer World</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-ultimate-4k-desktop-screens-full-integration-and-touch-for-2024/"><u>[Updated] Ultimate 4K Desktop Screens Full Integration & Touch for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-creativity-final-cut-pros-top-10-plug-ins/"><u>2024 Approved Unleash Creativity Final Cut Pro’s Top 10 Plug-Ins</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>3 Ways to Change Location on Facebook Marketplace for Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/combining-youtube-tunes-and-film-vectors-for-2024/"><u>Combining YouTube Tunes and Film Vectors for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/daily-vlogging-ideas-what-to-talk-about-while-vlogging-in-2024/"><u>Daily Vlogging Ideas What to Talk About While Vlogging, In 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-install-brother-mfc-7360n-printer-drivers-for-windows-10-8-and-7-step-by-step-guide/"><u>Easy Install: Brother MFC-7360N Printer Drivers for Windows 10, 8 & #7 - Step by Step Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/enhancing-visual-quality-in-ar-the-role-of-luts-for-2024/"><u>Enhancing Visual Quality in AR The Role of LUTs for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-motorola-edge-40-neo-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Motorola Edge 40 Neo Devices | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-mastering-audio-switches-in-adobe-premiere/"><u>In 2024, Mastering Audio Switches in Adobe Premiere</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-definitive-resource-for-selecting-top-tier-hardware-solutions-toms-insights/"><u>The Definitive Resource for Selecting Top-Tier Hardware Solutions - Tom's Insights</u></a></li>
+</ul></div>
 

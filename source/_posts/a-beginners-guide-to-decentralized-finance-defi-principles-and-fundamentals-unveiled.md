@@ -1,7 +1,7 @@
 ---
 title: "A Beginner's Guide to Decentralized Finance (DeFi): Principles and Fundamentals Unveiled"
-date: 2024-09-11T19:50:27.757Z
-updated: 2024-09-17T20:30:59.489Z
+date: 2024-09-24T10:14:41.235Z
+updated: 2024-09-29T06:01:20.577Z
 tags:
   - cutting-edge
 categories:
@@ -20,11 +20,31 @@ thumbnail: https://thmb.techidaily.com/3f943451ad9f20674a4982a12bf6e3782b7a46fb4
 
  Among the coverage of [NFTs](https://sound-tweaking.techidaily.com/updated-2024-approved-mastering-echo-effects-implementing-reverb-in-digital-sound-environments-windows-edition/), Bitcoin, [blockchains](https://facebook-videos.techidaily.com/updated-2024-approved-top-playlist-hits-social-medias-1-10-video-winners/), and everything else cryptocurrency there is another term that is cropping up more and more: DeFi. What is it, and what does it mean to you?
 
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What Is DeFi?
 
  DeFi stands for "decentralized finance," though it's also known as "open finance." It's a financial system in which middlemen are removed and, like most things associated with [Web3](https://facebook-video-content.techidaily.com/updated-stop-video-buffering-during-streaming/), is a utopian vision of a financial system that operates without a central authority. Instead, transactions would be governed by smart contracts and other peer-to-peer (P2P) technology, most importantly a blockchain.
 
 Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/updated-2024-approved-top-playlist-hits-social-medias-1-10-video-winners/) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Centralized Finance vs. Decentralized Finance
 
@@ -35,10 +55,10 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
  One good example are loans. Currently, to get a loan you need to go to a bank and jump through a number of hoops to qualify. Under DeFi, you could make a deal with somebody online, set down the terms and conditions in a smart contract and then go from there. Instead of dealing with a bank or some other kind of loan company, you'd just deal with another individual.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How DeFi Works
@@ -52,10 +72,10 @@ Related: [What Is Bitcoin, and How Does it Work?](https://extra-support.techidai
  Conditions can be pretty simple, like a payment being transferred every first of the month, but they can be made as esoteric as the signatories would like. However, as these dApps exist on the blockchain, once the deal is made, it can't be altered. If you made a deal to transfer 100 Tether every first of the month, it'll fire every time unless you and your counterparty agree otherwise.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Problems With DeFi
@@ -85,5 +105,20 @@ Related: [What Is Bitcoin, and How Does it Work?](https://extra-support.techidai
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-streamlining-video-conferencing-with-efficient-use-of-snap-features-on-google-meet/"><u>[New] In 2024, Streamlining Video Conferencing with Efficient Use of Snap Features on Google Meet</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-fast-photography-path-to-crafting-quick-google-collage-pics/"><u>[New] The Fast Photography Path to Crafting Quick Google Collage Pics</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-optimal-strategy-for-broadcasting-via-obs-on-fb-live-for-2024/"><u>[Updated] Optimal Strategy for Broadcasting via OBS on FB Live for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/bikers-take-on-days-gone-navigating-the-undead-with-style-and-strategy/"><u>Biker's Take on 'Days Gone': Navigating the Undead with Style and Strategy</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/capture-and-replay-screen-recording-for-instagram-stories/"><u>Capture and Replay Screen Recording for Instagram Stories</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/aking-simplified-create-an-inviting-youtube-subscription-button-in-filmora-for-2024/"><u>Filmmaking Simplified Create an Inviting YouTube Subscription Button in Filmora for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-oppo-find-x6-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Oppo Find X6?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-on-iphone-11-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out On iPhone 11 How to Bypass?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-on-your-iphone-15-pro-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status On Your iPhone 15 Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-smart-guide-for-spawning-share-worthy-memes-in-9gag/"><u>In 2024, The Smart Guide for Spawning Share-Worthy Memes in 9GAG</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-srt-insights-essential-facts-unveiled/"><u>In 2024, Ultimate SRT Insights Essential Facts Unveiled</u></a></li>
+<li><a href="https://some-skills.techidaily.com/premium-line-up-top-5-slow-motion-models-for-2024/"><u>Premium Line-Up Top 5 Slow Motion Models for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-pc-edition-of-image-overlay-mastery-for-2024/"><u>Ultimate PC Edition of Image Overlay Mastery for 2024</u></a></li>
+</ul></div>
 

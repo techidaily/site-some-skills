@@ -1,7 +1,7 @@
 ---
 title: "Essential 12 Apple Macintosh Utility Programs: The Must-Have Tools for Solo Users"
-date: 2024-09-18T04:35:32.230Z
-updated: 2024-09-23T07:35:21.662Z
+date: 2024-09-25T00:43:19.280Z
+updated: 2024-09-28T20:59:56.795Z
 tags:
   - desktop
 categories:
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/d10946fd797c909f3b766507ccc413e54b73231c6
 
  Apple’s desktop operating system is arguably the best reason to buy a Mac, but that doesn’t mean it’s perfect. Thankfully, there are plenty of single-use apps to fix, tweak, and add the things that Apple forgot.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1 [Magnet](https://magnet.crowdcafe.com) for Snapping Windows 
 
 ![Magnet window snapping app for macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/magnet-window-snapping-app-for-macos-1.png) 
@@ -45,10 +52,10 @@ thumbnail: https://thmb.techidaily.com/d10946fd797c909f3b766507ccc413e54b73231c6
  By default, traffic will be blocked. This allows you to create an allow-list of apps that are mission-critical. You can then block the heavy hitters like Photos or your Mac’s background cloud syncing processes. Try it for free and then buy a single-use license for $17.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3 [Maccy](https://github.com/p0deje/Maccy) for Recalling Clipboard Items 
@@ -63,6 +70,19 @@ thumbnail: https://thmb.techidaily.com/d10946fd797c909f3b766507ccc413e54b73231c6
 
 ![MediaKeyForwarder app for macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/mediakeyforwarder-app-for-macos.png) 
 
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Apple’s media keys can be a little erratic. I like to listen to music using Apple Music while I work, but sometimes I find myself with random YouTube tabs open. It’s frustrating when pressing the Play/Pause key starts or stops a YouTube video instead. [MacMediaKeyForwarder](https://github.com/milgra/macmediakeyforwarder) is an app that solves this problem.
 
  The app limits the Play/Pause key behavior to Apple’s Music app or Spotify. No longer will pressing this key start random videos on background tabs!
@@ -75,16 +95,16 @@ thumbnail: https://thmb.techidaily.com/d10946fd797c909f3b766507ccc413e54b73231c6
 
  The app lets you sleep the screen but keep your Mac running, keep everything awake so that the screen remains on, or even close the lid without putting your MacBook to sleep (which requires the free [Amphetamine-Enhancer](https://github.com/x74353/Amphetamine-Enhancer) add-on). You can configure triggers and hotkeys, use the app as a [mouse jiggler](https://facebook-record-videos.techidaily.com/updated-optimizing-video-content-with-powerful-hashtags-on-youtube/), and more.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6 [Homebrew](https://brew.sh) for Installing Software via Terminal 
 
 ![Installing a command-line utility using Homebrew for macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/installing-a-command-line-utility-using-homebrew-for-macos.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  There are [many ways to install software on your Mac](https://youtube-stream.techidaily.com/new-streaming-services-face-off-facebook-youtube-and-spaces/), but the easiest method is using [Homebrew](https://brew.sh). This package manager lets you install full applications and command-line utilities with a single command, and can even keep things updated for you.
 
@@ -95,13 +115,6 @@ thumbnail: https://thmb.techidaily.com/d10946fd797c909f3b766507ccc413e54b73231c6
 ## 7 [Speedtest CLI](https://www.speedtest.net/apps/cli) for Testing Internet Speed 
 
 ![Speedtest CLI running in Terminal on macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/speedtest-cli-running-in-terminal-on-macos.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Speedtest by Ookla is one of the most popular internet speed test services, but it can be a drag having to open a new tab, navigate to the website, and click the “Go” button. The fastest way is to [use the companion command-line utility](https://extra-tips.techidaily.com/fading-audio-dynamics-a-logic-pro-approach/).
 
@@ -117,6 +130,13 @@ speedtest-cli
 
 speedtest-cli -help
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8 [Ulysses](https://ulysses.app) for Writing in Markdown 
 
 ![Writing in Markdown in Ulysses.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/ulysses_markdown.png) 
@@ -129,16 +149,16 @@ speedtest-cli -help
 
 ![Apple Notes on macOS](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/apple_notes.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  I don’t pay for a fancy note-taking app, Apple’s pack-in app has everything I need. It doesn’t support Markdown ([you’ll need an app like Obsidian for that](https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-vivo-y36i-drfone-by-drfone-fix-android-problems-fix-android-problems/)), but it covers the basics like syncing with my iPhone so I’ve got everything I need on me wherever I am. It also supports advanced features like collaboration and supporting inter-note linking.
 
 [Switching from Evernote to Apple Notes](https://article-files.techidaily.com/updated-tiktokplusinstagram-social-media-fusion-guide-for-2024/) was one of the best things I did to improve personal organization. If you also rely on Android or Windows you might want to check out [our note-taking app roundup](https://games-able.techidaily.com/sonys-ps5-dualsense-controller-excellence-with-new-chargers/) for some better recommendations.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10 [Hyperkey](https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-on-apple-iphone-15-plus-by-drfone-ios/) for Boosting Keyboard Shortcuts 
 
@@ -149,15 +169,22 @@ speedtest-cli -help
  Then all you need to do is assign some shortcuts that depend on your new “hyper” key. So, for example, Instead of hitting Shift+Control+Option+Command+R to trigger a Shortcut, you can just hit Caps Lock+R instead.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 11 [The Unarchiver](https://theunarchiver.com) for Extracting Archives 
 
 ![The file association options on Unarchiver.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/mac-unarchiver-options.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Perhaps the most boring app on this list, [The Unarchiver](https://theunarchiver.com) is a free app that adds support for archive formats that aren’t supported in macOS by default like RAR and 7Z. It can also unpack deprecated formats from forgotten platforms, and do interesting things like extract images and audio from SWF files.
 
@@ -188,5 +215,21 @@ speedtest-cli -help
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-unleash-your-creativity-in-full-rotation-best-practices-for-vr-video/"><u>[New] Unleash Your Creativity in Full Rotation Best Practices for VR Video</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-elevate-engagement-discover-these-top-12-techniques-for-video-success-for-2024/"><u>[Updated] Elevate Engagement - Discover These Top 12 Techniques for Video Success for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-how-to-add-music-to-facebook-videos/"><u>2024 Approved How to Add Music to Facebook Videos?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-ten-frame-enhancers-for-visual-artistry/"><u>2024 Approved Top Ten Frame Enhancers for Visual Artistry</u></a></li>
+<li><a href="https://driver-error.techidaily.com/beat-iphones-connection-hurdles-expert-solutions-to-overcome-mtp-drivers-glitches/"><u>Beat iPhones' Connection Hurdles - Expert Solutions to Overcome MTP Drivers Glitches</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/evaluating-cloud-services-with-a-budget-lens-2-written-by-ai/"><u>Evaluating Cloud Services with a Budget Lens (2 Written by AI)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-motorola-razr-40-ultra-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Motorola Razr 40 Ultra Phone that is Locked?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-realme-11x-5g-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Realme 11X 5G Through Google Earth?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-honor-90-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Honor 90 Pro Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamline-your-media-with-top-8-convertors-1-8/"><u>In 2024, Streamline Your Media with Top 8 Convertors #1-8</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-htc-u23-pro-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For HTC U23 Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-role-of-b-roll-in-professional-editing-for-2024/"><u>The Role of B Roll in Professional Editing for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleash-clarity-in-depth-tutorial-on-video-enhancer-22-for-2024/"><u>Unleash Clarity In-Depth Tutorial on Video Enhancer 2.2 for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Safeguard Your Privacy From Machine Mayhem by Embracing Open Source Linux Solutions
-date: 2024-09-10T19:45:28.121Z
-updated: 2024-09-18T01:43:26.023Z
+date: 2024-09-22T01:14:28.474Z
+updated: 2024-09-28T23:51:49.822Z
 tags:
   - cutting-edge
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Every other app and service now seems to be tacking on AI functionality to try to entice weary users or satisfy shareholders. Sometimes, AI features work well. Often, it just results in junk output (at least for now) and a privacy nightmare. Here's how Linux can help you escape the AI apocalypse.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Everyone Is Adding AI to Their Products and Services
 
  I'm no curmudgeon: Generative AI is an awesome new technology, and I think that anyone with the hardware should try hosting their own [AI chat bots](https://facebook-video-content.techidaily.com/updated-whats-new-on-facebook-an-updated-look/) and [image generators](https://screen-recording.techidaily.com/in-2024-odins-legacy-destiny-of-ragnarok/) to learn how they work and prepare for the future. It's the haphazard application of AI, without any thought for users, and that makes products worse that I object to. For example:
@@ -28,6 +35,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * Humane AI Pin: This one wasn't even an existing product ruined by AI—it's a device that was specifically designed and built to interact with an AI, and it was [so bad it risked randomly catching fire](https://www.wired.com/story/things-keep-getting-worse-for-the-humane-ai-pin/ "https://www.wired.com/story/things-keep-getting-worse-for-the-humane-ai-pin/").
 
  This effort to add AI to everything isn't stopping, despite users' trepidation. Windows, MacOS, and iOS are all plowing ahead with new AI features, and at no cost to you. This raises the question of how they plan on profiting from it (hint, the answer is probably by monetizing the data you feed to them).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  For AI to Work, It Needs to Scrape Your Data
 
@@ -40,10 +54,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  This doesn't just make AI output unoriginal, It's a massive privacy issue: how can you be sure some details of your private life that have been submitted to an AI platform won't be used to generate someone else's short story, business email, to create images, or just [revealed to the public outright](https://www.businessinsider.com/google-researchers-openai-chatgpt-to-reveal-its-training-data-study-2023-12 "https://www.businessinsider.com/google-researchers-openai-chatgpt-to-reveal-its-training-data-study-2023-12")?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Take Control Back By Switching to Linux
@@ -51,10 +71,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The Kubuntu Focus Ir16 Gen 2 laptop open on a desk in front of speakers and a headset.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/53784641964_d7cc9b8262_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -80,5 +100,26 @@ Jerome Thomas / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-earn-big-on-youtube-strategies-for-successful-creators/"><u>[New] 2024 Approved Earn Big on YouTube Strategies for Successful Creators</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-optimal-solutions-transforming-images-into-videos/"><u>[New] Optimal Solutions Transforming Images Into Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-streamlining-success-strategies-for-daily-vlog-authenticity/"><u>[New] Streamlining Success Strategies for Daily Vlog Authenticity</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-turning-viewers-into-valuables-a-creators-guide-to-youtube-monetization/"><u>[Updated] 2024 Approved Turning Viewers Into Valuables A Creator’s Guide to YouTube Monetization</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-navigating-iphone-xs-biometrics-addressing-face-id-glitches/"><u>[Updated] Navigating iPhone X's Biometrics Addressing Face ID Glitches</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-a-step-by-step-guide-to-producing-mac-videos-for-snapchat/"><u>2024 Approved A Step-by-Step Guide to Producing Mac Videos for Snapchat</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-complete-guide-to-sharing-subtitle-files-socially/"><u>2024 Approved The Complete Guide to Sharing Subtitle Files Socially</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-visual-journey-of-iphone-photos-with-leading-lines/"><u>2024 Approved The Visual Journey of iPhone Photos with Leading Lines</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2024-approved-video-earnings-explored-in-depth-look-at-dm-and-yo/"><u>2024 Approved Video Earnings Explored In-Depth Look at Dm & Yo</u></a></li>
+<li><a href="https://fox-info.techidaily.com/cutting-edge-techniques-for-3d-text-illustration/"><u>Cutting-Edge Techniques for 3D Text Illustration</u></a></li>
+<li><a href="https://fox-info.techidaily.com/effortless-visual-content-creation-for-instagram-users-for-2024/"><u>Effortless Visual Content Creation for Instagram Users for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unbeatable-free-livestream-solutions-reviewed-across-all-platforms/"><u>In 2024, Unbeatable Free Livestream Solutions Reviewed Across All Platforms</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/smart-guide-top-picks-for-6-fb-lite-videos-for-2024/"><u>Smart Guide Top Picks for 6 FB Lite Videos for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/streamlining-meetings-on-win11-using-zoom-features-for-2024/"><u>Streamlining Meetings on Win11 Using Zoom Features for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/synchronized-tasks-and-engaging-podcast-episodes-for-2024/"><u>Synchronized Tasks and Engaging Podcast Episodes for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/top-5-motorola-g54-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Motorola G54 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://some-skills.techidaily.com/uncovering-veiled-viewer-interactions-with-video-content-for-2024/"><u>Uncovering Veiled Viewer Interactions with Video Content for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/understanding-sns-hdr-pros-features-vs-competitors-for-2024/"><u>Understanding SNS HDR Pro’s Features Vs. Competitors for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-art-of-slow-motion-utilizing-online-platforms-and-photos-for-2024/"><u>Unveiling the Art of Slow Motion Utilizing Online Platforms & Photos for 2024</u></a></li>
+</ul></div>
 
