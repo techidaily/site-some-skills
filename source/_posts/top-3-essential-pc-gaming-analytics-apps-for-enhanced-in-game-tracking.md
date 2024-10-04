@@ -1,7 +1,7 @@
 ---
 title: Top 3 Essential PC Gaming Analytics Apps for Enhanced In-Game Tracking
-date: 2024-09-27T08:44:54.123Z
-updated: 2024-09-28T20:31:41.586Z
+date: 2024-10-01T21:34:07.283Z
+updated: 2024-10-04T20:44:44.454Z
 tags:
   - deals
 categories:
@@ -43,20 +43,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  You can also configure the heads-up display by clicking the "Configure Heads Up Display" button in the "Statistics" options menu.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ![NVIDIA Overlay Statistics options menu](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-02.png) RivaTuner Statistics Server
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The legendary [RivaTuner Statistics Server](https://www.guru3d.com/page/rivatuner-rtss-homepage/), also known as RTSS, is the oldest in-game performance monitoring tool on this list. I’ve been using RTSS for more than a decade, and in that time, I’ve had zero issues with it.
@@ -70,6 +63,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  After you download and install both apps, open RTSS, which you can find in the taskbar notification area. You might have to click the “Show Hidden Icons” button to access the RTSS and MSI Afterburner icons. Once you open RTSS, set the “On Screen Display Support” to ON.
 
 ![RivaTuner Statistics Server main window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-004.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Don't forget that you can add game EXE files to RTSS and create custom RTSS profiles. For example, if a game uses anti-cheat that can block RTSS, I recommend creating a custom profile and disabling the on-screen display (OSD) only in that game. You can also tweak a couple more OSD-related options in RTSS, such as the OSD zoom level.
 
@@ -88,10 +88,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  After you enable the performance stats you want to see on the OSD, click the “Apply” button, and try out the OSD by entering the game and pressing the button you’ve mapped to open the RTSS performance overlay.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Intel PresentMon
@@ -115,26 +115,32 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Intel PresentMon main Window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-07.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once in the configuration menu, explore different options and create your perfect monitoring overlay.
 
 ![Intel PresentMon custom preset configuration menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-08.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can combine multiple metrics by pressing the “Plus” button. For example, you can combine GPU and CPU busy graphs with GPU and CPU wait graphs, average and 99% low FPS, CPU and GPU utilization, and more. The “Options” button next to the “Plus” button allows you to customize each graph.
 
 ![Intel PresentMon custom preset configuration menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-09.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Don’t forget that you can show most data as readouts—numbers, in other words—or graphs.
 
@@ -157,24 +163,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-concurrent-display-registration-for-2024/"><u>[New] Concurrent Display Registration for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-heart-of-filmora-10-engaging-editing-capabilities/"><u>[New] The Heart of Filmora 10 Engaging Editing Capabilities</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-bypass-tradition-innovative-techniques-to-boost-your-tiktok-photos-for-2024/"><u>[Updated] Bypass Tradition Innovative Techniques to Boost Your TikTok Photos for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-pioneering-prospects-cutting-edge-strategies-in-telegram-advertising/"><u>2024 Approved Pioneering Prospects Cutting-Edge Strategies in Telegram Advertising</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-tailoring-humor-with-9gag-your-personal-meme-making-manual/"><u>2024 Approved Tailoring Humor with 9GAG Your Personal Meme Making Manual</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-techniques-for-ios-users-producing-and-transforming-tranquil-videos/"><u>2024 Approved Techniques for iOS Users Producing and Transforming Tranquil Videos</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-vivo-v29-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Vivo V29 Phone Using PC | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/finding-the-perfect-phrases-for-gamers-videos-for-2024/"><u>Finding the Perfect Phrases for Gamers' Videos for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/harnessing-the-power-of-dynamic-images-in-ios/"><u>Harnessing the Power of Dynamic Images in iOS</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-nubia-red-magic-8s-pro-is-unlocked-by-drfone-android/"><u>How To Check if Your Nubia Red Magic 8S Pro Is Unlocked</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-slippery-surfaces-olympic-winners-of-22/"><u>In 2024, Slippery Surfaces Olympic Winners of '22</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-superior-audio-modification-software-with-enchanting-features/"><u>In 2024, Superior Audio Modification Software with Enchanting Features</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-30plus-list-of-expertly-curated-cost-free-vfx-tools-for-creatives/"><u>In 2024, The Ultimate 30+ List of Expertly Curated, Cost-Free VFX Tools for Creatives</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-strategies-for-adjusting-song-speed-on-spotify/"><u>In 2024, Top Strategies for Adjusting Song Speed on Spotify</u></a></li>
-<li><a href="https://fox-that.techidaily.com/step-by-step-addressing-random-browser-history-entries-on-ios-screen-time-monitoring/"><u>Step-by-Step: Addressing Random Browser History Entries on iOS Screen Time Monitoring</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tailoring-your-windows-photos-display-filters-and-audio-options-for-2024/"><u>Tailoring Your Windows Photos Display Filters & Audio Options for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-6-gopro-helmet-harnesses-tips-and-techniques-unveiled-for-2024/"><u>Top 6 GoPro Helmet Harnesses Tips and Techniques Unveiled for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-collection-top-free-ae-template-packs-for-2024/"><u>Ultimate Collection Top Free AE Template Packs for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-deciphering-the-differences-between-youtubes-and-dailymentions/"><u>[New] 2024 Approved Deciphering the Differences Between YouTubes & DailyMentions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-androids-compendium-for-synchronized-and-curved-videography/"><u>[New] Android's Compendium for Synchronized & Curved Videography</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-maximize-mobile-video-quality-top-4-strategies-to-brighten-iphone-hdr-in-adobe/"><u>[New] In 2024, Maximize Mobile Video Quality Top 4 Strategies to Brighten iPhone HDR in Adobe</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-free-artistic-software-on-mac/"><u>[New] The Ultimate Guide to Free Artistic Software on Mac</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-10-hidden-strategies-in-canvas-image-design-toolkit/"><u>[New] Top 10 Hidden Strategies in Canva's Image Design Toolkit</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-capture-clarity-with-leading-photo-gridding-services/"><u>[Updated] Capture Clarity with Leading Photo Gridding Services</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-hd-cameras-for-wildlife-enthusiasts/"><u>2024 Approved Top HD Cameras For Wildlife Enthusiasts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/how-to-shoot-underwater-video-easily-with-7-tips-for-2024/"><u>How to Shoot Underwater Video Easily (with 7 Tips) for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-the-power-of-preparedness-in-your-streams/"><u>In 2024, Unleashing the Power of Preparedness in Your Streams</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/selective-engagement-cutting-down-on-social-media-noise/"><u>Selective Engagement: Cutting Down on Social Media Noise</u></a></li>
 </ul></div>
 

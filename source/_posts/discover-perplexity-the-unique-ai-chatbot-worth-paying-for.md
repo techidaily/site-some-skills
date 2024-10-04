@@ -1,7 +1,7 @@
 ---
 title: Discover Perplexity – The Unique AI Chatbot Worth Paying For
-date: 2024-09-25T03:25:44.774Z
-updated: 2024-09-28T20:08:11.395Z
+date: 2024-09-27T19:20:41.526Z
+updated: 2024-10-04T19:49:15.635Z
 tags:
   - cutting-edge
 categories:
@@ -19,22 +19,29 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The internet is flooded with AI chatbots—some free, some paid, some useful, and some gimmicky. Amidst all this noise, Perplexity stands out with a collection of highly practical features, making it the only AI chatbot worth paying for, in my opinion.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Perplexity Supports All Popular LLM Models
 
  Perplexity gives you the flexibility to choose from a variety of cutting-edge LLMs (Large Language Models). For text generation, you can choose between OpenAI’s latest [GPT-4o](https://vp-tips.techidaily.com/digitize-effortlessly-turn-to-mematic-for-2024/) or Anthropic’s [Claude 3 Opus](https://fix-guide.techidaily.com/nubia-z50-ultra-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/)—known for its [longer context window](https://support.anthropic.com/en/articles/8606394-how-large-is-claude-pro-s-context-window). You also have access to Sonar Large, which is based on [LLaMa 3 70B, one of the best open-source LLM models](https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/) from Meta. Personally, I stick with GPT-4o for general use and Claude 3 Opus for creativity-focused work.
 
 ![Choosing AI Models In Perplexity](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1-choosing-ai-models-in-perplexity.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  For image generation, you have access to [DALL-E 3](https://some-skills.techidaily.com/tailored-titling-for-stellar-online-video-content-for-2024/), which is the same model ChatGPT uses to generate images. You can also change that to Playground 2.5 or [Stable Diffusion XL](https://games-able.techidaily.com/pro-tips-amassing-steams-best-free-gaming-treasures/). I find Stable Diffusion XL‘s output more satisfying.
 
 ![Choosing AI Image Generation Models in Perplexity](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2-choosing-ai-image-generation-models-in-perplexity.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Also, Perplexity constantly updates its model library, so you’ll always have access to the latest and greatest options.
 
@@ -54,16 +61,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Perplexity Pro Search Limit and Other Pro Features](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/4-perplexity-pro-search-limit-and-other-pro-features.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Pro Search](https://screen-sharing-recording.techidaily.com/new-step-by-step-guide-to-recording-on-your-macbook/) is a unique feature in Perplexity that analyzes the intent of your question to provide an optimized answer.
 
  Perplexity’s cap is much more practical because, when using AI for research or ideation, the conversation thread can get quite long—typically 120-150 messages. Perplexity can handle this in one session, whereas other chatbots might require breaks, disrupting your workflow. Also, you still have 150 messages left with Perplexity for the rest of the day, which is enough for casual web searches and questions.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Seamlessly Switch Between Web Search and Chatbot Mode
 
@@ -74,10 +81,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Perplexity Switch to Writing Mode, No Internet Access](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/5-perplexity-switch-to-writing-mode-no-internet-access.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Perplexity Gives Internet Access to Claude and All Supported Models
@@ -92,29 +99,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Search Through All Perplexity Threads Inside The Library](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/6-search-through-all-perplexity-threads-inside-the-library.png) 
 
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Perplexity saves all chats (which it calls "Threads") inside its Library. From here you can use the search bar to browse through old threads. However, the main feature I want to spotlight is Collections. It helps you organize and group all your threads, making them easier to find when you need them.
 
 ![Perplexity Collection of Threads on Planning Trip to Bali](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/7-perplexity-collection-of-threads-on-planning-trip-to-bali.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  So, let’s say you are planning a trip to Bali. You’ll most likely search for different things in the planning process. A couple of search threads might be dedicated to finding the best places to sight-see. Then there’s searching for the best restaurants, the best hotels, best places to buy souvenirs, etc.
 
@@ -125,6 +112,13 @@ Close
  What’s more, each Collection can be shared with your friends and family, and you can add contributors to join a Collection and add more threads to make it as comprehensive as possible.
 
 ![Sharing a Perplexity Collection](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/9-sharing-a-perplexity-collection.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  You Can Add Personal Information About Yourself
 
@@ -164,19 +158,18 @@ Dibakar Ghosh | How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-detailed-review-of-the-sony-fdr-x1000-action-camera-for-2024/"><u>[New] Detailed Review of the Sony FDR-X1000 Action Camera for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-superior-converter-mp4-to-facebook/"><u>[New] In 2024, Superior Converter MP4 to Facebook</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-10-trends-in-effective-podcast-naming/"><u>[New] Top 10 Trends in Effective Podcast Naming</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/nlocking-earnings-potential-essential-view-numbers/"><u>[New] Unlocking Earnings Potential Essential View Numbers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-streamlined-approach-for-customizing-snapchat-video-rate/"><u>[Updated] Streamlined Approach for Customizing Snapchat Video Rate</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-unlocking-kinemasters-full-potential-in-zoomed-sections/"><u>2024 Approved Unlocking Kinemaster's Full Potential in Zoomed Sections</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unparalleled-video-gear-top-5-slow-cams/"><u>2024 Approved Unparalleled Video Gear Top 5 Slow Cams</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-superiority-in-choosing-drones-lipo-energizers/"><u>2024 Approved Unveiling Superiority in Choosing Drones' LiPo Energizers</u></a></li>
-<li><a href="https://fox-access.techidaily.com/from-obscurity-to-fame-elevate-your-tiktok-unboxing-videos/"><u>From Obscurity to Fame Elevate Your TikTok Unboxing Videos</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-samsung-galaxy-a34-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Samsung Galaxy A34 5G Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-timelapse-techniques-for-samsung-smartphones/"><u>In 2024, Timelapse Techniques for Samsung Smartphones</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlock-youtube-comment-insights-a-comprehensible-guide/"><u>In 2024, Unlock YouTube Comment Insights A Comprehensible Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/missing-icon-dilemma-restore-all-app-icons-on-your-ios-device/"><u>Missing Icon Dilemma: Restore All App Icons on Your iOS Device</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/winxvideo-aiwav/"><u>Winxvideo AIを使用したWAV ファイルコンバートガイド:専門的な方法</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-the-ultimate-selection-of-cost-free-high-quality-video-editors/"><u>[New] The Ultimate Selection of Cost-Free, High-Quality Video Editors</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transform-your-photographic-vision-with-iphone-burst-shooting/"><u>[New] Transform Your Photographic Vision with iPhone Burst Shooting</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-hands-on-guide-to-optimize-your-youtube-channels-with-adsense-for-2024/"><u>[Updated] Hands-On Guide to Optimize Your YouTube Channels with AdSense for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-guide-sharing-melodies-in-facebook-narratives/"><u>[Updated] In 2024, Guide Sharing Melodies in Facebook Narratives</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-swift-techniques-for-shifting-iphone-media-to-pc/"><u>[Updated] Swift Techniques for Shifting iPhone Media to PC</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tips-for-finding-christian-choir-songs-online-and-personalizing-them/"><u>[Updated] Tips for Finding Christian Choir Songs Online & Personalizing Them</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-complete-rundown-on-dji-inspire-2/"><u>2024 Approved The Complete Rundown on DJI Inspire 2</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-sage-select-best-general-knowledge-channels/"><u>In 2024, Sage Select Best General Knowledge Channels</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-auditory-interface-win/"><u>In 2024, Ultimate Auditory Interface, WIN</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/solve-this-why-is-my-chatgpt-account-locked-discover-4-key-reasons-and-remedies/"><u>Solve This: Why Is My ChatGPT Account Locked? Discover 4 Key Reasons and Remedies</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-the-big-four-a-deep-dive-into-facebook-twitter-instagram-and-youtube/"><u>Understanding the Big Four: A Deep Dive Into Facebook, Twitter, Instagram and Youtube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleash-your-vision-the-premier-6-for-artists-nfts-for-2024/"><u>Unleash Your Vision The Premier 6 for Artists' NFTs for 2024</u></a></li>
 </ul></div>
 

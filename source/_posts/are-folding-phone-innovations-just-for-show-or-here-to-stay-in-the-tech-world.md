@@ -1,7 +1,7 @@
 ---
 title: Are Folding Phone Innovations Just for Show, or Here to Stay in the Tech World?
-date: 2024-09-27T16:15:06.616Z
-updated: 2024-09-28T23:14:56.173Z
+date: 2024-10-01T18:47:09.085Z
+updated: 2024-10-04T16:33:37.456Z
 tags:
   - mobile
 categories:
@@ -26,10 +26,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Person holding the Samsung Galaxy Z Flip 6 showing the cover display](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/person-holding-the-samsung-galaxy-z-flip-6-showing-the-cover-display.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
@@ -40,6 +40,19 @@ Justin Duino / How-To Geek
 
  Folding phones are cool, and a novelty, but for me, when you try to break down the value proposition to its essence, it doesn't quite add up to more than that.
 
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Moving Parts Are Always Less Reliable
 
  One of the best things about my [M1 MacBook Air](https://facebook-video-share.techidaily.com/new-2024-approved-discover-the-best-tools-and-tips-to-accurately-tag-your-videos/) is that it's almost entirely a solid-state device, except for the screen hinge and the keyboard, which are still failure points. My smartphone and iPad, on the other hand, are in completely solid state, with no moving parts. If it weren't for the current state of battery technology, these devices would probably work indefinitely. Barring physical damage, a modern phone is pretty much bulletproof until the battery gives up the ghost.
@@ -47,10 +60,10 @@ Justin Duino / How-To Geek
  With a folding phone you throw absolutely all of that out the window, with both a complex hinge and the folding screen itself, which is enormously more fragile. Until materials science advances to the point where these folding screens are as robust against wear and damage as typical smartphone screens are today, I'll remain hesitant to get one as my daily driver. I've also come to the point where I don't consider a smartphone something I use for two years and then replace. These devices are so powerful, and makers are promising such long support cycles, that I expect five years of use with [proper battery care](https://review-topics.techidaily.com/how-to-change-location-on-facebook-dating-for-your-infinix-gt-10-pro-drfone-by-drfone-virtual-android/). I just don't see folding phones doing that on average with normal daily use.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The Sacrifices Aren’t Worth It
@@ -63,22 +76,15 @@ Justin Duino / How-To Geek
 
  Again, there's nothing wrong with someone deciding that those sacrifices are not an issue to them personally, but it seems to me that the benefits of a folding screen don't measure up favorably to the list of downsides.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Rolling Screens Might Be a Better Take
 
 ![The Phantom Ultimate 3 rollable phone held in a hand.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/phantom_ultimate_3.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Tecno
@@ -102,24 +108,15 @@ Tecno
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-unmatched-ai-tools-for-visual-storytelling/"><u>[New] 2024 Approved Unmatched AI Tools for Visual Storytelling</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-changing-screen-aspects-digitally/"><u>[New] Changing Screen Aspects Digitally</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-maximizing-memories-the-ultimate-guide-for-overwatch-players/"><u>[New] In 2024, Maximizing Memories The Ultimate Guide for Overwatch Players</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-metaverse-unraveled-explore-these-6-vivid-models/"><u>[New] The Metaverse Unraveled Explore These 6 Vivid Models</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unveiling-the-best-lipos-a-drone-buyers-bible/"><u>[New] Unveiling the Best LiPos - A Drone Buyer's Bible</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-crafting-captivating-edu-videos-essential-techniques-and-tips-for-youtube-success-for-2024/"><u>[Updated] Crafting Captivating Edu-Videos Essential Techniques and Tips for YouTube Success for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-picks-for-gaming-displays-on-xbox-series-x-console/"><u>[Updated] Top Picks for Gaming Displays on Xbox Series X Console</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unveiling-the-ultimate-action-cam-max-360-vs-hero-11-gopro-showdown/"><u>[Updated] Unveiling the Ultimate Action Cam Max 360 vs Hero 11 GoPro Showdown</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-streamlining-workflow-fixes-for-adobe-premiere-srt-freeze/"><u>2024 Approved Streamlining Workflow Fixes for Adobe Premiere SRT Freeze</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-blueprint-for-seamless-eco-screen-integration/"><u>2024 Approved The Ultimate Blueprint for Seamless Eco-Screen Integration</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-understanding-and-managing-facebooks-hidden-history/"><u>2024 Approved Understanding & Managing Facebook's Hidden History</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/amazfit-helio-ring-find-out-how-much-when-it-drops-and-whats-inside/"><u>Amazfit Helio Ring - Find Out How Much, When It Drops, and What's Inside!</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/dimming-dynamics-stepwise-sound-dissipation-in-adobe-premiere/"><u>Dimming Dynamics Stepwise Sound Dissipation in Adobe Premiere</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discovering-the-best-in-hardware-with-toms-gear-hub/"><u>Discovering the Best in Hardware with Tom’s Gear Hub</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-the-tower-of-fantasy-game-crashes-on-your-windows-computer/"><u>How to Fix the 'Tower of Fantasy' Game Crashes on Your Windows Computer</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-6-premium-video-translation-tools/"><u>In 2024, Top 6 Premium Video Translation Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlock-the-secrets-of-finding-high-quality-instagram-tones-and-crafting-perfect-chimes/"><u>In 2024, Unlock the Secrets of Finding High-Quality Instagram Tones and Crafting Perfect Chimes</u></a></li>
-<li><a href="https://some-skills.techidaily.com/symbolizing-success-affordable-and-flexible-logo-crafting-from-templates-for-2024/"><u>Symbolizing Success Affordable & Flexible Logo Crafting From Templates for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-5-strategies-for-securely-storing-and-safeguarding-your-digital-information/"><u>Top 5 Strategies for Securely Storing and Safeguarding Your Digital Information</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-a-closer-look-at-the-vivavideo-interface/"><u>[New] A Closer Look at the VivaVideo Interface</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-navigating-tiktoks-virtual-stage-with-zoom-expertise/"><u>[New] In 2024, Navigating TikTok's Virtual Stage with Zoom Expertise</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transforming-everyday-moments-with-ioss-complete-life-story/"><u>[New] Transforming Everyday Moments with iOS's Complete Life Story</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-charting-the-course-visual-content-in-educational-endeavors/"><u>[Updated] Charting the Course Visual Content in Educational Endeavors</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamline-and-enhance-with-these-key-zoom-setup-steps/"><u>[Updated] Streamline & Enhance with These Key Zoom Setup Steps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tech-assisted-jogs-top-virtual-reality-walking-machines-explored/"><u>2024 Approved Tech-Assisted Jogs Top Virtual Reality Walking Machines Explored</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Honor 90? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-on-iphone-13-pro-max-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code On iPhone 13 Pro Max in the Best Ways</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-trim-videos-with-flair-in-windows-11-photo-apps/"><u>In 2024, Trim Videos with Flair in Windows 11 Photo Apps</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-essence-of-podcast-marketing-creating-effective-feeds/"><u>The Essence of Podcast Marketing Creating Effective Feeds</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Exciting Updates: GIMP Introduces Advanced Gradient Capabilities Ahead of the 3.0 Update"
-date: 2024-09-27T07:37:04.464Z
-updated: 2024-09-28T20:05:23.370Z
+date: 2024-10-02T16:01:10.364Z
+updated: 2024-10-04T19:20:26.835Z
 tags:
   - deals
 categories:
@@ -38,31 +38,34 @@ The latest GIMP release (version 2.10.36) introduces a fun new gradient tool and
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-essential-6-microphone-selections-for-high-quality-livestreams-for-2024/"><u>[New] Essential 6 Microphone Selections for High-Quality Livestreams for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-eliminated-invisible-youtube-micro-videos/"><u>[New] In 2024, Eliminated Invisible YouTube Micro Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-tunes-palette-for-video-storytelling/"><u>[New] Top Tunes Palette for Video Storytelling</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-canvasknotter-your-ultimate-photo-blend-tool-for-2024/"><u>[Updated] CanvasKnotter Your Ultimate Photo Blend Tool for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-facetune-photo-enhancement/"><u>[Updated] The Ultimate Guide to Facetune Photo Enhancement</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultra-clarity-the-new-era-of-hd-monitors-envy-27/"><u>[Updated] Ultra Clarity The New Era of HD Monitors - Envy 27</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-tips-for-meme-magic-with-kinemaster/"><u>2024 Approved Top Tips for Meme Magic with KineMaster</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unleashing-potential-a-guide-for-solitary-showrunners/"><u>2024 Approved Unleashing Potential A Guide for Solitary Showrunners</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-secrets-of-lightroom-on-android-platforms/"><u>2024 Approved Unveiling the Secrets of Lightroom on Android Platforms</u></a></li>
-<li><a href="https://article-tips.techidaily.com/chuckle-chasers-your-ultimate-list-of-funny-tools-for-2024/"><u>Chuckle Chasers Your Ultimate List of Funny Tools for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-y100i-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on Y100i</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-infinix-note-30-pro-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Infinix Note 30 Pro Face Lock?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-honor-magic-5-lite-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Honor Magic 5 Lite to iPod | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transformative-notetaking-the-mematic-way/"><u>In 2024, Transformative Notetaking The Mematic Way</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/mp4-hls-m3u8ts-and/"><u>MP4への変換 - HLS (M3u8、TS) ビデオファイルを効果的にマージ&変換する手順</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-for-incorporating-emojis-in-imessages-and-more/"><u>Step-by-Step Instructions for Incorporating Emojis in iMessages and More</u></a></li>
-<li><a href="https://some-skills.techidaily.com/strategize-and-succeed-a-stepwise-approach-to-impactful-reddit-sharing-for-2024/"><u>Strategize & Succeed A Stepwise Approach to Impactful Reddit Sharing for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-art-of-auditory-alchemy-does-the-magic-voice-modifier-work-seek-alternates-for-2024/"><u>The Art of Auditory Alchemy Does the Magic Voice Modifier Work? Seek Alternates for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/the-art-of-recording-your-steam-gaming-sessions/"><u>The Art of Recording Your Steam Gaming Sessions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-improve-zoo-audio-integrity-in-online-communication/"><u>[New] Improve Zoo Audio Integrity in Online Communication</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-coexisting-screen-data-gathering/"><u>[New] In 2024, Coexisting Screen Data Gathering</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-strategies-to-navigate-and-thrive-with-product-sponsors-on-youtube/"><u>[New] Strategies to Navigate and Thrive with Product Sponsors on YouTube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-hook-up-guide-scripts-to-seduce-listeners/"><u>[New] The Hook-Up Guide Scripts to Seduce Listeners</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-8-innovative-glasses-for-entering-metaverse-worlds/"><u>[New] Top 8 Innovative Glasses for Entering Metaverse Worlds</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlock-your-dji-potential-two-devices-get-20-gratis-luts/"><u>[New] Unlock Your DJI Potential – Two Devices Get 20 Gratis LUTs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-professional-hdr-magic-in-adobes-photoshop/"><u>[New] Unveiling Professional HDR Magic in Adobe's Photoshop</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-breaking-the-videography-code-download-and-preserve-media-on-fb/"><u>[Updated] In 2024, Breaking the Videography Code Download and Preserve Media on FB</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-perfect-iphone-mp3-conversion-top-6-software-recommendations/"><u>[Updated] Perfect iPhone MP3 Conversion Top 6 Software Recommendations</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-through-the-lens-through-the-mind-advanced-photo-editing-mastery/"><u>2024 Approved Through the Lens, Through the Mind Advanced Photo Editing Mastery</u></a></li>
+<li><a href="https://fox-http.techidaily.com/deciphering-average-income-the-podcasters-guide-for-2024/"><u>Deciphering Average Income The Podcaster's Guide for 2024</u></a></li>
+<li><a href="https://ai-video.techidaily.com/easy-steps-to-translate-video-on-twitter/"><u>Easy Steps to Translate Video on Twitter</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-magic-of-ar-mastering-lut-applications/"><u>In 2024, Unveiling the Magic of AR Mastering LUT Applications</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-realme-narzo-60x-5gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Realme Narzo 60x 5GFRP Lock</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionize-meal-prep-using-chatgpts-culinary-guidance/"><u>Revolutionize Meal Prep Using ChatGPT's Culinary Guidance</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/stability-secrets-for-dynamic-photo-shoots-for-2024/"><u>Stability Secrets for Dynamic Photo Shoots for 2024</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

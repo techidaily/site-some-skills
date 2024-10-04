@@ -1,7 +1,7 @@
 ---
 title: "Elevate Your AI Imagery: Discover the Top 8 Midjourney Modifiers That Enhance Creativity"
-date: 2024-09-25T20:45:20.652Z
-updated: 2024-09-29T04:25:02.168Z
+date: 2024-10-02T20:21:06.352Z
+updated: 2024-10-04T18:50:29.281Z
 tags:
   - cutting-edge
 categories:
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/5961427253350c1b74e1650e9c2f8a99858d6dfe3
 
  Midjourney commands refer to typed commands such as "/imagine" or "/settings"that you type into the message bar to trigger the Midjourney bot. Whereas, parameters refer to examples like "--v6"or "--niji," which you use to provide additional instructions along with your prompt.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1  The Blend Command: Combine Images Together 
 
  You might already know that Midjourney lets you [create AI images using your own images](https://buynow-tips.techidaily.com/review-of-audews-portable-air-compressor-unmatched-portability-and-dependability/). Now with the _blend_ command, you can upload 2-5 images to Midjourney and combine the concepts and aesthetics of each image into a new original creation.
@@ -37,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/5961427253350c1b74e1650e9c2f8a99858d6dfe3
 ![Image of a Steampunk Lion Created using Midjourney](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/image-of-a-steampunk-lion-created-using-midjourney.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Image of a cyberpunk dog created using Midjourney](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/image-of-a-cyberpunk-dog-created-using-midjourney.png) 
@@ -52,13 +59,6 @@ Close
  And got this blended result:
 
 ![Midjourney blended image of a Steampunk lion with a cyberpunk dog with a magical eagle](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/midjourney-blended-image-of-a-steampunk-lion-with-a-cyberpunk-dog-with-a-magical-eagle.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  By default, /blend generates square images with a 1:1 aspect ratio. You can customize this by going into Options > Dimension, in the prompt window and specifying the aspect ratio to Portrait, Square, or Landscape. You can also add suffixes and parameters to your blend command just like with /imagine, to further customize the results.
 
@@ -96,16 +96,16 @@ summer picnic scene --no tree, branches, leaves, trunks.
 
 ![Midjourney image using no parameter to avoid trees successfully when generating a picnic scene](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/midjourney-image-using-no-parameter-to-avoid-trees-successfully-when-generating-a-picnic-scene.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Yes, trees are still present in the composition, but their presence is significantly reduced.
 
  You can remove multiple items using the “no” parameter, such as: --no item1, item2, item3, item4…
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4  The Stylize Parameter: Control Midjourney's Stylization 
 
@@ -129,13 +129,6 @@ a child’s painting of a house with a car and a pool --s 10
 
 ![Midjourney image of a child's painting with stylize at 10](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/midjourney-image-of-a-child-s-painting-with-stylize-at-10.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  And with stylize set to 900:
 
 a child’s painting of a house with a car and a pool --s 900
@@ -143,6 +136,13 @@ a child’s painting of a house with a car and a pool --s 900
  We get this:
 
 ![Midjourney image of a child's painting with stylize at 900](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/midjourney-image-of-a-child-s-painting-with-stylize-at-900.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5  The Repeat Parameters: Fast Visual Exploration 
 
@@ -159,10 +159,10 @@ two friends sitting at the beach, sunset, --r 5
  Basic users can do 2-4 repeats, Standard users can do 2-10, and Pro/Mega users can go wild with 2-40 repeats. Also, the repeat parameter only works with Fast or Turbo GPU models, not Relax, and will eat up a fair amount of GPU hours very quickly.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6  The Weird Parameter: Make Images Stranger 
@@ -174,13 +174,6 @@ two friends sitting at the beach, sunset, --r 5
 a steampunk cyborg
 
 ![Midjourney image of a steampunk Cyborg](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/midjourney-image-of-a-steampunk-cyborg.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This is exactly how you'd expect Midjourney to create images. Now, let’s set weird to 100:
 
@@ -195,10 +188,10 @@ a steampunk cyborg --2 1000
 ![Midjourney image of a steampunk Cyborg with weird parameter at 1000](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/midjourney-image-of-a-steampunk-cyborg-with-weird-parameter-at-1000.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  And finally, this is with weird cranked up to 2500
@@ -208,10 +201,10 @@ a steampunk cyborg --w 2500
 ![Midjourney image of a steampunk Cyborg with weird parameter at 2500](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/midjourney-image-of-a-steampunk-cyborg-with-weird-parameter-at-2500.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7  The Video Parameter: Capture the Creation Process 
@@ -252,6 +245,13 @@ a pattern of autumn leaves --tile
 
 ![Creating a Desktop wallpaper using Midjourney image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/creating-a-desktop-wallpaper-using-midjourney-image-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
  With these powerful Midjourney commands at your fingertips, you're well on your way to becoming an AI image wizard. Whether crafting seamless patterns, removing unwanted elements, or adding an extra dose of weirdness, these tools offer endless ways to refine and customize your creations.
@@ -271,18 +271,19 @@ a pattern of autumn leaves --tile
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-wechat-photo-frame-specifications/"><u>[Updated] WeChat Photo Frame Specifications</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-decisive-captures-combatting-disarray/"><u>2024 Approved Decisive Captures Combatting Disarray</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/combine-videos-without-branding-top-7-tools-reviewed/"><u>Combine Videos Without Branding Top 7 Tools Reviewed</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-mastering-the-art-of-creating-an-original-tiktok-hashtag/"><u>In 2024, Mastering the Art of Creating an Original TikTok Hashtag</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-metaverse-laughs-crafting-funny-virtual-memes/"><u>In 2024, Metaverse Laughs Crafting Funny Virtual Memes</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-tailor-topical-laughs/"><u>In 2024, Tailor Topical Laughs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-file-management-free-cloud-storage-service-guide/"><u>In 2024, Transform Your File Management - Free Cloud Storage Service Guide</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-in-2024-easy-guide-how-to-make-talking-head-videos/"><u>New In 2024, Easy Guide How To Make Talking Head Videos</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/the-art-of-sustaining-snapstreaks-for-hours-on-end/"><u>The Art of Sustaining Snapstreaks for Hours on End</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-most-reliable-gopro-cases-1-10-showdown-for-2024/"><u>The Most Reliable GoPro Cases - #1-10 Showdown for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-8-speed-upters-accelerate-your-android-media-for-2024/"><u>Top 8 Speed Upters - Accelerate Your Android Media for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-iphone-se-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled iPhone SE Without iTunes in 5 Ways</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/web-funniness-constructor/"><u>Web Funniness Constructor</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-perfect-presence-how-to-blur-background-on-zoom/"><u>[New] 2024 Approved Perfect Presence How to Blur Background on Zoom</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-inside-acid-pro-benchmarking-alternatives/"><u>[New] In 2024, Inside ACID Pro Benchmarking Alternatives</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-stellar-spectrum-10-sites-cutting-edge-of-hd-astronomy/"><u>[New] Stellar Spectrum 10 Sites Cutting-Edge of HD Astronomy</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-list-of-steadicams-for-uav-videography-enthusiasts/"><u>[New] Ultimate List of Steadicams for UAV Videography Enthusiasts</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-exploring-and-utilizing-your-twitter-archive/"><u>[Updated] In 2024, Exploring and Utilizing Your Twitter Archive</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-premium-list-the-finest-4k-monitors-with-recording-features-for-2024/"><u>[Updated] Premium List The Finest 4K Monitors with Recording Features for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-essentials-understanding-whatsapp-calls/"><u>[Updated] The Essentials Understanding WhatsApp Calls</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-vantage-point-critique/"><u>2024 Approved Vantage Point Critique</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-nvidia-geforce-mx150-driver-downloads-and-latest-updates-for-windows-pcs/"><u>Free NVIDIA GeForce MX150 Driver Downloads and Latest Updates for Windows PCs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hassle-free-canon-printer-driver-for-windows-computers/"><u>Hassle-Free Canon Printer Driver for Windows Computers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-economical-cloud-options/"><u>In 2024, The Ultimate Guide to Economical Cloud Options</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-honor-v-purse-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Honor V Purse IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unmarked-stock-a-beginners-guide-to-clear-content/"><u>In 2024, Unmarked Stock A Beginner's Guide to Clear Content</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-visionaries-of-marvellous-marvel-realities/"><u>In 2024, Visionaries of Marvellous Marvel Realities</u></a></li>
 </ul></div>
 

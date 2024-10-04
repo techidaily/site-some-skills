@@ -1,7 +1,7 @@
 ---
 title: "Windows Migrants Beware: 7 Peculiar Mac Habits That Will Surprise You"
-date: 2024-09-23T02:40:08.263Z
-updated: 2024-09-29T06:33:49.262Z
+date: 2024-10-01T19:28:37.049Z
+updated: 2024-10-04T17:38:13.935Z
 tags:
   - desktop
 categories:
@@ -29,25 +29,11 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 
 ![The Dock on a Mac laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/screenshot-2024-03-20-at-3-52-28-am.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The Windows Taskbar is a comprehensive tool that displays everything from program icons to the time and date, and the search bar in one horizontal location. In comparison, the Dock simply focuses on displaying [app icons that you can pin,](https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-htc-u23-by-fonelab-android-recover-data/) as well as recently minimized windows and folders.
 
  You'll notice that some app icons in the Dock have a dot beneath them. These are the apps that you've got running—and in macOS, apps remain in the background even after you've closed the last window. You have to hit Command+Q to shut them down.
 
  You can access any apps that aren't in the Dock via the Launchpad, which is itself in the Dock by default.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Mac and Windows Keyboards Have Different Keys
 
@@ -60,10 +46,16 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
  Newer Mac keyboards also feature a Globe key which brings up the emoji picker and can also be used to change your input language and keyboard layouts. Learn the relevant [macOS keyboard shortcuts](https://facebook-video-share.techidaily.com/updated-the-ultimate-youtube-editors-handbook-a-step-by-step-journey/) to speed up tasks for yourself.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Windows and Mac Use Different Names for the Same Things
@@ -78,19 +70,6 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 | Recycle Bin     | Trash                 |
 | Shortcut icon   | Alias                 |
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Taking Screenshots Is Easy
 
  As a Windows user, you likely used the Windows Logo Key+PrtScn button combination to capture a screenshot of the entire screen. Alternatively, you've also likely used the Snipping Tool app to select and capture a specific area of the screen. On macOS, screenshots require slightly different shortcuts. Still, it's fairly easy to learn [how to screenshot on a Mac](https://youtube-tips.techidaily.com/-color-correction-for-youtube-beauty-for-2024/).
@@ -102,16 +81,10 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
  Regardless of the shortcut you use, the screenshot is immediately saved to your macOS desktop for easy access.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  macOS Has Its Own Equivalents for the Windows Apps
@@ -119,6 +92,13 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
  As you transition to macOS, you'll notice that the two operating systems come with a lot of preloaded apps that offer similar functionality. For instance, the built-in browser on Mac is Safari, as opposed to Edge on Windows.
 
 ![Some of the Mac apps in macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/some-of-the-mac-apps-in-macos.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Instead of the Task Manager on Windows, you can use Activity Monitor to view information about your laptop's hard drive utilization, memory usage, and other data.
 
@@ -146,7 +126,27 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 
 ![The menubar in macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-menubar-in-macos.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In comparison, Windows laptops combine the Start menu, system tray, and taskbar into a single bar that's located at the bottom of the screen by default.
+
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  You Open Apps With the Launchpad Instead of the Start Menu
 
@@ -175,19 +175,17 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-peekintobettercams-beyond-mycam/"><u>[Updated] PeekIntoBetterCams Beyond MyCam?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-total-guide-ultimate-video-show-experience-in-24/"><u>[Updated] Total Guide Ultimate Video Show Experience in '24</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-guide-to-fade-out-music-in-premiere-pro/"><u>2024 Approved Guide To Fade Out Music In Premiere Pro</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-your-virtual-adventure-with-kinemaster-tips-and-competitor-analysis/"><u>2024 Approved Streamline Your Virtual Adventure with KineMaster Tips & Competitor Analysis</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-through-the-eyes-of-one-a-critical-look-at-3dr/"><u>2024 Approved Through the Eyes of One A Critical Look at '3DR'</u></a></li>
-<li><a href="https://blog-min.techidaily.com/gratuito-obs-italia-installazione-facile-su-windowsmaclinux/"><u>Gratuito OBS Italia - Installazione Facile Su Windows/Mac/Linux</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-samsung-galaxy-a34-5g-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Samsung Galaxy A34 5G Unlock Without Password</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlock-the-hidden-potential-of-windows-11-with-these-tips/"><u>In 2024, Unlock the Hidden Potential of Windows 11 with These Tips</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unraveling-the-discrepant-nature-of-vr-and-full-sphere-capture/"><u>In 2024, Unraveling the Discrepant Nature of VR and Full Sphere Capture</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-7-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 7</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/simple-steps-populating-your-samsung-smart-tv-with-various-applications/"><u>Simple Steps: Populating Your Samsung Smart TV with Various Applications</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transform-your-ideas-into-videos-with-the-power-of-movie-maker-windows-11-edition-for-2024/"><u>Transform Your Ideas Into Videos with the Power of Movie Maker, Windows 11 Edition for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-complete-insight-into-the-wave-editor-vital-elements-expert-opinions-and-instructional-videos/"><u>Updated Complete Insight Into the Wave Editor Vital Elements, Expert Opinions, and Instructional Videos</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-vignette-perfection-the-best-mobile-apps-for-adding-frames-and-borders/"><u>Updated Vignette Perfection The Best Mobile Apps for Adding Frames and Borders</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-covert-guide-to-livestreaming-on-instagram-unseen/"><u>[New] The Covert Guide to Livestreaming on Instagram Unseen</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-decoding-the-undisclosed-world-of-youtube-videos-for-2024/"><u>[Updated] Decoding the Undisclosed World of YouTube Videos for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-5-mac-os-sierra-video-editing-apps/"><u>2024 Approved Top 5 Mac OS Sierra Video Editing Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-7-best-mac-video-viewing-tools/"><u>2024 Approved Top 7 Best Mac Video Viewing Tools</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/enhancing-broken-h264-videos/"><u>Enhancing Broken H.264 Videos</u></a></li>
+<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-from-apple-iphone-13-pro-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email From Apple iPhone 13 Pro? Heres the Best Fixes</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/how-to-unlink-lively-logos-from-your-profile-mobilepc/"><u>How to Unlink Lively Logos From Your Profile (Mobile/PC)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-impact-of-weather-on-syma-x8c-performance/"><u>In 2024, The Impact of Weather on Syma X8C Performance</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unboxing-mastery-the-soundtrack-selection-guidebook/"><u>In 2024, Unboxing Mastery The Soundtrack Selection Guidebook</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-itel-a60sfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Itel A60sFRP Lock</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-vintage-vs-modern-ranking-radio-sound-effects-for-2024/"><u>New Vintage Vs. Modern Ranking Radio Sound Effects for 2024</u></a></li>
+<li><a href="https://techidaily.com/vivo-tutorial-bypass-lock-screensecurity-password-pinfingerprintpattern-by-drfone-android-unlock-android-unlock/"><u>Vivo Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
 </ul></div>
 

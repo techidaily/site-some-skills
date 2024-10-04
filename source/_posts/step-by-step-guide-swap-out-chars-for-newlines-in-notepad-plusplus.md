@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Swap Out Chars for Newlines in Notepad ++"
-date: 2024-09-27T10:37:00.022Z
-updated: 2024-09-28T21:56:56.320Z
+date: 2024-09-30T19:04:35.086Z
+updated: 2024-10-04T19:44:49.232Z
 tags:
   - desktop
 categories:
@@ -33,22 +33,15 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 ![Search for 'notepad++' in the Start Menu search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/notepad.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In the Notepad++ window, open the text file that includes the list that you want to convert. Alternately, you can paste your item list on a line.
 
 ![A Notepad++ window showing a comma-separated list](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/paste-items-list.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Next, click the "Search" menu and select "Replace." Alternately, you can press Ctrl+H on your keyboard.
 
@@ -68,14 +61,14 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 
 ![New-line separated list in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/comma-new-line.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you want to reverse the process, just open Search > Replace in the menu again. In the "Find What" box, enter "\\n". In the Replace with box, type the character that you want to replace it with. Make sure "Extended" is selected and click "Replace All," and your list will go back to being separated by a standard character, such as a comma or pipe.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Convert a Newline Character into Any Other Separator
 
@@ -93,6 +86,13 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 
 ![List items on one line in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/items-one-line.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To convert this into a comma-separated list using Notepad++, click Search > Replace in the menu.
 
 ![Replace option in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/search-replace.png) 
@@ -104,10 +104,10 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 ![Replace window in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/new-line-comma.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Your list items will now be separated by the new separator you chose.
@@ -115,10 +115,10 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 ![Replace window in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/new-line-comma.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Repeat this as often as you'd like, and you'll have all your lists in perfect shape quickly.
@@ -140,17 +140,18 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-in-depth-look-at-fraps-screen-capture/"><u>[New] In 2024, In-Depth Look at Fraps Screen Capture</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-tone-and-pitch-control-on-chrome-os-select-the-best-online-speech-converters/"><u>2024 Approved Tone and Pitch Control on Chrome OS Select the Best Online Speech Converters</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-twitch-time-warp-strategies/"><u>2024 Approved Twitch Time Warp Strategies</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/all-about-llama-2-an-in-depth-look-at-what-it-is-and-how-you-can-benefit/"><u>All About Llama 2: An In-Depth Look at What It Is & How You Can Benefit</u></a></li>
-<li><a href="https://facebook.techidaily.com/best-approach-for-changing-your-fb-visual-identity/"><u>Best Approach for Changing Your FB Visual Identity</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/expert-voice-editing-software-for-video-content-makers-for-2024/"><u>Expert Voice Editing Software for Video Content Makers for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-google-pixel-7a-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Google Pixel 7a Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-srts-potential-in-subtitle-format-sub/"><u>In 2024, Unveiling SRT's Potential in Subtitle Format (SUB)</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-unveiling-the-secrets-to-verified-instagram-images/"><u>In 2024, Unveiling the Secrets to Verified Instagram Images</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-restoring-functionality-for-a-broken-pvpnet-lol-players-kernel-update-process/"><u>Step-by-Step: Restoring Functionality for a Broken PvP.net LOL Player's Kernel Update Process</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-workplace-cloud-storage-networks-for-2024/"><u>Top Workplace Cloud Storage Networks for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transform-your-photographic-vision-with-iphone-burst-shooting-for-2024/"><u>Transform Your Photographic Vision with iPhone Burst Shooting for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-youtubes-most-captivating-storytellers-in-23/"><u>[New] The Ultimate Guide to YouTube's Most Captivating Storytellers in '23</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-ultimate-offline-voice-processor/"><u>[New] Ultimate Offline Voice Processor</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-discovering-best-paid-and-free-srt-translation-tools/"><u>2024 Approved Discovering Best Paid & Free SRT Translation Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transfer-tactics-efficiently-getting-data-on-your-computer/"><u>2024 Approved Transfer Tactics Efficiently Getting Data On Your Computer</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-translate-compressed-files-into-subtitle-format-srt/"><u>2024 Approved Translate Compressed Files Into Subtitle Format (SRT)</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-poco-m6-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Poco M6 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-guide-eliminate-your-pcs-driverpowerstatefailure-problem-easily/"><u>Expert Guide: Eliminate Your PC's DRIVER_POWER_STATE_FAILURE Problem Easily</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-windows-1110-how-to-stop-double-click-folders-from-closing/"><u>Fixing Windows 11/10: How to Stop Double-Click Folders From Closing</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-groundbreaking-photo-editor-photonshift-tech/"><u>In 2024, Groundbreaking Photo Editor PhotonShift Tech</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-vivo-v30-pro-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Vivo V30 Pro Phone?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-best-smartphone-friendly-vr-headgear/"><u>In 2024, Unveiling the Best Smartphone-Friendly VR Headgear</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-lenovo-thinkpad-x1-fold-reviewed-pioneering-portability-meets-room-for-improvement/"><u>The Lenovo ThinkPad X1 Fold Reviewed: Pioneering Portability Meets Room for Improvement</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Xiaomi Civi 3 | Dr.fone</u></a></li>
 </ul></div>
 

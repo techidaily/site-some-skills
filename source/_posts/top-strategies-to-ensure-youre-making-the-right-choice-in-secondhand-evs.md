@@ -1,7 +1,7 @@
 ---
 title: Top Strategies to Ensure You're Making the Right Choice in Secondhand EVs
-date: 2024-09-26T18:30:22.947Z
-updated: 2024-09-28T20:12:46.609Z
+date: 2024-10-03T20:35:22.729Z
+updated: 2024-10-04T20:47:46.776Z
 tags:
   - cutting-edge
 categories:
@@ -21,16 +21,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  While most of the same used car buying principles still apply, like looking over the body, checking for imperfections, and asking [questions about maintenance](https://screen-recording.techidaily.com/in-2024-budget-desktop-encoder-hacks-and-tips/), you'll need to adjust your mindset and consider several other factors. Pre-owned EVs are expensive, and here are a few things to know and do.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Check the Vehicle's Accident History
 
 ![Close up of the Chevy badge on the back of the 2023 Chevy Bolt EV](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/ae55ab54.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -40,16 +40,16 @@ Justin Duino / How-To Geek
 
  Additionally, most VIN reports will have detailed information about recalls, if any, service records, and other important information that will help you make the most informed decision possible.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Look Into the Battery Health and Warranty
 
 ![Electric car dash range gauge](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/ba587f48.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 _[Southworks/Shutterstock.com](https://www.shutterstock.com/image-photo/close-shot-electric-car-battery-range-2115845192)_
 
@@ -61,16 +61,16 @@ _[Southworks/Shutterstock.com](https://www.shutterstock.com/image-photo/close-sh
 
  Similarly to how your 3-year-old iPhone doesn't hold a charge as well as it did the first year, electric cars experience battery degradation. For example, Tesla claims that after 100,000 miles, you'll still have over 90% battery capacity. Even an aging Tesla Model S with 180K miles should be more than capable, even if you lose around 12-15% of range due to an aging battery. At that point, it doesn't need to be replaced; it just won't charge to 100%, which is perfectly normal. Once you buy a used EV, you'll want to take a few steps to [extend the life of the battery](https://remote-screen-capture.techidaily.com/new-in-2024-top-approaches-to-non-audio-recording/).
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Don't Forget About Charging
 
 ![Rivian R1T plugged into a CCS charger](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/ef2ffd0c.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Tyler Hayes / Review Geek
 
@@ -90,6 +90,13 @@ Hannah Stryker / How-To Geek
 
  More importantly, buying a vehicle from a manufacturer like Tesla, Chevy, or Rivian will ensure the best experience, extended warranty options, and any issues fixed by a certified mechanic before being sold. Considering how advanced EVs are, you don't want to take any chances.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Take it For a Test Drive
 
 ![Front right headlight on the 2023 Chevy Bolt EV.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/52766357707_013d55125c_o.jpg) 
@@ -101,19 +108,6 @@ Justin Duino / How-To Geek
  Taking a used vehicle for a test drive isn't just about getting a feel for the car, punching the pedal, or feeling the get-up-and-go. You're listening for funny noises, ensuring everything feels tight, and testing that the brakes, alignment, suspension, and software like autopilot or lane-assist all work as expected.
 
  Run the heater and air conditioning, maybe go somewhere and try charging it for a few minutes, test all the windows, etc. Again, do your due diligence and check anything and everything that's important or could go wrong. Then, you can bring anything up with the seller, use it as a bargaining chip for a lower price, or pass on the vehicle and find something better.
-
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Consider Getting a Used Electric Car
 
@@ -136,17 +130,24 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-behind-the-scenes-a-tech-savvy-approach-to-messenger-downloads/"><u>[New] Behind the Scenes A Tech-Savvy Approach to Messenger Downloads</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-art-of-haul-videography-pre-and-post-editing-processes/"><u>[New] The Art of Haul Videography Pre and Post Editing Processes</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unveiling-your-images-true-self-a-canva-step-by-step/"><u>[New] Unveiling Your Image’s True Self A Canva Step-by-Step</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-this-video-will-get-you-100000-views-on-youtube/"><u>[Updated] This Video Will Get You 100000 Views on YouTube</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-ai-visual-effects-system/"><u>[Updated] Ultimate AI Visual Effects System</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-youtube-studio-monetization-check-ensure-your-channels-monetization-for-2024/"><u>[Updated] YouTube Studio Monetization Check Ensure Your Channel's Monetization for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-pro-video-gear-the-ultimate-stabilizers-selection/"><u>2024 Approved Pro Video Gear – The Ultimate Stabilizers Selection</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-vivo-y27s-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Vivo Y27s Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On OnePlus 12R? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-technical-edge-why-high-dynamic-range-triumphs-over-standard-dynamic-range/"><u>In 2024, The Technical Edge Why High Dynamic Range Triumphs over Standard Dynamic Range</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/tigating-why-specific-youtube-remarks-get-prominence/"><u>Investigating Why Specific YouTube Remarks Get Prominence</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-infinix-hot-30i-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Infinix Hot 30i</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-upcoming-games-with-industry-experts/"><u>[New] 2024 Approved Upcoming Games with Industry Experts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-quest-for-ultimate-clarity-with-the-z32x-monitor/"><u>[New] The Quest for Ultimate Clarity with the Z32X Monitor</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-essential-compilation-top-10-budget-friendly-lut-sources/"><u>[Updated] The Essential Compilation Top 10 Budget-Friendly LUT Sources</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-filmmakers-toolbox-in-depth-guide-to-cinematic-techniques-in-24/"><u>[Updated] The Filmmaker’s Toolbox In-Depth Guide to Cinematic Techniques in '24</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ironclad-guide-to-bio-and-profile-url-association-in-tiktok/"><u>2024 Approved The Ironclad Guide to Bio and Profile URL Association in TikTok</u></a></li>
+<li><a href="https://win11.techidaily.com/4-proven-strategies-for-enhancing-window-shot-taking-on-windows-os/"><u>4 Proven Strategies for Enhancing Window Shot Taking on Windows OS</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/a-beginners-guide-to-saving-reddit-video-content-effectively/"><u>A Beginner's Guide to Saving Reddit Video Content Effectively</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-limitations-exposed-6-reasons-to-approach-with-caution/"><u>AI Limitations Exposed: 6 Reasons to Approach with Caution</u></a></li>
+<li><a href="https://article-tips.techidaily.com/champions-line-up-best-dvd-crews-sierra-style-for-2024/"><u>Champion's Line-Up Best Dvd Crews, Sierra Style for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-a60-by-fonelab-android-recover-video/"><u>How to recover old videos from your A60</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-atandt-apple-iphone-12-pro-max-with-3-methods-by-drfone-ios/"><u>In 2024, How to Unlock AT&T Apple iPhone 12 Pro Max with 3 Methods</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-on-apple-iphone-se-2022-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication On Apple iPhone SE (2022)? 5 Tips You Must Know</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-updating-your-skills-regularly/"><u>In 2024, Updating Your Skills Regularly</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-utilize-srt-playback-across-operating-systems/"><u>In 2024, Utilize SRT Playback Across Operating Systems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/new-rtx-no-visual-feedback/"><u>New RTX No Visual Feedback</u></a></li>
+<li><a href="https://some-skills.techidaily.com/surveying-the-lack-of-diversity-s-vr-realm-for-2024/"><u>Surveying the Lack of Diversity 'S VR Realm for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tricks-and-secrets-for-gaining-more-likes-in-tiktok-unboxings-for-2024/"><u>Tricks & Secrets for Gaining More 'Likes' In TikTok Unboxings for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-solving-your-apple-watchs-unresponsive-touchscreen-issue/"><u>Troubleshooting Tips: Solving Your Apple Watch's Unresponsive Touchscreen Issue</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-editing-techniques-for-final-cut-pro-professionals-for-2024/"><u>Ultimate Editing Techniques for Final Cut Pro Professionals for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Tech Update: Anticipating the Latest Features of New Devices by Google & Samsung - A Weekly Overview"
-date: 2024-09-25T09:23:23.702Z
-updated: 2024-09-29T00:27:31.505Z
+date: 2024-09-29T19:19:52.109Z
+updated: 2024-10-04T18:46:33.609Z
 tags:
   - desktop
 categories:
@@ -19,19 +19,6 @@ This was a surprisingly busy week for tech news, with announcements for Google a
 
  Excel finally has a built-in option to use checkboxes in spreadsheet cells. Checkboxes will be useful in to-do lists, attendance sheets, and more.
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### [Apple Loosens Its Grip on iPhone Replacement Parts](https://driver-download.techidaily.com/get-updated-nvidia-driver-pack-for-geforce-rtx-2070-on-windows-os/) 
 
  Third-party components will no longer disable True Tone or battery health.
@@ -42,20 +29,13 @@ This was a surprisingly busy week for tech news, with announcements for Google a
 
 ![Saving a game recording in Steam.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/feature.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Valve
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### [Samsung's New Foldables Are Coming July 10th](https://on-screen-recording.techidaily.com/2024-approved-the-elite-selection-of-top-12-tycoons-perfect-for-strategic-souls/) 
@@ -66,6 +46,13 @@ Valve
 
  Chrome on iPhone, iPad, and Android now has a few more features.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### [Your Smartphone Is Coming to Windows 11's Start Menu](https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-vivo-y100i-by-drfone-android/) 
 
  Finally, a Start menu change that makes sense.
@@ -75,10 +62,10 @@ Valve
  The official ChatGPT desktop application doesn’t need a Plus subscription anymore, but the app is still limited to macOS.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### [Moto Tag Is an AirTag Clone for Android Users](https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-infinix-smart-8-hd-phone-by-drfone-android/) 
@@ -90,10 +77,10 @@ Valve
 Motorola
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### [Google's Pixel 9 is Coming August 13th](https://facebook-clips.techidaily.com/updated-fb-video-extraction-creating-mp3s-in-minutes/) 
@@ -103,6 +90,19 @@ Motorola
 ### [Paramount+ Is Raising Prices Again](https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-nokia-g22-drfone-by-drfone-virtual-android/) 
 
  The last Paramount+ price hike occurred in June of 2023, and now another one is happening.
+
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  The Other Stuff
 
@@ -125,24 +125,21 @@ Motorola
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-step-by-step-guide-to-basic-ps-color-correction/"><u>[New] Step-by-Step Guide to Basic PS Color Correction</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transform-video-beats-into-ringtones-must-visit-sites-explored/"><u>[New] Transform Video Beats Into Ringtones Must-Visit Sites Explored</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-easy-steps-to-screen-save-your-work-in-windows-8/"><u>[Updated] 2024 Approved Easy Steps to Screen Save Your Work in Windows 8</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-restore-natural-tones-reviving-overexposed-iphone-hdr-videos-in-premiere-pro-for-2024/"><u>[Updated] Restore Natural Tones Reviving Overexposed iPhone HDR Videos in Premiere Pro for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-exploring-the-spectrum-projectors-and-televisions-in-a-4k-world/"><u>2024 Approved Exploring the Spectrum Projectors & Televisions in a 4K World</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-time-taken-to-watch-an-example-of-a-20mb-video/"><u>2024 Approved Time Taken to Watch An Example of a 20MB Video</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-high-end-visuals-a-practical-guide-for-sdr-to-hdr-transition/"><u>2024 Approved Unlock High-End Visuals A Practical Guide for SDR to HDR Transition</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-unleashed-revolutionizing-task-management/"><u>ChatGPT Unleashed: Revolutionizing Task Management</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-segmented-screen-success-is-splitcam-superior/"><u>In 2024, Segmented Screen Success Is SplitCam Superior?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-vr-journey-best-pc-360-video-streamers-reviewed/"><u>In 2024, The Ultimate VR Journey Best PC 360 Video Streamers Reviewed</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-computing-with-toms-hardware-guide/"><u>Navigating the World of Computing with Tom's Hardware Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-common-causes-and-fixes-for-fatal-error-in-arise-tales-ue4-edition/"><u>Resolved: Common Causes and Fixes for 'Fatal Error' In Arise Tales - UE4 Edition</u></a></li>
-<li><a href="https://some-skills.techidaily.com/strategy-breakthroughs-in-packaging-for-2024/"><u>Strategy Breakthroughs in Packaging for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-full-spectrum-slomo-recording-app-evaluation-for-2024/"><u>The Full Spectrum SloMo Recording App Evaluation for 2024</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-honor-90-lite-by-fonelab-android-recover-data/"><u>The way to get back lost data from Honor 90 Lite</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tickle-me-tech-iphone-memes-for-2024/"><u>Tickle-Me-Tech IPhone Memes for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-photographic-face-off-legend-sj6-vs-xiaomis-yi-kickstarter-for-2024/"><u>Ultimate Photographic Face-Off Legend SJ6 Vs. Xiaomi's Yi Kickstarter for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/uncover-the-hidden-purpose-of-this-innovative-logitech-pen/"><u>Uncover the Hidden Purpose of This Innovative Logitech Pen!</u></a></li>
-<li><a href="https://windows11.techidaily.com/understanding-why-windows-11-upgrade-remains-unpopular/"><u>Understanding Why Windows 11 Upgrade Remains Unpopular</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tackling-windows-files-swiftly-and-smartly/"><u>[New] Tackling Windows Files Swiftly and Smartly</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-50-free-youtube-banners-come-see-them-all-for-2024/"><u>[Updated] 50 FREE YouTube Banners - Come See Them All for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-perfect-edits-navigating-psxs-eraser-feature/"><u>[Updated] Perfect Edits Navigating PSX's Eraser Feature</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-gopro-hero5-black-journey-elevating-your-visual-storytelling/"><u>[Updated] The GoPro Hero5 Black Journey Elevating Your Visual Storytelling</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-most-reliable-and-affordable-passport-photo-makers-ranked/"><u>[Updated] The Most Reliable and Affordable Passport Photo Makers Ranked</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-checklist-to-prepare-your-zoom-room/"><u>[Updated] The Ultimate Checklist to Prepare Your Zoom Room</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-undercover-upscalers-guide-to-clear-visuals/"><u>[Updated] The Undercover Upscaler's Guide to Clear Visuals</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-art-of-written-visual-narratives-a-guide-on-docuscripts/"><u>[Updated] Unveiling the Art of Written Visual Narratives A Guide on Docuscripts</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-revitalize-your-reels-a-compreenas-guide-for-enhancer-22/"><u>2024 Approved Revitalize Your Reels A Compreenas Guide for Enhancer 2.2</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tips-on-finding-unparalleled-videographers/"><u>2024 Approved Tips on Finding Unparalleled Videographers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-motivating-films-to-energize-your-lifes-journey/"><u>2024 Approved Top 10 Motivating Films to Energize Your Life's Journey</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/by-chance-tiktok-rewind-how-to-replay-videos-in-2024/"><u>By Chance, TikTok Rewind How to Replay Videos, In 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-integrating-audio-elements-into-facebooks-visual-stories/"><u>In 2024, Integrating Audio Elements Into Facebook's Visual Stories</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-recurring-sound-cutouts-in-windows-10-detailed-solutions/"><u>Resolving Recurring Sound Cutouts in Windows 10 - Detailed Solutions!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-essential-manual-for-personalizing-android-ringtones-and-sounds/"><u>The Essential Manual for Personalizing Android Ringtones and Sounds</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/the-ultimate-list-of-easy-to-find-websites-offering-free-ding-noise-sounds-for-2024/"><u>The Ultimate List of Easy-to-Find Websites Offering Free Ding Noise Sounds for 2024</u></a></li>
 </ul></div>
 

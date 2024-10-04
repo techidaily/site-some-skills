@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary 3D Ink Requires Just Saltwater: No Light or Heat Needed"
-date: 2024-09-28T08:19:45.572Z
-updated: 2024-09-29T00:06:54.030Z
+date: 2024-09-29T19:10:50.389Z
+updated: 2024-10-04T20:34:43.894Z
 tags:
   - cutting-edge
 categories:
@@ -40,25 +40,24 @@ A multinational team of researchers has developed a novel 3D printing ink that c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-assortment-of-video-capturing-technology/"><u>[New] In 2024, Assortment of Video Capturing Technology</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-your-path-to-a-unique-auditory-experience-customizing-ringtone-and-sound-on-android/"><u>[New] In 2024, Your Path to a Unique Auditory Experience Customizing Ringtone & Sound on Android</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-one-ear-beats-issue-repair-path/"><u>[New] One-Ear Beats Issue Repair Path</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-transforming-dull-interviews-into-engaging-assessments/"><u>[Updated] In 2024, Transforming Dull Interviews Into Engaging Assessments</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-no-more-running-out-of-room-top-20-zero-cost-cloud-services-up-to-1tb/"><u>[Updated] No More Running Out of Room - Top 20 Zero-Cost Cloud Services (Up To 1TB)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transfer-secrets-top-5-tactics-to-move-files-onto-your-pc/"><u>2024 Approved Transfer Secrets Top 5 Tactics to Move Files Onto Your PC</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-obtaining-flawless-visual-content/"><u>In 2024, The Art of Obtaining Flawless Visual Content</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-making-your-gifs-into-stickers-via-discordwhatsapp/"><u>In 2024, The Ultimate Guide Making Your GIFs Into Stickers via Discord/WhatsApp</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-using-telegram-web-effectively/"><u>In 2024, The Ultimate Guide to Using Telegram Web Effectively</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-top-6-microphones-perfect-for-online-streaming-success/"><u>In 2024, Unveiling Top 6 Microphones Perfect for Online Streaming Success</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/infinix-gt-10-pro-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix GT 10 Pro Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/sea-of-thieves-pc-fixing-voice-communication-problems/"><u>Sea of Thieves PC - Fixing Voice Communication Problems</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tiny-tale-telling-framework-for-2024/"><u>Tiny Tale Telling Framework for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-creating-compelling-content-with-powerful-youtube-titles/"><u>[New] 2024 Approved Creating Compelling Content with Powerful YouTube Titles</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-no-fuss-podcast-streaming-handbook/"><u>[New] The No-Fuss Podcast Streaming Handbook</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-8-best-free-srt-translators-online-tips-to-choose/"><u>[New] Top 8 Best Free SRT Translators Online (Tips to Choose)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unleash-the-content-free-movie-player-windowsmac/"><u>[New] Unleash the Content FREE MOVIE PLAYER (Windows/Mac)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlock-hidden-potential-top-10-enhancing-plug-ins/"><u>[New] Unlock Hidden Potential Top 10 Enhancing Plug-Ins</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-10-best-free-editors-to-craft-captivating-facebook-videos/"><u>[Updated] 10 Best Free Editors to Craft Captivating Facebook Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pro-anglers-choice-the-top-5-cameras-for-fishing/"><u>[Updated] Pro Angler's Choice The Top 5 Cameras For Fishing</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-quick-and-easy-iphone-screen-capture-techniques/"><u>In 2024, Quick and Easy iPhone Screen Capture Techniques</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-essential-guide-to-leveraging-chatgpts-inbuilt-tools-and-their-purposes/"><u>The Essential Guide to Leveraging ChatGPT's Inbuilt Tools and Their Purposes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/tiktok-tricks-for-striking-visual-results/"><u>TikTok Tricks for Striking Visual Results</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-memes-with-a-smile-builder-for-2024/"><u>Top Memes with a Smile Builder for 2024</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

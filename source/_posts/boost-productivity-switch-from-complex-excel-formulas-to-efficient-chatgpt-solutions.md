@@ -1,7 +1,7 @@
 ---
 title: "Boost Productivity: Switch From Complex Excel Formulas to Efficient ChatGPT Solutions"
-date: 2024-09-28T01:34:22.631Z
-updated: 2024-09-29T08:56:25.135Z
+date: 2024-09-29T16:13:57.898Z
+updated: 2024-10-04T18:24:03.947Z
 tags:
   - cutting-edge
 categories:
@@ -18,16 +18,10 @@ thumbnail: https://thmb.techidaily.com/c4aba1f1071f6153eef4e836db7e5ca4bdc93515f
 * [You Still Need to Check the Formulas Manually](https://mondly-stories.techidaily.com/initiation-into-japanese-conversational-manners/)
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -40,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/c4aba1f1071f6153eef4e836db7e5ca4bdc93515f
 
  The tips provided in this article aren't limited to Excel; they're also applicable to other spreadsheet tools, such as Google Sheets and Apple Numbers. Additionally, this guide focuses on the free version of ChatGPT based on the GPT 3.5 model. If you have access to GPT 4, you can use the Advanced Data Analysis tool to take screenshots and upload Excel files directly to GPT 4 for a more seamless experience.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Get a Quick Excel Formula From ChatGPT
 
  If you dread the mere thought of opening Excel, let alone creating formulas, you've come to the right place. ChatGPT offers you an easy way to create Excel formulas with zero practical experience required.
@@ -47,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/c4aba1f1071f6153eef4e836db7e5ca4bdc93515f
  All you have to do is give ChatGPT an explanation of what you want to do, and it'll give you a formula, along with detailed instructions on how to implement it. Just make sure to mention the range (columns and rows) that you want to apply the formula to, and it'll do the rest for you. In this example, I have an assortment of orders for various items with varying prices and profit margins.
 
 ![A list of orders for mugs, spoons, teapots, and kettles in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/test-2.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  My goal is to calculate the revenue and profit for each order. While the formula required to do this isn't complex, let's just assume that I knew nothing about Excel, and it was my first day on the job. I'd turn to ChatGPT and ask it for a formula:
 
@@ -56,13 +64,6 @@ Close
 
 ![A list of articles about ceramic and glass coffee mugs in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/asd-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This is just a basic example to show you how ChatGPT can determine what formulas you need based on what you'd like to do. Let's do something slightly more complicated by asking it to help us [calculate the average](https://win-able.techidaily.com/fixing-overwatch-startup-issues-how-to-get-rid-of-the-persistent-black-screen/) profit margin and most profitable item.
 
 ![ChatGPT giving formulas to calculate the average profit margin and most profitable item in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/most-profitable.png) 
@@ -70,13 +71,6 @@ Close
  After implementing the formula, I was once again left with exactly what I was looking for. I double-checked the numbers by calculating everything manually to confirm the formulas worked correctly.
 
 ![A list of articles about ceramic and glass coffee mugs in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/asd.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you're already an Excel aficionado and prefer making formulas yourself, you can ask ChatGPT to suggest the best function for your unique scenario. Let's say I wanted to import information about the revenue and profits from my orders sheet to a tax sheet. ChatGPT gave me four viable formulas that I could use, along with a brief explanation of how they work.
 
@@ -91,6 +85,13 @@ Close
  Excel has a complex interface that makes it hard to navigate, especially for novices, and conditional formatting rules require you to poke around to figure them out. In the following example, I have a list of articles with columns that track whether they have been written and have photos.
 
 ![A list of articles about ceramic and glass coffee mugs in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/new.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  I gave ChatGPT detailed instructions to help me color-code the table so that I could keep track of what articles were still in progress. Here's my prompt, followed by ChatGPT's response:
 
@@ -111,13 +112,6 @@ Close
  You can also use ChatGPT to identify what's causing an error. Let's say an event organizer was trying to calculate the total number of passengers from each city using a simple addition formula and encountered the #VALUE! error because they mixed text and numbers. After explaining the issue to ChatGPT, it immediately recognized the error and gave a fix accompanied by a simple explanation.
 
 Close 
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  You Still Need to Check the Formulas Manually
 
@@ -144,20 +138,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-perfect-livestream-match-10-top-tier-platform-recommendations/"><u>[New] Perfect Livestream Match 10 Top-Tier Platform Recommendations</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-quickening-instagram-video-streams-on-mobile-devices/"><u>[New] Quickening Instagram Video Streams on Mobile Devices</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-ultimate-list-top-10-high-res-4k-cameras-in-smartphones/"><u>[New] Ultimate List Top 10 High-Res 4K Cameras in Smartphones</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-decrypting-the-significance-the-purpose-of-blue-icons-on-fb-messages/"><u>2024 Approved Decrypting the Significance The Purpose of Blue Icons on FB Messages</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-textual-transformation-enrich-your-images-with-words-pcmac-style/"><u>2024 Approved Textual Transformation Enrich Your Images with Words, PC/Mac Style</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-the-ultimate-guide-to-privacy-with-simple-facial-blurs/"><u>2024 Approved The Ultimate Guide to Privacy with Simple Facial Blurs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-hd-android-videos-ultimate-players-guide/"><u>2024 Approved Top 10 HD Android Videos Ultimate Players Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-visual-potential-a-step-by-step-guide-to-video-enhancer-22/"><u>2024 Approved Unlocking Visual Potential A Step-by-Step Guide to Video Enhancer 2.2</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Vivo V29 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-nokia-g310-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nokia G310 in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Oppo Reno 10 5G | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-size-it-up-right-instagrams-best-videography-practices/"><u>In 2024, Size It Up Right Instagram's Best Videography Practices</u></a></li>
-<li><a href="https://some-skills.techidaily.com/superb-online-stores-where-to-find-and-purchase-youtube-ringtones-in-2024/"><u>Superb Online Stores Where to Find & Purchase YouTube Ringtones, In 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-flashback-2022s-snowboard-x-winners-for-2024/"><u>Ultimate Flashback 2022'S Snowboard X Winners for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlock-new-potentials-iphone-x-secrets-unveiled-for-2024/"><u>Unlock New Potentials IPhone X Secrets Unveiled for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-elevate-your-content-youtube-video-editing-secrets-revealed/"><u>[New] 2024 Approved Elevate Your Content YouTube Video Editing Secrets Revealed</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-accelerating-livestreams-on-periscope-made-easy-for-2024/"><u>[New] Accelerating Livestreams on Periscope Made Easy for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-synergy-between-humans-and-computers-through-gestures/"><u>[New] Synergy Between Humans & Computers Through Gestures</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-premium-our-rankings-for-best-gopro-casings/"><u>[New] Unveiling the Premium Our Rankings for Best GoPro Casings</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-metaverse-promotion-essentials/"><u>[Updated] In 2024, Metaverse Promotion Essentials</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-10-audio-change-tools-enhancing-virtual-presence/"><u>[Updated] Top 10 Audio Change Tools Enhancing Virtual Presence</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-restore-classic-photo-viewing-experience-on-modern-windows-11/"><u>2024 Approved Restore Classic Photo Viewing Experience on Modern Windows 11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-oppo-reno-10-pro-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Oppo Reno 10 Pro 5G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-play-mkv-movies-on-galaxy-a05-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How do I play MKV movies on Galaxy A05?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-reliable-strategy-to-infuse-direct-urls-in-tiktok-bio/"><u>In 2024, Reliable Strategy to Infuse Direct URLs in TikTok Bio</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamlined-techniques-for-discovering-highly-engaged-youtube-remarks/"><u>In 2024, Streamlined Techniques for Discovering Highly Engaged YouTube Remarks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-chronicle-of-creation-weaving-time-lapse-animations-via-movie-maker/"><u>In 2024, The Chronicle of Creation Weaving Time-Lapse Animations via Movie Maker</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlined-steps-for-removing-microsoft-points-out/"><u>Streamlined Steps for Removing Microsoft' Points Out</u></a></li>
+<li><a href="https://some-skills.techidaily.com/template-transformations-build-unique-logos-for-pennies-for-2024/"><u>Template Transformations Build Unique Logos for Pennies for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-list-for-seeking-no-cost-high-quality-vector-imagery-for-2024/"><u>The Ultimate List for Seeking No-Cost High-Quality Vector Imagery for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-to-the-latest-dolby-audio-driver-software-enhanced-compatibility-with-windows-111081/"><u>Update to the Latest Dolby Audio Driver Software - Enhanced Compatibility with Windows 11/10/8.1</u></a></li>
 </ul></div>
 

@@ -1,18 +1,12 @@
 ---
 title: "Easy Guide: Mastering the Art of Reading eBooks in Windows 8"
-date: 2024-09-07T22:19:54.975Z
-updated: 2024-09-08T22:19:54.975Z
+date: 2024-09-30T20:28:54.168Z
+updated: 2024-10-04T17:52:46.153Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/373ffad1cf53faed0d680dfb4d0a7667079f49182ce78c94936651febf489146.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Easy Guide: Mastering the Art of Reading eBooks in Windows 8
 
 ## How to Read eBooks on Windows 8
@@ -21,28 +15,21 @@ Posted by [Ada Wang](https://plus.google.com/+AdaWang/posts) on 11/21/2018 2:09:
 
 5 [(1 comments)](http://www.epubor.com/#comment-area) 
 
-
-
 ![follow](http://www.epubor.com/images/follow.png)
 
 It seems that more and more people use Windows 8 operating system on their computers. Then when new to it, some people may not be so sure how to read ebooks on Windows 8\. And some users said that certain softwares they used to read books before cannot be used now on Windows 8\. So here I would be glad to share some information about reading ebooks on Windows 8 with you. Hope this article can help you enjoy your ebooks better.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Read Kindle eBooks on Windows 8
 
 ![kindle for windows 8](http://www.epubor.com/images/uppic/kindle-for-win-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Let's start with the Kindle books. Reading Kindle books on Windows 8 seems to be much more simple than epub/pdf books. The program needed is just the Kindle for Windows 8 App. 
 
 1Get the needed program ready.
@@ -58,11 +45,12 @@ Get the Kindle app running on windows 8\. Using your Amazon Account to register 
 After you register the Kindle app, all the Kindle books you purchased under your account will be synced automatically. The kindle books will be listed for you.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Read EPUB & PDF eBooks on Windows 8 
 
 You can get specific software to read epub and pdf ebooks correspondingly which may offer you much nicer reading experience. However, the integrated way is more convenient.
@@ -72,11 +60,12 @@ You can get specific software to read epub and pdf ebooks correspondingly which 
 ![read ebooks on windows 8](http://www.epubor.com/images/uppic/read-ebooks-on-windows-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The epub books here have to be DRM-free ones. For reading epub ebooks on Windows 8, [Metro Reader](https://www.microsoft.com/en-us/store/p/metro-reader/9nblggh08czx) is the first off-line ebook reader for it. Metro Reader supports epub and txt formats. There are two reading modes provided: the day mode & the night mode. You can choose it as you need. And the snap mode is of course indispensable. The Table of Contents is supported (only for epub books). Besides, CoverFlow and GridView are supported in it. The font size of the content is customizable, so you can change it as you like. When reading your epub books with it, you can set it as the one-page mode or the two-page mode. Very flexible, right? It sells $2.99 now and free trial is available.
 
 #### **2\. Adobe Reader to Read DRM-Free PDF on Windows 8** 
@@ -84,11 +73,12 @@ You can get specific software to read epub and pdf ebooks correspondingly which 
 ![read pdf on win 8](http://www.epubor.com/images/uppic/read-pdf-on-win-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 For reading pdf ebooks on Windows 8, a nice choice would be [Adobe Reader.](http://apps.microsoft.com/windows/en-US/app/adobe-reader/162a2931-8ee6-4a56-9570-53282525d7a3)It's free in Windows app store, so this can be an advantage of it. There is nothing better than freebies. This software works perfectly with Windows 8 operating system. It opens your pdf files quickly (including password-protected but non-DRM pdfs). This software offers many functions to help users get a better reading experience. For example, you can take notes when you are reading. 
 
 ####   **3\. Read DRM EPUB & PDF on Windows 8**
@@ -133,8 +123,6 @@ SHARING IS GREAT!
 [Tweet](https://twitter.com/share) 
 
 [SAVE PAGE AS PDF](https://tools.techidaily.com/epubor/products/) 
-
-
 
 1 Comments
 
@@ -182,8 +170,6 @@ Leave a comment
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -191,4 +177,26 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-leading-tech-for-cloud-saving-top-choices-for-android/"><u>[New] Leading Tech for Cloud Saving Top Choices for Android</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-pinnacle-pathfinders-the-ultimate-10-game-guide/"><u>[New] Pinnacle Pathfinders The Ultimate 10 Game Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-core-elements-of-kinetic-visual-storytelling/"><u>[New] The Core Elements of Kinetic Visual Storytelling</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-ranked-audio-respeeders-mobile-desktop/"><u>[New] Top-Ranked Audio Respeeders (Mobile, Desktop)</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-circumventing-edgenuity-effortlessly-a-students-guide/"><u>[Updated] In 2024, Circumventing Edgenuity Effortlessly A Student's Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-muting-unwanted-noise-obs-audio-solution/"><u>[Updated] Muting Unwanted Noise OBS Audio Solution</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-new-face-of-sony-updates-to-s6500-blu-rayhd-player/"><u>[Updated] The New Face of Sony Updates to S6500 Blu-Ray/HD Player</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-editors-secret-best-free-premiere-pro-resources/"><u>[Updated] Top Editors' Secret Best FREE Premiere Pro Resources</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-virtual-worlds-practical-applications-for-2024/"><u>[Updated] Virtual World's Practical Applications for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-tips-for-crafting-intricate-photo-mosaics/"><u>2024 Approved Expert Tips for Crafting Intricate Photo Mosaics</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-facetune-photo-enhancement/"><u>2024 Approved The Ultimate Guide to Facetune Photo Enhancement</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-visual-strategy-for-podcast-branding/"><u>2024 Approved The Ultimate Visual Strategy for Podcast Branding</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/6-untapped-potential-gained-by-learning-languages/"><u>6 Untapped Potential Gained by Learning Languages</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-evaluation-of-the-netgear-nighthawk-c7000-exceptional-wireless-router-uncovered/"><u>Comprehensive Evaluation of the Netgear Nighthawk C7000 - Exceptional Wireless Router Uncovered</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/dynamic-duo-shots-perfecting-youtube-video-splitting-for-2024/"><u>Dynamic Duo Shots Perfecting YouTube Video Splitting for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-iphone-experts-guide-to-capturing-and-reducing-pace-in-footage/"><u>In 2024, The iPhone Expert’s Guide to Capturing and Reducing Pace in Footage</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-prime-strategies-in-zoom-video-to-zoom-outcomes/"><u>In 2024, The Prime Strategies in Zoom Video to Zoom Outcomes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-insider-guide-whatsapp-audio-talks-for-2024/"><u>The Insider Guide WhatsApp Audio Talks for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-vivo-y100i-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Vivo Y100i IMEI without Root A Comprehensive Guide</u></a></li>
+</ul></div>
 

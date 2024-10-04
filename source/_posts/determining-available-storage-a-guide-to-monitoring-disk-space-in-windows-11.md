@@ -1,7 +1,7 @@
 ---
 title: "Determining Available Storage: A Guide to Monitoring Disk Space in Windows 11"
-date: 2024-09-23T06:19:37.078Z
-updated: 2024-09-29T05:47:19.569Z
+date: 2024-10-03T18:29:08.492Z
+updated: 2024-10-04T20:45:32.950Z
 tags:
   - deals
 categories:
@@ -17,10 +17,10 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 * [Check Free Space in the Settings App](https://solve-manuals.techidaily.com/idpidp-revolutionary-victories-in-investment-decision-processes/)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -29,13 +29,6 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 * You can also check your free space in the Settings app. Oepn Settings, navigate to System > Storage, and then click "View Storage on Other Drives."
 
  Sometimes it feels like you never have enough free disk space. Every app you install takes up valuable room on your main drive, and you might eventually run out. Here's how to check how much you have left.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Check Your Free Space Using File Explorer
 
@@ -47,20 +40,13 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 
 ![Click 'This PC' on the left, then note the free storage in your PC.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-6.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In general, [Windows needs at least a few gigabytes of free storage space to perform optimally](https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-oneplus-12-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/). For example, it [uses this to cache important programs and virtual memory to disk](https://extra-tips.techidaily.com/updated-cinematic-masterpiece-dialogues/), which speeds up the operation of Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Check Free Space in the Settings App
@@ -69,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 
 ![Search for 'storage,' then click 'Storage Settings.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-storage-settings.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Scroll down a bit in the Storage window and click "View Storage on Other Drives" under More Storage Settings. 
 
 ![Click 'View Storage on Other Drives.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4-view-storage.png) 
@@ -76,6 +69,13 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
  You'll see a list of every storage device attached to your PC—internal and external. 
 
 ![The storage drives on the example PC.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/5-storage-drives.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you're running low on space, consider [freeing up storage](https://youtube-clips.techidaily.com/culinary-carousel-swirling-up-top-food-network-names-for-2024/) by [uninstalling programs you no longer use](https://some-approaches.techidaily.com/swift-closure-of-a-linkedin-account-the-how-to-guide-for-2024/). Also, Windows 10 includes a handy "Free Up Space" tool that [helps you clean up your hard drive](https://vp-tips.techidaily.com/launch-free-dvd-playback-capabilities-on-windowsmac-laptops/).
 
@@ -94,24 +94,17 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-amplify-your-influence-on-ig-how-to-gain-1k-followers-monthly/"><u>[New] Amplify Your Influence on IG How to Gain 1K Followers Monthly</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-facebooks-ultimate-guide-to-full-screen-video-for-2024/"><u>[New] Facebook's Ultimate Guide to Full Screen Video for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-streaming-software-showdown-the-verdict-on-wirecast-vs-obs/"><u>[New] Streaming Software Showdown The Verdict on Wirecast Vs. OBS</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-top-10-live-streamers-an-analytical-comparison-review/"><u>[New] Top 10 Live Streamers An Analytical Comparison Review</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unveiling-the-power-of-magix-clip-studio/"><u>[New] Unveiling the Power of MAGIX Clip Studio</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-altering-voices-for-a-competitive-edge-in-free-fire/"><u>[Updated] The Ultimate Guide Altering Voices for a Competitive Edge in Free Fire</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-vr-game-engine-picks-2023/"><u>[Updated] The Ultimate Guide to VR Game Engine Picks, 2023</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-understanding-telegram-advertising-for-new-marketing-entrants/"><u>[Updated] Understanding Telegram Advertising For New Marketing Entrants</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-from-raw-footage-to-youtube-perfection-premiere-pro-techniques/"><u>2024 Approved From Raw Footage to YouTube Perfection - Premiere Pro Techniques</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-8-iphone-selfie-stick-choices-revealed/"><u>2024 Approved Top 8 iPhone Selfie Stick Choices Revealed</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/altering-meeting-screens-in-microsoft-teams-for-2024/"><u>Altering Meeting Screens in Microsoft Teams for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-connectivity-a-thorough-review-of-netgears-c3700-cable-modem-and-router-combo/"><u>Exploring Connectivity: A Thorough Review of Netgear's C3700 Cable Modem & Router Combo</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-oppo-find-x7-ultra-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Oppo Find X7 Ultra to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-6s-plus-passcode-without-computer-by-drfone-ios/"><u>How to Unlock iPhone 6s Plus Passcode without Computer?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/imovie-harmony-blending-visuals-and-melodies-for-2024/"><u>IMovie Harmony Blending Visuals and Melodies for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Meizu 21 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-superior-frame-rate-in-languid-videos/"><u>In 2024, Superior Frame Rate in Languid Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-artists-guide-to-vivid-vsco-imagery-for-2024/"><u>The Artist's Guide to Vivid VSCO Imagery for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-secret-sauce-for-a-viral-tiktok-unboxer-masterpiece-for-2024/"><u>The Secret Sauce for a Viral TikTok Unboxer Masterpiece for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-prime-9-options-to-capture-high-quality-audio-remotely-23/"><u>[New] In 2024, Prime 9 Options to Capture High-Quality Audio Remotely ('23)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-inspiring-ideas-gratis-graphics-for-your-channel/"><u>[New] Inspiring Ideas Gratis Graphics for Your Channel</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-gear-youtube-pros-choice-in-shaky-free-video-capture/"><u>[New] Top Gear YouTube Pros' Choice in Shaky-Free Video Capture</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-ensuring-long-term-access-to-itunes-videos/"><u>[Updated] 2024 Approved Ensuring Long-Term Access to iTunes Videos</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-violation-woes-abrupt-creative-cut-off/"><u>[Updated] 2024 Approved Violation Woes Abrupt Creative Cut-Off</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamline-your-wedding-countdown-the-best-androidios-clock-apps-guide/"><u>[Updated] Streamline Your Wedding Countdown The Best Android/iOS Clock Apps Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleashing-brand-potential-with-a-comprehensive-guide-to-smm-mastery/"><u>2024 Approved Unleashing Brand Potential with a Comprehensive Guide to SMM Mastery</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-oppo-a18-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Oppo A18 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-peak-visionary-workspace-appraisal/"><u>In 2024, Peak Visionary Workspace Appraisal</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-30-voice-modification-solutions-vtubers-guidebook/"><u>In 2024, Top 30 Voice Modification Solutions VTubers Guidebook</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-transformative-strategies-for-impartiating-patient-narratives/"><u>In 2024, Transformative Strategies for Impartiating Patient Narratives</u></a></li>
+<li><a href="https://techtrends.techidaily.com/what-to-expect-from-the-galaxy-z-fold-7-projections-on-pricing-availability-and-specs-before-official-announcement/"><u>What to Expect From the Galaxy Z Fold 7 – Projections on Pricing, Availability, and Specs Before Official Announcement</u></a></li>
 </ul></div>
 

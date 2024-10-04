@@ -1,7 +1,7 @@
 ---
 title: Top 13 Creative Uses for Your Outdated Android Device
-date: 2024-09-23T06:33:38.881Z
-updated: 2024-09-28T20:26:56.731Z
+date: 2024-09-29T18:46:25.640Z
+updated: 2024-10-04T17:35:15.377Z
 tags:
   - mobile
 categories:
@@ -29,13 +29,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  If you have an old Android phone or two lying around your house collecting dust, this article is for you. Phones are versatile devices that can do just about anything, so there's no need to buy specialized gadgets when an old phone does the trick.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1  Repurpose It as a Storage Device 
 
  One of the most versatile ways to use a phone is as a storage device in place of an external drive. Sure, USB sticks are small and inexpensive, and [external SSDs](https://facebook-videos.techidaily.com/updated-in-2024-how-to-engage-fans-through-real-time-streams-mobile-edition/) can reach insanely fast transfer speeds, but they also cost money to buy, whereas you already have an old phone. Plus, they don't usually support Bluetooth or Wi-Fi for wireless transfers or screens and speakers to show and play your stored media.
@@ -54,18 +47,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  There are [tools and apps you can use](https://extra-tips.techidaily.com/exclusive-android-3d-video-enthusiasts-choice/) to manage what your kids can do on their phones and how much they can use it. This way, your child can have a way to contact you without getting glued to their screen. Old phones also make for pretty decent [cameras for kids](https://article-helps.techidaily.com/new-maximize-your-iphone-xs-selfie-potential-top-free-apps-for-2024/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4  Use It as a TV Remote and Streaming Device 
 
  Many old Android phones have [IR blasters](https://tech-renaissance.techidaily.com/ultimate-tips-for-successfully-playing-pokemon-unite-online/), meaning you can use them as a traditional remote for devices with IR sensors, like TVs. If your old phone doesn't have one, you can still connect it to your smart TV and use [screen mirroring](https://extra-information.techidaily.com/photoshops-jiggle-minimizing-effective-or-overstated/) to watch a TV show.
 
  Granted, you can do this with your main phone as well, but I like to immerse myself when I watch content. It's better to have a dedicated phone remote that isn't logged in to anything, especially with an easily distracted family.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5  Use It as a Mini Car Multimedia and Dash Cam 
 
@@ -79,39 +72,40 @@ Joe Fedewa / How-To Geek
 
  If you want the [Android Auto experience on your bicycle](https://games-able.techidaily.com/top-tier-games-subscription-matchup-psplus-vs-xbox-game-pass/), just use your old Android phone. This way, you won't damage your main phone in the case of an accident, and the constant vibrations won't break your camera's optical image stabilization (OIS).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7  Leave It in Your Kitchen 
 
  A [kitchen tablet](https://facebook-video-content.techidaily.com/new-facebook-videos-vertical-or-horizontal-in-2024/) or phone left permanently on a phone holder above your counter is the best way to find and follow recipes or just watch YouTube. Simply [set the screen timeout](https://facebook-record-videos.techidaily.com/new-in-2024-10-free-youtube-thumbnail-downloaderssavers-online-download-youtube-thumbnail/) to 30 minutes and create a home screen dedicated to your favorite cooking apps and websites. You'll always have a device ready to go in an instant, and the best part is that you won't even care if you get tomato sauce all over the screen.
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8  Use It as a PC Webcam 
 
 ![Woman in a meeting on a laptop using a phone as a webcam.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ditch-the-webcam-i-use-my-android-phone-camera-to-look-better-on-video-calls.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Lucas Gouveia / How-To Geek | [fizkes](https://www.shutterstock.com/image-photo/view-over-businesslady-shoulder-seated-workplace-1704165919) / Shutterstock
 
  Cheap webcams suck. What's worse is that the drivers with some cameras (like mine) are a nightmare to install. Since even old smartphones have pretty good cameras, they can make for a solid webcam. Just grab a simple [monitor phone mount](https://www.amazon.com/dp/B0BN3YLBLL?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003775&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthings-to-do-with-an-old-android-phone%2F&asc%5Fcampaign=Evergreen) and use a spare USB port to charge the phone.
 
  There's actually a [native webcam option](https://some-knowledge.techidaily.com/2024-approved-horned-gods-hearing-essential-websites-for-got-sound-files/) in the latest Pixel and Motorola phones; a universal wireless webcam solution is also present in [Windows 11](https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-iphone-6s-by-drfone-ios/). You can also try some [third-party solutions](https://win11-tips.techidaily.com/boosted-efficiency-expert-tips-for-optimizing-bar-use/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9  Turn It Into a Security Camera or Baby Monitor 
 
@@ -121,6 +115,13 @@ Lucas Gouveia / How-To Geek | [fizkes](https://www.shutterstock.com/image-photo/
 
 ![Android phone with gaming controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/android-phone-gaming-controller.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Jason Montoya / How-To Geek
 
  If you don't want to spend money on a [dedicated handheld](https://hardware-updates.techidaily.com/latest-logitech-speaker-drivers-for-windows-download-now-pc-version-1178/), an old phone can do the trick. Granted, there's a strong argument in favor of using your main phone as a handheld, but the old phone can be more convenient if you want to attach a [game controller](https://www.amazon.com/Controller-Android-Wireless-PlayStation-Minecraft-iOS/dp/B0CVZZNZQM?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003775&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthings-to-do-with-an-old-android-phone%2F&asc%5Fcampaign=Evergreen) permanently to the phone. Your old phone is probably smaller, so it's more portable, and you can be more careless with it when you travel.
@@ -128,10 +129,10 @@ Jason Montoya / How-To Geek
  Offloading a couple of games and emulators to the old phone also saves on storage. Not playing games on your main phone also means a longer battery life and no annoying notifications.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 11  Use It as a PC Media or DAW Controller 
@@ -143,13 +144,6 @@ Jason Montoya / How-To Geek
 ## 12  Transform It Into a Picture Frame or Calendar 
 
  Extremely slow Android phones and tablets are the perfect [digital photo frame](https://youtube-help.techidaily.com/2024-approved-the-monetary-journey-of-ajey-nagar-on-youtube/). If your old phone is so old and laggy that you can't use it for anything functional, you can at least use it as a decorative piece because it doesn't demand any advanced processing. Place it on a stand, plug it in to charge, and turn on a photo gallery app that supports slideshows (either from the cloud or device storage), such as [Fotoo](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003775/https://play.google.com/store/apps/details?id=com.bo.fotoo&cjevent=119f1894380a11ef80b07fba0a18ba74).
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 13  Sell It 
 
@@ -172,18 +166,20 @@ Jason Montoya / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-tricks-to-acquire-dry-stock-photography/"><u>[New] Tricks to Acquire Dry Stock Photography</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-the-power-of-srt-editing-for-mac-users/"><u>[New] Unlocking the Power of SRT Editing for Mac Users</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unparalleled-screenplay-craftsmanship-across-varied-fields/"><u>[New] Unparalleled Screenplay Craftsmanship Across Varied Fields</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-how-to-schedule-meetings-on-zoom-webdesktopmobile/"><u>[Updated] 2024 Approved How to Schedule Meetings on Zoom [Web/Desktop/Mobile]</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-motorcycle-mastery-the-top-ranked-action-cameras-for-23-riders/"><u>[Updated] Motorcycle Mastery – The Top-Ranked Action Cameras for '23 Riders</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-essential-meme-template-toolkit/"><u>[Updated] The Essential Meme Template Toolkit</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-motorola-moto-g-5g-2023-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Motorola Moto G 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-best-apple-watch-apps-for-improved-sleep-quality/"><u>Discover the Best Apple Watch Apps for Improved Sleep Quality</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-steps-for-converting-wave-waveform-audio-file-format-to-wav-windows-audio-video-intermixing/"><u>Easy Steps for Converting WAVE (Waveform Audio File Format) to WAV (Windows Audio Video Intermixing)</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-perfecting-zoom-screen-sharpness-users-handbook/"><u>In 2024, Perfecting Zoom Screen Sharpness User's Handbook</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-uniting-digital-and-physical-worlds/"><u>In 2024, Uniting Digital and Physical Worlds</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-expert-reviews-of-top-rated-internet-services-for-mp3-metadata-optimization/"><u>New Expert Reviews of Top-Rated Internet Services for MP3 Metadata Optimization</u></a></li>
-<li><a href="https://howto.techidaily.com/oneplus-12-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus 12 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-how-to-keep-your-videos-quiet-and-clear/"><u>[New] 2024 Approved How to Keep Your Videos Quiet and Clear</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-advanced-tips-for-3d-color-grading/"><u>[New] Advanced Tips for 3D Color Grading</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-access-the-archived-unique-methods-for-viewing-old-youtube/"><u>[New] In 2024, Access the Archived Unique Methods for Viewing Old YouTube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-is-sns-hdr-pro-worth-your-investment-a-critical-look/"><u>[New] Is SNS HDR Pro Worth Your Investment A Critical Look</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-pioneering-the-space-of-podcast-logos-and-identity/"><u>[Updated] Pioneering the Space of Podcast Logos & Identity</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-uncovering-the-appeal-filmora-editors-most-attractive-features/"><u>[Updated] Uncovering the Appeal Filmora Editor's Most Attractive Features</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-how-to-and-where-download-unboxing-video-background-music/"><u>2024 Approved How To & Where Download Unboxing Video Background Music</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-free-up-space-superior-cloud-pickers-list/"><u>2024 Approved Ultimate Free Up Space Superior Cloud Pickers' List</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unravel-the-mystery-of-scouring-exceptional-photos-on-pexels/"><u>2024 Approved Unravel the Mystery of Scouring Exceptional Photos on Pexels</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/briskly-building-your-own-google-collages-for-2024/"><u>Briskly Building Your Own Google Collages for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-review-the-new-standard-of-overclocking-with-id-coolings-frozn-a620-pro-se-ultimate-value-for-gamers-and-enthusiasts/"><u>Comprehensive Review: The New Standard of Overclocking with ID-Cooling's Frozn A620 Pro SE - Ultimate Value for Gamers and Enthusiasts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-fast-solutions-for-non-responsive-predictive-emojis-in-ios-devices/"><u>Fixing Fast: Solutions for Non-Responsive Predictive Emojis in iOS Devices</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-oppo-reno-8t-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Oppo Reno 8T 5G via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tailoring-pixel-sounds-to-your-style/"><u>In 2024, Tailoring Pixel Sounds to Your Style</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-mobile-gaming-performance-explore-two-fps-assessment-methods/"><u>Master Mobile Gaming Performance: Explore Two FPS Assessment Methods</u></a></li>
 </ul></div>
 

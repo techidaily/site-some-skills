@@ -1,7 +1,7 @@
 ---
 title: How Does Conky Elevate the Visual Appeal of Your Linux Workspace?
-date: 2024-09-21T16:59:55.270Z
-updated: 2024-09-28T20:53:42.924Z
+date: 2024-10-03T21:11:07.114Z
+updated: 2024-10-04T21:23:39.813Z
 tags:
   - desktop
 categories:
@@ -56,25 +56,25 @@ sudo apt install conky-manager2
 
 ![Installing Conky and Conky Manager in a Linux terminal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/installing-conky-and-conky-manager.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You’ve successfully installed Conky and Conky Manager on your system. Now, you can technically run the Conky app directly, and you’ll get the following widget on your desktop. It’s a barebone experience where you’ll have to write scripts to tweak the appearance, behavior, and functionality of this widget.
 
 ![Conky and Conky Manager in Application Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/conky-and-conky-manager-in-application-menu.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Default Conky Widget and its script in a notepad window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/default-conky-widget-and-script.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close 
 
@@ -84,18 +84,18 @@ Close
 
 ![Conky manager overview](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/conky-manager-overview.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Using Conky Manager to Edit Conky Widgets](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/using-conky-manager-to-edit-conky-widgets.png) 
 
 Close 
 
  By default, the Conky Manager comes with a number of widgets, but they aren’t eye-catching enough. Not to worry though, as there are talented folks who have developed dedicated Conky themes with stylish widgets that you can simply download and start using on your system, no code necessary.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Installing Conky Themes
 
@@ -106,10 +106,10 @@ Close
 ![Extract the victorConky zip file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/extract-the-victorconky-zip-file.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close 
@@ -119,10 +119,10 @@ Close
 ![Install necessary fonts for VictorConky theme.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/install-necessary-fonts-for-victorconky-theme.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once done, you’ll need to move the victorConky file to the “.conky” folder in the [home directory](https://instagram-clips.techidaily.com/crafting-captivating-ig-stories-with-youtube-content-for-2024/), so that it becomes accessible via the Conky Manager. To do this, open the terminal in the download directory (or wherever you extracted the file to) and enter the following command:
@@ -173,21 +173,20 @@ mv victorConky ~/.conky
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-complete-guide-to-safaris-picture-in-picture-mode/"><u>[New] The Complete Guide to Safari's Picture-in-Picture Mode</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-action-plan-from-ttml-and-xml-to-srt-translation/"><u>[New] The Ultimate Action Plan From TTML & XML to SRT Translation</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-convert-audio-online-mp3-to-youtube-live-upload-guide/"><u>[Updated] Convert Audio Online MP3 to YouTube Live Upload Guide</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-unraveling-online-video-discussions/"><u>[Updated] In 2024, Unraveling Online Video Discussions</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-premiere-pro-speed-blackouts/"><u>[Updated] Premiere Pro Speed Blackouts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-artisans-handbook-to-photomontage-creation/"><u>[Updated] The Artisan's Handbook to PhotoMontage Creation</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-vr-inventory-and-imagination-deficit/"><u>2024 Approved Unveiling VR Inventory and Imagination Deficit</u></a></li>
-<li><a href="https://common-error.techidaily.com/complete-guide-restoring-your-desktop-icons-after-upgrading-to-windows-11/"><u>Complete Guide: Restoring Your Desktop Icons After Upgrading to Windows 11</u></a></li>
-<li><a href="https://games-able.techidaily.com/discover-the-hot-swappable-magic-razers-blackwidow-v4-unveiled/"><u>Discover the Hot-Swappable Magic: Razer's BlackWidow V4 Unveiled</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-oppo-reno-10-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Oppo Reno 10 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-understanding-the-technology-behind-vr-goggles/"><u>In 2024, Understanding the Technology Behind VR Goggles</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-3d-lut-filters-a-photo-editing-essential/"><u>Mastering 3D LUT Filters A Photo Editing Essential</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/splitscreen-study-for-2024/"><u>SplitScreen Study for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Nokia C12 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-mememix-download-now-for-2024/"><u>Ultimate Mememix Download Now for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unleash-your-potential-on-telegram-a-comprehensive-marketing-guide-for-2024/"><u>Unleash Your Potential on Telegram A Comprehensive Marketing Guide for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-instagram-ringtone-making-manual/"><u>[New] The Ultimate Instagram Ringtone Making Manual</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-toolkit-for-animating-letters/"><u>2024 Approved Ultimate Toolkit for Animating Letters</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-windows-alt-code-malfunctions-48-characters/"><u>Addressing Windows ALT Code Malfunctions (48 Characters)</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/comparatif-dvd-vs-blu-ray-vs-fichier-numerique-quel-offre-le-meilleur-rapport-qualiteprix/"><u>Comparatif DVD vs Blu-Ray vs Fichier Numérique : Quel Offre Le Meilleur Rapport Qualité/Prix ?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-on-fixing-error-messages-when-d3dx940dll-cant-be-located/"><u>Expert Advice on Fixing Error Messages When d3dx9_40.dll Can't Be Located</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-samsung-galaxy-s21-fe-5g-2023-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Samsung Galaxy S21 FE 5G (2023)?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Tecno Pova 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-insiders-guide-to-professional-gif-creation/"><u>In 2024, The Insider's Guide to Professional GIF Creation</u></a></li>
+<li><a href="https://games-able.techidaily.com/racing-realism-at-499-moza-r5-bundle-awaits/"><u>Racing Realism at $499 - MOZA R5 Bundle Awaits</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-digital-frontier-assessing-current-vr-landscape-for-2024/"><u>The Digital Frontier Assessing Current VR Landscape for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/thorough-breakdown-the-dji-inspire-1-features-for-2024/"><u>Thorough Breakdown The DJI Inspire 1 Features for 2024</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-tecno-by-fonelab-android-recover-data/"><u>Undelete lost data from Tecno</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unpacking-the-performance-a-complete-guide-to-lg-bp350-monitors-for-2024/"><u>Unpacking the Performance A Complete Guide to LG BP350 Monitors for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-infinix-smart-7-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Infinix Smart 7 Phones</u></a></li>
 </ul></div>
 

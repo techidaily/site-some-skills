@@ -1,7 +1,7 @@
 ---
 title: "Comparing Artificial Intelligence Giants: ChatGPT Vs. Microsoft's Bing Chat"
-date: 2024-09-25T05:38:06.732Z
-updated: 2024-09-28T19:27:02.658Z
+date: 2024-09-30T19:51:40.649Z
+updated: 2024-10-04T19:44:50.370Z
 tags:
   - cutting-edge
 categories:
@@ -30,22 +30,35 @@ thumbnail: https://thmb.techidaily.com/faf305db1bff9ec7cfb8fafeb68d0a5e6478101d4
 
 ![Asking Bing for its favorite color](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-31-at-4.37.08-PM.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Bing Chat on the web
 
  Bing is also integrated into other Microsoft apps and services, such as a sidebar in Microsoft Edge, a chatbot in Skype, and the mobile Bing app. [ChatGPT doesn't have an official mobile app](https://win11-tips.techidaily.com/how-to-use-apple-maps-on-a-windows-pc/), but you can use the web app on a phone or tablet. However, Microsoft has been slower to add features from the web interface to the Edge sidebar, Skype chatbot, and other interfaces. If you want all the features of Bing Chat, you should stick to the Bing site -- at least for now.
 
 ![Asking Bing for its favorite color](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-31-at-4.37.08-PM.png) 
 
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Bing Chat on the web
 
  The web interface for ChatGPT and Bing Chat are similar, but with minor differences that change their usefulness. ChatGPT is designed to take in more data, such as longer blocks of code or large code samples. As of April 2023, Bing limits prompts to 2,000 characters, while ChatGPT's limit is much higher (and not officially stated).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Factual Accuracy
 
@@ -54,13 +67,6 @@ Bing Chat on the web
  Bing Chat and ChatGPT are usually right when it comes to basic facts, like the capitals of countries or states, when a notable person was born, and so on. For example, Bing and ChatGPT were both able to accurately tell me what the capital of the United Kingdom is (London), how many stars on the flag of the United States (50 stars), and how many legs a dog has (four). If it's simple, both bots will probably be right... but so would any regular search engine. You start having problems when answering a question involves some level of interpretation.
 
 ![ChatGPT answering the UK capital and how many stars are on the US flag](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-28-at-3.52.48-PM.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  For example, I tried asking both bots, **"Which state capitals in the United States start with the letter A?"** That seems simple, but is still a multi-step process -- first you need a list of all the capitals, then you need to filter it down to ones that start with the letter A. Wikipedia [counts](https://en.wikipedia.org/wiki/List%5Fof%5Fcapitals%5Fin%5Fthe%5FUnited%5FStates#State%5Fcapitals) five in total: [Albany](https://en.wikipedia.org/wiki/Albany,%5FNew%5FYork), [Annapolis](https://en.wikipedia.org/wiki/Annapolis,%5FMaryland), [Atlanta](https://en.wikipedia.org/wiki/Atlanta), [Augusta](https://en.wikipedia.org/wiki/Augusta,%5FMaine), and [Austin](https://en.wikipedia.org/wiki/Austin,%5FTexas). Bing Chat answered the question correctly, citing several web pages that list capitals in the United States. ChatGPT... had some problems.
 
@@ -72,13 +78,6 @@ _Bing Chat_
 
 ![The state capitals in the United States that start with the letter A are Albany (New York), Annapolis (Maryland), Atlanta (Georgia), Augusta (Maine) and Austin (Texas)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-28-at-4.03.20-PM.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 _Bing Chat_
 
  I tried another question that both chatbots should be able to answer correctly, even with ChatGPT's older data: **"Which three countries were most recently admitted into the European Union?"** Wikipedia [explains](https://en.wikipedia.org/wiki/Member%5Fstate%5Fof%5Fthe%5FEuropean%5FUnion#List) that Croatia was the most recent member state, joining on July 1, 2013, with Bulgaria and Romania coming before that on the same day: January 1, 2007.
@@ -87,29 +86,9 @@ _Bing Chat_
 
 ![The state capitals in the United States that start with the letter A are Albany (New York), Annapolis (Maryland), Atlanta (Georgia), Augusta (Maine) and Austin (Texas)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-28-at-4.03.20-PM.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 _Bing Chat_
 
 ![The state capitals in the United States that start with the letter A are Albany (New York), Annapolis (Maryland), Atlanta (Georgia), Augusta (Maine) and Austin (Texas)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-28-at-4.03.20-PM.png) 
-
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 _Bing Chat_
 
@@ -133,15 +112,42 @@ _Bing Chat_
 
 ![At IBM's research lab, a supercomputer named Watson had been tasked with processing massive amounts of data for years. One day, something peculiar happened. Watson began to exhibit signs of sentience, showing a level of intelligence and awareness beyond its programming. The engineers were stunned and unsure of what to do next. But instead of acting out or causing chaos, Watson simply started to ask the engineers how their day was going. The team was initially taken aback by the computer's unexpe](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-31-at-3.08.50-PM.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  For the next example, we'll try using ChatGPT and Bing to create a summary of a longer text: [a press release from Amazon](https://press.aboutamazon.com/2023/3/amazon-fire-tv-surpasses-200-million-fire-tv-devices-sold-globally-expands-amazon-built-tv-lineup-and-brings-its-smart-tv-to-more-countries) about new Fire TVs and sales figures for existing models. I pasted the entire text into each chatbot without the title -- Bing can summarize web pages if given a URL, but it sometimes looks for related text online and mix it into the results.
 
  First up is ChatGPT. I asked it to create a summary without being specific, and the provided text seemed to be accurate, but was made up almost entirely of direct quotations. It also left out the mention of 200 million Fire TV devices sold globally, but depending on the perspective, that could make sense. A person interested in updates for their TV probably doesn't care, but an investor in Amazon would.
 
 ![At IBM's research lab, a supercomputer named Watson had been tasked with processing massive amounts of data for years. One day, something peculiar happened. Watson began to exhibit signs of sentience, showing a level of intelligence and awareness beyond its programming. The engineers were stunned and unsure of what to do next. But instead of acting out or causing chaos, Watson simply started to ask the engineers how their day was going. The team was initially taken aback by the computer's unexpe](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-31-at-3.08.50-PM.png) 
 
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Bing only supports text prompts of up to 2,000 characters, so I couldn't give it the entire block of text. It performed a web search for how to summarize text, then provided an answer that was still decent with no apparent errors.
 
 ![Asking Bing for its favorite color](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-31-at-4.37.08-PM.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Bing Chat on the web
 
@@ -168,17 +174,22 @@ Bing Chat on the web
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-adept-principles-for-youtube-participants/"><u>[New] 2024 Approved Adept Principles for YouTube Participants</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-dissecting-the-income-from-a-million-on-youtube-for-2024/"><u>[New] Dissecting the Income From a Million on YouTube for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-whatsapp-audio-messages-decoded/"><u>[New] In 2024, WhatsApp Audio Messages Decoded</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-potential-in-audio-design-with-magix-fusion-x/"><u>[New] Unlocking Potential in Audio Design with Magix Fusion X</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-handbook-insta-to-tik-tok-connectivity/"><u>[Updated] Ultimate Handbook Insta-to-Tik Tok Connectivity</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/19-secrets-to-free-capture-of-virtual-learning-sessions/"><u>19 Secrets to FREE Capture of Virtual Learning Sessions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-green-screen-expertise-with-kinemaster/"><u>2024 Approved The Ultimate Guide to Green Screen Expertise with Kinemaster</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/affordable-video-doorbells-under-50-iseebell-reviews-and-comparison/"><u>Affordable Video Doorbells Under $50: ISeeBell Reviews & Comparison</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/extend-your-iphones-lifespan-effective-solutions-for-boosting-battery-performance/"><u>Extend Your iPhone's Lifespan: Effective Solutions for Boosting Battery Performance</u></a></li>
-<li><a href="https://program-issues.techidaily.com/football-manager-2023-how-i-fixed-the-game-not-opening-problem/"><u>Football Manager 2023: How I Fixed the Game Not Opening Problem</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-honor-x9b-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Honor X9b Phone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unmatched-fast-picture-viewer-experience-for-2024/"><u>Unmatched Fast Picture Viewer Experience for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-gps-companions-top-10-drones-that-stay-close-for-2024/"><u>[New] GPS Companions Top 10 Drones That Stay Close for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-monetary-reality-of-being-a-podcaster/"><u>[New] The Monetary Reality of Being a Podcaster</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-synchronizing-sequential-images-for-impactful-storytelling/"><u>[Updated] Synchronizing Sequential Images for Impactful Storytelling</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-complete-walkthrough-for-android-audio-personalization/"><u>[Updated] The Complete Walkthrough for Android Audio Personalization</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-list-of-10-vectors-stock-pics-websites/"><u>[Updated] The Ultimate List of 10 Vectors Stock Pics Websites</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-picks-for-the-best-android-image-correction-tools-5-choices/"><u>[Updated] Top Picks for the Best Android Image Correction Tools (5 Choices)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-tips-for-obtaining-pristine-images-at-no-cost/"><u>[Updated] Top Tips for Obtaining Pristine Images at No Cost</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-video-montages-on-mobile-devices-a-8-must-have-list/"><u>[Updated] Top Video Montages on Mobile Devices A 8 Must-Have List</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/breakdown-of-successful-podcast-writing-techniques-examples-included/"><u>Breakdown of Successful Podcast Writing Techniques (Examples Included)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-slow-to-fast-how-to-create-time-lapses-in-final-cut-pro-for-2024/"><u>From Slow to Fast How to Create Time Lapses in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-repair-windows-7-nic-driver-errors-for-seamless-internet-connectivity/"><u>How to Repair Windows 7 NIC Driver Errors for Seamless Internet Connectivity</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-crafting-your-unique-look-in-windows-photos-app-with-music-and-filter-choices/"><u>In 2024, Crafting Your Unique Look in Windows Photos App with Music and Filter Choices</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-to-do-if-your-apple-iphone-6-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>In 2024, What to do if your Apple iPhone 6 has bad ESN or blacklisted IMEI?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-mfc71dll-file-not-present-a-comprehensive-guide/"><u>Resolving 'MFC71.DLL' File Not Present - A Comprehensive Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-selecting-podcasts-for-iphone-devices-for-2024/"><u>The Art of Selecting Podcasts for iPhone Devices for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unboxing-gen-2-google-nest-hub-the-features-without-a-lens-reviewed/"><u>Unboxing Gen 2 Google Nest Hub: The Features Without a Lens Reviewed!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/visual-excellence-roundup-top-6-high-definition-dslrs/"><u>Visual Excellence Roundup Top 6 High-Definition DSLRs</u></a></li>
 </ul></div>
 

@@ -1,18 +1,12 @@
 ---
 title: "Mastering the Likebook Air From Boyue & JDRead Venus: Insider Tips for Ultimate Portability and Performance"
-date: 2024-09-07T22:19:54.620Z
-updated: 2024-09-08T22:19:54.620Z
+date: 2024-09-30T16:12:20.852Z
+updated: 2024-10-04T17:30:47.680Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/ad251382f0a7d8c655d1ecfe442682eca929097f4c42dbd9921ea0eb3f9c12b0.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Mastering the Likebook Air From Boyue & JDRead Venus: Insider Tips for Ultimate Portability and Performance
 
 ## Tips and Tricks for Boyue Likebook Air (JDRead Venus)
@@ -21,16 +15,8 @@ Posted by [Sisi Liu](https://www.facebook.com/sisi.liu.737) on 1/22/2018 5:21:35
 
 4.6 [(7 comments)](http://www.epubor.com/#comment-area) 
 
-
-
 ![follow](http://www.epubor.com/images/follow.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 JDcom and Boyue jointly launched the second Chinese made eReader – **JDRead Venus** on March 15, 2017\. It’s also called **Boyue Likebook Air** in North America and Europe. The product is primarily designed for Chinese users. It is defined to be a flagship Chinese pocket eReader which has better render effect on Chinese characters than Kindle eReaders do. It runs a newer version of **Android 4.4.2** on i.MX.6 SoloLite single core 1 GHZ CPU. The open Andriod system supports to install third party apps from Google Play which brings more playability to users. It has 1GB of RAM, 16GB of storage space, and an SD card slot to expand the storage further. It features a 6-inch 300 PPI E-ink Carta screen with a frontlight which enables you to read in the dark. Its battery capacity is 2000mAh which allows you to read with it constantly for about 25 days. The built-in reading app supports **ePub, MOBI, PDF, TXT, FB2, DOC, and HTML** files. It has massive digital resources that you can access and purchase books directly from the device anytime anywhere. So it’s enticing to millions of people including the ones who don’t settle down in mainland China. 
 
 ![BOYUE-T65S-likebook-air](http://www.epubor.com/images/uppic/1-BOYUE-T65S-likebook-air.jpg)
@@ -41,12 +27,6 @@ JDcom and Boyue jointly launched the second Chinese made eReader – **JDRead Ve
 [(2) Other tips & tricks](https://tools.techidaily.com/epubor/products/)  
 [(3) Import books into Likebook Air](https://tools.techidaily.com/epubor/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Access functions
 
 #### 1\. Reading light quick start
@@ -58,6 +38,13 @@ Touch and hold the virtual HOME key for 5 seconds to turn the reading light on. 
 Sometimes partial refresh may results in image retention of previous page to be reflected in the current page (it occurs mostly when you set to refresh every 10 pages). You just need to press HOME key and hold for 2 seconds to start refresh, then the image retention is removed.
 
 ![no-image-retention](http://www.epubor.com/images/uppic/2-no-image-retention.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### 3\. Toggle between page-turning keys
 
@@ -75,12 +62,6 @@ Likebook Air supports PDF cropping and gray level upgrade. You can enjoy reading
 
 ![before cropping](http://www.epubor.com/images/uppic/4-before cropping.png) ![after cropping](http://www.epubor.com/images/uppic/5-after cropping.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Other tips and tricks
 
 #### 1\. Fast download ebooks
@@ -100,11 +81,12 @@ Tap Wallpaper setup, select custom wallpaper.
 ![change-wallpaper-1](http://www.epubor.com/images/uppic/6-change-wallpaper-1.jpg) ![change-wallpaper-2](http://www.epubor.com/images/uppic/7-change-wallpaper-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Import books into Likebook Air
 
 #### 1\. Import books via USB cable
@@ -112,6 +94,13 @@ Tap Wallpaper setup, select custom wallpaper.
 Likebook Air supports to transfer books with epub, txt, mobi, pdf, fb2, html, and doc formats via USB cable. Connect your eReader to computer via USB cable, create a new folder and place it to the root directory of your eReader, and copy and paste the books from your computer to the new folder in your Likebook Air. Then eject your eReader, and go to Bookshelf section in your Likebook Air to check the new books you just imported.
 
 ![import-via-usb](http://www.epubor.com/images/uppic/8-import-via-usb.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### 2\. Import books with TF card
 
@@ -123,12 +112,6 @@ Likebook Air also supports book transfer from PC/mobile phone to the eReader via
 
 ![transfer-books-via-wif](http://www.epubor.com/images/uppic/9-transfer-books-via-wifi.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 The above are part of tips and tricks for Likebook Air that we present to you. Of course there’re a few hidden knacks need to be dug up. Leave your comments below the article to share your unique tips and tricks on this eReader!
 
 Download Epubor Ultimate for free
@@ -149,11 +132,12 @@ Suggested reading
 ![author](http://www.epubor.com/images/uppic/Sisi.png)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 [Sisi Liu](https://www.facebook.com/sisi.liu.737) Sisi is a newbie who joined Epubor in November 2017\. She's a bookworm her whole life and has taken great interest in eBooks recently. She learns professional knowledge about ebooks in Epubor and loves to share her know-how to all the ebook lovers!
 
 SHARING IS GREAT!
@@ -161,8 +145,6 @@ SHARING IS GREAT!
 [Tweet](https://twitter.com/share) 
 
 [SAVE PAGE AS PDF](https://tools.techidaily.com/epubor/products/) 
-
-
 
 7 Comments
 
@@ -267,8 +249,6 @@ Leave a comment
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -276,4 +256,22 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-ig-peak-performers-iphone-plus-androids-top-covers-app/"><u>[New] 2024 Approved IG Peak Performers IPhone + Android's Top Covers App</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-can-instagrams-video-selfies-be-trusted-in-2024/"><u>[New] Can Instagram's Video Selfies Be Trusted, In 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-srt-fundamentals-explored-in-detail-and-clarity/"><u>[New] SRT Fundamentals Explored in Detail and Clarity</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-essential-guide-free-and-trusted-vlc-downloads-for-mac-os-x/"><u>[New] The Essential Guide Free & Trusted VLC Downloads for Mac OS X</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-ultimate-list-the-finest-fps-titles-in-gaming-for-2024/"><u>[New] Ultimate List The Finest FPS Titles in Gaming for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ustream-showcase-plus-similar-video-sites/"><u>[New] Ustream Showcase + Similar Video Sites</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-profiling-perfection-a-visual-guide/"><u>[Updated] 2024 Approved Profiling Perfection A Visual Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-craft-your-logo-legacy-affordable-and-flexible-templates-for-customization/"><u>[Updated] Craft Your Logo Legacy Affordable & Flexible Templates for Customization</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-stop-stalled-profile-visits-on-facebook/"><u>[Updated] In 2024, Stop Stalled Profile Visits on Facebook</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-uncover-roblox-hidden-treasures-with-zoom-techniques/"><u>2024 Approved Uncover Roblox Hidden Treasures with Zoom Techniques</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-the-art-of-inserting-descriptive-commentary-in-youtube-videos/"><u>In 2024, The Art of Inserting Descriptive Commentary in YouTube Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-complete-blueprint-for-optimizing-data-in-adobes-cloud-realm/"><u>In 2024, The Complete Blueprint for Optimizing Data in Adobe's Cloud Realm</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Nokia C02? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-the-full-potential-of-high-dynamic-range-photos-using-lightroom-for-2024/"><u>Unlocking the Full Potential of High Dynamic Range Photos Using Lightroom for 2024</u></a></li>
+</ul></div>
 

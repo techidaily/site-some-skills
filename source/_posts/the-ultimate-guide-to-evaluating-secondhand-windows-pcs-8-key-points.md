@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Evaluating Secondhand Windows PCs – 8 Key Points
-date: 2024-09-26T06:18:28.171Z
-updated: 2024-09-28T18:10:08.596Z
+date: 2024-10-02T17:50:44.453Z
+updated: 2024-10-04T16:00:23.515Z
 tags:
   - desktop
 categories:
@@ -30,23 +30,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Keyboard tester typing letters in lowercase with Caps Lock off.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-keyboard-tester-typing-letters-in-lowercase-with-caps-lock-off.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To test the trackpad, hover over the screen to gauge its responsiveness. Then, experiment with different trackpad gestures, such as pinch-to-zoom and two-finger scroll, to see which ones are supported. If you have another laptop, you can compare trackpad responsiveness by conducting a touchpad accuracy test on both laptops using the [No-Cursor website](https://no-cursor.com/).
 
  This will help you confirm whether the trackpad on your new laptop is equally or more responsive than the other one.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Test the Speakers and Built-In Microphone
 
@@ -60,6 +46,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Testing the laptop microphone in Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/2-testing-the-laptop-microphone-in-settings.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Test the Built-In Camera
 
  If you intend to use the laptop for video communication, test its built-in camera. To do this, type **Camera** in the Windows Search bar and open the Camera app.
@@ -67,10 +60,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  If the camera app detects the webcam and the visuals are clear and of satisfactory quality, as the seller claimed, then the camera is working correctly.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Check the Health of Your Laptop Battery
@@ -82,6 +75,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  This command automatically generates the report and saves it at C:\\Users\[YOUR USERNAME\]\\battery-report.html.
 
 ![Generating the battery health report from Windows PowerShell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/08/br_2-1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Navigate to this location and open the battery report. Then, go to the "Installed Batteries" section and compare the "Design Capacity" with the "Full Charge Capacity." The difference between these values indicates the extent to which the battery's capacity has diminished due to usage. If the full charge capacity is significantly low, you may have to replace the battery.
 
@@ -100,10 +100,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Also, watch out for stickers that may be covering up wear and tear underneath, as this is a common practice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Test the Wired and Wireless Connectivity
@@ -119,10 +119,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Running the memory diagnostic test from Windows Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/3-running-the-memory-diagnostic-test-from-windows-command-prompt.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Windows will restart and run the test. Once it finishes testing the RAM, it'll restart again and display the test results. If you don't see them, you can use the Windows Event Viewer to search for potential issues identified during the test. Open Event Viewer and go to Windows Logs > System. Click "Find," type **MemoryDiagnostic**, and click "Find Next."
@@ -148,21 +154,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-display-match-top-6-hdmi-21-monitors-compared/"><u>[New] The Ultimate Display Match Top 6 HDMI 2.1 Monitors Compared</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-what-are-the-best-sites-to-download-text-effects/"><u>[New] What Are The Best Sites To Download Text Effects?</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-maximize-your-iphone-x-10-proven-strategies-for-2024/"><u>[Updated] Maximize Your iPhone X 10 Proven Strategies for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-seize-the-day-documenting-games-on-samsung-phones/"><u>[Updated] Seize the Day! Documenting Games on Samsung Phones</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-x-voice-sync-studio-windows-version-for-2024/"><u>[Updated] X-Voice Sync Studio, Windows Version for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-pathway-to-delicate-audible-reduction-within-lumafusion/"><u>2024 Approved The Pathway to Delicate Audible Reduction Within Lumafusion</u></a></li>
-<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-xiaomi-redmi-note-12r-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Xiaomi Redmi Note 12R to iPhone | Dr.fone</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/entendendo-os-gifs-uma-guia-simples-para-criacao-e-conversao/"><u>Entendendo Os GIFs: Uma Guia Simples Para Criação E Conversão</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-honor-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Honor using Video Repair Utility on Mac?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-for-the-curious-player/"><u>In 2024, The Ultimate Guide for the Curious Player</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-zte-blade-a73-5g-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in ZTE Blade A73 5G for Streaming | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transforming-footage-a-step-by-step-guide-to-gopros-timelapse/"><u>In 2024, Transforming Footage A Step-by-Step Guide to GoPro's Timelapse</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-hardware-choices-by-toms-hardware/"><u>The Ultimate Guide to Hardware - Choices by Tom's Hardware</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-sierras-icloud-drives-and-shares-for-2024/"><u>The Ultimate Guide to Sierra's iCloud Drives & Shares for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-tier-text-transitions-reels-for-2024/"><u>Top-Tier Text Transitions Reels for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-samsung-galaxy-a14-4g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Samsung Galaxy A14 4G Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-podcast-hooks-compelling-beginnings/"><u>[New] The Art of Podcast Hooks Compelling Beginnings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-10-effect-enhancing-fcp-plug-ins/"><u>[New] Top 10 Effect-Enhancing FCP Plug-Ins</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-tips-and-solutions-for-common-vlc-issues-on-mac/"><u>[New] Top Tips & Solutions for Common VLC Issues on Mac</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-direct-android-image-copy-to-iphone/"><u>[Updated] 2024 Approved Direct Android Image Copy to iPhone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-logitech-4k-pro-webcam-a-comprehensive-overview-for-2024/"><u>[Updated] Logitech 4K Pro Webcam - A Comprehensive Overview for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-virtual-excellence-top-5-upcoming-playstation-vr-titles/"><u>[Updated] Unveiling Virtual Excellence Top 5 Upcoming PlayStation VR Titles</u></a></li>
+<li><a href="https://discover-best.techidaily.com/avi-vs-mp4-formats-a-comprehensive-guide-to-understanding-their-differences/"><u>AVI Vs. MP4 Formats - A Comprehensive Guide to Understanding Their Differences</u></a></li>
+<li><a href="https://extra-information.techidaily.com/boost-your-tunes-quickly-top-phone-app-selection/"><u>Boost Your Tunes Quickly Top Phone App Selection</u></a></li>
+<li><a href="https://win-forum.techidaily.com/essential-10-command-line-utilities-every-new-pc-user-must-know/"><u>Essential 10 Command Line Utilities Every New PC User Must Know</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Motorola PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-ais-pioneering-role-in-generating-podcast-names/"><u>In 2024, AI's Pioneering Role in Generating Podcast Names</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-definitive-guide-to-10-premium-vector-stockplaces/"><u>In 2024, The Definitive Guide to 10 Premium Vector Stockplaces</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-fcp-tutorial-for-new-users/"><u>In 2024, Ultimate FCP Tutorial for New Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/keyboard-typos-heres-how-to-type-without-the-slip-ups/"><u>Keyboard Typos? Here's How to Type Without the Slip-Ups</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-oppo-reno-11f-5g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Oppo Reno 11F 5G</u></a></li>
+<li><a href="https://some-skills.techidaily.com/understanding-the-metaverse-6-compelling-realities-unveiled-for-2024/"><u>Understanding the Metaverse 6 Compelling Realities Unveiled for 2024</u></a></li>
 </ul></div>
 

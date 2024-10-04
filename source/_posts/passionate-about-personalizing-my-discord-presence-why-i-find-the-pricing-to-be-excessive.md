@@ -1,7 +1,7 @@
 ---
 title: Passionate About Personalizing My Discord Presence - Why I Find The Pricing To Be Excessive
-date: 2024-09-21T23:56:28.529Z
-updated: 2024-09-28T18:13:06.948Z
+date: 2024-10-03T20:07:28.984Z
+updated: 2024-10-04T18:28:09.004Z
 tags:
   - web
 categories:
@@ -30,10 +30,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Editing a profile on Discord.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/editing-a-profile-on-discord.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  I think it's great that [Discord offers so much personalization](https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/), especially on the profile. It's a nice way to express yourself, and I like checking out other people's profiles to see what they look like.
@@ -41,10 +41,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Some of these customizations, like the banner image or using an animated GIF as your avatar, are only available if you [pay for Discord Nitro](https://ios-unlock.techidaily.com/forgot-apple-iphone-12-mini-backup-password-heres-what-to-do-by-drfone-ios/). Others, like the avatar decoration, have a small selection available to Nitro users, but have plenty available that anyone can purchase in the in-app shop.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The Discord Shop Is Overpriced
@@ -55,15 +55,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![SpongeBob SquarePants items on the Discord shop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/spongebob-squarepants-items-on-the-discord-shop-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  These purchases are one-time and permanent, meaning you can use them forever even if they're seasonal and removed from the shop. But despite that, the pricing seems extortionate, especially if you're someone who likes to redesign their profile often.
 
  It also seems cheeky that Nitro members don't get more items for free, or at least a deeper discount in the shop, especially since Nitro costs a not-insignificant $9.99/month (for the tier that includes custom profiles).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Is the Cost of Discord's Cosmetics a Problem?
@@ -71,13 +78,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Paying for profile cosmetics isn't anything new. Steam sells similar goodies, payable in points which are mostly earned by buying games. This is more tolerable because Steam is primarily a game storefront, so you get points through natural use of the platform. You can also buy in local currency from others on the community marketplace.
 
 ![Steam points shop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/steam-points-shop.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Steam has many other avenues of revenue, so the comparison to Discord isn't equal. But when Discord already sells a monthly membership, and then sets the price of extra items so high, it makes it feel like a cash grab as opposed to a fun feature.
 
@@ -102,18 +102,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-techniques-for-unlinking-youtube-videos-from-devices/"><u>[New] In 2024, Techniques for Unlinking YouTube Videos From Devices</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-webinar-designers-toolset/"><u>[New] Top Webinar Designer's Toolset</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-digital-experts-5-favorite-video-recorders-for-2024/"><u>[Updated] Digital Experts' 5 Favorite Video Recorders for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-1000-club-achievement-monthly-tips-for-insta-success-and-growth/"><u>[Updated] In 2024, The 1,000 Club Achievement Monthly Tips for Insta Success and Growth</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-embark-on-a-journey-through-augmented-space/"><u>2024 Approved Embark on a Journey Through Augmented Space</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-strategic-steps-for-pinpointing-a-list-film-creators/"><u>2024 Approved Strategic Steps for Pinpointing A-List Film Creators</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-monitors-reimagined-an-insight-into-the-z32x/"><u>2024 Approved The Art of Monitors Reimagined An Insight Into the Z32X</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-tips-for-smooth-and-efficient-photo-background-blurring/"><u>2024 Approved Tips for Smooth and Efficient Photo Background Blurring</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-realme-12plus-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Realme 12+ 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-samsung-galaxy-a34-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Samsung Galaxy A34 5G? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-selection-8-must-have-laptop-backgrounds/"><u>In 2024, Ultimate Selection 8 Must-Have Laptop Backgrounds</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-the-complete-guide-to-reversing-tiktok-videos-tips-and-tricks/"><u>New The Complete Guide to Reversing TikTok Videos Tips and Tricks</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-review-uncovering-the-latest-in-computer-components/"><u>Tom's Tech Review: Uncovering the Latest in Computer Components</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-enhancing-photos-with-picarts-background-elimination/"><u>[New] In 2024, Enhancing Photos with PicArt's Background Elimination</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-10-strategies-for-captivating-close-up-cinematography/"><u>[New] Top 10 Strategies for Captivating Close-Up Cinematography</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-iphone-shot-potential-adopt-these-10-principles/"><u>[New] Unlocking iPhone Shot Potential Adopt These 10 Principles</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-psd-transparency-tricks/"><u>[Updated] Ultimate PSD Transparency Tricks</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-unveiling-high-definition-with-lgs-ud88-w-widescreen-monitor/"><u>[Updated] Unveiling High Definition with LG's UD88-W Widescreen Monitor</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-power-of-reverse-recording-in-phantom-cameras/"><u>[Updated] Unveiling the Power of Reverse Recording in Phantom Cameras</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-checklist-for-selecting-prime-streaming-services-of-cricket/"><u>2024 Approved The Ultimate Checklist for Selecting Prime Streaming Services of Cricket</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-critical-failure-to-initialize-configuration-in-windows-10-expert-tips-and-tricks/"><u>Fixing the Critical Failure to Initialize Configuration in Windows 10: Expert Tips & Tricks</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-install-dolby-atmos-in-windows-1111/"><u>How to Install Dolby Atmos in Windows 11/11</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-ensuring-visual-presentation-youtube-shorts-thumbnails-fix/"><u>In 2024, Ensuring Visual Presentation YouTube Shorts Thumbnails Fix</u></a></li>
+<li><a href="https://some-tips.techidaily.com/online-gratuite-jpg-to-tiff-conversie-met-movavi-beste-praktiken-ervaren/"><u>Online Gratuite JPG-to-TIFF-Conversie Met Movavi - Beste Praktiken Ervaren!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/screen-recording-on-mac-a-comprehensible-method-for-2024/"><u>Screen Recording on Mac A Comprehensible Method for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-subscriber-chatter-best-practices-for-comments-for-2024/"><u>The Art of Subscriber Chatter Best Practices for Comments for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-apps-and-online-tools-to-track-nokia-c32-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Nokia C32 Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-vr-video-versus-spherical-capture-tech-distinctions-for-2024/"><u>Unveiling VR Video versus Spherical Capture Tech Distinctions for 2024</u></a></li>
 </ul></div>
 

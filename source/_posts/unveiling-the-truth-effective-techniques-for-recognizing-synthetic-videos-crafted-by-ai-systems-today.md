@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Truth: Effective Techniques for Recognizing Synthetic Videos Crafted by AI Systems Today"
-date: 2024-09-23T19:18:23.283Z
-updated: 2024-09-29T08:35:06.074Z
+date: 2024-10-03T20:59:13.998Z
+updated: 2024-10-04T19:06:56.095Z
 tags:
   - cutting-edge
 categories:
@@ -24,13 +24,6 @@ thumbnail: https://thmb.techidaily.com/db6e8bb5b9330de241494205e28fd162607bcee64
 
  With the arrival of OpenAI’s SORA text-to-video model, we’re staring at an inescapable future full of AI-generated video. But the technology hasn’t yet been perfected, so here are some tips for spotting AI-generated video (for now).
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Spotting AI Generated Content Can Be a Challenge
 
  At first glance, you’d be forgiven for passing AI-generated video off as the real deal. It’s only when you start to look a little deeper that you might start to notice something is amiss.
@@ -48,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/db6e8bb5b9330de241494205e28fd162607bcee64
  The woman’s clothing in the opening scene shows a red dress with a full-length cardigan and a leather jacket. The cardigan is a bit strange in the way that it seems to blend into the jacket, but I’m not exactly Mr Fashion so I’ll give it a pass:
 
 ![OpenAI SORA Tokyo night scene example clip.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/tokyo_clothes1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 OpenAI
 
@@ -71,6 +71,13 @@ OpenAI
 
 OpenAI
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  AI Struggles with Fingers, Glasses, and Finer Elements
 
  One of the biggest problems for AI-generative models are extremities and fine lines. In particular, have a good hard look at hands, held objects, spectacles, and the way things interact with human features (like hats, helmets, or even hair).
@@ -87,6 +94,13 @@ OpenAI
 
  Can you take your third arm off my leg, please?
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Look Closely at Objects in the Background of an Image
 
  Background details are often a dead giveaway when it comes to AI-generated video, even more so than photos. A good fake depends on the subject being convincing enough to distract you that the background isn’t quite behaving in the way it should be.
@@ -96,10 +110,10 @@ OpenAI
 ![OpenAI SORA Tokyo night scene background details.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/background_people_tokyo.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 OpenAI
@@ -118,13 +132,6 @@ OpenAI
 
  Everything can look a bit like a highly-produced music video, or like video games in the days before [realistic lighting and raytracing](https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-honor-90-drfone-by-drfone-virtual/). Subjects may look perfectly lit in instances where you’d expect them not to be.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  The Uncanny Valley Effect
 
  The uncanny valley effect is a term used to describe the mixing of human and inhuman traits in a manner that makes the viewer feel uncomfortable. Androids or human-like robots are oft-cited examples since they give the outward appearance of being human but are inescapably inhuman at the same time.
@@ -135,6 +142,13 @@ OpenAI
 
 ![OpenAI SORA spaceman with a knitted helmet video demonstrating the uncanny valley effect.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/uncanny_valley.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 OpenAI
 
  And there’s a similarly [ghoulish grandmother](https://cdn.openai.com/sora/videos/grandma-birthday.mp4) failing to blow out her birthday candles, which looks far worse in motion:
@@ -144,16 +158,16 @@ OpenAI
 OpenAI
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Watch Out for Nonsense
@@ -162,13 +176,6 @@ OpenAI
 
 ![OpenAI SORA spaceman video depicting a weird object.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/weird_lever.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 OpenAI
 
  What is this thing? Why is the animation seemingly played in reverse? The knitted helmet I can excuse, but this thing has puzzled me since the moment I saw it.
@@ -176,13 +183,6 @@ OpenAI
  The same goes for movements. The SORA [cat in bed video](https://cdn.openai.com/sora/videos/cat-on-bed.mp4) is impressive, but the movement isn't right. Cat owners will recognize that the behavior is strange and unnatural. It feels like there’s a mismatch between the behavior of the subject and the context of the situation. Over time, this will improve.
 
  Garbled text is another good example of what AI generative processes often get wrong. The Japanese characters in SORA’s Tokyo night scene video are a jumble, and so is some of the road and shop signage. Choosing a scene where most people are unable to distinguish Japanese from a bad tribute was a smart choice on OpenAI’s part.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Train Yourself to Better Spot This Content
 
@@ -207,15 +207,20 @@ OpenAI
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-creative-twists-on-image-captions-for-2024/"><u>[New] Creative Twists on Image Captions for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-dos-and-donts-of-mixing-music-in-instagram-videos/"><u>[New] The Do's and Don'ts of Mixing Music in Instagram Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-subscriber-sequence-strategizing-success-on-youtube/"><u>[New] The Subscriber Sequence Strategizing Success on YouTube</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-prime-image-editing-techniques/"><u>[Updated] Prime Image Editing Techniques</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlock-the-secrets-essential-tiktok-video-editing-techniques/"><u>[Updated] Unlock the Secrets Essential TikTok Video Editing Techniques</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Nokia C32 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-poco-m6-pro-5g-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Poco M6 Pro 5G Phones? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/plan-trips-effortlessly-7-complimentary-chatgpt-apps-for-on-the-spot-trip-planning/"><u>Plan Trips Effortlessly: 7 Complimentary ChatGPT Apps for On-the-Spot Trip Planning</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-vivo-v27-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Vivo V27 Screen | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-fundamentals-of-compelling-documentary-screenplay-for-2024/"><u>The Fundamentals of Compelling Documentary Screenplay for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-create-impactful-valorant-thumbnails-a-compreayers-guide-for-2024/"><u>[New] How to Create Impactful Valorant Thumbnails A Compreayer's Guide for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-microsoft-screen-recorder-for-2024/"><u>[New] Microsoft Screen Recorder for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-the-power-of-panoramic-videography-with-premieres-tools/"><u>[New] Unlocking the Power of Panoramic Videography with Premiere's Tools</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-win-and-mac-basic-guide-for-embedding-captions-in-images/"><u>[Updated] 2024 Approved Win & Mac Basic Guide for Embedding Captions in Images</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-mastery-in-music-selection-enhancing-video-packages-for-2024/"><u>[Updated] Mastery in Music Selection Enhancing Video Packages for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-creative-entrepreneurs-handbook-in-design/"><u>[Updated] The Creative Entrepreneur's Handbook in Design</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-5-display-choices-to-enhance-ps5xbox-playtime/"><u>[Updated] Top 5 Display Choices to Enhance PS5/Xbox Playtime</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-understanding-the-role-and-impact-of-b-roll-in-editing/"><u>[Updated] Understanding the Role and Impact of B Roll in Editing</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-master-the-digital-landscape-with-these-7-indispentic-devices/"><u>2024 Approved Master the Digital Landscape with These 7 Indispentic Devices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-your-movies-in-windows-10-with-these-techniques/"><u>2024 Approved Streamline Your Movies in Windows 10 with These Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-troubleshooting-tips-for-a-missing-realtek-lan-driver/"><u>Comprehensive Troubleshooting Tips for a Missing Realtek LAN Driver</u></a></li>
+<li><a href="https://some-skills.techidaily.com/thankful-compilation-professional-and-personalized-otus-for-2024/"><u>Thankful Compilation Professional & Personalized OTUs for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-best-sound-gear-matching-mics-with-4k-cameras-for-2024/"><u>The Best Sound Gear Matching Mics with 4K Cameras for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/twitter-video-requirement-aspect-ratio-for-2024/"><u>Twitter Video Requirement - Aspect Ratio for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlock-enhanced-video-playback-and-app-functionality-with-chromes-pip/"><u>Unlock Enhanced Video Playback and App Functionality with Chrome’s PIP</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Language of Truth  Writing Documentaries\""
-date: 2024-09-03T10:47:03.089Z
-updated: 2024-09-04T10:47:03.089Z
+date: 2024-10-02T20:23:04.207Z
+updated: 2024-10-04T16:10:12.538Z
 tags: 
   - screen-recording
   - ai video
@@ -40,60 +40,44 @@ Hello guys, and welcome to another fantastic and informative article. Our today'
 
 To write a good documentary script, you should first know what a documentary is. A documentary is a genre usually used for non-fiction or reality-based films. Such type of films includes researched based representation of a specific subject like interviews of peoples involved in it, official documents related to it, and many more. Sometimes they tell us facts about a particular topic that only very few of us know. They are also beneficial to raising social issues to the officials and making others aware of them. Now that you know what a documentary is let's move forward to our next step, three popular types of documentary scripts.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2\. Three popular types of a documentary script
 
 ### 1\. Literary Style
 
 In this style, your only concerns are with the shooting ability of the text for which you should have camera sense, writing rhetorically (but not too much) with the text language literacy, and dividing the script into different paragraphs according to time space and scene. You don't have to describe the technical requirements of shooting in it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030395/7443" target="_top" id="2030395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Shot-Oriented
 
 In this one, you have to write a detailed description of the action and the images which will be there in your screenplay without considering the script's literary merits and readability. Also, in this style, each scene is divided into paragraphs, and before starting each section, the writer should have mentioned the scene's location, time, mirror, and number. In simple words, this script style provides more detailed and deep instructions about the film or a documentary screenplay.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Shooting Script
 
 The director usually uses this style of scripting. After the director of the film or the documentary, the screenplay reads the literary script. He writes a subordinate storyline, including the picture image and the sound, which he is agreed to represent in his film or documentary screenplay.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3\. Six basic theoretical knowledge about documentary script
 
 ### 1\. Ensure the authenticity of the story
 
 The first and most important step in writing a documentary screenplay is to make sure the material and information you use is accurate. Moreover, if your documentary script is based on a true story, you should first confirm the veracity of the tale before drafting the script. It elevates the level of your script's content quality.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Define the key issues
 
 Another thing that makes a documentary script best is that it should define the critical issues of the topic upon which it relies. For example, writing a documentary script on a social problem, you should also define its key points. Also, you can add interviews of the experts, or the people involved in some story. It makes your documentary script more effective and influential for the audience.
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 3\. Highlight the characteristics of the scene
 
 Highlighting the characteristics of each scene of your script makes it much better and easy for others to understand. For example, if you have any fighting scene in your documentary film, you should have to define each thing that will be there and film it in your screenplay. Also, you can suggest or specify the location of each scene.
@@ -106,9 +90,6 @@ Visual Writing means you should make it clear in your script which will be there
 
 Another important thing you should take care of while writing a documentary script is that you should continue it in a rhythm, which means you have to pay good attention to the sequence of the events in your film. In other words, you should arrange your script's scenes effectively and accurately, making them in a rhythm.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_1983539" src="//a.impactradius-go.com/gen-ad-code/5597632/1983539/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ### 6\. Fully researched
 
 Thoroughly researched data and information are the most necessary, especially when writing a script for a documentary screenplay. It would be best first to explore a particular topic on which you will write a documentary script and then start writing one. It makes your script the best and helps you write it because you will gain excellent knowledge of it by researching a particular topic. Also, it dramatically improves the quality of your script's content. So you should never leave this step before writing a documentary script.
@@ -129,12 +110,6 @@ As you can see in the following example of a documentary script of a screenplay 
 | Pictures of Albert Einstein and then his brain                 | However, he declined that he is brilliant.                                                                     |
 | Pictures of Albert Einstein Theories                           | But still, he is the one due to his various authentic and scientifically proven theories and experiments.      |
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 5\. Make your documentary script come true by using Filmora
 
 The way you can make it happen after composing your documentary script for your film is ultimately what matters the most. Given that you have [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), you shouldn't worry. You may quickly and successfully use this to bring your documentary script to reality. We will therefore explain what you should do first and what Speed Ramping can do for your documentary. You must first record your documentary script screenplay, after which you must complete the following:
@@ -160,11 +135,12 @@ The way you can make it happen after composing your documentary script for your 
 ![add smooth speed shift curves](https://images.wondershare.com/filmora/article-images/2022/07/write-a-good-documentary-script-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024347/7443" target="_top" id="2024347">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024347/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 5. Then you can click on the **Audio Visualizer** button to use the audio-visual features in your documentary video, which makes your video more rhythmic.
 
 ![click on audio visualizer](https://images.wondershare.com/filmora/article-images/2022/07/write-a-good-documentary-script-5.jpg)
@@ -185,35 +161,34 @@ So, the last words for this educational post are that, as we all know, writing a
 * [Documentary script examples](#part4)
 * [Make your documentary script come true by using Filmora](#part5)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1\. What is a Documentary?
 
 To write a good documentary script, you should first know what a documentary is. A documentary is a genre usually used for non-fiction or reality-based films. Such type of films includes researched based representation of a specific subject like interviews of peoples involved in it, official documents related to it, and many more. Sometimes they tell us facts about a particular topic that only very few of us know. They are also beneficial to raising social issues to the officials and making others aware of them. Now that you know what a documentary is let's move forward to our next step, three popular types of documentary scripts.
 
 ## Part 2\. Three popular types of a documentary script
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Literary Style
 
 In this style, your only concerns are with the shooting ability of the text for which you should have camera sense, writing rhetorically (but not too much) with the text language literacy, and dividing the script into different paragraphs according to time space and scene. You don't have to describe the technical requirements of shooting in it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Shot-Oriented
 
 In this one, you have to write a detailed description of the action and the images which will be there in your screenplay without considering the script's literary merits and readability. Also, in this style, each scene is divided into paragraphs, and before starting each section, the writer should have mentioned the scene's location, time, mirror, and number. In simple words, this script style provides more detailed and deep instructions about the film or a documentary screenplay.
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_1630055" src="//a.impactradius-go.com/gen-ad-code/5597632/1630055/18460" width="240" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 3\. Shooting Script
 
 The director usually uses this style of scripting. After the director of the film or the documentary, the screenplay reads the literary script. He writes a subordinate storyline, including the picture image and the sound, which he is agreed to represent in his film or documentary screenplay.
@@ -228,12 +203,6 @@ The first and most important step in writing a documentary screenplay is to make
 
 Another thing that makes a documentary script best is that it should define the critical issues of the topic upon which it relies. For example, writing a documentary script on a social problem, you should also define its key points. Also, you can add interviews of the experts, or the people involved in some story. It makes your documentary script more effective and influential for the audience.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024329/7443" target="_top" id="2024329">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024329" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024329/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Highlight the characteristics of the scene
 
 Highlighting the characteristics of each scene of your script makes it much better and easy for others to understand. For example, if you have any fighting scene in your documentary film, you should have to define each thing that will be there and film it in your screenplay. Also, you can suggest or specify the location of each scene.
@@ -246,22 +215,10 @@ Visual Writing means you should make it clear in your script which will be there
 
 Another important thing you should take care of while writing a documentary script is that you should continue it in a rhythm, which means you have to pay good attention to the sequence of the events in your film. In other words, you should arrange your script's scenes effectively and accurately, making them in a rhythm.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 6\. Fully researched
 
 Thoroughly researched data and information are the most necessary, especially when writing a script for a documentary screenplay. It would be best first to explore a particular topic on which you will write a documentary script and then start writing one. It makes your script the best and helps you write it because you will gain excellent knowledge of it by researching a particular topic. Also, it dramatically improves the quality of your script's content. So you should never leave this step before writing a documentary script.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4\. Documentary script examples
 
 As you can see in the following example of a documentary script of a screenplay named "Albert Einstein." In the following script example, you can see that we have described the images on the left and the narrations on the right side of the table. Also, the primary sources have been highlighted in it and are in bold text, which will help others to recognize them.
@@ -279,11 +236,12 @@ As you can see in the following example of a documentary script of a screenplay 
 | Pictures of Albert Einstein Theories                           | But still, he is the one due to his various authentic and scientifically proven theories and experiments.      |
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 5\. Make your documentary script come true by using Filmora
 
 The way you can make it happen after composing your documentary script for your film is ultimately what matters the most. Given that you have [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), you shouldn't worry. You may quickly and successfully use this to bring your documentary script to reality. We will therefore explain what you should do first and what Speed Ramping can do for your documentary. You must first record your documentary script screenplay, after which you must complete the following:
@@ -300,35 +258,34 @@ The way you can make it happen after composing your documentary script for your 
 
 ![click on new project button](https://images.wondershare.com/filmora/article-images/2022/07/write-a-good-documentary-script-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. After importing your media clips, you can double-click on your video clip to open the speed adjustment window. Then, choose **Speed > Speed Ramping**.
 
 ![double click on video clip](https://images.wondershare.com/filmora/article-images/2022/07/write-a-good-documentary-script-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. You can add smooth speed shift curves from Filmora to your documentary clips to experience the result. Attempting to alter the speed shift curve on your own is an option if you don't like them.
 
 ![add smooth speed shift curves](https://images.wondershare.com/filmora/article-images/2022/07/write-a-good-documentary-script-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_1542129" src="//a.impactradius-go.com/gen-ad-code/5597632/1542129/16836" width="728" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 5. Then you can click on the **Audio Visualizer** button to use the audio-visual features in your documentary video, which makes your video more rhythmic.
 
 ![click on audio visualizer](https://images.wondershare.com/filmora/article-images/2022/07/write-a-good-documentary-script-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. After that, click on the **Export** button at the top bar. an exporting menu will appear on your screen from which you can choose the preferences about exporting your video, like its name, storage location, format, etc. Just wait until the export is finished.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 So, the last words for this educational post are that, as we all know, writing a script effectively makes your script the greatest. Similarly, in the documentary screenplay, writing a script that follows an effective manner and contains well-researched information based on authentic resources makes it the best. So that's why today we discuss this topic in this article to help those who want to make a good documentary screenplay but do not know how to write a good script. Also, for those who have already finished writing their documentary script but do not know how to make it happen, we hope that it will benefit all of you and that you enjoyed reading it. Thanks for reading it.
@@ -355,4 +312,19 @@ So, the last words for this educational post are that, as we all know, writing a
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-the-evolution-of-4k-a-look-at-the-d500-model/"><u>[New] The Evolution of 4K A Look at the D500 Model</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-efficient-video-sharing-on-twitter-from-smartphones-for-2024/"><u>[Updated] Efficient Video Sharing on Twitter From Smartphones for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-30-voice-modification-solutions-vtubers-guidebook/"><u>[Updated] Top 30 Voice Modification Solutions VTubers Guidebook</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-a-convenient-approach-to-changing-the-main-image-of-your-fb-page/"><u>2024 Approved A Convenient Approach to Changing the Main Image of Your FB Page</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-the-art-of-laughter-no-10-memes-ranked-by-fun/"><u>2024 Approved The Art of Laughter No. 10 Memes Ranked by Fun</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-rated-complimentary-premiere-pro-blueprints/"><u>2024 Approved Top-Rated, Complimentary Premiere Pro Blueprints</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-vivo-y28-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Vivo Y28 5G Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-innovative-zooid-conceptual-models/"><u>In 2024, Innovative Zooid Conceptual Models</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transform-textual-treasures-ae-font-exploration/"><u>In 2024, Transform Textual Treasures AE Font Exploration</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-digital-assets-top-7-tools-to-create-nfts/"><u>In 2024, Transform Your Digital Assets - Top 7 Tools to Create NFTs</u></a></li>
+<li><a href="https://solve-help.techidaily.com/transitioning-your-digital-library-a-guide-to-changing-devices-with-amazons-kindle/"><u>Transitioning Your Digital Library: A Guide to Changing Devices with Amazon's Kindle</u></a></li>
+<li><a href="https://change-location.techidaily.com/where-is-the-best-place-to-catch-dratini-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Samsung Galaxy S23 | Dr.fone</u></a></li>
+</ul></div>
 

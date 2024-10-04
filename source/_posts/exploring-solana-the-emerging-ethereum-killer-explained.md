@@ -1,7 +1,7 @@
 ---
 title: "Exploring Solana: The Emerging 'Ethereum Killer' Explained"
-date: 2024-09-26T06:42:46.579Z
-updated: 2024-09-29T11:17:39.423Z
+date: 2024-09-30T21:04:25.120Z
+updated: 2024-10-04T19:53:25.030Z
 tags:
   - cutting-edge
 categories:
@@ -21,10 +21,16 @@ thumbnail: https://thmb.techidaily.com/d0531d40b03cde46602b7231bfc17c15ddbf08155
  Solana is a high-speed and permissionless [layer](https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-motorola-razr-40-by-drfone-android/) 1 public [blockchain](https://facebook-videos.techidaily.com/updated-2024-approved-top-playlist-hits-social-medias-1-10-video-winners/) that is sometimes called an "Ethereum Killer" because it features cheap fees and fast transactions compared to the often [expensive "gas" fees due to high traffic on Ethereum](https://screen-video-capture.techidaily.com/new-unleashing-creativity-how-to-master-io-screen-capture-for-2024/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Background of Solana
@@ -36,13 +42,6 @@ Related: [What is Ethereum, and What Are Smart Contracts?](https://extra-informa
  The experience of using Solana lies in stark contrast to networks like [Ethereum](https://extra-information.techidaily.com/in-2024-automated-opener-your-srt-files-windows-and-mac/) as the user experience is vastly improved with transactions that cost a few cents and settle almost instantly. While using Ethereum wallets like [MetaMask](https://extra-support.techidaily.com/new-intro-excellence-app-your-device-friendly-solution/) are obstacles for onboarding new users, the Solana network features smooth decentralized applications with user-friendly interfaces, a thriving NFT ecosystem, and plenty of developers continuing to build out use cases for the technology using the foundation the Solana blockchain offers.
 
  Critics are quick to point out that Solana is more centralized by some definitions than other blockchains and therefore is somewhat removed from the core ethos of the [cryptocurrency](https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-itel-p40plus-phones-by-drfone-android/) movement that values decentralization and sovereignty. The Solana network has also suffered a few major outages which are largely being patched but still raises doubts in the eyes of some investors and users.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Architecture and Throughput** 
 
@@ -59,6 +58,13 @@ Related: [Proof of Work vs. Proof of Stake: What's the Difference?](https://grap
  The native cryptocurrency for the Solana blockchain network is SOL, which functions as its utility token needed to pay for transaction fees for using the network, transferring value and compensation for providing security to the chain via staking. The SOL token launched in March 2020 and has since climbed to reach a market capitalization in the top 10 cryptocurrencies.
 
 ![Solana Token Distribution](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/Screen-Shot-2022-06-28-at-2.50.26-PM.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _[The Tie Labs](https://research.thetie.io/solana-ecosystem/)_
 
@@ -78,13 +84,6 @@ _[The Tie Labs](https://research.thetie.io/solana-ecosystem/)_
 
 ![Solana Token Distribution](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/Screen-Shot-2022-06-28-at-2.50.26-PM.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 _[The Tie Labs](https://research.thetie.io/solana-ecosystem/)_
 
  Non-fungible token (NFT) sales on the Solana blockchain crossed the $1 billion mark in total volume in January of 2022\. Studying the data shows that overall volume and the number of unique buyers has steadily increased over time, while the average price of each sale has gone down.
@@ -94,10 +93,10 @@ _[The Tie Labs](https://research.thetie.io/solana-ecosystem/)_
 ![Solana Token Distribution](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/Screen-Shot-2022-06-28-at-2.50.26-PM.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 _[The Tie Labs](https://research.thetie.io/solana-ecosystem/)_
@@ -115,6 +114,19 @@ _[The Tie Labs](https://research.thetie.io/solana-ecosystem/)_
 ### **Outages** 
 
 ![Solana Uptime Jan - March 2022](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/Screen-Shot-2022-06-28-at-1.11.14-PM.png) 
+
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _[Solana Status](https://status.solana.com/uptime?page=2)_
 
@@ -149,20 +161,24 @@ _[Solana Status](https://status.solana.com/uptime?page=2)_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-essential-list-of-gratuitous-online-photo-enhancement-suites-for-2024/"><u>[New] Essential List of Gratuitous Online Photo Enhancement Suites for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-engage-audiences-best-hashtags-for-going-viral-on-yt/"><u>[New] In 2024, Engage Audiences Best Hashtags for Going Viral on YT</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-evolution-and-alternatives-to-googles-ar-stickers/"><u>[New] The Evolution and Alternatives to Google's AR Stickers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-kinemasters-fullscreen-magic/"><u>[New] Unlocking KineMaster's Fullscreen Magic</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-5-playstation-vr-games-to-look-forward-to/"><u>[Updated] Top 5 Playstation VR Games to Look Forward To</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-extensive-review-the-360-degree-capture-of-samsung/"><u>2024 Approved Extensive Review The 360-Degree Capture of Samsung</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723012930869-bypassing-cod-vanguards-n-error-code-0x00001338-on-pc-unlock-your-gameplay-now/"><u>Bypassing CoD: Vanguard's N Error Code 0X00001338 on PC – Unlock Your Gameplay Now!</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-enjoy-classic-games-anywhere-with-the-top-5-pc-based-gb-emulators/"><u>In 2024, Enjoy Classic Games Anywhere with the Top 5 PC-Based GB Emulators</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Samsung Galaxy XCover 7? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-accessories-to-elevate-your-sj4000-experience/"><u>In 2024, Top Accessories to Elevate Your SJ4000 Experience</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-introductory-editor-software-devices/"><u>In 2024, Ultimate Introductory Editor Software (Devices)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-untapped-potential-to-augment-your-youtube-audience/"><u>In 2024, Unveiling Untapped Potential to Augment Your Youtube Audience</u></a></li>
-<li><a href="https://win-dash.techidaily.com/secure-your-data-with-the-newest-intel-raid-driver-support-for-windows-os-windows-11-10-8-and-7/"><u>Secure Your Data with the Newest Intel RAID Driver Support for Windows OS: Windows 11, 10, 8, and 7</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-power-of-the-podium-mastering-audio-in-videography-for-2024/"><u>The Power of the Podium Mastering Audio in Videography for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/winxvideo-ai-beschleunigte-konversion-von-videos-and-audios-durch-gpu-technologie/"><u>Winxvideo AI: Beschleunigte Konversion Von Videos & Audios Durch GPU-Technologie</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-how-watermarks-safeguard-your-digital-pictures/"><u>[New] In 2024, How Watermarks Safeguard Your Digital Pictures</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-short-form-success-strategic-hashtags-for-social-media-stardom/"><u>[New] In 2024, Short-Form Success Strategic Hashtags for Social Media Stardom</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-techniques-for-depicting-realism-in-docuscripts/"><u>[New] Techniques for Depicting Realism in Docuscripts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-future-of-music-freedom-an-insightful-review-of-pazera-tools/"><u>[New] The Future of Music Freedom An Insightful Review of Pazera Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-metaverse-multiverse-dichotomy-explained/"><u>[New] The Metaverse-Multiverse Dichotomy Explained</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-professionals-guide-to-4k-monitors-spotlight-on-bl2711u-by-benq/"><u>[New] The Professional's Guide to 4K Monitors - Spotlight on BL2711U by BenQ</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-redefining-social-sharing-alternatives-to-periscope-on-iphones-and-androids/"><u>[Updated] Redefining Social Sharing Alternatives to Periscope on iPhones & Androids</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-pc-edition-of-image-overlay-mastery/"><u>2024 Approved Ultimate PC Edition of Image Overlay Mastery</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/boosting-productivity-with-zoom-and-a-chromebook-for-2024/"><u>Boosting Productivity with Zoom and a Chromebook for 2024</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-tecno-phantom-v-fold-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Tecno Phantom V Fold Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-itel-p55-5g-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Itel P55 5G for Free? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-perfecting-titles-on-footage-step-by-step-tutorial-for-windows-photos-app/"><u>In 2024, Perfecting Titles on Footage Step-by-Step Tutorial for Windows Photos App</u></a></li>
+<li><a href="https://some-skills.techidaily.com/magix-photographic-mastery-an-in-depth-review-for-2024/"><u>MAGIX Photographic Mastery An In-Depth Review for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-major-networks-connect-with-friends-and-followers-on-facebook-twitter-instagram-and-youtube/"><u>Mastering the Major Networks: Connect with Friends and Followers on Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://techtrends.techidaily.com/rewriting-history-with-instagram-how-to-adjust-your-direct-messages-seamlessly/"><u>Rewriting History with Instagram: How to Adjust Your Direct Messages Seamlessly</u></a></li>
+<li><a href="https://some-skills.techidaily.com/undead-lore-weaver-for-2024/"><u>Undead Lore Weaver for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlocking-audio-potential-3-free-strategies-for-syncing-music-with-iphone-films/"><u>Unlocking Audio Potential 3 Free Strategies for Syncing Music with iPhone Films</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/visual-harmony-in-grids-the-top-10-photo-choices/"><u>Visual Harmony in Grids The Top 10 Photo Choices</u></a></li>
 </ul></div>
 

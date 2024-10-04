@@ -1,7 +1,7 @@
 ---
 title: "Securing Your System: A Step-by-Step Guide to Locking a Windows 10 PC via Command Line"
-date: 2024-09-26T22:30:41.316Z
-updated: 2024-09-28T23:05:08.742Z
+date: 2024-10-02T20:50:58.055Z
+updated: 2024-10-04T16:15:19.156Z
 tags:
   - deals
 categories:
@@ -15,13 +15,6 @@ thumbnail: https://thmb.techidaily.com/2077f1c448ea137a042adda99cddc314210e83104
 
 * [Lock Your Windows 10 PC Using Command Prompt](https://vp-tips.techidaily.com/new-audiovisual-adaptability-in-free-fire-for-2024/)
 * [Set the Lock Screen Timeout Setting Using Command Prompt](https://eaxpv-info.techidaily.com/new-finding-a-different-way-to-naming-your-channel-with-filmora-for-2024/)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -38,10 +31,10 @@ thumbnail: https://thmb.techidaily.com/2077f1c448ea137a042adda99cddc314210e83104
 ![Click the Start button, search for 'cmd,' then open 'Command Prompt.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-launch-cmd.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Command Prompt will now open. Here, run this command to lock your Windows 10 PC.
@@ -60,6 +53,19 @@ Rundll32.exe user32.dll,LockWorkStation
 
 ![Launching Command Prompt as admin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-launch-cmd.png) 
 
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  With Command Prompt open, run this command.
 
 powercfg.exe /SETACVALUEINDEX SCHEME_CURRENT SUB_VIDEO VIDEOCONLOCK <time>
@@ -71,10 +77,10 @@ powercfg.exe /SETACVALUEINDEX SCHEME_CURRENT SUB_VIDEO VIDEOCONLOCK 120
 ![Change the timeout to 120.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-changing-timeout-to-120.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This command sets the lock screen timeout setting for your PC if it’s plugged in to a power source. To set the lock screen timeout setting for your PC if it’s running on battery, change`/SETACVALUEINDEX` to`/SETDCVALUEINDEX` and run the command as normal.
@@ -86,10 +92,10 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 ![Apply the setting to the currently active scheme.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-set-active.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now your [lock screen](https://driver-download.techidaily.com/1722977751917-synaptics-drivers-download-and-update-for-windows-easily/) will timeout after the set amount of time. Give it a try!
@@ -109,22 +115,21 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-the-future-in-your-hands-lgs-vr-gaming-masterpiece/"><u>[New] 2024 Approved The Future in Your Hands LG's VR Gaming Masterpiece</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-thrifty-choices-for-virtual-reality-heads/"><u>[New] Thrifty Choices for Virtual Reality Heads</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-luminous-language-the-secret-of-dynamic-story-titles/"><u>[Updated] Luminous Language The Secret of Dynamic Story Titles</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-top-12-html5-video-engines/"><u>[Updated] The Ultimate Guide to Top 12 HTML5 Video Engines</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-venture-into-virtual-laughs-top-20plus-funny-metaverse-creations/"><u>2024 Approved Venture Into Virtual Laughs Top 20+ Funny Metaverse Creations</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-infinix-smart-7-hd-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Infinix Smart 7 HD | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On OnePlus 11R | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/crank-up-the-challenge-with-frustrating-fiddlers/"><u>Crank Up the Challenge with Frustrating Fiddlers</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/cutting-edge-fullscreen-capture-programs-for-2024/"><u>Cutting-Edge Fullscreen Capture Programs for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/guide-on-how-to-erase-iphone-12-mini-devices-entirely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase iPhone 12 mini Devices Entirely | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-how-to-choose-the-background-music-for-the-trailer/"><u>In 2024, How to Choose the Background Music for the Trailer</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-how-to-schedule-meetings-on-zoom/"><u>In 2024, How to Schedule Meetings on Zoom?</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-ideal-emulation-tools-to-relive-sonys-playstation-experience/"><u>In 2024, Ideal Emulation Tools to Relive Sony's PlayStation Experience</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-tips-and-tricks-for-iphone-audio-enthusiasts/"><u>In 2024, Tips and Tricks for iPhone Audio Enthusiasts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-windows-10-key-skills-you-need/"><u>In 2024, Unlocking Windows 10 Key Skills You Need</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-essential-techniques-for-fast-forwarding-in-spotify-for-2024/"><u>The Essential Techniques for Fast-Forwarding in Spotify for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlimited-picture-pools-the-best-10-resources-for-2024/"><u>Unlimited Picture Pools The Best 10 Resources for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-swift-success-stories-leveraging-instagram-likes-and-videos/"><u>[New] In 2024, Swift Success Stories Leveraging Instagram Likes and Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-dynamic-backdrop-customization-in-teammate-windows-prepost-calls/"><u>[Updated] In 2024, Dynamic Backdrop Customization in Teammate Windows, Pre/Post Calls</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlock-your-creativity-with-these-under-1k-4k-cameras/"><u>[Updated] Unlock Your Creativity with These Under-$1k 4K Cameras</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unwinding-a-livestream-in-seconds-seven-proven-methods-for-twitch-viewers/"><u>[Updated] Unwinding a Livestream in Seconds Seven Proven Methods for Twitch Viewers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-timeless-stop-motion-films-a-celebratory-15-list/"><u>2024 Approved Timeless Stop-Motion Films - A Celebratory 15 List</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-advanced-features-of-vlc-for-mac-users/"><u>2024 Approved Unveiling Advanced Features of VLC for Mac Users</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-iphone-14-pro-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On iPhone 14 Pro</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-from-apple-iphone-12-miniipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock from Apple iPhone 12 mini/iPad/iPod</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Vivo X90S? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-apple-iphone-7-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For Apple iPhone 7</u></a></li>
+<li><a href="https://extra-support.techidaily.com/seamless-integration-of-skype-and-zoom-for-businesses-for-2024/"><u>Seamless Integration of Skype and Zoom for Businesses for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/spotlight-on-benq-sw320s-eye-catching-4k-display/"><u>Spotlight on BenQ SW320’s Eye-Catching 4K Display</u></a></li>
+<li><a href="https://some-skills.techidaily.com/synthesizing-success-the-power-of-magix-samplitude-for-2024/"><u>Synthesizing Success The Power of Magix Samplitude for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-compilation-of-top-sky-hd-sites-for-2024/"><u>The Ultimate Compilation of Top Sky HD Sites for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-guideline-for-beginners-about-lexis-audio-editor/"><u>Updated In 2024, Guideline for Beginners About Lexis Audio Editor</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ushering-bliss-in-unboxing-7-strategies-for-2024/"><u>Ushering Bliss in Unboxing 7 Strategies for 2024</u></a></li>
 </ul></div>
 

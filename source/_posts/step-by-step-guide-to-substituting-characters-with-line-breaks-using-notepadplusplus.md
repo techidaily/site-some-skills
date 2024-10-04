@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Substituting Characters with Line Breaks Using Notepad++
-date: 2024-09-23T01:47:56.098Z
-updated: 2024-09-29T11:42:18.212Z
+date: 2024-10-01T18:56:47.568Z
+updated: 2024-10-04T16:02:32.784Z
 tags:
   - deals
 categories:
@@ -16,18 +16,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Convert Any Character into a Newline with Notepad++](https://change-location.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/)
 * [How to Convert a Newline Character into Any Other Separator](https://techtrends.techidaily.com/perfect-progression-watching-the-wizarding-worlds-cinematic-journey-step-by-step/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
  To replace any character with a newline in Notepad++, navigate to Search > Replace > Replace. Enter the character you want to replace in the "Find What" box, enter "\\n" in the "Replace With" box, set the search mode to "Extended," then click "Replace All."
 
  If you have a list of values in a text file separated by a character (such as a comma or pipe) but would rather have each item on its own line, you can do the newline conversion automatically in Notepad++. Here's how.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Convert Any Character into a Newline with Notepad++
 
@@ -43,9 +43,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![A Notepad++ window showing a comma-separated list](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/paste-items-list.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Next, click the "Search" menu and select "Replace." Alternately, you can press Ctrl+H on your keyboard.
 
 ![Replace menu in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/replace-notepad-plus-plus1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In the Replace window that opens, click the "Find What" text entry box and type the current item separator. In our example case, our items are separated by a comma and a space, so we'll type a comma and then press Space. If your items are separated by pipes only, type the pipe character ("|").
 
@@ -58,10 +72,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Replace window in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/convert-comma-new-line.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  And just like magic, each item in your list will now be on its own line.
@@ -78,40 +92,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![New-line items list in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/paste-list.png) 
 
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In your Notepad++ window, click the "Edit" menu and select Blank Operations > EOL to Space. Here, EOL means "End of Line," and this option converts the invisible newline characters into spaces.
 
 ![EOL to Space option in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/eol-to-space.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After that, you'll find that all your items are now on a single line separated by a space.
 
 ![List items on one line in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/items-one-line.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To convert this into a comma-separated list using Notepad++, click Search > Replace in the menu.
 
@@ -122,6 +109,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  When you're ready, click "Replace All" on the right.
 
 ![Replace window in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/new-line-comma.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Your list items will now be separated by the new separator you chose.
 
@@ -146,21 +140,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-mastering-vimeo-video-on-instagram-feed/"><u>[New] 2024 Approved Mastering Vimeo Video on Instagram Feed</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-streamlining-the-update-process-for-accurate-tiktok-age-details/"><u>[New] Streamlining the Update Process for Accurate TikTok Age Details</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-understanding-whatsapps-telephony-services/"><u>[New] Understanding WhatsApp’s Telephony Services</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unseen-streamers-handbook-going-incognito-on-ig-live/"><u>[New] Unseen Streamer's Handbook Going Incognito on IG Live</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-recording-wonders-lightweight-win-11-edition/"><u>[Updated] Recording Wonders Lightweight Win 11 Edition</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-step-by-step-guide-for-vintage-photo-conversion-and-storage/"><u>[Updated] The Step-by-Step Guide for Vintage Photo Conversion & Storage</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-wonders-of-vita-video-editing-comprehensive-guide-2024/"><u>[Updated] Unveiling the Wonders of Vita Video Editing Comprehensive Guide, 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-artisans-touch-skillfully-applying-face-centric-motion-blur-using-picsart/"><u>2024 Approved The Artisan’s Touch Skillfully Applying Face-Centric Motion Blur Using Picsart</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-oppo-f23-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Oppo F23 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/change-your-musics-file-type-without-cost-quickly-convert-m4a-to-mov-using-our-web-service/"><u>Change Your Music's File Type Without Cost - Quickly Convert M4A to MOV Using Our Web Service!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Nubia Z50 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-motorola-moto-g-5g-2023-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Motorola Moto G 5G (2023) and Browser | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streamline-overload-efficiently-editing-oversized-tiktok-drafts/"><u>In 2024, Streamline Overload Efficiently Editing Oversized TikTok Drafts</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-tecno-camon-20-premier-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Tecno Camon 20 Premier 5G Location | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Vivo S18e? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-oppo-f23-5g-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Oppo F23 5G Device</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-from-animated-art-to-fun-factors-transforming-gifs-into-stickers-anywhere-for-2024/"><u>[New] From Animated Art to Fun Factors Transforming GIFs Into Stickers Anywhere for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transform-your-beats-with-free-dji-luts-for-minis-and-air-devices/"><u>[New] Transform Your Beats with Free DJI LUTs for Minis & Air Devices</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-perfect-kid-cameras-for-first-timers-and-wet-weather-filming-adventures/"><u>[Updated] In 2024, Perfect Kid Cameras for First-Timers & Wet Weather Filming Adventures</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-10-immersive-traits-in-filmoras-editing-software/"><u>[Updated] Top 10 Immersive Traits in Filmora's Editing Software</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-transcoding-approaches-to-boost-zoom-videos/"><u>[Updated] Top Transcoding Approaches to Boost Zoom Videos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-designing-unique-instagram-post-cover-texts/"><u>2024 Approved Designing Unique Instagram Post Cover Texts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-unboxing-into-art/"><u>2024 Approved Transforming Unboxing Into Art</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-uncover-the-best-online-church-streaming-options/"><u>2024 Approved Uncover The Best Online Church Streaming Options</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/achieving-teleportation-magic-illusions-for-2024/"><u>Achieving Teleportation Magic Illusions for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-honor-x8b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-realme-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from Realme .</u></a></li>
+<li><a href="https://win-dash.techidaily.com/improve-gaming-performance-download-the-newest-geforce-210-drivers-on-windows-10/"><u>Improve Gaming Performance: Download the Newest GeForce 210 Drivers on Windows 10</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-skys-the-limit-with-husqvarnas-x4-drone/"><u>In 2024, The Sky's the Limit with Husqvarna's X4 Drone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tips-for-adding-music-to-photo-online/"><u>In 2024, Tips for Adding Music to Photo Online</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/navigating-novelty-a-deep-exploration-of-filter-innovations-for-2024/"><u>Navigating Novelty A Deep Exploration of Filter Innovations for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-your-trip-diary-into-haul-video-hype-for-2024/"><u>Transform Your Trip Diary Into Haul Video Hype for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Bridging Operating Systems: A Comprehensive Guide to Using Ubuntu Software on Your Windows 11 Machine"
-date: 2024-09-22T21:27:01.274Z
-updated: 2024-09-29T04:39:38.749Z
+date: 2024-10-02T17:27:22.823Z
+updated: 2024-10-04T21:14:43.748Z
 tags:
   - deals
 categories:
@@ -34,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 
  Lastly, ensure you have Administrator rights on your Windows 11 system. Using WSL requires modifying Windows features, and it won't work if you don't have Administrator privileges.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Enabling Windows Subsystem for Linux (WSL)
 
  Windows Subsystem for Linux is not enabled by default on Windows 11\. You'll need to activate this feature on Windows before you can use it to run Ubuntu apps on your Windows PC.
@@ -51,16 +44,16 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 
 ![WSL feature being turned on in Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/flameshot-wsl-check-box.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now that the "OK" button has been selected, Windows 11 will begin setting up WSL on your system. This setup process should take a few minutes to complete. When the setup is complete, you must reboot your Windows PC. Select the "Restart now" button to reboot.
 
  Upon rebooting, log back into your Windows 11 desktop. Once you've logged back in, the Windows Subsystem for Linux will be enabled on Windows 11.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Installing Ubuntu
 
@@ -81,25 +74,19 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 ![Ubuntu WSL is installing itself to Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-ubuntu-is-installing.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once Ubuntu has finished its setup on Windows 11, you will see an empty terminal window, ready for you to interact with Ubuntu on your Windows 11 system.
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Basic Configuration Tips
@@ -135,10 +122,10 @@ sudo apt upgrade
 ![Ubuntu WSL is being updated.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-installing-kdenlive.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Starting and Using Ubuntu
@@ -161,20 +148,27 @@ nohup program_name & disown
 
 ![Linux apps Kdenlive and Wireshark are running inside of Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-kdenlive-and-wireshark-open.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Alternatively, applications can be started from the Windows 11 start menu.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Integration with Windows 11
 
  When apps are installed through WSL, they integrate into Windows 11 quite well by installing themselves into the Windows 11 Start menu. To access your installed WSL programs from Windows 11, look through your programs. Each integrated application will have a Linux icon.
 
  The WSL integration with Windows 11 is quite good. However, keep in mind that not every single application is going to create a desktop icon. Sometimes, you may need to launch your Ubuntu programs directly from the terminal. You typically do this by typing its package name and hitting Enter.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Troubleshooting Common Setup Issues
 
@@ -203,19 +197,22 @@ wsl --update
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-journey-through-games-top-5-samsung-gear-vr-experiences/"><u>[Updated] 2024 Approved Journey Through Games - Top 5 Samsung Gear VR Experiences</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-effective-group-meetings-googles-top-solutions-4/"><u>[Updated] In 2024, Effective Group Meetings Google's Top Solutions (#4)</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-secrets-to-dominating-your-social-networks-featured-pages-for-2024/"><u>[Updated] Secrets to Dominating Your Social Network's Featured Pages for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-speeding-up-tiktoks-simple-techniques-for-faster-videos-for-2024/"><u>[Updated] Speeding Up TikToks Simple Techniques for Faster Videos for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-the-ultimate-key-to-flawless-tiktok-profile-hyperlinking-for-2024/"><u>[Updated] The Ultimate Key to Flawless TikTok Profile Hyperlinking for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-mix-of-soundtracks-and-visuals-adding-srt-to-mp4/"><u>[Updated] The Ultimate Mix of Soundtracks and Visuals Adding SRT to MP4</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-transformative-color-workflow-with-cg-central-luts/"><u>[Updated] Transformative Color Workflow with CG Central LUTs</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-maximizing-hd-quality-fb-live-broadcast-tips/"><u>2024 Approved Maximizing HD Quality FB Live Broadcast Tips</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-swift-action-on-slow-footage-with-best-apps/"><u>In 2024, Swift Action on Slow Footage with Best Apps</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-future-of-audio-srt-in-mp4-video-files/"><u>In 2024, The Future of Audio SRT in MP4 Video Files</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/prime-data-keepers-expert-top-10-selections-for-2024/"><u>Prime Data Keepers Expert Top 10 Selections for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/trends-in-remote-control-drones-syma-x8c-for-2024/"><u>Trends in Remote Control Drones Syma X8C for 2024</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/troubleshoot-mp4-videos-in-quicktime-proven-techniques-for-successful-playout/"><u>Troubleshoot MP4 Videos in QuickTime - Proven Techniques for Successful Playout</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-virtual-background-magic-a-streamers-guide-to-chroma-key-for-2024/"><u>Unveiling Virtual Background Magic A Streamer's Guide to Chroma Key for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-mp3-from-pinterest-video-files-with-these-steps/"><u>[New] Unlocking MP3 From Pinterest Video Files with These Steps</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-melodious-memories-capturing-songs-in-your-snaps/"><u>[Updated] 2024 Approved Melodious Memories Capturing Songs in Your Snaps</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-delving-into-backward-image-analysis-techniques-for-fb-users/"><u>[Updated] Delving Into Backward Image Analysis Techniques for FB Users</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-drones-decoded-an-owners-primer-for-first-time-buyers-for-2024/"><u>[Updated] Drones Decoded An Owner's Primer for First-Time Buyers for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-lens-legends-top-six-selecting-high-quality-4k-dslrs/"><u>[Updated] Lens Legends' Top Six Selecting High-Quality 4K DSLRs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-sound-savants-playbook-for-efficient-audible-records/"><u>[Updated] The Sound Savant's Playbook for Efficient Audible Records</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlock-the-potential-of-still-photos-through-video-creation-in-pixiz/"><u>[Updated] Unlock the Potential of Still Photos Through Video Creation in Pixiz</u></a></li>
+<li><a href="https://win-blog.techidaily.com/enjoy-uninterrupted-play-overwatch-and-graphics-driver-crashes-permanently-solved/"><u>Enjoy Uninterrupted Play: Overwatch & Graphics Driver Crashes Permanently Solved</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/how-to-record-webcam-and-screen-simultaneously/"><u>How to Record Webcam and Screen Simultaneously</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-break-free-from-conventions-advanced-distortion-art-in-photoshop/"><u>In 2024, Break Free From Conventions Advanced Distortion Art in Photoshop</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-integrating-vsco-into-social-media-strategy/"><u>In 2024, Integrating VSCO Into Social Media Strategy</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streaming-stations-beyond-ustream-reviews/"><u>In 2024, Streaming Stations Beyond Ustream Reviews</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-budget-friendly-filmmakers-dream/"><u>In 2024, The Budget-Friendly Filmmaker's Dream</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pinnacle-creations-synopsis-in-depth-studio-scrutiny-for-2024/"><u>Pinnacle Creations Synopsis In-Depth Studio Scrutiny for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/strategies-for-eye-catching-podcast-previews-for-2024/"><u>Strategies for Eye-Catching Podcast Previews for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transforming-flat-text-into-3d-masterpieces-photo-for-2024/"><u>Transforming Flat Text Into 3D Masterpieces PHOTO for 2024</u></a></li>
 </ul></div>
 

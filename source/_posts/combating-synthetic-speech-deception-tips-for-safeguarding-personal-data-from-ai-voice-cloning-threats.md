@@ -1,7 +1,7 @@
 ---
 title: "Combating Synthetic Speech Deception: Tips for Safeguarding Personal Data From AI Voice Cloning Threats"
-date: 2024-09-21T20:35:42.497Z
-updated: 2024-09-28T22:21:10.121Z
+date: 2024-10-02T17:09:27.803Z
+updated: 2024-10-04T20:43:14.871Z
 tags:
   - cutting-edge
 categories:
@@ -20,10 +20,10 @@ thumbnail: https://thmb.techidaily.com/d7bfa61b324ffaea9cbfc11e938036f2476668f1b
  Cloning someone's voice using AI is now easy enough even scammers can do it. People are already being victimized by this abuse of AI technology, but you don't have to be the next person to fall for the scam. Here's how you can beat them before they get you.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How Voice Cloning Scams Work
@@ -33,10 +33,16 @@ thumbnail: https://thmb.techidaily.com/d7bfa61b324ffaea9cbfc11e938036f2476668f1b
  By [misusing AI software tools](https://youtube-lab.techidaily.com/ed-crafting-visual-wonders-home-made-effects-demystified/) that can create voice profiles from, for example, videos someone might leave on social media, scammers can tap into our emotions to make us behave irrationally. This is already happening and will only increase in sophistication, so there's no better time to arm yourself with knowledge and strategies to combat this.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Signs That You're Being Scammed
@@ -57,10 +63,10 @@ thumbnail: https://thmb.techidaily.com/d7bfa61b324ffaea9cbfc11e938036f2476668f1b
  Then, if you ever receive an emergency call, you can just ask for the safe word and unless the scammer can somehow guess it, you'll stop the whole scam in its tracks.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Stop to Think
@@ -68,10 +74,10 @@ thumbnail: https://thmb.techidaily.com/d7bfa61b324ffaea9cbfc11e938036f2476668f1b
  A hallmark of scams, both old and new, is to stop you from having time to think. The less time we have to make decisions, the worse our decisions tend to be. They don't want you thinking too much or you might notice gaps in the story or realize you're being asked to do unreasonable or illogical things. So, once you're off the phone, take five minutes and just think about everything that's been said. Does it really all make sense?
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Get Third-Party Information Verification
@@ -97,16 +103,19 @@ thumbnail: https://thmb.techidaily.com/d7bfa61b324ffaea9cbfc11e938036f2476668f1b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-art-of-mastering-funimate/"><u>[New] The Art of Mastering Funimate</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-tiktok-top-ten-for-cutting-edge-content-creation/"><u>[New] TikTok Top Ten for Cutting-Edge Content Creation</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-tier-rankings-for-podcasts-a-seo-masterclass/"><u>[New] Top-Tier Rankings for Podcasts A Seo Masterclass</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/easy-instructions-for-viewing-webm-media-on-mac-computers-running-big-sur-and-earlier-os-releases/"><u>Easy Instructions for Viewing WebM Media on Mac Computers Running Big Sur & Earlier OS Releases</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/honoring-a-star-paul-walkers-filmography-and-his-enduring-impact-on-cinema/"><u>Honoring a Star: Paul Walker's Filmography and His Enduring Impact on Cinema</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-best-of-ice-artistry-2022-edition/"><u>In 2024, The Best of Ice Artistry 2022 Edition</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-charisma-of-jittery-text-2-methods-unleashed/"><u>In 2024, The Charisma of Jittery Text 2 Methods Unleashed</u></a></li>
-<li><a href="https://driver-error.techidaily.com/max-drives-alerts-on-win11-how-to-solve/"><u>Max Drives Alerts on Win11 - How to Solve</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/the-ultimate-list-of-top-25-no-cost-video-compression-tools-compatible-with-pc-and-mac/"><u>The Ultimate List of Top 25 No-Cost Video Compression Tools Compatible with PC & Mac</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-the-secrets-of-excellent-interview-and-journey-audio-recordings-for-2024/"><u>Unveiling the Secrets of Excellent Interview and Journey Audio Recordings for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/valves-move-to-curtail-misused-return-options/"><u>Valve's Move to Curtail Misused Return Options</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-connoisseurs-compendium-budget-friendly-photography-havens-for-2024/"><u>[New] Connoisseur's Compendium Budget-Friendly Photography Havens for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-art-of-customizing-windows-photos-app-intertwining-visuals-and-audio/"><u>[Updated] The Art of Customizing Windows Photos App Intertwining Visuals & Audio</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-premium-enhancements-guide-to-superior-terria/"><u>2024 Approved Premium Enhancements Guide to Superior Terria</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-android-slow-motion-video-magic/"><u>2024 Approved The Ultimate Guide to Android Slow Motion Video Magic</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/cooler-master-elevates-psu-game-with-new-lineup-offering-up-to-2000w-of-power/"><u>Cooler Master Elevates PSU Game with New Lineup Offering Up to 2000W of Power!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/crafting-cinematic-tales-in-documentary-scripts-for-2024/"><u>Crafting Cinematic Tales in Documentary Scripts for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-tecno-pova-5-s-lock-screen-pattern-pin-or-password-by-drfone-android-unlock-android-unlock/"><u>How to bypass Tecno Pova 5’s lock screen pattern, PIN or password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Oppo Reno 11 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-essentials-navigating-whatsapp-call-functionality/"><u>In 2024, The Essentials Navigating WhatsApp Call Functionality</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-50-must-try-virtual-bikes-for-riders-for-2024/"><u>The 50 Must-Try Virtual Bikes for Riders for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/toolwiz-app-in-focus-a-thorough-review-and-analysis-of-2023-features-for-2024/"><u>Toolwiz App in Focus - A Thorough Review and Analysis of 2023 Features for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-seo-potential-top-strategies-to-dominate-online-search-results-as-a-novice-for-2024/"><u>Unlocking SEO Potential Top Strategies to Dominate Online Search Results as a Novice for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-oppo-a38-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Oppo A38 Phone Network-Ready</u></a></li>
 </ul></div>
 

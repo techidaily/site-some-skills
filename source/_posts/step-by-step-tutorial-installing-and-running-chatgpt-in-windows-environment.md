@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Installing and Running ChatGPT in Windows Environment"
-date: 2024-09-22T19:03:02.489Z
-updated: 2024-09-29T08:10:32.704Z
+date: 2024-09-27T19:02:29.633Z
+updated: 2024-10-04T16:25:21.222Z
 tags:
   - cutting-edge
 categories:
@@ -18,6 +18,13 @@ thumbnail: https://thmb.techidaily.com/d0add7542260b37a87b432f388dbcfdf91f7a9a63
 * [How to Launch the Downloaded ChatGPT App](https://screen-activity-recording.techidaily.com/2024-approved-recordingrealm-expedition-unveiling-snapcastpro-2023/)
 * [How to Uninstall the ChatGPT App](https://screen-mirror.techidaily.com/how-to-cast-apple-iphone-se-2022-to-chromecast-drfone-by-drfone-ios/)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Use Chrome or Edge to turn ChatGPT's site into a native Windows app.
@@ -28,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/d0add7542260b37a87b432f388dbcfdf91f7a9a63
 
  To turn ChatGPT’s site into an app, you’ll use a built-in option in Chrome or Edge. This option turns any site you access in these web browsers into a Windows app. You can use either web browser, but Edge offers the option to change the app’s icon when you create the app.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Download ChatGPT Using Chrome
 
 [Launch Chrome on your PC](https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-m14-4g-phone-pattern-lock-without-factory-reset-by-drfone-android/) and access the [ChatGPT site](https://chatgpt.com/). Log in to your account on the site and get to the chat screen (where you send and receive messages).
@@ -36,34 +50,13 @@ thumbnail: https://thmb.techidaily.com/d0add7542260b37a87b432f388dbcfdf91f7a9a63
 
 !['Install Page as App' highlighted in Chrome.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1-chrome-install-chatgpt.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You’ll see an "Install This Page as an App" dialog box. To change the app’s name, click the text field and type a name. This name will appear wherever the app is listed. Then, click "Install."
 
 ![The text box and 'Install' highlighted in Chrome.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2-chrome-create-chatgpt-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Chrome will create and launch the app in a new window. You may now start using the app.
 
  Windows will display a notification asking if you want to [pin the app to the taskbar](https://tech-hub.techidaily.com/understanding-the-five-main-causes-of-chatgpt-prohibitions-in-businesses/). To do that, click "Yes." Otherwise, select "No, Thanks." And that’s it.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Download ChatGPT Using Edge
 
@@ -73,18 +66,24 @@ thumbnail: https://thmb.techidaily.com/d0add7542260b37a87b432f388dbcfdf91f7a9a63
 
 !['Install This Site as an App' highlighted in Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/3-edge-install-chatgpt.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  An "Install This Site as an App" dialog box will open. To change the app’s default name, click the text field and type a new name. To change the app’s icon, beneath the current icon, click "Edit." Then, choose an ICO or [PNG file](https://remote-screen-capture.techidaily.com/new-2024-approved-immortalize-your-gaming-adventures-on-pc-6-ways/) as the app icon. There's a [way to turn any image into an icon file](https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-motorola-razr-40-drfone-by-drfone-virtual-android/).
 
  Once that’s done, click "Install" to add the app to your PC.
 
 ![The text box and 'Install' highlighted in Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/4-edge-create-chatgpt-app.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  And that’s all.
 
@@ -95,13 +94,6 @@ thumbnail: https://thmb.techidaily.com/d0add7542260b37a87b432f388dbcfdf91f7a9a63
  Open the Start Menu, search for **ChatGPT** (or whatever name you used), and click the app in the search results.
 
 ![ChatGPT highlighted in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/5-launch-chatgpt-app.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To pin the app to the Start Menu or the taskbar, right-click the app in the search results and choose "Pin to Start" or "Pin to Taskbar." This allows you to launch the app quickly and conveniently.
 
@@ -121,9 +113,23 @@ thumbnail: https://thmb.techidaily.com/d0add7542260b37a87b432f388dbcfdf91f7a9a63
 
 !['Uninstall' highlighted for ChatGPT in Windows 10 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/8-delete-chatgpt-windows-10-settings.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you made the app with Chrome, you can [use Control Panel to uninstall the app](https://video-screen-grab.techidaily.com/updated-mastering-video-best-practices-in-game-recording-and-streaming-for-2024/) [as well](https://video-screen-grab.techidaily.com/updated-mastering-video-best-practices-in-game-recording-and-streaming-for-2024/). To do that, navigate to Control Panel > Uninstall a Program. Find and select the ChatGPT app and choose "Uninstall" at the top. Click "Remove" in the prompt.
 
 ![ChatGPT and 'Uninstall' highlighted in Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/9-uninstall-chatgpt-control-panel.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  And that’s how you create, launch, and remove ChatGPT’s Windows version from your computer. Have a good time using your favorite AI tool!
 
@@ -142,17 +148,18 @@ thumbnail: https://thmb.techidaily.com/d0add7542260b37a87b432f388dbcfdf91f7a9a63
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-mp3-from-tweeted-media-a-step-by-step-guide/"><u>[New] 2024 Approved MP3 From Tweeted Media A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-strategic-insights-to-amplify-your-spotify-ad-reach/"><u>[New] Strategic Insights to Amplify Your Spotify Ad Reach</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-metaverse-advertising-playbook/"><u>[Updated] The Ultimate Metaverse Advertising Playbook</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-strategies-for-success-in-the-metaverse-space/"><u>2024 Approved Strategies for Success in the Metaverse Space</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-nubia-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Nubia</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-the-boundaries-of-mobile-connectivity-with-metro-by-t-mobile/"><u>Exploring the Boundaries of Mobile Connectivity with Metro by T-Mobile</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/free-downloads-how-to-legally-get-spanish-music-online/"><u>Free Downloads: How to Legally Get Spanish Music Online</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/harmonize-visuals-and-melodies-in-facebook-media-posts/"><u>Harmonize Visuals & Melodies in Facebook Media Posts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/harnessing-ai-7-tricks-that-work-wonders/"><u>Harnessing AI: 7 Tricks That Work Wonders</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-digital-aids-to-supercharge-your-video-subtitles-accuracy/"><u>In 2024, Top Digital Aids to Supercharge Your Video Subtitles' Accuracy</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-future-of-presentations-text-conversion-powered-by-speech-for-2024/"><u>The Future of Presentations Text Conversion Powered by Speech for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-new-frontier-understanding-ars-role-for-2024/"><u>The New Frontier Understanding AR's Role for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-quest-for-perfect-balance-top-gimbals-in-dronescapes/"><u>[New] The Quest for Perfect Balance Top Gimbals in Dronescapes</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-engaging-oratory-insights-part-8-for-2024/"><u>[Updated] Engaging Oratory Insights Part 8 for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-trendsetting-images-their-histories/"><u>2024 Approved Trendsetting Images Their Histories</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unpacking-the-essentials-mastering-adobes-storage-solutions-and-their-rival-alternatives/"><u>2024 Approved Unpacking The Essentials Mastering Adobe's Storage Solutions & Their Rival Alternatives</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-worlds-in-virtual-reality-tours/"><u>2024 Approved Unveiling Worlds in Virtual Reality Tours</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/easy-conversion-guide-transforming-avi-files-into-popular-formats-such-as-mp4-mov-and-more/"><u>Easy Conversion Guide: Transforming AVI Files Into Popular Formats Such as MP4, MOV & More</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-nubia-z50s-pro-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Nubia Z50S Pro Quickly | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-for-call-of-duty-black-ops-4-failed-startup-issues/"><u>Fixes for Call of Duty Black Ops 4 Failed Startup Issues</u></a></li>
+<li><a href="https://change-location.techidaily.com/honor-70-lite-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor 70 Lite 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-economical-video-editing-solutions-for-beginners-and-pros-for-2024/"><u>New Economical Video Editing Solutions for Beginners and Pros for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/revolutionary-computer-tech-built-for-ultimate-air-cooling-with-powerful-central-fan-taming-centrifugal-force/"><u>Revolutionary Computer Tech: Built for Ultimate Air Cooling with Powerful Central Fan, Taming Centrifugal Force</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-writers-toolkit-dialogue-and-narration-techniques-for-success-for-2024/"><u>The Writer's Toolkit Dialogue and Narration Techniques for Success for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-on-apple-iphone-14-plus-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 14 Plus?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Kickstart Your Workday Effortlessly with a Handy Mac Shortcut!
-date: 2024-09-23T19:05:35.395Z
-updated: 2024-09-29T02:16:43.472Z
+date: 2024-09-28T21:34:51.086Z
+updated: 2024-10-04T20:27:23.279Z
 tags:
   - desktop
 categories:
@@ -20,10 +20,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  I’ve played around with [Apple’s Shortcuts app](https://win-solutions.techidaily.com/expert-tips-for-when-you-cant-get-far-cry-6-running-on-your-desktop/) to create all kinds of complicated processes. But my favorite shortcut, and the one I use the most by far, is actually ridiculously simple. All it does is open all my work apps, but I recommend it to everyone.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Makes This Shortcut So Great
@@ -41,10 +41,10 @@ Your browser does not support the video tag.
  But enough waxing lyrical about why I love this shortcut, here’s how to try it for yourself. Honestly, it couldn’t be easier.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Create a Shortcut That Opens All Your Work Apps
@@ -64,10 +64,10 @@ Close
 ![Several actions to open apps in a Mac Shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/several-actions-to-open-apps-in-a-mac-shortcut.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  At the top of the Shortcuts window, type a name for your shortcut. I call mine “Start Working.” Then click the icon to edit the color and symbol if you want. Finally, click the Shortcut Details button in the top-right corner, shown by an “i” button, to choose how to launch this shortcut. I like to enable“Pin to Menu Bar” so I can run it from the menu bar with a couple of clicks, but you could create a keyboard shortcut if you prefer.
@@ -95,24 +95,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-choosing-the-best-camera-for-filming-mirrorless-or-dslr/"><u>[New] In 2024, Choosing the Best Camera for Filming Mirrorless or DSLR</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-toolwiz-photos-app-complete-review/"><u>[New] Toolwiz Photos App – Complete Review</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-superior-mkv-player-pcandroid-experience/"><u>[Updated] Superior MKV Player PC/Android Experience</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-the-essential-handbook-of-personal-branding-mastering-facebook-biographies/"><u>[Updated] The Essential Handbook of Personal Branding - Mastering Facebook Biographies</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-tune-your-chat-status-tune-it-right/"><u>[Updated] Tune Your Chat Status, Tune It Right</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unleash-marketing-potential-through-strategy-boxing/"><u>[Updated] Unleash Marketing Potential Through Strategy Boxing</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-nighttime-luminosity-on-iphone-photos/"><u>2024 Approved Nighttime Luminosity on iPhone Photos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-understanding-optimal-frames-per-second-in-cinema-slow-mo/"><u>2024 Approved Understanding Optimal Frames Per Second in Cinema Slow-Mo</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-motorola-edge-2023-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Motorola Edge 2023 by Name | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-poco-m6-pro-5g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Poco M6 Pro 5G PC | Dr.fone</u></a></li>
-<li><a href="https://win-web.techidaily.com/discover-the-fate-of-microsofts-complimentary-windows-11-update-initiative-insights-and-news/"><u>Discover the Fate of Microsoft's Complimentary Windows 11 Update Initiative - Insights & News</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Oppo Reno 8T 5G | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-guide-to-use-luts-in-premiere-pro/"><u>In 2024, Guide to Use LUTs in Premiere Pro</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-understanding-the-foundation-of-motion-visualization/"><u>In 2024, Understanding the Foundation of Motion Visualization</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-14-pro-max-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 14 Pro Max Without Passcode Easily</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-logitee-g933-microphone-issue-effective-solutions-and-tips/"><u>Solving the Logitee G933 Microphone Issue: Effective Solutions and Tips</u></a></li>
-<li><a href="https://some-skills.techidaily.com/subtitle-extraction-from-zip-archives-the-srt-solution-for-2024/"><u>Subtitle Extraction From ZIP Archives – The Srt Solution for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/sweeten-your-messaging-top-phrases-to-impact-audiences-for-2024/"><u>Sweeten Your Messaging Top Phrases to Impact Audiences for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-6-must-have-chatgpt-plugins-to-enhance-your-visual-studio-code-experience/"><u>Top 6 Must-Have ChatGPT Plugins to Enhance Your Visual Studio Code Experience</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-creative-constructs-top-6-minimalist-mini-mansions-for-2024/"><u>[New] Creative Constructs Top 6 Minimalist Mini-Mansions for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-microsofts-glimpse-into-augmented-reality-the-hololens-journey/"><u>[New] Microsoft’s Glimpse Into Augmented Reality – The HoloLens Journey</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-reinstate-windows-photo-viewer-on-windows-10-dual-fixes-explained/"><u>[New] Reinstate Windows Photo Viewer on Windows 10 Dual Fixes Explained</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-secrets-of-squaring-up-making-square-format-videos-with-imovie-for-instagram/"><u>[New] The Secrets of Squaring Up Making Square-Format Videos with iMovie for Instagram</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-30-metaverse-gems-diy-meme-ideas-unleashed/"><u>[New] Top 30 Metaverse Gems DIY Meme Ideas Unleashed</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-top-studio-screening-shorts/"><u>[Updated] 2024 Approved Top Studio Screening Shorts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-mi-drone-4k-experience/"><u>[Updated] The Ultimate Guide to Mi Drone 4K Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-top-tiktok-edit-techniques-for-max-impact/"><u>[Updated] Unveiling Top TikTok Edit Techniques for Max Impact</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-organizing-overflow-of-tiktok-saves-for-effective-edits/"><u>2024 Approved Organizing Overflow of TikTok Saves for Effective Edits</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unbeatable-5-photo-backdrop-switchers-for-x8-series/"><u>2024 Approved Unbeatable 5 Photo Backdrop Switchers for X/8 Series</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-samsung-galaxy-a05s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimized-asus-usb-bt400-for-windows-107-users/"><u>Optimized ASUS USB-BT400 for Windows 10/7 Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/sift-through-these-top-9-online-portals-of-intricate-3d-letterforms-for-2024/"><u>Sift Through These Top 9 Online Portals of Intricate 3D Letterforms for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/taming-figmas-backgrounds-a-comprehensive-guide-for-2024/"><u>Taming Figma's Backgrounds A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/techniques-for-accelerating-playback-on-spotify-for-2024/"><u>Techniques for Accelerating Playback on Spotify for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleash-the-potential-effective-pip-use-on-microsoft-edge-browser-for-2024/"><u>Unleash the Potential Effective PIP Use on Microsoft Edge Browser for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/unveiling-digiartys-exclusive-commemorative-offer-for-its-18-years-of-innovation/"><u>Unveiling Digiarty's Exclusive Commemorative Offer for Its 18 Years of Innovation</u></a></li>
 </ul></div>
 

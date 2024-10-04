@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Linking Your Xbox Gamepad to Windows Computer"
-date: 2024-09-27T05:01:23.571Z
-updated: 2024-09-28T21:30:01.692Z
+date: 2024-10-02T20:46:31.945Z
+updated: 2024-10-04T16:01:48.139Z
 tags:
   - desktop
 categories:
@@ -18,13 +18,6 @@ thumbnail: https://thmb.techidaily.com/c8166e8b96eec7a32e2c5447a156a34a01b3ade6d
 * [How to Connect an Xbox Wireless Controller with an Xbox Wireless Adapter](https://youtube-lab.techidaily.com/e-stock-images-directly-from-trusted-4-youtube-vids-for-2024/)
 
  You can connect any Xbox controller to your Windows PC, including the latest Xbox Wireless Controller and the premium Elite lineup. You can choose between a wireless connection and a wired connection using a USB cable, depending on your setup.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Connect an Xbox Controller to a PC Using a USB Cable
 
@@ -49,15 +42,22 @@ Xbox
 ![Settings in the Windows 10 Start menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/settings.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In Settings, click "Devices."
 
 ![Windows 10 Settings Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/devices-1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In Devices, make sure that you're on the "Bluetooth & Other Devices" page, and then click "Add Bluetooth or other device."
 
@@ -77,13 +77,6 @@ Xbox
 
 ![Front view of the Xbox Wireless Controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/xbox-pair.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Xbox](https://www.xbox.com/en-US/accessories/controllers/xbox-wireless-controller-usb-c)
 
  On your computer, click "Xbox Wireless Controller" when it appears in the "Add a Device" list.
@@ -99,10 +92,10 @@ Xbox
  When you're done playing, it'll turn off automatically after a while, but you can also [turn the Xbox controller off](https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-google-pixel-fold-drfone-by-drfone-virtual/) manually to save battery life. To do this, press and hold the Xbox button or pop the batteries out.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Connect an Xbox Wireless Controller with an Xbox Wireless Adapter
@@ -112,10 +105,10 @@ Xbox
 ![The Xbox Wireless adapter next to a controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/wirelsss-adapter.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Xbox](https://www.xbox.com/en-US/accessories/controllers/xbox-wireless-controller-adapter-windows)
@@ -125,6 +118,19 @@ Xbox
  The controller will automatically connect to your computer through the Xbox Wireless Adapter. If that doesn't work, go over the same steps for connecting the controller via Bluetooth, but instead of selecting "Bluetooth" under "Add a Device," select "Everything Else" to connect the controller to your PC via the adapter.
 
 ![The Bluetooth settings showing the "Add a device" window in WIndows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/adapter-bluetooth-settings.png) 
+
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -145,18 +151,18 @@ Xbox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-directory-where-to-download-youtube-ringtones/"><u>[New] Ultimate Directory Where to Download YouTube Ringtones?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-all-inclusive-guide-what-is-googles-podcast-service/"><u>[Updated] All-Inclusive Guide What Is Google's Podcast Service?</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-beat-your-song-into-success-with-fb-top-vids-guide/"><u>[Updated] Beat Your Song Into Success with FB Top Vids Guide</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-livestreaming-pre-recorded-content-seamlessly-on-fb-for-2024/"><u>[Updated] Livestreaming Pre-Recorded Content Seamlessly on FB for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlock-your-creativity-with-top-title-methods/"><u>[Updated] Unlock Your Creativity with Top Title Methods</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/ace-your-gameplay-tackling-and-correcting-centurys-age-of-ashes-pc-malfunctions/"><u>Ace Your Gameplay: Tackling and Correcting Century's 'Age of Ashes' PC Malfunctions</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-honor-magic-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Honor Magic 5 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Nokia G310 | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-picks-amplifying-vhs-pictures-via-computer-software/"><u>In 2024, Top Picks Amplifying VHS Pictures via Computer Software</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transformative-podcast-branding-through-logo-artistry/"><u>In 2024, Transformative Podcast Branding Through Logo Artistry</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-diverse-windows-movie-maker-versions/"><u>In 2024, Unveiling Diverse Windows Movie Maker Versions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/uncovering-notable-versions-within-microsofts-movie-maker-for-2024/"><u>Uncovering Notable Versions Within Microsoft's Movie Maker for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleash-flawless-gameplay-combat-apex-legends-freezes/"><u>Unleash Flawless Gameplay: Combat Apex Legends Freezes</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-5-best-gba-emulators-for-pc-that-hook-you-up/"><u>[Updated] 2024 Approved 5 Best GBA Emulators for PC That Hook You Up</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-time-travelers-guide-mastering-video-speed-adjustment/"><u>[Updated] Time Traveler's Guide Mastering Video Speed Adjustment</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-navigating-cross-platform-shares-igtv-and-facebook/"><u>2024 Approved Navigating Cross-Platform Shares IGTV & Facebook</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-resource-compilation-for-media-imagery/"><u>2024 Approved Ultimate Resource Compilation for Media Imagery</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-future-of-marketing/"><u>2024 Approved Unveiling the Future of Marketing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-top-10-techniques-live-cricket-broadcasting/"><u>2024 Approved Unveiling Top 10 Techniques Live Cricket Broadcasting</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/experience-fun-on-the-waves-with-the-propella-7s-40-a-light-agile-and-budget-friendly-choice/"><u>Experience Fun on the Waves with the Propella 7S 4.0: A Light, Agile and Budget-Friendly Choice!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-fix-for-non-functional-minecraft-local-area-network-gaming/"><u>Mastering the Fix for 'Non-Functional Minecraft Local Area Network Gaming'</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/movavimp3-3g2/"><u>Movaviの無料オンラインで簡単なMP3変換: 3G2ファイルを使って</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-tools-that-makes-your-laptops-os-change-more-manageable/"><u>Top Tools that Makes Your Laptop's OS Change More Manageable</u></a></li>
+<li><a href="https://some-skills.techidaily.com/value-in-the-air-the-cheapest-yet-effective-drones-for-2024/"><u>Value in the Air The Cheapest Yet Effective Drones for 2024</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/xml-path-selector-editor-a-comprehensive-guide/"><u>XML Path Selector Editor: A Comprehensive Guide</u></a></li>
 </ul></div>
 

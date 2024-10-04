@@ -1,7 +1,7 @@
 ---
 title: "Boost Productivity Fast: Efficiently Start Programs via Keyboard Triggers on Windows 11"
-date: 2024-09-26T23:41:33.744Z
-updated: 2024-09-29T05:36:37.981Z
+date: 2024-09-27T17:07:31.868Z
+updated: 2024-10-04T19:51:38.999Z
 tags:
   - deals
 categories:
@@ -20,6 +20,13 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 
  If you access particular Windows apps regularly, it can take time to launch them by rummaging through the Start menu. Handily, Windows 11 lets you create custom keyboard shortcuts to quickly open your favorite programs.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Use Taskbar Shortcuts to Open Apps
 
  One of the [awesome features of the Windows 11 taskbar](https://extra-hints.techidaily.com/brighten-your-iphones-nighttime-recordings/) is the ability to pin your frequently used applications to it. Once pinned, you can use the Windows+AppNumber shortcut to launch it. Here, "AppNumber" is the order in which the app appears on the taskbar.
@@ -27,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
  To pin an app to the taskbar, search for the program in the Start menu, right-click it, and select "Pin to Taskbar". Alternatively, find the program in File Explorer, then hold the Shift key and right-click it, and select "Pin to Taskbar."
 
 ![Pinning an app to the Taskbar on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/pin-to-taskbar-2.jpeg) 
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once pinned to the taskbar, click and drag the icons to move them to a different position.
 
@@ -46,10 +46,10 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 ![Windows 11 with the Steam app pinned to the Taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/windows-steam-taskbar-1.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  While this method is fairly simple, its biggest drawback is that you can only use the taskbar shortcuts for a maximum of ten applications, with Win+0 being the key combination to launch the tenth.
@@ -62,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 
 ![Creating a shortcut of an app on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/create-shortcut-1.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Right-click on the newly created shortcut and select "Properties" to open another window.
 
 ![A screenshot of Windows 11 depicting the Properties option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/windows-11-properties-1.jpeg) 
@@ -70,28 +77,15 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 
 ![Setting a shortcut key from the Properties window on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/properties-shortcut-key.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To remove a shortcut, press the Delete key within the "Shortcut Key" field.
 
  You can change "Ctrl + Alt" to "Shift + Alt" if you hold those keys while pressing your other desired key. Overall, though, this method is a bit limiting because you don't have complete control over the keys used.
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Use PowerToys to Open Apps
@@ -120,16 +114,16 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 
 ![AutoHotkey with the 'New Script' option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/autohotkey-new-script.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next, give your script a name and select the "Edit" button.
 
 ![A screenshot of AutoHotkey with the Name and Edit options highlighted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/autohotkey-name.jpeg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Choose Notepad (or a development environment of your choosing, if you're an advanced user) as the code editor and press "OK."
 
@@ -175,16 +169,24 @@ Run "C:\Program Files (x86)\Steam\steam.exe"
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-favorite-list-ideal-mac-devices-for-video-grabbing-for-2024/"><u>[New] Favorite List Ideal Mac Devices for Video Grabbing for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-top-social-media-hash-tracking-software-fb-tweet-and-ig-edition/"><u>[New] In 2024, Top Social Media Hash Tracking Software FB, Tweet & IG Edition</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-mirth-in-monotony-the-top-20-fb-detention-reprieve-humor-for-2024/"><u>[New] Mirth in Monotony The Top 20 Fb Detention Reprieve Humor for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/tep-into-the-future-youtubes-best-vr-experiences/"><u>[New] Step Into the Future YouTube's Best VR Experiences</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-5-ways-to-transfer-files-to-your-computer/"><u>[Updated] 5 Ways To Transfer Files To Your Computer</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-srt-potential-mac-edition-tutorial/"><u>[Updated] Unlocking SRT Potential Mac Edition Tutorial</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-success-with-effective-video-praise-techniques/"><u>[Updated] Unlocking Success with Effective Video Praise Techniques</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-your-cheat-sheet-for-auditing-friends-vibrant-livestrances/"><u>2024 Approved Your Cheat Sheet for Auditing Friends’ Vibrant Livestrances</u></a></li>
-<li><a href="https://win-answers.techidaily.com/bypassing-the-persistent-launch-hurdle-in-far-cry-5/"><u>Bypassing the Persistent Launch Hurdle in Far Cry 5</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/streamlining-visual-enhancements-via-luts-in-pro-for-2024/"><u>Streamlining Visual Enhancements via LUTs in Pro for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-your-image-picsart-bg-erasure-technique-for-2024/"><u>Unveiling Your Image Picsart Bg Erasure Technique for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-unlock-your-hero5-expert-guides-to-stunning-images-and-movies/"><u>[New] In 2024, Unlock Your Hero5 Expert Guides to Stunning Images & Movies</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streaming-selection-saga-choose-between-engaging-podcasts-and-youtube-channels/"><u>[New] Streaming Selection Saga Choose Between Engaging Podcasts and YouTube Channels</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-best-gopro-hero5-black-batteries-and-chargers-official-and-3rd-party/"><u>[New] The Best GoPro Hero5 Black Batteries and Chargers Official and 3Rd Party</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-total-circles-capture-systems/"><u>[New] Total Circles Capture Systems</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-10-proven-methods-for-boosting-fb-search-rankings/"><u>[Updated] 10 Proven Methods for Boosting FB Search Rankings</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-adventure-seekers-choice-black-hero5-or-star-sj7/"><u>[Updated] Adventure Seekers Choice Black Hero5 or Star SJ7?</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-ranked-the-fastest-growing-youtube-platforms-for-encouragement-for-2024/"><u>[Updated] Ranked The Fastest Growing YouTube Platforms for Encouragement for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-future-of-sound-design-magix-music-makers-latest-upgrade-for-2024/"><u>[Updated] The Future of Sound Design Magix Music Maker's Latest Upgrade for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-tiktok-to-twitter-strategy-for-maximum-engagement/"><u>[Updated] TikTok-to-Twitter Strategy for Maximum Engagement</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-rated-components-for-smooth-live-transmissions/"><u>[Updated] Top-Rated Components for Smooth Live Transmissions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-the-potential-comprehensive-analysis-of-dji-phantom-4/"><u>[Updated] Unlocking the Potential Comprehensive Analysis of DJI Phantom 4</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-image-quality-a-newbies-comprehensible-guide/"><u>[Updated] Unveiling Image Quality A Newbie's Comprehensible Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-basic-framework-of-tech-driven-narratives/"><u>2024 Approved Basic Framework of Tech-Driven Narratives</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-streamline-screen-capabilities-building-in-frame-video-experiences-on-sierra/"><u>2024 Approved Streamline Screen Capabilities Building In-Frame Video Experiences on Sierra</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-redmi-note-12-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi Redmi Note 12 5G to Outlook | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/important-update-for-prime-video-users-no-more-watch-parties/"><u>Important Update for Prime Video Users: No More Watch Parties!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-understanding-the-powerhouse-inside-apples-m1-chip/"><u>In 2024, Understanding the Powerhouse Inside Apple's M1 Chip</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-artisans-guide-to-blending-visuals-and-melodies-in-canvas-videos-for-2024/"><u>The Artisan's Guide to Blending Visuals & Melodies in Canvas Videos for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-layers-intricate-analysis-of-vegas-pro-21-for-2024/"><u>Unveiling the Layers Intricate Analysis of Vegas Pro '21 for 2024</u></a></li>
 </ul></div>
 

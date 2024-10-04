@@ -1,7 +1,7 @@
 ---
 title: Solve Your Wi-Fi Woes! A Guide to Restoring Internet Access in Windows 11 with 10 Effective Tips
-date: 2024-09-23T08:45:47.787Z
-updated: 2024-09-29T06:34:54.303Z
+date: 2024-10-01T20:31:54.768Z
+updated: 2024-10-04T16:24:37.450Z
 tags:
   - deals
 categories:
@@ -33,10 +33,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Does your device appear connected to Wi-Fi, but you cannot access the internet? Have you encountered a message like "No Internet Access" This indicates a problem with your router, device settings, or a potential technical issue with your ISP. Take these steps to resolve the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Ensure the Problem Isn't With Your ISP
@@ -69,6 +69,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The button to set up a manual proxy on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/manual-proxy-setup-windows-11.jpeg) 
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Disconnect Other Wi-Fi Networks
 
  Your laptop might be connected to a Wi-Fi network that's disconnected from the internet, which could be why you don't have internet access. Windows laptops automatically switch to the fastest available network, and your device may have automatically switched to a different Wi-Fi network.
@@ -81,6 +94,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Forgetting an old network in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-forgetting-an-old-network-in-the-windows-settings-app.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Remove the Data Limit
 
 [Windows allows users to restrict their data usage](https://fox-http.techidaily.com/2024-approved-clever-ways-to-neglect-edge-academy-vids/), which is especially useful if they have a limited data plan or their ISP charges them based on data usage. When this limit is reached, internet access is disabled even though the device appears to be connected to Wi-Fi. To check this, navigate to Network and Internet > Advanced Network Settings > Data Usage.
@@ -88,29 +108,30 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Opening the data usage settings in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/opening-the-data-usage-settings-in-the-windows-settings-app.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To remove the set data limit, click the "Remove Limit" button and click "Remove" in the pop-up.
 
 ![Removing the data usage limit from the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/5-removing-the-data-usage-limit-from-the-windows-settings-app.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Users can also set data limits on their phones (for hotspot connections) or within their router settings. Ensure that data usage is not limited there either.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Run the Network and Internet Troubleshooter
@@ -121,59 +142,26 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Next, click the "Run" button next to Network and Internet. Windows will open the Get Help app, which will guide you through instructions to identify and fix the problem.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Ensure the IP Address Isn't Invalid
 
  If you've [manually added an IP address](https://extra-support.techidaily.com/retrospective-on-the-goofy-movie-a-comprehensive-review-for-2024/) and started experiencing issues afterward, the address might be invalid. Configure your device to automatically obtain the IP address to prevent this possibility. Open the Settings app and go to Network and Internet > Advanced Network Settings. Expand your Wi-Fi network and open "View Additional Properties."
 
 ![Opening the additional properties of a Wi-Fi network in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-opening-the-additional-properties-of-a-wi-fi-network-in-the-windows-settings-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Confirm that IP Assignment and DNS Server Assignment are set to "Automatic ([DHCP](https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-12-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/))." If they are, you're good to go.
 
 ![Checking the IP assignment and DNS server assignment settings in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-checking-the-ip-assignment-and-dns-server-assignment-settings-in-the-windows-settings-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you see a manual entry, click the "Edit" button, select "Automatic (DHCP)" from the dropdown menu, and then click "Save."
 
 ![Settings the DNS server assignment to automatic in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4-settings-the-dns-server-assignment-to-automatic-in-the-windows-settings-app.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Update the Network Adapter Driver
 
@@ -197,18 +185,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Resetting the network settings in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-resetting-the-network-settings-in-the-windows-settings-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Run a Few Commands in the Command Prompt
 
  If none of the previously mentioned solutions resolve the issue, run a few commands in Command Prompt to [flush the DNS cache](https://article-helps.techidaily.com/updated-in-2024-sightline-synopsis-study/), release and renew the IP address, and reset rules and network records. Type **cmd** in the Windows Search bar, and click on "Run as Administrator."
 
 !['Run as Administrator' highlighted for Command Prompt in the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/12-open-cmd-as-admin.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After that, input each of the following commands one by one and press the Enter key after adding each one:
 
@@ -237,17 +225,19 @@ ipconfig /flushdns`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-tiktok-captioning-guide-adding-descriptive-texts/"><u>[New] 2024 Approved TikTok Captioning Guide Adding Descriptive Texts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-find-youtube-sponsorships-by-using-famebit-for-2024/"><u>[Updated] How to Find YouTube Sponsorships by Using FameBit for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-techniques-for-tidying-up-image-backdrops/"><u>[Updated] Techniques for Tidying Up Image Backdrops</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-enable-two-step-verification-on-your-icloud-email-account/"><u>How To Enable Two-Step Verification on Your iCloud Email Account</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-install-and-activate-revo-app-manager-revouninstaller/"><u>How to Install and Activate Revo App Manager - RevoUninstaller</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Infinix Smart 7 | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-step-by-step-to-effortless-iphone-screen-recording/"><u>In 2024, Step-by-Step to Effortless IPhone Screen Recording</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-steps-to-record-a-timelapse-video-on-ipad/"><u>In 2024, Steps to Record a Timelapse Video on iPad</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-swift-transfer-methods-getting-files-onto-computers/"><u>In 2024, Swift Transfer Methods Getting Files Onto Computers</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-the-essential-2023-techniques-for-ios-screen-recording/"><u>In 2024, The Essential 2023 Techniques for iOS Screen Recording</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-list-premium-voice-modifiers-for-virtual-creators/"><u>In 2024, Ultimate List Premium Voice Modifiers for Virtual Creators</u></a></li>
-<li><a href="https://some-skills.techidaily.com/trendsetters-pictures-origins-explored-for-2024/"><u>Trendsetters' Pictures Origins Explored for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-tweetpic-puller-extract-visuals-from-twitter-feed/"><u>[New] TweetPic Puller Extract Visuals From Twitter Feed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-expert-techniques-for-capturing-minute-details-on-video/"><u>[Updated] Expert Techniques for Capturing Minute Details on Video</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-financials-of-boosting-your-youtube-videos/"><u>[Updated] The Financials of Boosting Your YouTube Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-crafting-exceptional-instagram-ringtone-alerts-a-compreeved-guide/"><u>2024 Approved The Art of Crafting Exceptional Instagram Ringtone Alerts A Compreeved Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-poco-m6-pro-4g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Poco M6 Pro 4G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-itel-a60-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-artistic-edge-premium-text-tools-for-adobe-after-effects/"><u>In 2024, The Artistic Edge Premium Text Tools for Adobe After Effects</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-fundamentals-crafting-your-podcasts-rss-feed/"><u>In 2024, The Fundamentals Crafting Your Podcast's RSS Feed</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-unraveling-top-6-your-guide-to-free-and-favored-shorts-downloaders/"><u>In 2024, Unraveling Top 6 Your Guide to Free & Favored Shorts Downloaders</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-v29-pro-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo V29 Pro Phone FRP Lock</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-protecting-identities-top-video-editing-tools-for-face-blurring/"><u>New Protecting Identities Top Video Editing Tools for Face Blurring</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/strategies-for-efficiently-configuring-facebooks-instream-ads-for-2024/"><u>Strategies for Efficiently Configuring Facebook's Instream Ads for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-editors-dream-becomes-reality-a-close-look-at-vida-for-2024/"><u>The Editor's Dream Becomes Reality A Close Look at Vida for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-exactly-constitutes-a-dual-display-in-gaming-technology/"><u>What Exactly Constitutes a ‘Dual’ Display in Gaming Technology?</u></a></li>
 </ul></div>
 

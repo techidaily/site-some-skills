@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Easily Setting Up & Controlling Fonts on macOS"
-date: 2024-09-26T03:12:12.117Z
-updated: 2024-09-28T18:08:01.628Z
+date: 2024-09-27T17:05:34.106Z
+updated: 2024-10-04T18:31:21.502Z
 tags:
   - desktop
 categories:
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 
  macOS Sonoma can handle many font types, like OpenType, Mac TrueType, Windows TrueType, bitmap, and dfont. As of macOS Catalina, Mac doesn't support PostScript fonts.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to View Your Fonts in Font Book
 
  The Font Book app is your go-to tool for checking out the fonts you have, adding new ones, organizing them into collections, and turning them on or off. Open it through your Applications folder, or select the Launchpad icon in your Dock and find the Font Book icon there.
@@ -39,9 +46,23 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 
 ![Grid view in Font Book.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-20-at-5-59-10-pm-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2\. Samples View:** Want a closer look? Choose View > View As Samples or press ⌘+2\. Each font appears in a full-width preview with a "The quick brown fox..." sentence example. You can't see many fonts at once, but it's great for checking out how each font looks in practice.
 
 ![Samples view in Font Book.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-20-at-6-05-00-pm.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3\. List View:** For a details-first approach, go to View > View As List or press ⌘+3\. This sorts your fonts into a list, with font families in expandable sections, similar to folders in Finder. Click to expand or collapse them.
 
@@ -60,10 +81,10 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 ![The installation screen of a new font on Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2cc-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you prefer installing a font from Font Book, go to File > Add Fonts (or press ⌘+O). A window opens where you can choose the font(s) you want to install. Once ready, click "Open."
@@ -76,36 +97,15 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 
 ![Selecting All Users from Font Book's Installation menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-12-at-2-55-14-pm.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Deactivate or Remove a Font
 
  If you don't want a font to be selectable across your system, it's simple. Find it in Font Book, right-click it, and select "Deactivate." If you change your mind, repeat the steps but select "Activate."
 
 ![The deactivate option in Font Book.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-12-at-2-57-58-pm.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Alternatively, to delete it entirely, select "Remove." However, note that Font Book won't let you deactivate or delete any fonts that macOS needs to operate, like Arial, Times New Roman, and Avenir.
 
  If any font starts misbehaving, like displaying incorrect characters, you can [validate your fonts in Font Book](https://on-screen-recording.techidaily.com/in-2024-speaking-like-a-pro-tips-to-upgrade-your-google-meet-skills/). Just select "Validate" from the context menu.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Organize Your Fonts Into Collections
 
@@ -116,10 +116,10 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 ![Creating a new font collection.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-24-at-1-07-32-am.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Select the fonts you want to include in your collection (you can choose them from an existing collection, if needed.) To do that, click and drag to highlight multiple fonts, or use the Command key to select non-contiguous fonts. Then, drag the fonts to the collection, or right-click and use the "Add to" menu.
@@ -151,24 +151,24 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/-bundle-of-nine-premium-holiday-treasures-watch-for-free-on-youtube/"><u>[New] A Bundle of Nine Premium Holiday Treasures Watch for Free on YouTube</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-snap-snip-and-compile-instantaneous-google-image-art/"><u>[New] Snap, Snip & Compile Instantaneous Google Image Art</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-acid-pro-effect-exploring-similar-tools/"><u>[New] The ACID Pro Effect Exploring Similar Tools</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-achieving-vibrant-colors-srgb-techniques/"><u>[Updated] Achieving Vibrant Colors Srgb Techniques</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-laughter-ledger-ranking-the-highest-viral-jokes/"><u>[Updated] Laughter Ledger Ranking the Highest Viral Jokes</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-top-voice-transformation-tools-for-personal-use/"><u>[Updated] Top Voice Transformation Tools for Personal Use</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/2024-approved-how-to-terminate-your-own-discord-server-pcmobile/"><u>2024 Approved How to Terminate Your Own Discord Server (PC/Mobile)</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-maximizing-meeting-impact-with-effective-snap-usage/"><u>2024 Approved Maximizing Meeting Impact with Effective Snap Usage</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-taking-flight-to-better-photos-an-intensive-look-at-dji-sparks-miniature-design/"><u>2024 Approved Taking Flight to Better Photos An Intensive Look at DJI Spark's Miniature Design</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-dimming-down-soundtracks-in-premiere-pro/"><u>2024 Approved The Ultimate Guide to Dimming Down Soundtracks in Premiere Pro</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transform-into-a-hdr-photography-wizard-via-photoshop/"><u>2024 Approved Transform Into a HDR Photography Wizard via Photoshop</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-converters-handbook-from-srt-to-multiple-formats/"><u>2024 Approved Ultimate Converter's Handbook From SRT to Multiple Formats</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-oppo-find-x7-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Oppo Find X7 Devices</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-vivo-y78plus-t1-edition-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Vivo Y78+ (T1) Edition Devices</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-superlative-frame-storyteller-bundle/"><u>In 2024, Superlative Frame Storyteller Bundle</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-skyborne-duo-faceoff-dji-mavic-pro-and-gopro-karma/"><u>In 2024, The Skyborne Duo Faceoff DJI Mavic Pro & GoPro Karma</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-list-of-accessibility-8-premium-free-mp3-grabber-apps-android/"><u>In 2024, Ultimate List of Accessibility 8 Premium Free MP3 Grabber Apps (Android)</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/launching-videos-efficiently-with-free-intros/"><u>Launching Videos Efficiently with FREE Intros</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/the-best-video-editing-software-for-mac-besides-pinnacle-studio-for-2024/"><u>The Best Video Editing Software for Mac (Besides Pinnacle Studio) for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-essential-methods-for-documenting-overwatch-games/"><u>[New] 2024 Approved Essential Methods for Documenting Overwatch Games</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-the-cutting-edge-without-costs-navigating-through-these-8-tools/"><u>[New] In 2024, The Cutting Edge Without Costs - Navigating Through These 8 Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transforming-drones-into-cinematic-experiences-with-editing/"><u>[New] Transforming Drones Into Cinematic Experiences with Editing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unrivaled-handwear-elevate-your-vr-world/"><u>[New] Unrivaled Handwear Elevate Your VR World</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-filmmakers-choice-selecting-perfect-lenses-for-youtube-creation/"><u>[Updated] In 2024, Filmmaker's Choice Selecting Perfect Lenses for YouTube Creation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transforming-photos-into-videos-an-experts-complete-tutorial-series/"><u>[Updated] Transforming Photos Into Videos An Expert's Complete Tutorial Series</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tricks-for-non-engagement-with-edgenuity-video-content/"><u>[Updated] Tricks for Non-Engagement with Edgenuity Video Content</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/asus-chromebook-flip-c302ca-affordable-and-versatile-laptop-with-impressive-performance/"><u>Asus Chromebook Flip C302CA - Affordable & Versatile Laptop with Impressive Performance</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719580633810-dive-into-dialect-diversity-get-a-staggering-95-off-languages-this-year/"><u>Dive Into Dialect Diversity - Get a Staggering 95% Off Languages This Year!</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/expertly-curated-facebooks-1-10-plays-for-2024/"><u>Expertly Curated Facebook's #1-#10 Plays for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/from-beginner-to-pro-the-essential-guide-to-capturing-your-mac-display-for-2024/"><u>From Beginner to Pro The Essential Guide to Capturing Your Mac Display for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-persistent-sound-dropouts-on-your-windows-11-device/"><u>How to Fix Persistent Sound Dropouts on Your Windows 11 Device</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-best-of-free-and-paid-8-ranked-android-videomosaic-apps-explored/"><u>In 2024, The Best of Free & Paid #8 Ranked Android Videomosaic Apps Explored</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-pubg-presence-with-new-sounds/"><u>In 2024, Transform Your PUBG Presence with New Sounds</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723001697353-stop-guilty-gear-strive-from-crashing-on-your-pc-essential-fixes-revealed/"><u>Stop Guilty Gear Strive From Crashing on Your PC - Essential Fixes Revealed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/streamline-the-age-update-process-on-tiktok-for-2024/"><u>Streamline the Age Update Process on TikTok for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-allure-vs-warnings-of-virtual-reality-worlds-for-2024/"><u>The Allure vs Warnings of Virtual Reality Worlds for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-and-science-of-crafting-your-ideal-podcast-naming-for-2024/"><u>The Art & Science of Crafting Your Ideal Podcast Naming for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-s17t-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo S17t Device</u></a></li>
 </ul></div>
 

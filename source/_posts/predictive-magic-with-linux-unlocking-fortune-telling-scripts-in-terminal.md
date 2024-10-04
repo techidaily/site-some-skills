@@ -1,7 +1,7 @@
 ---
 title: "Predictive Magic with Linux: Unlocking Fortune-Telling Scripts in Terminal"
-date: 2024-09-23T07:53:20.809Z
-updated: 2024-09-28T21:55:31.612Z
+date: 2024-10-03T19:02:03.815Z
+updated: 2024-10-04T21:29:39.592Z
 tags:
   - desktop
 categories:
@@ -18,6 +18,13 @@ thumbnail: https://thmb.techidaily.com/10904fe0da235375b0e6b719e293bea0266e1856f
 * For additional fun, you could pipe a fortune with cowsay, or display a random fortune every time you launch your terminal.
 
  Ever thought your terminal could be a source of daily wisdom or humor? It's true! With the fortune command, you can receive a random quote, joke, or piece of advice every time you execute it. Whether you're working or enjoying a break, a short fortune can lift your mood and encourage new ideas.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What Is the fortune Command?
 
@@ -47,20 +54,6 @@ fortune
 
 ![Running fortune command in Linux terminal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/fortune-command.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  fortune Options
 
  When you run a fortune without any arguments, it randomly selects an epigram from the fortune's database. However, it also comes with several options that let you enhance your experience. Let's check out some of them:
@@ -84,6 +77,13 @@ fortune literature
  You can also combine multiple options together, such as if you want a short, offensive quote from the literature category, run this:
 
 fortune -s -o literature
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Create Your Own fortune File
 
@@ -122,13 +122,32 @@ fortune funny
 ![Displaying random saying from your newly created fortune file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/fotune-command-custom.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Every time you run the command, one of your hand-crafted fortunes will appear.
+
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Combine fortune and cowsay for Extra Fun
 
@@ -145,16 +164,10 @@ fortune | cowsay
 ![Piping fortune output to cowsay command to display random saying along with ASCII art.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/fortune-cowsay.png) 
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Check it out! You've got a cow dispensing wisdom right there in your terminal. Just what you always wanted!
@@ -172,10 +185,10 @@ fortune | cowsay -f tux | lolcat
 ![Making the ouptut of fortune and cowsay colorful using the lolcat command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/cowsay-linux-lolcat-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  View Fortune on Terminal Startup
@@ -192,13 +205,6 @@ fortune | cowsay
 
 ![Adding fortune command along with cowsay to the end of bashrc file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/fortune-cowsay-bashrc-file.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This will ensure that every time you open your terminal, you'll see a fortune delivered by a cow.
 
  After saving changes, press Ctrl+X to exit the editor. To see the changes happen, you can either [restart your terminal](https://data-wizards.techidaily.com/formatting-your-macs-storage-simplified-an-instructional-video/) or execute:
@@ -213,13 +219,6 @@ source ~/.bashrc
 
 ![Adding new fortune command with tux ASCII art to the end of bashrc file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/terminal-fortune-tux.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Use Fortune for Testing
 
  Beyond its entertainment or enlightening uses, the fortune command has a few hidden applications. For example, you can often use it to generate random text files that are very useful for testing scripts and various commands.
@@ -233,6 +232,13 @@ fortune > file1
 cat file1
 
 ![Viewing the file using the cat command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/viewing-file-with-cat.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you want to append multiple fortunes to the same file, you can do so in a loop.
 
@@ -267,21 +273,17 @@ fortune | wc -c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-comprehensive-guide-to-skype-meeting-recording/"><u>[New] In 2024, Comprehensive Guide to Skype Meeting Recording</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-most-popular-vr-game-experiences-on-oculus/"><u>[New] The Most Popular VR Game Experiences on Oculus</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-strategy-for-selecting-a-premium-stream-service/"><u>[New] The Ultimate Strategy for Selecting a Premium Stream Service</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transformative-audio-techniques-srt-conversion-mastery/"><u>[New] Transformative Audio Techniques SRT Conversion Mastery</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-unlocking-viewership-steps-for-your-video-to-be-a-top-pick-on-vimeo-for-2024/"><u>[New] Unlocking Viewership Steps for Your Video to Be a Top Pick on Vimeo for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unveiling-paid-content-in-product-analysis/"><u>[New] Unveiling Paid Content in Product Analysis</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-gamers-unleashed-top-10-female-youtubers/"><u>[Updated] Gamers Unleashed Top 10 Female YouTubers</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-jumpstart-your-fandom-top-10-music-videos-on-facebook-unveiled/"><u>[Updated] Jumpstart Your Fandom Top 10 Music Videos on Facebook Unveiled</u></a></li>
-<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-poco-f5-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Poco F5 5G to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/eliminate-fps-drops-and-freezes-in-call-of-dutys-overwatched-gameplay-on-pc-tips-for-the-modern-player/"><u>Eliminate FPS Drops & Freezes in Call of Duty's Overwatched Gameplay on PC - Tips for the Modern Player</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/free-online-converter-transform-mxf-into-avi-format-with-movavi/"><u>Free Online Converter - Transform MXF Into AVI Format with Movavi</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-use-chatgpt-to-create-a-presentation/"><u>How to Use ChatGPT to Create a Presentation</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-secrets-to-splendid-windows-11-backdrops/"><u>In 2024, Secrets to Splendid Windows 11 Backdrops</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-alarm-choices-best-download-junctions/"><u>In 2024, Top Alarm Choices Best Download Junctions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-traverse-times-tapestry-with-public-domain-art/"><u>In 2024, Traverse Time's Tapestry with Public Domain Art</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unfailing-focus-top-tripods-for-iphone-and-android-cameras-for-2024/"><u>Unfailing Focus Top Tripods for iPhone & Android Cameras for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-ultimate-guide-to-action-film-snapshotting/"><u>[New] 2024 Approved Ultimate Guide to Action Film Snapshotting</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-sync-up-success-sharing-youtube-on-ig-stories/"><u>[New] Sync Up Success Sharing YouTube on IG Stories</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-in-depth-evaluation-of-the-next-gen-slomo-video-tool/"><u>[New] The In-Depth Evaluation of the Next-Gen SloMo Video Tool</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-a-new-era-for-cameras-exploring-the-multicam-revolution/"><u>[Updated] A New Era for Cameras Exploring the MultiCam Revolution</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-craft-and-share-360-videos-to-youtube-an-essential-guide-for-creators-for-2024/"><u>[Updated] Craft and Share 360 Videos to YouTube An Essential Guide for Creators for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-plan-to-grow-your-subscriber-base/"><u>[Updated] The Ultimate Plan to Grow Your Subscriber Base</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-secrets-of-jaunt-vr/"><u>[Updated] Unveiling the Secrets of Jaunt VR</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-valorants-finest-voice-modder-accessible-at-no-cost/"><u>2024 Approved Valorant's Finest Voice Modder – Accessible at No Cost</u></a></li>
+<li><a href="https://fox-info.techidaily.com/accurate-ranking-top-10-gratuitous-srt-file-tools/"><u>Accurate Ranking Top 10 Gratuitous Srt File Tools</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-honor-x50iplus-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Honor X50i+ Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-honor-100-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Honor 100 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-undead-humor-engine/"><u>In 2024, Undead Humor Engine</u></a></li>
 </ul></div>
 
