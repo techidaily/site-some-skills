@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Boosting Graphics Performance with Hardware-Accelerated GPU Scheduling in Windows"
-date: 2024-09-29T18:04:28.988Z
-updated: 2024-10-04T18:03:29.715Z
+date: 2024-10-04T03:42:01.762Z
+updated: 2024-10-09T23:28:26.681Z
 tags:
   - desktop
 categories:
@@ -28,10 +28,10 @@ thumbnail: https://thmb.techidaily.com/c055207526e0593f6267057e6bfa17ba8927fb82b
  Windows 10 and Windows 11 come with an advanced setting, called Hardware-Accelerated GPU Scheduling, which can [boost gaming](https://tiktok-videos.techidaily.com/unleash-potential-in-tiktok-videos-free-editors-for-mac/) and video performance using your PC's GPU. We'll show you how to enable the feature and thereby potentially get a performance increase.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Is Hardware-Accelerated GPU Scheduling?
@@ -45,13 +45,6 @@ thumbnail: https://thmb.techidaily.com/c055207526e0593f6267057e6bfa17ba8927fb82b
  If you have a supported graphics card, it's a good idea to enable GPU scheduling as it helps improve your computer's overall performance. You'll likely see performance improvements when you're running resource-intensive tasks, such as video editing or gaming.
 
  The only reason you shouldn't use this feature is if you experience any issues after enabling it. If your apps suddenly stop working or you have [graphics-related problems](https://video-capture.techidaily.com/new-essential-scripting-instant-stopwatch-integration-in-obs-for-2024/) after turning it on, then GPU scheduling is best left disabled. Fortunately, disabling the feature after testing it is as easy as turning it on. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  What You'll Need to Make This Feature Work
 
@@ -74,16 +67,16 @@ thumbnail: https://thmb.techidaily.com/c055207526e0593f6267057e6bfa17ba8927fb82b
 ![Open the Settings app, then click "Settings."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-system.png) 
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In the sidebar on the left, click "Display."
@@ -94,15 +87,22 @@ thumbnail: https://thmb.techidaily.com/c055207526e0593f6267057e6bfa17ba8927fb82b
 
 ![Click "Graphics Settings" under the "Display" section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-graphics-settings.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  On the following screen, toggle on the "Hardware-Accelerated GPU Scheduling" option.
 
 ![Click the toggle to enable GPU scheduling.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/4-click-toggle.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To disable the feature in the future, simply toggle off the "Hardware-Accelerated GPU Scheduling" option again.
@@ -140,10 +140,16 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers
 ![Select the 'System' tab, then click 'Display.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1-13.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  From the "Related Settings" section, select "Graphics."
@@ -154,16 +160,16 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers
 
 ![Select' Change Default Graphics Settings.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/3-10.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then, toggle on the switch under "Hardware-Accelerated GPU Scheduling" and select "Yes" from the User Access Control prompt that shows up.
 
 ![Click the toggle under Hardware-accelerated GPU scheduling.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/4-10.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you decide you want to disable GPU scheduling later, simply toggle off the "Hardware-Accelerated GPU Scheduling" option.
 
@@ -188,19 +194,24 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-crafting-a-captivating-periscope-livestream/"><u>[New] 2024 Approved Crafting a Captivating Periscope Livestream</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-exploring-ways-to-share-youtube-videos-on-social-media-platforms-fb/"><u>[New] In 2024, Exploring Ways to Share YouTube Videos on Social Media Platforms (FB)</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-premier-moba-experiences-on-your-android-device/"><u>[New] In 2024, Premier MOBA Experiences on Your Android Device</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-leading-list-where-to-find-gamers-music-without-costs/"><u>[New] The Leading List Where to Find Gamers' Music Without Costs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-funimate-unraveled-your-path-to-mastery/"><u>[Updated] Funimate Unraveled Your Path to Mastery</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-pc-games-memory-freeze-and-capture-6-ways-to-win/"><u>[Updated] In 2024, PC Games Memory - Freeze and Capture 6 Ways to Win</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-reverse-silent-tweets-audible-video-connection/"><u>[Updated] Reverse Silent Tweets Audible Video Connection</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2022s-pinnacle-moments-in-snowboarding-x/"><u>2022'S Pinnacle Moments in Snowboarding X</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-revised-take-on-s3700-sony-bdp-review/"><u>2024 Approved Revised Take on S3700 Sony BDP Review</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-swift-top-tier-photo-viewing-app/"><u>2024 Approved Swift Top-Tier Photo Viewing App</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-oneplus-nord-ce-3-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-fundamentals-of-compelling-documentary-screenplay/"><u>In 2024, The Fundamentals of Compelling Documentary Screenplay</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tailoring-your-story-a-guide-to-crafting-engaging-podcast-episodes-for-2024/"><u>Tailoring Your Story A Guide to Crafting Engaging Podcast Episodes for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/understanding-whatsapps-sound-conversations-for-2024/"><u>Understanding WhatsApp's Sound Conversations for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-cultivate-classics-essential-farming-game-lists/"><u>[New] In 2024, Cultivate Classics Essential Farming Game Lists</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-telegrams-wonders-for-marketers-beginning-their-journey/"><u>[New] Telegram’s Wonders for Marketers Beginning Their Journey</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-guide-to-generating-ideal-youtube-titles-on-a-shoestring/"><u>[New] The Ultimate Guide to Generating Ideal YouTube Titles on a Shoestring</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transforming-gifs-to-stickers-comprehensive-instruction-for-messaging-apps/"><u>[New] Transforming GIFs to Stickers Comprehensive Instruction for Messaging Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-understanding-cloud-pricing-models-and-savings-strategies/"><u>[New] Understanding Cloud Pricing Models & Savings Strategies</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-why-hdr-is-a-game-changer-for-video-enthusiasts-and-professionals/"><u>[New] Why HDR Is a Game-Changer for Video Enthusiasts and Professionals</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/solved-fallout-76-crash-issues/"><u>[Solved] Fallout 76 Crash Issues</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/10-proven-techniques-for-skyrocketing-social-media-supporters-for-2024/"><u>10 Proven Techniques for Skyrocketing Social Media Supporters for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transform-your-content-simple-steps-to-change-numbers-on-tiktok/"><u>2024 Approved Transform Your Content Simple Steps to Change Numbers on TikTok</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/deciphering-shadows-how-to-get-rid-of-a-black-screen-while-playing-re8-on-pc/"><u>Deciphering Shadows: How to Get Rid of a Black Screen While Playing RE8 on PC</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/easy-techniques-for-ripping-and-playing-dvds-on-ios-gadgets/"><u>Easy Techniques for Ripping and Playing DVDs on iOS Gadgets</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transforming-viewers-experience-with-onestream-broadcasts/"><u>In 2024, Transforming Viewers' Experience with OneStream Broadcasts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-triumph-through-film-the-top-10-motivating-titles/"><u>In 2024, Triumph Through Film The Top 10 Motivating Titles</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/professional-typewriters-dream-the-ultimate-guide-to-the-lofree-flow-mechanical-keyboard-review/"><u>Professional Typewriter's Dream: The Ultimate Guide to the Lofree Flow Mechanical Keyboard Review</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/quick-hacks-for-ensuring-visual-discretion-in-photos/"><u>Quick Hacks for Ensuring Visual Discretion in Photos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/streamlining-conferencing-using-zoom-to-extend-skype-capabilities-for-2024/"><u>Streamlining Conferencing Using Zoom to Extend Skype Capabilities for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-clear-cut-strategy-for-image-border-management-on-canva-for-2024/"><u>The Clear-Cut Strategy for Image Border Management on Canva for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/the-social-scribes-guide-to-funny-tweets-and-memes-2024-edition/"><u>The Social Scribe's Guide to Funny Tweets & Memes, 2024 Edition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-secrets-of-crafting-perfect-audio-for-videos-for-2024/"><u>Unveiling the Secrets of Crafting Perfect Audio for Videos for 2024</u></a></li>
 </ul></div>
 

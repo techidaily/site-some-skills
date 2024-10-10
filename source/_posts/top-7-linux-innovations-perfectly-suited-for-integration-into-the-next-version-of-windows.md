@@ -1,7 +1,7 @@
 ---
 title: Top 7 Linux Innovations Perfectly Suited for Integration Into the Next Version of Windows
-date: 2024-09-29T19:56:18.468Z
-updated: 2024-10-04T17:59:50.874Z
+date: 2024-10-05T02:16:10.035Z
+updated: 2024-10-10T01:44:48.259Z
 tags:
   - desktop
 categories:
@@ -22,6 +22,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [KDE Activities](https://screen-mirror.techidaily.com/overview-of-the-best-google-pixel-8-pro-screen-mirroring-app-drfone-by-drfone-android/)
 
  Windows 12 is still in development, giving us time to make some demands. For inspiration, let's look at Linux, the underdog of desktop computing. Here are 7 surprisingly advanced, quality-of-life features that Linux offers, and Windows 12 should definitely steal them.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  No Ads in the User Interface
 
@@ -54,10 +61,17 @@ Close
 ![Image of Arc Menu Extension and Menu Layout Variations on Ubuntu 22.04](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/3-image-of-arc-menu-extension-and-menu-layout-variations-on-ubuntu-22-04.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Widgets on the Desktop
@@ -70,13 +84,6 @@ Close
 
  If you can’t wait for Windows 12 and whether it will or will not introduce desktop widgets, you can use Rainmeter to display helpful information straight on your desktop.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Automatic Window Tiling
 
  Window Tiling is a technical term for organizing all open windows on your screen to prevent overlapping. This can make your desktop cleaner and more productive.
@@ -86,20 +93,6 @@ Close
  So let’s make this perfect with Windows 12 with support for automatic window tiling or auto-tiling. Of course, it will be an optional feature that you can enable/disable. If enabled, every time you open a new window, it'll automatically arrange itself in a non-overlapping grid-like pattern. So, one app opens full screen, two apps split the screen 50/50, and more apps divide the screen proportionally (in a predefined manner) without overlap. Linux has had this feature for ages. Here’s how auto-tiling looks on Pop\_OS!
 
 ![Pop!_OS in-built Tiling Window functionality auto-tiling two windows side by side.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/pop-_os-in-built-tiling-window-functionality.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Options to Customize the Taskbar
 
@@ -111,6 +104,13 @@ Close
 
  The ability to move the taskbar again would be a great start. On top of that, different Taskbar variations, like a floating one or a minimized one similar to the Mac Dock, would really help users to personalize their personal computers.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  A More Integrated Virtual Desktop Experience
 
  Virtual desktops are a great way to organize open apps and boost productivity. Microsoft introduced them to Windows 10 and improved their overall experience with [Windows 11](https://hardware-tips.techidaily.com/mastering-tech-essentials-at-toms-hardware-source/).
@@ -121,18 +121,18 @@ Close
 
 ![Image Showing Ubuntu 22.04 Activities Overview](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/9-image-showing-ubuntu-22-04-activities-overview.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  At the top, there’s a row of mini windows for all open virtual desktops (Workspaces). You can click to switch between them. The center shows your current desktop with all open apps. On the left, the Ubuntu Dash (similar to Windows' Taskbar) lets you drag and drop apps to any virtual desktop.
 
  Additionally, the [Workspace Indicator](https://visual-screen-recording.techidaily.com/2024-approved-instantaneous-screen-logger-for-chrome/) extension adds a virtual desktop switcher to the panel, allowing you to switch and move apps between desktops directly from the panel without opening the Activities Overview.
 
 ![Ubuntu 22.04 Panel based Virtual Desktop switcher](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/10-ubuntu-22-04-panel-based-virtual-desktop-switcher.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  KDE Activities
 
@@ -163,21 +163,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-master-the-art-of-live-content-utilizing-wirecast-for-fb/"><u>[New] 2024 Approved Master the Art of Live Content Utilizing Wirecast for FB</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-step-by-step-techniques-for-computer-based-photo-filtering/"><u>[New] Step-By-Step Techniques for Computer-Based Photo Filtering</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-streamline-photos-via-iphone-size-adjustment/"><u>[New] Streamline Photos via iPhone Size Adjustment</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-audio-excellence-in-ios-settings/"><u>[New] Unlocking Audio Excellence in iOS Settings</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-streamlined-approach-transforming-your-audio-impression-in-pubg/"><u>[Updated] Streamlined Approach Transforming Your Audio Impression in PUBG</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-essence-of-burst-in-gopro-filming-techniques/"><u>[Updated] The Essence of Burst in GoPro Filming Techniques</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726224947973-movavii-tod-mov/"><u>在線MOVAvii 自由解碼器 - 完全免費的 TOD 到 MOV 影片格式變更</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-guide-on-the-samsung-galaxy-fit-perfect-match-for-health-conscious-users/"><u>Comprehensive Guide on the Samsung Galaxy Fit – Perfect Match for Health-Conscious Users</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-essential-game-streamers-for-your-watchlist/"><u>In 2024, Essential Game Streamers for Your Watchlist</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Xiaomi Redmi Note 13 5G? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-understanding-the-financial-demands-of-music-video-production/"><u>In 2024, Understanding the Financial Demands of Music Video Production</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-your-creative-potential-expert-led-audio-transition-workshops-in-audacity/"><u>In 2024, Unleashing Your Creative Potential Expert-Led Audio Transition Workshops in Audacity</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-list-of-online-video-reversal-software-for-2024/"><u>New The Ultimate List of Online Video Reversal Software for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/philips-hf3505-wake-up-light-review/"><u>Philips HF3505 Wake-Up Light Review</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-tips-for-choosing-a-high-quality-4k-camera-lens-for-2024/"><u>Top Tips for Choosing a High-Quality 4K Camera Lens for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1723808008865-windows-10-update-assistant-what-is-it-and-how-to-uninstall-it/"><u>Windows 10 Update Assistant - What Is It and How to Uninstall It</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-survey-spectrum-of-video-and-film-equipment/"><u>[New] Survey Spectrum of Video and Film Equipment</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-essential-iphone-hdr-photography-skills/"><u>[Updated] The Essential iPhone HDR Photography Skills</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-your-shots-with-ease-in-photoshop/"><u>2024 Approved Transforming Your Shots with Ease in Photoshop</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-10-free-programs-for-restoring-vintage-photographs-with-artificial-intelligence/"><u>Best 10 Free Programs for Restoring Vintage Photographs with Artificial Intelligence</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-toms-electronics-hub-your-go-to-source-for-cutting-edge-devices/"><u>Exploring Tom's Electronics Hub - Your Go-To Source for Cutting-Edge Devices</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-oppo-find-x7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-a-step-by-step-guide-to-snapchats-boomerang-magic/"><u>In 2024, A Step-by-Step Guide to Snapchat's Boomerang Magic</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-optimizing-your-video-call-zoom-and-fb-live-integration/"><u>In 2024, Optimizing Your Video Call ZOOM & FB Live Integration</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-hardware-solutions-with-toms-guidance/"><u>Mastering Hardware Solutions with Tom's Guidance</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-mp4-video-editing-software-for-windows-8-fast-and-reliable-solution/"><u>New MP4 Video Editing Software for Windows 8 Fast and Reliable Solution</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/top-security-accessories-for-webcams/"><u>Top Security Accessories for Webcams</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-realme-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Realme</u></a></li>
 </ul></div>
 

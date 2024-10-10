@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Accessing Your Recent Copied Items in macOS"
-date: 2024-10-02T20:25:59.833Z
-updated: 2024-10-04T16:12:03.196Z
+date: 2024-10-06T03:29:21.350Z
+updated: 2024-10-09T18:19:52.711Z
 tags:
   - desktop
 categories:
@@ -25,28 +25,15 @@ thumbnail: https://thmb.techidaily.com/2dd2e24a58c5be887d5c8f88ca29fd663a35485ed
 
 ![Show clipboard in Finder in macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/show-clipboard-in-finder-in-macos.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can't interact with the clipboard in any way, and it mostly shows text. If you copy a file, it will show the filename, although if you copy something like a part of an image (but not the image file itself), it will show you that instead.
 
 ![The Finder clipboard view in macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/the-finder-clipboard-view-in-macos.png) 
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The clipboard viewer is a [useful Finder feature](https://remote-screen-capture.techidaily.com/in-2024-low-cost-android-calls-highest-ranking-options/) that can be handy if you simply need to check what's on the clipboard right now, especially if you do a lot of [copying and pasting on your Mac](https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-itel-s23plus-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/). But it's pretty limited otherwise.
@@ -62,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/2dd2e24a58c5be887d5c8f88ca29fd663a35485ed
 ![The Maccy website homepage](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/the-maccy-home-page.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  By default, the app saves the last 200 items copied to your clipboard for easy access, and you adjust that up or down to suit your needs. It doesn't just handle text, but the minimalist interface means that that's what it's best suited for. You access the contents of your clipboard via a drop-down list on your menu bar.
@@ -75,10 +62,10 @@ thumbnail: https://thmb.techidaily.com/2dd2e24a58c5be887d5c8f88ca29fd663a35485ed
 ![Maccy preferences](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/maccy-preferences.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can now use the app as a full clipboard replacement. Just click the icon in the menu bar to see a list of all the items you've recently copied. There are keyboard shortcuts assigned to the latest nine items on the list; otherwise, just find the item in the list and click it to paste it into a document. There's also a search box to help you find what you're looking for.
@@ -93,6 +80,13 @@ thumbnail: https://thmb.techidaily.com/2dd2e24a58c5be887d5c8f88ca29fd663a35485ed
 
 ![Pasty interface visible at the top of a macOS desktop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/pasty-places-a-bar-across-the-top-of-your-screen-when-activated.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Pasty provides a straightforward onboarding process when you first launch it that helps to get the app set up as you need it.
 
  Like Maccy, it works primarily via an icon in the menu bar, but when you click it, it opens a panel across the top of your screen showing you large thumbnails of all your copied content.
@@ -101,18 +95,18 @@ thumbnail: https://thmb.techidaily.com/2dd2e24a58c5be887d5c8f88ca29fd663a35485ed
 
 ![The Pasty clipboard history viewer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/the-pasty-clipboard-history-viewer.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  What makes Pasty more useful, though, is its support for "Spaces." These are essentially folders in which you can keep clipboard items and are perfect if you're a power user who needs to stay organized.
 
  While everything you copy gets listed under History by default, you can create Spaces for projects you're working on, different types of content, and so on, to make them easier to find when you need them. You can create up to three Spaces in the free version (and an unlimited number if you pay), and then just drag and drop items from your clipboard into them.
 
 ![Assigning content from the clipboard into a Space on Pasty](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/drag-and-drop-into-spaces-in-pasty.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Pasty also has some useful privacy features, including the ability to pause the app for a set time, to exclude specific apps from having content copied to the clipboard, and to automatically clear the clipboard after anywhere from an hour to a year.
 
@@ -135,22 +129,16 @@ thumbnail: https://thmb.techidaily.com/2dd2e24a58c5be887d5c8f88ca29fd663a35485ed
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-bite-sized-tips-for-aspiring-video-editors/"><u>[New] 2024 Approved Bite-Sized Tips for Aspiring Video Editors</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-gigglegridiron-craft-memes-from-anywhere-anytime/"><u>[New] 2024 Approved GiggleGridiron Craft Memes From Anywhere, Anytime</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-reimagine-your-messaging-creating-unique-whatsapp-tones/"><u>[New] Reimagine Your Messaging Creating Unique WhatsApp Tones</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-handheld-stabilizers-to-elevate-your-vlogging-game/"><u>[New] Top Handheld Stabilizers to Elevate Your Vlogging Game</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-handbook-ios-photo-alignment-and-cloud-synchronization/"><u>[Updated] The Ultimate Handbook IOS Photo Alignment & Cloud Synchronization</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-transformative-audio-techniques-srt-conversion-mastery/"><u>[Updated] Transformative Audio Techniques SRT Conversion Mastery</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-editing-techniques-for-final-cut-pro-professionals/"><u>[Updated] Ultimate Editing Techniques for Final Cut Pro Professionals</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-easy-way-to-craft-your-digital-self-in-virtual-worlds/"><u>2024 Approved The Easy Way to Craft Your Digital Self in Virtual Worlds</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Vivo V29 | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-samsung-galaxy-m14-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Samsung Galaxy M14 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-7-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 7 Without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-gionee-f3-pro-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Gionee F3 Pro without App | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streamsmart-beyond-the-dacast-shell/"><u>In 2024, StreamSmart Beyond the DaCast Shell</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/interactive-flash-features-for-readers-on-flipbook-creator-flipbuilder-get-started-today/"><u>Interactive Flash Features for Readers on FlipBook Creator (FlipBuilder) – Get Started Today!</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/run-faster-with-the-garmin-forerunner-45-in-depth-gps-tracker-review/"><u>Run Faster with the Garmin Forerunner ˈ45: In-Depth GPS Tracker Review</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-20-zero-cost-pubg-visual-anthologies-for-2024/"><u>Top 20 Zero-Cost PUBG Visual Anthologies for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unleash-the-artistry-of-impressive-gopro-timelapse-videos-for-2024/"><u>Unleash the Artistry of Impressive GoPro Timelapse Videos for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-cinematography-simplified-fades-made-easy/"><u>[New] 2024 Approved Cinematography Simplified Fades Made Easy</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-giggle-generation-top-ten-templates-for-viral-effect/"><u>[New] Giggle Generation Top Ten Templates for Viral Effect</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-gradual-sound-escalation-auditions-guide-to-fades/"><u>[Updated] The Gradual Sound Escalation Audition’s Guide to Fades</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-windows-mobile-video-playback-guide/"><u>[Updated] The Ultimate Windows Mobile Video Playback Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-6s-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 6s</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-add-my-signature-to-xlb-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How do i add my signature to .xlb files</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-syncing-with-symphonies-music-on-whatsapp-status/"><u>In 2024, Syncing with Symphonies Music on WhatsApp Status</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-gopro-studio-ultimate-video-edits-step-by-step/"><u>Mastering GoPro Studio Ultimate Video Edits Step-by-Step</u></a></li>
+<li><a href="https://driver-install.techidaily.com/release-notice-updated-drivers-from-amd-graphics/"><u>Release Notice: Updated Drivers From AMD Graphics</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/solve-hdmi-sound-problems-when-connecting-laptop-to-tvmonitor/"><u>Solve HDMI Sound Problems When Connecting Laptop to TV/Monitor</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-canon-photos-gratuitous-fundamentals-plus-optional-lut-expansion-for-2024/"><u>Transform Canon Photos Gratuitous Fundamentals + Optional LUT Expansion for 2024</u></a></li>
 </ul></div>
 

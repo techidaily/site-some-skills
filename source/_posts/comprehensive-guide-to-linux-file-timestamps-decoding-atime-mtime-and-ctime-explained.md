@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Linux File Timestamps – Decoding Atime, Mtime, and Ctime Explained
-date: 2024-10-02T19:33:40.041Z
-updated: 2024-10-04T17:14:25.405Z
+date: 2024-10-05T01:22:48.798Z
+updated: 2024-10-09T18:09:45.585Z
 tags:
   - desktop
 categories:
@@ -42,13 +42,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  So, how many seconds can be stored in a timestamp? A lot—2,147,483,647, to be precise. That's a big number, but is it enough? If you add that to the Unix epoch, and then translate it to a date and time, you get Tuesday, January 19, 2038, at 03:14:07 a.m. We'll need a different scheme for timestamps before then, though.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Viewing Timestamps
 
  When you use the -l (long listing) option with ls, as shown below, [you can see the modified timestamp](http://man7.org/linux/man-pages/man1/ls.1.html):
@@ -65,6 +58,13 @@ ls -lc dp.c
 
 ![ls -l dp.c in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/1-7.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The timestamps above show the file's contents were last modified on April 21, 2019\. The access and changed timestamps are identical because the file was copied from another computer to this one on January 20, 2020, and both timestamps were updated at that time.
 
  To [see all timestamps simultaneously](http://man7.org/linux/man-pages/man1/stat.1.html), use the stat command as follows:
@@ -72,13 +72,6 @@ ls -lc dp.c
 stat dp.c
 
 ![stat dp.c in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/2-7.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The time zones are listed at the bottom of the display. As you can see, they have a very accurate, fractional seconds component. At the end of each timestamp, you also see a -0500 or -0400 .
 
@@ -91,10 +84,10 @@ stat dp.c
  You also see a "Birth" timestamp, which is reserved for the creation date of the file. This is not implemented, and you see a hyphen "-" instead of a timestamp.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Changing Timestamps
@@ -142,10 +135,10 @@ stat dp.c
 ![touch dp.c -r dice_words.sl3 in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/6-5.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  And then, we're pretty much back where we started, with a mixture of -0400 and -0500 timestamps.
@@ -158,7 +151,21 @@ stat dp
 
 ![The &quot;chmod +x dp&quot; and &quot;stat dp&quot; commands in a terminal window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/10-6.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The changed timestamp was the only one that updated. This is because the file itself wasn't changed—it was neither accessed nor modified. However, the metadata about the file was changed.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How the File System Updates Timestamps
 
@@ -186,33 +193,26 @@ less /etc/fstab
         `# /etc/fstab: static file system information.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Use 'blkid' to print the universally unique identifier for a  
 
 ## device; this may be used with UUID= as a more robust way to name devices  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## that works even if disks are added and removed. See fstab(5).  
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 
 
@@ -234,6 +234,13 @@ cat /proc/mounts | grep "sda"
 
 ![cat /proc/mounts | grep "sda" in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/9-6.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now we see the following options:
 
 * **rw**: The file system will be mounted as a read and write file system.
@@ -246,13 +253,6 @@ cat /proc/mounts | grep "sda"
 * When no access timestamp options are used in /etc/fstab, and you're using Linux kernel 2.6.30 or newer.
 
  Our /etc/fstab entry for the ext4 file system didn't specify any access timestamp update options, so Linux made the sensible choice and used relatime.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Timestamps Are Important
 
@@ -283,20 +283,19 @@ cat /proc/mounts | grep "sda"
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-harmony-hub-tech-evolution/"><u>[New] In 2024, Harmony Hub Tech Evolution</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-top-notch-drones-for-professionals-our-curated-list-for-2024/"><u>[New] Top-Notch Drones for Professionals – Our Curated List for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transform-your-iphone-footage-filming-and-slowing-down-videos/"><u>[New] Transform Your iPhone Footage Filming and Slowing Down Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unmatched-4k-hdtvs-for-intense-gaming/"><u>[New] Unmatched 4K HDTVs for Intense Gaming</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-essential-blueprint-for-melding-linktree-into-tiktok-profiles/"><u>[Updated] The Essential Blueprint for Melding Linktree Into TikTok Profiles</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-5-revelations-for-novice-advertisers-to-master-promotion/"><u>[Updated] Top 5 Revelations for Novice Advertisers to Master Promotion</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-farmers-hangout-top-10-friendly-agricultural-games-to-bond-with-friends/"><u>2024 Approved Farmers' Hangout Top 10 Friendly Agricultural Games to Bond With Friends</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-realme-note-50-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Realme Note 50 to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-15-pro-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover iPhone 15 Pro Data From iOS iCloud? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-se-to-other-iphone-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone SE to other iPhone devices? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>Methods to Change GPS Location On Apple iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-freevista-landing-on-exquisite-costless-tiktok-screenshots-for-2024/"><u>The FREEvista Landing on Exquisite, Costless TikTok Screenshots for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-subscriber-sequence-strategizing-success-on-youtube-for-2024/"><u>The Subscriber Sequence Strategizing Success on YouTube for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-10-free-video-tools-cross-platform-os-support-for-2024/"><u>Top 10 Free Video Tools Cross-Platform OS Support for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/total-review-demystifying-googles-podcast-app/"><u>Total Review Demystifying Google's Podcast App</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-pioneering-clear-high-definition-on-twitter-videos-for-2024/"><u>[Updated] Pioneering Clear, High-Definition on Twitter Videos for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-superior-imaging-why-hdr-sets-the-standard-over-sdr/"><u>[Updated] Superior Imaging Why HDR Sets the Standard Over SDR</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-harmony-of-collaboration-brands-and-youtube-unite/"><u>2024 Approved The Harmony of Collaboration Brands & YouTube Unite</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-iosandroid-apps-for-creative-photo-captions/"><u>2024 Approved Top iOS/Android Apps for Creative Photo Captions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-upconversion-unveiled-sdr-to-hdri-a-complete-guide/"><u>2024 Approved Upconversion Unveiled SDR to HDRI - A Complete Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/bringing-lectures-to-life-effective-editing-techniques/"><u>Bringing Lectures to Life Effective Editing Techniques</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-google-pixel-8-pro-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on Google Pixel 8 Pro</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/effortless-transformation-of-m4a-tracks-to-mp4-videos-online-at-no-cost-utilizing-movavis-services/"><u>Effortless Transformation of M4A Tracks to MP4 Videos Online at No Cost - Utilizing Movavi's Services</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-v30-lite-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo V30 Lite 5G To Phone | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-mastering-luts-in-obs-for-premium-visual-output/"><u>In 2024, Mastering LUTs in OBS for Premium Visual Output</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-vector-image-basics-unveiled-categories-types-and-tools-guide/"><u>In 2024, Vector Image Basics Unveiled Categories, Types & Tools Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-apple-iphone-15-pro-look-no-further-drfone-by-drfone-virtual-ios/"><u>Looking For A Location Changer On Apple iPhone 15 Pro? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/photoshops-handy-hacks-for-horizontal-and-vertical-warping/"><u>Photoshop's Handy Hacks for Horizontal and Vertical Warping</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-honor-magic5-ultimate-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Honor Magic5 Ultimate Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
 </ul></div>
 

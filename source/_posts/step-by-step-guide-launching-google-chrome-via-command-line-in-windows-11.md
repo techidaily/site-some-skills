@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Launching Google Chrome via Command Line in Windows 11"
-date: 2024-10-03T20:58:22.342Z
-updated: 2024-10-04T17:02:23.252Z
+date: 2024-10-09T00:46:45.409Z
+updated: 2024-10-10T02:46:36.361Z
 tags:
   - deals
 categories:
@@ -18,18 +18,24 @@ thumbnail: https://thmb.techidaily.com/5eb42b490725ed54872c9c11b47aee171fe6d7919
 * [Open Chrome in Incognito Mode](https://extra-support.techidaily.com/in-2024-sierras-cloud-essentials-drives-full-access-guide/)
 * [Open Chrome Straight to a Specific Website](https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/)
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
  Launch Command Prompt, then enter "start chrome" into the window to open Google Chrome. You can also run "start chrome /incognito" to open Chrome to an incognito tab instead, or run "start chrome example.com" to open Chrome to a specific website, replacing "example.com" with the address of the website or web page you want to open.
 
  You can do almost anything from the Command Prompt on Windows 10—even open the [Google Chrome web browser](https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/). You can also open Chrome in incognito mode or jump straight to a website. Here's how it's done.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Open Chrome Using Command Prompt
 
@@ -54,13 +60,20 @@ thumbnail: https://thmb.techidaily.com/5eb42b490725ed54872c9c11b47aee171fe6d7919
 ![Open the Run window, then enter "Chrome."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-chrome-in-run.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The web browser will now open.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Open Chrome as Administrator
 
@@ -73,13 +86,6 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 ![Launching Chrome as an admin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/4-running-as-admin.png) 
 
  You'll now be running Chrome as an administrator.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Open Chrome in Incognito Mode
 
@@ -95,14 +101,14 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 
 ![Starting Chrome in incognito mode from a Run window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-chrome-incognito-run-window.png) 
 
- Chrome will now open in incognito mode.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Chrome will now open in incognito mode.
 
 ##  Open Chrome Straight to a Specific Website
 
@@ -114,13 +120,6 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 
 ![Opening Chrome to howtogeek.com](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/7-starting-chrome-with-a-specific-website.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you have multiple profiles on Google Chrome, opening Chrome in this way to a specific website will automatically launch into the most recently used profile. 
 
  Or, you can go to a specific website in incognito mode by appending the /incognito command. For example:
@@ -129,24 +128,31 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 
 ![Combining incognito with a specific website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/8-incog-specific-site.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can achieve the same goal using Run by using this command:
 
 `chrome www.howtogeek.com` 
 
 ![Opening Chrome to a specific website using a Run window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/9-run-howtogeek.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or, to open the site in incognito mode, use:
 
 `chrome /incognito www.howtogeek.com` 
 
 ![Opening Chrome to a specific website in incognito mode using a Run box.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/10-run-chrome-incog-to-specific-site.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In general, you can combine most of the arguments you can pass to Chrome in the Command Prompt. You're not just limited to the incognito flag or a specific website.
 
@@ -165,20 +171,18 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-transform-your-smartphone-photography-with-iphones-hdr/"><u>[New] Transform Your Smartphone Photography with iPhone’s HDR</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-mastering-game-recordings-on-fortnite/"><u>[Updated] 2024 Approved Mastering Game Recordings on Fortnite</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-superior-software-convert-and-upload-to-twitter/"><u>[Updated] Superior Software Convert and Upload to Twitter</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-subtle-art-of-easing-audio-intensity-garageband/"><u>[Updated] The Subtle Art of Easing Audio Intensity (Garageband)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unleashing-fun-kinemaster-reviewed-for-android-devices/"><u>2024 Approved Unleashing Fun KineMaster Reviewed for Android Devices</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/eliminating-sound-techniques-to-remove-background-noise-from-video-on-pc-and-mac-for-2024/"><u>Eliminating Sound Techniques to Remove Background Noise From Video on PC & MAC for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Samsung Galaxy M34 | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-efficient-route-for-vimeo-uploads-from-window-media-tools/"><u>In 2024, Efficient Route for Vimeo Uploads From Window Media Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-iphone-ringtone-alterations/"><u>In 2024, The Ultimate Guide to iPhone Ringtone Alterations</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-visionary-educators-guide-to-multimedia-use/"><u>In 2024, The Visionary Educator's Guide to Multimedia Use</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-honor-x50iplus-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Honor X50i+ Phone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-depth-review-unveiling-the-media-mastery-of-the-2019-apple-ipad-air/"><u>In-Depth Review: Unveiling the Media Mastery of the 2019 Apple iPad Air</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/stanley-j5c09-review-a-high-performance-drill-press-with-sturdy-build-quality/"><u>Stanley J5C09 Review: A High-Performance Drill Press with Sturdy Build Quality</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-future-of-mobile-videography-6-pioneering-apps-beyond-periscope-for-2024/"><u>The Future of Mobile Videography 6 Pioneering Apps Beyond Periscope for 2024</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/updated-in-2024-how-to-make-a-imovie-photo-slideshow-with-music-imovie-tutorial/"><u>Updated In 2024, How to Make a iMovie Photo Slideshow with Music? IMovie Tutorial</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-record-and-revel-samsungs-gamer-archive-for-2024/"><u>[New] Record & Revel Samsung's Gamer Archive for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-adjust-frame-rate-on-your-story-feed-in-instagram/"><u>[Updated] How to Adjust Frame Rate on Your Story Feed in Instagram</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-snapshots-of-life-compreenasive-guide-to-capturing-the-journey-of-playing-sims-4-for-2024/"><u>[Updated] Snapshots of Life Compreenasive Guide to Capturing the Journey of Playing Sims 4 for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-9-live-game-streaming-platform-you-should-know/"><u>[Updated] Top 9 Live Game Streaming Platform You Should Know</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-vivo-y200e-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Vivo Y200e 5G Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Motorola Defy 2? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-how-to-create-time-travel-teleportation-effects/"><u>In 2024, How to Create Time Travel Teleportation Effects</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-top-5-iphone-podcast-apps-guide/"><u>In 2024, The Ultimate Top 5 iPhone Podcast Apps Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/protect-your-live-streams-the-periscope-video-howto-for-2024/"><u>Protect Your Live Streams The Periscope Video HowTo for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/streamline-your-youtube-videos-in-windows-movie-maker-for-2024/"><u>Streamline Your YouTube Videos in Windows Movie Maker for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ethical-path-to-engaging-interviews-for-2024/"><u>The Ethical Path to Engaging Interviews for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transforming-augmented-reality-with-downloaded-free-luts-for-development-for-2024/"><u>Transforming Augmented Reality with Downloaded, Free LUTs for Development for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-wealth-route-in-periscope-streaming-for-2024/"><u>Unveiling the Wealth Route in Periscope Streaming for 2024</u></a></li>
 </ul></div>
 

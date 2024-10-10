@@ -1,7 +1,7 @@
 ---
 title: 12 Surprising Tricks You Never Knew About Using Preview on Your Mac
-date: 2024-09-30T17:30:15.856Z
-updated: 2024-10-04T17:15:48.942Z
+date: 2024-10-04T23:03:31.567Z
+updated: 2024-10-10T01:40:36.915Z
 tags:
   - desktop
 categories:
@@ -36,13 +36,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The Layers tool in Preview in macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-layers-tool-in-preview-in-macos.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Alternatively, click the "Auto Levels" button to have it done automatically. You can make lots more adjustments here, including to the exposure, colors, and white balance.
 
  If you paste another object onto the top of your image—maybe drawing a box, adding text, or copying and pasting a selection from another image—that object will always be accessible and resizable as if it were [on its own layer](https://tiktok-video-recordings.techidaily.com/from-wardrobe-to-webcam-your-macootd-tiktok-adventure-for-2024/). Just click to select it, and you can reposition it, resize it, and so on.
@@ -58,20 +51,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The Remove Background setting in Preview.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-remove-background-setting-in-preview.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If your image isn't in the PNG format, you'll be prompted to convert it first.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Extract the Subject From an Image
 
@@ -83,6 +69,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The subject will be copied to your clipboard so that you can paste it into another app. Alternatively, go to File > New from Clipboard to create a new image.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Undo All Your Edits
 
  No matter what edits you carry out on your photos, you can undo them all even after you've saved the file.
@@ -90,6 +83,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Go to File > Revert To > Browse All Versions and you can see all the previous saves you've made. Click "Restore" when you find the one you want. You can go all the way back to the original image if you need to.
 
 ![Revert to an earlier saved version of an image in Preview.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/revert-to-an-earlier-saved-version-of-an-image-in-preview.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Copy Text, Links, Numbers, and More
 
@@ -102,10 +102,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Select text in an image in Preview](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/select-text-in-an-image-in-preview.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Scan Documents
@@ -115,13 +115,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  If you have a scanner connected over Wi-Fi, just go to File > Import From and click the scanner name. Select "Show Details" to get a quick preview scan, then adjust any settings you need and click "Scan" to save the image.
 
 ![The Scan settings in Preview.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-scan-settings-in-preview.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Identify Objects in Photos
 
@@ -142,10 +135,17 @@ Close
 ![View images in the slideshow in Preview.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/view-images-in-the-slideshow-in-preview.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Create and Encrypt PDFs
@@ -166,6 +166,19 @@ Close
 
 ![Delete a page from a PDF in Preview.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/delete-a-page-from-a-pdf-in-preview.png) 
 
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  For further edits, click the "Show Markup Toolbar" button in the toolbar. Here, you have several tools for editing and annotating your PDFs.
 
 ![The Show Markup Toolbar button in Preview.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-show-markup-toolbar-button-in-preview.png) 
@@ -179,10 +192,10 @@ Close
 ![Setting to show how to create a signature in Preview.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/setting-to-show-how-to-create-a-signature-in-preview.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can add a note to a document for comments, reminders about things to check, and so on. Click the Note button to do this. You can add multiple notes and drag them to any position on the document.
@@ -190,13 +203,6 @@ Close
 ![Add post it notes to a PDF file in Preview.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/add-post-it-notes-to-a-pdf-file-in-preview.png) 
 
  You can also annotate the PDF in the usual ways by drawing, adding text boxes, adding shapes, and so on.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Save Frames From GIFs
 
@@ -237,24 +243,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-retrace-your-twitch-stream-steps/"><u>[New] Retrace Your Twitch Stream Steps</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlock-your-fcp-potential-with-these-10-plugs/"><u>[New] Unlock Your FCP Potential with These 10 Plugs</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-filming-on-the-go-what-you-need/"><u>[Updated] Filming On-the-Go – What You Need</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-facebooks-quintessential-changes-for-enthusiasts/"><u>[Updated] In 2024, Facebook's Quintessential Changes for Enthusiasts</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-ultimate-non-zoom-video-calls-for-pcphone-users/"><u>[Updated] In 2024, Ultimate Non-Zoom Video Calls for PC/Phone Users</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-metaverse-versus-multi-meva-unraveling-their-differences/"><u>[Updated] The Metaverse Versus Multi-Meva Unraveling Their Differences</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-quality-hero5-black-battery-packs-legit-and-third-party-options/"><u>[Updated] Top-Quality Hero5 Black Battery Packs - Legit & Third-Party Options</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-techniques-for-reversing-chronological-order/"><u>2024 Approved Techniques for Reversing Chronological Order</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/change-default-image-savings-in-os-x/"><u>Change Default Image Savings in OS X</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-setup-essential-driver-downloads-for-your-lenovo-x230/"><u>Effortless Setup: Essential Driver Downloads for Your Lenovo X230</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/examining-the-pros-and-cons-of-pioneers-bdr-xd05b-a-detailed-review-on-its-drawbacks/"><u>Examining the Pros and Cons of Pioneer's BDR-XD05B: A Detailed Review on Its Drawbacks</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-nubia-red-magic-8s-pro-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Nubia Red Magic 8S Pro to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-mastery-of-storing-snaps-on-devices-post-snapchat-use/"><u>In 2024, Mastery of Storing Snaps on Devices Post-Snapchat Use</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-techniques-to-increase-periscope-stream-velocity/"><u>In 2024, Techniques to Increase Periscope Stream Velocity</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-humor-in-gif-form-mastering-the-most-important-8-creation-methods/"><u>In 2024, The Art of Humor in GIF Form Mastering the Most Important 8 Creation Methods</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-uniting-upskill-utopia/"><u>In 2024, Ultimate Uniting Upskill Utopia</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-complete-azure-guide-to-speech-to-text-integration-for-2024/"><u>The Complete Azure Guide to Speech-to-Text Integration for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/ultimate-troubleshooting-guide-seamlessly-downloading-and-implementing-arduino-nano-driver-in-windows/"><u>Ultimate Troubleshooting Guide: Seamlessly Downloading & Implementing Arduino Nano Driver in Windows</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-the-top-6-head-mount-options-for-dynamic-camera-use-for-2024/"><u>Unveiling the Top 6 Head Mount Options for Dynamic Camera Use for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-easeus-recexperts-review-for-2024/"><u>[New] EaseUS RecExperts Review for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-top-10-free-video-communication-tools-iphone-and-android-devices/"><u>[New] In 2024, Top 10 Free Video Communication Tools - iPhone and Android Devices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlock-3d-text-magic-with-adobes-creative-suite/"><u>[New] Unlock 3D Text Magic with Adobe's Creative Suite</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-from-raw-footage-to-final-cut-youtube-and-its-equivalents/"><u>[Updated] In 2024, From Raw Footage to Final Cut YouTube and Its Equivalents</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-shuttered-brilliance-selecting-the-ultimate-cam-for-slow-speed-vids/"><u>[Updated] Shuttered Brilliance Selecting the Ultimate Cam for Slow Speed Vids</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlock-high-res-imagery-the-costless-technique/"><u>[Updated] Unlock High-Res Imagery The Costless Technique</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-essential-list-7-leading-generators-for-nft-artworks/"><u>2024 Approved The Essential List 7 Leading Generators for NFT Artworks</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-advice-fixing-and-understanding-the-error-0xc19001e1-in-windows-10-systems/"><u>Expert Advice: Fixing and Understanding the 'Error 0xC19001E1' In Windows 10 Systems</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-free-clip-art-licenses/"><u>In 2024, The Ultimate Guide to Free Clip Art Licenses</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mastering-plex-transcode-settings-your-essential-how-to-guide/"><u>Mastering Plex Transcode Settings: Your Essential How-To Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigate-the-job-market-with-ai-driven-cover-letter-tips/"><u>Navigate the Job Market with AI-Driven Cover Letter Tips</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-vivo-y36i-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Vivo Y36i Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/troubleshooting-sony-a6400-lost-video-viewing-for-2024/"><u>Troubleshooting Sony A6400 Lost Video Viewing for 2024</u></a></li>
 </ul></div>
 

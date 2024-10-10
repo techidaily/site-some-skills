@@ -1,7 +1,7 @@
 ---
 title: 1. Lost Your Mac Login Credentials? A Step-by-Step Guide on How to Recover
-date: 2024-10-02T19:21:25.045Z
-updated: 2024-10-04T19:10:44.189Z
+date: 2024-10-08T18:17:12.616Z
+updated: 2024-10-09T19:18:17.561Z
 tags:
   - desktop
 categories:
@@ -36,6 +36,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The question mark icon that shows your password hint.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/the-question-mark-icon-that-shows-your-password-hint.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Try Signing in as Another User
 
  If you have more than one user account on your Mac, try signing in with a different one. Accounts with admin permissions can reset the password for other accounts (but Standard accounts can't).
@@ -43,13 +57,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Just head to System Settings > Users & Groups, click the "i" alongside the account for which you'd like to change the password, then click the "Reset" button and type in a new password.
 
 ![The setting that allows you to reset the password of another user.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/the-setting-that-allows-you-to-reset-the-password-of-another-user.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Reset Your Password Using Your Apple ID
 
@@ -59,20 +66,27 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The password reset options on the macOS lock screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/the-password-reset-options-on-the-macos-lock-screen.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  A dialog box will open, asking for your Apple ID email and password. Enter those and click "Reset Password."
 
 ![The reset password box on the macOS lock screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/the-reset-password-box-on-the-macos-lock-screen.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Next, you'll see a warning that you'll lose access to your keychain if you change the password, since the password for the keychain will remain the same. This is a problem, but if you ever remember the old password, you will be able to gain access to the keychain again. Click "OK" to continue.
 
 ![The warning before resetting your password on macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/the-warning-before-resetting-your-password-on-macos.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Alternatively, you might only see the option to "Restart and show password reset options." If so, select this instead. In some rarer instances, you might also have the option to "Reset it using your recovery key."
 
@@ -83,13 +97,6 @@ Close
  Now, select the user for which you want to reset the password. Finally, enter a new password, and make sure to add a hint so that you don't forget it next time.
 
 ![The screen to reset the password on macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/the-screen-to-reset-the-password-on-macos.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Reset the Password From macOS Recovery
 
@@ -105,13 +112,6 @@ Close
 
 ![Launch the Terminal through Recovery.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/launch-the-terminal-through-recovery.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  At the Terminal prompt, type:
 
         `resetpassword`
@@ -121,10 +121,10 @@ Close
 ![The Recovery Assistant password reset screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/the-recovery-assistant-password-reset-screen.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Erase Your Mac
@@ -136,10 +136,10 @@ Close
 ![The Erase Mac settings in macOS Recovery.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/the-erase-mac-settings-in-macos-recovery.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  If You're Running an Older Version of macOS
@@ -169,19 +169,16 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-mastering-mp4-editing-on-mac-top-selections-for-youtubers/"><u>[New] Mastering MP4 Editing on Mac Top Selections for YouTubers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-tiktok-profile-boost-smartly-insert-linktree-into-about-section/"><u>[New] TikTok Profile Boost Smartly Insert Linktree Into About Section</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-best-free-subtitles-and-downloader-guide-for-2024/"><u>[Updated] Best Free Subtitles & Downloader Guide for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-mastery-over-music-flow-the-art-of-audio-blending/"><u>2024 Approved Mastery Over Music Flow The Art of Audio Blending</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-device-freeze-addressing-error-0x887a0006-windows/"><u>Fixing Device Freeze: Addressing Error 0X887A0006 Windows</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-realme-narzo-60-5gfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Realme Narzo 60 5GFRP Lock</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-top-30-youtube-intro-creators-for-spectacular-opening-videos/"><u>In 2024, Top 30 YouTube Intro Creators for Spectacular Opening Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-trailblazers-in-vr-eyewear-design/"><u>In 2024, Trailblazers in VR Eyewear Design</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mondly-teams-up-with-pearson-education-circle/"><u>Mondly Teams Up With Pearson Education Circle</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-solutions-stop-your-pc-from-unwantedly-falling-asleep/"><u>Quick Solutions: Stop Your PC From Unwantedly Falling Asleep</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/review-the-poweradd-pilot-pro2-charger-all-in-one-solutions-for-electronics-charging-needs/"><u>Review: The POWERADD Pilot Pro2 Charger - All-in-One Solutions for Electronics Charging Needs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-complete-guide-to-livestreaming-on-mobile-devices-for-2024/"><u>The Complete Guide to Livestreaming on Mobile Devices for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/timeless-tones-a-compendium-of-quality-sound-sites-for-2024/"><u>Timeless Tones A Compendium of Quality Sound Sites for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-tricks-for-achieving-high-quality-slow-motion-videos-on-android-for-2024/"><u>Top Tricks for Achieving High-Quality Slow Motion Videos on Android for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-synthesizing-creativity-a-brainstormers-toolkit-for-names/"><u>[New] 2024 Approved Synthesizing Creativity A Brainstormer’s Toolkit for Names</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-excellence-in-viewing-windows-phones-premium-apps/"><u>[New] Excellence in Viewing Windows Phone's Premium Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-outdoor-video-equipment-guide/"><u>2024 Approved Outdoor Video Equipment Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-economics-of-successful-podcasting/"><u>2024 Approved The Economics of Successful Podcasting</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-tricks-for-smooth-auditory-paths/"><u>2024 Approved Top Tricks for Smooth Auditory Paths</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-turn-off-youtube-sneak-peek-embrace-uninterrupted-watching/"><u>2024 Approved Turn Off YouTube Sneak Peek, Embrace Uninterrupted Watching</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/download-of-youtube-preview-pictures-for-2024/"><u>Easy Download of YouTube Preview Pictures for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-apples-innovative-3d-spatial-content-on-your-meta-quest-vr-headset-easy-setup-tutorial/"><u>Explore Apple's Innovative 3D Spatial Content on Your Meta Quest VR Headset – Easy Setup Tutorial</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-gamers-guide-to-lgs-360-degree-vr-experience/"><u>In 2024, A Gamer's Guide to LG's 360-Degree VR Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-evolution-of-auto-hdr-and-its-role-in-todays-photography/"><u>In 2024, The Evolution of Auto HDR and Its Role in Today's Photography</u></a></li>
+<li><a href="https://driver-install.techidaily.com/snappy-driver-refreshes-for-logitech-earbuds/"><u>Snappy Driver Refreshes for Logitech Earbuds</u></a></li>
 </ul></div>
 

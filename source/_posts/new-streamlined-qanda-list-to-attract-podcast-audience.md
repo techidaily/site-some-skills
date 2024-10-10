@@ -1,7 +1,7 @@
 ---
 title: "[New] Streamlined Q&A List to Attract Podcast Audience"
-date: 2024-08-10T20:05:02.403Z
-updated: 2024-08-11T20:05:02.403Z
+date: 2024-10-05T21:32:49.037Z
+updated: 2024-10-09T20:57:57.250Z
 tags: 
   - screen-recording
   - ai video
@@ -26,16 +26,17 @@ This guide is going to reveal how to come up with the best questions so you can 
 
 The best podcast questions to ask guests differ according to your niche and the kind of guests you interview. Questions depend on whether you're interviewing a celebrity, a businessperson, an expert in his field, an author, a producer, or your friends and family members.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![podcast questions](https://images.wondershare.com/filmora/article-images/2022/12/podcast-interview-questions-1.jpg)
 
 The best way is to divide your questions into different categories.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Great Icebreaker/Intro Questions
 
 Icebreaker questions are used to begin an interview or meeting. These are personal questions to learn more about one another quickly. For example, the prompt might be "share your name, role, and what you usually do during the weekend." These questions aim to have fun, create points of connection between guests, and build confidence in speaking in front of the group.
@@ -55,17 +56,10 @@ Here are some icebreaker questions that you can ask to start an interview.
 9. What is one of your greatest challenges in life?
 10. How did you meet your spouse or partner?
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ### Leading Question
 
 A leading question suggests a particular answer to the question that the questioner desires. These questions mostly have a yes or no answer. However, if you extract your question from the answer just given by the guest of the podcast, it is also a leading question.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![leading questions](https://images.wondershare.com/filmora/article-images/2022/12/podcast-interview-questions-3.jpg)
 
 Some leading questions that you can ask are discussed below.
@@ -92,6 +86,13 @@ In an interview, a comparison question is one where you ask a person what he pre
 
 ![comparison questions](https://images.wondershare.com/filmora/article-images/2022/12/podcast-interview-questions-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 You can ask questions from the comparison questions given below.
 
 1. Can you compare and contrast standard costing and actual costing?
@@ -110,9 +111,6 @@ You can ask questions from the comparison questions given below.
 14. In which weather do you feel comfortable, summer or winter?
 15. What do you prefer to eat, pizza or a burger?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ### Great Closing Questions
 
 When we move on to this type of question, typically, it's time to end the show. Closing interview questions are questions the hosts might ask at the end of the podcast to wrap things up. The following question can be asked to conclude the podcast on a happy note.
@@ -132,9 +130,6 @@ When we move on to this type of question, typically, it's time to end the show. 
 
 After discussing the 50 questions you can ask in a podcast, let's see what a good podcast interview question is. A good interview question is comfortable for the guest and engaging for the listeners, so the guest can answer the question wholeheartedly. Therefore, you need to avoid impolite and aggressive asks during podcasting. Besides, try to ask such questions that your guest is not frequently asked. It may reveal new things about him and make your podcast stand out.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3\. Tips on How To Come Up and Ask Better Questions
 
 Asking better questions on a podcast requires preparation beforehand. Here are some tips for you to come up with better questions:
@@ -147,21 +142,38 @@ Asking better questions on a podcast requires preparation beforehand. Here are s
 You can get the best information from the person you are interviewing if you do the following:
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Ask WHY?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![ask why](https://images.wondershare.com/filmora/article-images/2022/12/podcast-interview-questions-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 As an interviewer, "why" is your most powerful tool. Guests usually provide surface-level information or opinions. The follow-up question of "why" makes them go further and give deeper details. It will also help your audience understand correctly what the guest wants to say.
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### What happened next?
 
 If your guest is overwhelmed by the emotions and has stopped before completing his answer, help him achieve it by asking, "What Happened Next?" Use a softer tone while asking this question.
@@ -186,6 +198,13 @@ So you see how this can continue to move forward by simply mirroring your guest.
 #### Tell me about a time when…
 
 The best thing you can extract from someone in a podcast is their story. If you want to pull out a story from someone, phrase it like this, "Tell me about a time when..." After this question, your job is to sit back, listen, and not interrupt the guest.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4\. Podcast Questions to Avoid Asking
 
@@ -235,8 +254,26 @@ Consider the following when picking which of the above questions to use on your 
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-charting-your-youtube-trajectory-essential-tools-from-social-blade/"><u>[New] 2024 Approved Charting Your YouTube Trajectory Essential Tools From Social Blade</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-mp3-creation-from-instagram-vids-explained/"><u>[New] MP3 Creation From Instagram Vids Explained</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-sustaining-system-stability-returning-to-el-capitan/"><u>[New] Sustaining System Stability Returning to El Capitan</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-30-mobile-video-edits-using-dji-technology/"><u>[New] Top 30 Mobile Video Edits Using DJi Technology</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-memelife-top-meme-creator-tool-download/"><u>[Updated] Ultimate Memelife Top Meme Creator Tool Download</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleash-the-potential-master-avi-to-gif-conversion-using-filmora/"><u>[Updated] Unleash the Potential Master AVI-to-GIF Conversion Using Filmora</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unmatched-4k-hdtvs-for-intense-gaming/"><u>[Updated] Unmatched 4K HDTVs for Intense Gaming</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-initiate-seamless-gaming-streams-mastering-obs-recording/"><u>2024 Approved Initiate Seamless Gaming Streams Mastering OBS Recording</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-resource-guide-for-refining-on-screen-text-in-videos/"><u>2024 Approved The Ultimate Resource Guide for Refining On-Screen Text in Videos</u></a></li>
+<li><a href="https://facebook.techidaily.com/big-tech-sends-strength-to-worldwide-health-crisis-response/"><u>Big Tech Sends Strength to Worldwide Health Crisis Response</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-steps-to-bluetooth-link-airpods-on-windows/"><u>Easy Steps to Bluetooth-Link AirPods on Windows</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-oneplus-11r-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your OnePlus 11R Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-photographic-standouts-with-our-top-10-grid-picks/"><u>In 2024, Photographic Standouts with Our Top 10 Grid Picks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-seamless-spectrum-simple-techniques-to-transform-photoshop-images/"><u>The Seamless Spectrum Simple Techniques to Transform Photoshop Images</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-boosting-android-video-brilliance-for-2024/"><u>The Ultimate Guide to Boosting Android Video Brilliance for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-vlogging-battle-gopro-hero5-black-vs-sessions-for-2024/"><u>The Ultimate Vlogging Battle GoPro Hero5 Black VS Sessions for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-vr-classics-dont-miss-out-for-2024/"><u>Top VR Classics - Don’t Miss Out for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/troubleshooting-your-asus-pce-ac56-compatibility-fixes-for-windows-os/"><u>Troubleshooting Your ASUS PCE-AC56: Compatibility Fixes for Windows OS</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Nubia Red Magic 8S Pro+? | Dr.fone</u></a></li>
+</ul></div>
 

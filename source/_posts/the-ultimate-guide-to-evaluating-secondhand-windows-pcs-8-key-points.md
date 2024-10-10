@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Evaluating Secondhand Windows PCs – 8 Key Points
-date: 2024-10-02T17:50:44.453Z
-updated: 2024-10-04T16:00:23.515Z
+date: 2024-10-04T19:54:00.794Z
+updated: 2024-10-09T19:09:30.518Z
 tags:
   - desktop
 categories:
@@ -42,15 +42,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Testing the laptop speaker in Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/1-testing-the-laptop-speaker-in-settings.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To [test the built-in microphone](https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-vivo-y200e-5g-drfone-by-drfone-virtual-android/), return to the sound settings, click on "Microphone Array," and then click on the "Start Test" button next to Test Your Microphone. Speak for a few seconds, then stop the test. If you see a decent volume percentage recorded, the microphone is working as it should.
 
 ![Testing the laptop microphone in Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/2-testing-the-laptop-microphone-in-settings.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Test the Built-In Camera
@@ -60,10 +67,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  If the camera app detects the webcam and the visuals are clear and of satisfactory quality, as the seller claimed, then the camera is working correctly.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Check the Health of Your Laptop Battery
@@ -77,15 +90,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Generating the battery health report from Windows PowerShell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/08/br_2-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Navigate to this location and open the battery report. Then, go to the "Installed Batteries" section and compare the "Design Capacity" with the "Full Charge Capacity." The difference between these values indicates the extent to which the battery's capacity has diminished due to usage. If the full charge capacity is significantly low, you may have to replace the battery.
 
 ![Checking the laptop battery report.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/08/br_5.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Ensure the Laptop Isn't Stolen
 
@@ -99,13 +119,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Also, watch out for stickers that may be covering up wear and tear underneath, as this is a common practice.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Test the Wired and Wireless Connectivity
 
  The worst scenario you could face is finding your [laptop unable to connect to the internet](https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual/) (via Wi-Fi or Ethernet cable), USB ports failing to detect external devices, or Bluetooth malfunctioning—all after completing the purchase. Because of that, confirming there are no wired or wireless connectivity issues is important.
@@ -117,19 +130,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Finally, [check the health of the RAM](https://hardware-help.techidaily.com/step-by-step-installation-amd-gpio-pin-driver-for-hexagon-devices/) and storage drive to ensure they're not faulty. To test the RAM, you can use the Windows Memory Diagnostic tool, which detects and displays potential issues with it. To run the test, open Command Prompt as an administrator, type **mdsched.exe**, and press Enter. Then, click "Restart Now and Check for Problems."
 
 ![Running the memory diagnostic test from Windows Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/3-running-the-memory-diagnostic-test-from-windows-command-prompt.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Windows will restart and run the test. Once it finishes testing the RAM, it'll restart again and display the test results. If you don't see them, you can use the Windows Event Viewer to search for potential issues identified during the test. Open Event Viewer and go to Windows Logs > System. Click "Find," type **MemoryDiagnostic**, and click "Find Next."
 
@@ -154,21 +154,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-art-of-podcast-hooks-compelling-beginnings/"><u>[New] The Art of Podcast Hooks Compelling Beginnings</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-10-effect-enhancing-fcp-plug-ins/"><u>[New] Top 10 Effect-Enhancing FCP Plug-Ins</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-tips-and-solutions-for-common-vlc-issues-on-mac/"><u>[New] Top Tips & Solutions for Common VLC Issues on Mac</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-direct-android-image-copy-to-iphone/"><u>[Updated] 2024 Approved Direct Android Image Copy to iPhone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-logitech-4k-pro-webcam-a-comprehensive-overview-for-2024/"><u>[Updated] Logitech 4K Pro Webcam - A Comprehensive Overview for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-virtual-excellence-top-5-upcoming-playstation-vr-titles/"><u>[Updated] Unveiling Virtual Excellence Top 5 Upcoming PlayStation VR Titles</u></a></li>
-<li><a href="https://discover-best.techidaily.com/avi-vs-mp4-formats-a-comprehensive-guide-to-understanding-their-differences/"><u>AVI Vs. MP4 Formats - A Comprehensive Guide to Understanding Their Differences</u></a></li>
-<li><a href="https://extra-information.techidaily.com/boost-your-tunes-quickly-top-phone-app-selection/"><u>Boost Your Tunes Quickly Top Phone App Selection</u></a></li>
-<li><a href="https://win-forum.techidaily.com/essential-10-command-line-utilities-every-new-pc-user-must-know/"><u>Essential 10 Command Line Utilities Every New PC User Must Know</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Motorola PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-ais-pioneering-role-in-generating-podcast-names/"><u>In 2024, AI's Pioneering Role in Generating Podcast Names</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-definitive-guide-to-10-premium-vector-stockplaces/"><u>In 2024, The Definitive Guide to 10 Premium Vector Stockplaces</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-fcp-tutorial-for-new-users/"><u>In 2024, Ultimate FCP Tutorial for New Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/keyboard-typos-heres-how-to-type-without-the-slip-ups/"><u>Keyboard Typos? Here's How to Type Without the Slip-Ups</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-oppo-reno-11f-5g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Oppo Reno 11F 5G</u></a></li>
-<li><a href="https://some-skills.techidaily.com/understanding-the-metaverse-6-compelling-realities-unveiled-for-2024/"><u>Understanding the Metaverse 6 Compelling Realities Unveiled for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-perfect-pals-and-plotlines-the-10-best-family-flicks/"><u>[New] Perfect Pals and Plotlines The 10 Best Family Flicks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-invisible-recorder-how-to-save-online-music-streams/"><u>[New] The Invisible Recorder How to Save Online Music Streams</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-a-guide-to-crafting-impactful-handp-ads-on-facebook/"><u>[Updated] A Guide to Crafting Impactful H&P Ads on Facebook</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-seamlessly-posting-online-content-to-ig-storypost/"><u>[Updated] In 2024, Seamlessly Posting Online Content to IG Story/Post</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-unleash-potential-ps5-writable-and-readable-extras/"><u>[Updated] In 2024, Unleash Potential PS5' Writable & Readable Extras</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-cinematographers-codex-top-shot-tips-for-the-year-2024-filmography/"><u>[Updated] The Cinematographer’s Codex Top Shot Tips for the Year 2024 Filmography</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-spotify-marketing-manual-strategies-and-tactics/"><u>[Updated] The Ultimate Spotify Marketing Manual Strategies and Tactics</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-videography-and-storage-assessing-a-high-capacity-memorys-video-limits-for-2024/"><u>[Updated] Videography & Storage Assessing a High-Capacity Memory's Video Limits for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-handbook-for-using-googles-ai-for-transcription-in-word-processors/"><u>2024 Approved Ultimate Handbook for Using Google's AI for Transcription in Word Processors</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/building-blocks-to-brilliance-crafting-circles-and-spheres-in-mc/"><u>Building Blocks to Brilliance Crafting Circles and Spheres in MC</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-add-your-digital-signature-to-a-ott-file-document-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Add Your Digital Signature to a .ott file Document</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-venture-into-the-future-the-lg-360-vr-headset-explored/"><u>In 2024, Venture Into the Future The LG 360 VR Headset Explored</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-visionary-solutions-top-1-ward-video-recorders-on-the-web/"><u>In 2024, Visionary Solutions Top 1 Ward Video Recorders on the Web</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/prime-prospects-the-hottest-google-cardboard-vr-gaming-titles/"><u>Prime Prospects The Hottest Google Cardboard VR Gaming Titles</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-apple-m1-breakdown-a-glimpse-into-the-future-for-2024/"><u>The Apple M1 Breakdown A Glimpse Into the Future for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-blueprint-for-incorporating-dynamic-narrations-in-media-for-2024/"><u>The Blueprint for Incorporating Dynamic Narrations in Media for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-photographers-path-to-perfected-colors-for-2024/"><u>The Photographer's Path to Perfected Colors for 2024</u></a></li>
 </ul></div>
 

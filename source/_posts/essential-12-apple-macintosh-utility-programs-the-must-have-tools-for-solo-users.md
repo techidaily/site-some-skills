@@ -1,7 +1,7 @@
 ---
 title: "Essential 12 Apple Macintosh Utility Programs: The Must-Have Tools for Solo Users"
-date: 2024-09-27T17:13:39.411Z
-updated: 2024-10-04T19:51:26.991Z
+date: 2024-10-05T20:45:01.081Z
+updated: 2024-10-09T23:25:06.924Z
 tags:
   - desktop
 categories:
@@ -28,28 +28,15 @@ thumbnail: https://thmb.techidaily.com/d10946fd797c909f3b766507ccc413e54b73231c6
 
  Apple’s desktop operating system is arguably the best reason to buy a Mac, but that doesn’t mean it’s perfect. Thankfully, there are plenty of single-use apps to fix, tweak, and add the things that Apple forgot.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1 [Magnet](https://magnet.crowdcafe.com) for Snapping Windows 
 
 ![Magnet window snapping app for macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/magnet-window-snapping-app-for-macos-1.png) 
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Apple has pledged to add native support for window snapping to [macOS 15 Sequoia](https://youtube-tips.techidaily.com/approved-youtube-editing-essentials-the-ultimate-guide-post-upload-refinements/), but apps like [Magnet](https://magnet.crowdcafe.com) will still have their place. This simple window management app lets you snap windows into position either by dragging or using keyboard shortcuts.
@@ -60,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/d10946fd797c909f3b766507ccc413e54b73231c6
 
 ![TripMode personal hotspot filtering app for macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/tripmode-personal-hotspot-filtering-app-for-macos.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you ever use an iPhone personal hotspot to work on your MacBook remotely, you’re probably aware of how quickly you can burn through data. [TripMode](https://tripmode.ch) is an app that filters traffic whenever it detects that you are connected to a cellular hotspot.
 
  By default, traffic will be blocked. This allows you to create an allow-list of apps that are mission-critical. You can then block the heavy hitters like Photos or your Mac’s background cloud syncing processes. Try it for free and then buy a single-use license for $17.
@@ -69,10 +63,10 @@ thumbnail: https://thmb.techidaily.com/d10946fd797c909f3b766507ccc413e54b73231c6
 ![Maccy clipboard manager for macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/maccy-clipboard-manager-for-macos.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Maccy is a clipboard manager for macOS that you can download for free from the project’s [GitHub page](https://github.com/p0deje/Maccy) or for $9.99 on the [Mac App Store](https://apps.apple.com/us/app/maccy/id1527619437?mt=12). The app stores your clipboard history for easy retrieval, with a global hotkey (by default Command+Shift+C) for quickly accessing the app.
@@ -82,19 +76,6 @@ thumbnail: https://thmb.techidaily.com/d10946fd797c909f3b766507ccc413e54b73231c6
 ## 4 [MacMediaKeyForwarder](https://github.com/milgra/macmediakeyforwarder) to Fix the Play/Pause Key 
 
 ![MediaKeyForwarder app for macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/mediakeyforwarder-app-for-macos.png) 
-
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Apple’s media keys can be a little erratic. I like to listen to music using Apple Music while I work, but sometimes I find myself with random YouTube tabs open. It’s frustrating when pressing the Play/Pause key starts or stops a YouTube video instead. [MacMediaKeyForwarder](https://github.com/milgra/macmediakeyforwarder) is an app that solves this problem.
 
@@ -118,6 +99,13 @@ thumbnail: https://thmb.techidaily.com/d10946fd797c909f3b766507ccc413e54b73231c6
 
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7 [Speedtest CLI](https://www.speedtest.net/apps/cli) for Testing Internet Speed 
 
 ![Speedtest CLI running in Terminal on macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/speedtest-cli-running-in-terminal-on-macos.png) 
@@ -136,6 +124,13 @@ speedtest-cli
 
 speedtest-cli -help
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8 [Ulysses](https://ulysses.app) for Writing in Markdown 
 
 ![Writing in Markdown in Ulysses.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/ulysses_markdown.png) 
@@ -145,10 +140,10 @@ speedtest-cli -help
  Paying for a writing app makes sense if you’re being paid for your writing, but this isn’t ideal for everyone. Fortunately, there are some great free Markdown editors to choose from, with [Marktext](https://github.com/marktext/marktext) being a personal favorite.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9  Apple Notes for Organizing My Life 
@@ -163,42 +158,35 @@ speedtest-cli -help
 
 ![HyperKey for macOS for improving shortcut options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/hyperkey-for-macos-for-improving-shortcut-options.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Ever feel like you’re running out of keyboard shortcuts? You can always use a longer modifier combination like Control+Option+Command (and even add Shift), but things get complicated fast. An easier method is to use the [Hyperkey](https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-on-apple-iphone-15-plus-by-drfone-ios/) app to [repurpose your Caps Lock key as a “hyper” key](https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-on-apple-iphone-15-plus-by-drfone-ios/) that triggers these modifiers for you.
 
  Then all you need to do is assign some shortcuts that depend on your new “hyper” key. So, for example, Instead of hitting Shift+Control+Option+Command+R to trigger a Shortcut, you can just hit Caps Lock+R instead.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 11 [The Unarchiver](https://theunarchiver.com) for Extracting Archives 
 
 ![The file association options on Unarchiver.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/mac-unarchiver-options.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Perhaps the most boring app on this list, [The Unarchiver](https://theunarchiver.com) is a free app that adds support for archive formats that aren’t supported in macOS by default like RAR and 7Z. It can also unpack deprecated formats from forgotten platforms, and do interesting things like extract images and audio from SWF files.
 
  It’s not exciting, but it’s essential. Download it for free on the [Mac App Store](https://apps.apple.com/us/app/the-unarchiver/id425424353?mt=12) so it’s there when you need it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 12 [Karabiner-Elements](https://karabiner-elements.pqrs.org) for Customizing the Keyboard 
 
 ![Karabiner-Elements keyboard customization tool for macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/karabiner-elements-keyboard-customization-tool-for-macos.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you want to customize your Mac’s keyboard mappings then look no further than [Karabiner-Elements](https://karabiner-elements.pqrs.org). Use a simple GUI to remap what any key does, and create separate rules for different keyboards. You can create your own tweaks and rules, disable keys entirely, or [make that useless Eject key useful again](https://extra-skills.techidaily.com/2024-approved-mastering-adobe-cloud-essential-storage-insights-and-top-alternatives/).
 
@@ -223,19 +211,22 @@ speedtest-cli -help
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-the-ultimate-list-best-screencasting-apps-free/"><u>[New] In 2024, The Ultimate List Best Screencasting Apps (Free)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-8-virtual-spaces-for-3d-graffiti-fonts/"><u>[New] Top 8 Virtual Spaces for 3D Graffiti Fonts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-list-of-video-recording-apps-for-iphone/"><u>[New] Top List of Video Recording Apps for iPhone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-unlocking-video-treasures-securely-capturing-igtv-videos-on-windows-and-macos/"><u>[New] Unlocking Video Treasures Securely Capturing IGTV Videos on Windows & MacOS</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-inexpensive-sky-explorers-the-least-expensive-drones/"><u>[Updated] Inexpensive Sky Explorers The Least Expensive Drones</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-future-of-pc-gaming-meet-eizos-cg318-4k/"><u>[Updated] The Future of PC Gaming Meet EIZO's CG318-4K</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-ultimate-copyright-strategy-for-online-video-creators/"><u>[Updated] The Ultimate Copyright Strategy for Online Video Creators</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-definitive-guide-to-classic-anime-themes/"><u>2024 Approved The Definitive Guide to Classic Anime Themes</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/boost-biz-impact-with-skilled-communication-learning/"><u>Boost Biz Impact with Skilled Communication Learning</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/explore-italy-fluently-essential-phrases-and-vocabulary-guide/"><u>Explore Italy Fluently: Essential Phrases and Vocabulary Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-strategies-for-sourcing-a-list-cinematography-experts/"><u>In 2024, Strategies for Sourcing A-List Cinematography Experts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-using-b-roll-to-enhance-cinematic-quality/"><u>In 2024, Using B-Roll to Enhance Cinematic Quality</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/t-prospects-analyzing-youtubes-monetization-mechanisms/"><u>Profit Prospects Analyzing YouTube's Monetization Mechanisms</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unintended-hp-printer-software-updates-how-theyre-auto-installing-on-windows-computers/"><u>Unintended HP Printer Software Updates: How They're Auto-Installing on Windows Computers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-tailor-your-fb-theme-with-footage/"><u>[New] 2024 Approved Tailor Your FB Theme with Footage</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-9gag-pathway-to-piling-up-popular-memes/"><u>[New] The 9GAG Pathway to Piling Up Popular Memes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-comprehensive-guide-to-metaverse-promotion/"><u>[New] The Comprehensive Guide to Metaverse Promotion</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-journey-through-windows-11s-latest-software/"><u>[Updated] Journey Through Windows 11'S Latest Software</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-toolkit-for-elevating-your-podcast-through-seo/"><u>2024 Approved The Ultimate Toolkit for Elevating Your Podcast Through SEO</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-quantum-hdr-your-comprehensive-guide/"><u>2024 Approved Unlocking Quantum HDR Your Comprehensive Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-realme-11-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/building-a-brand-how-to-harness-snapad-power-in-business-for-2024/"><u>Building a Brand How to Harness SnapAd Power in Business for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-analysis-of-the-samsung-galaxy-a71-5g-an-affordable-contender-against-premium-phones/"><u>Comprehensive Analysis of the Samsung Galaxy A71 5G: An Affordable Contender Against Premium Phones</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-safeguard-text-files-with-strong-passwords-expert-advice-and-solutions/"><u>How To Safeguard Text Files With Strong Passwords - Expert Advice & Solutions</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro to other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-convert-twitter-vids-to-customized-soundtracks/"><u>In 2024, Convert Twitter Vids to Customized Soundtracks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tips-for-seamless-integration-of-supplementary-footage/"><u>In 2024, Tips for Seamless Integration of Supplementary Footage</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-top-10-instagram-insights-tools-detailed-data-analysis-made-simple/"><u>In 2024, Top 10 Instagram Insights Tools Detailed Data Analysis Made Simple</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-tips-for-iphones-hdr-images/"><u>In 2024, Ultimate Tips for iPhone's HDR Images</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-driver-compatibility-issue-with-intel-and-amd-graphics-in-premiere-pro/"><u>Solved Driver Compatibility Issue with Intel & AMD Graphics in Premiere Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-10-plugin-power-duo-for-final-cut-pro-for-2024/"><u>The Ultimate 10 Plugin Power Duo for Final Cut Pro for 2024</u></a></li>
 </ul></div>
 

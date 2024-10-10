@@ -1,7 +1,7 @@
 ---
 title: "Mastering the 'History' Function in Linux: A Step-by-Step Guide"
-date: 2024-09-30T20:26:42.125Z
-updated: 2024-10-04T19:47:59.518Z
+date: 2024-10-03T03:52:18.659Z
+updated: 2024-10-09T16:09:25.501Z
 tags:
   - desktop
 categories:
@@ -60,6 +60,13 @@ history | tail -n 10
 
 ![history | tail -n 10 in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/4-7.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Repeating Commands
 
  If you want to reuse a command from the history list, type an exclamation point (!), and the number of the command with no spaces in-between.
@@ -106,6 +113,13 @@ sudo !!
 
 ![!sudo in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/9-9.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  There's an element of danger in this, though. If the last command that started with `sudo` isn't the one you think it is, you'll launch the wrong command.
 
  To provide a safety net, though, you can use the `:p` (print) modifier, as shown below:
@@ -124,13 +138,6 @@ sudo !!
 
 ![!?aliases in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/12-6.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This will find any command that contains the string "aliases," regardless of where it appears in the string.
 
 ##  Interactive Search
@@ -144,13 +151,6 @@ sudo !!
  As you type the search clue, the first matching command will appear. The letters you type appear between the backtick (\`) and the apostrophe ('). The matching commands update as you type each letter.
 
 ![Ctrl+R search with sudo entered as the search clue](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/14-2.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Each time you press Ctrl+r, you're searching backward for the next matching command, which appears in the terminal window.
 
@@ -169,10 +169,10 @@ sudo !!
 ![Command shown on the command line allowing editing](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/18-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can use other Linux tools to search the history list. For example, to pipe the output from `history` into `grep` and [search for commands that contain the string](http://man7.org/linux/man-pages/man1/grep.1.html) "aliases" you could use this command:
@@ -213,6 +213,13 @@ history | grep shhd
 
 ![history | grep shhd in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/21-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also pass a range of commands to the `-d` option. To delete all list entries from 22 to 32 (inclusive), type this command:
 
 history -d 22 32
@@ -220,13 +227,6 @@ history -d 22 32
  To delete only the last five commands, you can type a negative number, like so:
 
 history -d -5
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Manually Updating the History File
 
@@ -258,13 +258,6 @@ history -c
 
 ![history -c in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/24-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you additionally want to force these changes to the history file, use the `-w` option, like so:
 
 history -w
@@ -278,13 +271,6 @@ special-app my-secret-password;history -d $(history 1)
 history 5
 
 ![special-app my-secret-password;history -d $(history 1) in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/25-3.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This structure includes two commands separated with a semicolon (;). Let's break this down:
 
@@ -322,6 +308,13 @@ gedit .bashrc
 
 ![.bashrc in the gedit editor](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/28-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  These two values interact in the following ways:
 
 * When you log in or start a terminal window session, the history list is populated from the `.bash_history` file.
@@ -347,6 +340,20 @@ export HISTIGNORE="ls:history"
 
 ![export HISTIGNORE="ls:history" in gedit](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/29a.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Using Timestamps
 
  If you want to add timestamps to the history list, you can use the `HISTIMEFORMAT` setting. To do so, you just add a line like the following to your `.bashrc` file:
@@ -362,10 +369,10 @@ export HISTTIMEFORMAT="%c "
 ![history listing with timestamps in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/30-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  That's a very long-winded timestamp. However, you can use tokens other than `%c` to refine it. The other tokens you can use are:
@@ -385,19 +392,6 @@ export HISTTIMEFORMAT="%c "
 export HISTTIMEFORMAT="%d n%m %T "
 
 ![export HISTTIMEFORMAT="%d n%m %T " in gedit](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/31a.png) 
-
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The output uses the day, month, and time.
 
@@ -440,19 +434,24 @@ export HISTTIMEFORMAT="%T "
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-toolwiz-for-professionals-a-thorough-app-assessment/"><u>[New] Toolwiz for Professionals A Thorough App Assessment</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ten-steps-to-keeping-vr-healthy/"><u>[Updated] Ten Steps to Keeping VR Healthy</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-tier-laptops-and-pcs-for-ultimate-comfort/"><u>[Updated] Top-Tier Laptops & PCs for Ultimate Comfort</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-upgrading-made-simple-a-compreomedmacsierra-guide/"><u>2024 Approved Upgrading Made Simple A CompreomedmacSierra Guide</u></a></li>
-<li><a href="https://article-helps.techidaily.com/bringing-images-to-life-expert-level-photo-text-editing/"><u>Bringing Images to Life Expert-Level Photo Text Editing</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Xiaomi Redmi K70 | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/free-conversion-of-flac-files-to-aiff-format-by-movavi-online-tool/"><u>Free Conversion of FLAC Files to AIFF Format by Movavi - Online Tool</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-online-conversion-transform-flac-files-into-wav-format-with-ease-movavi/"><u>Free Online Conversion: Transform FLAC Files Into WAV Format with Ease - Movavi</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-samsung-galaxy-a14-5g-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Samsung Galaxy A14 5G is off? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-checklist-lipo-batteries-for-drone-excellence/"><u>In 2024, The Ultimate Checklist LiPo Batteries for Drone Excellence</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/navigating-through-the-premier-10-image-stock-websites/"><u>Navigating Through the Premier 10 Image Stock Websites</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-motorola-edge-40-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Motorola Edge 40 Device</u></a></li>
-<li><a href="https://some-skills.techidaily.com/understanding-color-spaces-srgb-vs-rgb-for-2024/"><u>Understanding Color Spaces Srgb vs Rgb for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-latest-anticipated-release-of-new-iphone-models/"><u>Unveiling the Latest: Anticipated Release of New iPhone Models</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-vision-to-reality-personal-animation-mastery/"><u>[New] In 2024, From Vision to Reality Personal Animation Mastery</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-obs-and-youtube-a-beginners-live-stream-blueprint/"><u>[New] In 2024, OBS and Youtube A Beginner's Live Stream Blueprint</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-niche-marketing-through-periscope-broadcasts/"><u>[New] Niche Marketing Through Periscope Broadcasts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-online-photo-cropting-accuracy/"><u>[New] The Ultimate Guide to Online Photo Cropting Accuracy</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlock-game-changing-potential-try-our-top-ranked-free-voice-alteration-tool/"><u>[Updated] Unlock Game-Changing Potential Try Our Top-Ranked Free Voice Alteration Tool</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-deciphering-youtube-popularity-factors-for-higher-placement/"><u>2024 Approved Deciphering YouTube Popularity Factors for Higher Placement</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-nokia-xr21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-y100i-power-5g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Vivo Y100i Power 5G</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722987796917-guilty-gear-strive-fixes-and-tweaks-addressing-frame-rate-drop-and-lag-challenges-successfully/"><u>Guilty Gear Strive Fixes & Tweaks: Addressing Frame Rate Drop and Lag Challenges Successfully</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-swiftly-modify-and-verify-your-age-in-tiktok-accounts/"><u>How to Swiftly Modify and Verify Your Age in TikTok Accounts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-craft-a-one-of-a-kind-digital-gag-now/"><u>In 2024, Craft a One-of-a-Kind Digital Gag Now</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-strategic-utilization-of-azure-voice-to-text-capabilities/"><u>In 2024, Strategic Utilization of Azure Voice-to-Text Capabilities</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-nokia-130-music-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Nokia 130 Music Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-title-transformations-beyond-standard-styles/"><u>In 2024, Title Transformations Beyond Standard Styles</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transforming-images-with-ease-learn-snapseed-today/"><u>In 2024, Transforming Images with Ease Learn Snapseed Today</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-cosmic-divides-metaverse-and-multiverse-explained/"><u>In 2024, Unveiling Cosmic Divides Metaverse and Multiverse Explained</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/investigate-truthgpt-coin-is-this-the-next-big-scam-or-a-hidden-gem/"><u>Investigate TruthGPT Coin - Is This the Next Big Scam or a Hidden Gem?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/strategy-revealed-a-box-opening-narrative-for-2024/"><u>Strategy Revealed A Box-Opening Narrative for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/synopsis-of-vllo-consumer-voices-for-2024/"><u>Synopsis of VLLO Consumer Voices for 2024</u></a></li>
 </ul></div>
 

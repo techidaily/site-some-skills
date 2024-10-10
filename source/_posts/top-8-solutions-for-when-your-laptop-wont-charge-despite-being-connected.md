@@ -1,7 +1,7 @@
 ---
 title: Top 8 Solutions for When Your Laptop Won't Charge Despite Being Connected
-date: 2024-09-28T19:05:25.773Z
-updated: 2024-10-04T20:33:16.792Z
+date: 2024-10-03T02:06:51.549Z
+updated: 2024-10-09T21:51:49.850Z
 tags:
   - deals
 categories:
@@ -31,10 +31,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Is your laptop not charging even though you've plugged it in? While most of the time, this situation occurs when the charging adapter isn't properly connected, other times outdated BIOS or corruption in the battery driver could be the possible culprit. Whatever the reason may be, here are fixes you can try if your laptop is plugged in but not charging.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  1\. Check Your Laptop Adapter
@@ -44,43 +44,30 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![A laptop adapter with a loose connection.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/laptop-adapter.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Aman Kumar / How-To Geek
 
  If you find that the power cord is loosely connected to the adapter brick, apply gentle pressure to firmly insert it into the adapter. Alternatively, you can unplug the power cord completely and then plug it back in again.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. Connect the Laptop Adapter to a Different Socket
 
 ![Multiple power adaptors and cables plugged into a power strip](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/52731312553_e2b752b4ab_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Jason Fitzpatrick / How-To Geek
 
  Your laptop may not charge if the socket in which the adapter plug is currently connected is not functioning. To verify this, insert the adapter plug into a different socket and check if your laptop starts charging. If it does, this confirms that the original socket or its corresponding switch is not working. You can contact an electrician, in this case, to have this socket repaired.
-
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  3\. Use the Original Charger
 
@@ -90,18 +77,18 @@ Jason Fitzpatrick / How-To Geek
 
  Counterfeit chargers often charge laptops at an extremely slow pace or, in some cases, not charge at all. If your original laptop charger is malfunctioning, opt to purchase the same model charger directly from the laptop manufacturer online or in-store instead of resorting to a third-party charger.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  4\. Examine the Charging Port and Pin
 
  If your laptop is still not charging, you should carefully examine your laptop's charging port for any dust or debris that might have accumulated inside. If any dust or debris is present, it will prevent the charger from supplying power to your laptop, ultimately causing the issue at hand.
 
 ![Charging port on a laptop with visible dust surrounding it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/charging-port.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Aman Kumar / How-To Geek
 
@@ -137,20 +124,27 @@ Aman Kumar / How-To Geek
 
 ![Batteries node in the Device Manager app on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/batteries-node.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Right-click on the "Microsoft AC Adapter" driver and select the "Uninstall device" option. Similarly, uninstall the "Microsoft ACPI-Compliant Control Method Battery" driver.
 
 ![The Uninstall Device option in Device Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/uninstall-device.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once the drivers have been uninstalled, [restart your computer](https://screen-video-capture.techidaily.com/updated-in-2024-addressing-mute-problems-in-obs-live-recording/). Upon restart, Windows will automatically reinstall both battery drivers. However, if it fails to reinstall them for any reason, press Windows+i to open the "Settings" app, click on "Windows Update," and then select "Check for Updates." Windows will now install the missing driver, which in this case is the battery driver, on your computer.
 
 ![The Windows update menu in the Settings app with an arrow pointing to the Check for Updates button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/check-for-updates.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After reinstalling the driver, reconnect the charger and check if your laptop starts charging.
 
@@ -193,24 +187,19 @@ Aman Kumar / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-boost-engagement-syncing-youtube-and-facebook-for-2024/"><u>[New] Boost Engagement Syncing YouTube and Facebook for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-harmonious-blends-using-fades-in-logic-pro-x/"><u>[New] Harmonious Blends Using Fades in Logic Pro X</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-the-comprehensible-method-for-ifunny-meme-downloads/"><u>[Updated] 2024 Approved The Comprehensible Method for iFunny Meme Downloads</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-non-vimeo-showstoppers-for-online-content-creators/"><u>[Updated] In 2024, Non-Vimeo Showstoppers for Online Content Creators</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-transform-your-chromebooks-auditory-experience-with-top-5-web-tools/"><u>[Updated] In 2024, Transform Your Chromebook's Auditory Experience with Top 5 Web Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-photographers-guide-to-negative-imaging/"><u>2024 Approved The Photographer’s Guide to Negative Imaging</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-list-of-ae-title-enhancement-methods/"><u>2024 Approved Ultimate List of AE Title Enhancement Methods</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-uplifting-movies-a-top-10-list-of-inspiration/"><u>2024 Approved Uplifting Movies A Top 10 List of Inspiration</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/a6400s-visual-void-finding-video-fix/"><u>A6400's Visual Void - Finding Video Fix</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Vivo V30 Lite 5G? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-synchronized-success-audio-meets-visual-in-films/"><u>In 2024, Synchronized Success Audio Meets Visual in Films</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-gopro-karma-quest-for-altitude-dominance/"><u>In 2024, The GoPro Karma Quest for Altitude Dominance</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-turning-snaps-into-cashflow/"><u>In 2024, Turning Snaps Into Cashflow</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-infinix-note-30-vip-racing-editionfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Infinix Note 30 VIP Racing EditionFRP Lock</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-to-telegram-heres-your-guide-to-getting-started-with-marketing-for-2024/"><u>New to Telegram? Here's Your Guide to Getting Started with Marketing for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/premium-players-pick-of-terraria-extensions-for-2024/"><u>Premium Player's Pick of Terraria Extensions for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/techniques-for-smooth-audio-amplification-in-lumafusion-for-2024/"><u>Techniques for Smooth Audio Amplification in Lumafusion for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/textual-transformation-enrich-your-images-with-words-pcmac-style-for-2024/"><u>Textual Transformation Enrich Your Images with Words, PC/Mac Style for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-fundamentals-of-starting-an-instantaneous-broadcast-for-2024/"><u>The Fundamentals of Starting an Instantaneous Broadcast for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-supreme-memetric-creation-tool/"><u>[New] Supreme Memetric Creation Tool</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-audiofreexer-extraction-for-2-point-zero-two-four/"><u>[New] The Ultimate Guide to AudioFreexer Extraction for 2 Point Zero Two Four</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-digital-gallery-music-meets-images/"><u>[Updated] In 2024, Digital Gallery Music Meets Images</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-precision-evaluation-a-vll-approach-to-apps/"><u>[Updated] Precision Evaluation A VLL Approach to Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-intricacies-of-whatsapp-audio-dialogue/"><u>2024 Approved The Intricacies of WhatsApp Audio Dialogue</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-10-plugin-power-duo-for-final-cut-pro/"><u>2024 Approved The Ultimate 10 Plugin Power Duo for Final Cut Pro</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-oppo-find-x7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-magic-mouse-drivers-for-seamless-windows-experience/"><u>Get the Latest Magic Mouse Drivers for Seamless Windows Experience</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-nokia-c110-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Nokia C110 Through Google Earth?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tips-on-how-skip-edgenuity-videos-easily/"><u>In 2024, Tips on How Skip Edgenuity Videos Easily</u></a></li>
+<li><a href="https://howto.techidaily.com/infinix-note-30-vip-racing-edition-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Note 30 VIP Racing Edition Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionizing-work-from-home-with-chatgpt-tactics/"><u>Revolutionizing Work From Home with ChatGPT Tactics</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-overcome-slow-download-problems-with-league-of-legends/"><u>Troubleshoot & Overcome Slow Download Problems with League of Legends</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-no-imovie-no-problem-top-5-free-online-video-editors/"><u>Updated 2024 Approved No iMovie? No Problem! Top 5 Free Online Video Editors</u></a></li>
 </ul></div>
 

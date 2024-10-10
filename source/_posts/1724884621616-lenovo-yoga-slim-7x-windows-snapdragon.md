@@ -1,7 +1,7 @@
 ---
 title: "Lenovo Yoga Slim 지갑쇼드라그래픅 7X 리뷰: Windows에서 Snapdragon은 완전히 안타깝게 신속하지 않음"
-date: 2024-10-02T18:00:26.334Z
-updated: 2024-10-04T21:25:15.590Z
+date: 2024-10-03T21:19:14.123Z
+updated: 2024-10-09T17:02:22.364Z
 tags:
   - desktop
 categories:
@@ -38,13 +38,6 @@ The Lenovo Yoga Slim 7x is one of the first Copilot+ PC laptops, with all-day ba
 * No Thunderbolt support
 
 [$1199 at Lenovo](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fyoga%2Fyoga-slim-series%2Fyoga-slim-7x-gen-9-%2814-inch-snapdragon%29%2Flen101y0049) [$1199.99 at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-yoga-slim-7x-copilot-pc-14-5-3k-oled-touch-screen-laptop-snapdragon-x-elite-16gb-memory-512gb-ssd-cosmic-blue%2F6582538.p%3FskuId%3D6582538) 
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Price and Availability
 
@@ -113,16 +106,10 @@ The Lenovo Yoga Slim 7x is one of the first Copilot+ PC laptops, with all-day ba
 Expand 
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Design: The Ports Are Lacking
@@ -134,10 +121,10 @@ Expand
 ![The keyboard on the Lenovo Yoga Slim 7x.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-keyboard-on-the-lenovo-yoga-slim-7x-2_53815829123_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -172,6 +159,13 @@ Jerome Thomas / How-To Geek
 
  The display also supports HDR content, either through VESA DisplayHDR True Black 600 or Dolby Vision. However, there are still not many applications and games on Windows that support HDR, including most streaming services.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Software: Hello, ARM Windows
 
  The Yoga Slim 7x has an ARM-based Snapdragon X Elite processor, which means it runs [Windows 11 for ARM](https://fox-http.techidaily.com/essential-list-best-microphones-for-4k-ultra-hd/) instead of the typical Windows 11 operating system for x86-based Intel and AMD processors. The ARM edition looks exactly like Windows 11 on every other PC, and it has all the same included applications, but software and driver compatibility are a bit different.
@@ -186,18 +180,24 @@ Jerome Thomas / How-To Geek
 
 ![Microsoft Store screenshot showing how Doom Eternal can't be installed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/image-1-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Some software just doesn’t exist on ARM Windows and can’t be emulated. If you have a device that needs specific third-party drivers to function, instead of the generic drivers available through Windows Update, it probably won’t work. You also can’t use virtualization software and some emulators—VirtualBox and VMWare don’t have ARM Windows versions. I couldn't try Microsoft’s [HyperV virtualization tool](https://facebook-record-videos.techidaily.com/updated-the-infographic-index-youtubes-surprising-stat-treasury-2017/), because it needs Windows 11 Pro. This laptop ships with Windows 11 Home. You can use the [Windows Subsystem for Linux](https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-honor-magic-5-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/), though it will install ARM Linux, which doesn’t have all the same software as x86 Linux.
 
  This new ARM laptop still has some software bloat, like McAfee antivirus and random Lenovo tools. I had to uninstall McAfee after a few days because it kept showing annoying popups and blocked some applications from running. Microsoft is also increasingly aggressive with [prompts to use the Edge browser](https://instagram-video-recordings.techidaily.com/2024-approved-facing-instagram-video-issues-you-may-find-the-answers-here/) and [defaulting to OneDrive for storage](https://audio-editing.techidaily.com/new-in-2024-10-best-websites-to-download-ding-sound-effect-easily/) in Windows 11.
 
  Finally, it’s worth noting that Windows 11 is currently the only operating system for these Snapdragon X laptops. If you want to give desktop Linux a serious try, buy a different laptop with an x86 Intel or AMD CPU (or better yet, [a laptop designed specifically for Linux](https://win-howtos.techidaily.com/ensure-file-placement-consistency-across-windows-10-boots/)).
+
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Performance: Great, If Your Apps Work
 
@@ -208,16 +208,10 @@ Jerome Thomas / How-To Geek
 ![The Snapdragon processor on the Lenovo Yoga Slim 7x.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-snapdragon-processor-on-the-lenovo-yoga-slim-7x-2_53814663467_o.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -240,6 +234,13 @@ Jerome Thomas / How-To Geek
 
  It’s also worth keeping in mind that the [13-inch M2 MacBook Air](https://www.apple.com/macbook-air/) starts at $1,099\. The hardware is a poor match on paper, with only 8GB of unified memory and 256GB storage in the base configuration, but that hardware generally goes further on macOS than Windows. Apple’s modern M2 and M3 chips have similar power efficiency and battery life as the Snapdragon chip in the Yoga 7x, but software compatibility is far less of a gamble—as long as it’s available on macOS, anyway.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Should You Buy the Lenovo Yoga Slim 7x?
 
 ![The back of the Lenovo Yoga Slim 7x.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-back-of-the-lenovo-yoga-slim-7x_53814663702_o.jpg) 
@@ -253,19 +254,6 @@ Jerome Thomas / How-To Geek
  If you want a Windows laptop, and you primarily work in a web browser and basic productivity software, the Yoga Slim 7x is _probably_ a good laptop. There are too many edge cases where it falls flat, though, and you shouldn't pay this much money to be beta testers for Microsoft and Qualcomm. If you know the software you need works on ARM Windows, or the situation dramatically improves with Windows updates, consider picking it up on sale.
 
 ![Lenovo Yoga Slim 7x laptop open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/laptop.png) 
-
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #####  Lenovo Yoga Slim 7x
 
@@ -290,16 +278,17 @@ The Lenovo Yoga Slim 7x is one of the first Copilot+ PC laptops, with all-day ba
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-best-movie-trailers/"><u>[New] Best Movie Trailers</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-instagram-glow-up-the-best-three-highlight-ideas/"><u>[New] In 2024, Instagram Glow Up The Best Three Highlight Ideas</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-streamlined-strategies-for-gaming-screen-recording-for-2024/"><u>[New] Streamlined Strategies for Gaming Screen-Recording for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-full-potential-with-iphone-hdr/"><u>[New] Unlocking Full Potential with iPhone HDR</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-mastering-high-definition-facebook-video-downloads/"><u>[Updated] 2024 Approved Mastering High-Definition Facebook Video Downloads</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-resource-list-open-source-imagery-sanctuary/"><u>[Updated] Ultimate Resource List Open-Source Imagery Sanctuary</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-tailoring-podcast-sharing-for-instagram-enthusiasts/"><u>2024 Approved Tailoring Podcast Sharing for Instagram Enthusiasts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-places-to-access-westeros-themed-phone-sounds/"><u>2024 Approved Top Places to Access Westeros-Themed Phone Sounds</u></a></li>
-<li><a href="https://howto.techidaily.com/android-screen-stuck-general-oppo-f23-5g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Oppo F23 5G Partly Screen Unresponsive | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/methods-to-secure-your-site-from-ai-scrapers-what-you-need-to-know-about-guarding-against-openai/"><u>Methods to Secure Your Site From AI Scrapers: What You Need to Know About Guarding Against OpenAI</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-vivo-y100-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-premium-picks-best-win-11-webcams-for-clear-capture/"><u>[New] 2024 Approved Premium Picks Best Win 11 Webcams for Clear Capture</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-virtual-reality-showdown-ranking-the-top-10-pc-streamers-for-360-videos/"><u>[New] 2024 Approved Virtual Reality Showdown Ranking the Top 10 PC Streamers for 360 Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-evaluating-zdsofts-prowess-in-screen-recorder-tech-for-2024/"><u>[New] Evaluating ZDSoft's Prowess in Screen Recorder Tech for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamlining-video-creation-with-windows-movie-maker-on-windows-8/"><u>[New] Streamlining Video Creation with Windows Movie Maker on Windows 8</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-essential-guide-from-twitter-videos-to-high-quality-mp3-soundtracks/"><u>[New] The Essential Guide From Twitter Videos to High-Quality MP3 Soundtracks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-5-vr-sets-elevating-uav-experience/"><u>[Updated] Ultimate 5 VR Sets Elevating UAV Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-approaches-to-clearer-zoomed-video-on-online-platforms/"><u>[Updated] Ultimate Approaches to Clearer Zoomed Video on Online Platforms</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-nighttime-photography-success-tips-and-tricks/"><u>2024 Approved Nighttime Photography Success Tips & Tricks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-vanguard-of-virtual-storage-top-choices/"><u>2024 Approved The Vanguard of Virtual Storage Top Choices</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/essential-tips-for-storing-snapchat-videos-on-devices-for-2024/"><u>Essential Tips for Storing Snapchat Videos on Devices for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-ballot-battlegrounds-prime-political-games-guide/"><u>In 2024, Ballot Battlegrounds Prime Political Games Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-warframe-launch-difficulties-a-comprehensive-fix-guide/"><u>Overcome Warframe Launch Difficulties - A Comprehensive Fix Guide</u></a></li>
 </ul></div>
 

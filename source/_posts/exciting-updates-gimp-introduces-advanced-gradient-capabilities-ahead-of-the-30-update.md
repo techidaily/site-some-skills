@@ -1,7 +1,7 @@
 ---
 title: "Exciting Updates: GIMP Introduces Advanced Gradient Capabilities Ahead of the 3.0 Update"
-date: 2024-10-02T16:01:10.364Z
-updated: 2024-10-04T19:20:26.835Z
+date: 2024-10-05T18:35:58.152Z
+updated: 2024-10-10T00:29:42.236Z
 tags:
   - deals
 categories:
@@ -38,34 +38,25 @@ The latest GIMP release (version 2.10.36) introduces a fun new gradient tool and
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-improve-zoo-audio-integrity-in-online-communication/"><u>[New] Improve Zoo Audio Integrity in Online Communication</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-coexisting-screen-data-gathering/"><u>[New] In 2024, Coexisting Screen Data Gathering</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-strategies-to-navigate-and-thrive-with-product-sponsors-on-youtube/"><u>[New] Strategies to Navigate and Thrive with Product Sponsors on YouTube</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-hook-up-guide-scripts-to-seduce-listeners/"><u>[New] The Hook-Up Guide Scripts to Seduce Listeners</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-8-innovative-glasses-for-entering-metaverse-worlds/"><u>[New] Top 8 Innovative Glasses for Entering Metaverse Worlds</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlock-your-dji-potential-two-devices-get-20-gratis-luts/"><u>[New] Unlock Your DJI Potential – Two Devices Get 20 Gratis LUTs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unveiling-professional-hdr-magic-in-adobes-photoshop/"><u>[New] Unveiling Professional HDR Magic in Adobe's Photoshop</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-breaking-the-videography-code-download-and-preserve-media-on-fb/"><u>[Updated] In 2024, Breaking the Videography Code Download and Preserve Media on FB</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-perfect-iphone-mp3-conversion-top-6-software-recommendations/"><u>[Updated] Perfect iPhone MP3 Conversion Top 6 Software Recommendations</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-through-the-lens-through-the-mind-advanced-photo-editing-mastery/"><u>2024 Approved Through the Lens, Through the Mind Advanced Photo Editing Mastery</u></a></li>
-<li><a href="https://fox-http.techidaily.com/deciphering-average-income-the-podcasters-guide-for-2024/"><u>Deciphering Average Income The Podcaster's Guide for 2024</u></a></li>
-<li><a href="https://ai-video.techidaily.com/easy-steps-to-translate-video-on-twitter/"><u>Easy Steps to Translate Video on Twitter</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-magic-of-ar-mastering-lut-applications/"><u>In 2024, Unveiling the Magic of AR Mastering LUT Applications</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-realme-narzo-60x-5gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Realme Narzo 60x 5GFRP Lock</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionize-meal-prep-using-chatgpts-culinary-guidance/"><u>Revolutionize Meal Prep Using ChatGPT's Culinary Guidance</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/stability-secrets-for-dynamic-photo-shoots-for-2024/"><u>Stability Secrets for Dynamic Photo Shoots for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-multi-resolution-adjustment-suite/"><u>[New] Multi-Resolution Adjustment Suite</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-trim-videos-with-flair-in-windows-11-photo-apps/"><u>[New] Trim Videos with Flair in Windows 11 Photo Apps</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-your-perfect-playlist-best-12-pc-games-to-enjoy-more-clicks/"><u>[Updated] 2024 Approved Your Perfect Playlist Best 12 PC Games to Enjoy More Clicks</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-50-clever-tiktok-gags-for-laughter-for-2024/"><u>[Updated] 50 Clever TikTok Gags for Laughter for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-future-is-now-how-vida-transforms-video-editing/"><u>[Updated] The Future Is Now How Vida Transforms Video Editing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-right-way-to-close-a-long-term-but-unneeded-linkedin-account/"><u>[Updated] The Right Way to Close a Long-Term but Unneeded LinkedIn Account</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-premier-ranking-of-outstanding-stop-motion-films/"><u>2024 Approved The Premier Ranking of Outstanding Stop-Motion Films</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleash-creative-potential-with-green-screen-tips/"><u>In 2024, Unleash Creative Potential with Green Screen Tips</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-windows-driver-update-for-amd-radeon-r9-200-series-gpus/"><u>Latest Windows Driver Update for AMD Radeon R9 200 Series GPUs</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/quicktime-screen-recording-with-audio-guide/"><u>QuickTime Screen Recording with Audio Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/social-simulacrum-sketches-designing-distorted-digital-selves/"><u>Social Simulacrum Sketches Designing Distorted Digital Selves</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-seamless-shift-in-music-production-for-2024/"><u>The Seamless Shift in Music Production for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/king-trending-potential-in-your-videos/"><u>Unlocking Trending Potential in Your Videos</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

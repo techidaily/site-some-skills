@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Linking Your Xbox Gamepad to Windows Computer"
-date: 2024-10-02T20:46:31.945Z
-updated: 2024-10-04T16:01:48.139Z
+date: 2024-10-04T18:49:00.039Z
+updated: 2024-10-09T20:34:54.525Z
 tags:
   - desktop
 categories:
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/c8166e8b96eec7a32e2c5447a156a34a01b3ade6d
 
 ![An Xbox Wireless Controller with a USB Type-C cable](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/img_31184796.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Xbox
 
  Once you're connected via USB, the Xbox button will stay lit on your controller, indicating that it's ready to use. In most cases, the controller will work without any additional setup, but if that doesn't happen, you might need to [update the controller's firmware](https://windows11.techidaily.com/best-fit-the-ideal-vms-that-complement-your-windows-11-pc/).
@@ -42,22 +49,15 @@ Xbox
 ![Settings in the Windows 10 Start menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/settings.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In Settings, click "Devices."
 
 ![Windows 10 Settings Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/devices-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In Devices, make sure that you're on the "Bluetooth & Other Devices" page, and then click "Add Bluetooth or other device."
 
@@ -92,10 +92,10 @@ Xbox
  When you're done playing, it'll turn off automatically after a while, but you can also [turn the Xbox controller off](https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-google-pixel-fold-drfone-by-drfone-virtual/) manually to save battery life. To do this, press and hold the Xbox button or pop the batteries out.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Connect an Xbox Wireless Controller with an Xbox Wireless Adapter
@@ -105,10 +105,10 @@ Xbox
 ![The Xbox Wireless adapter next to a controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/wirelsss-adapter.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Xbox](https://www.xbox.com/en-US/accessories/controllers/xbox-wireless-controller-adapter-windows)
@@ -120,16 +120,10 @@ Xbox
 ![The Bluetooth settings showing the "Add a device" window in WIndows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/adapter-bluetooth-settings.png) 
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -151,18 +145,20 @@ Xbox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-5-best-gba-emulators-for-pc-that-hook-you-up/"><u>[Updated] 2024 Approved 5 Best GBA Emulators for PC That Hook You Up</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-time-travelers-guide-mastering-video-speed-adjustment/"><u>[Updated] Time Traveler's Guide Mastering Video Speed Adjustment</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-navigating-cross-platform-shares-igtv-and-facebook/"><u>2024 Approved Navigating Cross-Platform Shares IGTV & Facebook</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-resource-compilation-for-media-imagery/"><u>2024 Approved Ultimate Resource Compilation for Media Imagery</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-future-of-marketing/"><u>2024 Approved Unveiling the Future of Marketing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-top-10-techniques-live-cricket-broadcasting/"><u>2024 Approved Unveiling Top 10 Techniques Live Cricket Broadcasting</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/experience-fun-on-the-waves-with-the-propella-7s-40-a-light-agile-and-budget-friendly-choice/"><u>Experience Fun on the Waves with the Propella 7S 4.0: A Light, Agile and Budget-Friendly Choice!</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-fix-for-non-functional-minecraft-local-area-network-gaming/"><u>Mastering the Fix for 'Non-Functional Minecraft Local Area Network Gaming'</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/movavimp3-3g2/"><u>Movaviの無料オンラインで簡単なMP3変換: 3G2ファイルを使って</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-tools-that-makes-your-laptops-os-change-more-manageable/"><u>Top Tools that Makes Your Laptop's OS Change More Manageable</u></a></li>
-<li><a href="https://some-skills.techidaily.com/value-in-the-air-the-cheapest-yet-effective-drones-for-2024/"><u>Value in the Air The Cheapest Yet Effective Drones for 2024</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/xml-path-selector-editor-a-comprehensive-guide/"><u>XML Path Selector Editor: A Comprehensive Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-expert-tips-to-enrich-virtual-meetings-with-screen-sharing/"><u>[New] 2024 Approved Expert Tips to Enrich Virtual Meetings with Screen Sharing</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-chorus-cache-secure-and-inspect-audio-recordings-for-2024/"><u>[New] Chorus Cache Secure & Inspect Audio Recordings for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-enthusiastic-exchanges-chatting-with-your-subscribers-for-2024/"><u>[New] Enthusiastic Exchanges Chatting With Your Subscribers for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-mastering-camera-roll-sharing-in-just-a-few-steps/"><u>[New] In 2024, Mastering Camera Roll Sharing in Just a Few Steps</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-overcoming-youtubes-content-id-blockades-with-tactics-for-2024/"><u>[Updated] Overcoming YouTube's Content ID Blockades with Tactics for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-vegas-pros-latest-features-in-21/"><u>[Updated] The Ultimate Guide to Vegas Pro's Latest Features in '21</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-strategies-for-high-fidelity-video-conversion-to-dvd/"><u>[Updated] Top Strategies for High-Fidelity Video Conversion to DVD</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transfer-tactics-efficiently-getting-data-on-your-computer/"><u>[Updated] Transfer Tactics Efficiently Getting Data On Your Computer</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-honor-magic-5-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-mastering-nikon-footage-a-step-by-step-guide-to-video-editing/"><u>2024 Approved Mastering Nikon Footage A Step-by-Step Guide to Video Editing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-power-of-precision-in-slug-line-writing-techniques/"><u>2024 Approved The Power of Precision in Slug Line Writing Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unparalleled-top-5-agile-camcorders-guide/"><u>2024 Approved Unparalleled Top 5 Agile Camcorders Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-hd-upgrade-tool-windows-mac-and-online-conversion/"><u>In 2024, Ultimate HD Upgrade Tool Windows, Mac & Online Conversion</u></a></li>
+<li><a href="https://win-dash.techidaily.com/sound-blaster-audigy-fx-download-and-install-ultimate-gaming-experience/"><u>Sound Blaster Audigy FX: Download and Install Ultimate Gaming Experience</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Vivo Y36i | Dr.fone</u></a></li>
 </ul></div>
 

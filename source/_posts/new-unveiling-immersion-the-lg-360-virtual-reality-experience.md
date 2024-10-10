@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Unveiling Immersion  The LG 360 Virtual Reality Experience\""
-date: 2024-08-10T20:02:32.354Z
-updated: 2024-08-11T20:02:32.354Z
+date: 2024-10-05T21:55:00.971Z
+updated: 2024-10-10T00:18:24.475Z
 tags: 
   - screen-recording
   - ai video
@@ -28,12 +28,16 @@ thumbnail: https://thmb.techidaily.com/de2a2439a12942f0b9808810580359ed4223c732c
 
 ## First Impression of LG 360 VR
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Design of LG 360 VR
 
  The 360 VR does not look like other headsets present in the market and in this occurrence, this is not a good feature. Certainly, it is tough, maybe terrible even, to make someone look cool while having a VR headset on their head. But with the design of 360 VR, it is quite sure that engineers have made no attempt to resolve this issue. The headset sports a look similar to what common in the 1980s imagined a futuristic invention would look like. It actually looks like a product with a low-cost, NHS-prescribed article for modifying poor vision.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Accessories of LG 360 VR
 
@@ -44,8 +48,12 @@ thumbnail: https://thmb.techidaily.com/de2a2439a12942f0b9808810580359ed4223c732c
  Well, the packaging is quite simple as all the other products of LG. It comes in a simple box will all the accessories in it. It is okay to say that the packaging is safe, but should be dealt with care, in the end, it is a delicate product. Everything looks good until it is inside the box.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### How to Set up LG 360 VR headset
 
 * First of all, connect the USB connector of the headset on to your smartphone. It will take a few minutes. When the headset is on, the screen of your phone will become off, and now you can use your phone as a touchpad.
@@ -54,26 +62,16 @@ thumbnail: https://thmb.techidaily.com/de2a2439a12942f0b9808810580359ed4223c732c
 * Other than that, the headset will connect to the phone if the battery of your phone is too low or the phone is too hot.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### LG 360 VR Performance
 
  When you ponder that it is the LG G5 phone that is actually doing all the work in terms of actually driving the 360 VR's practices, you would at least assume steady performance. We know that the G5 is one of the most influential smartphones present in the market, including an Adreno 530 GPU, Snapdragon 820 and a 4GB RAM. Unfortunately, the first experience with the 360 VR’s performance is unsatisfactory to say the minimum. Having a 920 x 720 resolution per eye, this headset provides a much lower resolution rate as compared to all other virtual reality headsets present in the market. Although using it is a rollercoaster ride through various mixed experiences.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ## Key features of the LG 360 VR headset
 
 * It has 1.88 inches IPS LCD display.
@@ -104,13 +102,18 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 * You can not experience the VR properly.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Comparison of Samsung Gear VR and LG 360 VR
 
 | |  LG 360 VR  | Samsung Gear VR                         |                                                                         |
@@ -121,15 +124,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 | Compatibility | Works with LG G5                        | Works with Samsung Galaxy S6, S6 Edge, S6 Edge+, Note 5, S7 and S7 Edge |
 | Resolution    | 960x720 pixels at 693ppi                | 1,280x1,440 pixels, at 518-577ppi also depends on phone                 |
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ### More about LG 360 VR headset
 
  LG 360 VR is a virtual reality device designed by LG. It was actually released with LG G5 and used to promote this phone. LG 360 VR has an internal built-in display, unlike the Gear VR designed by Samsung, which also provides a unit plugging for power directly to the phone. The headset can be controlled from the smartphone screen by just tapping and swiping. LG, however, designed this device to enjoy the virtual reality experience, but the device is not up to the mark. If you haven’t bought this device yet, it is highly advised not to buy this one. It is not a very good design and its performance is also not very good.
@@ -146,8 +140,6 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -155,5 +147,26 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-discover-efficient-methods-for-compiling-songs-on-youtube/"><u>[New] In 2024, Discover Efficient Methods for Compiling Songs on YouTube</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-secure-survival-housing-in-minecraft/"><u>[New] In 2024, Secure Survival Housing in Minecraft</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamline-filmmaking-install-xps-media-tools/"><u>[Updated] Streamline Filmmaking Install XP's Media Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-path-to-perfect-presentation-cutting-out-image-backdrops-on-canva/"><u>[Updated] The Path to Perfect Presentation Cutting Out Image Backdrops on Canva</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-top-tales-youtubes-best-narrative-channels-this-year/"><u>[Updated] The Top Tales YouTube’s Best Narrative Channels This Year</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-guide-windows-movie-maker-downloading/"><u>[Updated] Ultimate Guide Windows Movie Maker Downloading</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-windows-audio-suite/"><u>[Updated] Ultimate Windows Audio Suite</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-smirk-sessions-humorous-content-for-all-events/"><u>2024 Approved Smirk Sessions Humorous Content for All Events</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-best-selling-vr-gaming-experienences-on-oculus/"><u>2024 Approved The Best-Selling VR Gaming Experienences on Oculus</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-total-movement-insights-2023/"><u>2024 Approved Total Movement Insights 2023</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/g435-headset-not-producing-any-sounds-diagnosis-and-fixes/"><u>G435 Headset Not Producing Any Sounds: Diagnosis and Fixes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-oppo-reno-10-proplus-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Oppo Reno 10 Pro+ 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/maximize-your-iphones-space-effective-techniques-for-freeing-up-storage-on-ios-12-devices/"><u>Maximize Your iPhone's Space: Effective Techniques for Freeing Up Storage on iOS 12 Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/score-unbeatable-prime-day-bargains-get-your-samsung-frame-tv-at-40-off-shop-now-for-top-deals/"><u>Score Unbeatable Prime Day Bargains: Get Your Samsung Frame TV at 40% Off - Shop Now for Top Deals!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-crossfade-sounds-using-audacity-for-2024/"><u>The Ultimate Guide to Crossfade Sounds Using Audacity for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/the-ultimate-selection-of-windows-compatible-vo-recording-apps-for-professionals/"><u>The Ultimate Selection of Windows-Compatible VO Recording Apps for Professionals</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-picks-backgrounds-elevating-video-streaming-for-2024/"><u>Top Picks Backgrounds Elevating Video Streaming for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/zero-dollar-victory-acquiring-superior-games-on-steam-for-free/"><u>Zero Dollar Victory: Acquiring Superior Games on Steam for Free</u></a></li>
+</ul></div>
 

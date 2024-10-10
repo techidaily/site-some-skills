@@ -1,7 +1,7 @@
 ---
 title: AI-Powered Techniques to Scale Up and Revitalize Classic Images Sans Photoshop
-date: 2024-10-03T18:51:50.756Z
-updated: 2024-10-04T18:36:36.835Z
+date: 2024-10-08T04:20:27.176Z
+updated: 2024-10-09T21:55:45.599Z
 tags:
   - web
 categories:
@@ -56,24 +56,31 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Uploading the old photo using Windows Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/loading.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close 
 
  Check the relevant boxes if you have a high-resolution scan and if your photo has scratches. Click “Run.” It should take roughly 2 minutes to process the output. The tool has a helpful slider to view the before and after.
 
 ![Steps for running photo restoration AI on Replicate.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/run.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Keep an eye on the Warm or Cold tag under the title of the AI model. A cold tag means the model is booting, and your photo will take longer to process. If the model is already warm, you’ll get the output sooner.
 
  As you can see, the AI has done a great job of cleaning up the photo. ​​​​Click “Download” to get your restored image in full resolution. Or click “Tweak” to run the AI again with different settings.
 
 ![Arrow indicating the output preview window and the download button for the restored photo.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/download.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Colorizing Restored Photos
 
@@ -87,23 +94,9 @@ Close
 
 ![Arrow indicating the upload button on the Deoldify input form.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/upload-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Deoldify has two settings: the model name and the render factor. You can play around with both until you get the best result. The default is the Artistic model and a render factor of “35” which should work in most scenarios. I got a better result with Stable here.
 
 ![Steps for running Deoldify on Replicate.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/set.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Click “Run” once you’ve selected your preferred settings. Wait for the processed output. If you’re happy with the result, click “Download.” Or click “Tweak it” to re-process it with different settings.
 
@@ -117,7 +110,21 @@ Close
 
 ![Arrow pointing at the upload button for ESRGAN AI.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/upload-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Steps for uploading the colorized photo to Replicate.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/explorer.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close 
 
@@ -126,10 +133,10 @@ Close
 ![Steps for running the upscaling AI on Replicate.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/run-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When it's done, the before and after previews look identical. But when you download the processed file, it has a much higher resolution.
@@ -137,22 +144,21 @@ Close
 ![Arrow indicating the download button on Replicate.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/download-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  That’s all. Now our restored photo is ready for your digital or print album. Here’s a side-by-side comparison.
 
 ![Before and after preview of the restored photo.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/comparison.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Including these three AI models, Replicate has a whole [collection of image restoration models](https://replicate.com/collections/image-restoration). There’s also a catalog dedicated to image [upscaling and refining models](https://replicate.com/collections/super-resolution).
 
@@ -177,22 +183,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-is-photoshops-shake-control-a-game-changer/"><u>[New] Is Photoshop's Shake Control a Game Changer?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-streamlining-project-management-through-filmora-knowledge/"><u>[New] Streamlining Project Management Through Filmora Knowledge</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-plan-to-grow-your-subscriber-base/"><u>[New] The Ultimate Plan to Grow Your Subscriber Base</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-the-art-of-advertising-earning-navigating-vimeos-revenue-landscape/"><u>[Updated] 2024 Approved The Art of Advertising Earning Navigating Vimeo's Revenue Landscape</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-taking-solo-shots-from-videos-in-windows-10-photos-interface/"><u>2024 Approved Taking Solo Shots From Videos in Windows 10 Photos Interface</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/best-rated-wedding-timekeepers-a-comprehensive-android-and-ios-app-review/"><u>Best-Rated Wedding Timekeepers A Comprehensive Android & iOS App Review</u></a></li>
-<li><a href="https://techidaily.com/bios-setup-hands-on-starting-up-into-system-firmware-on-windows-versions/"><u>BIOS Setup Hands-On: Starting Up Into System Firmware on Windows Versions</u></a></li>
-<li><a href="https://win-blog.techidaily.com/get-your-game-on-easy-fixes-for-a-stubborn-epic-games-launcher/"><u>Get Your Game On: Easy Fixes for a Stubborn Epic Games Launcher</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-the-potentials-of-windows-11-movie-maker/"><u>In 2024, Unlocking the Potentials of Windows 11 Movie Maker</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/tailoring-your-streamlabs-obs-experience-for-2024/"><u>Tailoring Your Streamlabs OBS Experience for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-quickest-quarter-mile-sochi-22-for-2024/"><u>The Quickest Quarter Mile - Sochi '22 for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-ultimate-test-nikon-d7500-vs-competitors/"><u>The Ultimate Test Nikon D7500 vs Competitors</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transform-your-tactics-exclusive-free-voice-change-tool-for-valorant-gamers-for-2024/"><u>Transform Your Tactics Exclusive Free Voice Change Tool for Valorant Gamers for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-zooming-in-and-out-on-your-apple-tablet-or-smartphone/"><u>Ultimate Guide to Zooming in and Out on Your Apple Tablet or Smartphone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-list-selecting-excellent-webcams-for-podcasts-for-2024/"><u>Ultimate List Selecting Excellent Webcams for Podcasts for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlock-your-lost-iphone-xs-potentials-with-these-tricks-for-2024/"><u>Unlock Your Lost iPhone X's Potentials with These Tricks for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/what-to-try-when-windows-10-ignores-logitech-keyboard-input/"><u>What to Try When Windows 10 Ignores Logitech Keyboard Input</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-battle-of-live-streamers-twitch-versus-youtube/"><u>[New] The Battle of Live Streamers Twitch Versus YouTube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-proper-way-to-link-zoom-and-your-gmail-accounts/"><u>[New] The Proper Way to Link Zoom and Your Gmail Accounts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-top-rated-srt-translators-for-zero-cost/"><u>[New] Unveiling the Top-Rated SRT Translators for Zero Cost</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-stop-and-start-strategies-fb-livestream-recovery-methods/"><u>[Updated] Stop and Start Strategies FB Livestream Recovery Methods</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-upgraded-2023-samsung-bd-j5900/"><u>[Updated] Unveiling the Upgraded 2023 Samsung BD-J5900</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-supreme-display-quality-top-10-ranking-of-4k-screens/"><u>2024 Approved Supreme Display Quality #Top 10 Ranking of 4K Screens</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-6-creative-editors-on-the-latest-macos-big-sur/"><u>2024 Approved Top 6 Creative Editors on the Latest macOS Big Sur</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transform-every-moment-top-ideas-for-productive-podcast-sessions/"><u>2024 Approved Transform Every Moment Top Ideas for Productive Podcast Sessions</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/connective-horizons-proven-methods-for-intercultural-conversation/"><u>Connective Horizons: Proven Methods for Intercultural Conversation</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/expanding-viewable-area-of-youtube-recordings/"><u>Expanding Viewable Area of YouTube Recordings</u></a></li>
+<li><a href="https://video-capture.techidaily.com/fusing-live-streams-combining-cameras-plus-monitors/"><u>Fusing Live Streams Combining Cameras + Monitors</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>How Can I Use a Fake GPS Without Mock Location On Apple iPhone 15? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Vivo Y100i Power 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-kaji-ryan-at-11-amassing-wealth-via-online-videos/"><u>In 2024, Kaji Ryan At 11, Amassing Wealth via Online Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-sony-blu-ray-player-s6700-new-insights/"><u>In 2024, Sony Blu-Ray Player S6700 New Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/optimizing-ai-dialogue-the-ultimate-list-of-techniques/"><u>Optimizing AI Dialogue: The Ultimate List of Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/streamline-your-journey-to-zoom-mastery-for-2024/"><u>Streamline Your Journey to Zoom Mastery for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-vivo-y78-5g-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Vivo Y78 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-10-sites-for-high-end-vector-graphics-for-2024/"><u>Top 10 Sites for High-End Vector Graphics for 2024</u></a></li>
 </ul></div>
 

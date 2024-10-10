@@ -1,7 +1,7 @@
 ---
 title: "[New] Unpacking the Power of Yi's 4K Action Capture"
-date: 2024-08-10T20:01:59.194Z
-updated: 2024-08-11T20:01:59.194Z
+date: 2024-10-02T20:15:47.784Z
+updated: 2024-10-10T04:44:39.666Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
 
 # Yi 4K + Action Camera Complete Review
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -117,16 +114,10 @@ Yi 4K is designed with built in Wi-Fi abilities so that users can make direct co
 
 The future firmware update of Yi 4K+ action camera is supposed to bring so many interesting features into this tiny device. It will be extending support towards live streaming facility and raw images will be soon processed. The most interesting addition will be voice command support that will make control actions much easier during adventurous sports recording needs. This device will be offering impressive high performance service while consuming very low power and all ultra HD videos will deliver crisper details with elegant color distributions.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 Yi 4K+ is first action camera device to support 60fps frame rate at 4K resolution level and it further provides 8MP support to every still while ensuring crisp and deep details. There are several interesting features inside this tiny action cam including USB-C external mic connectivity and many more. However, you may also find few troubles like it cannot go underwater without protective housing. It not even extends support to live streaming and RAW files cannot be processed. But, even after so many downsides, its amazing video quality makes it standout against all competitors. You must order your new action camera soon.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -135,8 +126,6 @@ Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -144,5 +133,33 @@ Follow @Max Wales
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-a-comprehensive-introduction-to-streamlabs-obs/"><u>[New] A Comprehensive Introduction to Streamlabs OBS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-5-free-screen-recorders-on-windows-11-2023-update/"><u>[New] Top 5 Free Screen Recorders on Windows 11-2023 Update</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-broadcast-your-best-gameplay-from-xbox-to-fb-live/"><u>[Updated] In 2024, Broadcast Your Best Gameplay From Xbox to FB Live</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-iphone-ringtone-alterations/"><u>[Updated] The Ultimate Guide to iPhone Ringtone Alterations</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-storage-solution-for-sony-a7s-ii/"><u>[Updated] Ultimate Storage Solution for Sony A7S II</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-secrets-to-precision-in-picking-drone-power-units/"><u>2024 Approved Secrets to Precision in Picking Drone Power Units</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-complete-iphone-audio-downloading-manual/"><u>2024 Approved The Complete iPhone Audio Downloading Manual</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unmarked-image-accumulation-essentials/"><u>2024 Approved Unmarked Image Accumulation Essentials</u></a></li>
+<li><a href="https://extra-information.techidaily.com/achieve-high-definition-quality-with-video-enhancer-22-tutorial/"><u>Achieve High-Definition Quality with Video Enhancer 2.2 Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-does-windows-11s-new-backup-feature-work/"><u>How Does Windows 11'S New Backup Feature Work?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-realme-c53-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Realme C53 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-from-your-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID from Your iPhone 11 Pro Max?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-subtitled-quickly-converting-from-compressed-files/"><u>In 2024, Subtitled Quickly! Converting From Compressed Files</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-fine-tuning-audacitys-decibel-settings-for-perfect-balance/"><u>New 2024 Approved Fine-Tuning Audacitys Decibel Settings for Perfect Balance</u></a></li>
+<li><a href="https://some-skills.techidaily.com/superior-steadicams-for-drone-shooting-precision-for-2024/"><u>Superior Steadicams for Drone Shooting Precision for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-future-of-tiktok-master-video-trends-and-techniques-for-2024/"><u>The Future of TikTok - Master Video Trends and Techniques for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-top-5-ways-to-record-audio-in-windows-11-for-2024/"><u>The Ultimate Guide Top 5 Ways to Record Audio in Windows 11 for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlock-the-secrets-maximizing-your-video-content-on-zoom-and-youtube-live/"><u>Unlock the Secrets Maximizing Your Video Content on Zoom & YouTube Live</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-professional-hdr-magic-in-adobes-photoshop-for-2024/"><u>Unveiling Professional HDR Magic in Adobe's Photoshop for 2024</u></a></li>
+</ul></div>
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

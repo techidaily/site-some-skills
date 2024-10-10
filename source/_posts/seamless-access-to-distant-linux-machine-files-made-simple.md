@@ -1,7 +1,7 @@
 ---
 title: Seamless Access to Distant Linux Machine Files Made Simple
-date: 2024-09-29T19:19:56.073Z
-updated: 2024-10-04T17:26:26.131Z
+date: 2024-10-03T22:09:54.012Z
+updated: 2024-10-09T19:22:24.613Z
 tags:
   - desktop
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  SSHFS lets you browse files on remote Linux PCs as smoothly as if they were on your local computer. It’s a quick and simple way to interact with headless systems like Raspberry Pi.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What is SSHFS?
 
  SSHFS gets its name from _S_ecure _SH_ell and _F_ile _S_ystem.
@@ -32,10 +39,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  SSHFS isn’t really suited to executing programs located on the remote computer. Launching an executable from the mounted file system probably won’t work well, as it will try to run on your local computer. That’s the sort of stuff best suited to a regular SSH connection. But, for working with remote files, SSHFS can't be beat.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Installing SSHFS
@@ -52,13 +59,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
     
 ![Installing SSHFS on Ubuntu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/1-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Fedora users need to type:
 
         `sudo dnf install sshfs`
@@ -66,10 +66,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Installing SSHFS on Fedora.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/2-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  On Manjaro, you’ll use pacman:
@@ -78,18 +78,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
     
 ![Installing SSHFS on Manjaro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/3-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can test that SSHFS is installed and responding, by asking for its version number.
 
         `sshfs --version`
     
 ![Using the --version option to discover the version of SSHFS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/4-1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Making a Remote Connection
 
@@ -118,16 +118,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Mounting the remote file system on the local mount point.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/7-1.png) 
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The command consists of:
@@ -154,6 +148,13 @@ ls`
     
 ![Listing the contents of the remote file system in a terminal window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/8-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  We can see the home directory of the user account on the remote computer. Any changes you make here are made on the remote drive. Any edits or deletions will affect the remote computer.
 
  We ought to be able to create a new file.
@@ -174,6 +175,13 @@ ls /home/dave/Downloads/`
     
 ![Copying files from the remote file system to the local file system.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/10-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Accessing Files in a File Browser
 
  Because the mounted file system looks and behaves like any other part of your file system’s directory tree, you can use your file browser to navigate it too.
@@ -186,13 +194,6 @@ ls /home/dave/Downloads/`
 
 ![Editing a file in the remote file system with a local editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/12-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you edit a document, for example, your default local editor is launched.
 
 ##  Breaking the Connection
@@ -202,13 +203,6 @@ ls /home/dave/Downloads/`
         `sudo umount /media/dave/netscan`
     
 ![Unmounting the remote file system.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/13-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  The Far Away, Up Close
 
@@ -231,21 +225,20 @@ ls /home/dave/Downloads/`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-essential-steps-for-online-gamers-banner-use/"><u>[New] In 2024, Essential Steps for Online Gamers' Banner Use</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-list-of-iconic-stop-motion-films/"><u>[New] The Ultimate List of Iconic Stop-Motion Films</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-facebook-cover-video-key-strategies-and-tactics-explained/"><u>[Updated] Facebook Cover Video Key Strategies and Tactics Explained</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-penning-powerful-film-prospectus/"><u>[Updated] Penning Powerful Film Prospectus</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-transforming-your-brand-with-smart-spotify-marketing/"><u>[Updated] Transforming Your Brand with Smart Spotify Marketing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-turbocharge-your-photos-windows-11-edition/"><u>[Updated] Turbocharge Your Photos Windows 11 Edition</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-nikons-1j5-a-4k-video-masterpiece/"><u>[Updated] Unveiling Nikon's 1J5 A 4K Video Masterpiece</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-tag-with-your-favorite-show-podcast-on-ig/"><u>2024 Approved Tag with Your Favorite Show Podcast on IG</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-poco-c55-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Poco C55? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-on-iphone-13-pro-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock on iPhone 13 Pro</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-samsung-galaxy-a23-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Samsung Galaxy A23 5G Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-secrets-to-polished-photo-edits-in-canva/"><u>In 2024, The Secrets to Polished Photo Edits in Canva</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/mastering-the-art-of-using-ez-grabber-with-this-tutorial-for-2024/"><u>Mastering the Art of Using EZ Grabber with This Tutorial for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/tales-that-echo-through-time-top-8-halls-for-storytellers-for-2024/"><u>Tales That Echo Through Time Top 8 Halls for Storytellers for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-creative-potential-animated-text-techniques-ig-stories-for-2024/"><u>Unlocking Creative Potential Animated Text Techniques IG Stories for 2024</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/verbessern-sie-fotos-mit-winx-video-ai-professionelle-bildrestauration-fur-4k-8k-und-10k-auflosung/"><u>Verbessern Sie Fotos Mit WinX Video AI - Professionelle Bildrestauration Für 4K, 8K Und 10K Auflösung</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-cutting-edge-ipad-voice-recording-tools-3p/"><u>[New] In 2024, Cutting-Edge iPad Voice Recording Tools 3P</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlock-smooth-video-flow-from-your-photobooth-app/"><u>[New] Unlock Smooth Video Flow From Your Photobooth App</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-master-class-selecting-the-top-10-4k-shoulder-rigs/"><u>[Updated] Master Class Selecting the Top 10 4K Shoulder Rigs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-the-palette-of-possibilities-with-downloadable-spark-ar-luts/"><u>[Updated] Unlocking the Palette of Possibilities with Downloadable Spark AR LUTs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-the-secrets-pro-level-iphone-landscape-tips/"><u>[Updated] Unlocking the Secrets Pro-Level iPhone Landscape Tips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-tempo-trackers-guide-accessible-free-tools/"><u>2024 Approved The Tempo Tracker’s Guide – Accessible, Free Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-5-apps-to-stream-your-favorite-podcasts-on-iphone/"><u>2024 Approved Top 5 Apps to Stream Your Favorite Podcasts on iPhone</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-repairing-wacom-pen-connectivity-in-microsofts-latest-operating-systems/"><u>Expert Advice: Repairing Wacom Pen Connectivity in Microsoft's Latest Operating Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/identifying-inauthentic-friendship-invitations-a-guide/"><u>Identifying Inauthentic Friendship Invitations: A Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-vivo-x100-pro-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Vivo X100 Pro Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-shine-on-mastering-the-art-of-illumination-for-youtube-videos/"><u>In 2024, Shine On Mastering the Art of Illumination for YouTube Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-boundless-gallery-of-forgotten-artists/"><u>In 2024, The Boundless Gallery of Forgotten Artists</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/maximize-visibility-the-ultimate-guide-to-apple-tv-seo-success/"><u>Maximize Visibility: The Ultimate Guide to Apple TV SEO Success</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-insiders-guide-to-finesse-and-control-on-insta-stories-for-2024/"><u>The Insider's Guide to Finesse and Control on Insta Stories for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-amazfit-helio-ring-cost-guide-and-official-launch-details/"><u>Unveiling the Amazfit Helio Ring: Cost Guide & Official Launch Details</u></a></li>
 </ul></div>
 

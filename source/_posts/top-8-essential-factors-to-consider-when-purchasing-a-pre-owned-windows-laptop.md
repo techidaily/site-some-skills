@@ -1,7 +1,7 @@
 ---
 title: Top 8 Essential Factors to Consider When Purchasing a Pre-Owned Windows Laptop
-date: 2024-10-01T19:38:33.569Z
-updated: 2024-10-04T20:37:58.697Z
+date: 2024-10-04T04:45:42.194Z
+updated: 2024-10-09T23:33:45.247Z
 tags:
   - deals
 categories:
@@ -30,16 +30,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Keyboard tester typing letters in lowercase with Caps Lock off.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-keyboard-tester-typing-letters-in-lowercase-with-caps-lock-off.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To test the trackpad, hover over the screen to gauge its responsiveness. Then, experiment with different trackpad gestures, such as pinch-to-zoom and two-finger scroll, to see which ones are supported. If you have another laptop, you can compare trackpad responsiveness by conducting a touchpad accuracy test on both laptops using the [No-Cursor website](https://no-cursor.com/).
 
  This will help you confirm whether the trackpad on your new laptop is equally or more responsive than the other one.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Test the Speakers and Built-In Microphone
 
@@ -52,13 +52,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  To [test the built-in microphone](https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-vivo-y200e-5g-drfone-by-drfone-virtual-android/), return to the sound settings, click on "Microphone Array," and then click on the "Start Test" button next to Test Your Microphone. Speak for a few seconds, then stop the test. If you see a decent volume percentage recorded, the microphone is working as it should.
 
 ![Testing the laptop microphone in Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/2-testing-the-laptop-microphone-in-settings.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Test the Built-In Camera
 
@@ -77,10 +70,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Generating the battery health report from Windows PowerShell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/08/br_2-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Navigate to this location and open the battery report. Then, go to the "Installed Batteries" section and compare the "Design Capacity" with the "Full Charge Capacity." The difference between these values indicates the extent to which the battery's capacity has diminished due to usage. If the full charge capacity is significantly low, you may have to replace the battery.
@@ -100,10 +93,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Also, watch out for stickers that may be covering up wear and tear underneath, as this is a common practice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Test the Wired and Wireless Connectivity
@@ -113,16 +106,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Start by connecting your laptop to Wi-Fi. Then, [test its Ethernet port](https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/) by plugging it directly into the router. If the internet connection works well, test the audio jacks with headphones. Similarly, check the USB ports by connecting a wired device. Finally, make sure Bluetooth is working by pairing a Bluetooth-powered device.
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Check the Health of RAM and Storage Drive
@@ -130,6 +117,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Finally, [check the health of the RAM](https://hardware-help.techidaily.com/step-by-step-installation-amd-gpio-pin-driver-for-hexagon-devices/) and storage drive to ensure they're not faulty. To test the RAM, you can use the Windows Memory Diagnostic tool, which detects and displays potential issues with it. To run the test, open Command Prompt as an administrator, type **mdsched.exe**, and press Enter. Then, click "Restart Now and Check for Problems."
 
 ![Running the memory diagnostic test from Windows Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/3-running-the-memory-diagnostic-test-from-windows-command-prompt.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Windows will restart and run the test. Once it finishes testing the RAM, it'll restart again and display the test results. If you don't see them, you can use the Windows Event Viewer to search for potential issues identified during the test. Open Event Viewer and go to Windows Logs > System. Click "Find," type **MemoryDiagnostic**, and click "Find Next."
 
@@ -154,22 +148,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-surging-interest-through-effective-strategies-for-fb-giveaway-promotions/"><u>[New] 2024 Approved Surging Interest Through Effective Strategies for FB Giveaway Promotions</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-essential-notebooks-excellent-in-media-post-production-for-2024/"><u>[New] Essential Notebooks Excellent in Media Post-Production for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-softening-mix-tracks-incrementally-in-fl/"><u>[New] Softening Mix Tracks Incrementally in FL</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-step-by-step-guide-to-optimal-sound-quality-with-zooms-features-for-2024/"><u>[New] Step-by-Step Guide to Optimal Sound Quality with Zoom's Features for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-art-and-science-of-capturing-stunning-gopro-time-lapse/"><u>[New] The Art & Science of Capturing Stunning GoPro Time Lapse</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-checklist-for-a-premium-4k-lens-buy/"><u>[New] The Ultimate Checklist for a Premium 4K Lens Buy</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-iphone-x-animoji-handbook-for-seamless-experience/"><u>[New] Ultimate iPhone X Animoji Handbook for Seamless Experience</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlock-photo-editing-potential-with-these-clever-pixlr-techniques/"><u>[New] Unlock Photo Editing Potential with These Clever Pixlr Techniques</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-unlocking-your-potential-with-these-top-10-affordable-web-conferencing-services/"><u>[New] Unlocking Your Potential with These Top 10 Affordable Web Conferencing Services</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-mastery-of-mobile-and-desktop-calendar-integration-with-zoom/"><u>[Updated] 2024 Approved Mastery of Mobile and Desktop Calendar Integration with Zoom</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-sky-symphony-top-10-websites-presenting-dynamic-hdr-imagery/"><u>[Updated] Sky Symphony - Top 10 Websites Presenting Dynamic HDR Imagery</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-tips-for-perfecting-sound-tracks-start-with-auditions-fade-in/"><u>2024 Approved Tips for Perfecting Sound Tracks Start with Audition's Fade-In</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-5-unique-features-that-make-opera-gx-a-standout-in-todays-mobile-browsers-insights-from-zdnet/"><u>Exploring 5 Unique Features That Make Opera GX a Standout in Today's Mobile Browsers - Insights From ZDNet</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Xiaomi Redmi 13C? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-realme-c55-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Realme C55 for Free? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-cricket-ultimate-guide-to-live-streaming-selection/"><u>In 2024, Top Cricket Ultimate Guide to Live Streaming Selection</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-the-science-of-quantum-hdr-enhancement-for-2024/"><u>Unveiling the Science of Quantum HDR Enhancement for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-sharpen-your-footage-with-videoleaps-zoom/"><u>[New] 2024 Approved Sharpen Your Footage with Videoleap's ZOOM</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-starting-vlogging-right-the-top-equipmentsoftware/"><u>[New] Starting Vlogging Right The Top Equipment/Software</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-strategies-for-purchasing-clear-visual-content/"><u>[New] Strategies for Purchasing Clear Visual Content</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-science-of-swift-facebook-visuals/"><u>[New] The Science of Swift Facebook Visuals</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-no-spend-guide-to-the-best-ae-template-hits-for-2024/"><u>[Updated] No-Spend Guide to the Best AE Template Hits for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-activatedeactivate-pip-in-ios-web-experience/"><u>In 2024, How to Activate/Deactivate PIP in iOS Web Experience</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-speed-demon-the-top-windows-photo-browser/"><u>In 2024, Speed Demon The Top Windows Photo Browser</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamline-and-enhance-with-these-key-zoom-setup-steps/"><u>In 2024, Streamline & Enhance with These Key Zoom Setup Steps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-uniting-visuals-a-pc-and-web-overlay-method/"><u>In 2024, Uniting Visuals A PC & Web Overlay Method</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/master-your-day-with-chatgpt-four-effective-methods-for-better-planning/"><u>Master Your Day with ChatGPT: Four Effective Methods for Better Planning</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-stalls-in-qbittorent-a-step-by-step-guide/"><u>Resolving Stalls in qBittorent: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-workings-of-drones-an-introduction-for-beginners-for-2024/"><u>The Workings of Drones An Introduction for Beginners for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-your-photos-mastering-time-lapse-with-samsung-mobile-for-2024/"><u>Transform Your Photos Mastering Time Lapse with Samsung Mobile for 2024</u></a></li>
 </ul></div>
 

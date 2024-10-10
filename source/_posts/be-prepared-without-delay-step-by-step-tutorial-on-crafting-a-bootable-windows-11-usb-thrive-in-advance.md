@@ -1,7 +1,7 @@
 ---
 title: "Be Prepared Without Delay: Step-by-Step Tutorial on Crafting a Bootable Windows #11 USB Thrive in Advance"
-date: 2024-09-27T20:00:21.977Z
-updated: 2024-10-04T20:30:19.159Z
+date: 2024-10-08T03:54:40.234Z
+updated: 2024-10-09T16:07:08.845Z
 tags:
   - deals
 categories:
@@ -17,13 +17,6 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 * [Create a Bootable Windows 11 USB Drive Using the Media Creation Tool](https://youtube-web.techidaily.com/approved-designing-a-memorable-youtube-sign-off/)
 * [Create a Bootable Windows 11 USB Drive Using Rufus](https://facebook-video-recording.techidaily.com/updated-insights-into-a-common-icon-what-is-fbs-blue-video-symbol/)
 * [Create a Bootable Windows 11 USB Using Command Prompt](https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-realme-c67-4g-devices-by-drfone-android/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -42,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
  You can also give your bootable USB drive to your friend if they want to install Windows 11 on a new computer.
 
  In any case, a bootable USB drive is one of the most important tools in your toolbox that you should have ready, because you never know when you'll come across a situation where you'll need it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Create a Bootable Windows 11 USB Drive Using the Media Creation Tool
 
@@ -71,25 +71,18 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 
 ![Windows 11 download screen in the Setup window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/windows-11-download-screen-in-the-setup-window.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once your USB flash drive is ready, click the "Finish" option to close the window.
 
 ![Finish option in the Windows 11 Setup window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/finish-option-in-the-windows-11-setup-window.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can now use the USB drive to install Windows 11 on a computer.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Create a Bootable Windows 11 USB Drive Using Rufus
 
@@ -98,6 +91,13 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
  To do this, visit the [Windows 11 download page](https://www.microsoft.com/software-download/windows11), click the drop-down arrow under the Download Windows 11 Disk Image (ISO) section, and select the "Windows 11 (Multi-Edition ISO)" option. Then, click the "Download Now" button.
 
 ![Download Now button for the Windows 11 ISO File.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/download-now-button-for-the-windows-11-iso-file.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Choose your preferred language from the language drop-down menu, then click "Confirm."
 
@@ -115,13 +115,6 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 
 ![Device option in the Rufus app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/device-option-in-the-rufus-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Select "Disk or ISO image" from the Boot selection drop-down menu, then click the "Select" button next to it.
 
 ![Select option in the Rufus app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/select-option-in-the-rufus-app.jpg) 
@@ -130,26 +123,26 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 
 ![Selecting the Windows 11 ISO File.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/selecting-the-windows-11-iso-file.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Make sure the Partition Scheme is set to "GPT" and File System is set to "NTFS." Then, click "Start."
 
 ![Start option in the Rufus window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/start-option-in-the-rufus-window.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In the Windows User Experience window, check the boxes next to "Remove requirement for 4GB+ RAM, Secure Boot, and TPM 2.0" and "Remove Requirement for an Online Microsoft Account." Then, click "OK."
 
 ![Windows User Experience window in Rufus.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/windows-user-experience-window-in-rufus.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Click "Yes."
@@ -167,17 +160,16 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 ![Ready option with Green background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/ready-option-with-green-background-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Create a Bootable Windows 11 USB Using Command Prompt
@@ -196,6 +188,13 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 
 ![Name of USB drive in the Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/name-of-usb-drive.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Type **SEL (YourDisk)** and hit Enter to select your USB drive.
 
 ![Selecting the USB Drive.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/selecting-the-usb-drive.jpg) 
@@ -213,6 +212,13 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
  Type **List par** and press Enter to choose the main partition.
 
 ![List par command in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/list-par-command-in-command-prompt.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You’ll now have to format the USB drive. For this, type the following command and hit Enter:
 
@@ -291,19 +297,17 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-the-essential-blueprint-setting-up-your-first-xbox-recorder-for-2024/"><u>[New] The Essential Blueprint Setting Up Your First Xbox Recorder for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-echo-of-past-interactions-unraveling-your-facebook-history/"><u>[Updated] The Echo of Past Interactions Unraveling Your Facebook History</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-from-no-followers-to-a-million-top-15-tricks-to-become-an-instagram-phenomenon/"><u>2024 Approved From No Followers to a Million Top 15 Tricks to Become an Instagram Phenomenon</u></a></li>
-<li><a href="https://discover-great.techidaily.com/10/"><u>新型コロナで子どもたちのお楽しみ！家で見られる安全な映画トップ10 - 全編無料ストリーミング</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/deciding-on-fps-to-opt-for-30-or-go-for-a-sharp-60hz-for-2024/"><u>Deciding on FPS To Opt for 30 or Go For a Sharp 60Hz for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/defining-boundaries-restricting-your-fb-contacts/"><u>Defining Boundaries: Restricting Your FB Contacts</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/essential-kid-friendly-faith-based-movie-collections-free-download-options-explored/"><u>Essential Kid-Friendly Faith-Based Movie Collections: Free Download Options Explored</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-copy-and-paste-issues-in-windows-11-solutions-inside/"><u>Fixing 'Copy & Paste' Issues in Windows 11 - Solutions Inside!</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-vivo-x-flip-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Vivo X Flip Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-lenovo-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Lenovo</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-vlc-features-in-mac-os/"><u>In 2024, The Ultimate Guide to VLC Features in Mac OS</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transforming-footage-a-guide-to-gopro-color-tweaks/"><u>In 2024, Transforming Footage A Guide to GoPro Color Tweaks</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tuning-into-audio-bliss-your-iphone-as-a-podcasters-companion-for-2024/"><u>Tuning Into Audio Bliss - Your iPhone as a Podcaster's Companion for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-underwater-gopro-filter-setup-for-2024/"><u>Ultimate Underwater Gopro Filter Setup for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-maximizing-call-recording-20plus-techniques-for-windowsmac-users-for-2024/"><u>[New] Maximizing Call Recording 20+ Techniques for Windows/Mac Users for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-savetech-reviews-insights/"><u>[Updated] SaveTech Reviews Insights</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tailoring-recording-techniques-in-audacity-for-professionals/"><u>[Updated] Tailoring Recording Techniques in Audacity for Professionals</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-unraveling-the-mysteries-of-fb-instream-ads-configuration-and-evaluation/"><u>[Updated] Unraveling the Mysteries of FB Instream Ads Configuration & Evaluation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-methods-to-revamp-grades-in-photoshop/"><u>2024 Approved Top Methods to Revamp Grades in Photoshop</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-pixel-7a-by-fonelab-android-recover-messages/"><u>How To Restore Missing Messages Files from Pixel 7a</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streaming-stakes-pewdiepies-earnings-examination/"><u>In 2024, Streaming Stakes PewDiePie’s Earnings Examination</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-filmora-scrn-essentials-recording-your-desktop-in-minutes-for-2024/"><u>New Filmora Scrn Essentials Recording Your Desktop in Minutes for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/scheduling-zoom-on-android-a-step-by-step-approach-for-2024/"><u>Scheduling Zoom on Android A Step-by-Step Approach for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/swift-shadowing-secrets-for-2024/"><u>Swift Shadowing Secrets for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/translating-trust-the-importance-of-client-endorsements-for-2024/"><u>Translating Trust The Importance of Client Endorsements for 2024</u></a></li>
+<li><a href="https://solve-help.techidaily.com/understanding-handbrakes-anamorphic-support-a-beginners-guide/"><u>Understanding HandBrake's Anamorphic Support – A Beginner’s Guide</u></a></li>
 </ul></div>
 

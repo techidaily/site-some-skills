@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Uniting Sight & Sound  Perfecting Videography Voiceovers\""
-date: 2024-08-10T20:05:55.346Z
-updated: 2024-08-11T20:05:55.346Z
+date: 2024-10-04T23:47:48.196Z
+updated: 2024-10-10T05:37:42.140Z
 tags: 
   - screen-recording
   - ai video
@@ -24,9 +24,6 @@ And when you learn how to use this technique the right way, your YouTube videos 
 
 I'll be demonstrating how to add voiceovers and narrations in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) to help you step up your video creation game.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ## Voiceover or Narration?
 
 But first, what's the difference between a voiceover and a narration? Truth be told, there is quite a bit of overlap between the two.
@@ -47,26 +44,31 @@ But here's the good news: the way you add either option is the same in Filmora.
 
 ![add either option](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## How to add narration
 
 So the easiest way to add narration is directly to a project. The benefit of this is that you can record your narration inside Filmora while you watch the preview of your edited video.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![add narration to project](https://images.wondershare.com/filmora/guide/stt-tts-srt-09.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 A good example of this would be narrating a story on top of some still images and video clips from a recent vacation. (In most cases you would want to turn off the sound of the video clip, or at least use ducking to help the viewer focus on the narration.)
 
 You put the playhead where you want to start recording and hit the microphone icon under the preview window.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![hit microphone icon](https://images.wondershare.com/filmora/guide/stt-tts-srt-08.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 A 3-second countdown will pop up and start recording immediately after this countdown.
 
@@ -84,6 +86,13 @@ You can edit pauses or weak parts out of the voiceover to trim it up. But if it 
 
 Fortunately, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) comes equipped with video b-roll which is another great option. When using b-roll, it's better to use multiple shorter clips than one longer clip in most cases. But adding the same b-roll clip near the beginning and another section of the same b-roll clip, later on, should help you match the length of your narration to the video timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Narration is a great storytelling device
 
 Narration is a fantastic tool to have in your arsenal as a young filmmaker. It allows you to quickly communicate feelings, backstory, and context quickly and effectively.
@@ -96,16 +105,17 @@ It can also help make a connection with your audience because you can be relatin
 
 When adding voiceover or narration to your project, be sure to use a good USB microphone. A good quality sound will elevate your entire project and just requires a little planning.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![use good microphone](https://images.wondershare.com/filmora/article-images/2022/11/use-good-microphone.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Also, be sure to check that your external microphone is selected when you start recording. There's nothing worse than nailing the perfect narration and realizing it was recorded with the built-in mic, not your USB microphone.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Should you use narration in your next project?
 
 The best way to learn something is by doing it. So the next time you record a video, think about how you could augment your video project with narration.
@@ -142,8 +152,22 @@ Filmora makes it easy to add narration of voice-overs to your video projects. Do
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-halo-series-screen-grabs-made-simple/"><u>[New] 2024 Approved Halo Series Screen Grabs Made Simple</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-reel-it-in-techs-video-harvest/"><u>[New] In 2024, Reel It In Tech's Video Harvest</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transforming-scenes-with-ease-your-gopro-time-lapse-guide/"><u>[New] Transforming Scenes with Ease Your GoPro Time-Lapse Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transforming-your-zip-archive-into-an-srt-subtitle-file/"><u>[New] Transforming Your Zip Archive Into an Srt Subtitle File</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transitioning-timeless-images-a-tech-savvy-approach/"><u>2024 Approved Transitioning Timeless Images A Tech-Savvy Approach</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-chuckles-on-a-budget-memetic-creators-guide/"><u>2024 Approved Unlocking Chuckles on a Budget - Memetic Creator’s Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-se-2020-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone SE (2020) without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-restore-past-conversations-in-chatgpt-for-deleted-history-retrieval/"><u>How to Restore Past Conversations in ChatGPT for Deleted History Retrieval</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-clearer-captures-smartphone-specific-tripods-guide/"><u>In 2024, Clearer Captures Smartphone-Specific Tripods' Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-fundamentals-of-human-interface-recognition/"><u>In 2024, The Fundamentals of Human Interface Recognition</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-acer-chromebook-15-assessment-splendid-performance-on-a-grand-display/"><u>In-Depth Acer Chromebook 15 Assessment: Splendid Performance on a Grand Display</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-7-mejores-capturadoras-de-video-en-la-web-movavi/"><u>Top 7 Mejores Capturadoras De Video en La Web - Movavi</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-your-design-how-to-eliminate-backgrounds-in-figma-for-2024/"><u>Unveiling Your Design How To Eliminate Backgrounds in Figma for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/what-is-behind-elon-musks-bold-claims-exploring-the-revolutionary-concept-of-truthgpt/"><u>What Is Behind Elon Musk's Bold Claims? Exploring the Revolutionary Concept of TruthGPT!</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/gateway-to-greatness-making-your-mark-with-mac-made-vids-for-2024/"><u>Your Gateway to Greatness Making Your Mark with Mac-Made Vids for 2024</u></a></li>
+</ul></div>
 

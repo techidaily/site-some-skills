@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Substituting Characters with Line Breaks Using Notepad++
-date: 2024-10-01T18:56:47.568Z
-updated: 2024-10-04T16:02:32.784Z
+date: 2024-10-05T01:41:14.639Z
+updated: 2024-10-09T19:31:17.888Z
 tags:
   - deals
 categories:
@@ -17,10 +17,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [How to Convert a Newline Character into Any Other Separator](https://techtrends.techidaily.com/perfect-progression-watching-the-wizarding-worlds-cinematic-journey-step-by-step/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -28,6 +28,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  To replace any character with a newline in Notepad++, navigate to Search > Replace > Replace. Enter the character you want to replace in the "Find What" box, enter "\\n" in the "Replace With" box, set the search mode to "Extended," then click "Replace All."
 
  If you have a list of values in a text file separated by a character (such as a comma or pipe) but would rather have each item on its own line, you can do the newline conversion automatically in Notepad++. Here's how.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Convert Any Character into a Newline with Notepad++
 
@@ -43,23 +50,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![A Notepad++ window showing a comma-separated list](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/paste-items-list.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next, click the "Search" menu and select "Replace." Alternately, you can press Ctrl+H on your keyboard.
 
 ![Replace menu in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/replace-notepad-plus-plus1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In the Replace window that opens, click the "Find What" text entry box and type the current item separator. In our example case, our items are separated by a comma and a space, so we'll type a comma and then press Space. If your items are separated by pipes only, type the pipe character ("|").
 
@@ -72,10 +65,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Replace window in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/convert-comma-new-line.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  And just like magic, each item in your list will now be on its own line.
@@ -83,6 +76,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![New-line separated list in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/comma-new-line.png) 
 
  If you want to reverse the process, just open Search > Replace in the menu again. In the "Find What" box, enter "\\n". In the Replace with box, type the character that you want to replace it with. Make sure "Extended" is selected and click "Replace All," and your list will go back to being separated by a standard character, such as a comma or pipe.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Convert a Newline Character into Any Other Separator
 
@@ -104,18 +104,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Replace option in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/search-replace.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the "Replace" window, click the "Find What" box and press Space. Then, place your cursor in "Replace With" and type the character that you'd like to replace space with, such as comma (",") or a command and a space for a human-readable format.
 
  When you're ready, click "Replace All" on the right.
 
 ![Replace window in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/new-line-comma.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Your list items will now be separated by the new separator you chose.
 
@@ -140,22 +140,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-from-animated-art-to-fun-factors-transforming-gifs-into-stickers-anywhere-for-2024/"><u>[New] From Animated Art to Fun Factors Transforming GIFs Into Stickers Anywhere for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transform-your-beats-with-free-dji-luts-for-minis-and-air-devices/"><u>[New] Transform Your Beats with Free DJI LUTs for Minis & Air Devices</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-perfect-kid-cameras-for-first-timers-and-wet-weather-filming-adventures/"><u>[Updated] In 2024, Perfect Kid Cameras for First-Timers & Wet Weather Filming Adventures</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-10-immersive-traits-in-filmoras-editing-software/"><u>[Updated] Top 10 Immersive Traits in Filmora's Editing Software</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-transcoding-approaches-to-boost-zoom-videos/"><u>[Updated] Top Transcoding Approaches to Boost Zoom Videos</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-designing-unique-instagram-post-cover-texts/"><u>2024 Approved Designing Unique Instagram Post Cover Texts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-unboxing-into-art/"><u>2024 Approved Transforming Unboxing Into Art</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-uncover-the-best-online-church-streaming-options/"><u>2024 Approved Uncover The Best Online Church Streaming Options</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/achieving-teleportation-magic-illusions-for-2024/"><u>Achieving Teleportation Magic Illusions for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-honor-x8b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Honor X8b | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-realme-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from Realme .</u></a></li>
-<li><a href="https://win-dash.techidaily.com/improve-gaming-performance-download-the-newest-geforce-210-drivers-on-windows-10/"><u>Improve Gaming Performance: Download the Newest GeForce 210 Drivers on Windows 10</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Tecno Pop 8 | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-skys-the-limit-with-husqvarnas-x4-drone/"><u>In 2024, The Sky's the Limit with Husqvarna's X4 Drone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-tips-for-adding-music-to-photo-online/"><u>In 2024, Tips for Adding Music to Photo Online</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/navigating-novelty-a-deep-exploration-of-filter-innovations-for-2024/"><u>Navigating Novelty A Deep Exploration of Filter Innovations for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transform-your-trip-diary-into-haul-video-hype-for-2024/"><u>Transform Your Trip Diary Into Haul Video Hype for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-innovative-ways-to-decrease-audio-levels/"><u>[New] 2024 Approved Innovative Ways to Decrease Audio Levels</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-earning-through-eyes-the-actual-youtube-view-count-needed/"><u>[New] In 2024, Earning Through Eyes The Actual YouTube View Count Needed</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-secure-free-footage-streaming-through-key-youtube-channels/"><u>[New] In 2024, Secure Free Footage Streaming Through Key YouTube Channels</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-power-of-the-start-building-a-solid-intro-foundation/"><u>[New] The Power of the Start Building a Solid Intro Foundation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-power-of-slug-lines/"><u>[New] Unveiling the Power of Slug Lines</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-the-art-and-science-of-hand-movement-tracking-for-2024/"><u>[Updated] The Art and Science of Hand Movement Tracking for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-top-5-elite-slow-camera-systems/"><u>[Updated] Unveiling the Top 5 Elite Slow Camera Systems</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-essentials-of-hosting-a-zoom-event-via-android/"><u>2024 Approved The Essentials of Hosting a Zoom Event via Android</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-perfect-blend-of-relaxation-and-growth-podcast-multi-tasking-tips/"><u>2024 Approved The Perfect Blend of Relaxation and Growth Podcast Multi-Tasking Tips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-techniques-for-outstanding-gopro-vlogs/"><u>2024 Approved Top Techniques for Outstanding GoPro Vlogs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-tier-applications-for-animation-and-modeling-craft/"><u>2024 Approved Top-Tier Applications for Animation & Modeling Craft</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-review-of-the-amazon-kindle-oasis-impeccable-elegance-meets-expensive-price-point/"><u>Expert Review of the Amazon Kindle Oasis: Impeccable Elegance Meets Expensive Price Point</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-conversion-transform-your-wav-files-into-high-quality-mkv-format-with-movavi/"><u>Free Online Conversion: Transform Your WAV Files Into High-Quality MKV Format with Movavi</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-update-atheros-wifi-drivers-in-windows-10/"><u>How to Update Atheros Wifi Drivers In Windows 10</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-avis-into-gifs-a-step-by-step-filmora-guide-for-pc-and-mac-for-2024/"><u>Transform AVIs Into GIFs A Step-by-Step Filmora Guide for PC and Mac for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-truth-authentic-vs-duped-game-ads/"><u>Unveiling the Truth: Authentic vs Duped Game Ads</u></a></li>
 </ul></div>
 

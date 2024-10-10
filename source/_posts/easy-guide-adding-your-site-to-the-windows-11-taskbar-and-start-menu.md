@@ -1,7 +1,7 @@
 ---
 title: "Easy Guide: Adding Your Site to the Windows 11 Taskbar and Start Menu"
-date: 2024-10-01T18:22:44.774Z
-updated: 2024-10-04T18:07:01.502Z
+date: 2024-10-06T21:45:33.369Z
+updated: 2024-10-10T01:46:12.835Z
 tags:
   - desktop
 categories:
@@ -18,10 +18,10 @@ thumbnail: https://thmb.techidaily.com/e0aa0dfacb5bc4ee1d37cc4f4885664e2981c05a1
 * [Pin a Microsoft Edge Website](https://facebook-video-files.techidaily.com/new-innovative-downloaders-unveiled-top-8-of-2023/)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -42,31 +42,11 @@ thumbnail: https://thmb.techidaily.com/e0aa0dfacb5bc4ee1d37cc4f4885664e2981c05a1
 
 ![Click the three-dot menu icon, click 'Save and Share,' then select 'Create Shortcut.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-three-dot-menu-click-save-and-share-click-create-shortcut.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the pop-up menu, change the name of the shortcut if desired, and click "Create." This will automatically create an icon on your Windows desktop and pin the link to your taskbar. 
 
  By default, Chrome will open the web page as a tab in a normal Chrome browser window. You can check the "Open as Window" option to have Chrome open the page in its own window with its own taskbar icon when you click the shortcut.
 
 ![Enter the name of your shortcut, then click 'Create.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-click-create.png) 
-
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  From your desktop, right-click on the shortcut, and click "Pin to Start." You can now delete the shortcut on your desktop. You can also select "Unpin from Taskbar" if you don't want it on your taskbar. 
 
@@ -74,11 +54,25 @@ thumbnail: https://thmb.techidaily.com/e0aa0dfacb5bc4ee1d37cc4f4885664e2981c05a1
 
 ![Right-click the icon and select 'Pin to Start.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-pin-to-start.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Pin a Website from Firefox
 
  Create a shortcut to Firefox on your desktop. You can do this by typing "Firefox" into your Start menu, right-clicking on the icon, and clicking "Open File Location."
 
 ![Open Firefox File Location](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/ff1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In the new File Explorer window, right-click Firefox and click "Create Shortcut." A prompt will appear, saying, "Windows can't create a shortcut here. Do you want the shortcut to be placed on the desktop instead?" Click "Yes."
 
@@ -96,18 +90,18 @@ thumbnail: https://thmb.techidaily.com/e0aa0dfacb5bc4ee1d37cc4f4885664e2981c05a1
 
 ![Right-click the Firefox icon and select 'Pin to Start' or 'Pin to Taskbar.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-pin-to-start-pin-to-taskbar.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Pin a Microsoft Edge Website
 
 [Microsoft's Chromium-based Edge browser](https://common-error.techidaily.com/how-to-restore-your-mouse-visibility-in-windows-11-expert-troubleshooting-guide/) works similarly to Google Chrome. To pin any website to a taskbar, simply open the "Settings and More" menu (Alt+F, or click on the three horizontal dots in the top right of your browser). Hover your mouse over "More tools" and click "Pin to Taskbar" or "Pin to Start." 
 
 ![Click the three-dot menu icon, hover over 'More Tools,' then select 'Pin to Start' or 'Pin to Taskbar.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-three-dot-mor-tools-pin-to-taskbar-pin-to-start.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Additionally, Edge has a neat feature called "Launch Taskbar Pinning Wizard," which you can see right below "Pin to Taskbar." Click this, and Edge will guide you through a short menu that lets you pin the most popular websites and Microsoft web apps to your taskbar
 
@@ -128,21 +122,22 @@ thumbnail: https://thmb.techidaily.com/e0aa0dfacb5bc4ee1d37cc4f4885664e2981c05a1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-accelerate-your-youtube-upload-with-effective-rendering/"><u>[New] 2024 Approved How to Accelerate Your YouTube Upload with Effective Rendering</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-syncopating-songs-implementing-fades-in-logic-pro-x/"><u>[New] Syncopating Songs Implementing Fades in Logic Pro X</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unilateral-earbud-error-how-to-rectify/"><u>[New] Unilateral Earbud Error How to Rectify</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-windows-11-your-ultimate-cheat-sheet/"><u>[New] Unlocking Windows 11 Your Ultimate Cheat Sheet</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-11-hacks-for-new-windows-11/"><u>[Updated] Top 11 Hacks for New Windows 11</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/achieving-flawless-audio-to-text-translation-using-google/"><u>Achieving Flawless Audio to Text Translation Using Google</u></a></li>
-<li><a href="https://extra-information.techidaily.com/artful-humor-chuckledrawings/"><u>Artful Humor ChuckleDrawings</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/best-free-sources-for-downloading-movies-and-tv-shows-online/"><u>Best Free Sources for Downloading Movies and TV Shows Online</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/blurface-secrets-clean-up-your-photos-quickly/"><u>Blurface Secrets Clean Up Your Photos Quickly</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-installation-tutorial-acquiring-and-implementing-linksys-wusb630/"><u>Effortless Installation Tutorial: Acquiring & Implementing Linksys WUSB630</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Oppo A56s 5G | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-thorough-vsco-editor-user-manual/"><u>In 2024, Thorough VSCO Editor User Manual</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-understanding-digital-color-with-rgb-and-srgb-analysis/"><u>In 2024, Understanding Digital Color with Rgb & Srgb Analysis</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/remote-free-mastering-roku-tv-navigation-techniques/"><u>Remote-Free: Mastering Roku TV Navigation Techniques</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-complete-guide-to-affordable-online-passport-photo-services-for-2024/"><u>The Complete Guide to Affordable Online Passport Photo Services for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/visual-producer-hub/"><u>Visual Producer Hub</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-voice-personalization-tips-for-instagram-users/"><u>[New] In 2024, Voice Personalization Tips for Instagram Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-superior-online-emporiums-where-boxes-reflect-your-style/"><u>[New] Superior Online Emporiums Where Boxes Reflect Your Style</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-optimize-youtube-traffic-select-best-rankers-explained/"><u>[Updated] 2024 Approved Optimize YouTube Traffic Select Best Rankers Explained</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-synthesizing-sound-and-slides-incorporating-melodies-in-ppt/"><u>[Updated] Synthesizing Sound and Slides Incorporating Melodies in PPT</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-heart-of-video-editing-filmoras-favorites/"><u>[Updated] The Heart of Video Editing Filmora's Favorites</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiled-the-premier-places-to-obtain-snapchat-audio/"><u>[Updated] Unveiled The Premier Places to Obtain Snapchat Audio</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-great-digital-debate-meta-vs-omni/"><u>2024 Approved The Great Digital Debate Meta Vs. Omni</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-premier-intro-list-for-panzoids/"><u>2024 Approved The Premier Intro List for Panzoids</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-7-steps-for-stellar-cooking-films/"><u>2024 Approved The Ultimate Guide 7 Steps for Stellar Cooking Films</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/best-performing-wi-fi-signal-extenders-on-the-market-2eom4-year-edition/"><u>Best Performing Wi-Fi Signal Extenders on the Market - 2Eom4 Year Edition</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/gtx-1650-super-graphics-card-driver-download-and-upgrade-for-windows-11/"><u>GTX 1650 Super Graphics Card Driver Download & Upgrade for Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/honing-the-craft-of-question-design-in-interviews-for-2024/"><u>Honing the Craft of Question Design in Interviews for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-reset-audio-driver-error-unresponsive-device-issue/"><u>How To Reset Audio Driver Error: Unresponsive Device Issue</u></a></li>
+<li><a href="https://win-dash.techidaily.com/logitech-k350-support-finding-and-downloading-the-right-driver/"><u>Logitech K350 Support: Finding and Downloading the Right Driver</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-haul-vids-creation-and-editing-basics/"><u>Mastering Haul Vids Creation & Editing Basics</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-xiaomi-redmi-12-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Xiaomi Redmi 12 Android SIM Unlock APK</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-potential-your-guide-to-effective-improvements-for-2024/"><u>Unlocking Potential Your Guide to Effective Improvements for 2024</u></a></li>
 </ul></div>
 

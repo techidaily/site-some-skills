@@ -1,7 +1,7 @@
 ---
 title: Mastering Printer Configuration & Control in Windows 11 – A Comprehensive How-To
-date: 2024-09-28T18:32:02.410Z
-updated: 2024-10-04T18:35:12.632Z
+date: 2024-10-05T22:39:17.962Z
+updated: 2024-10-10T02:19:19.464Z
 tags:
   - desktop
 categories:
@@ -25,13 +25,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Windows 10 has a new Settings window for configuring printers, but you can still use the old Control Panel tools, too. Here's what you need to know about installing, configuring, sharing, and troubleshooting printers on Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Add a Printer
 
  To add a printer, head to Settings > Devices > Printers & Scanners. Click the "Add a Printer or Scanner" button to search for nearby printers, whether they're hooked up to your PC or connected to the network.
@@ -54,16 +47,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![img_5b760d784359d](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760d784359d.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the Control Panel, right-click a printer to find various options.
 
 ![img_5b760dc514f59](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760dc514f59.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To change how the printer prints, click the "Printing Preferences" option in the Settings window or context menu. You'll see a variety of options for controlling your prints here, and the settings you see will depend on the ones your printer supports.
 
@@ -74,13 +67,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  You can also access these settings while printing. Just select a printer in the Print window and then click the "Preferences" button. Note that some applications have their own print dialogs, so this option might not always be present or the window might look different
 
 ![img_5b760ef96454b](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760ef96454b.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Change Printer Device Settings
 
@@ -93,6 +79,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![img_5b760f54e0215](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760f54e0215.png) 
 
  On the "Advanced" pane, you'll even see an option that lets you choose when the printer is available. For example, if you only want to use your printer during business hours, you could select 9 am to 5 pm here. People wouldn't be able to print to the printer outside of your selected hours, which is especially useful if you've configured it as a network printer and don't want people printing to it during off hours.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ![](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760f9652249.png)How to Print a Test Page
 
@@ -113,16 +106,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![img_5b76132b50e9d](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b76132b50e9d.png) 
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To choose your default printer, click a printer in the Printers & Scanners list, click "Manage," and click the "Set as Default" button.
@@ -130,10 +117,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![img_5b7613d4cbff2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b7613d4cbff2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also right-click a printer in the Control Panel's Devices and Printers window and select "Set as Default Printer" to set it as your default.
@@ -150,13 +137,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![img_5b76179d0fa59](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b76179d0fa59.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Each pending print job appears in the queue. If no documents are printing, the list will be empty. You can right-click a job to cancel, pause, or restart it. Sometimes print jobs can get "stuck," and you may need to [delete them and try again](https://facebook-record-videos.techidaily.com/new-in-2024-cooking-crusaders-youtube-stars-serving-up-deliciousness/).
 
 ![img_5b761558b26c8](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b761558b26c8.png) 
@@ -164,6 +144,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  You can also click the Printer menu and use the various options to manage your entire queue. For example, you can click Printer > Pause Printing to temporarily pause all print jobs until you unpause them, or click Printer > Cancel All Documents to cancel all pending print jobs.
 
 ![img_5b761543dc6fd](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b761543dc6fd.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Create Multiple Printer Profiles
 
@@ -174,10 +168,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![img_5b76026c81a21](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b76026c81a21.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Set Up a Shared Printer
@@ -189,13 +183,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  To [share a printer](https://iphone-unlock.techidaily.com/in-2024-forgot-apple-iphone-6-plus-backup-password-heres-what-to-do-drfone-by-drfone-ios/), open the printer's Properties dialog. To do so via the new interface, head to Settings > Devices > Printers & Scanners, click the printer's name, click "Manage," and then click "Printer Properties." To do it in the old way, head to Control Panel > Hardware & Sound > Devices and Printers, right-click the printer, and then select "Printer Properties." Click the "Sharing" tab, check the "Share this printer" option, and give the printer a name.
 
 ![img_5b76108e3056f](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b76108e3056f.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  With the default settings, people on your local network can find the printer—but they'll need the username and password of an account on your computer to connect to it. The printer should be automatically detected as an available printer in the normal Add Printer interface. Bear in mind that the printer won't be available while your computer is asleep.
 
@@ -212,6 +199,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The printer troubleshooter checks for a variety of issues that could cause printing problems on your PC and tried to fix any it finds.
 
 ![img_5b7617390a489](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b7617390a489.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If the printer has a built-in display, check the display to see if it's reporting an error message. If you're not sure what the error messages mean, try plugging them into a web search engine or looking them up in your printer's manual.
 
@@ -232,17 +226,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-tech-bites-the-future-of-screen-capture-apps/"><u>[New] 2024 Approved Tech Bites The Future of Screen Capture Apps</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-stunning-evaluation-and-different-paths-for-2024/"><u>[New] Stunning Evaluation & Different Paths for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-creative-potential-garageband-editing-guide/"><u>[New] Unlocking Creative Potential GarageBand Editing Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-strategies-for-capturing-high-quality-periscope-broadcasts/"><u>[Updated] Strategies for Capturing High-Quality Periscope Broadcasts</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-fixing-motion-detection-problems-in-hp-laptops-for-windows-users/"><u>Guide: Fixing Motion Detection Problems in HP Laptops for Windows Users</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-a-comprehensive-examination-of-simple-hdr-methods/"><u>In 2024, A Comprehensive Examination of Simple HDR Methods</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Xiaomi Redmi 12 | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-blueprint-to-dominate-social-platforms/"><u>In 2024, The Blueprint to Dominate Social Platforms</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-premium-priced-no-cost-graphic-websites/"><u>In 2024, Unveiling Premium-Priced, No-Cost Graphic Websites</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-vegaspro-2019-whats-new-and-why-it-matters/"><u>In 2024, VegasPro 2019 What's New and Why It Matters</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-essential-facetune-walkthrough-for-stunning-photos-for-2024/"><u>The Essential Facetune Walkthrough for Stunning Photos for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/usb-driver-setup-tutorial-connecting-and-configuring-a-wd-ses-device-on-windows-10-or-later-versions/"><u>USB Driver Setup Tutorial: Connecting and Configuring a WD SES Device on Windows 10 or Later Versions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamline-your-playlist-import-music-into-inshot/"><u>[New] Streamline Your Playlist Import Music Into InShot</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-mastering-steams-switch-pro-controllers/"><u>[Updated] Mastering Steam's Switch Pro Controllers</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-symphony-of-stories-music-tips-for-social-media-gems/"><u>[Updated] The Symphony of Stories Music Tips for Social Media Gems</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-basics-of-visual-storytelling/"><u>2024 Approved Basics of Visual Storytelling</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-liberating-your-media-experience-free-movplay-software/"><u>2024 Approved Liberating Your Media Experience Free MOV/PLAY Software</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-mastering-mobile-photography-with-androids-lightroom/"><u>2024 Approved Mastering Mobile Photography with Android’s Lightroom</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-thank-you-access-comprehensive-paidfree-templates/"><u>2024 Approved Thank You! Access Comprehensive Paid/Free Templates</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-mastery-8-pro-tips-to-elevate-your-enterprise/"><u>ChatGPT Mastery: 8 Pro Tips to Elevate Your Enterprise</u></a></li>
+<li><a href="https://fox-info.techidaily.com/digital-chimes-discover-the-top-tone-websites/"><u>Digital Chimes Discover the Top Tone Websites</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-still-to-motion-how-to-achieve-the-ken-burns-effect/"><u>From Still to Motion How to Achieve the Ken Burns Effect</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-expected-video-gb-for-continuous-24-hour-viewing/"><u>In 2024, Expected Video GB for Continuous 24-Hour Viewing</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transitioning-video-content-into-stills-with-windows-11/"><u>In 2024, Transitioning Video Content Into Stills with Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unmasking-invisible-audiences-interactions/"><u>In 2024, Unmasking Invisible Audiences' Interactions</u></a></li>
+<li><a href="https://win-webster.techidaily.com/integrating-interactive-pdf-books-into-your-wordpress-site-using-flipbuilder/"><u>Integrating Interactive PDF Books Into Your WordPress Site Using FlipBuilder</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-art-of-hiding-while-livestreaming-on-instagram/"><u>The Art of Hiding While Livestreaming on Instagram</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-secrets-of-selecting-a-powerful-streaming-device-for-2024/"><u>The Secrets of Selecting a Powerful Streaming Device for 2024</u></a></li>
 </ul></div>
 

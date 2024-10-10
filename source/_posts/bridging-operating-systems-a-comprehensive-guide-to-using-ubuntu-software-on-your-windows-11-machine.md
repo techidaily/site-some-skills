@@ -1,7 +1,7 @@
 ---
 title: "Bridging Operating Systems: A Comprehensive Guide to Using Ubuntu Software on Your Windows 11 Machine"
-date: 2024-10-02T17:27:22.823Z
-updated: 2024-10-04T21:14:43.748Z
+date: 2024-10-04T19:18:35.479Z
+updated: 2024-10-09T19:39:35.146Z
 tags:
   - deals
 categories:
@@ -45,10 +45,16 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 ![WSL feature being turned on in Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/flameshot-wsl-check-box.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now that the "OK" button has been selected, Windows 11 will begin setting up WSL on your system. This setup process should take a few minutes to complete. When the setup is complete, you must reboot your Windows PC. Select the "Restart now" button to reboot.
@@ -73,25 +79,25 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 
 ![Ubuntu WSL is installing itself to Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-ubuntu-is-installing.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once Ubuntu has finished its setup on Windows 11, you will see an empty terminal window, ready for you to interact with Ubuntu on your Windows 11 system.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Basic Configuration Tips
 
  Here are some basic configuration tips to improve the WSL experience on Windows 11.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Windows and Linux File System Integration
 
@@ -121,13 +127,6 @@ sudo apt upgrade
 
 ![Ubuntu WSL is being updated.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-installing-kdenlive.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Starting and Using Ubuntu
 
  Ubuntu in Windows 11 has a terminal interface with WSL. WSL is a Linux system layer that is accessible directly from Windows, rather than a Linux desktop on top of the Windows Desktop.
@@ -149,19 +148,19 @@ nohup program_name & disown
 ![Linux apps Kdenlive and Wireshark are running inside of Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-kdenlive-and-wireshark-open.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Alternatively, applications can be started from the Windows 11 start menu.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Integration with Windows 11
@@ -169,6 +168,13 @@ nohup program_name & disown
  When apps are installed through WSL, they integrate into Windows 11 quite well by installing themselves into the Windows 11 Start menu. To access your installed WSL programs from Windows 11, look through your programs. Each integrated application will have a Linux icon.
 
  The WSL integration with Windows 11 is quite good. However, keep in mind that not every single application is going to create a desktop icon. Sometimes, you may need to launch your Ubuntu programs directly from the terminal. You typically do this by typing its package name and hitting Enter.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Troubleshooting Common Setup Issues
 
@@ -197,22 +203,24 @@ wsl --update
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-mp3-from-pinterest-video-files-with-these-steps/"><u>[New] Unlocking MP3 From Pinterest Video Files with These Steps</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-melodious-memories-capturing-songs-in-your-snaps/"><u>[Updated] 2024 Approved Melodious Memories Capturing Songs in Your Snaps</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-delving-into-backward-image-analysis-techniques-for-fb-users/"><u>[Updated] Delving Into Backward Image Analysis Techniques for FB Users</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-drones-decoded-an-owners-primer-for-first-time-buyers-for-2024/"><u>[Updated] Drones Decoded An Owner's Primer for First-Time Buyers for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-lens-legends-top-six-selecting-high-quality-4k-dslrs/"><u>[Updated] Lens Legends' Top Six Selecting High-Quality 4K DSLRs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-sound-savants-playbook-for-efficient-audible-records/"><u>[Updated] The Sound Savant's Playbook for Efficient Audible Records</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlock-the-potential-of-still-photos-through-video-creation-in-pixiz/"><u>[Updated] Unlock the Potential of Still Photos Through Video Creation in Pixiz</u></a></li>
-<li><a href="https://win-blog.techidaily.com/enjoy-uninterrupted-play-overwatch-and-graphics-driver-crashes-permanently-solved/"><u>Enjoy Uninterrupted Play: Overwatch & Graphics Driver Crashes Permanently Solved</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/how-to-record-webcam-and-screen-simultaneously/"><u>How to Record Webcam and Screen Simultaneously</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-break-free-from-conventions-advanced-distortion-art-in-photoshop/"><u>In 2024, Break Free From Conventions Advanced Distortion Art in Photoshop</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-integrating-vsco-into-social-media-strategy/"><u>In 2024, Integrating VSCO Into Social Media Strategy</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streaming-stations-beyond-ustream-reviews/"><u>In 2024, Streaming Stations Beyond Ustream Reviews</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-budget-friendly-filmmakers-dream/"><u>In 2024, The Budget-Friendly Filmmaker's Dream</u></a></li>
-<li><a href="https://extra-support.techidaily.com/pinnacle-creations-synopsis-in-depth-studio-scrutiny-for-2024/"><u>Pinnacle Creations Synopsis In-Depth Studio Scrutiny for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/strategies-for-eye-catching-podcast-previews-for-2024/"><u>Strategies for Eye-Catching Podcast Previews for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Samsung Galaxy A54 5G | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transforming-flat-text-into-3d-masterpieces-photo-for-2024/"><u>Transforming Flat Text Into 3D Masterpieces PHOTO for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-photographers-weigh-in-the-aurora-verdict/"><u>[New] Photographers Weigh In The Aurora Verdict</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamlining-srt-file-integration-on-digital-platforms/"><u>[New] Streamlining SRT File Integration on Digital Platforms</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-2024-elite-camcorders-best-buy-guide/"><u>[New] The 2024 Elite Camcorders - Best Buy Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-create-with-colors-youtube-banner-creation-guide/"><u>[Updated] 2024 Approved Create with Colors YouTube Banner Creation Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-how-to-captivate-viewers-using-multiple-perspectives-on-fb-live-for-2024/"><u>[Updated] How to Captivate Viewers Using Multiple Perspectives on FB Live for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-artists-guide-to-dynamic-palette-alteration/"><u>2024 Approved The Artist's Guide to Dynamic Palette Alteration</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-pathway-to-creating-metaverse-identities/"><u>2024 Approved The Ultimate Pathway to Creating Metaverse Identities</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-styling-secrets-with-a-diy-video-editing-guide/"><u>2024 Approved Unlock Styling Secrets with a DIY Video Editing Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortless-tech-integration-flow-app-connects-pc-galaxy/"><u>Effortless Tech Integration – Flow App Connects PC, Galaxy</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-cushioning-calm-top-relaxing-pc-titles/"><u>In 2024, Cushioning Calm Top Relaxing PC Titles</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-how-to-use-picture-in-picture-pip-on-microsoft-edge/"><u>In 2024, How to Use Picture in Picture (PIP) on Microsoft Edge</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-10-accessory-collection-for-sj4000/"><u>In 2024, The Ultimate 10 Accessory Collection for SJ4000</u></a></li>
+<li><a href="https://some-skills.techidaily.com/meme-mastery-top-ten-template-treasures-for-2024/"><u>Meme Mastery Top Ten Template Treasures for 2024</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-2024-approved-what-are-ai-tools/"><u>New 2024 Approved What Are AI Tools?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/perfect-your-video-pacing-with-these-snapchat-tips-for-2024/"><u>Perfect Your Video Pacing with These Snapchat Tips for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/pro-vs-express-uncovering-the-key-differences-in-final-cut/"><u>Pro vs Express Uncovering the Key Differences in Final Cut</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-kinemaster-made-memes-for-2024/"><u>The Art of KineMaster-Made Memes for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/untangle-the-mystery-of-subwoofer-noise-expert-advice-on-removing-vibrations/"><u>Untangle the Mystery of Subwoofer Noise: Expert Advice on Removing Vibrations</u></a></li>
 </ul></div>
 

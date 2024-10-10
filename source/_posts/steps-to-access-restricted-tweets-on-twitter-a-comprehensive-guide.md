@@ -1,7 +1,7 @@
 ---
 title: "Steps to Access Restricted Tweets on Twitter: A Comprehensive Guide"
-date: 2024-10-03T20:28:19.966Z
-updated: 2024-10-04T16:17:16.833Z
+date: 2024-10-07T02:50:26.600Z
+updated: 2024-10-10T04:37:32.674Z
 tags:
   - web
 categories:
@@ -26,13 +26,6 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 
  By default, X restricts such media with a warning like, "This media may contain sensitive material," "This profile may include potentially sensitive content," or "The following media includes potentially sensitive content."
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Skip the "Sensitive Content" Warning
 
  You can [disable the sensitive content warning](https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-honor-100-pro-to-roku-drfone-by-drfone-android/) in X's privacy settings. You'll find these options in the same place on the [Android app](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU213517/https://play.google.com/store/apps/details?id=com.twitter.android&hl=en%5FUS&gl=US), but they aren't available on the [X app for iPhone](https://apps.apple.com/us/app/twitter/id333903271). However, if you change the setting on the web, the X iPhone and iPad apps will show you sensitive content without any warnings.
@@ -49,15 +42,22 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 
 ![Content you see option on X.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/content-you-see-option-on-x.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Check the box next to "Display media that may contain sensitive content" to disable the warning for tweets.
 
 ![Display media that may contain sensitive content option in X.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/display-media-that-may-contain-sensitive-content-option-in-x.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Show "Sensitive Content" in Searches
@@ -69,10 +69,17 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 ![Uncheck the "Hide Sensitive Content" box](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/08/uncheck-the-hide-sensitive-content-box.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Remove the Warning From Your Own Tweets
@@ -80,13 +87,6 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
  To stop X from marking [media you upload as sensitive](https://facebook-clips.techidaily.com/step-by-step-guide-live-broadcast-of-recorded-videos-on-fb-for-2024/), choose More > Settings and Privacy > Privacy and Safety > Your Posts. Ensure "Mark media you post as having material that may be sensitive" is unchecked.
 
 ![Mark media you post as having material that may be sensitive option in X.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/mark-media-you-post-as-having-material-that-may-be-sensitive-option-in-x.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This option is available on the web and in the Android app but not in the X app for iPhone and iPad.
 
@@ -113,17 +113,17 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-masterclass-review-of-vidma-screen-reporter-app-for-2024/"><u>[New] Masterclass Review of Vidma Screen Reporter App for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-15-unboxing-clips-reviewed-youtubes-standout-channels-of-2024/"><u>[New] Top 15 Unboxing Clips Reviewed YouTube's Standout Channels of 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-low-cost-cloud-vaulting-for-massive-file-stashing/"><u>[Updated] 2024 Approved Low Cost Cloud Vaulting for Massive File Stashing</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-unlocking-asmrs-hidden-layers/"><u>[Updated] In 2024, Unlocking ASMR's Hidden Layers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-techniques-for-elongated-iphone-photography/"><u>[Updated] Techniques for Elongated iPhone Photography</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-5-helmet-action-cameras-for-motorcycle/"><u>[Updated] Top 5 Helmet Action Cameras For Motorcycle</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-honor-100-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Honor 100</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-is-image-stabilization-a-feature-worth-your-time/"><u>In 2024, Is Image Stabilization a Feature Worth Your Time?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-superior-video-cutting-edge-tools-devices/"><u>In 2024, Superior Video Cutting-Edge Tools (Devices)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-path-to-subtle-iphone-shots-4-essential-techniques-discovered/"><u>In 2024, The Path to Subtle iPhone Shots 4 Essential Techniques Discovered</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-on-apple-iphone-xs-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone XS?</u></a></li>
-<li><a href="https://win11.techidaily.com/is-your-wireless-mouse-not-working-on-windows-8-ways-to-fix-it/"><u>Is Your Wireless Mouse Not Working on Windows? 8 Ways to Fix It</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-futures-canvas-unveiling-6-pioneers-of-nft-artistry/"><u>[New] The Future's Canvas Unveiling 6 Pioneers of NFT Artistry</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-5-cloud-based-voice-customizers-for-chrome-os-vocal-transformation-tools-reviewed/"><u>[New] Top 5 Cloud-Based Voice Customizers for Chrome OS Vocal Transformation Tools Reviewed</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-innovating-color-grading-with-new-lut-techniques/"><u>[Updated] Innovating Color Grading with New LUT Techniques</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>4 Feasible Ways to Fake Location on Facebook For your Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/determining-top-video-player-vlcs-face-off-with-mx/"><u>Determining Top Video Player VLC's Face-Off With MX</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-robotics-through-play-a-review-of-how-to-assemble-and-program-your-own-with-the-makeblock-mbot-starter-set/"><u>Exploring Robotics Through Play: A Review of How to Assemble and Program Your Own with the Makeblock MBot Starter Set</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-tecno-spark-20-pro-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Tecno Spark 20 Pro?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streaming-success-without-xsplit/"><u>In 2024, Streaming Success Without Xsplit</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-talking-head-techniques-diy-filming-made-simple/"><u>In 2024, Talking Head Techniques DIY Filming Made Simple</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/k-your-youtube-potential-by-dodging-these-8-typical-mistakes-for-2024/"><u>Unlock Your YouTube Potential by Dodging These 8 Typical Mistakes for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-access-royalty-free-clip-art-tips-for-2024/"><u>Unlocking Access Royalty-Free Clip Art Tips for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-engagement-top-5-compelling-book-trailers-for-2024/"><u>Unlocking Engagement Top 5 Compelling Book Trailers for 2024</u></a></li>
 </ul></div>
 

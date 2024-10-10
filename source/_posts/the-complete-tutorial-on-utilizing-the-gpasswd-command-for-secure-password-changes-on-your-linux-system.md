@@ -1,7 +1,7 @@
 ---
 title: The Complete Tutorial on Utilizing the Gpasswd Command for Secure Password Changes on Your Linux System
-date: 2024-09-28T20:01:34.237Z
-updated: 2024-10-04T17:06:18.170Z
+date: 2024-10-05T21:15:37.860Z
+updated: 2024-10-09T22:05:52.092Z
 tags:
   - desktop
 categories:
@@ -26,10 +26,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  There are a few ways to overcome this problem. You can avoid using group passwords when possible and use alternative mechanisms such as sudoers or access control lists. You can also limit access to the group passwords using privilege control so that only authorized members can do any operations.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  gpasswd Command Basic Syntax and Options
@@ -51,13 +51,6 @@ gpasswd [option] group
 
  We'll see how to use these options in the upcoming sections of the guide.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Setting Password for a Group
 
  The most common use of the gpasswd command is to [set a password](https://unlock-android.techidaily.com/in-2024-best-honor-100-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/) for specific groups. I'll first create a group we can test it upon. Feel free to skip this if you already have a group. To create a new group on your Linux system, run:
@@ -65,6 +58,13 @@ gpasswd [option] group
 sudo groupadd demogroup
 
 ![The Linux terminal displaying the process of creating a new group on Linux using the groupadd command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-8.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can use any other name than "demogroup". To confirm if the group creation was successful, display all groups using:
 
@@ -87,10 +87,10 @@ newgrp demogroup
 ![The Linux terminal showing the process of logging into a group in Linux using the newgrp command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4-4.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Removing Password from Group
@@ -100,13 +100,6 @@ newgrp demogroup
 sudo gpasswd -r demogroup
 
 ![The Linux terminal showing the process of removing the password from a a group in Linux using the gpasswd command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/10-3.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you try to log into the group now as a member, you'll be able to do so without entering the password.
 
@@ -122,31 +115,11 @@ sudo gpasswd -a zunaid demogroup
 
 ![The Linux terminal showing how to use the gpasswd command to add a member to a group](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/5-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can confirm whether the member was added or not. For that, use the below command:
 
 getent group demogroup
 
 ![The Linux terminal shows the current members of the group named demogroup](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/6-7.png) 
-
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  As you can see, I've successfully added myself to the group using gpasswd. For adding multiple users, you'll need to issue separate commands for each, like this:
 
@@ -181,10 +154,10 @@ sudo gpasswd -d user1 group
                     
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Setting the List of Group Members
@@ -195,11 +168,31 @@ sudo gpasswd -M user2,user3 demogroup
 
 ![The Linux terminal showing the process of setting the list of members of a group using the gpasswd command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/11-3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now if you check the members list of the group, you should see that the previous members are not there. Instead, you'll find the new members.
 
 getent group demogroup
 
 ![The Linux terminal displaying the current the members of a group in Linux after setting the members list using gpasswd](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/12-2.png) 
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Promoting a User as the Group Administrator
 
@@ -216,6 +209,13 @@ sudo gpasswd -A zunaid demogroup
 sudo cat /etc/gshadow
 
 ![The Linux terminal displaying the the administrators of every group in Linux](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/9-3.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  gpasswd Makes Group Management Easy
 
@@ -236,18 +236,20 @@ sudo cat /etc/gshadow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-exploring-splitcams-recording-capabilities-and-excellence/"><u>[New] Exploring SplitCam's Recording Capabilities and Excellence</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unleashing-creativity-in-drone-video-post-production/"><u>[New] Unleashing Creativity in Drone Video Post-Production</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-notch-20-anime-opening-songs/"><u>[Updated] Top-Notch 20 Anime Opening Songs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-kinemasters-secrets-to-smooth-transitions/"><u>2024 Approved Unlock Kinemaster's Secrets to Smooth Transitions</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/comprehensive-review-of-the-oculus-quest-2-superior-virtual-reality-for-a-spectacular-price-point/"><u>Comprehensive Review of the Oculus Quest 2: Superior Virtual Reality for a Spectacular Price Point</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/detailed-tips-on-getting-past-the-launch-error-for-avatar-frontiers-of-pandora/"><u>Detailed Tips on Getting Past the Launch Error for Avatar: Frontiers of Pandora</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streamlined-file-sharing-from-your-computer-to-iphone/"><u>In 2024, Streamlined File Sharing From Your Computer To iPhone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/stand-taller-and-stylishly-at-work-a-deep-dive-into-the-flexispot-theodore-adjustable-office-desk/"><u>Stand Taller & Stylishly at Work – A Deep Dive Into the Flexispot Theodore Adjustable Office Desk</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/superior-app-dev-editors-top-15-selection-for-2024/"><u>Superior App Dev Editors Top 15 Selection for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-price-tag-behind-elon-musks-new-brainchild-understanding-grok-ai-costs/"><u>The Price Tag Behind Elon Musk’s New Brainchild: Understanding Grok AI Costs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-samsungs-picture-editing-app-for-2024/"><u>The Ultimate Guide to Samsung's Picture Editing App for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-iphone-shot-potential-adopt-these-10-principles-for-2024/"><u>Unlocking iPhone Shot Potential Adopt These 10 Principles for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-potential-of-google-nest-wi-fi-speed-ease-and-mesh-network-mastery/"><u>Unveiling the Potential of Google Nest Wi-Fi - Speed, Ease, and Mesh Network Mastery.</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/aptivate-viewers-designing-engaging-youtube-trailers-with-filmora/"><u>[New] Captivate Viewers Designing Engaging YouTube Trailers with Filmora</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-swipe-right-for-music-top-10-fb-vids-today/"><u>[New] Swipe Right for Music Top 10 FB Vids Today</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-pinpointing-perfect-pexels-photographs/"><u>[New] The Art of Pinpointing Perfect Pexels Photographs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-managing-fast-forward-functions/"><u>[New] The Ultimate Guide to Managing Fast Forward Functions</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-best-streaming-setup-leading-livestream-hardware-and-software-guide/"><u>[Updated] In 2024, Best Streaming Setup Leading Livestream Hardware & Software Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-subtle-volume-lessening-masterclass-using-lumafusion/"><u>2024 Approved Subtle Volume Lessening Masterclass Using Lumafusion</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-photographers-toolkit-top-text-editors-for-images/"><u>2024 Approved The Photographer's Toolkit Top Text Editors for Images</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-the-ultimate-list-of-kung-fu-video-games/"><u>2024 Approved The Ultimate List of Kung Fu Video Games</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-p40-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Itel P40 Bootloader Easily</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-ios-excellence-leading-apps-to-unlock-youtube-videos/"><u>In 2024, IOS Excellence Leading Apps to Unlock YouTube Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-future-of-wagering-vegas-pros-evolution-in-21/"><u>In 2024, The Future of Wagering Vegas Pro's Evolution in '21</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-unseen-enthusiasts-blueprint-for-instagram-live-viewership/"><u>In 2024, The Unseen Enthusiast’s Blueprint for Instagram Live Viewership</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-srt-enhancements-maximizing-performance-on-both-platforms/"><u>In 2024, Top SRT Enhancements Maximizing Performance on Both Platforms</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigating-the-social-sphere-instaplustiktok-for-2024/"><u>Navigating the Social Sphere Insta+TikTok for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/thrill-seekers-challenge-hero5b-vs-hero5-session-in-action-for-2024/"><u>Thrill Seekers Challenge Hero5B Vs Hero5 Session in Action for 2024</u></a></li>
 </ul></div>
 

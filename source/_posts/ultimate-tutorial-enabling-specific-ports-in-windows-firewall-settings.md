@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Tutorial: Enabling Specific Ports in Windows Firewall Settings"
-date: 2024-09-30T20:08:39.644Z
-updated: 2024-10-04T21:15:12.736Z
+date: 2024-10-04T16:29:12.131Z
+updated: 2024-10-09T20:30:45.723Z
 tags:
   - deals
 categories:
@@ -37,32 +37,26 @@ thumbnail: https://thmb.techidaily.com/96d460ad778074a93b63a308714d13a6fb98bd643
 ![Search for "Windows Defender" in the Start menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-search-windows-defender-firewall.png) 
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once Windows Firewall opens, click on "Advanced Settings."
 
 ![Click on "Advanced Settings" on the left-hand side.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-click-advanced-setting.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This launches Windows Defender Firewall with Advanced Security. Click the "Inbound Rules" category on the left. In the far right pane, click the "New Rule" command.
 
 ![Click the "Inbound Rule" item, then click "New Rule."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-inbound-service-rules.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you need to open a rule for outgoing traffic, instead of clicking "Inbound Rule," you'd click "Outbound Rule." Most apps are pretty good about creating their own outbound rules when you install them, but you might occasionally run into one that cannot.
 
@@ -72,13 +66,6 @@ thumbnail: https://thmb.techidaily.com/96d460ad778074a93b63a308714d13a6fb98bd643
 
 ![Select "Port," then hit "Next."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-port-click-next.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On the next screen, you'll have to choose whether the port you're opening uses the Transmission Control Protocol (TCP) or User Datagram Protocol (UDP). Unfortunately, we can't tell you specifically which to use because different apps use different protocols. Port numbers can range from 0-65535, with ports up to 1023 being reserved for privileged services. You can find an unofficial list of (most) TCP/UDP ports on [the Wikipedia page](https://en.wikipedia.org/wiki/List%5Fof%5FTCP%5Fand%5FUDP%5Fport%5Fnumbers), and you can also search for the app you're using. If you can't determine the specific protocol to use for your app, you can create two new inbound rules — one for TCP and one for UDP.
 
  Select the "Specific Local Ports" option and then type the port number into the field provided. If you're opening more than one port, you can separate them by commas. If you need to open a range of ports, use a hyphen (-).
@@ -86,6 +73,13 @@ thumbnail: https://thmb.techidaily.com/96d460ad778074a93b63a308714d13a6fb98bd643
  Click "Next" when you're done.
 
 ![Select the port you want to forward. Do not open "All local ports."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-specify-ports.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  On the next page, click "Allow the Connection" and then click "Next."
 
@@ -101,26 +95,26 @@ thumbnail: https://thmb.techidaily.com/96d460ad778074a93b63a308714d13a6fb98bd643
 
 ![Choose which networks the rule applies to.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/8-choose-relevant.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the final window, give your new rule a name and an optional, more detailed description. Click "Finish" when you're done.
 
 ![Enter a rule name and description.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/9-click-finish-after-entering-description.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you want to disable the rule at any point, locate it in the list of Inbound or Outbound Rules, right-click it, and then click "Disable Rule."
 
 ![Right-click the rule to disable it without removing it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/10-disable-the-rule.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  That's all there is to it. If you need to open any other ports for a different program or with a different rule, repeat the steps above using a different set of ports to open.
@@ -140,15 +134,24 @@ thumbnail: https://thmb.techidaily.com/96d460ad778074a93b63a308714d13a6fb98bd643
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-through-a-photographers-eye-our-best-10-lenses-list/"><u>[Updated] 2024 Approved Through a Photographer's Eye Our Best 10 Lenses List</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-design-your-closure-the-best-free-youtube-tutorials/"><u>[Updated] In 2024, Design Your Closure The Best Free YouTube Tutorials</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-undercover-guide-to-enhancing-your-window-11-experience/"><u>[Updated] The Undercover Guide to Enhancing Your WINDOW 11 Experience</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-slow-motion-mobile-recording-solutions-iphoneandroid/"><u>2024 Approved Innovative Slow Motion Mobile Recording Solutions iPhone/Android</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 without Losing Any Data? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-from-apple-iphone-se-2020-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons From Apple iPhone SE (2020)? Find the Best Solution Here</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-blueprint-for-gathering-free-pictorial-video-files/"><u>In 2024, The Blueprint for Gathering Free Pictorial Video Files</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/optimizing-user-experience-necessary-cpu-changes-for-running-vanguard-smoothly/"><u>Optimizing User Experience: Necessary CPU Changes for Running Vanguard Smoothly</u></a></li>
-<li><a href="https://some-skills.techidaily.com/perfect-your-podcast-sound-editing-techniques-in-garageband-for-2024/"><u>Perfect Your Podcast Sound Editing Techniques in GarageBand for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unityflip-blend-ios-and-macos-media-artfully-for-2024/"><u>UnityFlip Blend iOS & macOS Media Artfully for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-bring-lut-effects-to-life-with-smartphones/"><u>[New] Bring LUT Effects to Life with Smartphones</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-how-to-add-music-to-a-video-on-iphone-3-free-ways-for-2024/"><u>[New] How to Add Music to a Video on iPhone [3 FREE WAYS] for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-swift-and-simple-techniques-to-download-hundreds-on-tiktok/"><u>[New] Swift and Simple Techniques to Download Hundreds on TikTok</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-30-metaverse-memes-crafting-hilarious-digital-delights/"><u>[New] Top 30 Metaverse Memes Crafting Hilarious Digital Delights</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transforming-dull-interviews-into-engaging-assessments/"><u>[New] Transforming Dull Interviews Into Engaging Assessments</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-smilesketcher-generate-memes-with-a-click/"><u>[Updated] In 2024, SmileSketcher Generate Memes with a Click</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streaming-mastery-zoom-plus-fb-live-tactics/"><u>[Updated] Streaming Mastery ZOOM + FB Live Tactics</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-covert-guide-to-livestreaming-on-instagram-unseen/"><u>[Updated] The Covert Guide to Livestreaming on Instagram Unseen</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-essential-playbook-turning-your-phone-into-a-vr-setup/"><u>[Updated] The Essential Playbook Turning Your Phone Into a VR Setup</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-30-slept-on-speech-to-text-apps-for-macos-users/"><u>[Updated] Top 30 Slept-On Speech to Text Apps for macOS Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-troubleshooting-solo-earbuds/"><u>[Updated] Troubleshooting Solo Earbuds</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-techniques-for-iphone-sideways-shots/"><u>2024 Approved Innovative Techniques for iPhone Sideways Shots</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-the-elite-selection-of-advanced-smart-frames-available/"><u>Exploring the Elite Selection of Advanced Smart Frames Available</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-infinix-zero-30-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Infinix Zero 30 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-tecno-spark-10-pro-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Tecno Spark 10 Pro to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-honor-90-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Honor 90 to Another | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-guide-to-nba-streaming-top-15-essentials/"><u>In 2024, Step-by-Step Guide to NBA Streaming - Top 15 Essentials</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-realme-11-pro-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unique-outro-music-files-at-your-fingertips-free-for-2024/"><u>Unique Outro Music Files at Your Fingertips - Free for 2024</u></a></li>
 </ul></div>
 
