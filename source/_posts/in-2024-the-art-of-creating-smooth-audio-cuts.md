@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Art of Creating Smooth Audio Cuts"
-date: 2024-08-10T20:07:35.243Z
-updated: 2024-08-11T20:07:35.243Z
+date: 2024-10-14T22:08:20.041Z
+updated: 2024-10-16T10:28:54.331Z
 tags: 
   - screen-recording
   - ai video
@@ -33,26 +33,22 @@ A scene or speech transition in which the audio gradually (or abruptly) lowers i
 
 Let's briefly take a look at the most popular audio transitions in Premiere Pro before going through the step-by-step tutorial on making an audio fade out. The audio fade is essentially a visual transition. Crossfading describes the audible transition between two audio samples on the same track. The terms "fade-in" and "fade-out" refer to the two different kinds of crossfade transitions, and Premiere Pro offers its customers three different crossfade effects: constant gain, constant power, and exponential fade. Following are some specifics:
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ### Constant Gain
 
 When switching between scenes, audio is constantly increased or decreased. The audio frequently sounds abrupt during this crossfade. Constant gain crossfade is a kind of audio transition where the audio is consistently increased or decreased as you switch between clips. Additionally, it lacks the exponential fade's smoothness. Don't ignore it however; it does have its uses. You'll probably use this sparingly.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### Constant Power
 
 In Premiere, the fade that dilutes the audio volume fluctuations between clips is represented by Constant Power. The second clip begins with a rapid spike and then decelerates at the conclusion of the transition. It produces a fluid, cinematic sequence that is understated yet high in quality. ideal for your next movie.
 
 It is used to gradually reduce audio for the first clip at start, then swiftly when the transition comes to a close. It works by gradually speeding up at the conclusion of the transition before gradually reducing the audio for your initial clip. This crossfades raises audio in the second clip swiftly at initially and then more gradually at the conclusion of the transition.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Exponential Fade
 
@@ -76,9 +72,6 @@ After launching Premiere, choose your preferred song, and then find the audio cl
 
 Select a crossfade effect by expanding the audio transition folder in the Effect panel. To access the audio transitions, navigate to Window > Effects and make sure the effects panel is turned on.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![open the transition effects](https://images.wondershare.com/filmora/article-images/2022/07/audio-transitions-premiere.jpg)
 
 ##### Step4 Choose the Fade Type
@@ -86,6 +79,13 @@ Select a crossfade effect by expanding the audio transition folder in the Effect
 To assign your audio file to the Audio track if you're starting from scratch, just drag it into the timeline in Premiere Pro. Drag your audio file downward to make room in the audio track of your sequence if you're currently working on a project. If you want to adjust the audio speed, double-click the fade type.
 
 ![choose the fade type](https://images.wondershare.com/filmora/article-images/2022/07/add-audio-transitions-premiere.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step5 Select Duration and Save Effect
 
@@ -111,10 +111,6 @@ Simply follow the steps below to add audio transitions without any hassle.
 
 This step requires you to launch the software since you have likely already downloaded and installed it. You can do this by clicking on the icon on your desktop or by typing "Filmora" into the desktop search box. Once the software has launched successfully, you must select the Video Editor option. The files on which you wish to use the audio transition must be imported in the next step. So, to achieve so, click the Import button in this software's default layout as seen below:
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![launch filmora and add files to timeline](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
 
 ##### Step2 Split the audio track for Transition
@@ -127,10 +123,20 @@ You may now use the splitting audio approach to clip off the portions of your au
 
 We focus on how you would use the editing feature on your audio that was divided for transitional reasons in this stage. So, to use this option, choose the relevant track, right-click on it to bring up the audio file's settings, and then choose Edit Audio.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![make the audio transitions](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 In this main step, you’ll get to know the transitioning technique with the Filmora. To use, follow these instructions in the audio editor, which has just appeared on the right side of the program screen. You can simply create the audio transitions without any hassles by going to the Volume area of the audio editor from there and modifying the volume of the audio track that you had separated for this reason.
 
@@ -139,8 +145,12 @@ In this main step, you’ll get to know the transitioning technique with the Fil
 The exporting procedure may now be completed in the last step with just a few clicks from the program interface by selecting the Export button in the top-right corner of your software screen as shown below:
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 In a nutshell, it's important to use the right program to customize the fade in/out effect for your music. The best tool for post-production alterations and laborious procedures is Premiere. However, [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is another program with a user-friendly interface and abundant media resources. Make sure you use the ideal toolbox for the job since the fading effect may make or break your project.
@@ -169,8 +179,22 @@ In a nutshell, it's important to use the right program to customize the fade in/
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-dive-into-the-art-of-asmr-recording-a-comprehensive-overview/"><u>[New] 2024 Approved Dive Into the Art of ASMR Recording – A Comprehensive Overview</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-tackling-massed-up-tiktoks-expert-edits-for-less-chaos/"><u>[New] Tackling Massed-Up TikToks Expert Edits for Less Chaos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-mechanism-behind-imovie-trim/"><u>[New] The Mechanism Behind iMovie Trim</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transform-your-gaming-consoles-vocals-today/"><u>[New] Transform Your Gaming Consoles' Vocals Today</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-the-spectrum-of-perfection-creating-stunning-hdrs-in-lightroom/"><u>[Updated] 2024 Approved The Spectrum of Perfection Creating Stunning HDRs in Lightroom</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-funicate-mastery-for-seamless-media-access/"><u>[Updated] Funicate Mastery for Seamless Media Access</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-the-full-potential-of-fast-fb-videos-with-tools/"><u>[Updated] Unlocking the Full Potential of Fast FB Videos with Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-podcasts-peak-listening-times/"><u>2024 Approved Unveiling Podcasts Peak Listening Times</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/discover-the-ultimate-list-of-7-free-dvd-software-compatible-with-windows-11/"><u>Discover the Ultimate List of 7 Free DVD Software Compatible with Windows 11</u></a></li>
+<li><a href="https://fox-search.techidaily.com/explore-diverse-react-native-blueprints-on-the-web-with-creative-tims-library-of-more-than-8-options-for-your-mobile-project/"><u>Explore Diverse React Native Blueprints on the Web with Creative Tim's Library of More Than 8 Options for Your Mobile Project.</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-writers-workshop-for-podcast-creators-examples-included/"><u>In 2024, The Writers' Workshop for Podcast Creators (Examples Included)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-10-uplifting-films-for-boosting-your-drive/"><u>In 2024, Top 10 Uplifting Films for Boosting Your Drive</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/passos-detalhados-para-converter-e-salvar-filmes-mp4-como-dvds-utilizando-o-sistema-operacional-windows-para-edicoes-111087/"><u>Passos Detalhados Para Converter E Salvar Filmes MP4 Como DVDs Utilizando O Sistema Operacional Windows: Para Edições 11/10/8/7</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/by-step-to-subscription-the-youtube-partner-program-route/"><u>Step-by-Step to Subscription The YouTube Partner Program Route</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/zombie-revival-gameplay-analysis-a-review-of-7-days-to-die-and-its-unique-single-player-sandbox-experience/"><u>Zombie Revival Gameplay Analysis: A Review of '7 Days to Die' & Its Unique Single-Player Sandbox Experience</u></a></li>
+</ul></div>
 

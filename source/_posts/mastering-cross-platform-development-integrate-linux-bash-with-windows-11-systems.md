@@ -1,7 +1,7 @@
 ---
 title: "Mastering Cross-Platform Development: Integrate Linux Bash with Windows 11 Systems"
-date: 2024-10-06T21:51:17.199Z
-updated: 2024-10-09T18:38:33.638Z
+date: 2024-10-12T02:41:43.043Z
+updated: 2024-10-16T08:46:00.883Z
 tags:
   - deals
 categories:
@@ -27,6 +27,19 @@ thumbnail: https://thmb.techidaily.com/655813b140cebedb2250090e80755301611474980
  The Windows Subsystem for Linux, introduced in the [Anniversary Update](https://twitter-videos.techidaily.com/2024-approved-clear-obstacle-youtube-tweets-on-google-chrome/), became a stable feature in the [Fall Creators Update](https://phone-solutions.techidaily.com/does-samsung-support-mkv-video-files-by-aiseesoft-video-converter-play-mkv-on-android/). You can now run Ubuntu, openSUSE, a remix of Fedora, and plenty of others on Windows, with more Linux distributions coming soon.
 
 ##  What You Need to Know About Windows 10's Bash Shell
+
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  How Windows Subsystem for Linux 1 (WSL1) Works
 
@@ -66,13 +79,6 @@ wsl --install
 
 ![PowerShell running WSL install command successfully.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/WSL-install.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After your computer restarts, open the Microsoft Store from the Start menu, and search for "Linux" in the store.
 
 ![Linux distros available on the Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/ms-store-linux.png) 
@@ -87,7 +93,21 @@ wsl --install
 
 ![Installing Debian through the Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/installing-debian.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also install multiple Linux distributions and they'll each get their own unique shortcuts. You can even run multiple different Linux distributions at a time in different windows.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Use The Bash Shell and Install Linux Software
 
@@ -107,6 +127,13 @@ wsl --install
 
 ![Enter a username and password for your Linux distro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a985a5c26989.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can launch your installed Linux environment by running the `wsl` command. If you have multiple Linux distributions installed, you can [choose the default Linux environment](https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-infinix-note-30-vip-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/) this command launches.
 
  If you have Ubuntu installed, you can also run the `ubuntu` command to install it. For openSUSE Leap 42, use `opensuse-42` . For SUSE Linux Enterprise Sever 12, use `sles-12` . These commands are listed on each Linux distribution's page on the Windows Store.
@@ -114,13 +141,6 @@ wsl --install
  You can still launch your default Linux environment by running the `bash` command, but Microsoft says this is deprecated. This means the `bash` command may stop functioning in the future.
 
 ![Running &quot;bash&quot; in the Command Prompt will launch your default Linux environment.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a985b14e9795.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you're experienced using a Bash shell on Linux, Mac OS X, or other platforms, you'll be right at home.
 
@@ -157,10 +177,10 @@ wsl --install
 ![Installing GNU Compiler Collection with apt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a985e7d80a6b.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Install the Ubuntu Font for a True Ubuntu Experience
@@ -175,16 +195,22 @@ wsl --install
 
 ![Open the font ZIP file, then double-click the font you want to preview or install.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a985eba01a04.png) 
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Double-click the "UbuntuMono-R.ttf" file and you'll see a preview of the font. Click "Install" to install it to your system.
 
 ![Click &quot;Install&quot; near the top if you want to use the font.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a985ee273570.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Use the Ubuntu Monospace Font in the Console
 
@@ -196,42 +222,15 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Console\TrueType
 
 ![Navigate to the &quot;TrueTypeFont&quot; key.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a986517b1bec.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Right-click in the right pane and select New > String Value. Name the new value `000` .
 
  Double-click the "000" string you just created, and then enter `Ubuntu Mono` as its value data.
 
 ![Create a new string named &quot;000&quot;, then set the value to &quot;Ubuntu Mono&quot;.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a98652a926c4.png) 
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Launch an Ubuntu window, right-click the title bar, and then select the "Properties" command. Click the "Font" tab, and then select "Ubuntu Mono" in the font list.
 
 ![Right-click the title bar of the terminal application you're using, go to &quot;Properties,&quot; then click &quot;Font.&quot; Select &quot;Ubuntu Mono&quot; from the list.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a986560320a0.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Use the Ubuntu Monospace Font in the Terminal
 
@@ -240,10 +239,10 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Console\TrueType
 ![Open the Terminal Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/open-settings-terminal.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Open to Defaults > Appearance, then select "Ubuntu Mono" from the list of available fonts.
@@ -251,6 +250,13 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Console\TrueType
  The Terminal automatically expands or collapses the labels in the left sidebar depending on the size of your window, much like the Settings app does. You may not see the "Default" text label depending on the size of your window.
 
 ![Enable the Ubuntu Mono font.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/font-ubuntu-mono.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Remember: software you install in the Bash shell is restricted to the Bash shell. You can access these programs from the Command Prompt, PowerShell, or elsewhere in Windows, but only if you [run the bash -c command](https://vp-tips.techidaily.com/building-a-brand-with-captivating-haul-videos-and-edits/).
 
@@ -269,22 +275,17 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Console\TrueType
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-steps-for-efficiently-storing-whatsapp-audio-transcripts/"><u>[New] In 2024, Steps for Efficiently Storing WhatsApp Audio Transcripts</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-premier-ai-for-stunning-photo-creation-for-2024/"><u>[New] Premier AI for Stunning Photo Creation for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-the-essential-mix-combining-intro-and-exit-strategies-for-success-for-2024/"><u>[New] The Essential Mix Combining Intro & Exit Strategies for Success for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-metaverse-journey-begins-exploring-6-engrossing-instances/"><u>[New] The Metaverse Journey Begins Exploring 6 Engrossing Instances</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlock-the-power-of-design-in-audio-branding/"><u>[New] Unlock the Power of Design in Audio Branding</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-subtitle-making-from-compressed-file-extraction/"><u>[Updated] Subtitle Making From Compressed File Extraction</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unleashing-photography-potential-with-lightroom-hdrs/"><u>[Updated] Unleashing Photography Potential with Lightroom HDRs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-colors-top-11-grading-and-correction-techniques/"><u>[Updated] Unveiling Colors Top 11 Grading & Correction Techniques</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-mastering-hue-and-saturation-techniques/"><u>2024 Approved Mastering Hue & Saturation Techniques</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mac-apple-tv-mac/"><u>無料Mac用アップグレード: Apple TV互換ビデオフォーマッター - Macで鮮明な視聴体験を実現</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-analysis-of-mapmyride-app-features-and-performance/"><u>Comprehensive Analysis of MapMyRide App Features and Performance</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Tecno Phantom V Flip | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Apple iPhone 13 | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-subtlety-matters-fading-out-sounds-in-logic-pro/"><u>In 2024, Subtlety Matters Fading Out Sounds in Logic Pro</u></a></li>
-<li><a href="https://some-skills.techidaily.com/stream-to-stardom-mastering-live-with-xsplit-or-obs-for-2024/"><u>Stream to Stardom Mastering Live with XSplit or OBS for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unraveling-the-workings-of-gpt-4-in-these-7/"><u>Unraveling The Workings of GPT-4 in These 7</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-samsungs-image-editing-software-insights-for-2024/"><u>Unveiling Samsung's Image Editing Software Insights for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-navigating-nearby-your-personal-guide-for-on-the-go-assistance/"><u>[New] Navigating Nearby - Your Personal Guide for On-the-Go Assistance</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-prime-strategies-for-constructing-mcc-homes/"><u>[New] Prime Strategies for Constructing MCC Homes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-50plus-overlays-for-engaging-media-content/"><u>2024 Approved Top 50+ Overlays for Engaging Media Content</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-better-videos-a-22-enhancer-users-manual/"><u>2024 Approved Unlock Better Videos A 2.2 Enhancer User's Manual</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-infinix-note-30-pro-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Infinix Note 30 Pro is off? | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-break-bot-patterns-enhance-organic-video-reach/"><u>In 2024, Break Bot Patterns, Enhance Organic Video Reach</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-guide-twitter-video-enhancers/"><u>In 2024, Ultimate Guide Twitter Video Enhancers</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-unlock-seamless-edits-audio-video-syncing-in-fcpx-2024-explaine/"><u>New Unlock Seamless Edits Audio-Video Syncing in FCPX 2024 Explaine</u></a></li>
+<li><a href="https://win-answers.techidaily.com/seamless-gaming-experience-solving-assassins-creed-odyssey-pc-crashes/"><u>Seamless Gaming Experience: Solving Assassin's Creed Odyssey PC Crashes</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/mline-your-musical-journey-with-youtubes-60-second-clips-for-2024/"><u>Streamline Your Musical Journey with YouTube's 60-Second Clips for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-oppo-find-x7-ultra-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Oppo Find X7 Ultra for Streaming | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-designing-effective-lower-thirds-a-guide-to-fcpx-success-for-2024/"><u>Updated Designing Effective Lower Thirds A Guide to FCPX Success for 2024</u></a></li>
 </ul></div>
 

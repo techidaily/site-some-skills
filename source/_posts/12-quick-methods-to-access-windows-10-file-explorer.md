@@ -1,7 +1,7 @@
 ---
 title: 12 Quick Methods to Access Windows 10 File Explorer
-date: 2024-10-04T01:47:24.580Z
-updated: 2024-10-09T16:01:06.691Z
+date: 2024-10-09T08:45:47.859Z
+updated: 2024-10-16T08:32:17.618Z
 tags:
   - deals
 categories:
@@ -26,13 +26,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [From Command Prompt](https://easy-unlock-android.techidaily.com/7-ways-to-unlock-a-locked-realme-narzo-60-5g-phone-by-drfone-android/)
 * [Via PowerShell](https://fox-glue.techidaily.com/updated-2024-approved-must-haves-for-capturing-movies-on-the-move/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Open File Explorer by clicking the Taskbar icon, using the keyboard shortcut Windows+E, or searching for "File Explorer" in Windows Search.
@@ -50,13 +43,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Click the File Explorer button on the taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/icon-on-taskbar.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Use the Keyboard Shortcut
 
  Almost every keyboard on a Windows PC has a Windows key (it's the one with the Windows icon). You can open File Explorer by pressing Windows+E.
@@ -66,6 +52,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  You can search for any application on your PC in Windows Search. In the Search box to the left of the Taskbar, just type "File Explorer," and then click (or use the arrow keys to select) "File Explorer" in the search results to launch it.
 
 ![Search for 'file explorer' in the search bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/file-explorer-on-search.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  From the Start Menu
 
@@ -81,9 +74,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Enable the 'File Explorer' option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/enable-file-explorer.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  File Explorer will now appear in the sidebar of the Start menu; click it to launch File Explorer.
 
 ![A small File Explorer icon in the Start menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/file-explorer-on-start.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also add a shortcut to the pinned tile section to the right of the Start menu. To do so, open the Start menu, type "File Explorer" in the Search box, and then, in the pane that appears to the right of the search results, click "Pin to Start."
 
@@ -95,6 +102,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![File explorer tile](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/10/File-explorer-tile.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  From Within File Explorer
 
  You can launch anything that is [on your system PATH](https://android-frp.techidaily.com/in-2024-the-complete-guide-to-meizu-frp-bypass-everything-you-need-to-know-by-drfone-android/) from the address bar without specifying a full path to the executable, just like a Run window, Command Prompt, or PowerShell.
@@ -104,17 +118,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Running File Explorer from within File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/explorer-in-explorer.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  From the Power User Menu
@@ -128,6 +135,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  You can also launch File Explorer in the Run app. Press Windows+R to open the "Run" window. In the "Open:" box, type "Explorer," click "OK," and File Explorer will open.
 
 ![Execute explorer in a Run window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/launch-explorer-run-window.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Run the Source Application
 
@@ -145,6 +159,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![File explorer desktop shortcut](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/10/File-explorer-desktop-shortcut.gif) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now, you can just double-click the shortcut on your desktop to open File Explorer anytime.
 
 ##  From Task Manager
@@ -158,10 +179,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Enter 'explorer' into the 'Create New Task' window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/create-new-task-task-manager.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  From Command Prompt
@@ -176,34 +197,13 @@ explorer
 
 ![Run 'explorer' in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/explorer-in-cmd.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  File Explorer will open.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Via PowerShell
 
  You can also launch File Explorer from PowerShell. To do so, type "PowerShell" in the Windows Search box, and then select "Windows PowerShell" from the search results to [open it](https://techtrends.techidaily.com/what-are-the-stages-in-a-game-of-royal-match/).
 
 ![Launch PowerShell from the Start menu or the Windows search bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/powershell-in-start-menu.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In PowerShell, type the following command, and then press Enter:
 
@@ -232,18 +232,18 @@ explorer
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/-palette-of-pleasantness-five-winter-backgrounds-ideas/"><u>[New] A Palette of Pleasantness Five Winter Backgrounds Ideas</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-integrating-subtitles-into-your-vimeo-projects/"><u>[New] Integrating Subtitles Into Your Vimeo Projects</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-toontech-complete-insight-2024-edition/"><u>[New] ToonTech Complete Insight - 2024 Edition</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/t-insider-tips-from-chroma-keying-to-cinematic-creations/"><u>[New] YT Insider Tips From Chroma Keying to Cinematic Creations</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-huawei-nova-y91-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Huawei Nova Y91</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-errors-with-your-final-usb-gadget-when-windows-fails-to-detect/"><u>Fixing Errors with Your Final USB Gadget: When Windows Fails to Detect</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-achieve-zero-lag-in-counter-strike-2-on-your-computer/"><u>How to Achieve Zero Lag in Counter-Strike 2 on Your Computer</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>How to Fake Snapchat Location without Jailbreak On Apple iPhone SE (2022) | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-stunning-images-with-the-latest-iphone-camera-features/"><u>In 2024, Stunning Images with the Latest iPhone Camera Features</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-calming-chorus-proven-voices-aid-sleep/"><u>In 2024, The Calming Chorus Proven Voices Aid Sleep</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-10-popular-virtual-reality-peripherals/"><u>In 2024, Top 10 Popular Virtual Reality Peripherals</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/instantly-get-the-latest-hp-stream-driver-software/"><u>Instantly Get the Latest HP Stream Driver Software</u></a></li>
-<li><a href="https://some-skills.techidaily.com/superior-settings-visuals-that-stick-with-viewers-for-2024/"><u>Superior Settings Visuals that Stick With Viewers for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-synchronizing-social-media-channels-for-broad-distribution/"><u>[New] Synchronizing Social Media Channels for Broad Distribution</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-ultra-hd-lg-27uhd68-4k-fs-display-and-smooth-sync-test/"><u>[New] Ultra HD LG 27UHD68 4K FS Display & Smooth Sync Test</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-shedding-light-on-brighter-hdr-approaches-with-high-quality-luminosity/"><u>[Updated] 2024 Approved Shedding Light on Brighter HDR Approaches with High-Quality Luminosity</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-overlay-wizardry-on-your-windows-desktop/"><u>[Updated] Overlay Wizardry on Your Windows Desktop</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-playlist-puzzle-assembling-songs-in-new-spaces/"><u>[Updated] The Playlist Puzzle Assembling Songs in New Spaces</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-tally-unveiling-the-highest-rated-threads-on-reddit/"><u>[Updated] The Ultimate Tally Unveiling the Highest-Rated Threads on Reddit</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-8-online-photo-montage-maker/"><u>[Updated] Top 8 Online Photo Montage Maker</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-digital-footprint-reduction-for-media-safety/"><u>2024 Approved Digital Footprint Reduction for Media Safety</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-google-meet-capture-made-simple-for-mobile-users/"><u>2024 Approved Google Meet Capture Made Simple for Mobile Users</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-reconnecting-with-iphone-x-reviving-facial-biometrics/"><u>2024 Approved Reconnecting with iPhone X Reviving Facial Biometrics</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-vivid-visuals-on-your-computer-with-windows-hdr/"><u>2024 Approved The Art of Vivid Visuals on Your Computer with Windows HDR</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1725290040832-iphonedvd/"><u>IPhone動画が愛される!コンビニで核心をつかむ方法:簡単なDVDへの変換術</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-8-immersive-virtual-reality-adventures-on-oculus-for-2024/"><u>Top 8 Immersive Virtual Reality Adventures on Oculus for 2024</u></a></li>
 </ul></div>
 

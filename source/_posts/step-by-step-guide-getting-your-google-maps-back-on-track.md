@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Getting Your Google Maps Back on Track"
-date: 2024-10-03T01:43:39.633Z
-updated: 2024-10-10T03:37:37.410Z
+date: 2024-10-15T09:21:15.976Z
+updated: 2024-10-15T22:07:27.603Z
 tags:
   - desktop
 categories:
@@ -31,10 +31,10 @@ thumbnail: https://thmb.techidaily.com/26f65c8609b0e088bfc952ce0e1907346f9597a5e
  Google Maps is often a reliable travel companion, yet occasional glitches can leave us stranded. Issues like server outages, lack of internet connectivity, incorrect time and date settings, or restricted background data usage can contribute to these issues. Here are some troubleshooting steps you can take to resolve the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Perform Some Preliminary Checks
@@ -65,22 +65,22 @@ thumbnail: https://thmb.techidaily.com/26f65c8609b0e088bfc952ce0e1907346f9597a5e
 
 ![Turning on the location services on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/1-turning-on-the-location-services-on-android.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Find Google Maps among the apps and review its permission settings. Ensure the circle next to "Allow Only While Using the App" or "Ask Every Time" is selected.
 
 ![Changing the location permission of the Google Maps app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/2-changing-the-location-permission-of-the-google-maps-app.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Ensure the Date and Time Is Correctly Configured
 
@@ -91,10 +91,10 @@ thumbnail: https://thmb.techidaily.com/26f65c8609b0e088bfc952ce0e1907346f9597a5e
 ![Configuring time to update automatically.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/settings-the-time-to-update-automatically.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  On Android, open the Settings app and go to General Management > Date and Time. Toggle on both "Automatic Date and Time" and "Automatic Time Zone."
@@ -102,10 +102,16 @@ thumbnail: https://thmb.techidaily.com/26f65c8609b0e088bfc952ce0e1907346f9597a5e
 ![Enabling the automatic date and time and time zone settings on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/3-enabling-the-automatic-date-and-time-and-time-zone-settings-on-android.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Turn On the Background Data
@@ -115,6 +121,13 @@ thumbnail: https://thmb.techidaily.com/26f65c8609b0e088bfc952ce0e1907346f9597a5e
  On Android devices, this feature is called Background Data. To enable it, navigate to the Settings app, then go to Connections > Data Usage > Mobile Data Usage. Locate the Google Maps app in the list, open its settings, and toggle on the options for "Allow Background Data Usage" and "Allow Data Usage While Data Saver Is On."
 
 ![Turning on the background data usage on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/4-turning-on-the-background-data-usage-on-android.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  On iPhone, the feature is known as Background App Refresh. To [ensure the feature isn't disabled on your phone](https://facebook-video-footage.techidaily.com/seamlessly-integrating-device-screens-into-your-youtube-projects-for-2024/), go to Settings > General > Background App Refresh. Make sure that "Background App Refresh" is turned on. Also, ensure that the toggle next to the Maps app is turned on.
 
@@ -129,17 +142,10 @@ thumbnail: https://thmb.techidaily.com/26f65c8609b0e088bfc952ce0e1907346f9597a5e
 ![Updating the Google Maps app from the Android Play Store.-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/5-updating-the-google-maps-app-from-the-android-play-store-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Clear the Google Maps App Cache
@@ -149,10 +155,10 @@ thumbnail: https://thmb.techidaily.com/26f65c8609b0e088bfc952ce0e1907346f9597a5e
 ![Clearing the cache of the Google Maps app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/clearing-the-cache-of-the-google-maps-app.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To clear the cache on an iPhone, you need to offload the app while retaining the app data and then reinstall it. Navigate to Settings > General > iPhone Storage > Maps, and then tap on "Offload App."
@@ -186,24 +192,22 @@ thumbnail: https://thmb.techidaily.com/26f65c8609b0e088bfc952ce0e1907346f9597a5e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-10-missing-iphone-x-tips-and-tricks-for-you-to-pick-up/"><u>[New] 10 Missing iPhone X Tips and Tricks For You to Pick Up</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-all-about-youtubes-elite-access-a-complete-breakdown/"><u>[New] 2024 Approved All About YouTube's Elite Access - A Complete Breakdown</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-optimizing-visual-experience-enabling-auto-hdr-on-windows-11/"><u>[New] In 2024, Optimizing Visual Experience Enabling Auto HDR on Windows 11</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-integrated-approach-to-post-videos-on-twittertumblr/"><u>[New] Integrated Approach to Post Videos on Twitter/Tumblr</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-instagrammable-vs-trendy-will-likebeat-tiktok-for-2024/"><u>[Updated] Instagrammable Vs. Trendy Will LikeBeat TikTok for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-spectacular-vision-immersive-movies/"><u>[Updated] Spectacular Vision Immersive Movies</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-streamline-your-virtual-adventure-with-kinemaster-tips-and-competitor-analysis/"><u>[Updated] Streamline Your Virtual Adventure with KineMaster Tips & Competitor Analysis</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-supernatural-video-slowdown-handbook/"><u>[Updated] Supernatural Video Slowdown Handbook</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-creative-potential-downloading-free-luts-for-ar-development/"><u>[Updated] Unlocking Creative Potential Downloading Free LUTs for AR Development</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-download-and-translate-youtube-videos-for-free/"><u>2024 Approved Download and Translate YouTube Videos for Free</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-fixing-rtmp-streams-in-premiere/"><u>2024 Approved The Ultimate Guide to Fixing RTMP Streams in Premiere</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/creative-cache-premium-free-after-effects-tools/"><u>Creative Cache Premium, Free After Effects Tools</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/hassle-free-instructions-for-setting-up-windows-patches-and-upgrades/"><u>Hassle-Free Instructions for Setting up Windows Patches & Upgrades</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-honor-magic-6-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Honor Magic 6</u></a></li>
-<li><a href="https://some-skills.techidaily.com/simplifying-windows-11-sound-logging-for-2024/"><u>Simplifying Windows 11 Sound Logging for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-why-wont-my-stadia-headset-connect-lets-fix-it/"><u>Step-by-Step Guide: Why Won’t My Stadia Headset Connect? Let's Fix It!</u></a></li>
-<li><a href="https://some-skills.techidaily.com/streamline-your-soundwaves-moving-playlists-across-networks-for-2024/"><u>Streamline Your Soundwaves Moving Playlists Across Networks for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-2023-guide-to-your-updated-lg-bp550-for-2024/"><u>Ultimate 2023 Guide to Your Updated LG BP550 for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-the-full-potential-of-canvas-image-tools-for-2024/"><u>Unlocking the Full Potential of Canva's Image Tools for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-professionally-recording-every-aspect-of-your-ppt-presentations/"><u>[New] In 2024, Professionally Recording Every Aspect of Your PPT Presentations</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-premier-livestream-networks-you-need-to-watch/"><u>[New] The Premier Livestream Networks You Need To Watch</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-manual-to-assembling-a-top-tier-4k-editing-pc/"><u>[New] The Ultimate Manual to Assembling a Top-Tier 4K Editing PC</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-picks-in-gimbals-to-elevate-your-drone-imagery/"><u>[New] Top Picks in Gimbals to Elevate Your Drone Imagery</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unveiling-hidden-shared-memories-in-messenger-for-2024/"><u>[New] Unveiling Hidden Shared Memories in Messenger for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-new-wave-of-coding-excellence-av1-vs-vp9-face-off/"><u>[Updated] In 2024, The New Wave of Coding Excellence AV1 vs VP9 Face-Off</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-techniques-to-transform-text-into-a-3d-entity/"><u>[Updated] Techniques to Transform Text Into a 3D Entity</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/artificial-intelligence-for-dynamic-frame-synthesis-elevating-graphics-fluidity-and-frames-per-second-fps-performance/"><u>Artificial Intelligence for Dynamic Frame Synthesis: Elevating Graphics Fluidity and Frames Per Second (FPS) Performance</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-techniques-to-reduce-nausea-while-in-vr/"><u>In 2024, Techniques to Reduce Nausea While In VR</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-quick-setup-for-smartphones-as-personalized-vr-headsets/"><u>In 2024, The Quick Setup for Smartphones as Personalized VR Headsets</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-guide-80s-vhs-tricks-for-dynamic-edits/"><u>In 2024, Ultimate Guide 80'S VHS Tricks for Dynamic Edits</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Vivo Y78+? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/streamlining-the-update-process-for-accurate-tiktok-age-details/"><u>Streamlining the Update Process for Accurate TikTok Age Details</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/turing-inspirational-lifestyle-content-for-audiences/"><u>Structuring Inspirational Lifestyle Content for Audiences</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/taking-twitters-short-form-stories-and-making-them-come-alive-as-gifs/"><u>Taking Twitter's Short Form Stories and Making Them Come Alive as GIFS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-tricks-for-smooth-auditory-paths-for-2024/"><u>Top Tricks for Smooth Auditory Paths for 2024</u></a></li>
 </ul></div>
 

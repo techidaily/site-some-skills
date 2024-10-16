@@ -1,7 +1,7 @@
 ---
 title: "Maximize Your iCloud Capacity: Effective Methods to Clear and Reclaim Storage"
-date: 2024-10-07T18:00:29.687Z
-updated: 2024-10-09T20:51:12.124Z
+date: 2024-10-14T21:12:08.054Z
+updated: 2024-10-16T10:54:46.847Z
 tags:
   - desktop
 categories:
@@ -30,10 +30,10 @@ thumbnail: https://thmb.techidaily.com/6b26f43d7c441fdc486228c15693f43761df84b70
  Apple offers 5GB of free iCloud space to everyone, but you'll run up against that storage limit sooner than you'd think. If you have multiple devices, you'll run out even faster. That free 5GB is per Apple ID, not per device, so it's a good idea to free up wasted space before paying for more storage. Here's how to do it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Identify the Biggest Storage Hogs
@@ -46,16 +46,16 @@ Close
 
 ![A close-up of the storage bar chart in the iCloud settings on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-ios-17-5-settings-app-apple-id-icloud-section-storage-chart.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you're on a Mac, hover over sections like "Documents," "Photos and Videos," "Backups," "Messages," "Mail," and "Family" to reveal per-category storage usage.
 
 ![An iCloud storage graph closeup in System Settings on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-macos-sonoma-14-5-system-settings-icloud-storage-graph-backups-category-size-tooltip.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To manage iCloud storage access for the biggest storage hogs like iCloud Drive, Messages, Photos, Mail, or iCloud Backup and turn syncing on or off, select the feature under "Apps Using iCloud" in General > Storage in the Settings (iOS/iPadOS) or System Settings app (Mac)
 
@@ -66,6 +66,13 @@ Close
 ![The iPhone's Settings app with the Recommended For You option highlighted in the iCloud section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-ios-17-5-settings-app-icloud-recommended-for-you-selected.png) 
 
  Depending on how you use your iCloud storage, recommendations may include slimming down the Photos library by [identifying duplicate images](https://ai-topics.techidaily.com/updated-2024-approved-what-is-chatgpt/), deleting large files and old backups, among other things.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Delete Outdated iPhone and iPad Backups
 
@@ -94,10 +101,10 @@ Close
 ![The iPhone Overview screen in the iMazing app for macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/imazing-app-iphone-overview.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Exclude Apps From Your iPhone Backups
@@ -117,19 +124,6 @@ Close
 Close 
 
  With iCloud Photos disabled, you're wholeheartedly recommended to try [Google Photos](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU220865/https://itunes.apple.com/us/app/google-photos-free-photo-video/id962194608?mt=8), [Dropbox](https://geo.itunes.apple.com/en/app/dropbox/id327630330?at=1010loXs&ct=191340), or [Flickr](https://apps.apple.com/gb/app/flickr/id328407587), which can automatically back up your photos to a separate pool of cloud storage that's often bigger than iCloud. That way, you'll have a backup copy of your photos and videos stored online and retain your precious iCloud storage for other functions.
-
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Delete App Documents and Data From iCloud
 
@@ -166,10 +160,10 @@ Close
  You don't need to delete your emails from Gmail, Outlook, or Yahoo as those services don't store inboxes in iCloud but rather within their own cloud space.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Delete Old Chats and Messages Attachments
@@ -183,6 +177,13 @@ Close
  The selected attachments will be removed from all your Apple devices.
 
  You can also delete conversation threads with no attachments. But those are typically only a few kilobytes each, and you may want to keep them anyway.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Consider Upgrading Your iCloud Storage
 
@@ -203,13 +204,6 @@ Close
  iCloud+ storage is also included in the [Apple One bundle,](https://some-guidance.techidaily.com/new-the-editors-edge-secrets-to-professional-photo-refining/) which combines multiple services at a discounted price. The $20/month tier includes 50GB, the $26/month one offers 200GB, and the flagship $38/month tier offers 2TB.
 
 ![The Apple One bundle plans and pricing.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-one-bundle-individual-family-premier-plans-pricing.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If that wasn't enough, you can subscribe to Apple One and also buy one of the five iCloud+ storage plans to get a whopping 14TB of cloud-based storage.
 
@@ -234,18 +228,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-amplify-viewership-with-these-top-10-youtube-reaction-strategies/"><u>[New] 2024 Approved Amplify Viewership with These Top 10 YouTube Reaction Strategies</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-redirect-macs-image-backup-to-new-folder/"><u>[New] Redirect Mac's Image Backup to New Folder</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-strategies-for-improving-your-interview-prowess/"><u>[New] Strategies for Improving Your Interview Prowess</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-most-popular-wedding-countdown-clocks-a-top-10-list-androidios/"><u>[New] The Most Popular Wedding Countdown Clocks A Top 10 List (Android/iOS)</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-a-glimpse-into-future-facebook-ad-tactics-for-24/"><u>[Updated] A Glimpse Into Future-Facebook Ad Tactics for '24</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-your-media-collection-with-funimate/"><u>2024 Approved Streamline Your Media Collection with Funimate</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-iphones-best-5-podcasting-apps/"><u>2024 Approved The Ultimate Guide to iPhone's Best 5 Podcasting Apps</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-realme-v30t-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Realme V30T Location by Number | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/to-youtube-riches-optimal-view-figures-for-monetization-success-for-2024/"><u>Path to YouTube Riches Optimal View Figures for Monetization Success for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-dimming-down-soundtracks-in-premiere-pro-for-2024/"><u>The Ultimate Guide to Dimming Down Soundtracks in Premiere Pro for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-guide-9-premier-video-translators-for-accurate-global-communication-for-2024/"><u>Ultimate Guide 9 Premier Video Translators for Accurate Global Communication for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Asus ROG Phone 7 | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/yamahas-compact-sound-system-b020bl-overview/"><u>Yamaha's Compact Sound System - B020BL Overview</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-gentle-art-of-reducing-audio-amplitude-in-logic-pro/"><u>[New] The Gentle Art of Reducing Audio Amplitude in Logic Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlock-optimal-performance-with-these-key-tricks/"><u>[New] Unlock Optimal Performance with These Key Tricks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-the-full-potential-of-fast-fb-videos-with-tools/"><u>[New] Unlocking the Full Potential of Fast FB Videos with Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-what-is-virtual-reality-and-how-does-it-work/"><u>[New] What Is Virtual Reality and How Does It Work?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-time-stamps-on-youtube-videos/"><u>[Updated] Mastering Time Stamps on YouTube Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-synthetic-adventures-starts-here-top-vr-tools-10/"><u>[Updated] Synthetic Adventures Starts Here Top VR Tools (10)</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-15-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>How To Unlock Apple iPhone 15 Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hp-laserjet-m506-driver-download-and-update/"><u>HP LaserJet M506 Driver Download & Update</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/selection-depends-on-application-requirements-including-fluid-properties-and-system-efficiency/"><u>Selection Depends on Application Requirements Including Fluid Properties and System Efficiency</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/superior-cinematic-introductions-set-for-2024/"><u>Superior Cinematic Introductions Set for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-the-potential-advanced-techniques-for-podcast-editing-in-garageband-for-2024/"><u>Unlock the Potential Advanced Techniques for Podcast Editing in GarageBand for 2024</u></a></li>
 </ul></div>
 

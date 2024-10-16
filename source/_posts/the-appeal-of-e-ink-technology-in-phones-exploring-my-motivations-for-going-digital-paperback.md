@@ -1,7 +1,7 @@
 ---
 title: "The Appeal of E-Ink Technology in Phones: Exploring My Motivations for Going Digital Paperback"
-date: 2024-10-07T04:15:41.434Z
-updated: 2024-10-09T21:43:55.299Z
+date: 2024-10-11T05:42:54.030Z
+updated: 2024-10-16T09:26:28.197Z
 tags:
   - mobile
 categories:
@@ -19,13 +19,6 @@ thumbnail: https://thmb.techidaily.com/c8e68cffef41fc4061ac722c7019bbd23a7bd7418
 
  E-readers have shown us the appeal of e-ink screens. The Light Phone 2 crammed this eye-friendly display technology into a phone. I want to see this technology come to smartphones. Let me tell you why.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  ​Easier on the Eyes
 
  I have carried around a [Light Phone 2](https://www.thelightphone.com/) for years. I loved the look of that tiny, credit-card sized phone with its minimal e-ink display. After a while, I returned to using a smartphone, but I wish that choice didn't mean having to give up e-ink.
@@ -37,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/c8e68cffef41fc4061ac722c7019bbd23a7bd7418
  Like with using pen and paper, e-ink leaves me more dependent on external light sources. That means I'm more likely to use my phone in a setting with better lighting and put it down when the lighting isn't cooperating.
 
  I know, not using your device in the dark sounds downright primitive at this point. That's why e-ink devices come with front-lighting. This makes the screen glow, but the light comes from the sides of the screen rather than behind. It shines down onto the text you're reading, rather than out toward your face.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  E-Ink Helps Form Healthier Habits
 
@@ -56,13 +56,6 @@ thumbnail: https://thmb.techidaily.com/c8e68cffef41fc4061ac722c7019bbd23a7bd7418
 
 ![reading on the onyx boox palma](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/reading-on-the-onyx-boox-palma_53279899430_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Sergio Rodriguez / How-To Geek
 
  If e-ink displays aren't great for so much of what we do on our phones, why want one? They're far better for reading. Personally, this is something many (if not most) of us do much more of on our devices. We read texts, email, webpages, and social media posts. With e-ink, it's also more tempting to dive into ebooks.
@@ -75,13 +68,6 @@ Sergio Rodriguez / How-To Geek
 
 ![Boox Tab Ultra C being held in a hand showing its home screen icons.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/C183E45A-A48E-4841-968E-DF39B15CD066.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  \- _Tyler Hayes / HowToGeek_
 
  It's not only the animations that take a hit. E-ink screens give icon designers more restrictions, limiting their ability to make their designs jump out at us as we swipe through our app drawers. This puts more control back in our hands, helping us resist the efforts of many of the world's best designers attempting to make us click on their team's app over doing something else.
@@ -90,15 +76,22 @@ Sergio Rodriguez / How-To Geek
 
  E-ink screens do better with simple layouts than they do with gradients and animations. This makes the devices less eye-catching. It's hard to get excited about a presentation showing off the new home screen on a [Nook GlowLight](https://instagram-video-recordings.techidaily.com/turning-horizons-into-heights-uploading-videos-to-igtv/), yet enough of us have come to the conclusion that that's a good thing. Give us something straightforward that helps us do the task at hand and then encourage us to put the phone back down when we're done.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  ​It's Like Writing on Paper
 
 ![Boox Tab Ultra C Pro with annotations on the screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/boox-tab-ultra-c-pro.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -110,6 +103,13 @@ Jerome Thomas / How-To Geek
  A foldable e-ink phone would take this to the next level, but I wouldn't complain about seeing an e-ink version of a slab like the Galaxy S Ultra. That would be a delight to write on, too.
 
  You wouldn't be limited to writing, either. Color e-ink is an established technology at this point, one making advancements each year. If working on an iPad feels like using markers, drawing with e-ink feels like bringing out the color pencils. I'm not saving one is better than the other. Both have their place, and it's great to have the option. We do have this choice when it comes to tablets (shout out to the [Boox Tab Ultra C](https://extra-tips.techidaily.com/chucklecraft-suite-for-2024/) and similar slates), but it would be great to see this come to phones.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Get More Life Out of Our Batteries
 
@@ -134,22 +134,16 @@ Jerome Thomas / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-ranking-the-best-ios-videography-tech/"><u>[New] Ranking the Best iOS Videography Tech</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-substitutes-to-winmovie-making-software/"><u>[New] Substitutes to WinMovie Making Software</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-prime-windows-10-photo-display-for-2024/"><u>[Updated] Prime Windows 10 Photo Display for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-screenplay-structure-unveiled/"><u>2024 Approved The Screenplay Structure Unveiled</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-6-digital-backdrop-eradicators-boosting-image-clarity/"><u>2024 Approved Ultimate 6 Digital Backdrop Eradicators Boosting Image Clarity</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-your-devices-new-tone-with-top-5-chrome-extensions/"><u>2024 Approved Unleash Your Device's New Tone with Top 5 Chrome Extensions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-honor-play-40c-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Honor Play 40C via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/boosting-fb-video-engagement-and-audience-reach/"><u>Boosting FB Video Engagement & Audience Reach</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-experience-the-virtual-reality-frontier-on-youtube/"><u>In 2024, Experience the Virtual Reality Frontier on Youtube</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-10-web-based-subtitle-editor-tools/"><u>In 2024, Top 10 Web-Based Subtitle Editor Tools</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/insta-videography-dimensions-for-the-ultimate-visual-impact-for-2024/"><u>Insta Videography Dimensions for the Ultimate Visual Impact for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/lost-contacts-found-effective-strategies-for-retrieving-information-after-ios-enhancements-or-unlocking/"><u>Lost Contacts Found: Effective Strategies for Retrieving Information After iOS Enhancements or Unlocking</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-samsung-galaxy-m34-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Samsung Galaxy M34 | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/0-no-cost-video-cutting-apps/"><u>Top 10 No-Cost Video Cutting Apps</u></a></li>
-<li><a href="https://some-skills.techidaily.com/understanding-and-implementing-audio-ebb-in-premiere-pro-for-2024/"><u>Understanding and Implementing Audio Ebb in Premiere Pro for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-secrets-of-strong-openings-podcasters-guidebook-for-2024/"><u>Unlocking Secrets of Strong Openings Podcaster's Guidebook for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-realme-11-proplus-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Realme 11 Pro+ Device</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-strategies-for-combining-the-best-of-zoom-and-skype-video-calls/"><u>[New] 2024 Approved Strategies for Combining the Best of Zoom and Skype Video Calls</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-premium-timepieces-for-your-dream-wedding-on-smartphones/"><u>[New] In 2024, Premium Timepieces for Your Dream Wedding on Smartphones</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-innovative-5-web-video-capturing-technologies-for-2024/"><u>[New] Innovative 5 Web Video Capturing Technologies for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-manipulating-image-shapes/"><u>[New] The Ultimate Guide to Manipulating Image Shapes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-art-of-saturation-and-contrast-in-gopro-editing/"><u>[Updated] The Art of Saturation and Contrast in GoPro Editing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-memelife-top-meme-creator-tool-download/"><u>2024 Approved Ultimate Memelife Top Meme Creator Tool Download</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-secrets-to-buying-todays-best-360-cameras/"><u>2024 Approved Unveiling the Secrets to Buying Today's Best 360 Cameras</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-14-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone 14</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-jump-start-your-journey-to-quality-video-edits-in-windows-10/"><u>In 2024, Jump-Start Your Journey to Quality Video Edits in Windows 10</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/schritt-fur-schritt-anleitung-herstellung-eines-bootfahigen-portable-windows-server-2019-usbs-mit-einfachen-mitteln/"><u>Schritt-Für-Schritt-Anleitung: Herstellung Eines Bootfähigen Portable-Windows-Server-2019-USBs Mit Einfachen Mitteln</u></a></li>
 </ul></div>
 

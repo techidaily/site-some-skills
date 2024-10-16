@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Online Security: The Importance of Using Longer Passwords"
-date: 2024-10-03T21:22:55.426Z
-updated: 2024-10-09T22:51:41.756Z
+date: 2024-10-11T23:23:10.465Z
+updated: 2024-10-16T07:52:45.659Z
 tags:
   - web
 categories:
@@ -22,10 +22,16 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
  The short answer is password entropy. That term sounds way more complicated than it really is unless you’re familiar with cryptography, so let’s take a look at what password entropy is.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What's Password Entropy?
@@ -37,10 +43,10 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
 ![A phone receiving a 2FA code.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/shutterstock_2373964067.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [ronstik](https://www.shutterstock.com/g/ronstik "ronstik") / Shutterstock.com
@@ -48,10 +54,10 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
  The best way to attack a password is through a [dictionary attack](https://extra-skills.techidaily.com/2024-approved-smartest-ways-to-track-wedding-dates-ios-and-android-style/), which is a program that will try to “guess” a password by going through common words and phrases. It’s almost literally throwing the book at your password, going through the entire dictionary and also common variations. Once the password is guessed, the attacker has access.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Brute Force and Randomness
@@ -61,6 +67,13 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
  As dictionary attacks thrive on predictability (words that already exist), it stands to reason that the only good way to stymie them is to add randomness to passwords. Many people kind of know this, which is why they add a few symbols to their existing passwords to create things like “p@ssword” or “password123.”
 
  However, this doesn’t work as it’s not random. Attackers can easily account for a change like this, and it will take them maybe a nanosecond longer to gain access to an account. For something to be closer to truly random, you have to take humans out of the equation entirely and use a computer to create a random password. The [best password managers](https://facebook-video-content.techidaily.com/updated-how-to-create-facebook-video-ads-with-free-video-creation-kit-for-2024/), programs that create and store passwords for you, have this functionality built in.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How Entropy Affects Password Length
 
@@ -72,13 +85,6 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
 * Use of numbers
 
  All of these are important, but length plays a special role, one we need some math to explain.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  How to Calculate Password Entropy
 
@@ -118,19 +124,15 @@ E = log2(RL)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-essential-guide-for-macbook-webcam-capture/"><u>[New] Essential Guide for MacBook Webcam Capture</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-direct-sharing-integrating-twitter-video-into-instagram-experience/"><u>[New] In 2024, Direct Sharing Integrating Twitter Video Into Instagram Experience</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-masterclass-flawless-powerpoint-screen-recordings-for-2024/"><u>[New] Masterclass Flawless PowerPoint Screen Recordings for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-complete-beginners-manual-to-using-final-cut-pro/"><u>[New] The Complete Beginner's Manual to Using Final Cut Pro</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-text-preset-mastery/"><u>[New] The Ultimate Guide to Text Preset Mastery</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transformative-power-of-vlc-from-mp4-to-a-multitude-of-formats/"><u>[New] Transformative Power of VLC From MP4 to a Multitude of Formats</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-mastering-the-social-media-lands-point-10-secrets-for-fb-optimization/"><u>[Updated] 2024 Approved Mastering the Social Media Lands Point 10 Secrets for FB Optimization</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-canvas-reborn-spotlight-on-top-6-in-digital-arts/"><u>[Updated] The Canvas Reborn Spotlight on Top 6 in Digital Arts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unseen-wonders-in-vlcs-arsenal-of-features/"><u>[Updated] Unseen Wonders in VLC's Arsenal of Features</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-the-insiders-guide-to-professional-video-production-in-gopro-studio/"><u>2024 Approved The Insider's Guide to Professional Video Production in GoPro Studio</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unleashing-creativity-with-pexels-finding-fabulous-images/"><u>2024 Approved Unleashing Creativity with Pexels Finding Fabulous Images</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Oppo Find N3 | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-samsung-galaxy-a14-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Samsung Galaxy A14 5G to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-for-restoring-connectivity-between-a-nonfunctional-bluetooth-keyboard-and-pc/"><u>Expert Tips for Restoring Connectivity Between a Nonfunctional Bluetooth Keyboard and PC</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-navigate-noisy-zoom-sounds-effective-remedies/"><u>[New] Navigate Noisy Zoom Sounds Effective Remedies</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-minimizing-vr-nausea-effective-strategies/"><u>2024 Approved Minimizing VR Nausea Effective Strategies</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-taking-your-aerial-game-to-new-heights-with-dji-spark-reviewed/"><u>2024 Approved Taking Your Aerial Game to New Heights with DJI Spark Reviewed</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-instagram-influencer-blueprint-from-few-to-a-thousand-fans/"><u>2024 Approved The Instagram Influencer Blueprint From Few to a Thousand Fans</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-oppo-a18-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Oppo A18</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-essence-of-sound-diminishment-a-lumafusion-insight/"><u>In 2024, The Essence of Sound Diminishment A Lumafusion Insight</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-turning-xmlssattml-into-srt-practical-steps/"><u>In 2024, Turning XML/SSA/TTML Into SRT Practical Steps</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-vocal-changer-tools-for-digital-personalities-for-2024/"><u>Prime Vocal Changer Tools for Digital Personalities for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/streamlined-approach-to-add-linktree-in-tiktok-about-section-for-2024/"><u>Streamlined Approach to Add Linktree in TikTok About Section for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-eus-framework-on-artificial-intelligence-and-its-potential-effects-on-ai-services-like-chatgpt/"><u>The EU's Framework on Artificial Intelligence and Its Potential Effects on AI Services Like ChatGPT</u></a></li>
 </ul></div>
 

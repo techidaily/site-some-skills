@@ -1,7 +1,7 @@
 ---
 title: 9 Essential, Yet Underrated, Features in Evernote for Enhanced Organization and Workflow
-date: 2024-10-08T20:15:42.683Z
-updated: 2024-10-10T01:41:15.712Z
+date: 2024-10-11T17:17:16.893Z
+updated: 2024-10-16T11:26:14.580Z
 tags:
   - desktop
 categories:
@@ -18,6 +18,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * Additionally, you can track changes to notes over time and use the built-in task management features to create and manage to-do lists.
 
  Evernote has many useful features that many users aren't aware of. You can use it to scan documents, get AI assistance, set reminders for deadlines, and record voice notes, among other things. If you use Evernote for note-taking, utilizing these features can help you unlock the app's full potential.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Digitally Scan and Organize Your Handwritten Notes
 
@@ -42,10 +49,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Using AI assistance in the Evernote smartphone app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-1-using-ai-assistance-in-the-evernote-smartphone-app.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Record and Store Your Notes as Voice Memos
@@ -56,26 +63,33 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Recording an audio and transcribing it in Evernote.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-3-recording-an-audio-and-transcribing-it-in-evernote.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the desktop app, click the “Insert” menu at the top, then choose "Audio Recording." Allow the app to use your microphone, record your voice memo, and click the red stop icon when done.
 
 ![Recording a voice memo in Evernote.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-recording-a-voice-memo-in-evernote.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The memo will be saved in the same note; you can transcribe it by clicking the "Transcribe" button.
 
 ![Transcribing a voice note in Evernote.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-transcribing-a-voice-note-in-evernote.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Set Reminders to Keep Track of Deadlines
 
@@ -92,17 +106,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Adding a reminder for a task in the Evernote smartphone app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-4-adding-a-reminder-for-a-task-in-the-evernote-smartphone-app.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Use Tags to Find Your Content Quickly
@@ -114,10 +121,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Creating a tag in Evernote.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-creating-a-tag-in-evernote.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Save Frequently Used Notes as Shortcuts
@@ -130,13 +137,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Open the note on the smartphone app, click on the three horizontal dots in the top-right corner, and select "Add to Shortcuts."
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Manage Tasks Efficiently With To-Do Lists
 
  While Evernote's task management feature is primarily designed for managing project tasks by setting deadlines, reminders, and assigning tasks to team members, you can also use it to create effective to-do lists. You can set deadlines to allocate time for each task and use reminders to ensure timely completion, replacing the need for separate [to-do list apps](https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-tecno-spark-go-2023-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/).
@@ -145,14 +145,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Creating a to-do list in Evernote.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/7-creating-a-to-do-list-in-evernote.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Remember to delete your daily to-do list at the end of the day to keep your task management organized within the app.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Review Changes Over Time With Note History
 
@@ -181,24 +181,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-breaking-down-vimeo-streaming-giants-secrets-revealed/"><u>[New] 2024 Approved Breaking Down Vimeo Streaming Giant's Secrets Revealed</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-next-step-in-virtual-reality-jaunt-vr-review/"><u>[New] The Next Step in Virtual Reality Jaunt VR Review</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-legally-sharing-tunes-on-instagram/"><u>[New] The Ultimate Guide to Legally Sharing Tunes on Instagram</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-taking-solo-shots-from-videos-in-windows-10-photos-interface/"><u>[Updated] Taking Solo Shots From Videos in Windows 10 Photos Interface</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-15-tips-for-accessing-nba-games-online/"><u>[Updated] Top 15 Tips for Accessing NBA Games Online</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-professional-photography-hacks-top-cinematic-tips/"><u>2024 Approved Professional Photography Hacks Top Cinematic Tips</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-experts-techniques-for-clearing-figma-backdrops/"><u>2024 Approved The Expert's Techniques for Clearing Figma Backdrops</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-audio-transformation-apps-for-next-level-vtuber-performance/"><u>2024 Approved Top 10 Audio Transformation Apps for Next-Level VTuber Performance</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-twitter-vids-to-mp3-easy-extraction-techniques/"><u>2024 Approved Twitter Vids to MP3 Easy Extraction Techniques</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-ultimate-toolkit-for-precision-mobile-screen-recording-using-mobizen/"><u>2024 Approved Ultimate Toolkit for Precision Mobile Screen Recording Using Mobizen</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-detailed-step-by-step-guide-to-using-telegram-desktop-for-2024/"><u>A Detailed Step-By-Step Guide To Using Telegram Desktop for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/action-camera-face-off-comparing-pro-3-models-on-market-for-2024/"><u>Action Camera Face-Off Comparing Pro 3 Models on Market for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-apple-iphone-xr-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen Apple iPhone XR In Different Conditionsin</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-amplifying-your-social-media-reach-with-zoom-plus-fb-live/"><u>In 2024, Amplifying Your Social Media Reach with ZOOM + FB Live</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-samsung-galaxy-a23-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Samsung Galaxy A23 5G to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-virtual-potential-with-kinemasters-latest-android-release/"><u>In 2024, Unlocking Virtual Potential with KineMaster's Latest Android Release</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/the-comprehensive-guide-to-crafting-an-authentic-online-persona-on-facebook-for-2024/"><u>The Comprehensive Guide to Crafting an Authentic Online Persona on Facebook for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-fixing-mlb-the-show-21-servers-play-without-interruptions/"><u>Troubleshooting Guide: Fixing MLB The Show 21 Servers - Play Without Interruptions!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-top-digital-devices-through-toms-critiques/"><u>Unveiling Top Digital Devices Through Tom’s Critiques</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-essential-encoder-hardware-for-digital-media/"><u>[Updated] Essential Encoder Hardware for Digital Media</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-addressing-youtube-shorts-no-image-upload-issue/"><u>[Updated] In 2024, Addressing YouTube Shorts No Image Upload Issue?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-echo-chamber-of-creativity-crafting-compelling-podcast-stories/"><u>[Updated] The Echo Chamber of Creativity Crafting Compelling Podcast Stories</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-strategizing-the-open-door-to-market-success/"><u>2024 Approved Strategizing the Open Door to Market Success</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamlining-script-conversion-from-text-formats-to-engaging-srt/"><u>2024 Approved Streamlining Script Conversion From Text Formats to Engaging SRT</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-list-of-viral-stock-images-and-stories/"><u>2024 Approved The Ultimate List of Viral Stock Images & Stories</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boosting-website-personalization-using-advanced-cookiebot-solutions/"><u>Boosting Website Personalization Using Advanced Cookiebot Solutions</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/cozy-up-your-videos-best-winter-bgs-revealed/"><u>Cozy Up Your Videos Best Winter Bg's Revealed</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/expert-tutorial-efficiently-performing-backup-of-sql-server-transaction-logs/"><u>Expert Tutorial: Efficiently Performing Backup of SQL Server Transaction Logs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-asrock-b7n60m-pro-rs-an-economical-choice-with-abundant-m2-connectivity-options/"><u>Exploring the ASRock B7n60M Pro RS: An Economical Choice with Abundant M.2 Connectivity Options</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/how-to-fix-itunes-launch-failures-on-pcs-with-windows-1110-and-mac-computers/"><u>How to Fix iTunes Launch Failures on PCs with Windows 11/10 and Mac Computers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-how-to-transfer-playlists-between-music-services-a-detailed-guidance/"><u>In 2024, How to Transfer Playlists Between Music Services – A Detailed Guidance</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-streamlining-your-movie-file-processing-on-windows-11-pcs/"><u>In 2024, Streamlining Your Movie File Processing on Windows 11 PCs</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-the-beginners-guide-to-straightforward-hdr-techniques/"><u>In 2024, The Beginner's Guide to Straightforward HDR Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tiny-screenplay-scheme/"><u>In 2024, Tiny Screenplay Scheme</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-secrets-of-crafting-perfect-audio-for-videos/"><u>In 2024, Unveiling the Secrets of Crafting Perfect Audio for Videos</u></a></li>
 </ul></div>
 

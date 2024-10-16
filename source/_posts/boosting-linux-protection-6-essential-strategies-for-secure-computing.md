@@ -1,7 +1,7 @@
 ---
 title: "Boosting Linux Protection: 6 Essential Strategies for Secure Computing"
-date: 2024-10-08T17:01:27.453Z
-updated: 2024-10-10T04:31:40.765Z
+date: 2024-10-14T07:30:34.113Z
+updated: 2024-10-16T11:20:17.479Z
 tags:
   - desktop
 categories:
@@ -39,19 +39,6 @@ Cybersecurity can be confusing. Here are six easy things you can do, and habits 
 
 ![The login screen on a laptop running Ubuntu Linux.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/52848723811_08b4c56473_o.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Hannah Stryker / How-To Geek  
   
  Use strong passwords. A combination of three unrelated words separated by punctuation characters produce passwords that are very resilient to brute-force attacks. And make your passwords unique. Don’t re-use passwords on more than one system, and never share passwords between people. Create unique accounts for your users.
@@ -63,10 +50,10 @@ Hannah Stryker / How-To Geek
  You can add two-factor authentication to your own computers too. this is especially valuable if you connect to them remotely, using SSH.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3  Control User Access 
@@ -76,16 +63,10 @@ Hannah Stryker / How-To Geek
  Most Linux systems disable the root account by default. To access root-level functionality you need to use sudo or run0\. This gives you short-term superuser status then demotes you to a normal user when you’ve completed that specific task.
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4  Improve Your Network Security 
@@ -95,10 +76,10 @@ Hannah Stryker / How-To Geek
  Many modern Wi-Fi routers allow you to configure a [guest Wi-Fi network](https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-itel-p55-by-drfone-android/). This allows them to get to the internet, but isolates them from your main network.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5  Check Your Software Management 
@@ -110,6 +91,13 @@ Hannah Stryker / How-To Geek
  Pay particular attention to [Flatpaks](https://extra-support.techidaily.com/in-2024-marvelous-monitors-top-10-macbooks-with-4k-resolution/) and [Snaps](https://some-guidance.techidaily.com/in-2024-top-10-innovative-mobile-layering-apps-for-android-and-iphone/). These are often unofficial versions of packaged, wrapped by volunteers. Do some research and ask in forums and other online communities if these can be trusted.
 
  If you download an application and find it doesn’t suit your needs, uninstall it. Don’t just leave it on your machine. If a project is abandoned, and no longer in development, find a replacement. Using an old version of software that no longer receives security patches increases your exposure to risks.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6  Make Backups and Stay Educated 
 
@@ -138,18 +126,21 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-androids-premium-music-video-watching-apps/"><u>[New] The Ultimate Guide to Android's Premium Music Video Watching Apps</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-pondering-the-value-of-intensified-luminosity-in-hdr/"><u>[Updated] Pondering the Value of Intensified Luminosity in HDR</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-unseen-ways-to-leverage-instagrams-query-symbol/"><u>[Updated] Unseen Ways to Leverage Instagram's Query Symbol</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-trailblazers-in-virtual-reality-content-crafting/"><u>2024 Approved Trailblazers in Virtual Reality Content Crafting</u></a></li>
-<li><a href="https://extra-information.techidaily.com/discover-the-top-yt-channels-for-gadget-enthusiasts/"><u>Discover the Top YT Channels for Gadget Enthusiasts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/find-and-download-the-right-hp-networking-drivers-for-your-windows-pc-windows-11-windows-7-and-8/"><u>Find and Download the Right HP Networking Drivers for Your Windows PC (Windows 11, Windows 7 & 8)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/how-to-turn-a-tiktok-sound-into-your-ringtone-a-detailed-guidance-for-2024/"><u>How To Turn A TikTok Sound Into Your Ringtone? A Detailed Guidance for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-toolwiz-visual-mastery-a-comprehensive-review/"><u>In 2024, Toolwiz Visual Mastery - A Comprehensive Review</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-travel-film-kit-the-necessary-arsenal/"><u>In 2024, Travel Film Kit The Necessary Arsenal</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/is-it-worth-it-a-detailed-review-of-microsofts-pricey-all-in-one-workstation-studio-2/"><u>Is It Worth It? A Detailed Review of Microsoft's Pricey All-in-One Workstation, Studio 2</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-next-big-thing-in-smartphones-insider-info-on-samsung-galaxy-z-fold-6s-price-tag-pre-release-details-and-feature-list/"><u>The Next Big Thing in Smartphones: Insider Info on Samsung Galaxy Z Fold 6'S Price Tag, Pre-Release Details & Feature List</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/the-premier-guide-to-free-online-meetings-and-sharing-screens/"><u>The Premier Guide to FREE Online Meetings & Sharing Screens</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/updated-in-2024-the-power-of-ai-thumbnail-generators/"><u>Updated In 2024, The Power of AI Thumbnail Generators</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-streamlining-and-organizing-your-itunes-video-files-for-2024/"><u>[New] Streamlining and Organizing Your iTunes Video Files for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-infallible-technique-for-embedding-profile-urls-in-tiktok/"><u>[New] The Infallible Technique for Embedding Profile URLs in TikTok</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-uncompromised-audio-with-ffmpegs-extraction-features/"><u>[New] Uncompromised Audio with FFmpeg's Extraction Features</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-the-mystery-of-facebooks-hidden-activities/"><u>[New] Unlocking the Mystery of Facebook's Hidden Activities</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-estimated-video-monetization-totals-for-2024/"><u>[Updated] Estimated Video Monetization Totals for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-10-quick-and-free-jpeg-to-gif-conversion-services/"><u>[Updated] Top 10 Quick & Free JPEG-to-GIF Conversion Services</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/anticipating-apples-ai-household-companion-insights-on-pricing-launch-timeline-and-features/"><u>Anticipating Apple's AI Household Companion: Insights on Pricing, Launch Timeline & Features</u></a></li>
+<li><a href="https://win-web3.techidaily.com/best-alternative-carbon-block-cloning-software-compatible-with-windows-11-10-8-and-nul/"><u>Best Alternative Carbon Block Cloning Software Compatible with Windows 11, 10, 8, and Nul</u></a></li>
+<li><a href="https://fox-info.techidaily.com/high-definition-streaming-app-your-ultimate-video-choice-12-channels/"><u>High Definition Streaming App - Your Ultimate Video Choice (12 Channels)</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Honor V Purse? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-vlog-stability-devices-for-smooth-screensavers/"><u>In 2024, Ultimate Vlog Stability Devices for Smooth Screensavers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/revolutionize-gaming-install-funimate-via-apk-method-for-2024/"><u>Revolutionize Gaming - Install Funimate via APK Method for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/speedy-disney-disc-extraction-the-best-dvd-ripper-tools-online/"><u>Speedy Disney Disc Extraction: The Best DVD Ripper Tools Online</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-google-pixel-8-pro-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Google Pixel 8 Pro Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-solving-high-latency-and-stutter-in-bless-unleashed-on-your-pc/"><u>Ultimate Guide: Solving High Latency & Stutter in Bless Unleashed on Your PC</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-secrets-to-selecting-prime-videographers-for-2024/"><u>Unlocking Secrets to Selecting Prime Videographers for 2024</u></a></li>
 </ul></div>
 

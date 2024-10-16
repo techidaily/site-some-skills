@@ -1,7 +1,7 @@
 ---
 title: "Securing Your System: A Step-by-Step Guide to Locking a Windows 10 PC via Command Line"
-date: 2024-10-09T03:07:22.554Z
-updated: 2024-10-09T18:36:43.707Z
+date: 2024-10-11T21:48:48.499Z
+updated: 2024-10-15T22:46:59.878Z
 tags:
   - deals
 categories:
@@ -17,10 +17,10 @@ thumbnail: https://thmb.techidaily.com/2077f1c448ea137a042adda99cddc314210e83104
 * [Set the Lock Screen Timeout Setting Using Command Prompt](https://eaxpv-info.techidaily.com/new-finding-a-different-way-to-naming-your-channel-with-filmora-for-2024/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/2077f1c448ea137a042adda99cddc314210e83104
 
  One of the first rules of cyber security is to always lock your PC before stepping away. While it may not be the quickest way to lock your Windows 10 PC, you can do it using the Command Prompt.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Lock Your Windows 10 PC Using Command Prompt
 
  First, [open the Command Prompt](https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-a78-frp-by-drfone-android/) on your PC by opening the Start menu, typing “cmd” in the Windows Search bar, and then selecting “Command Prompt” from the search results.
@@ -45,10 +38,10 @@ thumbnail: https://thmb.techidaily.com/2077f1c448ea137a042adda99cddc314210e83104
 ![Click the Start button, search for 'cmd,' then open 'Command Prompt.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-launch-cmd.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Command Prompt will now open. Here, run this command to lock your Windows 10 PC.
@@ -77,6 +70,13 @@ powercfg.exe /SETACVALUEINDEX SCHEME_CURRENT SUB_VIDEO VIDEOCONLOCK 120
 
 ![Change the timeout to 120.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-changing-timeout-to-120.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This command sets the lock screen timeout setting for your PC if it’s plugged in to a power source. To set the lock screen timeout setting for your PC if it’s running on battery, change`/SETACVALUEINDEX` to`/SETDCVALUEINDEX` and run the command as normal.
 
  Next, run this command:
@@ -86,10 +86,10 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 ![Apply the setting to the currently active scheme.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-set-active.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now your [lock screen](https://driver-download.techidaily.com/1722977751917-synaptics-drivers-download-and-update-for-windows-easily/) will timeout after the set amount of time. Give it a try!
@@ -109,16 +109,15 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-address-chromes-problematic-facebook-vids/"><u>[New] In 2024, Address Chrome's Problematic Facebook Vids</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-understanding-tiktoks-use-and-interpretation-of-pfp/"><u>[New] Understanding TikTok's Use and Interpretation of PFP</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-optimizing-content-sharing-from-twitters-to-snaps/"><u>[Updated] 2024 Approved Optimizing Content Sharing From Twitters to Snaps</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-create-impact-with-intro-excellence-best-free-services-reviewed-for-2024/"><u>[Updated] Create Impact with Intro Excellence Best Free Services Reviewed for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-strategic-steps-for-incorporating-srt-files-into-googleplus-campaigns/"><u>[Updated] Strategic Steps for Incorporating SRT Files Into Google+ Campaigns</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-essential-guide-to-documentary-storytelling-mechanics/"><u>[Updated] The Essential Guide to Documentary Storytelling Mechanics</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/essential-tricks-for-utilizing-the-measure-feature-on-android-phones-effectively/"><u>Essential Tricks for Utilizing the Measure Feature on Android Phones Effectively</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unleash-your-pcs-hidden-treasures-with-new-windows-10-games/"><u>In 2024, Unleash Your PC’s Hidden Treasures with New Windows 10 Games</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-7-tech-choices-prepping-for-the-metaverse-frontier-for-2024/"><u>Top 7 Tech Choices Prepping for the Metaverse Frontier for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-the-power-of-multiframe-views-in-edge-for-2024/"><u>Unlocking the Power of Multiframe Views in Edge for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/windows-11-and-perfect-videos-calls-a-comprehensive-guide-to-update-your-webcam-drivers/"><u>Windows 11 & Perfect Videos Calls: A Comprehensive Guide to Update Your Webcam Drivers</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-smart-tips-for-gif-lovers-iphone-edition/"><u>[Updated] Smart Tips for GIF Lovers IPhone Edition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-strategies-for-seamless-iphone-photos-sorting-and-icloud-backup-management/"><u>[Updated] Strategies for Seamless iPhone Photos Sorting & iCloud Backup Management</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-master-the-art-of-eye-catching-short-videos/"><u>2024 Approved Master the Art of Eye-Catching Short Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-twister-timber-titmice/"><u>2024 Approved Twister Timber Titmice</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-realme-c67-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Realme C67 5G to Another | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-creativity-gif-formats-decoded/"><u>In 2024, Unleashing Creativity GIF Formats Decoded</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/revolutionizing-voice-capture-a-compreenas-guide-to-facetime-recording/"><u>Revolutionizing Voice Capture A Compreenas Guide to FaceTime Recording</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-joy-of-journeys-end-innovative-box-revelations-for-2024/"><u>The Joy of Journey's End Innovative Box Revelations for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-language-labyrinths-exploring-the-dialects-in-star-wars-world/"><u>The Language Labyrinths: Exploring the Dialects in Star Wars World</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-technology-behind-whatsapp-voice-calls-for-2024/"><u>Unveiling the Technology Behind WhatsApp Voice Calls for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Setting Up a Swap Space in Linux"
-date: 2024-10-05T22:06:23.277Z
-updated: 2024-10-10T00:08:54.425Z
+date: 2024-10-13T22:09:33.099Z
+updated: 2024-10-16T00:00:15.602Z
 tags:
   - desktop
 categories:
@@ -60,6 +60,13 @@ thumbnail: https://thmb.techidaily.com/213b932fcd2c7374497ebb4064c054acfe0cd4d0b
 
  This is much less of a concern nowadays, and [many SSDs that are on sale have life expectancies that will outlast most PCs](https://mondly-stories.techidaily.com/arabic-for-beginners-a-step-by-step-guide/). A swap file on an SSD will have a far better performance than a swap partition on a mechanical hard drive.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Checking Existing Swap Space
 
  Look before you leap. Let's check what swap space is available on your computer. You can do this two ways, and we'll use both. [The free command will display the used and free memory](https://hardware-updates.techidaily.com/get-the-latest-lenovo-ideapad-vehicle-your-ultimate-guide-to-driver-updates-on-windows-10/). The -h (human readable) option will cause `free` to use sensible units when it displays the memory values.
@@ -81,15 +88,22 @@ swapon --show
 ![swapon --show in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/2-8.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If there is no output from this command, there's no swap configured.
 
  If these commands had revealed some swap space is already configured, the size of the existing swap space should be factored into decisions regarding the size of the swap file you're going to create.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How Much Swap Space Do I Need?
 
@@ -132,6 +146,13 @@ sudo dd if=/dev/zero of=/swapfile bs=1024 count=1048576
 
 ![output from sudo dd if=/dev/zero of=/swapfile bs=1024 count=1048576 in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/6-8.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  We can see the number of blocks (records) that were written to the file, the size of the file, the time taken to create the file, and the effective data transfer rate.
 
  Use the `ls` command to see the file in the root directory:
@@ -148,14 +169,14 @@ sudo mkswap /swapfile
 
 ![sudo mkswap /swapfile in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/8-7.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The file is prepared for use as a swap file. Note the warning about file permissions. We'll need to change those so that the root user is the only one who can read and write to the swap file.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Using the Swap File
 
@@ -164,13 +185,6 @@ sudo mkswap /swapfile
 sudo chmod 600 /swapfile
 
 ![sudo chmod 600 /swapfile in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/12-4.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This removes all permissions from the file group members and others, but allows the file owner, root, to read and write to the file.
 
@@ -181,13 +195,20 @@ sudo swapon /swapfile
 ![sudo swapon /swapfile in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/9-7.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The swap file is now active.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Adding the Swap File to fstab
 
@@ -202,13 +223,6 @@ sudo gedit /etc/fstab
 /swapfile none swap sw 0 0
 
 ![/etc/fstab with the swapfile entry highlighted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/11-4.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The fields are:
 
@@ -237,13 +251,6 @@ swapon --show
 * **Used**: The amount of used swap space.
 * **Prio**: The priority of this swap space.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  The Swap Space Priority
 
  Each swap space is allocated a priority. If you don't provide one, one is automatically allocated. Automatically allocated priorities are always negative. The range of priorities that can be manually allocated is 0 to 32767\. Swap resources with higher priorities are used first.
@@ -260,14 +267,14 @@ swapon -- show
 
 ![swapon -- show in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/15-2.png) 
 
- The priority of this swap space has been elevated to 10\. Which is proof positive that the options field in the `/etc/fstab` entry is not ignored.
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ The priority of this swap space has been elevated to 10\. Which is proof positive that the options field in the `/etc/fstab` entry is not ignored.
 
 ##  Swap Space Made Easy
 
@@ -286,13 +293,6 @@ sudo swapon /swapfile2
 swapon --show
 
 ![sudo dd if=/dev/zero /of=/swapfile2 bs=1024 count=104857 in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/16-2.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you want to make that permanent drop, it into your `/etc/fstab` file.
 
@@ -319,19 +319,19 @@ swapon --show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-precision-at-your-fingertips-a-guide-to-screen-recording-on-apple-devices/"><u>[New] In 2024, Precision at Your Fingertips A Guide to Screen Recording on Apple Devices</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-art-of-auditory-branding-logo-insights-for-podcasters/"><u>[New] The Art of Auditory Branding Logo Insights for Podcasters</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-selection-top-hdr-camera-picks/"><u>[New] Ultimate Selection Top HDR Camera Picks</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-evolutionary-saga-of-vr-worlds/"><u>2024 Approved The Evolutionary Saga of VR Worlds</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/full-reveal-on-camstudios-recording-capabilities-for-2024/"><u>Full Reveal on CamStudio's Recording Capabilities for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/home-button-not-working-on-infinix-hot-40-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Infinix Hot 40? Here Are Real Fixes | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-xiaomi-civi-3-disney-100th-anniversary-edition-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Xiaomi Civi 3 Disney 100th Anniversary Edition Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-14-pro-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Pro without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-2-ways-to-monitor-apple-iphone-se-2022-activity-drfone-by-drfone-virtual-ios/"><u>In 2024, 2 Ways to Monitor Apple iPhone SE (2022) Activity | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-understanding-and-applying-auto-hdr-a-windows-11-tutorial/"><u>In 2024, Understanding and Applying Auto HDR A Windows 11 Tutorial</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/journey-to-mastery-discovering-the-quintessential-5-online-title-makers-for-2024/"><u>Journey to Mastery Discovering the Quintessential 5 Online Title Makers for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-modern-creation-with-elegoo-the-all-new-saturn-4-ultra-review/"><u>Mastering Modern Creation with Elegoo - The All-New Saturn 4 Ultra Review</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-premiere-elements-not-for-you-try-these-10-exceptional-alternatives-instead/"><u>New 2024 Approved Premiere Elements Not for You? Try These 10 Exceptional Alternatives Instead</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-new-bird-bebops-parrot-as-a-flight-marvel-review-for-2024/"><u>The New Bird Bebop’s Parrot as a Flight Marvel Review for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-exploring-beyond-sns-hdr-other-hdr-softwares-strengths/"><u>[New] In 2024, Exploring Beyond SNS HDR Other HDR Software's Strengths</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-decoding-digital-domain-dynamics-metaverse-edition/"><u>[Updated] In 2024, Decoding Digital Domain Dynamics Metaverse Edition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-leading-list-where-to-find-gamers-music-without-costs/"><u>[Updated] The Leading List Where to Find Gamers' Music Without Costs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-artisans-guide-to-unique-photographic-assemblages/"><u>2024 Approved The Artisan's Guide to Unique Photographic Assemblages</u></a></li>
+<li><a href="https://fox-info.techidaily.com/annual-reveal-best-free-luts-with-direct-access-links-for-2024/"><u>Annual Reveal - Best FREE LUTs with Direct Access Links for 2024</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-nokia-130-music-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Nokia 130 Music in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-change-screenshot-saving-location-on-mac/"><u>In 2024, Change Screenshot Saving Location on Mac</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-clear-audio-crystal-clear-view-premium-webcams-for-podcasts/"><u>In 2024, Clear Audio, Crystal-Clear View Premium Webcams for Podcasts</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-collection-8-amazing-3d-websites-with-gold/"><u>In 2024, The Ultimate Collection 8 Amazing 3D Websites with Gold</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-srt-potential-mac-edition-tutorial/"><u>In 2024, Unlocking SRT Potential Mac Edition Tutorial</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-vivo-s18-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Vivo S18 Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshoot-switch-reclaim-your-connection/"><u>Troubleshoot Switch: Reclaim Your Connection</u></a></li>
+<li><a href="https://some-skills.techidaily.com/uncomplicated-story-framework-for-2024/"><u>Uncomplicated Story Framework for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Manually Applying Patches and Updates in Windows 11
-date: 2024-10-04T04:05:06.121Z
-updated: 2024-10-09T16:28:08.946Z
+date: 2024-10-14T06:07:42.168Z
+updated: 2024-10-16T07:40:30.411Z
 tags:
   - desktop
 categories:
@@ -19,19 +19,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Using Command Prompt](https://youtube-data.techidaily.com/ed-in-2024-famebit-alternatives-for-finding-youtube-sponsorships/)
 * [Using Windows PowerShell](https://youtube-webster.techidaily.com/ed-instant-influence-youtubes-hourly-video-tops-for-2024/)
 
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * First, clear the downloaded update files by stopping the Windows Update service and removing all files from the Windows Update cache folder.
@@ -39,13 +26,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * You can also use a command in Command Prompt or a cmdlet in PowerShell to find and install the available Windows updates.
 
  If automatic updates have failed to install, you have alternate ways to manually update your Windows 11 PC. We’ll show you the available methods, so you can get the latest bug fixes and possibly new features on your computer. Let’s get started.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  If Your Updates Failed, Clear the Downloaded Updates First
 
@@ -57,13 +37,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
     
 !['services.msc' typed in Run.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/1-open-services-window.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the Services window, find the "Windows Update" service, then right-click the service and choose "Stop." If you don’t stop this service, Windows won’t let you clear the update cache, since the files will be "in use." 
 
  If the Windows Update service fails to stop, restart your PC and try again.
@@ -71,10 +44,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 !['Stop' selected for the Windows Update service.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/2-stop-windows-update-service.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Keep the Services window open, as you’ll return here shortly. Open the Run dialog box again by pressing Windows+R. Type the following path in the box and press Enter. If you’ve installed Windows on a drive other than C, replace the drive letter in the path.
@@ -86,10 +59,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The trash can icon selected for the Windows Update cache files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/3-clear-windows-update-cache.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You’ve removed all the update files. Close File Explorer, return to the Services window, right-click the "Windows Update" service, and choose "Start."
@@ -106,24 +85,31 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 !['Windows Update' highlighted in Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/5-windows-update-settings.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On the right pane, click "Download & Install All" to download and install the available updates. To only download and install specific updates, click the button next to those updates.
 
 !['Download & Install All' highlighted on the Windows Update screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/6-download-install-all-windows-updates.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Wait while Windows obtains and installs the selected updates, then [reboot your Windows 11 PC](https://screen-video-capture.techidaily.com/updated-in-2024-addressing-mute-problems-in-obs-live-recording/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  From Microsoft Update Catalog
 
@@ -159,6 +145,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 !['Run as Administrator' highlighted for Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/11-launch-cmd-as-admin.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the User Account Control prompt, select "Yes."
 
  In Command Prompt, type the following command replacing **UPDATE** with [the full path to the update file](https://article-posts.techidaily.com/updated-maximizing-visual-variety-with-b-roll-elements-for-2024/) you downloaded. Then, press Enter.
@@ -192,10 +185,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 !['Run as Administrator' highlighted for PowerShell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/13-launch-powershell-as-admin.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In PowerShell, type the following command (called a [cmdlet](https://extra-guidance.techidaily.com/new-prophotomaster-the-ai-enhanced-editing-edge/)) and press Enter. This cmdlet installs the Windows Update module to allow you to manage Windows updates from PowerShell.
@@ -205,10 +198,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The cmdlet to install the Windows Update module typed in PowerShell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/14-install-windows-update-module-powershell.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When PowerShell prompts, type **Y** and press Enter. Then, run the following cmdlet, type **Y**, and press Enter:
@@ -235,6 +228,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
     
 ![The cmdlet to install a specific Windows update typed in PowerShell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/16-install-windows-update-powershell.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  PowerShell will install all or select updates (as you specified). Then, give your PC a restart to bring the changes into effect.
 
 ---
@@ -256,22 +256,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-mastering-flight-a-look-at-dji-phantom-3-professional/"><u>[New] Mastering Flight A Look at DJI Phantom 3 Professional</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-synchronizing-melodies-with-inshot-clips/"><u>[New] Synchronizing Melodies with InShot Clips</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-complete-guide-to-mastering-powerdirector-software/"><u>[New] The Complete Guide to Mastering PowerDirector Software</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-top-11-video-recorders-that-save-money-without-sacrificing-performance/"><u>[New] Top 11 Video Recorders That Save Money Without Sacrificing Performance</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-best-6-video-translators-to-translate-video/"><u>[Updated] 2024 Approved Best 6 Video Translators to Translate Video</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-from-large-files-to-tiny-previews-crafting-stunning-thumbnails-for-2024/"><u>[Updated] From Large Files to Tiny Previews Crafting Stunning Thumbnails for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-how-to-record-and-save-voices-on-iphone-efficiently/"><u>[Updated] In 2024, How to Record & Save Voices on iPhone Efficiently</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-superior-solutions-top-bdr-softwares-for-windows-macos/"><u>2024 Approved Superior Solutions Top BDR Softwares for Windows, macOS</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-travel-video-setup-must-have-items-checklist/"><u>2024 Approved Travel Video Setup Must-Have Items Checklist</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-secrets-of-av1-codec-mastery/"><u>2024 Approved Unveiling the Secrets of AV1 Codec Mastery</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/custom-logo-blueprints-draw-your-identity-from-free-formats/"><u>Custom Logo Blueprints Draw Your Identity From Free Formats</u></a></li>
-<li><a href="https://windows11.techidaily.com/enabling-onedrive-for-direct-file-explorer-opens/"><u>Enabling OneDrive for Direct File Explorer Opens</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-dark-display-issue-in-halo-infinite-simple-strategies-that-work/"><u>Fixing the Dark Display Issue in Halo Infinite: Simple Strategies That Work</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-yuneec-typhoon-h-dive-professional-takeaways/"><u>In 2024, The Yuneec Typhoon H Dive Professional Takeaways</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Oppo Reno 11 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-photographers-guide-to-online-image-editing-and-cropping-for-2024/"><u>The Photographer's Guide to Online Image Editing and Cropping for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshoot-and-correct-black-screen-error-on-your-fallout-4-game-console/"><u>Troubleshoot and Correct Black Screen Error on Your Fallout 4 Game Console</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-best-practices-for-mobile-snapchat-recording-techniques/"><u>[New] 2024 Approved Best Practices for Mobile Snapchat Recording Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-strategizing-visibility-for-podcasts-through-design/"><u>[New] Strategizing Visibility for Podcasts Through Design</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-intuitive-mac-videographer-plus-voice-support/"><u>[Updated] 2024 Approved Intuitive Mac Videographer + Voice Support</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-viral-video-conversion-turning-tweets-into-free-gifs/"><u>[Updated] 2024 Approved Viral Video Conversion Turning Tweets Into Free GIFs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-nikon-d500-4k-performance/"><u>[Updated] The Ultimate Guide to Nikon D500 4K Performance</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-drone-vr-integration-guide/"><u>[Updated] Ultimate Drone-VR Integration Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-premier-5-web-titlers-shaping-industry-norms/"><u>[Updated] Unveiling the Premier 5 Web Titlers Shaping Industry Norms</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-driver-updates-and-downloads-for-your-hp-deskjet-2540-all-in-one-printer/"><u>Latest Driver Updates and Downloads for Your HP Deskjet 2540 All-in-One Printer</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/voicing-the-future-of-conversational-ai-openai-empowers-chatgpt-to-reply-audibly/"><u>Voicing the Future of Conversational AI: OpenAI Empowers ChatGPT to Reply Audibly</u></a></li>
 </ul></div>
 

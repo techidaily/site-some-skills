@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Evaluating Secondhand Windows PCs – 8 Key Points
-date: 2024-10-04T19:54:00.794Z
-updated: 2024-10-09T19:09:30.518Z
+date: 2024-10-11T10:35:17.511Z
+updated: 2024-10-15T17:18:14.338Z
 tags:
   - desktop
 categories:
@@ -30,6 +30,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Keyboard tester typing letters in lowercase with Caps Lock off.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-keyboard-tester-typing-letters-in-lowercase-with-caps-lock-off.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To test the trackpad, hover over the screen to gauge its responsiveness. Then, experiment with different trackpad gestures, such as pinch-to-zoom and two-finger scroll, to see which ones are supported. If you have another laptop, you can compare trackpad responsiveness by conducting a touchpad accuracy test on both laptops using the [No-Cursor website](https://no-cursor.com/).
 
  This will help you confirm whether the trackpad on your new laptop is equally or more responsive than the other one.
@@ -42,42 +49,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Testing the laptop speaker in Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/1-testing-the-laptop-speaker-in-settings.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To [test the built-in microphone](https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-vivo-y200e-5g-drfone-by-drfone-virtual-android/), return to the sound settings, click on "Microphone Array," and then click on the "Start Test" button next to Test Your Microphone. Speak for a few seconds, then stop the test. If you see a decent volume percentage recorded, the microphone is working as it should.
 
 ![Testing the laptop microphone in Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/2-testing-the-laptop-microphone-in-settings.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Test the Built-In Camera
 
  If you intend to use the laptop for video communication, test its built-in camera. To do this, type **Camera** in the Windows Search bar and open the Camera app.
 
  If the camera app detects the webcam and the visuals are clear and of satisfactory quality, as the seller claimed, then the camera is working correctly.
-
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Check the Health of Your Laptop Battery
 
@@ -90,10 +70,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Generating the battery health report from Windows PowerShell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/08/br_2-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Navigate to this location and open the battery report. Then, go to the "Installed Batteries" section and compare the "Design Capacity" with the "Full Charge Capacity." The difference between these values indicates the extent to which the battery's capacity has diminished due to usage. If the full charge capacity is significantly low, you may have to replace the battery.
@@ -101,10 +81,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Checking the laptop battery report.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/08/br_5.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Ensure the Laptop Isn't Stolen
@@ -112,6 +92,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  If you're thinking about buying a used laptop from an unknown seller, make sure that it hasn't been stolen. One way to check this is to request a purchase receipt from the seller. If they are unable to provide one, this could be a red flag. If the laptop hasn't been reset, is password-protected, or is locked, these signs indicate that it's likely a stolen device.
 
  You can also confirm your suspicions by getting the laptop's serial number and contacting the manufacturer to verify whether the device has been reported stolen.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Perform the Physical Inspection
 
@@ -130,6 +117,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Finally, [check the health of the RAM](https://hardware-help.techidaily.com/step-by-step-installation-amd-gpio-pin-driver-for-hexagon-devices/) and storage drive to ensure they're not faulty. To test the RAM, you can use the Windows Memory Diagnostic tool, which detects and displays potential issues with it. To run the test, open Command Prompt as an administrator, type **mdsched.exe**, and press Enter. Then, click "Restart Now and Check for Problems."
 
 ![Running the memory diagnostic test from Windows Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/3-running-the-memory-diagnostic-test-from-windows-command-prompt.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Windows will restart and run the test. Once it finishes testing the RAM, it'll restart again and display the test results. If you don't see them, you can use the Windows Event Viewer to search for potential issues identified during the test. Open Event Viewer and go to Windows Logs > System. Click "Find," type **MemoryDiagnostic**, and click "Find Next."
 
@@ -154,22 +154,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-perfect-pals-and-plotlines-the-10-best-family-flicks/"><u>[New] Perfect Pals and Plotlines The 10 Best Family Flicks</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-invisible-recorder-how-to-save-online-music-streams/"><u>[New] The Invisible Recorder How to Save Online Music Streams</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-a-guide-to-crafting-impactful-handp-ads-on-facebook/"><u>[Updated] A Guide to Crafting Impactful H&P Ads on Facebook</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-seamlessly-posting-online-content-to-ig-storypost/"><u>[Updated] In 2024, Seamlessly Posting Online Content to IG Story/Post</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-unleash-potential-ps5-writable-and-readable-extras/"><u>[Updated] In 2024, Unleash Potential PS5' Writable & Readable Extras</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-cinematographers-codex-top-shot-tips-for-the-year-2024-filmography/"><u>[Updated] The Cinematographer’s Codex Top Shot Tips for the Year 2024 Filmography</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-spotify-marketing-manual-strategies-and-tactics/"><u>[Updated] The Ultimate Spotify Marketing Manual Strategies and Tactics</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-videography-and-storage-assessing-a-high-capacity-memorys-video-limits-for-2024/"><u>[Updated] Videography & Storage Assessing a High-Capacity Memory's Video Limits for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-handbook-for-using-googles-ai-for-transcription-in-word-processors/"><u>2024 Approved Ultimate Handbook for Using Google's AI for Transcription in Word Processors</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/building-blocks-to-brilliance-crafting-circles-and-spheres-in-mc/"><u>Building Blocks to Brilliance Crafting Circles and Spheres in MC</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-add-your-digital-signature-to-a-ott-file-document-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Add Your Digital Signature to a .ott file Document</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-venture-into-the-future-the-lg-360-vr-headset-explored/"><u>In 2024, Venture Into the Future The LG 360 VR Headset Explored</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-visionary-solutions-top-1-ward-video-recorders-on-the-web/"><u>In 2024, Visionary Solutions Top 1 Ward Video Recorders on the Web</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/prime-prospects-the-hottest-google-cardboard-vr-gaming-titles/"><u>Prime Prospects The Hottest Google Cardboard VR Gaming Titles</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-apple-m1-breakdown-a-glimpse-into-the-future-for-2024/"><u>The Apple M1 Breakdown A Glimpse Into the Future for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-blueprint-for-incorporating-dynamic-narrations-in-media-for-2024/"><u>The Blueprint for Incorporating Dynamic Narrations in Media for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-photographers-path-to-perfected-colors-for-2024/"><u>The Photographer's Path to Perfected Colors for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/mplify-your-online-influence-with-these-best-5-youtube-marketing-techniques/"><u>[New] Amplify Your Online Influence with These Best 5 YouTube Marketing Techniques</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-become-a-youtube-visionary-with-these-production-insights/"><u>[Updated] In 2024, Become a YouTube Visionary with These Production Insights</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-prime-frames-per-second-for-high-impact-slow-motion-videos/"><u>[Updated] Prime Frames Per Second For High-Impact Slow Motion Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-expert-guide-to-navigating-win11-easily/"><u>[Updated] The Expert Guide to Navigating Win11 Easily</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-tips-to-improve-profile-cover-videos/"><u>[Updated] Tips to Improve Profile Cover Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-uniting-choreography-with-crafted-audio-in-instagram/"><u>[Updated] Uniting Choreography with Crafted Audio in Instagram</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-get-facebook-links-downloaded-top-8-tools-of-the-year-2023/"><u>2024 Approved Get Facebook Links Downloaded Top 8 Tools of the Year 2023</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-vhs-80s-effects-to-use-in-video-editing/"><u>2024 Approved Top VHS 80S Effects to Use in Video Editing</u></a></li>
+<li><a href="https://solve-info.techidaily.com/cookiebot-driven-success-enhancing-your-sites-visibility-and-conversions/"><u>Cookiebot-Driven Success: Enhancing Your Site's Visibility and Conversions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/engaging-with-intelligence-a-comparative-study/"><u>Engaging with Intelligence: A Comparative Study</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleash-creative-potential-with-a-comprehensive-guide-to-ps-background-removal/"><u>In 2024, Unleash Creative Potential with a Comprehensive Guide to PS Background Removal</u></a></li>
 </ul></div>
 

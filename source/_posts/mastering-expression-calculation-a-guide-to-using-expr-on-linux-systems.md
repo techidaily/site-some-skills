@@ -1,7 +1,7 @@
 ---
 title: "Mastering Expression Calculation: A Guide to Using 'Expr' On Linux Systems"
-date: 2024-10-05T23:05:48.979Z
-updated: 2024-10-09T20:48:39.813Z
+date: 2024-10-13T08:56:59.654Z
+updated: 2024-10-15T21:56:06.843Z
 tags:
   - desktop
 categories:
@@ -33,10 +33,10 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
  Want to do some simple calculations in Linux? Just use the expr command. This command can perform various operations, such as evaluating expressions, extracting substrings, comparing strings, and more. Using expr, you can add, subtract, multiply, or divide two numbers, and get the answer as the output.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The expr Command
@@ -59,6 +59,13 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 
  For strings, you can use regular expressions and character sets to find matches and indexes. You can also use parentheses to group expressions and backslashes to escape special characters.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  expr Command Options
 
  While expr doesn't have traditional command-line options, it offers versatile operators for arithmetic, string manipulation, and comparison. Furthermore, you can use the **\--help** option to show expr's help page, which explains its syntax, features, and examples:
@@ -73,14 +80,14 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
     
 ![Linux terminal that shows the version number and developer details of the expr command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-12.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This option displays the version number, source code, license, and author of expr.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Performing Arithmetic Operations With expr
 
@@ -101,10 +108,10 @@ expr 10 / 2`
 ![Linux terminal showing various arithmetic operations with expr command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-11.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You need to escape the multiplication (\*) operator with a backslash (\\) to avoid shell expansion. Otherwise, the shell will try to match the operator (\*) with the filenames in the current directory and pass them to the expr command, which will cause an error.
@@ -127,13 +134,6 @@ expr 10 / 2`
     
 ![Linux terminal displaying checking of the two numbers equality using expr command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-8.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now, let's check whether the first argument is smaller than the other argument. For that, we use the < operator:
 
         `expr 40 \< 50`
@@ -147,10 +147,10 @@ expr 10 / 2`
 ![Linux terminal showing the comparison of two values using the expr command with not equal to operator](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-8.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Here, the output 1 indicates that 45 is not equal to 55.
@@ -170,10 +170,10 @@ expr 10 / 2`
 ![Linux terminal showing the length using the expr command with the length operator](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-5.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The output is 11 because there are nine characters and two white spaces in the string. If you want to find the length of a string without whitespace, you can use other commands like [tr](https://fox-hovers.techidaily.com/new-discovering-the-quintessential-5-title-creators-online/) or [awk](https://facebook-videos.techidaily.com/new-in-2024-revolutionizing-advertising-on-facebook-with-the-best-video-tactics/) to remove them first. For example:
@@ -181,13 +181,6 @@ expr 10 / 2`
         `expr length "$(echo 'How To Geek' | tr -d ' ')"`
     
 ![Linux terminal displaying the string length without the including the white spaces](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-1-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The output will be nine because the tr command deletes all the spaces in the string before passing it to the expr length command.
 
@@ -207,6 +200,13 @@ expr 10 / 2`
     
 ![Linux terminal showing the matching of two different strings using the expr command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/10-7.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Consider another example, where two given strings are the same:
 
         `expr 'How To Geek' : 'How To Geek'`
@@ -222,10 +222,10 @@ expr 10 / 2`
 ![The Linux terminal displays how to match different string variables using the expr command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/12-5.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Incrementing and Decrementing a Variable With expr
@@ -309,21 +309,21 @@ echo "Sum of two numbers is= $sum" ``
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-hue-harmony-simplified-steps-for-professional-color-adjustment/"><u>[New] Hue Harmony Simplified Steps for Professional Color Adjustment</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-streamlining-whiteboard-interactions-with-google-meet-across-multiple-platforms-for-2024/"><u>[New] Streamlining Whiteboard Interactions with Google Meet Across Multiple Platforms for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-uavs-explained-the-basics-of-drone-systems-and-operations/"><u>[New] UAVs Explained The Basics of Drone Systems and Operations</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-screen-clarity-advanced-zoom-techniques/"><u>[New] Unlocking Screen Clarity Advanced Zoom Techniques</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-snap-into-action-efficient-office-photography-tips/"><u>[Updated] 2024 Approved Snap Into Action Efficient Office Photography Tips</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-the-new-era-of-social-media-a-side-by-side-comparison-between-tiktok-and-snap/"><u>[Updated] The New Era of Social Media A Side-By-Side Comparison Between TikTok and Snap</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-smart-shoppers-guide-to-affordable-cloud-space/"><u>[Updated] The Smart Shopper's Guide to Affordable Cloud Space</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-techniques-for-optimizing-gopro-camera-battery-life/"><u>2024 Approved Techniques for Optimizing GoPro Camera Battery Life</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-creativity-in-editing-leveraging-storyremix-with-windows-11-photos/"><u>2024 Approved Unleash Creativity in Editing Leveraging StoryRemix with Windows 11 Photos</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-best-of-zoom-and-tiktok-video-sync/"><u>2024 Approved Unveiling the Best of ZOOM & TikTok Video Sync</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/disabled-apple-iphone-8-plus-how-to-unlock-a-disabled-apple-iphone-8-plus-by-drfone-ios/"><u>Disabled Apple iPhone 8 Plus How to Unlock a Disabled Apple iPhone 8 Plus?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/premium-settings-for-virtual-broadcasts/"><u>Premium Settings for Virtual Broadcasts</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-volsnapsys-bsod-comprehensive-guide-for-stable-windows-experience/"><u>Resolving Volsnap.sys BSOD - Comprehensive Guide for Stable Windows Experience</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-economic-aspects-of-making-a-music-video-for-2024/"><u>The Economic Aspects of Making a Music Video for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-editors-guide-to-effective-lut-implementation-for-2024/"><u>The Editor's Guide to Effective LUT Implementation for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unbeatable-upvotes-reddits-hottest-threads-from-history-for-2024/"><u>Unbeatable Upvotes Reddit's Hottest Threads From History for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-transform-your-farm-with-stardews-most-innovative-mods-7-best/"><u>[New] In 2024, Transform Your Farm with Stardew's Most Innovative Mods (7 Best)</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-tackling-the-challenge-of-video-not-broadcasting-via-fb-messenger/"><u>[New] Tackling the Challenge of Video Not Broadcasting via FB Messenger</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-selection-choosing-excellent-free-srt-translators/"><u>[New] Ultimate Selection Choosing Excellent FREE SRT Translators</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-navigating-the-secrets-of-funimate-download/"><u>[Updated] In 2024, Navigating the Secrets of Funimate Download</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-secrets-of-saving-screenshots-tips-and-tricks-for-dell-users/"><u>[Updated] In 2024, Secrets of Saving Screenshots Tips & Tricks for Dell Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-fundamentals-of-color-grading-using-luts-in-ae/"><u>[Updated] The Fundamentals of Color Grading Using LUTs in AE</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-fix-for-gopro-fisheye-problems/"><u>[Updated] The Ultimate Fix for GoPro Fisheye Problems</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transform-your-imagination-into-visual-masterpieces-on-windows-10/"><u>[Updated] Transform Your Imagination Into Visual Masterpieces on Windows 10</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-dvd-ripping-showdown-in-depth-comparison-between-winx-dvd-ripper-and-handbrake-features-and-performance/"><u>Free DVD Ripping Showdown: In-Depth Comparison Between WinX DVD Ripper and HandBrake Features and Performance</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-sony-xperia-5-v-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Sony Xperia 5 V Without Password?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-stay-focused-with-no-youtube-thumbnail-view/"><u>In 2024, Stay Focused with No YouTube Thumbnail View</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-understanding-netflixs-multi-stream-technology-a-quick-guide/"><u>In 2024, Understanding Netflix's Multi-Stream Technology A Quick Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-your-disappearing-desktop-icons-issue-in-windows/"><u>Solve Your Disappearing Desktop Icons Issue in Windows</u></a></li>
+<li><a href="https://facebook.techidaily.com/strategies-to-leverage-facebook-in-your-professional-life/"><u>Strategies to Leverage Facebook in Your Professional Life</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-veil-vs-the-beam-shadowheroes-vs-luminaryfighters-for-2024/"><u>The Veil vs the Beam Shadowheroes Vs Luminaryfighters for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-8-subtitle-converters-speed-up-your-video-production-from-sub-to-quickly-released-srtr-format-for-2024/"><u>Top 8 Subtitle Converters Speed Up Your Video Production - From SUB to Quickly-Released SRTR Format for 2024</u></a></li>
 </ul></div>
 

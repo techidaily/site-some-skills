@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Resolving Windows Spotlight Malfunctions Effortlessly"
-date: 2024-10-05T01:40:06.682Z
-updated: 2024-10-09T18:02:00.265Z
+date: 2024-10-09T08:28:12.585Z
+updated: 2024-10-16T10:27:33.176Z
 tags:
   - deals
 categories:
@@ -28,10 +28,10 @@ thumbnail: https://thmb.techidaily.com/865974c7bb05387b6277d30c79ecdc49aad19ee23
  Windows Spotlight can take 24 hours to cycle a new image, so be patient after applying any of these fixes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Preliminary Fixes
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/865974c7bb05387b6277d30c79ecdc49aad19ee23
  The first thing to do when Windows Spotlight is stuck is to [check if your internet is working](https://article-posts.techidaily.com/pioneering-medical-messaging-in-digital-advertising/). Without it, Spotlight can't download new images.
 
  If your internet connection is fine, try [updating your Windows computer](https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-realme-v30-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/), as it may contain a patch for any Spotlight bugs. Conversely, if you think a recently installed update caused the issue, [uninstall the Windows update](https://hardware-help.techidaily.com/download-updated-wireless-network-adapter-driver-for-windows-versions-win11-win10-win8-win7/) to reverse the changes.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Turn Windows Spotlight Off and On
 
@@ -52,25 +59,18 @@ thumbnail: https://thmb.techidaily.com/865974c7bb05387b6277d30c79ecdc49aad19ee23
 
 ![Windows 11 Settings showing the Personalization options for lock screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-settings-showing-the-personalization-options-for-lock-screen.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On Windows 10, go to Settings > Personalization > Lock Screen. Click the "Background" dropdown, and choose "Picture."
 
 ![Windows 10 settings app showing the Windows Spotlight personalization option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-10-settings-app-showing-the-windows-spotlight-personalization-option.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After that, restart your computer and [set your background and lock screen to Windows Spotlight](https://video-capture.techidaily.com/updated-capturing-perfection-a-deep-dive-into-apeaksofts-technology-for-2024/) again.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Re-register the Windows Spotlight Service
 
@@ -80,19 +80,6 @@ thumbnail: https://thmb.techidaily.com/865974c7bb05387b6277d30c79ecdc49aad19ee23
 
 ![Running Windows PowerShell as administrator from Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-running-windows-powershell-as-administrator-from-windows-search.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Type the following command in the PowerShell window and press Enter:
 
         `Get-AppxPackage -allusers *ContentDeliveryManager* | foreach {Add-AppxPackage "$($_.InstallLocation)\appxmanifest.xml" -DisableDevelopmentMode -register }`
@@ -100,6 +87,13 @@ thumbnail: https://thmb.techidaily.com/865974c7bb05387b6277d30c79ecdc49aad19ee23
 ![Windows 10 PowerShell console running a command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-10-powershell-console-running-a-command.png) 
 
  Wait while PowerShell re-registers the Windows Content Delivery Manager component. If you see an error, restart your computer and try again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Reset Windows Spotlight Settings
 
@@ -151,6 +145,13 @@ thumbnail: https://thmb.techidaily.com/865974c7bb05387b6277d30c79ecdc49aad19ee23
 
 ![Windows 10 Settings app showing the Network & internet screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-10-settings-app-showing-network-internet-screen.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Under "Metered Connections," toggle the "Set as Metered Connection" switch to turn it off.
 
 ![Windows 10 Settings app showing the metered connection for Ethernet screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-110-settings-app-showing-turned-off-metered-connection-for-ethernet-screen.png) 
@@ -168,10 +169,10 @@ thumbnail: https://thmb.techidaily.com/865974c7bb05387b6277d30c79ecdc49aad19ee23
  Restart your computer to apply the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Disable Your Antivirus Program
@@ -180,21 +181,7 @@ thumbnail: https://thmb.techidaily.com/865974c7bb05387b6277d30c79ecdc49aad19ee23
 
 ![Windows 11 desktop showing the quit option for the Malwarebytes program in system tray.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-desktop-showing-quit-option-for-the-malwareabytes-program-in-system-tray.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can likely turn off your antivirus from the system tray. To do this, right-click the antivirus app icon in the system tray and choose "Quit", "Shut Down Protection", or similar. Alternatively, turn it off through the antivirus' app interface.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Perform a Network Reset
 
@@ -217,15 +204,22 @@ thumbnail: https://thmb.techidaily.com/865974c7bb05387b6277d30c79ecdc49aad19ee23
 ![Windows 10 Settings app showing the Network reset option screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-10-settings-app-showing-the-network-reset-option-screen.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Click "Reset Now" and choose "Yes" to confirm the action.
 
 ![Windows 10 Settings app showing the reset now option screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-10-settings-app-showing-the-reset-now-option-screen.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After the restart, Windows will walk you through setting up your network.
 
@@ -248,20 +242,20 @@ thumbnail: https://thmb.techidaily.com/865974c7bb05387b6277d30c79ecdc49aad19ee23
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-5-tips-to-get-more-views-with-youtube-optimization-free-checklist-for-2024/"><u>[New] 5 Tips to Get More Views with YouTube Optimization [Free Checklist] for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/eversing-the-consequences-of-a-youtube-ban-for-2024/"><u>[New] Reversing the Consequences of a YouTube Ban for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-10-mac-exclusive-free-drawing-platforms/"><u>[New] Top 10 Mac-Exclusive Free Drawing Platforms</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlock-virtual-worlds-top-10-pc-games-for-ultimate-vr-experience/"><u>[New] Unlock Virtual Worlds Top 10 PC Games for Ultimate VR Experience</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-essentials-of-whatsapp-call-messages/"><u>[Updated] The Essentials of WhatsApp Call Messages</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-upgrade-your-video-presentations-zooming-through-filter-techniques/"><u>[Updated] Upgrade Your Video Presentations Zooming Through Filter Techniques</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-photo-pinnacle-top-tripods-for-android-and-iphones/"><u>2024 Approved Photo Pinnacle Top Tripods for Android & iPhones</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-screen-recording-for-professionals-choosing-between-bandicam-and-camtasia/"><u>2024 Approved Screen Recording for Professionals Choosing Between Bandicam & Camtasia</u></a></li>
-<li><a href="https://some-skills.techidaily.com/everything-you-need-to-know-before-upgrading-for-2024/"><u>Everything You Need To Know Before Upgrading for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-maximizing-impact-with-googles-podcast-platform/"><u>In 2024, Maximizing Impact with Google’s Podcast Platform</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-the-ultimate-mac-video-editor-mkvtoolnix-features-and-benefits/"><u>New 2024 Approved The Ultimate Mac Video Editor MKVtoolnix Features and Benefits</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-frustrating-apex-legends-crashes-in-win11/"><u>Resolving Frustrating Apex Legends Crashes in Win11</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unseen-video-on-sony-a6400-whats-going-wrong-for-2024/"><u>Unseen Video on Sony A6400 What's Going Wrong for 2024</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-reinstall-drivers-on-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to reinstall drivers on Windows 11/10/7</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-s18-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo S18 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-viral-video-voyage-twitters-compiled-top-10-tiktoks-for-2024/"><u>[New] Viral Video Voyage Twitter's Compiled Top 10 TikToks for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamline-your-multi-tasking-pip-settings-in-safari/"><u>[Updated] Streamline Your Multi-Tasking PIP Settings in Safari</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tricks-for-non-engagement-with-edgenuity-video-content/"><u>2024 Approved Tricks for Non-Engagement with Edgenuity Video Content</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/achieving-flawless-fb-live-via-zoom-streaming-for-2024/"><u>Achieving Flawless FB Live via Zoom Streaming for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/are-apples-new-processors-revolutionizing-editing-tech-in-2024/"><u>Are Apple's New Processors Revolutionizing Editing Tech, In 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-honor-magic5-ultimate-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Honor Magic5 Ultimate Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-text-and-title-effect-types-in-after-effects/"><u>In 2024, Text and Title Effect Types in After Effects</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-evolution-of-hd-tech-a-look-at-hp-envy-27/"><u>In 2024, The Evolution of HD Tech - A Look at HP Envy 27</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-understanding-transient-suppression-via-audacity/"><u>In 2024, Understanding Transient Suppression via Audacity</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/nyt-connection-insights-and-solutions-june-10th-edition-question-365/"><u>NYT Connection Insights & Solutions - June 10Th Edition, Question #365</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/sony-vaio-driver-setup-and-download-for-windows-systems-step-by-step-tutorial/"><u>Sony VAIO Driver Setup and Download for Windows Systems - Step-by-Step Tutorial</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/successfully-recover-your-money-the-ultimate-steam-game-refund-procedure-explained/"><u>Successfully Recover Your Money – The Ultimate Steam Game Refund Procedure Explained</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-key-to-staying-put-mastering-6-viewer-friendly-genres-for-2024/"><u>The Key to Staying Put Mastering 6 Viewer-Friendly Genres for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-photoshop-pro-with-ai-intelligence-for-2024/"><u>Ultimate Photoshop Pro with AI Intelligence for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/unveiling-the-art-of-quiet-video-capture-methods-for-2024/"><u>Unveiling the Art of Quiet Video Capture Methods for 2024</u></a></li>
 </ul></div>
 

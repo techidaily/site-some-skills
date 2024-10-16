@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Syma X5C Exposed  Perfect Pick for Novice Aerial Enthusiasts\""
-date: 2024-08-10T20:07:45.990Z
-updated: 2024-08-11T20:07:45.990Z
+date: 2024-10-10T19:39:50.855Z
+updated: 2024-10-16T04:13:58.324Z
 tags: 
   - screen-recording
   - ai video
@@ -28,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/4bdb303f42b83bdabbc89bbaed552a530d9809337
 
  Syma is a well known name in the world of toy RC segment and this company has released about 20 quadcopters and helicopters till now. Syma X5C is designed with all good features that a beginner demands from his drone. It is definitely not a good idea to spend $1000 or [$500](<https://filmora.wondershare.com/drones/affordable-drones-under-500-dollars.html>) for buying a camera drone when you can own a feature rich quadcopter by making payment of $50 only. It is well designed with all simple and intuitive controls; the camera offers 720p resolution with stunning clarity. It is capable enough to have safe flight in light wind conditions whereas users can put a 4GB Micro SSD card inside it to serve instant video recording needs.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![syma x5c explorers](https://images.wondershare.com/filmora/article-images/syma-x5c-explorers.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01CNGT0DG/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01CNGT0DG&linkId=57d2a66ecb7fdd24814d14d9272a2f49)
@@ -92,10 +89,14 @@ thumbnail: https://thmb.techidaily.com/4bdb303f42b83bdabbc89bbaed552a530d9809337
 
 #### 5. Control Range
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![syma x5c controller](https://images.wondershare.com/filmora/article-images/syma-x5c-controller.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The remote unit or transmitter works with a 2.4GHz frequency setting with 4 channel type control. It helps pilots to enjoy wider flying range with spread spectrum technology. The maximum flying range falls between 30 to 50 meters and no lags have been reported yet in control selection and quadcopter reactions. Using flip switch, you can directly adjust the movements in air.
 
@@ -105,16 +106,10 @@ thumbnail: https://thmb.techidaily.com/4bdb303f42b83bdabbc89bbaed552a530d9809337
 
  Syma H5C camera is rated as moderately stable and it is capable enough to take impressive pictures from air. This device is equipped with a 2GB MicroSD card that offers personal storage space to all recorded videos and images. The sad part is here that controller unit of this device is able to send signals to drone only; it cannot control the camera actions. Thus your camera stays focused in only one direction all the time and have fixed focus during shoots. You cannot apply zoom, direction sensing inputs or focus adjustment controls when your device is in air. If you are searching for a highly controlled footage generator then it is good to go for other Phantom series and other competing models as per your budget. But Syma H5C is really a good choice to start with.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
  Syma's X5C can be included in the list of must buy product for beginners due to its all incredible features. If you are a beginner and are just going to learn about flight basics then this advanced camera unit can serve you best with all impressive controls. Its sleek design along with feature rich platform offers lots of things to explore in air. You will definitely love to enjoy its regular and expert mode settings with unique flight experiences.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -135,10 +130,6 @@ Follow @Max Wales
 
 **You may also like:** [Drone racing: Things You need to Know and Top 5 best FPV racing drones >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Pros and Cons of Syma X5C
 
 **Pros:**
@@ -194,10 +185,14 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 #### 5. Control Range
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![syma x5c controller](https://images.wondershare.com/filmora/article-images/syma-x5c-controller.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The remote unit or transmitter works with a 2.4GHz frequency setting with 4 channel type control. It helps pilots to enjoy wider flying range with spread spectrum technology. The maximum flying range falls between 30 to 50 meters and no lags have been reported yet in control selection and quadcopter reactions. Using flip switch, you can directly adjust the movements in air.
 
@@ -205,23 +200,33 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![syma x5c camera](https://images.wondershare.com/filmora/article-images/syma-x5c-camera.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Syma H5C camera is rated as moderately stable and it is capable enough to take impressive pictures from air. This device is equipped with a 2GB MicroSD card that offers personal storage space to all recorded videos and images. The sad part is here that controller unit of this device is able to send signals to drone only; it cannot control the camera actions. Thus your camera stays focused in only one direction all the time and have fixed focus during shoots. You cannot apply zoom, direction sensing inputs or focus adjustment controls when your device is in air. If you are searching for a highly controlled footage generator then it is good to go for other Phantom series and other competing models as per your budget. But Syma H5C is really a good choice to start with.
 
 ## Conclusion
 
  Syma's X5C can be included in the list of must buy product for beginners due to its all incredible features. If you are a beginner and are just going to learn about flight basics then this advanced camera unit can serve you best with all impressive controls. Its sleek design along with feature rich platform offers lots of things to explore in air. You will definitely love to enjoy its regular and expert mode settings with unique flight experiences.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -245,8 +250,24 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-unveiling-the-secrets-to-supervised-simultaneous-streams/"><u>[New] 2024 Approved Unveiling the Secrets to Supervised Simultaneous Streams</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-instagram-reels-borrow-tips-and-tricks-from-tiktok-to-go-viral/"><u>[New] In 2024, Instagram Reels Borrow Tips & Tricks From TikTok to Go Viral</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-unlock-clearer-visuals-with-iphone-video-focus-for-2024/"><u>[New] Unlock Clearer Visuals with iPhone Video Focus for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-action-hunting-cameras-of-the-year/"><u>2024 Approved Top Action Hunting Cameras of the Year</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-online-seminar-title-crafter/"><u>2024 Approved Ultimate Online Seminar Title Crafter</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-limitless-space-20-best-free-cloud-platforms-offering-1tbplus/"><u>2024 Approved Unlock Limitless Space 20 Best Free Cloud Platforms Offering 1TB+</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/boosting-or-slowing-down-the-netflix-playback-rate-guide-for-2024/"><u>Boosting or Slowing Down The Netflix Playback Rate Guide for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-stepwise-adjustment-fins-speech-on-win-os-devices/"><u>In 2024, Stepwise Adjustment Fins Speech on Win-OS Devices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/techniques-to-frame-photos-with-leading-lines-iphone-for-2024/"><u>Techniques to Frame Photos with Leading Lines (iPhone) for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-editors-approach-to-declining-audio-tracks-gradually-for-2024/"><u>The Editor's Approach to Declining Audio Tracks Gradually for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-likes-strategies-for-captivating-tiktok-unboxers-for-2024/"><u>The Ultimate Guide to Likes Strategies for Captivating TikTok Unboxers for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-7-video-to-text-converters-for-seamless-content-translation/"><u>Top 7 Video-to-Text Converters for Seamless Content Translation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-online-platforms-for-enhancing-visual-medias-subtitle-quality-for-2024/"><u>Top Online Platforms for Enhancing Visual Media's Subtitle Quality for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/ultimate-websites-easy-alarm-ringtone-downloads-for-2024/"><u>Ultimate Websites Easy Alarm Ringtone Downloads for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleash-clean-visuals-step-by-step-guide-to-backdrop-erasure-for-2024/"><u>Unleash Clean Visuals Step-By-Step Guide to Backdrop Erasure for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-expert-tips-for-seamless-audio-overlay-on-videos-using-filmora/"><u>Updated Expert Tips for Seamless Audio Overlay on Videos Using Filmora</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/windowsphotorec/"><u>ファイル回復ガイド:WindowsでPhotorec以外のアプリを利用した方法</u></a></li>
+</ul></div>
 

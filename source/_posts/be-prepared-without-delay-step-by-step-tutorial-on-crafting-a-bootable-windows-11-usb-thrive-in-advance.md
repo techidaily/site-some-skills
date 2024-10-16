@@ -1,7 +1,7 @@
 ---
 title: "Be Prepared Without Delay: Step-by-Step Tutorial on Crafting a Bootable Windows #11 USB Thrive in Advance"
-date: 2024-10-08T03:54:40.234Z
-updated: 2024-10-09T16:07:08.845Z
+date: 2024-10-11T19:38:03.171Z
+updated: 2024-10-16T07:38:20.499Z
 tags:
   - deals
 categories:
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 
  In any case, a bootable USB drive is one of the most important tools in your toolbox that you should have ready, because you never know when you'll come across a situation where you'll need it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Create a Bootable Windows 11 USB Drive Using the Media Creation Tool
 
  The easiest and Microsoft-recommended way to create a bootable USB drive is by using the Media Creation Tool. It's a program by Microsoft that allows you to create a bootable USB drive or DVD that contains the operating system files. To use the Media Creation Tool, first plug in a [USB](https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-realme-11-5g-by-drfone-android/) drive to your computer. The USB drive must have at least 8GB of space available.
@@ -75,14 +68,14 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 
 ![Finish option in the Windows 11 Setup window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/finish-option-in-the-windows-11-setup-window.jpg) 
 
- You can now use the USB drive to install Windows 11 on a computer.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ You can now use the USB drive to install Windows 11 on a computer.
 
 ##  Create a Bootable Windows 11 USB Drive Using Rufus
 
@@ -92,16 +85,16 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 
 ![Download Now button for the Windows 11 ISO File.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/download-now-button-for-the-windows-11-iso-file.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Choose your preferred language from the language drop-down menu, then click "Confirm."
 
 ![Selecting Language of the Windows 11 ISO File.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/selecting-language-of-the-windows-11-iso-file.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Click the "Download" button to begin downloading the file. The ISO file is approximately 7GB in size, which may take some time to download, depending on your connection speed.
 
@@ -123,33 +116,33 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 
 ![Selecting the Windows 11 ISO File.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/selecting-the-windows-11-iso-file.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Make sure the Partition Scheme is set to "GPT" and File System is set to "NTFS." Then, click "Start."
 
 ![Start option in the Rufus window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/start-option-in-the-rufus-window.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the Windows User Experience window, check the boxes next to "Remove requirement for 4GB+ RAM, Secure Boot, and TPM 2.0" and "Remove Requirement for an Online Microsoft Account." Then, click "OK."
 
 ![Windows User Experience window in Rufus.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/windows-user-experience-window-in-rufus.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Click "Yes."
 
  Click "OK" to grant Rufus permission to delete all data present on your USB drive and turn it into a bootable Windows 11 drive.
 
 ![OK option in the Rufus window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/ok-option-in-the-rufus-window.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Rufus will initiate the process, and you can monitor the progress under the Status section.
 
@@ -158,19 +151,6 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
  Once the process is complete, you will see the Ready message with a green background under the Status section.
 
 ![Ready option with Green background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/ready-option-with-green-background-1.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Create a Bootable Windows 11 USB Using Command Prompt
 
@@ -188,13 +168,6 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 
 ![Name of USB drive in the Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/name-of-usb-drive.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Type **SEL (YourDisk)** and hit Enter to select your USB drive.
 
 ![Selecting the USB Drive.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/selecting-the-usb-drive.jpg) 
@@ -209,15 +182,22 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
     
 ![Partition creating command in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/partition-creating-command-in-command-prompt.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Type **List par** and press Enter to choose the main partition.
 
 ![List par command in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/list-par-command-in-command-prompt.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You’ll now have to format the USB drive. For this, type the following command and hit Enter:
@@ -225,6 +205,13 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
         `format FS=FAT32 quick`
     
 ![Format command in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/format-command-in-command-prompt.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now, you need to assign a volume letter to the USB drive. To do this, type the following command and press Enter.
 
@@ -235,6 +222,13 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
  Type **exit** and hit Enter to exit the Diskpart utility.
 
 ![Exit command in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/exit-command-in-command-prompt.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You’ll now have to mount the Windows 11 ISO file. For this, execute the following command:
 
@@ -297,17 +291,18 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-maximizing-call-recording-20plus-techniques-for-windowsmac-users-for-2024/"><u>[New] Maximizing Call Recording 20+ Techniques for Windows/Mac Users for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-savetech-reviews-insights/"><u>[Updated] SaveTech Reviews Insights</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-tailoring-recording-techniques-in-audacity-for-professionals/"><u>[Updated] Tailoring Recording Techniques in Audacity for Professionals</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-unraveling-the-mysteries-of-fb-instream-ads-configuration-and-evaluation/"><u>[Updated] Unraveling the Mysteries of FB Instream Ads Configuration & Evaluation</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-methods-to-revamp-grades-in-photoshop/"><u>2024 Approved Top Methods to Revamp Grades in Photoshop</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-pixel-7a-by-fonelab-android-recover-messages/"><u>How To Restore Missing Messages Files from Pixel 7a</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streaming-stakes-pewdiepies-earnings-examination/"><u>In 2024, Streaming Stakes PewDiePie’s Earnings Examination</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-filmora-scrn-essentials-recording-your-desktop-in-minutes-for-2024/"><u>New Filmora Scrn Essentials Recording Your Desktop in Minutes for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/scheduling-zoom-on-android-a-step-by-step-approach-for-2024/"><u>Scheduling Zoom on Android A Step-by-Step Approach for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/swift-shadowing-secrets-for-2024/"><u>Swift Shadowing Secrets for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/translating-trust-the-importance-of-client-endorsements-for-2024/"><u>Translating Trust The Importance of Client Endorsements for 2024</u></a></li>
-<li><a href="https://solve-help.techidaily.com/understanding-handbrakes-anamorphic-support-a-beginners-guide/"><u>Understanding HandBrake's Anamorphic Support – A Beginner’s Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-seamless-image-superimposition-for-desktop/"><u>[New] In 2024, Seamless Image Superimposition for Desktop</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tapping-into-community-spirit-a-guide-to-thriving-fb-gifting-campaigns/"><u>[New] Tapping Into Community Spirit A Guide to Thriving FB Gifting Campaigns</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-from-basics-to-alternatives-understanding-vidmas-capture-software/"><u>[Updated] 2024 Approved From Basics to Alternatives Understanding Vidma's Capture Software</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-best-release-dates-for-podcast-episodes/"><u>[Updated] Best Release Dates for Podcast Episodes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-seamless-photo-transformations-with-adobe-photoshops-background-erase-technique/"><u>[Updated] Seamless Photo Transformations with Adobe Photoshop's Background Erase Technique</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-quick-and-painless-podcast-go-live-technique/"><u>[Updated] The Quick and Painless Podcast Go Live Technique</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-unlocking-the-power-of-google-meet-recordings-two-key-tactics/"><u>[Updated] Unlocking the Power of Google Meet Recordings Two Key Tactics</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/1-decode-error-code-0x80042306-insightful-explanation-and-six-strategies-for-resolution/"><u>1. Decode Error Code 0X80042306: Insightful Explanation and Six Strategies for Resolution</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streaming-royalty-ranking-the-top-10-platforms-for-real-time-content/"><u>2024 Approved Streaming Royalty Ranking the Top 10 Platforms for Real-Time Content</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-compreenasive-breakdown-how-to-use-microsofts-movie-maker-on-w11/"><u>2024 Approved The Compreenasive Breakdown How to Use Microsoft's Movie Maker on W11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transformative-notetaking-the-mematic-way/"><u>2024 Approved Transformative Notetaking The Mematic Way</u></a></li>
+<li><a href="https://blog-min.techidaily.com/assignment/"><u>Assignment.</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-your-creative-potential-with-inshot-for-pcs-and-laptops-for-2024/"><u>Unlock Your Creative Potential with Inshot for PCs & Laptops for 2024</u></a></li>
 </ul></div>
 

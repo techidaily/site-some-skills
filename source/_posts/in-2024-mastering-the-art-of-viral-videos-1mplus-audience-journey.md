@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastering the Art of Viral Videos  1M+ Audience Journey\""
-date: 2024-08-17T17:08:15.824Z
-updated: 2024-08-18T17:08:15.824Z
+date: 2024-10-14T18:08:28.066Z
+updated: 2024-10-15T23:30:51.419Z
 tags: 
   - screen-recording
   - ai video
@@ -24,10 +24,6 @@ If you're looking to get more views on YouTube, it's important that your channel
 
 ## #1\. Pick a specific subject matter or topic
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![pick topic 100k views video](https://images.wondershare.com/filmora/article-images/2022/09/pick-topic-100k-views-video.jpg)
 
 You need to pick a specific subject matter or topic that you can talk about for a long time.
@@ -36,35 +32,21 @@ You need to pick a specific subject matter or topic that you can talk about for 
 * If you can talk about it in detail, people will be able to relate to the details and feel like they know what you're talking about (even if they don't).
 * If it's not too broad, but also not too narrow, then people won't be scratching their heads trying to figure out what you mean by "inbound marketing" or "email marketing." They won't have a clue as to what those terms mean unless there's some context around them—and if there is no context around them at all, then chances are these things aren't exactly interesting enough yet for anyone else either!
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## #2\. Don't worry about producing the highest quality video
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![shoot high quality video](https://images.wondershare.com/filmora/article-images/2022/09/shoot-high-quality-video.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Don't worry about producing the highest quality video. As long as you have a relevant and interesting topic, you can always improve the quality of your videos over time with more resources and equipment. Focus on creating content that is highly valuable to your audience and provides them with something they haven't seen before—not how pretty it looks.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ## #3\. Post in related video communities to find an audience
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![post video to community](https://images.wondershare.com/filmora/article-images/2022/09/post-video-to-community.jpg)
 
 Once you've finished your video and uploaded it to YouTube, the next step is to post in related video communities. You can find these by searching for keywords related to your video or its topic, searching for the title of your own video (assuming that it's not too long), or doing a simple search on Google.
@@ -72,8 +54,12 @@ Once you've finished your video and uploaded it to YouTube, the next step is to 
 Once you find a relevant community, make sure that you're posting in the right place! Some communities may be specific about what kind of content they allow—for example, if someone makes a "How To" video about how to make an omelette, she probably shouldn't post it in "Gaming." Be sure that you're posting in the right category.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## #4\. Write keyword-rich titles and descriptions
 
 ![use seo skill in youtube video](https://images.wondershare.com/filmora/article-images/2022/09/use-seo-skill-in-youtube-video.jpg)
@@ -84,9 +70,6 @@ A good way to get ranked high is by using keywords. Keywords will help you rank 
 
 ## #5\. Use annotations to link videos together
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![use animation to link videos](https://images.wondershare.com/filmora/article-images/2022/09/use-animation-to-link-videos.jpg)
 
 Annotations are a great way to link videos together, or to link videos on your channel with other videos and resources. Here are some examples of things you can do with annotations:
@@ -98,10 +81,14 @@ Annotations are a great way to link videos together, or to link videos on your c
 
 ## #6\. Comment back on other people's videos in your niche
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![comment other videos in your niche](https://images.wondershare.com/filmora/article-images/2022/09/comment-other-videos-in-your-niche.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Another way to get more views is by commenting on other people's videos. You should do this only if the video is in your niche and the channel has a lot of subscribers (over 1,000). When you comment, make sure that you engage with the creator and add value to the conversation. If they ask a question, answer it! If they want feedback, give them some! If they ask for help with something, offer advice or information. And if someone comments on one of your videos asking for help with something related to what you're talking about in your video—don't ignore them! Reply back right away so that people see that interaction on their newsfeeds and find out more about what you have to say about it.
 
@@ -109,9 +96,6 @@ This might seem like an obvious way to get more views but I've seen many creator
 
 * It shows that there's a level of trust between creators working together within communities; this makes viewers feel like there's an opportunity for collaboration as well (and hopefully future collaborations!).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## #7\. Upload at least one video per week and never skip a week
 
 ![upload video to youtube regularly](https://images.wondershare.com/filmora/article-images/2022/09/upload-video-to-youtube-regularly.jpg)
@@ -122,25 +106,56 @@ To make sure that videos get uploaded regularly without hassle, put them on a sc
 
 The best way to ensure regularity is by setting up an automated scheduler with analytics services like Tubebuddy that will automatically publish your content while also keeping track of when each new episode goes live on YouTube and how many views each receives over time—helping predict what kind of clip is likely to be most popular among viewers based on past trends
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## #8\. Add calls to action at the beginning of your video
 
 ![add call to action youtube video](https://images.wondershare.com/filmora/article-images/2022/09/add-call-to-action-youtube-video.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Tell viewers they can subscribe to your channel.
 * Ask them to like or comment on the video.
 * Ask them to share the video with their friends. This is a great way to increase traffic, especially if you have a small audience right now.
 * Encourage viewers to visit your website, or any other product or service that you offer as part of your channel's brand (if applicable).
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## #9\. Fill your channel with useful information, not just marketing messages
 
 ![fill youtube channel with useful info](https://images.wondershare.com/filmora/article-images/2022/09/fill-youtube-channel-with-useful-info.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 One of the most common mistakes that people make when creating YouTube videos is focusing too much on themselves, their business and the products or services they sell. While this may be important for those who are looking to sell a product or service—and these types of things should definitely be mentioned at some point in your video—the majority of your viewers are not going to want to hear about how great you are.
 
 If you want to grow an audience on YouTube and get more views, then one thing you need to do is provide value. This could mean sharing tips and tricks, answering questions from viewers or promoting other channels that produce great content related to your niche (which will encourage them share it with their friends).
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## #10\. Use playlists effectively to get more views
 
@@ -184,8 +199,22 @@ We hope this post has helped you get more views for your YouTube videos! If you 
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-expedite-vimeo-video-playback/"><u>[New] Expedite Vimeo Video Playback</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-reverse-films-on-android/"><u>[New] The Ultimate Guide to Reverse Films on Android</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-the-full-potential-of-windows-11s-video-production-suite/"><u>[New] Unlocking the Full Potential of Windows 11'S Video Production Suite</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-elevate-your-videos-with-complimentary-banners-here/"><u>[Updated] Elevate Your Videos with Complimentary Banners, Here!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-master-iphone-filmmaking-for-full-sphere-effects/"><u>[Updated] Master iPhone Filmmaking for Full Sphere Effects</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-pursuit-of-ultra-clarity-the-4k-z32x-reviewed/"><u>[Updated] The Pursuit of Ultra Clarity The 4K Z32X Reviewed</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-direct-linking-of-photos-and-videos-between-devices/"><u>2024 Approved Direct Linking of Photos & Videos Between Devices</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-expert-recommendations-free-chat-apps-with-screen-viewing/"><u>2024 Approved Expert Recommendations Free Chat Apps with Screen Viewing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-sprinting-into-the-digital-age-picks-on-vr-treadmills/"><u>2024 Approved Sprinting Into the Digital Age Picks on VR Treadmills</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-the-full-potential-of-your-xbox-series-x-with-ideal-displays/"><u>2024 Approved Unleash The Full Potential of Your Xbox Series X with Ideal Displays</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-unveiling-the-most-innovative-metaverse-visors-and-wearables/"><u>2024 Approved Unveiling the Most Innovative Metaverse Visors & Wearables</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-skip-unwanted-podcast-advice-on-the-spotify-app/"><u>In 2024, Skip Unwanted Podcast Advice on the Spotify App</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-adding-soundtracks-to-instagram-visuals/"><u>In 2024, The Art of Adding Soundtracks to Instagram Visuals</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-gigabyte-b76ve-ds3h-ax-motherboard-analysis-affordable-micro-atx-for-multi-display-setups/"><u>In-Depth Gigabyte B76ve DS3H AX Motherboard Analysis: Affordable Micro ATX for Multi-Display Setups</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-revolutionary-impact-future-of-vr-cinematic-experience/"><u>The Revolutionary Impact Future of VR Cinematic Experience</u></a></li>
+</ul></div>
 

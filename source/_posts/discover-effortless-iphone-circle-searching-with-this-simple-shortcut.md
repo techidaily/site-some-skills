@@ -1,7 +1,7 @@
 ---
 title: Discover Effortless iPhone Circle Searching with This Simple Shortcut
-date: 2024-10-03T02:01:34.523Z
-updated: 2024-10-09T22:56:41.959Z
+date: 2024-10-12T23:22:17.169Z
+updated: 2024-10-16T01:00:33.834Z
 tags:
   - mobile
 categories:
@@ -18,13 +18,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * While not an exact replacement, this workaround allows iPhone users to access a feature typically only available on select Android phones.
 
  Circle to Search cuts through the traditional Google search experience, helping you find what you need in an instant. The feature isn't natively available on iPhones, but there's a workaround that lets you use Google Lens similarly. Here's how.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  What Is Circle to Search?
 
@@ -45,10 +38,10 @@ Justin Duino / How-To Geek
 ![Screenshot of the Google app for iPhone for App Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-3.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Open the [iPhone's Shortcuts app](https://win-solutions.techidaily.com/expert-tips-for-when-you-cant-get-far-cry-6-running-on-your-desktop/) and hit the "+" plus icon in the top right corner.
@@ -59,6 +52,13 @@ Justin Duino / How-To Geek
 
 ![Screenshot of the Add Action button in iPhone's Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  On the following screen, type "take screenshot" in the search bar (at the top) and select the right option.
 
 ![Screenshot of the Take Screenshot button in Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-1.png) 
@@ -66,13 +66,6 @@ Justin Duino / How-To Geek
  Now, tap on the search bar at the bottom and type "Search Image with Lens." This option will not appear unless you've downloaded the Google app. Choose the correct option from the results.
 
 ![Search Image with Lens shortcut for iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  With the selected actions, the shortcut flow should look like the screenshot attached below. Once you're set, tap "Done" in the top right corner.
 
@@ -84,26 +77,33 @@ Justin Duino / How-To Geek
 
 ![Screenshot of the Back Tap option in iPhone's Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/8-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Choose whether you want to trigger the shortcut from a double or triple tap. I'm going with double tap.
 
 ![Screenshot of the Back Tap option in iPhone's Settings section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/9.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Scroll to the bottom and select "Search Image with Lens" in the Shortcuts menu.
 
 ![Search Image with Lens in iPhone's Back Tap menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/10.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Use Back Tap to Invoke Google Lens' Visual Search
@@ -135,20 +135,16 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-art-of-aerial-cinematography-drone-editing-insights/"><u>[New] The Art of Aerial Cinematography Drone Editing Insights</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-syncing-scenes-merging-pc-and-cloud-images/"><u>[Updated] Syncing Scenes Merging PC & Cloud Images</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-superior-sites-for-selecting-storied-soundtracks/"><u>2024 Approved Superior Sites for Selecting Storied Soundtracks</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-pathway-to-free-final-cut-pro/"><u>2024 Approved The Pathway to Free Final Cut Pro</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/effortless-steps-converting-avi-files-into-wmv-format-with-top-tools/"><u>Effortless Steps: Converting AVI Files Into WMV Format with Top Tools</u></a></li>
-<li><a href="https://win-blog.techidaily.com/end-lost-ark-stability-woes-effective-solutions-for-a-smoother-gaming-experience/"><u>End Lost Ark Stability Woes: Effective Solutions for a Smoother Gaming Experience</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-xiaomi-14-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Xiaomi 14 Ultra | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>How to Stop Life360 from Tracking You On Apple iPhone 8 Plus? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-samsung-galaxy-m14-5g-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Samsung Galaxy M14 5G</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-verdict-on-video-clips-a-deep-dive-into-inshots-performance/"><u>In 2024, The Verdict on Video Clips A Deep Dive Into InShot's Performance</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlock-potential-with-best-free-text-psdfree/"><u>In 2024, Unlock Potential with Best Free Text PSDFree</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/iphone-15-pro-max-versus-samsung-s24-ultra-the-battle-of-flagship-phones-explained/"><u>IPhone 15 Pro Max Versus Samsung S24 Ultra: The Battle of Flagship Phones Explained</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/transform-your-images-with-picart-clear-canvas-technique/"><u>Transform Your Images with PicArt Clear Canvas Technique</u></a></li>
-<li><a href="https://change-location.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-vivo-y02t-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Vivo Y02T | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-list-premium-voice-modifiers-for-virtual-creators-for-2024/"><u>Ultimate List Premium Voice Modifiers for Virtual Creators for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-elevate-chat-dynamics-pin-messages-with-confidence-in-discord/"><u>[New] 2024 Approved Elevate Chat Dynamics Pin Messages with Confidence in Discord</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamline-your-smartphone-screen-activatedeactivate-pip-for-youtube/"><u>[New] Streamline Your Smartphone Screen Activate/Deactivate PIP for YouTube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-understanding-the-metaverse-in-contrast-to-multiplemetaverse-explained-guide/"><u>2024 Approved Understanding the Metaverse in Contrast to MultipleMetaverse (Explained Guide)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/advanced-tech-insights-delving-into-toms-expertise/"><u>Advanced Tech Insights: Delving Into Tom's Expertise</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/finding-the-ideal-format-for-your-youtube-videos/"><u>Finding the Ideal Format for Your YouTube Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-reel-in-the-solution-to-instagram-video-glitches/"><u>In 2024, Reel in the Solution to Instagram Video Glitches</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streaming-strategy-is-vlc-worthy-to-challenge-mpc/"><u>In 2024, Streaming Strategy Is VLC Worthy to Challenge MPC?</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-interruptions-how-to-stabilize-your-phoenix-point-game-and-prevent-future-crashes/"><u>No More Interruptions: How to Stabilize Your Phoenix Point Game & Prevent Future Crashes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-easy-way-to-download-and-use-the-ifunny-meme-app-for-2024/"><u>The Easy Way to Download and Use the iFunny Meme App for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-path-to-viewership-victory-video-tips-for-2024/"><u>The Path to Viewership Victory Video Tips for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/trasforma-i-tuoi-file-swf-in-formato-m4v-gratuitamente-con-movavi-guida-rapida/"><u>Trasforma I Tuoi File SWF in Formato M4V Gratuitamente Con Movavi - Guida Rapida</u></a></li>
 </ul></div>
 

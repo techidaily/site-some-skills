@@ -1,7 +1,7 @@
 ---
 title: Discover the Most Loved Google Doodle Titles to Enjoy Today
-date: 2024-10-03T17:09:26.794Z
-updated: 2024-10-10T02:39:12.403Z
+date: 2024-10-14T22:00:15.211Z
+updated: 2024-10-16T09:09:54.981Z
 tags:
   - web
 categories:
@@ -26,22 +26,29 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Google keeps its main search page fresh with fun doodles that change every couple of days. Occasionally, the doodle is an actual game that you can play. These games are archived and can be played after their time on the homepage has passed. They're perfect for passing the time without needing to download anything.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  #1: [Baseball](http://www.google.com/doodles/fourth-of-july-2019) 
 
 ![doodle baseball](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/2021-04-29_16-52-45.png) 
 
  There have been several sports-based doodle games, but the one we spent the most time on was Baseball from the 2019 4th of July.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  #2: [Pac-Man](http://www.google.com/doodles/fourth-of-july-2019) 
 
 ![google pac-man](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/2021-04-29_17-02-09.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Everyone knows Pac-Man. It's a classic for a reason. The Doodle version is just as fun as always.
 
@@ -49,7 +56,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![quick, draw](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/2021-04-29_17-03-58.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Quick, Draw! was so popular that it got its own website. You get 20 seconds to draw something, and then Google's neural network tries to guess what it is.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  #4: [The Scoville Game](https://quickdraw.withgoogle.com/) 
 
@@ -57,29 +78,29 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 [![scoville game](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/2021-04-29_17-07-51.png)](https://quickdraw.withgoogle.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [](https://quickdraw.withgoogle.com/) 
 
  The Scoville Game is all about trying to defeat spicy peppers with ice cream. You learn about the Scoville Scale in the process.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  #5: [Basketball](https://www.google.com/doodles/wilbur-scovilles-151st-birthday) 
 
 ![google baskeball](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/2021-04-29_17-13-44.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This is another classic sports game. See how many shots you can make in 24 seconds.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  #6: [Halloween](https://www.google.com/doodles/basketball-2012) 
 
@@ -99,13 +120,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 [![rabbit coding game](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/2021-04-29_17-18-14.png)](https://www.google.com/doodles/celebrating-garden-gnomes)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [](https://www.google.com/doodles/celebrating-garden-gnomes) 
 
  Coding Rabbit is a great game to introduce your kids to coding. The goal is to use basic, block-based coding concepts to help a rabbit to a carrot.
@@ -114,20 +128,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![cricket game](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/2021-04-29_17-19-47.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Play Cricket with virtual crickets! Just like the baseball game, this one is super addictive.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  #10: [Rubik's Cube](https://www.google.com/doodles/icc-champions-trophy-2017-begins) 
@@ -135,19 +142,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 [](https://www.google.com/doodles/icc-champions-trophy-2017-begins)
 
 [![google rubik's cube](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/2021-04-29_17-21-22.png)](https://www.google.com/doodles/icc-champions-trophy-2017-begins)
-
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [](https://www.google.com/doodles/icc-champions-trophy-2017-begins) 
 
@@ -172,16 +166,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-guide-selecting-top-notch-free-srt-translators-online/"><u>[New] Ultimate Guide Selecting Top-Notch Free SRT Translators Online</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-creativity-top-20-vlogger-themes/"><u>[Updated] Unlocking Creativity Top 20 Vlogger Themes</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-quintessential-list-best-tales-from-youtube-in-23/"><u>2024 Approved The Quintessential List Best Tales From YouTube in '23</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtube-music-composition-techniques/"><u>2024 Approved YouTube Music Composition Techniques</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/decoding-the-value-an-insightful-reveal-on-the-google-pixelbook-gos-exceptional-quality-and-higher-pricing/"><u>Decoding the Value: An Insightful Reveal on The Google Pixelbook Go's Exceptional Quality & Higher Pricing</u></a></li>
-<li><a href="https://driver-install.techidaily.com/direct-download-guide-asus-usb-bt400-driver-and-support/"><u>Direct Download Guide: Asus USB-BT400 Driver & Support</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-strengthening-video-impact-with-professional-audio-cues/"><u>In 2024, Strengthening Video Impact with Professional Audio Cues</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-essential-guide-to-youtube-time-tracking/"><u>In 2024, The Essential Guide to YouTube Time Tracking</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/master-video-editing-on-mac-seamless-transfer-of-youtube-footage-into-final-cut-pro-using-apples-prores-codec/"><u>Master Video Editing on Mac: Seamless Transfer of YouTube Footage Into Final Cut Pro Using Apple's ProRes Codec</u></a></li>
-<li><a href="https://app-tips.techidaily.com/overcoming-challenges-to-unlock-the-economic-potential-of-ai-in-business-insights-from-zdnet/"><u>Overcoming Challenges to Unlock the Economic Potential of AI in Business - Insights From ZDNet</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/telegram-marketing-101-a-step-by-step-guide-for-starters/"><u>Telegram Marketing 101 A Step-by-Step Guide for Starters</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-deep-dive-into-the-core-functionalities-of-zdsoft/"><u>[New] In 2024, Deep Dive Into the Core Functionalities of ZDSoft</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlock-full-screen-flexibility-with-pip-feature-on-iphones/"><u>[New] Unlock Full Screen Flexibility with PIP Feature on iPhones</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-strategies-for-boosting-your-youtube-shorts-audience/"><u>[Updated] In 2024, Strategies for Boosting Your YouTube Shorts Audience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleash-the-beats-try-these-free-web-scanners/"><u>[Updated] Unleash the Beats Try These Free Web Scanners</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unmask-the-tricks-of-photo-and-video-upload-in-win11/"><u>[Updated] Unmask the Tricks of Photo & Video Upload in Win11</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/st-creative-youtube-video-reaction-ideas-you-should-know/"><u>10 Best Creative YouTube Video Reaction Ideas You Should Know</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Apple iPhone SE (2020)? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-realme-c67-4g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Realme C67 4G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-infinix-hot-30-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Infinix Hot 30 5G To Phone | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-orchestrate-an-engaging-statement-with-tunes/"><u>In 2024, Orchestrate an Engaging Statement with Tunes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tailoring-your-zoom-experience-for-different-industries-on-windows-11/"><u>In 2024, Tailoring Your Zoom Experience for Different Industries on Windows 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For HTC U23 Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-ai-powered-image-editor-for-2024/"><u>Ultimate AI-Powered Image Editor for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-the-power-of-photo-editing-in-ps-novice-style-for-2024/"><u>Unlocking the Power of Photo Editing in PS, Novice Style for 2024</u></a></li>
 </ul></div>
 

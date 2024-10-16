@@ -1,7 +1,7 @@
 ---
 title: Top 6 Microsoft Edge Features Enhancing Productivity for Remote Workers on Windows 11
-date: 2024-10-05T19:34:47.336Z
-updated: 2024-10-10T00:09:30.501Z
+date: 2024-10-15T02:09:31.196Z
+updated: 2024-10-15T19:12:03.188Z
 tags:
   - deals
 categories:
@@ -22,18 +22,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  With so many of us working remotely, it's not a surprise that Windows 11 comes with a few built-in focus tools to help us get our jobs done. But what exactly does Windows 11 offer to us professionals who want to ensure we actually get work done? Let's take a look.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Focus Periods and Productivity
 
  Windows 11 eliminated the focus mode on the taskbar and replaced it with focus sessions. A focus session uses the [Windows 11 built-in Pomodoro Timer](https://screen-sharing-recording.techidaily.com/updated-navigating-noise-free-networks-secrets-for-silencing-disruptions-on-gomeet/) to ensure that you remain dedicated throughout the particular period. There are other Pomodoro Timers out there, and I even used one in Windows 10\. Having one built into Windows 11 is a plus, however.
 
 ![Windows 11 Focus Assist Window showing time left on the session, how many sessions were completed, and other details](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-11-focus-assist.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Jason Dookeran/How-To-Geek
 
@@ -42,10 +42,10 @@ Jason Dookeran/How-To-Geek
 [Focus Sessions](https://support.microsoft.com/en-us/windows/how-to-use-focus-in-windows-11-cbcc9ddb-8164-43fa-8919-b9a2af072382) include the "do not disturb" mode from Windows 10's focus assist mode. This helps to manage the notifications you're likely to get from any number of applications you already have running on your PC. I've found it extremely helpful to limit my distractions while I'm working on something.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Use Snap Layouts and Snap Groups
@@ -60,33 +60,33 @@ Jason Dookeran/How-To-Geek
 
  These features are designed to enhance multitasking and productivity, especially in a remote work setting. By keeping your tasks visually organized and easily accessible, Snap Layouts and Snap Groups help you maintain focus and efficiency. This seamless integration into the Windows 11 experience ensures that your tools are working just as hard as you are, enabling you to get more done with less effort.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  You're Not Only Limited to One Desktop Either
 
  Windows 10 introduced the [idea of having different desktops](https://www.microsoft.com/en-us/windows/learning-center/stay-organized-using-multiple-desktops-windows-11), each dedicated to its own productivity or usage task. For example, if you've got games installed on your PC but don't want to be distracted by them, you can slide them over to a separate desktop and leave your work desktop with only your office and productivity software shortcuts. When work's done, you can switch to your "gaming" desktop and access the shortcuts there.
 
 ![Remote Desktop Setup](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/remote-desktop-setup.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Jason Dookeran/How-To-Geek
 
  To create a new virtual desktop, click on the Task View button located on the taskbar (or press Win+Tab). This will open the Task View interface, where you can see all your open windows and existing desktops. Click on the “+ New desktop” button at the top of the screen to create a new virtual desktop. To switch between desktops, you can either use the Task View interface by clicking on the desired desktop or use the keyboard shortcut Win+Ctrl+Left or Right arrow keys to move between them quickly. This feature allows you to keep different types of work, like meetings, research, and personal tasks, separate and organized, enhancing your productivity. This particular change is pretty new to Windows, but [Linux users have had multiple desktop setups for years](https://www.linux.com/training-tutorials/dont-forget-one-linuxs-best-features-how-use-multiple-workspaces/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  You Can Even Access Your Desktop From Anywhere
 
  As someone who's [turned their car into a mobile office](https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-lava-yuva-3-pro-phones-by-drfone-android/), sometimes I need to access my desktop from somewhere else (usually a beach). Using the Remote Desktop feature in Windows 11, you can connect to your office PC from home or while traveling, ensuring you have access to all necessary files and applications. To set up Remote Desktop, go to Settings > System > Remote Desktop, and [enable the Remote Desktop option](https://fox-direct.techidaily.com/unleash-creativity-with-these-essential-vector-editors-for-2024/). Ensure your work computer is set up to allow remote connections and that you have the necessary permissions. Once configured, you can use the Remote Desktop Connection app to connect to your work machine securely.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Compartmentalize Your Work By Using Different Profiles
 
@@ -119,22 +119,19 @@ Jason Dookeran/How-To-Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-foremost-companies-pioneering-vr-technology/"><u>[New] Foremost Companies Pioneering VR Technology</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-public-domain-calm-vibes-tracks/"><u>[New] Public Domain Calm Vibes Tracks</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-swift-skillz-best-high-speed-games-for-laptopsmobile/"><u>[New] Swift Skillz Best High-Speed Games for Laptops/Mobile</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-voice-changes-without-financial-investment/"><u>[New] The Ultimate Guide to Voice Changes Without Financial Investment</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-camera-hunt-essential-choices-for-new-enthusiasts/"><u>[Updated] In 2024, Camera Hunt Essential Choices for New Enthusiasts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-sustainable-filmmaking-aids-at-no-charge/"><u>[Updated] Sustainable Filmmaking Aids at No Charge</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unleash-artistry-a-curated-list-of-premium-3d-animation-software/"><u>[Updated] Unleash Artistry A Curated List of Premium 3D Animation Software</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-your-videos-with-these-top-12-players/"><u>2024 Approved Streamline Your Videos with These Top 12 Players</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/9-strategies-for-stunning-insta-unboxing-vids/"><u>9 Strategies for Stunning Insta Unboxing Vids</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/audiophiles-recorder-review-for-2024/"><u>Audiophile's Recorder Review for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-google-pixel-fold-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Google Pixel Fold for Free? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-meizu-21-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Meizu 21 Pro to iPhone | Dr.fone</u></a></li>
-<li><a href="https://ai-video.techidaily.com/new-2024-approved-5-best-apps-for-voice-translation-from-english-to-bangla/"><u>New 2024 Approved 5 Best Apps for Voice Translation From English to Bangla</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-record-your-desktop-in-minutes-a-quick-start-guide-to-filmora-scrn/"><u>New 2024 Approved Record Your Desktop in Minutes A Quick Start Guide to Filmora Scrn</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723003640318-restore-sounds-in-roblox-games-for-windows-11-and-10-common-fixes-exposed/"><u>Restore Sounds in Roblox Games for Windows 11 and 10 - Common Fixes Exposed!</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unseen-underpinnings-of-user-interface-craftsmanship-for-2024/"><u>Unseen Underpinnings of User Interface Craftsmanship for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-the-real-value-in-cloud-storage-charges-for-2024/"><u>Unveiling the Real Value in Cloud Storage Charges for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-pixel-perfection-your-path-to-exceptional-edits/"><u>[New] Pixel Perfection Your Path to Exceptional Edits</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-unusual-upward-turning-of-ig-video-images/"><u>[New] The Unusual Upward Turning of IG Video Images</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-recording-success-with-top-software-choices/"><u>[Updated] Recording Success with Top Software Choices</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-a-comprehensive-guide-to-thumbnail-production/"><u>2024 Approved A Comprehensive Guide to Thumbnail Production</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-build-funny-images-kapwings-meme-studio/"><u>2024 Approved Build Funny Images Kapwing’s Meme Studio</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-for-implementing-look-up-tables-in-creative-suite/"><u>2024 Approved The Ultimate Guide for Implementing Look-Up Tables in Creative Suite</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-shot-recording-camcorders-for-the-hunt/"><u>2024 Approved Ultimate Shot-Recording Camcorders for the Hunt</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-not-storing-our-talks-heres-how-to-restore-the-function/"><u>ChatGPT Not Storing Our Talks? Here's How to Restore the Function!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oneplus-11r-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from OnePlus 11R to Outlook | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-flight-a-look-at-dji-phantom-3-professional/"><u>In 2024, Mastering Flight A Look at DJI Phantom 3 Professional</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-creme-de-la-creme-of-vr-development-talent-for-2024/"><u>The Crème De La Crème of VR Development Talent for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-comprehensive-hardware-insights/"><u>Tom's Tech Hub: Comprehensive Hardware Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-predictive-artific/"><u>Understanding Predictive Artific</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-hidden-price-of-free-phones-from-wireless-providers-insights-by-zdnet/"><u>Unveiling the Hidden Price of 'Free' Phones From Wireless Providers - Insights by ZDNet</u></a></li>
 </ul></div>
 

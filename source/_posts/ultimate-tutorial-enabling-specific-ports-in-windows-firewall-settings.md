@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Tutorial: Enabling Specific Ports in Windows Firewall Settings"
-date: 2024-10-04T16:29:12.131Z
-updated: 2024-10-09T20:30:45.723Z
+date: 2024-10-11T21:58:31.667Z
+updated: 2024-10-15T22:54:42.117Z
 tags:
   - deals
 categories:
@@ -30,28 +30,28 @@ thumbnail: https://thmb.techidaily.com/96d460ad778074a93b63a308714d13a6fb98bd643
 
  This article shows you how to open a port on a particular PC's firewall to let traffic in. If you have a router on your network (which you likely do), you will also need to allow the same traffic through that router by [forwarding the port](https://tech-revival.techidaily.com/unlock-chatgpts-potential-with-simple-plugin-signups/) there.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Open a Port on Windows 10
 
  Clicking Start, type "Windows Firewall" into the search box, and then click on "Windows Defender Firewall."
 
 ![Search for "Windows Defender" in the Start menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-search-windows-defender-firewall.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once Windows Firewall opens, click on "Advanced Settings."
 
 ![Click on "Advanced Settings" on the left-hand side.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-click-advanced-setting.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This launches Windows Defender Firewall with Advanced Security. Click the "Inbound Rules" category on the left. In the far right pane, click the "New Rule" command.
@@ -74,16 +74,16 @@ thumbnail: https://thmb.techidaily.com/96d460ad778074a93b63a308714d13a6fb98bd643
 
 ![Select the port you want to forward. Do not open "All local ports."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-specify-ports.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On the next page, click "Allow the Connection" and then click "Next."
 
 ![/wordpress/wp-content/uploads/2018/11/2018-11-10_12h22_57.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/11/2018-11-10_12h22_57.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  For this guide, we'll be using the "Allow the Connection" option, as we trust the connection for which we're creating a rule. If you want a little more piece of mind, the "Allow the connection if it is secure" rule uses [Internet Protocol security (IPsec)](https://www.howtogeek.com/211329/which-is-the-best-vpn-protocol-pptp-vs.-openvpn-vs.-l2tpipsec-vs.-sstp/) to authenticate the connection. You can try that option, but many apps do not support it. If you try the more secure option and it doesn't work, you can always come back and change to the less secure one.
 
@@ -95,26 +95,26 @@ thumbnail: https://thmb.techidaily.com/96d460ad778074a93b63a308714d13a6fb98bd643
 
 ![Choose which networks the rule applies to.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/8-choose-relevant.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the final window, give your new rule a name and an optional, more detailed description. Click "Finish" when you're done.
 
 ![Enter a rule name and description.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/9-click-finish-after-entering-description.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you want to disable the rule at any point, locate it in the list of Inbound or Outbound Rules, right-click it, and then click "Disable Rule."
 
 ![Right-click the rule to disable it without removing it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/10-disable-the-rule.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  That's all there is to it. If you need to open any other ports for a different program or with a different rule, repeat the steps above using a different set of ports to open.
@@ -134,24 +134,15 @@ thumbnail: https://thmb.techidaily.com/96d460ad778074a93b63a308714d13a6fb98bd643
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-bring-lut-effects-to-life-with-smartphones/"><u>[New] Bring LUT Effects to Life with Smartphones</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-how-to-add-music-to-a-video-on-iphone-3-free-ways-for-2024/"><u>[New] How to Add Music to a Video on iPhone [3 FREE WAYS] for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-swift-and-simple-techniques-to-download-hundreds-on-tiktok/"><u>[New] Swift and Simple Techniques to Download Hundreds on TikTok</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-30-metaverse-memes-crafting-hilarious-digital-delights/"><u>[New] Top 30 Metaverse Memes Crafting Hilarious Digital Delights</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transforming-dull-interviews-into-engaging-assessments/"><u>[New] Transforming Dull Interviews Into Engaging Assessments</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-smilesketcher-generate-memes-with-a-click/"><u>[Updated] In 2024, SmileSketcher Generate Memes with a Click</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-streaming-mastery-zoom-plus-fb-live-tactics/"><u>[Updated] Streaming Mastery ZOOM + FB Live Tactics</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-covert-guide-to-livestreaming-on-instagram-unseen/"><u>[Updated] The Covert Guide to Livestreaming on Instagram Unseen</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-essential-playbook-turning-your-phone-into-a-vr-setup/"><u>[Updated] The Essential Playbook Turning Your Phone Into a VR Setup</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-30-slept-on-speech-to-text-apps-for-macos-users/"><u>[Updated] Top 30 Slept-On Speech to Text Apps for macOS Users</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-troubleshooting-solo-earbuds/"><u>[Updated] Troubleshooting Solo Earbuds</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-techniques-for-iphone-sideways-shots/"><u>2024 Approved Innovative Techniques for iPhone Sideways Shots</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/exploring-the-elite-selection-of-advanced-smart-frames-available/"><u>Exploring the Elite Selection of Advanced Smart Frames Available</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-infinix-zero-30-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Infinix Zero 30 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-tecno-spark-10-pro-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Tecno Spark 10 Pro to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-honor-90-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Honor 90 to Another | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-guide-to-nba-streaming-top-15-essentials/"><u>In 2024, Step-by-Step Guide to NBA Streaming - Top 15 Essentials</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-realme-11-pro-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Realme 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unique-outro-music-files-at-your-fingertips-free-for-2024/"><u>Unique Outro Music Files at Your Fingertips - Free for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-perfected-audio-chain-guidebook/"><u>[New] Perfected Audio Chain Guidebook</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-artisans-path-mastery-of-background-removal-tools-in-photoshop/"><u>[New] The Artisan's Path Mastery of Background Removal Tools in Photoshop</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-time-travelers-treasure-a-look-at-goofy-movie/"><u>[New] Time Traveler’s Treasure A Look at 'Goofy Movie'</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/deciphering-rtx-what-you-need-to-know-about-next-gen-graphics-cards/"><u>Deciphering RTX: What You Need to Know About Next-Gen Graphics Cards</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>How to Detect and Stop mSpy from Spying on Your Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-strategic-use-of-outdoor-light-for-internal-comfort/"><u>In 2024, Strategic Use of Outdoor Light for Internal Comfort</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-10-innovative-gloves-for-virtual-immersion/"><u>In 2024, Top 10 Innovative Gloves for Virtual Immersion</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/key-criteria-for-optimal-ai-chatbot-subscriptions/"><u>Key Criteria for Optimal AI Chatbot Subscriptions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/passos-faceis-para-fazer-um-corte-musical-personalizado-tecnica-da-movevi/"><u>Passos Fáceis Para Fazer Um Corte Musical Personalizado: Técnica Da MoveVi</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/schritt-fur-schritt-leitfaden-zur-aktualisierung-von-windows-server-2016-auf-version-2019/"><u>Schritt-Für-Schritt-Leitfaden Zur Aktualisierung Von Windows Server 2016 Auf Version 2019</u></a></li>
 </ul></div>
 

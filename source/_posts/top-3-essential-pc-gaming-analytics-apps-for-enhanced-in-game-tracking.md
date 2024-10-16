@@ -1,7 +1,7 @@
 ---
 title: Top 3 Essential PC Gaming Analytics Apps for Enhanced In-Game Tracking
-date: 2024-10-09T01:44:51.958Z
-updated: 2024-10-10T04:46:22.653Z
+date: 2024-10-12T05:40:28.120Z
+updated: 2024-10-15T17:25:08.306Z
 tags:
   - deals
 categories:
@@ -18,10 +18,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Intel PresentMon](https://extra-approaches.techidaily.com/updated-mastering-photo-editing-removing-backdrops-with-picsart/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -45,33 +45,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![NVIDIA Overlay main menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-01.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once there, make sure to select the “Custom” statistics view, click on the "View All" button, and then simply enable the performance metrics you want to see on the statistics overlay.
 
 ![NVIDIA overlay in-game statistics options menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-03.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also configure the heads-up display by clicking the "Configure Heads Up Display" button in the "Statistics" options menu.
 
 ## ![NVIDIA Overlay Statistics options menu](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-02.png) RivaTuner Statistics Server
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The legendary [RivaTuner Statistics Server](https://www.guru3d.com/page/rivatuner-rtss-homepage/), also known as RTSS, is the oldest in-game performance monitoring tool on this list. I’ve been using RTSS for more than a decade, and in that time, I’ve had zero issues with it.
 
@@ -89,24 +75,31 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![RTSS Main Window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-04.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also use RTSS as an in-game frame limiter, which I recommend because I’ve found it works much better than frame limiters available in games or those available in NVIDIA and AMD apps.
 
  Once you finish setting up RTSS-related options, open MSI Afterburner, locate the settings icon, and click it. Once you're in the options menu, locate the “On-Screen Display” tab and assign the keys to show and hide the on-screen display, as shown below. You can also assign a key to toggle the OSD, but in my case, the OSD toggle doesn’t work no matter which key I assign.
 
 ![MSI Afterburner Main window and the On-Screen Display options menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-05.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now, click the “Monitoring” tab. In this tab, you can pick any in-game performance metric you want to see on the OSD; to enable it, click the “Show in On-Screen Display” box. You can also rename every metric by clicking the "Override Graph Name" and "Override Group Name" buttons.
 
 ![MSI Afterburner main window and the Monitoring menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-06-2.png) 
 
  After you enable the performance stats you want to see on the OSD, click the “Apply” button, and try out the OSD by entering the game and pressing the button you’ve mapped to open the RTSS performance overlay.
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Intel PresentMon
 
@@ -136,6 +129,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Intel PresentMon custom preset configuration menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-09.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Don’t forget that you can show most data as readouts—numbers, in other words—or graphs.
 
 ---
@@ -157,22 +157,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-top-apps-upgrade-your-mobile-movies-instantly/"><u>[New] Top Apps Upgrade Your Mobile Movies Instantly</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-understanding-the-essence-of-luts-for-professional-photography/"><u>[New] Understanding the Essence of LUTs for Professional Photography</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-analyzing-authenticity-point-in-visual-identity-sharing-platforms/"><u>[Updated] 2024 Approved Analyzing Authenticity’ Point in Visual Identity Sharing Platforms</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-enter-the-arena-your-guide-to-social-tiktok-streaming-for-2024/"><u>[Updated] Enter the Arena Your Guide to Social TikTok Streaming for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-harmonizing-vision-and-voice-the-ultimate-guide/"><u>[Updated] Harmonizing Vision and Voice The Ultimate Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-8-vr-gaming-accessories/"><u>2024 Approved Top 8 VR Gaming Accessories</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-secrets-top-strategies-for-advanced-srt-tweaks-on-apple/"><u>2024 Approved Unveiling Secrets Top Strategies for Advanced SRT Tweaks on Apple</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-selection-the-5-star-workout-logging-tools-of-2024/"><u>Discover the Ultimate Selection: The 5 Star Workout Logging Tools of 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/fixing-the-issue-of-xbox-one-auto-boot-a-comprehensive-guide/"><u>Fixing the Issue of Xbox One Auto-Boot: A Comprehensive Guide</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Oppo Find N3 Flip? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-motorola-moto-g-5g-2023-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Motorola Moto G 5G (2023)</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-evolution-of-engagement-key-post-vidcon-events/"><u>In 2024, Evolution of Engagement Key Post-VidCon Events</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Oppo Reno 9A? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-guide-for-elevating-videos-from-basic-sdr-to-breathtaking-hdr-splendor/"><u>In 2024, Ultimate Guide for Elevating Videos From Basic SDR to Breathtaking HDR Splendor</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-hidden-techniques-for-private-anonymous-instagram-live-participation-for-2024/"><u>The Hidden Techniques for Private, Anonymous Instagram Live Participation for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unifying-platforms-the-art-of-incorporating-linktree-in-tiktok-biographies-for-2024/"><u>Unifying Platforms The Art of Incorporating Linktree in TikTok Biographies for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-the-secrets-to-youtube-comment-insight-for-2024/"><u>Unveiling the Secrets to YouTube Comment Insight for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-syncing-sound-with-visuals-on-facebook-essential-guide/"><u>[New] In 2024, Syncing Sound with Visuals on Facebook - Essential Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamline-your-content-delivery-with-tailored-srt-upload-practices-on-media-outlets/"><u>[New] Streamline Your Content Delivery with Tailored SRT Upload Practices on Media Outlets</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-toolkit-for-elevating-your-podcast-through-seo/"><u>[New] The Ultimate Toolkit for Elevating Your Podcast Through SEO</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-maximizing-team-output-8-excellent-facebook-planners-revealed/"><u>[Updated] 2024 Approved Maximizing Team Output 8 Excellent Facebook Planners Revealed</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-6-awesome-free-webcam-games-for-computer/"><u>2024 Approved 6 Awesome Free Webcam Games for Computer</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-essential-guide-to-apples-iphone-camera-evolution-in-ios-11/"><u>2024 Approved The Essential Guide to Apple's iPhone Camera Evolution in iOS 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-pros-guide-to-clearing-backdrops-in-figma-design/"><u>2024 Approved The Pro's Guide to Clearing Backdrops in Figma Design</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-infinix-note-30withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Infinix Note 30with/without a PC</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamline-conferencing-top-tactics-using-zoom-coder/"><u>In 2024, Streamline Conferencing Top Tactics Using Zoom Coder</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-picks-8-must-have-wallpapers-for-macos-users/"><u>In 2024, Top Picks 8 Must-Have Wallpapers for MacOS Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-audio-magic-the-gradual-introduction-with-audition/"><u>In 2024, Unveiling Audio Magic The Gradual Introduction with Audition</u></a></li>
+<li><a href="https://network-issues.techidaily.com/no-more-switchable-gpu-issues-windows-11-update-complete/"><u>No More Switchable GPU Issues: Windows 11 Update Complete!</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-realme-11-proplus-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Realme 11 Pro+ ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/toshiba-bluetooth-software-download-get-the-latest-version-now/"><u>Toshiba Bluetooth Software Download - Get the Latest Version Now</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-from-still-to-motion-the-top-animated-photo-makers/"><u>Updated 2024 Approved From Still to Motion The Top Animated Photo Makers</u></a></li>
 </ul></div>
 

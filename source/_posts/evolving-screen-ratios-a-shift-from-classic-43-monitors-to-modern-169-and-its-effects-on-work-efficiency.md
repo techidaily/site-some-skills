@@ -1,7 +1,7 @@
 ---
 title: "Evolving Screen Ratios: A Shift From Classic 4:3 Monitors to Modern 16:9 and Its Effects on Work Efficiency"
-date: 2024-10-03T05:16:48.982Z
-updated: 2024-10-10T03:13:50.970Z
+date: 2024-10-12T04:51:48.966Z
+updated: 2024-10-16T00:38:46.368Z
 tags:
   - web
 categories:
@@ -27,13 +27,6 @@ thumbnail: https://thmb.techidaily.com/35eb7ec70c3d68bdd6223aba9efbf03bc030e84e6
 
 ![An old beige PC with a CRT monitor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/an-old-pc.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Santi S / Shutterstock.com
 
  One of the main reasons 4:3 monitors became popular during the '80s and '90s was because it was the [standard in television broadcasting](https://en.wikipedia.org/wiki/Standard-definition%5Ftelevision). That said, even on a practical level, this aspect ratio was great for most computing tasks at that time.
@@ -43,16 +36,10 @@ Santi S / Shutterstock.com
  However, computing habits started to change. People started to desire widescreen displays over square ones.
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  The Move to 16:9 Monitors
@@ -95,6 +82,13 @@ Jerome Thomas / How-To Geek
 
 ![The default Windows 11 taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/52881834365_511de40661_o-3.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Hannah Stryker / How-To Geek  
   
  Developers and designers created this convention back in the 4:3 monitor era. Since you had more vertical screen space, you could have OS elements on the top and bottom, and app windows could still show sufficient information. You also had modest horizontal space for some split-screen action.
@@ -103,29 +97,9 @@ Hannah Stryker / How-To Geek
 
 ![A Linux Terminal open on Ubuntu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/52849124270_37375d86a3_o-3.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Hannah Stryker / How-To Geek  
   
  Ubuntu has done this. Their desktop experience puts the Ubuntu dock on the left side of the screen. I’d argue that this is the more logical UI choice, but because of familiarity and habit, we still have the bottom placement of the taskbar in popular operating systems.
-
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Impact on Game Design
 
@@ -141,6 +115,13 @@ Hannah Stryker / How-To Geek
 
  This just goes to show some of the ways the UI of video games, and even the overall game design can be influenced by the output screen.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Ergonomic Considerations
 
  It might seem like I’m championing the boxy aspect ratios, but I do acknowledge their ergonomic shortcomings, especially when considering large-screen monitors. The human visual field is naturally wider than it is tall. We're built to [scan horizontally rather than vertically](https://www.researchgate.net/figure/The-FOV-of-human-eyes-is-approximately-135-vertically-and-200-horizontally%5Ffig3%5F263161973). This biological limitation makes widescreen monitors a natural and more ergonomic fit—we see more of what’s on-screen without moving our heads.
@@ -150,15 +131,28 @@ Hannah Stryker / How-To Geek
 ![Portrait Orientation of Samsung's Epic Odyssey Ark 55-inch Monitor](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/76f86454.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 _[Samsung](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fcomputing%2Fmonitors%2Fgaming%2F55-odyssey-ark-4k-uhd-165hz-1ms-quantum-mini-led-curved-gaming-screen-ls55bg970nnxgo%2F)_
 
  Of course, this doesn’t mean wider screens are automatically better ergonomically. The goal is to keep the screen in your field of view with limited neck movement. However, wider aspect ratios are better ergonomically with larger screens and the typically close viewing distance standard with PC monitors.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Future Monitors Are Getting Even Wider
 
@@ -187,19 +181,20 @@ HP
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-exclusive-list-of-leading-free-video-editing-programs-for-2024/"><u>[New] Exclusive List of Leading Free Video Editing Programs for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-essential-hash-monitors-for-facebook-twitter-instagram/"><u>[New] In 2024, Essential Hash Monitors for Facebook, Twitter, Instagram</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-artists-guide-to-vivid-vsco-imagery/"><u>[New] The Artist's Guide to Vivid VSCO Imagery</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-top-10-exclusive-iphone-photo-editors-enhance-selfies-without-spending/"><u>[New] Top 10 Exclusive iPhone Photo Editors Enhance Selfies Without Spending</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-visual-ventures-free-themes-to-elevate-your-channel/"><u>[New] Visual Ventures FREE Themes to Elevate Your Channel</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-iphones-prime-camera-utilities/"><u>[Updated] IPhone's Prime Camera Utilities</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-newbies-guide-to-understanding-core-filming-techniques/"><u>[Updated] The Newbie's Guide to Understanding Core Filming Techniques</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-list-empowering-cinematic-experiences/"><u>[Updated] The Ultimate List Empowering Cinematic Experiences</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-streamline-your-gaming-experience-with-top-tools/"><u>2024 Approved Streamline Your Gaming Experience with Top Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-pros-guide-to-best-ever-360-degree-cams-2023/"><u>2024 Approved The Pro’s Guide to Best-Ever 360-Degree Cams, 2023</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unraveling-the-secrets-to-effortlessly-record-seascapes/"><u>2024 Approved Unraveling the Secrets to Effortlessly Record Seascapes</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-motorola-moto-g04-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Motorola Moto G04 Phones with/without a PC</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transition-to-hdr-a-step-forward-in-high-quality-video/"><u>In 2024, Transition to HDR A Step Forward in High-Quality Video</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-the-mystery-why-cant-i-see-my-phonebook-on-my-iphone/"><u>Solving the Mystery: Why Can't I See My Phonebook on My iPhone?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-mastery-in-saving-lesson-content/"><u>[New] In 2024, Mastery in Saving Lesson Content</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-the-ultimate-guide-to-best-in-class-racing-games/"><u>[New] In 2024, The Ultimate Guide to Best-in-Class Racing Games</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-who-likes-what-deciphering-instagram-stats-and-screenshots/"><u>[New] In 2024, Who Likes What? Deciphering Instagram Stats & Screenshots</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamline-your-footage-iphones-shortening-methods/"><u>[New] Streamline Your Footage IPhone's Shortening Methods</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-tumblr-image-format-specifications/"><u>[Updated] 2024 Approved Tumblr Image Format Specifications</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-prime-free-enhancement-tool-for-pics-onlineapp/"><u>[Updated] Prime Free Enhancement Tool for Pics Online/App</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-future-of-gaming-at-your-fingertips-top-10-vr-headsets-for-pc/"><u>[Updated] The Future of Gaming at Your Fingertips Top 10 VR Headsets for PC</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-synergy-of-style-and-functionality-in-ae-plugins/"><u>2024 Approved Synergy of Style and Functionality in AE Plugins</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tick-tock-tally-calculating-pewdiepies-cash/"><u>2024 Approved Tick-Tock Tally Calculating PewDiePie’s Cash</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-hidden-treasure-of-royalty-free-graphics/"><u>2024 Approved Unveiling the Hidden Treasure of Royalty-Free Graphics</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-xiaomi-redmi-12-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Xiaomi Redmi 12 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-the-full-potential-of-vlc-media-player-on-mac/"><u>In 2024, Unlocking the Full Potential of VLC Media Player on Mac</u></a></li>
+<li><a href="https://network-issues.techidaily.com/methods-to-stop-lenovo-screen-blinks/"><u>Methods to Stop Lenovo Screen Blinks</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/securing-your-scene-minimize-camera-jostle/"><u>Securing Your Scene Minimize Camera Jostle</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-6-strategies-for-selecting-an-ideal-selfie-stick/"><u>Top 6 Strategies for Selecting an Ideal Selfie Stick</u></a></li>
 </ul></div>
 

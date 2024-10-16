@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Personalizing Your Windows 11 Taskbar"
-date: 2024-10-05T17:03:23.889Z
-updated: 2024-10-09T17:31:40.297Z
+date: 2024-10-09T01:01:32.078Z
+updated: 2024-10-16T08:48:07.823Z
 tags:
   - deals
 categories:
@@ -44,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
 ![Right-click the icon of an open app and select "Pin to Taskbar."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-pin-app-ot-taskbar.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The second way to pin an app to the taskbar does not require the app to be running first. Find the app on the Start menu, right-click the app, point to "More," and then choose the "Pin to taskbar" option you find there. You could also drag the app icon to the taskbar if you prefer doing it that way.
 
 ![Right-click an app, go to "More," then select "Pin to Taskbar."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-select-app-more-pin.png) 
@@ -74,20 +81,14 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
 ![Right-click the Taskbar, mouse over "Search," and select "Hidden" or "Show Search Icon."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-hide-search-bar.png) 
 
- Choose the "Hidden" option to remove both the search box and icon or choose "Show Search Icon" to have just the icon on the taskbar.
-
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Choose the "Hidden" option to remove both the search box and icon or choose "Show Search Icon" to have just the icon on the taskbar.
 
 ##  Remove the Task View Button
 
@@ -123,22 +124,22 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
 ![Click "Select Which Icons Appear on the Taskbar."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/8-taskbar-settings.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you want to remove the hidden area and see all the icons all the time, turn on the "Always show all icons in the notification area" option. If you leave that setting off, you can also run through the list and turn individual apps on or off. Just note that turning an app off here doesn't remove it from the Notification Area altogether. When an app is turned off, it shows up in the hidden area. When it's on, it shows up in the main Notification Area.
 
 ![A list of toggleable icons that can appear on your Taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/9-taskbar-icons.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Move the Taskbar to a Different Edge of the Screen
@@ -148,10 +149,10 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 ![Select "Lock All Taskbars" or "Lock the Taskbar."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/14-lock-all-taskbars.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then, you can grab the taskbar in an empty area and drag it to any edge of your display.
@@ -162,25 +163,18 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
 ![Click the drop-down menu to change the Taskbar location.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/16-taskbar-location.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Change the Size of the Taskbar
 
  You can also resize the taskbar to get a little additional space. This can be particularly handy if you moved it to the right or left edge of your screen, but it's also good if you just want space for loads of icons. Right-click the taskbar and turn off the "Lock the taskbar" option. Then place your mouse at the top edge of the taskbar and drag to resize it just like you would with a window. You can increase the size of the taskbar up to about half your screen size.
 
 ![Click the Taskbar's edge and drag to resize it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/17-huge-taskbar.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Use Small Icons to Fit More on the Taskbar
 
@@ -210,6 +204,13 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
 ![Select "Personalization."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/21-perosnalization.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the Personalization window, scroll down until you see the colors.
 
  You'll see two options for controlling the taskbar — along with the Action Center and Start menu. Use the "Transparency Effects" toggle to choose whether those items should be transparent or opaque. When the "Start, taskbar, and action center" option is turned off, those items use the default black color. When you turn that option on, those items use the color you've picked in the color chooser at the top or, if you have the "Automatically pick an accent color from my background" option turned on, the color Windows has chosen.
@@ -232,13 +233,6 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
 ![Right-click the taskbar and select "Toolbars."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/24-toolbars-w10.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  There are three toolbars built in:
 
 * **Address**. The address toolbar adds a simple address box to your taskbar. Type an address in it just like you would in your browser and the resulting page will open in your default browser.
@@ -256,16 +250,10 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 ![The options for controlling the Taskbar on multiple displays.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/25-multiple-displays.png) 
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you leave the "Show taskbar on all displays" option turned off — which is the default setting — then you'll see a single taskbar on your primary monitor only. All open windows for apps are shown on that taskbar, regardless of which display the windows are open on. Turn that option on to have a taskbar shown on all your displays and also open up the other options below.
@@ -297,19 +285,22 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-all-inclusive-list-of-prime-no-money-streaming-applications-and-software/"><u>[Updated] All-Inclusive List of Prime No-Money Streaming Applications & Software</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-seamlessly-navigate-to-youtube-video-comments/"><u>[Updated] Seamlessly Navigate to YouTube Video Comments</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-submerge-mastery-top-tips-for-capturing-great-water-videos/"><u>[Updated] Submerge Mastery Top Tips for Capturing Great Water Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-win10-strategy-for-successful-zoom-sessions/"><u>2024 Approved The Ultimate Win10 Strategy for Successful Zoom Sessions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/comprehensive-analysis-and-evaluation-of-wd-sn740-oem-class-m2-2280-nvme-ssd-now-with-a-capacity-upgrade-to-2tb/"><u>Comprehensive Analysis & Evaluation of WD SN740 OEM-Class M.2 2280 NVMe SSD, Now with a Capacity Upgrade to 2TB</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-nokia-c300-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Nokia C300 Get Deleted Pictures Back with Ease and Safety?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unleash-your-creativity-effective-techniques-for-crafting-podcast-scripts/"><u>In 2024, Unleash Your Creativity Effective Techniques for Crafting Podcast Scripts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlimited-chuckles-craftsmanship-no-monetary-requirement/"><u>In 2024, Unlimited Chuckles Craftsmanship No Monetary Requirement</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-the-power-down-comprehensive-steps-for-resetting-every-version-of-an-ipad/"><u>Mastering the Power Down: Comprehensive Steps for Resetting Every Version of an iPad</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/path-to-professionalism-morphvox-transformation-guide/"><u>Path to Professionalism MorphVOX Transformation Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/synthesis-of-song-elements-the-crossfade-approach-for-2024/"><u>Synthesis of Song Elements The Crossfade Approach for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-entrepreneurial-journey-of-launching-a-review-channel-for-clothing-for-2024/"><u>The Entrepreneurial Journey of Launching a Review Channel for Clothing for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/the-ultimate-path-to-picsart-proficiency/"><u>The Ultimate Path to PicsArt Proficiency</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unsticking-ios-updates-made-easy-discover-9-problem-solving-techniques/"><u>Unsticking iOS Updates Made Easy: Discover 9 Problem-Solving Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-complete-guide-to-producing-high-quality-gopro-time-lapse/"><u>[New] The Complete Guide to Producing High-Quality GoPro Time-Lapse</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-live-streaming-selection-guide/"><u>[New] Ultimate Live Streaming Selection Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-navigating-the-nuances-zooming-in-on-roblox-for-2024/"><u>[Updated] Navigating the Nuances Zooming In on Roblox for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-art-of-auditory-identity-crafting-your-own-ringtones-and-sounds-for-android/"><u>[Updated] The Art of Auditory Identity Crafting Your Own Ringtones & Sounds for Android</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-lg-screen-chronicles-a-complete-review-of-4k-quality/"><u>[Updated] The Ultimate LG Screen Chronicles A Complete Review of 4K Quality</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-annual-compilation-of-premium-free-lut-choices/"><u>2024 Approved Annual Compilation of Premium Free LUT Choices</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-sound-capture-device-audit/"><u>2024 Approved Sound Capture Device Audit</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-sleep-inducing-series-analyzing-video-bedtime-stories/"><u>2024 Approved The Sleep-Inducing Series Analyzing Video Bedtime Stories</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-using-luts-in-spark-ar-and-download-free-luts/"><u>2024 Approved Using LUTs in Spark AR & Download Free LUTs</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/get-chatty-with-these-17-streetwise-spanish-terms/"><u>Get Chatty with These 17 Streetwise Spanish Terms</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/isowmv/"><u>ISOファイルをWMVに自動変換:パワフル無料ツールセレクション</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-top-10-real-time-audio-amplifiers-for-windows-os/"><u>New In 2024, Top 10 Real-Time Audio Amplifiers for Windows OS</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-ultimate-list-of-the-most-accessible-no-cost-daw-programs-for-emerging-producers-for-2024/"><u>New The Ultimate List of the Most Accessible, No-Cost DAW Programs for Emerging Producers for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-0x0000011b-errors-operation-issue-resolved/"><u>Solving 0X0000011B Errors: Operation Issue Resolved</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/stream-the-best-games-list-9/"><u>Stream the Best Games List #9</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-vlogging-techniques-for-stellar-gopro-content-for-2024/"><u>Top Vlogging Techniques for Stellar GoPro Content for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/total-physical-action-scrutiny-for-2024/"><u>Total Physical Action Scrutiny for 2024</u></a></li>
 </ul></div>
 

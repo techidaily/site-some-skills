@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Accessing Your Recent Copied Items in macOS"
-date: 2024-10-06T03:29:21.350Z
-updated: 2024-10-09T18:19:52.711Z
+date: 2024-10-10T21:12:28.209Z
+updated: 2024-10-16T10:57:54.338Z
 tags:
   - desktop
 categories:
@@ -19,24 +19,38 @@ thumbnail: https://thmb.techidaily.com/2dd2e24a58c5be887d5c8f88ca29fd663a35485ed
 
  If you do a lot of copying and pasting between documents on your Mac, you might find that only being able to work with one item at a time is a real limitation. Fortunately, there are apps you can use that let you access your entire clipboard history.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Access the Clipboard in Finder
 
  You can view the contents of your clipboard in macOS at any time. Just open the Finder using the icon in your Dock, or by clicking on your desktop, then go to Edit > Show Clipboard.
 
 ![Show clipboard in Finder in macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/show-clipboard-in-finder-in-macos.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can't interact with the clipboard in any way, and it mostly shows text. If you copy a file, it will show the filename, although if you copy something like a part of an image (but not the image file itself), it will show you that instead.
 
 ![The Finder clipboard view in macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/the-finder-clipboard-view-in-macos.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The clipboard viewer is a [useful Finder feature](https://remote-screen-capture.techidaily.com/in-2024-low-cost-android-calls-highest-ranking-options/) that can be handy if you simply need to check what's on the clipboard right now, especially if you do a lot of [copying and pasting on your Mac](https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-itel-s23plus-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/). But it's pretty limited otherwise.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to See Your Mac Clipboard History
 
@@ -48,25 +62,11 @@ thumbnail: https://thmb.techidaily.com/2dd2e24a58c5be887d5c8f88ca29fd663a35485ed
 
 ![The Maccy website homepage](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/the-maccy-home-page.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  By default, the app saves the last 200 items copied to your clipboard for easy access, and you adjust that up or down to suit your needs. It doesn't just handle text, but the minimalist interface means that that's what it's best suited for. You access the contents of your clipboard via a drop-down list on your menu bar.
 
  To get the best out of Maccy, head to Preferences > General and enable the "Launch at login" and "Paste automatically" options, and you'll need to [grant the app Accessibility access](https://tech-haven.techidaily.com/navigating-local-language-models-advantages-and-disadvantages-explained/) when prompted.
 
 ![Maccy preferences](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/maccy-preferences.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can now use the app as a full clipboard replacement. Just click the icon in the menu bar to see a list of all the items you've recently copied. There are keyboard shortcuts assigned to the latest nine items on the list; otherwise, just find the item in the list and click it to paste it into a document. There's also a search box to help you find what you're looking for.
 
@@ -80,13 +80,6 @@ thumbnail: https://thmb.techidaily.com/2dd2e24a58c5be887d5c8f88ca29fd663a35485ed
 
 ![Pasty interface visible at the top of a macOS desktop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/pasty-places-a-bar-across-the-top-of-your-screen-when-activated.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Pasty provides a straightforward onboarding process when you first launch it that helps to get the app set up as you need it.
 
  Like Maccy, it works primarily via an icon in the menu bar, but when you click it, it opens a panel across the top of your screen showing you large thumbnails of all your copied content.
@@ -95,6 +88,13 @@ thumbnail: https://thmb.techidaily.com/2dd2e24a58c5be887d5c8f88ca29fd663a35485ed
 
 ![The Pasty clipboard history viewer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/the-pasty-clipboard-history-viewer.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  What makes Pasty more useful, though, is its support for "Spaces." These are essentially folders in which you can keep clipboard items and are perfect if you're a power user who needs to stay organized.
 
  While everything you copy gets listed under History by default, you can create Spaces for projects you're working on, different types of content, and so on, to make them easier to find when you need them. You can create up to three Spaces in the free version (and an unlimited number if you pay), and then just drag and drop items from your clipboard into them.
@@ -102,10 +102,10 @@ thumbnail: https://thmb.techidaily.com/2dd2e24a58c5be887d5c8f88ca29fd663a35485ed
 ![Assigning content from the clipboard into a Space on Pasty](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/drag-and-drop-into-spaces-in-pasty.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Pasty also has some useful privacy features, including the ability to pause the app for a set time, to exclude specific apps from having content copied to the clipboard, and to automatically clear the clipboard after anywhere from an hour to a year.
@@ -129,16 +129,18 @@ thumbnail: https://thmb.techidaily.com/2dd2e24a58c5be887d5c8f88ca29fd663a35485ed
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-cinematography-simplified-fades-made-easy/"><u>[New] 2024 Approved Cinematography Simplified Fades Made Easy</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-giggle-generation-top-ten-templates-for-viral-effect/"><u>[New] Giggle Generation Top Ten Templates for Viral Effect</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-gradual-sound-escalation-auditions-guide-to-fades/"><u>[Updated] The Gradual Sound Escalation Audition’s Guide to Fades</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-windows-mobile-video-playback-guide/"><u>[Updated] The Ultimate Windows Mobile Video Playback Guide</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-6s-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 6s</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-i-add-my-signature-to-xlb-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How do i add my signature to .xlb files</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-syncing-with-symphonies-music-on-whatsapp-status/"><u>In 2024, Syncing with Symphonies Music on WhatsApp Status</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-gopro-studio-ultimate-video-edits-step-by-step/"><u>Mastering GoPro Studio Ultimate Video Edits Step-by-Step</u></a></li>
-<li><a href="https://driver-install.techidaily.com/release-notice-updated-drivers-from-amd-graphics/"><u>Release Notice: Updated Drivers From AMD Graphics</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/solve-hdmi-sound-problems-when-connecting-laptop-to-tvmonitor/"><u>Solve HDMI Sound Problems When Connecting Laptop to TV/Monitor</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transform-canon-photos-gratuitous-fundamentals-plus-optional-lut-expansion-for-2024/"><u>Transform Canon Photos Gratuitous Fundamentals + Optional LUT Expansion for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-melody-meets-discovering-crossfade-magic/"><u>[New] The Melody Meets Discovering Crossfade Magic</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-list-10-best-date-counting-clocks-androidios/"><u>[New] The Ultimate List 10 Best Date-Counting Clocks Android/iOS</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-blurring-the-focus-bokeh-wonders-in-stories/"><u>[Updated] In 2024, Blurring the Focus Bokeh Wonders in Stories</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-step-by-step-guide-to-phantoms-slow-mo-magic/"><u>[Updated] Step by Step Guide to Phantom's Slow Mo Magic</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-turbulence-tamer-for-mobile-cinematography/"><u>[Updated] Turbulence Tamer for Mobile Cinematography</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-best-backgrounds-for-live-streaming-2023/"><u>2024 Approved Best Backgrounds for Live Streaming 2023</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-subscribers-manual-engaging-on-social-media-platforms/"><u>2024 Approved The Subscriber's Manual Engaging on Social Media Platforms</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-xiaomi-redmi-note-12-pro-4g-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Xiaomi Redmi Note 12 Pro 4G by Name | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-nintendo-switchs-ultimate-hd-gameplay/"><u>In 2024, Nintendo Switch's Ultimate HD Gameplay</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-facial-movements-using-blur-effects-in-picsart/"><u>In 2024, The Art of Facial Movements Using Blur Effects in Picsart</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/learn-ipads-screen-sharing-basics/"><u>Learn iPad's Screen Sharing Basics</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-essential-blueprint-for-crafting-compelling-reddit-posts-for-2024/"><u>The Essential Blueprint for Crafting Compelling Reddit Posts for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Vivo Y100? | Dr.fone</u></a></li>
 </ul></div>
 

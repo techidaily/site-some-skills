@@ -1,7 +1,7 @@
 ---
 title: Complete Reinstallation Tutorial for NVIDIA & AMD Graphics Drivers From Scratch
-date: 2024-10-02T19:33:14.223Z
-updated: 2024-10-10T01:21:51.809Z
+date: 2024-10-13T12:45:50.767Z
+updated: 2024-10-16T12:29:17.771Z
 tags:
   - deals
 categories:
@@ -30,13 +30,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Additionally, a fresh installation is recommended when you replace your graphics card, regardless of whether it's the same brand as your old one. Removing all traces of your old GPU is always a good idea to prevent compatibility issues.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  What to Do Before You Clean Install Your Graphics Driver
 
  Before you uninstall your graphics driver, it's best to download the latest version so it's ready to install after. Depending on [what GPU you are using](https://snapchat-videos.techidaily.com/updated-uncovering-snapchats-hidden-symbolism/), grab the latest driver from [Nvidia](https://www.nvidia.com/en-us/geforce/drivers/) or [AMD](https://www.amd.com/en/support).
@@ -54,10 +47,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Device Installation settings dialog with the No option selected in Windows 11](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/disable-automatic-device-driver-download-and-updates.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you've completed this guide and freshly installed your GPU driver, repeat these instructions to re-enable automatic driver updates.
@@ -86,6 +79,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Running AMD cleanup utility Prompt in Safe Mode](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/running-amd-cleanup-utility-in-safe-mode-3.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once the driver is removed, click "Finish," then click "Yes" to restart your computer.
 
 ###  2\. Using Nvidia's Driver Installer
@@ -96,6 +96,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Nvidia Geforce Experience Game Ready Driver package extraction prompt in Windows 11](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/extract-the-nvidia-geforce-experience-game-ready-driver-package-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Select "Nvidia Graphics Driver and GeForce Experience" to install both the necessary driver and the GeForce Experience client. Alternatively, choose "Nvidia Graphics Driver," if you only need to install the driver. Then click "Agree And Continue."
 
 ![Nvidia Graphics Driver Intaller prompt with Nvidia Graphics Driver and GeForce Experience Option Selected](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/nvidia-graphics-driver-intaller-prompt-2.jpg) 
@@ -104,22 +111,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Nvidia Graphics Driver installer prompt with the Custom Option selected](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/nvidia-graphics-driver-installer-choose-custom-installation-option-2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Under Custom installation options, select "Perform a clean installation", then click "Next" to continue.
 
 ![Nvidia driver installer perform a clean installation option selected](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/nvidia-driver-installer-perform-a-clean-installation-option-selected-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The driver utility now removes the previous version of the software and its components, and prepares your computer for a restart. Once done, click "Restart Now."
@@ -129,6 +135,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Once restarted, the Nvidia installer resumes installing the drivers. When the installer has finished, click "Close."
 
  Since the clean installation resets your profile and any custom configurations, sign in to the GeForce Experience client and reconfigure your necessary settings.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  3\. Using Display Driver Uninstaller (DDU)
 
@@ -145,10 +158,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![DDU options prompt in Safe Mode](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/display-driver-uninstaller-options-dialog-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In the right pane, click the "Select device type" dropdown, and choose "GPU."
@@ -156,26 +169,26 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Display Driver Uninstaller prompt with the Select device type option selected](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/ddu-select-device-type-option-2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then, click the "Select device" dropdown and select your GPU manufacturer.
 
 ![Display Driver Uninstaller prompt with GPU options visible](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/ddu-select-device-option-2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To begin uninstallation, click "Clean and restart (highly recommended)." DDU will then remove all traces of previous graphics drivers, including files, folders, and registry keys, and restart your computer.
 
 ![Display Driver Uninstaller prompt with Clean and Restart Option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/ddu-clean-and-restart-option-2.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After the restart, your computer may fall back to the basic graphics driver for the graphics chip, to ensure your display still renders an image.
 
@@ -194,13 +207,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Here, click the "Install Type" dropdown and choose from "Full Install," "Minimal Install," or "Driver Only." Then, click "Install" to initiate the installation process.
 
  After the driver is installed, restart your computer to complete the process.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Nvidia Driver
 
@@ -237,17 +243,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-full-review-of-picsart-app-a-step-by-step-guide/"><u>[New] Full Review of PicsArt App - A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-subtitle-making-from-compressed-file-extraction/"><u>[New] Subtitle Making From Compressed File Extraction</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-editors-alchemy-transforming-raw-to-radiant-pictures/"><u>[Updated] The Editor's Alchemy Transforming Raw to Radiant Pictures</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-adjustment-elevating-your-photography/"><u>2024 Approved The Art of Adjustment Elevating Your Photography</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-infinix-note-30-pro-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Infinix Note 30 Pro to Roku | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/advanced-gaming-rigs-equipped-for-hidden-connector-boards-supporting-6500dx-2500dc-and-asus-zenbtr-with-corsairs-latest-case-models/"><u>Advanced Gaming Rigs Equipped for Hidden Connector Boards: Supporting 6500D/X, 2500D/C and Asus ZenBTR with Corsair's Latest Case Models</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/essential-methods-for-documenting-overwatch-games/"><u>Essential Methods for Documenting Overwatch Games</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-xiaomi-redmi-k70-pro-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-a-comprehensive-review-of-the-latest-picsart-updates/"><u>In 2024, A Comprehensive Review of the Latest PicsArt Updates</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-samsung-gear-360-replacements-latest-innovations-in-camera-tech/"><u>In 2024, Samsung Gear 360 Replacements Latest Innovations in Camera Tech</u></a></li>
-<li><a href="https://some-skills.techidaily.com/sustaining-wellbeing-in-virtual-reality-for-2024/"><u>Sustaining Wellbeing in Virtual Reality for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-complete-breakdown-audifree-audit-tool-performance-for-2024/"><u>The Complete Breakdown AudiFree Audit Tool Performance for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-10-youtube-tips-for-teachers/"><u>[New] 2024 Approved 10 YouTube Tips for Teachers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-audio-archiving-pc-noises-and-dialogue-storage/"><u>[New] In 2024, Audio Archiving PC Noises & Dialogue Storage</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-master-your-digital-creations-selecting-top-7-nft-generating-platforms/"><u>[New] In 2024, Master Your Digital Creations - Selecting Top 7 NFT-Generating Platforms</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-seeking-speed-identifying-the-top-5-racer-games/"><u>[New] Seeking Speed Identifying the Top 5 Racer Games</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-source-unlimited-stock-media-from-top-tier-4-youtube-channels/"><u>[Updated] 2024 Approved Source Unlimited Stock Media From Top-Tier 4 YouTube Channels</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-fading-sound-tracks-with-logic-pro/"><u>[Updated] Fading Sound Tracks with Logic Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-definitive-list-of-premium-vector-sites/"><u>[Updated] The Definitive List of Premium Vector Sites</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ideal-beginning-enhancer-for-your-devices/"><u>[Updated] The Ideal Beginning Enhancer for Your Devices</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-ultimate-battle-for-ephemeral-content-youtube-shorts-versus-tiktok/"><u>[Updated] The Ultimate Battle for Ephemeral Content YouTube Shorts Versus TikTok</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transforming-brands-with-language-mastery-techniques/"><u>[Updated] Transforming Brands with Language Mastery Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleashing-game-potential-custom-audio-in-ps5ps4/"><u>2024 Approved Unleashing Game Potential Custom Audio in PS5/PS4</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-realme-c67-5g-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Realme C67 5G</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-driver-updates-and-downloads-for-your-hp-laptop-on-windows-pcs/"><u>Easy Driver Updates and Downloads for Your HP Laptop on Windows PCs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streaming-software-showdown-the-verdict-on-wirecast-vs-obs/"><u>In 2024, Streaming Software Showdown The Verdict on Wirecast Vs. OBS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-animators-guide-to-elite-3d-design-and-rendering-applications/"><u>In 2024, The Animator's Guide to Elite 3D Design and Rendering Applications</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-most-extensive-selection-of-free-illustrator-portals/"><u>In 2024, The Most Extensive Selection of Free Illustrator Portals</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/infinix-hot-40i-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Hot 40i Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-blueprint-for-successful-individual-podcasts-for-2024/"><u>The Blueprint for Successful Individual Podcasts for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-secrets-of-premiere-pros-full-screen-magic-for-2024/"><u>Unveiling the Secrets of Premiere Pro's Full Screen Magic for 2024</u></a></li>
 </ul></div>
 

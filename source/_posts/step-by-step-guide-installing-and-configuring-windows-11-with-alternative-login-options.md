@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Installing and Configuring Windows 11 with Alternative Login Options"
-date: 2024-10-04T16:07:30.110Z
-updated: 2024-10-10T02:02:40.792Z
+date: 2024-10-09T00:36:44.497Z
+updated: 2024-10-16T11:15:22.955Z
 tags:
   - desktop
 categories:
@@ -31,10 +31,10 @@ thumbnail: https://thmb.techidaily.com/f78d1d150df9704e5a6635f2d8f1d9b65ffaf1875
 ![The &quot;No Internet&quot; error message the Windows 11 installer gives you.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/Error-disconnecting.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  There are a few tricks to try, but Windows is wise to many of these. The first involves cutting off your internet connection when you're prompted to add a Microsoft account. This involves either pulling out your Ethernet cable (if you use one) or hitting Shift+F10 and typing **ipconfig /release** followed by Enter. Hit the "back" arrow to go back one step and create a local username and password then complete the setup as normal.
@@ -45,11 +45,31 @@ thumbnail: https://thmb.techidaily.com/f78d1d150df9704e5a6635f2d8f1d9b65ffaf1875
 
  Mac users who are [setting up Windows 11 inside of Parallels Desktop](https://some-knowledge.techidaily.com/in-2024-fast-forward-features-unveiled-the-editors-guidebook/) can skip the Microsoft account linking process. The virtualization software allows you to set up Windows "hands-free" and leaves you with a local account.
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Bypass Windows 11 Microsoft Account Requirement Using Command Prompt
 
  To bypass the Microsoft Account requirement, proceed with the first few steps of the installation process normally until you reach this screen:
 
 ![The Windows 11 installer prompting you to log in.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/microsoft-login-screen.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once you're there, press Shift + F10 to open up a Command Prompt Window and type:
 
@@ -64,19 +84,6 @@ oobe\bypassnro
 Close 
 
  Click "Continue with limited setup" on the next page if it appears, and then you'll be able to create a local account with a password and three security questions.
-
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Install Windows 11 Without a Microsoft Account Using Rufus
 
@@ -97,10 +104,10 @@ Close
 ![Downloading the latest Windows 11 ISO for all versions of Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/download-the-windows-11-iso.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Using Rufus to create a bootable USB drive will completely erase the contents of that drive. Make sure you save any important files on it before you proceed.
@@ -125,13 +132,6 @@ Close
 
  It is smooth sailing after you change the boot order. Windows 11 will walk you through the rest of the installation process.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Create a Local Account on Windows 11
 
  You can create additional Windows accounts that aren't linked to existing Microsoft Accounts, though it's easy to miss the cues. To do this, launch the Settings app and then navigate to Accounts > Other users. Click on the "Add Account" button to create another user account.
@@ -147,6 +147,13 @@ Close
 Close 
 
  The account will now be added to your computer. Click on Start followed by your username then select "Sign out" to log in to the account.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Convert an Existing Microsoft Account to a Local Account
 
@@ -165,19 +172,6 @@ Close
  You should probably restart your PC even after you sign out just to fix any weird bugs that crop up. You also need to be careful now. Your account is a local-only account, which means that Microsoft won't be able to help you regain access if you forget something.
 
  Additionally, if you attempt to encrypt your drive on a local account, you'll be told you need to sign in to a Microsoft account to finish the process. That is not accurate — your drive will be encrypted even if you do not sign in, so be sure to make a copy of your recovery key.
-
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Remove a Microsoft Account From Windows 11
 
@@ -214,24 +208,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-best-applications-for-crafting-dynamic-video-entrances/"><u>[New] 2024 Approved Best Applications for Crafting Dynamic Video Entrances</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-gag-galore-a-treasury-of-no-cost-memes/"><u>[New] Gag Galore A Treasury of No-Cost Memes</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-using-adobe-and-finding-substitutes/"><u>[New] The Ultimate Guide to Using Adobe and Finding Substitutes</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-tops-in-audio-modification-software-echos-successor/"><u>[New] Tops in Audio Modification Software Echo's Successor</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-8-tips-on-how-to-vlog-confidently-like-popular-youtubers/"><u>[Updated] 2024 Approved 8 Tips on How to Vlog Confidently Like Popular YouTubers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-easy-and-fast-youtubes-best-subtitle-getters/"><u>[Updated] In 2024, Free, Easy and Fast YouTube's Best Subtitle Getters</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-strategies-to-find-the-perfect-power-source-for-drones/"><u>[Updated] Strategies to Find the Perfect Power Source for Drones</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-tiktok-to-tokens-financial-figures-of-pewdiepie/"><u>[Updated] TikTok to Tokens Financial Figures of PewDiePie</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-transferring-media-pc-files-to-your-ios-device/"><u>[Updated] Transferring Media PC Files To Your iOS Device</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-uncover-the-power-of-sound-no-cost-voice-effects-at-your-fingertips/"><u>[Updated] Uncover the Power of Sound No-Cost Voice Effects at Your Fingertips</u></a></li>
-<li><a href="https://facebook.techidaily.com/12-proven-methods-to-skyrocket-engagement-in-social-networking/"><u>12 Proven Methods to Skyrocket Engagement in Social Networking</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-prolonging-snapstreak-excellence-top-10-advice/"><u>2024 Approved Prolonging Snapstreak Excellence Top 10 Advice</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-veritable-value-of-voice-podcasters-earnings-analysis/"><u>2024 Approved The Veritable Value of Voice Podcasters’ Earnings Analysis</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-free-secure-vlc-player-access-on-apple-devices/"><u>2024 Approved Unlocking Free, Secure VLC Player Access on Apple Devices</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-realme-gt-3-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Realme GT 3 to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-profiting-from-gaming-channels/"><u>In 2024, Profiting From Gaming Channels</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-crafting-bespo-pointed-video-closures-on-the-dashboard/"><u>In 2024, Step-by-Step Crafting Bespo Pointed Video Closures on the Dashboard</u></a></li>
-<li><a href="https://blog-min.techidaily.com/schnell-handeln-rabattcodes-und-gutscheine-fur-winx-dvd-ripper-platin-erhaltlich/"><u>Schnell Handeln! Rabattcodes Und Gutscheine Für WinX DVD Ripper Platin Erhältlich</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-instructors-blueprint-for-video-assisted-learning-for-2024/"><u>The Instructor's Blueprint for Video-Assisted Learning for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-mediasphere-app-user-experience-report/"><u>[New] MediaSphere App User Experience Report</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-premier-sky-depot-for-enterprise-files/"><u>[New] Premier Sky Depot for Enterprise Files</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-complete-rundown-how-google-podcast-works/"><u>[Updated] Complete Rundown How Google Podcast Works</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-expert-tips-for-srt-to-xml-ssa-and-ttml-transformations/"><u>[Updated] In 2024, Expert Tips for SRT-to-XML, SSA, and TTML Transformations</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-best-action-hats-motorcycle-cameras-reviewed-and-ranked/"><u>[Updated] The Best Action Hats Motorcycle Cameras Reviewed and Ranked</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-10-online-television-platforms-examined/"><u>[Updated] Top 10 Online Television Platforms Examined</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tailoring-your-video-sessions-with-zoom-on-youtube-platform/"><u>2024 Approved Tailoring Your Video Sessions with Zoom on YouTube Platform</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-time-honored-techniques-incorinastrating-classic-vhs-into-modern-cinematics/"><u>2024 Approved Time-Honored Techniques Incorinastrating Classic VHS Into Modern Cinematics</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-motorola-edge-40-pro-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Motorola Edge 40 Pro to Protect Your Individual Information</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-motorola-moto-g24-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Motorola Moto G24 to iPad | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-quick-fixes-the-hands-on-guide-to-generating-timely-captions-on-fb-media/"><u>In 2024, Quick Fixes The Hands-On Guide to Generating Timely Captions on FB Media</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-elite-circle-of-digital-titling-top-5-revealed/"><u>In 2024, The Elite Circle of Digital Titling Top 5 Revealed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-vampire-vignette-virtuoso/"><u>In 2024, Vampire Vignette Virtuoso</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-vivo-y55s-5g-2023-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Vivo Y55s 5G (2023)? Fixed | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/polished-portraits-how-to-use-iphone-for-crisp-cuts-for-2024/"><u>Polished Portraits How to Use iPhone for Crisp Cuts for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-perfection-in-progress-edits-after-uploading-on-youtube/"><u>Video Perfection in Progress Edits After Uploading on YouTube</u></a></li>
 </ul></div>
 

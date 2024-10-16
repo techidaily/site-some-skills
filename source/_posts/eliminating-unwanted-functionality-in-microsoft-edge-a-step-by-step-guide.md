@@ -1,7 +1,7 @@
 ---
 title: "Eliminating Unwanted Functionality in Microsoft Edge: A Step-by-Step Guide"
-date: 2024-10-03T21:51:27.804Z
-updated: 2024-10-09T16:33:58.403Z
+date: 2024-10-09T12:40:49.647Z
+updated: 2024-10-16T01:51:59.636Z
 tags:
   - deals
 categories:
@@ -19,10 +19,10 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
 * [Adjust Edge Web Services](https://buynow-marvelous.techidaily.com/navigating-the-pre-owned-ipad-market-a-buyers-top-five-guide/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
 * Additionally, you should customize the appearance of the Edge browser and disable all unnecessary web services.
 
  Despite being the market leader, Google Chrome still can't beat Microsoft Edge for me. However, the abundance of unnecessary features often clutters the simple browsing experience I'm looking for. If you're like me, here's how to remove all the clutter from Edge.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Remove Clutter From Edge Home Page
 
@@ -46,10 +53,10 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
 ![Show promoted links toggle in Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/show-promoted-links-toggle-in-edge.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In addition, the Edge home page also displays your area's [weather information](https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-t2-pro-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/). If you have a dedicated weather app installed or simply want to get rid of it, click the gear icon and turn off the “Show Weather” toggle. There’s also a background toggle in the Page settings menu that controls the [Edge home page background](https://some-knowledge.techidaily.com/new-full-spectrum-kinetic-assessment/). It typically doesn’t use much system resources and offers a new background daily. But if you prefer a plain black or white background (depending on your [Edge theme](https://extra-hints.techidaily.com/2024-approved-a-top-10-curated-list-of-superior-vector-portals/)), you can also disable this toggle.
@@ -79,10 +86,10 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
 ![System Default option in Edge](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/system-default-option-in-edge.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Next, in the top-left corner of the Edge browser, you will find a square icon called the "Tab Actions Menu" that allows you to manage tabs that are opened in the browser. You can access this menu to switch to [vertical tabs](https://youtube-sure.techidaily.com/n-2024-best-8-youtube-editing-software-for-linux/), look for a particular tab, and do many other tab-related things. However, as a general user, you are rarely going to need to access this menu. Therefore, it's better to disable it.
@@ -94,16 +101,10 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
 ![Show tab action menu option in Edge](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/show-tab-action-menu-option-in-edge.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The next section you should edit in the Edge browser is its toolbar. By default, the Edge toolbar contains a lot of unnecessary options like [Collections](https://twitter-videos.techidaily.com/updated-in-2024-how-to-deafen-silent-tweets-impact/) that you're rarely going to use. It's better to get rid of those options and only keep the necessary ones. I would recommend disabling the toggle for all these options:
@@ -119,28 +120,15 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
 
 ![Favorites button in Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/favorites-button-in-edge.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Furthermore, you should also disable [Workspaces](https://extra-approaches.techidaily.com/2024-approved-smooth-sailing-with-kinemaster-in-film-edits/). It lets you organize open tabs into different categories. This feature is primarily for advanced users like project leaders or those who need to demonstrate Edge features to a large team. If you use Edge for general browsing, you should disable the "Show Workspaces" toggle.
 
 ![Show Workspaces toggle in Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/show-workspaces-toggle-in-edge.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Adjust Edge Web Services
@@ -172,20 +160,17 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-toontime-insightful-review-and-tutorials-2024/"><u>[New] ToonTime Insightful Review & Tutorials 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-essential-guide-to-capturing-vr-gaming-sessions-for-2024/"><u>[Updated] Essential Guide to Capturing VR Gaming Sessions for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-from-flat-to-framed-achieving-realistic-text-effects-in-photoshop/"><u>[Updated] From Flat to Framed Achieving Realistic Text Effects in Photoshop</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-facebook-favoritism-at-your-fingertips-the-top-8-app-list/"><u>[Updated] In 2024, Facebook Favoritism at Your Fingertips The Top 8 App List</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-rapid-fire-guide-to-successful-double-exposures/"><u>[Updated] Rapid-Fire Guide to Successful Double Exposures</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-swift-shutter-speed-iphone-tricks-for-blur-magic/"><u>2024 Approved Swift Shutter Speed IPhone Tricks for Blur Magic</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-honor-70-lite-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Honor 70 Lite 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-goofy-adventure-a-critical-appraisal-videotape-edition/"><u>In 2024, 'The Goofy Adventure' - A Critical Appraisal Videotape Edition</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Vivo Y36i? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-language-of-interaction-engaging-viewers-on-youtube/"><u>In 2024, The Language of Interaction Engaging Viewers on YouTube</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-compilation-of-techniques-to-source-background-images/"><u>In 2024, The Ultimate Compilation of Techniques to Source Background Images</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-the-potential-with-samsungs-latest-photo-editor/"><u>In 2024, Unlocking the Potential with Samsung's Latest Photo Editor</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-poco-c50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Poco C50 | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-ultimate-list-of-mp4-combiner-software-discover-the-best-including-gratis-solutions/"><u>The Ultimate List of MP4 Combiner Software: Discover the BEST, Including Gratis Solutions!</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transforming-views-into-brand-loyalty-for-2024/"><u>Transforming Views Into Brand Loyalty for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-gopro-hero5-black-vs-gopro-hero4-silver-for-2024/"><u>[New] GoPro Hero5 Black vs GoPro Hero4 Silver for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-essence-of-video-editing-filmoras-ten-wonders/"><u>[New] The Essence of Video Editing Filmora's Ten Wonders</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-elevating-video-production-the-advantages-of-bandicams-technology/"><u>[Updated] Elevating Video Production The Advantages of Bandicam's Technology</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/descargar-y-convertir-archivos-de-audio-ogg-a-mp4-sin-costo-con-la-herramienta-online-de-movavi/"><u>Descargar Y Convertir Archivos De Audio OGG a MP4 Sin Costo Con La Herramienta Online De Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-metaverse-key-players-shaping-its-future/"><u>Exploring the Metaverse: Key Players Shaping Its Future</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-action-ammo-face-off-prodigy-cameras-compared-black-vs-session/"><u>In 2024, Action Ammo Face-Off Prodigy Cameras Compared – Black vs Session</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-infinix-note-30-vip-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Infinix Note 30 VIP to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-secrets-to-stellar-podcast-summaries/"><u>In 2024, The Secrets to Stellar Podcast Summaries</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleash-creative-potential-applying-effects-and-filters-on-zoom/"><u>In 2024, Unleash Creative Potential Applying Effects and Filters on Zoom</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-vr-the-creation-gap/"><u>In 2024, Unveiling VR The Creation Gap</u></a></li>
+<li><a href="https://facebook.techidaily.com/meta-drops-fbs-facial-recognition-systema-detailed-analysis/"><u>Meta Drops FB's Facial Recognition System—A Detailed Analysis</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-trick-to-elevate-your-account-type/"><u>Quick Trick to Elevate Your Account Type</u></a></li>
 </ul></div>
 

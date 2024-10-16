@@ -1,7 +1,7 @@
 ---
 title: Identify Your Windows 11 Edition & Anniversary Updates with Ease
-date: 2024-10-05T19:43:43.723Z
-updated: 2024-10-09T20:04:59.125Z
+date: 2024-10-15T07:28:37.342Z
+updated: 2024-10-15T21:31:48.684Z
 tags:
   - desktop
 categories:
@@ -17,19 +17,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [How to Check Windows Version with the Settings App](https://vimeo-videos.techidaily.com/elevating-your-work-with-impeccable-thumbnails/)
 * [Find Your Windows Edition and Build Number with the Winver Dialog](https://digital-screen-recording.techidaily.com/updated-troubleshooting-common-obs-issues/)
 
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
  Open the Settings app, then navigate to System > About to display all of the information about your Windows version. Alternatively, open the Start Menu, then enter "winver" in the search bar to quickly display basic information about your Windows installation.
@@ -37,10 +24,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  You may not have really thought about Windows build numbers in the past unless it was part of your job to do so. Here's how to find out what build—and edition and version—of Windows 10 you're running.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Do Build Versions Mean?
@@ -51,18 +38,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  In addition to builds, there also are still different editions of Windows 10—Home, Professional, Enterprise, and so on—with different features.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Check Windows Version with the Settings App
 
  The new Settings app also offers build, edition, and version information in a user-friendly form. Hit Windows+i to open Settings. In the Settings window, navigate to System > About. Scroll down a bit and you'll see the information you're after.
 
 ![Open the Settings app, then go to System; About to display information about your Windows version.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-7.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Navigate to System > About and scroll down. You'll see the "Version" and "Build" numbers here.
 
@@ -78,15 +65,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Search for 'winver' in the Start Menu search, then click the result.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-winver.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The second line in the "About Windows" box tells you which version and build of Windows 10 you have. Remember, the version number is in the form YYMM—so 1607 means the 7th month of 2016\. A couple of lines down, you'll see the edition of Windows 10 you're using—Windows 10 Pro in our example.
 
 ![The version information in the Windows Version window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-search.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The "About Windows" box does not show whether you're using a 64-bit or 32-bit version of Windows 10, but it does give you a quicker way to check your version and build than navigating through the Settings app.
 
@@ -107,15 +101,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-understanding-your-instagram-stories-visibility/"><u>[New] In 2024, Understanding Your Instagram Stories Visibility</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-unlocking-ig-potential-strategies-for-accumulating-1000plus-likesmonth/"><u>[New] In 2024, Unlocking IG Potential Strategies for Accumulating 1,000+ Likes/Month</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-secret-strategies-streamlining-your-stylizing-skills/"><u>[New] Secret Strategies Streamlining Your Stylizing Skills</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-role-of-slug-lines-in-seo-and-marketing/"><u>[New] The Role of Slug Lines in SEO & Marketing</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-the-comprehensive-guide-to-farming-on-ginger-islet/"><u>2024 Approved The Comprehensive Guide to Farming on Ginger Islet</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-secrets-to-craft-impeccable-timelapse-shots-with-gopro/"><u>2024 Approved Unveiling Secrets to Craft Impeccable Timelapse Shots with GoPro</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-versatile-pc-software-beyond-inshot/"><u>2024 Approved Versatile PC Software Beyond Inshot</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-enhancing-video-discoverability-with-smart-thumbnails/"><u>In 2024, Enhancing Video Discoverability with Smart Thumbnails</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unattached-audio-puzzle-resolution-guide/"><u>In 2024, Unattached Audio Puzzle Resolution Guide</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/re-your-video-shorts-thumbnails-not-showing-for-2024/"><u>Why Are Your Video Shorts' Thumbnails Not Showing for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamline-your-tiktok-creation-process-with-zoom/"><u>[New] Streamline Your TikTok Creation Process with Zoom</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-podcast-style-unboxing/"><u>[New] The Ultimate Guide to Podcast-Style Unboxing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unleashing-3d-text-a-photoshop-technique/"><u>[New] Unleashing 3D Text A Photoshop Technique</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hone-your-livestream-skills-on-youtubes-premier-platform/"><u>[Updated] In 2024, Hone Your Livestream Skills on YouTube's Premier Platform</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-understanding-drones-their-functionality-explored/"><u>[Updated] Understanding Drones Their Functionality Explored</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-understanding-whatsapps-sound-conversations/"><u>[Updated] Understanding WhatsApp's Sound Conversations</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-backwards-play-iphones-unique-reverse-feature/"><u>2024 Approved Backwards Play IPhone's Unique Reverse Feature</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-complete-guide-to-the-latest-in-lgs-ultra-clear-monitoring/"><u>2024 Approved The Complete Guide to the Latest in LG’s Ultra-Clear Monitoring</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/best-practices-for-screen-recording-phones/"><u>Best Practices for Screen Recording Phones</u></a></li>
+<li><a href="https://common-error.techidaily.com/bouncing-back-from-non-responsive-google-chrome-problems/"><u>Bouncing Back From Non-Responsive Google Chrome Problems</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/capture-memories-in-teams-snap-camera-guide/"><u>Capture Memories in Teams Snap Camera Guide</u></a></li>
+<li><a href="https://article-tips.techidaily.com/eliminating-video-jitter-in-photobooth-sessions-for-2024/"><u>Eliminating Video Jitter in Photobooth Sessions for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exclusive-selection-the-finest-samsung-smart-tv-programs-available-today/"><u>Exclusive Selection: The Finest Samsung Smart TV Programs Available Today</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-thankful-discoveries-unlimited-outro-options/"><u>In 2024, Thankful Discoveries Unlimited Outro Options</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ative-approaches-to-enhance-the-impact-of-your-youtube-intro/"><u>Innovative Approaches to Enhance the Impact of Your YouTube Intro</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mise-a-jour-gratuite-et-en-direct-convertissez-vos-fichiers-mpeg-en-mp4-via-loutil-en-ligne-de-movavi/"><u>Mise À Jour Gratuite Et en Direct : Convertissez Vos Fichiers MPEG en MP4 via L'outil en Ligne De Movavi</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tailor-made-fee-free-epilogue-music-templates-for-2024/"><u>Tailor-Made, Fee-Free Epilogue Music Templates for 2024</u></a></li>
 </ul></div>
 

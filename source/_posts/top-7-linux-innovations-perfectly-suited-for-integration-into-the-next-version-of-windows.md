@@ -1,7 +1,7 @@
 ---
 title: Top 7 Linux Innovations Perfectly Suited for Integration Into the Next Version of Windows
-date: 2024-10-05T02:16:10.035Z
-updated: 2024-10-10T01:44:48.259Z
+date: 2024-10-11T12:33:23.595Z
+updated: 2024-10-16T08:56:49.741Z
 tags:
   - desktop
 categories:
@@ -24,10 +24,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Windows 12 is still in development, giving us time to make some demands. For inspiration, let's look at Linux, the underdog of desktop computing. Here are 7 surprisingly advanced, quality-of-life features that Linux offers, and Windows 12 should definitely steal them.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  No Ads in the User Interface
@@ -46,6 +46,13 @@ Dave McKay / How-To Geek
 
  On Windows 11, ads are enabled by default, but they can be disabled. Follow this [guide to know where all the options are](https://change-location.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-vivo-x-flip-drfone-by-drfone-virtual-android/).
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Multiple Start Menu Variations
 
  Now, coming to the good stuff, what is most certain about a new Windows release? A new Start Menu design! And with Windows 12, let’s just allow people to choose or customize their own Start Menu.
@@ -61,17 +68,10 @@ Close
 ![Image of Arc Menu Extension and Menu Layout Variations on Ubuntu 22.04](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/3-image-of-arc-menu-extension-and-menu-layout-variations-on-ubuntu-22-04.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Widgets on the Desktop
@@ -79,6 +79,13 @@ Close
  Windows 7 had widgets and it was wonderful. Sadly, Microsoft [removed them because of security concerns](https://blog-min.techidaily.com/5-ways-to-move-contacts-from-realme-c33-2023-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/), but they made a comeback (sort of) with Windows 11\. The problem is that Windows 11 widgets are [tucked away inside a separate panel](https://buynow-tips.techidaily.com/comprehensive-review-of-the-stylish-and-modern-swagtron-swagger-electric-scooter/) and not embedded directly on the desktop. It would be very nice to see Windows 12 will properly implement desktop widgets, like you can see here on Kubuntu:
 
 ![Desktop Widgets on Kubuntu 23.10 Spread across the screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/4-desktop-widgets-on-kubuntu-23-10-spread-across-the-screen.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Having desktop widgets means you have direct access to useful information like reminders, to-do lists, weather updates, a world clock, and more, without having to open multiple apps. It’d be awesome if I turned on the computer every morning and got a snapshot of my entire day right there on the desktop.
 
@@ -104,13 +111,6 @@ Close
 
  The ability to move the taskbar again would be a great start. On top of that, different Taskbar variations, like a floating one or a minimized one similar to the Mac Dock, would really help users to personalize their personal computers.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  A More Integrated Virtual Desktop Experience
 
  Virtual desktops are a great way to organize open apps and boost productivity. Microsoft introduced them to Windows 10 and improved their overall experience with [Windows 11](https://hardware-tips.techidaily.com/mastering-tech-essentials-at-toms-hardware-source/).
@@ -122,10 +122,10 @@ Close
 ![Image Showing Ubuntu 22.04 Activities Overview](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/9-image-showing-ubuntu-22-04-activities-overview.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  At the top, there’s a row of mini windows for all open virtual desktops (Workspaces). You can click to switch between them. The center shows your current desktop with all open apps. On the left, the Ubuntu Dash (similar to Windows' Taskbar) lets you drag and drop apps to any virtual desktop.
@@ -163,17 +163,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-survey-spectrum-of-video-and-film-equipment/"><u>[New] Survey Spectrum of Video and Film Equipment</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-essential-iphone-hdr-photography-skills/"><u>[Updated] The Essential iPhone HDR Photography Skills</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-your-shots-with-ease-in-photoshop/"><u>2024 Approved Transforming Your Shots with Ease in Photoshop</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-10-free-programs-for-restoring-vintage-photographs-with-artificial-intelligence/"><u>Best 10 Free Programs for Restoring Vintage Photographs with Artificial Intelligence</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-toms-electronics-hub-your-go-to-source-for-cutting-edge-devices/"><u>Exploring Tom's Electronics Hub - Your Go-To Source for Cutting-Edge Devices</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-oppo-find-x7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Oppo Find X7 | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-a-step-by-step-guide-to-snapchats-boomerang-magic/"><u>In 2024, A Step-by-Step Guide to Snapchat's Boomerang Magic</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-optimizing-your-video-call-zoom-and-fb-live-integration/"><u>In 2024, Optimizing Your Video Call ZOOM & FB Live Integration</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-hardware-solutions-with-toms-guidance/"><u>Mastering Hardware Solutions with Tom's Guidance</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-mp4-video-editing-software-for-windows-8-fast-and-reliable-solution/"><u>New MP4 Video Editing Software for Windows 8 Fast and Reliable Solution</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/top-security-accessories-for-webcams/"><u>Top Security Accessories for Webcams</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-messages-from-realme-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Realme</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-transformative-power-in-healthcare-through-vr/"><u>[New] 2024 Approved Transformative Power in Healthcare Through VR</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-captivatescreen-scrutiny-platform/"><u>[Updated] 2024 Approved CaptivateScreen Scrutiny Platform</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-choose-between-portable-and-plugged-in-vr-headsets-picking-between-wireless-mobile-or-connected-tethered/"><u>[Updated] How to Choose Between Portable and Plugged-In VR Headsets Picking Between Wireless (Mobile) or Connected (Tethered)?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-ranked-costless-pixel-perfection-aid/"><u>[Updated] Top-Ranked Costless Pixel Perfection Aid</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unhindered-movie-enjoyment-no-cost-video-player-pcmac/"><u>[Updated] Unhindered Movie Enjoyment - No Cost VIDEO Player (PC/Mac)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-effective-reddit-sharing/"><u>2024 Approved The Ultimate Guide to Effective Reddit Sharing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/desktop-delight-how-chatgpts-standalone-app-surpasses-web-interface/"><u>Desktop Delight: How ChatGPT's Standalone App Surpasses Web Interface</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>How To Simulate GPS Movement With Location Spoofer On Apple iPhone 14? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/implementing-restricted-folder-access-via-group-policy-on-windows-10/"><u>Implementing Restricted Folder Access via Group Policy on Windows 10</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-tecno-pova-5-pro-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Tecno Pova 5 Pro and Browser | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-fundamentals-of-using-ffpm-in-firefox/"><u>In 2024, The Fundamentals of Using FFPM in Firefox</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-premier-monitors-top-5-for-ps5-and-xbox-players-for-2024/"><u>The Premier Monitors Top 5 for PS5 & Xbox Players for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-windows-10s-best-new-applications-and-games-for-2024/"><u>The Ultimate Guide to Windows 10'S Best New Applications & Games for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/ultimate-android-toolset-for-3d-video-players-for-2024/"><u>Ultimate Android Toolset for 3D Video Players for 2024</u></a></li>
 </ul></div>
 

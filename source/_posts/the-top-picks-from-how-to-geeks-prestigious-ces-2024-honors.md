@@ -1,7 +1,7 @@
 ---
 title: The Top Picks From How-To Geek’s Prestigious CES 2024 Honors
-date: 2024-10-04T02:07:10.716Z
-updated: 2024-10-10T01:38:04.791Z
+date: 2024-10-15T03:02:50.338Z
+updated: 2024-10-15T22:46:53.881Z
 tags:
   - deals
 categories:
@@ -32,6 +32,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
  A brand new year means brand new tech being showcased at CES 2024\. We were on the ground in Las Vegas, scouring the show floors for cool gadgets and impressive innovations. We've highlighted some of our favorite products from the event, giving you a taste of what to look forward to this year.
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Best Laptop: Lenovo Thinkpad X1 Carbon Gen 12
 
 ![Lenovo ThinkPad X1 Carbon Gen 12 sitting on a table open showing its screen and keyboard with Best of CES 2024 badge](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/lenovo-thinkpad-x1-carbon-gen-12-sitting-on-a-table-open-showing-its-screen-and-keyboard-with-best-of-ces-2024-badge-1.jpg) 
@@ -43,6 +56,13 @@ Justin Duino / How-To Geek
  The X1 Carbon Gen 12 has a slightly changed design, with accessibility improvements in the keyboard layout, a larger 120mm trackpad (with a haptic feedback option, like Apple’s recent MacBooks). There’s still the same TrackPoint “nub” in the center of the keyboard, and you can even set custom actions for when it’s double-tapped. The laptop has great connectivity options as well, including two Thunderbolt 4 Type-C ports, two USB Type-A 5Gbps ports, HDMI 2.1, an audio jack, Wi-Fi 6E or Wi-Fi 7, Bluetooth 5.3, and optional LTE or 5G.
 
  The new Thinkpad X1 Carbon Gen 12 looks like a fantastic Windows laptop, but it’s also priced to match: it starts at $2,989\. Some configurations [already went on sale in December](https://desktop-recording.techidaily.com/updated-transforming-live-dialogues-into-permanent-history/), but the rest of the configuration options will be available starting in March 2024.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Best Router: TP-Link Deco BE65 Pro Mesh Router
 
@@ -66,6 +86,13 @@ Hannah Stryker / How-To Geek
 
  The new Razer Blade 16 might be the Windows laptop to buy if you want the best graphics performance possible in a sleek and minimalist form factor. It’s definitely expensive, though, with a starting price of $3,000\. You can [buy it today](https://razer.a9yw.net/c/156932/642901/10229?subId1=UUhtgUeUpU2001617&subId2=ehtg&u=https%3A%2F%2Fwww.razer.com%2Fgaming-laptops%2Frazer-blade-16) from Razer’s website.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Best Bluetooth Speaker: JBL Go 4
 
 ![JBL Go 4 Bluetooth speaker sitting on a table in front of the JBL Clip 5](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/jbl-go-4-bluetooth-speaker-sitting-on-a-table-in-front-of-the-jbl-clip-5.jpg) 
@@ -77,6 +104,13 @@ Justin Duino / How-To Geek
  It's often hard to get a sense of audio quality at trade shows, but our own Jason Fitzpatrick had a chance to try out the JBL Go 4\. He said, "The Go series has always sounded pretty solid for its size, but the Go 4 is surprisingly good" and "The first palm-size Bluetooth speaker I’d actually consider regularly using."
 
  JBL says the Go 4 is rated for 7 hours of battery life. It's IP67 rated, has Bluetooth 5.3, and [Bluetooth LE audio](https://screen-video-capture.techidaily.com/updated-the-experts-guide-to-live-classroom-capturing-via-macos-for-2024/). It will be available in June for only $50, which is $30 cheaper than the JBL Clip 5, the company's slightly larger portable speaker.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Best Mouse: Cherry M64 Pro Wireless Mouse
 
@@ -98,13 +132,6 @@ Hannah Stryker / How-To Geek
 
 ![A LG G4 OLED evo at CES 2024](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/a-lg-g4-oled-evo-at-ces-2024.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Hannah Stryker / How-To Geek
 
  LG smashed it out of the park with 2023’s G3 TV, which garnered high praise for its [microlens array (MLA) technology](https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-oppo-a18-drfone-by-drfone-virtual-android/), bringing impressive brightness to OLED panels. It’s still our pick for [the best OLED TV](https://extra-tips.techidaily.com/discovering-the-best-in-display-tech-10-list-for-your-mac/), but that’s set to change with the release of the G4, which caught our eye at this year’s show.
@@ -118,10 +145,10 @@ Hannah Stryker / How-To Geek
  LG hasn’t revealed the price or release date for the G4 OLED yet, but last year’s model was released in March and started at $2,300\. The G4 will range in sizes from 55 inches all the way up to 97 inches, though the very top size lacks the MLA technology.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Best Projector: XGIMI Horizon Max
@@ -148,28 +175,15 @@ Hannah Stryker / How-To Geek
 
  The Satechi SM1 Slim keyboard retails for $99.99, but the company is offering 20% off for CES with code "CES20" if you're interested in buying it right now.
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Best Smartphone Accessory: Belkin Auto-Tracking Stand Pro
 
 ![Belkin Auto-Tracking Stand Pro in use at CES 2024](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/belkin-auto-tracking-stand-pro-in-use-at-ces-2024.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
@@ -183,6 +197,13 @@ Justin Duino / How-To Geek
 ##  Best Robot Vacuum: Roborock S8 MaxV Ultra
 
 ![The bottom of the Roborock S8 MaxV Ultra with its brush arm extended](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/the-roborock-s8-maxv-ultra-with-its-brush-arm-extended.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -213,16 +234,10 @@ Govee
 ![NVIDIA G-Sync Pulsar comparison stacked](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/nvidia-g-sync-pulsar-comparison-stacked.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 NVIDIA
@@ -234,13 +249,6 @@ NVIDIA
  Our Jason Fitzpatrick had a chance to go eyes-on and had this to say, "It’s something that you need to see in person to really appreciate, but the VRR Pulsar tech really does an astounding job smoothing the image. You don’t realize how much smearing there is on even a really nice monitor until you see it with the VRR enabled."
 
  NVIDIA G-Sync Pulsar will debut on the [ASUS ROG Swift PG27 Series G-SYNC gaming monitor](https://press.asus.com/news/asus-rog-monitor-lineup-ces-2024/), arriving later in 2024.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Best Computer Monitor: LG 32" Ultragear Dual Mode OLED
 
@@ -268,23 +276,9 @@ Justin Duino / How-To Geek
 
  Sennheiser’s MOMENTUM Sport earbuds will be available on April 9th, 2024, for $329.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Best Health: Withings BeamO
 
 ![Person checking their heart rate using the Withings BeamO at CES 2024](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/person-checking-their-heart-rate-using-the-withings-beamo-at-ces-2024.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -323,20 +317,20 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/tis-the-season-for-laughs-the-goofy-vhs-special-for-2024/"><u>'Tis the Season for Laughs 'The Goofy' VHS Special for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-video-vanguard-vs-studio-giants/"><u>[New] In 2024, Video Vanguard VS Studio Giants</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-nextgen-android-for-immersive-3d-viewing/"><u>[New] NextGen Android for Immersive 3D Viewing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-art-of-haul-video-production-and-editing-techniques/"><u>[New] The Art of Haul Video Production and Editing Techniques</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-language-of-immersive-digital-worlds/"><u>[New] The Language of Immersive Digital Worlds</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-techniques-for-superior-canva-visuals/"><u>[Updated] Innovative Techniques for Superior Canva Visuals</u></a></li>
-<li><a href="https://facebook.techidaily.com/building-the-social-life-you-want-customize-your-news-feed-today/"><u>Building the Social Life You Want: Customize Your News Feed Today</u></a></li>
-<li><a href="https://fox-search.techidaily.com/discover-top-rated-registries-near-you-with-our-easy-locator-tool/"><u>Discover Top-Rated Registries Near You with Our Easy Locator Tool</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ideal-online-destinations-for-video-promotion/"><u>Ideal Online Destinations for Video Promotion</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-listening-experience-how-to-add-podcasts-via-ipadiphone/"><u>In 2024, The Ultimate Listening Experience How to Add Podcasts via iPad/iPhone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-imagery-with-these-mobile-montage-leaders/"><u>In 2024, Transform Your Imagery with These Mobile Montage Leaders</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-ultra-details-in-minecraft-games/"><u>In 2024, Unveiling Ultra Details in Minecraft Games</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solve-your-touchpads-scroll-bar-woes-with-these-simple-steps/"><u>Solve Your Touchpad's Scroll Bar Woes with These Simple Steps</u></a></li>
-<li><a href="https://article-tips.techidaily.com/standout-reddit-content-an-exclusive-look-at-top-10-threads/"><u>Standout Reddit Content An Exclusive Look at Top 10 Threads</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-now-simplified-guide-to-installing-amd-ryzen-5-2500u-cpu-drivers/"><u>Update Now: Simplified Guide to Installing AMD Ryzen 5 2500U CPU Drivers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-ai-powered-image-editor/"><u>[New] Ultimate AI-Powered Image Editor</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-full-potential-with-final-cut-pro/"><u>[New] Unlocking Full Potential with Final Cut Pro</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-boosting-video-playback-speed-on-instagram/"><u>[Updated] 2024 Approved Boosting Video Playback Speed on Instagram</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-precision-in-inshot-transitions-a-step-by-step-guide/"><u>[Updated] Precision in Inshot Transitions A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-rise-and-fall-of-vegas-pro-a-critical-look/"><u>[Updated] The Rise and Fall of Vegas Pro A Critical Look</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transform-your-digital-assets-top-7-tools-to-create-nfts/"><u>[Updated] Transform Your Digital Assets - Top 7 Tools to Create NFTs</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/asus-chromebook-flip-c302ca-review-cheap-convertible-and-seriously-great/"><u>Asus Chromebook Flip C302CA Review: Cheap, Convertible, and Seriously Great</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-intuitive-steps-for-photo-integration-in-instagram/"><u>In 2024, Intuitive Steps for Photo Integration in Instagram</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-syncing-scenes-merging-pc-and-cloud-images/"><u>In 2024, Syncing Scenes Merging PC & Cloud Images</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/on-december-3rd-google-play-announced-its-choice-and-also-presented-the-best-android-apps-that-were-selected-by-users-so-without-further-ado-lets-take-a-loo/"><u>On December 3Rd Google Play Announced Its Choice and Also Presented the Best Android Apps that Were Selected by Users. So without Further Ado Lets Take a Look at the Best and Most Popular And</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-for-bluetooth-device-connectivity-on-windows-11/"><u>Step-by-Step Solutions for Bluetooth Device Connectivity on Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-vivid-visuals-on-your-computer-with-windows-hdr-for-2024/"><u>The Art of Vivid Visuals on Your Computer with Windows HDR for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/the-complete-guide-to-cashing-in-on-tiktok-in-8-steps-for-2024/"><u>The Complete Guide to Cashing In on TikTok in 8 Steps for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/unbeatable-online-headline-builder/"><u>Unbeatable Online Headline Builder</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Simple Methods to Locate & Remove Outdated Data in Windows 11
-date: 2024-10-08T20:31:20.724Z
-updated: 2024-10-09T17:33:48.898Z
+date: 2024-10-15T11:56:01.601Z
+updated: 2024-10-15T19:01:49.515Z
 tags:
   - desktop
 categories:
@@ -38,16 +38,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 !['Storage Sense' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/2-enable-storage-sense.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You’ll now configure Storage Sense's behavior. At the top, enable the option in the "Cleanup of Temporary Files" section so that temporary files are automatically deleted.
@@ -60,14 +60,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Storage Sense configuration options in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-configure-storage-sense.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To run the feature now, click "Run Storage Sense Now." It will start removing the chosen files.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  With Microsoft PC Manager
 
@@ -83,13 +83,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Downloaded files and 'Permanently Delete' highlighted in PC Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/5-delete-downloaded-files.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The second option in PC Manager is "Large Files." As you can guess, it lets you find and remove large files. You can specify the file size here so it only finds files larger than that.
 
  Click the option and use the "Size" drop-down menu to specify your file size.
@@ -100,18 +93,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Large files and 'Permanently Delete' highlighted in PC Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/7-delete-large-files.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  And that’s it.
 
  Another useful option is "Duplicate Files." This option finds the duplicates on your storage and helps you remove them all at once. Use it by clicking the option, letting the feature find any duplicates, choosing the files you want to remove, and clicking "Permanently Delete."
 
 ![Duplicate files and 'Permanently Delete' highlighted in PC Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/8-remove-duplicate-files.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  And you’re all set.
 
@@ -124,10 +117,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 !['Run as Administrator' highlighted for Command Prompt in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/9-open-command-prompt.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In the User Account Control prompt, choose "Yes."
@@ -152,6 +151,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  To do that, [open Notepad](https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-poco-x6-pro-drfone-by-drfone-android/), copy and paste your ForFiles command, and select File > Save As. Click the "Save as Type" drop-down menu and choose "All Files." Select the "File Name" field, type a name for your script, add **.bat** at the end of the name, and click "Save."
 
 ![Save the ForFiles command as a batch file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/10-save-batch-file.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When you want to run your command, right-click your batch script and choose "Run as Administrator."
 
@@ -178,22 +184,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-expert-video-downloader-kit-ideal-for-firefox-browser-users/"><u>[New] In 2024, Expert Video Downloader Kit Ideal for FireFox Browser Users</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-educators-roadmap-to-effective-multimedia-use/"><u>[New] The Educator's Roadmap to Effective Multimedia Use</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-turn-the-last-scenes-first-with-android/"><u>[New] Turn the Last Scenes First with Android</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-vector-art-basics-for-newcomers-diverse-forms-and-tools/"><u>[New] Vector Art Basics for Newcomers, Diverse Forms and Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-optimal-viewing-solution-projector-or-tv-for-top-4k-quality/"><u>2024 Approved Optimal Viewing Solution Projector or TV for Top 4K Quality</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-allure-vs-warnings-of-virtual-reality-worlds/"><u>2024 Approved The Allure vs Warnings of Virtual Reality Worlds</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixes-found-resolving-constant-pc-crashes-in-f1-2021/"><u>Fixes Found: Resolving Constant PC Crashes in F1 2021</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-honor-x50i-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Honor X50i?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oneplus-nord-n30-se-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from OnePlus Nord N30 SE to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-nubia-red-magic-9-pro-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Nubia Red Magic 9 Pro Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-honor-x50-gt-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Honor X50 GT to New Phone | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-hdr-sky-experience-online-resource-listing/"><u>In 2024, The HDR Sky Experience Online Resource Listing</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/sk-hynix-turns-the-tide-with-profitability-post-q3-2022-thanks-to-ai-demand-and-soaring-dram-prices/"><u>SK Hynix Turns the Tide with Profitability Post-Q3 2022 Thanks to AI Demand and Soaring DRAM Prices</u></a></li>
-<li><a href="https://some-skills.techidaily.com/streamlining-upload-apples-end-to-end-process-guide-for-2024/"><u>Streamlining Upload Apple’s End-to-End Process Guide for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-interactive-index-for-ig-and-tiktok-connection-for-2024/"><u>The Interactive Index for IG & TikTok Connection for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unete-a-la-fiesta-de-las-rebajas-encuentra-los-mejores-precios-con-cupones-de-movavi/"><u>Únete a La Fiesta De Las Rebajas - Encuentra Los Mejores Precios Con Cupones De Movavi</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-how-to-add-border-to-instagram-video-in-2024/"><u>[New] How to Add Border to Instagram Video, In 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-how-to-make-money-from-instagram/"><u>[New] How to Make Money From Instagram</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-linking-perfection-incorporating-linktree-into-your-tiktok-profile/"><u>[New] Linking Perfection Incorporating Linktree Into Your TikTok Profile</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-best-professional-template-pack-for-premiere-pro/"><u>[New] The Best Professional Template Pack for Premiere Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-tool-for-video-cuts-full-review-of-vivacut-24-edition/"><u>[New] The Ultimate Tool for Video Cuts Full Review of VivaCut '24 Edition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-list-legal-game-music-sources/"><u>[Updated] The Ultimate List Legal Game Music Sources</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-creative-climb-steps-towards-thriving-in-graphic-design/"><u>2024 Approved The Creative Climb Steps Towards Thriving in Graphic Design</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/best-fbx-game-recorder-alternatives-for-2024/"><u>Best FBX Game Recorder Alternatives for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/can-iphone-users-disable-or-erase-default-system-apps/"><u>Can iPhone Users Disable or Erase Default System Apps?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-meizu-21-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-invisible-strategies-to-avoid-home-school-vids/"><u>In 2024, Invisible Strategies to Avoid Home School Vids</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862736608-revolutionize-gaming-at-a-bargain-the-ultimate-deal-on-a-156-msi-katana-laptop-with-nvidia-rtx-4070-gpu-only-1199/"><u>Revolutionize Gaming at a Bargain - The Ultimate Deal on a 15.6 MSI Katana Laptop with NVIDIA RTX 4070 GPU: Only $1,199</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-process-restarting-frozen-software-in-your-latest-windows-operating-system/"><u>Step-by-Step Process: Restarting Frozen Software in Your Latest Windows Operating System</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-intersection-of-real-and-virtual-defining-mixed-reality-for-2024/"><u>The Intersection of Real and Virtual Defining Mixed Reality for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-innovative-visual-voicemail-solutions-for-enhanced-messaging/"><u>Top 5 Innovative Visual Voicemail Solutions for Enhanced Messaging</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unboxing-the-essence-of-dji-inspire-2-for-2024/"><u>Unboxing the Essence of DJI Inspire 2 for 2024</u></a></li>
 </ul></div>
 

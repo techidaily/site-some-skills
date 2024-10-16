@@ -1,7 +1,7 @@
 ---
 title: "Microsoft's Legacy Operating Systems Drop: No More Windows 7 or 8 From Epic Games"
-date: 2024-10-04T05:30:27.485Z
-updated: 2024-10-10T03:38:49.766Z
+date: 2024-10-15T09:49:44.722Z
+updated: 2024-10-15T22:17:45.616Z
 tags:
   - deals
 categories:
@@ -40,37 +40,35 @@ In June 2024, the Epic Games Launcher will end support for Windows 7, Windows 8 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-top-rated-3d-tools-for-youtube-video-startups/"><u>[New] 2024 Approved Top-Rated 3D Tools for YouTube Video Startups</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-excellent-video-chat-solutions-for-mobile-and-desktops/"><u>[New] In 2024, Excellent Video Chat Solutions for Mobile & Desktops</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-essential-guide-to-using-supplementary-film-scenes/"><u>[New] The Essential Guide to Using Supplementary Film Scenes</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-8-video-transformation-tools-from-iphone-to-file/"><u>[New] Top #8 Video Transformation Tools From iPhone to File</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-maximizing-impact-with-customized-youtube-audiences/"><u>[Updated] Maximizing Impact with Customized Youtube Audiences</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-10-best-meme-templates/"><u>[Updated] Top 10 Best Meme Templates</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-magic-behind-shooting-images-with-iphones-hdr/"><u>[Updated] Unveiling the Magic Behind Shooting Images with iPhone’s HDR</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-mystery-of-free-graphic-imagery/"><u>[Updated] Unveiling the Mystery of Free Graphic Imagery</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-essential-7-android-apps-to-eliminate-intrusive-ads/"><u>2024 Approved Essential 7 Android Apps to Eliminate Intrusive Ads</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-streamlining-film-grading-with-cg-centrals-look-up-tables/"><u>2024 Approved Streamlining Film Grading with CG Central's Look-Up Tables</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-uplifting-films-for-momentum-and-motivation/"><u>2024 Approved Top 10 Uplifting Films for Momentum & Motivation</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-samsung-galaxy-m14-4g-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Samsung Galaxy M14 4G Without Power Button | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/from-latin-to-modern-expressions-romance-languages/"><u>From Latin to Modern Expressions: Romance Languages</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-realme-c53-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Realme C53 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Samsung Galaxy A14 4G | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-checklist-for-compelling-audio-intros/"><u>In 2024, The Ultimate Checklist for Compelling Audio Intros</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/macbook-cam-recording-tutorial/"><u>MacBook Cam Recording Tutorial</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/melodious-memories-capturing-songs-in-your-snaps/"><u>Melodious Memories Capturing Songs in Your Snaps</u></a></li>
-<li><a href="https://some-skills.techidaily.com/total-kinetic-analysis-exploration-for-2024/"><u>Total Kinetic Analysis Exploration for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-fainter-frequencies-for-pc-and-mac-harmony/"><u>[New] Fainter Frequencies for PC & Mac Harmony</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-sifting-through-social-media-stars-targeting-your-specific-interests/"><u>[New] Sifting Through Social Media Stars Targeting Your Specific Interests</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-definitive-guide-to-premium-vr-players-oculus-focus/"><u>[New] The Definitive Guide to Premium VR Players - Oculus Focus</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-photographers-list-of-top-10-lenses/"><u>[New] The Photographer's List of Top 10 Lenses</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-cash-flow-curiosity-how-much-does-the-celebrity-make/"><u>[Updated] In 2024, Cash Flow Curiosity How Much Does the Celebrity Make?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-pioneering-practices-in-the-realm-of-iptv-recording/"><u>[Updated] Pioneering Practices in the Realm of IPTV Recording</u></a></li>
+<li><a href="https://fox-links.techidaily.com/becoming-a-savvy-vr-tour-connoisseur/"><u>Becoming a Savvy VR Tour Connoisseur</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Vivo V29 Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-4-ultimate-strategies-for-creating-softened-iphone-pics/"><u>In 2024, The 4 Ultimate Strategies for Creating Softened iPhone Pics</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-compilation-of-top-sky-hd-sites/"><u>In 2024, The Ultimate Compilation of Top Sky HD Sites</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-oppo-k11-5g-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Oppo K11 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/prime-guidelines-youtube-respect-and-usage-for-2024/"><u>Prime Guidelines YouTube Respect & Usage for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-fresh-driver-downloads-for-your-canon-mx34aster-on-windows-11-8-and-7/"><u>Step-by-Step Guide: Fresh Driver Downloads for Your Canon MX34aster on Windows 11, 8 & 7</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-metaverse-multiverse-dichotomy-explained-for-2024/"><u>The Metaverse-Multiverse Dichotomy Explained for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-techniques-for-professional-voice-capture-for-2024/"><u>Top Techniques for Professional Voice Capture for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/uncomplicated-methodology-win-os-clownvoice-tweaking-guide-for-2024/"><u>Uncomplicated Methodology Win-OS Clownvoice Tweaking Guide for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/uncovering-potential-through-skilled-interviewing-for-2024/"><u>Uncovering Potential Through Skilled Interviewing for 2024</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1983575">
+<span id="1983573">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

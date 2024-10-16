@@ -1,7 +1,7 @@
 ---
 title: "Taking Over Android: Google's Rise as Premier Developer of Additional Features"
-date: 2024-10-04T20:47:31.840Z
-updated: 2024-10-09T16:51:06.960Z
+date: 2024-10-11T02:11:13.990Z
+updated: 2024-10-16T02:06:45.702Z
 tags:
   - mobile
 categories:
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/e591b5728fa84d66a3323b91b4ed2e3f5b0efaa53
 
  Back in the day, I used to loathe the custom skins and apps that Android phone makers added to their phones. Android's vendor-neutral default apps have since been replaced by Google apps, and the tech giant has used its dominance to fill our Android devices with far more pre-installed software than any other company.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Google and Android Are Not One and the Same
 
  Google is Android's primary developer, but the operating system is open source. Countless other companies are invested in the platform.
@@ -35,10 +42,10 @@ thumbnail: https://thmb.techidaily.com/e591b5728fa84d66a3323b91b4ed2e3f5b0efaa53
  The promise of Android is that it's a mobile-first operating system that anyone can use to create great things without starting from scratch. This is how Android got buy-in from businesses and volunteers from all over the world. You can use and develop Android without being entirely beholden to the whims of another corporation.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  After Android Became Popular, Google Wanted More Control
@@ -46,10 +53,10 @@ thumbnail: https://thmb.techidaily.com/e591b5728fa84d66a3323b91b4ed2e3f5b0efaa53
 ![The app drawer of the OnePlus12R](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-app-drawer-of-the-oneplus12rjpg_53485300814_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -77,16 +84,10 @@ Justin Duino / How-To Geek
  People are quick to call out budget Motorola phones for installing unwanted shopping apps and random games, but Google's software collects far more data and is much more intrusive. We're just conditioned to expect them, even if we have never once clicked on Google Home.
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Some Preinstalled Apps Are Better Than Google's
@@ -113,13 +114,6 @@ Close
 
 ![Apps in the launcher on an XREAL Beam Pro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/xreal_shot_1723131795364.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  XREAL isn't a Google company, but since access to the Play Store is a big part of the device's appeal, they're required to shill Google services, at a detriment to the user experience.
 
 ---
@@ -143,20 +137,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-mastering-the-art-of-fbx-less-game-capture-techniques/"><u>[New] Mastering the Art of FBX-Less Game Capture Techniques</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-definitive-vivacut-video-editing-manual-for-24/"><u>[New] The Definitive VivaCut Video Editing Manual for '24</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-tune-into-success-constructing-your-youtube-playlist/"><u>[Updated] 2024 Approved Tune Into Success Constructing Your YouTube Playlist</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-comprehensive-hand-tracking-explained/"><u>[Updated] Comprehensive Hand Tracking Explained</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-steps-for-inspirational-daily-living-visual-stories/"><u>[Updated] Steps for Inspirational Daily Living Visual Stories</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-6-economical-action-cams-available-for-99-or-below/"><u>[Updated] Top 6 Economical Action Cams Available for $99 or Below</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-tips-for-blending-multiple-hdr-photographs-in-lightroom/"><u>2024 Approved Expert Tips for Blending Multiple HDR Photographs in Lightroom</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-flawless-online-invitation-crafting-youtube-subscription-buttons/"><u>2024 Approved Flawless Online Invitation Crafting YouTube Subscription Buttons</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-how-to-distinguish-real-from-sham-on-your-instagram-circle-quickly/"><u>2024 Approved How to Distinguish Real From Sham on Your Instagram Circle Quickly</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transcription-made-simple-at-no-cost/"><u>2024 Approved Transcription Made Simple At No Cost</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlocked-gems-seeking-free-tiktok-picture-perfections/"><u>2024 Approved Unlocked Gems Seeking Free TikTok Picture Perfections</u></a></li>
-<li><a href="https://extra-support.techidaily.com/sculpt-visual-jokes-adobe-memes-guide-for-2024/"><u>Sculpt Visual Jokes Adobe Memes Guide for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-solution-salvaging-your-wet-ios-gadget-using-diy-fixes/"><u>Step-by-Step Solution: Salvaging Your Wet iOS Gadget Using DIY Fixes</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-8-iphone-accessories-elevate-your-selfies-today-for-2024/"><u>Top 8 iPhone Accessories - Elevate Your Selfies Today for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-video-montages-on-mobile-devices-a-8-must-have-list-for-2024/"><u>Top Video Montages on Mobile Devices A 8 Must-Have List for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-deciding-on-fps-to-opt-for-30-or-go-for-a-sharp-60hz/"><u>[New] Deciding on FPS To Opt for 30 or Go For a Sharp 60Hz</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-best-in-class-writing-workshop/"><u>[New] In 2024, Best-in-Class Writing Workshop</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-essential-strategies-for-webp-to-jpeg-conversion/"><u>[Updated] Essential Strategies for WebP to JPEG Conversion</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-making-photographs-larger-without-losing-quality/"><u>[Updated] Making Photographs Larger Without Losing Quality</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-iphones-best-5-podcasting-apps/"><u>[Updated] The Ultimate Guide to iPhone's Best 5 Podcasting Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-turn-off-youtubes-quick-video-buffering-feature/"><u>[Updated] Turn Off YouTube's Quick Video Buffering Feature</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleash-potential-the-best-10-motivational-movies/"><u>[Updated] Unleash Potential The Best 10 Motivational Movies</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-the-full-potential-of-your-hdr-images-with-lightroom/"><u>2024 Approved Unleash the Full Potential of Your HDR Images with Lightroom</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-hidden-potential-boost-productivity-essential-activities-during-podcast-sessions/"><u>2024 Approved Unlock Hidden Potential, Boost Productivity Essential Activities During Podcast Sessions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-saber-stability-issues-heres-how-you-can-stop-the-game-from-crashing/"><u>Beat Saber Stability Issues? Here's How You Can Stop the Game From Crashing!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-xs-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On iPhone XS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-spotify-listening-with-secure-speed-techniques/"><u>In 2024, Streamlining Spotify Listening with Secure Speed Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-essential-blueprint-for-finding-and-enjoying-premium-cricket-streams/"><u>In 2024, The Essential Blueprint for Finding and Enjoying Premium Cricket Streams</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-experts-guide-to-interactive-instagram-stories-polling/"><u>In 2024, The Expert's Guide to Interactive Instagram Stories Polling</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-hero-series-advance-from-4-to-5/"><u>In 2024, The Hero Series Advance From 4 to 5</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/streamline-your-impact-the-most-effective-video-formats-for-youtube/"><u>Streamline Your Impact The Most Effective Video Formats for YouTube</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/the-evaluation-of-hdr-quality-with-luminance-for-2024/"><u>The Evaluation of HDR Quality with Luminance for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-funny-photo-editor-for-2024/"><u>Ultimate Funny Photo Editor for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-minecraft-guide-a-family-friendly-adventure-in-a-blocky-universe/"><u>Ultimate Minecraft Guide: A Family-Friendly Adventure in a Blocky Universe</u></a></li>
 </ul></div>
 
