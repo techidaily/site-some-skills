@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Getting Your Google Maps Back on Track"
-date: 2024-10-15T09:21:15.976Z
-updated: 2024-10-15T22:07:27.603Z
+date: 2024-10-18T21:05:55.625Z
+updated: 2024-10-21T21:12:03.340Z
 tags:
   - desktop
 categories:
@@ -31,10 +31,16 @@ thumbnail: https://thmb.techidaily.com/26f65c8609b0e088bfc952ce0e1907346f9597a5e
  Google Maps is often a reliable travel companion, yet occasional glitches can leave us stranded. Issues like server outages, lack of internet connectivity, incorrect time and date settings, or restricted background data usage can contribute to these issues. Here are some troubleshooting steps you can take to resolve the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Perform Some Preliminary Checks
@@ -42,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/26f65c8609b0e088bfc952ce0e1907346f9597a5e
  Begin the troubleshooting process with some basic checks. First, reboot your device to rule out any temporary disruptions. Then, ensure your device is connected to the internet, and if using mobile data, confirm the data package hasn't expired. Besides that, if you're connected to the Internet via a VPN, turn it off temporarily.
 
  If the above basic checks do not solve the issue, you should try the remaining fixes listed below.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Ensure the Issue Isn't on the Backend
 
@@ -59,6 +72,13 @@ thumbnail: https://thmb.techidaily.com/26f65c8609b0e088bfc952ce0e1907346f9597a5e
 
 ![Turning on location services on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/turning-on-location-service-on-iphone.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Locate Google Maps among the listed apps, and ensure that location access is set to "While Using the App" or "Always." Also, toggle on "Precise Location."
 
  If you're using an Android device, open the Settings app and navigate to "Location." Turn on the toggle, then open "App Permissions."
@@ -66,16 +86,10 @@ thumbnail: https://thmb.techidaily.com/26f65c8609b0e088bfc952ce0e1907346f9597a5e
 ![Turning on the location services on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/1-turning-on-the-location-services-on-android.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Find Google Maps among the apps and review its permission settings. Ensure the circle next to "Allow Only While Using the App" or "Ask Every Time" is selected.
@@ -90,29 +104,9 @@ thumbnail: https://thmb.techidaily.com/26f65c8609b0e088bfc952ce0e1907346f9597a5e
 
 ![Configuring time to update automatically.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/settings-the-time-to-update-automatically.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On Android, open the Settings app and go to General Management > Date and Time. Toggle on both "Automatic Date and Time" and "Automatic Time Zone."
 
 ![Enabling the automatic date and time and time zone settings on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/3-enabling-the-automatic-date-and-time-and-time-zone-settings-on-android.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Turn On the Background Data
 
@@ -122,16 +116,16 @@ thumbnail: https://thmb.techidaily.com/26f65c8609b0e088bfc952ce0e1907346f9597a5e
 
 ![Turning on the background data usage on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/4-turning-on-the-background-data-usage-on-android.jpg) 
 
+ On iPhone, the feature is known as Background App Refresh. To [ensure the feature isn't disabled on your phone](https://facebook-video-footage.techidaily.com/seamlessly-integrating-device-screens-into-your-youtube-projects-for-2024/), go to Settings > General > Background App Refresh. Make sure that "Background App Refresh" is turned on. Also, ensure that the toggle next to the Maps app is turned on.
+
+![Turning on background app refresh on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/turning-off-background-app-refresh-on-iphone.jpg) 
+
 <!-- affiliate ads begin -->
 <a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
   <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
 <img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
- On iPhone, the feature is known as Background App Refresh. To [ensure the feature isn't disabled on your phone](https://facebook-video-footage.techidaily.com/seamlessly-integrating-device-screens-into-your-youtube-projects-for-2024/), go to Settings > General > Background App Refresh. Make sure that "Background App Refresh" is turned on. Also, ensure that the toggle next to the Maps app is turned on.
-
-![Turning on background app refresh on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/turning-off-background-app-refresh-on-iphone.jpg) 
 
 ##  Check for Available Updates
 
@@ -142,10 +136,10 @@ thumbnail: https://thmb.techidaily.com/26f65c8609b0e088bfc952ce0e1907346f9597a5e
 ![Updating the Google Maps app from the Android Play Store.-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/5-updating-the-google-maps-app-from-the-android-play-store-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Clear the Google Maps App Cache
@@ -155,10 +149,10 @@ thumbnail: https://thmb.techidaily.com/26f65c8609b0e088bfc952ce0e1907346f9597a5e
 ![Clearing the cache of the Google Maps app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/clearing-the-cache-of-the-google-maps-app.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To clear the cache on an iPhone, you need to offload the app while retaining the app data and then reinstall it. Navigate to Settings > General > iPhone Storage > Maps, and then tap on "Offload App."
@@ -192,22 +186,24 @@ thumbnail: https://thmb.techidaily.com/26f65c8609b0e088bfc952ce0e1907346f9597a5e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-professionally-recording-every-aspect-of-your-ppt-presentations/"><u>[New] In 2024, Professionally Recording Every Aspect of Your PPT Presentations</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-premier-livestream-networks-you-need-to-watch/"><u>[New] The Premier Livestream Networks You Need To Watch</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-manual-to-assembling-a-top-tier-4k-editing-pc/"><u>[New] The Ultimate Manual to Assembling a Top-Tier 4K Editing PC</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-picks-in-gimbals-to-elevate-your-drone-imagery/"><u>[New] Top Picks in Gimbals to Elevate Your Drone Imagery</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-unveiling-hidden-shared-memories-in-messenger-for-2024/"><u>[New] Unveiling Hidden Shared Memories in Messenger for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-new-wave-of-coding-excellence-av1-vs-vp9-face-off/"><u>[Updated] In 2024, The New Wave of Coding Excellence AV1 vs VP9 Face-Off</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-techniques-to-transform-text-into-a-3d-entity/"><u>[Updated] Techniques to Transform Text Into a 3D Entity</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/artificial-intelligence-for-dynamic-frame-synthesis-elevating-graphics-fluidity-and-frames-per-second-fps-performance/"><u>Artificial Intelligence for Dynamic Frame Synthesis: Elevating Graphics Fluidity and Frames Per Second (FPS) Performance</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Vivo Y56 5G | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-techniques-to-reduce-nausea-while-in-vr/"><u>In 2024, Techniques to Reduce Nausea While In VR</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-quick-setup-for-smartphones-as-personalized-vr-headsets/"><u>In 2024, The Quick Setup for Smartphones as Personalized VR Headsets</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-guide-80s-vhs-tricks-for-dynamic-edits/"><u>In 2024, Ultimate Guide 80'S VHS Tricks for Dynamic Edits</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Vivo Y78+? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/streamlining-the-update-process-for-accurate-tiktok-age-details/"><u>Streamlining the Update Process for Accurate TikTok Age Details</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/turing-inspirational-lifestyle-content-for-audiences/"><u>Structuring Inspirational Lifestyle Content for Audiences</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/taking-twitters-short-form-stories-and-making-them-come-alive-as-gifs/"><u>Taking Twitter's Short Form Stories and Making Them Come Alive as GIFS</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-tricks-for-smooth-auditory-paths-for-2024/"><u>Top Tricks for Smooth Auditory Paths for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-bushido-code-continuation-top-similar-game-experiences/"><u>[New] Bushido Code Continuation - Top Similar Game Experiences</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-premium-giggle-and-graphics-editor-for-2024/"><u>[New] Premium Giggle & Graphics Editor for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-ultimate-guide-to-top-6-instagram-reel-enhancements/"><u>2024 Approved The Ultimate Guide to Top 6 Instagram Reel Enhancements</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6-critical-errors-to-evade-in-chatai-engagements/"><u>6 Critical Errors to Evade in ChatAI Engagements</u></a></li>
+<li><a href="https://win11.techidaily.com/a-guide-to-maintaining-perpetual-ps4-windows-tether/"><u>A Guide to Maintaining Perpetual PS4-Windows Tether</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/adding-vibrancy-easy-youtube-subscribe-animations-with-filmora-for-2024/"><u>Adding Vibrancy Easy YouTube Subscribe Animations with Filmora for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convert-m2ts-to-mp4-reduce-file-size-while-preserving-hd-clarity/"><u>Convert M2Ts to MP4: Reduce File Size While Preserving HD Clarity</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-navigating-the-world-of-srt-extensions-for-audible-enjoyment/"><u>In 2024, Navigating the World of SRT Extensions for Audible Enjoyment</u></a></li>
+<li><a href="https://some-skills.techidaily.com/oneplus-tablet-2-unveiled-featuring-superior-3k-display-and-advanced-snapdragon-processor/"><u>OnePlus Tablet 2 Unveiled Featuring Superior 3K Display & Advanced Snapdragon Processor</u></a></li>
+<li><a href="https://some-skills.techidaily.com/retrospective-showdown-2023s-android-versus-the-first-lollipop-release-in-2014/"><u>Retrospective Showdown: 2023'S Android Versus the First Lollipop Release in 2014</u></a></li>
+<li><a href="https://some-skills.techidaily.com/revolutionary-voice-capabilities-how-your-iphone-mirrors-the-classic-macintosh/"><u>Revolutionary Voice Capabilities: How Your iPhone Mirrors the Classic Macintosh</u></a></li>
+<li><a href="https://some-skills.techidaily.com/simple-steps-to-track-down-and-recover-your-misplaced-airpods/"><u>Simple Steps to Track Down and Recover Your Misplaced AirPods</u></a></li>
+<li><a href="https://some-skills.techidaily.com/simplifying-smartphone-productivity-emulate-pc-window-management-for-efficient-task-handling/"><u>Simplifying Smartphone Productivity: Emulate PC Window Management for Efficient Task Handling</u></a></li>
+<li><a href="https://some-skills.techidaily.com/taking-over-android-googles-rise-as-premier-developer-of-additional-features/"><u>Taking Over Android: Google's Rise as Premier Developer of Additional Features</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-appeal-of-e-ink-technology-in-phones-exploring-my-motivations-for-going-digital-paperback/"><u>The Appeal of E-Ink Technology in Phones: Exploring My Motivations for Going Digital Paperback</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-interplay-between-apoptosis-autophagy-and-pyroptosis-can-determine-cell-fate-under-stress-conditions-they-are-not-mutually-exclusive-pathways/"><u>The Interplay Between Apoptosis, Autophagy, and Pyroptosis Can Determine Cell Fate Under Stress Conditions; They Are Not Mutually Exclusive Pathways.</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-8-essential-tips-for-maintaining-optimal-smartphone-performance/"><u>Top 8 Essential Tips for Maintaining Optimal Smartphone Performance</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unveiling-the-process-of-batched-tiktok-content-extraction/"><u>Unveiling the Process of Batched TikTok Content Extraction</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On OnePlus 12? | Dr.fone</u></a></li>
 </ul></div>
 

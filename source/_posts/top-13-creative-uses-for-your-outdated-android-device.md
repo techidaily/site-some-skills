@@ -1,7 +1,7 @@
 ---
 title: Top 13 Creative Uses for Your Outdated Android Device
-date: 2024-10-12T19:40:03.963Z
-updated: 2024-10-16T12:14:06.916Z
+date: 2024-10-14T19:32:03.804Z
+updated: 2024-10-22T03:16:20.629Z
 tags:
   - mobile
 categories:
@@ -35,13 +35,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  You probably won't get a lot of mileage from a 16GB phone, but even a 32GB phone can [store](https://www.kingston.com/en/memory-cards/storage-chart) 26,786 12MP photos, 10,417 songs that are 3MB each, or 168 minutes of 1080p video. The real-world numbers would be slightly lower since the operating system takes up a few gigabytes, but those are still substantial numbers. Not to mention that many old Android phones have SD card slots, allowing you to [expand the storage](https://some-skills.techidaily.com/updated-thankful-discoveries-unlimited-outro-options/) significantly.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2  Use It as a Mini Smart Speaker 
 
  An old Android phone that supports Google Assistant is the perfect smart home speaker; in a way, it's even better because you can use it unplugged. You just have to enable all of [Assistant's hands-free features](https://extra-guidance.techidaily.com/new-instagram-artists-and-intellectual-property-rights/) so that you can use it even when the phone is locked, and you're all set.
@@ -60,41 +53,48 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Granted, you can do this with your main phone as well, but I like to immerse myself when I watch content. It's better to have a dedicated phone remote that isn't logged in to anything, especially with an easily distracted family.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5  Use It as a Mini Car Multimedia and Dash Cam 
 
  I'm all in favor of retrofitting touchscreens in old cars to get modern features like Android Auto, Google Maps, and Spotify. However, if you don't want to spend money on a car stereo and spend several hours figuring out the wiring, just hook up an old phone to the stereo. The phone can [double as a dash cam](https://remote-screen-capture.techidaily.com/in-2024-live-stream-to-screen-seamlessly-reviewed/), so if it's plugged in, it can act as a permanent multimedia solution for your car that doesn't rely on your main phone.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6  Strap It to Your Bicycle 
 
 ![Android Auto on a bike.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/pxl_20240615_124052773-2-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Joe Fedewa / How-To Geek
 
  If you want the [Android Auto experience on your bicycle](https://games-able.techidaily.com/top-tier-games-subscription-matchup-psplus-vs-xbox-game-pass/), just use your old Android phone. This way, you won't damage your main phone in the case of an accident, and the constant vibrations won't break your camera's optical image stabilization (OIS).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7  Leave It in Your Kitchen 
 
  A [kitchen tablet](https://facebook-video-content.techidaily.com/new-facebook-videos-vertical-or-horizontal-in-2024/) or phone left permanently on a phone holder above your counter is the best way to find and follow recipes or just watch YouTube. Simply [set the screen timeout](https://facebook-record-videos.techidaily.com/new-in-2024-10-free-youtube-thumbnail-downloaderssavers-online-download-youtube-thumbnail/) to 30 minutes and create a home screen dedicated to your favorite cooking apps and websites. You'll always have a device ready to go in an instant, and the best part is that you won't even care if you get tomato sauce all over the screen.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8  Use It as a PC Webcam 
@@ -115,18 +115,18 @@ Lucas Gouveia / How-To Geek | [fizkes](https://www.shutterstock.com/image-photo/
 
 ![Android phone with gaming controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/android-phone-gaming-controller.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Jason Montoya / How-To Geek
 
  If you don't want to spend money on a [dedicated handheld](https://hardware-updates.techidaily.com/latest-logitech-speaker-drivers-for-windows-download-now-pc-version-1178/), an old phone can do the trick. Granted, there's a strong argument in favor of using your main phone as a handheld, but the old phone can be more convenient if you want to attach a [game controller](https://www.amazon.com/Controller-Android-Wireless-PlayStation-Minecraft-iOS/dp/B0CVZZNZQM?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003775&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthings-to-do-with-an-old-android-phone%2F&asc%5Fcampaign=Evergreen) permanently to the phone. Your old phone is probably smaller, so it's more portable, and you can be more careless with it when you travel.
 
  Offloading a couple of games and emulators to the old phone also saves on storage. Not playing games on your main phone also means a longer battery life and no annoying notifications.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 11  Use It as a PC Media or DAW Controller 
 
@@ -134,16 +134,16 @@ Jason Montoya / How-To Geek
 
  If you're a music producer, you can leave an old phone permanently on a phone holder to use it as a DAW controller. The touch screen makes for a perfect DAW control surface, as demonstrated in the following video:
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 12  Transform It Into a Picture Frame or Calendar 
 
  Extremely slow Android phones and tablets are the perfect [digital photo frame](https://youtube-help.techidaily.com/2024-approved-the-monetary-journey-of-ajey-nagar-on-youtube/). If your old phone is so old and laggy that you can't use it for anything functional, you can at least use it as a decorative piece because it doesn't demand any advanced processing. Place it on a stand, plug it in to charge, and turn on a photo gallery app that supports slideshows (either from the cloud or device storage), such as [Fotoo](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003775/https://play.google.com/store/apps/details?id=com.bo.fotoo&cjevent=119f1894380a11ef80b07fba0a18ba74).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 13  Sell It 
 
@@ -166,24 +166,24 @@ Jason Montoya / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-art-of-initiating-an-e-giving-event-on-facebook/"><u>[New] The Art of Initiating an E-Giving Event on Facebook</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-vr-immersion-review-series-oculus-edition/"><u>[New] Ultimate VR Immersion Review Series – Oculus Edition</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-building-engagement-the-role-of-youtube-shorts-template-design-for-2024/"><u>[Updated] Building Engagement The Role of YouTube Shorts Template Design for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unified-brands-and-streaming-services-a-new-age-of-marketing-collaboration/"><u>[Updated] Unified Brands & Streaming Services A New Age of Marketing Collaboration</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unlocking-network-transmission-power-with-vlc/"><u>[Updated] Unlocking Network Transmission Power with VLC</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-what-does-instantaneous-video-removal-mean-for-user-privacy/"><u>[Updated] What Does Instantaneous Video Removal Mean for User Privacy?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-your-media-experience-with-pip-in-safari/"><u>2024 Approved Streamline Your Media Experience with PIP in Safari</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-secrets-of-getting-up-close-in-roblox-environments/"><u>2024 Approved The Secrets of Getting Up Close in Roblox Environments</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-10-superior-image-replacement-for-videos/"><u>2024 Approved The Ultimate Guide 10 Superior Image Replacement for Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-voice-over-advantage-elevating-video-quality/"><u>2024 Approved The Voice-Over Advantage Elevating Video Quality</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-the-top-5-virtual-title-designers/"><u>2024 Approved Unlocking the Top 5 Virtual Title Designers</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/expert-tips-for-eradicating-interlaced-footage-defects/"><u>Expert Tips for Eradicating Interlaced Footage Defects</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/googles-gemini-vs-chatgpt-which-advanced-ai-system-leads-in-innovation-and-performance/"><u>Google's Gemini vs ChatGPT: Which Advanced AI System Leads in Innovation and Performance?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-iphone-15-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock on Apple iPhone 15 or iPad?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-samsung-galaxy-a25-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Samsung Galaxy A25 5G by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-craft-a-captivating-story-integrating-images-on-instagram/"><u>In 2024, Craft a Captivating Story Integrating Images on Instagram</u></a></li>
-<li><a href="https://program-issues.techidaily.com/say-goodbye-to-stuttering-gameplay-resolving-fps-drops-in-gtfo/"><u>Say Goodbye to Stuttering Gameplay: Resolving FPS Drops in GTFO</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-beat-weavers-treasury-high-res-dj-visual-samples-for-2024/"><u>The Beat Weaver's Treasury High-Res DJ Visual Samples for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transforming-photos-adding-motion-blur-to-peoples-portraits-with-picsart-for-2024/"><u>Transforming Photos Adding Motion Blur to People's Portraits with Picsart for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-finest-9-digital-places-for-harvesting-futuristic-3d-typefaces/"><u>[New] The Finest 9 Digital Places for Harvesting Futuristic 3D Typefaces</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-innovators-choice-best-gimbal-systems-for-video-creators/"><u>[New] The Innovator’s Choice Best Gimbal Systems for Video Creators</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/hats-your-potential-income-from-youtube-sponsored-videos/"><u>[New] What's Your Potential Income From YouTube Sponsored Videos?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-top-ringtone-choices-essential-downloads-guide/"><u>[Updated] In 2024, Top Ringtone Choices Essential Downloads Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-sierras-best-top-5-mac-videography-software-insights/"><u>[Updated] Sierra's Best Top 5 Mac Videography Software Insights</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-directory-top-10-sources-for-free-graphics/"><u>2024 Approved The Ultimate Directory Top 10 Sources for Free Graphics</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-toolkit-powerdirectors-comprehensive-24-analysis/"><u>2024 Approved The Ultimate Toolkit PowerDirector's Comprehensive '24 Analysis</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-shots-and-their-tales-the-most-shared-stock-memes/"><u>2024 Approved Top Shots and Their Tales The Most Shared Stock Memes</u></a></li>
+<li><a href="https://win-web3.techidaily.com/55m96bus5yyw5yuv55s75oml6acg77ya6kmz44gx44ge44ot44oh44kq44kw44os44o844k544kx44o844or5asj5oplusb44ks44kk44oj/"><u>白黒化動画手順：詳しいビデオグレースケール変換ガイド</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-tecno-spark-20-proplus-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Tecno Spark 20 Pro+ Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-live-gaming-zenith-revealed-9-edition/"><u>In 2024, Live Gaming Zenith Revealed, #9 Edition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unboxing-pureaudiofinder-a-look-into-the-latest-release/"><u>In 2024, Unboxing PureAudioFinder A Look Into the Latest Release</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlock-professional-video-quality-with-obs-studios-lut-functionalities/"><u>In 2024, Unlock Professional Video Quality with OBS Studio's LUT Functionalities</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-t2-pro-5g-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after T2 Pro 5G has been deleted</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-chargepoint-breakthrough-unveiling-the-omniport-solution-for-universal-ev-charging-compatibility/"><u>The ChargePoint Breakthrough: Unveiling the OmniPort Solution for Universal EV Charging Compatibility</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-picks-for-top-rated-free-srt-translation-tools-for-2024/"><u>Ultimate Picks for Top-Rated Free SRT Translation Tools for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/youtube-lighting-essentials-17-tops-reviewed-for-2024/"><u>YouTube Lighting Essentials - #17 Tops Reviewed for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Taking Over Android: Google's Rise as Premier Developer of Additional Features"
-date: 2024-10-11T02:11:13.990Z
-updated: 2024-10-16T02:06:45.702Z
+date: 2024-10-16T19:07:43.076Z
+updated: 2024-10-21T22:50:30.384Z
 tags:
   - mobile
 categories:
@@ -19,19 +19,19 @@ thumbnail: https://thmb.techidaily.com/e591b5728fa84d66a3323b91b4ed2e3f5b0efaa53
 * [Some Preinstalled Apps Are Better Than Google's](https://win-blog.techidaily.com/error-0xc19001e1-in-windows-10-a-complete-walkthrough-to-restore-system-health/)
 * [Google Apps Make Android Phones All Feel the Same](https://fox-friendly.techidaily.com/decreasing-audio-intensity-protocol/)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Google controls the most popular store for distributing Android apps and requires Android phone makers to ship a suite of Google software in order to have access.
 * Some OEM apps are better than Google's, but fewer phone companies are going through the effort of making their own software.
 
  Back in the day, I used to loathe the custom skins and apps that Android phone makers added to their phones. Android's vendor-neutral default apps have since been replaced by Google apps, and the tech giant has used its dominance to fill our Android devices with far more pre-installed software than any other company.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Google and Android Are Not One and the Same
 
@@ -41,23 +41,9 @@ thumbnail: https://thmb.techidaily.com/e591b5728fa84d66a3323b91b4ed2e3f5b0efaa53
 
  The promise of Android is that it's a mobile-first operating system that anyone can use to create great things without starting from scratch. This is how Android got buy-in from businesses and volunteers from all over the world. You can use and develop Android without being entirely beholden to the whims of another corporation.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  After Android Became Popular, Google Wanted More Control
 
 ![The app drawer of the OnePlus12R](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-app-drawer-of-the-oneplus12rjpg_53485300814_o.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -69,9 +55,29 @@ Jerome Thomas / How-To Geek
 
 ![Galaxy Z Flip 6 next to the Fold 6 on a table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/flip-6-next-to-fold-6-1.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Justin Duino / How-To Geek
 
  Many other companies have stopped making their own software and decided to stick to Google's defaults instead. There are plenty of users and product reviewers calling for just that. They're already deep in the Google ecosystem and just want the most optimized experience. Yet this stance ultimately limits the amount of choice available in the market. What's left for those of us who like Android phones but, after seeing all the shenanigans Google has gotten up to, want to opt out of doing business with them?
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  I Don't Want to Give All of My Data to Google
 
@@ -82,13 +88,6 @@ Justin Duino / How-To Geek
  It's not that I don't use any Google apps. I find Google Maps useful, especially due to how much information it provides about local businesses. I watch YouTube, since it is the primary way major and independent publishers alike distribute video. But these apps don't provide essential phone functionality in the way that a gallery app and a local video player do. They're the kind of programs many people would immediately seek out on their own in the Play Store. Still, they're preinstalled to drive more people toward Google services and provide the company with more marketable data.
 
  People are quick to call out budget Motorola phones for installing unwanted shopping apps and random games, but Google's software collects far more data and is much more intrusive. We're just conditioned to expect them, even if we have never once clicked on Google Home.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Some Preinstalled Apps Are Better Than Google's
 
@@ -103,6 +102,13 @@ Close
 Close 
 
  Nothing (the company) shows [how much style a phone maker can give their phones](https://hardware-reviews.techidaily.com/toms-tech-insights-exploring-the-latest-in-hardware-innovation/) without making their devices as garish and inconsistent as the Android skins of years past. Android would be far less interesting without their innovations and experimentation.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Google Apps Make Android Phones All Feel the Same
 
@@ -137,24 +143,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-deciding-on-fps-to-opt-for-30-or-go-for-a-sharp-60hz/"><u>[New] Deciding on FPS To Opt for 30 or Go For a Sharp 60Hz</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-best-in-class-writing-workshop/"><u>[New] In 2024, Best-in-Class Writing Workshop</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-essential-strategies-for-webp-to-jpeg-conversion/"><u>[Updated] Essential Strategies for WebP to JPEG Conversion</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-making-photographs-larger-without-losing-quality/"><u>[Updated] Making Photographs Larger Without Losing Quality</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-iphones-best-5-podcasting-apps/"><u>[Updated] The Ultimate Guide to iPhone's Best 5 Podcasting Apps</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-turn-off-youtubes-quick-video-buffering-feature/"><u>[Updated] Turn Off YouTube's Quick Video Buffering Feature</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unleash-potential-the-best-10-motivational-movies/"><u>[Updated] Unleash Potential The Best 10 Motivational Movies</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-the-full-potential-of-your-hdr-images-with-lightroom/"><u>2024 Approved Unleash the Full Potential of Your HDR Images with Lightroom</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-hidden-potential-boost-productivity-essential-activities-during-podcast-sessions/"><u>2024 Approved Unlock Hidden Potential, Boost Productivity Essential Activities During Podcast Sessions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/beat-saber-stability-issues-heres-how-you-can-stop-the-game-from-crashing/"><u>Beat Saber Stability Issues? Here's How You Can Stop the Game From Crashing!</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-xs-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On iPhone XS</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-spotify-listening-with-secure-speed-techniques/"><u>In 2024, Streamlining Spotify Listening with Secure Speed Techniques</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-essential-blueprint-for-finding-and-enjoying-premium-cricket-streams/"><u>In 2024, The Essential Blueprint for Finding and Enjoying Premium Cricket Streams</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-experts-guide-to-interactive-instagram-stories-polling/"><u>In 2024, The Expert's Guide to Interactive Instagram Stories Polling</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-hero-series-advance-from-4-to-5/"><u>In 2024, The Hero Series Advance From 4 to 5</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/streamline-your-impact-the-most-effective-video-formats-for-youtube/"><u>Streamline Your Impact The Most Effective Video Formats for YouTube</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/the-evaluation-of-hdr-quality-with-luminance-for-2024/"><u>The Evaluation of HDR Quality with Luminance for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-funny-photo-editor-for-2024/"><u>Ultimate Funny Photo Editor for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-minecraft-guide-a-family-friendly-adventure-in-a-blocky-universe/"><u>Ultimate Minecraft Guide: A Family-Friendly Adventure in a Blocky Universe</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transitioning-video-content-into-stills-with-windows-11/"><u>[New] Transitioning Video Content Into Stills with Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-proven-ways-to-enhance-your-home-nba-streams/"><u>2024 Approved Proven Ways to Enhance Your Home NBA Streams</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-submerge-mastery-top-tips-for-capturing-great-water-videos/"><u>2024 Approved Submerge Mastery Top Tips for Capturing Great Water Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-thankful-compilation-professional-and-personalized-otus/"><u>2024 Approved Thankful Compilation Professional & Personalized OTUs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-8-best-free-and-paid-video-collage-apps-for-android/"><u>2024 Approved Top 8 Best Free and Paid Video Collage Apps for Android</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-your-iphone-footage-into-vr/"><u>2024 Approved Transforming Your iPhone Footage Into VR</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-iphone-se-without-apple-id-password-by-drfone-ios/"><u>In 2024, How To Erase an iPhone SE Without Apple ID Password?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-mastering-youtubes-aesthetics-enhancing-your-videos/"><u>In 2024, Mastering YouTube's Aesthetics Enhancing Your Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pioneering-pedagogy-through-film-in-the-classroom/"><u>In 2024, Pioneering Pedagogy Through Film in the Classroom</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-techniques-for-high-quality-in-game-recordings/"><u>In 2024, Techniques for High-Quality In-Game Recordings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-list-of-best-metaverse-visual-tech/"><u>In 2024, The Ultimate List of Best Metaverse Visual Tech</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/migliori-pratiche-per-il-backup-efficienti-di-compressione-dellattivita/"><u>Migliori Pratiche per Il Backup Efficienti Di Compressione Dell'Attività</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/procedures-for-enablingdisabling-windows-component/"><u>Procedures for Enabling/Disabling Windows Component</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-guide-to-solving-iphone-n-th-3s-most-frequent-glitches/"><u>The Ultimate Guide to Solving iPhone N Th-3's Most Frequent Glitches</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/1728495517269-windows-11/"><u>Windows 11でのファイル暗号化不能状況をどう修正するか</u></a></li>
 </ul></div>
 

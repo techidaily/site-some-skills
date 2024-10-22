@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Online Security: The Importance of Using Longer Passwords"
-date: 2024-10-11T23:23:10.465Z
-updated: 2024-10-16T07:52:45.659Z
+date: 2024-10-15T21:34:51.315Z
+updated: 2024-10-21T20:57:26.929Z
 tags:
   - web
 categories:
@@ -22,16 +22,10 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
  The short answer is password entropy. That term sounds way more complicated than it really is unless you’re familiar with cryptography, so let’s take a look at what password entropy is.
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What's Password Entropy?
@@ -42,22 +36,15 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
 
 ![A phone receiving a 2FA code.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/shutterstock_2373964067.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [ronstik](https://www.shutterstock.com/g/ronstik "ronstik") / Shutterstock.com
 
  The best way to attack a password is through a [dictionary attack](https://extra-skills.techidaily.com/2024-approved-smartest-ways-to-track-wedding-dates-ios-and-android-style/), which is a program that will try to “guess” a password by going through common words and phrases. It’s almost literally throwing the book at your password, going through the entire dictionary and also common variations. Once the password is guessed, the attacker has access.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Brute Force and Randomness
@@ -69,10 +56,10 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
  However, this doesn’t work as it’s not random. Attackers can easily account for a change like this, and it will take them maybe a nanosecond longer to gain access to an account. For something to be closer to truly random, you have to take humans out of the equation entirely and use a computer to create a random password. The [best password managers](https://facebook-video-content.techidaily.com/updated-how-to-create-facebook-video-ads-with-free-video-creation-kit-for-2024/), programs that create and store passwords for you, have this functionality built in.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How Entropy Affects Password Length
@@ -85,6 +72,13 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
 * Use of numbers
 
  All of these are important, but length plays a special role, one we need some math to explain.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  How to Calculate Password Entropy
 
@@ -124,15 +118,20 @@ E = log2(RL)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-navigate-noisy-zoom-sounds-effective-remedies/"><u>[New] Navigate Noisy Zoom Sounds Effective Remedies</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-minimizing-vr-nausea-effective-strategies/"><u>2024 Approved Minimizing VR Nausea Effective Strategies</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-taking-your-aerial-game-to-new-heights-with-dji-spark-reviewed/"><u>2024 Approved Taking Your Aerial Game to New Heights with DJI Spark Reviewed</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-instagram-influencer-blueprint-from-few-to-a-thousand-fans/"><u>2024 Approved The Instagram Influencer Blueprint From Few to a Thousand Fans</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-oppo-a18-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Oppo A18</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-essence-of-sound-diminishment-a-lumafusion-insight/"><u>In 2024, The Essence of Sound Diminishment A Lumafusion Insight</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-turning-xmlssattml-into-srt-practical-steps/"><u>In 2024, Turning XML/SSA/TTML Into SRT Practical Steps</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/-vocal-changer-tools-for-digital-personalities-for-2024/"><u>Prime Vocal Changer Tools for Digital Personalities for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/streamlined-approach-to-add-linktree-in-tiktok-about-section-for-2024/"><u>Streamlined Approach to Add Linktree in TikTok About Section for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-eus-framework-on-artificial-intelligence-and-its-potential-effects-on-ai-services-like-chatgpt/"><u>The EU's Framework on Artificial Intelligence and Its Potential Effects on AI Services Like ChatGPT</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-enhancing-viewing-experience-mastering-netflixs-floating-window-feature/"><u>[New] Enhancing Viewing Experience Mastering Netflix's Floating Window Feature</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-thankful-discoveries-unlimited-outro-options/"><u>[New] Thankful Discoveries Unlimited Outro Options</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-10-intro-maker-for-panzoid/"><u>[New] Top 10 Intro Maker for Panzoid</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transform-video-editing-with-kinemaster-know-how-and-premier-online-counterparts/"><u>[New] Transform Video Editing with KineMaster Know-How & Premier Online Counterparts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-complete-catalog-of-livestreaming-cameras-review/"><u>[Updated] The Complete Catalog of Livestreaming Cameras Review</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-secure-and-detailed-best-ways-to-document-fb-call-footage/"><u>2024 Approved Secure & Detailed Best Ways to Document FB Call Footage</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-creme-de-la-creme-live-streaming-services/"><u>2024 Approved The Crème De La Créme Live Streaming Services</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-smartphone-vr-gadgets-uncovered/"><u>2024 Approved Top 10 Smartphone VR Gadgets Uncovered</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-samsung-galaxy-m54-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Samsung Galaxy M54 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-create-and-share-the-funniest-memes/"><u>In 2024, Create and Share the Funniest Memes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-pick-hilarious-tone-downloads-online/"><u>In 2024, Top Pick Hilarious Tone Downloads Online</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-pics-high-quality-no-cost/"><u>In 2024, Transform Your Pics - High Quality, No Cost</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-reducing-your-csgo-lag-time/"><u>Step-by-Step Solutions for Reducing Your CS:GO Lag Time</u></a></li>
+<li><a href="https://win11.techidaily.com/tailoring-your-windows-11-interface-for-maximum-comfort/"><u>Tailoring Your Windows 11 Interface for Maximum Comfort</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-win10-users-rejoice-fixing-your-invisible-mouse-cursor-issue-today/"><u>Windows ([Win|10]) Users Rejoice! Fixing Your Invisible Mouse Cursor Issue Today!</u></a></li>
 </ul></div>
 

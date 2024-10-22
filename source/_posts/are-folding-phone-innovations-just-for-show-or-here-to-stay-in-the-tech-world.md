@@ -1,7 +1,7 @@
 ---
 title: Are Folding Phone Innovations Just for Show, or Here to Stay in the Tech World?
-date: 2024-10-09T11:04:51.265Z
-updated: 2024-10-15T16:41:05.940Z
+date: 2024-10-15T18:56:07.841Z
+updated: 2024-10-21T19:03:31.795Z
 tags:
   - mobile
 categories:
@@ -20,10 +20,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  I'm the last person you'd expect to be down on cool and interesting gadgets, and folding phones definitely qualify as both, but will they ever be more than that? Can folding phones become a mainstream option for smartphone buyers at some point, or is the whole premise flawed?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Folding Phones Have a Dubious Purpose
@@ -31,6 +31,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  What are folding phones actually meant to do better than regular slabs? There are essentially just two use cases as far as I can tell. One is to let you have a standard phone screen size, but make the phone shorter, as with the [Galaxy Z Flip](https://twitter-videos.techidaily.com/no-cash-all-fun-turning-twitter-vids-into-gifs-for-2024/). The other is to keep the phone close to a regular phone's shape, but to fold it open into something closer to a small tablet, as is the case with the [Galaxy Z Fold](https://screen-activity-recording.techidaily.com/new-vsf-video-capture-insights-a-critical-look-for-2024/).
 
 ![Person holding the Samsung Galaxy Z Flip 6 showing the cover display](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/person-holding-the-samsung-galaxy-z-flip-6-showing-the-cover-display.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -40,13 +47,6 @@ Justin Duino / How-To Geek
 
  Folding phones are cool, and a novelty, but for me, when you try to break down the value proposition to its essence, it doesn't quite add up to more than that.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Moving Parts Are Always Less Reliable
 
  One of the best things about my [M1 MacBook Air](https://facebook-video-share.techidaily.com/new-2024-approved-discover-the-best-tools-and-tips-to-accurately-tag-your-videos/) is that it's almost entirely a solid-state device, except for the screen hinge and the keyboard, which are still failure points. My smartphone and iPad, on the other hand, are in completely solid state, with no moving parts. If it weren't for the current state of battery technology, these devices would probably work indefinitely. Barring physical damage, a modern phone is pretty much bulletproof until the battery gives up the ghost.
@@ -54,10 +54,10 @@ Justin Duino / How-To Geek
  With a folding phone you throw absolutely all of that out the window, with both a complex hinge and the folding screen itself, which is enormously more fragile. Until materials science advances to the point where these folding screens are as robust against wear and damage as typical smartphone screens are today, I'll remain hesitant to get one as my daily driver. I've also come to the point where I don't consider a smartphone something I use for two years and then replace. These devices are so powerful, and makers are promising such long support cycles, that I expect five years of use with [proper battery care](https://review-topics.techidaily.com/how-to-change-location-on-facebook-dating-for-your-infinix-gt-10-pro-drfone-by-drfone-virtual-android/). I just don't see folding phones doing that on average with normal daily use.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The Sacrifices Aren’t Worth It
@@ -70,16 +70,16 @@ Justin Duino / How-To Geek
 
  Again, there's nothing wrong with someone deciding that those sacrifices are not an issue to them personally, but it seems to me that the benefits of a folding screen don't measure up favorably to the list of downsides.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Rolling Screens Might Be a Better Take
 
 ![The Phantom Ultimate 3 rollable phone held in a hand.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/phantom_ultimate_3.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Tecno
 
@@ -102,18 +102,20 @@ Tecno
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/implify-your-youtube-presence-with-flawless-shorts-thumbnails/"><u>[New] Simplify Your YouTube Presence with Flawless Shorts Thumbnails</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-tips-for-applying-luts-in-film-color-grading/"><u>[New] Tips for Applying LUTs in Film Color Grading</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlock-words-full-potential-with-easy-speech-to-text-features/"><u>[New] Unlock Word's Full Potential with Easy Speech-to-Text Features</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-essential-tips-for-instagram-photos-with-custom-watermarks/"><u>[Updated] In 2024, Essential Tips for Instagram Photos with Custom Watermarks</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-the-experts-approach-to-inserting-subtitlescc-on-youtube-videos/"><u>[Updated] In 2024, The Expert's Approach to Inserting Subtitles/CC on YouTube Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-monitor-guide-transform-your-xbox-series-x-experience-today/"><u>[Updated] The Ultimate Monitor Guide Transform Your Xbox Series X Experience Today</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-summit-creation-pro-x-evaluation/"><u>2024 Approved Summit Creation Pro X Evaluation</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-selections-premium-webcam-platforms/"><u>2024 Approved Ultimate Selections Premium Webcam Platforms</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/chatgpt-reference-techniques-a-step-by-step-tutorial-for-proper-citation/"><u>ChatGPT Reference Techniques: A Step-by-Step Tutorial for Proper Citation</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Vivo V30 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Honor 90 | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transforming-everyday-alerts-how-to-create-customizable-tones-on-android-phones-for-2024/"><u>Transforming Everyday Alerts How to Create Customizable Tones on Android Phones for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-insiders-guide-to-professional-vsco-usage/"><u>[New] 2024 Approved The Insider's Guide to Professional VSCO Usage</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-insiders-look-at-creating-movies-using-windows-8-movie-maker/"><u>[New] The Insider's Look at Creating Movies Using Windows 8 Movie Maker</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-auditory-enhancements-for-pixels-and-playlists-for-2024/"><u>[Updated] Auditory Enhancements for Pixels and Playlists for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-prime-sound-alteration-apps-for-vloggers/"><u>2024 Approved Prime Sound Alteration Apps for Vloggers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-supreme-artistry-studios-feedback-studio-review-2023/"><u>2024 Approved Supreme Artistry Studios Feedback Studio Review 2023</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-editors-edge-secrets-to-professional-photo-refining/"><u>2024 Approved The Editor's Edge Secrets to Professional Photo Refining</u></a></li>
+<li><a href="https://techtrends.techidaily.com/decoding-408-request-timeout-issue-causes-fixes-and-prevention-tips/"><u>Decoding 408 Request Timeout Issue – Causes, Fixes & Prevention Tips</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-on-apple-iphone-6-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock on Apple iPhone 6</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-essentials-of-effective-video-narration-techniques/"><u>In 2024, The Essentials of Effective Video Narration Techniques</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/instantaneous-screen-logger-for-chrome-for-2024/"><u>Instantaneous Screen Logger for Chrome for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-samsung-galaxy-a54-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Samsung Galaxy A54 5G FRP Without Computer</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-melody-meets-discovering-crossfade-magic-for-2024/"><u>The Melody Meets Discovering Crossfade Magic for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-quick-access-handbook-for-rapid-srt-to-text-change-for-2024/"><u>The Ultimate, Quick-Access Handbook for Rapid SRT to Text Change for 2024</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/top-choice-m2-nvme-ssd-cloning-software-discover-how-aomei-backupper-outperforms/"><u>Top Choice M.2 NVMe SSD Cloning Software: Discover How AOMEI Backupper Outperforms</u></a></li>
 </ul></div>
 
