@@ -1,7 +1,7 @@
 ---
 title: Top 8 Solutions for When Your Laptop Won't Charge Despite Being Connected
-date: 2024-10-15T01:49:11.101Z
-updated: 2024-10-21T19:24:15.392Z
+date: 2024-10-21T17:39:04.444Z
+updated: 2024-10-27T21:33:46.947Z
 tags:
   - deals
 categories:
@@ -30,6 +30,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Is your laptop not charging even though you've plugged it in? While most of the time, this situation occurs when the charging adapter isn't properly connected, other times outdated BIOS or corruption in the battery driver could be the possible culprit. Whatever the reason may be, here are fixes you can try if your laptop is plugged in but not charging.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  1\. Check Your Laptop Adapter
 
  Before taking any major steps, the first thing you should check is whether the power cord is securely connected to the adapter brick. If the connection is loose, the adapter brick will not receive power, preventing your laptop from charging.
@@ -45,10 +52,10 @@ Aman Kumar / How-To Geek
 ![Multiple power adaptors and cables plugged into a power strip](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/52731312553_e2b752b4ab_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Jason Fitzpatrick / How-To Geek
@@ -63,18 +70,18 @@ Jason Fitzpatrick / How-To Geek
 
  Counterfeit chargers often charge laptops at an extremely slow pace or, in some cases, not charge at all. If your original laptop charger is malfunctioning, opt to purchase the same model charger directly from the laptop manufacturer online or in-store instead of resorting to a third-party charger.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  4\. Examine the Charging Port and Pin
 
  If your laptop is still not charging, you should carefully examine your laptop's charging port for any dust or debris that might have accumulated inside. If any dust or debris is present, it will prevent the charger from supplying power to your laptop, ultimately causing the issue at hand.
 
 ![Charging port on a laptop with visible dust surrounding it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/charging-port.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Aman Kumar / How-To Geek
 
@@ -88,6 +95,13 @@ Aman Kumar / How-To Geek
 
  If the charging pin is broken, you can easily cut the pin and connect a new one. However, if you don't feel confident in cutting and changing the pin yourself, you should contact an expert to do it.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  5\. Allow Your Laptop to Cool Down
 
  The issue can also arise if your [laptop has overheated](https://video-content-creator.techidaily.com/updated-trim-vlc-videos-on-mac-with-ease-no-quality-loss-guaranteed-for-2024/). Your laptop may have overheated if you've been engaged in CPU- and GPU-intensive tasks. In such cases, your laptop may intentionally halt the charging process to safeguard your battery.
@@ -97,16 +111,10 @@ Aman Kumar / How-To Geek
  In this situation, there's not much you can do. Simply shut down your laptop and allow it to cool down. Once you feel the temperature has decreased, reconnect the charger, and your laptop should start charging again.
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  6\. Download Any Available BIOS Update
@@ -123,13 +131,6 @@ Aman Kumar / How-To Geek
 
 ![Batteries node in the Device Manager app on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/batteries-node.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Right-click on the "Microsoft AC Adapter" driver and select the "Uninstall device" option. Similarly, uninstall the "Microsoft ACPI-Compliant Control Method Battery" driver.
 
 ![The Uninstall Device option in Device Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/uninstall-device.jpg) 
@@ -138,14 +139,20 @@ Aman Kumar / How-To Geek
 
 ![The Windows update menu in the Settings app with an arrow pointing to the Check for Updates button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/check-for-updates.jpg) 
 
- After reinstalling the driver, reconnect the charger and check if your laptop starts charging.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ After reinstalling the driver, reconnect the charger and check if your laptop starts charging.
 
 ##  8\. Test for a Defective Battery
 
@@ -162,13 +169,6 @@ Aman Kumar / How-To Geek
  Confirming this possibility on a laptop with a non-removable battery is more complicated. This is because you'll need to open the machine to access the battery. Doing so could not only damage important components if done incorrectly but may also void your laptop's warranty.
 
 ![The underside of a laptop with the back removed and internal battery revealed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/battery.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Aman Kumar / How-To Geek
 
@@ -193,19 +193,15 @@ Aman Kumar / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-master-your-notes-opt-for-mematic/"><u>[New] Master Your Notes - Opt for Mematic</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/tep-by-step-process-to-embrace-cc-copyrights/"><u>[New] Step-by-Step Process to Embrace CC Copyrights</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-speed-solutions-for-sluggish-android-videos/"><u>[New] Top Speed Solutions for Sluggish Android Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-transcoding-approaches-to-boost-zoom-videos/"><u>[New] Top Transcoding Approaches to Boost Zoom Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-syncing-with-symphonies-music-on-whatsapp-status/"><u>2024 Approved Syncing with Symphonies Music on WhatsApp Status</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Lava Blaze Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/cddvdusb-missing-issue-on-windows-1011/"><u>CD/DVD/USB Missing Issue on Windows 10/11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-set-up-browser-cookies-to-enhance-online-experience-and-security/"><u>How To Set Up Browser Cookies to Enhance Online Experience and Security</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-storytelling-schools-1-8-rankings-and-insights/"><u>In 2024, Top Storytelling Schools #1-#8 Rankings & Insights</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-vr-films-that-you-should-never-miss/"><u>In 2024, Top VR Films That You Should Never Miss</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-android-3d-player-showcase/"><u>In 2024, Ultimate Android 3D Player Showcase</u></a></li>
-<li><a href="https://win11.techidaily.com/personalizing-your-windows-environment-adding-to-the-desktop-menu/"><u>Personalizing Your Windows Environment: Adding to the Desktop Menu</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/the-ultimate-list-of-top-ranked-free-flv-converter-tools-for-seamless-downloads-and-usage/"><u>The Ultimate List of Top-Ranked Free FLV Converter Tools for Seamless Downloads & Usage</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-decoding-the-secrets-of-youtubes-content-hub-for-2024/"><u>[Updated] Decoding the Secrets of YouTube's Content Hub for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-top-virtual-reality-bike-adventures/"><u>[Updated] Explore Top Virtual Reality Bike Adventures</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-into-every-detailed-detail-expert-strategies-to-record-immersive-sims-4-adventures-for-2024/"><u>[Updated] Into Every Detailed Detail Expert Strategies to Record Immersive Sims 4 Adventures for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-5-android-clippers-essential-image-editing-apps/"><u>[Updated] Top 5 Android Clippers Essential Image Editing Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-free-video-tools-cross-platform-os-support/"><u>2024 Approved Top 10 Free Video Tools Cross-Platform OS Support</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/1728487891918-windows-1087/"><u>如何在Windows 10/8/7上进行即时文件与目录同步方法</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-iphone-14-plus-drfone-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-definitive-list-high-quality-costless-lut-options-explored/"><u>In 2024, The Definitive List High-Quality, Costless LUT Options Explored</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-best-free-mpeg-video-splitters-a-comprehensive-guide-for-2024/"><u>New The Best Free MPEG Video Splitters A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-tutorial-on-3d-lut-tools-for-2024/"><u>Ultimate Tutorial on 3D LUT Tools for 2024</u></a></li>
 </ul></div>
 

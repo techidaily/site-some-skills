@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Easily Setting Up & Controlling Fonts on macOS"
-date: 2024-10-15T20:17:13.154Z
-updated: 2024-10-21T16:20:57.112Z
+date: 2024-10-25T17:49:19.641Z
+updated: 2024-10-27T19:42:17.149Z
 tags:
   - desktop
 categories:
@@ -28,10 +28,10 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
  macOS Sonoma can handle many font types, like OpenType, Mac TrueType, Windows TrueType, bitmap, and dfont. As of macOS Catalina, Mac doesn't support PostScript fonts.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to View Your Fonts in Font Book
@@ -40,11 +40,31 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 
 ![Selecting Font Book from Launchpad.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-6.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Font Book can show your fonts in different views:
 
 **1\. Grid View:** Go to View > View As Grid or press ⌘+1\. In this view, each font shows as a thumbnail with a few characters. It's perfect for a quick glance at all your fonts.
 
 ![Grid view in Font Book.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-20-at-5-59-10-pm-1.png) 
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2\. Samples View:** Want a closer look? Choose View > View As Samples or press ⌘+2\. Each font appears in a full-width preview with a "The quick brown fox..." sentence example. You can't see many fonts at once, but it's great for checking out how each font looks in practice.
 
@@ -58,13 +78,6 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 
  To check out a font or font family in more detail, double click it. The font pops up in the main part of the window. To change the size of your fonts when previewing them in Font Book, use the slider at the top (with the minus and plus symbol on either side.)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Install a Font
 
  If a default system font within Font Book is colored gray instead of black, it means the font isn't downloaded to your local machine. To fix that, right-click it and select "Download." The font is automatically activated, so you don't need to worry about that.
@@ -77,31 +90,24 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 
  Avoid going overboard with font installations. Installing more fonts than you actually use can lead to sluggish performance in certain apps and create an overwhelming font menu.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  How to Install Fonts for All Users
 
  By default, Font Book installs new fonts just for your account. They reside in the invisible Library folder "/Users/Home/Library/Fonts". But, if you want all users on your Mac to have access to the fonts, go to Font Book > Settings > Installation. Select the "Default Install Location" menu and choose "All Users." This setting shares your fonts in the main folder "/Library/Fonts".
 
 ![Selecting All Users from Font Book's Installation menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-12-at-2-55-14-pm.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Deactivate or Remove a Font
 
  If you don't want a font to be selectable across your system, it's simple. Find it in Font Book, right-click it, and select "Deactivate." If you change your mind, repeat the steps but select "Activate."
 
 ![The deactivate option in Font Book.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-12-at-2-57-58-pm.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Alternatively, to delete it entirely, select "Remove." However, note that Font Book won't let you deactivate or delete any fonts that macOS needs to operate, like Arial, Times New Roman, and Avenir.
 
@@ -116,10 +122,10 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 ![Creating a new font collection.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-24-at-1-07-32-am.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Select the fonts you want to include in your collection (you can choose them from an existing collection, if needed.) To do that, click and drag to highlight multiple fonts, or use the Command key to select non-contiguous fonts. Then, drag the fonts to the collection, or right-click and use the "Add to" menu.
@@ -151,22 +157,14 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-essential-techniques-in-capturing-live-sports-on-camera/"><u>[Updated] 2024 Approved Essential Techniques in Capturing Live Sports on Camera</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-unlocking-the-secrets-to-effective-instagram-scheduling/"><u>[Updated] 2024 Approved Unlocking the Secrets to Effective Instagram Scheduling</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-streamline-your-content-delivery-with-tailored-srt-upload-practices-on-media-outlets/"><u>[Updated] Streamline Your Content Delivery with Tailored SRT Upload Practices on Media Outlets</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-streamline-your-twitter-videos-with-pro-convertors/"><u>[Updated] Streamline Your Twitter Videos with Pro Convertors</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-subtlety-at-the-helm-lowering-sound-intensity-in-fl-studio/"><u>[Updated] Subtlety at the Helm Lowering Sound Intensity in FL Studio</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-8-gratis-4k-uhd-video-apps-for-pcos-x/"><u>[Updated] Ultimate 8 Gratis 4K UHD Video Apps for PC/OS X</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-vivacut-edit-pro-comprehensive-review-and-tutorial-2024/"><u>[Updated] Ultimate VivaCut Edit Pro Comprehensive Review & Tutorial 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unleashing-the-power-of-spotifys-ad-platform-for-marketers/"><u>[Updated] Unleashing the Power of Spotify's Ad Platform for Marketers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlock-potential-in-digital-creation-the-best-android-drawing-tools-list/"><u>[Updated] Unlock Potential in Digital Creation The Best Android Drawing Tools List</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-driving-impact-with-data-informed-spotify-ads/"><u>2024 Approved Driving Impact with Data-Informed Spotify Ads</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-secrets-to-earning-facebooks-status-symbol-blue/"><u>2024 Approved Secrets to Earning Facebook’s Status Symbol (Blue)</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-unlock-from-apple-iphone-6s-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock From Apple iPhone 6s? How to Fix it?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/best-7-free-internet-faxing-applications-available-today/"><u>Best 7 Free Internet Faxing Applications Available Today</u></a></li>
-<li><a href="https://some-skills.techidaily.com/critical-insights-into-the-intensified-influence-of-marvels-spider-man-miles-morales-title/"><u>Critical Insights Into the Intensified Influence of Marvel's Spider-Man: Miles Morales Title</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/diy-repair-what-to-do-when-your-roku-tv-wont-turn-on/"><u>DIY Repair: What to Do When Your Roku TV Won't Turn On</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Samsung Galaxy A05 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/re-establish-your-windows-hello-fix-unresponsive-fingerprints/"><u>Re-Establish Your Windows Hello: Fix Unresponsive Fingerprints</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-mastering-virtual-backgrounds-with-kinemasters-stepwise-guide-to-green-screen/"><u>[New] 2024 Approved Mastering Virtual Backgrounds with Kinemaster's Stepwise Guide to Green Screen</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-crafting-exquisite-hdr-portraits/"><u>[New] The Ultimate Guide to Crafting Exquisite HDR Portraits</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-path-to-virtual-visualization-excellence-a-zoom-video-filters-tutorial/"><u>[Updated] The Path to Virtual Visualization Excellence A Zoom Video Filters Tutorial</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-windows-guide-free-tools-for-capturing-live-tv/"><u>[Updated] Windows Guide Free Tools for Capturing Live TV</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-symbolizing-success-crafting-effective-podcast-logos/"><u>2024 Approved Symbolizing Success Crafting Effective Podcast Logos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/from-fantasy-to-feasibility-vrs-milestones/"><u>From Fantasy to Feasibility VR's Milestones</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/steps-for-efficiently-storing-whatsapp-audio-transcripts/"><u>Steps for Efficiently Storing WhatsApp Audio Transcripts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/system-debugging-made-easy-locating-and-resolving-error-codes-via-the-power-of-command-prompt/"><u>System Debugging Made Easy: Locating and Resolving Error Codes via the Power of Command Prompt</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleash-creative-potential-the-ultimate-hdr-guide-for-2024/"><u>Unleash Creative Potential The Ultimate HDR Guide for 2024</u></a></li>
 </ul></div>
 

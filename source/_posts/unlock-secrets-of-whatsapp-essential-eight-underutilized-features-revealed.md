@@ -1,7 +1,7 @@
 ---
 title: "Unlock Secrets of WhatsApp: Essential Eight Underutilized Features Revealed!"
-date: 2024-10-16T16:24:18.638Z
-updated: 2024-10-21T18:09:00.495Z
+date: 2024-10-25T21:02:21.927Z
+updated: 2024-10-27T18:31:12.273Z
 tags:
   - web
 categories:
@@ -32,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
 
 ![Pinning a message in WhatsApp on an iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-pinning-or-starring-a-message-in-whatsapp.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On Android, long-tap the message, click on the three vertical dots in the top right corner, and select "Pin" or "Star."
 
 ![Pinning a message in the WhatsApp app on Android](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-pinning-a-message-in-the-whatsapp-app-on-android.jpg) 
@@ -59,14 +52,14 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
 
 ![Disabling read receipts in WhatsApp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-disabling-read-receipts-in-whatsapp.jpg) 
 
- However, this feature works both ways: you also won't be able to see when others have read your messages. Also, remember that this setting doesn't apply to group chats.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ However, this feature works both ways: you also won't be able to see when others have read your messages. Also, remember that this setting doesn't apply to group chats.
 
 ## 4  Create Custom Notifications for Specific Chats 
 
@@ -77,10 +70,10 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
 ![Selecting a custom alert tone for a contact in WhatsApp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-selecting-a-custom-alert-tone-in-whatsapp.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  On Android, you can choose separate tones for messages and calls. On the iPhone, you can only select a single tone for all alerts.
@@ -98,29 +91,10 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
 ![Creating a new broadcast list in WhatsApp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-creating-a-new-broadcast-list-in-whatsapp.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6  Use Avatars and Custom Stickers 
@@ -131,9 +105,23 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
 
 ![Options to create an avatar manually or automatically](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-options-to-create-an-avatar-manually-or-automatically.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once your avatar is ready, you'll see two options: "Browse Stickers," where you can see and [use custom stickers](https://youtube-clips.techidaily.com/shaping-viewers-attention-employing-jump-cuts-in-video-editing/), and "Create Profile Photo," where you can select an avatar image for your profile picture.
 
 ![Checking the custom avatar stickers and profile photo in WhatsApp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/6-checking-the-custom-avatar-stickers-and-profile-photo-in-whatsapp.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7  Set Custom Wallpapers for Individual Contacts 
 
@@ -143,15 +131,22 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
 
 ![Selecting a custom chat wallpaper for a contact in WhatsApp on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/7-selecting-a-new-whatsapp-wallpaper-in-whatsapp.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To set a custom wallpaper for a contact on Android, open the chat, tap the three vertical dots in the top-right corner, and select "Wallpaper." Then, choose a wallpaper and tap "Set Wallpaper." When prompted, select "For This Chat."
 
 ![Changing a wallpaper for a particular chat in WhatsApp on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-changing-a-wallpaper-for-a-particular-chat-in-whatsapp.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8  Share Your Live Location with Others 
@@ -162,27 +157,20 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
 
 ![The menu to share the location in WhatsApp.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/8-trying-to-share-the-location-in-whatsapp.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next, tap "Share Live Location," choose how long you want to share it, add a caption if you'd like, and tap the send button. Your contact will see your exact location, and they can also share their live location with you if they wish.
 
 ![Selecting the duration of live location sharing in WhatsApp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/11-selecting-the-duration-or-live-location-sharing-in-whatsapp.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To stop sharing your location with a particular contact, tap "Stop Sharing."
 
 ![Stopping the location sharing in WhatsApp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/10-stopping-the-location-sharing-in-whatsapp.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -203,18 +191,20 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ssential-techniques-in-youtube-movie-production-for-2024/"><u>[New] Essential Techniques in YouTube Movie Production for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-tailored-touch-up-top-6-apps-to-exclude-unwanted-elements-from-photos/"><u>[New] Tailored Touch-Up Top 6 Apps to Exclude Unwanted Elements From Photos</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-guide-to-choosing-high-performance-range-routers/"><u>Comprehensive Guide to Choosing High-Performance Range Routers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/full-disk-alert-in-windows-10-task-manager/"><u>Full Disk Alert in Windows 10 Task Manager</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-samsung-galaxy-f15-5g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Samsung Galaxy F15 5G Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-vivo-y36-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Vivo Y36 Device SIM</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-review-of-magix-video-pro-x/"><u>In 2024, The Ultimate Review of Magix Video Pro X</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-10-gopro-cases-insight-for-adventurers/"><u>In 2024, Top 10 GoPro Cases Insight for Adventurers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-potential-pilots-choice-top-10-drone-must-haves/"><u>In 2024, Unleashing Potential Pilot's Choice - Top 10 Drone Must-Haves</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tools-that-enhance-your-travel-videos-for-2024/"><u>Tools That Enhance Your Travel Videos for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-error-14-effective-solutions-and-tips/"><u>Troubleshooting iPhone Error 14 – Effective Solutions and Tips</u></a></li>
-<li><a href="https://some-skills.techidaily.com/understanding-camera-shake-in-photographyvideo-for-2024/"><u>Understanding Camera Shake in Photography/Video for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/winning-over-the-dark-side-troubleshooting-fortnites-windowed-woes/"><u>Winning Over The Dark Side: Troubleshooting Fortnite's Windowed Woes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-core-upgrades-of-windows-11/"><u>[New] The Core Upgrades of Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ten-strategies-for-controlling-a-twitch-broadcast/"><u>[Updated] Ten Strategies for Controlling a Twitch Broadcast</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-freely-flowing-world-of-historical-works/"><u>[Updated] The Freely Flowing World of Historical Works</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-reel-motivation-a-curated-list-of-top-10-film-titles/"><u>2024 Approved Reel Motivation A Curated List of Top 10 Film Titles</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tapping-into-creative-potential-with-luts-in-premiere-pro/"><u>2024 Approved Tapping Into Creative Potential with LUTs in Premiere Pro</u></a></li>
+<li><a href="https://facebook.techidaily.com/a-shield-against-swings-understanding-stablecoin-mechanisms/"><u>A Shield Against Swings: Understanding Stablecoin Mechanisms</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/all-about-samsung-galaxy-ring-unveiling-its-market-cost-coming-soon-date-and-detailed-tech-specs/"><u>All About Samsung Galaxy Ring: Unveiling Its Market Cost, Coming Soon Date & Detailed Tech Specs</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/audiovisual-alchemy-transforming-powerpoint-into-engagement/"><u>Audiovisual Alchemy Transforming PowerPoint Into Engagement</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-locked-iphone-display-enable-rotation-between-portrait-and-landscape-modes/"><u>Fixing Locked Iphone Display: Enable Rotation Between Portrait and Landscape Modes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/from-phev-to-fcev-exploring-the-diverse-world-of-eco-friendly-automobiles/"><u>From PHEV to FCEV – Exploring the Diverse World of Eco-Friendly Automobiles</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/how-to-capitalize-on-your-youtube-shorts-for-cash-flow-for-2024/"><u>How to Capitalize on Your YouTube Shorts for Cash Flow for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-total-mastery-of-powerdirector-with-our-review-and-guide/"><u>In 2024, Total Mastery of PowerDirector with Our Review & Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-complete-guide-to-creating-memorable-youtube-outros-for-2024/"><u>The Complete Guide to Creating Memorable YouTube Outros for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-10-mobile-vr-headsets-for-2024/"><u>Top 10 Mobile VR Headsets for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-15-youtube-originals-premium-unboxing-sessions-for-2024/"><u>Top 15 YouTube Originals Premium Unboxing Sessions for 2024</u></a></li>
 </ul></div>
 

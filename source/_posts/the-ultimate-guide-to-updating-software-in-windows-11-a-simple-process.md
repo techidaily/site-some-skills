@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Updating Software in Windows 11: A Simple Process"
-date: 2024-10-19T19:14:22.860Z
-updated: 2024-10-21T23:14:29.808Z
+date: 2024-10-25T21:51:11.185Z
+updated: 2024-10-27T16:52:26.456Z
 tags:
   - desktop
 categories:
@@ -17,13 +17,6 @@ thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d
 * [How to Update Non-Microsoft Store Apps](https://extra-hints.techidaily.com/navigate-subtitle-installation-in-wmp-easily/)
 * [How to Update Apps Using Command Prompt](https://youtube-videos.techidaily.com/free-themes-for-dynamic-youtuber-profiles/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * To update Microsoft Store apps, open the Store app, select "Library," and choose "Update" next to an app or select "Update All."
@@ -31,6 +24,19 @@ thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d
 * To update apps from command line, use the winget command in an elevated Command Prompt window.
 
  Keeping your installed apps up to date is important, and Windows 11 makes it super easy to update both Microsoft Store and non-Microsoft Store apps. We’ll show you how to use graphical methods, as well as a command-line method to bring your apps up to date.
+
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Update Microsoft Store Apps
 
@@ -50,13 +56,20 @@ thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d
 
 !['Update All' highlighted in Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/12-update-apps-microsoft-store.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Wait for the Store to download and install the updates for your apps. Once that’s done, you can launch your apps.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  How to Enable Automatic Updates in Microsoft Store
@@ -65,16 +78,16 @@ thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d
 
 !['Settings' highlighted in the profile menu of Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-microsoft-store-settings.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In Settings, turn on the "App Updates" option.
 
 !['App Updates' highlighted in Microsoft Store Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-microsoft-store-disable-app-updates.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In the future, to prevent the Store from automatically updating apps, turn off the "App Updates" option. We recommend keeping the option turned on, but if you’re on a metered connection, you might not want the Store to use so much of your internet data.
 
@@ -92,6 +105,13 @@ thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d
 
 !['Download' options highlighted on the 7-Zip website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-update-7-zip.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Update Apps Using Command Prompt
 
  If you prefer command line methods over graphical ones, [use the winget (Windows Package Manager) command](https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-on-iphone-xs-by-drfone-ios/) in Command Prompt to update your apps. This command lets you update apps individually or all of them at once. 
@@ -100,13 +120,6 @@ thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d
 
 !['Run as Administrator' highlighted for Command Prompt in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-run-cmd-as-admin.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the "User Account Control" (UAC) prompt, select "Yes."
 
  To list the apps that are due for an update, type the following command and press Enter:
@@ -114,13 +127,6 @@ thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d
 winget upgrade
 
 !['winget upgrade' command typed in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/10-list-update-apps-winget.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You’ll see the installed apps, their current versions, and the latest versions you can update them to.
 
@@ -157,20 +163,18 @@ winget upgrade -h -all
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/2-cracking-todays-puzzle-uncover-secrets-of-nyt-connections-hints-for-june-9-364/"><u>2. 'Cracking Today's Puzzle: Uncover Secrets of NYT Connections Hints for June 9 (#364)'</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-quick-guide-bypassing-edgenuity-courses-seamlessly/"><u>2024 Approved Quick Guide Bypassing Edgenuity Courses Seamlessly</u></a></li>
-<li><a href="https://some-skills.techidaily.com/account-safety-boosted-with-new-recovery-codes-in-1password-reducing-risk-of-access-denials/"><u>Account Safety Boosted with New Recovery Codes in 1Password, Reducing Risk of Access Denials</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ai-powered-techniques-to-scale-up-and-revitalize-classic-images-sans-photoshop/"><u>AI-Powered Techniques to Scale Up and Revitalize Classic Images Sans Photoshop</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/boost-your-igtv-views-top-5-tactics-for-increased-engagement/"><u>Boost Your IGTV Views Top 5 Tactics for Increased Engagement</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-for-translators-navigating-a-new-era-of-communication/"><u>ChatGPT for Translators: Navigating a New Era of Communication</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-internal-window-search-images/"><u>Eliminating Internal Window Search Images</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-continuous-crashes-in-stardew-valley-on-your-windows-computer/"><u>Fixing Continuous Crashes in Stardew Valley on Your Windows Computer</u></a></li>
-<li><a href="https://win-web.techidaily.com/guia-paso-a-paso-para-descargar-de-forma-gratuita-archivos-del-programa-wps-una-solucion-simple/"><u>Guía Paso a Paso Para Descargar De Forma Gratuita Archivos Del Programa WPS: Una Solución Simple</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/netgear-wi-fi-adapter-driver-download-and-update/"><u>NETGEAR Wi-Fi Adapter Driver Download & Update</u></a></li>
-<li><a href="https://article-posts.techidaily.com/spectaculous-14-animated-text-illustration-samples/"><u>Spectaculous 14 Animated Text Illustration Samples</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-13-creative-uses-for-your-outdated-android-device/"><u>Top 13 Creative Uses for Your Outdated Android Device</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlock-the-power-of-apple-music-radio-for-a-personalized-journey-into-new-sounds-join-me-on-this-musical-adventure/"><u>Unlock the Power of Apple Music Radio for a Personalized Journey Into New Sounds – Join Me on This Musical Adventure!</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-googles-new-arsenal-immersive-review-of-pixel-phones-9-and-9-pro-w-foldable-pixel-watch-series-3-and-next-gen-pixel-audio-buds/"><u>Unveiling Google's New Arsenal: Immersive Review of Pixel Phones (9 & 9 Pro W/ Foldable), Pixel Watch Series 3, and Next-Gen Pixel Audio Buds</u></a></li>
-<li><a href="https://some-skills.techidaily.com/why-the-oneplus-12-still-stands-out-after-six-months-a-loyal-users-perspective/"><u>Why the OnePlus 12 Still Stands Out After Six Months - A Loyal User's Perspective</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-top-picks-and-tips-for-thriving-in-valheim/"><u>[Updated] In 2024, Top Picks & Tips for Thriving in Valheim</u></a></li>
+<li><a href="https://win11.techidaily.com/12-unwanted-programs-in-your-windows-environment/"><u>12 Unwanted Programs in Your Windows Environment</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-precisely-how-to-disconnect-from-your-outdated-linkedin-account/"><u>2024 Approved Precisely How To Disconnect From Your Outdated LinkedIn Account</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-step-into-reflection-editing-your-facebook-past-videos/"><u>2024 Approved Step Into Reflection Editing Your Facebook Past Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-steps-for-safe-and-cost-free-vlc-downloads-on-apple-machines/"><u>2024 Approved Steps for Safe and Cost-Free VLC Downloads on Apple Machines</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-zooming-in-a-videoleap-approach/"><u>2024 Approved The Art of Zooming In A Videoleap Approach</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-review-of-magix-video-pro-x/"><u>2024 Approved The Ultimate Review of Magix Video Pro X</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-value-in-the-air-the-cheapest-yet-effective-drones/"><u>In 2024, Value in the Air The Cheapest Yet Effective Drones</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/sonic-savant-archive-acquire-and-examine-tracks-for-2024/"><u>Sonic Savant Archive Acquire & Examine Tracks for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-quiet-command-for-xbox-systems/"><u>The Ultimate Quiet Command for Xbox Systems</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/top-12-ultimate-relaxing-pc-titles-for-2024/"><u>Top 12 Ultimate Relaxing PC Titles for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transforming-spoken-words-into-written-text-using-in-built-tools-of-office-suite-ms-word-for-2024/"><u>Transforming Spoken Words Into Written Text Using In-Built Tools of Office Suite - MS Word for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Discover Effortless iPhone Circle Searching with This Simple Shortcut
-date: 2024-10-17T18:46:26.586Z
-updated: 2024-10-21T22:58:02.783Z
+date: 2024-10-21T20:20:49.740Z
+updated: 2024-10-27T18:47:50.936Z
 tags:
   - mobile
 categories:
@@ -20,10 +20,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Circle to Search cuts through the traditional Google search experience, helping you find what you need in an instant. The feature isn't natively available on iPhones, but there's a workaround that lets you use Google Lens similarly. Here's how.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Is Circle to Search?
@@ -37,13 +37,6 @@ Justin Duino / How-To Geek
  Highlight text with a tap or draw a circle around an image or video, and the search engine brings up all the related results. Although I use an iPhone as my daily driver, I've tried Circle to Search on the Galaxy S23 Ultra, and it's pretty nifty. Unfortunately, the feature is only available on select Android phones, including the [recent Samsung Galaxy S series and Pixel smartphones](https://some-knowledge.techidaily.com/updated-focusing-your-view-a-guide-to-zooming-on-microsoft-teams/).
 
  But that doesn't stop geeks from devising workarounds, right? Although Circle to Search isn't officially available on iOS, here's a quick little hack that combines the Back Tap gesture, [Google Lens visual search](https://facebook-clips.techidaily.com/new-music-syncing-for-iphones-and-androids-in-fb/), and the iPhone's Shortcuts app, mimicking how Circle to Search works on Android phones.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Get Circle to Search Functionality on Your iPhone
 
@@ -59,33 +52,20 @@ Justin Duino / How-To Geek
 
 ![Screenshot of the Add Action button in iPhone's Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  On the following screen, type "take screenshot" in the search bar (at the top) and select the right option.
 
 ![Screenshot of the Take Screenshot button in Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-1.png) 
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now, tap on the search bar at the bottom and type "Search Image with Lens." This option will not appear unless you've downloaded the Google app. Choose the correct option from the results.
 
 ![Search Image with Lens shortcut for iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  With the selected actions, the shortcut flow should look like the screenshot attached below. Once you're set, tap "Done" in the top right corner.
 
@@ -97,19 +77,39 @@ Justin Duino / How-To Geek
 
 ![Screenshot of the Back Tap option in iPhone's Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/8-1.png) 
 
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Choose whether you want to trigger the shortcut from a double or triple tap. I'm going with double tap.
 
 ![Screenshot of the Back Tap option in iPhone's Settings section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/9.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Scroll to the bottom and select "Search Image with Lens" in the Shortcuts menu.
 
 ![Search Image with Lens in iPhone's Back Tap menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/10.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Use Back Tap to Invoke Google Lens' Visual Search
@@ -141,20 +141,16 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-how-to-address-and-overcome-a-youtube-content-id-issue/"><u>[New] How to Address and Overcome a YouTube Content ID Issue</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/aximize-engagement-selective-rank-tracker-utilities-revealed-for-2024/"><u>[New] Maximize Engagement Selective Rank Tracker Utilities Revealed for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-your-youtube-potential-through-brand-partnerships/"><u>[New] Unlocking Your YouTube Potential Through Brand Partnerships</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-infographic-forecast-the-2023-social-landscape/"><u>[Updated] In 2024, Infographic Forecast The 2023 Social Landscape</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-precision-viewing-at-a-glance-quick-minigame-tips/"><u>[Updated] In 2024, Precision Viewing at a Glance Quick Minigame Tips</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-instagram-edition-the-finest-picture-fixers-for-2024/"><u>[Updated] Instagram Edition The Finest Picture Fixers for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-apex-of-narrative-content-youtubes-finest-in-23/"><u>2024 Approved The Apex of Narrative Content YouTube’s Finest in '23</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-the-not-working-glitch-on-your-modern-warfare-3-game/"><u>Fixing the Not Working Glitch on Your Modern Warfare 지정전 3 Game</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-iphones-best-camera-recording-aid/"><u>In 2024, IPhone's Best Camera Recording Aid</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-subtitles-revolution-srt-to-sub-upgrade/"><u>In 2024, Subtitles Revolution SRT to SUB Upgrade</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/rumored-details-of-the-next-apple-watch-model-x-expected-release-date-price-points-and-features/"><u>Rumored Details of the Next Apple Watch Model X: Expected Release Date, Price Points, and Features</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-brisk-blueprint-to-crafting-google-image-mosaics-for-2024/"><u>The Brisk Blueprint to Crafting Google Image Mosaics for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-10-streamers-for-real-time-television-content-for-2024/"><u>Top 10 Streamers for Real-Time Television Content for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/top-choices-in-live-stream-video-catching-software-for-windows-and-mac-os-users/"><u>Top Choices in Live Stream Video Catching Software for Windows and Mac OS Users</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transforming-images-into-engaging-animation-projects-for-2024/"><u>Transforming Images Into Engaging Animation Projects for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ce-advertising-and-analytics-youtubes-universal-monetization-techniques/"><u>[New] Ace Advertising and Analytics YouTube's Universal Monetization Techniques</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-selecting-premium-steadicams-to-improve-your-dslr-videos/"><u>[New] Selecting Premium Steadicams to Improve Your DSLR Videos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-best-online-video-saving-tools-reviewed-and-ranked/"><u>[Updated] 2024 Approved Best Online Video Saving Tools Reviewed & Ranked</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-decoding-the-workings-of-whatsapp-call-features/"><u>[Updated] 2024 Approved Decoding the Workings of WhatsApp Call Features</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-simplified-journey-for-metaverse-personas/"><u>[Updated] The Ultimate Simplified Journey for Metaverse Personas</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-tier-rankings-for-podcasts-a-seo-masterclass/"><u>2024 Approved Top-Tier Rankings for Podcasts A Seo Masterclass</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-total-insight-navigating-through-googles-podcast-app/"><u>2024 Approved Total Insight Navigating Through Google's Podcast App</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-strategies-for-flawless-srt-file-creation/"><u>2024 Approved Ultimate Strategies for Flawless SRT File Creation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-list-of-no-cost-communication-tools-skype-substitutes/"><u>Discover the Ultimate List of No-Cost Communication Tools (Skype Substitutes)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/find-and-install-your-perfect-match-of-broadcom-bluetooth-drivers-for-windows-1187-download-now/"><u>Find and Install Your Perfect Match of Broadcom Bluetooth Drivers for Windows 11/8/7 (Download Now)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-paramountplus-streaming-issues-troubleshooting-guide-for-amazon-fire-tv/"><u>Solving Paramount+ Streaming Issues: Troubleshooting Guide for Amazon Fire TV</u></a></li>
 </ul></div>
 

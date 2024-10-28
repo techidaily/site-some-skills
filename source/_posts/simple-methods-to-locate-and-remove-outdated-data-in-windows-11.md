@@ -1,7 +1,7 @@
 ---
 title: Simple Methods to Locate & Remove Outdated Data in Windows 11
-date: 2024-10-18T19:43:37.224Z
-updated: 2024-10-21T20:30:01.059Z
+date: 2024-10-26T18:06:22.114Z
+updated: 2024-10-27T21:29:18.120Z
 tags:
   - desktop
 categories:
@@ -37,6 +37,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 !['Storage Sense' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/2-enable-storage-sense.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You’ll now configure Storage Sense's behavior. At the top, enable the option in the "Cleanup of Temporary Files" section so that temporary files are automatically deleted.
 
  Turn on the "Automatic User Content Cleanup" toggle. Then, configure various options as follows:
@@ -50,10 +57,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  To run the feature now, click "Run Storage Sense Now." It will start removing the chosen files.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  With Microsoft PC Manager
@@ -65,10 +72,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![File cleanup options in PC Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/4-pc-manager-file-cleanup-options.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The first option is "Downloaded Files," which lets you remove the files you’ve downloaded using the installed web browsers. Click it, and it’ll open a window listing your recent file downloads. You can sort these files by their type using the tabs at the top.
@@ -76,13 +83,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Then, select the files you’re happy to let go of. At the bottom, you’ll see the storage space you’ll reclaim after deleting these files. To remove the files, click "Permanently Delete."
 
 ![Downloaded files and 'Permanently Delete' highlighted in PC Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/5-delete-downloaded-files.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The second option in PC Manager is "Large Files." As you can guess, it lets you find and remove large files. You can specify the file size here so it only finds files larger than that.
 
@@ -111,10 +111,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 !['Run as Administrator' highlighted for Command Prompt in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/9-open-command-prompt.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In the User Account Control prompt, choose "Yes."
@@ -140,16 +140,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Save the ForFiles command as a batch file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/10-save-batch-file.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When you want to run your command, right-click your batch script and choose "Run as Administrator."
 
 !['Run as Administrator' highlighted for a batch file in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/11-run-batch-file.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can integrate this batch script with Task Manager, and Task Manager will run the script at your specified time. This basically automates the entire process of finding and removing old files from your specified folders.
 
@@ -172,21 +172,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-is-online-video-streaming-worth-extra-costs-see-how-youtube-plans-fit-in/"><u>[New] 2024 Approved Is Online Video Streaming Worth Extra Costs? See How YouTube Plans Fit In</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-clinical-manifestations-of-fetal-alcohol-syndrome/"><u>[Updated] 2024 Approved Clinical Manifestations of Fetal Alcohol Syndrome</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastery-of-magnified-mining-maps/"><u>[Updated] Mastery of Magnified Mining Maps</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-prime-pick-top-10-streamers-for-cutting-edge-tv-content/"><u>[Updated] Prime Pick Top 10 Streamers for Cutting-Edge TV Content</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-skyrocket-views-with-smartly-chosen-video-release-times/"><u>2024 Approved Skyrocket Views with Smartly Chosen Video Release Times</u></a></li>
-<li><a href="https://some-skills.techidaily.com/apples-services-interrupted-iphone-applications-failing-due-to-system-outages/"><u>Apple's Services Interrupted: IPhone Applications Failing Due to System Outages</u></a></li>
-<li><a href="https://some-skills.techidaily.com/are-folding-phone-innovations-just-for-show-or-here-to-stay-in-the-tech-world/"><u>Are Folding Phone Innovations Just for Show, or Here to Stay in the Tech World?</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/backtracking-visuals-proficient-strategies-for-insta-image-source-for-2024/"><u>Backtracking Visuals Proficient Strategies for Insta Image Source for 2024</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/comment-effectuer-une-sauvegarde-complet-de-son-ordinateur-sous-windows/"><u>Comment Effectuer Une Sauvegarde Complet De Son Ordinateur Sous Windows</u></a></li>
-<li><a href="https://some-skills.techidaily.com/identify-your-windows-11-edition-and-anniversary-updates-with-ease/"><u>Identify Your Windows 11 Edition & Anniversary Updates with Ease</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-vocal-alteration-in-free-fire-complimentary-tips/"><u>In 2024, Mastering Vocal Alteration in Free Fire Complimentary Tips</u></a></li>
-<li><a href="https://some-skills.techidaily.com/predictive-magic-with-linux-unlocking-fortune-telling-scripts-in-terminal/"><u>Predictive Magic with Linux: Unlocking Fortune-Telling Scripts in Terminal</u></a></li>
-<li><a href="https://some-skills.techidaily.com/resolving-compatibility-errors-in-windows-11-on-aging-cpu-architecture/"><u>Resolving Compatibility Errors in Windows 11 on Aging CPU Architecture</u></a></li>
-<li><a href="https://some-skills.techidaily.com/seamless-access-to-distant-linux-machine-files-made-simple/"><u>Seamless Access to Distant Linux Machine Files Made Simple</u></a></li>
-<li><a href="https://some-skills.techidaily.com/understanding-chipset-drivers-installation-guide-and-tips/"><u>Understanding Chipset Drivers: Installation Guide & Tips</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unleash-portability-and-versatility-the-surprisingly-powerful-8-in-1-adapter-that-defies-its-cost-a-closer-look-by-zdnet/"><u>Unleash Portability & Versatility: The Surprisingly Powerful 8-in-1 Adapter That Defies Its Cost - A Closer Look by ZDNet</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-from-zero-to-hero-on-ig-how-to-garner-a-million-fans-fast-track/"><u>[New] In 2024, From Zero to Hero on IG How to Garner a Million Fans Fast-Track</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-streamers-blueprint-achieving-peak-performance-on-macos/"><u>[New] The Streamer's Blueprint Achieving Peak Performance on macOS</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-broadcast-your-curated-playlist-with-ease/"><u>[Updated] 2024 Approved Broadcast Your Curated Playlist with Ease</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-the-science-of-light-in-hdr-photography/"><u>[Updated] 2024 Approved The Science of Light in HDR Photography</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-apples-next-chapter-the-m1-chip-revelation-for-2024/"><u>[Updated] Apple's Next Chapter The M1 Chip Revelation for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-ensuring-data-privacy-while-transforming-youtube-video-audio-to-mp3-for-2024/"><u>[Updated] Ensuring Data Privacy While Transforming YouTube Video Audio to MP3 for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-online-slot-scanner-summary/"><u>[Updated] In 2024, ONLINE SLOT SCANNER SUMMARY</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tailoring-humor-personalize-with-kinemaster/"><u>[Updated] Tailoring Humor Personalize with KineMaster</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/iphoneandroid6/"><u>【IPhone/Android対応】動画を美しく加工するための6つの推薦アプリ</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-inshot-a-thorough-editor-investigation/"><u>2024 Approved Unveiling InShot A Thorough Editor Investigation</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-infinix-smart-8-plus-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Infinix Smart 8 Plus for Free? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-superior-6-tools-for-video-language-shift/"><u>In 2024, Superior 6 Tools for Video Language Shift</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-twitch-triumph-or-hitbox-heritage/"><u>In 2024, Twitch Triumph or Hitbox Heritage?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-top-8-converter-list-for-sub-to-srt/"><u>In 2024, Ultimate Top 8 Converter List for Sub to SRT</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tag-friends-listen-to-this-podcast-story-for-2024/"><u>Tag Friends Listen to This Podcast Story for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-leading-8-multimedia-apps-for-creative-phones-android-ios-for-2024/"><u>The Leading 8 Multimedia Apps for Creative Phones (Android, iOS) for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-wellbeing-potential-a-critical-review-of-the-samsung-galaxy-watch-active/"><u>Unveiling the Wellbeing Potential: A Critical Review of the Samsung Galaxy Watch Active</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Predictive Magic with Linux: Unlocking Fortune-Telling Scripts in Terminal"
-date: 2024-10-16T03:01:23.220Z
-updated: 2024-10-22T00:09:18.168Z
+date: 2024-10-22T23:13:31.228Z
+updated: 2024-10-27T18:42:33.410Z
 tags:
   - desktop
 categories:
@@ -18,6 +18,13 @@ thumbnail: https://thmb.techidaily.com/10904fe0da235375b0e6b719e293bea0266e1856f
 * For additional fun, you could pipe a fortune with cowsay, or display a random fortune every time you launch your terminal.
 
  Ever thought your terminal could be a source of daily wisdom or humor? It's true! With the fortune command, you can receive a random quote, joke, or piece of advice every time you execute it. Whether you're working or enjoying a break, a short fortune can lift your mood and encourage new ideas.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What Is the fortune Command?
 
@@ -48,17 +55,17 @@ fortune
 ![Running fortune command in Linux terminal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/fortune-command.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  fortune Options
@@ -84,13 +91,6 @@ fortune literature
  You can also combine multiple options together, such as if you want a short, offensive quote from the literature category, run this:
 
 fortune -s -o literature
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Create Your Own fortune File
 
@@ -128,6 +128,13 @@ fortune funny
 
 ![Displaying random saying from your newly created fortune file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/fotune-command-custom.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Every time you run the command, one of your hand-crafted fortunes will appear.
 
 ##  Combine fortune and cowsay for Extra Fun
@@ -151,6 +158,13 @@ fortune | cowsay
 fortune | cowsay -f tux
 
 ![Tux displays random statements using fortune and cowsay commands.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/fortune-cowsay-tux.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also make your tux [colorful by piping the lolcat command](https://youtube-tips.techidaily.com/n-2024-accelerate-yt-growth-strategies-for-1kplus-subscribers/).
 
@@ -182,23 +196,9 @@ source ~/.bashrc
 
 ![Random fortune appearing on a Linux terminal after being launched.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/terminal-fortune-begin.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you want to use different ASCII art creatures, such as tux, just replace the **cowsay** command in the \~/.bashrc file with the **cowsay -f tux** command.
 
 ![Adding new fortune command with tux ASCII art to the end of bashrc file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/terminal-fortune-tux.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Use Fortune for Testing
 
@@ -215,10 +215,10 @@ cat file1
 ![Viewing the file using the cat command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/viewing-file-with-cat.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you want to append multiple fortunes to the same file, you can do so in a loop.
@@ -232,10 +232,10 @@ done`
 fortune | wc -c
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Create a Random Picker Game
@@ -261,16 +261,16 @@ fortune | wc -c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-insights-on-maintaining-engagement-after-algorithm-shifts/"><u>[New] 2024 Approved Insights on Maintaining Engagement After Algorithm Shifts</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-the-ultimate-guide-to-cross-social-sharing-for-2024/"><u>[New] The Ultimate Guide to Cross-Social Sharing for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-twitter-account-launch-a-beginners-roadmap/"><u>[Updated] In 2024, Twitter Account Launch A Beginner's Roadmap</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-synapse-your-thoughts-on-mematics-platform/"><u>[Updated] Synapse Your Thoughts on Mematic's Platform</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-leading-edge-in-film-making-equipment-top-10-list/"><u>[Updated] The Leading Edge in Film-Making Equipment - Top 10 List</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-5-ios-applications-bringing-your-podcast-to-life/"><u>[Updated] Top 5 iOS Applications Bringing Your Podcast to Life</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-usb-c-revolution-in-monitors-hp-envy-27s-journey/"><u>[Updated] USB-C Revolution in Monitors HP Envy 27'S Journey</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Vivo V27 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-guide-to-enjoying-lesbian-gay-bisexual-and-transgender-films-on-netflix-in-jul-2024/"><u>Essential Guide to Enjoying Lesbian, Gay, Bisexual & Transgender Films on Netflix in Jul 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-motorola-moto-g04-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Motorola Moto G04</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/tutti-i-segreti-per-preservare-le-tue-cartelle-che-cambiano-spesso-con-gli-scaricamenti-automatici-di-windows-11/"><u>Tutti I Segreti per Preservare Le Tue Cartelle Che Cambiano Spesso Con Gli Scaricamenti Automatici Di Windows 11</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-mastering-ad-avoidance-stopping-fb-video-promos/"><u>[New] In 2024, Mastering Ad Avoidance Stopping FB Video Promos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-rapid-diy-filming-tips-for-the-budding-director/"><u>[New] In 2024, Rapid DIY Filming Tips for the Budding Director</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-methods-of-acquiring-ipodcasts-for-your-iphone/"><u>[New] The Ultimate Methods of Acquiring IPodcasts for Your iPhone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-artists-guide-to-dynamic-palette-alteration/"><u>[Updated] The Artist's Guide to Dynamic Palette Alteration</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-canvas-of-success-unveiling-10-essential-design-tricks/"><u>2024 Approved The Canvas of Success Unveiling 10 Essential Design Tricks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-latest-in-hardware-with-toms-gadgets-and-gizmos/"><u>Exploring the Latest in Hardware with Tom's Gadgets & Gizmos</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-realme-11-pro-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Realme 11 Pro FRP</u></a></li>
+<li><a href="https://some-skills.techidaily.com/navigating-the-latest-pro-cams-for-full-spheres-for-2024/"><u>Navigating the Latest Pro Cams for Full Spheres for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/remedy-for-warped-gopro-imagery-a-comprehensive-tutorial-for-2024/"><u>Remedy for Warped GoPro Imagery A Comprehensive Tutorial for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/the-windows-8-guide-to-powerful-movie-maker-editing-techniques/"><u>The Windows 8 Guide to Powerful Movie Maker Editing Techniques</u></a></li>
 </ul></div>
 

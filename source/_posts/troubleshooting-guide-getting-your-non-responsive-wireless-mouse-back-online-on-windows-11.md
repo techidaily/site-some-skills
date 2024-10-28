@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Getting Your Non-Responsive Wireless Mouse Back Online on Windows 11"
-date: 2024-10-16T17:03:23.179Z
-updated: 2024-10-21T21:08:30.122Z
+date: 2024-10-26T23:19:01.923Z
+updated: 2024-10-27T17:23:34.692Z
 tags:
   - deals
 categories:
@@ -43,13 +43,34 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 
  The battery is typically the reason for wireless mice not working. Check the battery is fully inserted in the compartment and that it's positioned correctly. Also, replace it with a new battery if you're unsure how much charge it has left (or plug it in to charge if the battery isn't replaceable).
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Unplug Other USB Devices
 
  Other USB devices connected to your computer can cause interference. Disconnect these in turn; if it doesn't fix your mouse, plug them back in again.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Check for Hardware Damage
 
  Your mouse or USB receiver may be defective, especially if you accidentally dropped them recently. Examine your USB port, receiver, and mouse for physical damage. Check for dirt or dust in the USB ports and clean them if required.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Connect to Another PC
 
@@ -65,23 +86,9 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 
 ![Windows 11 right-click Start Menu highlighting Device Manager option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-start-menu-options.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In Device Manager, scroll down and double-click the "Universal Serial Bus Controllers" section to expand it. Right-click "USB Root Hub" and select "Properties."
 
 ![Windows 11 Device Manager highlighting the USB controller right-click menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-device-manager-window.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In the Properties window, select the "Power Management" tab and uncheck "Allow the Computer to Turn Off This Device to Save Power." Click "OK".
 
@@ -105,20 +112,14 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 
 ![Windows 11 System Settings window highlighting 'Turn on fast startup' option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-power-options-system-settings-window-1.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Shut down your computer, unplug and reconnect the USB mouse receiver, then turn the computer back on.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  4\. Update or Rollback the Mouse Drivers
 
@@ -130,13 +131,6 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 
 ![Optional Updates in Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/install_optional_updates.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If Windows Update doesn't detect any available driver updates, manually install them. To do this, go directly to the mouse manufacturer's website. They should have a driver section, or they might have dedicated software—in either case, download and run the executable, then follow the prompts.
 
 ###  How to Roll Back the Mouse Drivers
@@ -144,6 +138,13 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
  To [roll back the drivers](https://youtube-tips.techidaily.com/24-crafting-your-youtube-legacy-a-deep-dive-into-creator-studio-mastery/), press Windows+X and select "Device Manager." Double-click the "Mice and Other Pointing Devices" section to expand it. Right-click the wireless mouse and select "Properties."
 
 ![Windows 11 Device Manager window highlighting 'Mice and other pointing devices' right-click menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-device-manager-window-2.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In the Properties window, select the "Driver" tab and click "Roll Back Driver."
 
@@ -159,34 +160,13 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 
 ![Windows 11 Device Manager window highlighting 'USB Root Hub' right-click menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-device-manager-window-3.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Select "Uninstall" in the pop-up window.
 
 ![Windows 11 Uninstall Pop-Up Warning window highlighting Uninstall button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-uninstall-pop-up-warning-window.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Repeat the above steps for each USB Root Hub on the list.
 
  Restart your computer, and it will automatically scan and reinstall the USB controllers. If it doesn't, go back to Device Manager and select Action > Scan for Hardware Changes.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  6\. Update Windows 11
 
@@ -200,6 +180,19 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 
  If your system is infected with malware, it can interfere with external devices like mice. This is why you should run a malware scan to detect and remove harmful threats, either [using Microsoft Defender](https://howto.techidaily.com/restore-missing-app-icon-on-lava-yuva-2-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/) or any [reliable third-party antivirus software](https://facebook-video-recording.techidaily.com/in-2024-access-high-res-fb-media-files/).
 
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  8\. Connect the Mouse With Bluetooth
 
  The majority of wireless mice also connect to your computer via Bluetooth, bypassing the need to insert a USB receiver. However, your PC must also support Bluetooth.
@@ -210,13 +203,6 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 
 ![Windows 11 Settings window highlighting 'Bluetooth & devices' and Bluetooth toggle switch.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-settings-window.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After turning on Bluetooth, select "Add Device" and then select "Bluetooth" from the list.
 
 ![Windows 11 Add a device window highlighting Bluetooth option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-add-a-device-window.jpg) 
@@ -225,7 +211,21 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 
 ![Windows 11 Add a device window highlighting Bluetooth mouse.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-add-a-device-window-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Wait until the connection is established. After a few seconds, your mouse is ready to use via Bluetooth.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  9\. Perform a System Restore
 
@@ -252,20 +252,20 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-power-of-asmr-discovering-its-advantages/"><u>[New] The Power of ASMR Discovering Its Advantages</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transforming-standard-calls-into-visual-masterpieces-with-zoom/"><u>[New] Transforming Standard Calls Into Visual Masterpieces with Zoom</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-from-tiktok-to-twitter-a-step-by-step-guide-for-2024/"><u>[Updated] From TikTok to Twitter A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-secure-story-spectatorship-techniques-for-desktopandroidios-devices-at-no-cost/"><u>[Updated] In 2024, Secure Story Spectatorship Techniques for Desktop/Android/iOS Devices (At No Cost)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unleash-creativity-mastering-high-quality-slow-motion-video-on-your-phone/"><u>[Updated] Unleash Creativity Mastering High-Quality Slow Motion Video on Your Phone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-rise-of-the-channels-crafting-your-digital-empire/"><u>2024 Approved Rise of the Channels Crafting Your Digital Empire</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-syncing-soundtracks-the-apple-way/"><u>2024 Approved Syncing Soundtracks The Apple Way</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/conquer-unwanted-silent-call-intrusions-a-simple-guide-for-iphone-owners/"><u>Conquer Unwanted Silent Call Intrusions: A Simple Guide for iPhone Owners</u></a></li>
-<li><a href="https://games-able.techidaily.com/discover-no-cost-adventures-on-the-switch/"><u>Discover No-Cost Adventures on the Switch</u></a></li>
-<li><a href="https://techtrends.techidaily.com/experience-the-thrill-of-mens-ncaa-basketball-radio-broadcasts-march-madness-through-to-the-final-four/"><u>Experience the Thrill of Men's NCAA Basketball Radio Broadcasts - March Madness Through To The Final Four</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Vivo V29e? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-gateway-guide-entering-the-world-of-photo-video-with-pixiz/"><u>In 2024, The Gateway Guide Entering the World of Photo-Video with Pixiz</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-premier-manual-for-subtitle-precision-via-web-resources/"><u>In 2024, The Premier Manual for Subtitle Precision via Web Resources</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-oneplus-nord-ce-3-lite-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive OnePlus Nord CE 3 Lite 5G Screen | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/utilizing-tailored-volume-reduction-in-audacity-for-2024/"><u>Utilizing Tailored Volume Reduction in Audacity for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-5-display-choices-to-enhance-ps5xbox-playtime/"><u>[New] Top 5 Display Choices to Enhance PS5/Xbox Playtime</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-mp4-devices/"><u>[Updated] The Ultimate Guide to MP4 Devices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-tech-guide-handling-srt-on-a-mac/"><u>[Updated] The Ultimate Tech Guide Handling SRT on a Mac</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-definitive-iphone-hdr-technique/"><u>2024 Approved The Definitive iPhone HDR Technique</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/comment-obtenir-la-partition-dinstallation-de-reprise-par-dell-sur-les-systemes-windows-saisons-11-a-7-expliquees/"><u>Comment Obtenir La Partition D'Installation De Reprise Par Dell Sur Les Systèmes Windows : Saisons 11 À 7 Expliquées</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/depasser-le-dilemme-de-la-non-clonage-avec-seagate-discwizard-un-succes-garanti/"><u>Dépasser Le Dilemme De La Non-Clonage Avec Seagate DiscWizard – Un Succès Garanti !</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-to-follow-audio-driver-upgrade-realtek-asio-for-windows-1e-step-by-step-guide/"><u>Easy-to-Follow Audio Driver Upgrade: RealTek Asio for Windows 1E | Step by Step Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-android-moba-gems-discovering-the-classics/"><u>In 2024, Android MOBA Gems Discovering the Classics</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y55s-5g-2023-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y55s 5G (2023) Phone with Broken Screen</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-realme-10t-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Realme 10T 5G Location | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-8-web-archives-of-3d-letterforms/"><u>In 2024, Top 8 Web Archives of 3D Letterforms</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-tutorial-for-repairing-battlenet-not-opening/"><u>Step-by-Step Tutorial for Repairing 'Battle.net Not Opening'</u></a></li>
+<li><a href="https://some-skills.techidaily.com/techniques-for-elevating-your-tiktok-unboxing-popularity-for-2024/"><u>Techniques for Elevating Your TikTok Unboxing Popularity for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-easy-way-to-change-and-upgrade-iphones-ringtones-for-2024/"><u>The Easy Way to Change and Upgrade iPhone's Ringtones for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unveiling-the-new-feature-ai-powered-code-clarification-in-windows-11-notepad-editor/"><u>Unveiling the New Feature: AI-Powered Code Clarification in Windows 11 Notepad Editor</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Ultimate Guide to Using Zoom Features in Gmail Emails"
-date: 2024-08-20T22:56:06.630Z
-updated: 2024-08-21T22:56:06.630Z
+date: 2024-10-23T21:11:16.542Z
+updated: 2024-10-27T16:31:17.318Z
 tags: 
   - screen-recording
   - ai video
@@ -44,18 +44,12 @@ Install the Zoom for Gmail add-on via the G Suite Marketplace as your first step
 
 There is no need to log into Zoom or look through emails to get access. Both choices may be used for free. You can quickly book, join, and manage Zoom meetings from the mobile or desktop versions of your personal Gmail and Google Calendar by using the Zoom for G-Suite add-on. You'll get a popup on your screen stating "Zoom for Gmail has been installed" when the installation is complete.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![install zoom for gmail](https://images.wondershare.com/filmora/article-images/2022/07/install-zoom-for-gmail.jpg)
 
 ##### Step3Log into your own Google Account
 
 Launch your web browser and open Gmail. A new Zoom icon with the text "Zoom for Gmail was installed" will appear on the right sidebar. Log into your Zoom account when the new tab has opened, then select Authorize to provide Gmail access.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![choose account to continue zoom](https://images.wondershare.com/filmora/article-images/2022/07/choose-account-to-continue-zoom.jpg)
 
 ##### Step4Press "Allow"
@@ -72,9 +66,6 @@ G Suite and Zoom may be integrated in both ways. Therefore, each meeting you sch
 
 Step1 Install the "Zoom for G-Suite" plugin, that is free, from the official G-Suite store after logging into your Google account.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![install zoom for gsuite](https://images.wondershare.com/filmora/article-images/2022/07/install-zoom-for-gsuite.jpg)
 
 To get install rights if you are using an enterprise account, get in touch with your IT administrator. A lot of rights, including complete access to your whole contact list, are also required by the add-on. Skip this technique and look at Method 2, which does not need the add-on, if that makes you uncomfortable.
@@ -85,48 +76,63 @@ Step2 Now open Google Calendar, and on the right side of the window, locate the 
 
 Step3 Turn on "Pre-approve" and adhere to the on-screen instructions to provide the app access to your Google account information.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![enable pre approve](https://images.wondershare.com/filmora/article-images/2022/07/enable-pre-approve.jpg)
 
 Step4 Next, check for the "Add Conferencing" box when creating a new Google Calendar event. Then, pick "Zoom Meeting" from the list of possibilities by clicking on the drop-down menu. At the bottom, click "Preserve" to save your selection.
 
 ![add conference google calendar](https://images.wondershare.com/filmora/article-images/2022/07/add-conference-google-calendar.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step5 The Meeting ID, password, and passcode will now be automatically filled in by the add-on in the Calendar event. Additionally, it will provide a link with joining instructions, which should be helpful for anyone who are unfamiliar with Zoom. You may now invite people to the meeting by clicking on the freshly created event in Google Calendar and using the "Add Guests" section. Finally, choose the "envelope" symbol to send guests an email invitation.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![add guests zoom meeting](https://images.wondershare.com/filmora/article-images/2022/07/add-guests-zoom-meeting.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3\. Tips to Use Zoom for Gmail
 
 Two of the most popular productivity tools are Zoom and G Suite, which are utilized by both businesses and individuals. Users can simply book Zoom meetings from inside Google Calendar and invite friends, family, and coworkers to participate thanks to the connectivity between the two.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Calendar Link Addition
 
 Without the add-on, you may still include a link to a Zoom meeting in a Google Calendar event. Because the add-on requests a ton of permissions, including full access to your complete contact list, it is really the most private alternative. Keep in mind, too, that using the manual way will not sync your meetings between Zoom and Calendar for you. If you're okay with that, the following instructions will show you how to add a Zoom invite link to Google Calendar without the add-on:
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![calendar link addition meeting](https://images.wondershare.com/filmora/article-images/2022/07/calendar-link-addition-meeting.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Create a new meeting by using the Zoom client on your PC (or Android or iOS phone). Then, on the Meetings page, select the "Copy Invitation" option.
 * Open a web browser and log in to Google. After that, enter Google Calendar and manually paste the meeting details into the "Notes" area at the bottom before adding the Zoom invite link. Finally, choose "Save." As previously mentioned, you may now use the email link to add guests and send invitations.
 * After accepting the invitation, the participants will see the meeting link in their Google Calendar and be able to join by clicking the link or the "Join Zoom Meeting" option.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Make a Video Recording of the Call
 
@@ -138,10 +144,14 @@ Use the [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) sc
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![make recording of zoom call](https://images.wondershare.com/filmora/article-images/2022/07/make-recording-of-zoom-call.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Create Meeting Template
 
@@ -177,8 +187,26 @@ In a nutshell, so that everyone can arrive on time, you would be able to easily 
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-guide-to-instagram-video-advancement-a-planning-primer/"><u>[New] 2024 Approved The Guide to Instagram Video Advancement A Planning Primer</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-decoding-the-underlying-messages-in-snapchats-symbolic-language-for-2024/"><u>[New] Decoding the Underlying Messages in Snapchat's Symbolic Language for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamlined-file-sharing-from-your-computer-to-iphone/"><u>[New] Streamlined File Sharing From Your Computer To iPhone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamlining-video-logging-on-periscope-platforms/"><u>[New] Streamlining Video Logging on Periscope Platforms</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-unveiling-the-blueprint-best-practices-for-social-media-video-publishing/"><u>[Updated] 2024 Approved Unveiling the Blueprint Best Practices for Social Media Video Publishing</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-pioneering-prospects-cutting-edge-strategies-in-telegram-advertising/"><u>[Updated] Pioneering Prospects Cutting-Edge Strategies in Telegram Advertising</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-practices-in-converting-images-to-videos/"><u>2024 Approved Best Practices in Converting Images to Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-take-it-upward-expert-techniques-for-phones/"><u>2024 Approved Take It Upward Expert Techniques for Phones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-roadmap-to-building-stellar-podcast-rss-feeds/"><u>2024 Approved The Roadmap to Building Stellar Podcast RSS Feeds</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-limitations-for-power-use-in-winos/"><u>Bypassing Limitations for Power Use in WinOS</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/process-extracting-youtube-media-directly/"><u>Easy Process Extracting YouTube Media Directly</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/enhancing-supported-video-format-range/"><u>Enhancing Supported Video Format Range</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tactics-for-integrating-multimedia-into-lessons/"><u>In 2024, Tactics for Integrating Multimedia Into Lessons</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-syma-x5c-your-first-drones-best-friend/"><u>In 2024, The Ultimate Guide to Syma X5C – Your First Drone's Best Friend</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultra-hd-revolution-dissecting-samsungs-ue590-tv/"><u>In 2024, The Ultra HD Revolution - Dissecting Samsung's UE590 TV</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tonal-transition-triumphs-for-creative-virtuosos/"><u>In 2024, Tonal Transition Triumphs for Creative Virtuosos</u></a></li>
+<li><a href="https://win11.techidaily.com/leveraging-luminosity-a-comprehensive-hdr-guide-for-windows-11-users/"><u>Leveraging Luminosity: A Comprehensive HDR Guide for Windows 11 Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-sound-trailing-in-premiere-pro-for-2024/"><u>The Ultimate Guide to Sound Trailing in Premiere Pro for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unraveling-the-potential-of-aurora-hdr-tech/"><u>Unraveling the Potential of Aurora HDR Tech</u></a></li>
+</ul></div>
 

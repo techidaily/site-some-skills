@@ -1,7 +1,7 @@
 ---
 title: Efficient File Comparison Techniques Using Notepad++
-date: 2024-10-20T16:13:18.501Z
-updated: 2024-10-21T19:54:24.829Z
+date: 2024-10-21T22:59:03.451Z
+updated: 2024-10-27T16:07:45.346Z
 tags:
   - desktop
 categories:
@@ -37,13 +37,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Create Shortcut on Desktop' and 'Install' highlighted in the Notepad++ installation wizard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-create-notepad-plus-plus-desktop-shortcut.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When you’ve installed the app, click "Finish."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Step 2\. Install the Compare Plugin Using Plugins Admin
@@ -69,10 +76,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Notepad++ will relaunch with the Compare plugin installed.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Step 3\. Compare Two Files in Notepad++
@@ -84,10 +91,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 !['Open' highlighted in Notepad++.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/7-open-files-notepad-plus-plus.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After opening both files, from the app’s menu bar, select Plugins > Compare > Compare.
@@ -103,10 +116,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 !['Rotate to Left' and 'Rotate to Right' options highlighted in Notepad++.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/10-change-view-mode-notepad-plus-plus.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To change the colors used to highlight differences, from the app’s menu bar, select Plugins > Compare > Settings.
@@ -117,22 +130,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Color Settings' and 'OK' highlighted on the 'Compare Plugin Settings' window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/12-change-color-settings-compare-plugin-notepad-plus-plus.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After using the plugin, when you want to close the plugin’s functionality, select Plugins > Compare > Clear All Compares from the menu bar.
 
 !['Clear All Compares' highlighted in Notepad++.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/13-clear-comparison-notepad-plus-plus.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  And that’s how you quickly know the difference between two files using a free and open-source app on your computer. Notepad++ is a great [plain text editor](https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-lava-yuva-3-drfone-by-drfone-virtual-android/), and it can natively do all sorts of useful things besides compare files, like [replace specific characters with new lines](https://screen-mirror.techidaily.com/the-top-10-apple-iphone-6-plus-emualtors-for-windows-mac-and-android-drfone-by-drfone-ios/). It shines even more when you start adding plugins.
@@ -152,24 +158,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/2024-approved-3-simple-methods-for-color-correction-in-photoshop/"><u>2024 Approved 3 Simple Methods for Color Correction in PhotoShop</u></a></li>
-<li><a href="https://some-skills.techidaily.com/fast-and-easy-ways-to-access-your-desktop-in-windows-11/"><u>Fast & Easy Ways to Access Your Desktop in Windows 11</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-oppo-k11x-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Oppo K11x | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/holistic-locomotion-examination-2023-for-2024/"><u>Holistic Locomotion Examination 2023 for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-honor-100-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Honor 100 | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-11-pro-max-without-apple-password-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 11 Pro Max Without Apple Password? | Stellar</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-take-a-screenshot-on-ps4/"><u>How to Take a Screenshot on PS4</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/instagram-stylistics-swapping-videos-rightside-up-for-2024/"><u>Instagram Stylistics Swapping Videos Rightside Up for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/introducing-microsofts-latest-innovation-an-ai-enhanced-recall-function-for-personal-computers/"><u>Introducing Microsoft's Latest Innovation: An AI-Enhanced Recall Function for Personal Computers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/mandatory-survey-prompt-launched-by-microsoft-when-exiting-onedrive/"><u>Mandatory Survey Prompt Launched by Microsoft When Exiting OneDrive</u></a></li>
-<li><a href="https://some-skills.techidaily.com/microsofts-legacy-operating-systems-drop-no-more-windows-7-or-8-from-epic-games/"><u>Microsoft's Legacy Operating Systems Drop: No More Windows 7 or 8 From Epic Games</u></a></li>
-<li><a href="https://some-skills.techidaily.com/organize-and-revamp-your-mp3-collection-with-mp3tag-version-327/"><u>Organize and Revamp Your MP3 Collection with Mp3tag Version 3.27</u></a></li>
-<li><a href="https://some-skills.techidaily.com/qualcomm-unveils-groundbreaking-arm-powered-windows-desktop-computing/"><u>Qualcomm Unveils Groundbreaking ARM-Powered Windows Desktop Computing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/resolving-javascript-bugs-a-step-by-step-guide-for-discord-users/"><u>Resolving JavaScript Bugs: A Step-by-Step Guide for Discord Users</u></a></li>
-<li><a href="https://some-skills.techidaily.com/securing-a-no-cost-copy-of-microsofts-latest-os-a-guide-to-windows-11/"><u>Securing a No-Cost Copy of Microsoft's Latest OS: A Guide to Windows 11</u></a></li>
-<li><a href="https://some-skills.techidaily.com/securing-your-system-a-step-by-step-guide-to-locking-a-windows-10-pc-via-command-line/"><u>Securing Your System: A Step-by-Step Guide to Locking a Windows 10 PC via Command Line</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/smooth-sailing-through-sequences-with-kinemaster-for-2024/"><u>Smooth Sailing Through Sequences with Kinemaster for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-tutorial-snapping-screenshots-like-a-pro-on-hp-systems/"><u>Ultimate Tutorial: Snapping Screenshots Like a Pro on HP Systems</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-your-asus-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Asus Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-expert-tips-for-captivating-and-impressive-hdr-portraits/"><u>[New] 2024 Approved Expert Tips for Captivating and Impressive HDR Portraits</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-essential-blueprint-for-configuring-a-zoom-space/"><u>[New] The Essential Blueprint for Configuring a Zoom Space</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-best-toy-drones-for-kids/"><u>[New] The Ultimate Guide to Best Toy Drones for Kids</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-secrets-how-to-efficiently-record-internet-radio/"><u>[New] Unveiling the Secrets How To Efficiently Record Internet Radio</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-nailing-the-aesthetic-mastering-snapchats-filters-and-effects/"><u>[Updated] 2024 Approved Nailing the Aesthetic Mastering Snapchat's Filters & Effects</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-current-compendium-of-questions-for-captivating-audio-clips-for-2024/"><u>[Updated] Current Compendium of Questions for Captivating Audio Clips for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-triggering-windows-11-hdr-in-dynamic-mode/"><u>[Updated] Triggering Windows 11 HDR in Dynamic Mode</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-swift-windows-document-reviewing-techniques/"><u>2024 Approved Swift Windows Document Reviewing Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-for-a-smart-4k-lens-upgrade/"><u>2024 Approved The Ultimate Guide for a Smart 4K Lens Upgrade</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-trending-stock-images-and-behind-the-scenes-stories/"><u>2024 Approved Top Trending Stock Images & Behind-the-Scenes Stories</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/advanced-techniques-in-optimizing-your-intel-powered-imac-through-strategic-upgrades/"><u>Advanced Techniques in Optimizing Your Intel-Powered iMac Through Strategic Upgrades</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/consistent-care-for-your-pets-using-the-petsafe-six-serving-dispenser/"><u>Consistent Care for Your Pets Using the PetSafe Six-Serving Dispenser</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/expert-tips-on-retrieving-lost-images-a-step-by-step-guide-for-iphones/"><u>Expert Tips on Retrieving Lost Images - A Step-by-Step Guide for iPhones</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-keeping-your-gopro-fogless-for-perfection/"><u>In 2024, Keeping Your GoPro Fogless for Perfection</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-brawlers-domain-vs-twitch-territory/"><u>In 2024, The Brawler's Domain Vs. Twitch Territory</u></a></li>
+<li><a href="https://techtrends.techidaily.com/is-the-new-samsung-galaxy-s24-ultra-excessively-impressive/"><u>Is The New Samsung Galaxy S24 Ultra Excessively Impressive?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-oppo-reno-11f-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Oppo Reno 11F 5G FRP Bypass</u></a></li>
 </ul></div>
 

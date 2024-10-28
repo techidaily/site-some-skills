@@ -1,7 +1,7 @@
 ---
 title: Passionate About Personalizing My Discord Presence - Why I Find The Pricing To Be Excessive
-date: 2024-10-15T17:18:57.185Z
-updated: 2024-10-22T02:43:32.566Z
+date: 2024-10-20T22:46:04.360Z
+updated: 2024-10-27T18:27:54.181Z
 tags:
   - web
 categories:
@@ -20,10 +20,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  To stand out from the crowd on Discord, you can customize your profile to apply colors, images, and animated effects—but using all these features comes with a price. Let's explore how it works and whether it's worth it.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Customize Your Discord Profile
@@ -41,10 +41,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Some of these customizations, like the banner image or using an animated GIF as your avatar, are only available if you [pay for Discord Nitro](https://ios-unlock.techidaily.com/forgot-apple-iphone-12-mini-backup-password-heres-what-to-do-by-drfone-ios/). Others, like the avatar decoration, have a small selection available to Nitro users, but have plenty available that anyone can purchase in the in-app shop.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The Discord Shop Is Overpriced
@@ -55,15 +61,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![SpongeBob SquarePants items on the Discord shop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/spongebob-squarepants-items-on-the-discord-shop-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  These purchases are one-time and permanent, meaning you can use them forever even if they're seasonal and removed from the shop. But despite that, the pricing seems extortionate, especially if you're someone who likes to redesign their profile often.
 
  It also seems cheeky that Nitro members don't get more items for free, or at least a deeper discount in the shop, especially since Nitro costs a not-insignificant $9.99/month (for the tier that includes custom profiles).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Is the Cost of Discord's Cosmetics a Problem?
@@ -71,13 +84,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Paying for profile cosmetics isn't anything new. Steam sells similar goodies, payable in points which are mostly earned by buying games. This is more tolerable because Steam is primarily a game storefront, so you get points through natural use of the platform. You can also buy in local currency from others on the community marketplace.
 
 ![Steam points shop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/steam-points-shop.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Steam has many other avenues of revenue, so the comparison to Discord isn't equal. But when Discord already sells a monthly membership, and then sets the price of extra items so high, it makes it feel like a cash grab as opposed to a fun feature.
 
@@ -102,15 +108,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-strategies-to-combat-freezing-in-high-quality-mode/"><u>[New] In 2024, Strategies to Combat Freezing in High Quality Mode</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-unveiling-ig-reels-vs-ig-stories-essential-insights/"><u>[New] In 2024, Unveiling IG Reels vs IG Stories Essential Insights</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-step-by-step-perfectly-sharing-your-photography-on-youtube/"><u>[New] Step-by-Step Perfectly Sharing Your Photography on YouTube</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-superior-ai-for-dynamic-imagery-creation/"><u>[New] Superior AI for Dynamic Imagery Creation</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-art-of-crafting-your-own-top-tier-4k-editing-machine/"><u>[New] The Art of Crafting Your Own Top-Tier 4K Editing Machine</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-lgs-advanced-4k-visual-display/"><u>[New] The Ultimate Guide to LG’s Advanced 4K Visual Display</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-vintage-voices-top-websites-for-classical-ringtone-acquisition-for-2024/"><u>[Updated] Vintage Voices Top Websites for Classical Ringtone Acquisition for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-newest-version-of-wacom-cintiq-tablet-driver-for-enhanced-performance/"><u>Download Newest Version of Wacom Cintiq Tablet Driver for Enhanced Performance</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/jokesonscreen-pro-for-2024/"><u>JokesOnScreen Pro for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/premier-alternatives-to-youtubes-top-5-video-editors-for-2024/"><u>Premier Alternatives to YouTube's Top 5 Video Editors for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-greatest-copyright-free-pubg-image-anthology/"><u>[New] 2024 Approved Greatest Copyright-Free PUBG Image Anthology</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-evolution-and-alternatives-to-googles-ar-stickers/"><u>[New] The Evolution and Alternatives to Google's AR Stickers</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-enhance-your-captures-online-a-compact-guide-to-best-photo-fixers-for-2024/"><u>[Updated] Enhance Your Captures Online A Compact Guide to Best Photo Fixers for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-transform-every-moment-top-ideas-for-productive-podcast-sessions/"><u>[Updated] In 2024, Transform Every Moment Top Ideas for Productive Podcast Sessions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/androids-top-podcast-apps-showdown-6-innovators-revealed-for-2024/"><u>Android's Top Podcast Apps Showdown 6 Innovators Revealed for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/formulate-funny-imagery-with-adobe-for-2024/"><u>Formulate Funny Imagery with Adobe for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-accessories-to-elevate-your-sj4000-experience/"><u>In 2024, Top Accessories to Elevate Your SJ4000 Experience</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-turning-twitter-media-into-interactive-expressive-animated-gifs/"><u>In 2024, Turning Twitter Media Into Interactive, Expressive Animated GIFs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-understanding-expenses-in-music-video-creation/"><u>In 2024, Understanding Expenses in Music Video Creation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-uniquely-branding-podcasts-expert-led-logo-insights/"><u>In 2024, Uniquely Branding Podcasts Expert-Led Logo Insights</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-power-of-the-podium-mastering-audio-in-videography-for-2024/"><u>The Power of the Podium Mastering Audio in Videography for 2024</u></a></li>
 </ul></div>
 

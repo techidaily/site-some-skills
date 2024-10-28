@@ -1,7 +1,7 @@
 ---
 title: "Be Prepared Without Delay: Step-by-Step Tutorial on Crafting a Bootable Windows #11 USB Thrive in Advance"
-date: 2024-10-14T23:22:38.137Z
-updated: 2024-10-21T23:13:28.609Z
+date: 2024-10-21T22:41:17.345Z
+updated: 2024-10-27T19:05:23.207Z
 tags:
   - deals
 categories:
@@ -64,13 +64,6 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 
 ![Windows 11 download screen in the Setup window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/windows-11-download-screen-in-the-setup-window.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once your USB flash drive is ready, click the "Finish" option to close the window.
 
 ![Finish option in the Windows 11 Setup window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/finish-option-in-the-windows-11-setup-window.jpg) 
@@ -89,13 +82,6 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 
 ![Selecting Language of the Windows 11 ISO File.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/selecting-language-of-the-windows-11-iso-file.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click the "Download" button to begin downloading the file. The ISO file is approximately 7GB in size, which may take some time to download, depending on your connection speed.
 
 ![Download option for Windows 11 ISO File.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/download-option-for-windows-11-iso-file.jpg) 
@@ -103,13 +89,6 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
  Once you have the Windows 11 ISO file, visit the [Rufus official website](https://rufus.ie/en/) and download its latest version. Make sure you select the link labeled "Standard" under the Type section.
 
 ![Rufus download file on its website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/rufus-download-file-on-its-website.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After downloading the Rufus app, open it, click the drop-down arrow for the "Device" option, and choose your USB device.
 
@@ -119,13 +98,6 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 
 ![Select option in the Rufus app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/select-option-in-the-rufus-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Choose the Windows 11 ISO file you just downloaded and click "Open."
 
 ![Selecting the Windows 11 ISO File.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/selecting-the-windows-11-iso-file.jpg) 
@@ -133,13 +105,6 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
  Make sure the Partition Scheme is set to "GPT" and File System is set to "NTFS." Then, click "Start."
 
 ![Start option in the Rufus window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/start-option-in-the-rufus-window.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In the Windows User Experience window, check the boxes next to "Remove requirement for 4GB+ RAM, Secure Boot, and TPM 2.0" and "Remove Requirement for an Online Microsoft Account." Then, click "OK."
 
@@ -156,15 +121,22 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 ![Rufus making USB drive bootable.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/rufus-making-usb-drive-bootable.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once the process is complete, you will see the Ready message with a green background under the Status section.
 
 ![Ready option with Green background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/ready-option-with-green-background-1.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Create a Bootable Windows 11 USB Using Command Prompt
 
@@ -174,6 +146,19 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 
 ![DISKPART command in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/diskpart-command-in-command-prompt.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then, type **LIST** **DISK** and hit Enter. This will list all the storage devices connected to your computer.
 
 ![LIST DISK command in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/list-disk-command-in-command-prompt.jpg) 
@@ -181,6 +166,13 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
  Note the disk number of your USB drive. In our case, it’s DISK 2.
 
 ![Name of USB drive in the Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/name-of-usb-drive.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Type **SEL (YourDisk)** and hit Enter to select your USB drive.
 
@@ -190,11 +182,25 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 
 ![Clean command in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/clean-command-in-command-prompt.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Next, type the following command and hit the Enter key to create a primary partition:
 
         `Create Partition Primary`
     
 ![Partition creating command in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/partition-creating-command-in-command-prompt.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Type **List par** and press Enter to choose the main partition.
 
@@ -212,22 +218,29 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
     
 ![Assign letter command in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/assign-letter-command-in-command-prompt.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Type **exit** and hit Enter to exit the Diskpart utility.
 
 ![Exit command in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/exit-command-in-command-prompt.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You’ll now have to mount the Windows 11 ISO file. For this, execute the following command:
 
         `PowerShell Mount-DiskImage -ImagePath "ISO_FIle_Location"`
     
 ![ISO mounting command in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/iso-mounting-command-in-command-prompt.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After the mounting process is complete, restart the Command Prompt window with administrative rights.
 
@@ -236,13 +249,6 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
  Type **DISKPART** and hit Enter. After that, execute the **List Volume** command. This will show the mounted volume (DVD-ROM). Note down the "Ltr" of the mounted volume, as you’ll need it later. In our case, it’s “E.”
 
 ![List Volume command in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/list-volume-command-in-command-prompt.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Type **exit** and hit Enter to get out of the Diskpart utility.
 
@@ -291,20 +297,18 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-perfect-pairing-10-films-for-fun-filled-family-nights-for-2024/"><u>[Updated] Perfect Pairing 10 Films for Fun-Filled Family Nights for 2024</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/wmv-mp4/"><u>如何迅速地改變 WMV影片格式為 MP4: 快速转换教程</u></a></li>
-<li><a href="https://some-skills.techidaily.com/apple-maps-upgrades-with-new-authentic-browser-based-functionality/"><u>Apple Maps Upgrades with New, Authentic Browser-Based Functionality</u></a></li>
-<li><a href="https://some-skills.techidaily.com/august-16th-new-york-times-connection-quiz-uncover-hidden-answers-431/"><u>August 16Th New York Times Connection Quiz: Uncover Hidden Answers #431</u></a></li>
-<li><a href="https://some-skills.techidaily.com/august-5th-edition-insightful-answers-and-tips-from-todays-new-york-times-connection-quiz/"><u>August 5Th Edition: Insightful Answers & Tips From Today's New York Times Connection Quiz</u></a></li>
-<li><a href="https://win-bits.techidaily.com/black-friday-bargains-at-microsoft-store-score-a-discounted-300-surface-go-2-or-snag-the-230-acer-convertible-for-less-exclusive-deals-from-zdnet/"><u>Black Friday Bargains at Microsoft Store: Score a Discounted $300 Surface Go 2 or Snag the $230 Acer Convertible for Less! - Exclusive Deals From ZDNet</u></a></li>
-<li><a href="https://some-skills.techidaily.com/decoding-project-fuchsia-exploring-googles-covert-and-revolutionary-os-endeavour/"><u>Decoding Project Fuchsia: Exploring Google's Covert and Revolutionary OS Endeavour</u></a></li>
-<li><a href="https://some-skills.techidaily.com/discover-key-answers-in-todays-nyt-puzzle-challenge-august-21-connect-the-dots-with-hint-437/"><u>Discover Key Answers in Today's NYT Puzzle Challenge - August 21, Connect the Dots with Hint #437!</u></a></li>
-<li><a href="https://some-skills.techidaily.com/discover-more-with-google-lens-and-look-up-images-instantly-introducing-learn-about-this-photo/"><u>Discover More with Google Lens & Look Up Images Instantly - Introducing 'Learn About This Photo'</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-the-art-of-3d-text-rendering-in-ps/"><u>In 2024, Navigating the Art of 3D Text Rendering in PS</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Honor 70 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/tutorial-kecil-untuk-restu-file-terhapus-dalam-memori-stick-ps-playstation-portable/"><u>Tutorial Kecil Untuk Restu File Terhapus Dalam Memori Stick PS PLAYSTATION PORTABLE</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-tecno-spark-10-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Tecno Spark 10 5G IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://article-files.techidaily.com/ultimate-choice-top-5-pro-fish-action-cameras/"><u>Ultimate Choice Top 5 Pro-Fish Action Cameras</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-get-ready-to-be-amazed-the-best-4k-video-samples-around/"><u>Updated 2024 Approved Get Ready to Be Amazed The Best 4K Video Samples Around</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-implementing-photography-snippets-from-videos/"><u>[New] Implementing Photography Snippets From Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-nurturing-nature-on-android-animals-in-a-virtual-world/"><u>[New] Nurturing Nature on Android Animals in a Virtual World</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transforming-slow-motion-into-fast-action/"><u>[Updated] Transforming Slow Motion Into Fast Action</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-astronomical-sites-for-breathtaking-sky-photos/"><u>2024 Approved Top Astronomical Sites for Breathtaking Sky Photos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-guide-selecting-top-notch-free-srt-translators-online/"><u>2024 Approved Ultimate Guide Selecting Top-Notch Free SRT Translators Online</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-mp4-to-m4a-converter-movavi/"><u>Free Online MP4 to M4A Converter - Movavi</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-nokia-c32-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Nokia C32 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-oppo-reno-10-proplus-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Oppo Reno 10 Pro+ 5G Lock Screen Password?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-motorola-moto-g34-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Motorola Moto G34 5G Lock Screen Password</u></a></li>
+<li><a href="https://extra-information.techidaily.com/picsart-guide-adding-motion-blur-to-facial-shots-for-dynamic-images/"><u>Picsart Guide Adding Motion Blur to Facial Shots for Dynamic Images</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/seeing-the-shades-uncovering-disguised-viewer-interactions-for-2024/"><u>Seeing the Shades Uncovering Disguised Viewer Interactions for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/by-step-guide-enhancing-youtube-content-with-ios-recording/"><u>Step-by-Step Guide Enhancing YouTube Content with iOS Recording</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Vivo V29e | Dr.fone</u></a></li>
 </ul></div>
 

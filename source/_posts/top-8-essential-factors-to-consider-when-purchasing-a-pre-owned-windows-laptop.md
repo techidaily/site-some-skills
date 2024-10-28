@@ -1,7 +1,7 @@
 ---
 title: Top 8 Essential Factors to Consider When Purchasing a Pre-Owned Windows Laptop
-date: 2024-10-17T03:24:19.938Z
-updated: 2024-10-22T00:58:05.958Z
+date: 2024-10-24T18:19:23.294Z
+updated: 2024-10-27T20:03:07.534Z
 tags:
   - deals
 categories:
@@ -24,13 +24,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Buying a used laptop can indeed save you money, but it does come with some risks. This is why you should thoroughly examine the laptop before closing the deal to avoid unpleasant surprises later on. If you doubt the credibility of the seller, here's how you can test the used laptop.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Test the Keyboard and Trackpad
 
  Begin the laptop inspection by testing the keyboard and trackpad first. To test the keyboard, go to a keyboard testing website like [Keyboard Tester](https://www.keyboardtester.com/tester.html) and press each key from the first to the last. If all keys register correctly, the keyboard is likely in good condition. Also, make sure you feel comfortable typing on the keyboard.
@@ -40,13 +33,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  To test the trackpad, hover over the screen to gauge its responsiveness. Then, experiment with different trackpad gestures, such as pinch-to-zoom and two-finger scroll, to see which ones are supported. If you have another laptop, you can compare trackpad responsiveness by conducting a touchpad accuracy test on both laptops using the [No-Cursor website](https://no-cursor.com/).
 
  This will help you confirm whether the trackpad on your new laptop is equally or more responsive than the other one.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Test the Speakers and Built-In Microphone
 
@@ -60,18 +46,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Testing the laptop microphone in Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/2-testing-the-laptop-microphone-in-settings.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Test the Built-In Camera
 
  If you intend to use the laptop for video communication, test its built-in camera. To do this, type **Camera** in the Windows Search bar and open the Camera app.
 
  If the camera app detects the webcam and the visuals are clear and of satisfactory quality, as the seller claimed, then the camera is working correctly.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Check the Health of Your Laptop Battery
 
@@ -83,15 +69,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Generating the battery health report from Windows PowerShell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/08/br_2-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Navigate to this location and open the battery report. Then, go to the "Installed Batteries" section and compare the "Design Capacity" with the "Full Charge Capacity." The difference between these values indicates the extent to which the battery's capacity has diminished due to usage. If the full charge capacity is significantly low, you may have to replace the battery.
 
 ![Checking the laptop battery report.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/08/br_5.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Ensure the Laptop Isn't Stolen
@@ -106,24 +99,31 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Also, watch out for stickers that may be covering up wear and tear underneath, as this is a common practice.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Test the Wired and Wireless Connectivity
 
  The worst scenario you could face is finding your [laptop unable to connect to the internet](https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual/) (via Wi-Fi or Ethernet cable), USB ports failing to detect external devices, or Bluetooth malfunctioning—all after completing the purchase. Because of that, confirming there are no wired or wireless connectivity issues is important.
 
  Start by connecting your laptop to Wi-Fi. Then, [test its Ethernet port](https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/) by plugging it directly into the router. If the internet connection works well, test the audio jacks with headphones. Similarly, check the USB ports by connecting a wired device. Finally, make sure Bluetooth is working by pairing a Bluetooth-powered device.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Check the Health of RAM and Storage Drive
 
  Finally, [check the health of the RAM](https://hardware-help.techidaily.com/step-by-step-installation-amd-gpio-pin-driver-for-hexagon-devices/) and storage drive to ensure they're not faulty. To test the RAM, you can use the Windows Memory Diagnostic tool, which detects and displays potential issues with it. To run the test, open Command Prompt as an administrator, type **mdsched.exe**, and press Enter. Then, click "Restart Now and Check for Problems."
 
 ![Running the memory diagnostic test from Windows Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/3-running-the-memory-diagnostic-test-from-windows-command-prompt.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Windows will restart and run the test. Once it finishes testing the RAM, it'll restart again and display the test results. If you don't see them, you can use the Windows Event Viewer to search for potential issues identified during the test. Open Event Viewer and go to Windows Logs > System. Click "Find," type **MemoryDiagnostic**, and click "Find Next."
 
@@ -148,19 +148,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-pure-summer-magic-the-top-10-classic-kids-films-for-2024/"><u>[New] Pure Summer Magic The Top 10 Classic Kid's Films for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-az-capture-extraordinaire-thorough-app-reviews/"><u>[Updated] AZ Capture Extraordinaire Thorough App Reviews</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-budget-friendly-methods-for-youtube-card-creation-for-2024/"><u>[Updated] Budget-Friendly Methods for YouTube Card Creation for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-meme-mastery-iphone-edition/"><u>[Updated] Meme Mastery IPhone Edition</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-this-years-prime-pc-vr-tech/"><u>[Updated] Unveiling This Year's Prime PC VR Tech</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-all-about-camstudio-screen-recorder-efficiency/"><u>2024 Approved All About CamStudio Screen Recorder Efficiency</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-investigating-the-upside-down-issue-on-instavideos/"><u>2024 Approved Investigating the Upside-Down Issue on InstaVideos</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asus-rt-be96u-the-ultimate-6ghz-wireless-networking-champion-in-depth-review/"><u>Asus RT-BE96U: The Ultimate 6GHz Wireless Networking Champion - In Depth Review</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-screen-shot-ease-premium-free-software-for-desktop-recording-on-pcmac/"><u>In 2024, Screen Shot Ease Premium FREE Software for Desktop Recording on PC/Mac</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-inconspicuous-footprint-of-social-media-engagements/"><u>In 2024, The Inconspicuous Footprint of Social Media Engagements</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/simple-guide-install-intel-dual-band-ac-7260-wifi-adapter-software/"><u>Simple Guide: [Install] Intel Dual Band AC 7260 WiFi Adapter Software</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-5-easy-android-image-fixes-for-2024/"><u>Top 5 Easy Android Image Fixes for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/total-exploration-of-vsco-photography-functions-for-2024/"><u>Total Exploration of VSCO Photography Functions for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-made-simple-how-to-perform-a-full-cmos-reset/"><u>Troubleshooting Made Simple: How to Perform a Full CMOS Reset</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-a-novices-guide-to-selecting-key-gopro-enhancements/"><u>[New] A Novice's Guide to Selecting Key GoPro Enhancements</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/udience-engagement-where-to-captivate-viewers/"><u>[New] Audience Engagement Where to Captivate Viewers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-navigating-pip-functionality-in-microsoft-edge/"><u>[Updated] 2024 Approved Navigating PIP Functionality in Microsoft Edge</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-how-to-turn-videos-reverse-wave-style-on-snapchat/"><u>[Updated] How to Turn Videos Reverse-Wave Style on Snapchat</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-drone-racers-companion-basics-to-aces-and-top-5-fpv-brands/"><u>[Updated] The Drone Racer's Companion Basics to Aces and Top 5 FPV Brands</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-insiders-tactics-for-creating-gripping-puzzle-posts-on-instagram/"><u>[Updated] The Insider's Tactics for Creating Gripping Puzzle Posts on Instagram</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-canva-guide-to-incorporating-and-refining-audio/"><u>[Updated] The Ultimate Canva Guide to Incorporating and Refining Audio</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-invite-and-guest-at-tiktok-lives-easily/"><u>2024 Approved Invite and Guest at TikTok Lives Easily</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-strategies-for-apple-listed-podcast-success/"><u>2024 Approved Strategies for Apple-Listed Podcast Success</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-metaverse-makeover-easy-avatar-construction/"><u>2024 Approved The Metaverse Makeover Easy Avatar Construction</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722969306267-brother-hl-l2370dw-printer-drivers-download-latest-version-now/"><u>Brother HL-L2370DW Printer Drivers: Download Latest Version Now!</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-navigating-zoom-settings-for-top-notch-audio-capture/"><u>In 2024, Navigating ZOOM Settings for Top-Notch Audio Capture</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-balance-of-serene-visuals/"><u>In 2024, The Balance of Serene Visuals</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-essentials-of-video-format-transformation-using-vlc/"><u>In 2024, The Essentials of Video Format Transformation Using VLC</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-path-to-outstanding-interviewer-expertise/"><u>In 2024, The Path to Outstanding Interviewer Expertise</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-fix-get-your-acer-wi-fi-driver-for-free-today/"><u>Quick Fix: Get Your Acer Wi-Fi Driver for Free Today!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-technicality-of-srgb-vs-rgb-for-2024/"><u>The Technicality of Srgb vs Rgb for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-12-mini-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-image-potential-smart-online-cropping-techniques-for-2024/"><u>Unlocking Image Potential Smart Online Cropping Techniques for 2024</u></a></li>
 </ul></div>
 

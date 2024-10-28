@@ -1,7 +1,7 @@
 ---
 title: 12 Surprising Tricks You Never Knew About Using Preview on Your Mac
-date: 2024-10-19T01:22:35.498Z
-updated: 2024-10-21T18:45:34.800Z
+date: 2024-10-24T20:58:53.587Z
+updated: 2024-10-27T17:05:09.342Z
 tags:
   - desktop
 categories:
@@ -28,13 +28,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Preview is one of the oldest and most commonly used apps on macOS. Yet if you haven't taken the time to explore it in detail, you might be surprised to learn that it is a lot more powerful than you thought.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Edit Your Images
 
  You might mostly use Preview's editing features for things like [cropping and resizing images](https://tools.techidaily.com/aiseesoft/ios-transfer/), but it also has some tools you can use for more advanced edits. You can correct the exposure in photos, and it supports layers in a simple way, which enables you to add elements to your images non-destructively.
@@ -50,16 +43,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Resize and move objects pasted into an image in Preview.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/resize-and-move-objects-pasted-into-an-image-in-preview.png) 
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Remove the Background From an Image
@@ -70,14 +63,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The Remove Background setting in Preview.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-remove-background-setting-in-preview.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If your image isn't in the PNG format, you'll be prompted to convert it first.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Extract the Subject From an Image
 
@@ -87,14 +80,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The Copy Subejct option in Preview in macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-copy-subejct-option-in-preview-in-macos.jpeg) 
 
- The subject will be copied to your clipboard so that you can paste it into another app. Alternatively, go to File > New from Clipboard to create a new image.
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ The subject will be copied to your clipboard so that you can paste it into another app. Alternatively, go to File > New from Clipboard to create a new image.
 
 ##  Undo All Your Edits
 
@@ -130,13 +123,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The Inspector tool in Preview with added AI recognition features.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-inspector-tool-in-preview-with-added-ai-recognition-features.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click the button to show the inspector window and a small icon will appear in the image above the part that can be recognized. Click this to get more information on the object in your photo.
 
 Close 
@@ -147,6 +133,13 @@ Close
 
 ![View images in the slideshow in Preview.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/view-images-in-the-slideshow-in-preview.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Create and Encrypt PDFs
 
  Preview's PDF support is a little more advanced than you might realize. You can save images, or documents from Pages and Numbers, as PDFs, and you can encrypt them so they're only accessible with a password.
@@ -155,14 +148,14 @@ Close
 
 ![The settings to encrypt a PDF in Preview.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-settings-to-encrypt-a-pdf-in-preview.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can do this with existing PDFs, too. Open the PDF in Preview and go to File > Edit Permissions. Now you can add a password and change the other restrictions that were placed onto the file.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Edit PDFs
 
@@ -176,16 +169,16 @@ Close
 
 ![The Show Markup Toolbar button in Preview.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-show-markup-toolbar-button-in-preview.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To [redact information from a file](https://extra-support.techidaily.com/2024-approved-steps-for-writing-engaging-video-blogging-content/), click the Redact button and highlight the words, sentences, or paragraphs that you want to remove. Note that this is permanent and cannot be undone once you've saved your changes.
 
 ![Redact information in Preview.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/redact-information-in-preview-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To [sign a document](https://some-knowledge.techidaily.com/new-identifying-the-best-iphone-watermarks-a-complete-guide/), click the Sign button and create a signature either by drawing it with your mouse or trackpad, or by handwriting your signature onto a white piece of paper and holding it up to the camera. You can then drag it into a signature box on the PDF document to sign it.
 
@@ -198,10 +191,10 @@ Close
  You can also annotate the PDF in the usual ways by drawing, adding text boxes, adding shapes, and so on.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Save Frames From GIFs
@@ -209,6 +202,13 @@ Close
  Ever need to save a single frame from a GIF? You can do that in Preview. Drag the GIF into Preview and you'll see all of its frames in the sidebar. Locate the frame you want and then drag it to your desktop where it will be saved as a separate image file.
 
 ![Save a frame from a GIF in Preview.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/save-a-frame-from-a-gif-in-preview.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Batch Convert Images
 
@@ -243,17 +243,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-extracting-youtube-music-three-secure-ways-without-financial-burden/"><u>[Updated] In 2024, Extracting YouTube Music Three Secure Ways Without Financial Burden</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-simplified-path-to-viewing-popular-youtube-comments/"><u>[Updated] Simplified Path to Viewing Popular YouTube Comments</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-art-of-upward-landscapes-with-phones/"><u>[Updated] The Art of Upward Landscapes with Phones</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-next-gen-discover-8-leading-tablets-pushing-beyond-filmoras-limits/"><u>[Updated] The Next Gen Discover 8 Leading Tablets Pushing Beyond Filmora's Limits</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-audiofreexer-extraction-for-2-point-zero-two-four/"><u>[Updated] The Ultimate Guide to AudioFreexer Extraction for 2 Point Zero Two Four</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-secrets-of-hands-in-vrar/"><u>[Updated] Unveiling the Secrets of Hands in VR/AR</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-behind-the-scenes-10-underrated-aspects-of-reels-on-instagram/"><u>2024 Approved Behind the Scenes 10 Underrated Aspects of Reels on Instagram</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-color-grading-a-look-at-luts-significance/"><u>2024 Approved Navigating Color Grading A Look at LUT's Significance</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-realme-c67-4g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Realme C67 4G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/eager-for-a-gpt-powered-desktop-experience-discover-this-top-open-source-alternative/"><u>Eager for a GPT-Powered Desktop Experience? Discover This Top Open Source Alternative!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-itel-p40plus-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Itel P40+? Fixed | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/photocollage-mastery-building-visual-narratives/"><u>PhotoCollage Mastery Building Visual Narratives</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/mprove-video-comprehensibility-with-effective-use-of-chapters-in-youtube-for-2024/"><u>[New] Improve Video Comprehensibility with Effective Use of Chapters in YouTube for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-creating-hdr-in-photoshop/"><u>[New] The Ultimate Guide to Creating HDR in Photoshop</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlock-10-passport-images-at-no-cost-desktopweb/"><u>[New] Unlock 10 Passport Images at No Cost – Desktop/Web</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-aspire-with-angles-crafting-compelling-visuals-through-instagram-rotation/"><u>[Updated] Aspire with Angles Crafting Compelling Visuals Through Instagram Rotation</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-empower-pics-with-perimeter-blur-using-cs/"><u>[Updated] In 2024, Empower Pics with Perimeter Blur Using CS</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-game-centric-tvs-top-picks-for-ps5xbox-series-x/"><u>[Updated] In 2024, Game-Centric TVs Top Picks for PS5/Xbox Series X</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transformative-podcast-branding-through-logo-artistry/"><u>[Updated] Transformative Podcast Branding Through Logo Artistry</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-pantheon-of-popularity-reddits-top-10-posts/"><u>2024 Approved The Pantheon of Popularity Reddit's Top 10 Posts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-patient-reach-top-fb-med-ad-tactics/"><u>2024 Approved Transforming Patient Reach Top FB Med Ad Tactics</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveil-windows-xp-professional-for-video-production/"><u>2024 Approved Unveil Windows XP Professional for Video Production</u></a></li>
+<li><a href="https://fox-info.techidaily.com/achieving-a-natural-sound-curve-dimming-audio-smoothly-for-2024/"><u>Achieving a Natural Sound Curve Dimming Audio Smoothly for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/addressing-the-error-message-rockalldlldll-is-missing/"><u>Addressing the Error Message: 'Rockalldll.dll Is Missing'</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-realme-v30t-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Realme V30T Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-film-guide-top-15-timeless-stop-motion-classics/"><u>In 2024, The Ultimate Film Guide - Top 15 Timeless Stop Motion Classics</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/tted-recording-youtube-video-screenshots-in-2024/"><u>Permitted Recording YouTube Video Screenshots, In 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016972103-resolving-your-macs-audio-issues-no-sound-problem-solved/"><u>Resolving Your Mac's Audio Issues: No Sound Problem Solved!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/streamlining-color-correction-leveraging-look-up-tables-from-cg-central-for-2024/"><u>Streamlining Color Correction Leveraging Look-Up Tables From CG Central for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-list-of-tamil-ringtones-purchase-hubs-and-hacks-for-2024/"><u>The Ultimate List of Tamil Ringtones Purchase Hubs & Hacks for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-infinix-zero-5g-2023-turbo-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Infinix Zero 5G 2023 Turbo Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
 

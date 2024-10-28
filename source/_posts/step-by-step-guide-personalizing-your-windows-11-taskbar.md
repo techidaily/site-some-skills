@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Personalizing Your Windows 11 Taskbar"
-date: 2024-10-17T23:23:44.692Z
-updated: 2024-10-21T19:10:04.921Z
+date: 2024-10-21T20:11:21.212Z
+updated: 2024-10-27T20:32:23.022Z
 tags:
   - deals
 categories:
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 * [Add a Toolbar to the Taskbar](https://extra-information.techidaily.com/a-look-into-magix-graphic-designer-for-2024/)
 * [Configure the Taskbar for Multiple Displays](https://on-screen-recording.techidaily.com/in-2024-the-art-of-circle-and-sphere-construction-in-mc/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Customize the taskbar by pinning apps and shortcuts for easy access. Right-click an app's icon to pin it or drag the app icon to the taskbar.
@@ -38,25 +45,11 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
  We've taken a look at customizing the [Start menu](https://visual-screen-recording.techidaily.com/new-2024-approved-groundbreaking-6-modern-mc-residentials/) and the [Action Center](https://instagram-clips.techidaily.com/new-2024-approved-unlock-efficiency-cutting-edge-techniques-for-cropping-and-exporting-videos/) in Windows 10\. Now, it's time to tackle the taskbar. With just a little bit of work, you can tweak the taskbar to get it running just how you like it.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Pin Apps to the Taskbar
 
  The simplest way to customize your taskbar is by pinning various apps and shortcuts to it so that you can access them more quickly in the future. There are two ways to do this. The first is to open the program, either from the Start menu or an existing shortcut. When the app's icon appears on the taskbar to indicate it's running, right-click the icon and select the "Pin to taskbar" option from the context menu.
 
 ![Right-click the icon of an open app and select "Pin to Taskbar."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-pin-app-ot-taskbar.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The second way to pin an app to the taskbar does not require the app to be running first. Find the app on the Start menu, right-click the app, point to "More," and then choose the "Pin to taskbar" option you find there. You could also drag the app icon to the taskbar if you prefer doing it that way.
 
@@ -67,10 +60,10 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 ![Right-click a pinned icon, then select "Unpin from Taskbar" to remove it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-unpin-from-taskbar.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Pin a File or Folder to Taskbar Jump Lists
@@ -87,6 +80,13 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
  By default, Windows 10 shows about 12 recent items in jump lists. In previous versions of Windows, you could increase or decrease that number easily through taskbar properties. Windows 10, for some reason, does not have this feature easily accessible. You can, however, [change the number of items shown on jump lists with a quick Registry hack](https://some-techniques.techidaily.com/updated-expert-tips-for-a-closer-look-at-google-meet-participants/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Configure or Remove the Search Box
 
  The search box takes up a lot of room on the taskbar, and you don't need it to do your searching. Even without it, if you press the Windows key and start typing, you'll get the same search experience. If you want to perform a voice search — normally accessed by clicking the microphone icon in the search box — you just have to press Windows+C on your keyboard instead.
@@ -96,6 +96,13 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 ![Right-click the Taskbar, mouse over "Search," and select "Hidden" or "Show Search Icon."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-hide-search-bar.png) 
 
  Choose the "Hidden" option to remove both the search box and icon or choose "Show Search Icon" to have just the icon on the taskbar.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Remove the Task View Button
 
@@ -131,6 +138,19 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
 ![Click "Select Which Icons Appear on the Taskbar."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/8-taskbar-settings.png) 
 
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you want to remove the hidden area and see all the icons all the time, turn on the "Always show all icons in the notification area" option. If you leave that setting off, you can also run through the list and turn individual apps on or off. Just note that turning an app off here doesn't remove it from the Notification Area altogether. When an app is turned off, it shows up in the hidden area. When it's on, it shows up in the main Notification Area.
 
 ![A list of toggleable icons that can appear on your Taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/9-taskbar-icons.png) 
@@ -145,6 +165,13 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
 ![Taskbar on the left side of the screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/15-desktop-w-vert-taskbar.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The other way to change the taskbar location is through the settings interface. Right-click on any empty area of the taskbar and choose "Taskbar Settings." In the taskbar settings window, scroll down and find the "Taskbar location on screen" drop-down menu. You can choose any of the four sides of the display from this menu.
 
 ![Click the drop-down menu to change the Taskbar location.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/16-taskbar-location.png) 
@@ -155,35 +182,21 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
 ![Click the Taskbar's edge and drag to resize it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/17-huge-taskbar.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Use Small Icons to Fit More on the Taskbar
 
  If you want a few more icons on your taskbar, but aren't keen on resizing it, you can configure Windows 10 to show small taskbar icons. Right-click on any empty area of the taskbar and click "Taskbar Settings." In the settings window, turn on the "Use small taskbar icons" option.
 
 ![Go to the "Taskbar" section, then select "Use Small Taskbar Icons."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/18-use-small-taskbar-icons.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As you can see, almost everything is the same except that the icons are smaller and you can cram a few more into the space. One difference you should note is that when you're using the smaller icons, the taskbar itself shrinks a bit vertically. As a result, only the clock is shown and not the date as well. But you can always hover your mouse over the clock or click it to check the date. This also applies if you've set your taskbar to display labels instead of just icons.
 
 ![Tiny taskbar labels and icons.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/19-small-taskbar-icons.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Show Labels for Taskbar Icons
@@ -191,6 +204,13 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
  By default, the taskbar groups icons for windows of the same app and doesn't show labels for those icons. This saves a lot of taskbar space but can make it difficult for newer users to recognize icons. You can have Windows show text labels, but the downside is that you also lose the grouping of related icons. To do this, right-click on an empty area of the taskbar and click "Taskbar Settings." In the settings window, look for the "Combine taskbar buttons" drop-down menu.
 
 ![The "Combine Taskbar Buttons" options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/20-set-combine-taskbar-labels-to-never.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The menu gives you three choices:
 
@@ -204,25 +224,11 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
 ![Select "Personalization."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/21-perosnalization.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the Personalization window, scroll down until you see the colors.
 
  You'll see two options for controlling the taskbar — along with the Action Center and Start menu. Use the "Transparency Effects" toggle to choose whether those items should be transparent or opaque. When the "Start, taskbar, and action center" option is turned off, those items use the default black color. When you turn that option on, those items use the color you've picked in the color chooser at the top or, if you have the "Automatically pick an accent color from my background" option turned on, the color Windows has chosen.
 
 ![Tick "Start, Taskbar, and action center."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/22-taskbar-color.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  By the way, Windows doesn't offer any controls to adjust the transparency of the taskbar, Start menu, and Action Center. If you don't mind making a quick Registry hack, though, you can [make those items a bit more transparent](https://extra-resources.techidaily.com/best-value-for-money-selecting-the-leading-free-srt-services-for-2024/) than the default.
 
@@ -285,16 +291,24 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-paired-monitors-preservation/"><u>[New] 2024 Approved Paired Monitors Preservation</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-teaching-with-technology-innovative-editing-approaches-in-education/"><u>[New] Teaching with Technology Innovative Editing Approaches in Education</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-ranked-spots-for-boosting-youtube-videos/"><u>[New] Top-Ranked Spots for Boosting YouTube Videos</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-generate-funny-image-jokes-at-flipfotohub/"><u>[Updated] 2024 Approved Generate Funny Image Jokes at FlipFotoHub</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-beam-your-best-lol-playing-moments-onto-screen-3-ways/"><u>[Updated] Beam Your Best LOL Playing Moments Onto Screen (3 Ways)</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-high-definition-horizons-with-lgs-newest-tv-review-27ud68-for-2024/"><u>[Updated] High-Definition Horizons with LG's Newest TV Review (27UD68) for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/72965349-updated-tiny-snippets-deciphered-important-facts/"><u>[Updated] Tiny Snippets Deciphered Important Facts!</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-monitors-reimagined-an-insight-into-the-z32x/"><u>2024 Approved The Art of Monitors Reimagined An Insight Into the Z32X</u></a></li>
-<li><a href="https://network-issues.techidaily.com/adjusting-vision-quality-in-windows-11/"><u>Adjusting Vision Quality in Windows 11</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/free-online-conversion-change-vob-files-to-avi-format-with-moveavis/"><u>Free Online Conversion: Change VOB Files to AVI Format with Moveavis</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-best-cheap-action-cameras-to-purchase-for-under-100-for-2024/"><u>The Best Cheap Action Cameras to Purchase for Under $100 for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-endless-display-recorder-app/"><u>[New] 2024 Approved Endless Display Recorder App</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-ignite-your-audience-top-10-igtv-trends-brands-cant-miss-for-2024/"><u>[New] Ignite Your Audience Top 10 IGTV Trends Brands Can't Miss for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-tips-and-tricks-to-elevate-your-youtube-production-through-subtitle-integration/"><u>[New] In 2024, Tips and Tricks to Elevate Your YouTube Production Through Subtitle Integration</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-mastering-the-science-of-verbal-recording/"><u>[New] Mastering the Science of Verbal Recording</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-sdr-vs-hdr-why-hdr-be-a-better-part-of-your-video-workflow/"><u>[New] SDR vs HDR Why HDR Be a Better Part of Your Video Workflow</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-step-by-step-process-high-dynamic-range-hdr-portraiture/"><u>[New] Step-by-Step Process High Dynamic Range (HDR) Portraiture</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-iphone-photography-handbook-tips-and-tricks/"><u>[Updated] The iPhone Photography Handbook Tips & Tricks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-elevate-your-gaming-experience-with-voice-customization-in-free-fire/"><u>[Updated] The Ultimate Guide Elevate Your Gaming Experience with Voice Customization in Free Fire</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unique-gifting-made-simple-discover-top-10-custom-box-sellers/"><u>[Updated] Unique Gifting Made Simple Discover Top 10 Custom Box Sellers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unrivaled-vr-sets-for-aerial-adventures/"><u>[Updated] Unrivaled VR Sets for Aerial Adventures</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-product-revelation-best-15-unboxing-channels/"><u>2024 Approved The Ultimate Guide to Product Revelation Best 15 Unboxing Channels</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/360-vision-showdown-samsung-and-lg-camera-face-off-for-2024/"><u>360 Vision Showdown Samsung & LG Camera Face Off for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/disc-stuck-in-your-xbox-series-x-how-to-manually-eject-it/"><u>Disc Stuck in Your Xbox Series X? How to Manually Eject It</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-functionality-to-your-stuck-or-dead-shift-key-fail-proof-methods/"><u>How to Restore Functionality to Your Stuck or Dead Shift Key (FAIL-PROOF Methods)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-pro-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 Pro Passcode Screen?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-color-correction-best-practices-top-11/"><u>In 2024, The Art of Color Correction Best Practices (Top 11)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-rankings-leading-gopro-case-models/"><u>In 2024, The Ultimate Rankings Leading GoPro Case Models</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-gpt-3-activating-the-latest-beta-functionality-for-web-exploration-and-extension-compatibility/"><u>Unlocking GPT-3: Activating the Latest Beta Functionality for Web Exploration and Extension Compatibility</u></a></li>
 </ul></div>
 

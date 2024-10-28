@@ -1,7 +1,7 @@
 ---
 title: "Mastering the 'History' Function in Linux: A Step-by-Step Guide"
-date: 2024-10-21T01:34:36.825Z
-updated: 2024-10-21T16:16:26.634Z
+date: 2024-10-25T22:05:37.723Z
+updated: 2024-10-27T16:23:21.232Z
 tags:
   - desktop
 categories:
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/61cd3f9de3e328bf4fd572ae53f8d259727451f01
 
  Linux's shell saves a history of the commands you run, and you can search it to repeat commands you've run in the past. Once you understand the Linux history command and how to use it, it can significantly boost your productivity.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  What is Linux Command History Used For?
 
  The Linux `history` command allows you to review and repeat your previous commands. This isn't intended to just encourage laziness or save time—there's also an efficiency (and accuracy) factor at play. The lengthier and more complicated a command is, the harder it is to remember and type without making an error. There are two types of errors: one that prevents the command from working, and one that allows the command to work, but makes it do something unexpected.
@@ -53,6 +46,13 @@ history
 
 ![Output from history in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/2-10.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The commands are numbered, with the most recently used (those with the highest numbers) at the end of the list.
 
  To see a certain number of commands, you can pass a number to `history` on the command line. For example, to see the last 10 commands you've used, type the following:
@@ -60,6 +60,13 @@ history
 history 10
 
 ![history 10 in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/3-7.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can achieve the same result if you [pipe](https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-11-pro-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/) `history` through the [tail command](http://man7.org/linux/man-pages/man1/tail.1.html). To do so, type the following:
 
@@ -83,19 +90,6 @@ history | tail -n 10
 
 ![!! in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/6-10.png) 
 
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This can be useful when you issue a command and forget to use `sudo` . Type `sudo`, one space, the double exclamation points, and then hit Enter.
 
  For the following example, we typed a command that requires `sudo`. Instead of retyping the whole line, we can save a bunch of keystrokes and just type `sudo !!`, as shown below:
@@ -115,6 +109,13 @@ sudo !!
 !-13
 
 ![!-13 ina terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/8-8.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Searching for Commands by String
 
@@ -145,16 +146,10 @@ sudo !!
 ![!?aliases in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/12-6.png) 
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This will find any command that contains the string "aliases," regardless of where it appears in the string.
@@ -179,16 +174,16 @@ sudo !!
 
 ![gedit launched by a Ctrl+r search command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/16-4.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To edit a command before you execute it, press either the Left or Right arrow key.
 
 ![Ctrl+r search in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/17-2.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The command appears on the command line, and you can edit it.
 
@@ -199,13 +194,6 @@ sudo !!
 history | grep aliases
 
 ![history | grep aliases in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/19-3.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Modifying the Last Command
 
@@ -224,6 +212,13 @@ sudo systemctl start shhd
 ![sudo systemctl start shhd in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/20-3.png) 
 
  The command is executed with "shhd" corrected to "sshd."
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Deleting Commands from the History List
 
@@ -269,13 +264,6 @@ history -w
 
 ![history -w in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/23-3.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Clearing the History List
 
  To clear all commands from the history list, you can use the `-c` (clear) option, as follows:
@@ -318,10 +306,10 @@ history 5
  The command with the password isn't added to the history list. The reason this trick works is contained within the `.bashrc` file.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The .bashrc File
@@ -333,13 +321,6 @@ history 5
 gedit .bashrc
 
 ![gedit .bashrc in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/27.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Near the top of the file, you see two entries:
 
@@ -421,6 +402,19 @@ export HISTTIMEFORMAT="%T "
 
 ![history list with timestamps in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/34-1.png) 
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also use the `history` command to audit. Sometimes, reviewing [commands](https://buynow-help.techidaily.com/misinterpretation-of-gram-staining-results-can-lead-to-incorrect-identification-affecting-treatment-decisions-in-clinical-settings/) you've used in the past can help you identify what might have caused an issue.
 
  Just as you can in life, on Linux, you can use the `history` command to relive the good times and learn from the bad.
@@ -446,19 +440,22 @@ export HISTTIMEFORMAT="%T "
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-step-by-step-process-for-high-quality-thumbnails/"><u>[New] 2024 Approved Step-by-Step Process for High-Quality Thumbnails</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-top-taleshifters-academy-top-8-picks/"><u>[New] 2024 Approved Top Taleshifters Academy - Top 8 Picks</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-a-step-by-step-approach-to-freeing-up-space-in-figma/"><u>[Updated] A Step-by-Step Approach to Freeing Up Space in Figma</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-mastering-mac-recording-settings-for-snapchat-use/"><u>[Updated] In 2024, Mastering Mac Recording Settings for Snapchat Use</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-honor-100-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Honor 100 Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/comparing-epubor-and-alfa-which-ebook-management-software-reigns-supreme/"><u>Comparing EPubor and Alfa: Which eBook Management Software Reigns Supreme?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/demystifying-hidden-drm-systems-and-their-impact-on-content-usage/"><u>Demystifying Hidden DRM Systems and Their Impact on Content Usage</u></a></li>
-<li><a href="https://some-skills.techidaily.com/effective-techniques-for-eliminating-digital-rights-management-on-ebook-content/"><u>Effective Techniques for Eliminating Digital Rights Management on eBook Content</u></a></li>
-<li><a href="https://some-skills.techidaily.com/free-conversion-processes-from-lit-to-epub-for-enhanced-ebook-accessibility/"><u>Free Conversion Processes From LIT to EPUB for Enhanced eBook Accessibility</u></a></li>
-<li><a href="https://some-skills.techidaily.com/freedom-from-restrictions-eliminate-kindle-drm-to-enjoy-books-everywhere/"><u>Freedom From Restrictions: Eliminate Kindle DRM to Enjoy Books Everywhere</u></a></li>
-<li><a href="https://some-skills.techidaily.com/how-to-bypass-amazons-kindle-digital-rights-management-unlocking-azw-kfx-and-azw3-formats/"><u>How To Bypass Amazon's Kindle Digital Rights Management: Unlocking AZW, KFX & AZW3 Formats</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-troubleshoot-and-repair-itunes-inability-to-detect-an-iphone-on-windows-10-solutions-provided/"><u>How to Troubleshoot and Repair iTunes' Inability to Detect an iPhone on Windows 10 - Solutions Provided</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-construct-chortling-characters-via-giphy/"><u>In 2024, Construct Chortling Characters via Giphy</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-mastering-video-direction-on-instagram-in-reverse/"><u>In 2024, Mastering Video Direction on Instagram in Reverse</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-inclusive-dynamic-movement-examination/"><u>[New] Inclusive Dynamic Movement Examination</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-turbulence-tamer-for-mobile-cinematography/"><u>[New] Turbulence Tamer for Mobile Cinematography</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-iphone-x-secrets-restoring-face-id-functionality/"><u>[New] Unlocking iPhone X Secrets Restoring Face ID Functionality</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-the-potential-of-virtual-collaboration-starting-zoom-calls-on-android/"><u>[New] Unlocking the Potential of Virtual Collaboration Starting Zoom Calls on Android</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-windows-high-dynamic-range-potential/"><u>[New] Unlocking Windows' High Dynamic Range Potential</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-art-of-converting-still-images-into-engaging-videos-with-pixiz/"><u>[New] Unveiling the Art of Converting Still Images Into Engaging Videos with Pixiz</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unaltered-audio-through-the-lens-of-ffmpeg-review/"><u>[Updated] Unaltered Audio Through the Lens of FFmpeg Review</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-saving-pictures-from-videos-in-windows-10-photos/"><u>2024 Approved Saving Pictures From Videos in Windows 10 Photos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-secrets-to-amazing-photo-collages/"><u>2024 Approved Unveiling Secrets to Amazing Photo Collages</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/achieve-peaceful-nights-with-expert-recommended-asmr/"><u>Achieve Peaceful Nights with Expert-Recommended ASMR</u></a></li>
+<li><a href="https://techtrends.techidaily.com/compact-beasts-discover-leading-mini-pcs-for-gamers/"><u>Compact Beasts: Discover Leading Mini PCs for Gamers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cyberpunk-2077-not-responding-fixes-and-solutions-revealed/"><u>Cyberpunk 2077 Not Responding? Fixes and Solutions Revealed</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-oppo-k11x-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-sony-xperia-1-v-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Sony Xperia 1 V For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/online-methods-for-locating-an-individuals-telephone-number-securely/"><u>Online Methods for Locating an Individual's Telephone Number Securely</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-walkthrough-for-iphone-backups-on-ios-devices-and-macs-via-icloud/"><u>The Ultimate Walkthrough for iPhone Backups on iOS Devices & Macs via iCloud</u></a></li>
 </ul></div>
 

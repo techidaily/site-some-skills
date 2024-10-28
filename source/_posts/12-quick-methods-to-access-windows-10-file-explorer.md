@@ -1,7 +1,7 @@
 ---
 title: 12 Quick Methods to Access Windows 10 File Explorer
-date: 2024-10-17T18:36:26.607Z
-updated: 2024-10-22T00:43:06.582Z
+date: 2024-10-21T16:04:21.903Z
+updated: 2024-10-27T23:16:49.571Z
 tags:
   - deals
 categories:
@@ -34,10 +34,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 [File Explorer](https://facebook-video-content.techidaily.com/updated-in-2024-facebook-media-extractor-quick-mp3-downloads/) is an essential file management application. Whether your [mouse is broken](https://some-approaches.techidaily.com/enhance-digital-marketing-success-using-advanced-cookiebot-technology-solutions/) or you just prefer using Command Prompt, there are many ways you can open File Explorer in Windows 10.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Click the Taskbar Icon
@@ -60,50 +60,50 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Search for 'file explorer' in the search bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/file-explorer-on-search.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  From the Start Menu
 
  There are three ways you can open File Explorer from the Start menu. The first is to click the Start button, and then scroll down the list of apps and click "Windows System." In the submenu, click "File Explorer" to open it.
 
 ![Open the Start menu, then navigate to Windows System > File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/windows-system-file-explorer.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also pin File Explorer to the sidebar above the Start button. To do so, click Settings > Personalization > Start, and then click "Choose which folders appear on Start."
 
 ![Click 'Choose Which Folders Appear on Start.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/choose-which-appear-in-start.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  On the next screen, toggle-On the "File Explorer" option.
 
 ![Enable the 'File Explorer' option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/enable-file-explorer.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  File Explorer will now appear in the sidebar of the Start menu; click it to launch File Explorer.
 
 ![A small File Explorer icon in the Start menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/file-explorer-on-start.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also add a shortcut to the pinned tile section to the right of the Start menu. To do so, open the Start menu, type "File Explorer" in the Search box, and then, in the pane that appears to the right of the search results, click "Pin to Start."
 
  Alternatively, if you pinned File Explorer to the sidebar of the Start menu, you can right-click the File Explorer icon, and then click "Pin to Start."
 
 ![Pin File Explorer to Start Menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/10/Pin-File-Explorer-to-Start-Menu.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  File Explorer will now appear in the pinned tile section of the Start menu; just click it to launch.
 
@@ -118,10 +118,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Running File Explorer from within File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/explorer-in-explorer.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  From the Power User Menu
@@ -136,6 +136,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Execute explorer in a Run window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/launch-explorer-run-window.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Run the Source Application
 
  By default, Windows stores File Explorer's EXE file in the "Windows" folder on the C: drive. Navigate to the "Windows" folder, find "Explorer.exe" in the long list, and then double-click it to open File Explorer.
@@ -143,10 +150,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![File Explorer exe file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/10/File-Explorer-exe-file.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Add a Shortcut to the Desktop
@@ -154,13 +161,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  For quicker access to File Explorer, you can [create a desktop shortcut](https://extra-approaches.techidaily.com/updated-skys-limit-for-your-visual-stories-unlimited-free-options-and-premium-choices/). To do so, click the Start button at the bottom left.
 
 ![Windows start button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/10/Windows-start-button.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In the app list, scroll down and click "Windows System." In the submenu, click and drag "File Explorer" to the desktop. You can also drag and drop File Explorer from the pinned app tiles on the right.
 
@@ -185,10 +185,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Search for 'command prompt' or 'cmd' in the search bar or the Start menu search, then click 'Command Prompt.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/run-command-prompt-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In Command Prompt, type the following command and press Enter:
@@ -232,14 +232,22 @@ explorer
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-navigating-screen-capture-in-google-video-conferencing/"><u>[Updated] Navigating Screen Capture in Google Video Conferencing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-windows-10s-video-creation-capabilities/"><u>[Updated] The Ultimate Guide to Windows 10'S Video Creation Capabilities</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-complete-guide-to-android-time-lapse-creation/"><u>2024 Approved The Complete Guide to Android Time-Lapse Creation</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/craft-perfection-transforming-your-vhs-graphics-online/"><u>Craft Perfection Transforming Your VHS Graphics Online</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/how-to-restore-and-transfer-historical-mailbox-data-online/"><u>How to Restore & Transfer Historical Mailbox Data Online</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-guide-to-radiowave-plays/"><u>In 2024, Ultimate Guide to Radiowave Plays</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-impact-of-fast-resume-on-xbox-gaming-experience/"><u>The Impact of Fast Resume on Xbox Gaming Experience</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-ringtone-collection-top-download-locales-for-2024/"><u>Ultimate Ringtone Collection Top Download Locales for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-becoming-a-pro-in-tiktok-live-shopping-your-complete-guide/"><u>Updated 2024 Approved Becoming a Pro in TikTok Live Shopping Your Complete Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-leading-setups-in-professional-broadcast-equipment/"><u>[New] Leading Setups in Professional Broadcast Equipment</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-express-yourself-incorporating-emojis-into-yt-feedback/"><u>[Updated] 2024 Approved Express Yourself Incorporating Emojis Into YT Feedback</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-elevate-visual-appeal-incorporating-black-bar-and-box-in-social-feeds/"><u>[Updated] Elevate Visual Appeal Incorporating Black Bar & Box in Social Feeds</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-humor-synthesizer-zombified-appliances/"><u>[Updated] Humor Synthesizer Zombified Appliances</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-supercharged-visuals-video-content-plus-filter-amplification-pcmobile/"><u>[Updated] Supercharged Visuals Video Content + Filter Amplification (PC/Mobile)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-essential-guide-to-using-supplementary-film-scenes/"><u>[Updated] The Essential Guide to Using Supplementary Film Scenes</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-tecno-spark-20c-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-syncing-songs-safely-with-insta-rules/"><u>2024 Approved Syncing Songs Safely with Insta Rules</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-photo-and-video-slideshow-makers-for-macos-sierra/"><u>2024 Approved Top Photo and Video Slideshow Makers for macOS Sierra</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-guide-to-elevating-vhs-imagery-on-modern-devices/"><u>2024 Approved Ultimate Guide to Elevating VHS Imagery on Modern Devices</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-se-2022-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone SE (2022) To Other iPhone 13 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-uncovering-the-secrets-of-effortless-iphone-podcast-downloads/"><u>In 2024, Uncovering the Secrets of Effortless iPhone Podcast Downloads</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-efficiency-in-video-editing-with-these-top-10-apps/"><u>In 2024, Unlocking Efficiency in Video Editing with These Top 10 Apps</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/troubleshooting-and-fixing-drivers-for-the-hydro-series-h100i-v2-under-windows-systems/"><u>Troubleshooting and Fixing Drivers for the Hydro Series H100i v2 Under Windows Systems</u></a></li>
+<li><a href="https://facebook.techidaily.com/unlocking-facebook-networks-profiling-and-page-links/"><u>Unlocking Facebook Networks: Profiling and Page Links</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unparalleled-hands-on-gear-in-the-vr-world-for-2024/"><u>Unparalleled Hands-On Gear in the VR World for 2024</u></a></li>
 </ul></div>
 

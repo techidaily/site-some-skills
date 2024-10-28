@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Linux File Timestamps – Decoding Atime, Mtime, and Ctime Explained
-date: 2024-10-20T21:14:59.875Z
-updated: 2024-10-21T18:28:52.907Z
+date: 2024-10-21T22:51:06.363Z
+updated: 2024-10-27T18:37:47.898Z
 tags:
   - desktop
 categories:
@@ -22,13 +22,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  When does "changed" not mean "modified"? When we're talking about Linux file timestamps. In this guide, we'll explain how the system updates them, and how to alter them yourself.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  The Difference Between atime, mtime, and ctime
 
  Every Linux file has three [timestamps:](https://en.wikipedia.org/wiki/MAC%5Ftimes) the access timestamp (atime), the modified timestamp (mtime), and the changed timestamp (ctime).
@@ -41,6 +34,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The standard [ext4 Linux file system](https://remote-screen-capture.techidaily.com/new-the-definitive-guide-to-android-mobas-10-winners-for-2024/) also allocates space for a file-creation timestamp in its internal file system structures, but this hasn't been implemented yet. Sometimes, this timestamp is populated, but you can't depend on the values in it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Anatomy of a Timestamp
 
  Linux timestamps hold a number rather than a date and time. This number is the number of seconds since the [Unix epoch](https://en.wikipedia.org/wiki/Unix%5Ftime), which was midnight (00:00:00) on January 1, 1970, in [Coordinated Universal Time (UTC)](https://en.wikipedia.org/wiki/Coordinated%5FUniversal%5FTime). Leap seconds are ignored in Linux timestamps, so they aren't analogous to real time.
@@ -48,6 +48,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  When Linux needs to display a timestamp, it translates the number of seconds into a date and time. This makes it easier for humans to understand. The location and time zone the computer viewing the file is in guides the conversion of the number of seconds to a date and time. It also ensures the month is in the correct language.
 
  So, how many seconds can be stored in a timestamp? A lot—2,147,483,647, to be precise. That's a big number, but is it enough? If you add that to the Unix epoch, and then translate it to a date and time, you get Tuesday, January 19, 2038, at 03:14:07 a.m. We'll need a different scheme for timestamps before then, though.
+
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Viewing Timestamps
 
@@ -65,19 +78,6 @@ ls -lc dp.c
 
 ![ls -l dp.c in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/1-7.png) 
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The timestamps above show the file's contents were last modified on April 21, 2019\. The access and changed timestamps are identical because the file was copied from another computer to this one on January 20, 2020, and both timestamps were updated at that time.
 
  To [see all timestamps simultaneously](http://man7.org/linux/man-pages/man1/stat.1.html), use the stat command as follows:
@@ -85,6 +85,13 @@ ls -lc dp.c
 stat dp.c
 
 ![stat dp.c in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/2-7.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The time zones are listed at the bottom of the display. As you can see, they have a very accurate, fractional seconds component. At the end of each timestamp, you also see a -0500 or -0400 .
 
@@ -97,10 +104,10 @@ stat dp.c
  You also see a "Birth" timestamp, which is reserved for the creation date of the file. This is not implemented, and you see a hyphen "-" instead of a timestamp.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Changing Timestamps
@@ -114,13 +121,6 @@ touch -a dp.c
 stat dp.c
 
 ![touch -a dp.c in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/3-8.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The access timestamp changed, as expected. However, the changed timestamp was updated as well; this is normal.
 
@@ -144,6 +144,13 @@ stat dp.c
 
 ![touch -d "2020-01-15 10:30:45" dp.c in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/5-6.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  We've now set the access and modified timestamps to a date in the past. The changed timestamp was also updated to the current time of the computer.
 
  You can also use the -r (reference) option, as shown below, if you want to set the timestamps of one file to the timestamp values of another:
@@ -154,13 +161,6 @@ stat dp.c
 
 ![touch dp.c -r dice_words.sl3 in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/6-5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  And then, we're pretty much back where we started, with a mixture of -0400 and -0500 timestamps.
 
  Let's do something that only affects the changed timestamp. We'll use the chmod command to give an executable file [execute permissions for all users](http://man7.org/linux/man-pages/man1/chmod.1.html):
@@ -170,13 +170,6 @@ chmod +x dp
 stat dp
 
 ![The &quot;chmod +x dp&quot; and &quot;stat dp&quot; commands in a terminal window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/10-6.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The changed timestamp was the only one that updated. This is because the file itself wasn't changed—it was neither accessed nor modified. However, the metadata about the file was changed.
 
@@ -205,18 +198,32 @@ less /etc/fstab
 
         `# /etc/fstab: static file system information.  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Use 'blkid' to print the universally unique identifier for a  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## device; this may be used with UUID= as a more robust way to name devices  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## that works even if disks are added and removed. See fstab(5).  
 
@@ -239,13 +246,6 @@ UUID=4a143d08-8695-475b-8243-b13b56050fc2 / ext4 errors=remount-ro 0 1
 cat /proc/mounts | grep "sda"
 
 ![cat /proc/mounts | grep "sda" in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/9-6.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now we see the following options:
 
@@ -289,21 +289,20 @@ cat /proc/mounts | grep "sda"
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-crafting-perfect-first-impressions-on-any-device/"><u>[New] Crafting Perfect First Impressions on Any Device</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-full-guide-mastery-of-adobe-cloud-services-with-alternatives-analysis/"><u>[Updated] Full Guide Mastery of Adobe Cloud Services with Alternatives Analysis</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-play-youtube-in-background-on-iphone-and-android/"><u>[Updated] How to Play YouTube in Background on iPhone and Android</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-srt-decoding-for-windows-and-mac-users/"><u>[Updated] SRT Decoding for Windows & Mac Users</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-subscription-sensation-top-10-youtube-personalities-by-counts/"><u>[Updated] Subscription Sensation Top 10 YouTube Personalities by Counts</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-fast-track-to-fashionista-status-on-instagram-our-essential-guide-for-speed-up-star-chasers/"><u>[Updated] The Fast Track to Fashionista Status on Instagram Our Essential Guide for Speed-Up Star Chasers</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-master-content-creation-video-and-photo-synergy/"><u>2024 Approved Master Content Creation Video & Photo Synergy</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-apple-iphone-xs-have-find-my-friends-drfone-by-drfone-virtual-ios/"><u>Does Apple iPhone XS Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-nokia-c12withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Nokia C12with/without a PC</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/master-the-wild-west-strategies-to-fix-freezing-and-boost-performance-in-red-dead-redemption-2/"><u>Master the Wild West: Strategies to Fix Freezing and Boost Performance in Red Dead Redemption 2</u></a></li>
-<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-nokia-g22-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Nokia G22 Black and White | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlock-instagram-stardom-crafting-attractive-unboxing-videos-for-2024/"><u>Unlock Instagram Stardom Crafting Attractive Unboxing Videos for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlock-iphone-photo-potential-the-art-of-reflection-for-2024/"><u>Unlock iPhone Photo Potential The Art of Reflection for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlock-virtual-realms-on-your-phone-with-simple-steps-for-2024/"><u>Unlock Virtual Realms on Your Phone with Simple Steps for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-the-power-of-video-enhancement-sdr-to-dynamic-range-upconversion-for-2024/"><u>Unveiling the Power of Video Enhancement SDR to Dynamic Range Upconversion for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-the-revised-sony-s3700-experience-for-2024/"><u>Unveiling the Revised Sony S3700 Experience for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-boosting-connections-on-snapchat-master-the-art-of-sharing-gifs/"><u>[New] 2024 Approved Boosting Connections on Snapchat Master the Art of Sharing GIFs</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-full-narrative-what-the-google-podcasts-app-offers-for-2024/"><u>[New] Full Narrative What the Google Podcasts App Offers for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-tech-jest-crafter-for-2024/"><u>[New] Tech Jest Crafter for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-power-of-precision-an-in-depth-tutorial-for-using-the-background-eraser-in-ps/"><u>[New] The Power of Precision An In-Depth Tutorial for Using the Background Eraser in PS</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-essential-mobiles-for-cutting-and-tuning-dji-videos/"><u>[Updated] In 2024, Essential Mobiles for Cutting and Tuning DJi Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-top-rated-apps-for-taking-screenshots-in-windows-8/"><u>[Updated] In 2024, Top-Rated Apps for Taking Screenshots in Windows 8</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-stretching-out-youtube-video-quality/"><u>2024 Approved Stretching Out YouTube Video Quality</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-comprehensive-guide-to-ultimate-video-editing-vivacut-24-edition/"><u>2024 Approved The Comprehensive Guide to Ultimate Video Editing VivaCut '24 Edition</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-motorola-moto-g14-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Motorola Moto G14 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-8007000e-on-windows-updates-ace-the-solution-in-no-time-with-this-guide/"><u>Error 8007000E on Windows Updates? Ace The Solution in No Time With This Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-review-of-asuss-4k-hdr-powerhouse/"><u>In 2024, The Ultimate Review of ASUS's 4K HDR Powerhouse</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transforming-everyday-alerts-how-to-create-customizable-tones-on-android-phones/"><u>In 2024, Transforming Everyday Alerts How to Create Customizable Tones on Android Phones</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/payment-for-publishing-consumer-based-merchandise-viewpoints-in-2024/"><u>Payment for Publishing Consumer-Based Merchandise Viewpoints, In 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-extended-semaphore-connection-timed-out-error-error-code-0x80070079/"><u>Resolved: Extended Semaphore Connection Timed Out Error (Error Code 0X80070079)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-success-the-essentials-of-crafting-great-reddit-threads-for-2024/"><u>Unlocking Success The Essentials of Crafting Great Reddit Threads for 2024</u></a></li>
 </ul></div>
 

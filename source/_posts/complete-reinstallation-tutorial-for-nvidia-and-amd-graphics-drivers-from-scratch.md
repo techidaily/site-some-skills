@@ -1,7 +1,7 @@
 ---
 title: Complete Reinstallation Tutorial for NVIDIA & AMD Graphics Drivers From Scratch
-date: 2024-10-19T19:11:56.066Z
-updated: 2024-10-22T02:33:34.145Z
+date: 2024-10-24T21:14:06.003Z
+updated: 2024-10-27T22:47:48.230Z
 tags:
   - deals
 categories:
@@ -46,6 +46,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Device Installation settings dialog with the No option selected in Windows 11](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/disable-automatic-device-driver-download-and-updates.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you've completed this guide and freshly installed your GPU driver, repeat these instructions to re-enable automatic driver updates.
 
 ##  How to Completely Uninstall AMD and Nvidia Drivers
@@ -53,6 +60,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  If you have an Nvidia card, the company's GeForce Experience software provides a clean installation option. If you have an AMD card, you can use its Cleanup Utility, a standalone tool which removes AMD drivers and software.
 
  Alternatively, if you need a more thorough removal (like if you're moving from an Nvidia to an AMD card), or encounter issues when using the first-party tools, use Display Driver Uninstaller (DDU). This works for both Nvidia and AMD cards, and removes all traces of previous graphic drivers.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  1\. Using AMD Cleanup Utility
 
@@ -63,10 +77,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Download page for AMD Cleanup Utility](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/download-page-for-amd-cleanup-utility.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Next, run the "amdcleanuputility.exe" file, then click "Yes" if prompted by User Account Control.
@@ -75,32 +89,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Prompt Showing AMD Cleanup Utility run in Safe Mode](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/amd-cleanup-utility-run-in-safe-mode-prompt-3.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After the restart, wait for the cleanup utility to launch automatically, then click "OK" to continue.
 
 ![Running AMD cleanup utility Prompt in Safe Mode](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/running-amd-cleanup-utility-in-safe-mode-3.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once the driver is removed, click "Finish," then click "Yes" to restart your computer.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  2\. Using Nvidia's Driver Installer
 
@@ -109,6 +109,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  To use it, open the driver installer. Select a path for driver package extraction and click "OK."
 
 ![Nvidia Geforce Experience Game Ready Driver package extraction prompt in Windows 11](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/extract-the-nvidia-geforce-experience-game-ready-driver-package-1.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Select "Nvidia Graphics Driver and GeForce Experience" to install both the necessary driver and the GeForce Experience client. Alternatively, choose "Nvidia Graphics Driver," if you only need to install the driver. Then click "Agree And Continue."
 
@@ -122,16 +129,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Nvidia driver installer perform a clean installation option selected](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/nvidia-driver-installer-perform-a-clean-installation-option-selected-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The driver utility now removes the previous version of the software and its components, and prepares your computer for a restart. Once done, click "Restart Now."
 
 ![Nvidia Graphics driver installer prompt with the Restart Now button visible](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/nvidia-driver-installer-finished.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once restarted, the Nvidia installer resumes installing the drivers. When the installer has finished, click "Close."
 
@@ -151,13 +158,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![DDU options prompt in Safe Mode](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/display-driver-uninstaller-options-dialog-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the right pane, click the "Select device type" dropdown, and choose "GPU."
 
 ![Display Driver Uninstaller prompt with the Select device type option selected](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/ddu-select-device-type-option-2.jpg) 
@@ -167,10 +167,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Display Driver Uninstaller prompt with GPU options visible](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/ddu-select-device-option-2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To begin uninstallation, click "Clean and restart (highly recommended)." DDU will then remove all traces of previous graphics drivers, including files, folders, and registry keys, and restart your computer.
@@ -195,24 +195,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  After the driver is installed, restart your computer to complete the process.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Nvidia Driver
 
  To begin, launch the Nvidia installer. Choose to install the complete software package or only the graphics driver, then click "Agree and Continue."
 
 ![Nvidia Graphics Driver Intaller prompt with Nvidia Graphics Driver and GeForce Experience Option Selected](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/nvidia-graphics-driver-intaller-prompt-2.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Next, select an "Express" install with the recommended settings, or opt for "Custom" where you can toggle additional software components.
 
@@ -243,18 +237,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-microsofts-hololens-journey-from-vision-to-reality-for-2024/"><u>[New] Microsoft’s HoloLens Journey – From Vision to Reality for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/etting-sail-on-the-content-sea-your-youtube-account/"><u>[New] Setting Sail on the Content Sea Your YouTube Account</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-introductory-editor-software-devices/"><u>[New] Ultimate Introductory Editor Software (Devices)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlock-the-secrets-of-slow-motion-expert-advice-using-photo-apps-and-websites/"><u>[New] Unlock the Secrets of Slow Motion Expert Advice Using Photo Apps & Websites</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-all-about-youtube-micro-videos-for-2024/"><u>[Updated] All About YouTube Micro Videos for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-engineering-eye-catching-podcast-clips/"><u>[Updated] Engineering Eye-Catching Podcast Clips</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-5-high-definition-4k-gaming-screens/"><u>[Updated] Top 5 High Definition 4K Gaming Screens</u></a></li>
-<li><a href="https://article-posts.techidaily.com/budget-friendly-chinese-vr-gear-for-2024/"><u>Budget-Friendly Chinese VR Gear for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-hp-officejet-pro-8715-printer-running-on-windows-download-drivers-for-win11108/"><u>Get Your HP OfficeJet Pro 8715 Printer Running on Windows - [Download Drivers for Win11/10/8]</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-infinix-gt-10-pro-phone-by-drfone-android/"><u>How to Reset a Locked Infinix GT 10 Pro Phone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/how-to-use-microsoft-azure-speech-to-text-service-for-2024/"><u>How to Use Microsoft Azure Speech to Text Service for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-complete-guide-to-mastering-powerdirector-software-for-2024/"><u>The Complete Guide to Mastering PowerDirector Software for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-end-of-acid-pro-top-software-alternatives-reviewed-for-2024/"><u>The End of ACID Pro Top Software Alternatives Reviewed for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-elite-groups-revolutionizing-virtual-reality/"><u>[New] Elite Groups Revolutionizing Virtual Reality</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamline-creativity-with-1-to-5-mac-editors-for-sierra-users/"><u>[New] Streamline Creativity with #1 to #5 Mac Editors for Sierra Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unleashing-potential-with-the-q500-drone/"><u>[New] Unleashing Potential with the Q500 Drone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/1716070293562-updated-in-2024-learn-and-master-io-screen-recording-today/"><u>[Updated] In 2024, Learn and Master IO Screen Recording Today!</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-quintessential-audio-drama-story-creation-for-2024/"><u>[Updated] Quintessential Audio-Drama Story Creation for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-to-digital-mastery-of-vhs-visuals/"><u>[Updated] The Ultimate Guide to Digital Mastery of VHS Visuals</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-faster-facebook-videos/"><u>[Updated] The Ultimate Guide to Faster Facebook Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-money-potential-a-beginners-guide-on-periscope/"><u>[Updated] Unlocking Money Potential A Beginner's Guide on Periscope</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unshakable-imagery-techniques/"><u>[Updated] Unshakable Imagery Techniques</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-quick-methods-for-saving-google-voice-communication/"><u>2024 Approved Quick Methods for Saving Google Voice Communication</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transform-your-gaming-experience-kinemaster-pros-and-10-online-counterparts/"><u>2024 Approved Transform Your Gaming Experience KineMaster Pros & 10 Online Counterparts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cognitive-conclave-selective-general-knowledge-channels-for-2024/"><u>Cognitive Conclave Selective General Knowledge Channels for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/discover-the-best-top-10-public-domain-image-websites-2023-for-2024/"><u>Discover the Best Top 10 Public Domain Image Websites 2023 for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-innovative-techniques-for-lecture-to-audio-conversion-in-education/"><u>In 2024, Innovative Techniques for Lecture to Audio Conversion in Education</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-intricacies-of-whatsapp-audio-dialogue/"><u>In 2024, The Intricacies of WhatsApp Audio Dialogue</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-social-media-elite-playbook-cultivate-your-stardom-in-9-easy-steps/"><u>In 2024, The Social Media Elite Playbook Cultivate Your Stardom in 9 Easy Steps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/making-your-voice-heard-in-the-podcast-realm-for-2024/"><u>Making Your Voice Heard in the Podcast Realm for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-complete-users-manual-to-mac-dvd-burning-for-2024/"><u>The Complete User's Manual to Mac DVD Burning for 2024</u></a></li>
 </ul></div>
 

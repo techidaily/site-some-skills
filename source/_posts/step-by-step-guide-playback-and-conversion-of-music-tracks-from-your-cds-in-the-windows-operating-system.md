@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Playback and Conversion of Music Tracks From Your CDs in the Windows Operating System"
-date: 2024-10-20T16:15:01.445Z
-updated: 2024-10-21T23:56:55.372Z
+date: 2024-10-23T17:24:37.196Z
+updated: 2024-10-27T20:10:50.710Z
 tags:
   - desktop
 categories:
@@ -31,10 +31,10 @@ thumbnail: https://thmb.techidaily.com/50f9025d1cd24e51aee5d683c09c648b774d15c54
  Got a Mac? Check out [our guide for ripping an audio CD on Mac](https://eaxpv-info.techidaily.com/updated-in-2024-free-webinar-creation-and-management-on-youtube/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  You Need a Disc Drive
@@ -42,13 +42,6 @@ thumbnail: https://thmb.techidaily.com/50f9025d1cd24e51aee5d683c09c648b774d15c54
  You need a disc drive connected to your PC to read and rip CDs, so if you don't already have one, you'll need to get that first. The [ASUS ZenDrive Silver](https://www.amazon.com/ASUS-ZenDrive-External-Compatible-BackItUp/dp/B076CY7PW5?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003523&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fhow-to-rip-an-audio-cd-on-windows%2F&asc%5Fcampaign=Evergreen) is a basic option with support for reading and writing CDs and DVDs. It should come with a USB Type-C cable in the box, but if not, you might need a [USB Type-A-to-C adapter](https://www.amazon.com/Amazon-Basics-Converter-High-Speed-Certified/dp/B01GGKYXVE?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003523&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fhow-to-rip-an-audio-cd-on-windows%2F&asc%5Fcampaign=Evergreen) or [USB hub](https://extra-approaches.techidaily.com/2024-approved-joint-venture-campaigns-for-brands-on-video-platforms/) to connect it to laptops without a Type-A port.
 
 ![ASUS external disc drive with the tray open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/51y-aw6sijl-_ac_sl1000_.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #####  ASUS ZenDrive Silver
 
@@ -59,19 +52,6 @@ The ASUS ZenDrive Silver is a basic and affordable external optical drive, with 
  If you have a desktop PC with an empty drive bay, an internal drive like the [LG WH16NS40](https://www.amazon.com/LG-Super-Internal-Blu-ray-Rewriter/dp/B00E7B08MS?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003523&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fhow-to-rip-an-audio-cd-on-windows%2F&asc%5Fcampaign=Evergreen) is also an option. However, an external drive doesn't require opening up your PC, and can be easily shared across different computers.
 
  The disc drive can be useful for more than just ripping CDs, too. You can play DVDs and some Blu-ray movies with applications like [VLC Media Player](https://www.videolan.org/vlc/), or read data discs.
-
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Rip a CD With Media Player
 
@@ -95,13 +75,6 @@ The ASUS ZenDrive Silver is a basic and affordable external optical drive, with 
 
 ![Screenshot of Rip CD button in Media Player.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/untitled.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can access the your newly-ripped music from the Music tab in the Media Player app. It's easier to find if you switch to the Albums tab and sort by Date added.
 
 ![Screenshot of Music page in Media Player.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/clipboard-jun-7-2024-at-4-38-pm.png) 
@@ -110,11 +83,25 @@ The ASUS ZenDrive Silver is a basic and affordable external optical drive, with 
 
 ![Screenshot of 'Update album info online' button in Media Player.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/untitled-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Media Player will check for metadata online, and if it finds more data, it will ask you for confirmation before writing changes to the files.
 
 ![Music Player asking user to check if metadata is correct.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/clipboard-jun-7-2024-at-4-44-pm.png) 
 
  Media Player can't always find album artwork automatically, but you can use a website like [Music Hoarders Covers](https://covers.musichoarders.xyz/) to find the right image, and then import that into Media Player. After you find the image, just click the "Edit info" button on the album again, then click the pencil button to select the right file.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Rip a CD on Older Windows PCs
 
@@ -127,15 +114,22 @@ wmplayer
 ![A CD in Windows Media Player.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/clipboard-jun-13-2024-at-4-26-pm.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Click the CD in the sidebar to see its contents. You can play music straight from the disc by clicking the large play button at the bottom of the window, or by double-clicking on an individual track. If you want to change the default audio import settings before ripping the disc, click the "Rip settings" dropdown menu.
 
 ![Audio quality menu in Windows Media Player.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/untitled-2.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you're not sure what options are best, you should select **MP3** under the "Format" menu, and **256 Kbps** under the "Audio Quality" menu. That's a good middle ground between audio quality and drive space—the default settings (at least on my PC) of MP3 and 128 Kbps is much lower quality than the original CD. A lossless format like FLAC or ALAC would give you the highest quality possible, but the difference compared to a high-bitrate MP3 isn't usually noticeable with typical speakers or headphones.
 
@@ -147,25 +141,25 @@ wmplayer
 
 ![Screenshot of Music tab in Windows Media Player.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/music.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Ripped audio doesn't include album art or other metadata, but you can fix that with a few clicks. Right-click the album you just ripped, then select "Find album info."
 
 ![Find album info menu in Windows Media Player.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/music-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Windows Media Player will check for metadata online, and if it finds more data, it will ask you for confirmation before writing changes to the files.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Backing up Your Music
 
@@ -196,24 +190,24 @@ shell:My Music
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-the-way-of-the-warrior-game-lineup-mirroring-ghost-of-tsushima/"><u>2024 Approved The Way of the Warrior Game Lineup Mirroring Ghost of Tsushima</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Samsung Galaxy A14 5G | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Vivo X100 Pro? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-apple-iphone-11-pro-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your Apple iPhone 11 Pro in Security Lockout? Proper Ways To Unlock</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-app-download-issues-top-10-solutions-you-should-know/"><u>IPhone App Download Issues: Top 10 Solutions You Should Know</u></a></li>
-<li><a href="https://some-skills.techidaily.com/secure-your-virtual-reality-experience-a-guide-to-tightening-privacy-controls-on-your-quest-vr-headset/"><u>Secure Your Virtual Reality Experience: A Guide to Tightening Privacy Controls on Your Quest VR Headset</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/simple-steps-to-run-windows-updates-with-ease/"><u>Simple Steps to Run Windows Updates with Ease</u></a></li>
-<li><a href="https://some-skills.techidaily.com/simplify-shopping-with-amazons-innovative-groceboard-subscription-service/"><u>Simplify Shopping with Amazon's Innovative Groceboard Subscription Service!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/superior-handsets-for-ultimate-video-creation-on-mobile/"><u>Superior Handsets for Ultimate Video Creation on Mobile</u></a></li>
-<li><a href="https://some-skills.techidaily.com/synchronizing-meta-quest-exercise-tracking-with-apple-watch-and-health-a-comprehensive-guide/"><u>Synchronizing Meta Quest Exercise Tracking with Apple Watch & Health: A Comprehensive Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-2e33-vw-id4-user-guide-a-perfect-choice-for-newcomers-to-ev-technology/"><u>The 2E33 VW ID.4 User Guide: A Perfect Choice for Newcomers to EV Technology</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-illusion-of-reality-in-marketing-debunking-ad-ploys-as-thats-no-moon/"><u>The Illusion of Reality in Marketing: Debunking Ad Ploys as 'That’s No Moon'</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-impact-of-ai-on-next-gen-computing-power-expect-higher-specs-in-future-pcs/"><u>The Impact of AI on Next-Gen Computing Power: Expect Higher Specs in Future PCs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-4-thrilling-upcoming-space-missions-live-streams-available-now/"><u>Top 4 Thrilling Upcoming Space Missions: Live Streams Available Now!</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-8-alternative-ai-chat-platforms-free-and-premium-options-beyond-chatgpt/"><u>Top 8 Alternative AI Chat Platforms: Free & Premium Options Beyond ChatGPT</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/transform-hidden-facebook-videos-with-these-12-must-try-steps-for-2024/"><u>Transform Hidden Facebook Videos with These 12 Must-Try Steps for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transformar-videos-de-wtv-a-formato-avi-online-sin-coste-haga-lo-suyo-con-convertidor-de-movavi/"><u>Transformar Vídeos De WTV a Formato AVI Online Sin Coste - Haga Lo Suyo Con Convertidor De Movavi</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transforming-siri-into-chatgpt-for-enhanced-iphone-interaction-tips-and-tricks/"><u>Transforming Siri Into ChatGPT for Enhanced iPhone Interaction: Tips and Tricks</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/youtube-policies-versus-creative-commons-a-comparative-study/"><u>Youtube Policies Versus Creative Commons A Comparative Study</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-smoothly-blending-bio-and-linktree-on-your-tiktok-platform/"><u>[New] Smoothly Blending Bio & Linktree on Your TikTok Platform</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/outube-view-bots-and-other-easy-hacks-to-increase-views-for-2024/"><u>[New] YouTube View Bots and Other Easy Hacks to Increase Views for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-cutting-edge-8-streaming-selectors-for-2024/"><u>[Updated] Cutting-Edge 8 Streaming Selectors for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-screenrecorder-evaluation-tool/"><u>[Updated] In 2024, ScreenRecorder Evaluation Tool</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-proven-techniques-to-swarm-thousands-of-videos-from-tiktok/"><u>[Updated] Proven Techniques to Swarm Thousands of Videos From TikTok</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-simplifying-subtitle-addition-in-multilingual-vimeo-video-platforms/"><u>[Updated] Simplifying Subtitle Addition in Multilingual Vimeo Video Platforms</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-beginners-blueprint-for-winning-animation-in-windows/"><u>[Updated] The Beginner’s Blueprint for Winning Animation in Windows</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-tips-for-efficient-macos-sierra-system-updates/"><u>[Updated] Top Tips for Efficient macOS Sierra System Updates</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-end-video-refresher-resolution-renaissance/"><u>[Updated] Top-End Video Refresher Resolution Renaissance</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-potential-tips-for-screenplay-dialogue-and-narration/"><u>[Updated] Unlocking Potential Tips for Screenplay Dialogue and Narration</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unraveling-the-enthralling-elements-of-filmora-editing/"><u>[Updated] Unraveling the Enthralling Elements of Filmora Editing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-360-live-streaming-cameras-for-youtube-and-facebook-you-should-know/"><u>2024 Approved Top 360 Live Streaming Cameras for Youtube and Facebook You Should Know</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-8-speed-upters-accelerate-your-android-media/"><u>2024 Approved Top 8 Speed Upters - Accelerate Your Android Media</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-honor-magic-5-lite-frp-bypass-by-drfone-android/"><u>About Honor Magic 5 Lite FRP Bypass</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/comparing-rpa-and-ipa-understanding-their-distinctive-features/"><u>Comparing RPA and IPA: Understanding Their Distinctive Features</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-itel-p55t-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Itel P55T to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/izing-impact-using-youtube-analytics-for-content-strategy-for-2024/"><u>Maximizing Impact Using YouTube Analytics for Content Strategy for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-list-meme-design-masterpieces-for-2024/"><u>Ultimate List Meme Design Masterpieces for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/understanding-haul-content-production-and-post-production-techniques-for-2024/"><u>Understanding Haul Content Production & Post-Production Techniques for 2024</u></a></li>
 </ul></div>
 

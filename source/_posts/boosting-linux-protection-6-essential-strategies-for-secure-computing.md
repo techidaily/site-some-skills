@@ -1,7 +1,7 @@
 ---
 title: "Boosting Linux Protection: 6 Essential Strategies for Secure Computing"
-date: 2024-10-15T20:40:55.121Z
-updated: 2024-10-22T01:46:59.990Z
+date: 2024-10-24T21:05:27.619Z
+updated: 2024-10-27T17:00:05.120Z
 tags:
   - desktop
 categories:
@@ -36,21 +36,22 @@ Cybersecurity can be confusing. Here are six easy things you can do, and habits 
  Some of these devices will get automatic updates. For example, Amazon Echo and Google Nest smart speakers receive automatic updates for four and five years from purchase, respectively.
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2  Secure User Accounts 
 
 ![The login screen on a laptop running Ubuntu Linux.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/52848723811_08b4c56473_o.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek  
   
@@ -63,10 +64,10 @@ Hannah Stryker / How-To Geek
  You can add two-factor authentication to your own computers too. this is especially valuable if you connect to them remotely, using SSH.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3  Control User Access 
@@ -74,13 +75,6 @@ Hannah Stryker / How-To Geek
  We’ve already mentioned that each user should have their own unique log in and user account. The other golden rule is to use a regular user account for normal user tasks. Only use the root account for system administration.
 
  Most Linux systems disable the root account by default. To access root-level functionality you need to use sudo or run0\. This gives you short-term superuser status then demotes you to a normal user when you’ve completed that specific task.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4  Improve Your Network Security 
 
@@ -99,10 +93,16 @@ Hannah Stryker / How-To Geek
  If you download an application and find it doesn’t suit your needs, uninstall it. Don’t just leave it on your machine. If a project is abandoned, and no longer in development, find a replacement. Using an old version of software that no longer receives security patches increases your exposure to risks.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6  Make Backups and Stay Educated 
@@ -132,22 +132,16 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-jpegpng-to-pdf-on-iphone-step-by-step-approach/"><u>[New] JPEG/PNG to PDF on iPhone - Step-by-Step Approach</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-key-to-click-through-success-top-thumbnail-size-recommendations/"><u>[New] The Key to Click-Through Success Top Thumbnail Size Recommendations</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-unlocking-facebook-blue-verification-a-step-by-step-guide/"><u>[New] Unlocking Facebook Blue Verification A Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-secrets-unveiled-the-ultimate-guide-to-recording-games/"><u>[Updated] 2024 Approved Secrets Unveiled The Ultimate Guide to Recording Games</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-baffled-by-blank-screens-on-a6400/"><u>[Updated] Baffled by Blank Screens on A6400</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-emphasize-eye-catcher-excise-background-in-photo-editing/"><u>[Updated] Emphasize Eye-Catcher Excise Background in Photo Editing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-tailoring-your-multi-task-experience-safe-area-and-pip-settings/"><u>[Updated] Tailoring Your Multi-Task Experience Safe Area & PIP Settings</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-volume-of-videos-on-a-64128gb-memory-bank/"><u>[Updated] The Volume of Videos on a 64/128GB Memory Bank</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-5-screen-selections-for-ps5-enthusiasts/"><u>[Updated] Top 5 Screen Selections for PS5 Enthusiasts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-8-android-fixes-for-time-lags-in-videos/"><u>[Updated] Top 8 Android Fixes for Time-Lags in Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-resource-compilation-for-media-imagery/"><u>[Updated] Ultimate Resource Compilation for Media Imagery</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-selection-economical-hd-action-recordings/"><u>[Updated] Ultimate Selection Economical HD Action Recordings</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unmatched-video-upload-aides-to-twitter/"><u>[Updated] Unmatched Video Upload Aides to Twitter</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/299-apple-ipad-10th-generation-prime-day-special-offer/"><u>$299 Apple iPad (10Th Generation) - Prime Day Special Offer</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-15-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone 15 in Lost Mode</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/sculpting-soundtracks-for-animation-using-movie-maker-tools-for-2024/"><u>Sculpting Soundtracks for Animation Using Movie Maker Tools for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-the-powerful-garmin-forerunner-945-a-detailed-review-of-its-advanced-tracking-capabilities/"><u>Unveiling The Powerful Garmin Forerunner 945: A Detailed Review of Its Advanced Tracking Capabilities</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-audio-preservation-for-academics-on-apple-systems/"><u>[New] Audio Preservation for Academics on Apple Systems</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-step-by-step-guide-to-changing-photo-genders-from-theory-to-practice/"><u>[New] In 2024, Step-by-Step Guide to Changing Photo Genders From Theory to Practice</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-proven-methods-for-downloading-a-thousand-tiktoks-at-once/"><u>[New] Proven Methods for Downloading a Thousand TikToks at Once</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveil-clear-photos-from-iphone-with-our-free-red-eye-corrector-guide/"><u>2024 Approved Unveil Clear Photos From iPhone with Our FREE Red-Eye Corrector Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722972310841-get-optimal-performance-rtx-2060-super-graphics-card-and-windows-11-compatible-drivers-now-available/"><u>Get Optimal Performance: RTX 2060 Super Graphics Card & Windows 11 Compatible Drivers Now Available</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-nokia-c300-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Nokia C300 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/panasonic-lumix-dc-fz80-review-an-all-purpose-camera-with-value/"><u>Panasonic Lumix DC-FZ80 Review: An All-Purpose Camera with Value</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-for-fixing-haldll-errors-in-windows-xp-systems/"><u>Step-by-Step Tutorial for Fixing HAL.DLL Errors in Windows XP Systems</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-vsco-photo-workflow-analysis-for-2024/"><u>The Ultimate VSCO Photo Workflow Analysis for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-picks-expert-recommended-8-convertors-from-sub-to-srt-for-2024/"><u>Top Picks Expert-Recommended 8 Convertors From Sub to Srt for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-methods-for-scaling-up-tiktok-video-importation-for-2024/"><u>Unveiling Methods for Scaling Up TikTok Video Importation for 2024</u></a></li>
 </ul></div>
 

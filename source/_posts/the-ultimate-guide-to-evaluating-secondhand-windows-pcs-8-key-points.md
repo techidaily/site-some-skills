@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Evaluating Secondhand Windows PCs – 8 Key Points
-date: 2024-10-14T19:46:27.328Z
-updated: 2024-10-21T20:53:38.287Z
+date: 2024-10-23T17:20:23.702Z
+updated: 2024-10-27T19:15:08.503Z
 tags:
   - desktop
 categories:
@@ -30,16 +30,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Keyboard tester typing letters in lowercase with Caps Lock off.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-keyboard-tester-typing-letters-in-lowercase-with-caps-lock-off.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To test the trackpad, hover over the screen to gauge its responsiveness. Then, experiment with different trackpad gestures, such as pinch-to-zoom and two-finger scroll, to see which ones are supported. If you have another laptop, you can compare trackpad responsiveness by conducting a touchpad accuracy test on both laptops using the [No-Cursor website](https://no-cursor.com/).
 
  This will help you confirm whether the trackpad on your new laptop is equally or more responsive than the other one.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Test the Speakers and Built-In Microphone
 
@@ -50,10 +50,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Testing the laptop speaker in Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/1-testing-the-laptop-speaker-in-settings.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To [test the built-in microphone](https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-vivo-y200e-5g-drfone-by-drfone-virtual-android/), return to the sound settings, click on "Microphone Array," and then click on the "Start Test" button next to Test Your Microphone. Speak for a few seconds, then stop the test. If you see a decent volume percentage recorded, the microphone is working as it should.
@@ -61,10 +67,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Testing the laptop microphone in Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/2-testing-the-laptop-microphone-in-settings.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Test the Built-In Camera
@@ -74,10 +80,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  If the camera app detects the webcam and the visuals are clear and of satisfactory quality, as the seller claimed, then the camera is working correctly.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Check the Health of Your Laptop Battery
@@ -100,6 +112,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  You can also confirm your suspicions by getting the laptop's serial number and contacting the manufacturer to verify whether the device has been reported stolen.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Perform the Physical Inspection
 
  The appearance of the laptop body is a direct reflection of how carefully the original owner has treated the device. Any signs of scratches, cracks, dents, or loose and damaged hinges indicate rough handling by the previous owner. Missing screws are another indicator that the laptop may have been opened for repair or replacement, which raises a red flag.
@@ -111,13 +130,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The worst scenario you could face is finding your [laptop unable to connect to the internet](https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual/) (via Wi-Fi or Ethernet cable), USB ports failing to detect external devices, or Bluetooth malfunctioning—all after completing the purchase. Because of that, confirming there are no wired or wireless connectivity issues is important.
 
  Start by connecting your laptop to Wi-Fi. Then, [test its Ethernet port](https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/) by plugging it directly into the router. If the internet connection works well, test the audio jacks with headphones. Similarly, check the USB ports by connecting a wired device. Finally, make sure Bluetooth is working by pairing a Bluetooth-powered device.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Check the Health of RAM and Storage Drive
 
@@ -148,18 +160,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-video-splitting-expertise-best-recorder-verdict/"><u>[New] 2024 Approved Video Splitting Expertise Best Recorder Verdict</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-timekeeping-tools-without-a-price/"><u>2024 Approved Expert Timekeeping Tools Without a Price</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/conversione-gratuita-da-mp3-ad-aac-online-con-e-gratis-servizi-moveavi/"><u>Conversione Gratuita Da MP3 Ad AAC Online Con E-Gratis Servizi - MoveAVI</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/googles-platform-unveiled-the-ultimate-guide-to-podcast-postings-for-2024/"><u>Google's Platform Unveiled The Ultimate Guide to Podcast Postings for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-restore-functionality-to-your-intel-driver-and-support-helper-when-its-gone-awry-on-windows/"><u>How to Restore Functionality to Your Intel Driver & Support Helper When It's Gone Awry on Windows</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-oppo-a59-5g-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Oppo A59 5G</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Honor X50 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-snapchat-location-on-itel-a60-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Itel A60 | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-basics-of-dexs-how-decentralized-exchange-systems-work-in-the-crypto-world/"><u>The Basics of DEXs: How Decentralized Exchange Systems Work in the Crypto World</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-future-of-wearable-tech-what-are-smart-rings-heading-towards/"><u>The Future of Wearable Tech: What Are Smart Rings Heading Towards?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-influence-of-winter-conditions-on-electric-car-battery-durability-what-to-expect/"><u>The Influence of Winter Conditions on Electric Car Battery Durability: What to Expect?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-next-level-of-storage-how-your-personal-files-could-soar-into-outer-space/"><u>The Next Level of Storage: How Your Personal Files Could Soar Into Outer Space</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unveiling-the-secret-spot-for-stored-facetime-photos-on-your-device/"><u>Unveiling the Secret Spot for Stored FaceTime Photos on Your Device</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-reclaiming-brightness-in-youtube-videos/"><u>[New] In 2024, Reclaiming Brightness in YouTube Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-6-premium-video-translation-tools/"><u>[New] Top 6 Premium Video Translation Tools</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-avoid-these-8-steps-that-newcomers-often-miss-on-youtube-for-2024/"><u>[Updated] Avoid These 8 Steps that Newcomers Often Miss on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-comparative-review-smartphone-usage-of-the-leading-video-apps-for-2024/"><u>[Updated] Comparative Review Smartphone Usage of the Leading Video Apps for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-complete-vivacut-overview-editors-deep-dive/"><u>[Updated] The Complete VivaCut Overview Editor's Deep Dive</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-photo-libraries-for-free-visuals-worldwide/"><u>2024 Approved Top 10 Photo Libraries for Free Visuals Worldwide</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-poco-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-picks-timeless-melodies-from-iconic-animes/"><u>In 2024, Top Picks Timeless Melodies From Iconic Animes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/optimal-energy-solutions-official-and-third-party-hero5-batteries-for-2024/"><u>Optimal Energy Solutions - Official & Third-Party Hero5 Batteries for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-nokia-c300-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Nokia C300 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ming-success-youtube-broadcasts-of-google-meet/"><u>Streaming Success YouTube Broadcasts of Google Meet</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-split-between-panoramic-and-virtual-realities-for-2024/"><u>The Split Between Panoramic & Virtual Realities for 2024</u></a></li>
 </ul></div>
 

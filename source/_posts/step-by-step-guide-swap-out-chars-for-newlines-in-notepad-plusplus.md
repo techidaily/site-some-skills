@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Swap Out Chars for Newlines in Notepad ++"
-date: 2024-10-17T01:05:04.411Z
-updated: 2024-10-21T21:36:54.328Z
+date: 2024-10-21T21:48:01.044Z
+updated: 2024-10-27T19:31:57.890Z
 tags:
   - desktop
 categories:
@@ -15,13 +15,6 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 
 * [Convert Any Character into a Newline with Notepad++](https://change-location.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/)
 * [How to Convert a Newline Character into Any Other Separator](https://techtrends.techidaily.com/perfect-progression-watching-the-wizarding-worlds-cinematic-journey-step-by-step/)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -39,13 +32,34 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 
 ![Search for 'notepad++' in the Start Menu search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/notepad.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the Notepad++ window, open the text file that includes the list that you want to convert. Alternately, you can paste your item list on a line.
 
 ![A Notepad++ window showing a comma-separated list](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/paste-items-list.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Next, click the "Search" menu and select "Replace." Alternately, you can press Ctrl+H on your keyboard.
 
 ![Replace menu in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/replace-notepad-plus-plus1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In the Replace window that opens, click the "Find What" text entry box and type the current item separator. In our example case, our items are separated by a comma and a space, so we'll type a comma and then press Space. If your items are separated by pipes only, type the pipe character ("|").
 
@@ -58,10 +72,10 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 ![Replace window in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/convert-comma-new-line.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  And just like magic, each item in your list will now be on its own line.
@@ -69,13 +83,6 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 ![New-line separated list in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/comma-new-line.png) 
 
  If you want to reverse the process, just open Search > Replace in the menu again. In the "Find What" box, enter "\\n". In the Replace with box, type the character that you want to replace it with. Make sure "Extended" is selected and click "Replace All," and your list will go back to being separated by a standard character, such as a comma or pipe.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Convert a Newline Character into Any Other Separator
 
@@ -89,23 +96,9 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 
 ![EOL to Space option in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/eol-to-space.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After that, you'll find that all your items are now on a single line separated by a space.
 
 ![List items on one line in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/items-one-line.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To convert this into a comma-separated list using Notepad++, click Search > Replace in the menu.
 
@@ -116,6 +109,13 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
  When you're ready, click "Replace All" on the right.
 
 ![Replace window in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/new-line-comma.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Your list items will now be separated by the new separator you chose.
 
@@ -140,19 +140,22 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-the-ultimate-broadcast-blueprint-for-enthralling-cricket-matches/"><u>[Updated] 2024 Approved The Ultimate Broadcast Blueprint for Enthralling Cricket Matches</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-niche-marketing-through-periscope-broadcasts/"><u>[Updated] Niche Marketing Through Periscope Broadcasts</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-guide-to-android-movie-upturning/"><u>2024 Approved Step-by-Step Guide to Android Movie Upturning</u></a></li>
-<li><a href="https://some-skills.techidaily.com/a-beginners-guide-to-decentralized-finance-defi-principles-and-fundamentals-unveiled/"><u>A Beginner's Guide to Decentralized Finance (DeFi): Principles and Fundamentals Unveiled</u></a></li>
-<li><a href="https://some-skills.techidaily.com/a-step-by-step-guide-to-crafting-professional-voiceovers-via-chatgpts-interactive-communication-skills/"><u>A Step-by-Step Guide to Crafting Professional Voiceovers via ChatGPT’s Interactive Communication Skills</u></a></li>
-<li><a href="https://some-skills.techidaily.com/bard-vs-chatgpt-showdown-determining-the-ultimate-ai-conversationalist/"><u>Bard Vs. ChatGPT Showdown: Determining the Ultimate AI Conversationalist</u></a></li>
-<li><a href="https://some-skills.techidaily.com/beyond-our-planet-exploring-how-space-technology-could-resolve-terrestrial-issues/"><u>Beyond Our Planet: Exploring How Space Technology Could Resolve Terrestrial Issues</u></a></li>
-<li><a href="https://some-skills.techidaily.com/boost-productivity-switch-from-complex-excel-formulas-to-efficient-chatgpt-solutions/"><u>Boost Productivity: Switch From Complex Excel Formulas to Efficient ChatGPT Solutions</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/discovering-the-unique-role-of-gemini-in-harmony-with-google-assistant/"><u>Discovering the Unique Role of Gemini in Harmony with Google Assistant</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-y78plus-t1-edition-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Y78+ (T1) Edition</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-motorola-edge-2023-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Motorola Edge 2023 | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-samsung-galaxy-a05-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Samsung Galaxy A05</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-iphone-14-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On iPhone 14</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-bing-chat-expert-strategies-for-harnessing-microsofts-advanced-artificial-intelligence-chatbot-capabilities/"><u>Unveiling Bing Chat: Expert Strategies for Harnessing Microsoft's Advanced Artificial Intelligence Chatbot Capabilities</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-easy-steps-to-screen-recording-across-oses-and-devices-for-2024/"><u>[New] Easy Steps to Screen Recording Across OSes & Devices for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-becoming-a-star-spectator-on-the-social-stage/"><u>[New] In 2024, Becoming a Star Spectator on the Social Stage</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-expert-strategies-to-elevate-your-gopro-footage/"><u>[New] In 2024, Expert Strategies to Elevate Your GoPro Footage</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-from-zero-to-twitter-an-instagram-guide/"><u>[New] In 2024, From Zero to Twitter An Instagram Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-talking-texts-a-beginners-guide-to-animated-instagram-captions/"><u>[New] Talking Texts A Beginner's Guide to Animated Instagram Captions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-free-stopwatches-without-a-price-tag/"><u>[New] Ultimate Free Stopwatches Without a Price Tag</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-understanding-and-utilizing-windows-11-auto-hdr-functionality/"><u>[New] Understanding and Utilizing Windows 11 Auto HDR Functionality</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-video-showdown-determining-the-best-among-obs-and-twitch-hubs-for-2024/"><u>[New] Video Showdown Determining the Best Among OBS and Twitch Hubs for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-balancing-act-watching-multiple-videos-on-one-screen/"><u>[Updated] 2024 Approved Balancing Act Watching Multiple Videos on One Screen</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-the-strategic-approach-to-embedding-youtube-links-in-insta-stories/"><u>2024 Approved The Strategic Approach to Embedding YouTube Links in Insta Stories</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-scriptural-ringtone-selections-for-faith/"><u>2024 Approved Top 10 Scriptural Ringtone Selections for Faith</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-snapchat-cameos-catch-up-with-the-trendiest-trick/"><u>In 2024, Snapchat Cameos Catch Up with the Trendiest Trick</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-best-price-to-performance-ratio-for-asmr-equipment/"><u>In 2024, The Best Price-to-Performance Ratio for ASMR Equipment</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-essential-guide-to-blurring-images-with-your-iphone/"><u>In 2024, The Essential Guide to Blurring Images with Your iPhone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-secrets-to-pristine-bg-removal-techniques-in-figma/"><u>In 2024, Unveiling Secrets to Pristine BG Removal Techniques in Figma</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-apple-m1-a-computing-revolution/"><u>In 2024, Unveiling the Apple M1 A Computing Revolution?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/overcooked-2-review/"><u>Overcooked! 2 Review</u></a></li>
 </ul></div>
 

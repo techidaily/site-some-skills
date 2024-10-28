@@ -1,7 +1,7 @@
 ---
 title: Top 7 Linux Innovations Perfectly Suited for Integration Into the Next Version of Windows
-date: 2024-10-18T16:54:20.926Z
-updated: 2024-10-22T03:02:02.120Z
+date: 2024-10-20T16:12:07.610Z
+updated: 2024-10-27T19:46:58.157Z
 tags:
   - desktop
 categories:
@@ -33,11 +33,31 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The GNOME Software app showing tiles with green ticks on them](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/23.png) 
 
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Dave McKay / How-To Geek
 
  So the first thing Windows 12 should steal from Linux is a nonintrusive user experience. It'd be best if ads were completely removed, but opt-in ads would provide a better user experience than enabled by default, as it is now.
 
  On Windows 11, ads are enabled by default, but they can be disabled. Follow this [guide to know where all the options are](https://change-location.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-vivo-x-flip-drfone-by-drfone-virtual-android/).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Multiple Start Menu Variations
 
@@ -53,26 +73,6 @@ Close
 
 ![Image of Arc Menu Extension and Menu Layout Variations on Ubuntu 22.04](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/3-image-of-arc-menu-extension-and-menu-layout-variations-on-ubuntu-22-04.png) 
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Widgets on the Desktop
 
  Windows 7 had widgets and it was wonderful. Sadly, Microsoft [removed them because of security concerns](https://blog-min.techidaily.com/5-ways-to-move-contacts-from-realme-c33-2023-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/), but they made a comeback (sort of) with Windows 11\. The problem is that Windows 11 widgets are [tucked away inside a separate panel](https://buynow-tips.techidaily.com/comprehensive-review-of-the-stylish-and-modern-swagtron-swagger-electric-scooter/) and not embedded directly on the desktop. It would be very nice to see Windows 12 will properly implement desktop widgets, like you can see here on Kubuntu:
@@ -80,10 +80,10 @@ Close
 ![Desktop Widgets on Kubuntu 23.10 Spread across the screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/4-desktop-widgets-on-kubuntu-23-10-spread-across-the-screen.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Having desktop widgets means you have direct access to useful information like reminders, to-do lists, weather updates, a world clock, and more, without having to open multiple apps. It’d be awesome if I turned on the computer every morning and got a snapshot of my entire day right there on the desktop.
@@ -99,6 +99,13 @@ Close
  So let’s make this perfect with Windows 12 with support for automatic window tiling or auto-tiling. Of course, it will be an optional feature that you can enable/disable. If enabled, every time you open a new window, it'll automatically arrange itself in a non-overlapping grid-like pattern. So, one app opens full screen, two apps split the screen 50/50, and more apps divide the screen proportionally (in a predefined manner) without overlap. Linux has had this feature for ages. Here’s how auto-tiling looks on Pop\_OS!
 
 ![Pop!_OS in-built Tiling Window functionality auto-tiling two windows side by side.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/pop-_os-in-built-tiling-window-functionality.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Options to Customize the Taskbar
 
@@ -117,22 +124,21 @@ Close
 ![Virtual Desktops on Windows 11](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/8-virtual-desktops-on-windows-11.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To enhance this in Windows 12, it would be awesome to have the option to visualize and manage all virtual desktops directly from the Taskbar. Also, the option to launch apps to different desktops from the Task View would be a game-changer. Look at Ubuntu’s Activities Overview (equivalent to Windows 11’s Task View) to see what I’m talking about.
 
 ![Image Showing Ubuntu 22.04 Activities Overview](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/9-image-showing-ubuntu-22-04-activities-overview.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  At the top, there’s a row of mini windows for all open virtual desktops (Workspaces). You can click to switch between them. The center shows your current desktop with all open apps. On the left, the Ubuntu Dash (similar to Windows' Taskbar) lets you drag and drop apps to any virtual desktop.
 
@@ -169,24 +175,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-quick-shot-screen-plus-sound-combo/"><u>[New] 2024 Approved Quick Shot Screen + Sound Combo</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-chart-topping-video-content-on-youtube/"><u>[New] In 2024, Chart-Topping Video Content on YouTube</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-recognizing-invisible-social-presence-for-2024/"><u>[New] Recognizing Invisible Social Presence for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-secure-transfer-of-twitter-video-files-to-android/"><u>[Updated] Secure Transfer of Twitter Video Files to Android</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/35-bargain-alert-experience-superior-cooling-with-the-best-value-air-conditioner-thermalright-phantom-spirit-cuhre/"><u>$35 Bargain Alert! Experience Superior Cooling with the Best-Value Air Conditioner, Thermalright Phantom Spirit Cuhre</u></a></li>
-<li><a href="https://extra-information.techidaily.com/demystifying-encoding-a-beginners-approach-to-av1/"><u>Demystifying Encoding A Beginner's Approach to AV1</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-google-pixel-7a-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Google Pixel 7a without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/leveraging-the-power-of-images-in-your-instagram-video-plans/"><u>Leveraging the Power of Images in Your Instagram Video Plans</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-test-of-the-inmotion-electric-scooter-unleashing-its-impressive-strength/"><u>The Ultimate Test of the InMotion Electric Scooter: Unleashing Its Impressive Strength</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-6-missteps-why-using-chatgpt-could-be-a-bad-idea/"><u>Top 6 Missteps: Why Using ChatGPT Could Be a Bad Idea</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-7-phone-number-locators-to-track-apple-iphone-13-pro-location-drfone-by-drfone-virtual-ios/"><u>Top 7 Phone Number Locators To Track Apple iPhone 13 Pro Location | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-strategies-to-ensure-youre-making-the-right-choice-in-secondhand-evs/"><u>Top Strategies to Ensure You're Making the Right Choice in Secondhand EVs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transitioning-to-augmented-reality-my-journey-swapping-a-standard-monitor-for-ar-glasses/"><u>Transitioning to Augmented Reality: My Journey Swapping a Standard Monitor for AR Glasses</u></a></li>
-<li><a href="https://some-skills.techidaily.com/understanding-the-causes-of-electric-vehicle-battery-wear-and-tear/"><u>Understanding the Causes of Electric Vehicle Battery Wear and Tear</u></a></li>
-<li><a href="https://some-skills.techidaily.com/understanding-the-mechanics-of-electric-vehicle-battery-exchange-systems/"><u>Understanding the Mechanics of Electric Vehicle Battery Exchange Systems</u></a></li>
-<li><a href="https://some-skills.techidaily.com/universal-ai-chatbot-coaching-with-newly-released-chatgpt-enhancements/"><u>Universal AI Chatbot Coaching with Newly Released ChatGPT Enhancements</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unleashing-creativity-without-costly-fees-discover-alternatives-to-chatgpts-imagery/"><u>Unleashing Creativity Without Costly Fees - Discover Alternatives to ChatGPT's Imagery!</u></a></li>
-<li><a href="https://some-skills.techidaily.com/volkswagen-unveils-eco-friendly-electric-golf-gti-prototype/"><u>Volkswagen Unveils Eco-Friendly Electric Golf GTI Prototype</u></a></li>
-<li><a href="https://program-issues.techidaily.com/zoom-and-pc-users-rejoice-solving-the-infamous-black-screen-dilemma/"><u>Zoom and PC Users Rejoice! Solving the Infamous Black Screen Dilemma</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-snapshot-excellence-the-finest-software-on-market/"><u>[New] 2024 Approved Snapshot Excellence The Finest Software on Market</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-mapping-out-instagram-deactivations/"><u>[New] In 2024, Mapping Out Instagram Deactivations</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-synchronizing-tracks-through-effective-crossfading/"><u>[New] Synchronizing Tracks Through Effective Crossfading</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-secrets-to-earning-facebooks-status-symbol-blue/"><u>[Updated] Secrets to Earning Facebook’s Status Symbol (Blue)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-10-dynamic-image-backdrops-for-video-editing/"><u>[Updated] Top 10 Dynamic Image Backdrops for Video Editing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-aquatic-enhancements-for-gopro-footage/"><u>[Updated] Ultimate Aquatic Enhancements for GoPro Footage</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-elevate-your-traffic-ethically-youtubes-best-practices/"><u>2024 Approved Elevate Your Traffic Ethically YouTube's Best Practices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-obstacles-in-windows-11-installation-error-code-802-explained-and-solved/"><u>Bypassing Obstacles in Windows 11 Installation - Error Code 802# Explained and Solved</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/convertissez-vos-videos-au-format-webm-sans-frais-guide-pratique-pour-la-transformation-a-partir-du-mkv/"><u>Convertissez Vos Vidéos Au Format WEBM Sans Frais - Guide Pratique Pour La Transformation À Partir Du MKV</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevate-your-live-streams-high-quality-360-options/"><u>Elevate Your Live Streams High-Quality 360° Options</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-of-behringer-audio-drives-get-your-hands-on-quality-sound/"><u>Free Download of Behringer Audio Drives - Get Your Hands-On Quality Sound</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-honor-90-lite-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Honor 90 Lite Phones? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streaming-showdown-which-superior-broadcaster-tool-are-you/"><u>In 2024, Streaming Showdown Which Superior Broadcaster Tool Are You?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-oculus-gaming-guide-best-selling-choices/"><u>In 2024, Ultimate Oculus Gaming Guide Best-Selling Choices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-uniting-melodies-and-images-with-youtube-music-for-video-projects/"><u>In 2024, Uniting Melodies & Images with YouTube Music for Video Projects</u></a></li>
+<li><a href="https://some-skills.techidaily.com/no-pocket-money-needed-heres-a-free-solution-to-coffee-stains-in-images-for-2024/"><u>No Pocket Money Needed? Here’s a FREE Solution to Coffee Stains in Images for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/stream-the-best-games-list-9-for-2024/"><u>Stream the Best Games List #9 for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unleash-your-creativity-3-simple-video-game-recording-tools/"><u>Unleash Your Creativity 3 Simple Video Game Recording Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-sierra-comprehensive-icloud-drives-for-2024/"><u>Unlocking Sierra Comprehensive iCloud Drives for 2024</u></a></li>
 </ul></div>
 

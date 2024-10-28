@@ -1,7 +1,7 @@
 ---
 title: "Boost Productivity Fast: Efficiently Start Programs via Keyboard Triggers on Windows 11"
-date: 2024-10-15T21:29:58.810Z
-updated: 2024-10-21T22:26:50.496Z
+date: 2024-10-25T16:46:37.670Z
+updated: 2024-10-27T21:06:33.151Z
 tags:
   - deals
 categories:
@@ -20,6 +20,13 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 
  If you access particular Windows apps regularly, it can take time to launch them by rummaging through the Start menu. Handily, Windows 11 lets you create custom keyboard shortcuts to quickly open your favorite programs.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Use Taskbar Shortcuts to Open Apps
 
  One of the [awesome features of the Windows 11 taskbar](https://extra-hints.techidaily.com/brighten-your-iphones-nighttime-recordings/) is the ability to pin your frequently used applications to it. Once pinned, you can use the Windows+AppNumber shortcut to launch it. Here, "AppNumber" is the order in which the app appears on the taskbar.
@@ -27,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
  To pin an app to the taskbar, search for the program in the Start menu, right-click it, and select "Pin to Taskbar". Alternatively, find the program in File Explorer, then hold the Shift key and right-click it, and select "Pin to Taskbar."
 
 ![Pinning an app to the Taskbar on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/pin-to-taskbar-2.jpeg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once pinned to the taskbar, click and drag the icons to move them to a different position.
 
@@ -38,13 +52,6 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 
 ![Windows 11 with the Steam app pinned to the Taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/windows-steam-taskbar-1.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  While this method is fairly simple, its biggest drawback is that you can only use the taskbar shortcuts for a maximum of ten applications, with Win+0 being the key combination to launch the tenth.
 
 ##  How to Use App Properties Shortcuts to Open Apps
@@ -55,23 +62,9 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 
 ![Creating a shortcut of an app on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/create-shortcut-1.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Right-click on the newly created shortcut and select "Properties" to open another window.
 
 ![A screenshot of Windows 11 depicting the Properties option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/windows-11-properties-1.jpeg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Within the "Shortcut Key" field, press a key. This creates a shortcut using the Ctrl and Alt keys. For example, in the screenshot below, I pressed "A" which created a shortcut of Ctrl + Alt + A. Once done, click "OK".
 
@@ -80,6 +73,13 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
  To remove a shortcut, press the Delete key within the "Shortcut Key" field.
 
  You can change "Ctrl + Alt" to "Shift + Alt" if you hold those keys while pressing your other desired key. Overall, though, this method is a bit limiting because you don't have complete control over the keys used.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Use PowerToys to Open Apps
 
@@ -98,10 +98,10 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 ![Remapping a shortcut in PowerToys.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/remapping-a-shortcut-in-powertoys.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you ever want to delete a shortcut, return to this screen and click the trash can.
@@ -114,6 +114,13 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 
 ![AutoHotkey with the 'New Script' option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/autohotkey-new-script.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Next, give your script a name and select the "Edit" button.
 
 ![A screenshot of AutoHotkey with the Name and Edit options highlighted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/autohotkey-name.jpeg) 
@@ -121,13 +128,6 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
  Choose Notepad (or a development environment of your choosing, if you're an advanced user) as the code editor and press "OK."
 
 ![A screenshot of AutoHotkey with the Notepad and OK options highlighted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/autohotkey-notepad.jpeg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You’ll be greeted with an empty script. You can use the following syntax for creating a macro:
 
@@ -169,19 +169,16 @@ Run "C:\Program Files (x86)\Steam\steam.exe"
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-elevate-your-storytelling-on-snapchat-top-15-ideas/"><u>[New] 2024 Approved Elevate Your Storytelling on Snapchat (Top 15 Ideas)</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-downloading-fb-videos-made-easy-our-top-5-selection/"><u>[New] In 2024, Downloading FB Videos Made Easy Our Top 5 Selection</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlock-the-potential-of-iphone-cinematography-top-8-strategies/"><u>[New] Unlock the Potential of iPhone Cinematography Top 8 Strategies</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-youtube-vs-dailymotion-key-platform-distinctions/"><u>[New] YouTube Vs. Dailymotion Key Platform Distinctions</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-exclusive-free-mcb-visual-tools/"><u>[Updated] In 2024, Exclusive Free MCB Visual Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-peak-of-data-preservation-cloud-service-guide/"><u>2024 Approved The Peak of Data Preservation Cloud Service Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-networking-grounds-grow-your-youtube-audience/"><u>2024 Approved Top Networking Grounds Grow Your YouTube Audience</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-upgrading-to-big-sur-know-your-hardware-standards/"><u>2024 Approved Upgrading to Big Sur? Know Your Hardware Standards</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diagnosing-and-repairing-crosswise-screen-markings-on-computers/"><u>Diagnosing and Repairing Crosswise Screen Markings on Computers</u></a></li>
-<li><a href="https://win-best.techidaily.com/efficiently-clean-your-ssd-with-asus-secure-erase-best-practices-and-solutions-compared/"><u>Efficiently Clean Your SSD with Asus Secure Erase - Best Practices & Solutions Compared</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722960010048-get-the-newest-drivers-for-canon-pixma-ts3322-download-here/"><u>Get the Newest Drivers for Canon PIXMA TS3322 - Download Here</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-definitive-iphone-hdr-technique/"><u>In 2024, The Definitive iPhone HDR Technique</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-poco-c55-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Poco C55 for Streaming | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-the-full-potential-of-your-phone-into-vr-realm/"><u>In 2024, Unleashing the Full Potential of Your Phone Into VR Realm</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-list-greatest-anime-opener-tunes/"><u>[Updated] Ultimate List Greatest Anime Opener Tunes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-best-android-and-ios-apps-for-monitoring-big-day-timers/"><u>[Updated] Unveiling the Best Android & iOS Apps for Monitoring Big Day Timers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-internet-jesters-arsenal/"><u>2024 Approved Internet Jester's Arsenal</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-macos-slideshow-creator-unite-images-and-videos/"><u>2024 Approved MacOS SlideShow Creator Unite Images & Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-mastering-googles-podcast-publishing-process/"><u>2024 Approved Mastering Google's Podcast Publishing Process</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-from-your-iphone-12-pro-max-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password From your iPhone 12 Pro Max</u></a></li>
+<li><a href="https://article-tips.techidaily.com/freed-images-public-domain-canvas-for-2024/"><u>Freed Images Public Domain Canvas for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-the-latest-patch-tackles-lols-connection-error-glitch-for-2n24-gamers/"><u>How the Latest Patch Tackles LoL's Connection Error Glitch for 2N24 Gamers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-superior-webcam-gear-for-podcasters/"><u>In 2024, Superior Webcam Gear for Podcasters</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-airpods-microphone-malfunctions-in-windows-11-a-step-by-step-guide/"><u>Overcoming AirPods Microphone Malfunctions in Windows 11 – A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-collective-opinion-of-10-prominent-global-tech-figures-on-the-future-of-ai/"><u>The Collective Opinion of 10 Prominent Global Tech Figures on the Future of AI</u></a></li>
 </ul></div>
 

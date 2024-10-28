@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Installing and Configuring Windows 11 with Alternative Login Options"
-date: 2024-10-16T18:40:23.151Z
-updated: 2024-10-21T22:06:52.808Z
+date: 2024-10-22T19:21:02.811Z
+updated: 2024-10-27T16:30:09.155Z
 tags:
   - desktop
 categories:
@@ -22,6 +22,13 @@ thumbnail: https://thmb.techidaily.com/f78d1d150df9704e5a6635f2d8f1d9b65ffaf1875
 
  Windows 11 normally requires a Microsoft account when you set it up, but you can bypass Microsoft account creation and use a local account instead. Here's how to set up Windows 11 without a Microsoft account or convert an existing Microsoft account to a local account.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Can You Skip Microsoft Account Creation During Windows 11 Setup?
 
  Yes, but they both require some advanced preparation. We'll cover them below. On a new PC, you'll be guided through the normal Windows 11 setup process. If you're installing Windows 11 yourself, then typically, you would use the Windows Media Creation tool to [create a bootable DVD or USB drive, then install Windows 11](https://audio-shaping.techidaily.com/updated-unraveling-the-podcast-puzzle-a-step-by-step-approach-to-download-store-and-manage-auditory-media-on-computers-for-2024/) that way. Unfortunately, you'll be stuck logging in with a Microsoft account if you follow either of those normal methods.
@@ -38,18 +45,24 @@ thumbnail: https://thmb.techidaily.com/f78d1d150df9704e5a6635f2d8f1d9b65ffaf1875
 
  Mac users who are [setting up Windows 11 inside of Parallels Desktop](https://some-knowledge.techidaily.com/in-2024-fast-forward-features-unveiled-the-editors-guidebook/) can skip the Microsoft account linking process. The virtualization software allows you to set up Windows "hands-free" and leaves you with a local account.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Bypass Windows 11 Microsoft Account Requirement Using Command Prompt
 
  To bypass the Microsoft Account requirement, proceed with the first few steps of the installation process normally until you reach this screen:
 
 ![The Windows 11 installer prompting you to log in.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/microsoft-login-screen.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you're there, press Shift + F10 to open up a Command Prompt Window and type:
 
@@ -58,6 +71,13 @@ oobe\bypassnro
  It isn't case sensitive, but it is critical that you use the correct slash. Once you type in the command, press Enter and your PC will immediately restart.
 
 ![The bypassnro command running in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/oobebypassnrocommand.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now, you should _completely disconnect your PC from the Internet_ at this point. If Windows 11 detects an Internet connection it will continue to try and force you to sign in with a Microsoft account. However, if you're disconnected from the Internet you'll see an "I Don't Have Internet" option, or you'll be prompted to create a local account immediately. 
 
@@ -83,13 +103,6 @@ Close
 
 ![Downloading the latest Windows 11 ISO for all versions of Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/download-the-windows-11-iso.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Using Rufus to create a bootable USB drive will completely erase the contents of that drive. Make sure you save any important files on it before you proceed.
 
  Open Rufus after the Windows 11 ISO has finished downloading, click "Select," then navigate to [wherever you saved it](https://buynow-info.techidaily.com/hp-stream-14-analysis-affordable-windows-laptop-with-trade-offs-explored/). If you're using an external SSD as your bootable media, you'll need to tick "List USB Hard Drives" first. Rufus will handle most of the important options, like the [partition scheme](https://instagram-videos.techidaily.com/2024-approved-exclusive-guide-ranking-most-effective-ig-money-makers/) and [file system](https://on-screen-recording.techidaily.com/new-in-2024-streamline-your-filming-process-the-ultimate-logitech-camera-tutorials/), automatically; you don't need to worry about them. Just click "Start."
@@ -112,25 +125,11 @@ Close
 
  It is smooth sailing after you change the boot order. Windows 11 will walk you through the rest of the installation process.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Create a Local Account on Windows 11
 
  You can create additional Windows accounts that aren't linked to existing Microsoft Accounts, though it's easy to miss the cues. To do this, launch the Settings app and then navigate to Accounts > Other users. Click on the "Add Account" button to create another user account.
 
 ![The 'Other Users' section of the Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/other-users.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  A new window will appear inviting you to type the email address or phone number of the person you wish to add. You can dismiss this using the "I don't have this person's sign in information" link just below the text field. 
 
@@ -156,16 +155,16 @@ Close
 
 ![The popup to switch to a local account on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/switching-to-local.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You should probably restart your PC even after you sign out just to fix any weird bugs that crop up. You also need to be careful now. Your account is a local-only account, which means that Microsoft won't be able to help you regain access if you forget something.
 
  Additionally, if you attempt to encrypt your drive on a local account, you'll be told you need to sign in to a Microsoft account to finish the process. That is not accurate — your drive will be encrypted even if you do not sign in, so be sure to make a copy of your recovery key.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Remove a Microsoft Account From Windows 11
 
@@ -176,6 +175,13 @@ Close
  Next to "Account Options" click "Change account type" and a new window will appear. In this window, change account type to "Administrator" and then click OK.
 
 ![Changing the account type from standard to administrator.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/change-accont-type.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can now log in to the other (local) account that you have created. Head to Settings > Accounts > Other users, select the (Microsoft) account you want to remove, and click "Remove" next to the "Account and data" field.
 
@@ -202,19 +208,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-elite-video-influencers/"><u>[New] 2024 Approved Elite Video Influencers</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/xpress-thumbnails-for-epic-battle-royale/"><u>[New] Express Thumbnails for Epic Battle Royale</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-audience-wow-factor-the-best-camera-lenses-for-youtube-stars/"><u>2024 Approved Audience Wow Factor The Best Camera Lenses for YouTube Stars</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/decoding-the-process-behind-gopro-burst-recordings/"><u>Decoding the Process Behind GoPro Burst Recordings</u></a></li>
-<li><a href="https://blog-min.techidaily.com/effortless-dvd-duplication-guide-preserve-your-favorites-including-twelve-years-a-slave-with-the-power-of-wonderfox-converter/"><u>Effortless DVD Duplication Guide: Preserve Your Favorites, Including 'Twelve Years a Slave', With the Power of WonderFox Converter</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-tecno-pop-8-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Tecno Pop 8 to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/real-time-vs-recorded-entertainment-twitch-vs-youtube-analysis/"><u>Real-Time vs Recorded Entertainment Twitch vs YouTube Analysis</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-rated-usb-c-chargers-and-converters-expert-picks-for-2n25/"><u>Top Rated USB-C Chargers and Converters: Expert Picks for 2N25</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tracking-the-unseen-passenger-what-to-do-if-your-airtag-continues-its-travels-alongside-you/"><u>Tracking the Unseen Passenger: What to Do If Your AirTag Continues Its Travels Alongside You</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transformative-tips-how-iphones-elevate-the-road-trip-experience/"><u>Transformative Tips: How iPhones Elevate the Road Trip Experience</u></a></li>
-<li><a href="https://some-skills.techidaily.com/troubleshooting-homekit-connectivity-how-to-restore-response-in-your-smart-devices/"><u>Troubleshooting HomeKit Connectivity: How to Restore Response in Your Smart Devices</u></a></li>
-<li><a href="https://some-skills.techidaily.com/understanding-the-reasons-behind-the-nsas-odd-request-to-regularly-refresh-your-devices/"><u>Understanding the Reasons Behind the NSA's Odd Request to Regularly Refresh Your Devices</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlock-the-full-potential-of-your-journeys-why-utilizing-google-maps-save-location-function-is-essential/"><u>Unlock the Full Potential of Your Journeys: Why Utilizing Google Maps' Save Location Function Is Essential</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-in-pc-gear-on-toms-platform/"><u>Unveiling the Latest in PC Gear on Tom’s Platform</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-screensnapper-pro-the-ultimate-guide-to-capturing-your-world/"><u>[New] 2024 Approved ScreenSnapper Pro The Ultimate Guide to Capturing Your World</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-top-pick-ultimate-google-cardboard-virtual-reality-experiences-for-2024/"><u>[New] Top Pick Ultimate Google Cardboard Virtual Reality Experiences for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-8-things-to-consider-before-buying-next-lens-for-4k-camera/"><u>[Updated] 8 Things to Consider Before Buying Next Lens for 4K Camera</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-segmented-screen-success-is-splitcam-superior/"><u>[Updated] Segmented Screen Success Is SplitCam Superior?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamline-your-musical-journey-top-6-music-vids-on-android/"><u>[Updated] Streamline Your Musical Journey - Top 6 Music Vids on Android</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-titling-techniques-an-after-effects-perspective/"><u>[Updated] Titling Techniques An After Effects Perspective</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-your-creative-potential-without-spending/"><u>[Updated] Unlocking Your Creative Potential Without Spending</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-dawn-of-augmented-reality-microsofts-hololens-review/"><u>2024 Approved The Dawn of Augmented Reality – Microsoft's HoloLens Review</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-ms-edges-picture-in-picture-magic/"><u>2024 Approved Unveiling MS Edge's Picture-in-Picture Magic</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/practices-for-producing-encouragement-driven-vlogs-for-2024/"><u>Best Practices for Producing Encouragement-Driven Vlogs for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/efficiently-downscale-your-gopro-videos-preserve-excellent-clarity-in-4k-and-27k-resolutions/"><u>Efficiently Downscale Your GoPro Videos: Preserve Excellent Clarity in 4K & 2.7K Resolutions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-mfp-m42amfw-updated-printer-drivers-for-windows-11-10-and-7-systems/"><u>HP MFP M42amfw - Updated Printer Drivers for Windows 11, 10 & 7 Systems</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-struggle-to-cultivate-freshness-in-vr-realms/"><u>In 2024, The Struggle to Cultivate Freshness in VR Realms</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-crafting-breathtaking-time-lapses-with-gopro/"><u>In 2024, The Ultimate Guide to Crafting Breathtaking Time-Lapses with GoPro</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/top-rated-flv-media-player-complimentary-downloads-for-macos-and-windows/"><u>Top Rated FLV Media Player: Complimentary Downloads for macOS & Windows</u></a></li>
+<li><a href="https://extra-information.techidaily.com/turn-your-twitter-videos-into-listenable-mp3s/"><u>Turn Your Twitter Videos Into Listenable MP3s</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/wireless-connectivity-secrets-to-accessing-the-web-without-traditional-plans/"><u>Wireless Connectivity: Secrets to Accessing the Web without Traditional Plans</u></a></li>
 </ul></div>
 

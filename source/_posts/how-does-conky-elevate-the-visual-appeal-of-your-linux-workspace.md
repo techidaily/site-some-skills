@@ -1,7 +1,7 @@
 ---
 title: How Does Conky Elevate the Visual Appeal of Your Linux Workspace?
-date: 2024-10-20T23:47:27.296Z
-updated: 2024-10-21T18:44:11.613Z
+date: 2024-10-21T19:15:03.120Z
+updated: 2024-10-27T20:30:12.034Z
 tags:
   - desktop
 categories:
@@ -19,13 +19,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Want to give your Linux desktop a personal touch? With Conky, you’re just a few steps away from transforming it into a visually stunning and highly functional space that reflects your personal style and meets your needs. Let’s explore how you can make your Linux experience uniquely yours!
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Conky: Customizable Widgets for Your Linux Desktop
 
  Conky is a light-weight system monitor software for Linux. With it, you can set up multiple, highly-customizable widgets on your desktop and showcase various types of information. Think [Rainmeter](https://ios-location-track.techidaily.com/in-2024-top-4-ways-to-trace-apple-iphone-15-pro-max-location-drfone-by-drfone-virtual-ios/), but a lot more powerful. Here’s a quick overview of what you can do using Conky:
@@ -34,13 +27,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * **Display custom information:** Set up calendar view, to-do list, weather, etc.
 * **Choose information source:** Embed information from any third-party sources and show it on your desktop.
 * **Tweak appearance:** Complete control over the fonts, colors, and layouts of each widget.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Installation and Set Up
 
@@ -70,18 +56,18 @@ sudo apt install conky-manager2
 
 ![Installing Conky and Conky Manager in a Linux terminal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/installing-conky-and-conky-manager.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You’ve successfully installed Conky and Conky Manager on your system. Now, you can technically run the Conky app directly, and you’ll get the following widget on your desktop. It’s a barebone experience where you’ll have to write scripts to tweak the appearance, behavior, and functionality of this widget.
 
 ![Conky and Conky Manager in Application Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/conky-and-conky-manager-in-application-menu.png) 
 
 ![Default Conky Widget and its script in a notepad window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/default-conky-widget-and-script.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close 
 
@@ -97,13 +83,6 @@ Close
 
  By default, the Conky Manager comes with a number of widgets, but they aren’t eye-catching enough. Not to worry though, as there are talented folks who have developed dedicated Conky themes with stylish widgets that you can simply download and start using on your system, no code necessary.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Installing Conky Themes
 
  For this demonstration, I’ll install the victorConky Theme. To do this, visit its [download page](https://www.pling.com/p/1287775), click on “Files,” and download the .zip file. Once downloaded, visit the containing folder and extract the file.
@@ -111,10 +90,10 @@ Close
 ![Download the victorConky theme in a ZIP format.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/download-victorconky-theme.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Extract the victorConky zip file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/extract-the-victorconky-zip-file.png) 
@@ -125,15 +104,36 @@ Close
 
 ![Install necessary fonts for VictorConky theme.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/install-necessary-fonts-for-victorconky-theme.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once done, you’ll need to move the victorConky file to the “.conky” folder in the [home directory](https://instagram-clips.techidaily.com/crafting-captivating-ig-stories-with-youtube-content-for-2024/), so that it becomes accessible via the Conky Manager. To do this, open the terminal in the download directory (or wherever you extracted the file to) and enter the following command:
 
 mv victorConky ~/.conky
 
 ![Move the victorConky file to your home directory conky folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/move-victoconky-file-to-home-directory-conky-folder.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now, the victorConky widgets should be accessible from the Conky Manager. Open it, and you should see a list of new widgets added. I personally liked the LinuxLarge widget and use it on my system. You can enable it by clicking the checkbox beside it.
 
 ![The victorConky widget enabled and visible on an Ubuntu desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/victorconky-widget-showcase.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Useful Resources
 
@@ -173,14 +173,24 @@ mv victorConky ~/.conky
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-pioneering-portable-vrs-google-cardboard-versus-samsungs-tech-for-2024/"><u>[New] Pioneering Portable VRs Google Cardboard Versus Samsung's Tech for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-roadmap-to-making-money-with-personal-videos/"><u>[New] The Roadmap to Making Money with Personal Videos</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-innovative-approaches-for-effective-use-of-streamlabs-obs/"><u>[Updated] 2024 Approved Innovative Approaches for Effective Use of Streamlabs OBS</u></a></li>
-<li><a href="https://some-skills.techidaily.com/connect-seamlessly-with-friends-a-guide-to-facetime-calling-from-windows/"><u>Connect Seamlessly with Friends: A Guide to Facetime Calling From Windows</u></a></li>
-<li><a href="https://some-skills.techidaily.com/cost-effective-solutions-enjoy-apple-macintosh-elegance-at-a-fraction-of-the-price-with-secure-online-macbook-leasing-options/"><u>Cost-Effective Solutions: Enjoy Apple Macintosh Elegance at a Fraction of the Price with Secure Online Macbook Leasing Options</u></a></li>
-<li><a href="https://some-skills.techidaily.com/discover-enhanced-productivity-with-windows-11s-updated-sticky-notes-feature/"><u>Discover Enhanced Productivity with Windows 11’S Updated Sticky Notes Feature</u></a></li>
-<li><a href="https://some-skills.techidaily.com/easy-guide-adding-your-site-to-the-windows-11-taskbar-and-start-menu/"><u>Easy Guide: Adding Your Site to the Windows 11 Taskbar and Start Menu</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-linguistic-technology-tracing-the-distinctions-of-gpt-and-bert/"><u>Mastering Linguistic Technology: Tracing the Distinctions of GPT & BERT</u></a></li>
-<li><a href="https://driver-error.techidaily.com/revamp-razer-driver-setup-on-windows-11-os/"><u>Revamp Razer Driver Setup on Windows 11 OS</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-group-gallery-gatherer/"><u>[New] In 2024, Group Gallery Gatherer</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-perfection-in-depth-tutorial-on-utilizing-photoshops-background-eraser-tool/"><u>[New] The Art of Perfection In-Depth Tutorial on Utilizing Photoshop's Background Eraser Tool</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-picks-for-the-best-android-image-correction-tools-5-choices/"><u>[New] Top Picks for the Best Android Image Correction Tools (5 Choices)</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-from-concrete-jungles-to-eco-havens-rethinking-urban-living/"><u>[Updated] From Concrete Jungles to Eco Havens Rethinking Urban Living</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-next-gen-display-top-5-hdmi-21-infinity-refresh-monitors-ps5-for-2024/"><u>[Updated] Next-Gen Display Top 5 HDMI 2.1 Infinity Refresh Monitors [PS5] for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-step-by-step-guide-invert-playback-videos-android/"><u>[Updated] Step-by-Step Guide Invert Playback Videos Android</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-5-best-live-stream-video-conference-recorders/"><u>2024 Approved 5 Best Live Stream Video Conference Recorders</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-minecraft-homestead-essentials-6-10/"><u>2024 Approved Minecraft Homestead Essentials #6-10</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-navigating-the-landscape-of-fb-med-ad-optimization/"><u>2024 Approved Navigating the Landscape of FB Med Ad Optimization</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-best-10-final-cut-pro-plugins-ever/"><u>2024 Approved The Best 10 Final Cut Pro Plugins Ever</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/abbyy-and-m-files-bolster-synergistic-alliance/"><u>Abbyy & M-Files Bolster Synergistic Alliance</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-vivo-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Vivo</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-8-social-and-adventure-games-for-oculus-users/"><u>In 2024, Top 8 Social & Adventure Games for Oculus Users</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-iphone-13-without-passcode-easily-drfone-by-drfone-ios/"><u>In 2024, Unlock iPhone 13 Without Passcode Easily | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovative-gamer-posture/"><u>Innovative Gamer Posture</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/reverse-engineering-a-step-by-step-guide-to-reversing-tiktok-videos/"><u>Reverse Engineering A Step-by-Step Guide to Reversing TikTok Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/symphonic-streams-exclusive-sites-for-downloadable-tones-for-2024/"><u>Symphonic Streams Exclusive Sites for Downloadable Tones for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-clip-connoisseurs-essential-list-of-retro-vhs-effects-for-2024/"><u>The Clip Connoisseur's Essential List of Retro VHS Effects for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-secret-art-of-hidden-streaming-instagrams-anonymous-spectators-guide-for-2024/"><u>The Secret Art of Hidden Streaming Instagram's Anonymous Spectators Guide for 2024</u></a></li>
 </ul></div>
 

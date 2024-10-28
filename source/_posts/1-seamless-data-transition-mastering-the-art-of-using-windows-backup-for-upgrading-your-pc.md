@@ -1,7 +1,7 @@
 ---
 title: "1. Seamless Data Transition: Mastering the Art of Using Windows Backup for Upgrading Your PC"
-date: 2024-10-15T20:02:14.478Z
-updated: 2024-10-22T02:57:45.504Z
+date: 2024-10-25T22:52:59.054Z
+updated: 2024-10-27T23:22:50.559Z
 tags:
   - desktop
 categories:
@@ -18,13 +18,6 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 * [Step 3: Backup Your Old PC](https://change-location.techidaily.com/how-to-use-ispoofer-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/)
 * [Step 4: Restore to Your New PC](https://ios-unlock.techidaily.com/in-2024-did-your-iphone-12-passcode-change-itself-unlock-it-now-by-drfone-ios/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Sign in to your Microsoft account to use Windows Backup for an easy transfer process.
@@ -32,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 * Backup your old PC, then restore the data to your new PC after signing in with your Microsoft account.
 
  We all know that feeling of getting a new PC and wanting to get straight into things. I remember the old days, spending hours transferring my files and trying to replicate my settings. Among the many ways to transfer your data nowadays, Windows Backup offers a simple and reliable solution.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Step 1: Sign in to Your Microsoft Account
 
@@ -41,28 +41,15 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 
 !['Settings' typed into the taskbar search box and the 'Settings' option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/windows-settings.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Then, click "Accounts" and follow the on-screen instructions to sign in.
 
 ![Windows Settings with 'Accounts' highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/windows-accounts.png) 
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Step 2: Manage Your Backup Settings
@@ -88,16 +75,10 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 !['Backup' is typed into the taskbar search box, and the 'Windows Backup' option is highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/open-windows-backup.png) 
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In the Windows Backup dialog box, you'll see the different things you can include in your transfer. Click the drop-down arrows next to each section to choose which folders, apps, settings, and credentials you want to transfer to your new computer.
@@ -105,13 +86,6 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
  You can also see an estimate of how much storage you'll need to perform the backup in the bottom left-hand corner of the window. _Free Microsoft accounts come with just 5GB of folder storage_, so if you need to back up more than that, you must [purchase more storage through a different Microsoft plan](https://www.microsoft.com/en-gb/microsoft-365/onedrive/compare-onedrive-plans). Alternatively, you could perform a manual [backup to an external hard drive](https://instagram-videos.techidaily.com/new-understanding-and-executing-photo-gender-modification-across-platforms-for-2024/), or [use a third-party storage solution](https://instagram-video-recordings.techidaily.com/navigating-the-truth-in-your-photos-an-instagram-selfie-audit/). However, you _cannot_ use an external storage device or a third-party cloud service with Windows Backup. 
 
 ![The Windows Backup window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/windows-backup-window-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * The Folders option backs up the same folders that are automatically stored in your OneDrive sync—your Documents, Pictures, Desktop, Music, and Videos folders. These folders likely contain everything you want to move, but if you have important folders elsewhere, be sure to add them to your OneDrive folder manually, or use an alternative storage solution.
 * TheAppsoption will transfer all the apps you have installed on your old computer to your new computer.
@@ -126,11 +100,25 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 
  Depending on which options you've selected, this might take some time, but you can carry on with other tasks while this is happening. Just try to avoid making changes to any of the folders, apps, settings, or credentials you've chosen to back up during this process.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Step 4: Restore to Your New PC
 
  When setting up your new computer, when prompted, login with the same Microsoft account you used to create your backup on your old computer. You will then be able to select your old PC's details, which includes the backup you performed, and click "Restore From This PC."
 
 ![The 'Restore Backup' screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/restore-backup.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Microsoft
 
@@ -155,20 +143,19 @@ Microsoft
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-giggles-galaxy-a-guide-to-hilarious-youtube-stars/"><u>[New] 2024 Approved Giggles Galaxy A Guide to Hilarious YouTube Stars</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-the-digital-archivists-playbook-preserving-real-time-videos/"><u>[Updated] 2024 Approved The Digital Archivist's Playbook Preserving Real-Time Videos</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-discovering-and-demystifying-tiktoks-pfp-symbol/"><u>2024 Approved Discovering and Demystifying TikTok's PFP Symbol</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-video-soundtracks-hub-discovering-audio-scores/"><u>2024 Approved Video Soundtracks Hub Discovering Audio Scores</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-your-iphone-x-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From your iPhone X</u></a></li>
-<li><a href="https://extra-information.techidaily.com/crafting-cozy-living-areas-with-daylight-for-2024/"><u>Crafting Cozy Living Areas with Daylight for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effortlessly-watch-disneys-magic-on-any-screen-linking-disneyplus-and-chromecast-explained/"><u>Effortlessly Watch Disney's Magic on Any Screen: Linking Disney+ and Chromecast Explained</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-strategies-for-measuring-igtv-popularity-indicators/"><u>In 2024, Strategies for Measuring IGTV Popularity Indicators</u></a></li>
-<li><a href="https://some-skills.techidaily.com/introducing-stardock-desktopp-your-new-ai-powered-user-assistant-the-ultimate-substitute-for-traditional-copilots/"><u>Introducing Stardock Desktopp: Your New AI-Powered User Assistant, the Ultimate Substitute for Traditional Copilots</u></a></li>
-<li><a href="https://some-skills.techidaily.com/investing-in-future-updates-beyond-2025/"><u>Investing in Future Updates Beyond 2025</u></a></li>
-<li><a href="https://some-skills.techidaily.com/kb5442-11/"><u>KB5지치442 - 마이크로소프트 워밍즈 11의 조각을 위해 공개된 업데이트 사항</u></a></li>
-<li><a href="https://some-skills.techidaily.com/mastering-cross-platform-development-integrate-linux-bash-with-windows-11-systems/"><u>Mastering Cross-Platform Development: Integrate Linux Bash with Windows 11 Systems</u></a></li>
-<li><a href="https://some-skills.techidaily.com/mastering-game-control-avoiding-interference-from-windows-key-and-accessibility-shortcuts/"><u>Mastering Game Control: Avoiding Interference From Windows Key & Accessibility Shortcuts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/prepare-for-automatic-installation-of-windows-11-version-23h2-on-your-pc/"><u>Prepare for Automatic Installation of Windows 11 Version 23H2 on Your PC</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolving-pc-game-lags-in-assassins-creed-odyssey-for-smooth-gaming/"><u>Resolving PC Game Lags in Assassin's Creed Odyssey for Smooth Gaming</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-facetimes-role-in-modern-communication-best-practices-for-recording-calls/"><u>[New] 2024 Approved FaceTime's Role in Modern Communication Best Practices for Recording Calls</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-elevate-your-content-game-studio-aptitude-essentials-for-2024/"><u>[New] Elevate Your Content Game Studio Aptitude Essentials for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-dynamics-of-collaborative-marketing-on-youtube/"><u>[New] The Dynamics of Collaborative Marketing on YouTube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unraveling-the-apple-podcast-app-submission-system/"><u>[New] Unraveling the Apple Podcast App Submission System</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-utilizing-no-cost-countdown-efficient-time-management/"><u>[New] Utilizing No-Cost Countdown Efficient Time Management</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-virtual-worlds-practical-applications-for-2024/"><u>[New] Virtual World's Practical Applications for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tailoring-medical-messages-in-social-media-ads/"><u>2024 Approved Tailoring Medical Messages in Social Media Ads</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-samsung-galaxy-a24-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Samsung Galaxy A24 Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/enhancing-streaming-quality-for-instagram-videos-for-2024/"><u>Enhancing Streaming Quality for Instagram Videos for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-expert-tips-for-zoom-clarity-in-teams/"><u>In 2024, Expert Tips for Zoom Clarity in Teams</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-tecno-pova-5-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Tecno Pova 5 Phones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-hauls-into-visual-stories/"><u>In 2024, Transform Your Hauls Into Visual Stories</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-the-best-ssds-of-2024-spanning-affordable-sata-models-to-top-tier-nvme-drives/"><u>The Ultimate Guide to the Best SSDs of 2024, Spanning Affordable SATA Models to Top-Tier NVMe Drives</u></a></li>
+<li><a href="https://some-skills.techidaily.com/upcoming-vr-masterpieces-top-5-new-titles-for-playstation-vr-enthusiasts-for-2024/"><u>Upcoming VR Masterpieces Top 5 New Titles for PlayStation VR Enthusiasts for 2024</u></a></li>
 </ul></div>
 

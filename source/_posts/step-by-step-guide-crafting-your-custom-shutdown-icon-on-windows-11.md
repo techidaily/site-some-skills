@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Crafting Your Custom Shutdown Icon on Windows 11"
-date: 2024-10-14T18:41:20.316Z
-updated: 2024-10-21T18:24:10.641Z
+date: 2024-10-24T18:53:53.400Z
+updated: 2024-10-27T22:45:13.176Z
 tags:
   - deals
 categories:
@@ -25,10 +25,10 @@ thumbnail: https://thmb.techidaily.com/df49fa8741560cd4a2c304321a86cf5312094c292
  It's true that [shutting down your Windows 10 PC](https://screen-activity-recording.techidaily.com/updated-the-ultimate-guide-to-mac-based-sound-capture-in-audacity-for-2024/) the old-fashioned way only takes three clicks. But why spend the extra energy when you can do it in two? All you have to do is create a shutdown icon, and you'll save yourself some time.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Create a Shutdown Icon
@@ -37,11 +37,25 @@ thumbnail: https://thmb.techidaily.com/df49fa8741560cd4a2c304321a86cf5312094c292
 
 ![RIght-click your desktop, then go to New > Shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-17.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The "Create Shortcut" menu appears. In the text box under "Type the location of the item," type the following command and then click "Next":
 
         `Shutdown.exe /s /t 00`
     
 ![Enter shutdown command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/Enter-shutdown-command-1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In the next window, type a name for your new shortcut if you want. "Shutdown" is the default, so we'll leave it that for this example.
 
@@ -50,47 +64,21 @@ thumbnail: https://thmb.techidaily.com/df49fa8741560cd4a2c304321a86cf5312094c292
 **![Name shortcut](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/Name-shortcut.png)** 
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Your new shutdown icon will appear on your Desktop.
 
 ![A restart shortcut on the desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/4-restart-icon.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now, whenever you double-click the icon, your PC will shut down instantly.
 
  If you'd like your icon to have a shortcut, just right-click the icon and select "Properties."
 
 ![Right-click the restart button and click "Properties."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-open-properties.png) 
-
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Click the "Change Icon" button, then select an icon from the default options available in Windows. Alternatively, you can [make your own icon](https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-motorola-razr-40-drfone-by-drfone-virtual-android/). 
 
@@ -126,21 +114,19 @@ thumbnail: https://thmb.techidaily.com/df49fa8741560cd4a2c304321a86cf5312094c292
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-kinemaster-essentials-a-guide-to-flawless-movements/"><u>[New] Kinemaster Essentials A Guide to Flawless Movements</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-never-a-cap-on-saved-instagram-stories/"><u>[New] Never a Cap on Saved Instagram Stories</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-top-digital-sound-capturers-for-2024/"><u>[New] Top Digital Sound Capturers for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-7-ideas-to-improve-the-unboxing-experience/"><u>[Updated] 2024 Approved 7 Ideas to Improve the Unboxing Experience</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-budding-filmmakers-best-gopro-upgrades/"><u>[Updated] 2024 Approved Budding Filmmakers Best GoPro Upgrades</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-criteria-for-picking-premium-film-professionals/"><u>[Updated] Criteria for Picking Premium Film Professionals</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-imagination-drought-hindering-vr-development/"><u>[Updated] The Imagination Drought Hindering VR Development</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-motorola-edge-2023-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Motorola Edge 2023.</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-samsung-galaxy-m34-5g-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Samsung Galaxy M34 5G?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-superior-battery-packs-and-charger-systems-for-hero5/"><u>In 2024, Superior Battery Packs and Charger Systems for Hero5</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-converters-handbook-from-srt-to-multiple-formats/"><u>In 2024, Ultimate Converter's Handbook From SRT to Multiple Formats</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-guide-using-old-school-film-tricks-today/"><u>In 2024, Ultimate Guide Using Old-School Film Tricks Today</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unleash-creativity-with-these-top-10-video-text-effects/"><u>In 2024, Unleash Creativity with These Top 10 Video Text Effects</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-unveiling-the-vanished-rediscovering-exclusive-chats/"><u>In 2024, Unveiling the Vanished Rediscovering Exclusive Chats</u></a></li>
-<li><a href="https://some-skills.techidaily.com/instagrams-music-ip-policies-for-2024/"><u>Instagram's Music IP Policies for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/understanding-social-media-impact-with-facebook-twitter-instagram-and-youtube-analysis/"><u>Understanding Social Media Impact with Facebook, Twitter, Instagram, and YouTube Analysis</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-ultimate-compilation-exceptional-8k-cameras-ranked/"><u>[New] In 2024, Ultimate Compilation Exceptional 8K Cameras Ranked</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-evolution-of-4k-a-look-at-the-d500-model/"><u>[New] The Evolution of 4K A Look at the D500 Model</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-zeoid-startups-revealed-in-panzoids/"><u>[New] Top Zeoid Startups Revealed in Panzoids</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-list-of-3d-animation-and-modelling-programs/"><u>2024 Approved The Ultimate List of 3D Animation and Modelling Programs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-notch-techniques-for-saving-online-radio-broadcasts/"><u>2024 Approved Top-Notch Techniques for Saving Online Radio Broadcasts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/free-driver-management-software-ranked-the-top-8-tools-of-july-2024/"><u>Free Driver Management Software Ranked: The Top 8 Tools of July 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-oneplus-ace-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-oppo-a78-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Oppo A78</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-from-iphone-14-pro-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock from iPhone 14 Pro or iPad?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-best-zoomed-experience-in-virtual-meetings/"><u>In 2024, Unveiling the Best Zoomed Experience in Virtual Meetings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/streamline-your-vlc-experience-best-practices-for-macos-for-2024/"><u>Streamline Your VLC Experience Best Practices for MacOS for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/outube-cameras-a-guide-for-novices-and-pros/"><u>Top YouTube Cameras A Guide for Novices & Pros</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/windowsmac-accessing-srt-files-for-2024/"><u>Windows/Mac Accessing SRT Files for 2024</u></a></li>
 </ul></div>
 

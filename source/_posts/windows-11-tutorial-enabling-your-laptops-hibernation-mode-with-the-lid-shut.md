@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Tutorial: Enabling Your Laptop's Hibernation Mode with the Lid Shut"
-date: 2024-09-28T18:27:33.905Z
-updated: 2024-10-04T18:02:12.571Z
+date: 2024-10-25T22:58:49.743Z
+updated: 2024-10-28T00:02:39.504Z
 tags:
   - deals
 categories:
@@ -17,10 +17,10 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
 * [Does Keeping Your Laptop Running Hurt the Battery?](https://tech-haven.techidaily.com/innovative-plot-development-with-chatgpts-nine-insights/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -30,18 +30,18 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
 
  If you'd like to use your Windows 11 laptop with an [external monitor](https://desktop-recording.techidaily.com/updated-in-2024-in-depth-guide-to-2023s-leading-web-capture-applications/), mouse, and keyboard, it's often nice to keep the lid closed. Here's how to close the lid [without](https://youtube-docs.techidaily.com/ring-the-art-of-youtube-closings-inclusive-guide-for-2024/) putting your PC to sleep.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Prevent Your Laptop from Shutting Down When You Close the Screen
 
  First, open Windows Settings by pressing Windows+i on your keyboard. Or you can right-click the Start button and select "Settings."
 
 ![In Windows 11, right-click the Start button and select "Settings."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/win11_right_click_start_settings.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In Settings, click the search bar and type "lid," then click the "Change what closing the lid does" result that appears beneath it.
 
@@ -55,24 +55,24 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
 
 ![In the "When I close the lid" drop-down menu for the power setting you want, select "Do Nothing."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/select_do_nothing.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After that, click the "Save Changes" button at the bottom of the window.
 
 ![Click "Save Changes."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/click_save_changes.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  These changes will apply to all of your [power plans](https://apple-account.techidaily.com/how-to-unlink-your-iphone-11-pro-max-from-your-apple-id-by-drfone-ios/). When you're ready, close the "System Settings" and "Settings" windows. To test it out, plug your laptop into an external monitor and close the lid. If the video stays on, you'll know that you configured it properly. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Does Keeping Your Laptop Running Hurt the Battery? 
@@ -94,19 +94,20 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-peering-behind-recordcasts-curtain/"><u>[New] 2024 Approved Peering Behind RecordCast's Curtain</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-top-8-ios-pencil-programs-perfected-for-ipados/"><u>[New] 2024 Approved Top 8 iOS Pencil Programs Perfected for iPadOS</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-troubleshoot-flaky-airdrop-links-simple-steps-to-solutions/"><u>[New] Troubleshoot Flaky AirDrop Links Simple Steps to Solutions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-5-best-dvd-creators-for-macos-sierra/"><u>[Updated] 5 Best DVD Creators for macOS Sierra</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-final-cut-professionals-guide-to-top-10-plug-ins/"><u>[Updated] The Final Cut Professional's Guide to Top 10 Plug-Ins</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-top-8-best-zombie-games/"><u>2024 Approved Top 8 Best Zombie Games</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-vr-clarity-achieved/"><u>2024 Approved Ultimate VR Clarity Achieved</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/audiovisual-archive-system-and-voice-recordings-for-2024/"><u>Audiovisual Archive System & Voice Recordings for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/behavior-tracked-data-sold-the-new-trend/"><u>Behavior Tracked, Data Sold: The New Trend</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-cut-avi-files-with-ease-top-16-video-cutter-software-for-windows-mac-and-android/"><u>New In 2024, Cut AVI Files with Ease Top 16 Video Cutter Software for Windows, MAC, and Android</u></a></li>
-<li><a href="https://some-skills.techidaily.com/streaming-services-app-investigation-findings-for-2024/"><u>Streaming Services App Investigation Findings for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transform-your-mac-display-utilizing-picture-in-picture-multimedia-features-for-2024/"><u>Transform Your Mac Display Utilizing Picture in Picture Multimedia Features for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/unleash-your-creativity-the-best-time-lapse-video-editing-software-for-2024/"><u>Unleash Your Creativity The Best Time-Lapse Video Editing Software for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unlocking-the-secrets-to-outstanding-documentary-storytelling-for-2024/"><u>Unlocking the Secrets to Outstanding Documentary Storytelling for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-saving-screen-shots-in-windows-systems/"><u>[New] 2024 Approved Saving Screen Shots in Windows Systems</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamline-your-movie-watching-process-add-subtitles-to-wmp/"><u>[New] Streamline Your Movie-Watching Process Add Subtitles to WMP</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-list-of-3d-typographic-sites/"><u>[New] Ultimate List of 3D Typographic Sites</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-leading-10-video-editing-programs-for-instagram-reels-enthusiasts-for-2024/"><u>[Updated] Leading 10 Video Editing Programs for Instagram Reels Enthusiasts for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-roundup-unleashing-the-best-5-online-title-makers/"><u>[Updated] The Ultimate Roundup Unleashing the Best 5 Online Title Makers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transform-your-movies-tips-for-amazing-slow-motion-on-android-phones/"><u>[Updated] Transform Your Movies Tips for Amazing Slow Motion on Android Phones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-art-of-digital-broadcasting-in-real-time/"><u>[Updated] Unveiling the Art of Digital Broadcasting in Real Time</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-collection-10-excellent-photo-background-alternators/"><u>2024 Approved Ultimate Collection 10 Excellent Photo-Background Alternators</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-vector-editing-revolution-post-acid-pro-era/"><u>2024 Approved Vector Editing Revolution Post-ACID Pro Era</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-gt-3-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme GT 3 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6s-plus-to-other-iphone-13-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6s Plus to other iPhone 13 devices? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-premium-hardware-choices-for-uhd-editors/"><u>In 2024, Premium Hardware Choices for UHD Editors</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/personalize-and-optimize-with-cookiebots-advanced-tracking-solutions/"><u>Personalize & Optimize with Cookiebot's Advanced Tracking Solutions</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/simple-guide-turning-favorite-tiktok-beats-into-cellphone-signals-for-2024/"><u>Simple Guide Turning Favorite TikTok Beats Into Cellphone Signals for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/1714937848862-updated-in-2024-how-to-add-audio-fade-out-effect/"><u>Updated In 2024, How to Add Audio Fade Out Effect?</u></a></li>
 </ul></div>
 

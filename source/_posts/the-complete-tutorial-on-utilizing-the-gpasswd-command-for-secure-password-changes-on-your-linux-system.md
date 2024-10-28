@@ -1,7 +1,7 @@
 ---
 title: The Complete Tutorial on Utilizing the Gpasswd Command for Secure Password Changes on Your Linux System
-date: 2024-10-20T17:52:10.096Z
-updated: 2024-10-21T19:17:58.627Z
+date: 2024-10-25T21:06:32.060Z
+updated: 2024-10-27T21:37:08.295Z
 tags:
   - desktop
 categories:
@@ -44,6 +44,13 @@ gpasswd [option] group
 
  We'll see how to use these options in the upcoming sections of the guide.
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Setting Password for a Group
 
  The most common use of the gpasswd command is to [set a password](https://unlock-android.techidaily.com/in-2024-best-honor-100-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/) for specific groups. I'll first create a group we can test it upon. Feel free to skip this if you already have a group. To create a new group on your Linux system, run:
@@ -52,11 +59,25 @@ sudo groupadd demogroup
 
 ![The Linux terminal displaying the process of creating a new group on Linux using the groupadd command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-8.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can use any other name than "demogroup". To confirm if the group creation was successful, display all groups using:
 
 cat /etc/group
 
 ![The Linux terminal showing a list of all groups in the system](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-7.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can see the new group on the list. Now let's create a password for the group. To do that, use:
 
@@ -66,6 +87,13 @@ sudo gpasswd demogroup
 
 ![The Linux terminal displaying the process of setting a new password for a group using the gpasswd command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-7.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now if I try to log into this group, the system will ask for a password. That's because I'm not a member of the group. To log into the group, run:
 
 newgrp demogroup
@@ -73,10 +101,10 @@ newgrp demogroup
 ![The Linux terminal showing the process of logging into a group in Linux using the newgrp command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4-4.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Removing Password from Group
@@ -89,13 +117,6 @@ sudo gpasswd -r demogroup
 
  If you try to log into the group now as a member, you'll be able to do so without entering the password.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Adding a User to a Group
 
  The gpasswd command lets you add new members to groups. The -a option is for that purpose. The command syntax is as follows:
@@ -107,13 +128,6 @@ sudo gpasswd -a user group
 sudo gpasswd -a zunaid demogroup
 
 ![The Linux terminal showing how to use the gpasswd command to add a member to a group](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/5-2.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can confirm whether the member was added or not. For that, use the below command:
 
@@ -128,13 +142,6 @@ sudo gpasswd -a user1 group
     
                     sudo gpasswd -a user2 group
                     
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Removing a User From a Group
 
@@ -161,10 +168,10 @@ sudo gpasswd -d user1 group
                     
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Setting the List of Group Members
@@ -175,31 +182,11 @@ sudo gpasswd -M user2,user3 demogroup
 
 ![The Linux terminal showing the process of setting the list of members of a group using the gpasswd command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/11-3.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now if you check the members list of the group, you should see that the previous members are not there. Instead, you'll find the new members.
 
 getent group demogroup
 
 ![The Linux terminal displaying the current the members of a group in Linux after setting the members list using gpasswd](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/12-2.png) 
-
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Promoting a User as the Group Administrator
 
@@ -216,6 +203,13 @@ sudo gpasswd -A zunaid demogroup
 sudo cat /etc/gshadow
 
 ![The Linux terminal displaying the the administrators of every group in Linux](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/9-3.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  gpasswd Makes Group Management Easy
 
@@ -236,20 +230,14 @@ sudo cat /etc/gshadow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-directors-diary-filmo-qanda-series/"><u>[Updated] Director's Diary Filmo Q&A Series</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-ultimate-guide-to-youtube-app-on-iphones-and-androids/"><u>[Updated] Ultimate Guide to YouTube App on iPhones and Androids</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-xiaomi-redmi-note-12-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Xiaomi Redmi Note 12 5G Activity | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-mastering-video-caption-implementation-on-vimeo/"><u>2024 Approved Mastering Video Caption Implementation on Vimeo</u></a></li>
-<li><a href="https://some-skills.techidaily.com/expanded-google-circle-search-now-available-on-additional-smartphones-and-tablets/"><u>Expanded Google Circle Search Now Available on Additional Smartphones & Tablets</u></a></li>
-<li><a href="https://some-skills.techidaily.com/exploring-the-remarkable-ease-of-repairing-the-hmd-skyline-among-modern-mobile-devices/"><u>Exploring the Remarkable Ease of Repairing the HMD Skyline Among Modern Mobile Devices</u></a></li>
-<li><a href="https://some-skills.techidaily.com/find-the-perfect-earphone-charger-must-have-sound-level-adjustment-feature/"><u>Find the Perfect Earphone Charger - Must Have Sound Level Adjustment Feature!</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/guide-dexperts-comment-utiliser-wbadmin-pour-proteger-et-recuperer-votre-serveur-windows-server-2016/"><u>Guide D'Experts: Comment Utiliser WBAdmin Pour Protéger Et Récupérer Votre Serveur Windows Server 2016</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-13-mini-drfone-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone 13 mini | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/oneplus-11-comprehensive-review-after-six-months-of-daily-use/"><u>OnePlus 11 Comprehensive Review After Six Months of Daily Use</u></a></li>
-<li><a href="https://some-skills.techidaily.com/optimize-your-health-goals-with-the-top-iphone-workout-and-wellness-apps-for-staying-fit-in-the-sunny-season/"><u>Optimize Your Health Goals with the Top iPhone Workout and Wellness Apps for Staying Fit in the Sunny Season</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/smartphone-showcase-the-very-best-for-artistic-endeavors/"><u>Smartphone Showcase The Very Best for Artistic Endeavors</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-next-big-thing-in-smartphones-exclusive-insights-into-the-iphone-16-16-pro-and-max/"><u>The Next Big Thing in Smartphones - Exclusive Insights Into the iPhone 16, 16 Pro & Max</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-nokia-g22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Nokia G22 | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/youtubian-beginnings-unveiled-building-a-business-and-bringing-big-bucks-for-2024/"><u>Youtubian Beginnings Unveiled Building a Business and Bringing Big Bucks for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-online-bazaars-how-to-buy-your-favorite-youtube-ringtone/"><u>[New] Top Online Bazaars How to Buy Your Favorite YouTube Ringtone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-resource-list-open-source-imagery-sanctuary/"><u>[New] Ultimate Resource List Open-Source Imagery Sanctuary</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-pros-playbook-mastering-the-art-of-capturing-ps4-gaming-for-2024/"><u>[Updated] The Pro's Playbook Mastering the Art of Capturing PS4 Gaming for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-multiformat-manual-effortless-conversion-of-srt-files/"><u>2024 Approved Multiformat Manual Effortless Conversion of SRT Files</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-best-approach-to-enhancing-your-4k-vision-with-a-new-lens/"><u>2024 Approved The Best Approach to Enhancing Your 4K Vision with a New Lens</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-iphone-11-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 11 After Forgetting the Passcode?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-under-100-investments-in-action-cameras-top-selections/"><u>In 2024, Under $100 Investments in Action Cameras – Top Selections</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/superior-video-recording-apps-on-mac-not-bandicam/"><u>Superior Video Recording Apps on Mac, Not Bandicam</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-sharing-your-game-library-with-pals-on-xbox-one/"><u>The Ultimate Guide: Sharing Your Game Library with Pals on Xbox One</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Online Security: The Importance of Using Longer Passwords"
-date: 2024-10-15T21:34:51.315Z
-updated: 2024-10-21T20:57:26.929Z
+date: 2024-10-23T20:54:09.988Z
+updated: 2024-10-27T21:29:02.309Z
 tags:
   - web
 categories:
@@ -22,10 +22,10 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
  The short answer is password entropy. That term sounds way more complicated than it really is unless you’re familiar with cryptography, so let’s take a look at what password entropy is.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What's Password Entropy?
@@ -36,15 +36,22 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
 
 ![A phone receiving a 2FA code.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/shutterstock_2373964067.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [ronstik](https://www.shutterstock.com/g/ronstik "ronstik") / Shutterstock.com
 
  The best way to attack a password is through a [dictionary attack](https://extra-skills.techidaily.com/2024-approved-smartest-ways-to-track-wedding-dates-ios-and-android-style/), which is a program that will try to “guess” a password by going through common words and phrases. It’s almost literally throwing the book at your password, going through the entire dictionary and also common variations. Once the password is guessed, the attacker has access.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Brute Force and Randomness
@@ -56,10 +63,10 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
  However, this doesn’t work as it’s not random. Attackers can easily account for a change like this, and it will take them maybe a nanosecond longer to gain access to an account. For something to be closer to truly random, you have to take humans out of the equation entirely and use a computer to create a random password. The [best password managers](https://facebook-video-content.techidaily.com/updated-how-to-create-facebook-video-ads-with-free-video-creation-kit-for-2024/), programs that create and store passwords for you, have this functionality built in.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How Entropy Affects Password Length
@@ -72,13 +79,6 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
 * Use of numbers
 
  All of these are important, but length plays a special role, one we need some math to explain.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  How to Calculate Password Entropy
 
@@ -118,20 +118,20 @@ E = log2(RL)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-enhancing-viewing-experience-mastering-netflixs-floating-window-feature/"><u>[New] Enhancing Viewing Experience Mastering Netflix's Floating Window Feature</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-thankful-discoveries-unlimited-outro-options/"><u>[New] Thankful Discoveries Unlimited Outro Options</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-10-intro-maker-for-panzoid/"><u>[New] Top 10 Intro Maker for Panzoid</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transform-video-editing-with-kinemaster-know-how-and-premier-online-counterparts/"><u>[New] Transform Video Editing with KineMaster Know-How & Premier Online Counterparts</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-complete-catalog-of-livestreaming-cameras-review/"><u>[Updated] The Complete Catalog of Livestreaming Cameras Review</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-secure-and-detailed-best-ways-to-document-fb-call-footage/"><u>2024 Approved Secure & Detailed Best Ways to Document FB Call Footage</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-creme-de-la-creme-live-streaming-services/"><u>2024 Approved The Crème De La Créme Live Streaming Services</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-smartphone-vr-gadgets-uncovered/"><u>2024 Approved Top 10 Smartphone VR Gadgets Uncovered</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-samsung-galaxy-m54-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Samsung Galaxy M54 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-create-and-share-the-funniest-memes/"><u>In 2024, Create and Share the Funniest Memes</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-pick-hilarious-tone-downloads-online/"><u>In 2024, Top Pick Hilarious Tone Downloads Online</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-pics-high-quality-no-cost/"><u>In 2024, Transform Your Pics - High Quality, No Cost</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-reducing-your-csgo-lag-time/"><u>Step-by-Step Solutions for Reducing Your CS:GO Lag Time</u></a></li>
-<li><a href="https://win11.techidaily.com/tailoring-your-windows-11-interface-for-maximum-comfort/"><u>Tailoring Your Windows 11 Interface for Maximum Comfort</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-win10-users-rejoice-fixing-your-invisible-mouse-cursor-issue-today/"><u>Windows ([Win|10]) Users Rejoice! Fixing Your Invisible Mouse Cursor Issue Today!</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-yt-favorites-top-10-music-videos-and-their-reactions/"><u>[Updated] In 2024, YT Favorites Top 10 Music Videos & Their Reactions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-mastering-oculus-the-premium-vr-gaming-headset/"><u>[Updated] Mastering Oculus The Premium VR Gaming Headset</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-understanding-quantum-hdrs-impact-on-photography/"><u>[Updated] Understanding Quantum HDR's Impact on Photography</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-superior-vr-equipment-for-drone-flight/"><u>2024 Approved Superior VR Equipment for Drone Flight</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-techniques-for-turning-youtube-hosted-tweets-into-audio-files/"><u>2024 Approved Techniques for Turning YouTube-Hosted Tweets Into Audio Files</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unmatched-clarity-in-filming-top-rated-camera-stabilizers-guide/"><u>2024 Approved Unmatched Clarity in Filming Top-Rated Camera Stabilizers Guide</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixing-hp-print-misstep-code-oxc4eb827f/"><u>Fixing HP Print Misstep: Code OXC4EB827F</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-oppo-f25-pro-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Oppo F25 Pro 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722972903579-hp-photosmart-c7520-printer-software-setup-get-your-free-drivers-here/"><u>HP Photosmart C7520 Printer Software Setup – Get Your Free Drivers Here!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-economics-of-youtube-marketing-strategies/"><u>In 2024, The Economics of YouTube Marketing Strategies</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Xiaomi Redmi K70? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/save-verbatim-audio-review-notes-for-2024/"><u>Save Verbatim Audio, Review Notes for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/step-by-step-guide-to-crafting-your-own-insta-tones/"><u>Step-By-Step Guide to Crafting Your Own Insta Tones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-ranked-cloud-stores-analysis-and-pricing-insights-for-2024/"><u>Top-Ranked Cloud Stores Analysis & Pricing Insights for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-rated-computers-in-depth-comparison-of-brands-like-apple-and-dell-insights-from-zdnet/"><u>Top-Rated Computers : In-Depth Comparison of Brands Like Apple & Dell - Insights From ZDNet</u></a></li>
 </ul></div>
 

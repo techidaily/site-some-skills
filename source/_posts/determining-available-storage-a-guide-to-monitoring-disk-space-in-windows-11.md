@@ -1,7 +1,7 @@
 ---
 title: "Determining Available Storage: A Guide to Monitoring Disk Space in Windows 11"
-date: 2024-10-18T16:22:04.226Z
-updated: 2024-10-21T18:09:47.580Z
+date: 2024-10-22T18:47:57.603Z
+updated: 2024-10-27T20:18:59.565Z
 tags:
   - deals
 categories:
@@ -16,13 +16,6 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 * [Check Your Free Space Using File Explorer](https://visual-screen-recording.techidaily.com/in-2024-google-chats-mastery-key-elements-4-ways/)
 * [Check Free Space in the Settings App](https://solve-manuals.techidaily.com/idpidp-revolutionary-victories-in-investment-decision-processes/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Use File Explorer to check your free disk space by opening it and clicking on "This PC" to see the amount of free disk space.
@@ -36,31 +29,25 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 
 ![Click the File Explorer icon on the taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-6.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click "This PC" in the left column. Under "Devices and Drives," you'll see your main system volume (C:) and any other drives in the computer. Windows shows the amount of free disk space on the drive directly below the drive's name.
 
 ![Click 'This PC' on the left, then note the free storage in your PC.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-6.png) 
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In general, [Windows needs at least a few gigabytes of free storage space to perform optimally](https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-oneplus-12-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/). For example, it [uses this to cache important programs and virtual memory to disk](https://extra-tips.techidaily.com/updated-cinematic-masterpiece-dialogues/), which speeds up the operation of Windows.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Check Free Space in the Settings App
 
@@ -69,16 +56,10 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 ![Search for 'storage,' then click 'Storage Settings.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-storage-settings.png) 
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Scroll down a bit in the Storage window and click "View Storage on Other Drives" under More Storage Settings. 
@@ -88,6 +69,13 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
  You'll see a list of every storage device attached to your PC—internal and external. 
 
 ![The storage drives on the example PC.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/5-storage-drives.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you're running low on space, consider [freeing up storage](https://youtube-clips.techidaily.com/culinary-carousel-swirling-up-top-food-network-names-for-2024/) by [uninstalling programs you no longer use](https://some-approaches.techidaily.com/swift-closure-of-a-linkedin-account-the-how-to-guide-for-2024/). Also, Windows 10 includes a handy "Free Up Space" tool that [helps you clean up your hard drive](https://vp-tips.techidaily.com/launch-free-dvd-playback-capabilities-on-windowsmac-laptops/).
 
@@ -106,22 +94,18 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-appreciation-showcase-easy-access-to-otus/"><u>[New] 2024 Approved Appreciation Showcase Easy Access to OTUs</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-how-to-add-videos-in-instagram-story/"><u>[New] 2024 Approved How to Add Videos in Instagram Story</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-mastered-collection-of-excellent-8-free-4k-software/"><u>[New] In 2024, Mastered Collection of Excellent 8 Free 4K Software</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-utilizing-multiframe-view-an-in-depth-look-at-edges-pip/"><u>[New] Utilizing Multiframe View An In-Depth Look at Edge’s PIP</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-instagram-success-starts-here-discovering-top-tracking-and-analysis-apps/"><u>[Updated] 2024 Approved Instagram Success Starts Here Discovering Top Tracking and Analysis Apps</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-stunning-appraisal-and-alternative-suggestions/"><u>[Updated] Stunning Appraisal & Alternative Suggestions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-tricks-to-control-music-paceplay-in-spotify/"><u>[Updated] Top Tricks to Control Music Paceplay in Spotify</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-tiktok-edits-mastering-your-cut-lists/"><u>2024 Approved Top TikTok Edits Mastering Your Cut Lists</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-unwind-with-these-top-15-anime-web-vids/"><u>2024 Approved Unwind with These Top 15 Anime Web Vids</u></a></li>
-<li><a href="https://solve-news.techidaily.com/gif-jpeg-movavi/"><u>網路直接自由改編 GIF到 JPEG - 使用Movavi進行格式變更</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-ideas-into-videos-with-the-power-of-movie-maker-windows-11-edition/"><u>In 2024, Transform Your Ideas Into Videos with the Power of Movie Maker, Windows 11 Edition</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-rotation-video-setup/"><u>In 2024, Ultimate Rotation Video Setup</u></a></li>
-<li><a href="https://win-dash.techidaily.com/mastering-format-changes-seamless-transformation-of-video-and-audio-files/"><u>Mastering Format Changes: Seamless Transformation of Video and Audio Files</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-common-windows-resolution-glitches/"><u>Overcoming Common Windows Resolution Glitches</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/the-screen-readers-digest-recorder-evaluation-for-2024/"><u>The Screen Reader's Digest Recorder Evaluation for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-camera-mastery-films-best-practices-unveiled-for-2024/"><u>Top Camera Mastery Film's Best Practices Unveiled for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-camouflaged-commentary-on-yt-content-for-2024/"><u>Unveiling Camouflaged Commentary on YT Content for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-kinetic-mastery-in-your-pocket-a-2023-review-of-kinemaster-on-android/"><u>[New] Kinetic Mastery in Your Pocket A 2023 Review of KineMaster on Android</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamline-your-creative-process-with-instagrams-photography-tips/"><u>[Updated] Streamline Your Creative Process with Instagram's Photography Tips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-timeless-stop-motion-gems-in-the-top-15/"><u>[Updated] Timeless Stop-Motion Gems in the Top 15</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-crafting-conversational-magic-how-to-write-podcast-scripts/"><u>2024 Approved Crafting Conversational Magic How to Write Podcast Scripts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-therapeutic-effects-of-asmr-for-everyone/"><u>2024 Approved The Therapeutic Effects of ASMR for Everyone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-8-3d-websites-with-stunning-gold-text-visuals/"><u>2024 Approved Top 8 3D Websites with Stunning Gold Text Visuals</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-camouflaged-commentary-on-yt-content/"><u>2024 Approved Unveiling Camouflaged Commentary on YT Content</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1726227414785-mp3aac-movavi/"><u>網路直接無限制地將MP3格式改為AAC - 使用Movavi音頻轉換器</u></a></li>
+<li><a href="https://games-able.techidaily.com/beat-backgame-cost-spike-short-term-savings-hacks/"><u>Beat Backgame Cost Spike - Short-Term Savings Hacks</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-huawei-p60-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-nokia-c02-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Nokia C02</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-websites-for-rhythmic-alerts-unique-sounds/"><u>In 2024, Top Websites for Rhythmic Alerts Unique Sounds</u></a></li>
+<li><a href="https://games-able.techidaily.com/macs-fortnite-adventure-be-aware-of-hidden-restrictions/"><u>Mac's Fortnite Adventure? Be Aware of Hidden Restrictions</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Bridging Operating Systems: A Comprehensive Guide to Using Ubuntu Software on Your Windows 11 Machine"
-date: 2024-10-20T19:32:08.412Z
-updated: 2024-10-21T16:59:24.362Z
+date: 2024-10-21T17:59:30.655Z
+updated: 2024-10-27T20:11:36.976Z
 tags:
   - deals
 categories:
@@ -17,6 +17,13 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 * Enable Windows Subsystem for Linux, then download and install Ubuntu for WSL via Microsoft Store to run Linux apps on Windows 11.
 
  Did you know using Ubuntu-exclusive apps doesn't require overwriting your operating system? Unlock the true potential of your Windows desktop by using Ubuntu apps on Windows 11, enhancing your PC experience by blending the power of Linux and Windows.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Why Use Ubuntu Apps on Windows 11?
 
@@ -34,13 +41,6 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 
  Lastly, ensure you have Administrator rights on your Windows 11 system. Using WSL requires modifying Windows features, and it won't work if you don't have Administrator privileges.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Enabling Windows Subsystem for Linux (WSL)
 
  Windows Subsystem for Linux is not enabled by default on Windows 11\. You'll need to activate this feature on Windows before you can use it to run Ubuntu apps on your Windows PC.
@@ -50,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
  Inside the "Windows Features" window, scroll down and locate "Windows Subsystem for Linux." After finding it, click on the empty box next to it to activate this feature. Select "OK" after making your selection.
 
 ![WSL feature being turned on in Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/flameshot-wsl-check-box.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now that the "OK" button has been selected, Windows 11 will begin setting up WSL on your system. This setup process should take a few minutes to complete. When the setup is complete, you must reboot your Windows PC. Select the "Restart now" button to reboot.
 
@@ -65,13 +72,6 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 
 ![The user is searching for Ubuntu WSL 22.04.3 LTS in the Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-ubuntu-22.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After selecting "Ubuntu 22.04.3 LTS," you will be directed to its feature page in the Microsoft Store. Locate the "Get" button and click on it. Selecting the "Get" button will initiate the Ubuntu download for Windows 11.
 
  Downloading Ubuntu 22.04.3 LTS on Windows 11 should be swift, given the program's size is only about 560 MB. Once the download is complete, Ubuntu will be accessible in the Windows Start Menu.
@@ -81,10 +81,10 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 ![Ubuntu WSL is installing itself to Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-ubuntu-is-installing.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once Ubuntu has finished its setup on Windows 11, you will see an empty terminal window, ready for you to interact with Ubuntu on your Windows 11 system.
@@ -92,6 +92,13 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 ##  Basic Configuration Tips
 
  Here are some basic configuration tips to improve the WSL experience on Windows 11.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Windows and Linux File System Integration
 
@@ -122,17 +129,16 @@ sudo apt upgrade
 ![Ubuntu WSL is being updated.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-installing-kdenlive.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Starting and Using Ubuntu
@@ -158,10 +164,10 @@ nohup program_name & disown
  Alternatively, applications can be started from the Windows 11 start menu.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Integration with Windows 11
@@ -197,17 +203,24 @@ wsl --update
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-yis-actioncam-the-innovation-leader-in-high-res-footage/"><u>[New] 2024 Approved Yi's ActionCam The Innovation Leader in High-Res Footage</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-peak-resolution-unbroken-immersion/"><u>[New] Peak Resolution Unbroken Immersion</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-the-essentials-of-uploading-and-broadcasting-old-footage-on-fb/"><u>[Updated] 2024 Approved The Essentials of Uploading and Broadcasting Old Footage on FB</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-crafting-your-virtual-identity-essential-tech-you-need-top-7/"><u>[Updated] Crafting Your Virtual Identity - Essential Tech You Need (Top 7)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-narrative-nexus-honor-roll-hindsight/"><u>[Updated] Narrative Nexus – Honor Roll Hindsight</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-changes-in-sony-bdp-s670/"><u>[Updated] Unveiling Changes in Sony BDP-S670</u></a></li>
-<li><a href="https://games-able.techidaily.com/boosting-your-game-experience-playing-on-an-external-storage-device-via-steam/"><u>Boosting Your Game Experience: Playing on an External Storage Device via Steam</u></a></li>
-<li><a href="https://techtrends.techidaily.com/decoding-502-http-errors-identification-and-remediation-techniques-for-webmasters/"><u>Decoding 502 HTTP Errors: Identification & Remediation Techniques for Webmasters</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/multilingualism-in-middle-age-the-cognitive-and-social-benefits-that-make-it-worthwhile/"><u>Multilingualism in Middle Age: The Cognitive and Social Benefits That Make It Worthwhile</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/my-top-picks-4-best-free-cad-program-options-available/"><u>My Top Picks: 4 Best Free CAD Program Options Available</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-pathway-to-visual-storytelling-through-gifs-for-2024/"><u>The Pathway to Visual Storytelling Through GIFs for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1726026676944-windowsmac/"><u>WindowsとMacのノートパソコンで簡単に音声を記録するテクニック</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-quick-route-to-true-profile-ages-on-tiktok/"><u>[New] The Quick Route to True Profile Ages on TikTok</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-this-video-will-get-you-100000-views-on-youtube/"><u>[New] This Video Will Get You 100000 Views on YouTube</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-dissecting-vidma-a-guide-to-screen-capturing-tech/"><u>[Updated] Dissecting Vidma A Guide to Screen Capturing Tech</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-techniques-for-downloading-converting-and-saving-vids-on-twitter-as-mp3s/"><u>[Updated] Techniques for Downloading, Converting, and Saving Vids on Twitter as MP3s</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-screencast-lifeline-crucial-knowledge-for-success/"><u>[Updated] The Screencast Lifeline Crucial Knowledge for Success</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-5-mobile-photo-editing-iphone-x87-background-switch/"><u>[Updated] Ultimate 5 Mobile Photo Editing IPhone X/8/7 Background Switch</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-capturing-itunes-media-three-recording-techniques/"><u>2024 Approved Capturing iTunes Media Three Recording Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-perfect-gopro-4k-cinematography-through-editing/"><u>2024 Approved Perfect GoPro 4K Cinematography Through Editing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-strategies-for-finding-and-using-a-lost-iphone-x/"><u>2024 Approved Top Strategies for Finding & Using a Lost iPhone X</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-portable-video-player-mkv-format/"><u>2024 Approved Ultimate Portable Video Player (MKV Format)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-video-brilliance-through-advanced-chroma-techniques-11-steps/"><u>2024 Approved Unlock Video Brilliance Through Advanced Chroma Techniques (11 Steps)</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/be-the-best-lifeguard-at-your-friends-tiktok-shores-for-2024/"><u>Be the Best Lifeguard at Your Friends’ TikTok Shores for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-your-channels-moniker-youtube-naming-tools-and-tips/"><u>Craft Your Channel's Moniker YouTube Naming Tools and Tips</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-geforce-rtx-drivers-now-compatible-with-windows-xp-to-10/"><u>Download GeForce RTX Drivers Now: Compatible With Windows XP to 10!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/downloading-and-setting-up-your-epson-xp-2n5-driver-on-windows-os-versions/"><u>Downloading and Setting Up Your Epson XP-2n5 Driver on Windows OS Versions</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-from-iphone-14-by-drfone-ios/"><u>How to Bypass iCloud Lock from iPhone 14</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-the-world-of-laughter-how-to-create-memes-on-9gag/"><u>In 2024, Navigating the World of Laughter How to Create Memes on 9GAG</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleash-the-full-spectrum-of-sound-best-apps-for-music-videos/"><u>In 2024, Unleash the Full Spectrum of Sound Best Apps for Music Videos</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-samsung-galaxy-f34-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Samsung Galaxy F34 5G Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
 

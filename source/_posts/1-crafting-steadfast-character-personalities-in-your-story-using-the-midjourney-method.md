@@ -1,7 +1,7 @@
 ---
 title: 1. Crafting Steadfast Character Personalities in Your Story Using the MidJourney Method
-date: 2024-10-02T18:02:45.796Z
-updated: 2024-10-04T17:45:48.521Z
+date: 2024-10-25T23:24:36.280Z
+updated: 2024-10-27T23:38:43.584Z
 tags:
   - cutting-edge
 categories:
@@ -19,18 +19,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  One of the worst limitations of using Midjourney and other AI image generators is the lack of repeatability. However, it's now possible to create a character and then repeatedly use that character in subsequent images. While it's not perfect yet, it's a powerful creative feature in the right hands.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  What Is a Consistent Character?
 
  In [Midjourney](https://buynow-tips.techidaily.com/review-of-audews-portable-air-compressor-unmatched-portability-and-dependability/) terms, a consistent character is a humanoid subject in an existing image that the AI can extract and recreate in a new image. So, for example, if you've created a character, or there's a character in an image that you like, you can tell Midjourney to extract it and reuse it.
 
  It's important to understand that Midjourney is basically using AI image recognition methods on the image that you provide. So, in other words, it's not like it's cutting and pasting the character, but rather it's converting it to a sophisticated set of attributes that make up that character. This means that, in many cases, the extracted character won't look exactly like the source, but we'll get to how you can mitigate that in just a minute. First, let's look at "cref" or "character reference", the command that makes all of this possible.
+
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Use the "cref" Command
 
@@ -47,11 +53,25 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Saving an image link from the Discord bot interface.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/saving-an-image-link-from-the-discord-bot-interface.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you're using the new [Midjourney Alpha web interface](https://vp-tips.techidaily.com/new-2024-approved-heaviest-lifting-uavs-the-definitive-top-10/), simply click the little picture icon to the left of the prompt bar. Then upload the image of your choice. Once you have it uploaded, right-click on it and copy the link. Then you can use the --cref command as you do in Discord.
 
 ![Saving an image link in the Midjourney web interface.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-30-at-14-10-50.png) 
 
  That's really all there is to it, so next let's run through it step-by-step.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Let’s Make a Character Step-by-Step
 
@@ -63,23 +83,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Examples of an anime elf generated by Midjourney.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/examples-of-an-anime-elf-generated-by-midjourney.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next, I pick the one I like the most using the upscale buttons. In this case, I clicked "U1" to upscale the upper-left image.
 
 ![Anime elf image final upscale in Midjourney](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-30-at-14-13-03.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now I copy the image address as described above in the previous section. Then I use this prompt with the full address pasted at the end.
 
@@ -91,10 +97,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![New characters based on an existing character using the CREF command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/new-characters-based-on-an-existing-character-using-the-cref-command.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Tips and Tricks
@@ -122,18 +128,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-will-televising-facebook-vids-become-a-trend/"><u>[New] 2024 Approved Will Televising Facebook Vids Become a Trend ?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-synthesizing-clarity-a-complete-voice-note-taking-course/"><u>[New] Synthesizing Clarity A Complete Voice Note-Taking Course</u></a></li>
-<li><a href="https://some-skills.techidaily.com/15-types-of-camera-shots-in-film-beginners-need-to-know-for-2024/"><u>15 Types of Camera Shots in Film Beginners Need to Know for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-pixelated-past-x-era-selfies-with-iphone-x/"><u>2024 Approved Pixelated Past X-Era Selfies with iPhone X</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-gaming-experience-samsung-ue590-freesync-screen/"><u>2024 Approved Ultimate Gaming Experience Samsung UE590 FreeSync Screen</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-srt-potential-mac-edition-tutorial/"><u>2024 Approved Unlocking SRT Potential Mac Edition Tutorial</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Infinix Zero 30 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/best-splashproof-cameras-for-child-filmmakers-in-rainy-days-for-2024/"><u>Best Splashproof Cameras For Child Filmmakers in Rainy Days for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/blissful-family-nights-the-top-10-classics-for-summertime-for-2024/"><u>Blissful Family Nights The Top 10 Classics for Summertime for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-remedying-devastating-discord-browser-error-on-win-based-systems/"><u>Guide to Remedying Devastating Discord Browser Error on Win-Based Systems</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-techniques-for-youtube-mp4-creation/"><u>In 2024, Ultimate Techniques for YouTube MP4 Creation</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/-steps-to-quality-content-via-studio-editor/"><u>Quick Steps to Quality Content via Studio Editor</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/social-trends-in-visual-forms-23-edition-for-2024/"><u>Social Trends in Visual Forms, '23 Edition for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-savory-streams-the-best-food-channels-to-watch/"><u>[New] In 2024, Savory Streams The Best Food Channels to Watch</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-navigating-the-digital-landscape-without-interrupted-ads/"><u>[New] Navigating the Digital Landscape Without Interrupted Ads</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-holding-attention-6-video-classifications/"><u>[New] The Art of Holding Attention 6 Video Classifications</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tranquil-acoustic-settings-on-computers/"><u>[New] Tranquil Acoustic Settings on Computers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-understanding-aspect-ratio-regulations-on-twitter-for-2024/"><u>[Updated] Understanding Aspect Ratio Regulations on Twitter for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-using-luts-in-spark-ar-and-download-free-luts/"><u>[Updated] Using LUTs in Spark AR & Download Free LUTs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-bite-sized-narrative-notation/"><u>2024 Approved Bite-Sized Narrative Notation</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-elevate-snapchat-snaps-with-customizable-user-voices/"><u>2024 Approved Elevate Snapchat Snaps with Customizable User Voices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-samsungs-picture-editor-features-and-drawbacks/"><u>2024 Approved Unveiling Samsung's Picture Editor Features & Drawbacks</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/digital-diary-a-complete-2023-collection-of-twit-threads/"><u>Digital Diary A Complete 2023 Collection of Twit-Threads</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-windows-sandbox-no-hypervisor-was-found-0xc0351000-error/"><u>How to Fix the Windows Sandbox No Hypervisor Was Found 0XC0351000 Error</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-k11x-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Oppo K11x Location by Number | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-speech-to-script-top-apps-for-on-the-go-text-generation/"><u>In 2024, Speech to Script Top Apps for On-the-Go Text Generation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-most-reliable-and-affordable-passport-photo-makers-ranked/"><u>In 2024, The Most Reliable and Affordable Passport Photo Makers Ranked</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-secrets-to-buying-todays-best-360-cameras/"><u>In 2024, Unveiling the Secrets to Buying Today's Best 360 Cameras</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/innovations-in-youtube-video-editing-software-reviewed-for-2024/"><u>Innovations in YouTube Video Editing Software Reviewed for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-key-elements-in-achieving-proficient-interview-performance-for-2024/"><u>The Key Elements in Achieving Proficient Interview Performance for 2024</u></a></li>
 </ul></div>
 
