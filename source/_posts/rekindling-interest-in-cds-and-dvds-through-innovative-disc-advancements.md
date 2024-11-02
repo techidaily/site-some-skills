@@ -1,7 +1,7 @@
 ---
 title: Rekindling Interest in CDs and DVDs Through Innovative Disc Advancements
-date: 2024-09-28T20:08:32.432Z
-updated: 2024-10-04T21:00:41.841Z
+date: 2024-10-30T18:34:39.255Z
+updated: 2024-11-02T17:36:20.996Z
 tags:
   - cutting-edge
 categories:
@@ -20,16 +20,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  In the 90s, every sci-fi movie that featured data storage invariably had some far-future version of a CD in it. It may have been in a caddy, or have a weird holographic sheen, but everyone thought optical discs were the future. Today, that doesn't seem likely, but continuing research into optical storage might prove those movies right after all.
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Is "Optical" Storage?
@@ -37,6 +31,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  It pains me to write this, but there are probably some of you reading this who only have vague contact with optical media. While you can still readily get Blu-ray, DVD, and CD media, many people have grown up in a digital download and streaming age, with little need to ever touch a disc. Which means, there's a good chance you don't actually know how it works. Everyone else can just skip to the next section, but here goes:
 
  Optical media use light to store and read data. An optical disc has microscopic pits and lands that either reflect or diffuse light. When you shine a laser beam at these discs and measure the light that comes back, you get a series of ones and zeros. All you need to store digital data. While optical discs are "pressed" in a factory, home-made discs use a laser to create these pits and lands by altering the chemistry in a special dye layer within the disc.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Why Is Optical Storage in Decline?
 
@@ -47,22 +48,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Modern PCs and Macs don't come with optical drives anymore, and it seems that gaming consoles are moving in this direction as well, with disc drives becoming optional, and major stores [phasing out physical media](https://gamerant.com/big-retailer-stop-selling-physical-games/). As a [physical media collector](https://windows11.techidaily.com/how-to-customize-sound-levels-with-dedicated-win11-keys/) it almost hurts to write this, but it does look like the writing is on the wall for optical media. However, the technology is far from a dead end, and a breakthrough in optical storage might bring back the optical disc yet!
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Say Hello to the Petabit Disc!
 
 ![Petabit disc diagram](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-19-at-15-35-51.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Miao Zhao, Jing Wen, Qiao Hu, Xunbin Wei, Yu-Wu Zhong, Hao Ruan & Min Gu 
 
@@ -73,10 +73,10 @@ Miao Zhao, Jing Wen, Qiao Hu, Xunbin Wei, Yu-Wu Zhong, Hao Ruan & Min Gu
  These discs have been designed for use in data centers and requires expensive and complex femtosecond lasers. Multiple lasers are needed to activate and deactivate the recording layers, so it's hardly a disc drive that will fit in your laptop bag, but it does show how much potential there still is in optical storage. In data centers, these discs promise safe, long-term storage of data that doesn't need to be accessed constantly, but should be in an accessible archive. The paper suggests these nanoscale discs can be stacked to create "exabit-level storage" which could be a huge deal given [how fragile the internet can be](https://some-techniques.techidaily.com/new-high-quality-hd-videos-at-a-tap-top-10-android-choices/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Does This Mean for Us?
@@ -102,19 +102,24 @@ Miao Zhao, Jing Wen, Qiao Hu, Xunbin Wei, Yu-Wu Zhong, Hao Ruan & Min Gu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-streamline-your-content-upload-instagram-videos-from-desktop/"><u>[New] Streamline Your Content Upload Instagram Videos From Desktop</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-streamlining-video-playback-with-safaris-pip/"><u>[New] Streamlining Video Playback with Safari's PIP</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-streamlining-video-quality-on-youtube-top-formats-revealed-for-2024/"><u>[Updated] Streamlining Video Quality on YouTube – Top Formats Revealed for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-superlative-soundstages-written-by-pros/"><u>[Updated] Superlative Soundstages Written by Pros</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-best-top-5-zero-cost-windows-screen-recorder-tools/"><u>In 2024, Best Top 5 Zero-Cost Windows Screen Recorder Tools</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-iphone-8-plus-could-not-be-activatedreached-issue-by-drfone-ios/"><u>In 2024, How To Fix iPhone 8 Plus Could Not Be Activated/Reached Issue</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-mastering-image-quality-a-guide-without-watermarks/"><u>In 2024, Mastering Image Quality A Guide Without Watermarks</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-maximize-your-tiktok-pro-editors-playbook/"><u>In 2024, Maximize Your TikTok Pro Editor's Playbook</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-pinnacle-of-artistry-highlighting-top-6-nft-creators/"><u>In 2024, The Pinnacle of Artistry Highlighting Top 6 NFT Creators</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-understanding-pewdiepies-annual-net-worth/"><u>In 2024, Understanding PewDiePie's Annual Net Worth</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unrivaled-screenplays-reflective-of-diverse-themes/"><u>In 2024, Unrivaled Screenplays Reflective of Diverse Themes</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/learn-latvian-super-fast-a-daily-dedication/"><u>Learn Latvian Super Fast: A Daily Dedication</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-evaluation-of-asuss-hdr-and-true-black-precision-for-2024/"><u>The Ultimate Evaluation of ASUS's HDR & True Black Precision for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/top-7-methods-for-organizing-information-with-excel-a-comprehensive-guide/"><u>Top 7 Methods for Organizing Information with Excel: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transform-into-a-metaverse-virtuoso-essential-tools-list/"><u>[New] Transform Into a Metaverse Virtuoso - Essential Tools List</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-webcams-for-enhanced-podcast-production/"><u>[New] Ultimate Webcams for Enhanced Podcast Production</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-premium-startings-top-16-youtube-videos-that-thrive-in-popularity/"><u>[Updated] Premium Startings Top 16 YouTube Videos That Thrive in Popularity</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-best-tools-for-road-tripping-films/"><u>[Updated] The Best Tools for Road Tripping Films</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-full-guide-to-perfecting-photos-with-facetune/"><u>[Updated] The Full Guide to Perfecting Photos with Facetune</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-total-360-giroptic-vr-capture-examination/"><u>[Updated] Total 360 Giroptic VR Capture Examination</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-explore-and-enjoy-virtual-reality-cinema-on-your-ipad/"><u>2024 Approved Explore and Enjoy Virtual Reality Cinema on Your iPad</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamlined-online-gif-conversion-for-videos-top-5/"><u>2024 Approved Streamlined Online GIF Conversion for Videos (Top 5)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-techniques-to-zoom-into-online-engagements-intelligently/"><u>2024 Approved Techniques to Zoom Into Online Engagements Intelligently</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725287300747-dvd/"><u>完全なDVD捨て方と注意事項：環境に配慮した処分手段</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discovering-the-extended-display-size-an-in-depth-review-of-barnes-and-nobles-newest-nook-ereader/"><u>Discovering the Extended Display Size: An In-Depth Review of Barnes & Noble's Newest Nook eReader</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-introduction-to-basic-animation-in-graphic-design/"><u>In 2024, Introduction to Basic Animation in Graphic Design</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-step-by-step-guide-to-creating-breathtaking-tile-art/"><u>In 2024, Step-by-Step Guide to Creating Breathtaking Tile Art</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-samsung-galaxy-s24-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Samsung Galaxy S24 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-market-with-tom-a-deep-dive-into-reliable-hardware-choices/"><u>Mastering the Market with Tom - A Deep Dive Into Reliable Hardware Choices</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-100-working-methods-to-learn-how-to-rotate-tiktok-video/"><u>New 100 Working Methods to Learn How to Rotate TikTok Video</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-path-to-smooth-transitions-in-inshot-editing-for-2024/"><u>The Path to Smooth Transitions in Inshot Editing for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-pinnacle-of-macro-photography-and-cinematography-for-2024/"><u>The Pinnacle of Macro Photography and Cinematography for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ultimate-review-of-tp-link-re305-ac1200-range-extender-simplifying-wireless-signal-strength/"><u>Ultimate Review of TP-Link RE305 AC1200 Range Extender: Simplifying Wireless Signal Strength</u></a></li>
 </ul></div>
 

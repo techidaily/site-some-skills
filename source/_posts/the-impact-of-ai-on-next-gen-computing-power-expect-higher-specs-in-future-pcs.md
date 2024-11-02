@@ -1,7 +1,7 @@
 ---
 title: "The Impact of AI on Next-Gen Computing Power: Expect Higher Specs in Future PCs"
-date: 2024-09-23T21:59:26.922Z
-updated: 2024-09-29T03:01:15.241Z
+date: 2024-10-28T17:19:00.055Z
+updated: 2024-11-02T16:03:21.326Z
 tags:
   - cutting-edge
 categories:
@@ -20,10 +20,16 @@ thumbnail: https://thmb.techidaily.com/0cc5faa4648feed06dc36c6c4e0b5955761ab929b
  The age of the "AI PC" is upon us, and you'll soon have the option to run some AI features locally without an internet connection even on relatively modest systems. However, what you may not realize is that despite having AI accelerators, these computers will still need a heap of memory and storage just to offer local AI features.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  AI PCs Have the Power for Local Processing
@@ -37,10 +43,10 @@ Microsoft
  There are many reasons to want local AI features. It's fast, you're not competing for resources with other users, and you don't have to pay beyond the cost of the hardware. Giving your laptop the smarts of something on the same continuum as ChatGPT and its contemporaries is definitely exciting!
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Even “Small” LLMs Are Huge
@@ -48,13 +54,6 @@ Microsoft
  The thing is, these AI "models" are pretty large. The smallest and most efficient LLMs (Large Language Models) might need 1-3GB of memory, while not being all that smart. As the model gains parameters and becomes more capable, it needs more room. The super-smart LLMs that you access via the web might range in the hundreds of Gigabytes of RAM when it comes to their model sizes. With hundreds of billions, or even more than a trillion parameters in some cases, these AI models are not for scrappy little laptops to run!
 
  Then we have LLMs small enough to run on a smartphone, such as [phi-3-mini](https://techmonitor.ai/technology/ai-and-automation/microsoft-phi-3-mini) which clocks in at 2.4GB. That's more in line with what's actually going to be running on these AI laptops, though probably not quite as anemic!
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Models Have to Live in RAM
 
@@ -70,24 +69,37 @@ AI chip hologram with circuits around
 
  To be sure, these new PCs all have ultra-fast SSDs that can swap data in and out of RAM quickly, but apart from the additional wear and tear that puts on your SSD, it's still just not fast enough for everything to run smoothly, and don't forget you still want to run all of your other apps at the same time! If your PC had to dump your browser and other apps from RAM to disk every time you wanted the AI to do something, it wouldn't be a great experience.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  16GB Is the Absolute Minimum
 
  While 8GB of RAM is still perfectly fine for a modern office desktop or laptop used for general productivity and media consumption, Windows computers with AI features simply would not get by with that little space. Which is why Microsoft has made 16GB of RAM the [absolute minimum for Copilot PCs](https://www.techpowerup.com/317978/microsoft-sets-16-gb-ram-as-minimum-requirement-for-copilot-and-windows-ai-features).
 
  While that's a healthy amount for a normal non-AI PC, I have a feeling that for PCs running local AI assistants in the background all the time, this will be more like an 8GB PC plus AI, unless you disable the AI part of the equation.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Some AI PCs Won’t Have Upgradable RAM
 
  If your new AI Windows PC uses an integrated system-on-a-chip or has its RAM soldered permanently, as is the case with many thin and light laptops, then you're going to be stuck with whatever amount of RAM the system came with. Which means you need to get the amount of RAM you need right at the start, or you'll end up needing a whole new computer if it turns out you've done your sums wrong.
 
  Some time ago, I looked at whether [32GB of RAM](https://extra-hints.techidaily.com/elevate-your-craft-canvas-hidden-design-secrets/) was not the amount to aim for, and my conclusion was that this amount of memory was still overkill for average users. However, with future AI model sizes in mind, I think 32GB should be what anyone who cares about these AI features must aim for.
+
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  If You Care About AI, Get More Memory
 
@@ -110,22 +122,15 @@ AI chip hologram with circuits around
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-top-places-for-discovering-premium-soundtracks-from-instagram-and-designing-exceptional-ringtone-alerts/"><u>[New] Top Places for Discovering Premium Soundtracks From Instagram & Designing Exceptional Ringtone Alerts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transformative-tech-review-magix-vpx-redefines-editing/"><u>[New] Transformative Tech Review Magix VPX Redefines Editing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-collection-top-free-ae-template-packs/"><u>[New] Ultimate Collection Top Free AE Template Packs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-uncover-5-powerful-speech-recognition-tools-for-your-mac/"><u>[New] Uncover 5 Powerful Speech Recognition Tools for Your Mac</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-when-should-you-share-your-insta-story-for-2024/"><u>[New] When Should You Share Your Insta Story for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2023-how-to-check-tiktok-video-copyright-before-uploading-for-2024/"><u>[Updated] 2023 | How to Check Tiktok Video Copyright Before Uploading for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-from-couch-to-chart-topper-skyrocketing-your-channels-views/"><u>[Updated] From Couch to Chart-Topper Skyrocketing Your Channel's Views</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-sparkling-access-methods-for-new-users/"><u>[Updated] Sparkling Access Methods for New Users</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-complete-roadmap-to-feeding-your-youtube-plays-with-content/"><u>[Updated] The Complete Roadmap to Feeding Your YouTube Plays with Content</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-freely-flowing-world-of-historical-works/"><u>2024 Approved The Freely Flowing World of Historical Works</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-social-media-stardom-essential-strategies-for-instagram-fame/"><u>2024 Approved Unlocking Social Media Stardom Essential Strategies for Instagram Fame</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ces-202ns-ultimate-television-guide-expert-picks-and-reviews-by-zdnet/"><u>CES 202N's Ultimate Television Guide: Expert Picks & Reviews by ZDNET</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-install-the-latest-ios-beta-version-on-iphone-xr-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on iPhone XR? | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-xiaomi-13-ultra-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Xiaomi 13 Ultra Location Settings | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unlocking-real-time-collaboration-via-xbox-zoom/"><u>Unlocking Real-Time Collaboration via Xbox Zoom</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-the-power-of-photo-editing-techniques-to-add-text-in-windowsmacos-for-2024/"><u>Unveiling the Power of Photo Editing Techniques to Add Text in Windows/MacOS for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/updating-your-hid-compatible-mouse-drivers-a-step-by-step-guide/"><u>Updating Your HID-Compatible Mouse Drivers: A Step-by-Step Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-digital-video-capturing-demystified-systematic-guide/"><u>[New] 2024 Approved Digital Video Capturing Demystified Systematic Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-creative-potential-the-artful-application-of-luts-in-premiere-pro/"><u>[New] Unlocking Creative Potential The Artful Application of LUTs in Premiere Pro</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-bypassing-education-tips-on-skipping-edgenuity-online-video-lessons/"><u>[Updated] 2024 Approved Bypassing Education Tips on Skipping Edgenuity Online Video Lessons</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-voice-modification-tools-essential-choices-for-vtuber-creators/"><u>2024 Approved Top Voice Modification Tools Essential Choices for VTuber Creators</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-motorola-moto-g34-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Motorola Moto G34 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-the-secrets-of-turning-online-videos-into-desktop-music-files/"><u>In 2024, Unlocking the Secrets of Turning Online Videos Into Desktop Music Files</u></a></li>
+<li><a href="https://some-skills.techidaily.com/synthesizing-clarity-a-complete-voice-note-taking-course-for-2024/"><u>Synthesizing Clarity A Complete Voice Note-Taking Course for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unlocking-the-full-potential-of-minecraft-an-ultimate-exploration-of-this-beloved-sandbox-game-for-players-of-every-age-group/"><u>Unlocking the Full Potential of Minecraft: An Ultimate Exploration of This Beloved Sandbox Game for Players of Every Age Group</u></a></li>
+<li><a href="https://change-location.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://win-webster.techidaily.com/1728473777115-windows-11/"><u>Windows 11 アップデート後、解決されたブラックスクリーン問題</u></a></li>
 </ul></div>
 

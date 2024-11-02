@@ -1,7 +1,7 @@
 ---
 title: "Boosting Linux Protection: 6 Essential Strategies for Secure Computing"
-date: 2024-10-24T21:05:27.619Z
-updated: 2024-10-27T17:00:05.120Z
+date: 2024-10-26T18:38:46.865Z
+updated: 2024-11-02T16:31:40.884Z
 tags:
   - desktop
 categories:
@@ -35,22 +35,15 @@ Cybersecurity can be confusing. Here are six easy things you can do, and habits 
 
  Some of these devices will get automatic updates. For example, Amazon Echo and Google Nest smart speakers receive automatic updates for four and five years from purchase, respectively.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2  Secure User Accounts 
 
 ![The login screen on a laptop running Ubuntu Linux.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/52848723811_08b4c56473_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek  
@@ -64,10 +57,10 @@ Hannah Stryker / How-To Geek
  You can add two-factor authentication to your own computers too. this is especially valuable if you connect to them remotely, using SSH.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3  Control User Access 
@@ -76,11 +69,25 @@ Hannah Stryker / How-To Geek
 
  Most Linux systems disable the root account by default. To access root-level functionality you need to use sudo or run0\. This gives you short-term superuser status then demotes you to a normal user when you’ve completed that specific task.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4  Improve Your Network Security 
 
 [Turn on the firewall](https://extra-support.techidaily.com/new-mastering-video-playback-rate-adjustments-in-snapchat/) in your Linux distribution, and turn on the one in your broadband router too. Use WPA2 or WPA3 encryption for your wireless network, and change the Wi-Fi password from the default, if you can.
 
  Many modern Wi-Fi routers allow you to configure a [guest Wi-Fi network](https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-itel-p55-by-drfone-android/). This allows them to get to the internet, but isolates them from your main network.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5  Check Your Software Management 
 
@@ -91,19 +98,6 @@ Hannah Stryker / How-To Geek
  Pay particular attention to [Flatpaks](https://extra-support.techidaily.com/in-2024-marvelous-monitors-top-10-macbooks-with-4k-resolution/) and [Snaps](https://some-guidance.techidaily.com/in-2024-top-10-innovative-mobile-layering-apps-for-android-and-iphone/). These are often unofficial versions of packaged, wrapped by volunteers. Do some research and ask in forums and other online communities if these can be trusted.
 
  If you download an application and find it doesn’t suit your needs, uninstall it. Don’t just leave it on your machine. If a project is abandoned, and no longer in development, find a replacement. Using an old version of software that no longer receives security patches increases your exposure to risks.
-
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6  Make Backups and Stay Educated 
 
@@ -132,16 +126,24 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-audio-preservation-for-academics-on-apple-systems/"><u>[New] Audio Preservation for Academics on Apple Systems</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-step-by-step-guide-to-changing-photo-genders-from-theory-to-practice/"><u>[New] In 2024, Step-by-Step Guide to Changing Photo Genders From Theory to Practice</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-proven-methods-for-downloading-a-thousand-tiktoks-at-once/"><u>[New] Proven Methods for Downloading a Thousand TikToks at Once</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveil-clear-photos-from-iphone-with-our-free-red-eye-corrector-guide/"><u>2024 Approved Unveil Clear Photos From iPhone with Our FREE Red-Eye Corrector Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722972310841-get-optimal-performance-rtx-2060-super-graphics-card-and-windows-11-compatible-drivers-now-available/"><u>Get Optimal Performance: RTX 2060 Super Graphics Card & Windows 11 Compatible Drivers Now Available</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-nokia-c300-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Nokia C300 Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/panasonic-lumix-dc-fz80-review-an-all-purpose-camera-with-value/"><u>Panasonic Lumix DC-FZ80 Review: An All-Purpose Camera with Value</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-for-fixing-haldll-errors-in-windows-xp-systems/"><u>Step-by-Step Tutorial for Fixing HAL.DLL Errors in Windows XP Systems</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-vsco-photo-workflow-analysis-for-2024/"><u>The Ultimate VSCO Photo Workflow Analysis for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-picks-expert-recommended-8-convertors-from-sub-to-srt-for-2024/"><u>Top Picks Expert-Recommended 8 Convertors From Sub to Srt for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-methods-for-scaling-up-tiktok-video-importation-for-2024/"><u>Unveiling Methods for Scaling Up TikTok Video Importation for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-beatbox-your-way-up-the-ultimate-guide-for-top-10-music-vids/"><u>[New] 2024 Approved BeatBox Your Way Up The Ultimate Guide for Top 10 Music Vids</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-complete-guide-to-help-you-convert-srt-to-xml-ssa-ttml-and-other-formats/"><u>[New] The Complete Guide to Help You Convert SRT to XML, SSA, TTML, and Other Formats</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-first-steps-in-starting-a-review-channel-for-tech-gadgets/"><u>[New] The First Steps in Starting a Review Channel for Tech Gadgets</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-choice-android-sky-dumps-and-safes/"><u>[New] Top Choice Android Sky Dumps & Safes</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-harnessing-tech-acquiring-fb-status-video-content/"><u>[Updated] 2024 Approved Harnessing Tech Acquiring FB Status Video Content</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-mastering-instagrams-podcast-post-and-story-distribution/"><u>2024 Approved Mastering Instagram's Podcast Post & Story Distribution</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamlining-media-playback-with-vlc-mac/"><u>2024 Approved Streamlining Media Playback with VLC (Mac)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unpacking-video-editing-excellence-is-inshot-at-the-top/"><u>2024 Approved Unpacking Video Editing Excellence Is InShot at the Top?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-xiaomi-redmi-13c-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Xiaomi Redmi 13C</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/comprehensive-guide-unpacking-the-microsoft-exchange-server-cyberattack-insights-from-zdnet/"><u>Comprehensive Guide: Unpacking the Microsoft Exchange Server Cyberattack - Insights From ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-windows-microcomputers-reviewed/"><u>Essential Windows Microcomputers Reviewed</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixes-and-solutions-stop-valheim-from-lagging-or-freezing-on-your-computer/"><u>Fixes & Solutions: Stop Valheim From Lagging or Freezing on Your Computer</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-infinix-smart-8-hd-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Infinix Smart 8 HD Location by Number | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-zoomers-guide-to-enhancing-call-quality-with-filters/"><u>In 2024, The Zoomer's Guide to Enhancing Call Quality with Filters</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/proven-techniques-to-connect-airpods-with-windows/"><u>Proven Techniques to Connect AirPods with Windows</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-5-effortlessly-converted-gif-to-professional-videos-online-for-2024/"><u>Top 5 Effortlessly Converted GIF to Professional Videos Online for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-5-ios-podcast-apps-your-ultimate-listing-for-2024/"><u>Top 5 iOS Podcast Apps Your Ultimate Listing for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-8-issues-of-openais-chatgpt-unveiled/"><u>Top 8 Issues of OpenAI's ChatGPT Unveiled</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/transferring-iphone-display-to-pc-a-guide-to-windows-10-compatible-solutions-in-seven-steps/"><u>Transferring iPhone Display to PC: A Guide to Windows 10 Compatible Solutions in Seven Steps</u></a></li>
 </ul></div>
 

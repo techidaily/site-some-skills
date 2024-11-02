@@ -1,7 +1,7 @@
 ---
 title: Simple Methods to Locate & Remove Outdated Data in Windows 11
-date: 2024-10-26T18:06:22.114Z
-updated: 2024-10-27T21:29:18.120Z
+date: 2024-10-31T18:19:34.740Z
+updated: 2024-11-02T17:03:24.296Z
 tags:
   - desktop
 categories:
@@ -37,13 +37,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 !['Storage Sense' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/2-enable-storage-sense.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You’ll now configure Storage Sense's behavior. At the top, enable the option in the "Cleanup of Temporary Files" section so that temporary files are automatically deleted.
 
  Turn on the "Automatic User Content Cleanup" toggle. Then, configure various options as follows:
@@ -54,13 +47,26 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Storage Sense configuration options in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-configure-storage-sense.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To run the feature now, click "Run Storage Sense Now." It will start removing the chosen files.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  With Microsoft PC Manager
@@ -71,24 +77,31 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![File cleanup options in PC Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/4-pc-manager-file-cleanup-options.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The first option is "Downloaded Files," which lets you remove the files you’ve downloaded using the installed web browsers. Click it, and it’ll open a window listing your recent file downloads. You can sort these files by their type using the tabs at the top.
 
  Then, select the files you’re happy to let go of. At the bottom, you’ll see the storage space you’ll reclaim after deleting these files. To remove the files, click "Permanently Delete."
 
 ![Downloaded files and 'Permanently Delete' highlighted in PC Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/5-delete-downloaded-files.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The second option in PC Manager is "Large Files." As you can guess, it lets you find and remove large files. You can specify the file size here so it only finds files larger than that.
 
  Click the option and use the "Size" drop-down menu to specify your file size.
 
 !['Size' drop-down menu highlighted for large files in PC Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/6-specify-file-size.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When you see the files listed, choose the ones you want to remove and click "Permanently Delete."
 
@@ -111,10 +124,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 !['Run as Administrator' highlighted for Command Prompt in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/9-open-command-prompt.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In the User Account Control prompt, choose "Yes."
@@ -144,13 +157,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 !['Run as Administrator' highlighted for a batch file in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/11-run-batch-file.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can integrate this batch script with Task Manager, and Task Manager will run the script at your specified time. This basically automates the entire process of finding and removing old files from your specified folders.
 
 ---
@@ -172,22 +178,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-from-zero-to-hero-on-ig-how-to-garner-a-million-fans-fast-track/"><u>[New] In 2024, From Zero to Hero on IG How to Garner a Million Fans Fast-Track</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-streamers-blueprint-achieving-peak-performance-on-macos/"><u>[New] The Streamer's Blueprint Achieving Peak Performance on macOS</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-broadcast-your-curated-playlist-with-ease/"><u>[Updated] 2024 Approved Broadcast Your Curated Playlist with Ease</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-the-science-of-light-in-hdr-photography/"><u>[Updated] 2024 Approved The Science of Light in HDR Photography</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-apples-next-chapter-the-m1-chip-revelation-for-2024/"><u>[Updated] Apple's Next Chapter The M1 Chip Revelation for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-ensuring-data-privacy-while-transforming-youtube-video-audio-to-mp3-for-2024/"><u>[Updated] Ensuring Data Privacy While Transforming YouTube Video Audio to MP3 for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-online-slot-scanner-summary/"><u>[Updated] In 2024, ONLINE SLOT SCANNER SUMMARY</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-tailoring-humor-personalize-with-kinemaster/"><u>[Updated] Tailoring Humor Personalize with KineMaster</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/iphoneandroid6/"><u>【IPhone/Android対応】動画を美しく加工するための6つの推薦アプリ</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-inshot-a-thorough-editor-investigation/"><u>2024 Approved Unveiling InShot A Thorough Editor Investigation</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-infinix-smart-8-plus-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Infinix Smart 8 Plus for Free? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-superior-6-tools-for-video-language-shift/"><u>In 2024, Superior 6 Tools for Video Language Shift</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-twitch-triumph-or-hitbox-heritage/"><u>In 2024, Twitch Triumph or Hitbox Heritage?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-top-8-converter-list-for-sub-to-srt/"><u>In 2024, Ultimate Top 8 Converter List for Sub to SRT</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tag-friends-listen-to-this-podcast-story-for-2024/"><u>Tag Friends Listen to This Podcast Story for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-leading-8-multimedia-apps-for-creative-phones-android-ios-for-2024/"><u>The Leading 8 Multimedia Apps for Creative Phones (Android, iOS) for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-wellbeing-potential-a-critical-review-of-the-samsung-galaxy-watch-active/"><u>Unveiling the Wellbeing Potential: A Critical Review of the Samsung Galaxy Watch Active</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-auditory-playscripts-collection/"><u>[New] Ultimate Auditory Playscripts Collection</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-vanguards-choice-of-top-12-high-tech-action-cams-with-locators/"><u>[New] Vanguard's Choice of Top 12 High-Tech Action Cams With Locators</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-convert-tiktok-to-mp4-without-watermark-best-tiktok-downloaders-for-2024/"><u>[Updated] Convert TikTok to MP4 without Watermark Best TikTok Downloaders for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-checklist-for-fpv-drone-propeller-selection/"><u>[Updated] The Ultimate Checklist for FPV Drone Propeller Selection</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-3-free-video-players-face-off-vlc-vs-mpc-showdown/"><u>[Updated] Top 3 FREE Video Players Face Off VLC Vs. MPC Showdown</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-best-practices-for-converting-webp-to-jpg-format/"><u>2024 Approved Best Practices for Converting WebP to JPG Format</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-leading-6-social-media-channels-fostering-business-innovation/"><u>2024 Approved Leading 6 Social Media Channels Fostering Business Innovation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-the-power-of-android-time-lapses/"><u>2024 Approved Unlocking the Power of Android Time-Lapses</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-top-8-interactive-gloves-in-vr/"><u>2024 Approved Unveiling Top 8 Interactive Gloves in VR</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-visual-velocity-boost-your-digital-drawing-speed-in-pc-photos-editor/"><u>2024 Approved Visual Velocity Boost Your Digital Drawing Speed in PC Photos Editor</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-tutorial-for-ps4ps5-to-nintendo-switch-connections/"><u>A Tutorial for PS4/PS5 to Nintendo Switch Connections</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-xiaomi-13t-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Xiaomi 13T Phone? | Dr.fone</u></a></li>
+<li><a href="https://tools.techidaily.com/epubor/drm-removal-tools/"><u>Epubor All DRM Removal</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleash-creativity-gratuity-in-humor-tools/"><u>In 2024, Unleash Creativity Gratuity in Humor Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-functionality-to-missing-phone-link-notifications-on-pc/"><u>Restoring Functionality to Missing Phone Link Notifications on PC</u></a></li>
 </ul></div>
 

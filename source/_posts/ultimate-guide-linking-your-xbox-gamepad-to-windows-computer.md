@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Linking Your Xbox Gamepad to Windows Computer"
-date: 2024-10-23T22:54:12.839Z
-updated: 2024-10-27T21:22:51.750Z
+date: 2024-10-29T16:54:00.510Z
+updated: 2024-11-02T18:08:53.418Z
 tags:
   - desktop
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/c8166e8b96eec7a32e2c5447a156a34a01b3ade6d
 
  You can connect any Xbox controller to your Windows PC, including the latest Xbox Wireless Controller and the premium Elite lineup. You can choose between a wireless connection and a wired connection using a USB cable, depending on your setup.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Connect an Xbox Controller to a PC Using a USB Cable
 
  The simplest way to use an Xbox controller with your PC involves connecting it using a USB cable. The type of cable you use depends on what controller you have. The latest Xbox Wireless Controller and the Elite 2 connect via a [USB Type-C](https://screen-activity-recording.techidaily.com/navigating-lenovo-screen-capture-tools-effortlessly/) cable, and the previous-gen Xbox One and Elite Version 1 use Micro-USB.
@@ -27,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/c8166e8b96eec7a32e2c5447a156a34a01b3ade6d
 
 ![An Xbox Wireless Controller with a USB Type-C cable](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/img_31184796.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Xbox
 
  Once you're connected via USB, the Xbox button will stay lit on your controller, indicating that it's ready to use. In most cases, the controller will work without any additional setup, but if that doesn't happen, you might need to [update the controller's firmware](https://windows11.techidaily.com/best-fit-the-ideal-vms-that-complement-your-windows-11-pc/).
@@ -41,16 +41,10 @@ Xbox
  Once you're done, go ahead and fire up [any game with controller support](https://extra-lessons.techidaily.com/step-by-step-to-mastering-adobes-cloud-storage-capabilities-and-options/) and have fun.
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Connect an Xbox Wireless Controller to a PC Through Bluetooth
@@ -65,6 +59,13 @@ Xbox
 
 ![Windows 10 Settings Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/devices-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In Devices, make sure that you're on the "Bluetooth & Other Devices" page, and then click "Add Bluetooth or other device."
 
 ![Windows 10 Bluetooth menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/add-bluetooth-device.png) 
@@ -74,10 +75,10 @@ Xbox
 ![Adding a Bluetooth device in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/bluetooth-select.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Next, put your Xbox Wireless Controller in [pairing mode](https://facebook-video-content.techidaily.com/new-2024-approved-master-10-social-media-movies/). First, power up the controller by pressing and holding the Xbox button.
@@ -89,13 +90,6 @@ Xbox
  Once the button lights up, hold the pairing button for a few seconds until the Xbox logo blinks rapidly. You can find the pairing button on the top above the USB port and between your LB and RB trigger buttons.
 
 ![Front view of the Xbox Wireless Controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/xbox-pair.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Xbox](https://www.xbox.com/en-US/accessories/controllers/xbox-wireless-controller-usb-c)
 
@@ -111,13 +105,6 @@ Xbox
 
  When you're done playing, it'll turn off automatically after a while, but you can also [turn the Xbox controller off](https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-google-pixel-fold-drfone-by-drfone-virtual/) manually to save battery life. To do this, press and hold the Xbox button or pop the batteries out.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Connect an Xbox Wireless Controller with an Xbox Wireless Adapter
 
  There's a third way to connect an Xbox controller to your PC, but it involves purchasing the separate [Xbox Wireless Adapter](https://www.amazon.com/Microsoft-Xbox-Wireless-Adapter-Windows-one/dp/B00ZB7W4QU?tag=hotoge-20&ascsubtag=UUhtgUeUpU209809&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F729937%2Fhow-to-connect-an-xbox-wireless-controller-to-a-pc%2F&asc%5Fcampaign=Evergreen) USB accessory. Thanks to the proprietary wireless protocol, the adapter boasts slightly lower latency and a better range. It also lets you connect up to eight Xbox controllers to your PC at the same time, and it lets you hook up a headset to your controller.
@@ -131,6 +118,13 @@ Xbox
  The controller will automatically connect to your computer through the Xbox Wireless Adapter. If that doesn't work, go over the same steps for connecting the controller via Bluetooth, but instead of selecting "Bluetooth" under "Add a Device," select "Everything Else" to connect the controller to your PC via the adapter.
 
 ![The Bluetooth settings showing the "Add a device" window in WIndows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/adapter-bluetooth-settings.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -151,18 +145,24 @@ Xbox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-12-signs-endless-stories-create-your-whatsapp-bio-narrative/"><u>[Updated] 12 Signs, Endless Stories - Create Your WhatsApp Bio Narrative</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-adding-linktree-to-tiktok-bios/"><u>[Updated] The Ultimate Guide to Adding Linktree to TikTok Bios</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-the-ultimate-hdr-experience-with-asuss-4k-monitor/"><u>[Updated] The Ultimate HDR Experience with Asus's 4K Monitor</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unleashing-the-power-of-online-cricket-broadcasts/"><u>[Updated] Unleashing the Power of Online Cricket Broadcasts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-precision-flight-the-new-era-with-yuneec-drone-review/"><u>2024 Approved Precision Flight The New Era with Yuneec Drone Review</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-solitary-path-to-podcast-popularity/"><u>2024 Approved The Solitary Path to Podcast Popularity</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/combat-overheated-cpu-in-windows-10/"><u>Combat Overheated CPU in Windows 10</u></a></li>
-<li><a href="https://windows11.techidaily.com/customize-windows-layout-fancywm-power-up/"><u>Customize Windows Layout: FancyWM Power Up</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-for-preventing-and-repairing-cyberpunk-2er-frontier-errors-on-your-computer/"><u>Expert Tips for Preventing and Repairing Cyberpunk 2Er Frontier Errors on Your Computer</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-plus-apples-new-iphone-by-drfone-ios/"><u>How to Unlock Apple iPhone 6s Plus, Apples New iPhone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-creating-perfect-360-photos-on-iphone/"><u>In 2024, Creating Perfect 360 Photos on iPhone</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/quick-and-effortless-guide-accelerate-samsung-data-moving-with-these-5-safe-strategies/"><u>Quick & Effortless Guide: Accelerate Samsung Data Moving with These 5 Safe Strategies</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-strategies-for-boosting-handp-healthcare-fb-campaigns-for-2024/"><u>Top Strategies for Boosting H&P Healthcare FB Campaigns for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-snapshot-revamp-with-samsung-image-studio-analysis/"><u>[New] 2024 Approved Snapshot Revamp with Samsung Image Studio Analysis</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-edit-suite-apps-and-devices-tools-listed/"><u>[New] Top Edit Suite (Apps & Devices) Tools Listed</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-restore-windows-photo-viewer-efficiency-on-windows-10-pcs/"><u>[Updated] In 2024, Restore Windows Photo Viewer Efficiency on Windows 10 PCs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-top-25-mobile-editors-for-dji-filmmaking/"><u>[Updated] The Top 25 Mobile Editors for DJi Filmmaking</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-7-affordable-4k-mirrorless-cameras-(1000/"><u>[Updated] Top 7 Affordable 4K Mirrorless Cameras <$1,000</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transcending-boundaries-the-vr-evolutionary-journey/"><u>[Updated] Transcending Boundaries The VR Evolutionary Journey</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unfolding-the-tapestry-of-mixed-reality-experiences/"><u>[Updated] Unfolding the Tapestry of Mixed Reality Experiences</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-the-video-studio-encyclopedia-xreviewers-edition/"><u>2024 Approved The Video Studio Encyclopedia XReviewer's Edition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tricks-to-increase-viewership-on-your-tiktok-unboxing-sessions/"><u>2024 Approved Tricks to Increase Viewership on Your TikTok Unboxing Sessions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-updated-inquiry-collection-for-podcast-appeal/"><u>2024 Approved Updated Inquiry Collection for Podcast Appeal</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-powered-podcasts-on-budget-phones-safety/"><u>ChatGPT-Powered Podcasts on Budget Phones' Safety</u></a></li>
+<li><a href="https://article-tips.techidaily.com/comprehensive-guide-unraveling-google-podcasts-app/"><u>Comprehensive Guide Unraveling Google Podcasts App</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-and-downloading-personalized-insta-ringtones/"><u>Crafting & Downloading Personalized Insta Ringtones</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-7-plus-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone 7 Plus Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-tiktoks-potential-changing-your-profile-number/"><u>In 2024, Unlocking TikTok's Potential Changing Your Profile Number</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-analysis-does-inshot-stand-out-in-editing-software-in-2024/"><u>In-Depth Analysis Does InShot Stand Out in Editing Software, In 2024</u></a></li>
+<li><a href="https://win-web.techidaily.com/simplify-your-inbox-discover-the-one-time-email-hack-to-eliminate-clutter-no-junk-diets-needed/"><u>Simplify Your Inbox: Discover the One-Time Email Hack to Eliminate Clutter, No Junk Diets Needed!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultraview-app-functionality-survey-for-2024/"><u>UltraView App Functionality Survey for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-dvd-conversion-guide-from-disc-to-digital/"><u>Updated The Ultimate DVD Conversion Guide From Disc to Digital</u></a></li>
 </ul></div>
 

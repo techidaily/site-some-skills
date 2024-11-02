@@ -1,7 +1,7 @@
 ---
 title: "Review of Lenovo Legion 7I 16Th Generation Unveiled: Surprisingly Powerful Performance for Its Category"
-date: 2024-10-26T18:17:11.028Z
-updated: 2024-10-27T18:47:55.477Z
+date: 2024-10-26T17:57:22.118Z
+updated: 2024-11-02T17:57:12.184Z
 tags:
   - desktop
 categories:
@@ -109,22 +109,21 @@ Lenovo's Legion 7i 16 Gen 9 laptop packs a punch in the power department, offeri
 Expand 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Lenovo Went All-In on a User-Upgradable Design
 
 ![The Lenovo Legion 7i 16 Gen 9 has an Intel i9 and Nvidia graphics card](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-legion-7i-16-gen-9-has-an-intel-i9-and-nvidia-graphics-card_53662863778_o.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -135,13 +134,6 @@ Jerome Thomas / How-To Geek
  The bottom comes off very easily, and DIYers will enjoy the fact that Lenovo used the same screws all the way around. Under the bottom cover, is a user-replaceable WLAN card with a secondary short M.2 slot next to it. Across the motherboard is the full-size M.2 NVMe SSD (also user-replaceable) and a heat shield covering the DDR5 RAM modules. With the WLAN card, SSD, RAM all being user-accessible, and the battery, this laptop is pretty DIY-friendly if you want to upgrade it yourself down the road.
 
 ![The function key lights up keys that have commands](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-funtion-key-lights-up-keys-that-have-commands_53663005894_o.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -156,10 +148,10 @@ Jerome Thomas / How-To Geek
  Lenovo chose to put the power key dead center of the top of the keyboard and built a fingerprint reader into it. I found that the reader worked reliably every time for me, and it was a great placement for me as well.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Hitting Above Its Weight Class, This Laptop Really Packs a Punch
@@ -198,19 +190,6 @@ Jerome Thomas / How-To Geek
 
 ![The ports on the left side of the Lenovo Legion 7i 16 Gen 9](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-ports-on-the-left-side-of-the-lenovo-legion-7i-16-gen-9_53662650521_o.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Jerome Thomas / How-To Geek
 
  The Lenovo Legion 7i 16 Gen 9 has just about any port you could want, though, it can be a tad confusing about what’s what. On the left side of the laptop, you have a USB-A port at 5Gb/s, a USB-C 3.2 Gen 2 port, and a Thunderbolt 4 port. There’s only one Thunderbolt 4 port here though, so do keep in mind that the other USB-C ports on the laptop are only 3.2 Gen 2 (10Gb/s), and not rated for 40Gb/s transfer rates. The Thunderbolt 4 port does, however, support up to 140W charging, so you can use a single-cable setup when you’re not pushing the laptop to its max. In front of the Thunderbolt 4 port, you have a combined headphone and microphone jack.
@@ -231,6 +210,13 @@ Jerome Thomas / How-To Geek
 
 ![The file explorer on the Lenovo Legion 7i 16 Gen 9](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-file-explorer-on-the-lenovo-legion-7i-16-gen-9_53661777622_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  The 16-inch IPS WQXGA display here has a resolution of 2,560 x 1,600, which clocks in with a 16:10 aspect ratio. This seems to be the norm among modern laptops as people want a slightly taller aspect ratio, but it does mean that you’re pushing slightly more pixels when gaming. The RTX 4070 doesn’t let that affect performance though, which is nice. The screen features a 240Hz refresh rate, is 100% sRGB, and comes in at 500 nits, which is very noticeable when gaming. Windows didn’t find the display to be HDR ready, even though it’s DisplayHDR 400 certified, but the X-Rite Color Management with Dolby Vision and G-SYNC features all functioned as well as you’d expect.
@@ -238,6 +224,13 @@ Jerome Thomas / How-To Geek
  I was quite impressed with the display. While it’s no MacBook Pro screen, I would have no problems doing my daily work on the latest Legion 7i 16\. I found the colors to be very accurate, the glare to be fairly low, and the response time and refresh rate were both fantastic.
 
  One unique thing is that there’s a keyboard shortcut (Fn+R) to switch between 240/60Hz and 165/60Hz, depending on which screen you get. This might seem redundant, but it’s actually very useful. If you’re on the road and need to preserve battery life over all else, then dropping to a 60Hz refresh rate will make the screen refresh 66% slower, which reduces power usage across the board.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Should You Buy the Lenovo Legion 7i 16 Gen 9?
 
@@ -251,13 +244,20 @@ Jerome Thomas / How-To Geek
 
 ![Lenovo Legion 7i 16 Gen 9 Laptop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/lenovo-legion-7i-16-gen-9-laptop.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #####  Lenovo Legion 7i 16 Gen 9
@@ -285,17 +285,17 @@ Lenovo's Legion 7i 16 Gen 9 laptop packs a punch in the power department, offeri
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-expert-analysis-highest-quality-video-snappers/"><u>[New] Expert Analysis Highest Quality Video Snappers</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-pioneering-open-worlds-worth-your-time/"><u>[New] In 2024, Pioneering Open Worlds Worth Your Time</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-nanorecording-app-critique-with-backup-choices-for-2024/"><u>[New] NanoRecording App Critique with Backup Choices for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-navigating-vimeo-success-strategies-for-staff-picked-videos-for-2024/"><u>[New] Navigating Vimeo Success Strategies for Staff-Picked Videos for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-syncopated-screecher-symphony/"><u>[New] Syncopated Screecher Symphony</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-techniques-for-alluring-fb-video-marketing-for-2024/"><u>[New] Techniques for Alluring FB Video Marketing for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-evolution-of-drones-present-impact-and-future-prospects/"><u>[Updated] The Evolution of Drones Present Impact and Future Prospects</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-freebie-animation-tools/"><u>[Updated] The Ultimate Guide to Freebie Animation Tools</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-ultimate-road-watch-select-automotive-cams-for-2024/"><u>[Updated] Ultimate Road Watch Select Automotive Cams for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/dissecting-the-fundamental-divergences-of-ml-nlp/"><u>Dissecting the Fundamental Divergences of ML, NLP</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/merging-avi-videos-without-cost-a-beginners-guide-for-windows-11-users/"><u>Merging AVI Videos Without Cost: A Beginner's Guide for Windows 11 Users</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-essential-guide-for-newcomers-on-av1-for-2024/"><u>The Essential Guide for Newcomers on AV1 for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-dissecting-youtubes-criteria-for-featured-community-inputs/"><u>[New] 2024 Approved Dissecting YouTube's Criteria for Featured Community Inputs</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-indulge-in-these-15-influencer-led-tiktok-recipes-that-are-a-hit-online/"><u>[New] Indulge in These 15 Influencer-Led TikTok Recipes That Are a Hit Online</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-novices-guide-to-vectors-insight-into-types-and-software-choices/"><u>[New] Novice's Guide to Vectors Insight Into Types & Software Choices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-swift-transfer-methods-getting-files-onto-computers/"><u>[New] Swift Transfer Methods Getting Files Onto Computers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-techniques-for-swiftly-finding-deleted-reddit-contributions/"><u>[New] Techniques for Swiftly Finding Deleted Reddit Contributions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-power-of-free-enhancing-your-obs-studio-projects-using-luts/"><u>[New] The Power of Free Enhancing Your OBS Studio Projects Using LUTs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-execute-a-budget-friendly-youtube-seminar/"><u>[Updated] In 2024, How to Execute a Budget-Friendly Youtube Seminar</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-magic-of-time-expansion-a-comprehensive-guide-to-making-beautifully-long-movies-with-still-images-and-online-tools/"><u>2024 Approved The Magic of Time Expansion A Comprehensive Guide to Making Beautifully Long Movies with Still Images & Online Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-most-popular-wedding-countdown-clocks-a-top-10-list-androidios/"><u>2024 Approved The Most Popular Wedding Countdown Clocks A Top 10 List (Android/iOS)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/amd-rx-6700-xts-latest-graphics-driver-secure-updated-version-for-windows-users/"><u>AMD RX 6700 XT's Latest Graphics Driver: Secure, Updated Version for Windows Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/chrome-page-loading-issues-demystified-strategies-to-ensure-smooth-access/"><u>Chrome Page-Loading Issues Demystified: Strategies to Ensure Smooth Access</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-engaging-visual-storytelling-with-b-roll/"><u>Crafting Engaging Visual Storytelling with B-Roll</u></a></li>
 </ul></div>
 

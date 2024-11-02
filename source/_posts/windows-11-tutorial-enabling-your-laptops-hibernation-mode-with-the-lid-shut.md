@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Tutorial: Enabling Your Laptop's Hibernation Mode with the Lid Shut"
-date: 2024-10-25T22:58:49.743Z
-updated: 2024-10-28T00:02:39.504Z
+date: 2024-10-29T17:11:23.766Z
+updated: 2024-11-02T16:59:04.491Z
 tags:
   - deals
 categories:
@@ -16,13 +16,6 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
 * [Prevent Your Laptop from Shutting Down When You Close the Screen](https://vp-tips.techidaily.com/updated-2024-approved-unveiling-the-magic-of-films-mood-with-colors/)
 * [Does Keeping Your Laptop Running Hurt the Battery?](https://tech-haven.techidaily.com/innovative-plot-development-with-chatgpts-nine-insights/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Change your laptop's settings to prevent it from shutting down when you close the lid by accessing Windows Settings and selecting "Change what closing the lid does."
@@ -31,10 +24,10 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
  If you'd like to use your Windows 11 laptop with an [external monitor](https://desktop-recording.techidaily.com/updated-in-2024-in-depth-guide-to-2023s-leading-web-capture-applications/), mouse, and keyboard, it's often nice to keep the lid closed. Here's how to close the lid [without](https://youtube-docs.techidaily.com/ring-the-art-of-youtube-closings-inclusive-guide-for-2024/) putting your PC to sleep.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Prevent Your Laptop from Shutting Down When You Close the Screen
@@ -43,9 +36,29 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
 
 ![In Windows 11, right-click the Start button and select "Settings."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/win11_right_click_start_settings.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In Settings, click the search bar and type "lid," then click the "Change what closing the lid does" result that appears beneath it.
 
 ![In Settings, type "lid" in the search box, then click "Change what closing the lid does."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/search_lid_1.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  A "System Settings" window will open (this is part of [Control Panel](https://facebook-clips.techidaily.com/seamless-media-exchange-transferring-facebook-content-to-whatsapp-for-2024/), which is the legacy setup program for Windows.) Under "Power and sleep buttons and lid settings," you'll see several options that let you choose what happens when you press the power or sleep buttons on your device.
 
@@ -56,10 +69,10 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
 ![In the "When I close the lid" drop-down menu for the power setting you want, select "Do Nothing."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/select_do_nothing.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After that, click the "Save Changes" button at the bottom of the window.
@@ -67,13 +80,6 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
 ![Click "Save Changes."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/click_save_changes.jpg) 
 
  These changes will apply to all of your [power plans](https://apple-account.techidaily.com/how-to-unlink-your-iphone-11-pro-max-from-your-apple-id-by-drfone-ios/). When you're ready, close the "System Settings" and "Settings" windows. To test it out, plug your laptop into an external monitor and close the lid. If the video stays on, you'll know that you configured it properly. 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Does Keeping Your Laptop Running Hurt the Battery? 
 
@@ -94,20 +100,20 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-saving-screen-shots-in-windows-systems/"><u>[New] 2024 Approved Saving Screen Shots in Windows Systems</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-streamline-your-movie-watching-process-add-subtitles-to-wmp/"><u>[New] Streamline Your Movie-Watching Process Add Subtitles to WMP</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-list-of-3d-typographic-sites/"><u>[New] Ultimate List of 3D Typographic Sites</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-leading-10-video-editing-programs-for-instagram-reels-enthusiasts-for-2024/"><u>[Updated] Leading 10 Video Editing Programs for Instagram Reels Enthusiasts for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-roundup-unleashing-the-best-5-online-title-makers/"><u>[Updated] The Ultimate Roundup Unleashing the Best 5 Online Title Makers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-transform-your-movies-tips-for-amazing-slow-motion-on-android-phones/"><u>[Updated] Transform Your Movies Tips for Amazing Slow Motion on Android Phones</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-art-of-digital-broadcasting-in-real-time/"><u>[Updated] Unveiling the Art of Digital Broadcasting in Real Time</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-collection-10-excellent-photo-background-alternators/"><u>2024 Approved Ultimate Collection 10 Excellent Photo-Background Alternators</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-vector-editing-revolution-post-acid-pro-era/"><u>2024 Approved Vector Editing Revolution Post-ACID Pro Era</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-gt-3-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme GT 3 to Outlook | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6s-plus-to-other-iphone-13-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6s Plus to other iPhone 13 devices? | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-premium-hardware-choices-for-uhd-editors/"><u>In 2024, Premium Hardware Choices for UHD Editors</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/personalize-and-optimize-with-cookiebots-advanced-tracking-solutions/"><u>Personalize & Optimize with Cookiebot's Advanced Tracking Solutions</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/simple-guide-turning-favorite-tiktok-beats-into-cellphone-signals-for-2024/"><u>Simple Guide Turning Favorite TikTok Beats Into Cellphone Signals for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/1714937848862-updated-in-2024-how-to-add-audio-fade-out-effect/"><u>Updated In 2024, How to Add Audio Fade Out Effect?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transition-mastery-in-cinematic-productions-with-kinemaster/"><u>[New] Transition Mastery in Cinematic Productions with Kinemaster</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-4k-clarity-with-a-look-at-the-dell-p2715q-screen/"><u>[New] Unveiling 4K Clarity with a Look at the Dell P2715Q Screen</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-action-to-archive-top-screen-recording-tools-assessed/"><u>[Updated] Action to Archive Top Screen Recording Tools Assessed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-guide-to-gopro-max-or-hero-11/"><u>[Updated] Ultimate Guide to GoPro Max or Hero 11?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-the-full-spectrum-of-vlc-player-capabilities/"><u>[Updated] Unlocking the Full Spectrum of VLC Player Capabilities</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-the-potential-of-audacitys-audio-features/"><u>[Updated] Unlocking the Potential of Audacity's Audio Features</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-hidden-facebook-data-and-protecting-yourself-online/"><u>[Updated] Unveiling Hidden Facebook Data & Protecting Yourself Online</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-expert-director-of-visuals-and-music/"><u>2024 Approved Expert Director of Visuals and Music</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-flip-your-video-frames-effortlessly-with-vlc/"><u>2024 Approved Flip Your Video Frames Effortlessly with VLC</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-free-video-template-resources/"><u>2024 Approved Top Free Video Template Resources</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/disseminating-your-work-sharing-igtv-on-facebook/"><u>Disseminating Your Work Sharing IGTV on Facebook</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/excellent-applications-reshaping-the-art-of-virtual-broadcasting-for-2024/"><u>Excellent Applications Reshaping the Art of Virtual Broadcasting for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Vivo Y27s? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/talk-naturally-type-less-enabling-voice-control-in-gpt-for-android-with-simple-steps/"><u>Talk Naturally, Type Less: Enabling Voice Control in GPT for Android with Simple Steps</u></a></li>
+<li><a href="https://article-tips.techidaily.com/top-10-tools-revolutionizing-the-art-of-virtual-performer-sound-design-for-2024/"><u>Top 10 Tools Revolutionizing the Art of Virtual Performer Sound Design for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Transitioning to Augmented Reality: My Journey Swapping a Standard Monitor for AR Glasses"
-date: 2024-10-01T19:33:56.119Z
-updated: 2024-10-04T20:48:57.829Z
+date: 2024-10-27T17:51:56.610Z
+updated: 2024-11-02T16:58:22.139Z
 tags:
   - cutting-edge
 categories:
@@ -29,25 +29,11 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
 
 Bertel King / How-To Geek
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  I Sit With Better Posture
 
  The biggest impact has been the benefit to my posture. I've spent most of my career hunched over a laptop. I ended my days feeling drained, not aware that the angle of my neck had as much to do with that as the strain on my eyes. I was making one of the [posture mistakes you want to avoid](https://fox-cloud.techidaily.com/new-composing-an-alluring-cinematic-teaser-track/) when sitting at a desk. If you work from home, it's worth getting a computer monitor with a height set at eye level.
 
  With AR glasses, my display is always at eye level. This means I can rest my neck in a natural position. I can also stretch or look side to side without actually turning away from whatever I'm reading. This allows me to move a bit more throughout the day without shifting my focus away from what I'm working on.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  My Desk Has More Space
 
@@ -56,6 +42,13 @@ Bertel King / How-To Geek
  Wearing the glasses, I generally just leave out a Bluetooth keyboard and mouse. I can also experiment with what else I keep on my desk. I can place a houseplant directly behind the keyboard, since that has no impact on my ability to see what I'm working on. I can place an essential oil diffuser there for the smells. This creates a space that feels more calming as I go about work.
 
 ![A desk without a monitor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/1000061003.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Bertel King / How-To Geek
 
@@ -69,15 +62,22 @@ Bertel King / How-To Geek
 
 ![A Samsung Galaxy Z Fold 5, XREAL Air 2 Pro AR Glasses, and glasses case.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/1000061021.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Bertel King / How-To Geek
 
  To play games, I also grab a controller. For work, I also pack a keyboard and mouse. None of these things are particularly big. The keyboard is the only one I don't bring with me when packing up a laptop.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Awkward Social Interactions
@@ -87,10 +87,10 @@ Bertel King / How-To Geek
  Wearing AR glasses is a bit like making a switch from Bluetooth speakers to Bluetooth earbuds. The former tunes people in to what you're listening to, while the latter is completely private. The thing is, while we've had decades to get used to this with audio, it's pretty new for video. When I'm alone, AR glasses are awesome, but I feel weird when I'm wearing them around others.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Great for Working Around Kids
@@ -134,20 +134,24 @@ Bertel King / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-unveiling-costless-creativity-a-deep-dive-into-best-luts/"><u>[New] Unveiling Costless Creativity A Deep Dive Into Best LUTs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-wmm-tutorial-for-aspiring-animators/"><u>[Updated] The Ultimate WMM Tutorial for Aspiring Animators</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-toonapp-complete-review-and-guide-2024/"><u>[Updated] ToonApp Complete Review & Guide 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-25-backdrop-ideas-for-livestreaming/"><u>[Updated] Top 25 Backdrop Ideas for Livestreaming</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-digital-darlings-facebooks-favorites/"><u>2024 Approved Digital Darlings Facebook's Favorites</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-expert-strategies-on-calculating-your-youtube-audience-impact-and-revenue/"><u>2024 Approved Expert Strategies on Calculating Your YouTube Audience Impact and Revenue</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-tips-for-stunning-photos-on-iphones/"><u>2024 Approved Expert Tips for Stunning Photos on iPhones</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-the-ultimate-tutorial-on-phantoms-reverse-recording/"><u>2024 Approved The Ultimate Tutorial on Phantom's Reverse Recording</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-turn-off-youtube-previews-on-all-devices/"><u>2024 Approved Turn Off YouTube Previews on All Devices</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-why-cant-i-install-the-ipogo-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Why cant I install the ipogo On Apple iPhone 13 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/precision-adjustment-of-iphone-photo-dimensions-revealed-for-2024/"><u>Precision Adjustment of iPhone Photo Dimensions Revealed for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/stellar-leads-in-hdd-restoration-decrypting-the-impossible/"><u>Stellar Leads in HDD Restoration: Decrypting the Impossible</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tap-into-the-rhythm-web-free-and-comprehensive-for-2024/"><u>Tap Into the Rhythm Web (FREE & Comprehensive) for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-subtle-art-of-easing-audio-intensity-garageband-for-2024/"><u>The Subtle Art of Easing Audio Intensity (Garageband) for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-unlocking-apple-watch-or-apple-iphone-13-pro-from-icloud-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Apple Watch Or Apple iPhone 13 Pro from iCloud</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-your-go-to-list-for-immersive-sandboxes/"><u>[New] 2024 Approved Your Go-To List for Immersive Sandboxes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-tales-best-yt-storytellers-for-23/"><u>[New] Top Tales Best YT Storytellers for '23</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlock-creative-closure-ideas-with-our-template-service/"><u>[New] Unlock Creative Closure Ideas with Our Template Service</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-rogelikes-past-present-and-emerging-futures/"><u>[Updated] Rogelikes Past, Present, & Emerging Futures</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-picture-purity-erasing-images-excesses/"><u>[Updated] The Ultimate Guide to Picture Purity Erasing Images' Excesses</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-picks-for-sky-hdr-images-online-compilation/"><u>[Updated] Top Picks for Sky HDR Images Online Compilation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tranquil-acoustic-settings-on-computers/"><u>[Updated] Tranquil Acoustic Settings on Computers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-interpreting-differences-360-and-virtual-reality-cinematography/"><u>2024 Approved Interpreting Differences 360° and Virtual Reality Cinematography</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mac-dvd-to-youtube-converter-dvdyoutubeflvmp4mp3/"><u>無料Mac DVD to YouTube Converter - 高品質DVDをYouTube、FLV、MP4、MP3に簡単変換</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-realme-11-proplus-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Realme 11 Pro+ Phone | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-test-and-calibrate-your-gaming-controller-on-windows/"><u>How to Test and Calibrate Your Gaming Controller on Windows</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-nokia-g310-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-samsung-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Samsung Devices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-leading-eights-imagery-fusion-platform/"><u>In 2024, The Leading Eight’s Imagery Fusion Platform</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-inshot-on-pcs-and-laptops/"><u>In 2024, The Ultimate Guide to Inshot on PCs and Laptops</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-total-motion-systems-scrutiny-report/"><u>In 2024, Total Motion Systems Scrutiny Report</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/mastering-the-art-of-cross-platform-skype-chats-with-this-comprehensive-guide/"><u>Mastering the Art of Cross-Platform Skype Chats with This Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/selecting-the-right-tablet-a-guide-to-choosing-by-cpu-performance/"><u>Selecting the Right Tablet: A Guide to Choosing by CPU Performance</u></a></li>
+<li><a href="https://win-tips.techidaily.com/top-logiciels-de-sauvegarde-pour-windows-server-201n-r2-comparatif-complet/"><u>Top Logiciels De Sauvegarde Pour Windows Server 201N R2 - Comparatif Complet</u></a></li>
 </ul></div>
 

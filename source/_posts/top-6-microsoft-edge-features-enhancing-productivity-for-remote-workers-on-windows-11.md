@@ -1,7 +1,7 @@
 ---
 title: Top 6 Microsoft Edge Features Enhancing Productivity for Remote Workers on Windows 11
-date: 2024-10-20T18:50:57.201Z
-updated: 2024-10-27T20:04:03.208Z
+date: 2024-10-27T16:50:31.268Z
+updated: 2024-11-02T17:31:51.030Z
 tags:
   - deals
 categories:
@@ -22,18 +22,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  With so many of us working remotely, it's not a surprise that Windows 11 comes with a few built-in focus tools to help us get our jobs done. But what exactly does Windows 11 offer to us professionals who want to ensure we actually get work done? Let's take a look.
 
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Focus Periods and Productivity
 
  Windows 11 eliminated the focus mode on the taskbar and replaced it with focus sessions. A focus session uses the [Windows 11 built-in Pomodoro Timer](https://screen-sharing-recording.techidaily.com/updated-navigating-noise-free-networks-secrets-for-silencing-disruptions-on-gomeet/) to ensure that you remain dedicated throughout the particular period. There are other Pomodoro Timers out there, and I even used one in Windows 10\. Having one built into Windows 11 is a plus, however.
 
 ![Windows 11 Focus Assist Window showing time left on the session, how many sessions were completed, and other details](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-11-focus-assist.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Jason Dookeran/How-To-Geek
 
@@ -53,29 +59,22 @@ Jason Dookeran/How-To-Geek
 
  These features are designed to enhance multitasking and productivity, especially in a remote work setting. By keeping your tasks visually organized and easily accessible, Snap Layouts and Snap Groups help you maintain focus and efficiency. This seamless integration into the Windows 11 experience ensures that your tools are working just as hard as you are, enabling you to get more done with less effort.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  You're Not Only Limited to One Desktop Either
 
  Windows 10 introduced the [idea of having different desktops](https://www.microsoft.com/en-us/windows/learning-center/stay-organized-using-multiple-desktops-windows-11), each dedicated to its own productivity or usage task. For example, if you've got games installed on your PC but don't want to be distracted by them, you can slide them over to a separate desktop and leave your work desktop with only your office and productivity software shortcuts. When work's done, you can switch to your "gaming" desktop and access the shortcuts there.
 
 ![Remote Desktop Setup](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/remote-desktop-setup.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Jason Dookeran/How-To-Geek
 
  To create a new virtual desktop, click on the Task View button located on the taskbar (or press Win+Tab). This will open the Task View interface, where you can see all your open windows and existing desktops. Click on the “+ New desktop” button at the top of the screen to create a new virtual desktop. To switch between desktops, you can either use the Task View interface by clicking on the desired desktop or use the keyboard shortcut Win+Ctrl+Left or Right arrow keys to move between them quickly. This feature allows you to keep different types of work, like meetings, research, and personal tasks, separate and organized, enhancing your productivity. This particular change is pretty new to Windows, but [Linux users have had multiple desktop setups for years](https://www.linux.com/training-tutorials/dont-forget-one-linuxs-best-features-how-use-multiple-workspaces/).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  You Can Even Access Your Desktop From Anywhere
 
@@ -88,10 +87,16 @@ Jason Dookeran/How-To-Geek
 ![Adding a New User](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/adding-a-new-user.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Jason Dookeran/How-To-Geek
@@ -99,6 +104,13 @@ Jason Dookeran/How-To-Geek
 [Making a new profile in Windows 11](https://some-guidance.techidaily.com/new-pun-picture-studio-chucklecrafts/) is pretty simple. Go to Settings > Accounts > Family & other users. Under the “Other users” section, click on “Add account.” You can create a new profile using either a Microsoft account or a local account.
 
  For a Microsoft account, enter the email address associated with the account. If you prefer a local account, click on “I don’t have this person’s sign-in information,” followed by “Add a user without a Microsoft account,” then follow the prompts to set up a username and password. Once the profile is created, you can switch between accounts by clicking on your profile picture in the Start menu and selecting the new user. This setup allows you to maintain distinct environments for different purposes, improving focus and security.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Being Productive Is Less of a Challenge
 
@@ -119,22 +131,17 @@ Jason Dookeran/How-To-Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-broadcast-brilliance-transforming-fb-live-for-tv/"><u>[New] In 2024, Broadcast Brilliance Transforming FB Live for TV</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-revolutionizing-reality-expertly-reviewed-peripherals/"><u>[New] Revolutionizing Reality Expertly Reviewed Peripherals</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-tech-trend-analysis-vlls-evaluations/"><u>[New] Tech Trend Analysis VLL's Evaluations</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-traverse-times-tapestry-with-public-domain-art/"><u>[New] Traverse Time's Tapestry with Public Domain Art</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-mastering-instagram-video-load-times-desktop-advice/"><u>[Updated] 2024 Approved Mastering Instagram Video Load Times Desktop Advice</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-ideal-mac-voice-storage-tools-the-most-reliable-5-for-2024/"><u>[Updated] Ideal Mac Voice Storage Tools The Most Reliable 5 for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-soundscapes-for-visual-storytelling/"><u>2024 Approved Ultimate Soundscapes for Visual Storytelling</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-poco-c50-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Poco C50 Fingerprint Lock</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/how-to-capture-your-iphones-screen-seamlessly-for-2024/"><u>How to Capture Your iPhone's Screen Seamlessly for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-samsung-galaxy-f14-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Samsung Galaxy F14 5G to New Phone | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/illuminating-brilliance-photoshops-best-hdr-methods-for-2024/"><u>Illuminating Brilliance Photoshop's Best HDR Methods for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-soundtracks-for-snickers-ringtones-best-online-sources/"><u>In 2024, Soundtracks for Snickers Ringtones' Best Online Sources</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-best-toy-drones-for-kids/"><u>In 2024, The Ultimate Guide to Best Toy Drones for Kids</u></a></li>
-<li><a href="https://some-skills.techidaily.com/leading-techniques-for-youtube-mpeg-migration-for-2024/"><u>Leading Techniques for YouTube MPEG Migration for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/streamsavvy-exploring-alternatives-to-dacast-for-2024/"><u>StreamSavvy Exploring Alternatives to DaCast for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-art-of-movement-enhancing-your-photos-with-illustrators-motion-blur-for-2024/"><u>The Art of Movement Enhancing Your Photos with Illustrator's Motion Blur for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-minipic-snapshot-scrutiny-plus-diverse-apps/"><u>[New] In 2024, MiniPic Snapshot Scrutiny + Diverse Apps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-confirmation-techniques-for-youtube-accounts/"><u>[Updated] In 2024, Confirmation Techniques for Youtube Accounts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unraveling-the-mystery-of-phantoms-velocity-inversion/"><u>[Updated] Unraveling the Mystery of Phantom's Velocity Inversion</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unraveling-untethered-art-top-public-domain-gems/"><u>[Updated] Unraveling Untethered Art Top Public Domain Gems</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-review-and-critique-of-apples-watch-series-9/"><u>Expert Review and Critique of Apple's Watch Series 9</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-diagnose-and-repair-inactive-hp-laptop-camera-under-windows-10/"><u>How To Diagnose and Repair Inactive HP Laptop Camera Under Windows 10</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-vivo-y56-5g-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Vivo Y56 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-top-fifa-players-visualized-data-infographics/"><u>In 2024, Top FIFA Players Visualized Data Infographics</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unparalleled-live-tv-experience-with-local-channels/"><u>In 2024, Unparalleled Live TV Experience with Local Channels</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unboxing-and-testing-the-hisense-40h5590f-the-best-economical-smart-tv-on-the-market/"><u>Unboxing and Testing the Hisense 40H5590F: The Best Economical Smart TV on the Market?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-leading-online-stores-for-customized-gift-boxes-for-2024/"><u>Unveiling the Leading Online Stores for Customized Gift Boxes for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-prowess-of-yuneecs-typhoon-uav-for-2024/"><u>Unveiling the Prowess of Yuneec's Typhoon UAV for 2024</u></a></li>
 </ul></div>
 

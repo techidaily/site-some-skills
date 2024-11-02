@@ -1,7 +1,7 @@
 ---
 title: "Windows Migrants Beware: 7 Peculiar Mac Habits That Will Surprise You"
-date: 2024-10-20T23:34:39.573Z
-updated: 2024-10-27T16:36:14.411Z
+date: 2024-11-01T16:24:56.390Z
+updated: 2024-11-02T16:06:03.855Z
 tags:
   - desktop
 categories:
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
  The macOS Dock has evolved significantly over the years and offers functionality like mouse-over magnification and the ability to show suggested and recent apps, among other things. For people who are shifting from Windows to macOS, though, the biggest difference is based around the very idea of what the Dock and Taskbar actually do.
 
 ![The Dock on a Mac laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/screenshot-2024-03-20-at-3-52-28-am.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The Windows Taskbar is a comprehensive tool that displays everything from program icons to the time and date, and the search bar in one horizontal location. In comparison, the Dock simply focuses on displaying [app icons that you can pin,](https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-htc-u23-by-fonelab-android-recover-data/) as well as recently minimized windows and folders.
 
@@ -65,10 +58,16 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 | Shortcut icon   | Alias                 |
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Taking Screenshots Is Easy
@@ -81,18 +80,18 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 
  Regardless of the shortcut you use, the screenshot is immediately saved to your macOS desktop for easy access.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  macOS Has Its Own Equivalents for the Windows Apps
 
  As you transition to macOS, you'll notice that the two operating systems come with a lot of preloaded apps that offer similar functionality. For instance, the built-in browser on Mac is Safari, as opposed to Edge on Windows.
 
 ![Some of the Mac apps in macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/some-of-the-mac-apps-in-macos.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Instead of the Task Manager on Windows, you can use Activity Monitor to view information about your laptop's hard drive utilization, memory usage, and other data.
 
@@ -101,10 +100,10 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
  One of the biggest benefits of macOS is that it comes with a lot of extra apps that you'd normally have to pay for. Pages and Numbers are replacements for Word and Excel, for example, and GarageBand is a music creation tool. You also get access to FaceTime and iMessage.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The UI Looks Similar but Is Not the Same
@@ -121,20 +120,33 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 
 ![Spotlight search in macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/spotlight-search-in-macos.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Spotlight is packed with features](https://screen-capture.techidaily.com/updated-shadowed-swords-and-honored-combatants-must-try-titles-inspired-by-ghost-of-tsushi/). You can use it to find apps, documents, or emails by keying in a few keywords related to what you're searching for, as well as searching for news, sports scores, or weather updates, performing calculations, and much more.
 
  Another key difference in the UI is the menu bar. In macOS, the menu bar is always located at the top of the screen rather than the top of the window and extends across its width. It gives you access to the Apple menu, Finder, the time and date, Wi-Fi and Bluetooth settings, and the battery status, as well as app-specific menu options.
 
 ![The menubar in macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-menubar-in-macos.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In comparison, Windows laptops combine the Start menu, system tray, and taskbar into a single bar that's located at the bottom of the screen by default.
+
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  You Open Apps With the Launchpad Instead of the Start Menu
 
@@ -163,18 +175,21 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-enhancing-webcam-gaming-experience-and-quality/"><u>[New] 2024 Approved Enhancing WebCam Gaming Experience & Quality</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-noir-effects-in-adobe-premiere/"><u>[New] Noir Effects in Adobe Premiere</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-10-most-affordable-cloud-vendors-listed/"><u>[New] Top 10 Most Affordable Cloud Vendors Listed</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/op-15-royalty-free-music-hideouts-for-video-artists-for-2024/"><u>[New] Top 15 Royalty-Free Music Hideouts for Video Artists for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-mastery-of-video-dimensions-achieving-balanced-facebook-posts/"><u>[Updated] In 2024, Mastery of Video Dimensions Achieving Balanced Facebook Posts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-textual-tricks-for-tickling-funny-bones/"><u>[Updated] Textual Tricks for Tickling Funny Bones</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-essence-of-elongated-images-through-iphone-writings/"><u>[Updated] The Essence of Elongated Images Through iPhone’ Writings</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-streamlined-methods-for-iphone-screen-capture/"><u>2024 Approved Streamlined Methods for iPhone Screen Capture</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-realme-v30-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Realme V30 Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-audio-visual-storytelling-with-iphone/"><u>In 2024, The Art of Audio-Visual Storytelling with iPhone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mastering-word-document-issues-top-5-strategies-to-fix-winwordexe-problems/"><u>Mastering Word Document Issues: Top 5 Strategies to Fix WINWORD.EXE Problems</u></a></li>
-<li><a href="https://article-files.techidaily.com/snapseed-advanced-usage-insights/"><u>Snapseed Advanced Usage Insights</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transforming-photos-with-simple-bg-removal-in-picsart-for-2024/"><u>Transforming Photos with Simple Bg Removal in Picsart for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-budget-friendly-cloud-pricing-showdown/"><u>[New] Budget-Friendly Cloud Pricing Showdown</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-mastering-unboxing-expert-tips-and-tricks/"><u>[New] Mastering Unboxing Expert Tips and Tricks</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/avigating-through-common-youtube-short-difficulties/"><u>[New] Navigating Through Common YouTube Short Difficulties</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-incorporating-b-roll-in-video-production/"><u>[New] The Art of Incorporating B Roll in Video Production</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-video-selfie-verification-on-instagram-helpful-or-hype-in-2024/"><u>[New] Video Selfie Verification on Instagram - Helpful or Hype, In 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-inside-out-of-t5-ultimate-sports-and-adventures-recorder/"><u>[Updated] In 2024, Inside Out of T5 Ultimate Sports and Adventures Recorder</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleash-your-full-potential-top-ideas-for-productive-podcast-sessions/"><u>[Updated] Unleash Your Full Potential Top Ideas for Productive Podcast Sessions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-live-streamers-an-analytical-comparison-review/"><u>2024 Approved Top 10 Live Streamers An Analytical Comparison Review</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-professional-insights-for-better-gopro-recording/"><u>In 2024, Professional Insights for Better GoPro Recording</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-the-seamless-tweet-to-snap-transition-guide/"><u>In 2024, The Seamless Tweet-to-Snap Transition Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-8-montage-apps-for-androidiphone/"><u>In 2024, Top 8 Montage Apps for Android/iPhone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Honor V Purse? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/resetting-your-windows-backup-preferences/"><u>Resetting Your Windows Backup Preferences</u></a></li>
+<li><a href="https://some-skills.techidaily.com/supreme-select-iphone-customized-sound-crafting-for-2024/"><u>Supreme Select IPhone Customized Sound Crafting for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/vegas-pro-2021-a-detailed-gaming-world-survey-for-2024/"><u>Vegas Pro 2021 A Detailed Gaming World Survey for 2024</u></a></li>
 </ul></div>
 

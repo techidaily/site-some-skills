@@ -1,7 +1,7 @@
 ---
 title: "Bankruptcy Alert: How a Massive $30+ Million Bitcoin Robbery Rocked Crypto.com"
-date: 2024-10-20T17:36:48.860Z
-updated: 2024-10-27T17:06:02.267Z
+date: 2024-10-27T17:07:10.934Z
+updated: 2024-11-02T17:32:29.048Z
 tags:
   - cutting-edge
 categories:
@@ -19,10 +19,10 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
  A considerable hack occurred on the popular [cryptocurrency exchange](https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-itel-p40plus-phones-by-drfone-android/) Crypto.com. The hack led to over $30 million in crypto being stolen in the form of 4,836.26 Ethereum and 443.93 bitcoin.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Happened to Crypto.com?
@@ -42,10 +42,16 @@ Related: [What is Ethereum, and What Are Smart Contracts?](https://extra-informa
 > On Monday, 17 January 2022 at approximately 12:46 AM UTC Crypto.com's risk monitoring systems detected unauthorized activity on a small number of user accounts where transactions were being approved without the 2FA authentication control being inputted by the user. This triggered an immediate response from multiple teams to assess the impact. All withdrawals on the platform were suspended for the duration of the investigation. Any accounts found to be impacted were fully restored. Crypto.com revoked all customer 2FA tokens, and added additional security hardening measures, which required all customers to re-login and set up their 2FA token to ensure only authorized activity would occur. Downtime of the withdrawal infrastructure was approximately 14 hours, and withdrawals were resumed at 5:46 PM UTC, 18 January 2022.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Is Crypto.com Doing to Fix It?
@@ -77,16 +83,14 @@ Related: [Opera Just Launched a Crypto Browser for Some Reason](https://howto.te
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-enter-the-world-of-online-promotion-exclusive-free-youtube-banner-access/"><u>[New] 2024 Approved Enter the World of Online Promotion Exclusive Free YouTube Banner Access</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-essential-steps-to-producing-a-youtube-hit-music-reaction-video-guide-for-2024/"><u>[New] Essential Steps to Producing a YouTube Hit Music Reaction Video Guide for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-syma-x8c-for-beginner-pilots/"><u>[New] Syma X8C for Beginner Pilots</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-eluding-home-school-video-content/"><u>2024 Approved The Art of Eluding Home School Video Content</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mp4mp3/"><u>優化發現：MP4到MP3自由變換技術 - 快速無需付錢！</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/holistic-mobility-inspection-study-for-2024/"><u>Holistic Mobility Inspection Study for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-from-your-apple-iphone-x-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card from Your Apple iPhone X Apple ID and Apple Pay</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlock-your-creative-potential-with-inshot-for-pcs-and-laptops/"><u>In 2024, Unlock Your Creative Potential with Inshot for PCs & Laptops</u></a></li>
-<li><a href="https://some-skills.techidaily.com/leading-the-charge-smart-transcription-in-professional-slides-for-2024/"><u>Leading the Charge Smart Transcription in Professional Slides for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/opt-out-of-autoplayed-podcast-selection-by-spotify-for-2024/"><u>Opt-Out of Autoplayed Podcast Selection by Spotify for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-guide-to-the-top-5-youtube-link-reducers-for-2024/"><u>The Ultimate Guide to the Top 5 YouTube Link Reducers for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-budget-conscious-video-modification-sites-explored-and-rated/"><u>[New] Top Budget-Conscious Video Modification Sites Explored and Rated</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-lightning-fast-windowed-photo-reader-for-win11-for-2024/"><u>[Updated] Lightning-Fast Windowed Photo Reader for Win11 for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-easy-path-to-engaging-animation-in-your-videos/"><u>2024 Approved The Easy Path to Engaging Animation in Your Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-benq-bl2711u-27-professional-4k-monitor-review/"><u>In 2024, BENQ BL2711U 27” Professional 4K Monitor Review</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-vector-insight-for-beginners-basic-forms-and-choice-tools/"><u>In 2024, Vector Insight for Beginners Basic Forms and Choice Tools</u></a></li>
+<li><a href="https://win-able.techidaily.com/life-is-strange-true-colors-crash-fixed-comprehensive-guide/"><u>Life Is Strange: True Colors - Crash Fixed Comprehensive Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mastering-film-format-changes-discover-how-digiartys-conversion-solutions-can-help-you/"><u>Mastering Film Format Changes: Discover How Digiarty's Conversion Solutions Can Help You!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/pixeljudge-quality-analyzer-for-2024/"><u>PixelJudge Quality Analyzer for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/swiftly-piece-together-a-stunning-google-photo-collage-for-2024/"><u>Swiftly Piece Together a Stunning Google Photo Collage for 2024</u></a></li>
 </ul></div>
 

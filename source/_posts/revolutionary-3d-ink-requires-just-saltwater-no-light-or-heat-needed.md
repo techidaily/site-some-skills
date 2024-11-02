@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary 3D Ink Requires Just Saltwater: No Light or Heat Needed"
-date: 2024-09-29T19:10:50.389Z
-updated: 2024-10-04T20:34:43.894Z
+date: 2024-10-27T16:28:25.268Z
+updated: 2024-11-02T18:25:48.765Z
 tags:
   - cutting-edge
 categories:
@@ -40,24 +40,25 @@ A multinational team of researchers has developed a novel 3D printing ink that c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-creating-compelling-content-with-powerful-youtube-titles/"><u>[New] 2024 Approved Creating Compelling Content with Powerful YouTube Titles</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-no-fuss-podcast-streaming-handbook/"><u>[New] The No-Fuss Podcast Streaming Handbook</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-8-best-free-srt-translators-online-tips-to-choose/"><u>[New] Top 8 Best Free SRT Translators Online (Tips to Choose)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unleash-the-content-free-movie-player-windowsmac/"><u>[New] Unleash the Content FREE MOVIE PLAYER (Windows/Mac)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlock-hidden-potential-top-10-enhancing-plug-ins/"><u>[New] Unlock Hidden Potential Top 10 Enhancing Plug-Ins</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-10-best-free-editors-to-craft-captivating-facebook-videos/"><u>[Updated] 10 Best Free Editors to Craft Captivating Facebook Videos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-pro-anglers-choice-the-top-5-cameras-for-fishing/"><u>[Updated] Pro Angler's Choice The Top 5 Cameras For Fishing</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-quick-and-easy-iphone-screen-capture-techniques/"><u>In 2024, Quick and Easy iPhone Screen Capture Techniques</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-essential-guide-to-leveraging-chatgpts-inbuilt-tools-and-their-purposes/"><u>The Essential Guide to Leveraging ChatGPT's Inbuilt Tools and Their Purposes</u></a></li>
-<li><a href="https://extra-information.techidaily.com/tiktok-tricks-for-striking-visual-results/"><u>TikTok Tricks for Striking Visual Results</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-memes-with-a-smile-builder-for-2024/"><u>Top Memes with a Smile Builder for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-premier-20-unrestricted-pubg-montage-samples/"><u>[New] Premier 20 Unrestricted PUBG Montage Samples</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-youtube-video-titles-creator-tools/"><u>[New] Ultimate YouTube Video Titles Creator Tools</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-audiophiles-guide-techniques-to-elevate-sound-recording/"><u>[Updated] 2024 Approved Audiophile's Guide Techniques to Elevate Sound Recording</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-seamlessly-post-pictures-your-youtube-visual-guide/"><u>[Updated] Seamlessly Post Pictures Your YouTube Visual Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-taking-it-upward-panning-high-with-your-phone/"><u>[Updated] Taking It Upward Panning High with Your Phone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/choose-research-methods-and-tools/"><u>Choose Research Methods and Tools:</u></a></li>
+<li><a href="https://win-info.techidaily.com/expert-advice-on-retrieving-deleted-items-post-minor-hard-drive-sanitization/"><u>Expert Advice on Retrieving Deleted Items Post Minor Hard Drive Sanitization</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-humorous-haven-gratuitous-meme-makers/"><u>In 2024, Humorous Haven Gratuitous Meme Makers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-pinnacle-pdf-transformations/"><u>In 2024, Pinnacle PDF Transformations</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/optimizing-dying-light-overcoming-fps-decreases-for-a-seamless-survival-horror-adventure/"><u>Optimizing Dying Light: Overcoming FPS Decreases for a Seamless Survival Horror Adventure</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/preserving-chronological-integrity-in-visuals/"><u>Preserving Chronological Integrity in Visuals</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-swift-guide-to-validate-your-tiktok-age-for-2024/"><u>The Swift Guide to Validate Your TikTok Age for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/unityflip-blend-ios-and-macos-media-artfully/"><u>UnityFlip Blend iOS & macOS Media Artfully</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

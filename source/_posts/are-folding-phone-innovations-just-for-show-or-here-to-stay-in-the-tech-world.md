@@ -1,7 +1,7 @@
 ---
 title: Are Folding Phone Innovations Just for Show, or Here to Stay in the Tech World?
-date: 2024-10-21T18:53:07.805Z
-updated: 2024-10-27T23:25:53.316Z
+date: 2024-10-26T17:19:31.527Z
+updated: 2024-11-02T16:23:56.095Z
 tags:
   - mobile
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  I'm the last person you'd expect to be down on cool and interesting gadgets, and folding phones definitely qualify as both, but will they ever be more than that? Can folding phones become a mainstream option for smartphone buyers at some point, or is the whole premise flawed?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Folding Phones Have a Dubious Purpose
 
  What are folding phones actually meant to do better than regular slabs? There are essentially just two use cases as far as I can tell. One is to let you have a standard phone screen size, but make the phone shorter, as with the [Galaxy Z Flip](https://twitter-videos.techidaily.com/no-cash-all-fun-turning-twitter-vids-into-gifs-for-2024/). The other is to keep the phone close to a regular phone's shape, but to fold it open into something closer to a small tablet, as is the case with the [Galaxy Z Fold](https://screen-activity-recording.techidaily.com/new-vsf-video-capture-insights-a-critical-look-for-2024/).
@@ -26,10 +33,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Person holding the Samsung Galaxy Z Flip 6 showing the cover display](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/person-holding-the-samsung-galaxy-z-flip-6-showing-the-cover-display.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
@@ -41,10 +48,10 @@ Justin Duino / How-To Geek
  Folding phones are cool, and a novelty, but for me, when you try to break down the value proposition to its essence, it doesn't quite add up to more than that.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Moving Parts Are Always Less Reliable
@@ -52,13 +59,6 @@ Justin Duino / How-To Geek
  One of the best things about my [M1 MacBook Air](https://facebook-video-share.techidaily.com/new-2024-approved-discover-the-best-tools-and-tips-to-accurately-tag-your-videos/) is that it's almost entirely a solid-state device, except for the screen hinge and the keyboard, which are still failure points. My smartphone and iPad, on the other hand, are in completely solid state, with no moving parts. If it weren't for the current state of battery technology, these devices would probably work indefinitely. Barring physical damage, a modern phone is pretty much bulletproof until the battery gives up the ghost.
 
  With a folding phone you throw absolutely all of that out the window, with both a complex hinge and the folding screen itself, which is enormously more fragile. Until materials science advances to the point where these folding screens are as robust against wear and damage as typical smartphone screens are today, I'll remain hesitant to get one as my daily driver. I've also come to the point where I don't consider a smartphone something I use for two years and then replace. These devices are so powerful, and makers are promising such long support cycles, that I expect five years of use with [proper battery care](https://review-topics.techidaily.com/how-to-change-location-on-facebook-dating-for-your-infinix-gt-10-pro-drfone-by-drfone-virtual-android/). I just don't see folding phones doing that on average with normal daily use.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  The Sacrifices Aren’t Worth It
 
@@ -75,10 +75,10 @@ Justin Duino / How-To Geek
 ![The Phantom Ultimate 3 rollable phone held in a hand.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/phantom_ultimate_3.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Tecno
@@ -102,22 +102,22 @@ Tecno
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-5-reddit-marketing-tips-that-will-turn-beginners-into-experts/"><u>[New] 5 Reddit Marketing Tips that Will Turn Beginners Into Experts</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-easy-access-to-expert-tech-insights/"><u>[New] In 2024, Easy Access to Expert Tech Insights</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/napshots-of-opposites-youtube-video-inverts/"><u>[New] Snapshots of Opposites YouTube Video Inverts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-telehealth-advancements-with-vr-integrations/"><u>[New] Telehealth Advancements with VR Integrations</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-archivists-arsenal-pivotal-80s-vhs-tricks-for-editors/"><u>[New] The Archivist’s Arsenal Pivotal 80S VHS Tricks for Editors</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-how-tos-on-selecting-best-ios-video-editing-software-for-2024/"><u>[Updated] How-To's on Selecting Best iOS Video Editing Software for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-true-color-harmony-software/"><u>[Updated] True Color Harmony Software</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-1-live-music-broadcasts/"><u>2024 Approved Top 1 Live Music Broadcasts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-11-brainy-battles-general-knowledge-channels-revealed/"><u>2024 Approved Top 11 Brainy Battles General Knowledge Channels Revealed</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-guide-top-10-preferred-gopro-housing/"><u>2024 Approved Ultimate Guide Top 10 Preferred GoPro Housing</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-sony-xperia-1-v-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Sony Xperia 1 V to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-samsung-galaxy-a15-4g-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Samsung Galaxy A15 4G.</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oneplus-11-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your OnePlus 11 5G</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-the-art-of-hyper-v-installation-on-w11-home-systems/"><u>Master the Art of Hyper-V Installation on W11 Home Systems</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/seamless-tiktok-navigation-efficiently-change-your-number-for-2024/"><u>Seamless TikTok Navigation Efficiently Change Your Number for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/swift-listening-on-spotify-how-to-accelerate-audio-safely-for-2024/"><u>Swift Listening on Spotify How to Accelerate Audio Safely for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-13-best-free-pdf-editor-software-reviewed-july-2024-edition/"><u>Top 13 Best Free PDF Editor Software Reviewed - July 2024 Edition</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-how-to-view-instagram-stories-anonymously-on-pc-android-and-iphone/"><u>[New] 2024 Approved How to View Instagram Stories Anonymously on PC, Android, and iPhone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-complete-guide-to-itunes-podcast-upload/"><u>[New] The Complete Guide to iTunes Podcast Upload</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-handheld-stabilizers-to-elevate-your-vlogging-game/"><u>[New] Top Handheld Stabilizers to Elevate Your Vlogging Game</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unleash-creativity-building-a-memorable-podcast-logo/"><u>[New] Unleash Creativity Building a Memorable Podcast Logo</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-path-to-powerdirector-proficiency-2024-edition/"><u>[Updated] The Ultimate Path to PowerDirector Proficiency - 2024 Edition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-toolwiz-visualize-a-comprehensive-2023-evaluation/"><u>[Updated] Toolwiz Visualize - A Comprehensive 2023 Evaluation</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-unveiling-top-5-mac-snippet-applications-for-2024/"><u>[Updated] Unveiling Top 5 Mac Snippet Applications for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-deciphering-whatsapp-talk-mechanics/"><u>2024 Approved Deciphering WhatsApp Talk Mechanics</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-virtual-evolution-dichotomy-metaverse-and-omniverse-compared/"><u>2024 Approved The Virtual Evolution Dichotomy Metaverse & Omniverse Compared</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bypass-the-frustrating-itbm-driver-not-available-message-quick-and-effective-fixes-inside/"><u>Bypass the Frustrating 'ITBM Driver Not Available' Message – Quick and Effective Fixes Inside</u></a></li>
+<li><a href="https://windows11.techidaily.com/command-prompt-mastery-the-fundamental-20-cmd-commands-to-know/"><u>Command Prompt Mastery: The Fundamental 20 CMD Commands to Know</u></a></li>
+<li><a href="https://facebook.techidaily.com/download-private-fb-memories-without-breaking-rules/"><u>Download Private FB Memories Without Breaking Rules</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Oppo Reno 10 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-g2-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo G2 to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-the-power-of-free-copyright-free-image-repositories/"><u>In 2024, Unleashing the Power of Free, Copyright-Free Image Repositories</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/stardews-best-guide-to-ginger-island-for-2024/"><u>Stardew's Best Guide to Ginger Island for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleash-the-artistry-of-impressive-gopro-timelapse-videos-for-2024/"><u>Unleash the Artistry of Impressive GoPro Timelapse Videos for 2024</u></a></li>
 </ul></div>
 

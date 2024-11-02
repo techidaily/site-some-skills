@@ -1,7 +1,7 @@
 ---
 title: Efficient File Comparison Techniques Using Notepad++
-date: 2024-10-21T22:59:03.451Z
-updated: 2024-10-27T16:07:45.346Z
+date: 2024-10-28T17:53:36.096Z
+updated: 2024-11-02T17:20:31.325Z
 tags:
   - desktop
 categories:
@@ -33,24 +33,31 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Plugins Admin' and 'Next' highlighted in the Notepad++ installation wizard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-install-plugins-admin-notepad-plus-plus.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  On the screen that follows, optionally, enable "[Create Shortcut on Desktop](https://extra-approaches.techidaily.com/updated-skys-limit-for-your-visual-stories-unlimited-free-options-and-premium-choices/)" to add the app’s shortcut to your desktop. Then, click "Install."
 
 !['Create Shortcut on Desktop' and 'Install' highlighted in the Notepad++ installation wizard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-create-notepad-plus-plus-desktop-shortcut.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When you’ve installed the app, click "Finish."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Step 2\. Install the Compare Plugin Using Plugins Admin
@@ -75,13 +82,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Notepad++ will relaunch with the Compare plugin installed.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Step 3\. Compare Two Files in Notepad++
 
  Now that you’ve finished adding the Compare plugin, let’s use it to compare your files.
@@ -91,16 +91,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 !['Open' highlighted in Notepad++.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/7-open-files-notepad-plus-plus.png) 
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After opening both files, from the app’s menu bar, select Plugins > Compare > Compare.
@@ -115,31 +109,31 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Rotate to Left' and 'Rotate to Right' options highlighted in Notepad++.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/10-change-view-mode-notepad-plus-plus.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To change the colors used to highlight differences, from the app’s menu bar, select Plugins > Compare > Settings.
 
 !['Settings' highlighted in Notepad++.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/11-compare-plugin-settings-notepad-plus-plus.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  On the "Compare Plugins" window, in the "Color Settings" section, choose the various colors you’d like to use. Then, click "OK." To revert your changes, choose "Reset."
 
 !['Color Settings' and 'OK' highlighted on the 'Compare Plugin Settings' window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/12-change-color-settings-compare-plugin-notepad-plus-plus.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After using the plugin, when you want to close the plugin’s functionality, select Plugins > Compare > Clear All Compares from the menu bar.
 
 !['Clear All Compares' highlighted in Notepad++.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/13-clear-comparison-notepad-plus-plus.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  And that’s how you quickly know the difference between two files using a free and open-source app on your computer. Notepad++ is a great [plain text editor](https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-lava-yuva-3-drfone-by-drfone-virtual-android/), and it can natively do all sorts of useful things besides compare files, like [replace specific characters with new lines](https://screen-mirror.techidaily.com/the-top-10-apple-iphone-6-plus-emualtors-for-windows-mac-and-android-drfone-by-drfone-ios/). It shines even more when you start adding plugins.
 
@@ -158,22 +152,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-expert-tips-for-captivating-and-impressive-hdr-portraits/"><u>[New] 2024 Approved Expert Tips for Captivating and Impressive HDR Portraits</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-essential-blueprint-for-configuring-a-zoom-space/"><u>[New] The Essential Blueprint for Configuring a Zoom Space</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-best-toy-drones-for-kids/"><u>[New] The Ultimate Guide to Best Toy Drones for Kids</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unveiling-the-secrets-how-to-efficiently-record-internet-radio/"><u>[New] Unveiling the Secrets How To Efficiently Record Internet Radio</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-nailing-the-aesthetic-mastering-snapchats-filters-and-effects/"><u>[Updated] 2024 Approved Nailing the Aesthetic Mastering Snapchat's Filters & Effects</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-current-compendium-of-questions-for-captivating-audio-clips-for-2024/"><u>[Updated] Current Compendium of Questions for Captivating Audio Clips for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-triggering-windows-11-hdr-in-dynamic-mode/"><u>[Updated] Triggering Windows 11 HDR in Dynamic Mode</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-swift-windows-document-reviewing-techniques/"><u>2024 Approved Swift Windows Document Reviewing Techniques</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-for-a-smart-4k-lens-upgrade/"><u>2024 Approved The Ultimate Guide for a Smart 4K Lens Upgrade</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-trending-stock-images-and-behind-the-scenes-stories/"><u>2024 Approved Top Trending Stock Images & Behind-the-Scenes Stories</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/advanced-techniques-in-optimizing-your-intel-powered-imac-through-strategic-upgrades/"><u>Advanced Techniques in Optimizing Your Intel-Powered iMac Through Strategic Upgrades</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/consistent-care-for-your-pets-using-the-petsafe-six-serving-dispenser/"><u>Consistent Care for Your Pets Using the PetSafe Six-Serving Dispenser</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/expert-tips-on-retrieving-lost-images-a-step-by-step-guide-for-iphones/"><u>Expert Tips on Retrieving Lost Images - A Step-by-Step Guide for iPhones</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-keeping-your-gopro-fogless-for-perfection/"><u>In 2024, Keeping Your GoPro Fogless for Perfection</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-brawlers-domain-vs-twitch-territory/"><u>In 2024, The Brawler's Domain Vs. Twitch Territory</u></a></li>
-<li><a href="https://techtrends.techidaily.com/is-the-new-samsung-galaxy-s24-ultra-excessively-impressive/"><u>Is The New Samsung Galaxy S24 Ultra Excessively Impressive?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-oppo-reno-11f-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Oppo Reno 11F 5G FRP Bypass</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-freedom-in-viewing-is-vlc-more-powerful-than-mpc/"><u>[New] 2024 Approved Freedom in Viewing Is VLC More Powerful Than MPC?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-5-tools-to-make-a-gif-meme/"><u>[New] 5 Tools to Make a GIF Meme</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transform-your-snapchat-storytelling-learn-to-zoom-like-pros/"><u>[New] Transform Your Snapchat Storytelling Learn to Zoom Like Pros</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-navigating-the-landscape-a-guide-to-using-hashtags-on-facebook/"><u>[Updated] Navigating the Landscape A Guide to Using Hashtags on Facebook</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-evolution-of-burst-mode-in-gopro-cameras/"><u>[Updated] The Evolution of Burst Mode in GoPro Cameras</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-10-live-audio-broadcast-networks/"><u>[Updated] Top 10 Live Audio Broadcast Networks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-virtual-reality-vr-bikes-to-check-out/"><u>[Updated] Top Virtual Reality (VR) Bikes to Check Out</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleash-the-power-of-pause-tips-for-slow-motion-video-using-photo-apps/"><u>[Updated] Unleash the Power of Pause Tips for Slow-Motion Video Using Photo Apps</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-you-trust-it-unveiling-potential-security-pitfalls-in-openais-innovative-chatgpt-technology/"><u>Can You Trust It? Unveiling Potential Security Pitfalls in OpenAI's Innovative ChatGPT Technology</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/cool-climates-cozy-cinematics-selecting-winter-backgrounds/"><u>Cool Climates, Cozy Cinematics Selecting Winter Backgrounds</u></a></li>
+<li><a href="https://fox-info.techidaily.com/discovering-the-tech-marvel-in-apples-m1-max-clip-for-2024/"><u>Discovering the Tech Marvel in Apple's M1 Max Clip for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725283986575-dvd/"><u>DVD、音声、ビデオ再生手順一覧集:全体を捉えた包括的指南</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-vivo-x90s-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Vivo X90S Phones with/without a PC</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-honor-x8b-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Honor X8b FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-stream-control-duo-deciding-between-xsplit-and-obs-tech/"><u>In 2024, Stream Control Duo Deciding Between XSplit and OBS Tech</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-crafting-winning-giveaway-posts-on-facebook/"><u>In 2024, The Art of Crafting Winning Giveaway Posts on Facebook</u></a></li>
+<li><a href="https://techtrends.techidaily.com/macos-15-sequoia-release-date-features-and-news/"><u>MacOS 15 (Sequoia): Release Date, Features and News</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-your-shots-with-understanding-luts-for-2024/"><u>Transform Your Shots with Understanding LUTs for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/zen-5-cpu-revelation-the-new-ryzen-ai-eat-intels-and-apples-chips-for-breakfast-sets-high-passmark-records/"><u>Zen 5 CPU Revelation: The New Ryzen AI Eat Intel's and Apple's Chips for Breakfast, Sets High PassMark Records</u></a></li>
 </ul></div>
 

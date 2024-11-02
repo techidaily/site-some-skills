@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Truth: Effective Techniques for Recognizing Synthetic Videos Crafted by AI Systems Today"
-date: 2024-10-03T20:59:13.998Z
-updated: 2024-10-04T19:06:56.095Z
+date: 2024-10-28T18:13:09.441Z
+updated: 2024-11-02T18:05:52.823Z
 tags:
   - cutting-edge
 categories:
@@ -42,18 +42,18 @@ thumbnail: https://thmb.techidaily.com/db6e8bb5b9330de241494205e28fd162607bcee64
 
 ![OpenAI SORA Tokyo night scene example clip.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/tokyo_clothes1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 OpenAI
 
  Now take a look at the same clothes in the close-up and you’ll see that the dress now has dark patches on it and that the leather jacket has a much larger off-center lapel:
 
 ![OpenAI SORA Tokyo night scene close up.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/tokyo_clothes2.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 OpenAI
 
@@ -63,6 +63,13 @@ OpenAI
 
 ![OpenAI SORA California gold rush town.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/goldrush1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 OpenAI
 
  Two seconds later, the figure has disappeared entirely. If you watch the video, you’ll see this figure blend right into the dirt as if it were a ghost:
@@ -70,13 +77,6 @@ OpenAI
 ![OpenAI SORA California gold rush town showing a "ghost" disappearing.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/goldrush2.png) 
 
 OpenAI
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  AI Struggles with Fingers, Glasses, and Finer Elements
 
@@ -94,13 +94,6 @@ OpenAI
 
  Can you take your third arm off my leg, please?
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Look Closely at Objects in the Background of an Image
 
  Background details are often a dead giveaway when it comes to AI-generated video, even more so than photos. A good fake depends on the subject being convincing enough to distract you that the background isn’t quite behaving in the way it should be.
@@ -108,13 +101,6 @@ OpenAI
  Take a look at the Tokyo night scene video again. This scene is so dense that it’s easy to just take everything at face value, but look closely at the people walking in the background, particularly those to the left of the subject:
 
 ![OpenAI SORA Tokyo night scene background details.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/background_people_tokyo.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 OpenAI
 
@@ -132,6 +118,13 @@ OpenAI
 
  Everything can look a bit like a highly-produced music video, or like video games in the days before [realistic lighting and raytracing](https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-honor-90-drfone-by-drfone-virtual/). Subjects may look perfectly lit in instances where you’d expect them not to be.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Uncanny Valley Effect
 
  The uncanny valley effect is a term used to describe the mixing of human and inhuman traits in a manner that makes the viewer feel uncomfortable. Androids or human-like robots are oft-cited examples since they give the outward appearance of being human but are inescapably inhuman at the same time.
@@ -143,10 +136,10 @@ OpenAI
 ![OpenAI SORA spaceman with a knitted helmet video demonstrating the uncanny valley effect.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/uncanny_valley.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 OpenAI
@@ -155,26 +148,27 @@ OpenAI
 
 ![OpenAI SORA's nightmare granny.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/nightmare_granny.png) 
 
-OpenAI
-
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+OpenAI
 
 ##  Watch Out for Nonsense
 
  This seems like the easiest red flag to spot, but sometimes your brain just gives things a pass. The aforementioned spaceman video is a good example of this. There’s a brief scene of a door, or a handle, or a lever, or _something_ that just doesn’t make sense:
 
 ![OpenAI SORA spaceman video depicting a weird object.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/weird_lever.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 OpenAI
 
@@ -207,20 +201,22 @@ OpenAI
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-create-impactful-valorant-thumbnails-a-compreayers-guide-for-2024/"><u>[New] How to Create Impactful Valorant Thumbnails A Compreayer's Guide for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-microsoft-screen-recorder-for-2024/"><u>[New] Microsoft Screen Recorder for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-the-power-of-panoramic-videography-with-premieres-tools/"><u>[New] Unlocking the Power of Panoramic Videography with Premiere's Tools</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-win-and-mac-basic-guide-for-embedding-captions-in-images/"><u>[Updated] 2024 Approved Win & Mac Basic Guide for Embedding Captions in Images</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-mastery-in-music-selection-enhancing-video-packages-for-2024/"><u>[Updated] Mastery in Music Selection Enhancing Video Packages for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-creative-entrepreneurs-handbook-in-design/"><u>[Updated] The Creative Entrepreneur's Handbook in Design</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-5-display-choices-to-enhance-ps5xbox-playtime/"><u>[Updated] Top 5 Display Choices to Enhance PS5/Xbox Playtime</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-understanding-the-role-and-impact-of-b-roll-in-editing/"><u>[Updated] Understanding the Role and Impact of B Roll in Editing</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-master-the-digital-landscape-with-these-7-indispentic-devices/"><u>2024 Approved Master the Digital Landscape with These 7 Indispentic Devices</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-your-movies-in-windows-10-with-these-techniques/"><u>2024 Approved Streamline Your Movies in Windows 10 with These Techniques</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-troubleshooting-tips-for-a-missing-realtek-lan-driver/"><u>Comprehensive Troubleshooting Tips for a Missing Realtek LAN Driver</u></a></li>
-<li><a href="https://some-skills.techidaily.com/thankful-compilation-professional-and-personalized-otus-for-2024/"><u>Thankful Compilation Professional & Personalized OTUs for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-best-sound-gear-matching-mics-with-4k-cameras-for-2024/"><u>The Best Sound Gear Matching Mics with 4K Cameras for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/twitter-video-requirement-aspect-ratio-for-2024/"><u>Twitter Video Requirement - Aspect Ratio for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unlock-enhanced-video-playback-and-app-functionality-with-chromes-pip/"><u>Unlock Enhanced Video Playback and App Functionality with Chrome’s PIP</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-stepwise-strategies-for-high-quality-time-lapse-videos-in-gopro-studio/"><u>[New] Stepwise Strategies for High Quality Time Lapse Videos in GoPro Studio</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-years-finest-photo-framers-and-organizers-compilation/"><u>[New] The Year's Finest Photo Framers & Organizers Compilation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-free-tools-for-flawless-srt-conversion/"><u>[New] Top Free Tools for Flawless SRT Conversion</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transforming-ordinary-interviews-into-impactful-experiences/"><u>[New] Transforming Ordinary Interviews Into Impactful Experiences</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamsavvy-beyond-the-dacast-boundary/"><u>[Updated] StreamSavvy Beyond the DaCast Boundary</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-future-of-human-computer-conversation-systems/"><u>[Updated] The Future of Human-Computer Conversation Systems</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-strategies-to-locate-and-use-a-missing-iphone-x/"><u>[Updated] Top Strategies to Locate and Use a Missing iPhone X</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/coming-soon-the-next-gen-touchscreen-macbook-price-estimates-launch-date-features-detailed-inside/"><u>Coming Soon? The Next-Gen Touchscreen MacBook: Price Estimates, Launch Date, Features Detailed Inside!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-insights-on-using-onetastic-enhancer-with-microsofts-onenote-application/"><u>Expert Insights on Using Onetastic Enhancer with Microsoft's OneNote Application</u></a></li>
+<li><a href="https://blog-min.techidaily.com/het-allerbeste-giftige-programmas-voor-gratis-video-versterking-in-nederland/"><u>Het Allerbeste Giftige Programma's Voor Gratis Video-Versterking in Nederland</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-video-production-green-screen-magic-unveiled/"><u>In 2024, Streamlining Video Production Green Screen Magic Unveiled</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-document-interaction-how-chatgpt-can-be-trained-to-read-pdf-content/"><u>Mastering Document Interaction: How ChatGPT Can Be Trained to Read PDF Content</u></a></li>
+<li><a href="https://article-posts.techidaily.com/mastering-the-art-of-audio-file-conversion-from-srt-formats-for-2024/"><u>Mastering the Art of Audio File Conversion From SRT Formats for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-lg-bp350-review-audiovisual-performance-analysis-for-2024/"><u>The LG BP350 Review Audiovisual Performance Analysis for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/ultimate-guide-to-effective-package-verification/"><u>Ultimate Guide to Effective Package Verification</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-secrets-of-lut-customization-in-premiere-for-2024/"><u>Unveiling the Secrets of LUT Customization in Premiere for 2024</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-tecno-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Tecno</u></a></li>
 </ul></div>
 

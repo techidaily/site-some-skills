@@ -1,7 +1,7 @@
 ---
 title: "Easy Guide: Adding Your Site to the Windows 11 Taskbar and Start Menu"
-date: 2024-10-21T16:15:39.734Z
-updated: 2024-10-27T18:57:09.083Z
+date: 2024-10-28T16:51:28.026Z
+updated: 2024-11-02T17:29:25.830Z
 tags:
   - desktop
 categories:
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/e0aa0dfacb5bc4ee1d37cc4f4885664e2981c05a1
 
  Having quick access to frequently-used or hard to remember websites can save you time and frustration. Whether you use Chrome, Firefox, or Edge, you can add a shortcut to any site right to your Windows 10 taskbar or Start menu.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Pin a Website from Google Chrome
 
  Navigate to the website you want to pin. Click the three vertical dots in the top right of Chrome, hover your mouse over "Save and Share," then select "Create Shortcut."
@@ -47,13 +54,6 @@ thumbnail: https://thmb.techidaily.com/e0aa0dfacb5bc4ee1d37cc4f4885664e2981c05a1
 
 ![Right-click the icon and select 'Pin to Start.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-pin-to-start.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Pin a Website from Firefox
 
  Create a shortcut to Firefox on your desktop. You can do this by typing "Firefox" into your Start menu, right-clicking on the icon, and clicking "Open File Location."
@@ -64,18 +64,18 @@ thumbnail: https://thmb.techidaily.com/e0aa0dfacb5bc4ee1d37cc4f4885664e2981c05a1
 
 ![Create a Firefox Browser Shortcut](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/ff2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Right-click the new Firefox icon on your desktop, and click "Properties." In the Target field, insert the full URL of the website you want to pin after the quotation mark. Here's an example of what the Target field should look like:
 
         `"C:\Program Files (x86)\Mozilla Firefox\firefox.exe" https://www.howtogeek.com`
     
 ![Direct Firefox Shortcut to Specific Website](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/ff3.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Click "OK."
 
@@ -84,23 +84,17 @@ thumbnail: https://thmb.techidaily.com/e0aa0dfacb5bc4ee1d37cc4f4885664e2981c05a1
 ![Right-click the Firefox icon and select 'Pin to Start' or 'Pin to Taskbar.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-pin-to-start-pin-to-taskbar.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Pin a Microsoft Edge Website
@@ -128,16 +122,18 @@ thumbnail: https://thmb.techidaily.com/e0aa0dfacb5bc4ee1d37cc4f4885664e2981c05a1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-a-palette-of-pleasantness-five-winter-backgrounds-ideas-for-2024/"><u>[New] A Palette of Pleasantness Five Winter Backgrounds Ideas for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-the-top-agri-themed-titles-friendship-and-fun-in-the-countryside-for-2024/"><u>[New] The Top Agri-Themed Titles Friendship & Fun in the Countryside for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-leading-5-video-editors-outside-youtube-realm/"><u>[Updated] 2024 Approved Leading 5 Video Editors Outside YouTube Realm</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-vault-selection-for-top-corporate-use/"><u>2024 Approved Vault Selection for Top Corporate Use</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-analysis-of-the-linksys-ea8300-wi-fi-router-multi-device-connectivity-unleashed/"><u>Expert Analysis of the Linksys EA8300 Wi-Fi Router: Multi-Device Connectivity Unleashed</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-silent-windows-11-simple-steps-for-restoring-audio/"><u>How to Fix Silent Windows 11: Simple Steps for Restoring Audio</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-successfully-refresh-your-samsung-mobile-devices-usb-drivers-for-optimal-performance/"><u>How to Successfully Refresh Your Samsung Mobile Device's USB Drivers for Optimal Performance</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unparalleled-templates-for-meme-artists/"><u>In 2024, Unparalleled Templates for Meme Artists</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-apeman-c45e-dashcam-uncovered-top-picks-for-savvy-shoppers-on-a-budget/"><u>The Apeman C45e DashCam Uncovered: Top Picks for Savvy Shoppers on a Budget</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-chiefs-guide-to-superior-cloud-vaults-for-2024/"><u>The Chief's Guide to Superior Cloud Vaults for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-imovies-inherent-cropping-rules-for-2024/"><u>Unveiling iMovie's Inherent Cropping Rules for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-mastering-the-art-of-preserving-playstation-4-gaming-history-for-2024/"><u>[New] Mastering the Art of Preserving PlayStation 4 Gaming History for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-essential-e-steps-your-pathway-from-preparation-to-production-in-a-reviews-channel/"><u>[New] The Essential E-Steps Your Pathway From Preparation to Production in a Reviews Channel</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-virtual-memoirs-best-tools-and-practices-for-downloading-twitter-content-for-2024/"><u>[New] Virtual Memoirs Best Tools and Practices for Downloading Twitter Content for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-pro-converter-mp4-videos-for-social-media-fb-focus/"><u>[Updated] 2024 Approved Pro Converter MP4 Videos for Social Media (FB Focus)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-timeless-videos-selecting-excellent-slow-motion-cameras/"><u>[Updated] Timeless Videos Selecting Excellent Slow-Motion Cameras</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-beijing-bid-wins-2022-winter-olympics-highlights/"><u>2024 Approved Beijing Bid Wins 2022 Winter Olympics Highlights</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-calculated-viewing-time-for-a-standard-20mb-film/"><u>2024 Approved Calculated Viewing Time for a Standard 20Mb Film</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Vivo X90S? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-apple-iphone-7-plus-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your Apple iPhone 7 Plus</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Xiaomi 14 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-solution-pack-6-best-apps-for-signature-erasure/"><u>In 2024, Ultimate Solution Pack - 6 Best Apps for Signature Erasure</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-stunts-and-tricks-at-snowboarding-x-olympics-for-2024/"><u>Top Stunts and Tricks at Snowboarding X-Olympics for 2024</u></a></li>
 </ul></div>
 

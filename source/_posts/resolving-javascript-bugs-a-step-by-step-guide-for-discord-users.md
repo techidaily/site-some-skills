@@ -1,7 +1,7 @@
 ---
 title: "Resolving JavaScript Bugs: A Step-by-Step Guide for Discord Users"
-date: 2024-10-24T17:42:50.014Z
-updated: 2024-10-27T20:21:14.636Z
+date: 2024-10-26T18:23:03.668Z
+updated: 2024-11-02T16:12:38.029Z
 tags:
   - deals
 categories:
@@ -33,17 +33,31 @@ thumbnail: https://thmb.techidaily.com/e0dd15b42e7cb5414bdb7af5c281fcfdfef62e342
 
 !['Properties' highlighted for Discord's desktop shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-discord-desktop-shortcut-properties.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Open the "Shortcut" tab and choose "Advanced." Enable the "Run as Administrator" option and select "OK."
 
 !['Run as Administrator' and 'OK' highlighted for Discord.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-always-launch-discord-as-admin.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Select "Apply," choose "Continue" in the prompt, and select "OK." From now on, whenever you launch Discord using your desktop shortcut, it’ll run with admin rights.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Delete Discord’s AppData Files
@@ -68,6 +82,13 @@ thumbnail: https://thmb.techidaily.com/e0dd15b42e7cb5414bdb7af5c281fcfdfef62e342
 
  Launch the [Discord Download](https://discord.com/download) site, download the installer, and run the installer to reinstall fresh copies of the required files to your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Turn Off Your Antivirus Program
 
  It’s possible your antivirus app is interfering with Discord, causing the problem. To verify and fix that, temporarily disable your antivirus protection. How you do this depends on the program you’re using.
@@ -76,25 +97,18 @@ thumbnail: https://thmb.techidaily.com/e0dd15b42e7cb5414bdb7af5c281fcfdfef62e342
 
 !['Manage Settings' highlighted in Windows Security.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/6-manage-virus-protection-settings.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Then, turn off "Real-Time Protection" and choose "Yes" in the prompt.
 
 !['Real-Time Protection' highlighted in Windows Security.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/7-disable-microsoft-defender-antivirus.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  That’s it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Uninstall BetterDiscord
 
@@ -104,23 +118,9 @@ thumbnail: https://thmb.techidaily.com/e0dd15b42e7cb5414bdb7af5c281fcfdfef62e342
 
 !['Uninstall BetterDiscord' and 'Next' highlighted BetterDiscord installer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/8-uninstall-betterdiscord.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Select your current Discord app and choose "Uninstall."
 
 ![The current Discord app and 'Uninstall' highlighted in BetterDiscord installer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/9-remove-betterdiscord.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  When BetterDiscord is uninstalled, click "Close" to close the open window.
 
@@ -134,16 +134,16 @@ thumbnail: https://thmb.techidaily.com/e0dd15b42e7cb5414bdb7af5c281fcfdfef62e342
 
 !['Uninstall' highlighted for Discord in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/10-delete-discord-windows-11.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To delete Discord on a Windows 10 PC, visit Settings > Apps. Select Discord on the list, click "Uninstall," and choose "Uninstall."
 
 !['Uninstall' highlighted for Discord in Windows 10 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/11-remove-discord-windows-10.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Head to the [Discord Download](https://discord.com/download) site and download and install the app on your computer. Your issue should now be fixed. Enjoy!
 
@@ -162,14 +162,20 @@ thumbnail: https://thmb.techidaily.com/e0dd15b42e7cb5414bdb7af5c281fcfdfef62e342
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-core-elements-of-kinetic-visual-storytelling/"><u>[New] The Core Elements of Kinetic Visual Storytelling</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-grandest-meme-makeover-utility/"><u>[Updated] 2024 Approved Grandest Meme Makeover Utility</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-facetune-photo-enhancement/"><u>2024 Approved The Ultimate Guide to Facetune Photo Enhancement</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-visual-strategy-for-podcast-branding/"><u>2024 Approved The Ultimate Visual Strategy for Podcast Branding</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/5-exceptional-pc-emulators-for-playing-ps1-games-for-2024/"><u>5 Exceptional PC Emulators for Playing PS1 Games for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/best-10-text-presets-for-after-effects-for-2024/"><u>Best 10 Text Presets for After Effects for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/daily-bulbarian-duo-study-and-play/"><u>Daily Bulbarian Duo: Study & Play</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-iphone-experts-guide-to-capturing-and-reducing-pace-in-footage/"><u>In 2024, The iPhone Expert’s Guide to Capturing and Reducing Pace in Footage</u></a></li>
-<li><a href="https://driver-install.techidaily.com/win-pc-gb-memory-board-update-guide/"><u>Win PC GB Memory Board Update Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-insights-into-the-art-of-srt-file-creation/"><u>[New] Ultimate Insights Into the Art of SRT File Creation</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-a-complete-blueprint-for-effortless-recording-of-live-hulu-on-various-systems/"><u>[Updated] A Complete Blueprint for Effortless Recording of Live Hulu on Various Systems</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-gamings-finest-shooters-a-top-7-list-for-2024/"><u>[Updated] Gaming's Finest Shooters - A Top 7 List for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-sensational-tale-tiler-system-for-2024/"><u>[Updated] Sensational Tale Tiler System for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-essential-guide-free-youtube-image-saving/"><u>[Updated] The Essential Guide FREE YouTube Image Saving</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-professional-livestreamers-vmix-or-wirecast/"><u>[Updated] The Ultimate Guide to Professional Livestreamers VMix or Wirecast?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transform-images-into-movies-xp-software-guide/"><u>[Updated] Transform Images Into Movies XP Software Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-the-secrets-of-firefoxs-pip-mode/"><u>2024 Approved Unlocking the Secrets of Firefox's PIP Mode</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-showdown-determining-who-rules-the-roost-in-software-scripting-chatgpt-vs-gemini/"><u>AI Showdown: Determining Who Rules the Roost in Software Scripting – ChatGPT Vs. Gemini</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-your-pcs-rec-room-mic-issues-expert-tips/"><u>How to Repair Your PC's Rec Room Mic Issues: Expert Tips</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Nokia C22? | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-online-tv-downloading-a-complete-recording-blueprint/"><u>In 2024, Online TV Downloading A Complete Recording Blueprint</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-unraveling-time-reverse-video-on-instagram-secrets/"><u>In 2024, Unraveling Time Reverse Video on Instagram Secrets</u></a></li>
+<li><a href="https://some-skills.techidaily.com/liveaudiovideocasting-network-for-2024/"><u>LiveAudioVideocasting Network for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-sound-connection-a-podcasters-guide-for-2024/"><u>Ultimate Sound Connection A Podcaster's Guide for 2024</u></a></li>
 </ul></div>
 
