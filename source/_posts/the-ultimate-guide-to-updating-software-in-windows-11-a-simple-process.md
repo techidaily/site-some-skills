@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Updating Software in Windows 11: A Simple Process"
-date: 2024-10-31T16:12:17.401Z
-updated: 2024-11-02T18:20:56.052Z
+date: 2024-11-06T17:26:19.164Z
+updated: 2024-11-10T19:47:45.792Z
 tags:
   - desktop
 categories:
@@ -17,19 +17,6 @@ thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d
 * [How to Update Non-Microsoft Store Apps](https://extra-hints.techidaily.com/navigate-subtitle-installation-in-wmp-easily/)
 * [How to Update Apps Using Command Prompt](https://youtube-videos.techidaily.com/free-themes-for-dynamic-youtuber-profiles/)
 
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * To update Microsoft Store apps, open the Store app, select "Library," and choose "Update" next to an app or select "Update All."
@@ -37,13 +24,6 @@ thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d
 * To update apps from command line, use the winget command in an elevated Command Prompt window.
 
  Keeping your installed apps up to date is important, and Windows 11 makes it super easy to update both Microsoft Store and non-Microsoft Store apps. We’ll show you how to use graphical methods, as well as a command-line method to bring your apps up to date.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Update Microsoft Store Apps
 
@@ -56,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d
  In the Store’s left sidebar, select "Library."
 
 !['Library' highlighted in Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-microsoft-store-library.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  On the Library page, in the Updates and Downloads section, you’ll find the apps due for an update.
 
@@ -71,17 +58,31 @@ thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d
 
 !['Settings' highlighted in the profile menu of Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-microsoft-store-settings.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In Settings, turn on the "App Updates" option.
 
 !['App Updates' highlighted in Microsoft Store Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-microsoft-store-disable-app-updates.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the future, to prevent the Store from automatically updating apps, turn off the "App Updates" option. We recommend keeping the option turned on, but if you’re on a metered connection, you might not want the Store to use so much of your internet data.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Update Non-Microsoft Store Apps
@@ -91,13 +92,6 @@ thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d
  Many apps, [like VLC Media Player](https://remote-screen-capture.techidaily.com/expert-mac-graphic-collector-for-2024/) and Spotify, offer an option within the app to download and install the available app updates. For example, in VLC, you can choose Help > Check for Updates in the menu bar to find, download, and install the latest updates.
 
 ![Help > Check for Updates highlighted in VLC Media Player.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-update-vlc.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Similarly, in Spotify, you can select Help > About Spotify and choose "Click Here to Download" if an update is available.
 
@@ -112,6 +106,19 @@ thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d
  To use it, open the Start Menu, search for **Command Prompt**, and select "Run as Administrator."
 
 !['Run as Administrator' highlighted for Command Prompt in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-run-cmd-as-admin.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In the "User Account Control" (UAC) prompt, select "Yes."
 
@@ -128,13 +135,6 @@ winget upgrade
 winget upgrade “AppName”
 
 !['winget upgrade 'Zoom' typed in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/11-update-specific-app-winget.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The command will begin updating the specified app. You’ll see the live progress on the CMD window. It’ll let you know when the app is updated.
 
@@ -163,19 +163,22 @@ winget upgrade -h -all
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-from-isolated-viewers-to-shared-experiences-online/"><u>[Updated] From Isolated Viewers to Shared Experiences Online</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-synchronizing-sequential-images-for-impactful-storytelling/"><u>[Updated] Synchronizing Sequential Images for Impactful Storytelling</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-insiders-handbook-to-windows-11-video-mastery/"><u>[Updated] The Insider's Handbook to Windows 11 Video Mastery</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-list-of-10-vectors-stock-pics-websites/"><u>[Updated] The Ultimate List of 10 Vectors Stock Pics Websites</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-reimagining-your-tiktok-visage-complete-profile-update-manual/"><u>2024 Approved Reimagining Your TikTok Visage Complete Profile Update Manual</u></a></li>
-<li><a href="https://network-issues.techidaily.com/addressing-lack-of-brightness-on-lenovo-screens/"><u>Addressing Lack of Brightness on Lenovo Screens</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhanced-ai-communication-responding-with-purpose-to-prompts/"><u>Enhanced AI Communication: Responding with Purpose to Prompts</u></a></li>
-<li><a href="https://win-special.techidaily.com/guide-simple-and-pratique-pour-recuperer-vos-donnees-de-lespace-de-stockage-en-nuage/"><u>Guide Simple & Pratique Pour Récupérer Vos Données De L'Espace De Stockage en Nuage</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-motorola-moto-g73-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Motorola Moto G73 5G to New Phone | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-integrating-songs-and-snaps-online/"><u>In 2024, Integrating Songs and Snaps Online</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlock-limitless-space-choose-from-top-20-free-cloud-providers/"><u>In 2024, Unlock Limitless Space Choose From Top 20 Free Cloud Providers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-the-webcam-woes-unlocking-error-a00f4289-in-win11/"><u>Navigating Through the Webcam Woes: Unlocking Error A00F4289 in Win11</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-art-of-selecting-podcasts-for-iphone-devices-for-2024/"><u>The Art of Selecting Podcasts for iPhone Devices for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-creative-possibnilities-with-microsofts-ai-powered-image-maker/"><u>Unlocking Creative Possibnilities with Microsoft's AI-Powered Image Maker</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/astering-the-art-of-youtube-channel-blocking-a-step-by-step-approach/"><u>[New] Mastering the Art of Youtube Channel Blocking A Step-by-Step Approach</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-syncopate-screen-a-beginners-guide-to-mobile-video-making/"><u>[New] Syncopate Screen A Beginner's Guide to Mobile Video Making</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-crafting-impactful-documentary-stories/"><u>[New] The Art of Crafting Impactful Documentary Stories</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-how-to-use-obs-with-zoom-for-2024/"><u>[Updated] How to Use OBS with Zoom for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-streamlining-obs-studio-edits-top-5-proven-productivity-hacks-for-2024/"><u>[Updated] Streamlining OBS Studio Edits Top 5 Proven Productivity Hacks for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-power-of-consistency-steps-to-increase-youtube-views-and-subscriptions/"><u>[Updated] The Power of Consistency Steps to Increase YouTube Views and Subscriptions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tricks-to-simulate-quantum-leap-phenomena/"><u>[Updated] Tricks to Simulate Quantum Leap Phenomena</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-identifying-leading-drone-motors-for-superior-stability/"><u>2024 Approved Identifying Leading Drone Motors for Superior Stability</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamstart-beginner-friendly-podcast-live-broadcast-guide/"><u>2024 Approved StreamStart Beginner-Friendly Podcast Live Broadcast Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleashing-hidden-features-funimate-guide/"><u>2024 Approved Unleashing Hidden Features - Funimate Guide</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-13ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone 13/iPad | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-infinix-hot-40-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Infinix Hot 40 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/perfectly-tuned-top-settings-every-switcher-should-know/"><u>Perfectly Tuned: Top Settings Every Switcher Should Know</u></a></li>
+<li><a href="https://some-skills.techidaily.com/stream-with-clarity-ranking-the-best-6-microphones-today-for-2024/"><u>Stream with Clarity Ranking the Best 6 Microphones Today for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-fresh-film-enthusiasts-primer-on-visual-quality-for-2024/"><u>The Fresh Film Enthusiast’s Primer on Visual Quality for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-hidden-complication-of-displayport-21-and-its-impact-on-high-speed-cables-unveiling-the-reason-behind-nvidias-persistent-use-of-dp-14-in-rtx-40-series.m62/"><u>The Hidden Complication of DisplayPort 2.1 and Its Impact on High-Speed Cables: Unveiling the Reason Behind Nvidia's Persistent Use of DP 1.4 in RTX 40 Series</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/youtube-integration-in-instagram-narratives/"><u>YouTube Integration in Instagram Narratives</u></a></li>
 </ul></div>
 

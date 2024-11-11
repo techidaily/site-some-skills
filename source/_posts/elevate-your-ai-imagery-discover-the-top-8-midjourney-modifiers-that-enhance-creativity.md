@@ -1,7 +1,7 @@
 ---
 title: "Elevate Your AI Imagery: Discover the Top 8 Midjourney Modifiers That Enhance Creativity"
-date: 2024-10-28T16:26:58.190Z
-updated: 2024-11-02T18:40:21.282Z
+date: 2024-11-03T16:53:03.504Z
+updated: 2024-11-10T22:14:59.834Z
 tags:
   - cutting-edge
 categories:
@@ -46,7 +46,27 @@ Close
 
 ![Midjourney blended image of a Steampunk lion with a cyberpunk dog with a magical eagle](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/midjourney-blended-image-of-a-steampunk-lion-with-a-cyberpunk-dog-with-a-magical-eagle.png) 
 
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  By default, /blend generates square images with a 1:1 aspect ratio. You can customize this by going into Options > Dimension, in the prompt window and specifying the aspect ratio to Portrait, Square, or Landscape. You can also add suffixes and parameters to your blend command just like with /imagine, to further customize the results.
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2  The Describe Command: From Images to Text 
 
@@ -54,14 +74,14 @@ Close
 
 ![Use Describe Command to Generate Prompts from Images using Midjourney](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/use-describe-command-to-generate-prompts-from-images-using-midjourney.png) 
 
- You can now use these prompts with the /imagine command to see what Midjourney cooks up. Or you can just use this to expand your artistic vocabulary. That said, one of the best use cases of this command is to reverse engineer AI images you see online and on social media and try to recreate them using Midjourney.
-
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ You can now use these prompts with the /imagine command to see what Midjourney cooks up. Or you can just use this to expand your artistic vocabulary. That said, one of the best use cases of this command is to reverse engineer AI images you see online and on social media and try to recreate them using Midjourney.
 
 ## 3  The No Parameter: Avoid Certain Elements In Images 
 
@@ -73,13 +93,6 @@ summer picnic scene
 
 ![Image of a Picnic generated using Midjourney showing trees](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/image-of-a-picnic-generated-using-midjourney-showing-trees.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As you can see, Midjourney is creating images with trees in them. But I don’t want trees. So, if I modify the prompt to:
 
 summer picnic scene without trees
@@ -88,6 +101,19 @@ summer picnic scene without trees
 
 ![Midjourney image of a picnic scene that ignores the prompt asking to generate without trees](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/midjourney-image-of-a-picnic-scene-that-ignores-the-prompt-asking-to-generate-without-trees.png) 
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Still, the generated images include trees. But you can stop this from happening by using the “no” parameter and specifying what you want removed. The modified prompt becomes:
 
 summer picnic scene --no tree, branches, leaves, trunks.
@@ -95,13 +121,6 @@ summer picnic scene --no tree, branches, leaves, trunks.
  And here’s the generated image:
 
 ![Midjourney image using no parameter to avoid trees successfully when generating a picnic scene](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/midjourney-image-using-no-parameter-to-avoid-trees-successfully-when-generating-a-picnic-scene.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Yes, trees are still present in the composition, but their presence is significantly reduced.
 
@@ -129,6 +148,13 @@ a child’s painting of a house with a car and a pool --s 10
 
 ![Midjourney image of a child's painting with stylize at 10](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/midjourney-image-of-a-child-s-painting-with-stylize-at-10.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  And with stylize set to 900:
 
 a child’s painting of a house with a car and a pool --s 900
@@ -136,13 +162,6 @@ a child’s painting of a house with a car and a pool --s 900
  We get this:
 
 ![Midjourney image of a child's painting with stylize at 900](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/midjourney-image-of-a-child-s-painting-with-stylize-at-900.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5  The Repeat Parameters: Fast Visual Exploration 
 
@@ -153,6 +172,13 @@ a child’s painting of a house with a car and a pool --s 900
 two friends sitting at the beach, sunset, --r 5
 
 ![Using the Repeat Parameter in Midjourney](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/using-the-repeat-parameter-in-midjourney.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also mix the “repeat” parameter with other options like the “stylize” parameter to speed up your explorations.
 
@@ -187,10 +213,16 @@ a steampunk cyborg --w 2500
 ![Midjourney image of a steampunk Cyborg with weird parameter at 2500](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/midjourney-image-of-a-steampunk-cyborg-with-weird-parameter-at-2500.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7  The Video Parameter: Capture the Creation Process 
@@ -205,27 +237,20 @@ watercolor scenery of a mountain in the woods --video
 
 ![Reacting with an envelope emoji to a Midjourney image created using video parameter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/reacting-with-an-envelope-emoji-to-a-midjourney-image-created-using-video-parameter.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The Midjourney bot will send you a direct message with the link to the video. You can open it to view in a browser or right-click (or long press if on mobile) to download it.
 
 ![Midjourney bot responds with a message with a link to a video of the image generation process](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/midjourney-bot-responds-with-a-message-with-a-link-to-a-video-of-the-image-generation-process.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  And here’s what the video looks like:
 
 Your browser does not support the video tag. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8  The Tile Parameter: Craft Stunning Patterns 
 
@@ -244,13 +269,6 @@ a pattern of autumn leaves --tile
  You can now use the [Seamless Texture Checker](https://www.pycheung.com/checker/) to see the tile repeat and download it to your system. Whereas, if you want to use it as wallpaper like I do, follow these steps. On your Windows 11 system, go to Settings > Personalize > Background. Pick "Picture" under the option "Personalize Your Background" and select the image under "Choose A Photo field." Then, select “Tile” under "Choose A Fit for your desktop image," and voilà!
 
 ![Creating a Desktop wallpaper using Midjourney image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/creating-a-desktop-wallpaper-using-midjourney-image-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -271,24 +289,19 @@ a pattern of autumn leaves --tile
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-weekly-essentials-the-best-of-igtv/"><u>[New] 2024 Approved Weekly Essentials The Best of IGTV</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-eternal-clip-saver-software/"><u>[New] Eternal Clip Saver Software</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-picture-perfect-in-the-sky-free-and-paid-cloud-solutions-reviewed/"><u>[New] Picture Perfect in the Sky Free & Paid Cloud Solutions Reviewed</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-snap-share-and-save-on-instagram/"><u>[New] Snap, Share, and Save on Instagram</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-complete-insider-guide-to-creating-and-editing-videos-on-windows-11/"><u>[New] The Complete Insider Guide to Creating & Editing Videos on Windows 11</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-spectrum-of-immersive-tech-vr-vs-ar-and-more/"><u>[New] The Spectrum of Immersive Tech VR Vs. AR and More</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-blueprint-creating-exceptional-podcast-content-on-idevices/"><u>[New] The Ultimate Blueprint Creating Exceptional Podcast Content on iDevices</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-sprint-secrets-olympic-edition-22/"><u>[Updated] In 2024, Sprint Secrets - Olympic Edition '22</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-step-by-step-guide-to-changing-photo-genders-from-theory-to-practice-for-2024/"><u>[Updated] Step-by-Step Guide to Changing Photo Genders From Theory to Practice for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-syncopating-stories-a-how-to-for-music-on-instagram/"><u>[Updated] Syncopating Stories A How-To for Music on Instagram</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unleash-luxury-top-10-accessories-for-the-sj4000/"><u>[Updated] Unleash Luxury Top 10 Accessories for the SJ4000</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-prime-premiere-pro-blueprints-best-free-2023/"><u>2024 Approved Prime Premiere Pro Blueprints - Best Free 2023</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-strategies-to-find-the-perfect-power-source-for-drones/"><u>2024 Approved Strategies to Find the Perfect Power Source for Drones</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-turn-template-ideas-into-real-logo-artwork/"><u>2024 Approved Turn Template Ideas Into Real Logo Artwork</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-windows-11-your-ultimate-cheat-sheet/"><u>In 2024, Unlocking Windows 11 Your Ultimate Cheat Sheet</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/screenrec-for-lactops-your-step-by-step-guide-for-2024/"><u>ScreenRec for Lactops Your Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/nsiders-guide-to-youtube-success/"><u>The Insider's Guide to YouTube Success</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/the-ultimate-guide-to-using-sticker-queries-on-instagram/"><u>The Ultimate Guide to Using Sticker Queries on Instagram</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-live-commerce-success-stories-lessons-learned-and-predictions-for-the-future/"><u>Updated In 2024, Live Commerce Success Stories Lessons Learned & Predictions for the Future</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-much-do-you-really-make-as-a-podcaster/"><u>[New] How Much Do You Really Make as a Podcaster?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-30-list-of-no-cost-high-quality-online-film-effects-tools/"><u>[New] The Ultimate 30 List of No-Cost, High-Quality Online Film Effects Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-guide-optimal-sub-to-srt-conversion-with-top-8-tools/"><u>[Updated] Ultimate Guide Optimal Sub to Srt Conversion with Top 8 Tools</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/deciding-between-apples-iphone-and-samsung-galaxy-series-expert-insights/"><u>Deciding Between Apple's iPhone and Samsung Galaxy Series: Expert Insights</u></a></li>
+<li><a href="https://discover-best.techidaily.com/driving-website-traffic-the-power-of-cookiebot-integration/"><u>Driving Website Traffic: The Power of Cookiebot Integration</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-windows-7-mirror-flip-mistake/"><u>Fixing Windows 7 Mirror Flip Mistake</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/guide-to-editing-event-handlers-in-the-windows-dialog-box-interface/"><u>Guide to Editing Event Handlers in the Windows Dialog Box Interface</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-simple-procedure-reverse-video-order-via-vlc/"><u>In 2024, Simple Procedure Reverse Video Order via VLC</u></a></li>
+<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-iphone-11-pro-by-drfone-ios/"><u>Removing Device From Apple ID For your iPhone 11 Pro</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/should-you-buy-videopad-an-honest-review-and-recommendation/"><u>Should You Buy Videopad? An Honest Review and Recommendation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-secret-to-striking-visuals-optimal-video-aspect-ratios-for-2024/"><u>The Secret to Striking Visuals Optimal Video Aspect Ratios for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-significance-of-proper-slug-line-usage-for-2024/"><u>The Significance of Proper Slug Line Usage for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-zoom-companion-for-snapchat-enthusiasts-for-2024/"><u>The Ultimate Zoom Companion for Snapchat Enthusiasts for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-how-to-fix-ipad-not-connecting-to-printer/"><u>Troubleshooting Guide: How to Fix 'iPad Not Connecting to Printer'</u></a></li>
 </ul></div>
 

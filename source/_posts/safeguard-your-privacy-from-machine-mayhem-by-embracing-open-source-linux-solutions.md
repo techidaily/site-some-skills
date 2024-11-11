@@ -1,7 +1,7 @@
 ---
 title: Safeguard Your Privacy From Machine Mayhem by Embracing Open Source Linux Solutions
-date: 2024-10-26T18:43:11.184Z
-updated: 2024-11-02T17:39:44.101Z
+date: 2024-11-10T03:41:54.954Z
+updated: 2024-11-10T17:52:47.624Z
 tags:
   - cutting-edge
 categories:
@@ -20,10 +20,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Every other app and service now seems to be tacking on AI functionality to try to entice weary users or satisfy shareholders. Sometimes, AI features work well. Often, it just results in junk output (at least for now) and a privacy nightmare. Here's how Linux can help you escape the AI apocalypse.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Everyone Is Adding AI to Their Products and Services
@@ -37,10 +37,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  This effort to add AI to everything isn't stopping, despite users' trepidation. Windows, MacOS, and iOS are all plowing ahead with new AI features, and at no cost to you. This raises the question of how they plan on profiting from it (hint, the answer is probably by monetizing the data you feed to them).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  For AI to Work, It Needs to Scrape Your Data
@@ -54,10 +60,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  This doesn't just make AI output unoriginal, It's a massive privacy issue: how can you be sure some details of your private life that have been submitted to an AI platform won't be used to generate someone else's short story, business email, to create images, or just [revealed to the public outright](https://www.businessinsider.com/google-researchers-openai-chatgpt-to-reveal-its-training-data-study-2023-12 "https://www.businessinsider.com/google-researchers-openai-chatgpt-to-reveal-its-training-data-study-2023-12")?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Take Control Back By Switching to Linux
@@ -65,10 +77,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The Kubuntu Focus Ir16 Gen 2 laptop open on a desk in front of speakers and a headset.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/53784641964_d7cc9b8262_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -96,18 +108,18 @@ Jerome Thomas / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-blueprint-for-incorporating-dynamic-narrations-in-media/"><u>[New] The Blueprint for Incorporating Dynamic Narrations in Media</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-strategic-moves-for-earning-through-product-sponsorships-on-youtube/"><u>[Updated] 2024 Approved Strategic Moves for Earning Through Product Sponsorships on YouTube</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-apple-excellence-iphones-best-no-cost-image-assemblers-and-layouts/"><u>[Updated] Apple Excellence – iPhone's Best No-Cost Image Assemblers & Layouts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-high-end-asus-monitor-4k-precision-hdr-mastery/"><u>2024 Approved High-End ASUS Monitor 4K Precision, HDR Mastery</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-next-generation-of-aerial-artistry-with-bebops-parrot-2/"><u>2024 Approved The Next Generation of Aerial Artistry with Bebop's Parrot 2</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unboxing-the-essence-of-dji-inspire-2/"><u>2024 Approved Unboxing the Essence of DJI Inspire 2</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-on-iphone-6-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled On iPhone 6? 7 Mehtods You Cant-Miss</u></a></li>
-<li><a href="https://win11.techidaily.com/clearing-up-directdraw-confusion-on-newer-windows-editions/"><u>Clearing Up DirectDraw Confusion on Newer Windows Editions</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>How to Share/Fake Location on WhatsApp for Apple iPhone XS | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/how-to-use-handbrake-for-free-dvd-to-mp4-conversions-step-by-step-tutorial/"><u>How to Use Handbrake for Free DVD-to-MP4 Conversions - Step by Step Tutorial</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/iate-access-to-your-videos-thumbnails-online-for-2024/"><u>Immediate Access to Your Videos' Thumbnails Online for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/friendly-tv-setups-integrating-youtube-videos-for-2024/"><u>Loop-Friendly TV Setups Integrating YouTube Videos for 2024</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/ultimate-guide-to-the-roborock-s8-maxv-ultra-a-top-tier-choice-in-robotic-cleaning-technology/"><u>Ultimate Guide to the Roborock S8 MaxV Ultra - A Top-Tier Choice in Robotic Cleaning Technology</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamlining-your-streams-choosing-between-xsplit-and-obs/"><u>[New] Streamlining Your Streams Choosing Between XSplit and OBS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unbound-zen-audio-releases/"><u>[Updated] Unbound Zen Audio Releases</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-youtubes-features-adding-images-to-videos/"><u>2024 Approved Unveiling YouTube's Features Adding Images to Videos</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/avoiding-interruptions-steps-to-prevent-football-manager-2022-from-crashing-on-pc-systems/"><u>Avoiding Interruptions: Steps to Prevent Football Manager 2022 From Crashing on PC Systems</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-motorola-moto-g73-5g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Motorola Moto G73 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-guide-to-unlock-your-nokia-c210-by-drfone-android/"><u>Full Guide to Unlock Your Nokia C210</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-resource-for-advanced-periscope-techniques/"><u>In 2024, The Ultimate Resource for Advanced Periscope Techniques</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/save-big-with-exclusive-benq-monitorprojector-promotions-this-prime-day/"><u>Save Big with Exclusive BenQ Monitor/Projector Promotions This Prime Day</u></a></li>
+<li><a href="https://some-skills.techidaily.com/thankful-views-complete-outro-template-library-for-2024/"><u>Thankful Views Complete Outro Template Library for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-aurora-hdr-experience-is-it-transformative-for-2024/"><u>The Aurora HDR Experience Is It Transformative for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-puzzle-of-aligning-advanced-ai-systems-with-human-intentions-and-principles/"><u>The Puzzle of Aligning Advanced AI Systems with Human Intentions and Principles</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-tips-and-solutions-for-fixing-a-non-responsive-ps4-microphone/"><u>Top Tips & Solutions for Fixing a Non-Responsive PS4 Microphone</u></a></li>
 </ul></div>
 

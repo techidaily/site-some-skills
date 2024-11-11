@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Your Prime Day Success: Utilizing Rufus, the Cutting-Edge Amazon AI Shopping Chatbot"
-date: 2024-10-30T18:09:54.497Z
-updated: 2024-11-02T18:18:00.400Z
+date: 2024-11-06T17:41:01.783Z
+updated: 2024-11-11T01:26:45.648Z
 tags:
   - cutting-edge
 categories:
@@ -19,28 +19,15 @@ thumbnail: https://thmb.techidaily.com/509fff23b0ac771700c9cc9f462572328b6f939b9
 
  Amazon Prime Day is July 16-17th! I learn all about Rufus as the AI takes me Amazon shopping for toys, a Chromebook, and a fancy power station. If you want to grab the best deals, you'll want to get familiar with this helpful bot too!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Who Is Rufus?
 
  The original [Rufus (1994-2009)](https://www.amazon.com/gp/help/customer/display.html?nodeId=3711811&tag=hotoge-20&ascsubtag=UUhtgUeUpU2003905&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fhow-to-get-ready-for-prime-day-with-rufus-amazon-shoppings-new-ai-assistant-chatbot%2F&asc%5Fcampaign=Short-Term) was a beloved Welsh Corgi who seems to have morphed into a bit of a legend at Amazon and is credited with starting Amazon's dog-friendly workplace culture. Released in February, Amazon's new AI shopping assistant is named in his honor. Rufus, the AI, is trained in Amazon's product catalog, customer reviews, and product Q & As.
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Where Is Rufus?
@@ -55,22 +42,15 @@ thumbnail: https://thmb.techidaily.com/509fff23b0ac771700c9cc9f462572328b6f939b9
 
 ![Side-by-side screenshots of the two outdoor toys prompts and Rufus' responses.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_20240627_195714_amazon-shopping.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  My 3rd prompt was, "What are some fun outdoor toys for older kids under $500?" Rufus nailed it. Out of the five products Rufus suggested, we already own two of them and have long been in the market for the 3rd suggestion. Rufus' suggestions are exactly the type of product I was looking for.
 
 ![A screenshot of the above prompt and Rufus' response. Only the suggestion of a large outdoor basketball hoop is shown.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_20240627_200000_amazon-shopping.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Follow-up Questions
@@ -80,16 +60,10 @@ thumbnail: https://thmb.techidaily.com/509fff23b0ac771700c9cc9f462572328b6f939b9
 ![A side-by-side of screenshots of Rufus' follow-up questions and its response to the follow-up question "What outdoor toys foster teamwork among kids?"](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_20240627_215749_amazon-shopping.png) 
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Specific Product Searches
@@ -99,6 +73,13 @@ thumbnail: https://thmb.techidaily.com/509fff23b0ac771700c9cc9f462572328b6f939b9
  My next prompt was "What is the most powerful portable power station for under $1000?" Rufus came through again. It made good suggestions about what to look for when shopping for power stations and suggested five products. Two of them have been on my wish list for some time.
 
 ![A screenshot of the prompt "What is the most powerful portable power station for under $1000" and Rufus' response.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_20240628_204656_amazon-shopping.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  I notice that Rufus' product suggestions do not include prices. This is because they are product searches for a specific product instead of the product information page. You have to leave Rufus by clicking on one of the product search suggestions to see pricing information.
 
@@ -116,19 +97,6 @@ thumbnail: https://thmb.techidaily.com/509fff23b0ac771700c9cc9f462572328b6f939b9
 
 ![Three screenshots that highlight the steps of tapping the three dots, tapping "Manage chat", and "Clear chat history".](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_20240628_225642_amazon-shopping.png) 
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Other Rufus Notes
 
  I picked up a few things about Rufus in its current state as I was using it that will likely make it easier for you to deal with it's idiosyncrasies.
@@ -139,7 +107,21 @@ thumbnail: https://thmb.techidaily.com/509fff23b0ac771700c9cc9f462572328b6f939b9
 
  Rufus access from a product information page will suggest questions you can ask about that product, not including the price. At this point, I think we're all familiar enough with Amazon's product pages to scroll to the Q & A's and product specifications quicker than we can access Rufus. However, as Rufus develops, this ability may progress into something more useful.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ![A screenshot of Rufus responding to a prompt with](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_20240628_213130_amazon-shopping-2.jpg) Prime Day Ready?
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  My first instinct was to judge Rufus harshly as unhelpful for Prime Day because it can not give prices. Prime Day is all about the prices! However, I got a lot of useful information from Rufus. In fact, I often jump for the Prime Day deals and end up returning a product that didn't meet my needs. Rufus could help me do a little more research before and during Prime Day to narrow down a wide selection of products and features. Rufus has proven helpful by making good suggestions and answering simple questions. It doesn't handle prices, and you can't use Rufus to buy things. However, I'd rather work with an AI that does one thing well than multiple things poorly. I'm optimistic that this rather painfully slow Rufus rollout means his quality will remain high. If you're in the US and on a mobile, give Rufus a try!
 
@@ -158,16 +140,21 @@ thumbnail: https://thmb.techidaily.com/509fff23b0ac771700c9cc9f462572328b6f939b9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-decoding-the-app-culture-the-battle-of-innovation-between-tiktok-and-snap/"><u>[New] Decoding the App Culture The Battle of Innovation Between TikTok & Snap</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-prime-applications-transforming-vtuber-voices-on-the-fly-for-2024/"><u>[New] Prime Applications Transforming VTuber Voices on the Fly for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-blueprint-for-mastering-picsart/"><u>[New] The Ultimate Blueprint for Mastering PicsArt</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-undertaking-decoding-digital-picture-resolutions/"><u>[New] Ultimate Undertaking Decoding Digital Picture Resolutions</u></a></li>
-<li><a href="https://win-dash.techidaily.com/dvddivx/"><u>「迅速かつステップごとの解説：DVDのリッピングからDivXへの変換法！」</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-master-tips-securing-audio-for-unboxing-vids/"><u>2024 Approved Master Tips Securing Audio for Unboxing Vids</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-integrating-zoom-with-your-android-gadget/"><u>In 2024, Integrating Zoom with Your Android Gadget</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-tips-for-removing-spotifys-auto-suggesting-podcasts/"><u>In 2024, Tips for Removing Spotify's Auto-Suggesting Podcasts</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-nokia-150-2023-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Nokia 150 (2023) without backup.</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transform-your-recordings-expert-tips-for-zoom-changer-for-2024/"><u>Transform Your Recordings Expert Tips for Zoom Changer for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-color-perfect-advanced-color-correction-in-final-cut-pro/"><u>Updated 2024 Approved Color Perfect Advanced Color Correction in Final Cut Pro</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-8-best-instagram-scheduler-for-android-and-iphone/"><u>[New] 8 Best Instagram Scheduler for Android and iPhone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-ai-enhanced-photoshop-suite/"><u>[New] Top AI Enhanced Photoshop Suite</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-tips-for-crafting-an-engaging-video-closure-on-youtub/"><u>[Updated] 2024 Approved Tips for Crafting an Engaging Video Closure on YouTub</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-the-ultimate-guide-to-online-streaming-audio-logging/"><u>[Updated] In 2024, The Ultimate Guide to Online Streaming Audio Logging</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-synchronizing-realism-advanced-green-screen-applications-for-viewers/"><u>[Updated] Synchronizing Realism Advanced Green Screen Applications for Viewers</u></a></li>
+<li><a href="https://discover-help.techidaily.com/mp4-avi/"><u>優れた品質の MP4 から AVIへの変換 - 最適なフリーツールとウェブサイトを紹介</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-honor-x8b-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Honor X8b</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/byb-e430-led-architect-lamp-review/"><u>BYB E430 LED Architect Lamp Review</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/how-to-create-distortion-effects-in-photoshop/"><u>How to Create Distortion Effects in Photoshop</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-samsung-galaxy-f34-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Samsung Galaxy F34 5G to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-8-steps-to-make-your-instagram-unboxing-reels-viral/"><u>In 2024, Top 8 Steps to Make Your Instagram Unboxing Reels Viral</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimizing-performance-overcoming-graphics-cards-lack-of-alpha-blend-support/"><u>Optimizing Performance: Overcoming Graphics Card's Lack of Alpha Blend Support</u></a></li>
+<li><a href="https://some-skills.techidaily.com/premium-pick-of-budget-friendly-vectors-and-graphic-sites-for-2024/"><u>Premium Pick of Budget-Friendly Vectors & Graphic Sites for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/streamlining-social-media-posts-with-srt-file-integration-tips-for-2024/"><u>Streamlining Social Media Posts with SRT File Integration Tips for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-optimizing-windows-media-players-audio-operations-from-cds-for-2024/"><u>The Art of Optimizing Windows Media Player's Audio Operations From Cds for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/total-control-guide-powerdirector-user-manual-for-2024/"><u>Total Control Guide PowerDirector User Manual for 2024</u></a></li>
 </ul></div>
 

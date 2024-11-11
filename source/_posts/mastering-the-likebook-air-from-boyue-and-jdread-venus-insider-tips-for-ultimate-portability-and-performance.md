@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Likebook Air From Boyue & JDRead Venus: Insider Tips for Ultimate Portability and Performance"
-date: 2024-09-30T16:12:20.852Z
-updated: 2024-10-04T17:30:47.680Z
+date: 2024-11-10T02:08:07.571Z
+updated: 2024-11-10T18:34:04.794Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/ad251382f0a7d8c655d1ecfe442682eca929097f4c42dbd9921ea0eb3f9c12b0.jpg
@@ -27,6 +27,13 @@ JDcom and Boyue jointly launched the second Chinese made eReader – **JDRead Ve
 [(2) Other tips & tricks](https://tools.techidaily.com/epubor/products/)  
 [(3) Import books into Likebook Air](https://tools.techidaily.com/epubor/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Quick Access functions
 
 #### 1\. Reading light quick start
@@ -39,13 +46,6 @@ Sometimes partial refresh may results in image retention of previous page to be 
 
 ![no-image-retention](http://www.epubor.com/images/uppic/2-no-image-retention.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### 3\. Toggle between page-turning keys
 
 Sometimes you want to switch a hand to hold your eReader after you maintain a pose to read for a long time. JDRead Venus is among the very few eReaders to take that into account. You can set page up with left key, page down with right key, or set page up with right key, page down with left key.
@@ -56,11 +56,25 @@ Open a book, click the first icon on the ribbon to disable the touchscreen. Once
 
 ![disable-touchscreen](http://www.epubor.com/images/uppic/3-disable-touchscreen.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### 5\. PDF Cropping
 
 Likebook Air supports PDF cropping and gray level upgrade. You can enjoy reading manga on the eReader with better user experience after cropped PDF edges. 
 
 ![before cropping](http://www.epubor.com/images/uppic/4-before cropping.png) ![after cropping](http://www.epubor.com/images/uppic/5-after cropping.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Other tips and tricks
 
@@ -80,13 +94,6 @@ Tap Wallpaper setup, select custom wallpaper.
 
 ![change-wallpaper-1](http://www.epubor.com/images/uppic/6-change-wallpaper-1.jpg) ![change-wallpaper-2](http://www.epubor.com/images/uppic/7-change-wallpaper-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Import books into Likebook Air
 
 #### 1\. Import books via USB cable
@@ -94,13 +101,6 @@ Tap Wallpaper setup, select custom wallpaper.
 Likebook Air supports to transfer books with epub, txt, mobi, pdf, fb2, html, and doc formats via USB cable. Connect your eReader to computer via USB cable, create a new folder and place it to the root directory of your eReader, and copy and paste the books from your computer to the new folder in your Likebook Air. Then eject your eReader, and go to Bookshelf section in your Likebook Air to check the new books you just imported.
 
 ![import-via-usb](http://www.epubor.com/images/uppic/8-import-via-usb.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### 2\. Import books with TF card
 
@@ -132,10 +132,10 @@ Suggested reading
 ![author](http://www.epubor.com/images/uppic/Sisi.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Sisi Liu](https://www.facebook.com/sisi.liu.737) Sisi is a newbie who joined Epubor in November 2017\. She's a bookworm her whole life and has taken great interest in eBooks recently. She learns professional knowledge about ebooks in Epubor and loves to share her know-how to all the ebook lovers!
@@ -258,20 +258,18 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-ig-peak-performers-iphone-plus-androids-top-covers-app/"><u>[New] 2024 Approved IG Peak Performers IPhone + Android's Top Covers App</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-can-instagrams-video-selfies-be-trusted-in-2024/"><u>[New] Can Instagram's Video Selfies Be Trusted, In 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-srt-fundamentals-explored-in-detail-and-clarity/"><u>[New] SRT Fundamentals Explored in Detail and Clarity</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-essential-guide-free-and-trusted-vlc-downloads-for-mac-os-x/"><u>[New] The Essential Guide Free & Trusted VLC Downloads for Mac OS X</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-ultimate-list-the-finest-fps-titles-in-gaming-for-2024/"><u>[New] Ultimate List The Finest FPS Titles in Gaming for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ustream-showcase-plus-similar-video-sites/"><u>[New] Ustream Showcase + Similar Video Sites</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-profiling-perfection-a-visual-guide/"><u>[Updated] 2024 Approved Profiling Perfection A Visual Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-craft-your-logo-legacy-affordable-and-flexible-templates-for-customization/"><u>[Updated] Craft Your Logo Legacy Affordable & Flexible Templates for Customization</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-stop-stalled-profile-visits-on-facebook/"><u>[Updated] In 2024, Stop Stalled Profile Visits on Facebook</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-uncover-roblox-hidden-treasures-with-zoom-techniques/"><u>2024 Approved Uncover Roblox Hidden Treasures with Zoom Techniques</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-the-art-of-inserting-descriptive-commentary-in-youtube-videos/"><u>In 2024, The Art of Inserting Descriptive Commentary in YouTube Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-complete-blueprint-for-optimizing-data-in-adobes-cloud-realm/"><u>In 2024, The Complete Blueprint for Optimizing Data in Adobe's Cloud Realm</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Nokia C02? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Realme GT Neo 5 | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-the-full-potential-of-high-dynamic-range-photos-using-lightroom-for-2024/"><u>Unlocking the Full Potential of High Dynamic Range Photos Using Lightroom for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-innovative-techniques-for-lecture-to-audio-conversion-in-education-for-2024/"><u>[New] Innovative Techniques for Lecture to Audio Conversion in Education for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-magix-video-pro-x-capabilities/"><u>[New] Unveiling Magix Video Pro X Capabilities</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-creators-vs-youtubes-profit-policies/"><u>[Updated] In 2024, Creators Vs. YouTube's Profit Policies</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-review-of-sns-hdr-vs-top-hdr-applications/"><u>2024 Approved The Ultimate Review of SNS HDR Vs. Top HDR Applications</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-tool-for-video-cuts-full-review-of-vivacut-24-edition/"><u>2024 Approved The Ultimate Tool for Video Cuts Full Review of VivaCut '24 Edition</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-resolved-correcting-orglwjgllwjglexception-for-accelerated-pixels-formats/"><u>Error Resolved: Correcting Org.LWJGL.LWJGLException for Accelerated Pixels Formats</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-oppo-a78-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Oppo A78 on Windows??</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-simulating-quantum-leaps-in-film/"><u>In 2024, The Art of Simulating Quantum Leaps in Film</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-ride-with-these-top-10-macwindows-srt-boosters/"><u>In 2024, Transform Your Ride with These Top 10 Mac/Windows SRT Boosters</u></a></li>
+<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On OnePlus Ace 3? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-audio-equipment-for-crystal-clear-4k-video-capture-for-2024/"><u>Top Audio Equipment for Crystal Clear 4K Video Capture for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-and-repairing-the-d3dx9nopmissing-dll-error-easily/"><u>Troubleshooting and Repairing the D3dx9_nopMissing DLL Error Easily</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-get-ready-to-record-3-effortless-options-for-video-game-capture-for-2024/"><u>Updated Get Ready to Record 3 Effortless Options for Video Game Capture for 2024</u></a></li>
 </ul></div>
 

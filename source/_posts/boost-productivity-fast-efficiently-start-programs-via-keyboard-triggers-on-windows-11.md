@@ -1,7 +1,7 @@
 ---
 title: "Boost Productivity Fast: Efficiently Start Programs via Keyboard Triggers on Windows 11"
-date: 2024-10-29T18:41:39.822Z
-updated: 2024-11-02T16:32:44.714Z
+date: 2024-11-07T21:56:44.612Z
+updated: 2024-11-10T20:41:02.860Z
 tags:
   - deals
 categories:
@@ -19,13 +19,6 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 * [How to Use AutoHotkey to Open Apps](https://screen-activity-recording.techidaily.com/new-livestran-vs-screen-capture-titans-battle-of-software-giants-obs-and-bandicam-for-2024/)
 
  If you access particular Windows apps regularly, it can take time to launch them by rummaging through the Start menu. Handily, Windows 11 lets you create custom keyboard shortcuts to quickly open your favorite programs.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Use Taskbar Shortcuts to Open Apps
 
@@ -55,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 
 ![Creating a shortcut of an app on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/create-shortcut-1.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Right-click on the newly created shortcut and select "Properties" to open another window.
 
 ![A screenshot of Windows 11 depicting the Properties option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/windows-11-properties-1.jpeg) 
@@ -62,13 +62,6 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
  Within the "Shortcut Key" field, press a key. This creates a shortcut using the Ctrl and Alt keys. For example, in the screenshot below, I pressed "A" which created a shortcut of Ctrl + Alt + A. Once done, click "OK".
 
 ![Setting a shortcut key from the Properties window on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/properties-shortcut-key.jpeg) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To remove a shortcut, press the Delete key within the "Shortcut Key" field.
 
@@ -83,10 +76,10 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 ![PowerToys Keyboard Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/powertoys-keyboard-manager.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To create your shortcut, first click "Add Shortcut Remapping." Click the pencil next to "Shortcut" and press the keys for your shortcut, then "OK" when done.
@@ -97,7 +90,21 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 
 ![Remapping a shortcut in PowerToys.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/remapping-a-shortcut-in-powertoys.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you ever want to delete a shortcut, return to this screen and click the trash can.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Use AutoHotkey to Open Apps
 
@@ -107,27 +114,26 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 
 ![AutoHotkey with the 'New Script' option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/autohotkey-new-script.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next, give your script a name and select the "Edit" button.
 
 ![A screenshot of AutoHotkey with the Name and Edit options highlighted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/autohotkey-name.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Choose Notepad (or a development environment of your choosing, if you're an advanced user) as the code editor and press "OK."
 
 ![A screenshot of AutoHotkey with the Notepad and OK options highlighted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/autohotkey-notepad.jpeg) 
+
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You’ll be greeted with an empty script. You can use the following syntax for creating a macro:
 
@@ -169,19 +175,24 @@ Run "C:\Program Files (x86)\Steam\steam.exe"
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-avoid-oversaturated-greenscreen-effective-strategies-for-mac-editors/"><u>[New] 2024 Approved Avoid Oversaturated Greenscreen Effective Strategies for Mac Editors</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-frame-perfection-ultimate-picks-for-photographic-lenses-for-2024/"><u>[New] Frame Perfection Ultimate Picks for Photographic Lenses for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-troubleshooting-resolving-no-audio-in-obs/"><u>[Updated] 2024 Approved Troubleshooting Resolving No Audio in OBS</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-navigating-the-convert-waters-10-tips-for-youtube-to-mp4mpeg/"><u>[Updated] Navigating the Convert Waters 10 Tips for YouTube to MP4/MPEG</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-checklist-what-makes-dji-phantom-4-special/"><u>[Updated] The Ultimate Checklist What Makes DJI Phantom 4 Special?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-the-potential-of-virtual-backgrounds-in-webcasters-arsenal/"><u>[Updated] Unlocking the Potential of Virtual Backgrounds in Webcasters' Arsenal</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/42164637-2024-approved-channel-name-wizardry-brainstorm-and-create/"><u>2024 Approved Channel Name Wizardry Brainstorm & Create!</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-your-iphone-jpegpng-to-pdf-file-processing/"><u>2024 Approved Streamline Your iPhone JPEG/PNG to PDF File Processing</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-cutting-edge-imaging-top-8k-cameras-unveiled/"><u>In 2024, Cutting-Edge Imaging Top 8K Cameras Unveiled</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/mastering-4k-with-prime-lenses-for-professionals-for-2024/"><u>Mastering 4K with Prime Lenses for Professionals for 2024</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/quick-fixes-restoring-your-pc-with-windows-11-without-a-disc-or-flash-drive/"><u>Quick Fixes: Restoring Your PC with Windows 11 Without a Disc or Flash Drive</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/samsung-tv-woes-heres-how-to-fix-unresponsive-and-missing-apps/"><u>Samsung TV Woes? Here's How to Fix Unresponsive and Missing Apps!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-illustrator-way-how-to-create-stunning-motion-effects/"><u>The Illustrator Way How to Create Stunning Motion Effects</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tips-for-quickerslower-video-in-instagram-stories-for-2024/"><u>Tips for Quicker/Slower Video in Instagram Stories for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-fundamentals-of-creating-dynamic-podcast-feeds/"><u>[New] The Fundamentals of Creating Dynamic Podcast Feeds</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/he-roadmap-to-captivating-music-visuals-lyric-video-maker-guidebook/"><u>[New] The Roadmap to Captivating Music Visuals Lyric Video Maker Guidebook</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-unboxing-adventure-boosting-customer-delight/"><u>[New] The Ultimate Unboxing Adventure Boosting Customer Delight</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-image-potential-the-importance-of-luts/"><u>[New] Unlocking Image Potential The Importance of LUTs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-secrets-to-blurring-iphone-photos-a-comprehensive-guide/"><u>[New] Unveiling the Secrets to Blurring iPhone Photos A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-expressive-youtube-aesthetics-at-no-cost/"><u>[Updated] Expressive YouTube Aesthetics at No Cost</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-toggle-picture-in-picture-feature-for-youtube-app/"><u>[Updated] Toggle Picture-in-Picture Feature for Youtube App</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-the-essential-guide-to-earnings-monetizing-content-on-vimeo/"><u>2024 Approved The Essential Guide to Earnings Monetizing Content on Vimeo</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-change-your-voice-in-free-fire-game-free-solution-included/"><u>How to Change Your Voice in Free Fire Game? [Free Solution Included]</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-connect-online-screen-sharing-secrets-for-live-streaming/"><u>In 2024, Connect Online Screen-Sharing Secrets for Live Streaming</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-infinix-smart-7-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Infinix Smart 7 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-networked-narratives-recorder/"><u>In 2024, Networked Narratives Recorder</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamline-photos-via-iphone-size-adjustment/"><u>In 2024, Streamline Photos via iPhone Size Adjustment</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-iosandroid-apps-for-creative-photo-captions/"><u>In 2024, Top iOS/Android Apps for Creative Photo Captions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/resolve-mp4-video-errors-troubleshooting-when-audio-plays-but-visual-is-missing/"><u>Resolve MP4 Video Errors: Troubleshooting When Audio Plays but Visual Is Missing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/seamlessly-navigating-ifunnys-meme-space-for-2024/"><u>Seamlessly Navigating iFunny's Meme Space for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-combo-guide-zooming-into-facebook-streaming-for-2024/"><u>The Ultimate Combo Guide Zooming Into Facebook Streaming for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tips-and-tricks-for-gopro-get-the-most-from-your-gopro-for-2024/"><u>Tips and Tricks for GoPro Get the Most From Your GoPro for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-nokia-c110-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Nokia C110 to Gmail | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary 3D Ink Requires Just Saltwater: No Light or Heat Needed"
-date: 2024-10-27T16:28:25.268Z
-updated: 2024-11-02T18:25:48.765Z
+date: 2024-11-09T17:41:21.193Z
+updated: 2024-11-10T19:09:16.701Z
 tags:
   - cutting-edge
 categories:
@@ -40,25 +40,29 @@ A multinational team of researchers has developed a novel 3D printing ink that c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-premier-20-unrestricted-pubg-montage-samples/"><u>[New] Premier 20 Unrestricted PUBG Montage Samples</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-youtube-video-titles-creator-tools/"><u>[New] Ultimate YouTube Video Titles Creator Tools</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-audiophiles-guide-techniques-to-elevate-sound-recording/"><u>[Updated] 2024 Approved Audiophile's Guide Techniques to Elevate Sound Recording</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-seamlessly-post-pictures-your-youtube-visual-guide/"><u>[Updated] Seamlessly Post Pictures Your YouTube Visual Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-taking-it-upward-panning-high-with-your-phone/"><u>[Updated] Taking It Upward Panning High with Your Phone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/choose-research-methods-and-tools/"><u>Choose Research Methods and Tools:</u></a></li>
-<li><a href="https://win-info.techidaily.com/expert-advice-on-retrieving-deleted-items-post-minor-hard-drive-sanitization/"><u>Expert Advice on Retrieving Deleted Items Post Minor Hard Drive Sanitization</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-humorous-haven-gratuitous-meme-makers/"><u>In 2024, Humorous Haven Gratuitous Meme Makers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-pinnacle-pdf-transformations/"><u>In 2024, Pinnacle PDF Transformations</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/optimizing-dying-light-overcoming-fps-decreases-for-a-seamless-survival-horror-adventure/"><u>Optimizing Dying Light: Overcoming FPS Decreases for a Seamless Survival Horror Adventure</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/preserving-chronological-integrity-in-visuals/"><u>Preserving Chronological Integrity in Visuals</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-swift-guide-to-validate-your-tiktok-age-for-2024/"><u>The Swift Guide to Validate Your TikTok Age for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/unityflip-blend-ios-and-macos-media-artfully/"><u>UnityFlip Blend iOS & macOS Media Artfully</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-expert-recommendations-for-efficient-gif-makers-for-2024/"><u>[New] Expert Recommendations for Efficient GIF Makers for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-unlocking-audio-mastery-with-these-mics/"><u>[New] In 2024, Unlocking Audio Mastery with These Mics</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-no-fuss-guide-for-exploring-loved-and-trending-youtube-comments/"><u>[New] The No-Fuss Guide for Exploring Loved and Trending YouTube Comments</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-iphone-manual-for-capturing-and-adjusting-pace-in-motion/"><u>[New] The Ultimate iPhone Manual for Capturing and Adjusting Pace in Motion</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-5-free-screen-recorders-on-windows-10/"><u>[New] Top 5 Free Screen Recorders on Windows 10</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-unlock-the-power-of-personal-narratives-master-facebook-bios-for-maximum-impact/"><u>[New] Unlock the Power of Personal Narratives Master Facebook Bios for Maximum Impact</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-integrating-imovie-productions-into-youtube/"><u>[Updated] 2024 Approved Integrating iMovie Productions Into YouTube</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-playlist-of-film-scores-and-tracks/"><u>[Updated] Ultimate Playlist of Film Scores & Tracks</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-leading-edge-fb-video-repository/"><u>2024 Approved Leading Edge FB Video Repository</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-your-creative-potential-with-inshot-for-pcs-and-laptops/"><u>2024 Approved Unlock Your Creative Potential with Inshot for PCs & Laptops</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-effective-routes-to-share-srt-content-on-pinterest-and-reddit/"><u>2024 Approved Unveiling Effective Routes to Share SRT Content on Pinterest & Reddit</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-vector-image-fundamentals-introduction-and-categories/"><u>2024 Approved Vector Image Fundamentals Introduction & Categories</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-premier-music-broadcasts-online/"><u>In 2024, Premier Music Broadcasts Online</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-creativity-a-guide-to-innovative-gopro-video-editing/"><u>In 2024, Unleashing Creativity A Guide to Innovative GoPro Video Editing</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-troubleshooting-resolving-steamvrs-error-308-quickly/"><u>Step-by-Step Troubleshooting: Resolving SteamVR's Error 308 Quickly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-snap-camera-solutions-for-missing-camera-access/"><u>Troubleshooting Snap Camera - Solutions for Missing Camera Access</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

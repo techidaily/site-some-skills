@@ -1,7 +1,7 @@
 ---
 title: "[New] The Videographer's Packing Essentials Kit"
-date: 2024-08-20T23:08:29.400Z
-updated: 2024-08-21T23:08:29.400Z
+date: 2024-11-05T21:11:41.919Z
+updated: 2024-11-10T21:06:19.602Z
 tags: 
   - screen-recording
   - ai video
@@ -26,41 +26,20 @@ From the very beginning, when I started travel vlogging, I mentioned in my previ
 
 Is it worth it? Is it really necessary to upgrade a travel video? Will my money does not go to waste? These are the few questions that I asked myself before buying new equipment. This is my simple answer, we don't need a high-priced camera or gears for us to do travel vlogging, I think a good story and your editing skills are enough and will get you by. But when the time comes that you are ready to climb the ladder and create an extraordinary sequence, with vivid colors, better sharpness, creamy bokeh effect, the macro shot, that panoramic shot or smooth time lapse, hyper lapse, or maybe you will use it in a low light situation or any kind of good angles. Get up from your seat now! Do your research and find the best equipment that will suit your taste. Consider buying something that will conform to your needs, is durable, convenient to use, and most importantly, cost that is within your budget. I didn't think about earning money when I started to buy my equipment; I am more on creating memories because they will last forever and I consider that as a souvenir from that time and place.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![travel gear review](https://images.wondershare.com/filmora/article-images/2022/07/travel-gear-review.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## My Equipments for Travel Vlogging
 
 First off, I've got a mobile phone, mirrorless camera, action camera, gimbal, tripod, selfie stick, pack of batteries, a camera bag, laptop, and some stuff.
 
 The next gadget that I want to get my hands on, A DRONE. I'm still saving, and surely, I will get that soon. First, let me explain why I got those types of equipment…
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Vlogging Camera (Mirrorless Camera)
 
 Sony a6400 is an APS-C mid-range compact camera that I use for vlogging and cinematic shots. It is specially made for beginners; it has a lot of cool features and at a reasonable price. What I love about this is the flip screen, and I found it very exceptional for vlogging. You can also use 4k resolution with this camera. For me, the only issue with this camera is the image stabilization but it's not that significant, because of the **[Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)**. This app offers the stabilization option that provides a smoothness level and it will be better than the raw or original clip footage of your video. Lastly, it is compact, handy and I highly recommend this.
 
 ![travel vlog camera](https://images.wondershare.com/filmora/article-images/2022/07/travel-vlog-camera.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Lenses
 
 Lenses are the most vital part of your camera; it brings light to a fixed object. Will it make a huge impact on your cinematic shot? For your montage? For your b-roll? Yes, yes, and also yes. The use of lenses has a greater and different impact because it has a contrasting effect, especially for sharpness, depth of field, details, and background blur. It is the most important parameter depending on the situation that you might have for traveling. For example, I used Sigma 16mm, a wide lens, which is good for landscape photography or montage. Another one is Sigma 30mm, this lens is good for mid-range shot portraits and it creates a dramatic effect while capturing a person or an object.
@@ -75,32 +54,40 @@ Nowadays, many filmmakers and famous vloggers are using gimbals. We often use th
 
 This is one of my favorite pieces of equipment and frequently used camera, the GoPro 9\. A lot of content creators that I know are using action cameras for their daily vlogging. No doubt and no questions at all because this are the smallest camera that you can get on the market. Is it too pricey? Unfortunately, yes, but some brands are not. Since it is the smallest of all, the price that you pay will be worth it. It is very convenient; you can put it in your small bag and it can also fit in your pocket. Very easy to use and the resolution you get is superior. Undeniably, this is my go-to camera. You can use it in any rough situation, that is why this cute little thing has a lot to offer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![action camera](https://images.wondershare.com/filmora/article-images/2022/07/action-camera.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 5\. Batteries, External SSD, and Memory card
 
 In any case, we needed a few accessories to support our equipment better. Simple things like an extra pair of batteries for your camera and action came. External SSD is a big help especially when you're running out of memory on your computer. Memory card with a lot of storage space, I consider this an important part of my accessory kit. Make those two, and always have a spare card with you because anything can happen. So be prepared.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![battery ssd card](https://images.wondershare.com/filmora/article-images/2022/07/battery-ssd-card.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6\. Laptop, desktop, or phone for editing
 
 In my own experience, every time I go out and visit different places, I always have my laptop with me, so that I can easily transfer my files and start the editing process. Constantly, when I have spare time or I'm not doing anything while resting during the trip, I start editing to make progress gradually. This can save my time. I'm going to show you how I transfer my files and edit my video by **STABILIZING** your video that makes it better in **Wondershare Filmora.**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![laptop devices](https://images.wondershare.com/filmora/article-images/2022/07/laptop-devices.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
 
@@ -114,20 +101,38 @@ click on new project
 
 ![new project](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step2IMPORT FILES
 
 from there you can choose and select which video you would like to import
 
 ![import files](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step3DRAG AND DROP
 
 just drag and drop simple as that
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drag and drop](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step4STABILIZING THE VIDEO
 
@@ -135,9 +140,6 @@ choose the TOOLS
 
 select video and you can choose Stabilization
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![stabulizing the video](https://images.wondershare.com/filmora/guide/stabilization-02.png)
 
 ##### Step5ANALYZES THE SELECTED VIDEO TO STABILIZE
@@ -149,7 +151,6 @@ So, all in all, those are the equipment and gears that I use for any travel vlog
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -173,8 +174,24 @@ So, all in all, those are the equipment and gears that I use for any travel vlog
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-rookie-recording-assessment-guide/"><u>[New] Rookie Recording Assessment Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlock-potential-with-best-free-text-psdfree/"><u>[New] Unlock Potential with Best Free Text PSDFree</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-elevate-your-social-standing-with-1000-followersmth/"><u>[Updated] Elevate Your Social Standing with 1,000 Followers/Mth</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-pathway-to-prosperity-a-graphic-designers-journey/"><u>[Updated] The Pathway to Prosperity A Graphic Designer's Journey</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-photomontage-effect-visual-synthesis-techniques/"><u>[Updated] The Photomontage Effect Visual Synthesis Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleash-creativity-on-the-fly-android-and-iphones-video-magic/"><u>[Updated] Unleash Creativity on the Fly Android & iPhone's Video Magic</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-the-essential-list-of-leading-mp3-metadata-editors-in-the-cloud/"><u>2024 Approved The Essential List of Leading MP3 Metadata Editors in the Cloud</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-total-circles-capture-systems/"><u>2024 Approved Total Circles Capture Systems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/wmv-flac-movavi/"><u>立即免費 WMV 到 FLAC 格式转换：使用 Movavi 音频编解码器</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Vivo V27e? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tailoring-content-for-snapchats-luminaries/"><u>In 2024, Tailoring Content for Snapchat's Luminaries</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-digital-dimension-state-of-the-art-vr/"><u>In 2024, The Digital Dimension State-of-the-Art VR</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-black-battery-setups-for-gopro-hero5-genuine-and-imitators/"><u>In 2024, Ultimate Black Battery Setups for GoPro Hero5 – Genuine & Imitators</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721466674331-one-airpod-loud-and-proud-the-other-quiet-unravel-this-mystery-and-learn-the-four-solutions/"><u>One AirPod Loud and Proud, The Other Quiet – Unravel This Mystery & Learn the Four Solutions</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-poco-f5-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Poco F5 5G? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/smooth-sailing-easy-recording-tips-for-your-logitech-cam/"><u>Smooth Sailing Easy Recording Tips for Your Logitech Cam</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Vivo Y100i Power 5G | Dr.fone</u></a></li>
+</ul></div>
 

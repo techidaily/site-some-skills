@@ -1,7 +1,7 @@
 ---
 title: "Transitioning to Augmented Reality: My Journey Swapping a Standard Monitor for AR Glasses"
-date: 2024-10-27T17:51:56.610Z
-updated: 2024-11-02T16:58:22.139Z
+date: 2024-11-09T20:30:46.304Z
+updated: 2024-11-11T01:18:07.845Z
 tags:
   - cutting-edge
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
 
  I have what could politely be called an unconventional work setup. Instead of a PC, I use Samsung DeX. I do much of my work from the inside screen on my Samsung Galaxy Z Fold 5, and I connect to a larger screen when I need more space. When I saw the XReal Air 2 Pro glasses work seamlessly with DeX, I figured I was the ideal candidate to give it a try. So I bought a pair, and here's what I've experienced.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  My Eyes Adjusted Quicker Than I Expected
 
  The XReal Air 2 Pro glasses, like other AR glasses and VR headsets, work by placing two tiny screens right before your eyes. The pro model is largely the same as the [XREAL Air 2](https://facebook-video-recording.techidaily.com/new-in-2024-understanding-the-technicalities-of-fb-360-streaming/), except with the ability to adjust the transparency of the lenses. I was apprehensive about how much strain either model would put on my eyes during a full day's work. I did feel some strain on the first day, but my eyes were already acclimated by day two. In general, I don't feel any more strain than I do from staring at a regular computer monitor for hours at a time.
@@ -26,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
  Like a monitor, the glasses let you adjust brightness and color temperature. Unlike a monitor, the most important bit is securing the position on your face. You need the glasses close enough to your eyes, resting on the right part of your nose, at the right height, in order for text to be clear and not to blur at the edges. It took some adjusting, but it felt second nature by the second day.
 
 ![XREAL Air 2 Pro AR glasses resting on the bridge of a nose.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/1000060992.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Bertel King / How-To Geek
 
@@ -44,10 +58,10 @@ Bertel King / How-To Geek
 ![A desk without a monitor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/1000061003.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Bertel King / How-To Geek
@@ -62,22 +76,15 @@ Bertel King / How-To Geek
 
 ![A Samsung Galaxy Z Fold 5, XREAL Air 2 Pro AR Glasses, and glasses case.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/1000061021.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Bertel King / How-To Geek
 
  To play games, I also grab a controller. For work, I also pack a keyboard and mouse. None of these things are particularly big. The keyboard is the only one I don't bring with me when packing up a laptop.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Awkward Social Interactions
@@ -85,13 +92,6 @@ Bertel King / How-To Geek
  There's something intuitively weird about looking at someone wearing glasses who's just sitting there, staring at the wall or gazing up at the ceiling. It's obvious when someone is watching a movie on a computer monitor. No one has any idea what's going on in my glasses, unless they hear the sound coming through the speakers or get close enough to my face to see light from the tiny displays.
 
  Wearing AR glasses is a bit like making a switch from Bluetooth speakers to Bluetooth earbuds. The former tunes people in to what you're listening to, while the latter is completely private. The thing is, while we've had decades to get used to this with audio, it's pretty new for video. When I'm alone, AR glasses are awesome, but I feel weird when I'm wearing them around others.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Great for Working Around Kids
 
@@ -134,24 +134,22 @@ Bertel King / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-your-go-to-list-for-immersive-sandboxes/"><u>[New] 2024 Approved Your Go-To List for Immersive Sandboxes</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-tales-best-yt-storytellers-for-23/"><u>[New] Top Tales Best YT Storytellers for '23</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlock-creative-closure-ideas-with-our-template-service/"><u>[New] Unlock Creative Closure Ideas with Our Template Service</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-rogelikes-past-present-and-emerging-futures/"><u>[Updated] Rogelikes Past, Present, & Emerging Futures</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-picture-purity-erasing-images-excesses/"><u>[Updated] The Ultimate Guide to Picture Purity Erasing Images' Excesses</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-picks-for-sky-hdr-images-online-compilation/"><u>[Updated] Top Picks for Sky HDR Images Online Compilation</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-tranquil-acoustic-settings-on-computers/"><u>[Updated] Tranquil Acoustic Settings on Computers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-interpreting-differences-360-and-virtual-reality-cinematography/"><u>2024 Approved Interpreting Differences 360° and Virtual Reality Cinematography</u></a></li>
-<li><a href="https://blog-min.techidaily.com/mac-dvd-to-youtube-converter-dvdyoutubeflvmp4mp3/"><u>無料Mac DVD to YouTube Converter - 高品質DVDをYouTube、FLV、MP4、MP3に簡単変換</u></a></li>
-<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-realme-11-proplus-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Realme 11 Pro+ Phone | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-test-and-calibrate-your-gaming-controller-on-windows/"><u>How to Test and Calibrate Your Gaming Controller on Windows</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-nokia-g310-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Nokia G310 | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-samsung-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Samsung Devices</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-leading-eights-imagery-fusion-platform/"><u>In 2024, The Leading Eight’s Imagery Fusion Platform</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-inshot-on-pcs-and-laptops/"><u>In 2024, The Ultimate Guide to Inshot on PCs and Laptops</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-total-motion-systems-scrutiny-report/"><u>In 2024, Total Motion Systems Scrutiny Report</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/mastering-the-art-of-cross-platform-skype-chats-with-this-comprehensive-guide/"><u>Mastering the Art of Cross-Platform Skype Chats with This Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/selecting-the-right-tablet-a-guide-to-choosing-by-cpu-performance/"><u>Selecting the Right Tablet: A Guide to Choosing by CPU Performance</u></a></li>
-<li><a href="https://win-tips.techidaily.com/top-logiciels-de-sauvegarde-pour-windows-server-201n-r2-comparatif-complet/"><u>Top Logiciels De Sauvegarde Pour Windows Server 201N R2 - Comparatif Complet</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-compre-written-explanation-easy-hdr-understanding/"><u>[New] In 2024, Compre Written Explanation Easy HDR Understanding</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-vector-art-basics-for-newcomers-diverse-forms-and-tools/"><u>[New] In 2024, Vector Art Basics for Newcomers, Diverse Forms and Tools</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nfuse-personality-into-your-content-with-custom-thumbnails-for-2024/"><u>[New] Infuse Personality Into Your Content with Custom Thumbnails for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-fundamentals-of-using-ffpm-in-firefox/"><u>[New] The Fundamentals of Using FFPM in Firefox</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-intricacies-of-enhanced-digital-worlds/"><u>[Updated] The Intricacies of Enhanced Digital Worlds</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-troubleshooting-iphone-x-regaining-access-via-facial-id/"><u>[Updated] Troubleshooting iPhone X Regaining Access via Facial ID</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/avoid-using-third-party-software-like-itunes-alternatives-as-they-may-not-be-optimized-for-ios-device-management-and-could-contribute-to-device-not-found-er23/"><u>Avoid Using Third-Party Software Like iTunes Alternatives, as They May Not Be Optimized for iOS Device Management and Could Contribute to 'Device Not Found' Errors when Connecting Your iPhone/iPad via USB</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/expert-tips-on-documenting-lol-tournaments/"><u>Expert Tips on Documenting LOL Tournaments</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-4-things-you-must-know-about-apple-iphone-8-plus-activation-lock-by-drfone-ios/"><u>In 2024, 4 Things You Must Know About Apple iPhone 8 Plus Activation Lock</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-cinematic-narratives-mastering-screenplays/"><u>In 2024, Cinematic Narratives Mastering Screenplays</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-interconnecting-your-music-collection-across-services/"><u>In 2024, Interconnecting Your Music Collection Across Services</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-master-meeting-magic-key-ways-to-tweak-with-zoom-converter/"><u>In 2024, Master Meeting Magic Key Ways to Tweak with Zoom Converter</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tailored-strategies-for-free-clock-usage-optimization/"><u>In 2024, Tailored Strategies for FREE Clock Usage Optimization</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/tactics-to-quiet-down-distractions-during-google-meets-for-2024/"><u>Tactics to Quiet Down Distractions During Google Meets for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-final-countdown-is-ps5-worth-its-price-with-these-4-key-points/"><u>The Final Countdown: Is PS5 Worth Its Price with These 4 Key Points?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-editors-secret-best-free-premiere-pro-resources-for-2024/"><u>Top Editors' Secret Best FREE Premiere Pro Resources for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/understanding-the-price-tag-on-youtube-promo-for-2024/"><u>Understanding the Price Tag on Youtube Promo for 2024</u></a></li>
 </ul></div>
 

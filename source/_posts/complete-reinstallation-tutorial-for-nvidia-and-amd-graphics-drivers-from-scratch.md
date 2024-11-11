@@ -1,7 +1,7 @@
 ---
 title: Complete Reinstallation Tutorial for NVIDIA & AMD Graphics Drivers From Scratch
-date: 2024-10-27T17:29:30.617Z
-updated: 2024-11-02T16:50:36.436Z
+date: 2024-11-04T02:38:06.247Z
+updated: 2024-11-11T04:14:13.419Z
 tags:
   - deals
 categories:
@@ -21,6 +21,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  If you're suffering graphical performance issues or driver conflicts on Windows, undertaking a clean installation of your GPU driver can help. Both Nvidia and AMD provide tools to completely uninstall and reinstall your graphics driver, or you can use a third-party uninstaller.
 
  Here's everything you need to know about clean installing your Nvidia or AMD graphics driver on Windows.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  When You Need to Clean Install Your Graphics Driver
 
@@ -42,18 +49,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![System Properties dialog with Device Installation Settings Option in Windows 11](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/open-device-installation-settings-in-system-properties.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next, click "No (your device might not work as expected)", then click "Save Changes". Click "OK" to apply the changes and close the prompt.
 
 ![Device Installation settings dialog with the No option selected in Windows 11](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/disable-automatic-device-driver-download-and-updates.jpg) 
 
  Once you've completed this guide and freshly installed your GPU driver, repeat these instructions to re-enable automatic driver updates.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Completely Uninstall AMD and Nvidia Drivers
 
@@ -69,29 +76,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Download page for AMD Cleanup Utility](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/download-page-for-amd-cleanup-utility.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next, run the "amdcleanuputility.exe" file, then click "Yes" if prompted by User Account Control.
 
  If you're not in Safe Mode, you'll be prompted to boot into Safe Mode. Click "Yes" to restart your computer in Safe Mode.
 
 ![Prompt Showing AMD Cleanup Utility run in Safe Mode](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/amd-cleanup-utility-run-in-safe-mode-prompt-3.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After the restart, wait for the cleanup utility to launch automatically, then click "OK" to continue.
 
 ![Running AMD cleanup utility Prompt in Safe Mode](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/running-amd-cleanup-utility-in-safe-mode-3.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once the driver is removed, click "Finish," then click "Yes" to restart your computer.
 
@@ -107,20 +107,27 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Nvidia Graphics Driver Intaller prompt with Nvidia Graphics Driver and GeForce Experience Option Selected](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/nvidia-graphics-driver-intaller-prompt-2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Under "Installation options," choose "Custom (Advanced)" and click "Next."
 
 ![Nvidia Graphics Driver installer prompt with the Custom Option selected](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/nvidia-graphics-driver-installer-choose-custom-installation-option-2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Under Custom installation options, select "Perform a clean installation", then click "Next" to continue.
 
 ![Nvidia driver installer perform a clean installation option selected](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/nvidia-driver-installer-perform-a-clean-installation-option-selected-1.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The driver utility now removes the previous version of the software and its components, and prepares your computer for a restart. Once done, click "Restart Now."
 
@@ -131,10 +138,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Since the clean installation resets your profile and any custom configurations, sign in to the GeForce Experience client and reconfigure your necessary settings.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  3\. Using Display Driver Uninstaller (DDU)
@@ -151,19 +158,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![DDU options prompt in Safe Mode](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/display-driver-uninstaller-options-dialog-1.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the right pane, click the "Select device type" dropdown, and choose "GPU."
 
 ![Display Driver Uninstaller prompt with the Select device type option selected](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/ddu-select-device-type-option-2.jpg) 
@@ -175,6 +169,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  To begin uninstallation, click "Clean and restart (highly recommended)." DDU will then remove all traces of previous graphics drivers, including files, folders, and registry keys, and restart your computer.
 
 ![Display Driver Uninstaller prompt with Clean and Restart Option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/ddu-clean-and-restart-option-2.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After the restart, your computer may fall back to the basic graphics driver for the graphics chip, to ensure your display still renders an image.
 
@@ -189,13 +190,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  To begin, launch the AMD installer, then click to expand "Additional Options."
 
 ![AMD softare adrenaline edition setup wizard showing additional options for install type](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/amd-softare-adrenaline-edition-setup-wizard-additional-options-install-type-4.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Here, click the "Install Type" dropdown and choose from "Full Install," "Minimal Install," or "Driver Only." Then, click "Install" to initiate the installation process.
 
@@ -212,10 +206,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Nvidia Graphics Driver installer prompt with the Custom Option selected](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/nvidia-graphics-driver-installer-choose-custom-installation-option-2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Click "Next" to install the driver. This process may take some time to complete, and your display may momentarily flash a few times during the installation.
@@ -243,18 +237,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-unveiling-costless-creativity-a-deep-dive-into-best-luts/"><u>[New] Unveiling Costless Creativity A Deep Dive Into Best LUTs</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-meme-masterpieces-iphones-here/"><u>[Updated] 2024 Approved Meme Masterpieces, iPhones Here</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-essential-compilation-top-10-budget-friendly-lut-sources/"><u>[Updated] The Essential Compilation Top 10 Budget-Friendly LUT Sources</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-wmm-tutorial-for-aspiring-animators/"><u>[Updated] The Ultimate WMM Tutorial for Aspiring Animators</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-aspect-ratios-decoded-youtube-edition-a-quick-reference-guide/"><u>2024 Approved Aspect Ratios Decoded YouTube Edition – A Quick Reference Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ironclad-guide-to-bio-and-profile-url-association-in-tiktok/"><u>2024 Approved The Ironclad Guide to Bio and Profile URL Association in TikTok</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-realme-c67-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Realme C67 4G | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfersync-notes-from-apple-iphone-11-pro-max-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer/Sync Notes from Apple iPhone 11 Pro Max to iPad | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-vivo-v27-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Vivo V27</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-updating-your-skills-regularly/"><u>In 2024, Updating Your Skills Regularly</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-utilize-srt-playback-across-operating-systems/"><u>In 2024, Utilize SRT Playback Across Operating Systems</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ultimate-portable-keyboard-moko-bluetooth-compact-keypad/"><u>Ultimate Portable Keyboard: MoKo Bluetooth Compact Keypad</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-unquestioned-faith-in-ai-is-a-path-we-must-caution-against/"><u>Why Unquestioned Faith in AI Is a Path We Must Caution Against</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tools-and-gear-for-crafting-vlogs/"><u>[New] Tools & Gear for Crafting Vlogs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-high-performance-desktop-pcs/"><u>[New] Ultimate High-Performance Desktop PCs</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-advanced-tactics-preserving-the-integrity-of-whatsapp-talks-for-2024/"><u>[Updated] Advanced Tactics Preserving the Integrity of WhatsApp Talks for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-cameraphone-trackers-precision-power-performance/"><u>[Updated] Top Camera/Phone Trackers Precision, Power, Performance</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transforming-video-aesthetics-on-tiktok-dual-approach/"><u>[Updated] Transforming Video Aesthetics on TikTok (Dual Approach)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-strategies-for-complementing-core-shots-with-b-roll/"><u>2024 Approved Strategies for Complementing Core Shots with B-Roll</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-strategies-to-remove-dull-backgrounds-from-pictures/"><u>2024 Approved Strategies to Remove Dull Backgrounds From Pictures</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-superior-3d-tools-for-animated-designers/"><u>2024 Approved Superior 3D Tools for Animated Designers</u></a></li>
+<li><a href="https://facebook.techidaily.com/discreetly-dialing-up-likes-on-social-platforms/"><u>Discreetly Dialing Up Likes on Social Platforms</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/easy-laughter-your-handy-meme-making-manual-for-2024/"><u>Easy Laughter Your Handy Meme-Making Manual for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/1723082423931-expert-analysis-of-the-amplifi-hd-router-setup-say-goodbye-to-weak-signal-areas/"><u>Expert Analysis of the Amplifi HD Router Setup: Say Goodbye to Weak Signal Areas</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/googles-latest-innovation-unveiled-stay-ahead-with-insight-into-pixel-tablet-specs-and-launch-date/"><u>Google's Latest Innovation Unveiled! Stay Ahead with Insight Into Pixel Tablet Specs and Launch Date</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-principles-of-momentum-reversal-in-filming/"><u>In 2024, Principles of Momentum Reversal in Filming</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/join-the-social-gaming-movement-xbox-and-fb-livestreams/"><u>Join the Social Gaming Movement Xbox & FB Livestreams</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-ultimate-guide-to-reversing-video-in-final-cut-pro-for-2024/"><u>New The Ultimate Guide to Reversing Video in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/overcoming-common-pitfalls-in-job-interviews-for-2024/"><u>Overcoming Common Pitfalls in Job Interviews for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-mastering-powerdirector-for-2024/"><u>The Ultimate Guide to Mastering PowerDirector for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/twitters-reactive-content-unveiled-for-2024/"><u>Twitter's Reactive Content Unveiled for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-fixes-for-when-mass-effect-legendary-edition-keeps-crashing-pcxbox-tips/"><u>Ultimate Fixes for When Mass Effect Legendary Edition Keeps Crashing – PC/Xbox Tips</u></a></li>
 </ul></div>
 

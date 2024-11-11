@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Superior Text Manipulation Techniques\""
-date: 2024-08-20T23:08:14.395Z
-updated: 2024-08-21T23:08:14.395Z
+date: 2024-11-04T19:29:45.975Z
+updated: 2024-11-10T17:57:05.218Z
 tags: 
   - screen-recording
   - ai video
@@ -26,14 +26,6 @@ Link: <https://www.toolfarm.com/buy/plugin%5Feverything%5Ftextdelay/>
 
 TextDelay is a native plugin, meaning that you will find it already installed on After Effects. As the name suggests, you can use TextDelay to delay any other text transformations that you may add to the text and it allows you to delay these transformations by word, line, or even character. It comes with a range selector that allows you to have precise control over which characters can get the effect.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![text delay plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-delay-plugin.jpg)
 
 ## TextExploder
@@ -45,18 +37,26 @@ TextExploder is an After Effects plugin that is developed by MamoWorld and it al
 ![text exploder plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-exploder-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## iExpressions 2
 
 Link: <https://aescripts.com/iexpressions/>
 
 If you want to effectively use the After Effects expressions even if you are not familiar with coding, iExpressions 2 is the text plugin to consider. It comes with 22 ready-to-use iExpressions that you can easily customize to fit into your project and it is so easy to use.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iexpression 2 plugin](https://images.wondershare.com/filmora/article-images/2022/07/iexpression-2-plugin.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## TextBox
 
@@ -66,30 +66,48 @@ If you want to create the perfect shape behind your text, then TextBox is a good
 
 ![text box plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-box-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Font Manager
 
 Link: <https://aescripts.com/font-manager/>
 
 Font Manager is an After Effects text plugin that is useful when creating and working with animated typefaces. You can use it to create the most complex animated text graphics in just a few simple clicks. You will also find it very familiar to use as the user interface is similar to the Character Panel in After Effects.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![font manager plugin](https://images.wondershare.com/filmora/article-images/2022/07/font-manager-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Cartoon Moblur
 
 Link: <https://www.toolfarm.com/buy/plugin%5Feverything%5Fcartoon%5Fmoblur>
 
 This is the most ideal plugin to choose when you want to add motion trail to the graphics in your video, but you want them to appear very cartoony. If you have used the motion blur effect in After Effects, Cartoon Moblur will behave in a similar function, but it is more suited to 2D, flat or minimal graphics. Some of the factors that you can customize include the length of the blur (shutter angle), color, and opacity.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![cartoon moblur plugin](https://images.wondershare.com/filmora/article-images/2022/07/cartoon-moblur-plugin.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Shadow Studio
 
@@ -98,8 +116,19 @@ If you are looking for shadow styles that will go very well with your project, S
 ![shadow studio plugin](https://images.wondershare.com/filmora/article-images/2022/07/shadow-studio-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Texts Animation Bundle
 
 Link: <https://aedownload.com/download-texts-animation-bundle-free-videohive/>
@@ -108,9 +137,6 @@ This is a bundle of more than 80 different templates to add text effects to any 
 
 ![texts animation bundle plugin](https://images.wondershare.com/filmora/article-images/2022/07/texts-animation-bundle-plugin.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Artificial Intelligence Titles
 
 Link: <https://videohive.net/item/ait-artificial-intelligence-titles/22124640?s%5Frank=1>
@@ -125,14 +151,8 @@ Link: <https://videohive.net/item/text-library-handy-text-animations/21932974>
 
 This is another great text animation bundle with different options for just about any kind of project. But unlike other plugin bundles that only have a few effects to choose from, Text Library has thousands of templates to choose from. Once you have selected the template that you would like to use, you also get the option to customize the template to suit your project. You can customize the text, size, duration of the animation, and color. It is easy to use and is constantly updated to introduce even more templates with each update.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![text library plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-library-plugin.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 On its own After Effects comes with so many post-production effects and features to make your project appear professional and well made. But if you would like to have a unique video production that stands head and shoulders above all others, plugins are a great way to do that. The good news is that After Effects allows for the use of plugins developed by third-party developers and some of the them like the text plugins, we have listed above can be very useful to a video’s production.
@@ -165,8 +185,22 @@ On its own After Effects comes with so many post-production effects and features
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-must-do-tasks-for-enhanced-podcast-experience/"><u>[New] Must-Do Tasks for Enhanced Podcast Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transforming-ideas-into-reality-best-6-nft-services-explored/"><u>[New] Transforming Ideas Into Reality Best 6 NFT Services Explored</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-a-visual-voyage-exploring-pexels-for-perfect-shots/"><u>[Updated] A Visual Voyage Exploring Pexels for Perfect Shots</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-optimizing-hashtags-for-youtube-traffic-triplets-for-2024/"><u>[Updated] Optimizing Hashtags for YouTube Traffic Triplets for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-dell-p2715qs-stunning-4k-visuals/"><u>[Updated] The Ultimate Guide to Dell P2715Q's Stunning 4K Visuals</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-science-of-attractiveness-building-engaging-audio-introductions/"><u>2024 Approved The Science of Attractiveness Building Engaging Audio Introductions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-ram-problems-in-windows-systems-using-vmware/"><u>Addressing RAM Problems in Windows Systems Using VMware</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/easy-steps-to-transition-from-windows-7-or-81-to-windows-groovy-10-comprehensive-upgrade-manual/"><u>Easy Steps to Transition From Windows 7 or 8.1 to Windows Groovy 10 - Comprehensive Upgrade Manual</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-essential-guide-to-best-10-gratis-srt-transformers/"><u>In 2024, The Essential Guide to Best 10 Gratis SRT Transformers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-gaming-giants-tussle-with-video-powerhouse-youtube/"><u>In 2024, The Gaming Giant's Tussle with Video Powerhouse YouTube</u></a></li>
+<li><a href="https://techidaily.com/remove-the-lock-of-oppo-reno-9a-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Oppo Reno 9A</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-bad-image-problems-tips-for-windows-11-and-10-users/"><u>Resolving 'Bad Image' Problems: Tips for Windows 11 & 10 Users</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-lava-yuva-3-pro-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Lava Yuva 3 Pro</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tackling-tech-troubles-expert-tips-on-correcting-the-notorious-500-error-issue/"><u>Tackling Tech Troubles: Expert Tips on Correcting the Notorious 500 Error Issue</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unveil-the-8-key-services-for-video-marketing-growth-for-2024/"><u>Unveil the 8 Key Services for Video Marketing Growth for 2024</u></a></li>
+</ul></div>
 

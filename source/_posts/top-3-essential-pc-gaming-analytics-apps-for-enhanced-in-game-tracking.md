@@ -1,7 +1,7 @@
 ---
 title: Top 3 Essential PC Gaming Analytics Apps for Enhanced In-Game Tracking
-date: 2024-10-28T16:39:32.298Z
-updated: 2024-11-02T17:43:59.143Z
+date: 2024-11-05T03:48:33.657Z
+updated: 2024-11-11T04:48:26.321Z
 tags:
   - deals
 categories:
@@ -38,22 +38,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![NVIDIA Overlay main menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-01.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once there, make sure to select the “Custom” statistics view, click on the "View All" button, and then simply enable the performance metrics you want to see on the statistics overlay.
 
 ![NVIDIA overlay in-game statistics options menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-03.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also configure the heads-up display by clicking the "Configure Heads Up Display" button in the "Statistics" options menu.
 
@@ -75,6 +68,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![RTSS Main Window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-04.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also use RTSS as an in-game frame limiter, which I recommend because I’ve found it works much better than frame limiters available in games or those available in NVIDIA and AMD apps.
 
  Once you finish setting up RTSS-related options, open MSI Afterburner, locate the settings icon, and click it. Once you're in the options menu, locate the “On-Screen Display” tab and assign the keys to show and hide the on-screen display, as shown below. You can also assign a key to toggle the OSD, but in my case, the OSD toggle doesn’t work no matter which key I assign.
@@ -84,6 +84,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Now, click the “Monitoring” tab. In this tab, you can pick any in-game performance metric you want to see on the OSD; to enable it, click the “Show in On-Screen Display” box. You can also rename every metric by clicking the "Override Graph Name" and "Override Group Name" buttons.
 
 ![MSI Afterburner main window and the Monitoring menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-06-2.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After you enable the performance stats you want to see on the OSD, click the “Apply” button, and try out the OSD by entering the game and pressing the button you’ve mapped to open the RTSS performance overlay.
 
@@ -103,50 +110,31 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Intel PresentMon main window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-007.png) 
 
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When you select the custom preset, click the “Edit” button to customize it.
 
 ![Intel PresentMon main Window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-07.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once in the configuration menu, explore different options and create your perfect monitoring overlay.
 
 ![Intel PresentMon custom preset configuration menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-08.png) 
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can combine multiple metrics by pressing the “Plus” button. For example, you can combine GPU and CPU busy graphs with GPU and CPU wait graphs, average and 99% low FPS, CPU and GPU utilization, and more. The “Options” button next to the “Plus” button allows you to customize each graph.
 
 ![Intel PresentMon custom preset configuration menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-09.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Don’t forget that you can show most data as readouts—numbers, in other words—or graphs.
 
@@ -169,22 +157,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-decoding-the-best-of-beauty-youtubes-elite-artists-showcased-for-2024/"><u>[New] Decoding the Best of Beauty YouTube's Elite Artists Showcased for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-techniques-for-effortless-facebook-video-posting-pcandroid/"><u>[New] In 2024, Techniques for Effortless Facebook Video Posting, PC/Android</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-silliest-stories-on-twitter/"><u>[New] Silliest Stories on Twitter</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transformative-youtube-title-genesis-tools/"><u>[New] Transformative YouTube Title Genesis Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unleash-creativity-with-the-best-online-screen-changers/"><u>[New] Unleash Creativity with the Best Online Screen Changers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unleashing-the-potential-of-iphone-photos-through-motion-blur/"><u>[New] Unleashing the Potential of iPhone Photos Through Motion Blur</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-screencapturepro-review-expert-insights-and-comparisons/"><u>[Updated] 2024 Approved ScreenCapturePro Review Expert Insights and Comparisons</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-vlcs-network-live-stream-capabilities/"><u>[Updated] Unveiling VLC's Network Live Stream Capabilities</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-streamlining-screens-for-large-scale-youtubers/"><u>2024 Approved Streamlining Screens for Large-Scale YouTubers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-innovation-insights-into-vr-gear-designs/"><u>2024 Approved The Innovation Insights Into VR Gear Designs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-insiders-guide-to-leveraging-spotify-ads-effectively/"><u>2024 Approved The Insider's Guide to Leveraging Spotify Ads Effectively</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-realme-12-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Realme 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-intro-ideas-free-download-options/"><u>In 2024, Intro Ideas Free Download Options</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplifying-controlled-chromeedge-use-in-enterprise-environments/"><u>Simplifying Controlled Chrome/Edge Use in Enterprise Environments</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-livestream-guide-decide-between-pmix-and-wirecast-for-2024/"><u>Ultimate Livestream Guide Decide Between PMix & Wirecast for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/vs-gopro-hero-session-and-polaroid-cube-top-pick-for-filmmakers/"><u>Vs. GoPro Hero Session & Polaroid Cube Top Pick for Filmmakers</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/asmr-journey-essential-mic-choices-to-explore-for-2024/"><u>Your ASMR Journey Essential Mic Choices to Explore for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/urating-a-musical-portfolio-in-youtube/"><u>[New] Curating a Musical Portfolio in Youtube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tapping-into-creative-potential-with-luts-in-premiere-pro/"><u>[New] Tapping Into Creative Potential with LUTs in Premiere Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-roadmap-to-crafting-high-quality-srt-files/"><u>[New] The Ultimate Roadmap to Crafting High-Quality SRT Files</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-4-platforms-for-free-skype-ringtones/"><u>[New] Top 4 Platforms for Free Skype Ringtones</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-quick-steps-to-record-and-share-your-skyrim-quests/"><u>[Updated] 2024 Approved Quick Steps to Record and Share Your Skyrim Quests</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-isyncslideshow-integrate-ios-plus-sierra-images/"><u>[Updated] ISyncSlideshow Integrate iOS + Sierra Images</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-thorough-analysis-for-easy-dynamic-range-photography/"><u>[Updated] Thorough Analysis for Easy Dynamic Range Photography</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-tiktok-wallpaper-templates-uncovered/"><u>2024 Approved Top TikTok Wallpaper Templates Uncovered</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlock-your-lens-skills-with-snapseed-essentials/"><u>2024 Approved Unlock Your Lens Skills with Snapseed Essentials</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/best-free-aac-music-player-apps-for-windows-and-macos-top-5-selections/"><u>Best FREE AAC Music Player Apps for Windows & macOS: Top 5 Selections</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-analysis-of-fongo-top-canadian-voip-provider/"><u>Comprehensive Analysis of Fongo - Top Canadian VOIP Provider</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-lock-from-your-iphone-12-mini-and-ipad-by-drfone-ios/"><u>How to Unlock iCloud lock from your iPhone 12 mini and iPad?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-se-2022-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone SE (2022)</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-enable-disable-and-change-safari-location-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Enable, Disable, and Change Safari Location on Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/total-gaze-coverage-camera-analysis-for-2024/"><u>Total Gaze Coverage Camera Analysis for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Troubleshooting Steps for Windows 10 Photos Freeze"
-date: 2024-08-20T23:15:28.582Z
-updated: 2024-08-21T23:15:28.582Z
+date: 2024-11-07T18:57:30.533Z
+updated: 2024-11-10T20:44:11.341Z
 tags: 
   - screen-recording
   - ai video
@@ -26,9 +26,6 @@ thumbnail: https://www.lifewire.com/thmb/m0kpslEgrnZU3NyfOpkK0bna68A=/400x300/fi
 
  Mar 27, 2024• Proven solutions
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Photos represent the vibrant memories that we have so fondly spent with our loved ones or capture our achievements and milestones in life. Revisiting them later brings everything alive in front of you. But, when the Windows 10 Photos App crashes, how could you enjoy your beautiful photos? We know fixing the issue is not an easy job. But we have got you covered. If, in any case that, you undergo such crashing issues with Windows 10 Photos App, we are here to lead you through.
@@ -54,13 +51,17 @@ Here is how to troubleshoot –
    1. Press the ‘Windows’ key + ‘X’ for launching the ‘Control Panel. Alternatively, type ‘Control Panel’ in the search box.
    2. Pick ‘Troubleshooting’ and hit it. Tap on ‘View All’ from the top-left panel of the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/Troubleshooter.jpg)
 
 1. From the list of Apps displayed on the screen, click ‘Windows Store Apps’ and press the ‘Next’ button.
 2. Now, the troubleshooter will troubleshoot every app within the Windows Store Applications and fix them in a jiffy.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 2: Restore Default Libraries
 
@@ -73,11 +74,15 @@ Restoring the default libraries would resolve the Windows 10 Photos App crash is
 
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/windows-10-photos-app-crashes-restore.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Lastly, click on ‘Apply’ followed by ‘OK’ and the issue will be resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 3: Reset it
 
 When you reset the Windows Photo App itself, your issue gets resolved. Plenty of Windows users have mentioned that resetting the Photo App has fixed the unresponsive or crashing app problems.
@@ -88,9 +93,6 @@ Here is how can you reset it –
 2. Hit ‘Advanced Options’ and click ‘Reset’ button thereafter.
 3. Now, you got to restart your Windows system, so that Windows 10 Photos App crashing problem can be easily resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 4: Repair Photos App package
 
 A corrupted Photos App package might wreak havoc in your photo viewing, as the app doesn’t buzz follow your commands. The least you can do here is repair the package to fix minor glitches within and get it going.
@@ -102,9 +104,6 @@ Let’s fix the issue by repairing the Photos App package installed on your comp
 3. Allow few minutes to make the changes effective and then restart the Windows 10 computer.
 4. Now, the Windows 10 Photos App won’t crash.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Solution 5: Reinstall Windows 10 Photos app
 
 Alternatively, if nothing works out in your favor, you can always fix Windows 10 Photos App crash issue by reinstalling Windows 10 Photos App. A corrupted Photos App might create disturbance for you, so reinstalling would get a fresh and bug free version on your system from the Microsoft Store.
@@ -121,6 +120,13 @@ Here is how to reinstall the Windows 10 Photos App –
 From the above article, we have concluded that experiencing Windows 10 Photos App crashes is not uncommon. But, resolving them shouldn’t give you nightmares as well. From the above-mentioned process guides, you can fix the Windows 10 Photos App crashes effectively without any hassle. Try following each method until you get the Photos App crash issue fixed, so you can view your photos without any trouble.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
@@ -134,10 +140,6 @@ Follow @Shanoon Cox
 
  Mar 27, 2024• Proven solutions
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Photos represent the vibrant memories that we have so fondly spent with our loved ones or capture our achievements and milestones in life. Revisiting them later brings everything alive in front of you. But, when the Windows 10 Photos App crashes, how could you enjoy your beautiful photos? We know fixing the issue is not an easy job. But we have got you covered. If, in any case that, you undergo such crashing issues with Windows 10 Photos App, we are here to lead you through.
@@ -152,14 +154,8 @@ In this article, we have compiled the best solutions for you to get rid of Windo
 
 **You may also like:** [How to Solve Windows 10 Photos App Crashes Effectively >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ## How to fix Windows 10 Photos app crashes
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Solution 1: Use the Troubleshooter
 
 The Windows Troubleshooter is an inbuilt troubleshooting feature embedded with Windows 10 computers. It allows a simple interface to help you choose any application for troubleshooting. Windows Troubleshooter resolves basic issues with the Windows computer so that users can seamlessly use all Windows 10 system features and functionalities.
@@ -174,6 +170,13 @@ Here is how to troubleshoot –
 1. From the list of Apps displayed on the screen, click ‘Windows Store Apps’ and press the ‘Next’ button.
 2. Now, the troubleshooter will troubleshoot every app within the Windows Store Applications and fix them in a jiffy.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 2: Restore Default Libraries
 
 Restoring the default libraries would resolve the Windows 10 Photos App crash issues. Resetting the Photo App to its default source to a valid network, path fixes the case.
@@ -183,12 +186,16 @@ Restoring the default libraries would resolve the Windows 10 Photos App crash is
    3. The right window pane shows multiple libraries and you need to right-tap the ‘Pictures’ library and then choose ‘Properties’.
    4. Tap ‘Restore Defaults’ from the bottom-right portion of the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/windows-10-photos-app-crashes-restore.jpg)
 
 1. Lastly, click on ‘Apply’ followed by ‘OK’ and the issue will be resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 3: Reset it
 
@@ -199,6 +206,13 @@ Here is how can you reset it –
 1. Go to ‘Windows 10 Start Menu’ and then click ‘Settings’. Now, click the ‘Apps (Apps & Features)’ option followed by the ‘Photos’ app.
 2. Hit ‘Advanced Options’ and click ‘Reset’ button thereafter.
 3. Now, you got to restart your Windows system, so that Windows 10 Photos App crashing problem can be easily resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 4: Repair Photos App package
 
@@ -211,9 +225,6 @@ Let’s fix the issue by repairing the Photos App package installed on your comp
 3. Allow few minutes to make the changes effective and then restart the Windows 10 computer.
 4. Now, the Windows 10 Photos App won’t crash.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ### Solution 5: Reinstall Windows 10 Photos app
 
 Alternatively, if nothing works out in your favor, you can always fix Windows 10 Photos App crash issue by reinstalling Windows 10 Photos App. A corrupted Photos App might create disturbance for you, so reinstalling would get a fresh and bug free version on your system from the Microsoft Store.
@@ -225,26 +236,33 @@ Here is how to reinstall the Windows 10 Photos App –
 2. Now, visit the ‘Microsoft Store on your computer and find ‘Microsoft Photos.’
 3. Install ‘Microsoft Photos’ after downloading it from there. Your Windows 10 Photos App crashing issue is well taken care of now.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 From the above article, we have concluded that experiencing Windows 10 Photos App crashes is not uncommon. But, resolving them shouldn’t give you nightmares as well. From the above-mentioned process guides, you can fix the Windows 10 Photos App crashes effectively without any hassle. Try following each method until you get the Photos App crash issue fixed, so you can view your photos without any trouble.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -268,8 +286,23 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-the-clear-path-to-crisp-videography-on-a-gopro/"><u>[New] The Clear Path to Crisp Videography on a GoPro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-updated-conversation-guide-for-podcast-enthusiasts/"><u>[New] Updated Conversation Guide for Podcast Enthusiasts</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-unlocking-the-power-of-memes-a-guide-to-creating-funny-videos/"><u>[Updated] 2024 Approved Unlocking the Power of Memes A Guide to Creating Funny Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-exploring-ios-screenshot-apps-deeply/"><u>[Updated] Exploring iOS Screenshot Apps Deeply</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-link-and-leverage-your-fb-story-for-greater-impact-for-2024/"><u>[Updated] Link & Leverage Your FB Story for Greater Impact for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-ranked-sources-for-embedding-text-visual-effects/"><u>[Updated] Top Ranked Sources for Embedding Text Visual Effects</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-powerpoints-voice-command-capabilities-step-by-step/"><u>[Updated] Unveiling PowerPoint's Voice Command Capabilities Step by Step</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/2-ways-to-monitor-apple-iphone-6s-activity-drfone-by-drfone-virtual-ios/"><u>2 Ways to Monitor Apple iPhone 6s Activity | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-comical-content-for-apples-pixels/"><u>2024 Approved Comical Content for Apple's Pixels</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-creative-potential-applying-effects-and-filters-on-zoom/"><u>2024 Approved Unleash Creative Potential Applying Effects and Filters on Zoom</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-oneplus-nord-ce-3-5g-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from OnePlus Nord CE 3 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-15-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 15 Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-backdrops-for-sustainable-cinema/"><u>In 2024, Free Backdrops for Sustainable Cinema</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-icloud-separation-how-to-disconnect-apple-iphone-11-pro-and-ipad-by-drfone-ios/"><u>In 2024, iCloud Separation How To Disconnect Apple iPhone 11 Pro and iPad</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-supreme-audiovisual-hints-pack/"><u>In 2024, Supreme Audiovisual Hints Pack</u></a></li>
+<li><a href="https://some-skills.techidaily.com/streamlining-media-addition-a-comprehensive-guide-to-youtube-shelves-for-2024/"><u>Streamlining Media Addition A Comprehensive Guide to YouTube Shelves for 2024</u></a></li>
+</ul></div>
 

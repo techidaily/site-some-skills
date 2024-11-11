@@ -1,7 +1,7 @@
 ---
 title: Simple Methods to Locate & Remove Outdated Data in Windows 11
-date: 2024-10-31T18:19:34.740Z
-updated: 2024-11-02T17:03:24.296Z
+date: 2024-11-08T17:37:53.286Z
+updated: 2024-11-10T21:54:48.212Z
 tags:
   - desktop
 categories:
@@ -37,6 +37,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 !['Storage Sense' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/2-enable-storage-sense.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You’ll now configure Storage Sense's behavior. At the top, enable the option in the "Cleanup of Temporary Files" section so that temporary files are automatically deleted.
 
  Turn on the "Automatic User Content Cleanup" toggle. Then, configure various options as follows:
@@ -48,25 +55,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Storage Sense configuration options in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-configure-storage-sense.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To run the feature now, click "Run Storage Sense Now." It will start removing the chosen files.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  With Microsoft PC Manager
@@ -84,10 +85,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Downloaded files and 'Permanently Delete' highlighted in PC Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/5-delete-downloaded-files.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The second option in PC Manager is "Large Files." As you can guess, it lets you find and remove large files. You can specify the file size here so it only finds files larger than that.
@@ -95,13 +96,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Click the option and use the "Size" drop-down menu to specify your file size.
 
 !['Size' drop-down menu highlighted for large files in PC Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/6-specify-file-size.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  When you see the files listed, choose the ones you want to remove and click "Permanently Delete."
 
@@ -124,10 +118,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 !['Run as Administrator' highlighted for Command Prompt in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/9-open-command-prompt.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In the User Account Control prompt, choose "Yes."
@@ -178,20 +172,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-auditory-playscripts-collection/"><u>[New] Ultimate Auditory Playscripts Collection</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-vanguards-choice-of-top-12-high-tech-action-cams-with-locators/"><u>[New] Vanguard's Choice of Top 12 High-Tech Action Cams With Locators</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-convert-tiktok-to-mp4-without-watermark-best-tiktok-downloaders-for-2024/"><u>[Updated] Convert TikTok to MP4 without Watermark Best TikTok Downloaders for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-checklist-for-fpv-drone-propeller-selection/"><u>[Updated] The Ultimate Checklist for FPV Drone Propeller Selection</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-3-free-video-players-face-off-vlc-vs-mpc-showdown/"><u>[Updated] Top 3 FREE Video Players Face Off VLC Vs. MPC Showdown</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-best-practices-for-converting-webp-to-jpg-format/"><u>2024 Approved Best Practices for Converting WebP to JPG Format</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-leading-6-social-media-channels-fostering-business-innovation/"><u>2024 Approved Leading 6 Social Media Channels Fostering Business Innovation</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-the-power-of-android-time-lapses/"><u>2024 Approved Unlocking the Power of Android Time-Lapses</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-top-8-interactive-gloves-in-vr/"><u>2024 Approved Unveiling Top 8 Interactive Gloves in VR</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-visual-velocity-boost-your-digital-drawing-speed-in-pc-photos-editor/"><u>2024 Approved Visual Velocity Boost Your Digital Drawing Speed in PC Photos Editor</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-tutorial-for-ps4ps5-to-nintendo-switch-connections/"><u>A Tutorial for PS4/PS5 to Nintendo Switch Connections</u></a></li>
-<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-xiaomi-13t-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Xiaomi 13T Phone? | Dr.fone</u></a></li>
-<li><a href="https://tools.techidaily.com/epubor/drm-removal-tools/"><u>Epubor All DRM Removal</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unleash-creativity-gratuity-in-humor-tools/"><u>In 2024, Unleash Creativity Gratuity in Humor Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-functionality-to-missing-phone-link-notifications-on-pc/"><u>Restoring Functionality to Missing Phone Link Notifications on PC</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-unlocking-profit-the-step-by-step-guide-to-assess-your-youtube-earnings/"><u>[New] 2024 Approved Unlocking Profit The Step-by-Step Guide to Assess Your YouTube Earnings</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-the-experts-playbook-top-techniques-for-youtube-to-mpeg/"><u>[New] In 2024, The Expert's Playbook Top Techniques for YouTube-to-MPEG</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-the-enhanced-ultrablade-samsungs-2023-take-for-2024/"><u>[New] The Enhanced UltraBlade Samsung’s 2023 Take for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-become-a-trending-sensation-with-these-effective-youtube-seo-strategies/"><u>[Updated] In 2024, Become a Trending Sensation with These Effective YouTube SEO Strategies</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-sj7s-latest-4k-star-cam-a-revolutionary-action-recorder/"><u>[Updated] In 2024, SJ7's Latest 4K Star Cam - A Revolutionary Action Recorder</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-logo-journey-key-steps-in-crafting-iconic-covers/"><u>[Updated] The Logo Journey Key Steps in Crafting Iconic Covers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlock-clearer-visuals-with-iphone-video-focus/"><u>[Updated] Unlock Clearer Visuals with iPhone Video Focus</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-techniques-for-smooth-audio-transitions/"><u>2024 Approved Techniques for Smooth Audio Transitions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-cinematic-zoom-effect-focus-on-film/"><u>2024 Approved The Cinematic Zoom Effect Focus on Film</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/abbyy-industry-pioneer-in-process-analytics-and-intelligent-data-extraction/"><u>ABBYY: Industry Pioneer in Process Analytics and Intelligent Data Extraction</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Samsung Galaxy S23? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-whats-the-best-video-editor-for-you-minitool-movie-maker-review-and-more-for-2024/"><u>New Whats the Best Video Editor for You? Minitool Movie Maker Review and More for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-windows-10-seamless-media-importation-techniques-for-2024/"><u>Unlocking Windows 10 Seamless Media Importation Techniques for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-secret-sauce-for-massive-tiktok-content-grabs-for-2024/"><u>Unveiling the Secret Sauce for Massive TikTok Content Grabs for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/what-is-ai-hallucination-and-how-do-you-spot-it/"><u>What Is AI Hallucination, and How Do You Spot It?</u></a></li>
 </ul></div>
 

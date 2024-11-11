@@ -1,7 +1,7 @@
 ---
 title: Identify Your Windows 11 Edition & Anniversary Updates with Ease
-date: 2024-10-26T17:38:02.109Z
-updated: 2024-11-02T18:00:40.583Z
+date: 2024-11-07T21:04:03.803Z
+updated: 2024-11-10T18:46:54.477Z
 tags:
   - desktop
 categories:
@@ -17,31 +17,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [How to Check Windows Version with the Settings App](https://vimeo-videos.techidaily.com/elevating-your-work-with-impeccable-thumbnails/)
 * [Find Your Windows Edition and Build Number with the Winver Dialog](https://digital-screen-recording.techidaily.com/updated-troubleshooting-common-obs-issues/)
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
  Open the Settings app, then navigate to System > About to display all of the information about your Windows version. Alternatively, open the Start Menu, then enter "winver" in the search bar to quickly display basic information about your Windows installation.
 
  You may not have really thought about Windows build numbers in the past unless it was part of your job to do so. Here's how to find out what build—and edition and version—of Windows 10 you're running.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  What Do Build Versions Mean?
 
@@ -51,6 +31,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  In addition to builds, there also are still different editions of Windows 10—Home, Professional, Enterprise, and so on—with different features.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Check Windows Version with the Settings App
 
  The new Settings app also offers build, edition, and version information in a user-friendly form. Hit Windows+i to open Settings. In the Settings window, navigate to System > About. Scroll down a bit and you'll see the information you're after.
@@ -58,10 +45,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Open the Settings app, then go to System; About to display information about your Windows version.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-7.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Navigate to System > About and scroll down. You'll see the "Version" and "Build" numbers here.
@@ -71,6 +58,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * **OS Build.** This line shows the specific operating system build you're running. It gives you sort of a timeline of minor build releases in between the major version number releases. In the screenshot above, the "14393.693" build was actually the 13th build released after version 1607 shipped in July, 2016\. This information is somewhat less important to most people than the major version numbers, but it can still help you identify exactly what you're running. If you're curious, you can check out the whole [history of versions and builds for Windows 10](https://technet.microsoft.com/en-us/windows/release-info.aspx?f=255&MSPPError=-2147217396) on Microsoft's TechNet site.
 * **System Type.** This line tells you whether you're [using the 32-bit version of Windows 10 or the 64-bit version](https://twitter-videos.techidaily.com/updated-snapchat-integration-for-twitters-visual-content/). It also tells you whether your PC is compatible with the 64-bit version or not. For example, "64-bit operating system, x64-based processor" indicates you're using a 64-bit version of Windows 10 on a 64-bit processor. "32-bit operating system, x64-based processor" indicates you're using a 32-bit version of Windows 10, but you could [install the 64-bit version on your hardware if you preferred](https://facebook-record-videos.techidaily.com/understanding-filmoras-creative-certification-protocol-for-2024/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Find Your Windows Edition and Build Number with the Winver Dialog
 
  You can also use the old standby Windows Version (winver) tool to find some of this information. Hit Start, type "winver," and then press Enter. You could also press Windows Key + R, type **winver** into the Run dialog, and press Enter.
@@ -78,10 +72,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Search for 'winver' in the Start Menu search, then click the result.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-winver.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The second line in the "About Windows" box tells you which version and build of Windows 10 you have. Remember, the version number is in the form YYMM—so 1607 means the 7th month of 2016\. A couple of lines down, you'll see the edition of Windows 10 you're using—Windows 10 Pro in our example.
@@ -107,24 +107,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ffortless-earnings-channel-size-no-longer-a-challenge/"><u>[New] Effortless Earnings Channel Size No Longer a Challenge</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-effortlessly-record-voices-using-windows-11-techniques/"><u>[New] How to Effortlessly Record Voices Using Windows 11 Techniques</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-free-hilarious-memetic-art/"><u>[New] The Ultimate Guide to Free, Hilarious Memetic Art</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-streamline-the-age-update-process-on-tiktok/"><u>[Updated] Streamline the Age Update Process on TikTok</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-time-taming-learn-youtube-video-length-cuts/"><u>[Updated] Time Taming Learn YouTube Video Length Cuts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-twitch-replay-tricks-20-ways-to-retrace-your-stream-trail/"><u>[Updated] Twitch Replay Tricks 20 Ways to Retrace Your Stream Trail</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-future-is-now-how-vida-transforms-video-editing/"><u>2024 Approved The Future Is Now How Vida Transforms Video Editing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-playstation-experience-transform-your-voice/"><u>2024 Approved The PlayStation Experience Transform Your Voice</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-transform-your-mac-display-utilizing-picture-in-picture-multimedia-features/"><u>2024 Approved Transform Your Mac Display Utilizing Picture in Picture Multimedia Features</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-mundane-titles-into-visual-marvels-with-ae/"><u>2024 Approved Transforming Mundane Titles Into Visual Marvels with AE</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/find-your-perfect-match-with-these-adered-by-free-and-html-editor-but-also-include-relevant-keywords-like-windows-code-editing-tools-or-webpage-builders-her1/"><u>Find Your Perfect Match with These Adered by Free and HTML Editor, but Also Include Relevant Keywords Like Windows, Code Editing Tools, or Webpage Builders. Here Are Five Examples of New SEO Titles that Convey a Similar Meaning to the Original Phrase:</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-google-pixel-8-pro-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Google Pixel 8 Pro Location by Number | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultrafine-in-action-an-extended-review-of-lgs-4k-display/"><u>In 2024, UltraFine in Action An Extended Review of LG’s 4K Display</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-the-nuances-of-video-sound-design-for-2024/"><u>Mastering the Nuances of Video Sound Design for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/methods-for-extracting-video-tweets-as-compact-mp3-files/"><u>Methods for Extracting Video Tweets as Compact MP3 Files</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-truth-about-being-marked-as-inactive-by-discord/"><u>The Truth About Being Marked as Inactive by Discord</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tips-for-transforming-twitter-videos-into-audio-songs-mp3-for-2024/"><u>Tips for Transforming Twitter Videos Into Audio Songs (MP3) for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/twitter-treatment-creating-gifs-without-spending-a-dime/"><u>Twitter Treatment Creating GIFs Without Spending a Dime</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-tv-for-virtual-concerts-for-2024/"><u>Ultimate TV for Virtual Concerts for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-innovate-with-ease-top-sites-for-downloadable-text-extensions/"><u>[New] Innovate with Ease Top Sites for Downloadable Text Extensions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-revealing-successful-markets/"><u>[New] Revealing Successful Markets</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-simulate-hand-held-camera-effects-in-photoshop-for-2024/"><u>[New] Simulate Hand-Held Camera Effects in Photoshop for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-synopsis-of-crowd-opinions-on-vllo/"><u>2024 Approved Synopsis of Crowd Opinions on VLLO</u></a></li>
+<li><a href="https://fox-that.techidaily.com/easy-tricks-to-modify-your-apple-devices-screen-time-security-settings/"><u>Easy Tricks to Modify Your Apple Device's Screen Time Security Settings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-timeless-tunes-selecting-high-quality-ringtones-online/"><u>In 2024, Timeless Tunes Selecting High-Quality Ringtones Online</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transforming-srt-to-widely-used-digital-audio-formats-with-ease/"><u>In 2024, Transforming SRT to Widely Used Digital Audio Formats with Ease</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-supreme-selection-an-honour-roll-of-top-10-reddit-discussions-for-2024/"><u>The Supreme Selection An Honour Roll of Top 10 Reddit Discussions for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Nubia Z50S Pro | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Complete Tutorial on Utilizing the Gpasswd Command for Secure Password Changes on Your Linux System
-date: 2024-10-26T17:25:46.030Z
-updated: 2024-11-02T17:56:41.877Z
+date: 2024-11-03T16:26:49.783Z
+updated: 2024-11-10T20:59:58.263Z
 tags:
   - desktop
 categories:
@@ -19,18 +19,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Want an easy solution to managing group members and passwords on Linux? The gpasswd command will help you do that. It's used for managing and administering the "/etc/group" and "/etc/gshadow" passwords, members, and administrators. Let's get started.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What Makes the gpasswd Command Useful
 
  The gpasswd command lets you administer groups on Linux. Group passwords don't get used a lot in part because of the security risk they pose: multiple people sharing a password increases the opportunity for accidental or malicious exposure. Any member of the group can add or remove members, controlling the group access, which could easily get out of hand.
 
  There are a few ways to overcome this problem. You can avoid using group passwords when possible and use alternative mechanisms such as sudoers or access control lists. You can also limit access to the group passwords using privilege control so that only authorized members can do any operations.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  gpasswd Command Basic Syntax and Options
 
@@ -50,13 +50,6 @@ gpasswd [option] group
 * \-Q, --root CHROOT\_DIR : Applies changes in the CHROOT\_DIR directory and uses the configuration files from the CHROOT\_DIR directory.
 
  We'll see how to use these options in the upcoming sections of the guide.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Setting Password for a Group
 
@@ -80,6 +73,13 @@ sudo gpasswd demogroup
 
 ![The Linux terminal displaying the process of setting a new password for a group using the gpasswd command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-7.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now if I try to log into this group, the system will ask for a password. That's because I'm not a member of the group. To log into the group, run:
 
 newgrp demogroup
@@ -87,10 +87,10 @@ newgrp demogroup
 ![The Linux terminal showing the process of logging into a group in Linux using the newgrp command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4-4.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Removing Password from Group
@@ -100,6 +100,13 @@ newgrp demogroup
 sudo gpasswd -r demogroup
 
 ![The Linux terminal showing the process of removing the password from a a group in Linux using the gpasswd command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/10-3.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you try to log into the group now as a member, you'll be able to do so without entering the password.
 
@@ -114,13 +121,6 @@ sudo gpasswd -a user group
 sudo gpasswd -a zunaid demogroup
 
 ![The Linux terminal showing how to use the gpasswd command to add a member to a group](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/5-2.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can confirm whether the member was added or not. For that, use the below command:
 
@@ -149,10 +149,16 @@ sudo gpasswd -d zunaid demogroup
 ![The Linux terminal showing how to remove a user from a group using the gpasswd command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/7-6.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Again, you can confirm if the user was removed successfully by [listing the group members](https://hardware-updates.techidaily.com/comprehensive-guide-downloading-and-installing-canon-ip1-10-drivers-on-windows-windows-111087/) with this command:
@@ -175,13 +181,6 @@ sudo gpasswd -M user2,user3 demogroup
 
 ![The Linux terminal showing the process of setting the list of members of a group using the gpasswd command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/11-3.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now if you check the members list of the group, you should see that the previous members are not there. Instead, you'll find the new members.
 
 getent group demogroup
@@ -199,10 +198,10 @@ sudo gpasswd -A zunaid demogroup
 ![The Linux terminal showcasing how to make a user the administrator of a group using the gpasswd command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/8-4.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This doesn't give any output to the terminal. However, you can see the list of administrators of the group to confirm if the operation was successful. Do that with this command:
@@ -210,6 +209,13 @@ sudo gpasswd -A zunaid demogroup
 sudo cat /etc/gshadow
 
 ![The Linux terminal displaying the the administrators of every group in Linux](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/9-3.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  gpasswd Makes Group Management Easy
 
@@ -230,22 +236,15 @@ sudo cat /etc/gshadow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-budget-friendly-high-quality-earphones-for-gaming/"><u>[New] Budget-Friendly, High-Quality Earphones for Gaming</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-seamless-instagram-to-mp4-conversion-on-any-operating-system/"><u>[New] Seamless Instagram to MP4 Conversion on Any Operating System</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-monetary-reality-of-being-a-podcaster/"><u>[New] The Monetary Reality of Being a Podcaster</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-covert-capture-techniques-reducing-identifiable-parts-in-recordings/"><u>[Updated] 2024 Approved Covert Capture Techniques Reducing Identifiable Parts in Recordings</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-prime-selections-the-best-free-screencasting-apps-for-2024/"><u>[Updated] Prime Selections The Best Free Screencasting Apps for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-complete-walkthrough-for-android-audio-personalization/"><u>[Updated] The Complete Walkthrough for Android Audio Personalization</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-picks-for-the-best-android-image-correction-tools-5-choices/"><u>[Updated] Top Picks for the Best Android Image Correction Tools (5 Choices)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-tips-for-obtaining-pristine-images-at-no-cost/"><u>[Updated] Top Tips for Obtaining Pristine Images at No Cost</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-video-montages-on-mobile-devices-a-8-must-have-list/"><u>[Updated] Top Video Montages on Mobile Devices A 8 Must-Have List</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unleash-creativity-the-newcomers-snapseed-tutorial/"><u>[Updated] Unleash Creativity The Newcomer's Snapseed Tutorial</u></a></li>
-<li><a href="https://techtrends.techidaily.com/diy-hulu-rununk13-fix-tips-and-tricks-for-smooth-streaming/"><u>DIY Hulu RunUnk13 Fix – Tips and Tricks for Smooth Streaming</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exciting-virtual-play-top-7-games-for-youngsters-online/"><u>Exciting Virtual Play: Top 7 Games for Youngsters Online</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-syncing-twitter-to-snapchat-video-uploading-techniques/"><u>In 2024, Syncing Twitter to Snapchat Video Uploading Techniques</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlock-the-full-potential-of-vr-on-your-android-device/"><u>In 2024, Unlock the Full Potential of VR on Your Android Device</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/iphone-lights-mastery-guide-for-2024/"><u>IPhone Lights Mastery Guide for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/using-srt-audio-on-windows-and-macos-devices-for-2024/"><u>Using SRT Audio on Windows & macOS Devices for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/video-editing-software-comparison-obs-vs-fraps-for-2024/"><u>Video Editing Software Comparison OBS vs Fraps for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-mastering-screencasts-a-step-by-step-manual/"><u>[New] 2024 Approved Mastering Screencasts A Step-by-Step Manual</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-tips-for-efficient-music-import-in-inshot-app/"><u>[New] Tips for Efficient Music Import in InShot App</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-selecting-android-and-ios-clocks-for-weddings/"><u>[Updated] The Ultimate Guide to Selecting Android and iOS Clocks for Weddings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-5-affordable-pinterest-video-downloaders-unveiled/"><u>2024 Approved Top 5 Affordable, Pinterest Video Downloaders Unveiled</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transform-your-footage-with-pro-tips-for-gopro-time-lapses/"><u>2024 Approved Transform Your Footage with Pro Tips for GoPro Time Lapses</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cut-to-the-chase-guide-for-gopro-4k-mastery/"><u>Cut-to-the-Chase Guide for GoPro 4K Mastery</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-social-media-syncing-made-simple-tweets-and-tiktoks/"><u>In 2024, Social Media Syncing Made Simple Tweets and TikToks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-guide-to-7-superior-video-players-on-mac/"><u>In 2024, Ultimate Guide to 7 Superior Video Players on Mac</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/reinventing-personal-snapchat-experiences-with-more-than-120-inspirational-ideas/"><u>Reinventing Personal Snapchat Experiences with More Than 120 Inspirational Ideas</u></a></li>
+<li><a href="https://win11.techidaily.com/securely-ending-non-registered-users-in-windows/"><u>Securely Ending Non-Registered Users in WIndows</u></a></li>
 </ul></div>
 

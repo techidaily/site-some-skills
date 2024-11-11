@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Personalizing Your Windows 11 Taskbar"
-date: 2024-10-27T18:20:28.234Z
-updated: 2024-11-02T17:45:56.490Z
+date: 2024-11-07T19:21:20.599Z
+updated: 2024-11-10T22:54:53.446Z
 tags:
   - deals
 categories:
@@ -38,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
  We've taken a look at customizing the [Start menu](https://visual-screen-recording.techidaily.com/new-2024-approved-groundbreaking-6-modern-mc-residentials/) and the [Action Center](https://instagram-clips.techidaily.com/new-2024-approved-unlock-efficiency-cutting-edge-techniques-for-cropping-and-exporting-videos/) in Windows 10\. Now, it's time to tackle the taskbar. With just a little bit of work, you can tweak the taskbar to get it running just how you like it.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Pin Apps to the Taskbar
 
  The simplest way to customize your taskbar is by pinning various apps and shortcuts to it so that you can access them more quickly in the future. There are two ways to do this. The first is to open the program, either from the Start menu or an existing shortcut. When the app's icon appears on the taskbar to indicate it's running, right-click the icon and select the "Pin to taskbar" option from the context menu.
@@ -55,15 +48,22 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
 ![Right-click an app, go to "More," then select "Pin to Taskbar."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-select-app-more-pin.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This will immediately add a new shortcut for the app to the taskbar. To remove an app from the taskbar, right-click the pinned app and choose the "Unpin from taskbar" option.
 
 ![Right-click a pinned icon, then select "Unpin from Taskbar" to remove it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-unpin-from-taskbar.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Pin a File or Folder to Taskbar Jump Lists
@@ -96,16 +96,16 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
 ![The results of clicking the Task View button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-task-view-button.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  But you don't need a button to do this. Simply press Windows+Tab to access the same interface. To save a little taskbar space and get rid of the button, right-click the taskbar and turn off the "Show Task View button" option.
 
 ![Right-click the Taskbar and untick "Show Task View button."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/7-show-task-view-button.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Hide System Icons in the Notification Area
 
@@ -113,22 +113,29 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
 ![Select "Turn System Icons on and Off."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/12-turn-system-icons-on-or-off.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You'll see a list of system icons. Run through them and toggle each one on or off to suit your needs.
 
 ![Some system icons that can be toggled.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/13-system-icons.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Hide Application Icons in the Notification Area
 
  Many of the apps you install in Windows are designed to run in the background. They're not things you need to interact with regularly, so instead of appearing directly on your taskbar, their icons are relegated to the Notification area. This lets you know they're running and gives you quick access when you need it. A few of these appear right in the Notification Area to the left of the clock. Others are hidden, but you can see them by clicking the up arrow to the left.
 
 ![Click the chevron to see hidden icons.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/10-click-the-chevron.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can quickly customize where these icons appear by dragging them between these two locations. For example, you might prefer that your OneDrive icon is always visible, in which case you'd drag it to the main Notification Area. You can also hide less important icons by dragging them to the hidden area.
 
@@ -162,6 +169,13 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
 ![Click the Taskbar's edge and drag to resize it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/17-huge-taskbar.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Use Small Icons to Fit More on the Taskbar
 
  If you want a few more icons on your taskbar, but aren't keen on resizing it, you can configure Windows 10 to show small taskbar icons. Right-click on any empty area of the taskbar and click "Taskbar Settings." In the settings window, turn on the "Use small taskbar icons" option.
@@ -184,13 +198,6 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 * **When taskbar is full**. This is a middle-range setting. When selected, windows are not grouped, and labels are shown unless the taskbar becomes full. When it fills up, it reverts to the "Always, hide labels" functionality.
 * **Never**. When selected, windows are never grouped, and labels are always shown. You can see this setting in action below. Note that instead of a single File Explorer icon and a single Chrome icon, I now have two of each and the titles of the windows are displayed as labels.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Change the Color and Transparency of the Taskbar
 
  In Windows 10, the default color of the taskbar is black. To change the color, press Windows+I to open the settings interface. In the main Settings window, click "Personalization."
@@ -203,27 +210,20 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
 ![Tick "Start, Taskbar, and action center."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/22-taskbar-color.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  By the way, Windows doesn't offer any controls to adjust the transparency of the taskbar, Start menu, and Action Center. If you don't mind making a quick Registry hack, though, you can [make those items a bit more transparent](https://extra-resources.techidaily.com/best-value-for-money-selecting-the-leading-free-srt-services-for-2024/) than the default.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Enable the Peek Feature
 
  The Peek feature was introduced back with Windows 7 to let users quickly peek through all open applications to view the desktop. In previous versions, it was turned on by default. In Windows 10, you have to turn it on. Right-click on any empty area of the taskbar and click "Settings." In the settings window, turn on the cumbersomely named "Use Peek to preview the desktop when you move your mouse to the Show desktop button at the end of the taskbar" option.
 
 ![Use peak option on Windows 10 taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/23-use-peak.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  With the Peek option turned on, you can move your mouse to the tiny sliver of space at the far right of the taskbar to hide all your windows and show you your desktop. When you move the mouse away, your windows return to their previous state. You can also click this area to automatically minimize all your windows so that you can actually do things on the desktop. Click the area again to restore your windows. You can also use the Windows+D keyboard shortcut to do the same thing as clicking the Peek area.
 
@@ -232,6 +232,13 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
  Windows also allows you to add toolbars to the taskbar. A toolbar is essentially a shortcut to a folder on your system, but the shortcut is displayed as the same kind of toolbar you might see in a browser or other app. You can access toolbars by right-clicking the taskbar and then pointing to the "Toolbars" submenu.
 
 ![Right-click the taskbar and select "Toolbars."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/24-toolbars-w10.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  There are three toolbars built in:
 
@@ -242,13 +249,6 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
  Below, you can see what the Address and Desktop toolbars look like when they're turned on. Instead of expanding the Desktop toolbar to show any icons, I reduced its size and use the double arrow to open a pop-up menu with all the items.
 
  You can also add a custom toolbar that points to any folder on your system. This can be a great way of adding quick, taskbar access to items you regularly need. To create a toolbar, all you have to do is select the "New toolbar" option from the Toolbars submenu and point it to a folder.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Configure the Taskbar for Multiple Displays
 
@@ -285,19 +285,20 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-mastering-high-definition-selecting-prime-lenses-for-professional-video-for-2024/"><u>[New] Mastering High Definition Selecting Prime Lenses for Professional Video for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-expert-guide-to-earning-with-youtube/"><u>[Updated] The Expert Guide to Earning with YouTube</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-untangling-aerial-vehicles-a-guide-to-drones-operation/"><u>2024 Approved Untangling Aerial Vehicles A Guide to Drones' Operation</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-urgent-top-10-lost-iphone-x-solutions-revealed/"><u>2024 Approved Urgent Top 10 Lost iPhone X Solutions Revealed</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/blade-e-flite-mcx2-ready-to-launch-rc-helicopter-reviewed-soaring-to-the-top-of-rtf-models/"><u>Blade E-Flite mCX^2 Ready-to-Launch RC Helicopter Reviewed - Soaring to the Top of RTF Models</u></a></li>
-<li><a href="https://program-issues.techidaily.com/elite-dangerous-on-pc-how-to-stop-unexpected-game-shutdowns-and-crashes/"><u>Elite Dangerous on PC - How to Stop Unexpected Game Shutdowns and Crashes</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/rful-faves-top-online-chefs-and-culinary-stars-for-2024/"><u>Flavorful Faves Top Online Chefs & Culinary Stars for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-motorola-edge-40-neo-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Motorola Edge 40 Neo Phone? | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-pinnacle-wearable-cameras-in-adrenaline-world/"><u>In 2024, Pinnacle Wearable Cameras in Adrenaline World</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transformative-power-in-healthcare-through-vr/"><u>In 2024, Transformative Power in Healthcare Through VR</u></a></li>
-<li><a href="https://win11.techidaily.com/maximize-virtual-boxs-capabilities-with-v70-on-windows-11-systems/"><u>Maximize Virtual Box's Capabilities with v7.0 on Windows 11 Systems</u></a></li>
-<li><a href="https://win-dash.techidaily.com/step-by-step-guide-updating-your-microsoft-mouse-drivers-on-windows-systems/"><u>Step-by-Step Guide: Updating Your Microsoft Mouse Drivers on Windows Systems</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-podcast-introduction-skills-for-2024/"><u>The Ultimate Guide to Podcast Introduction Skills for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-80s-filters-and-effects-for-professional-videos-for-2024/"><u>Top 80S Filters & Effects for Professional Videos for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-mastering-insta-photo-and-video-reposts-for-2024/"><u>[New] Mastering Insta Photo & Video Reposts for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-uncover-the-past-your-complete-guide-to-digitizing-and-preserving-old-photographs/"><u>[New] Uncover the Past Your Complete Guide to Digitizing & Preserving Old Photographs</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-perfecting-visuals-ranking-the-prime-12-video-players/"><u>[Updated] 2024 Approved Perfecting Visuals Ranking the Prime 12 Video Players</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-video-directing-the-complete-powerdirector-2024-review/"><u>[Updated] Mastering Video Directing The Complete PowerDirector 2024 Review</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamlining-color-correction-leveraging-look-up-tables-from-cg-central/"><u>[Updated] Streamlining Color Correction Leveraging Look-Up Tables From CG Central</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-audio-files-new-world-how-to-convert-srt-effortlessly/"><u>[Updated] The Audio Files' New World How to Convert SRT Effortlessly</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-top-rated-srt-translators-for-zero-cost/"><u>[Updated] Unveiling the Top-Rated SRT Translators for Zero Cost</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enjoy-a-glitch-free-play-death-stranding-pc-stability-achieved-and-improved-fixes-explained/"><u>Enjoy a Glitch-Free Play: Death Stranding PC Stability Achieved and Improved Fixes Explained</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-step-by-step-guide-to-mastering-kinemaster-plus-10-best-video-editors-online/"><u>In 2024, Step-by-Step Guide to Mastering KineMaster + 10 Best Video Editors Online</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-insider-guide-to-efficient-windows-10-usage/"><u>In 2024, The Insider Guide to Efficient Windows 10 Usage</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-link-between-office-spaces-and-organizational-success/"><u>In 2024, The Link Between Office Spaces and Organizational Success</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-right-time-to-invest-in-your-next-4k-lens/"><u>In 2024, The Right Time to Invest in Your Next 4K Lens</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-turn-mess-into-mastery-efficient-edits-on-bulky-tiktok-drafts/"><u>In 2024, Turn Mess Into Mastery Efficient Edits on Bulky TikTok Drafts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/superior-vistas-for-digital-viewership-for-2024/"><u>Superior Vistas for Digital Viewership for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-you-should-avoid-using-the-mic-on-your-ps5-controller/"><u>Why You Should Avoid Using the Mic on Your PS5 Controller</u></a></li>
 </ul></div>
 

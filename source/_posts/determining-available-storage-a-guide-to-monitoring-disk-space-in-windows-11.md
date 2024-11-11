@@ -1,7 +1,7 @@
 ---
 title: "Determining Available Storage: A Guide to Monitoring Disk Space in Windows 11"
-date: 2024-10-26T16:34:49.637Z
-updated: 2024-11-02T18:13:44.623Z
+date: 2024-11-10T02:15:44.046Z
+updated: 2024-11-11T01:36:40.685Z
 tags:
   - deals
 categories:
@@ -17,10 +17,10 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 * [Check Free Space in the Settings App](https://solve-manuals.techidaily.com/idpidp-revolutionary-victories-in-investment-decision-processes/)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 * You can also check your free space in the Settings app. Oepn Settings, navigate to System > Storage, and then click "View Storage on Other Drives."
 
  Sometimes it feels like you never have enough free disk space. Every app you install takes up valuable room on your main drive, and you might eventually run out. Here's how to check how much you have left.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Check Your Free Space Using File Explorer
 
@@ -43,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
  In general, [Windows needs at least a few gigabytes of free storage space to perform optimally](https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-oneplus-12-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/). For example, it [uses this to cache important programs and virtual memory to disk](https://extra-tips.techidaily.com/updated-cinematic-masterpiece-dialogues/), which speeds up the operation of Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Check Free Space in the Settings App
@@ -56,10 +63,10 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 ![Search for 'storage,' then click 'Storage Settings.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-storage-settings.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Scroll down a bit in the Storage window and click "View Storage on Other Drives" under More Storage Settings. 
@@ -69,13 +76,6 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
  You'll see a list of every storage device attached to your PC—internal and external. 
 
 ![The storage drives on the example PC.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/5-storage-drives.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you're running low on space, consider [freeing up storage](https://youtube-clips.techidaily.com/culinary-carousel-swirling-up-top-food-network-names-for-2024/) by [uninstalling programs you no longer use](https://some-approaches.techidaily.com/swift-closure-of-a-linkedin-account-the-how-to-guide-for-2024/). Also, Windows 10 includes a handy "Free Up Space" tool that [helps you clean up your hard drive](https://vp-tips.techidaily.com/launch-free-dvd-playback-capabilities-on-windowsmac-laptops/).
 
@@ -94,20 +94,15 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-quick-fix-for-clearer-focus-in-google-meet/"><u>[New] Quick Fix for Clearer Focus in Google Meet</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-step-by-step-for-customizing-and-downloading-spiritual-audio/"><u>[New] Step by Step for Customizing and Downloading Spiritual Audio</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-path-to-excellent-gopro-filming-mastery/"><u>[Updated] The Path to Excellent Gopro Filming Mastery</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-unseen-yet-seen-how-to-conceal-faces-and-objects-digitally/"><u>[Updated] Unseen Yet Seen How to Conceal Faces and Objects Digitally</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-upgrading-simplified-navigating-macos-11-big-surs-changes/"><u>[Updated] Upgrading Simplified Navigating macOS 11 Big Sur's Changes</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-deep-dive-into-freeweb-recorder-v2-interface/"><u>2024 Approved Deep Dive Into FreeWeb Recorder V2 Interface</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unboxing-viva-a-user-guide-to-its-videos/"><u>2024 Approved Unboxing Viva A User Guide to Its Videos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/crafting-a-complete-media-experience-mixing-music-and-video-in-premiere-pro/"><u>Crafting a Complete Media Experience Mixing Music and Video in Premiere Pro</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Nubia Z50 Ultra | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-smart-explorers-choice-premium-vr-gear-ranked/"><u>In 2024, The Smart Explorer's Choice Premium VR Gear Ranked</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-photos-into-dynamic-time-lapses-the-gopro-way/"><u>In 2024, Transform Your Photos Into Dynamic Time-Lapses The GoPro Way</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unleash-creativity-10-must-know-tips-for-cover-art/"><u>In 2024, Unleash Creativity 10 Must-Know Tips for Cover Art</u></a></li>
-<li><a href="https://facebook.techidaily.com/nfts-redefining-instagram/"><u>NFTs Redefining Instagram</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/overcoming-chatgpt-app-errors-effective-strategies-for-iphone-users/"><u>Overcoming ChatGPT App Errors: Effective Strategies for iPhone Users</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-realme-narzo-n53-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Realme Narzo N53</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-boosting-bank-balance-effective-tactics-for-mobile-video-money-making/"><u>[New] 2024 Approved Boosting Bank Balance Effective Tactics for Mobile Video Money-Making</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-20plus-speedy-controls-mastering-your-pcs-fps/"><u>[New] Top 20+ Speedy Controls Mastering Your PC's FPS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-vr-immersion-review-series-oculus-edition/"><u>[New] Ultimate VR Immersion Review Series – Oculus Edition</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-delving-into-past-our-top-10-picks-of-history-channels-online/"><u>[Updated] 2024 Approved Delving Into Past Our Top 10 Picks of History Channels Online</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-secrets-of-getting-up-close-in-roblox-environments/"><u>2024 Approved The Secrets of Getting Up Close in Roblox Environments</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-8-gold-text-wonders-in-the-vast-world-of-3d-sites/"><u>In 2024, Top 8 Gold-Text Wonders in the Vast World of 3D Sites</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-xiaomi-redmi-note-12-proplus-5g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Xiaomi Redmi Note 12 Pro+ 5G and Browser | Dr.fone</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/reviving-your-non-responsive-iphone-by-recovering-lost-data-no-prior-backups-needed/"><u>Reviving Your Non-Responsive iPhone by Recovering Lost Data - No Prior Backups Needed</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-social-platforms-navigating-through-facebook-twitter-instagram-and-youtube/"><u>Top Social Platforms: Navigating Through Facebook, Twitter, Instagram and Youtube</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-your-canon-mg3000-printer-software-for-optimal-performance-how-to-get-latest-drivers/"><u>Update Your Canon MG3000 Printer Software for Optimal Performance – How to Get Latest Drivers</u></a></li>
 </ul></div>
 

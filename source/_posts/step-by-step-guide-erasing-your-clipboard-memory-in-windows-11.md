@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Erasing Your Clipboard Memory in Windows 11"
-date: 2024-10-30T18:33:17.807Z
-updated: 2024-11-02T18:17:09.472Z
+date: 2024-11-09T23:01:04.005Z
+updated: 2024-11-10T19:54:09.326Z
 tags:
   - desktop
 categories:
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/39081c3602019e3931b90b2bf6ba65f285840198c
 
  Clipboard history, first introduced in Windows 10's [October 2018 Update](https://facebook-record-videos.techidaily.com/new-in-2024-essential-youtube-video-editing-techniques/), stores a list of the 25 most recent items that you've copied to the Clipboard. These items can include text, HTML, and images smaller than 4 MB in size. Unless an item is pinned to the Clipboard, the Clipboard history list gets erased every time you restart your device.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Clear Clipboard History in Windows 10
 
  Unlike other [potentially privacy-invasive features in Windows 10](https://video-capture.techidaily.com/updated-in-2024-the-ultimate-agri-game-guide-for-social-playtime-with-pals/), the Clipboard history feature only works if it has been enabled from Settings > System > Clipboard.
@@ -42,24 +49,38 @@ thumbnail: https://thmb.techidaily.com/39081c3602019e3931b90b2bf6ba65f285840198c
 
 ![Click the ellipses in Clipboard history on Windows 10](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/click_ellipses.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  A small menu will pop up. Click "Delete" and the item will be removed from the list.
 
 ![Click Delete in Clipboard history on Windows 10](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/click_delete.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To clear the entire Clipboard history, click any set of three dots (ellipses) in the list and a menu will pop up. Select "Clear All."
 
 ![Click clear all in Clipboard history on Windows 10](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/click_clear_all.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Any remaining items on the list after you click "Clear All" are pinned in place. If you'd like to remove a pinned item, click the ellipses beside it and select "Unpin." Then you can either delete it or try "Clear All" from the ellipses menu again.
 
  Note that with Clipboard history enabled, new items will continue to appear in the Clipboard history list every time you copy something to the Clipboard. If you would like to prevent Windows from storing your Clipboard history, you will need to disable the feature in Windows Settings.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Another Way to Clear All Clipboard Data
 
@@ -67,27 +88,7 @@ thumbnail: https://thmb.techidaily.com/39081c3602019e3931b90b2bf6ba65f285840198c
 
 ![Tap 'Clear' to clear your clipboard history.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/clear-clipboard-data.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This is equivalent to pushing the "Clear All" button in the Clipboard history window, but it also works with Clipboard history turned off.
-
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Disable Clipboard History in Windows 10
 
@@ -98,22 +99,15 @@ thumbnail: https://thmb.techidaily.com/39081c3602019e3931b90b2bf6ba65f285840198c
 ![Click 'Settings.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/click-settings.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  On the Settings sidebar, click on "Clipboard." In Clipboard settings, locate the section called "Clipboard history" and toggle the switch to "Off."
 
 ![Select 'Clipboard' to the left, then disable 'Clipboard History.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/clipboard.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once disabled, if you press Windows+V, you will see a small window alerting you that Windows 10 cannot show your Clipboard history because the feature is turned off.
 
@@ -136,20 +130,22 @@ thumbnail: https://thmb.techidaily.com/39081c3602019e3931b90b2bf6ba65f285840198c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-advancing-audible-experience-safely-on-spotify-platforms/"><u>[New] 2024 Approved Advancing Audible Experience Safely on Spotify Platforms</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-creators-guide-turn-viewers-into-paychecks/"><u>[New] The Creator’s Guide Turn Viewers Into Paychecks</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-essential-tutorial-infusing-motion-blur-into-faces-using-picsart/"><u>[New] The Essential Tutorial Infusing Motion Blur Into Faces Using Picsart</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-what-actions-can-i-take-if-my-content-is-swiftly-stripped-by-fb-in-2024/"><u>[New] What Actions Can I Take if My Content Is Swiftly Stripped by FB, In 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-streamlining-screen-capture-minecraft-edition-tips-and-tricks-for-macs/"><u>[Updated] In 2024, Streamlining Screen Capture Minecraft Edition - Tips & Tricks for Macs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-todays-virtual-realty-hardware-exploration/"><u>[Updated] Today’s Virtual Realty Hardware Exploration</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-charting-the-top-8-online-photo-hybrid-creator/"><u>2024 Approved Charting the Top 8 Online Photo Hybrid Creator</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-perfect-path-from-srt-to-multiple-subtitle-standards/"><u>2024 Approved The Perfect Path From SRT to Multiple Subtitle Standards</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-exploration-inside-xcreative-media-suite/"><u>2024 Approved The Ultimate Exploration Inside XCreative Media Suite</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-5-playstation-vr-games-to-look-forward-to/"><u>2024 Approved Top 5 Playstation VR Games to Look Forward To</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-the-full-potential-of-your-live-streams-using-onestream/"><u>2024 Approved Unleash the Full Potential of Your Live Streams Using OneStream</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-nokia-c32-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Nokia C32 Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-strategic-sharing-of-tiktok-content-on-twitter/"><u>In 2024, Strategic Sharing of TikTok Content on Twitter</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-elevate-your-media-incorporating-music-and-dialogue-into-android-videos/"><u>New Elevate Your Media Incorporating Music and Dialogue Into Android Videos</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-repair-your-fortnite-audio-issues-today-a-comprehensive-tutorial/"><u>Troubleshoot & Repair Your Fortnite Audio Issues Today - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-ascending-with-asmr-top-strategies-for-video-creation/"><u>[New] In 2024, Ascending with ASMR Top Strategies for Video Creation</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-hooking-audience-early-with-smart-intros/"><u>[New] In 2024, Hooking Audience Early with Smart Intros</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-turn-your-videos-backwards-on-phone/"><u>[New] Turn Your Videos Backwards on Phone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-pcs-picks-the-finest-ps1-game-emulators/"><u>[Updated] In 2024, PC's Picks The Finest PS1 Game Emulators</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-creativity-incorinasive-use-of-luts-in-video-editing/"><u>[Updated] Unlocking Creativity Incorinasive Use of LUTs in Video Editing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-superior-imaging-why-hdr-sets-the-standard-over-sdr/"><u>2024 Approved Superior Imaging Why HDR Sets the Standard Over SDR</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-5-budget-friendly-video-effect-tools/"><u>2024 Approved Top 5 Budget-Friendly Video Effect Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-specs-hp-envy-27s-4k-capabilities/"><u>2024 Approved Unveiling the Specs HP Envy 27'S 4K Capabilities</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ehensive-guide-to-embedding-multiple-youtube-playlists-in-websites/"><u>Comprehensive Guide to Embedding Multiple YouTube Playlists in Websites</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/exploring-9-zero-price-editors-for-youtube-content/"><u>Exploring 9 Zero Price Editors for YouTube Content</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-v27e-phone-without-pin-by-drfone-android/"><u>How to Unlock Vivo V27e Phone without PIN</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-ig-management-made-simple-the-best-tools-reviewed/"><u>In 2024, IG Management Made Simple The Best Tools Reviewed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-guide-to-effortless-acquisition-of-exquisite-royalty-free-images/"><u>In 2024, The Guide to Effortless Acquisition of Exquisite Royalty-Free Images</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ticklishtunes-your-guide-to-amusing-ringtone-downloads/"><u>In 2024, TicklishTunes Your Guide to Amusing Ringtone Downloads</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-oppo-k11-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Oppo K11 5G Location | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-apps-upgrade-your-mobile-movies-instantly-for-2024/"><u>Top Apps Upgrade Your Mobile Movies Instantly for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-secret-project-inside-apples-prototype-car-cost-timeline-and-specifications-revealed/"><u>Unveiling the Secret Project: Inside Apple's Prototype Car - Cost, Timeline & Specifications Revealed!</u></a></li>
 </ul></div>
 

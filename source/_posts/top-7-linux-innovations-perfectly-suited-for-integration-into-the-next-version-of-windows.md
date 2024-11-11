@@ -1,7 +1,7 @@
 ---
 title: Top 7 Linux Innovations Perfectly Suited for Integration Into the Next Version of Windows
-date: 2024-11-01T16:03:36.745Z
-updated: 2024-11-02T16:45:58.934Z
+date: 2024-11-08T21:34:06.037Z
+updated: 2024-11-11T01:05:43.544Z
 tags:
   - desktop
 categories:
@@ -24,15 +24,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Windows 12 is still in development, giving us time to make some demands. For inspiration, let's look at Linux, the underdog of desktop computing. Here are 7 surprisingly advanced, quality-of-life features that Linux offers, and Windows 12 should definitely steal them.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  No Ads in the User Interface
 
 ![Microsft Showing Ads in Settings Home Page of Windows 11](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1-microsft-showing-ads-in-settings-home-page-of-windows-11.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Recently, Microsoft started [testing ads in the Windows 11 Start Menu](https://extra-approaches.techidaily.com/mastering-gesture-control-a-comprehensive-overview-for-2024/), with the idea that ads and recommendations help users find good apps and products. While I can't objectively claim if that's true or not for all users, I personally find ads in the UI distracting and disruptive to my workflow. It's actually one of the main reasons why I switched to Linux as my work system and only use Windows for gaming and entertainment. For instance, sometimes I have to share my screen, and I'd like it if my Start Menu didn't show _Candy Crush_ as a suggested app during an important meeting about productivity.
 
@@ -66,6 +73,13 @@ Close
 
 ![Desktop Widgets on Kubuntu 23.10 Spread across the screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/4-desktop-widgets-on-kubuntu-23-10-spread-across-the-screen.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Having desktop widgets means you have direct access to useful information like reminders, to-do lists, weather updates, a world clock, and more, without having to open multiple apps. It’d be awesome if I turned on the computer every morning and got a snapshot of my entire day right there on the desktop.
 
  If you can’t wait for Windows 12 and whether it will or will not introduce desktop widgets, you can use Rainmeter to display helpful information straight on your desktop.
@@ -80,19 +94,6 @@ Close
 
 ![Pop!_OS in-built Tiling Window functionality auto-tiling two windows side by side.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/pop-_os-in-built-tiling-window-functionality.png) 
 
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Options to Customize the Taskbar
 
  Windows 10 offered a decent amount of customization options for the Taskbar. Unfortunately, Windows 11 severely reduced them to the point where the Taskbar is now fixed at the bottom; you can’t move it to the left, right, or top. Also, the right-click menu is overly simplified to just two options—Taskbar Setting or the Task Manager.
@@ -103,29 +104,22 @@ Close
 
  The ability to move the taskbar again would be a great start. On top of that, different Taskbar variations, like a floating one or a minimized one similar to the Mac Dock, would really help users to personalize their personal computers.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  A More Integrated Virtual Desktop Experience
 
  Virtual desktops are a great way to organize open apps and boost productivity. Microsoft introduced them to Windows 10 and improved their overall experience with [Windows 11](https://hardware-tips.techidaily.com/mastering-tech-essentials-at-toms-hardware-source/).
 
 ![Virtual Desktops on Windows 11](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/8-virtual-desktops-on-windows-11.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To enhance this in Windows 12, it would be awesome to have the option to visualize and manage all virtual desktops directly from the Taskbar. Also, the option to launch apps to different desktops from the Task View would be a game-changer. Look at Ubuntu’s Activities Overview (equivalent to Windows 11’s Task View) to see what I’m talking about.
 
 ![Image Showing Ubuntu 22.04 Activities Overview](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/9-image-showing-ubuntu-22-04-activities-overview.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  At the top, there’s a row of mini windows for all open virtual desktops (Workspaces). You can click to switch between them. The center shows your current desktop with all open apps. On the left, the Ubuntu Dash (similar to Windows' Taskbar) lets you drag and drop apps to any virtual desktop.
 
@@ -134,10 +128,10 @@ Close
 ![Ubuntu 22.04 Panel based Virtual Desktop switcher](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/10-ubuntu-22-04-panel-based-virtual-desktop-switcher.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  KDE Activities
@@ -169,16 +163,16 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-synthesizing-clarity-a-complete-voice-note-taking-course/"><u>[New] Synthesizing Clarity A Complete Voice Note-Taking Course</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-perfecting-the-art-of-zooming-expert-strategies-for-snapchat-users/"><u>[Updated] Perfecting the Art of Zooming Expert Strategies for Snapchat Users</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-superb-culmination-for-vr-journeys/"><u>[Updated] Superb Culmination for VR Journeys</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-unlock-the-power-of-beginnings-with-imovies-creative-tools/"><u>[Updated] Unlock the Power of Beginnings with iMovie's Creative Tools</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-strategies-to-resolve-vr-headset-error-code-308-on-steam/"><u>Effective Strategies to Resolve VR Headset Error Code 308 on Steam</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/how-to-use-your-recordings-for-a-seamless-live-experience-on-fb/"><u>How to Use Your Recordings for a Seamless Live Experience on FB</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/improve-your-workflow-with-these-9-must-try-chatgpt-plugins/"><u>Improve Your Workflow with These 9 Must-Try ChatGPT Plugins</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-swift-shutter-speed-iphone-tricks-for-blur-magic/"><u>In 2024, Swift Shutter Speed IPhone Tricks for Blur Magic</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-techniques-for-youtube-mp4-creation/"><u>In 2024, Ultimate Techniques for YouTube MP4 Creation</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722983010599-no-more-screen-shimmers-your-definitive-guide-to-banishing-the-blink/"><u>No More Screen Shimmers – Your Definitive Guide to Banishing the Blink</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-motorola-moto-g13-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Motorola Moto G13 Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-journey-of-personalized-instagram-notification-creation/"><u>[New] The Journey of Personalized Instagram Notification Creation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-understanding-the-technology-behind-vr-goggles/"><u>[New] Understanding the Technology Behind VR Goggles</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-audio-engineers-guide-switching-from-srt-to-ttml/"><u>[Updated] The Audio Engineer’s Guide Switching From SRT to TTML</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/abspielen-von-kann-man-dvds-auf-der-wii-oder-wii-u-die-aktuelle-losung-fur-2023/"><u>Abspielen Von Kann-Man-DVDs Auf Der Wii Oder Wii U – Die Aktuelle Lösung Für 2023</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/te-video-engagement-top-7-free-thumbnail-design-tools/"><u>Elevate Video Engagement Top 7 Free Thumbnail Design Tools</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-issue-iphone-unrecognized-by-itunes-on-windows-11/"><u>Fixing the Issue: IPhone Unrecognized by iTunes on Windows 11</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-xiaomi-13-ultra-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Xiaomi 13 Ultra</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-adjustment-elevating-your-photography/"><u>In 2024, The Art of Adjustment Elevating Your Photography</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/legal-framework-of-instagram-tunes-for-2024/"><u>Legal Framework of Instagram Tunes for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-xinput13dll-missing-file-issue-a-step-by-step-guide/"><u>Solving the xinput1_3.dll Missing File Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-xiaomi-redmi-note-12-pro-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Xiaomi Redmi Note 12 Pro 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
 </ul></div>
 

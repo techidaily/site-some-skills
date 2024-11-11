@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Upward Perspectives  Capturing Landscapes From Your Phone\""
-date: 2024-08-20T23:14:06.338Z
-updated: 2024-08-21T23:14:06.338Z
+date: 2024-11-09T23:59:07.433Z
+updated: 2024-11-10T20:59:57.890Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/9272380eed781f925420b56a40311e99d78bb46c4
 
 # How to Shoot Vertical Panorama Photos with Your Smartphone Android/iOS
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -43,8 +40,12 @@ thumbnail: https://thmb.techidaily.com/9272380eed781f925420b56a40311e99d78bb46c4
 * [Part 2: For Android Users](#part2)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### For iPhone users
 
  The iPhone users can follow the steps given below to execute vertorama.
@@ -60,8 +61,12 @@ thumbnail: https://thmb.techidaily.com/9272380eed781f925420b56a40311e99d78bb46c4
 * Once finished and satisfied, just tap on "Done" option.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### For Android users
 
  To capture vertical panorama on Android, the steps are given just below.
@@ -69,10 +74,14 @@ thumbnail: https://thmb.techidaily.com/9272380eed781f925420b56a40311e99d78bb46c4
 * Start with opening the camera followed by choosing the "Panorama" option from the menu.
 * Hit on "Vertical" and begin the process.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/vertical-panorama-android.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Image source: mac-fusion
 
@@ -80,9 +89,6 @@ thumbnail: https://thmb.techidaily.com/9272380eed781f925420b56a40311e99d78bb46c4
 * Repeat the same with other dots as well. In other words, move camera towards the gray dots one by one until they get disappear.
 * Tap on "Done" when completed.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ## Some Beneficial Tips for shooting vertical panorama photo
 
 * Firstly, we would suggest you using a tripod when you need to take **vertical panorama on iPhone** or Android smoothly i.e. to avoid shakiness.
@@ -110,6 +116,13 @@ Follow @Ollie Mattison
 
  However, you will need to use a few but simple techniques to efficiently capture the vertical panoramic view. In this article, we’ll explain you how you can carry out those extraordinary views with your Android or iOS device.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to take vertical panorama photography with your respective Smartphone
 
 * [Part 1: For iPhone Users](#part1)
@@ -122,19 +135,20 @@ Follow @Ollie Mattison
 * Launch Camera app in your device and initiate a right swipe to the "PANO" mode.
 * Make sure to hold the device horizontally and hit the camera button.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/iphone-panorama-mode.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Image source: mac-fusion
 
 * Begin to go along with the upward arrow on the screen to capture the desired vertorama.
 * Once finished and satisfied, just tap on "Done" option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ### For Android users
 
  To capture vertical panorama on Android, the steps are given just below.
@@ -157,9 +171,6 @@ Follow @Ollie Mattison
 * For better shoot of vertical panorama on Android as well as iPhone, make sure to stand close to the subject to be captured. This way will intensify the tall subjects rather than giving more highlight to the foreground.
 * Leaving some space is another beautiful tip especially if you are a graphic designer and want to add some text into the picture. The panorama shot will look perfectly enhanced this way.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -167,7 +178,6 @@ Ollie Mattison
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -191,8 +201,17 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/updated-comprehensive-guide-to-crafting-engaging-youtube-outros/"><u>[Updated] Comprehensive Guide to Crafting Engaging YouTube Outros</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-from-flat-to-framed-achieving-realistic-text-effects-in-photoshop/"><u>[Updated] From Flat to Framed Achieving Realistic Text Effects in Photoshop</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-how-to-use-luts-in-after-effect/"><u>2024 Approved How to Use LUTs in After Effect</u></a></li>
+<li><a href="https://win-docs.techidaily.com/guide-simple-pour-faire-face-a-la-reinitialisation-continue-dun-ordinateur-dell-avec-windows-10/"><u>Guide Simple Pour Faire Face À La Réinitialisation Continue D'un Ordinateur Dell Avec Windows 10</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-360-degree-cams-face-off-the-ultimate-test/"><u>In 2024, 360 Degree Cams Face-Off The Ultimate Test</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-elevation-of-professional-display-an-in-depth-examination-of-the-bl2711u/"><u>In 2024, The Elevation of Professional Display An In-Depth Examination of the BL2711U</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722976821209-instant-access-obtain-your-samsung-c460-printer-software-today/"><u>Instant Access: Obtain Your Samsung C460 Printer Software Today!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transforming-views-into-brand-loyalty-for-2024/"><u>Transforming Views Into Brand Loyalty for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-secrets-of-iphone-podcast-integration-for-2024/"><u>Unveiling the Secrets of iPhone Podcast Integration for 2024</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-drivers-with-windows-device-manager-in-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning drivers with Windows Device Manager in Windows 11 & 10 & 7</u></a></li>
+</ul></div>
 

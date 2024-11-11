@@ -1,7 +1,7 @@
 ---
 title: "Complete Tutorial: Downloading and Setting Up Microsoft Store Applications in Windows 11"
-date: 2024-10-27T18:39:43.996Z
-updated: 2024-11-02T17:37:07.201Z
+date: 2024-11-09T18:12:03.394Z
+updated: 2024-11-10T22:00:48.741Z
 tags:
   - deals
 categories:
@@ -17,10 +17,10 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 * [How to Install Software Using the Microsoft Store on Windows 10](https://win-howtos.techidaily.com/effective-solutions-for-repairing-unresponsive-functional-keys-on-lenovo-computers/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -59,37 +59,43 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 
 ![Search for an app using the search bar at the top of the Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-searching-for-the-hulu-app.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you locate a program you'd like to install, first check whether it is a free or paid app. If you don't see a price listed, the app is generally free, or requires a separate purchase (as with a Netflix account). Click the "Get" button to add and app to your account and download it for the first time. If you've downloaded an app previously but unistalled it, you'll see an "Install" button instead. 
 
 ![Click the 'Get' button to add an app to your account, then click 'Install' to actually install it to your PC.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-get-app.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If the program requires a purchase before downloading, you will see a large "Buy for" button followed by a price. 
 
 ![Buy Microsoft Flight Simulator for 59.99 USD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-buy-for-x-price.png) 
 
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After following the purchase steps, the download will begin. You will see the "Get" or "Install" button change to a small circle that indicates your download's progress. You can also click this button to stop a download in progress if you change your mind, or if it is taking up too much time or bandwidth. 
 
 ![The download is in progress when the 'Get' or 'Install' button changes to a stop button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-download-in-progress.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once the app is installed, you can launch it by clicking "Launch" or "Play" button located just beside the download progress indicator bar. Or you can open the "Start" menu and browse for the app name in an alphabetical list. Click the app's icon when you find it, and it will launch.
@@ -97,10 +103,10 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 ![Netflix in the Start menu under 'N' in the alphabetical list.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-netflix-in-start-menu.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you have trouble finding the app you just downloaded in the "Start" menu, open "Start" and begin typing the name of the app to perform a search. When the results appear, click the icon of the app to launch it.
@@ -130,16 +136,22 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-expertly-mastering-file-imports-in-the-realm-of-windows-10/"><u>[Updated] Expertly Mastering File Imports in the Realm of Windows 10</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-25-backdrop-ideas-for-livestreaming/"><u>[Updated] Top 25 Backdrop Ideas for Livestreaming</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-cutting-edge-strategies-for-enhanced-chromebook-zoom/"><u>2024 Approved Cutting-Edge Strategies for Enhanced Chromebook Zoom</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-turn-off-youtube-previews-on-all-devices/"><u>2024 Approved Turn Off YouTube Previews on All Devices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-solutions-to-correct-binkw32dll-not-found-error-on-your-pc/"><u>Effective Solutions to Correct 'binkw32.dll Not Found' Error on Your PC</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Samsung Galaxy A05s? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/precision-adjustment-of-iphone-photo-dimensions-revealed-for-2024/"><u>Precision Adjustment of iPhone Photo Dimensions Revealed for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/reverse-the-ordinary-turning-images-upside-down/"><u>Reverse the Ordinary Turning Images Upside Down</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tap-into-the-rhythm-web-free-and-comprehensive-for-2024/"><u>Tap Into the Rhythm Web (FREE & Comprehensive) for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-subtle-art-of-easing-audio-intensity-garageband-for-2024/"><u>The Subtle Art of Easing Audio Intensity (Garageband) for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-minecraft-lan-connection-issues-quick-solutions/"><u>Troubleshooting Guide: Fixing 'Minecraft LAN Connection Issues' - Quick Solutions</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-strategies-to-avoid-overuse-of-b-roll-in-cinematography/"><u>[New] Strategies to Avoid Overuse of B-Roll in Cinematography</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unique-choir-compositions-as-your-smartphone-tones/"><u>[New] Unique Choir Compositions as Your Smartphone Tones</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-unusual-sideway-photos-in-instagram-storytelling/"><u>[Updated] 2024 Approved Unusual Sideway Photos in Instagram Storytelling</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-essential-tips-for-mastering-instagram-reels-for-2024/"><u>[Updated] Essential Tips for Mastering Instagram Reels for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-demystifying-the-purpose-and-use-of-a-blue-status-symbol-on-facebook/"><u>[Updated] In 2024, Demystifying the Purpose and Use of a Blue Status Symbol on Facebook</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-straightforward-video-recorders-for-win10/"><u>[Updated] Straightforward Video Recorders for Win10</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-tier-tips-for-naming-your-podcast-right-plus-inspiring-title-ideas-countdown/"><u>[Updated] Top-Tier Tips for Naming Your Podcast Right + Inspiring Title Ideas Countdown</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-5-cloud-giants-unlimited-capacity-showdown/"><u>2024 Approved Top 5 Cloud Giants Unlimited Capacity Showdown</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transform-every-moment-top-ideas-for-enriching-life-through-podcasts/"><u>2024 Approved Transform Every Moment Top Ideas for Enriching Life Through Podcasts</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/fehlerfreies-backup-einer-sql-datenbank-auf-entfernte-speicherorte-sichern/"><u>Fehlerfreies Backup Einer SQL-Datenbank Auf Entfernte Speicherorte Sichern</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-motorola-moto-g84-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Motorola Moto G84 5G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-quick-fix-hide-identities-in-photos-with-picart/"><u>In 2024, Quick Fix Hide Identities in Photos with PicArt</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-superior-photo-inspector-fast-and-reliable/"><u>In 2024, Superior Photo Inspector, Fast & Reliable</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-list-meme-design-masterpieces/"><u>In 2024, Ultimate List Meme Design Masterpieces</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-fast-track-setting-up-and-enjoying-ifunny-memes-for-2024/"><u>The Fast Track Setting Up & Enjoying iFunny Memes for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-your-talk-explore-gratis-options-for-audio-effect-applications-for-2024/"><u>Transform Your Talk Explore Gratis Options for Audio Effect Applications for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/why-iphone-1-exercise-when-an-auditor-tests-account-balances-for-overstatements-which-sampling-method-would-typically-be-used-is-it-a-stratified-random-b-sy126/"><u>Why iPhone 1 # Exercise: When an Auditor Tests Account Balances for Overstatements, Which Sampling Method Would Typically Be Used? Is It (a) Stratified Random, (B) Systematic, or (C) Haphazard?</u></a></li>
 </ul></div>
 

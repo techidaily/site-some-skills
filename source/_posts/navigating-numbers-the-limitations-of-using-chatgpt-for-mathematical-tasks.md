@@ -1,7 +1,7 @@
 ---
 title: "Navigating Numbers: The Limitations of Using ChatGPT for Mathematical Tasks"
-date: 2024-10-29T17:29:01.946Z
-updated: 2024-11-02T17:18:01.095Z
+date: 2024-11-09T04:11:30.658Z
+updated: 2024-11-10T20:07:43.904Z
 tags:
   - cutting-edge
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/dccea8e74312ef3978115e47791b42d8d3af59dde
 * [ChatGPT Can't Reliably Do Arithmetic, Either](https://youtube-tips.techidaily.com/024-approved-from-zero-to-hero-youtube-setup-growth-and-profit-strategies/)
 
  It's critical to fact-check everything that comes from [ChatGPT](https://extra-resources.techidaily.com/new-capture-clarity-editing-insights-for-professional-results/), [Bing Chat](https://facebook-video-recording.techidaily.com/new-in-2024-the-insiders-look-at-securing-fb-status-videos/), [Google Bard](https://youtube-video-recordings.techidaily.com/in-2024-enhance-branding-the-ultimate-guide-to-custom-urls-for-youtube/), or any [other chatbot](https://screen-mirroring-recording.techidaily.com/in-2024-3-must-know-methods-to-record-on-your-ipad/). Believe it or not, that's especially true for math. Don't assume ChatGPT can do math. Modern AI chatbots are better at creative writing than they are at counting and arithmetic.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Chatbots Aren't Calculators
 
@@ -42,13 +49,6 @@ Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.t
 
 ![ChatGPT 3.5 failing at counting a list.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-count-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Even when you correct ChatGPT and it apologizes and offers up a new answer, you won't necessarily get a correct answer.
 
  ChatGPT often acts like a person frantically trying to cover up a mistake and give you an answer---any answer---to get you off its back. It's actually very lifelike!
@@ -61,6 +61,13 @@ Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.t
 
 ![Bing Chat failing to count.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/bing-count.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  ChatGPT Struggles With Math Logic Problems
 
  If you give ChatGPT a math "word problem," you'll often see strange twists and turns of logic that won't get you the right answer
@@ -70,16 +77,10 @@ Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.t
 ![A word-based math problem for ChatGPT.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-fruit-1.png) 
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  ChatGPT starts off okay but quickly goes off the rails into logic that doesn't make any sense and won't give a correct answer.
@@ -90,50 +91,43 @@ Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.t
 
 ![The final part of ChatGPT's incorrect response.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-fruit-3.png) 
 
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  ChatGPT will often dig in and argue with you about its responses, too. (Again, that's very human-like behavior.)
 
  In this case, ChatGPT argued that hey, it didn't get you the right answer---but it got you closer to your desired ratio than you were before! That's pretty funny.
 
 ![ChatGPT acknowledging the answer was wrong but arguing about it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-fruit-4.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  For the record, Microsoft's Bing Chat based on GPT 4 struggled with this problem as well, giving us a clearly incorrect answer. GPT 4's logic quickly goes off the rails here, too.
 
 ![Bing Chat giving a confused response.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-fruit.png) 
-
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  We recommend not attempting to follow every twist and turn of logic---it's clear that the answer is incorrect.
 
 ![Bing Chat giving a confused response.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-fruit.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When we pointed out Bing's answer was incorrect, it kept arguing with us in circles, offering wrong answer after wrong answer.
 
 ![Bing Chat giving a confused response.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-fruit.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  ChatGPT Can't Reliably Do Arithmetic, Either
 
@@ -158,22 +152,24 @@ Related: [Bing Chat: How to Use the AI Chatbot](https://facebook-video-recording
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-awesome-igtv-channels-that-deliver-quality-content/"><u>[New] 2024 Approved Awesome IGTV Channels That Deliver Quality Content</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-swiftly-enhanced-facebook-videos-best-extensions-hacks-and-apps/"><u>[New] Swiftly Enhanced Facebook Videos Best Extensions, Hacks, and Apps</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-time-reverse-footage-on-your-phone/"><u>[New] Time-Reverse Footage on Your Phone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-guide-to-make-your-shorts-thumbnail-pop-up/"><u>[Updated] 2024 Approved Guide to Make Your Shorts' Thumbnail Pop Up</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-smooth-sailing-for-social-broadcasts-fixing-interruptions-on-fb/"><u>[Updated] In 2024, Smooth Sailing for Social Broadcasts Fixing Interruptions on FB</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-leverage-with-these-free-video-teasers/"><u>[Updated] Leverage with These Free Video Teasers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-streaming-software-showdown-the-verdict-on-wirecast-vs-obs/"><u>[Updated] Streaming Software Showdown The Verdict on Wirecast Vs. OBS</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-tailoring-rss-files-for-impact-a-podcasters-blueprint/"><u>[Updated] Tailoring RSS Files for Impact A Podcaster's Blueprint</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-6-nft-makers-for-artists-to-unleash-imagination/"><u>2024 Approved Top 6 NFT Makers for Artists to Unleash Imagination</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effortless-techniques-to-take-photos-of-your-screen-on-all-laptops-with-movavi-instructions/"><u>Effortless Techniques to Take Photos of Your Screen on All Laptops with Movavi Instructions</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/epic-historical-combat-showdowns-the-top-7-games-for-2024/"><u>Epic Historical Combat Showdowns – The Top 7 Games for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-best-10-collage-apps-for-android-top-picks/"><u>In 2024, Best 10 Collage Apps for Android ​ (Top Picks)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streamline-your-music-movement-between-services/"><u>In 2024, Streamline Your Music Movement Between Services</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-taking-flight-in-depth-review-of-the-x4-fpv-quadcopter/"><u>In 2024, Taking Flight In-Depth Review of the X4 FPV Quadcopter</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unleash-windows-11-potential-latest-apps-and-games/"><u>In 2024, Unleash Windows 11 Potential Latest Apps & Games</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-walkthrough-for-disconnecting-devices-from-google-home/"><u>The Ultimate Walkthrough for Disconnecting Devices From Google Home</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/total-restore-and-reset-how-to-erase-all-personal-info-from-your-iphone-permanently/"><u>Total Restore and Reset - How to Erase All Personal Info From Your iPhone Permanently</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-digital-pioneers-guide-combining-pcmac-dslr-for-engaging-streams/"><u>[New] 2024 Approved Digital Pioneer's Guide Combining PC/Mac, DSLR for Engaging Streams</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-best-green-screen-recording-tools/"><u>[New] In 2024, Best Green Screen Recording Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-photographers-list-of-top-10-lenses/"><u>[New] The Photographer's List of Top 10 Lenses</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transform-your-casual-gopro-footage-to-a-pro-level/"><u>[New] Transform Your Casual Gopro Footage to a Pro Level</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-superior-3d-tools-for-animated-designers/"><u>[Updated] Superior 3D Tools for Animated Designers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-science-of-choosing-music-for-movie-previews/"><u>[Updated] The Science of Choosing Music for Movie Previews</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-secrets-of-automatic-transcription-in-google-docs/"><u>2024 Approved Unveiling the Secrets of Automatic Transcription in Google Docs</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-package-malfunctions-in-windows-updates/"><u>Addressing Package Malfunctions in Windows Updates</u></a></li>
+<li><a href="https://discover-community.techidaily.com/free-converter-from-mp4-to-avi-format-movavi-video-converter/"><u>Free Converter From MP4 to AVI Format - Movavi Video Converter</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Xiaomi Redmi 13C 5G? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/how-to-become-an-instagram-influencer-a-complete-guide-for-2024/"><u>How to Become an Instagram Influencer A Complete Guide for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-mini-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 mini?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-4-ultimate-strategies-for-creating-softened-iphone-pics/"><u>In 2024, The 4 Ultimate Strategies for Creating Softened iPhone Pics</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-the-ultimate-fcpx-skin-smoothing-hack-no-plugins-needed/"><u>New In 2024, The Ultimate FCPX Skin Smoothing Hack No Plugins Needed</u></a></li>
+<li><a href="https://fox-http.techidaily.com/premier-visual-experience-top-10-screen-selections-for-mac-for-2024/"><u>Premier Visual Experience Top 10 Screen Selections for Mac for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-metaverse-multiverse-dichotomy-explained-for-2024/"><u>The Metaverse-Multiverse Dichotomy Explained for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/uncomplicated-methodology-win-os-clownvoice-tweaking-guide-for-2024/"><u>Uncomplicated Methodology Win-OS Clownvoice Tweaking Guide for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/uncovering-potential-through-skilled-interviewing-for-2024/"><u>Uncovering Potential Through Skilled Interviewing for 2024</u></a></li>
 </ul></div>
 

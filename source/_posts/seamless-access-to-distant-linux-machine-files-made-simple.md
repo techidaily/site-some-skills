@@ -1,7 +1,7 @@
 ---
 title: Seamless Access to Distant Linux Machine Files Made Simple
-date: 2024-11-01T16:48:52.665Z
-updated: 2024-11-02T17:52:29.356Z
+date: 2024-11-10T02:21:04.394Z
+updated: 2024-11-10T22:34:11.122Z
 tags:
   - desktop
 categories:
@@ -18,6 +18,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * SSHFS is ideal for file-level work, especially on headless systems like a Raspberry Pi.
 
  SSHFS lets you browse files on remote Linux PCs as smoothly as if they were on your local computer. It’s a quick and simple way to interact with headless systems like Raspberry Pi.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What is SSHFS?
 
@@ -45,24 +52,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
     
 ![Installing SSHFS on Ubuntu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/1-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Fedora users need to type:
 
         `sudo dnf install sshfs`
     
 ![Installing SSHFS on Fedora.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/2-2.png) 
-
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  On Manjaro, you’ll use pacman:
 
@@ -76,6 +77,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
     
 ![Using the --version option to discover the version of SSHFS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/4-1.png) 
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Making a Remote Connection
 
  We need to create a directory to act as the _mount point_. It’s where the remote file system will be grafted onto your directory tree.
@@ -88,25 +102,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
     
 ![Creating the mount point directory.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/5-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Let’s take a look at our new directory.
 
         `ls -hl /media/dave`
     
 ![Using ls to check the attributes of the mount point directory.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/6-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Our directory has been created, and it is owned by root. That won’t matter though, we’ll have [read and write permissions](https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-13-pro-without-itunes-by-drfone-ios/) on the mounted file system.
 
@@ -130,10 +130,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The first time you connect, you’ll probably be asked a yes/no question about whether you want to trust the remote computer and have its details added to your list of known SSH hosts. Answer yes to this.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Accessing Files in the Terminal Window
@@ -167,13 +167,6 @@ ls /home/dave/Downloads/`
     
 ![Copying files from the remote file system to the local file system.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/10-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Accessing Files in a File Browser
 
  Because the mounted file system looks and behaves like any other part of your file system’s directory tree, you can use your file browser to navigate it too.
@@ -182,18 +175,25 @@ ls /home/dave/Downloads/`
 
 ![Accessing the remote file system in a file browser.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/11-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Double-clicking a file opens the application associated with that file type. These actions are carried out by applications on your local computer.
 
 ![Editing a file in the remote file system with a local editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/12-1.png) 
 
- If you edit a document, for example, your default local editor is launched.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If you edit a document, for example, your default local editor is launched.
 
 ##  Breaking the Connection
 
@@ -204,10 +204,10 @@ ls /home/dave/Downloads/`
 ![Unmounting the remote file system.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/13-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The Far Away, Up Close
@@ -231,20 +231,19 @@ ls /home/dave/Downloads/`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-excellence-in-social-media-video-playback-tools-2023-edition-for-2024/"><u>[New] Excellence in Social Media Video Playback Tools, 2023 Edition for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-pinnacle-platforms-alternatives-to-the-oldest-birdcalls-for-2024/"><u>[New] Pinnacle Platforms Alternatives to the Oldest Birdcalls for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-streaming-selection-saga-choose-between-engaging-podcasts-and-youtube-channels/"><u>[New] Streaming Selection Saga Choose Between Engaging Podcasts and YouTube Channels</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-total-circles-capture-systems/"><u>[New] Total Circles Capture Systems</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-tiktok-tricks-faster-video-loading/"><u>[Updated] In 2024, TikTok Tricks Faster Video Loading</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-the-potential-comprehensive-analysis-of-dji-phantom-4/"><u>[Updated] Unlocking the Potential Comprehensive Analysis of DJI Phantom 4</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-tune-into-the-beats-with-these-free-online-scanners/"><u>2024 Approved Tune Into the Beats with These Free Online Scanners</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-unravel-the-mysteries-of-efficient-story-connectivity/"><u>2024 Approved Unravel the Mysteries of Efficient Story Connectivity</u></a></li>
-<li><a href="https://fox-that.techidaily.com/experiencing-wi-fi-woes-let-us-show-you-how-to-connect-your-iphone-to-any-computer/"><u>Experiencing Wi-Fi Woes? Let Us Show You How to Connect Your iPhone to Any Computer!</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-first-step-in-vlogging-tools-you-need/"><u>In 2024, The First Step in Vlogging Tools You Need</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/integrate-sound-and-filter-magic-into-your-windows-10-photos-app/"><u>Integrate Sound & Filter Magic Into Your Windows 10 Photos App</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/1722806896324-the-budget-friendly-choice-for-streamers-dissecting-the-features-and-reliability-of-logitech-c61er/"><u>The Budget Friendly Choice for Streamers: Dissecting the Features and Reliability of Logitech C61er</u></a></li>
-<li><a href="https://common-error.techidaily.com/top-5-solutions-for-reducing-gpu-consumption-by-the-windows-1110-dwm/"><u>Top 5 Solutions for Reducing GPU Consumption by the Windows 11/10 DWM</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-8-gold-text-wonders-in-the-vast-world-of-3d-sites-for-2024/"><u>Top 8 Gold-Text Wonders in the Vast World of 3D Sites for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-the-layers-intricate-analysis-of-vegas-pro-21-for-2024/"><u>Unveiling the Layers Intricate Analysis of Vegas Pro '21 for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-architects-crafting-fantasy-realms-for-marvel/"><u>[New] Architects Crafting Fantasy Realms for Marvel</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-essential-tactics-for-viral-fb-video-marketing-for-2024/"><u>[Updated] Essential Tactics for Viral FB Video Marketing for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-spectrum-of-immersive-tech-vr-vs-ar-and-more/"><u>[Updated] The Spectrum of Immersive Tech VR Vs. AR and More</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-master-mac-audio-an-in-depth-look-at-using-audacity-for-recordings/"><u>2024 Approved Master Mac Audio An In-Depth Look at Using Audacity for Recordings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-superior-video-compression-in-av1/"><u>2024 Approved Unveiling the Superior Video Compression in AV1</u></a></li>
+<li><a href="https://win-blog.techidaily.com/6-guaranteed-solutions-for-the-persistent-stray-crash-issue-on-windows-computers/"><u>6 Guaranteed Solutions for the Persistent 'Stray Crash' Issue on Windows Computers</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/aufstiegstricks-die-7-wichtigsten-techniken-zur-steigerung-ihrer-leistung/"><u>Aufstiegstricks: Die 7 Wichtigsten Techniken Zur Steigerung Ihrer Leistung</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-reverse-films-on-android/"><u>In 2024, The Ultimate Guide to Reverse Films on Android</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-supercharging-srt-with-macwindows/"><u>In 2024, The Ultimate Guide to Supercharging SRT with Mac/Windows</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-pc-speeds-choosing-the-right-extension-software/"><u>In 2024, Top PC Speeds Choosing the Right Extension Software</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/revolutionizing-artificial-intelligence-apples-latest-breakthrough-and-areas-for-growth/"><u>Revolutionizing Artificial Intelligence: Apple's Latest Breakthrough and Areas for Growth</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/transformez-vos-emissions-wtv-en-definition-haute-definition-mkv-sur-movavi-sans-frais/"><u>Transformez Vos Émissions WTV en Définition Haute Définition MKV Sur Movavi Sans Frais !</u></a></li>
+<li><a href="https://win-forum.techidaily.com/trusted-veilig-media-software-explore-movavi-video-editor/"><u>Trusted Veilig Media Software - Explore Movavi Video Editor</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-unleash-your-creativity-the-best-time-lapse-video-editing-software/"><u>Updated Unleash Your Creativity The Best Time-Lapse Video Editing Software</u></a></li>
 </ul></div>
 

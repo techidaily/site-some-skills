@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Swap Out Chars for Newlines in Notepad ++"
-date: 2024-10-29T18:06:53.459Z
-updated: 2024-11-02T16:36:31.864Z
+date: 2024-11-06T05:17:32.906Z
+updated: 2024-11-10T19:52:03.729Z
 tags:
   - desktop
 categories:
@@ -32,20 +32,33 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 
 ![Search for 'notepad++' in the Start Menu search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/notepad.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the Notepad++ window, open the text file that includes the list that you want to convert. Alternately, you can paste your item list on a line.
 
 ![A Notepad++ window showing a comma-separated list](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/paste-items-list.png) 
 
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Next, click the "Search" menu and select "Replace." Alternately, you can press Ctrl+H on your keyboard.
 
 ![Replace menu in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/replace-notepad-plus-plus1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In the Replace window that opens, click the "Find What" text entry box and type the current item separator. In our example case, our items are separated by a comma and a space, so we'll type a comma and then press Space. If your items are separated by pipes only, type the pipe character ("|").
 
@@ -57,23 +70,9 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 
 ![Replace window in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/convert-comma-new-line.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  And just like magic, each item in your list will now be on its own line.
 
 ![New-line separated list in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/comma-new-line.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you want to reverse the process, just open Search > Replace in the menu again. In the "Find What" box, enter "\\n". In the Replace with box, type the character that you want to replace it with. Make sure "Extended" is selected and click "Replace All," and your list will go back to being separated by a standard character, such as a comma or pipe.
 
@@ -85,9 +84,23 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 
 ![New-line items list in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/paste-list.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In your Notepad++ window, click the "Edit" menu and select Blank Operations > EOL to Space. Here, EOL means "End of Line," and this option converts the invisible newline characters into spaces.
 
 ![EOL to Space option in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/eol-to-space.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After that, you'll find that all your items are now on a single line separated by a space.
 
@@ -97,29 +110,22 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 
 ![Replace option in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/search-replace.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the "Replace" window, click the "Find What" box and press Space. Then, place your cursor in "Replace With" and type the character that you'd like to replace space with, such as comma (",") or a command and a space for a human-readable format.
 
  When you're ready, click "Replace All" on the right.
 
 ![Replace window in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/new-line-comma.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Your list items will now be separated by the new separator you chose.
 
 ![Replace window in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/new-line-comma.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Repeat this as often as you'd like, and you'll have all your lists in perfect shape quickly.
 
@@ -140,21 +146,17 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-unaltered-audio-through-the-lens-of-ffmpeg-review/"><u>[New] Unaltered Audio Through the Lens of FFmpeg Review</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-invisible-intensity-covert-volume-reduction-in-garageband/"><u>[Updated] Invisible Intensity Covert Volume Reduction in Garageband</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-pinpointing-youtubes-favorite-remarks/"><u>[Updated] Pinpointing YouTube's Favorite Remarks</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-streamline-your-workflow-must-know-win-10-tactics/"><u>[Updated] Streamline Your Workflow Must-Know Win 10 Tactics</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-illustrator-wizards-guide-to-3d-text/"><u>[Updated] The Illustrator Wizard's Guide to 3D Text</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-fifth-round-of-top-time-lapse-capture-apps/"><u>2024 Approved Fifth Round of Top Time-Lapse Capture Apps</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-srt-enhancements-maximizing-performance-on-both-platforms/"><u>2024 Approved Top SRT Enhancements Maximizing Performance on Both Platforms</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/how-can-i-include-clickable-urls-within-publications-crafted-by-flipbuilder-software/"><u>How Can I Include Clickable URLs Within Publications Crafted by FlipBuilder Software?</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Oppo Reno 11F 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-motorola-moto-g-stylus-2023-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola Moto G Stylus (2023) If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-a-closer-look-at-facebooks-video-transformation/"><u>In 2024, A Closer Look at Facebook’s Video Transformation</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-logo-journey-key-steps-in-crafting-iconic-covers/"><u>In 2024, The Logo Journey Key Steps in Crafting Iconic Covers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-playstation-audio-modification-guidebook/"><u>In 2024, The Ultimate PlayStation Audio Modification Guidebook</u></a></li>
-<li><a href="https://fox-http.techidaily.com/leading-edge-speech-to-text-programs-for-2024/"><u>Leading Edge Speech-to-Text Programs for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/mp4-trp-movavi/"><u>MP4ファイルを無料で変換! オンラインTRP動画再生器 - Movaviの優れた選択</u></a></li>
-<li><a href="https://some-skills.techidaily.com/total-gb-for-24-hour-movie-size-for-2024/"><u>Total GB for 24-Hour Movie Size for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-smart-buyers-guide-to-drones-crucial-info-upfront/"><u>[New] The Smart Buyer's Guide to Drones Crucial Info Upfront</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-continuous-display-recorder-for-2024/"><u>[Updated] Continuous Display Recorder for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-expertly-curated-9-best-video-conferencing-software-for-smartphones-and-tablets/"><u>[Updated] Expertly Curated 9 Best Video Conferencing Software for Smartphones & Tablets</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-mp4-and-webm-extraction-from-social-media-streams/"><u>[Updated] In 2024, MP4 & WebM Extraction From Social Media Streams</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-superior-screen-refinement-software-for-video-lovers/"><u>2024 Approved Superior Screen Refinement Software for Video Lovers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-prime-strategies-in-zoom-video-to-zoom-outcomes/"><u>2024 Approved The Prime Strategies in Zoom Video to Zoom Outcomes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-framework-for-selecting-winning-podcast-names/"><u>2024 Approved The Ultimate Framework for Selecting Winning Podcast Names</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/efficient-techniques-converting-and-shrinking-4k-content-down-to-hd-1080p/"><u>Efficient Techniques: Converting and Shrinking 4K Content Down to HD 1080P</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-from-iphone-8-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock from iPhone 8 or iPad?</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-lava-blaze-curve-5g-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Lava Blaze Curve 5G Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Infinix Smart 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-platforms-enhance-your-youtube-presence/"><u>In 2024, Top Platforms Enhance Your YouTube Presence</u></a></li>
 </ul></div>
 

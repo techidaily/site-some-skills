@@ -1,7 +1,7 @@
 ---
 title: "Mastering Image Navigation: Tips on Zooming & Panning Features Within MidJourney"
-date: 2024-11-01T16:28:38.924Z
-updated: 2024-11-02T16:46:12.098Z
+date: 2024-11-09T04:38:40.466Z
+updated: 2024-11-10T18:02:53.007Z
 tags:
   - cutting-edge
 categories:
@@ -18,13 +18,6 @@ thumbnail: https://thmb.techidaily.com/3299531766a0d348d78dd04349d2683155a00d71b
 
  While we're mainly wowed by [how quickly the MidJourney model has improved](https://instagram-clips.techidaily.com/2024-approved-visual-storytelling-on-social-media-crafting-an-effective-plan/), there's a constant stream of less radical features that can nonetheless transform your workflow. The ability to "pan" and "zoom" images you make with MidJourney is worth learning.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Start by Making an Image
 
  The first step in this process is to create a new image with MidJourney. Older images that you created before these two features were added won't have the option sadly. If you manually select an older MidJourney model, you may also not have access to panning or zooming.
@@ -39,22 +32,29 @@ knight in shining armor art deco --ar 9:21
 
 ![Result of prompt "Knight in shining armor art deco --ar 9:21" showing a grid of four knights.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/screenshot-2023-07-27-at-14-51-56.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  That came out great! I like the first one the most, so next we're using the "U1" button to upscale that image.
 
 ![Screenshot 2023-07-27 at 14.56.36](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/screenshot-2023-07-27-at-14-56-36.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Panning Your MidJourney Image
 
  While this would be a great wallpaper for a phone's home screen, it has a common problem when looking for lock screen images - there's no room for the clock! So we'll use the pan-up button (the upwards-facing arrow) to create some space above the knight's head.
 
 ![Selecting the pan-up button in a upscaled MidJourney Image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/screenshot-2023-07-27-at-14-56-36-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  MidJourney now tries to "imagine" what might be above the knight's head. In this case, image three has the negative space we wanted, so we'll upscale that one.
 
@@ -65,22 +65,21 @@ knight in shining armor art deco --ar 9:21
 ![iPhone Lock screen using our panned up knight image with negative space above the head](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/img_4d99b4753a60-1.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  But that's just the tip of the iceberg when it comes to panning. It works with much more complex image. For example, let's take this image I prompted of a woman sitting on a couch in a pop art style.
 
 ![Pop art of woman sitting on a couch generated with MidJourney](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/pop-art-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 MidJourney / How-To Geek / Sydney Butler
 
@@ -88,14 +87,14 @@ MidJourney / How-To Geek / Sydney Butler
 
 ![Pop art of two women sitting on a couch generated in MidJourney](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/pop-art-2.png) 
 
-MidJourney / How-To Geek / Sydney Butler
-
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+MidJourney / How-To Geek / Sydney Butler
 
 ##  Zooming Out
 
@@ -114,6 +113,19 @@ Prompt: Woman Sitting on Couch 50 Pop Art
 Prompt: woman sitting on couch 50 pop art surrounded by clowns --v5.1 --ar 16:9 --zoom 2
 
 ![The Custom Zoom Prompt Window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/screenshot-2023-07-27-at-15-17-41.png) 
+
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Here you can change the original prompt, add to it, change the zoom level, and set the aspect ratio. I've set the aspect ratio to 16:9, left the zoom level at 2x, and modified the prompt to ask that our couch lady be surrounded by pop art clowns, because I'm very evil.
 
@@ -136,20 +148,14 @@ Prompt: woman sitting on couch 50 pop art surrounded by clowns --v5.1 --ar 16:9 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-maximizing-video-channels-earning-with-new-policies/"><u>[New] Maximizing Video Channels Earning with New Policies</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-iphone-ringtone-alterations/"><u>[New] The Ultimate Guide to iPhone Ringtone Alterations</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-list-premier-networks-for-live-viewing/"><u>[New] Ultimate List Premier Networks for Live Viewing</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-9-fitness-trends-to-captivate-your-online-audience-with-action/"><u>2024 Approved 9 Fitness Trends to Captivate Your Online Audience with Action</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-taking-the-plunge-a-stepwise-strategy-to-set-up-your-personal-tech-review-platform/"><u>2024 Approved Taking the Plunge A Stepwise Strategy to Set Up Your Personal Tech Review Platform</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boosting-organization-skills-using-chatgpt-a-4-step-guide/"><u>Boosting Organization Skills Using ChatGPT – A 4-Step Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Tecno Camon 20? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-preeminent-visionaries-of-av-artistry-online/"><u>In 2024, The Preeminent Visionaries of AV Artistry Online</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-optimal-flight-the-lipo-selection-saga/"><u>In 2024, Unlocking Optimal Flight The LiPo Selection Saga</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-infinix-hot-30i-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Infinix Hot 30i Phone FRP Lock</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-elevated-processor-load-by-windows-modules-installation-in-win10/"><u>Resolving Elevated Processor Load by Windows Modules Installation in Win10</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solutions-to-resolve-msvcr70dll-file-not-found-or-missing-issues/"><u>Solutions to Resolve MSVCR70.dll File Not Found or Missing Issues</u></a></li>
-<li><a href="https://some-skills.techidaily.com/streamlining-podcast-feed-creation-techniques-for-2024/"><u>Streamlining Podcast Feed Creation Techniques for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-100-virtual-bicycle-escapades-to-experience-for-2024/"><u>Top 100 Virtual Bicycle Escapades to Experience for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/trasforma-i-tuoi-file-ogg-in-mp4-gratuitamente-guida-completa-online-di-movavi/"><u>Trasforma I Tuoi File OGG in MP4 Gratuitamente: Guida Completa Online Di Movavi</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-discover-the-top-5-pc-clipping-utilities-for-quick-samples-for-2024/"><u>[New] Discover the Top 5 PC Clipping Utilities for Quick Samples for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-a-beginners-guide-to-interpreting-youtube-analytics-scores/"><u>[New] In 2024, A Beginner’s Guide to Interpreting Youtube Analytics Scores</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-definitive-guide-to-premium-vr-players-oculus-focus/"><u>[New] The Definitive Guide to Premium VR Players - Oculus Focus</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/urn-your-mobile-videos-into-profitable-content-on-youtube-for-2024/"><u>[New] Turn Your Mobile Videos Into Profitable Content on YouTube for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-velocity-victories-olympics-year-2022/"><u>[New] Velocity Victories Olympics, Year 2022</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-big-should-a-good-thumbnail-be-youtubes-ultimate-guide/"><u>[Updated] In 2024, How Big Should a Good Thumbnail Be? YouTube's Ultimate Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-compilation-of-top-sky-hd-sites/"><u>In 2024, The Ultimate Compilation of Top Sky HD Sites</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-with-ease-open-mouse-prop-in-win11/"><u>Navigating with Ease: Open Mouse Prop in Win11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-techniques-for-professional-voice-capture-for-2024/"><u>Top Techniques for Professional Voice Capture for 2024</u></a></li>
 </ul></div>
 

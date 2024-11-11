@@ -1,7 +1,7 @@
 ---
 title: "Synchronizing Meta Quest Exercise Tracking with Apple Watch & Health: A Comprehensive Guide"
-date: 2024-10-26T18:04:57.964Z
-updated: 2024-11-02T18:26:30.487Z
+date: 2024-11-04T01:31:11.057Z
+updated: 2024-11-10T17:56:18.961Z
 tags:
   - cutting-edge
 categories:
@@ -20,6 +20,19 @@ thumbnail: https://thmb.techidaily.com/030f43c520c13566e766031892a27e4f35e056dc7
 
  The [Meta Quest](https://www.oculus.com/experiences/quest/) app store offers many great fitness apps you can use on your [VR headset](https://vp-tips.techidaily.com/visual-harmony-ios-and-macos-photoviewer-blend/), but if you're using an Apple Watch to track your activity, you may not get the most accurate figures. Now, you can link your Quest directly to Apple Health.
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  It's All About Meta Move
 
  In March of 2022, Meta [announced](https://www.oculus.com/blog/oculus-move-updates-track-your-vr-fitness-stats-and-goals-outside-your-headset/) that Move (its internal fitness tracker) would be getting external app support. The Move app had only been accessible from within the headset itself, so if you wanted to see your VR exercise stats, you had to use the headset.
@@ -30,13 +43,6 @@ Related: [10 Reasons You Might Want an Apple Watch Ultra](https://extra-approach
 
  Additionally, this connecting the Move app allows you to go without wearing your Apple Watch during a VR session, which may be more comfortable for you, depending on the type of VR activity.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Do I Need Special VR Apps?
 
  One important thing to know about Meta Quest Move is that it tracks your activity throughout the entire VR session, regardless of what apps you're using or what you're doing. That means you don't have to buy special fitness-specific VR apps to benefit from the feature.
@@ -44,6 +50,13 @@ Related: [10 Reasons You Might Want an Apple Watch Ultra](https://extra-approach
  That said, if you're really wanting to get active, some of [our favorite video games for fitness](https://screen-mirroring-recording.techidaily.com/in-2024-step-by-step-process-of-setting-up-your-logitech-webcam-for-video/) have Quest editions you can play right now.
 
 Related: [7 Video Games for Fitness and Exercise](https://screen-mirroring-recording.techidaily.com/in-2024-step-by-step-process-of-setting-up-your-logitech-webcam-for-video/) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Step 1: Set Up the Move App
 
@@ -64,10 +77,10 @@ Related: [7 Video Games for Fitness and Exercise](https://screen-mirroring-recor
  Follow the instructions to complete the first-time setup.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 2: Sync Meta Quest Move Data to Apple Health
@@ -80,19 +93,6 @@ Related: [7 Video Games for Fitness and Exercise](https://screen-mirroring-recor
 
 ![Quest App Open Explore tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/1-1.png) 
 
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Open Move by tapping on its widget in the Explore tab.
 
 ![Quest App Explore Tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/2-1.png) 
@@ -102,10 +102,10 @@ Related: [7 Video Games for Fitness and Exercise](https://screen-mirroring-recor
 ![Move App Connected Apps](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/3-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Toggle the "Apple Health" option on.
@@ -129,18 +129,22 @@ Related: [7 Video Games for Fitness and Exercise](https://screen-mirroring-recor
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-master-the-art-of-9gag-memes-tips-for-creativity-and-impact-for-2024/"><u>[New] Master the Art of 9GAG Memes Tips for Creativity and Impact for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-path-to-proliferation-expanding-your-youtube-tribe/"><u>[New] The Path to Proliferation Expanding Your Youtube Tribe</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-tis-the-season-for-laughs-the-goofy-vhs-special/"><u>[Updated] 'Tis the Season for Laughs 'The Goofy' VHS Special</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-record-good-audio-without-a-microphone/"><u>[Updated] In 2024, How to Record Good Audio Without a Microphone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-future-of-advertising-in-the-metaverse/"><u>[Updated] The Future of Advertising in the Metaverse</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-12-pro-max-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 12 Pro Max</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-best-smartphone-video-recording-assistants/"><u>In 2024, Best Smartphone Video Recording Assistants</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-superior-vistas-for-digital-viewership/"><u>In 2024, Superior Vistas for Digital Viewership</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-understanding-snapchats-high-value-content/"><u>In 2024, Understanding Snapchat's High-Value Content</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/review-of-tp-link-archer-a9-an-efficient-sub-100-wireless-router/"><u>Review of TP-Link Archer A9: An Efficient Sub-$100 Wireless Router</u></a></li>
-<li><a href="https://some-skills.techidaily.com/toolwiz-demystified-detailed-app-evaluation-for-photo-experts-for-2024/"><u>Toolwiz Demystified Detailed App Evaluation for Photo Experts for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-how-to-find-the-best-spots-on-the-internet-to-download-high-quality-ding-sounds-2023-compilation/"><u>Updated 2024 Approved How to Find the Best Spots on the Internet to Download High-Quality Ding Sounds (2023 Compilation)</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/kak-vybrat-luchshee-seo-agentstvo-dlya-svoego-biznesa-v-kuvejt-siti-obzor-i-sravnenie-premialnyh-seo-servisov-2024-goda/"><u>Как Выбрать Лучшее SEO-Агентство Для Своего Бизнеса В Кувейт-Сити: Обзор И Сравнение Премиальных SEO-Сервисов 2024 Года</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-portable-recording-stands-and-lenses/"><u>[New] Portable Recording Stands and Lenses</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streaming-success-implementing-green-screen-innovations/"><u>[New] Streaming Success Implementing Green Screen Innovations</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-newbie-to-pro-comprehensive-periscope-tutorial/"><u>[Updated] From Newbie to Pro Comprehensive Periscope Tutorial</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-superior-picks-top-rated-webcam-grips/"><u>[Updated] Superior Picks Top-Rated Webcam Grips</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-where-innovation-meets-vr-watching-for-2024/"><u>[Updated] Where Innovation Meets VR Watching for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-stabilizer-unmatched-smartphone-tracking/"><u>2024 Approved The Ultimate Stabilizer Unmatched Smartphone Tracking</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-ten-cyber-shops-where-every-gift-tells-a-story/"><u>2024 Approved Top Ten Cyber Shops Where Every Gift Tells a Story</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-footage-into-high-quality-content/"><u>2024 Approved Transforming Footage Into High-Quality Content</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/camera-woes-ended-by-fix-obs-for-2024/"><u>Camera Woes Ended by Fix - OBS for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-vivo-x90s-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Vivo X90S Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-syma-x5c-demystified-the-ideal-drone-for-budding-pilots/"><u>In 2024, Syma X5C Demystified The Ideal Drone for Budding Pilots</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-gestural-recognition-technologies/"><u>In 2024, The Ultimate Guide to Gestural Recognition Technologies</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-connectivity-and-quality-sound-a-comprehensive-beats-pill-bluetooth-speaker-assessment/"><u>Seamless Connectivity & Quality Sound: A Comprehensive Beats Pill Bluetooth Speaker Assessment</u></a></li>
+<li><a href="https://windows11.techidaily.com/simplify-tasks-with-your-default-windows-terminal/"><u>Simplify Tasks With Your Default Windows Terminal</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-iphone-photography-playbook-for-2024/"><u>The Ultimate iPhone Photography Playbook for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-connection-issues-solving-minecraft-cannot-connect-to-the-server-error/"><u>Troubleshooting Connection Issues: Solving 'Minecraft Cannot Connect to the Server' Error</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-rise-of-robotic-power-why-humanity-remains-unperturbed/"><u>Unveiling the Rise of Robotic Power - Why Humanity Remains Unperturbed</u></a></li>
 </ul></div>
 

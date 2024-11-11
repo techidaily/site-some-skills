@@ -1,7 +1,7 @@
 ---
 title: "The Appeal of E-Ink Technology in Phones: Exploring My Motivations for Going Digital Paperback"
-date: 2024-11-01T17:58:05.384Z
-updated: 2024-11-02T16:02:55.077Z
+date: 2024-11-05T04:50:00.476Z
+updated: 2024-11-10T16:27:15.034Z
 tags:
   - mobile
 categories:
@@ -20,10 +20,10 @@ thumbnail: https://thmb.techidaily.com/c8e68cffef41fc4061ac722c7019bbd23a7bd7418
  E-readers have shown us the appeal of e-ink screens. The Light Phone 2 crammed this eye-friendly display technology into a phone. I want to see this technology come to smartphones. Let me tell you why.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  ​Easier on the Eyes
@@ -37,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/c8e68cffef41fc4061ac722c7019bbd23a7bd7418
  Like with using pen and paper, e-ink leaves me more dependent on external light sources. That means I'm more likely to use my phone in a setting with better lighting and put it down when the lighting isn't cooperating.
 
  I know, not using your device in the dark sounds downright primitive at this point. That's why e-ink devices come with front-lighting. This makes the screen glow, but the light comes from the sides of the screen rather than behind. It shines down onto the text you're reading, rather than out toward your face.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  E-Ink Helps Form Healthier Habits
 
@@ -64,10 +57,16 @@ thumbnail: https://thmb.techidaily.com/c8e68cffef41fc4061ac722c7019bbd23a7bd7418
 ![reading on the onyx boox palma](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/reading-on-the-onyx-boox-palma_53279899430_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Sergio Rodriguez / How-To Geek
@@ -77,6 +76,13 @@ Sergio Rodriguez / How-To Geek
  If the idea of your phone doubling as your eReader sounds weird to you, check out the [Boox Palma](https://www.amazon.com/BOOX-Palma-Mobile-ePaper-G-Sensor/dp/B0CQ7VRNFS/ref=sr%5F1%5F2?crid=SHQCHVMLNZYB&dib=eyJ2IjoiMSJ9.YF2b%5FG2RvYYcc1IQc9O3t8s655WBMuTWdtbcWjtLHj8COGKHlChhbDKI%5FCy2G6HaZntkO%5Fwa%5FoCVjk-9tv-rg46BIE4tBFN7efDfHxtN2q%5F-MyJyUHddoz1BB8Lo8QWlwhkiemGTFUmJw%5FyZcgokFKMGuL7ymXiiQJ15oFtVW40gTbvgB-OCE74qug1xeE5G%5FAnZ4yck3BmqVqUZQmJ7kaMzojuEkua8sAG0%5F8b8CJs.UKRXMas6epk17IKDfL72mY43Awswnlyt2QqN3spDgfc&dib%5Ftag=se&keywords=boox%2Bpalma&qid=1718980502&sprefix=boox%2Bpalma%2Caps%2C381&sr=8-2&th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2003688&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fwhy-i-want-an-e-ink-phone%2F&asc%5Fcampaign=Evergreen). Boox advertises it as a small, pocketable eReader. Really, it's an e-ink Android phone without the cellular modem. Many reviews, including [our own review of the Boox Palma](https://phone-solutions.techidaily.com/can-t-play-mov-files-on-motorola-by-aiseesoft-video-converter-play-mov-on-android/), point out how much of a delight the eReader is to use.
 
  I love the idea of a portable eReader that can be used to place calls, send texts, and draft email. It's good for the stuff I find most important about using a phone and discourages many of the things I consider distractions.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  A Less-Distracting Interface
 
@@ -89,13 +95,6 @@ Sergio Rodriguez / How-To Geek
  What do alternative Android launchers do when they attempt to dumb down your phone? Often, they switch to a monochrome color palette and, if they don't do away with them entirely, replace icons with simple outlines and shapes. This is the same thing companies do when designing interfaces for e-ink devices.
 
  E-ink screens do better with simple layouts than they do with gradients and animations. This makes the devices less eye-catching. It's hard to get excited about a presentation showing off the new home screen on a [Nook GlowLight](https://instagram-video-recordings.techidaily.com/turning-horizons-into-heights-uploading-videos-to-igtv/), yet enough of us have come to the conclusion that that's a good thing. Give us something straightforward that helps us do the task at hand and then encourage us to put the phone back down when we're done.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  ​It's Like Writing on Paper
 
@@ -110,6 +109,13 @@ Jerome Thomas / How-To Geek
  A foldable e-ink phone would take this to the next level, but I wouldn't complain about seeing an e-ink version of a slab like the Galaxy S Ultra. That would be a delight to write on, too.
 
  You wouldn't be limited to writing, either. Color e-ink is an established technology at this point, one making advancements each year. If working on an iPad feels like using markers, drawing with e-ink feels like bringing out the color pencils. I'm not saving one is better than the other. Both have their place, and it's great to have the option. We do have this choice when it comes to tablets (shout out to the [Boox Tab Ultra C](https://extra-tips.techidaily.com/chucklecraft-suite-for-2024/) and similar slates), but it would be great to see this come to phones.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Get More Life Out of Our Batteries
 
@@ -134,14 +140,19 @@ Jerome Thomas / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-unveiling-how-to-activate-windows-11-written-for-high-dynamic-range-auto-hdr/"><u>[New] 2024 Approved Unveiling How to Activate Windows 11' Written for High Dynamic Range (Auto HDR)</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-top-text-tilt-treasures/"><u>[New] In 2024, Top Text Tilt Treasures</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-edit-suite-apps-and-devices-tools-listed/"><u>[Updated] Top Edit Suite (Apps & Devices) Tools Listed</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/accelerate-apple-esr-releases-cutting-edge-qi2-magsafe-battery-tech-for-swift-iphone-16-charging-without-overheating-insights/"><u>Accelerate Apple: ESR Releases Cutting-Edge Qi2 MagSafe Battery Tech for Swift iPhone 16 Charging Without Overheating – Insights</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-photography-in-action-applying-motion-blur-in-adobe/"><u>In 2024, Photography in Action Applying Motion Blur in Adobe</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-realme-11-pro-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Realme 11 Pro to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-intersection-of-reality-and-illusion-through-ar-for-2024/"><u>The Intersection of Reality and Illusion Through AR for 2024</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/toothpaste-wont-fix-your-skip-along-dvd-learn-effective-alternatives-for-optimal-playback/"><u>Toothpaste Won't Fix Your Skip-Along DVD: Learn Effective Alternatives for Optimal Playback</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-10-motivating-films-to-energize-your-lifes-journey-for-2024/"><u>Top 10 Motivating Films to Energize Your Life's Journey for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-day-jobs-and-digital-passion-striking-a-balance/"><u>[New] Day Jobs & Digital Passion Striking a Balance</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-three-secure-approaches-for-youtube-to-mp3-file-conversion/"><u>[New] In 2024, Three Secure Approaches for YouTube-to-MP3 File Conversion</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-top-video-editor-comparing-inshots-features/"><u>[New] In 2024, Top Video Editor Comparing InShot's Features</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-timeless-thread-triumphs-reddits-all-time-fave-list-top-10/"><u>[New] Timeless Thread Triumphs Reddit’s All-Time Fave List (Top 10)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-gaming-monitors-for-xbox-series-x-a-buyers-guide/"><u>[New] Top Gaming Monitors for Xbox Series X - A Buyer's Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-enhance-your-audio-experience-with-windows-11-recording-tips/"><u>[Updated] 2024 Approved Enhance Your Audio Experience with Windows 11 Recording Tips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-understanding-sudden-pause-in-photobooth-videos/"><u>[Updated] Understanding Sudden Pause in Photobooth Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-complete-kinemaster-blueprint-for-flawless-green-screen-techniques/"><u>2024 Approved The Complete Kinemaster Blueprint for Flawless Green Screen Techniques</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/easy-guide-transforming-your-youtube-videos-into-high-quality-mp3-files/"><u>Easy Guide: Transforming Your YouTube Videos Into High-Quality MP3 Files</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-navigating-through-youtubes-revenue-flow-after-monetization/"><u>In 2024, Navigating Through YouTube's Revenue Flow After Monetization</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/e-market-with-them-best-video-for-stocks-for-2024/"><u>In the Market with Them Best Video for Stocks for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/quick-insights-for-accelerating-editing-tasks-efficiently/"><u>Quick Insights for Accelerating Editing Tasks Efficiently</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-game-lag-and-connectivity-errors-on-new-world/"><u>Troubleshooting Game Lag & Connectivity Errors on New World</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unique-locations-enhancing-youtube-traction-for-2024/"><u>Unique Locations Enhancing YouTube Traction for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Uncover the Best-Kept Tricks of Windows 11 to Enhance Your Experience
-date: 2024-10-31T16:30:45.513Z
-updated: 2024-11-02T18:13:25.064Z
+date: 2024-11-04T19:55:31.855Z
+updated: 2024-11-10T22:18:04.494Z
 tags:
   - deals
 categories:
@@ -34,13 +34,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![An instance of different Windows privacy and security settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-privacy-settings.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  By default, everything is turned on. Use the toggle buttons to turn off the data you share with Windows.
 
 ![General privacy settings on Windows displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/general-privacy-settings-on-windows.png) 
@@ -52,6 +45,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  This setting tracks the websites you browse and the apps you use on your system. Use the toggle button to turn it off. Then click the "Clear History" button to delete previously collected activity history.
 
 ![The option to turn off activity history on Windows being displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/turn-off-activity-history-on-windows-1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  One last setting you should consider is the one that sends diagnostic data to Microsoft. Again, go back to "Privacy & Settings." This time, go to "Diagnostics & Feedback" under Windows Permissions.
 
@@ -103,6 +103,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Once you start a session, you'll see a new window with a clock, timer, task list, and other options. You can also integrate Spotify with Focus Sessions.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  End Tasks From the Task Bar
 
  Anytime an app freezes on Windows, the most common way to end that running task is to use the Task Manager. But Windows 11 lets you end it from the task bar. You need to enable the option first. Go to Settings > System > For Developers.
@@ -117,35 +124,27 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Ending a task from the taskbar on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ending-task-from-the-taskbar-on-windows.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Minimize Windows by Shaking
 
  This is a fun little feature when you have a lot of windows open together, and you need to minimize all of them quickly. You can drag a single window's title bar and shake it to minimize all other windows. To turn this feature on, go to Settings > System > Multitasking.
 
 ![Different Windows System settings being displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-multitasking-settings.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Turn on the "Title Bar Windows Shake" option.
 
 ![Title bar windows shake option in the Windows settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/title-bar-windows-shake.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Be cautious though, because sometimes this can become a problem when you're just trying to move a window, but it's registered as a shake.
@@ -157,10 +156,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Scrolling to change volume on Windows-anim](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/scroll-to-change-volume-on-windows-anim.gif) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Instant Photo Transfer From Android
@@ -171,11 +170,25 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The option to turn on the Get new photo notifications setting being displyaed on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/7-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After that, take a photo or screenshot on your Android device while connected to the PC. You should see a notification on your Windows PC.
 
 ![A notification being displayed on Windows 11 after taking a photo on Android](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/android-photo-notification-on-windows-11-1.png) 
 
  You can tap the notification to open the photo on the Snipping Tool and start editing. This also works if you're on mobile data on your Android. Check out the full tutorial on [instantly transferring your Android photos to your Windows PC](https://video-capture.techidaily.com/new-in-2024-unveiling-the-secrets-of-live-broadcasting-on-instagram-through-obs/).
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Start Button Shortcuts
 
@@ -184,19 +197,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Windows Start button hidden shortcuts being displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-start-button-hidden-shortcuts.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  One advantage of pressing Windows+X instead of right-clicking the Start button is that you'll notice all the options in the menu have an underlined letter. Pressing that underlined letter on your keyboard will open that option. For example, if you press Windows+X and then T, it will open the [Task Manager](https://some-skills.techidaily.com/new-unveiling-the-secret-sauce-for-massive-tiktok-content-grabs/). No need to touch the mouse.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  OCR in the Snipping Tool
@@ -206,13 +219,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  After that, press the Text Actions button from the top menu. You can then click the "Copy All Text" button to copy all the text in the picture. You can also manually select text using your mouse and copy only specific portions. If there is any sensitive information in the picture such as phone numbers or emails, you can redact it too.
 
 ![The OCR feature in Windows Snipping Tool being used to extract text from a screenshot](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ocr-feature-in-windows-snipping-tool.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Built-in Image Editing in the Photos App
 
@@ -241,15 +247,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-seamless-integration-of-slideshows-into-facebook-layouts/"><u>[New] In 2024, Seamless Integration of Slideshows Into Facebook Layouts</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-eyewear-challenge-google-vs-samsung-virtual-reality/"><u>[New] The Eyewear Challenge Google Vs. Samsung Virtual Reality</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-how-to-produce-a-trending-solo-podcast-series/"><u>[Updated] How To Produce A Trending Solo Podcast Series</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-srt-resource-for-complete-understanding/"><u>[Updated] The Ultimate SRT Resource for Complete Understanding</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-poco-x5-pro-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Poco X5 Pro to Outlook | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-code-synthesis-installing-and-utilizing-codegpt-within-visual-studio-code/"><u>Mastering Code Synthesis: Installing and Utilizing CodeGPT Within Visual Studio Code</u></a></li>
-<li><a href="https://some-skills.techidaily.com/rapid-reactivities-leading-fast-paced-titles-on-pc-and-tablet-for-2024/"><u>Rapid Reactivities Leading Fast-Paced Titles on PC & Tablet for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/realtek-hd-graphics-driver-woes-heres-how-you-can-solve-them/"><u>Realtek HD Graphics Driver Woes? Here's How You Can Solve Them!</u></a></li>
-<li><a href="https://some-skills.techidaily.com/streamstart-beginner-friendly-podcast-live-broadcast-guide-for-2024/"><u>StreamStart Beginner-Friendly Podcast Live Broadcast Guide for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-a-faulty-astro-a40-microphone-simple-fixes-to-try-first/"><u>Troubleshooting Guide for a Faulty Astro A40 Microphone - Simple Fixes to Try First</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-browsing-made-memorable-the-leading-screen-recorder-software/"><u>[New] Browsing Made Memorable The Leading Screen Recorder Software</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-overwatch-gameplay-captured-step-by-step-guide/"><u>[New] In 2024, Overwatch Gameplay Captured - Step by Step Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-instant-ideas-recording-ppts-with-ease-for-2024/"><u>[New] Instant Ideas Recording PPTs with Ease for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-a-look-into-the-future-of-camera-multicam-systems/"><u>[Updated] 2024 Approved A Look Into the Future of Camera Multicam Systems</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-story-savers-unleashed-instagrams-free-limit-breaker/"><u>[Updated] 2024 Approved Story Savers Unleashed Instagram's Free Limit Breaker</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-blueprint-to-dominate-social-platforms/"><u>[Updated] The Blueprint to Dominate Social Platforms</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-free-premiere-pro-template-hacks/"><u>[Updated] The Ultimate Guide to Free Premiere Pro Template Hacks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tips-for-dimming-windows-and-mac-music-volume/"><u>[Updated] Tips for Dimming Windows & Mac Music Volume</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-strategizing-the-open-door-to-market-success/"><u>2024 Approved Strategizing the Open Door to Market Success</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/best-practices-for-efficient-slide-capture/"><u>Best Practices for Efficient Slide Capture</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comparing-cat5-and-cat6-network-cables-key-features-and-differences/"><u>Comparing Cat5 and Cat6 Network Cables: Key Features & Differences</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/fps-titans-ranking-gamings-elite-shooters-for-2024/"><u>FPS Titans Ranking Gaming's Elite Shooters for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tiny-screenplay-scheme/"><u>In 2024, Tiny Screenplay Scheme</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-secrets-of-crafting-perfect-audio-for-videos/"><u>In 2024, Unveiling the Secrets of Crafting Perfect Audio for Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-11-must-have-windows-and-macos-tools-from-your-favorite-tech-source-on-zdnet/"><u>Top 11 Must-Have Windows & macOS Tools From Your Favorite Tech Source on ZDNet</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-5-apps-to-stream-your-favorite-podcasts-on-iphone-for-2024/"><u>Top 5 Apps to Stream Your Favorite Podcasts on iPhone for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-picks-for-the-best-android-image-correction-tools-5-choices-for-2024/"><u>Top Picks for the Best Android Image Correction Tools (5 Choices) for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-top-10-live-streaming-hubs-for-2024/"><u>Unveiling the Top 10 Live Streaming Hubs for 2024</u></a></li>
 </ul></div>
 

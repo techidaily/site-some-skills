@@ -1,7 +1,7 @@
 ---
 title: "Tech Update: Anticipating the Latest Features of New Devices by Google & Samsung - A Weekly Overview"
-date: 2024-10-31T17:22:14.890Z
-updated: 2024-11-02T16:58:12.186Z
+date: 2024-11-09T21:47:46.963Z
+updated: 2024-11-10T22:21:28.779Z
 tags:
   - desktop
 categories:
@@ -20,28 +20,15 @@ This was a surprisingly busy week for tech news, with announcements for Google a
  Excel finally has a built-in option to use checkboxes in spreadsheet cells. Checkboxes will be useful in to-do lists, attendance sheets, and more.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### [Apple Loosens Its Grip on iPhone Replacement Parts](https://driver-download.techidaily.com/get-updated-nvidia-driver-pack-for-geforce-rtx-2070-on-windows-os/) 
 
  Third-party components will no longer disable True Tone or battery health.
-
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [Steam Can Now Screen Record Your Games](https://techtrends.techidaily.com/explore-66-premier-twitter-profiles-offering-unbeatable-travel-advice-offers-and-epic-adventures/) 
 
@@ -55,9 +42,23 @@ Valve
 
  Samsung confirmed its next Unpacked event for July 10th, and we’re expecting new folding phones and other hardware.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### [Google Chrome Now Has Better Web Search and Sports Scores](https://snapchat-videos.techidaily.com/updated-change-snapchat-voice-in-minutes-using-twin-methods/) 
 
  Chrome on iPhone, iPad, and Android now has a few more features.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [Your Smartphone Is Coming to Windows 11's Start Menu](https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-vivo-y100i-by-drfone-android/) 
 
@@ -67,37 +68,30 @@ Valve
 
  The official ChatGPT desktop application doesn’t need a Plus subscription anymore, but the app is still limited to macOS.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### [Moto Tag Is an AirTag Clone for Android Users](https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-infinix-smart-8-hd-phone-by-drfone-android/) 
 
  It's the first UWB tracker to support Google Find My Device.
 
 ![The Moto Tag attached to a handbag.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/66.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Motorola
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [Google's Pixel 9 is Coming August 13th](https://facebook-clips.techidaily.com/updated-fb-video-extraction-creating-mp3s-in-minutes/) 
 
  Google's next hardware event is nearing.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### [Paramount+ Is Raising Prices Again](https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-nokia-g22-drfone-by-drfone-virtual-android/) 
@@ -125,17 +119,19 @@ Motorola
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-help.techidaily.com/1722969831335-achieve-pro-level-control-install-the-newest-steelseries-engine-on-windows-10-free-download/"><u>[Achieve Pro-Level Control]: Install the Newest SteelSeries Engine on Windows 10 - Free Download</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-boost-your-imagery-title-placement-techniques-on-video-clips-with-photos/"><u>[Updated] Boost Your Imagery Title Placement Techniques on Video Clips with Photos</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-recipe-realms-stepwise-food-videography/"><u>[Updated] Recipe Realms Stepwise Food Videography</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-adding-motion-blur-effect-in-photoshop/"><u>[Updated] The Ultimate Guide to Adding Motion Blur Effect in Photoshop</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-5-free-video-players-vlc-or-mpc-winner/"><u>[Updated] Top 5 Free Video Players VLC or MPC Winner?</u></a></li>
-<li><a href="https://win-blog.techidaily.com/comprehensive-fixes-to-get-minecraft-running-smoothly-on-your-win11-system/"><u>Comprehensive Fixes to Get Minecraft Running Smoothly on Your Win11 System</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streamlined-techniques-for-discovering-highly-engaged-youtube-remarks/"><u>In 2024, Streamlined Techniques for Discovering Highly Engaged YouTube Remarks</u></a></li>
-<li><a href="https://driver-download.techidaily.com/install-drivers-how-to-download-for-your-brother-mfc-9130cw/"><u>Install Drivers: How to Download for Your Brother MFC-9130CW</u></a></li>
-<li><a href="https://review-topics.techidaily.com/mkv-playback-issues-on-galaxy-s24plus-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV playback issues on Galaxy S24+</u></a></li>
-<li><a href="https://some-skills.techidaily.com/streamlining-windows-photos-experience-with-music-and-aesthetic-filters-for-2024/"><u>Streamlining Windows Photos Experience with Music and Aesthetic Filters for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-list-for-seeking-no-cost-high-quality-vector-imagery-for-2024/"><u>The Ultimate List for Seeking No-Cost High-Quality Vector Imagery for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722172773907-unveiling-ultimate-chatbots-bard-and-chatbot-ranked/"><u>Unveiling Ultimate Chatbots: Bard & ChatBot Ranked</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unmatched-storytelling-education-1-8-spotlight/"><u>[New] Unmatched Storytelling Education #1-#8 Spotlight</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-gopro-feature-list-matchup/"><u>[Updated] The Ultimate Gopro Feature List Matchup</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlock-visual-potential-with-smart-photo-text-tools-online/"><u>[Updated] Unlock Visual Potential with Smart Photo Text Tools Online</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/250-asus-laptop-deal-enjoy-15-inches-of-power-with-essential-hdmi-and-usb-ports-from-walmart/"><u>$250 ASUS Laptop Deal: Enjoy 15 Inches of Power with Essential HDMI and USB Ports From Walmart!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-prime-selection-of-webcams-for-optimal-zoom-video-quality/"><u>2024 Approved Prime Selection of Webcams for Optimal Zoom Video Quality</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhanced-visual-experience-how-outriders-addressed-its-picture-problems/"><u>Enhanced Visual Experience: How Outriders Addressed Its Picture Problems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-obtain-the-newest-microsoft-certified-bluetooth-driver-for-win11-and-win10/"><u>How to Obtain the Newest Microsoft-Certified Bluetooth Driver for Win11 & Win10</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-safeguarding-your-listening-pleasure-with-3-steps/"><u>In 2024, Safeguarding Your Listening Pleasure with 3 Steps</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-power-of-asmr-discovering-its-advantages/"><u>In 2024, The Power of ASMR Discovering Its Advantages</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-10-extensions-for-speeding-up-facebook-videos-effortlessly/"><u>In 2024, Top 10 Extensions for Speeding up Facebook Videos Effortlessly</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-yeedis-cutting-edge-m12-proplus-robovac-now-available-for-american-households/"><u>Introducing Yeedi's Cutting-Edge M12 Pro+ RoboVac: Now Available for American Households</u></a></li>
+<li><a href="https://some-skills.techidaily.com/variants-of-windows-movie-maker-a-comprehensive-list-for-2024/"><u>Variants of Windows Movie Maker A Comprehensive List for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722989095343-yakuza-like-a-dragon-triumphs-in-steam-experience-the-epic-journey/"><u>Yakuza: Like A Dragon Triumphs in Steam - Experience the Epic Journey</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Bridging Operating Systems: A Comprehensive Guide to Using Ubuntu Software on Your Windows 11 Machine"
-date: 2024-10-30T17:25:14.042Z
-updated: 2024-11-02T17:00:38.821Z
+date: 2024-11-06T23:51:41.633Z
+updated: 2024-11-10T16:36:57.636Z
 tags:
   - deals
 categories:
@@ -26,13 +26,6 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 
  Imagine you're a developer working on a cross-platform project. Using Ubuntu apps on Windows means you can quickly and effectively test your new project on Linux and Windows with ease. Take it from me: I write programs in the Go programming language, and being able to test out my code and run it on both Ubuntu and Windows 11 seamlessly is very powerful.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Requirements Before You Begin
 
  Before you can start using Ubuntu on your Windows 11 system, a few requirements must be met to ensure a smooth process. During my testing, WSL wouldn't work until I installed the latest WSL2 Kernel package installed on Windows 11\. If you're having issues with WSL running on Windows 11 like I did, install this kernel package. It will ensure that WSL v2 operating systems run correctly. You can download and install the EXE file [directly from Microsoft](https://learn.microsoft.com/en-us/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package).
@@ -40,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
  In addition to the WSL2 Kernel EXE package, you'll need to enable the "Virtual Machine Platform" feature in the "Windows Features" area of Windows 11\. WSL runs with the help of virtualization, and this feature is a requirement to get the most out of Ubuntu in Windows 11.
 
  Lastly, ensure you have Administrator rights on your Windows 11 system. Using WSL requires modifying Windows features, and it won't work if you don't have Administrator privileges.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Enabling Windows Subsystem for Linux (WSL)
 
@@ -52,10 +52,10 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 ![WSL feature being turned on in Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/flameshot-wsl-check-box.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now that the "OK" button has been selected, Windows 11 will begin setting up WSL on your system. This setup process should take a few minutes to complete. When the setup is complete, you must reboot your Windows PC. Select the "Restart now" button to reboot.
@@ -72,13 +72,6 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 
 ![The user is searching for Ubuntu WSL 22.04.3 LTS in the Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-ubuntu-22.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After selecting "Ubuntu 22.04.3 LTS," you will be directed to its feature page in the Microsoft Store. Locate the "Get" button and click on it. Selecting the "Get" button will initiate the Ubuntu download for Windows 11.
 
  Downloading Ubuntu 22.04.3 LTS on Windows 11 should be swift, given the program's size is only about 560 MB. Once the download is complete, Ubuntu will be accessible in the Windows Start Menu.
@@ -87,7 +80,21 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 
 ![Ubuntu WSL is installing itself to Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-ubuntu-is-installing.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once Ubuntu has finished its setup on Windows 11, you will see an empty terminal window, ready for you to interact with Ubuntu on your Windows 11 system.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Basic Configuration Tips
 
@@ -102,13 +109,6 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
  Upon selecting "Linux," a folder named "Ubuntu-22.04" will appear. Right-click this folder and choose "Pin to Quick access." This action allows you to effortlessly access your Ubuntu files from Windows.
 
 ![Ubuntu WSL's file access in the Windows 11 Explorer app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-selecting-ub.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To access Windows files from Ubuntu, navigate to the **/mnt/c** folder using the cd command. This method provides interaction with the Windows 11 **C:/** drive.
 
@@ -127,6 +127,26 @@ sudo apt update
 sudo apt upgrade
 
 ![Ubuntu WSL is being updated.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-installing-kdenlive.png) 
+
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Starting and Using Ubuntu
 
@@ -148,21 +168,7 @@ nohup program_name & disown
 
 ![Linux apps Kdenlive and Wireshark are running inside of Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-kdenlive-and-wireshark-open.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Alternatively, applications can be started from the Windows 11 start menu.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Integration with Windows 11
 
@@ -197,24 +203,19 @@ wsl --update
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-quest-for-ultimate-clarity-with-the-z32x-monitor/"><u>[New] The Quest for Ultimate Clarity with the Z32X Monitor</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-superior-lineup-elite-webcam-holders/"><u>[Updated] 2024 Approved Superior Lineup Elite Webcam Holders</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-ricoh-theta-s-uncovered-a-complete-audit/"><u>[Updated] Ricoh Theta S Uncovered A Complete Audit</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-best-5-book-video-promotions-ever-made/"><u>[Updated] The Best 5 Book Video Promotions Ever Made</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-filmmakers-toolbox-in-depth-guide-to-cinematic-techniques-in-24/"><u>[Updated] The Filmmaker’s Toolbox In-Depth Guide to Cinematic Techniques in '24</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-adding-a-link-in-your-tiktok-bio/"><u>[Updated] The Ultimate Guide to Adding a Link in Your TikTok Bio</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-best-free-desktop-recorders/"><u>2024 Approved Best Free Desktop Recorders</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-translate-video-speech-to-text-with-speech-to-text-converters/"><u>2024 Approved Translate Video Speech to Text with Speech-to-Text Converters</u></a></li>
-<li><a href="https://fox-links.techidaily.com/elevate-your-visual-storytelling-with-lut-techniques-in-premiere-for-2024/"><u>Elevate Your Visual Storytelling with LUT Techniques in Premiere for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Tecno Spark 20 Pro? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-oppo-reno-10-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Oppo Reno 10 5G with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-itel-p40plus-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Itel P40+ FRP</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-speed-strategy-for-facebook-video-uploads-and-downloads/"><u>In 2024, Ultimate Speed Strategy for Facebook Video Uploads & Downloads</u></a></li>
-<li><a href="https://extra-information.techidaily.com/quick-tips-altering-video-pace-in-instagram-stories/"><u>Quick Tips Altering Video Pace in Instagram Stories</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/six-innovations-in-smartwatches-powered-by-conversational-agents-like-chatgpt/"><u>Six Innovations in Smartwatches Powered by Conversational Agents Like ChatGPT</u></a></li>
-<li><a href="https://some-skills.techidaily.com/superior-streaming-with-integrated-local-channels-future-edition-for-2024/"><u>Superior Streaming with Integrated Local Channels, Future Edition for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/surveying-the-lack-of-diversity-s-vr-realm-for-2024/"><u>Surveying the Lack of Diversity 'S VR Realm for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tricks-and-secrets-for-gaining-more-likes-in-tiktok-unboxings-for-2024/"><u>Tricks & Secrets for Gaining More 'Likes' In TikTok Unboxings for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-editing-techniques-for-final-cut-pro-professionals-for-2024/"><u>Ultimate Editing Techniques for Final Cut Pro Professionals for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-implementing-windows-11s-automatic-hdr-feature/"><u>[New] The Ultimate Guide to Implementing Windows 11'S Automatic HDR Feature</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-efficiently-capture-and-record-your-idevice-screen/"><u>[Updated] In 2024, Efficiently Capture and Record Your iDevice Screen</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-iphone-multimedia-magic/"><u>[Updated] The Ultimate Guide to iPhone Multimedia Magic</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transitioning-timeless-images-a-tech-savvy-approach/"><u>[Updated] Transitioning Timeless Images A Tech-Savvy Approach</u></a></li>
+<li><a href="https://common-error.techidaily.com/bluetooth-pairing-established-on-windows-11-but-still-fails-to-transfer-data-fixes-needed/"><u>Bluetooth Pairing Established on Windows 11 but Still Fails to Transfer Data - Fixes Needed?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/creative-composition-collage-tips-liven-up-your-surroundings/"><u>Creative Composition Collage Tips Liven Up Your Surroundings</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-find-my-friends-work-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tailoring-battery-choices-for-exceptional-drone-performance/"><u>In 2024, Tailoring Battery Choices for Exceptional Drone Performance</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tap-into-asmrs-potential-for-emotional-balance/"><u>In 2024, Tap Into ASMR’s Potential for Emotional Balance</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-hue-harmonizer-tool/"><u>In 2024, Ultimate Hue Harmonizer Tool</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-intersection-of-business-and-immersive-vr-technology-for-2024/"><u>The Intersection of Business and Immersive VR Technology for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-ranking-guide-transform-mov-files-to-flv-format-seamlessly-on-your-mac-using-leading-software-tools/"><u>Top-Ranking Guide: Transform MOV Files to FLV Format Seamlessly on Your Mac Using Leading Software Tools</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-instagram-delays-top-6-solutions-for-smooth-app-performance-on-both-android-and-ios/"><u>Troubleshooting Instagram Delays: Top 6 Solutions for Smooth App Performance on Both Android & iOS</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Understanding the Process of Wireless Electric Vehicle Charging
-date: 2024-11-01T17:53:30.308Z
-updated: 2024-11-02T16:17:57.689Z
+date: 2024-11-10T00:42:55.261Z
+updated: 2024-11-11T03:53:59.252Z
 tags:
   - cutting-edge
 categories:
@@ -20,10 +20,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
  We've all grown pretty used to wireless smartphone charging by now, but what if you could charge an electric car the same way? The technology is currently being developed --- pretty soon, all you might need to do to charge your Tesla is park it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How Wirelessly Electric Vehicle Charging Works
@@ -49,10 +49,10 @@ Related: [How Does Wireless Charging Work?](https://eaxpv-info.techidaily.com/ne
  The cost of building that kind of tech into roadways on a wide scale remains to be seen and could get in the way of wireless charging roads becoming mainstream if prohibitively high. The U.S. doesn't have a great record when it comes to the upkeep of our [current roads and bridges,](https://www.cfr.org/backgrounder/state-us-infrastructure) but with Congress recently approving a large infrastructure bill we could, hopefully, see that trend improve.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The Challenges of Wireless EV Charging
@@ -70,10 +70,10 @@ Related: [Level 1, Level 2, or Level 3? EV Chargers Explained](https://visual-sc
  To address that, manufacturers are building fail safes. In Ferrell's video, WiTricity's CEO explained that if an object like a metal can or a cat that crawled under the car to try and get warm is detected, the charger would shut off and send a notification to your phone. If a person gets too close to the charging pad, it also shuts off. [WiTricity's website](https://witricity.com/products/automotive/) outlines these precautions in a little more detail.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What's Next for Wireless EV Charging
@@ -97,20 +97,17 @@ Related: [Level 1, Level 2, or Level 3? EV Chargers Explained](https://visual-sc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-subscribers-guide-to-effective-dialogue-on-youtube/"><u>[New] The Subscriber's Guide to Effective Dialogue on YouTube</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-a-visual-journey-to-crafting-a-user-friendly-subscribe-link/"><u>[Updated] In 2024, A Visual Journey to Crafting a User-Friendly Subscribe Link</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-key-destinations-enhancing-youtube-video-impact/"><u>2024 Approved Key Destinations Enhancing YouTube Video Impact</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-meme-mastery-top-ten-template-treasures/"><u>2024 Approved Meme Mastery Top Ten Template Treasures</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-innovative-mobile-layering-apps-for-android-and-iphone/"><u>2024 Approved Top 10 Innovative Mobile Layering Apps for Android & iPhone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-5-free-online-gif-to-video-tools-no-downloads-needed/"><u>2024 Approved Top 5 Free Online GIF-to-Video Tools (No Downloads Needed)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-turning-tiktok-hits-into-mobile-ringtones-with-ease/"><u>2024 Approved Turning TikTok Hits Into Mobile Ringtones with Ease</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gratuit-mp4-vers-wav-en-ligne-convertisseurs-video-rapides-avec-movevi/"><u>Gratuit MP4 Vers WAV en Ligne - Convertisseurs Vidéo Rapides Avec MoveVi</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/1728505600346-hdd/"><u>HDDのデータ回復法【信頼性抜群】 - セキュリティが追い付くまで</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-how-to-upgrade-or-install-the-macos-sierra/"><u>In 2024, How to Upgrade or Install the macOs Sierra</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-complete-guide-to-audiovideo-settings-in-win11s-zoom-app/"><u>In 2024, The Complete Guide to Audio/Video Settings in Win11's Zoom App</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-zooms-finest-audio-to-text-solutions-complimentary-and-subscriptions/"><u>In 2024, Zoom's Finest Audio-to-Text Solutions Complimentary & Subscriptions</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-art-of-picking-aspect-ratios-for-media/"><u>The Art of Picking Aspect Ratios for Media</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-seamless-blend-of-images-into-majestic-collage-art-for-2024/"><u>The Seamless Blend of Images Into Majestic Collage Art for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-common-sound-problems-in-resident-evil-village/"><u>Troubleshooting Common Sound Problems in Resident Evil Village</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-designing-short-trailers-that-tell-a-story/"><u>[New] 2024 Approved Designing Short Trailers That Tell a Story</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-no-downloads-needed-discover-our-list-of-5-best-online-gif-to-video-services/"><u>[New] No Downloads Needed? Discover Our List of 5 Best Online GIF-to-Video Services</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-strategizing-visibility-for-podcasts-through-design/"><u>[New] Strategizing Visibility for Podcasts Through Design</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-subtitle-tips-for-instagram-tv-storytelling-for-2024/"><u>[New] Subtitle Tips for Instagram TV Storytelling for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-how-to-remove-black-bars-from-existing-youtube-videos/"><u>[Updated] How to Remove Black Bars From Existing YouTube Videos?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-premier-android-storage-in-the-clouds-list/"><u>[Updated] Premier Android Storage in the Clouds List</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-snapedit-fundamentals-for-amateur-photographers/"><u>[Updated] Snapedit Fundamentals for Amateur Photographers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-nikon-d500-4k-performance/"><u>[Updated] The Ultimate Guide to Nikon D500 4K Performance</u></a></li>
+<li><a href="https://some-skills.techidaily.com/investment-worthy-asmr-sound-for-every-fan-for-2024/"><u>Investment-Worthy ASMR Sound for Every Fan for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-nokia-g42-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Nokia G42 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/top-e-shops-for-unique-tailored-boxed-gifts-and-packages-for-2024/"><u>Top E-Shops for Unique, Tailored Boxed Gifts & Packages for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/win1011-webcam-troubleshooting-avoid-code-0xa00f4289/"><u>Win10/11 Webcam Troubleshooting - Avoid Code 0xA00F4289</u></a></li>
 </ul></div>
 

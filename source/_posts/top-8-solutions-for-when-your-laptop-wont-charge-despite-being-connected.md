@@ -1,7 +1,7 @@
 ---
 title: Top 8 Solutions for When Your Laptop Won't Charge Despite Being Connected
-date: 2024-10-28T18:07:39.639Z
-updated: 2024-11-02T17:16:28.823Z
+date: 2024-11-07T04:50:57.344Z
+updated: 2024-11-10T18:31:42.009Z
 tags:
   - deals
 categories:
@@ -22,6 +22,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [Reinstall the Battery Drivers](https://twitter-videos.techidaily.com/in-2024-guide-downloading-twitters-videos-on-android-devices/)
 * [Test for a Defective Battery](https://facebook-video-content.techidaily.com/new-fb-profile-picture-dimensions/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * If your laptop isn't charging even when it's plugged in, make sure the power cord is firmly connected to the adapter brick. If that doesn't work, try plugging the charger's adapter plug into a different outlet and carefully examining the charging port and pin.
@@ -40,34 +47,13 @@ Aman Kumar / How-To Geek
 
  If you find that the power cord is loosely connected to the adapter brick, apply gentle pressure to firmly insert it into the adapter. Alternatively, you can unplug the power cord completely and then plug it back in again.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  2\. Connect the Laptop Adapter to a Different Socket
 
 ![Multiple power adaptors and cables plugged into a power strip](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/52731312553_e2b752b4ab_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Jason Fitzpatrick / How-To Geek
 
  Your laptop may not charge if the socket in which the adapter plug is currently connected is not functioning. To verify this, insert the adapter plug into a different socket and check if your laptop starts charging. If it does, this confirms that the original socket or its corresponding switch is not working. You can contact an electrician, in this case, to have this socket repaired.
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  3\. Use the Original Charger
 
@@ -83,13 +69,6 @@ Jason Fitzpatrick / How-To Geek
 
 ![Charging port on a laptop with visible dust surrounding it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/charging-port.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Aman Kumar / How-To Geek
 
  You can use a toothpick to clean the grime. However, be very gentle while cleaning, as the charging ports are very sensitive, and you might damage them if you try to remove the grime too harshly. You can also use canned air if necessary.
@@ -99,15 +78,22 @@ Aman Kumar / How-To Geek
 ![The charging pin on a laptop adapter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/charging-pin.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Aman Kumar / How-To Geek
 
  If the charging pin is broken, you can easily cut the pin and connect a new one. However, if you don't feel confident in cutting and changing the pin yourself, you should contact an expert to do it.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  5\. Allow Your Laptop to Cool Down
 
@@ -117,18 +103,18 @@ Aman Kumar / How-To Geek
 
  In this situation, there's not much you can do. Simply shut down your laptop and allow it to cool down. Once you feel the temperature has decreased, reconnect the charger, and your laptop should start charging again.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  6\. Download Any Available BIOS Update
 
  The [BIOS (Basic Input/Output System)](https://buynow-info.techidaily.com/experience-the-rotibox-beanie-hat-your-ideal-bluetooth-headset-with-outstanding-comfort-and-clear-sound-quality/) is a low-level system software that controls various hardware functions, including power management and battery charging. If your laptop is running an extremely outdated BIOS version, it might encounter difficulties correctly recognizing the AC adapter, potentially leading to the charging issue at hand. The solution, in this case, is to update the system BIOS.
 
  Unfortunately, there is no one-size-fits-all set of instructions to update BIOS as different manufacturers have different methods. However, the general rule of thumb is to visit your motherboard manufacturer's website, access your [motherboard model's](https://extra-tips.techidaily.com/flash-flick-narrative-template/) downloads or support page, and then download the available BIOS update. You can check our guide on [how to update your BIOS](https://extra-skills.techidaily.com/in-2024-quick-windows-surfing-guide-unveiled/) for more information about the updating process.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  7\. Reinstall the Battery Drivers
 
@@ -138,9 +124,23 @@ Aman Kumar / How-To Geek
 
 ![Batteries node in the Device Manager app on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/batteries-node.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Right-click on the "Microsoft AC Adapter" driver and select the "Uninstall device" option. Similarly, uninstall the "Microsoft ACPI-Compliant Control Method Battery" driver.
 
 ![The Uninstall Device option in Device Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/uninstall-device.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once the drivers have been uninstalled, [restart your computer](https://screen-video-capture.techidaily.com/updated-in-2024-addressing-mute-problems-in-obs-live-recording/). Upon restart, Windows will automatically reinstall both battery drivers. However, if it fails to reinstall them for any reason, press Windows+i to open the "Settings" app, click on "Windows Update," and then select "Check for Updates." Windows will now install the missing driver, which in this case is the battery driver, on your computer.
 
@@ -187,15 +187,24 @@ Aman Kumar / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-instant-video-playback-on-fb-enabling-auto-play-of-youtube-videos/"><u>[New] 2024 Approved Instant Video Playback on FB Enabling Auto-Play of Youtube Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unleash-creativity-winning-animation-projects-using-movie-maker/"><u>[New] Unleash Creativity Winning Animation Projects Using Movie Maker</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-blueprint-for-selecting-exceptional-hdr-cameras/"><u>[Updated] The Blueprint for Selecting Exceptional HDR Cameras</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2023s-most-reliable-voice-capturers-reviewed-for-2024/"><u>2023'S Most Reliable Voice Capturers Reviewed for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/cut-to-the-chase-leading-video-editors-for-android-and-windows-for-2024/"><u>Cut to the Chase Leading Video Editors for Android and Windows for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Honor X8b | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-boost-your-iphones-visual-impact-with-diy-photo-collage-methods/"><u>In 2024, Boost Your iPhone's Visual Impact with DIY Photo Collage Methods</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/seamless-access-track-down-your-latest-facebook-watches-for-2024/"><u>Seamless Access Track Down Your Latest Facebook Watches for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-authoritative-periscope-users-bible-for-2024/"><u>The Authoritative Periscope User's Bible for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/traverse-times-tapestry-with-public-domain-art-for-2024/"><u>Traverse Time's Tapestry with Public Domain Art for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-untouched-live-visual-recorders/"><u>[New] 2024 Approved Untouched Live Visual Recorders</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tailored-ending-scenes-get-em-for-free/"><u>[New] Tailored Ending Scenes - Get 'Em for Free</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-samsung-camera-toolkit-review-2023-edition/"><u>[Updated] Samsung Camera Toolkit Review – 2023 Edition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-iphone-photo-hacks-to-enhance-your-landscapes/"><u>[Updated] Top iPhone Photo Hacks to Enhance Your Landscapes</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-how-to-create-impactful-online-ads-on-a-limited-budget/"><u>2024 Approved How to Create Impactful Online Ads on a Limited Budget</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-insiders-guide-to-excellence-in-zoom-webinars/"><u>2024 Approved The Insider’s Guide to Excellence in Zoom Webinars</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Apple iPhone 13? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-your-room-for-oculus-vr/"><u>In 2024, Streamlining Your Room for Oculus VR</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transform-and-edit-videos-like-a-pro-with-these-iphonepc-tools/"><u>In 2024, Transform and Edit Videos Like a Pro With These iPhone/PC Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-movie-grading-skills-using-cg-centrals-luts/"><u>In 2024, Transform Your Movie Grading Skills Using CG Central's Luts</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/o-segredo-do-perfeito-corte-de-imagens-usando-o-moveavi-dicas-e-trus-para-iniciantes/"><u>O Segredo Do Perfeito Corte De Imagens Usando O Moveavi - Dicas E Trús Para Iniciantes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/phantom-pitches-is-this-magical-talker-an-illusion-or-reality-explore-more-options/"><u>Phantom Pitches Is This Magical Talker an Illusion or Reality? Explore More Options</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/smart-lawn-sprinkler-systems-in-202e-a-comparative-review-of-rachio-rainmachine-and-wyze-for-efficient-watering-solutions-zdnet-insights/"><u>Smart Lawn Sprinkler Systems in 202E: A Comparative Review of Rachio, Rainmachine, and Wyze for Efficient Watering Solutions | ZDNET Insights</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-textual-innovation-in-after-effects-for-2024/"><u>The Art of Textual Innovation in After Effects for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-5-game-consoles-emulated-on-macos/"><u>Top 5 Game Consoles Emulated on macOS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/transferring-your-memories-from-google-photos-to-apples-icloud-platform/"><u>Transferring Your Memories: From Google Photos to Apple's iCloud Platform</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/trasforma-i-tuoi-video-wmv-in-asf-senza-costi-tramite-strumenti-online-movike-pro/"><u>Trasforma I Tuoi Video WMV in ASF Senza Costi Tramite Strumenti Online - Movike Pro</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-steps-for-a-malfunctioning-lenovo-keyboard-light/"><u>Troubleshooting Steps for a Malfunctioning Lenovo Keyboard Light</u></a></li>
+<li><a href="https://some-skills.techidaily.com/vectors-explained-an-entry-level-guide-to-forms-and-applications-for-2024/"><u>Vectors Explained An Entry-Level Guide to Forms and Applications for 2024</u></a></li>
 </ul></div>
 

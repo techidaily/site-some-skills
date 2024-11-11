@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Easily Setting Up & Controlling Fonts on macOS"
-date: 2024-10-31T16:57:58.203Z
-updated: 2024-11-02T18:34:34.885Z
+date: 2024-11-09T16:50:47.166Z
+updated: 2024-11-11T00:17:38.000Z
 tags:
   - desktop
 categories:
@@ -23,6 +23,13 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 
  We'll guide you through Font Book on Mac, your go-to tool for managing and organizing your font collection. You’ll learn how to install, tweak, and deactivate fonts.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What Fonts Does macOS Support?
 
  macOS Sonoma can handle many font types, like OpenType, Mac TrueType, Windows TrueType, bitmap, and dfont. As of macOS Catalina, Mac doesn't support PostScript fonts.
@@ -32,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
  The Font Book app is your go-to tool for checking out the fonts you have, adding new ones, organizing them into collections, and turning them on or off. Open it through your Applications folder, or select the Launchpad icon in your Dock and find the Font Book icon there.
 
 ![Selecting Font Book from Launchpad.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-6.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Font Book can show your fonts in different views:
 
@@ -50,29 +50,9 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 
 ![Samples view in Font Book.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-20-at-6-05-00-pm.png) 
 
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3\. List View:** For a details-first approach, go to View > View As List or press ⌘+3\. This sorts your fonts into a list, with font families in expandable sections, similar to folders in Finder. Click to expand or collapse them.
 
 ![List view in Font Book.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-20-at-6-06-13-pm.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Another way to switch between the Grid, Samples, and List views is by clicking the relevant icons on the toolbar.
 
@@ -97,10 +77,10 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 ![Selecting All Users from Font Book's Installation menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-12-at-2-55-14-pm.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Deactivate or Remove a Font
@@ -113,6 +93,13 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 
  If any font starts misbehaving, like displaying incorrect characters, you can [validate your fonts in Font Book](https://on-screen-recording.techidaily.com/in-2024-speaking-like-a-pro-tips-to-upgrade-your-google-meet-skills/). Just select "Validate" from the context menu.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Organize Your Fonts Into Collections
 
  A font collection is a way of grouping fonts, like if they share a common theme, style, or purpose. It allows you to easily access and manage these fonts.
@@ -121,15 +108,28 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 
 ![Creating a new font collection.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-24-at-1-07-32-am.png) 
 
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Select the fonts you want to include in your collection (you can choose them from an existing collection, if needed.) To do that, click and drag to highlight multiple fonts, or use the Command key to select non-contiguous fonts. Then, drag the fonts to the collection, or right-click and use the "Add to" menu.
 
 ![Selecting fonts to be included in a new font collection.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-24-at-1-11-20-am.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Finally, double-click the collection name to retitle it and make it easy for you to identify later.
@@ -157,17 +157,22 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-hook-up-guide-scripts-to-seduce-listeners/"><u>[New] The Hook-Up Guide Scripts to Seduce Listeners</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlock-your-dji-potential-two-devices-get-20-gratis-luts/"><u>[New] Unlock Your DJI Potential – Two Devices Get 20 Gratis LUTs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unveiling-professional-hdr-magic-in-adobes-photoshop/"><u>[New] Unveiling Professional HDR Magic in Adobe's Photoshop</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-battlefield-legends-the-ultimate-list-of-top-7-total-war-victories/"><u>[Updated] 2024 Approved Battlefield Legends The Ultimate List of Top 7 Total War Victories</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-through-the-lens-through-the-mind-advanced-photo-editing-mastery/"><u>2024 Approved Through the Lens, Through the Mind Advanced Photo Editing Mastery</u></a></li>
-<li><a href="https://techtrends.techidaily.com/a-comprehensive-walkthrough-for-activating-siris-text-to-speech-feature-on-ios-and-macos-platforms/"><u>A Comprehensive Walkthrough for Activating Siri's Text-to-Speech Feature on iOS & macOS Platforms</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/breathing-life-into-dormant-data-with-totans-stellar-know-how/"><u>Breathing Life Into Dormant Data with Totan’s Stellar Know-How</u></a></li>
-<li><a href="https://blog-min.techidaily.com/converte-mp4-em-webm-gratuitamente-online-com-a-ferramenta-de-conversao-do-movavi/"><u>Converte MP4 Em WebM Gratuitamente Online Com a Ferramenta De Conversão Do Movavi</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-stop-automated-youtube-content-rollouts/"><u>In 2024, Stop Automated YouTube Content Rollouts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-magic-of-ar-mastering-lut-applications/"><u>In 2024, Unveiling the Magic of AR Mastering LUT Applications</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/lego-star-wars-pc-game-troubleshooting-for-skywalker-saga-update/"><u>Lego Star Wars PC Game Troubleshooting for Skywalker Saga Update</u></a></li>
-<li><a href="https://games-able.techidaily.com/unseen-enemies-cyber-threats-in-digital-playgrounds/"><u>Unseen Enemies: Cyber Threats in Digital Playgrounds</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-comprehensive-guide-to-digital-subtitle-enhancing-platforms/"><u>[New] The Comprehensive Guide to Digital Subtitle Enhancing Platforms</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-comic-creators-charter-zero-cost-endless-laughs/"><u>[Updated] Comic Creators' Charter Zero Cost, Endless Laughs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-10plus-free-apps-to-convert-youtube-videos-on-demand/"><u>[Updated] In 2024, 10+ Free Apps to Convert YouTube Videos on Demand</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-quick-quality-grabs-for-your-vids/"><u>[Updated] In 2024, Quick, Quality Grabs for Your Vids</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-leading-tools-to-transform-your-vocal-recordings/"><u>[Updated] Leading Tools to Transform Your Vocal Recordings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-syncing-images-android-iphone-file-transfer-guide/"><u>[Updated] Syncing Images Android-iPhone File Transfer Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-convert-kings-playbook-youtube-to-mp4mpeg-edition/"><u>[Updated] The Convert King's Playbook YouTube to MP4/MPEG Edition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-guide-to-top-8-gold-text-in-3d-realms/"><u>[Updated] Ultimate Guide to Top 8 Gold Text in 3D Realms</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tailored-video-epilogue-templates-available-free/"><u>In 2024, Tailored Video Epilogue Templates Available Free</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tech-triad-analysis-understanding-the-intersection-of-vr-ar-and-mr/"><u>In 2024, Tech Triad Analysis Understanding the Intersection of VR, AR & MR</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-logitech-momo-trackmania-wheel-on-pc-first-time-driver-setup-guide-and-download-link/"><u>Install Logitech MOMO TrackMania Wheel on PC – First-Time Driver Setup Guide and Download Link</u></a></li>
+<li><a href="https://some-skills.techidaily.com/modern-photo-editing-wonders-frame-integration-essentials-2023-for-2024/"><u>Modern Photo Editing Wonders Frame Integration Essentials, 2023 for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quick-and-simple-conversion-turning-wav-files-into-mp3-format-using-audials/"><u>Quick and Simple Conversion: Turning WAV Files Into MP3 Format Using Audials</u></a></li>
+<li><a href="https://games-able.techidaily.com/reverse-disk-rotation-using-chdman-to-enhance-gaming-archives/"><u>Reverse Disk Rotation: Using CHDMAN to Enhance Gaming Archives</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/solutions-rapides-aux-difficultes-les-plus-frequentes-du-surface-pro-7-avec-windows-11/"><u>Solutions Rapides Aux Difficultés Les Plus Fréquentes Du Surface Pro 7 Avec Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-symphony-of-selection-trailer-music-mastery-for-2024/"><u>The Symphony of Selection Trailer Music Mastery for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-verdict-on-raspberry-pi-games-batocera-or-retropie/"><u>The Ultimate Verdict on Raspberry Pi Games: Batocera or RetroPie?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Be Prepared Without Delay: Step-by-Step Tutorial on Crafting a Bootable Windows #11 USB Thrive in Advance"
-date: 2024-10-28T16:12:44.089Z
-updated: 2024-11-02T17:43:00.475Z
+date: 2024-11-07T21:56:24.071Z
+updated: 2024-11-10T17:00:57.639Z
 tags:
   - deals
 categories:
@@ -25,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 * Alternatively, you can use Rufus. And, if you're comfortable with command line tools, you can also create the bootable USB drive using Command Prompt.
 
  You can install Windows 11 on your computer either using a DVD or from a USB drive. While both methods work well, the DVD method is somewhat lengthy and more prone to errors. On the other hand, you can easily create a bootable Windows 11 USB drive and use it to install the OS on your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Why Is It Important to Have a Bootable USB Drive Ready?
 
@@ -60,22 +67,29 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 
 ![Selecting the USB Flash Drive.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/selecting-the-usb-flash-drive.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The Media Creation Tool will then download and set up a Windows 11 installer on your USB Drive. The process is going to take some time, depending on your internet speed.
 
 ![Windows 11 download screen in the Setup window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/windows-11-download-screen-in-the-setup-window.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once your USB flash drive is ready, click the "Finish" option to close the window.
 
 ![Finish option in the Windows 11 Setup window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/finish-option-in-the-windows-11-setup-window.jpg) 
 
  You can now use the USB drive to install Windows 11 on a computer.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Create a Bootable Windows 11 USB Drive Using Rufus
 
@@ -105,13 +119,6 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 
 ![Select option in the Rufus app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/select-option-in-the-rufus-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Choose the Windows 11 ISO file you just downloaded and click "Open."
 
 ![Selecting the Windows 11 ISO File.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/selecting-the-windows-11-iso-file.jpg) 
@@ -120,9 +127,29 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 
 ![Start option in the Rufus window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/start-option-in-the-rufus-window.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the Windows User Experience window, check the boxes next to "Remove requirement for 4GB+ RAM, Secure Boot, and TPM 2.0" and "Remove Requirement for an Online Microsoft Account." Then, click "OK."
 
 ![Windows User Experience window in Rufus.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/windows-user-experience-window-in-rufus.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Click "Yes."
 
@@ -133,6 +160,13 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
  Rufus will initiate the process, and you can monitor the progress under the Status section.
 
 ![Rufus making USB drive bootable.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/rufus-making-usb-drive-bootable.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once the process is complete, you will see the Ready message with a green background under the Status section.
 
@@ -150,6 +184,13 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 
 ![LIST DISK command in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/list-disk-command-in-command-prompt.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Note the disk number of your USB drive. In our case, it’s DISK 2.
 
 ![Name of USB drive in the Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/name-of-usb-drive.jpg) 
@@ -158,35 +199,9 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 
 ![Selecting the USB Drive.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/selecting-the-usb-drive.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You will now have to clean the drive. For this, type **Clean** and hit Enter.
 
 ![Clean command in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/clean-command-in-command-prompt.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Next, type the following command and hit the Enter key to create a primary partition:
 
@@ -203,13 +218,6 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
         `format FS=FAT32 quick`
     
 ![Format command in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/format-command-in-command-prompt.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now, you need to assign a volume letter to the USB drive. To do this, type the following command and press Enter.
 
@@ -235,13 +243,6 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 
 ![List Volume command in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/list-volume-command-in-command-prompt.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Type **exit** and hit Enter to get out of the Diskpart utility.
 
  Then, type the mounted volume letter followed by the colon sign. For instance, if the volume letter is E, then the command will look like:
@@ -260,13 +261,6 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
     
 ![bootsect command in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bootsect-command-in-command-prompt.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next, you will have to copy the Windows 11 system files to your USB flash drive. For this, execute the following command. Make sure to replace “E:” and “L:” with your mounted ISO volume and USB Drive letter, respectively.
 
         `xcopy E:\*.* L:\/E /F /H`
@@ -278,10 +272,10 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 ![Copy completed of Windows 11 files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/copy-completed-of-windows-11-files.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -303,24 +297,20 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-exploring-gradual-echo-deactivation-in-audacity/"><u>[New] Exploring Gradual Echo Deactivation in Audacity</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-streamline-your-screen-share-with-enhanced-zoom-on-google-meet/"><u>[New] Streamline Your Screen Share with Enhanced Zoom on Google Meet</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlock-the-full-potential-of-your-iphone-photos/"><u>[New] Unlock the Full Potential of Your iPhone Photos</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/outubes-revenue-per-million-views-an-insight/"><u>[New] YouTube's Revenue Per Million Views An Insight</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-elevate-your-digital-footprint-with-effective-fb-page-management/"><u>[Updated] In 2024, Elevate Your Digital Footprint with Effective FB Page Management</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ten-commandments-of-stream-undoing-on-twitch/"><u>[Updated] Ten Commandments of Stream Undoing on Twitch</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unleash-your-creativity-the-leading-phone-apps-for-image-stickers/"><u>[Updated] Unleash Your Creativity The Leading Phone Apps for Image Stickers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-iphone-album-organizing-techniques-and-icloud-uploads/"><u>2024 Approved Navigating iPhone Album Organizing Techniques and iCloud Uploads</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-ranked-slideshow-creation-software-on-latest-iphones/"><u>2024 Approved Ranked Slideshow Creation Software on Latest iPhones</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-intersection-of-reality-and-illusion-through-ar/"><u>2024 Approved The Intersection of Reality and Illusion Through AR</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-collection-of-10-inspirational-movies/"><u>2024 Approved The Ultimate Collection of 10 Inspirational Movies</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-unnoticed-consumers-of-fb-stories/"><u>2024 Approved Unnoticed Consumers of Fb Stories</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-navigating-common-youtube-short-glitches/"><u>In 2024, Navigating Common YouTube Short Glitches</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-satirical-graphics-memes-made-easy-by-kapwing/"><u>In 2024, Satirical Graphics Memes Made Easy by Kapwing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-tickletech-design-easy-entertaining-visuals/"><u>In 2024, TickleTech Design Easy, Entertaining Visuals</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-handbook-for-using-googles-ai-for-transcription-in-word-processors/"><u>In 2024, Ultimate Handbook for Using Google's AI for Transcription in Word Processors</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1726028896408-iphoneyoutube/"><u>IPhoneやYouTube上で再生中の動画が突然停止するとき、問題を解決する方法</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/-16-video-openers-to-surge-your-traffic-for-2024/"><u>Prime 16 Video Openers to Surge Your Traffic for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-flip-side-realities-of-virtual-reality-for-2024/"><u>The Flip Side Realities of Virtual Reality for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-unleash-creativity-masterful-techniques-for-editing-podcasts-in-garageband/"><u>[New] 2024 Approved Unleash Creativity Masterful Techniques for Editing Podcasts in GarageBand</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-reveal-the-disenchanted-instagrams-unfollowers/"><u>[New] In 2024, Reveal the Disenchanted Instagram's Unfollowers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transformative-tech-effortlessly-turning-phones-into-vr-gear/"><u>[New] Transformative Tech Effortlessly Turning Phones Into VR Gear</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-the-quintessential-guide-to-secret-story-viewing/"><u>[Updated] 2024 Approved The Quintessential Guide to Secret Story Viewing</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-best-5-frame-sequence-recorder-fast-and-easy/"><u>[Updated] Best 5-Frame Sequence Recorder - Fast & Easy</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamlined-audiovisual-sequencing-in-audacity/"><u>[Updated] Streamlined Audiovisual Sequencing in Audacity</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726027002066-dvd/"><u>DVD視聴ガイド：テレビに接続する手順とトラブルシューティング</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Google Pixel Fold? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-crafting-captivating-stories-embedding-melodies-into-visual-narratives/"><u>In 2024, Crafting Captivating Stories Embedding Melodies Into Visual Narratives</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-superior-routes-converting-pinners-videos-into-music-files/"><u>In 2024, Superior Routes Converting Pinners' Videos Into Music Files</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-updated-review-sonys-blu-ray-and-hd-masterpiece/"><u>In 2024, The Updated Review Sony's Blu-Ray and HD Masterpiece</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultra-fast-windows-view-for-pictures/"><u>In 2024, Ultra-Fast Windows View for Pictures</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solutions-for-connectivity-problems-with-your-blue-yeti-mic/"><u>Solutions for Connectivity Problems with Your Blue Yeti Mic</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-next-wave-of-social-media-top-apps-as-periscope-alternates-for-2024/"><u>The Next Wave of Social Media Top Apps as Periscope Alternates for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-cricket-ultimate-guide-to-live-streaming-selection-for-2024/"><u>Top Cricket Ultimate Guide to Live Streaming Selection for 2024</u></a></li>
 </ul></div>
 

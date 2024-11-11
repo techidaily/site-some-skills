@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Understanding Video Duration  20MB Example\""
-date: 2024-08-20T23:11:36.200Z
-updated: 2024-08-21T23:11:36.201Z
+date: 2024-11-08T18:31:03.357Z
+updated: 2024-11-10T21:12:01.879Z
 tags: 
   - screen-recording
   - ai video
@@ -86,9 +86,6 @@ Then, on the Video or Audio timeline, drag and drop your video or audio file. Se
 
 * **Change the video or audio file's bitrate.**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-3.jpg)
 
 After that, select SETTINGS. You can modify audio settings like encoder, sample rate, channel, and bitrate, as well as video parameters like encoder, frame rate, resolution, and bitrate, in the new window that appears. Simply select the needed value from the bitrate list to change the bitrate.
@@ -99,9 +96,6 @@ Take note that Lowering the bitrate can help you compress your media files. The 
 
 * Magisto ( Supports IOS, Android, Online )
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-4.jpg)
 
 Magisto, which is owned by Vimeo, allows you to create amazing videos in three simple steps: You'll start by selecting your video editing style (the type of story you want to tell), then the photos and video clips you want to include, and finally, music from Magisto's built-in library.
@@ -116,9 +110,6 @@ ActivePresenter is a watermark-free screen recorder and video editor. Screencast
 
 * Openshot ( Supports Windows, Mac )
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-6.jpg)
 
 OpenShot is a free and versatile video editing and creation program. You may use the software to create professional-looking movies out of your photos, videos, and music files. Subtitles, special effects, and transitions can all be readily added. The videos that are made can be exported to DVD, Xbox 360, Vimeo, YouTube, and a variety of other formats.
@@ -153,9 +144,6 @@ How many video minutes are there per gigabyte? One GB of digital storage may hol
 
 How many minutes of video is 100 megabytes of data used? A YouTube video that lasts 20 minutes uses about 100MB.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-1.jpg)
 
 Run Video Editor after installing it. Then, on your computer, click the "Import" button to locate the file you want to change the bitrate on, and then "Open." Drag and drop files into Video Editor from the Windows Explorer window
@@ -164,9 +152,6 @@ Run Video Editor after installing it. Then, on your computer, click the "Import"
 
 * **Choose a video to watch.**
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-2.jpg)
 
 Then, on the Video or Audio timeline, drag and drop your video or audio file. Select your preferred video or audio format by clicking EXPORT. Click the Device tab and select the right device from the list of presets if you want to play the completed file on a mobile device like an iPhone, iPad, iPad, or Zune.
@@ -183,9 +168,6 @@ Take note that Lowering the bitrate can help you compress your media files. The 
 
 * Magisto ( Supports IOS, Android, Online )
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-4.jpg)
 
 Magisto, which is owned by Vimeo, allows you to create amazing videos in three simple steps: You'll start by selecting your video editing style (the type of story you want to tell), then the photos and video clips you want to include, and finally, music from Magisto's built-in library.
@@ -233,7 +215,6 @@ How many video minutes are there per gigabyte? One GB of digital storage may hol
 * How long does 100MB of video last?
 
 How many minutes of video is 100 megabytes of data used? A YouTube video that lasts 20 minutes uses about 100MB.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -257,8 +238,25 @@ How many minutes of video is 100 megabytes of data used? A YouTube video that la
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-mastering-minute-by-minute-srt-conversion-to-text-txt/"><u>[New] 2024 Approved Mastering Minute-by-Minute SRT Conversion to Text (TXT)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-best-10-online-subtitle-editors/"><u>[New] The Best 10 Online Subtitle Editors</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-pathway-to-perfect-pitches-insights-from-magix-maker/"><u>[New] The Pathway to Perfect Pitches Insights From Magix Maker</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-rhythm-of-the-skies-bebop-parrot-revisited-for-2024/"><u>[New] The Rhythm of the Skies Bebop Parrot Revisited for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-13-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone 13 without Passcode or Face ID</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamline-document-creation-with-microsoft-word-speech-recognition/"><u>In 2024, Streamline Document Creation with Microsoft Word Speech Recognition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-techniques-to-combat-unsteady-shot-dynamics/"><u>In 2024, Techniques to Combat Unsteady Shot Dynamics</u></a></li>
+<li><a href="https://win-top.techidaily.com/instruction-2-more-difficult/"><u>Instruction 2 (More Difficult)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-definitive-playbook-enhancing-your-videos-first-impression-for-2024/"><u>The Definitive Playbook Enhancing Your Video's First Impression for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-avi-to-gif-conversion-with-filmora-platform-for-2024/"><u>The Ultimate Guide to AVI-to-GIF Conversion with Filmora Platform for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/truthcoin-exposed-fact-or-fiction/"><u>TruthCoin Exposed: Fact or Fiction?</u></a></li>
+</ul></div>
 
-
-
-
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: Top Strategies to Ensure You're Making the Right Choice in Secondhand EVs
-date: 2024-11-01T17:00:13.486Z
-updated: 2024-11-02T18:25:12.942Z
+date: 2024-11-07T02:36:24.315Z
+updated: 2024-11-10T18:12:58.730Z
 tags:
   - cutting-edge
 categories:
@@ -37,13 +37,6 @@ Justin Duino / How-To Geek
 
 ![Electric car dash range gauge](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/ba587f48.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 _[Southworks/Shutterstock.com](https://www.shutterstock.com/image-photo/close-shot-electric-car-battery-range-2115845192)_
 
  We all know that the engine is the most important part of an ICE (internal combustion engine) vehicle, and buyers typically ask about oil leaks and funny noises to ensure the engine is in tip-top shape. The battery is the single biggest factor you'll want to consider with an electric car. Sure, the electric motors are a big deal, but the battery pack does all the heavy lifting.
@@ -55,15 +48,22 @@ _[Southworks/Shutterstock.com](https://www.shutterstock.com/image-photo/close-sh
  Similarly to how your 3-year-old iPhone doesn't hold a charge as well as it did the first year, electric cars experience battery degradation. For example, Tesla claims that after 100,000 miles, you'll still have over 90% battery capacity. Even an aging Tesla Model S with 180K miles should be more than capable, even if you lose around 12-15% of range due to an aging battery. At that point, it doesn't need to be replaced; it just won't charge to 100%, which is perfectly normal. Once you buy a used EV, you'll want to take a few steps to [extend the life of the battery](https://remote-screen-capture.techidaily.com/new-in-2024-top-approaches-to-non-audio-recording/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Don't Forget About Charging
 
 ![Rivian R1T plugged into a CCS charger](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/ef2ffd0c.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Tyler Hayes / Review Geek
 
@@ -74,16 +74,10 @@ Tyler Hayes / Review Geek
  Look into charging accessories, speeds, and port type, then factor all of that into which car is right for you.
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Buy Used EVs From a Dealer or Tesla
@@ -101,10 +95,16 @@ Hannah Stryker / How-To Geek
 ![Front right headlight on the 2023 Chevy Bolt EV.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/52766357707_013d55125c_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
@@ -136,22 +136,19 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-crafting-irresistible-profile-videos/"><u>[New] 2024 Approved Crafting Irresistible Profile Videos</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-humorous-highlights-create-with-kapwing-meme-maker/"><u>[New] Humorous Highlights Create with Kapwing Meme Maker</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-liberating-screen-time-with-free-video-playback-tools/"><u>[New] In 2024, Liberating Screen Time with FREE Video Playback Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-iphone-lengthy-exposure-secrets/"><u>[New] The Ultimate iPhone Lengthy Exposure Secrets</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-understanding-srt-in-depth-with-this-guidebook/"><u>[New] Understanding SRT in Depth with This Guidebook</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-economic-aspects-of-making-a-music-video/"><u>[Updated] The Economic Aspects of Making a Music Video</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-superior-suggestions-elite-iphone-ringtones-developers/"><u>2024 Approved Superior Suggestions Elite iPhone Ringtones Developers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-photomontage-artisans-blueprint/"><u>2024 Approved The PhotoMontage Artisan's Blueprint</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-up-to-date-strategies-for-youtube-earnings/"><u>2024 Approved Up-to-Date Strategies for YouTube Earnings</u></a></li>
-<li><a href="https://fox-links.techidaily.com/essential-20-open-source-montage-of-pubg-scenes-for-2024/"><u>Essential 20 Open Source Montage of PUBG Scenes for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/hashtag-habits-mastering-these-30-essential-smart-words-and-acronyms/"><u>Hashtag Habits: Mastering These 30 Essential SMART Words and Acronyms</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unleash-creativity-filming-and-editing-on-the-go-with-a-phone/"><u>In 2024, Unleash Creativity Filming & Editing on the Go with a Phone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-another-program-uses-device-auditory-fault/"><u>Tackling 'Another Program Uses Device' Auditory Fault</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-essential-checklist-for-using-zoom-on-your-windows-pc-for-2024/"><u>The Essential Checklist for Using Zoom on Your Windows PC for 2024</u></a></li>
-<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-oppo-find-x6-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Oppo Find X6.</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tips-and-tricks-for-iphone-audio-enthusiasts-for-2024/"><u>Tips and Tricks for iPhone Audio Enthusiasts for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-10-innovative-mobile-layering-apps-for-android-and-iphone-for-2024/"><u>Top 10 Innovative Mobile Layering Apps for Android & iPhone for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-harmonizing-highlights-how-to-embed-songs-on-instagram-stories/"><u>[New] Harmonizing Highlights How to Embed Songs on Instagram Stories</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-curious-case-of-inverted-images-on-social-media/"><u>[New] The Curious Case of Inverted Images on Social Media</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-gentle-art-of-reducing-audio-amplitude-in-logic-pro/"><u>[New] The Gentle Art of Reducing Audio Amplitude in Logic Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlock-optimal-performance-with-these-key-tricks/"><u>[New] Unlock Optimal Performance with These Key Tricks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-altering-game-console-tones-ps5ps4-guide/"><u>[Updated] 2024 Approved Altering Game Console Tones PS5/PS4 Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-synthetic-adventures-starts-here-top-vr-tools-10/"><u>[Updated] Synthetic Adventures Starts Here Top VR Tools (10)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabled-apple-iphone-14-pro-how-to-unlock-a-disabled-apple-iphone-14-pro-by-drfone-ios/"><u>Disabled Apple iPhone 14 Pro How to Unlock a Disabled Apple iPhone 14 Pro?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/engage-in-secure-conversations-discover-ai-powered-chat-features-by-duckduckgo/"><u>Engage in Secure Conversations: Discover AI-Powered Chat Features by DuckDuckGo</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-cyberspace-to-steps-top-tier-treadmill-innovations-for-2024/"><u>From Cyberspace to Steps Top-Tier Treadmill Innovations for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-mb-to-seconds-a-20-video-study/"><u>In 2024, From MB to Seconds A 20-Video Study</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-essential-guide-to-twitters-video-converters/"><u>In 2024, The Essential Guide to Twitters Video Converters</u></a></li>
+<li><a href="https://media-tips.techidaily.com/mastering-the-art-of-8k-streaming-tutorial-on-enabling-airplay-with-your-ultra-hd-tv/"><u>Mastering the Art of 8K Streaming: Tutorial on Enabling AirPlay with Your Ultra HD TV</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-the-potential-advanced-techniques-for-podcast-editing-in-garageband-for-2024/"><u>Unlock the Potential Advanced Techniques for Podcast Editing in GarageBand for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Google Pixel 8 Pro | Dr.fone</u></a></li>
 </ul></div>
 

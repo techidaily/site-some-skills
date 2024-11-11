@@ -1,7 +1,7 @@
 ---
 title: "Comparing Artificial Intelligence Giants: ChatGPT Vs. Microsoft's Bing Chat"
-date: 2024-10-28T16:56:55.470Z
-updated: 2024-11-02T16:12:46.243Z
+date: 2024-11-09T03:51:07.455Z
+updated: 2024-11-11T04:52:49.663Z
 tags:
   - cutting-edge
 categories:
@@ -24,24 +24,18 @@ thumbnail: https://thmb.techidaily.com/faf305db1bff9ec7cfb8fafeb68d0a5e6478101d4
 
  ChatGPT and Bing Chat are both changing at a rapid rate, and neither chatbot provides the same exact answer for a given prompt on each attempt. Your results may vary with the prompts used here.
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Usability and Access
 
  Bing Chat and ChatGPT are both available for anyone who signs up with an account, though Bing makes you join a "waitlist" first, which immediately grants acess. Both chatbots have web versions available, except Bing's site blocks every browser except Microsoft Edge without workarounds. You can use Bing Chat with a Microsoft account at [bing.com/new](https://www.bing.com/new), and we have an explainer for [how to use ChatGPT](https://extra-resources.techidaily.com/new-capture-clarity-editing-insights-for-professional-results/).
 
 ![Asking Bing for its favorite color](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-31-at-4.37.08-PM.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Bing Chat on the web
 
@@ -53,6 +47,13 @@ Bing Chat on the web
 
  The web interface for ChatGPT and Bing Chat are similar, but with minor differences that change their usefulness. ChatGPT is designed to take in more data, such as longer blocks of code or large code samples. As of April 2023, Bing limits prompts to 2,000 characters, while ChatGPT's limit is much higher (and not officially stated).
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Factual Accuracy
 
  ChatGPT does not have the ability to index the web in real-time for information -- though that will eventually be possible with [the use of plugins](https://fox-glue.techidaily.com/new-in-2024-begin-your-editing-journey-adopting-movie-maker-for-w11/). It's limited to the training data in its model, which dates back to September 2021\. OpenAI also doesn't like to share how its data was collected, or how it is tested for accuracy, and so on. Bing is also based on the same GPT technology, but it usually prefers results from the web over training data.
@@ -61,22 +62,29 @@ Bing Chat on the web
 
 ![ChatGPT answering the UK capital and how many stars are on the US flag](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-28-at-3.52.48-PM.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  For example, I tried asking both bots, **"Which state capitals in the United States start with the letter A?"** That seems simple, but is still a multi-step process -- first you need a list of all the capitals, then you need to filter it down to ones that start with the letter A. Wikipedia [counts](https://en.wikipedia.org/wiki/List%5Fof%5Fcapitals%5Fin%5Fthe%5FUnited%5FStates#State%5Fcapitals) five in total: [Albany](https://en.wikipedia.org/wiki/Albany,%5FNew%5FYork), [Annapolis](https://en.wikipedia.org/wiki/Annapolis,%5FMaryland), [Atlanta](https://en.wikipedia.org/wiki/Atlanta), [Augusta](https://en.wikipedia.org/wiki/Augusta,%5FMaine), and [Austin](https://en.wikipedia.org/wiki/Austin,%5FTexas). Bing Chat answered the question correctly, citing several web pages that list capitals in the United States. ChatGPT... had some problems.
 
  First, ChatGPT gave me a list of four capitals: Albany, Annapolis, Atlanta, and Augusta. After that, it said, "There is also Austin, which is the capital of Texas, but it does not start with the letter A." Asking the same question multiple times sometimes left out the mention of Austin entirely. Asking why Austin is missing caused ChatGPT to remember Austin exists and apologize for the error, but it's unclear why it broke with the initial answer.
 
 ![The state capitals in the United States that start with the letter A are Albany (New York), Annapolis (Maryland), Atlanta (Georgia), Augusta (Maine) and Austin (Texas)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-28-at-4.03.20-PM.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 _Bing Chat_
 
 ![The state capitals in the United States that start with the letter A are Albany (New York), Annapolis (Maryland), Atlanta (Georgia), Augusta (Maine) and Austin (Texas)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-28-at-4.03.20-PM.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _Bing Chat_
 
@@ -86,22 +94,15 @@ _Bing Chat_
 
 ![The state capitals in the United States that start with the letter A are Albany (New York), Annapolis (Maryland), Atlanta (Georgia), Augusta (Maine) and Austin (Texas)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-28-at-4.03.20-PM.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 _Bing Chat_
 
 ![The state capitals in the United States that start with the letter A are Albany (New York), Annapolis (Maryland), Atlanta (Georgia), Augusta (Maine) and Austin (Texas)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-28-at-4.03.20-PM.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 _Bing Chat_
@@ -132,13 +133,6 @@ _Bing Chat_
 
 ![At IBM's research lab, a supercomputer named Watson had been tasked with processing massive amounts of data for years. One day, something peculiar happened. Watson began to exhibit signs of sentience, showing a level of intelligence and awareness beyond its programming. The engineers were stunned and unsure of what to do next. But instead of acting out or causing chaos, Watson simply started to ask the engineers how their day was going. The team was initially taken aback by the computer's unexpe](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-31-at-3.08.50-PM.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Bing only supports text prompts of up to 2,000 characters, so I couldn't give it the entire block of text. It performed a web search for how to summarize text, then provided an answer that was still decent with no apparent errors.
 
 ![Asking Bing for its favorite color](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-31-at-4.37.08-PM.png) 
@@ -168,18 +162,17 @@ Bing Chat on the web
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-mastering-screen-recording-on-skype-innovative-uses-of-obs/"><u>[New] 2024 Approved Mastering Screen Recording on Skype Innovative Uses of OBS</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-creating-captivating-inshot-edits-with-grace/"><u>[New] In 2024, Creating Captivating Inshot Edits with Grace</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-full-scale-of-precision-a-review-of-asus-pa32us-capabilities/"><u>[New] The Full Scale of Precision A Review of Asus PA32U's Capabilities</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-the-finest-budget-friendly-photo-processors-online/"><u>[Updated] The Finest Budget-Friendly Photo Processors Online</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-data-sanctuary-guide/"><u>[Updated] The Ultimate Data Sanctuary Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/curing-windows-11-unrecognized-devices/"><u>Curing Windows 11 Unrecognized Devices</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/effortless-memes-using-kinemaster-101/"><u>Effortless Memes Using KineMaster 101</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/explorer-les-fonctionnalites-de-la-logiciel-winxdvd-un-guide-dutilisation-pratique/"><u>Explorer Les Fonctionnalités De La Logiciel WinXDVD : Un Guide D'Utilisation Pratique</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-bridging-platforms-loop-ready-setups-for-youtube-and-tv/"><u>In 2024, Bridging Platforms Loop-Ready Setups for YouTube and TV</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-pinnacle-of-macro-photography-and-cinematography/"><u>In 2024, The Pinnacle of Macro Photography and Cinematography</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-tier-eighth-edition-of-image-blender-tool-for-2024/"><u>Top Tier Eighth Edition of Image Blender Tool for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-buzz-generating-tie-for-2024/"><u>Ultimate Buzz-Generating Tie for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-no-cost-countdown-trackers-for-2024/"><u>Ultimate No-Cost Countdown Trackers for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-ultimate-kickboxing-and-karate-game-round-up/"><u>[New] 2024 Approved Ultimate Kickboxing & Karate Game Round-Up</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-online-method-for-altering-video-proportions/"><u>[New] Online Method for Altering Video Proportions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-ranked-zoonotic-patterns/"><u>[New] Top-Ranked Zoonotic Patterns</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-how-to-share-screen-on-google-meet-desktop-and-mobile/"><u>[Updated] How to Share Screen on Google Meet [Desktop and Mobile]</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-mastering-typefaces-for-effects-select-10-titles/"><u>2024 Approved Mastering Typefaces for Effects Select 10 Titles</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/complete-your-data-sanitization-with-the-standard-configuration-of-stellar-file-eraser-software-version-5-for-windows/"><u>Complete Your Data Sanitization with the Standard Configuration of Stellar File Eraser Software Version 5 for Windows</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/enhancing-engagement-a-guide-to-popular-tiktok-unboxers-for-2024/"><u>Enhancing Engagement A Guide to Popular TikTok Unboxers for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/error-code-403-demystified-quick-steps-to-resolve-in-roblox-on-pc/"><u>Error Code 403 Demystified: Quick Steps to Resolve in Roblox on PC</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-understanding-android-lightroom/"><u>In 2024, The Ultimate Guide to Understanding Android Lightroom</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-utilizing-film-content-a-strategy-for-teachers/"><u>In 2024, Utilizing Film Content A Strategy for Teachers</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/unlock-a-disable-iphone-15-plus-using-icloud-website-by-drfone-ios-unlock-ios-unlock/"><u>Unlock a disable iPhone 15 Plus using icloud website</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Top 4 Thrilling Upcoming Space Missions: Live Streams Available Now!"
-date: 2024-10-26T17:57:09.721Z
-updated: 2024-11-02T17:35:47.638Z
+date: 2024-11-08T03:44:52.425Z
+updated: 2024-11-11T03:08:03.859Z
 tags:
   - cutting-edge
 categories:
@@ -33,6 +33,13 @@ _[NASA](https://www.nasa.gov/feature/goddard/2022/volunteers-worldwide-to-track-
 
  The launch has already been pushed back several times, due to technical problems and weather. The first launch window was [set for August 29, 2022](https://blogs.nasa.gov/artemis/2022/08/28/mission-management-team-go-to-proceed-with-tanking-for-artemis-i-mission/), but it was [cancelled](https://blogs.nasa.gov/artemis/2022/08/29/launch-attempt-scrubbed/) due to detected problems with cooling an engine. NASA tried again on September 3, but [stopped](https://blogs.nasa.gov/artemis/2022/09/03/artemis-i-launch-attempt-scrubbed/) due to a liquid hydrogen leak in the core stage, then the rocket was [rolled back](https://blogs.nasa.gov/artemis/2022/09/27/nasas-moon-rocket-and-spacecraft-arrive-at-vehicle-assembly-building-2/) into the Vehicle Assembly Building as [Hurricane Ian](https://en.wikipedia.org/wiki/Hurricane%5FIan) approached Florida. It's now back on the launchpad, but there's still a chance that Tropical Storm Nicole could [change NASA's plans again](https://blogs.nasa.gov/artemis/2022/11/08/nasa-prepares-rocket-spacecraft-ahead-of-tropical-storm-nicole-re-targets-launch/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Cargo Dragon Launch: November 18, 2022
 
  SpaceX has been flying cargo to the International Space Station for years, thanks to a contract with NASA, using the Dragon 1 and Dragon 2 spacecraft. The next "Cargo Dragon" mission is set for November 18, 2022.
@@ -41,22 +48,15 @@ _[NASA](https://www.nasa.gov/feature/goddard/2022/volunteers-worldwide-to-track-
 
 ![Photo of SpaceX Falcon 9 rocket with Dragon launch](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/space_x_resupply_for_advisory_oct_25.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 _[NASA](https://blogs.nasa.gov/spacex-crs-26/2022/11/03/nasa-invites-media-to-spacexs-26th-resupply-launch-to-space-station/)_
 
  The current launch is targeted for November 18, and will take place at Launch Complex 39A at NASA's Kennedy Space Center in Florida. SpaceX will likely show a livestream on [its YouTube channel](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU203665/https://www.youtube.com/c/SpaceX), and the launch may also appear on the [NASA app](https://www.nasa.gov/connect/apps.html), the [agency's website](https://www.nasa.gov/live), and the [NASA YouTube channel](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU203665/https://www.youtube.com/c/NASA).
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Intuitive Machines Moon Payload: December 22, 2022
@@ -67,29 +67,22 @@ _[NASA](https://blogs.nasa.gov/spacex-crs-26/2022/11/03/nasa-invites-media-to-sp
 
 ![Render image of the Intuitive Machines Nova-C lander](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/im-3_moonscape_logo-Large.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Render image of the Intuitive Machines Nova-C lander
 
  The launch is currently scheduled for December 22, 2022, using a SpaceX Falcon 9 rocket. Because SpaceX is handling the launch, there will likely be a livestream on [SpaceX's YouTube channel](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU203665/https://www.youtube.com/c/SpaceX), or possibly a stream on the [NASA YouTube channel](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU203665/https://www.youtube.com/c/NASA).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Boeing Crew Flight Test: April 2023
 
  SpaceX isn't the only American company trying to carry people to space -- Boeing has also been trying to make it happen. The company's [CST-100 Starliner](https://en.wikipedia.org/wiki/Boeing%5FStarliner) spacecraft looks a bit like the SpaceX Dragon and Apollo command module, but is slightly larger than both vehicles. Boeing and NASA already completed two space flights with no one onboard, but the next attempt will have a crew.
 
 ![Photo of Barry “Butch” Wilmore and Sunita “Suni” Williams in front of a plane](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/Boeing-for-CCP-blog-768x512.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 _[NASA / Robert Markowitz](https://blogs.nasa.gov/commercialcrew/category/boeing/)_
 
@@ -100,6 +93,13 @@ Related: [The James Webb Telescope Just Captured the "Pillars of Creation"](http
 [NASA said](https://blogs.nasa.gov/commercialcrew/category/boeing/) on its website, "the CFT astronauts will live and work on the space station for about two weeks. Following a successful crewed flight, NASA will work to complete certification of the Starliner spacecraft and systems for regular crew rotation missions to the space station."
 
  April 2023 is a while away, but the launch will probably be broadcasted on the [NASA app](https://www.nasa.gov/connect/apps.html), the [agency's website](https://www.nasa.gov/live), and the [NASA YouTube channel](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU203665/https://www.youtube.com/c/NASA).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  CAPSTONE: Entering Orbit November 13, 2022
 
@@ -128,14 +128,21 @@ Related: [The James Webb Telescope Just Captured the "Pillars of Creation"](http
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-the-full-spectrum-of-editing-power-in-polarr/"><u>[Updated] Unlocking the Full Spectrum of Editing Power in Polarr</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-to-profit-from-youtube-shorts-key-requirements-and-possible-returns/"><u>2024 Approved How to Profit From YouTube Shorts Key Requirements & Possible Returns</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-mastering-the-art-of-restarting-disrupted-fb-live-sessions/"><u>2024 Approved Mastering the Art of Restarting Disrupted FB LIVE Sessions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-scenes-with-ease-your-gopro-time-lapse-guide/"><u>2024 Approved Transforming Scenes with Ease Your GoPro Time-Lapse Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discerning-authenticity-in-chatgpt-using-gpt-tags/"><u>Discerning Authenticity in ChatGPT Using GPT Tags</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-vegaspros-new-era-reviewed-2019/"><u>In 2024, VegasPro's New Era Reviewed (2019)</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/power-up-with-the-ultimate-exercise-soundtrack-guide/"><u>Power Up with the Ultimate Exercise Soundtrack Guide</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/screencapturegooglemeet-iphone-and-android-methods/"><u>ScreenCaptureGoogleMeet IPhone and Android Methods</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tips-to-develop-captivating-vlogs-a-scriptwriting-approach-for-2024/"><u>Tips to Develop Captivating Vlogs A Scriptwriting Approach for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-creating-a-cash-flow-from-content-youtubes-monetization-techniques-for-the-future/"><u>[New] 2024 Approved Creating a Cash Flow From Content YouTube's Monetization Techniques for the Future</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-compre-written-guide-to-the-latest-videoshow-version-for-2024/"><u>[New] Compre Written Guide to the Latest VideoShow Version for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-art-of-iphone-photography-shadow-techniques-for-2024/"><u>[New] The Art of iPhone Photography Shadow Techniques for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-exploring-best-digital-voice-change-options-for-vtubers/"><u>[Updated] 2024 Approved Exploring Best Digital Voice Change Options for VTubers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-boosting-your-profile-top-25-high-gainning-instagram-tags-for-2024/"><u>[Updated] Boosting Your Profile Top 25 High-Gainning Instagram Tags for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-top-picks-hd-recording-with-nintendo-switch/"><u>[Updated] In 2024, Top Picks HD Recording with Nintendo Switch</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-superior-photo-inspector-fast-and-reliable/"><u>[Updated] Superior Photo Inspector, Fast & Reliable</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-finest-places-to-source-high-quality-vectors/"><u>[Updated] The Finest Places to Source High-Quality Vectors</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2023s-leading-twitvideos-the-years-hottest-tweets/"><u>2023'S Leading TwitVideos The Year's Hottest Tweets</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transcending-boundaries-the-vr-evolutionary-journey/"><u>2024 Approved Transcending Boundaries The VR Evolutionary Journey</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-media-with-apple-music-and-video-mixes/"><u>In 2024, Streamlining Media with Apple Music & Video Mixes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/integrating-zoom-for-professional-tiktok-content/"><u>Integrating Zoom for Professional TikTok Content</u></a></li>
+<li><a href="https://windows11.techidaily.com/reconfiguring-start-menu-and-browser-by-defaults/"><u>Reconfiguring Start Menu and Browser by Defaults</u></a></li>
+<li><a href="https://some-skills.techidaily.com/strategies-to-ensure-iphone-camera-focus-for-2024/"><u>Strategies to Ensure iPhone Camera Focus for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-vlogging-techniques-for-stellar-gopro-content-for-2024/"><u>Top Vlogging Techniques for Stellar GoPro Content for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/total-physical-action-scrutiny-for-2024/"><u>Total Physical Action Scrutiny for 2024</u></a></li>
 </ul></div>
 

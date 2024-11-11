@@ -1,7 +1,7 @@
 ---
 title: Top 6 Microsoft Edge Features Enhancing Productivity for Remote Workers on Windows 11
-date: 2024-10-27T16:50:31.268Z
-updated: 2024-11-02T17:31:51.030Z
+date: 2024-11-07T03:45:15.419Z
+updated: 2024-11-10T20:17:57.346Z
 tags:
   - deals
 categories:
@@ -22,24 +22,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  With so many of us working remotely, it's not a surprise that Windows 11 comes with a few built-in focus tools to help us get our jobs done. But what exactly does Windows 11 offer to us professionals who want to ensure we actually get work done? Let's take a look.
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Focus Periods and Productivity
 
  Windows 11 eliminated the focus mode on the taskbar and replaced it with focus sessions. A focus session uses the [Windows 11 built-in Pomodoro Timer](https://screen-sharing-recording.techidaily.com/updated-navigating-noise-free-networks-secrets-for-silencing-disruptions-on-gomeet/) to ensure that you remain dedicated throughout the particular period. There are other Pomodoro Timers out there, and I even used one in Windows 10\. Having one built into Windows 11 is a plus, however.
 
 ![Windows 11 Focus Assist Window showing time left on the session, how many sessions were completed, and other details](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-11-focus-assist.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Jason Dookeran/How-To-Geek
 
@@ -47,11 +41,31 @@ Jason Dookeran/How-To-Geek
 
 [Focus Sessions](https://support.microsoft.com/en-us/windows/how-to-use-focus-in-windows-11-cbcc9ddb-8164-43fa-8919-b9a2af072382) include the "do not disturb" mode from Windows 10's focus assist mode. This helps to manage the notifications you're likely to get from any number of applications you already have running on your PC. I've found it extremely helpful to limit my distractions while I'm working on something.
 
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Use Snap Layouts and Snap Groups
 
  Have you ever had several windows that you have to swap between and wondered if there was an easier way to do this than buying a new monitor? With [Snap Layouts in Windows 11](https://youtube-videos.techidaily.com/2024-approved-behind-the-mascara-youtubes-top-makeup-artists-unveiled/), you can quickly arrange your open applications into pre-configured grids on your screen. To use Snap Layouts, simply hover over the maximize button of any window, and you'll see several layout options. Click on your preferred layout, and Windows will guide you in snapping other open windows into place.
 
 ![Layout options on the top right of the screen when hovbering with the mouse represented by a series of boxes](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-11-layout-options.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Jason Dookeran/How-To-Geek
 
@@ -60,10 +74,10 @@ Jason Dookeran/How-To-Geek
  These features are designed to enhance multitasking and productivity, especially in a remote work setting. By keeping your tasks visually organized and easily accessible, Snap Layouts and Snap Groups help you maintain focus and efficiency. This seamless integration into the Windows 11 experience ensures that your tools are working just as hard as you are, enabling you to get more done with less effort.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  You're Not Only Limited to One Desktop Either
@@ -86,31 +100,11 @@ Jason Dookeran/How-To-Geek
 
 ![Adding a New User](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/adding-a-new-user.png) 
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Jason Dookeran/How-To-Geek
 
 [Making a new profile in Windows 11](https://some-guidance.techidaily.com/new-pun-picture-studio-chucklecrafts/) is pretty simple. Go to Settings > Accounts > Family & other users. Under the “Other users” section, click on “Add account.” You can create a new profile using either a Microsoft account or a local account.
 
  For a Microsoft account, enter the email address associated with the account. If you prefer a local account, click on “I don’t have this person’s sign-in information,” followed by “Add a user without a Microsoft account,” then follow the prompts to set up a username and password. Once the profile is created, you can switch between accounts by clicking on your profile picture in the Start menu and selecting the new user. This setup allows you to maintain distinct environments for different purposes, improving focus and security.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Being Productive Is Less of a Challenge
 
@@ -131,17 +125,20 @@ Jason Dookeran/How-To-Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-minipic-snapshot-scrutiny-plus-diverse-apps/"><u>[New] In 2024, MiniPic Snapshot Scrutiny + Diverse Apps</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-confirmation-techniques-for-youtube-accounts/"><u>[Updated] In 2024, Confirmation Techniques for Youtube Accounts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unraveling-the-mystery-of-phantoms-velocity-inversion/"><u>[Updated] Unraveling the Mystery of Phantom's Velocity Inversion</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unraveling-untethered-art-top-public-domain-gems/"><u>[Updated] Unraveling Untethered Art Top Public Domain Gems</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-review-and-critique-of-apples-watch-series-9/"><u>Expert Review and Critique of Apple's Watch Series 9</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-diagnose-and-repair-inactive-hp-laptop-camera-under-windows-10/"><u>How To Diagnose and Repair Inactive HP Laptop Camera Under Windows 10</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-vivo-y56-5g-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Vivo Y56 5G Phone Now with These Tips</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-top-fifa-players-visualized-data-infographics/"><u>In 2024, Top FIFA Players Visualized Data Infographics</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unparalleled-live-tv-experience-with-local-channels/"><u>In 2024, Unparalleled Live TV Experience with Local Channels</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unboxing-and-testing-the-hisense-40h5590f-the-best-economical-smart-tv-on-the-market/"><u>Unboxing and Testing the Hisense 40H5590F: The Best Economical Smart TV on the Market?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-the-leading-online-stores-for-customized-gift-boxes-for-2024/"><u>Unveiling the Leading Online Stores for Customized Gift Boxes for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-the-prowess-of-yuneecs-typhoon-uav-for-2024/"><u>Unveiling the Prowess of Yuneec's Typhoon UAV for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-periscope-stars-in-snapchat-highlights/"><u>[New] 2024 Approved Periscope Stars in Snapchat Highlights</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-ideal-obs-parameters-for-economical-pcs/"><u>[Updated] 2024 Approved Ideal OBS Parameters for Economical PCs</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-enhanced-video-clarity-on-iphone-and-android-platforms-for-2024/"><u>[Updated] Enhanced Video Clarity on iPhone & Android Platforms for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-file-flow-fixtures-easy-moves-for-your-machine/"><u>[Updated] In 2024, File Flow Fixtures Easy Moves for Your Machine</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-ultimate-list-of-instagram-video-converters-windowsos-x-for-2024/"><u>[Updated] The Ultimate List of Instagram Video Converters (Windows/OS X) for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-eight-sources-of-graffiti-fonts-online/"><u>[Updated] Top Eight Sources of Graffiti Fonts Online</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-5-underwater-gopro-accessories/"><u>2024 Approved Top 5 Underwater Gopro Accessories</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-questions-on-vlc-player-mac-integration/"><u>2024 Approved Top Questions on VLC Player Mac Integration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avi/"><u>AVI マナーで圧縮するたび - 初心者から始める方法</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-reliable-voice-commands-for-valorant-gaming/"><u>Ensuring Reliable Voice Commands for Valorant Gaming</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-synthesize-stellar-titles-using-ai-insights/"><u>In 2024, Synthesize Stellar Titles Using AI Insights</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-trail-of-imagery-the-complete-user-manual-for-inverted-scans-in-instagram/"><u>In 2024, Trail of Imagery The Complete User Manual for Inverted Scans in Instagram</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transcription-mastery-for-office-productivity-using-microsoft-words-voice-recognition-features/"><u>In 2024, Transcription Mastery for Office Productivity Using Microsoft Word's Voice Recognition Features</u></a></li>
+<li><a href="https://some-skills.techidaily.com/techniques-for-turning-youtube-hosted-tweets-into-audio-files-for-2024/"><u>Techniques for Turning YouTube-Hosted Tweets Into Audio Files for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-mystery-writing-hooks-for-vlogger-scripts-for-2024/"><u>Unveiling the Mystery Writing Hooks for Vlogger Scripts for 2024</u></a></li>
 </ul></div>
 

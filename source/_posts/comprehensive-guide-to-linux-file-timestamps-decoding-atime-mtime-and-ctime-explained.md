@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Linux File Timestamps – Decoding Atime, Mtime, and Ctime Explained
-date: 2024-10-31T17:19:22.578Z
-updated: 2024-11-02T16:06:56.237Z
+date: 2024-11-07T21:04:46.663Z
+updated: 2024-11-11T03:21:57.358Z
 tags:
   - desktop
 categories:
@@ -66,13 +66,6 @@ stat dp.c
 
 ![stat dp.c in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/2-7.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The time zones are listed at the bottom of the display. As you can see, they have a very accurate, fractional seconds component. At the end of each timestamp, you also see a -0500 or -0400 .
 
  These are time zone offsets. The file system records the timestamps in UTC and converts them to the local time zone when displayed by stat. The computer we used to research this article is configured as if it were in the Eastern Standard Time (EST) zone of the U.S.
@@ -105,13 +98,6 @@ stat dp.c
 
 ![touch -m dp.c in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/4-6.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This time, the modified and changed timestamps were updated.
 
  You can use the -d (date) option if you want to change both the access and modified timestamps simultaneously. You can also specify a time and date—you're not restricted to changing the timestamps to the present.
@@ -123,19 +109,6 @@ touch -d "2020-01-15 10:30:45" dp.c
 stat dp.c
 
 ![touch -d "2020-01-15 10:30:45" dp.c in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/5-6.png) 
-
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  We've now set the access and modified timestamps to a date in the past. The changed timestamp was also updated to the current time of the computer.
 
@@ -176,13 +149,62 @@ less /etc/fstab
 
 ![less /etc/fstab in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/7-6.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The /etc/fstab file is displayed for us, as shown below.
 
 ![The /etc/fstab file in less in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/8-5.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Here's the content of the file without the wrap-around:
 
         `# /etc/fstab: static file system information.  
+
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Use 'blkid' to print the universally unique identifier for a  
+
+## device; this may be used with UUID= as a more robust way to name devices  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## that works even if disks are added and removed. See fstab(5).  
 
 <!-- affiliate ads begin -->
 <a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
@@ -193,29 +215,14 @@ less /etc/fstab
 
 ## 
 
-## Use 'blkid' to print the universally unique identifier for a  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-## device; this may be used with UUID= as a more robust way to name devices  
-
-## that works even if disks are added and removed. See fstab(5).  
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-## 
-
 ## <file system> <mount point> <type> <options> <dump> <pass>  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## / was on /dev/sda1 during installation  
 UUID=4a143d08-8695-475b-8243-b13b56050fc2 / ext4 errors=remount-ro 0 1  
@@ -234,10 +241,10 @@ cat /proc/mounts | grep "sda"
 ![cat /proc/mounts | grep "sda" in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/9-6.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now we see the following options:
@@ -252,13 +259,6 @@ cat /proc/mounts | grep "sda"
 * When no access timestamp options are used in /etc/fstab, and you're using Linux kernel 2.6.30 or newer.
 
  Our /etc/fstab entry for the ext4 file system didn't specify any access timestamp update options, so Linux made the sensible choice and used relatime.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Timestamps Are Important
 
@@ -289,18 +289,24 @@ cat /proc/mounts | grep "sda"
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-hidden-gems-10-unique-facebook-meme-pages/"><u>[Updated] 2024 Approved Hidden Gems 10 Unique Facebook Meme Pages</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-from-standard-to-spectacular-the-transformative-power-of-high-dynamic-range/"><u>[Updated] In 2024, From Standard to Spectacular The Transformative Power of High Dynamic Range</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-world-of-alternative-augmented-reality-decorations/"><u>[Updated] Unveiling the World of Alternative Augmented Reality Decorations</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-streamlining-time-tracking-for-youtube-videos/"><u>2024 Approved Streamlining Time Tracking for YouTube Videos</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-gionee-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Gionee</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/evaluating-echo-dot-vs-homepod-mini-which-one-wins-in-functionality/"><u>Evaluating Echo Dot Vs. HomePod Mini - Which One Wins in Functionality</u></a></li>
-<li><a href="https://facebook.techidaily.com/experience-seamless-file-retrieval-stellar-releases-redesigned-user-friendly-data-rescue-application/"><u>Experience Seamless File Retrieval: Stellar Releases Redesigned, User-Friendly Data Rescue Application</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/from-viral-soundtracks-to-personalized-phone-alerts-a-how-to-guide/"><u>From Viral Soundtracks to Personalized Phone Alerts – A How-To Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-voice-manipulation-in-ps-console-titles/"><u>In 2024, The Art of Voice Manipulation in PS Console Titles</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-aerial-shots-the-full-potential-of-mi-drone/"><u>In 2024, Unveiling Aerial Shots The Full Potential of MI Drone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-the-art-of-sharpened-internet-video-views-for-2024/"><u>Mastering the Art of Sharpened Internet Video Views for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/profiles-vs-screen-names-on-social-platforms-explained/"><u>Profiles vs Screen Names on Social Platforms Explained</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-art-of-attraction-how-to-increase-video-likes-on-tiktok-for-2024/"><u>The Art of Attraction How to Increase Video Likes on TikTok for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-pinnacle-5-iphone-apps-for-auditory-escapades-for-2024/"><u>[New] Pinnacle 5 iPhone Apps for Auditory Escapades for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-selecting-superior-sound-10-top-mic-recommendations/"><u>[New] Selecting Superior Sound 10 Top Mic Recommendations</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-vida-journey-from-raw-footage-to-cinematic-scene/"><u>[New] The Vida Journey From Raw Footage to Cinematic Scene</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlock-the-power-of-free-screen-recording-in-win11/"><u>[New] Unlock the Power of Free Screen Recording in Win11</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-become-a-youtube-visionary-with-these-production-insights/"><u>[Updated] In 2024, Become a YouTube Visionary with These Production Insights</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-art-of-matching-fpv-drones-with-ideal-blades/"><u>[Updated] The Art of Matching FPV Drones with Ideal Blades</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-10-high-quality-photography-lenses/"><u>[Updated] Top 10 High-Quality Photography Lenses</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-invite-and-guest-at-tiktok-lives-easily/"><u>2024 Approved Invite and Guest at TikTok Lives Easily</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-spotify-how-to-halt-default-podcast-additions/"><u>2024 Approved Spotify How to Halt Default Podcast Additions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamlining-tiktok-production-zooms-role/"><u>2024 Approved Streamlining TikTok Production Zoom's Role</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-pinnacle-of-voice-recording-a-comprehensive-tome/"><u>2024 Approved The Pinnacle of Voice Recording A Comprehensive Tome</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capturing-adventure-an-in-depth-gopro-model-review-for-2024/"><u>Capturing Adventure An In-Depth GoPro Model Review for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-no-frills-guide-to-basic-hdr-techniques/"><u>In 2024, The No-Frills Guide to Basic HDR Techniques</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/maximize-speeds-on-dell-xps-7002-a-comprehensive-guide-to-ssd-enhancement/"><u>Maximize Speeds on Dell XPS 7002: A Comprehensive Guide to SSD Enhancement</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-workspace-the-ultimate-guide-to-the-surprising-power-feature-in-the-latest-12-port-thunderbolt-dock-for-enhanced-windows-experience-zdnet53/"><u>Revolutionize Your Workspace: The Ultimate Guide to the Surprising Power Feature in the Latest 12-Port Thunderbolt Dock for Enhanced Windows Experience | ZDNET</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/troubleshooting-your-chatgpt-experience-6-errors-and-their-remedies-uncovered/"><u>Troubleshooting Your ChatGPT Experience: 6 Errors and Their Remedies Uncovered</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-full-potential-of-canon-cams-with-gratuitous-and-fee-based-luts-for-2024/"><u>Unlock Full Potential of Canon Cams with Gratuitous & Fee-Based LUTs for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-top-criteria-for-selecting-fpv-drones-propellers-for-2024/"><u>Unveiling Top Criteria for Selecting FPV Drones' Propellers for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1726221995080-mp4-mjpeg-movavi/"><u>오픈 소스에서 제공 무용 MP4-MJPEG 전환 - MOVAVI</u></a></li>
 </ul></div>
 
