@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Resolving Windows Spotlight Malfunctions Effortlessly"
-date: 2024-11-06T16:07:25.390Z
-updated: 2024-11-10T18:04:10.247Z
+date: 2024-11-17T03:25:57.825Z
+updated: 2024-11-19T21:10:55.472Z
 tags:
   - deals
 categories:
@@ -41,22 +41,15 @@ thumbnail: https://thmb.techidaily.com/865974c7bb05387b6277d30c79ecdc49aad19ee23
 
 ![Windows 11 Settings showing the Personalization options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-settings-showing-the-personalization-options.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click the "Personalize Your Background/Lock Screen" dropdown and select "Picture" to turn it off.
 
 ![Windows 11 Settings showing the Personalization options for lock screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-settings-showing-the-personalization-options-for-lock-screen.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  On Windows 10, go to Settings > Personalization > Lock Screen. Click the "Background" dropdown, and choose "Picture."
@@ -64,6 +57,13 @@ thumbnail: https://thmb.techidaily.com/865974c7bb05387b6277d30c79ecdc49aad19ee23
 ![Windows 10 settings app showing the Windows Spotlight personalization option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-10-settings-app-showing-the-windows-spotlight-personalization-option.png) 
 
  After that, restart your computer and [set your background and lock screen to Windows Spotlight](https://video-capture.techidaily.com/updated-capturing-perfection-a-deep-dive-into-apeaksofts-technology-for-2024/) again.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Re-register the Windows Spotlight Service
 
@@ -79,13 +79,6 @@ thumbnail: https://thmb.techidaily.com/865974c7bb05387b6277d30c79ecdc49aad19ee23
     
 ![Windows 10 PowerShell console running a command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-10-powershell-console-running-a-command.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Wait while PowerShell re-registers the Windows Content Delivery Manager component. If you see an error, restart your computer and try again.
 
 ##  Reset Windows Spotlight Settings
@@ -100,26 +93,13 @@ thumbnail: https://thmb.techidaily.com/865974c7bb05387b6277d30c79ecdc49aad19ee23
 
 ![Windows 10 desktop showing two File Explorer sessions in side-by-side comparison.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-10-desktop-showing-two-file-explorer-sessions-in-side-by-side-comparision.png) 
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next, repeat the steps for the "roaming.lock" file, renaming it to "roaming.lock.bak". Once done, restart your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Delete Existing Windows Spotlight Assets
@@ -144,23 +124,9 @@ thumbnail: https://thmb.techidaily.com/865974c7bb05387b6277d30c79ecdc49aad19ee23
 
 ![Windows 11 Settings app showing the Network & internet screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-settings-app-showing-network-internet-screen-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Ensure the "Metered Connection" switch is set to "Off."
 
 ![Windows 11 Settings app showing metered connection turned off for Ethernet screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-settings-app-showing-turned-off-metered-connection-for-ethernet-screen.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To manage your wireless network, go to Wi-Fi > Manage Known Networks.
 
@@ -172,9 +138,23 @@ thumbnail: https://thmb.techidaily.com/865974c7bb05387b6277d30c79ecdc49aad19ee23
 
 ![Windows 10 Settings app showing the Network & internet screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-10-settings-app-showing-network-internet-screen.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Under "Metered Connections," toggle the "Set as Metered Connection" switch to turn it off.
 
 ![Windows 10 Settings app showing the metered connection for Ethernet screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-110-settings-app-showing-turned-off-metered-connection-for-ethernet-screen.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Enable Background Apps (Windows 10)
 
@@ -185,6 +165,19 @@ thumbnail: https://thmb.techidaily.com/865974c7bb05387b6277d30c79ecdc49aad19ee23
  Navigate to Settings > Privacy > Background Apps. Under "Background Apps," make sure the "Let Apps Run in the Background" option is turned on.
 
 ![Windows 10 Settings App showing the Background apps configuration screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-10-settings-app-showing-background-apps-configuration-screen-1.png) 
+
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Restart your computer to apply the changes.
 
@@ -213,15 +206,22 @@ thumbnail: https://thmb.techidaily.com/865974c7bb05387b6277d30c79ecdc49aad19ee23
 ![Windows 11 Settings app showing the Network reset option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-settings-app-showing-the-network-reset-option.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  On Windows 10, go to Settings > Network & Internet > Status. Under "Advanced Network Settings," select "Network Reset."
 
 ![Windows 10 Settings app showing the Network reset option screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-10-settings-app-showing-the-network-reset-option-screen.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Click "Reset Now" and choose "Yes" to confirm the action.
 
@@ -248,22 +248,24 @@ thumbnail: https://thmb.techidaily.com/865974c7bb05387b6277d30c79ecdc49aad19ee23
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-live-soundscape-websites/"><u>[New] Ultimate Live Soundscape Websites</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-privacy-first-reader-of-facebook-snapshots/"><u>[Updated] In 2024, Privacy-First Reader of Facebook Snapshots</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-considerations-for-enhancing-your-4k-cinematic-quality/"><u>[Updated] Top Considerations for Enhancing Your 4K Cinematic Quality</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-true-color-equalizer/"><u>[Updated] True Color Equalizer</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-budding-entrepreneurs-mastering-telegram-advertising-basics/"><u>2024 Approved Budding Entrepreneurs Mastering Telegram Advertising Basics</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-gathering-free-photo-display-videos/"><u>2024 Approved The Art of Gathering Free Photo Display Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-turbocharge-your-photos-windows-11-edition/"><u>2024 Approved Turbocharge Your Photos Windows 11 Edition</u></a></li>
-<li><a href="https://win-latest.techidaily.com/5-effective-methods-to-repair-erase-all-content-and-settings-issues-on-your-device/"><u>5 Effective Methods to Repair 'Erase All Content & Settings' Issues on Your Device</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/critical-insights-why-blind-trust-in-ai-isnt-wise/"><u>Critical Insights: Why Blind Trust in AI Isn't Wise</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-from-apple-iphone-15-pro-max-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out From Apple iPhone 15 Pro Max How to Bypass?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-vivo-y27-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Vivo Y27 5G Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-pixiz-guide-to-blending-photography-and-motion/"><u>In 2024, The Pixiz Guide to Blending Photography and Motion</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-this-years-most-engrossing-channel-list-youtube-storytellers/"><u>In 2024, This Year’s Most Engrossing Channel List YouTube Storytellers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/photo-vid-mosaic-designer-slideshows-for-sierra-for-2024/"><u>Photo-Vid Mosaic Designer Slideshows for Sierra for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/secure-your-hp-officejet-5255-with-updated-drivers-download-here/"><u>Secure Your HP OfficeJet 5255 with Updated Drivers - Download Here!</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-8-premium-and-gratis-mobile-video-mosaic-tools-for-android-for-2024/"><u>Top 8 Premium & Gratis Mobile Video Mosaic Tools for Android for 2024</u></a></li>
-<li><a href="https://discover-data.techidaily.com/ultimate-selection-of-complimentary-mac-to-pc-file-sharing-solutions/"><u>Ultimate Selection of Complimentary Mac to PC File Sharing Solutions</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-building-a-visual-story-on-facebook-with-slideshows-for-2024/"><u>[New] Building a Visual Story on Facebook with Slideshows for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-proven-techniques-for-capturing-dynamic-and-engaging-ppts/"><u>[New] In 2024, Proven Techniques for Capturing Dynamic and Engaging PPTs</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-vmixfusion-for-dual-environments-for-2024/"><u>[New] VMixFusion for Dual Environments for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-realme-c51-frp-bypass-by-drfone-android/"><u>About Realme C51 FRP Bypass</u></a></li>
+<li><a href="https://fox-access.techidaily.com/best-subtitle-converters-win-and-mac-edition-leading-8-sbt-to-srtr-tools-for-2024/"><u>Best Subtitle Converters Win & Mac Edition, Leading 8 SBT to SRTR Tools for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/can-apples-gaming-performance-on-macs-match-pc-rivals-and-win-over-gamers/"><u>Can Apple's Gaming Performance on Macs Match PC Rivals and Win Over Gamers?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/compatibility-issues-with-windows-11-built-in-software-emerging-in-certain-computers/"><u>Compatibility Issues with Windows 11 Built-In Software Emerging in Certain Computers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/comprehensive-guide-to-setting-up-full-screen-color-selection-tools-in-windows-10/"><u>Comprehensive Guide to Setting Up Full-Screen Color Selection Tools in Windows 10</u></a></li>
+<li><a href="https://some-skills.techidaily.com/comprehensive-guide-easily-setting-up-and-controlling-fonts-on-macos/"><u>Comprehensive Guide: Easily Setting Up & Controlling Fonts on macOS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/creating-an-impressive-windows-desktop-mastering-rainmeter-customization-techniques/"><u>Creating an Impressive Windows Desktop: Mastering Rainmeter Customization Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/direct-microsoft-store-installers-now-available-streamline-your-setup/"><u>Direct Microsoft Store Installers Now Available: Streamline Your Setup!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/directx12-flaw-affecting-halo-infinite-release/"><u>DirectX12 Flaw Affecting Halo Infinite Release</u></a></li>
+<li><a href="https://some-skills.techidaily.com/disabling-microsoft-defender-antivirus-in-windows-11-a-step-by-step-guide/"><u>Disabling Microsoft Defender Antivirus in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/discover-the-ultimate-gaming-browser-choices-for-microsoft-windows-users/"><u>Discover the Ultimate Gaming Browser Choices for Microsoft Windows Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discovering-the-hidden-world-of-facebook-marketplace-how-to-access-it-now/"><u>Discovering the Hidden World of Facebook Marketplace – How to Access It Now</u></a></li>
+<li><a href="https://some-skills.techidaily.com/essential-12-apple-macintosh-utility-programs-the-must-have-tools-for-solo-users/"><u>Essential 12 Apple Macintosh Utility Programs: The Must-Have Tools for Solo Users</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-apple-iphone-15-video-to-computer-drfone-by-drfone-ios/"><u>How to Stream Apple iPhone 15 Video to Computer? | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/transform-video-vendoring-into-virtual-ventures-and-valuables/"><u>Transform Video Vendoring Into Virtual Ventures and Valuables</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-syma-x5c-rc-flying-device-an-entry-level-model-with-high-value/"><u>Unveiling the SYMA X5C RC Flying Device: An Entry-Level Model with High Value</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unlock Secrets of WhatsApp: Essential Eight Underutilized Features Revealed!"
-date: 2024-11-10T00:50:31.081Z
-updated: 2024-11-10T20:43:53.104Z
+date: 2024-11-16T17:56:53.869Z
+updated: 2024-11-19T22:27:16.936Z
 tags:
   - web
 categories:
@@ -44,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
 
 ![Excluding some contacts from seeing my status on WhatsApp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-excluding-some-contacts-from-seeing-my-status-on-whatsapp.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3  Prevent Others From Seeing You’ve Read Their Messages 
 
  When you read a message on WhatsApp, blue check marks appear under it, indicating to the sender that you've seen it. This can create an expectation for you to respond immediately, which might be problematic if you're busy and can't reply right away. To tackle this dilemma, WhatsApp allows you to [disable the read receipts feature](https://screen-capture.techidaily.com/new-from-raw-footage-to-excellence-the-webcam-edition/).
@@ -52,7 +59,27 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
 
 ![Disabling read receipts in WhatsApp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-disabling-read-receipts-in-whatsapp.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  However, this feature works both ways: you also won't be able to see when others have read your messages. Also, remember that this setting doesn't apply to group chats.
+
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4  Create Custom Notifications for Specific Chats 
 
@@ -63,22 +90,15 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
 ![Selecting a custom alert tone for a contact in WhatsApp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-selecting-a-custom-alert-tone-in-whatsapp.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  On Android, you can choose separate tones for messages and calls. On the iPhone, you can only select a single tone for all alerts.
 
 ![Selecting a custom call or text notification tone for a specific contact in WhatsApp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-selecting-a-new-tone-for-specific-contacts-in-whatsapp.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5  Send a Message to Multiple Contacts at Once 
 
@@ -90,13 +110,6 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
 
 ![Creating a new broadcast list in WhatsApp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-creating-a-new-broadcast-list-in-whatsapp.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6  Use Avatars and Custom Stickers 
 
  WhatsApp lets you create an avatar either automatically by taking a selfie or manually by choosing your skin tone, hairstyle, and other features. Once created, you'll have access to custom stickers featuring your avatar, which you can use in chats. You can also use different images of your avatar for your profile picture.
@@ -106,16 +119,10 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
 ![Options to create an avatar manually or automatically](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-options-to-create-an-avatar-manually-or-automatically.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once your avatar is ready, you'll see two options: "Browse Stickers," where you can see and [use custom stickers](https://youtube-clips.techidaily.com/shaping-viewers-attention-employing-jump-cuts-in-video-editing/), and "Create Profile Photo," where you can select an avatar image for your profile picture.
@@ -130,16 +137,23 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
 
 ![Selecting a custom chat wallpaper for a contact in WhatsApp on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/7-selecting-a-new-whatsapp-wallpaper-in-whatsapp.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To set a custom wallpaper for a contact on Android, open the chat, tap the three vertical dots in the top-right corner, and select "Wallpaper." Then, choose a wallpaper and tap "Set Wallpaper." When prompted, select "For This Chat."
 
 ![Changing a wallpaper for a particular chat in WhatsApp on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-changing-a-wallpaper-for-a-particular-chat-in-whatsapp.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8  Share Your Live Location with Others 
 
@@ -149,33 +163,19 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
 
 ![The menu to share the location in WhatsApp.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/8-trying-to-share-the-location-in-whatsapp.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next, tap "Share Live Location," choose how long you want to share it, add a caption if you'd like, and tap the send button. Your contact will see your exact location, and they can also share their live location with you if they wish.
 
 ![Selecting the duration of live location sharing in WhatsApp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/11-selecting-the-duration-or-live-location-sharing-in-whatsapp.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To stop sharing your location with a particular contact, tap "Stop Sharing."
 
 ![Stopping the location sharing in WhatsApp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/10-stopping-the-location-sharing-in-whatsapp.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -197,19 +197,21 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-visual-storytelling-hack-crafting-youtube-thumbnails-on-mobiles/"><u>[New] 2024 Approved Visual Storytelling Hack Crafting YouTube Thumbnails on Mobiles</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-camstudio-screen-capturing-a-comprehensive-analysis-users-for-2024/"><u>[Updated] CamStudio Screen Capturing A Comprehensive Analysis Users for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-the-ultimate-11-easy-to-operate-kids-wet-weather-camcorders/"><u>[Updated] In 2024, The Ultimate 11 Easy-to-Operate Kids' Wet Weather Camcorders</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-techniques-for-ios-users-producing-and-transforming-tranquil-videos/"><u>[Updated] Techniques for iOS Users Producing and Transforming Tranquil Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-building-podcast-rss/"><u>[Updated] The Ultimate Guide to Building Podcast RSS</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-transform-ordinary-unboxings-into-viral-phenomena-on-insta/"><u>[Updated] Transform Ordinary Unboxings Into Viral Phenomena on Insta</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-silence-to-soundscape-embedding-mp3s-in-presentations/"><u>2024 Approved From Silence to Soundscape Embedding MP3s in Presentations</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-parrots-at-play-unpacking-bebops-next-gen-flight/"><u>2024 Approved Parrots at Play Unpacking Bebop’s Next-Gen Flight</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-tecno-spark-10-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Tecno Spark 10 5G to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-processes-adding-tracks-to-your-custom-youtube-collection/"><u>In 2024, Streamlining Processes Adding Tracks to Your Custom YouTube Collection</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-samsung-galaxy-f04-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Samsung Galaxy F04 | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/spectral-perfection-program-for-2024/"><u>Spectral Perfection Program for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-dos-and-donts-of-interacting-with-youtube-viewers-for-2024/"><u>The Do's and Don'ts of Interacting with YouTube Viewers for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlock-the-mystery-of-your-iphone-stuck-on-hold-when-charging-8-tips-to-try/"><u>Unlock the Mystery of Your iPhone Stuck on Hold When Charging - 8 Tips to Try</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-instagrams-newest-filters-how-to-use-them-for-impact/"><u>[New] Instagram's Newest Filters How to Use Them for Impact</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/aking-your-mark-with-youtubes-creative-commons-tools/"><u>[New] Making Your Mark with YouTube’s Creative Commons Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-revolutionary-impact-future-of-vr-cinematic-experience/"><u>[New] The Revolutionary Impact Future of VR Cinematic Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-inshots-potential-with-your-own-songs/"><u>[New] Unlocking InShot's Potential with Your Own Songs</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-premier-editing-software-for-mobile-app-creation/"><u>[Updated] In 2024, Premier Editing Software for Mobile App Creation</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-untapped-realities-of-instagram-story-watchers-for-2024/"><u>[Updated] Untapped Realities of Instagram Story Watchers for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-prestigious-websites-elevating-youtube-content/"><u>2024 Approved Prestigious Websites Elevating YouTube Content</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-visuals-detailed-guide-to-hero5-black-proficiency/"><u>2024 Approved Unlocking Visuals Detailed Guide to Hero5 Black Proficiency</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/affordable-ways-to-transform-your-dorm-into-a-personalized-wireless-cinema-experience/"><u>Affordable Ways to Transform Your Dorm Into a Personalized Wireless Cinema Experience</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210772923-9781649691415-echoes-through-eternity/"><u>Echoes Through Eternity | Free Book</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unmatched-mounting-premier-photos-tripods/"><u>In 2024, Unmatched Mounting Premier Photos Tripods</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-eternal-gallery-of-commons-artworks-online-for-2024/"><u>The Eternal Gallery of Commons Artworks Online for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-ultimate-step-by-step-process-for-transforming-videos-through-dubbing-using-filmora-for-2024/"><u>The Ultimate Step-by-Step Process for Transforming Videos Through Dubbing Using Filmora for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transformez-facilement-votre-fichier-voc-en-wma-pour-gratuit-service-en-ligne-de-movavi/"><u>Transformez Facilement Votre Fichier VOC en WMA Pour Gratuit - Service en Ligne De Movavi</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultra-30-action-camera-by-garmin-detailed-reviews-and-features-for-2024/"><u>Ultra 30 Action Camera by Garmin – Detailed Reviews & Features for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/uncharted-top-free-speech-to-text-for-mac-users-for-2024/"><u>Uncharted Top Free Speech-to-Text for Mac Users for 2024</u></a></li>
 </ul></div>
 

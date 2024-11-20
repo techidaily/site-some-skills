@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Installing and Configuring Windows 11 with Alternative Login Options"
-date: 2024-11-07T01:48:34.826Z
-updated: 2024-11-10T17:34:38.295Z
+date: 2024-11-18T16:22:20.405Z
+updated: 2024-11-19T23:40:25.303Z
 tags:
   - desktop
 categories:
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/f78d1d150df9704e5a6635f2d8f1d9b65ffaf1875
 
 ![The &quot;No Internet&quot; error message the Windows 11 installer gives you.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/Error-disconnecting.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  There are a few tricks to try, but Windows is wise to many of these. The first involves cutting off your internet connection when you're prompted to add a Microsoft account. This involves either pulling out your Ethernet cable (if you use one) or hitting Shift+F10 and typing **ipconfig /release** followed by Enter. Hit the "back" arrow to go back one step and create a local username and password then complete the setup as normal.
 
  Another involves confusing Windows by inputting an email address that has been used too many times. The go-to email for this method is "no@thankyou.com" which you can add on the "Let's add your Microsoft account" screen. Type a random password and hit the "Sign in" button. Windows may respond with an "Oops" error and give you a "Next" prompt. From here you can create a local account and proceed as normal.
@@ -37,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/f78d1d150df9704e5a6635f2d8f1d9b65ffaf1875
  Of course, there's no guarantee either of these methods will work, and when we tested them last, they were no longer working. A _far_ more reliable method is to install Windows 11 from scratch with custom bootable media or to use a special command. You can also set up Windows 11 with a Microsoft account and then either convert that Microsoft account to a local account or create a new local account and delete the Microsoft account from your system.
 
  Mac users who are [setting up Windows 11 inside of Parallels Desktop](https://some-knowledge.techidaily.com/in-2024-fast-forward-features-unveiled-the-editors-guidebook/) can skip the Microsoft account linking process. The virtualization software allows you to set up Windows "hands-free" and leaves you with a local account.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Bypass Windows 11 Microsoft Account Requirement Using Command Prompt
 
@@ -52,31 +66,11 @@ oobe\bypassnro
 
 ![The bypassnro command running in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/oobebypassnrocommand.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now, you should _completely disconnect your PC from the Internet_ at this point. If Windows 11 detects an Internet connection it will continue to try and force you to sign in with a Microsoft account. However, if you're disconnected from the Internet you'll see an "I Don't Have Internet" option, or you'll be prompted to create a local account immediately. 
 
 Close 
 
  Click "Continue with limited setup" on the next page if it appears, and then you'll be able to create a local account with a password and three security questions.
-
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Install Windows 11 Without a Microsoft Account Using Rufus
 
@@ -95,13 +89,6 @@ Close
  Head over to [Microsoft's Windows 11 download page](https://www.microsoft.com/software-download/windows11), select "Windows 11 (multi-edition ISO)" from the dropdown list, then click "Download." You'll need to pick your language, then hit "Confirm." The ISO is about 5 gigabytes, so don't expect it to be done instantly.
 
 ![Downloading the latest Windows 11 ISO for all versions of Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/download-the-windows-11-iso.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Using Rufus to create a bootable USB drive will completely erase the contents of that drive. Make sure you save any important files on it before you proceed.
 
@@ -125,18 +112,18 @@ Close
 
  It is smooth sailing after you change the boot order. Windows 11 will walk you through the rest of the installation process.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Create a Local Account on Windows 11
 
  You can create additional Windows accounts that aren't linked to existing Microsoft Accounts, though it's easy to miss the cues. To do this, launch the Settings app and then navigate to Accounts > Other users. Click on the "Add Account" button to create another user account.
 
 ![The 'Other Users' section of the Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/other-users.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  A new window will appear inviting you to type the email address or phone number of the person you wish to add. You can dismiss this using the "I don't have this person's sign in information" link just below the text field. 
 
@@ -149,10 +136,10 @@ Close
  The account will now be added to your computer. Click on Start followed by your username then select "Sign out" to log in to the account.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Convert an Existing Microsoft Account to a Local Account
@@ -183,6 +170,13 @@ Close
 
 ![Changing the account type from standard to administrator.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/change-accont-type.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can now log in to the other (local) account that you have created. Head to Settings > Accounts > Other users, select the (Microsoft) account you want to remove, and click "Remove" next to the "Account and data" field.
 
  This will delete your user account and data. This technique works best immediately following a Windows 11 install when you haven't added data or customized your account.
@@ -208,21 +202,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-nikons-1j5-videographer-a-spectacle-in-4k/"><u>[New] In 2024, Nikon's 1J5 Videographer A Spectacle in 4K</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-power-of-multitasking-mastering-ffpm/"><u>[New] The Power of Multitasking Mastering FFPM</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-turbocharged-windows-content-assessment/"><u>[New] Turbocharged Windows Content Assessment</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-understanding-your-srt-equipment-like-a-pro/"><u>[New] Understanding Your SRT Equipment Like a Pro</u></a></li>
-<li><a href="https://win11.techidaily.com/11-different-ways-to-uninstall-software-in-windows-11/"><u>11 Different Ways to Uninstall Software in Windows 11</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-revolutionize-your-teams-productivity-with-these-tools/"><u>2024 Approved Revolutionize Your Team's Productivity with These Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unleashing-full-potential-of-firefox-x-pie-mode/"><u>2024 Approved Unleashing Full Potential of Firefox X-Pie Mode</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-the-art-of-photographic-posts-on-instagram/"><u>2024 Approved Unlocking the Art of Photographic Posts on Instagram</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-the-world-of-no-cost-picture-frame-movies/"><u>2024 Approved Unlocking the World of No-Cost Picture Frame Movies</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725285137457-dvd/"><u>無料で安全かつ合法的なDVDクローニング手段が明らかに！リッピング規制を回避する完全ガイド</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-to-restore-your-windows-11-computers-broken-usb-connections/"><u>Effective Solutions to Restore Your Windows 11 Computer's Broken USB Connections</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-honor-play-7t-frp-by-drfone-android/"><u>How Can We Bypass Honor Play 7T FRP?</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-content-creators-den/"><u>In 2024, Content Creator's Den</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-oppo-find-n3-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Oppo Find N3 Face Lock?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unraveling-cuts-in-imovie-size-modification-mystery/"><u>In 2024, Unraveling Cuts in iMovie Size Modification Mystery</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/leading-5-drones-the-ultimate-professional-buy-guide-for-2024/"><u>Leading 5 Drones - The Ultimate Professional Buy Guide for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-live-streaming-simplified-a-guide-to-using-onestream/"><u>[New] 2024 Approved Live Streaming Simplified A Guide to Using OneStream</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-superior-style-for-text-mobility/"><u>[New] 2024 Approved Superior Style for Text Mobility</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-stepwise-addition-of-language-overlays-in-igtv-videos-for-2024/"><u>[Updated] Stepwise Addition of Language Overlays in IGTV Videos for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/all-you-need-to-know-about-mega-greninja-for-poco-c65-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exclusive-review-the-ultimate-connectivity-experience-by-asus-rog-rapture-gt-ax11000-gaming-router/"><u>Exclusive Review: The Ultimate Connectivity Experience by Asus ROG Rapture GT-AX11000 Gaming Router</u></a></li>
+<li><a href="https://some-skills.techidaily.com/rekindling-interest-in-cds-and-dvds-through-innovative-disc-advancements/"><u>Rekindling Interest in CDs and DVDs Through Innovative Disc Advancements</u></a></li>
+<li><a href="https://some-skills.techidaily.com/resolving-the-unprocessable-entity-issue-in-chatbot-interactions/"><u>Resolving the 'Unprocessable Entity' Issue in Chatbot Interactions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/revolutionary-3d-ink-requires-just-saltwater-no-light-or-heat-needed/"><u>Revolutionary 3D Ink Requires Just Saltwater: No Light or Heat Needed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/revolutionizing-search-discover-how-chatgpt-is-transforming-with-duckduckgo/"><u>Revolutionizing Search: Discover How ChatGPT Is Transforming with DuckDuckGo</u></a></li>
+<li><a href="https://some-skills.techidaily.com/step-by-step-tutorial-installing-and-running-chatgpt-in-windows-environment/"><u>Step-by-Step Tutorial: Installing and Running ChatGPT in Windows Environment</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/steps-to-deactivate-the-built-in-news-feed-of-windows-11-os/"><u>Steps to Deactivate the Built-In News Feed of Windows 11 OS</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamline-your-steam-screenshot-process/"><u>Streamline Your Steam Screenshot Process</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-basics-of-dexs-how-decentralized-exchange-systems-work-in-the-crypto-world/"><u>The Basics of DEXs: How Decentralized Exchange Systems Work in the Crypto World</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-future-of-wearable-tech-what-are-smart-rings-heading-towards/"><u>The Future of Wearable Tech: What Are Smart Rings Heading Towards?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-rated-smart-eyewear-options-a-buyers-guide/"><u>Top-Rated Smart Eyewear Options : A Buyer's Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Accessing Your Recent Copied Items in macOS"
-date: 2024-11-09T04:26:50.274Z
-updated: 2024-11-10T23:41:21.429Z
+date: 2024-11-13T20:47:10.933Z
+updated: 2024-11-19T17:18:44.494Z
 tags:
   - desktop
 categories:
@@ -29,18 +29,25 @@ thumbnail: https://thmb.techidaily.com/2dd2e24a58c5be887d5c8f88ca29fd663a35485ed
 
 ![The Finder clipboard view in macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/the-finder-clipboard-view-in-macos.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The clipboard viewer is a [useful Finder feature](https://remote-screen-capture.techidaily.com/in-2024-low-cost-android-calls-highest-ranking-options/) that can be handy if you simply need to check what's on the clipboard right now, especially if you do a lot of [copying and pasting on your Mac](https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-itel-s23plus-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/). But it's pretty limited otherwise.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to See Your Mac Clipboard History
 
  If you want more control over the clipboard, and to be able to view and work with your clipboard history in particular, you need a third-party app. There are quite a few apps available that can do this, but we recommend two that offer different features depending on your needs.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Maccy: A Lightweight, Free Clipboard Manager
 
@@ -55,10 +62,10 @@ thumbnail: https://thmb.techidaily.com/2dd2e24a58c5be887d5c8f88ca29fd663a35485ed
 ![Maccy preferences](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/maccy-preferences.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can now use the app as a full clipboard replacement. Just click the icon in the menu bar to see a list of all the items you've recently copied. There are keyboard shortcuts assigned to the latest nine items on the list; otherwise, just find the item in the list and click it to paste it into a document. There's also a search box to help you find what you're looking for.
@@ -66,26 +73,32 @@ thumbnail: https://thmb.techidaily.com/2dd2e24a58c5be887d5c8f88ca29fd663a35485ed
 ![Selecting items from the clipboard history in Maccy.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/select-items-from-the-clipboard-history-in-maccy.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Maccy has a lot of extra options worth exploring in the Preferences, including some that are useful for privacy. For example, the "Ignore" tab lets you exclude certain apps from having their contents copied to the clipboard, and the "Advanced" tab has a "Clear history on quit" option that ensures nothing will remain on your clipboard for too long.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Pasty: A Premium Clipboard History Tool
 
  If you need a bit more power, there are a lot of paid options to choose from. [Pasty](https://getpasty.app) is a good choice, as it's functional enough to use for free. You can upgrade to the full version through the [App Store](https://apps.apple.com/us/app/clipboard-manager-pasty/id1544620654) for a one-off lifetime payment of $14.99, or take your pick from monthly or yearly subscriptions.
 
 ![Pasty interface visible at the top of a macOS desktop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/pasty-places-a-bar-across-the-top-of-your-screen-when-activated.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Pasty provides a straightforward onboarding process when you first launch it that helps to get the app set up as you need it.
 
@@ -102,13 +115,6 @@ thumbnail: https://thmb.techidaily.com/2dd2e24a58c5be887d5c8f88ca29fd663a35485ed
 ![Assigning content from the clipboard into a Space on Pasty](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/drag-and-drop-into-spaces-in-pasty.png) 
 
  Pasty also has some useful privacy features, including the ability to pause the app for a set time, to exclude specific apps from having content copied to the clipboard, and to automatically clear the clipboard after anywhere from an hour to a year.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Keep Your Clipboard History Secure on macOS
 
@@ -129,21 +135,16 @@ thumbnail: https://thmb.techidaily.com/2dd2e24a58c5be887d5c8f88ca29fd663a35485ed
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-subtitles-revolution-srt-to-sub-upgrade/"><u>[New] 2024 Approved Subtitles Revolution SRT to SUB Upgrade</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-unveiling-top-quality-hdr-camera-brands-and-models/"><u>[New] In 2024, Unveiling Top-Quality HDR Camera Brands and Models</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-streamlining-your-iphones-video-loops/"><u>[New] Streamlining Your iPhones Video Loops</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-transformative-visual-experiences-with-tiktok-enhancements/"><u>[New] Transformative Visual Experiences with TikTok Enhancements</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-a-step-by-step-tutorial-for-capturing-excellent-igtv-footage/"><u>[Updated] In 2024, A Step-by-Step Tutorial for Capturing Excellent IGTV Footage</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-tutorial-on-precise-audioshifting/"><u>[Updated] Ultimate Tutorial on Precise Audioshifting</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unleashing-potential-instagram-tiktok-sync-guidebook/"><u>[Updated] Unleashing Potential Instagram-TikTok Sync Guidebook</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-time-honored-top-15-in-the-world-of-stop-motion/"><u>2024 Approved Time-Honored Top 15 in the World of Stop-Motion</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unparalleled-costless-pixel-perfection-software/"><u>2024 Approved Unparalleled, Costless Pixel Perfection Software</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-best-print-quality-with-newest-epson-ds-530-windows-11-x64-drivers/"><u>Get the Best Print Quality with Newest Epson DS-530 Windows 11 X64 Drivers</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-huawei-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Huawei Lock Screen Password</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y78t-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y78t Bootloader Easily</u></a></li>
-<li><a href="https://some-skills.techidaily.com/techniques-to-combat-unsteady-shot-dynamics-for-2024/"><u>Techniques to Combat Unsteady Shot Dynamics for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-best-tools-in-magix-video-pro-x-for-editors-for-2024/"><u>The Best Tools in Magix Video Pro X for Editors for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-symphony-of-well-being-learn-from-asmr-for-2024/"><u>The Symphony of Well-Being – Learn From ASMR for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/top-strategies-to-improve-lag-issues-and-elevate-fps-in-the-f1-2021-pc-experience/"><u>Top Strategies to Improve Lag Issues and Elevate FPS in the F1 2021 PC Experience</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-loop-friendly-tv-setups-integrating-youtube-videos/"><u>[New] In 2024, Loop-Friendly TV Setups Integrating YouTube Videos</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/iny-videos-deciphered-crucial-elements/"><u>[New] Tiny Videos Deciphered Crucial Elements!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-fusing-art-and-technology-crafting-captivating-animation-videos-in-windows-movie-maker/"><u>2024 Approved Fusing Art & Technology Crafting Captivating Animation Videos in Windows Movie Maker</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-methods-to-enhance-frame-rates-and-reduce-lag-during-gaming-sessions-on-windows-machines/"><u>Effective Methods to Enhance Frame Rates and Reduce Lag During Gaming Sessions on Windows Machines</u></a></li>
+<li><a href="https://some-skills.techidaily.com/expanding-reach-googles-gemini-now-available-on-legacy-android-devices/"><u>Expanding Reach: Google's Gemini Now Available on Legacy Android Devices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/exploring-the-simplicity-of-the-modern-volkswagen-id3-a-button-free-design-approach/"><u>Exploring the Simplicity of the Modern Volkswagen ID.3: A Button-Free Design Approach</u></a></li>
+<li><a href="https://some-skills.techidaily.com/face-first-computing-takes-center-stage-in-depth-review-of-apples-game-changing-vision-pro-device/"><u>Face-First Computing Takes Center Stage: In Depth Review of Apple's Game-Changing Vision Pro Device</u></a></li>
+<li><a href="https://some-skills.techidaily.com/free-use-of-midjourney-service-to-be-permanently-discontinnued-says-official-statement/"><u>Free Use of Midjourney Service to Be Permanently Discontinnued, Says Official Statement</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-tackling-disruptions-in-video-transmissions-for-messenger-users-iosandroid/"><u>In 2024, Tackling Disruptions in Video Transmissions for Messenger Users iOS/Android</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/master-your-broadcasts-enhancing-online-presence-with-manycam-technology/"><u>Master Your Broadcasts: Enhancing Online Presence with ManyCam Technology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1723808150629-unlock-seamless-gaming-mastering-ps4s-remote-play-functionality-on-android-with-a-quick-tutorial/"><u>Unlock Seamless Gaming: Mastering PS4's Remote Play Functionality on Android with a Quick Tutorial!</u></a></li>
 </ul></div>
 

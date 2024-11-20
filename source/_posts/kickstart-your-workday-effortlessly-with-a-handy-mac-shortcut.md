@@ -1,7 +1,7 @@
 ---
 title: Kickstart Your Workday Effortlessly with a Handy Mac Shortcut!
-date: 2024-11-09T17:13:40.792Z
-updated: 2024-11-10T23:08:42.450Z
+date: 2024-11-15T21:52:08.892Z
+updated: 2024-11-19T18:37:57.625Z
 tags:
   - desktop
 categories:
@@ -20,10 +20,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  I’ve played around with [Apple’s Shortcuts app](https://win-solutions.techidaily.com/expert-tips-for-when-you-cant-get-far-cry-6-running-on-your-desktop/) to create all kinds of complicated processes. But my favorite shortcut, and the one I use the most by far, is actually ridiculously simple. All it does is open all my work apps, but I recommend it to everyone.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Makes This Shortcut So Great
@@ -41,16 +41,10 @@ Your browser does not support the video tag.
  But enough waxing lyrical about why I love this shortcut, here’s how to try it for yourself. Honestly, it couldn’t be easier.
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Create a Shortcut That Opens All Your Work Apps
@@ -70,10 +64,10 @@ Close
 ![Several actions to open apps in a Mac Shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/several-actions-to-open-apps-in-a-mac-shortcut.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  At the top of the Shortcuts window, type a name for your shortcut. I call mine “Start Working.” Then click the icon to edit the color and symbol if you want. Finally, click the Shortcut Details button in the top-right corner, shown by an “i” button, to choose how to launch this shortcut. I like to enable“Pin to Menu Bar” so I can run it from the menu bar with a couple of clicks, but you could create a keyboard shortcut if you prefer.
@@ -101,20 +95,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-how-to-upload-and-share-videos-seamlessly-on-instagram/"><u>[New] 2024 Approved How to Upload and Share Videos Seamlessly on Instagram</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-top-ten-webcam-enhancers-master-stream-quality/"><u>[New] The Top-Ten Webcam Enhancers Master Stream Quality</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-step-by-step-how-to-conduct-real-time-calls-via-whatsapp-on-pc/"><u>[Updated] 2024 Approved Step by Step How to Conduct Real-Time Calls via WhatsApp on PC</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-easy-steps-to-get-vrecorder-running-on-your-device-for-2024/"><u>[Updated] Easy Steps to Get VRecorder Running on Your Device for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-financials-of-boosting-your-youtube-videos/"><u>2024 Approved The Financials of Boosting Your YouTube Videos</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/avoiding-vr-discomfort-top-10-strategies/"><u>Avoiding VR Discomfort Top 10 Strategies</u></a></li>
-<li><a href="https://discover-able.techidaily.com/guia-completa-desencriptacion-y-rescate-de-datos-en-una-unidad-flash-segura/"><u>Guía Completa: Desencriptación Y Rescate De Datos en Una Unidad Flash Segura</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-honor-x9a-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor X9a without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-samsung-galaxy-a25-5g-easily-by-drfone-android/"><u>In 2024, How To Unlock a Samsung Galaxy A25 5G Easily?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-free-video-template-resources/"><u>In 2024, Top Free Video Template Resources</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-offline-voice-processor/"><u>In 2024, Ultimate Offline Voice Processor</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlock-the-full-potential-of-your-gopro-4k-recordings/"><u>In 2024, Unlock the Full Potential of Your GoPro 4K Recordings</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tips-for-leveraging-snapchats-star-feature-for-2024/"><u>Tips for Leveraging Snapchat's Star Feature for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-5-low-cost-pinterest-video-download-software-for-2024/"><u>Top 5 Low-Cost Pinterest Video Download Software for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ultimate-guide-to-top-unboxing-videos-2024-edition/"><u>Ultimate Guide to Top Unboxing Videos - 2024 Edition</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-key-youtube-policies-every-channel-owner-must-understand/"><u>[Updated] Key YouTube Policies Every Channel Owner Must Understand</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-best-10-elements-that-enthrall-filmora-users/"><u>[Updated] The Best 10 Elements That Enthrall Filmora Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-comprehensive-handbook-for-recording-calls/"><u>[Updated] The Comprehensive Handbook for Recording Calls</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-instructions-for-prolonged-iphone-shots/"><u>[Updated] The Ultimate Instructions for Prolonged iPhone Shots</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleash-your-potential-top-8-tablets-for-stellar-photo-editing/"><u>[Updated] Unleash Your Potential Top 8 Tablets For Stellar Photo Editing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleashing-potential-a-guide-for-solitary-showrunners/"><u>[Updated] Unleashing Potential A Guide for Solitary Showrunners</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-vivo-y17s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-ios-of-apple-iphone-xs-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS of Apple iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-15-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone 15 (4 Methods) | Stellar</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-special-features-virtual-location-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Realme GT 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-itel-a60s-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Itel A60s</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-the-art-of-managing-marvelous-beings-in-your-system/"><u>Mastering the Art of Managing Marvelous Beings in Your System</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unraveling-imperator-rome-a-gritty-tale-of-conquest-and-kingdom-building/"><u>Unraveling Imperator: Rome - A Gritty Tale of Conquest and Kingdom Building</u></a></li>
+<li><a href="https://some-skills.techidaily.com/what-is-ai-and-its-associated-dangers/"><u>What Is AI and Its Associated Dangers?</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-camera-issues-decoded-understanding-and-fixing-error-0xa00f4292/"><u>Windows Camera Issues Decoded: Understanding and Fixing Error 0xA00F4292</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Launching Google Chrome via Command Line in Windows 11"
-date: 2024-11-09T21:17:34.060Z
-updated: 2024-11-10T22:42:29.115Z
+date: 2024-11-15T17:40:38.444Z
+updated: 2024-11-19T16:24:32.512Z
 tags:
   - deals
 categories:
@@ -18,6 +18,13 @@ thumbnail: https://thmb.techidaily.com/5eb42b490725ed54872c9c11b47aee171fe6d7919
 * [Open Chrome in Incognito Mode](https://extra-support.techidaily.com/in-2024-sierras-cloud-essentials-drives-full-access-guide/)
 * [Open Chrome Straight to a Specific Website](https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
  Launch Command Prompt, then enter "start chrome" into the window to open Google Chrome. You can also run "start chrome /incognito" to open Chrome to an incognito tab instead, or run "start chrome example.com" to open Chrome to a specific website, replacing "example.com" with the address of the website or web page you want to open.
@@ -25,10 +32,16 @@ thumbnail: https://thmb.techidaily.com/5eb42b490725ed54872c9c11b47aee171fe6d7919
  You can do almost anything from the Command Prompt on Windows 10—even open the [Google Chrome web browser](https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/). You can also open Chrome in incognito mode or jump straight to a website. Here's how it's done.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Open Chrome Using Command Prompt
@@ -54,19 +67,6 @@ thumbnail: https://thmb.techidaily.com/5eb42b490725ed54872c9c11b47aee171fe6d7919
 ![Open the Run window, then enter "Chrome."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-chrome-in-run.png) 
 
  The web browser will now open.
-
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Open Chrome as Administrator
 
@@ -94,13 +94,20 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 
 ![Starting Chrome in incognito mode from a Run window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-chrome-incognito-run-window.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Chrome will now open in incognito mode.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Open Chrome Straight to a Specific Website
@@ -112,13 +119,6 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 `start chrome www.howtogeek.com` 
 
 ![Opening Chrome to howtogeek.com](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/7-starting-chrome-with-a-specific-website.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you have multiple profiles on Google Chrome, opening Chrome in this way to a specific website will automatically launch into the most recently used profile. 
 
@@ -135,10 +135,10 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 ![Opening Chrome to a specific website using a Run window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/9-run-howtogeek.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or, to open the site in incognito mode, use:
@@ -148,10 +148,10 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 ![Opening Chrome to a specific website in incognito mode using a Run box.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/10-run-chrome-incog-to-specific-site.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In general, you can combine most of the arguments you can pass to Chrome in the Command Prompt. You're not just limited to the incognito flag or a specific website.
@@ -171,18 +171,20 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-time-taken-to-watch-an-example-of-a-20mb-video/"><u>[New] Time Taken to Watch An Example of a 20MB Video</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unbeatable-online-headline-builder/"><u>[New] Unbeatable Online Headline Builder</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-summit-creation-pro-x-evaluation/"><u>[Updated] Summit Creation Pro X Evaluation</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-uniting-sight-and-sound-perfecting-videography-voiceovers/"><u>[Updated] Uniting Sight & Sound Perfecting Videography Voiceovers</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-realme-12-pro-5g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Realme 12 Pro 5G</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-backtrack-fabricator-set/"><u>2024 Approved Backtrack Fabricator Set</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-finest-picks-top-8-web-sites-with-rich-3d-and-gold-lined-texts/"><u>2024 Approved The Finest Picks Top 8 Web Sites with Rich 3D & Gold-Lined Texts</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/comparing-vr-to-360-degree-video-whats-the-distinction/"><u>Comparing VR to 360-Degree Video What's the Distinction?</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/cracking-the-code-calculating-your-income-from-youtubes-cpm-for-2024/"><u>Cracking the Code Calculating Your Income From YouTube's CPM for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Itel Phone without Any Data Loss</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-vivo-s17-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Vivo S17 Phone Screen?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-iphone-se-2022-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass iPhone SE (2022) Passcode Easily Video Inside</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-syncing-melodies-with-video-in-premiere-pro/"><u>In 2024, Syncing Melodies with Video in Premiere Pro</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-understanding-magixs-acid-pro-and-its-market-rivals/"><u>[Updated] 2024 Approved Understanding Magix's ACID Pro and Its Market Rivals</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-15-plusipad-drfone-by-drfone-virtual-ios/"><u>A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone 15 Plus/iPad | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/clashing-kings-the-top-battle-royale-games/"><u>Clashing Kings The Top Battle Royale Games</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/easy-tutorial-on-transforming-m4v-files-into-compatible-mp4-video-formats/"><u>Easy Tutorial on Transforming M4V Files Into Compatible MP4 Video Formats</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-tecno-camon-20-premier-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Tecno Camon 20 Premier 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-take-your-audio-to-the-next-level-top-10-editing-software/"><u>New Take Your Audio to the Next Level Top 10 Editing Software</u></a></li>
+<li><a href="https://some-skills.techidaily.com/securing-your-system-a-step-by-step-guide-to-locking-a-windows-10-pc-via-command-line/"><u>Securing Your System: A Step-by-Step Guide to Locking a Windows 10 PC via Command Line</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-power-of-ai-in-the-office-leveraging-chatgpt-for-smarter-workday-management/"><u>The Power of AI in the Office: Leveraging ChatGPT for Smarter Workday Management</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-unbeatable-deal-our-google-pixel-4a-5g-android-phone-review-explored/"><u>The Unbeatable Deal: Our Google Pixel 4a 5G Android Phone Review Explored</u></a></li>
+<li><a href="https://some-skills.techidaily.com/troubleshooting-guide-getting-your-non-responsive-wireless-mouse-back-online-on-windows-11/"><u>Troubleshooting Guide: Getting Your Non-Responsive Wireless Mouse Back Online on Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/troubleshooting-guide-resolving-windows-spotlight-malfunctions-effortlessly/"><u>Troubleshooting Guide: Resolving Windows Spotlight Malfunctions Effortlessly</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/ultimate-guide-convert-videos-for-playstation-portable-psp-models-psp-20003000gops3/"><u>Ultimate Guide: Convert Videos for PlayStation Portable (PSP) Models - PSP 2000/3000/Go/PS3</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-tutorial-for-using-cut-copy-and-paste-commands-on-windows-1011-systems/"><u>Ultimate Tutorial for Using Cut, Copy & Paste Commands on Windows 10/11 Systems</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-tutorial-enabling-specific-ports-in-windows-firewall-settings/"><u>Ultimate Tutorial: Enabling Specific Ports in Windows Firewall Settings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleash-the-power-of-crossover-24-on-mac-and-linux-for-free-optimize-your-pc-apps-today-at-a-sale-price/"><u>Unleash the Power of CrossOver 24 on Mac & Linux for Free - Optimize Your PC Apps Today at a Sale Price</u></a></li>
 </ul></div>
 

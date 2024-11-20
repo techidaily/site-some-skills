@@ -1,7 +1,7 @@
 ---
 title: Discover the Most Loved Google Doodle Titles to Enjoy Today
-date: 2024-11-06T04:33:10.924Z
-updated: 2024-11-11T03:36:05.187Z
+date: 2024-11-13T18:55:06.374Z
+updated: 2024-11-19T16:17:42.596Z
 tags:
   - web
 categories:
@@ -26,43 +26,28 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Google keeps its main search page fresh with fun doodles that change every couple of days. Occasionally, the doodle is an actual game that you can play. These games are archived and can be played after their time on the homepage has passed. They're perfect for passing the time without needing to download anything.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  #1: [Baseball](http://www.google.com/doodles/fourth-of-july-2019) 
 
 ![doodle baseball](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/2021-04-29_16-52-45.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  There have been several sports-based doodle games, but the one we spent the most time on was Baseball from the 2019 4th of July.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  #2: [Pac-Man](http://www.google.com/doodles/fourth-of-july-2019) 
 
 ![google pac-man](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/2021-04-29_17-02-09.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Everyone knows Pac-Man. It's a classic for a reason. The Doodle version is just as fun as always.
 
@@ -71,6 +56,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![quick, draw](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/2021-04-29_17-03-58.png) 
 
  Quick, Draw! was so popular that it got its own website. You get 20 seconds to draw something, and then Google's neural network tries to guess what it is.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  #4: [The Scoville Game](https://quickdraw.withgoogle.com/) 
 
@@ -82,22 +74,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The Scoville Game is all about trying to defeat spicy peppers with ice cream. You learn about the Scoville Scale in the process.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  #5: [Basketball](https://www.google.com/doodles/wilbur-scovilles-151st-birthday) 
 
 ![google baskeball](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/2021-04-29_17-13-44.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This is another classic sports game. See how many shots you can make in 24 seconds.
@@ -106,20 +91,27 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![google doodle halloween 2016](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/2021-04-29_17-15-18.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This fun game from Halloween 2016 has you swiping a wand around as a cat to defeat ghosts.
 
 ##  #7: [Garden Gnome](https://www.google.com/doodles/halloween-2016) 
 
 ![garden gnome game](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/2021-04-29_17-16-25.png) 
 
- The goal of the Garden Gnome game is to launch a gnome as far as you can with a catapult.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ The goal of the Garden Gnome game is to launch a gnome as far as you can with a catapult.
 
 ##  #8: [Coding Rabbit](https://www.google.com/doodles/celebrating-garden-gnomes) 
 
@@ -135,7 +127,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![cricket game](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/2021-04-29_17-19-47.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Play Cricket with virtual crickets! Just like the baseball game, this one is super addictive.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  #10: [Rubik's Cube](https://www.google.com/doodles/icc-champions-trophy-2017-begins) 
 
@@ -166,21 +172,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-essential-techniques-for-saving-and-recording-ps4-gameplay/"><u>[New] 2024 Approved Essential Techniques for Saving and Recording PS4 Gameplay</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-the-realm-of-melodies-where-to-get-hearing-heroes-ringtones/"><u>[New] 2024 Approved The Realm of Melodies Where to Get Hearing Heroes' Ringtones</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-dive-deep-into-the-world-of-customizable-tiktok-video-backgrounds-for-2024/"><u>[New] Dive Deep Into the World of Customizable TikTok Video Backgrounds for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-starting-a-vlog-the-must-have-equipmentsoftware-for-2024/"><u>[New] Starting a Vlog The Must-Have Equipment/Software for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-reverse-films-on-android/"><u>[New] The Ultimate Guide to Reverse Films on Android</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-the-full-potential-of-windows-11s-video-production-suite/"><u>[New] Unlocking the Full Potential of Windows 11'S Video Production Suite</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-a-comprehensive-tutorial-for-customizing-video-covers-on-social-media/"><u>[Updated] A Comprehensive Tutorial for Customizing Video Covers on Social Media</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-the-art-of-recording-facebook-lives-discover-4-key-strategies/"><u>[Updated] In 2024, The Art of Recording Facebook Lives Discover 4 Key Strategies</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-master-iphone-filmmaking-for-full-sphere-effects/"><u>[Updated] Master iPhone Filmmaking for Full Sphere Effects</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-pursuit-of-ultra-clarity-the-4k-z32x-reviewed/"><u>[Updated] The Pursuit of Ultra Clarity The 4K Z32X Reviewed</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-sprinting-into-the-digital-age-picks-on-vr-treadmills/"><u>2024 Approved Sprinting Into the Digital Age Picks on VR Treadmills</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-the-full-potential-of-your-xbox-series-x-with-ideal-displays/"><u>2024 Approved Unleash The Full Potential of Your Xbox Series X with Ideal Displays</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/from-conceptualization-to-production-writing-engaging-documentary-stories/"><u>From Conceptualization to Production Writing Engaging Documentary Stories</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-motorola-edge-2023-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Motorola Edge 2023 | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-adding-soundtracks-to-instagram-visuals/"><u>In 2024, The Art of Adding Soundtracks to Instagram Visuals</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-best-vertical-video-apps-for-ios-and-android-for-2024/"><u>Updated Best Vertical Video Apps for iOS and Android for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-effortless-rearrangement-of-your-personalized-lists/"><u>[New] 2024 Approved Effortless Rearrangement of Your Personalized Lists</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-digital-decision-making-choosing-the-best-cropping-tool/"><u>[Updated] 2024 Approved Digital Decision Making Choosing the Best Cropping Tool</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-speedy-social-stardom-likes-plus-videos-on-instagram-guide/"><u>[Updated] In 2024, Speedy Social Stardom Likes + Videos on Instagram Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-humor-haven-the-ultimate-choice-of-memer-text-tools/"><u>2024 Approved Humor Haven The Ultimate Choice of Memer Text Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-upgrade-your-editing-game-merging-windows-11-and-storyremix-for-video-magic/"><u>2024 Approved Upgrade Your Editing Game Merging Windows 11 & StoryRemix for Video Magic</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-rog-strix-xg2-acq-an-180hz-marvel-in-accuracy-and-flexibility-the-ultimate-gamers-display-unveiled/"><u>Asus ROG Strix XG2^ ACQ: An 180Hz Marvel in Accuracy & Flexibility - The Ultimate Gamer's Display Unveiled</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-syncopated-sound-understanding-ip-rules-on-instagram/"><u>In 2024, Syncopated Sound Understanding IP Rules on Instagram</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-transformation-mp4-plus-srt-success/"><u>In 2024, The Ultimate Transformation MP4 + SRT Success</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-7-best-daw-for-guitar-recording-and-players-perfect-solution-for-2024/"><u>New 7 Best DAW for Guitar Recording and Players (Perfect Solution) for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/soundtrack-secrets-your-complete-audio-compilation-for-ig-videos-for-2024/"><u>Soundtrack Secrets Your Complete Audio Compilation for IG Videos for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-vivo-y78plus-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Vivo Y78+ Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-smartphone-to-vr-makeover-tutorial-for-2024/"><u>The Ultimate Smartphone-to-VR Makeover Tutorial for 2024</u></a></li>
 </ul></div>
 

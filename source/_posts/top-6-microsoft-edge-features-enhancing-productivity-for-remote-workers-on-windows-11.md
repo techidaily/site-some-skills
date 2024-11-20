@@ -1,7 +1,7 @@
 ---
 title: Top 6 Microsoft Edge Features Enhancing Productivity for Remote Workers on Windows 11
-date: 2024-11-07T03:45:15.419Z
-updated: 2024-11-10T20:17:57.346Z
+date: 2024-11-12T18:53:33.340Z
+updated: 2024-11-19T22:11:02.895Z
 tags:
   - deals
 categories:
@@ -29,10 +29,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Windows 11 Focus Assist Window showing time left on the session, how many sessions were completed, and other details](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-11-focus-assist.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Jason Dookeran/How-To-Geek
@@ -41,44 +41,17 @@ Jason Dookeran/How-To-Geek
 
 [Focus Sessions](https://support.microsoft.com/en-us/windows/how-to-use-focus-in-windows-11-cbcc9ddb-8164-43fa-8919-b9a2af072382) include the "do not disturb" mode from Windows 10's focus assist mode. This helps to manage the notifications you're likely to get from any number of applications you already have running on your PC. I've found it extremely helpful to limit my distractions while I'm working on something.
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Use Snap Layouts and Snap Groups
 
  Have you ever had several windows that you have to swap between and wondered if there was an easier way to do this than buying a new monitor? With [Snap Layouts in Windows 11](https://youtube-videos.techidaily.com/2024-approved-behind-the-mascara-youtubes-top-makeup-artists-unveiled/), you can quickly arrange your open applications into pre-configured grids on your screen. To use Snap Layouts, simply hover over the maximize button of any window, and you'll see several layout options. Click on your preferred layout, and Windows will guide you in snapping other open windows into place.
 
 ![Layout options on the top right of the screen when hovbering with the mouse represented by a series of boxes](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-11-layout-options.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Jason Dookeran/How-To-Geek
 
  Snap Groups take this functionality a step further by remembering the combination of windows you’ve snapped together. This is a game-changer for anyone who needs to switch between different workflows quickly. For example, if you're working on a report while referencing data from another document and a web browser, [Snap Groups will remember this arrangement.](https://www.microsoft.com/en-us/windows/learning-center/organize-screen-with-snap-layouts) When you minimize or reopen these applications, Windows 11 will restore the entire group, saving you the time and hassle of reorganizing your workspace.
 
  These features are designed to enhance multitasking and productivity, especially in a remote work setting. By keeping your tasks visually organized and easily accessible, Snap Layouts and Snap Groups help you maintain focus and efficiency. This seamless integration into the Windows 11 experience ensures that your tools are working just as hard as you are, enabling you to get more done with less effort.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  You're Not Only Limited to One Desktop Either
 
@@ -90,15 +63,36 @@ Jason Dookeran/How-To-Geek
 
  To create a new virtual desktop, click on the Task View button located on the taskbar (or press Win+Tab). This will open the Task View interface, where you can see all your open windows and existing desktops. Click on the “+ New desktop” button at the top of the screen to create a new virtual desktop. To switch between desktops, you can either use the Task View interface by clicking on the desired desktop or use the keyboard shortcut Win+Ctrl+Left or Right arrow keys to move between them quickly. This feature allows you to keep different types of work, like meetings, research, and personal tasks, separate and organized, enhancing your productivity. This particular change is pretty new to Windows, but [Linux users have had multiple desktop setups for years](https://www.linux.com/training-tutorials/dont-forget-one-linuxs-best-features-how-use-multiple-workspaces/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  You Can Even Access Your Desktop From Anywhere
 
  As someone who's [turned their car into a mobile office](https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-lava-yuva-3-pro-phones-by-drfone-android/), sometimes I need to access my desktop from somewhere else (usually a beach). Using the Remote Desktop feature in Windows 11, you can connect to your office PC from home or while traveling, ensuring you have access to all necessary files and applications. To set up Remote Desktop, go to Settings > System > Remote Desktop, and [enable the Remote Desktop option](https://fox-direct.techidaily.com/unleash-creativity-with-these-essential-vector-editors-for-2024/). Ensure your work computer is set up to allow remote connections and that you have the necessary permissions. Once configured, you can use the Remote Desktop Connection app to connect to your work machine securely.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Compartmentalize Your Work By Using Different Profiles
 
  Sometimes, having multiple desktops just isn't enough, and you need something more to stop you from playing games when you should be working. Luckily, Windows 11 has your back with its profile system, allowing you to have multiple profiles on the same machine, each with its own individual icons, installed programs, and layouts.
 
 ![Adding a New User](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/adding-a-new-user.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Jason Dookeran/How-To-Geek
 
@@ -125,20 +119,24 @@ Jason Dookeran/How-To-Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-periscope-stars-in-snapchat-highlights/"><u>[New] 2024 Approved Periscope Stars in Snapchat Highlights</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-ideal-obs-parameters-for-economical-pcs/"><u>[Updated] 2024 Approved Ideal OBS Parameters for Economical PCs</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-enhanced-video-clarity-on-iphone-and-android-platforms-for-2024/"><u>[Updated] Enhanced Video Clarity on iPhone & Android Platforms for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-file-flow-fixtures-easy-moves-for-your-machine/"><u>[Updated] In 2024, File Flow Fixtures Easy Moves for Your Machine</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-the-ultimate-list-of-instagram-video-converters-windowsos-x-for-2024/"><u>[Updated] The Ultimate List of Instagram Video Converters (Windows/OS X) for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-eight-sources-of-graffiti-fonts-online/"><u>[Updated] Top Eight Sources of Graffiti Fonts Online</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-5-underwater-gopro-accessories/"><u>2024 Approved Top 5 Underwater Gopro Accessories</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-questions-on-vlc-player-mac-integration/"><u>2024 Approved Top Questions on VLC Player Mac Integration</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/avi/"><u>AVI マナーで圧縮するたび - 初心者から始める方法</u></a></li>
-<li><a href="https://win11.techidaily.com/ensuring-reliable-voice-commands-for-valorant-gaming/"><u>Ensuring Reliable Voice Commands for Valorant Gaming</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-synthesize-stellar-titles-using-ai-insights/"><u>In 2024, Synthesize Stellar Titles Using AI Insights</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-trail-of-imagery-the-complete-user-manual-for-inverted-scans-in-instagram/"><u>In 2024, Trail of Imagery The Complete User Manual for Inverted Scans in Instagram</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transcription-mastery-for-office-productivity-using-microsoft-words-voice-recognition-features/"><u>In 2024, Transcription Mastery for Office Productivity Using Microsoft Word's Voice Recognition Features</u></a></li>
-<li><a href="https://some-skills.techidaily.com/techniques-for-turning-youtube-hosted-tweets-into-audio-files-for-2024/"><u>Techniques for Turning YouTube-Hosted Tweets Into Audio Files for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-the-mystery-writing-hooks-for-vlogger-scripts-for-2024/"><u>Unveiling the Mystery Writing Hooks for Vlogger Scripts for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-first-footsteps-in-youtube-landscape-setting-up-shop-and-earning-profitably/"><u>[New] 2024 Approved First Footsteps in YouTube Landscape Setting Up Shop and Earning Profitably</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/nstructions-removing-videos-from-youtubes-watchlater/"><u>[New] Instructions Removing Videos From YouTube's Watchlater</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-twist-your-way-through-youtube-mastering-rotation-techniques/"><u>[New] Twist Your Way Through YouTube Mastering Rotation Techniques</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-mastering-the-underestimated-aspects-of-instagram/"><u>[Updated] 2024 Approved Mastering the Underestimated Aspects of Instagram</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamlining-meetings-on-win11-using-zoom-features/"><u>[Updated] Streamlining Meetings on Win11 Using Zoom Features</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-windows-10s-video-creation-capabilities/"><u>[Updated] The Ultimate Guide to Windows 10'S Video Creation Capabilities</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-artistic-revolution-identifying-top-6-nft-visionaries/"><u>2024 Approved The Artistic Revolution Identifying Top 6 NFT Visionaries</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-complete-guide-to-android-time-lapse-creation/"><u>2024 Approved The Complete Guide to Android Time-Lapse Creation</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/best-live-streaming-app-manycam-virtual-camera-features-unveiled/"><u>Best Live Streaming App: ManyCam Virtual Camera Features Unveiled</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-poco-f5-pro-5g-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Poco F5 Pro 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-poco-c65-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Poco C65 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-revitalized-interview-questions-for-listener-involvement/"><u>In 2024, Revitalized Interview Questions for Listener Involvement</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-monitor-list-for-an-immersive-xbox-series-x-experience/"><u>In 2024, The Ultimate Monitor List for an Immersive Xbox Series X Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-guide-to-radiowave-plays/"><u>In 2024, Ultimate Guide to Radiowave Plays</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/photographic-precision-optimal-websites-and-tools-for-frame-upgrades-for-2024/"><u>Photographic Precision Optimal Websites and Tools for Frame Upgrades for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ey-role-of-youtube-trailers-in-enhancing-revenue/"><u>The Key Role of YouTube Trailers in Enhancing Revenue</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-mechanics-of-modern-photography-auto-smart-hdr-3-and-4-unveiled-for-2024/"><u>The Mechanics of Modern Photography Auto, Smart HDR 3 & 4 Unveiled for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-your-phone-with-funimate-the-ultimate-apk-guide-for-2024/"><u>Transform Your Phone with Funimate - The Ultimate APK Guide for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-ringtone-collection-top-download-locales-for-2024/"><u>Ultimate Ringtone Collection Top Download Locales for 2024</u></a></li>
 </ul></div>
 

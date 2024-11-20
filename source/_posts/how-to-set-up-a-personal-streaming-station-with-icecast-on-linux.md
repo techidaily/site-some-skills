@@ -1,7 +1,7 @@
 ---
 title: How to Set Up a Personal Streaming Station with Icecast on Linux
-date: 2024-11-04T20:32:16.696Z
-updated: 2024-11-11T03:23:00.926Z
+date: 2024-11-13T20:25:15.300Z
+updated: 2024-11-20T00:46:00.329Z
 tags:
   - desktop
 categories:
@@ -59,10 +59,10 @@ sudo dnf install icecast
 ![Terminal window asking for a source password for Icecast on Debian](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-6.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Relays are useful in larger setups for distributing listener load to multiple servers. We won't be setting up relays here, so you can enter whatever you want (but again I recommend changing the default):
@@ -72,6 +72,13 @@ sudo dnf install icecast
  Finally, we're asked for the admin user password. You'll use this to access Icecast's web interface admin section. Change the default to something unique:
 
 ![Terminal window asking for an admin password for Icecast on Debian](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/6-6.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Redhat distros simply return to the command prompt after installing. No big deal, we'll set things up directly in the configuration file, located at "/etc/icecast.xml". Fire up your favorite text editor and let's get to work:
 
@@ -83,26 +90,46 @@ sudo dnf install icecast
 
 ![Editor with icecast icecast.xml open, showing passwords to edit](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5-install-2.png) 
 
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Next, change the bind-address to your server's LAN IP address:
 
 ![Editor with icecast icecast.xml open, showing bind-address to edit](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/7-install-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Save the configuration file, then restart Icecast for our changes to take effect:
 
 ![Terminal window showing the command to restart Icecast, applying new configuration](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/9-install.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Let's verify that we're up and running:
 
 sudo systemctl status icecast.service
 
 ![Terminal window using systemctl command to verify Icecast daemon is running](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/11-install-1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Great! Now that Icecast is up, let's get started on our source client.
 
@@ -113,10 +140,10 @@ sudo systemctl status icecast.service
 ![Flowchart of Icecast stream](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/icecast-flow-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ePirat / Xiph.org Foundation
@@ -150,16 +177,16 @@ ePirat / Xiph.org Foundation
 
 ![BUTT dialog window showing main settings and to save configuration](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/butt-3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  From here you can close the "Settings" window. When you're ready, click on the "Play" button, which will start your stream. If you've configured everything correctly, you'll currently be making your server's radio stream debut!
 
 ![BUTT main window actively streaming to Icecast](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/butt-4.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Cool! Now let's log into the Icecast web UI at "http://LAN\_IP:8000/admin/" and enter "admin" for the username along with your configured Icecast admin password:
 
@@ -169,38 +196,11 @@ ePirat / Xiph.org Foundation
 
 ![Browser window showing Icecast administration section](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/ff-2.png) 
 
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Copy the "M3U" hyperlink:
 
 ![Browser window showing active Icecast mountpoints](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/ff-3.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This link, minus the .M3U extension, is what you will use to listen with your web browser.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Choosing a Listener Client
 
@@ -210,14 +210,14 @@ ePirat / Xiph.org Foundation
 
 ![Browser window playing Icecast stream in HTML5 audio player](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/ff-4.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Do you hear your stream? That's Icecast at work.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Additional Configuration
 
@@ -256,15 +256,20 @@ ePirat / Xiph.org Foundation
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-win11s-premier-selection-of-videography-software/"><u>[New] Win11's Premier Selection of Videography Software</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-compact-drone-guide-unraveling-dji-sparks-selfie-prowess/"><u>[Updated] The Ultimate Compact Drone Guide Unraveling DJI Spark's Selfie Prowess</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-masterclass-webcast-theme-builder/"><u>2024 Approved Masterclass Webcast Theme Builder</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-understanding-periscope-features-pricing-and-how-to-join/"><u>2024 Approved Understanding Periscope Features, Pricing & How To Join</u></a></li>
-<li><a href="https://driver-install.techidaily.com/comprehensive-guide-to-wacom-driver-management-across-win-versions/"><u>Comprehensive Guide to Wacom Driver Management Across WIN Versions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722889258490-fix-the-missing-d3dx925dll-issue-on-your-pc-easily/"><u>Fix the Missing d3dx9_25.dll Issue on Your PC Easily</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-novice-to-expert-a-guide-for-effective-single-stream-livestreams-for-2024/"><u>From Novice to Expert A Guide for Effective Single-Stream Livestreams for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-creating-smooth-audio-flows-with-pp/"><u>In 2024, Creating Smooth Audio Flows with PP</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-for-high-definition-enthusiasts-on-purchasing-a-monitor/"><u>In 2024, The Ultimate Guide for High-Definition Enthusiasts on Purchasing a Monitor</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-depth-analysis-leading-tv-streaming-providers-for-2024/"><u>In-Depth Analysis Leading TV Streaming Providers for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-reclaiming-gone-reddit-content-a-time-saving-guide/"><u>[New] Reclaiming Gone-Reddit Content A Time-Saving Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-exclusive-review-10-best-free-video-meeting-apps-iosandroid-for-2024/"><u>[Updated] Exclusive Review 10 Best Free Video Meeting Apps iOS/Android for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/gifguardian-elite-a-must-have-toolkit-for-twitters-visual-vanguards/"><u>GifGuardian Elite A Must-Have Toolkit for Twitter's Visual Vanguards</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Poco X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ideal-protective-gear-for-your-samsung-galaxy-tab-a-amazon-fire-7hd-8hd-10/"><u>Ideal Protective Gear for Your Samsung Galaxy Tab A (Amazon Fire 7/HD 8/HD 10)</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/innovative-approach-to-enjoying-taylor-swift-reputation-turn-her-hits-into-a-storytelling-audiobook/"><u>Innovative Approach to Enjoying Taylor Swift - 'Reputation': Turn Her Hits Into a Storytelling Audiobook</u></a></li>
+<li><a href="https://some-skills.techidaily.com/mastering-the-art-of-crafting-effective-book-reviews/"><u>Mastering the Art of Crafting Effective Book Reviews</u></a></li>
+<li><a href="https://some-skills.techidaily.com/most-effective-azw4-e-readers-showdown-which-one-tops-the-list-for-desktop-and-laptop-users/"><u>Most Effective AZW4 E-Readers Showdown: Which One Tops the List for Desktop & Laptop Users?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/quick-guide-convert-your-acsm-files-into-editable-pdfs/"><u>Quick Guide: Convert Your ACSM Files Into Editable PDFs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/report-concerns-challenges-in-deciphering-digital-books/"><u>Report Concerns: Challenges in Deciphering Digital Books</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-the-potential-9-reasons-for-chatgptplus/"><u>Unlock the Potential: 9 Reasons for ChatGPT+</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-leading-10-free-subtitle-editors-for-srt-files-for-2024/"><u>Unveiling Leading 10 FREE Subtitle Editors for SRT Files for 2024</u></a></li>
 </ul></div>
 

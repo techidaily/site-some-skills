@@ -1,7 +1,7 @@
 ---
 title: "Boosting Linux Protection: 6 Essential Strategies for Secure Computing"
-date: 2024-11-03T16:19:54.379Z
-updated: 2024-11-11T04:27:47.364Z
+date: 2024-11-12T22:44:35.931Z
+updated: 2024-11-19T17:07:30.647Z
 tags:
   - desktop
 categories:
@@ -36,16 +36,10 @@ Cybersecurity can be confusing. Here are six easy things you can do, and habits 
  Some of these devices will get automatic updates. For example, Amazon Echo and Google Nest smart speakers receive automatic updates for four and five years from purchase, respectively.
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2  Secure User Accounts 
@@ -53,10 +47,10 @@ Cybersecurity can be confusing. Here are six easy things you can do, and habits 
 ![The login screen on a laptop running Ubuntu Linux.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/52848723811_08b4c56473_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek  
@@ -70,10 +64,10 @@ Hannah Stryker / How-To Geek
  You can add two-factor authentication to your own computers too. this is especially valuable if you connect to them remotely, using SSH.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3  Control User Access 
@@ -88,13 +82,6 @@ Hannah Stryker / How-To Geek
 
  Many modern Wi-Fi routers allow you to configure a [guest Wi-Fi network](https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-itel-p55-by-drfone-android/). This allows them to get to the internet, but isolates them from your main network.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5  Check Your Software Management 
 
  You should only ever install software from trusted sources such as your Linux distribution’s official repositories, a project’s official website, or from their official Git repositories.
@@ -104,6 +91,13 @@ Hannah Stryker / How-To Geek
  Pay particular attention to [Flatpaks](https://extra-support.techidaily.com/in-2024-marvelous-monitors-top-10-macbooks-with-4k-resolution/) and [Snaps](https://some-guidance.techidaily.com/in-2024-top-10-innovative-mobile-layering-apps-for-android-and-iphone/). These are often unofficial versions of packaged, wrapped by volunteers. Do some research and ask in forums and other online communities if these can be trusted.
 
  If you download an application and find it doesn’t suit your needs, uninstall it. Don’t just leave it on your machine. If a project is abandoned, and no longer in development, find a replacement. Using an old version of software that no longer receives security patches increases your exposure to risks.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6  Make Backups and Stay Educated 
 
@@ -132,21 +126,21 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-mastering-image-borders-in-instagram-photography/"><u>[New] In 2024, Mastering Image Borders in Instagram Photography</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-proven-strategies-for-unveiling-pure-photospace-using-photopea/"><u>[New] Proven Strategies for Unveiling Pure Photospace Using Photopea</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unveiling-the-most-effective-web-subtitle-editors/"><u>[New] Unveiling the Most Effective Web Subtitle Editors</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-earnings-demystified-youtube-shorts-revenue-split-explained/"><u>[Updated] 2024 Approved Earnings Demystified YouTube Shorts Revenue Split Explained</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-unveiling-the-secrets-to-effective-configurations-of-fb-instream-ads/"><u>[Updated] 2024 Approved Unveiling the Secrets to Effective Configurations of FB Instream Ads</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-macbook-cam-tutorial-for-smooth-video-capture/"><u>[Updated] In 2024, MacBook Cam Tutorial for Smooth Video Capture</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-in-depth-analysis-of-green-screen-technology-in-kinemaster/"><u>2024 Approved In-Depth Analysis of Green Screen Technology in Kinemaster</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-revolutionary-q500-the-ultimate-4k-bird/"><u>2024 Approved Revolutionary Q500 The Ultimate 4K Bird</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-vlcs-potential-for-mpeg-4-and-diverse-file-alterations/"><u>2024 Approved Unlocking VLC's Potential for MPEG-4 and Diverse File Alterations</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unrivaled-sonic-union-for-speakers/"><u>2024 Approved Unrivaled Sonic Union for Speakers</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-perfect-plugin-placement-for-game-channels/"><u>In 2024, Perfect Plugin Placement for Game Channels</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streaming-wars-the-ultimate-twitch-vs-youtube-battle/"><u>In 2024, Streaming Wars The Ultimate Twitch Vs. YouTube Battle</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-the-secrets-of-instagrams-music-rights-management/"><u>In 2024, Unlocking the Secrets of Instagram's Music Rights Management</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Apple iPhone 14 | Dr.fone</u></a></li>
-<li><a href="https://win-top.techidaily.com/suche-nach-alten-videos-auf-facebook-eine-einfache-anleitung/"><u>Suche Nach Alten Videos Auf Facebook: Eine Einfache Anleitung</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-snap-it-up-iphone-and-androids-best-10-photo-enhancers/"><u>[New] 2024 Approved Snap It Up! IPhone and Android's Best 10 Photo Enhancers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-expert-advice-incorporating-narrative-elements-into-youtube-videos-for-2024/"><u>[New] Expert Advice Incorporating Narrative Elements Into YouTube Videos for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-essence-of-burst-in-gopro-filming-techniques/"><u>[New] The Essence of Burst in GoPro Filming Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tips-for-leveraging-snapchats-star-feature/"><u>[New] Tips for Leveraging Snapchat's Star Feature</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-troubleshooting-tips-fixing-srt-from-premiere-freeze-for-2024/"><u>[New] Troubleshooting Tips Fixing SRT From Premiere Freeze for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-power-of-vita-video-editor-comprehensive-review-2024/"><u>[New] Unveiling the Power of Vita Video Editor - Comprehensive Review, 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-fix-facebook-watch-video-icon-tap-missing/"><u>[Updated] 2024 Approved Fix Facebook Watch Video Icon Tap Missing</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-mastering-instagrams-new-trends-reels-and-stories/"><u>[Updated] 2024 Approved Mastering Instagram’s New Trends Reels and Stories</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-practical-demonstrations-creating-and-configuring-timer-modules-in-obs/"><u>[Updated] In 2024, Practical Demonstrations Creating and Configuring Timer Modules in OBS</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-leading-tools-seamless-youtube-to-twitter-transfers/"><u>[Updated] Leading Tools Seamless YouTube-to-Twitter Transfers</u></a></li>
+<li><a href="https://games-able.techidaily.com/emulating-classic-handheld-devices/"><u>Emulating Classic Handheld Devices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-curious-case-of-inverted-images-on-social-media/"><u>In 2024, The Curious Case of Inverted Images on Social Media</u></a></li>
+<li><a href="https://some-skills.techidaily.com/strategies-to-alleviate-vr-motion-woes-for-2024/"><u>Strategies to Alleviate VR Motion Woes for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-essential-guide-to-custom-voices-how-to-alter-game-character-sounds-in-free-fire-no-cost-for-2024/"><u>The Essential Guide to Custom Voices How to Alter Game Character Sounds in Free Fire (No Cost!) For 2024</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/transfer-ehow-tutorials-to-mp4-files-using-the-ehow-downloader-for-windows-and-mac-computers/"><u>Transfer eHow Tutorials to MP4 Files Using the EHow Downloader for Windows and Mac Computers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/uncomplicated-strategy-for-fish-phonetics-tweaking-for-2024/"><u>Uncomplicated Strategy for Fish Phonetics Tweaking for 2024</u></a></li>
 </ul></div>
 

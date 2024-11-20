@@ -1,7 +1,7 @@
 ---
 title: Simple Methods to Locate & Remove Outdated Data in Windows 11
-date: 2024-11-08T17:37:53.286Z
-updated: 2024-11-10T21:54:48.212Z
+date: 2024-11-15T20:19:09.557Z
+updated: 2024-11-19T18:30:03.076Z
 tags:
   - desktop
 categories:
@@ -38,10 +38,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 !['Storage Sense' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/2-enable-storage-sense.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You’ll now configure Storage Sense's behavior. At the top, enable the option in the "Cleanup of Temporary Files" section so that temporary files are automatically deleted.
@@ -54,21 +54,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Storage Sense configuration options in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-configure-storage-sense.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To run the feature now, click "Run Storage Sense Now." It will start removing the chosen files.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  With Microsoft PC Manager
 
@@ -85,10 +71,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Downloaded files and 'Permanently Delete' highlighted in PC Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/5-delete-downloaded-files.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The second option in PC Manager is "Large Files." As you can guess, it lets you find and remove large files. You can specify the file size here so it only finds files larger than that.
@@ -107,6 +99,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Duplicate files and 'Permanently Delete' highlighted in PC Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/8-remove-duplicate-files.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  And you’re all set.
 
 ##  Using Command Prompt
@@ -116,13 +115,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  To use it, open Windows Search, search for **Command Prompt**, and select "Run as Administrator."
 
 !['Run as Administrator' highlighted for Command Prompt in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/9-open-command-prompt.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In the User Account Control prompt, choose "Yes."
 
@@ -147,9 +139,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Save the ForFiles command as a batch file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/10-save-batch-file.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When you want to run your command, right-click your batch script and choose "Run as Administrator."
 
 !['Run as Administrator' highlighted for a batch file in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/11-run-batch-file.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can integrate this batch script with Task Manager, and Task Manager will run the script at your specified time. This basically automates the entire process of finding and removing old files from your specified folders.
 
@@ -172,20 +178,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-unlocking-profit-the-step-by-step-guide-to-assess-your-youtube-earnings/"><u>[New] 2024 Approved Unlocking Profit The Step-by-Step Guide to Assess Your YouTube Earnings</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-the-experts-playbook-top-techniques-for-youtube-to-mpeg/"><u>[New] In 2024, The Expert's Playbook Top Techniques for YouTube-to-MPEG</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-the-enhanced-ultrablade-samsungs-2023-take-for-2024/"><u>[New] The Enhanced UltraBlade Samsung’s 2023 Take for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-become-a-trending-sensation-with-these-effective-youtube-seo-strategies/"><u>[Updated] In 2024, Become a Trending Sensation with These Effective YouTube SEO Strategies</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-sj7s-latest-4k-star-cam-a-revolutionary-action-recorder/"><u>[Updated] In 2024, SJ7's Latest 4K Star Cam - A Revolutionary Action Recorder</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-logo-journey-key-steps-in-crafting-iconic-covers/"><u>[Updated] The Logo Journey Key Steps in Crafting Iconic Covers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlock-clearer-visuals-with-iphone-video-focus/"><u>[Updated] Unlock Clearer Visuals with iPhone Video Focus</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-techniques-for-smooth-audio-transitions/"><u>2024 Approved Techniques for Smooth Audio Transitions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-cinematic-zoom-effect-focus-on-film/"><u>2024 Approved The Cinematic Zoom Effect Focus on Film</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/abbyy-industry-pioneer-in-process-analytics-and-intelligent-data-extraction/"><u>ABBYY: Industry Pioneer in Process Analytics and Intelligent Data Extraction</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Samsung Galaxy S23? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-whats-the-best-video-editor-for-you-minitool-movie-maker-review-and-more-for-2024/"><u>New Whats the Best Video Editor for You? Minitool Movie Maker Review and More for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-windows-10-seamless-media-importation-techniques-for-2024/"><u>Unlocking Windows 10 Seamless Media Importation Techniques for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-the-secret-sauce-for-massive-tiktok-content-grabs-for-2024/"><u>Unveiling the Secret Sauce for Massive TikTok Content Grabs for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/what-is-ai-hallucination-and-how-do-you-spot-it/"><u>What Is AI Hallucination, and How Do You Spot It?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-top-builds-for-maximum-mc-safety/"><u>[New] In 2024, Top Builds for Maximum MC Safety</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-swift-techniques-mastering-effective-double-exposure/"><u>[Updated] Swift Techniques Mastering Effective Double Exposure</u></a></li>
+<li><a href="https://some-skills.techidaily.com/creating-custom-minecraft-skins-with-stable-diffusion-ai-step-by-step-guide/"><u>Creating Custom Minecraft Skins with Stable Diffusion AI - Step-by-Step Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/digital-realities-unveiled-understanding-the-differences-between-vr-ar-and-mr-technologies/"><u>Digital Realities Unveiled: Understanding the Differences Between VR, AR, and MR Technologies</u></a></li>
+<li><a href="https://some-skills.techidaily.com/discover-perplexity-the-unique-ai-chatbot-worth-paying-for/"><u>Discover Perplexity – The Unique AI Chatbot Worth Paying For</u></a></li>
+<li><a href="https://some-skills.techidaily.com/discover-the-power-of-chatgpt-with-searchgpt-the-ultimate-ai-driven-web-search-platform/"><u>Discover the Power of ChatGPT with SearchGPT: The Ultimate AI-Driven Web Search Platform</u></a></li>
+<li><a href="https://some-skills.techidaily.com/discover-udio-the-ultimate-ai-powered-tool-for-unparalleled-music-creation-today/"><u>Discover Udio: The Ultimate AI-Powered Tool for Unparalleled Music Creation Today!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/elon-musks-spacex-begins-rollout-of-revolutionary-satellite-powered-phone-network-starlink/"><u>Elon Musk's SpaceX Begins Rollout of Revolutionary Satellite-Powered Phone Network, Starlink</u></a></li>
+<li><a href="https://some-skills.techidaily.com/enhanced-performance-intels-top-tier-computers-now-support-superior-ai-models-and-advanced-stability/"><u>Enhanced Performance: Intel's Top-Tier Computers Now Support Superior AI Models and Advanced Stability</u></a></li>
+<li><a href="https://some-skills.techidaily.com/enhancing-siris-capabilities-with-advanced-apple-ai-revolutionizing-user-experience/"><u>Enhancing Siri's Capabilities with Advanced Apple AI: Revolutionizing User Experience</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-file-funneling-transfer-techniques-for-your-computer/"><u>In 2024, File Funneling Transfer Techniques for Your Computer</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/metaverse-marvels-top-10-sci-fi-films-unveiling-extraordinary-worlds/"><u>Metaverse Marvels Top 10 Sci-Fi Films Unveiling Extraordinary Worlds</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/obs-enhancing-integrating-a-timed-countdown-mechanism-for-2024/"><u>Obs Enhancing Integrating a Timed Countdown Mechanism for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/sculpting-soundscapes-the-fading-trick-for-2024/"><u>Sculpting Soundscapes The Fading Trick for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/sim-savvy-savant-techniques-a-complete-guide-to-capturing-the-essence-of-sims-gameplay-for-2024/"><u>Sim-Savvy Savant Techniques A Complete Guide to Capturing the Essence of Sims Gameplay for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-vivo-s17t-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Vivo S17t to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/youtubes-yummy-1-8-video-selection/"><u>YouTube's Yummy #1-#8 Video Selection</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Online Security: The Importance of Using Longer Passwords"
-date: 2024-11-10T03:58:49.882Z
-updated: 2024-11-11T00:07:15.802Z
+date: 2024-11-18T04:25:05.400Z
+updated: 2024-11-19T16:52:48.738Z
 tags:
   - web
 categories:
@@ -21,19 +21,6 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
 
  The short answer is password entropy. That term sounds way more complicated than it really is unless you’re familiar with cryptography, so let’s take a look at what password entropy is.
 
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  What's Password Entropy?
 
  Password entropy is a measure of how unpredictable and random your password is. Password entropy is measured in bits, the basic unit for measuring information in computing. More bits is better, with most experts agreeing that entropy should be at least 64 bits, though that number is controversial. A higher entropy means your password is more random. When it comes to securing things, random is good.
@@ -42,15 +29,22 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
 
 ![A phone receiving a 2FA code.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/shutterstock_2373964067.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [ronstik](https://www.shutterstock.com/g/ronstik "ronstik") / Shutterstock.com
 
  The best way to attack a password is through a [dictionary attack](https://extra-skills.techidaily.com/2024-approved-smartest-ways-to-track-wedding-dates-ios-and-android-style/), which is a program that will try to “guess” a password by going through common words and phrases. It’s almost literally throwing the book at your password, going through the entire dictionary and also common variations. Once the password is guessed, the attacker has access.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Brute Force and Randomness
@@ -60,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
  As dictionary attacks thrive on predictability (words that already exist), it stands to reason that the only good way to stymie them is to add randomness to passwords. Many people kind of know this, which is why they add a few symbols to their existing passwords to create things like “p@ssword” or “password123.”
 
  However, this doesn’t work as it’s not random. Attackers can easily account for a change like this, and it will take them maybe a nanosecond longer to gain access to an account. For something to be closer to truly random, you have to take humans out of the equation entirely and use a computer to create a random password. The [best password managers](https://facebook-video-content.techidaily.com/updated-how-to-create-facebook-video-ads-with-free-video-creation-kit-for-2024/), programs that create and store passwords for you, have this functionality built in.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How Entropy Affects Password Length
 
@@ -73,10 +74,10 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
  All of these are important, but length plays a special role, one we need some math to explain.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  How to Calculate Password Entropy
@@ -95,13 +96,6 @@ E = log2(RL)
  If we add uppercase letters, we double your range to 52 as uppercase letters count as separate for our purposes. This gives you an entropy score of 45.60 bits. That’s still not great, but we’re getting there.
 
  If we add the digits 0-9 we come to a range of 62, and then once we add the 33 symbol keys, our range is increased to 95\. Using just 8 characters, that gives us an entropy score of 52.56 bits, still well below the cutoff of 64 bits. The only other way to further increase your entropy is to make the password longer.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  What Should Be Your Minimum Password Length?
 
@@ -124,17 +118,21 @@ E = log2(RL)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-art-of-digital-alterations-tips-for-text-in-pictures/"><u>[New] The Art of Digital Alterations Tips for Text in Pictures</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-tier-applications-for-animation-and-modeling-craft/"><u>[New] Top-Tier Applications for Animation & Modeling Craft</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unveiling-the-key-to-thriving-in-online-communities-like-reddit/"><u>[New] Unveiling the Key to Thriving in Online Communities Like Reddit</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-10-spectacularly-free-luts-elevate-with-exclusive-purchase-options/"><u>[Updated] 10 Spectacularly Free LUTs; Elevate with Exclusive Purchase Options</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-2019-game-changer-in-vegaspro/"><u>[Updated] The 2019 Game-Changer in VegasPro</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-riding-through-the-year-motorcycles-no-1-helmet-cameras-guide/"><u>2024 Approved Riding Through the Year - Motorcycle's No. 1 Helmet Cameras Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-path-to-smooth-transitions-in-inshot-editing/"><u>2024 Approved The Path to Smooth Transitions in Inshot Editing</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/complete-tutorial-compatible-and-functional-handbrake-use-on-windows-11-operating-systems/"><u>Complete Tutorial: Compatible and Functional Handbrake Use on Windows 11 Operating Systems</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-change-your-iphone-15-pro-apple-id-on-macbook-by-drfone-ios/"><u>How To Change Your iPhone 15 Pro Apple ID on MacBook</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-speed-filled-guide-to-double-exposure-methods/"><u>In 2024, Speed-Filled Guide to Double Exposure Methods</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/in-2024-unlock-pro-level-text-animation-on-your-phone-with-these-apps/"><u>In 2024, Unlock Pro-Level Text Animation on Your Phone with These Apps</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/the-ultimate-playbook-to-youtube-hub-mastery-for-2024/"><u>The Ultimate Playbook to YouTube Hub Mastery for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-charting-the-course-through-facebooks-most-watched-vids/"><u>[New] 2024 Approved Charting the Course Through Facebook's Most Watched Vids</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-leverage-these-top-12-tactics-to-surge-your-youtube-views/"><u>[New] In 2024, Leverage These Top 12 Tactics to Surge Your YouTube Views</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/treamlined-success-top-10-youtube-channels-to-start-your-biz-today-for-2024/"><u>[New] Streamlined Success Top 10 YouTube Channels to Start Your Biz Today for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-game-plan-for-thriving-as-a-livestreamer-on-youtube/"><u>[New] The Game Plan for Thriving as a Livestreamer on YouTube</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-quick-fit-enhance-your-photo-posts-with-automated-mac-video-scaling/"><u>[Updated] In 2024, Quick Fit Enhance Your Photo Posts with Automated Mac Video Scaling</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-pivot-your-playlists-with-these-straightforward-tricks-for-2024/"><u>[Updated] Pivot Your Playlists with These Straightforward Tricks for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-complete-voice-change-blueprint-using-morphvox/"><u>[Updated] The Complete Voice Change Blueprint Using MorphVOX</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unmasking-the-giants-of-live-broadcast-twitch-vs-youtube/"><u>[Updated] Unmasking the Giants of Live Broadcast Twitch Vs YouTube</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-proven-youtube-intra-creation-strategies-free-edition/"><u>2024 Approved Proven YouTube Intra Creation Strategies, Free Edition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-swift-and-free-eradicate-red-eye-in-iphone-photography-tips/"><u>2024 Approved Swift and FREE Eradicate Red-Eye in iPhone Photography Tips</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamlined-audiovisual-sequencing-in-audacity/"><u>In 2024, Streamlined Audiovisual Sequencing in Audacity</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-artisan-editor-refining-video-transitions-with-inshot/"><u>In 2024, The Artisan Editor Refining Video Transitions with Inshot</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlock-styling-secrets-with-a-diy-video-editing-guide/"><u>In 2024, Unlock Styling Secrets with a DIY Video Editing Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-guide-to-growing-groups-of-great-guests-subscribers-on-youtube/"><u>The Guide to Growing Groups of Great Guests (Subscribers) on Youtube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-5-iphone-apps-for-daily-podcasts-for-2024/"><u>Top 5 iPhone Apps for Daily Podcasts for 2024</u></a></li>
 </ul></div>
 

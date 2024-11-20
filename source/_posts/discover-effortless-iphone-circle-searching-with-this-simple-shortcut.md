@@ -1,7 +1,7 @@
 ---
 title: Discover Effortless iPhone Circle Searching with This Simple Shortcut
-date: 2024-11-07T18:06:52.327Z
-updated: 2024-11-10T17:04:15.298Z
+date: 2024-11-16T02:01:04.560Z
+updated: 2024-11-20T01:50:20.547Z
 tags:
   - mobile
 categories:
@@ -31,11 +31,25 @@ Justin Duino / How-To Geek
 
  But that doesn't stop geeks from devising workarounds, right? Although Circle to Search isn't officially available on iOS, here's a quick little hack that combines the Back Tap gesture, [Google Lens visual search](https://facebook-clips.techidaily.com/new-music-syncing-for-iphones-and-androids-in-fb/), and the iPhone's Shortcuts app, mimicking how Circle to Search works on Android phones.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Get Circle to Search Functionality on Your iPhone
 
  To set up the workaround, you must have the [Google app on your iPhone](https://ai-video-tools.techidaily.com/updated-2024-approved-ken-burns-effect-tutorial-add-movement-to-your-photos/). If you don't already have it, download it from the App Store. Once you've installed the Google app, it's time to create a shortcut.
 
 ![Screenshot of the Google app for iPhone for App Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-3.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Open the [iPhone's Shortcuts app](https://win-solutions.techidaily.com/expert-tips-for-when-you-cant-get-far-cry-6-running-on-your-desktop/) and hit the "+" plus icon in the top right corner.
 
@@ -44,6 +58,13 @@ Justin Duino / How-To Geek
  Tap on "Add Action."
 
 ![Screenshot of the Add Action button in iPhone's Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-2.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  On the following screen, type "take screenshot" in the search bar (at the top) and select the right option.
 
@@ -54,22 +75,15 @@ Justin Duino / How-To Geek
 ![Search Image with Lens shortcut for iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  With the selected actions, the shortcut flow should look like the screenshot attached below. Once you're set, tap "Done" in the top right corner.
 
 ![Screenshot of iPhone's Shortcut app highlighting the Done option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/7-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now, we need to link this shortcut to the Back Tap gesture or Action Button on certain iPhone models. Since I use an iPhone 13, I'll use [the Back Tap accessibility feature](https://ai-live-streaming.techidaily.com/updated-in-2024-10-free-football-streaming-sites-to-bookmark/) to trigger the shortcut we've just created.
 
@@ -78,33 +92,19 @@ Justin Duino / How-To Geek
 ![Screenshot of the Back Tap option in iPhone's Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/8-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Choose whether you want to trigger the shortcut from a double or triple tap. I'm going with double tap.
 
 ![Screenshot of the Back Tap option in iPhone's Settings section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/9.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Scroll to the bottom and select "Search Image with Lens" in the Shortcuts menu.
 
 ![Search Image with Lens in iPhone's Back Tap menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/10.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Use Back Tap to Invoke Google Lens' Visual Search
 
@@ -135,18 +135,22 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ewbies-nook-making-eye-catching-mac-videos-for-youtube-for-2024/"><u>[New] Newbies' Nook Making Eye-Catching Mac Videos for YouTube for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-mastering-instagrams-most-active-hours/"><u>[Updated] In 2024, Mastering Instagram's Most Active Hours</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-instagram-excellence-professional-editing-techniques-revealed/"><u>[Updated] Instagram Excellence Professional Editing Techniques Revealed</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-handbook-for-vr-travelers/"><u>[Updated] The Ultimate Handbook for VR Travelers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-visuals-integrating-filters-into-videos-pcmobile/"><u>2024 Approved Streamline Visuals Integrating Filters Into Videos (PC/Mobile)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-venturing-into-virtual-studio-technology-vst-world/"><u>2024 Approved Venturing Into Virtual Studio Technology (VST) World</u></a></li>
-<li><a href="https://win-forum.techidaily.com/complete-guide-deleting-stubborn-folders-in-windows-1011-using-revo-uninstaller/"><u>Complete Guide: Deleting Stubborn Folders in Windows 10/11 Using Revo Uninstaller</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhancing-thera/"><u>Enhancing Thera</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-oneplus-11-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from OnePlus 11 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-quick-guide-to-innovative-voice-personalization-techniques/"><u>In 2024, The Quick Guide to Innovative Voice Personalization Techniques</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-art-of-defeating-the-frustrating-windows-update-error-0x80244022-once-and-for-all/"><u>Mastering the Art of Defeating the Frustrating Windows Update Error (0X80244022) Once and For All</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transform-text-to-trendy-memes-kapwings-magic-tool-for-2024/"><u>Transform Text to Trendy Memes - Kapwing’s Magic Tool for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-the-synergy-of-sonic-and-visual-artistry-tips-for-producers/"><u>Updated In 2024, The Synergy of Sonic and Visual Artistry Tips for Producers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-crafting-the-perfect-ringtone-for-your-ios-device/"><u>[New] Crafting the Perfect Ringtone for Your iOS Device</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-engineering-peak-canon-sequential-films/"><u>[New] In 2024, Engineering Peak Canon Sequential Films</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-solo-show-survival-guide-to-staying-trendy/"><u>[New] The Solo Show Survival Guide to Staying Trendy</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-10-gloves-revolutionizing-vr-interaction/"><u>[New] Top 10 Gloves Revolutionizing VR Interaction</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-chill-vibes-current-hits-to-match-your-yt-short-tunes/"><u>[Updated] 2024 Approved Chill Vibes Current Hits to Match Your YT Short Tunes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ios-and-android-downloading-and-personalizing-whatsapp-tones/"><u>2024 Approved IOS & Android Downloading & Personalizing WhatsApp Tones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-future-of-editing-decoded-powerdirector-app-24-reviewed-and-explained/"><u>2024 Approved The Future of Editing Decoded PowerDirector App '24 Reviewed & Explained</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-transforming-shipping-surprises-into-experiences/"><u>2024 Approved Transforming Shipping Surprises Into Experiences</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tucked-into-narratives-a-review-of-evening-storytelling-videos/"><u>2024 Approved Tucked Into Narratives A Review of Evening Storytelling Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-potential-7-exceptional-services-for-digital-art-nfts/"><u>2024 Approved Unleash Potential 7 Exceptional Services for Digital Art NFTs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-the-power-of-pause-tips-for-slow-motion-video-using-photo-apps/"><u>2024 Approved Unleash the Power of Pause Tips for Slow-Motion Video Using Photo Apps</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-depth-exploration-of-morphvox-modification-methods/"><u>In-Depth Exploration of MorphVOX Modification Methods</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-prolific-usb-to-serial-driver-not-working-on-windows/"><u>Solved: Prolific USB to Serial Driver Not Working on Windows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-issue-reducing-cpu-consumption-in-god-of-war-game/"><u>Solving the Issue: Reducing CPU Consumption in God of War Game</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/tles-made-simple-top-10-zero-cost-downloaders/"><u>Subtitles Made Simple Top 10 Zero-Cost Downloaders</u></a></li>
+<li><a href="https://some-skills.techidaily.com/techniques-to-boost-pc-audio-recording-efficiency-for-2024/"><u>Techniques to Boost PC Audio Recording Efficiency for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-start-of-a-legal-battle-against-intel-addressing-the-class-action-case-on-processor-inconsistencies/"><u>The Start of a Legal Battle Against Intel: Addressing the Class Action Case on Processor Inconsistencies</u></a></li>
 </ul></div>
 

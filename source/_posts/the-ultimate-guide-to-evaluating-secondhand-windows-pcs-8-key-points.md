@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Evaluating Secondhand Windows PCs – 8 Key Points
-date: 2024-11-05T21:14:46.776Z
-updated: 2024-11-10T23:25:38.326Z
+date: 2024-11-16T17:24:44.450Z
+updated: 2024-11-19T21:30:15.219Z
 tags:
   - desktop
 categories:
@@ -34,19 +34,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  This will help you confirm whether the trackpad on your new laptop is equally or more responsive than the other one.
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Test the Speakers and Built-In Microphone
 
  Next, you should test the built-in microphone and speaker. While you can simply play and record something to check if the audio input and output devices are working fine, Windows also offers a way to test them in Settings. On Windows 11, right-click on the Start button and select "Settings." Then, navigate to System > Sound.
@@ -56,28 +43,28 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Testing the laptop speaker in Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/1-testing-the-laptop-speaker-in-settings.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To [test the built-in microphone](https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-vivo-y200e-5g-drfone-by-drfone-virtual-android/), return to the sound settings, click on "Microphone Array," and then click on the "Start Test" button next to Test Your Microphone. Speak for a few seconds, then stop the test. If you see a decent volume percentage recorded, the microphone is working as it should.
 
 ![Testing the laptop microphone in Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/2-testing-the-laptop-microphone-in-settings.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Test the Built-In Camera
 
  If you intend to use the laptop for video communication, test its built-in camera. To do this, type **Camera** in the Windows Search bar and open the Camera app.
 
  If the camera app detects the webcam and the visuals are clear and of satisfactory quality, as the seller claimed, then the camera is working correctly.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Check the Health of Your Laptop Battery
 
@@ -89,23 +76,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Generating the battery health report from Windows PowerShell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/08/br_2-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Navigate to this location and open the battery report. Then, go to the "Installed Batteries" section and compare the "Design Capacity" with the "Full Charge Capacity." The difference between these values indicates the extent to which the battery's capacity has diminished due to usage. If the full charge capacity is significantly low, you may have to replace the battery.
 
 ![Checking the laptop battery report.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/08/br_5.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Ensure the Laptop Isn't Stolen
 
@@ -113,17 +86,38 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  You can also confirm your suspicions by getting the laptop's serial number and contacting the manufacturer to verify whether the device has been reported stolen.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Perform the Physical Inspection
 
  The appearance of the laptop body is a direct reflection of how carefully the original owner has treated the device. Any signs of scratches, cracks, dents, or loose and damaged hinges indicate rough handling by the previous owner. Missing screws are another indicator that the laptop may have been opened for repair or replacement, which raises a red flag.
 
  Also, watch out for stickers that may be covering up wear and tear underneath, as this is a common practice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Test the Wired and Wireless Connectivity
 
  The worst scenario you could face is finding your [laptop unable to connect to the internet](https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual/) (via Wi-Fi or Ethernet cable), USB ports failing to detect external devices, or Bluetooth malfunctioning—all after completing the purchase. Because of that, confirming there are no wired or wireless connectivity issues is important.
 
  Start by connecting your laptop to Wi-Fi. Then, [test its Ethernet port](https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/) by plugging it directly into the router. If the internet connection works well, test the audio jacks with headphones. Similarly, check the USB ports by connecting a wired device. Finally, make sure Bluetooth is working by pairing a Bluetooth-powered device.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Check the Health of RAM and Storage Drive
 
@@ -154,22 +148,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-playbook-a-guide-to-efficiently-posting-srt-files-online/"><u>[New] The Ultimate Playbook A Guide to Efficiently Posting SRT Files Online</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-economical-embellishments-free-youtube-template-packs/"><u>[Updated] 2024 Approved Economical Embellishments FREE YouTube Template Packs</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-free-form-funny-meme-tools-on-a-shoestring-budget/"><u>[Updated] 2024 Approved Free-Form Funny Meme Tools on a Shoestring Budget</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-charting-trends-twitters-viral-videos-of-2023-analysis-for-2024/"><u>[Updated] Charting Trends Twitter’s Viral Videos of 2023 Analysis for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-innovative-scripting-for-advanced-typography-in-after-effects-for-2024/"><u>[Updated] Innovative Scripting for Advanced Typography in After Effects for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-selection-of-christian-streaming-sites/"><u>[Updated] The Ultimate Selection of Christian Streaming Sites</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-secrets-low-light-iphone-photography/"><u>[Updated] Unveiling Secrets Low Light iPhone Photography</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-10-missing-iphone-x-tips-and-tricks-for-you-to-pick-up/"><u>2024 Approved 10 Missing iPhone X Tips and Tricks For You to Pick Up</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-deep-dive-into-metaverse-vs-multi-meva-key-differences-explored/"><u>2024 Approved A Deep Dive Into Metaverse Vs. Multi-Meva Key Differences Explored</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-implementing-windows-11s-automatic-hdr-feature/"><u>2024 Approved The Ultimate Guide to Implementing Windows 11'S Automatic HDR Feature</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-sky-drones-their-genres/"><u>In 2024, Sky Drones Their Genres</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Motorola Moto G23? | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/evel-cams-for-aspiring-youtube-creators/"><u>Pro-Level Cams for Aspiring YouTube Creators</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/step-by-step-guide-reverting-your-computer-from-windows/"><u>Step-by-Step Guide: Reverting Your Computer From Windows</u></a></li>
-<li><a href="https://some-skills.techidaily.com/strategies-to-enhance-stability-of-win-11s-photo-viewer-for-2024/"><u>Strategies to Enhance Stability of Win 11'S Photo Viewer for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/streamlining-your-room-for-oculus-vr-for-2024/"><u>Streamlining Your Room for Oculus VR for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-brawlers-domain-vs-twitch-territory-for-2024/"><u>The Brawler's Domain Vs. Twitch Territory for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-screen-time-saviors-expert-evaluations-of-video-tech/"><u>[New] In 2024, Screen Time Saviors Expert Evaluations of Video Tech</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-initial-steps-to-instagram-video-discussion-success/"><u>[New] Initial Steps to Instagram Video Discussion Success</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-game-genre-matchups-titles-alike-to-gta-v/"><u>[Updated] 2024 Approved Game Genre Matchups Titles Alike to GTA V</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamline-your-twitter-videos-with-pro-convertors/"><u>[Updated] Streamline Your Twitter Videos with Pro Convertors</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-8-gratis-4k-uhd-video-apps-for-pcos-x/"><u>[Updated] Ultimate 8 Gratis 4K UHD Video Apps for PC/OS X</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-vivacut-edit-pro-comprehensive-review-and-tutorial-2024/"><u>[Updated] Ultimate VivaCut Edit Pro Comprehensive Review & Tutorial 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleashing-the-power-of-spotifys-ad-platform-for-marketers/"><u>[Updated] Unleashing the Power of Spotify's Ad Platform for Marketers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlock-potential-in-digital-creation-the-best-android-drawing-tools-list/"><u>[Updated] Unlock Potential in Digital Creation The Best Android Drawing Tools List</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ushering-bliss-into-your-unboxing-experience/"><u>2024 Approved Ushering Bliss Into Your Unboxing Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/critical-insights-into-the-intensified-influence-of-marvels-spider-man-miles-morales-title/"><u>Critical Insights Into the Intensified Influence of Marvel's Spider-Man: Miles Morales Title</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/rm-windows10/"><u>RM形式のプレイバック - Windows10対応ガイド</u></a></li>
+<li><a href="https://common-error.techidaily.com/untangling-the-complicated-web-of-windows-10s-0x80240034-a-step-by-step-guide-to-seamless-updates/"><u>Untangling the Complicated Web of Windows 10'S 0X80240034: A Step-by-Step Guide to Seamless Updates</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-of-both-worlds-free-and-paid-3d-video-creator-software/"><u>Updated Best of Both Worlds Free and Paid 3D Video Creator Software</u></a></li>
 </ul></div>
 

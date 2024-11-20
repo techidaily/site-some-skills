@@ -1,7 +1,7 @@
 ---
 title: Identify Your Windows 11 Edition & Anniversary Updates with Ease
-date: 2024-11-07T21:04:03.803Z
-updated: 2024-11-10T18:46:54.477Z
+date: 2024-11-17T22:50:38.118Z
+updated: 2024-11-19T16:40:50.598Z
 tags:
   - desktop
 categories:
@@ -17,6 +17,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [How to Check Windows Version with the Settings App](https://vimeo-videos.techidaily.com/elevating-your-work-with-impeccable-thumbnails/)
 * [Find Your Windows Edition and Build Number with the Winver Dialog](https://digital-screen-recording.techidaily.com/updated-troubleshooting-common-obs-issues/)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
  Open the Settings app, then navigate to System > About to display all of the information about your Windows version. Alternatively, open the Start Menu, then enter "winver" in the search bar to quickly display basic information about your Windows installation.
@@ -31,25 +38,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  In addition to builds, there also are still different editions of Windows 10—Home, Professional, Enterprise, and so on—with different features.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Check Windows Version with the Settings App
 
  The new Settings app also offers build, edition, and version information in a user-friendly form. Hit Windows+i to open Settings. In the Settings window, navigate to System > About. Scroll down a bit and you'll see the information you're after.
 
 ![Open the Settings app, then go to System; About to display information about your Windows version.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-7.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Navigate to System > About and scroll down. You'll see the "Version" and "Build" numbers here.
 
@@ -59,10 +52,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * **System Type.** This line tells you whether you're [using the 32-bit version of Windows 10 or the 64-bit version](https://twitter-videos.techidaily.com/updated-snapchat-integration-for-twitters-visual-content/). It also tells you whether your PC is compatible with the 64-bit version or not. For example, "64-bit operating system, x64-based processor" indicates you're using a 64-bit version of Windows 10 on a 64-bit processor. "32-bit operating system, x64-based processor" indicates you're using a 32-bit version of Windows 10, but you could [install the 64-bit version on your hardware if you preferred](https://facebook-record-videos.techidaily.com/understanding-filmoras-creative-certification-protocol-for-2024/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Find Your Windows Edition and Build Number with the Winver Dialog
@@ -72,21 +65,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Search for 'winver' in the Start Menu search, then click the result.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-winver.png) 
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The second line in the "About Windows" box tells you which version and build of Windows 10 you have. Remember, the version number is in the form YYMM—so 1607 means the 7th month of 2016\. A couple of lines down, you'll see the edition of Windows 10 you're using—Windows 10 Pro in our example.
 
 ![The version information in the Windows Version window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-search.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The "About Windows" box does not show whether you're using a 64-bit or 32-bit version of Windows 10, but it does give you a quicker way to check your version and build than navigating through the Settings app.
 
@@ -107,14 +101,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-innovate-with-ease-top-sites-for-downloadable-text-extensions/"><u>[New] Innovate with Ease Top Sites for Downloadable Text Extensions</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-revealing-successful-markets/"><u>[New] Revealing Successful Markets</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-simulate-hand-held-camera-effects-in-photoshop-for-2024/"><u>[New] Simulate Hand-Held Camera Effects in Photoshop for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-synopsis-of-crowd-opinions-on-vllo/"><u>2024 Approved Synopsis of Crowd Opinions on VLLO</u></a></li>
-<li><a href="https://fox-that.techidaily.com/easy-tricks-to-modify-your-apple-devices-screen-time-security-settings/"><u>Easy Tricks to Modify Your Apple Device's Screen Time Security Settings</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-timeless-tunes-selecting-high-quality-ringtones-online/"><u>In 2024, Timeless Tunes Selecting High-Quality Ringtones Online</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transforming-srt-to-widely-used-digital-audio-formats-with-ease/"><u>In 2024, Transforming SRT to Widely Used Digital Audio Formats with Ease</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-supreme-selection-an-honour-roll-of-top-10-reddit-discussions-for-2024/"><u>The Supreme Selection An Honour Roll of Top 10 Reddit Discussions for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-premium-no-cost-vectors-and-graphic-hubs-roundup/"><u>[New] Premium No-Cost Vectors & Graphic Hubs Roundup</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-subtlety-in-chords-pc-and-mac-music-settings/"><u>[New] Subtlety in Chords PC & Mac Music Settings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-swap-periscope-leading-video-apps-for-iphoneandroid-devices/"><u>[New] Swap Periscope Leading Video Apps for iPhone/Android Devices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unrestricted-media-playback-free-on-windows-and-macos/"><u>[New] Unrestricted Media Playback FREE on Windows & MacOS</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-ultimate-screen-capture-review-obs-vs-fraps/"><u>[Updated] 2024 Approved Ultimate Screen Capture Review OBS vs Fraps</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-the-comprehensive-guide-to-farming-on-ginger-islet/"><u>[Updated] In 2024, The Comprehensive Guide to Farming on Ginger Islet</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveil-top-10plus-platforms-for-virtual-worship-spaces/"><u>2024 Approved Unveil Top 10+ Platforms for Virtual Worship Spaces</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/609277-9781407029238-angels-and-miracles/"><u>Angels And Miracles | Free Book</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-lava-blaze-curve-5g-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Lava Blaze Curve 5G to PC? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-boost-your-content-top-6-instagram-reel-apps/"><u>In 2024, Boost Your Content Top 6 Instagram Reel Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-phone-with-funimate-the-ultimate-apk-guide/"><u>In 2024, Transform Your Phone with Funimate - The Ultimate APK Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209873944-9780995120358-prophecy-on-the-river/"><u>Prophecy on the River | Free Book</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-oppo-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Oppo</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-broadcast-blueprint-for-enthralling-cricket-matches-for-2024/"><u>The Ultimate Broadcast Blueprint for Enthralling Cricket Matches for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transforming-images-into-engaging-animation-projects-for-2024/"><u>Transforming Images Into Engaging Animation Projects for 2024</u></a></li>
 </ul></div>
 

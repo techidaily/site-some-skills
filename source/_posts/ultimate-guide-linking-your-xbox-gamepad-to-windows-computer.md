@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Linking Your Xbox Gamepad to Windows Computer"
-date: 2024-11-04T16:40:14.547Z
-updated: 2024-11-11T01:42:40.639Z
+date: 2024-11-12T20:01:00.674Z
+updated: 2024-11-19T23:47:52.485Z
 tags:
   - desktop
 categories:
@@ -34,10 +34,10 @@ Xbox
  Once you're done, go ahead and fire up [any game with controller support](https://extra-lessons.techidaily.com/step-by-step-to-mastering-adobes-cloud-storage-capabilities-and-options/) and have fun.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Connect an Xbox Wireless Controller to a PC Through Bluetooth
@@ -48,6 +48,13 @@ Xbox
 
 ![Settings in the Windows 10 Start menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/settings.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In Settings, click "Devices."
 
 ![Windows 10 Settings Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/devices-1.png) 
@@ -56,13 +63,6 @@ Xbox
 
 ![Windows 10 Bluetooth menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/add-bluetooth-device.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the "Add a Device" window that appears, select "Bluetooth."
 
 ![Adding a Bluetooth device in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/bluetooth-select.png) 
@@ -70,13 +70,6 @@ Xbox
  Next, put your Xbox Wireless Controller in [pairing mode](https://facebook-video-content.techidaily.com/new-2024-approved-master-10-social-media-movies/). First, power up the controller by pressing and holding the Xbox button.
 
 ![The Xbox Wireless controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/xbox-controller.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Xbox](https://www.xbox.com/en-US/accessories/controllers/xbox-wireless-controller)
 
@@ -96,20 +89,14 @@ Xbox
 
 ![The "Your Device is ready to go" Bluetooth screen in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/save-it.png) 
 
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When you're done playing, it'll turn off automatically after a while, but you can also [turn the Xbox controller off](https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-google-pixel-fold-drfone-by-drfone-virtual/) manually to save battery life. To do this, press and hold the Xbox button or pop the batteries out.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Connect an Xbox Wireless Controller with an Xbox Wireless Adapter
 
@@ -118,10 +105,10 @@ Xbox
 ![The Xbox Wireless adapter next to a controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/wirelsss-adapter.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Xbox](https://www.xbox.com/en-US/accessories/controllers/xbox-wireless-controller-adapter-windows)
@@ -131,6 +118,13 @@ Xbox
  The controller will automatically connect to your computer through the Xbox Wireless Adapter. If that doesn't work, go over the same steps for connecting the controller via Bluetooth, but instead of selecting "Bluetooth" under "Add a Device," select "Everything Else" to connect the controller to your PC via the adapter.
 
 ![The Bluetooth settings showing the "Add a device" window in WIndows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/adapter-bluetooth-settings.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -151,19 +145,18 @@ Xbox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-enhance-your-video-with-these-premium-free-audio-stores/"><u>[New] 2024 Approved Enhance Your Video with These Premium, Free Audio Stores</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/new-creating-impactful-outros-top-6-free-tools/"><u>[New] Creating Impactful Outros Top 6 FREE Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-4k-aerial-experience-with-xiaomis-drone/"><u>[New] The Ultimate 4K Aerial Experience with Xiaomi's Drone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-windows-mobile-video-playback-guide/"><u>[New] The Ultimate Windows Mobile Video Playback Guide</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ransform-your-video-editing-youtube-tunes-in-imovie/"><u>[New] Transform Your Video Editing YouTube Tunes in iMovie</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-top-10-elite-battle-royale-contenders/"><u>[Updated] 2024 Approved Top 10 Elite Battle Royale Contenders</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-art-of-captivating-your-online-audience/"><u>[Updated] The Art of Captivating Your Online Audience</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-live-streaming-mic-guide-choosing-from-the-best-6/"><u>2024 Approved The Ultimate Live-Streaming Mic Guide Choosing From the Best 6</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-download-process-for-asus-wireless-network-interface-card-wifi-drivers/"><u>Easy Download Process for ASUS Wireless Network Interface Card (WiFi) Drivers</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-streamline-your-thumbnail-design-journey-today/"><u>In 2024, Streamline Your Thumbnail Design Journey Today</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-beginners-guide-to-iphone-slow-movement-videography/"><u>In 2024, The Beginner's Guide to iPhone Slow Movement Videography</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-hidden-youtube-comments/"><u>In 2024, Unveiling Hidden YouTube Comments</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-battle-of-giants-examining-how-googles-palm-2-stacks-against-openais-gpt-4/"><u>The Battle of Giants: Examining How Google's PaLM 2 Stacks Against OpenAI's GPT-4</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210666019-9781957943916-the-signs-of-jesus-deity-in-the-gospel-of-john-workbook/"><u>The Signs of Jesus' Deity in the Gospel of John - Workbook | Free Book</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-master-installation-process-of-wm6/"><u>[Updated] 2024 Approved Master Installation Process of WM6</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-taking-flight-in-video-editing-a-drone-perspective/"><u>[Updated] Taking Flight in Video Editing A Drone Perspective</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-art-of-capturing-attention-top-6-videos-to-watch/"><u>[Updated] The Art of Capturing Attention Top 6 Videos to Watch</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-art-of-extracting-youtube-written-captions-a-threefold-approach-for-success/"><u>[Updated] The Art of Extracting YouTube' Written Captions A Threefold Approach for Success</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-art-of-holding-attention-6-video-classifications/"><u>[Updated] The Art of Holding Attention 6 Video Classifications</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-premier-intro-list-for-panzoids/"><u>[Updated] The Premier Intro List for Panzoids</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-success-with-spotify-marketing-tips/"><u>[Updated] Unlocking Success with Spotify Marketing Tips</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-boost-video-influence-techniques-for-exceptional-client-spotlights/"><u>2024 Approved Boost Video Influence Techniques for Exceptional Client Spotlights</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Nubia Red Magic 8S Pro? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-do-i-sim-unlock-my-iphone-15-pro-by-drfone-ios/"><u>How Do I SIM Unlock My iPhone 15 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-6-plus-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 6 Plus to the Previous iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-remedies-to-restore-sound-on-your-computer-easy-solutions-proven-effective/"><u>Quick Remedies to Restore Sound on Your Computer - Easy Solutions Proven Effective</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726028294038-windows-media-player/"><u>Windows Media Player用ファイルの互換性拡張方法：詳細ガイド</u></a></li>
 </ul></div>
 

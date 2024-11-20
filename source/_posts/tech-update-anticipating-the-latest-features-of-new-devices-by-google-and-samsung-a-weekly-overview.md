@@ -1,7 +1,7 @@
 ---
 title: "Tech Update: Anticipating the Latest Features of New Devices by Google & Samsung - A Weekly Overview"
-date: 2024-11-09T21:47:46.963Z
-updated: 2024-11-10T22:21:28.779Z
+date: 2024-11-14T16:22:33.582Z
+updated: 2024-11-19T19:19:52.566Z
 tags:
   - desktop
 categories:
@@ -15,16 +15,16 @@ This was a surprisingly busy week for tech news, with announcements for Google a
 
 ##  The Big News
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### [You Can Now Add Checkboxes in Microsoft Excel](https://screen-capture.techidaily.com/new-become-a-pro-at-setting-up-vrecorder-fast/) 
 
  Excel finally has a built-in option to use checkboxes in spreadsheet cells. Checkboxes will be useful in to-do lists, attendance sheets, and more.
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [Apple Loosens Its Grip on iPhone Replacement Parts](https://driver-download.techidaily.com/get-updated-nvidia-driver-pack-for-geforce-rtx-2070-on-windows-os/) 
 
@@ -43,22 +43,15 @@ Valve
  Samsung confirmed its next Unpacked event for July 10th, and we’re expecting new folding phones and other hardware.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### [Google Chrome Now Has Better Web Search and Sports Scores](https://snapchat-videos.techidaily.com/updated-change-snapchat-voice-in-minutes-using-twin-methods/) 
 
  Chrome on iPhone, iPad, and Android now has a few more features.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [Your Smartphone Is Coming to Windows 11's Start Menu](https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-vivo-y100i-by-drfone-android/) 
 
@@ -69,10 +62,10 @@ Valve
  The official ChatGPT desktop application doesn’t need a Plus subscription anymore, but the app is still limited to macOS.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### [Moto Tag Is an AirTag Clone for Android Users](https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-infinix-smart-8-hd-phone-by-drfone-android/) 
@@ -83,20 +76,27 @@ Valve
 
 Motorola
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### [Google's Pixel 9 is Coming August 13th](https://facebook-clips.techidaily.com/updated-fb-video-extraction-creating-mp3s-in-minutes/) 
 
  Google's next hardware event is nearing.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### [Paramount+ Is Raising Prices Again](https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-nokia-g22-drfone-by-drfone-virtual-android/) 
 
  The last Paramount+ price hike occurred in June of 2023, and now another one is happening.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  The Other Stuff
 
@@ -119,19 +119,21 @@ Motorola
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-unmatched-storytelling-education-1-8-spotlight/"><u>[New] Unmatched Storytelling Education #1-#8 Spotlight</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-gopro-feature-list-matchup/"><u>[Updated] The Ultimate Gopro Feature List Matchup</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlock-visual-potential-with-smart-photo-text-tools-online/"><u>[Updated] Unlock Visual Potential with Smart Photo Text Tools Online</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/250-asus-laptop-deal-enjoy-15-inches-of-power-with-essential-hdmi-and-usb-ports-from-walmart/"><u>$250 ASUS Laptop Deal: Enjoy 15 Inches of Power with Essential HDMI and USB Ports From Walmart!</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-prime-selection-of-webcams-for-optimal-zoom-video-quality/"><u>2024 Approved Prime Selection of Webcams for Optimal Zoom Video Quality</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhanced-visual-experience-how-outriders-addressed-its-picture-problems/"><u>Enhanced Visual Experience: How Outriders Addressed Its Picture Problems</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-obtain-the-newest-microsoft-certified-bluetooth-driver-for-win11-and-win10/"><u>How to Obtain the Newest Microsoft-Certified Bluetooth Driver for Win11 & Win10</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-safeguarding-your-listening-pleasure-with-3-steps/"><u>In 2024, Safeguarding Your Listening Pleasure with 3 Steps</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On OnePlus Ace 2V | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-power-of-asmr-discovering-its-advantages/"><u>In 2024, The Power of ASMR Discovering Its Advantages</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-10-extensions-for-speeding-up-facebook-videos-effortlessly/"><u>In 2024, Top 10 Extensions for Speeding up Facebook Videos Effortlessly</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/introducing-yeedis-cutting-edge-m12-proplus-robovac-now-available-for-american-households/"><u>Introducing Yeedi's Cutting-Edge M12 Pro+ RoboVac: Now Available for American Households</u></a></li>
-<li><a href="https://some-skills.techidaily.com/variants-of-windows-movie-maker-a-comprehensive-list-for-2024/"><u>Variants of Windows Movie Maker A Comprehensive List for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1722989095343-yakuza-like-a-dragon-triumphs-in-steam-experience-the-epic-journey/"><u>Yakuza: Like A Dragon Triumphs in Steam - Experience the Epic Journey</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-instagram-blocking-made-simple/"><u>[New] 2024 Approved Instagram Blocking Made Simple</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-recording-skype-meetings-on-modern-operating-systems/"><u>[New] In 2024, Recording Skype Meetings on Modern Operating Systems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-tailoring-your-podcast-content-with-seo-in-mind/"><u>[New] Tailoring Your Podcast Content with SEO in Mind</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-top-5-windows-11-gaming-capture-techniques-for-2024/"><u>[Updated] Top 5 Windows 11 Gaming Capture Techniques for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/frame-your-vision-leading-lines-for-dynamic-iphone-photos/"><u>Frame Your Vision Leading Lines for Dynamic iPhone Photos</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-reno-11-pro-5g-phone-without-google-account-by-drfone-android/"><u>How to Unlock Oppo Reno 11 Pro 5G Phone without Google Account?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-p40plus-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Itel P40+ PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-skyrocketing-status-15-clever-methods-for-rapid-social-media-stardom-on-instagram/"><u>In 2024, Skyrocketing Status 15 Clever Methods for Rapid Social Media Stardom on Instagram</u></a></li>
+<li><a href="https://fox-access.techidaily.com/instant-best-picture-viewer-pro/"><u>Instant Best Picture Viewer Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-influence-of-winter-conditions-on-electric-car-battery-durability-what-to-expect/"><u>The Influence of Winter Conditions on Electric Car Battery Durability: What to Expect?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-next-level-of-storage-how-your-personal-files-could-soar-into-outer-space/"><u>The Next Level of Storage: How Your Personal Files Could Soar Into Outer Space</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-test-of-the-inmotion-electric-scooter-unleashing-its-impressive-strength/"><u>The Ultimate Test of the InMotion Electric Scooter: Unleashing Its Impressive Strength</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-6-missteps-why-using-chatgpt-could-be-a-bad-idea/"><u>Top 6 Missteps: Why Using ChatGPT Could Be a Bad Idea</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-strategies-to-ensure-youre-making-the-right-choice-in-secondhand-evs/"><u>Top Strategies to Ensure You're Making the Right Choice in Secondhand EVs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transitioning-to-augmented-reality-my-journey-swapping-a-standard-monitor-for-ar-glasses/"><u>Transitioning to Augmented Reality: My Journey Swapping a Standard Monitor for AR Glasses</u></a></li>
+<li><a href="https://some-skills.techidaily.com/understanding-the-causes-of-electric-vehicle-battery-wear-and-tear/"><u>Understanding the Causes of Electric Vehicle Battery Wear and Tear</u></a></li>
 </ul></div>
 

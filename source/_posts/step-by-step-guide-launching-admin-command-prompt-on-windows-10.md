@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Launching Admin Command Prompt on Windows 10"
-date: 2024-11-05T23:52:24.489Z
-updated: 2024-11-10T17:09:16.233Z
+date: 2024-11-16T22:47:12.003Z
+updated: 2024-11-20T04:15:14.605Z
 tags:
   - deals
 categories:
@@ -17,6 +17,13 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
 * [Run Command Prompt as Admin with the Run Box](https://bypass-frp.techidaily.com/a-quick-guide-to-vivo-x100-frp-bypass-instantly-by-drfone-android/)
 * [Open Command Prompt as Admin with the Power User Menu](https://facebook-video-footage.techidaily.com/updated-shegames-supreme-the-10-best-female-youtubers/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
  Click the Start button, type "cmd" or "Command Prompt" into the search bar, then right-click "Command Prompt" and select "Run as Administrator." You can also use the Run box or Power User menu to launch a Command Prompt window as Administrator.
@@ -24,10 +31,10 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
  Much of the time, opening the Command Prompt as a regular user is all you need. Sometimes, though, you'll need to open the Command Prompt as an [administrator](https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual/) so that you can run commands that require administrative privileges. Here are three quick ways you can open the Command Prompt with admin privileges on Windows 10.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Open Command Prompt as Admin with the Start Menu
@@ -36,29 +43,22 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
 
 ![Search &quot;Command Prompt&quot; in the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/05/Search-Command.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When you launch the Command Prompt with admin privileges, you'll likely see a "[User Account Control](https://extra-support.techidaily.com/new-proven-techniques-for-amplifying-tiktok-unboxing-success/)" window asking for permission to continue. Go ahead and click "Yes."
 
 ![Click &quot;Yes&quot; when prompted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/05/cpa_2.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you've got the "Administrator: Command Prompt" window open, you can run any command, whether it requires administrative privileges or not.
 
 ![A Command Prompt window with Administrative Privileges.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-cmd-as-admin.png) 
 
  If you've set up Windows Terminal on Windows 10 the window may look a little different from our screenshot. It isn't a problem, and it won't affect any commands you try to run. 
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Run Command Prompt as Admin with the Run Box
 
@@ -67,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
 ![Cmd in a run window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-cmd-via-run.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Open Command Prompt as Admin with the Power User Menu
@@ -98,16 +98,18 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-cutting-edge-visual-techniques-selecting-premium-camera-lenses-for-2024/"><u>[New] Cutting-Edge Visual Techniques Selecting Premium Camera Lenses for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-uncovering-notable-versions-within-microsofts-movie-maker/"><u>[Updated] Uncovering Notable Versions Within Microsoft's Movie Maker</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-perfecting-your-phones-capability-for-youtube-thumbnail-creation/"><u>2024 Approved Perfecting Your Phone's Capability for YouTube Thumbnail Creation</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-top-10-destinations-for-high-end-vectors/"><u>2024 Approved Unveiling Top 10 Destinations for High-End Vectors</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-highspeed-slowscene-videograph/"><u>In 2024, HighSpeed SlowScene Videograph</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-honor-x50-gt-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Honor X50 GT | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-shader-optimization-quickly-a-guide-to-star-wars-battlefront-ii-graphics-improvement/"><u>Mastering Shader Optimization Quickly - A Guide to Star Wars Battlefront II Graphics Improvement</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-ineffective-microphones-on-iphones-step-by-step-fixes/"><u>Solving Ineffective Microphones on iPhones: Step-by-Step Fixes</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-10-cost-free-passport-image-makers-for-2024/"><u>The Ultimate Guide 10 Cost-Free Passport Image Makers for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-sound-design-editing-your-podcasts-in-garageband-for-2024/"><u>The Ultimate Sound Design Editing Your Podcasts in GarageBand for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/top-5-oppo-k11-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Oppo K11 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-sharper-images-richer-minescapes-zoom-techniques-revealed/"><u>[New] In 2024, Sharper Images, Richer Minescapes Zoom Techniques Revealed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-quick-guide-accessorizing-windows-with-a-clownfish-speech-modifier/"><u>[New] Quick Guide Accessorizing Windows with a Clownfish Speech Modifier</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-strategies-for-merging-youtube-music-and-video-content-effectively/"><u>[New] Strategies for Merging YouTube Music & Video Content Effectively</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-vocal-lens-capture-microphone-inputs-for-2024/"><u>[New] Vocal Lens Capture Microphone Inputs for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-pro-level-video-conferencing-picking-the-best-5-recorders/"><u>[Updated] 2024 Approved Pro-Level Video Conferencing Picking the Best 5 Recorders</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-quick-image-transfiguration-winmac-photo-animation-pro-for-2024/"><u>[Updated] Quick Image Transfiguration Win/Mac Photo Animation Pro for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-creating-fluid-edits/"><u>[Updated] The Ultimate Guide to Creating Fluid Edits</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-innovative-approaches-to-documenting-gaming-on-ps4/"><u>2024 Approved Innovative Approaches to Documenting Gaming on PS4</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gigglegadget-assistant-for-2024/"><u>GiggleGadget Assistant for 2024</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/how-to-efficiently-erase-unwanted-video-backgrounds-alternatives-to-the-green-screen-method-top-11-styles/"><u>How to Efficiently Erase Unwanted Video Backgrounds - Alternatives to the Green Screen Method, Top 11 Styles</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-premier-manual-for-subtitle-precision-via-web-resources/"><u>In 2024, The Premier Manual for Subtitle Precision via Web Resources</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/mastering-idevice-screenshots-latest-techniques-for-2024/"><u>Mastering iDevice Screenshots Latest Techniques for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/quick-and-easy-iphone-burst-techniques/"><u>Quick and Easy iPhone Burst Techniques</u></a></li>
 </ul></div>
 

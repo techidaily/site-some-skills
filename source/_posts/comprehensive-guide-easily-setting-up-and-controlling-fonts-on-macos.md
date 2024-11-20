@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Easily Setting Up & Controlling Fonts on macOS"
-date: 2024-11-09T16:50:47.166Z
-updated: 2024-11-11T00:17:38.000Z
+date: 2024-11-14T00:28:17.328Z
+updated: 2024-11-20T02:11:14.862Z
 tags:
   - desktop
 categories:
@@ -24,10 +24,10 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
  We'll guide you through Font Book on Mac, your go-to tool for managing and organizing your font collection. You’ll learn how to install, tweak, and deactivate fonts.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Fonts Does macOS Support?
@@ -70,6 +70,13 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 
  Avoid going overboard with font installations. Installing more fonts than you actually use can lead to sluggish performance in certain apps and create an overwhelming font menu.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  How to Install Fonts for All Users
 
  By default, Font Book installs new fonts just for your account. They reside in the invisible Library folder "/Users/Home/Library/Fonts". But, if you want all users on your Mac to have access to the fonts, go to Font Book > Settings > Installation. Select the "Default Install Location" menu and choose "All Users." This setting shares your fonts in the main folder "/Library/Fonts".
@@ -77,10 +84,10 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 ![Selecting All Users from Font Book's Installation menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-12-at-2-55-14-pm.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Deactivate or Remove a Font
@@ -89,16 +96,22 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 
 ![The deactivate option in Font Book.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-12-at-2-57-58-pm.png) 
 
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Alternatively, to delete it entirely, select "Remove." However, note that Font Book won't let you deactivate or delete any fonts that macOS needs to operate, like Arial, Times New Roman, and Avenir.
 
  If any font starts misbehaving, like displaying incorrect characters, you can [validate your fonts in Font Book](https://on-screen-recording.techidaily.com/in-2024-speaking-like-a-pro-tips-to-upgrade-your-google-meet-skills/). Just select "Validate" from the context menu.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Organize Your Fonts Into Collections
 
@@ -109,28 +122,15 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 ![Creating a new font collection.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-24-at-1-07-32-am.png) 
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Select the fonts you want to include in your collection (you can choose them from an existing collection, if needed.) To do that, click and drag to highlight multiple fonts, or use the Command key to select non-contiguous fonts. Then, drag the fonts to the collection, or right-click and use the "Add to" menu.
 
 ![Selecting fonts to be included in a new font collection.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-24-at-1-11-20-am.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Finally, double-click the collection name to retitle it and make it easy for you to identify later.
 
@@ -157,22 +157,16 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-comprehensive-guide-to-digital-subtitle-enhancing-platforms/"><u>[New] The Comprehensive Guide to Digital Subtitle Enhancing Platforms</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-comic-creators-charter-zero-cost-endless-laughs/"><u>[Updated] Comic Creators' Charter Zero Cost, Endless Laughs</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-10plus-free-apps-to-convert-youtube-videos-on-demand/"><u>[Updated] In 2024, 10+ Free Apps to Convert YouTube Videos on Demand</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-quick-quality-grabs-for-your-vids/"><u>[Updated] In 2024, Quick, Quality Grabs for Your Vids</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-leading-tools-to-transform-your-vocal-recordings/"><u>[Updated] Leading Tools to Transform Your Vocal Recordings</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-syncing-images-android-iphone-file-transfer-guide/"><u>[Updated] Syncing Images Android-iPhone File Transfer Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-convert-kings-playbook-youtube-to-mp4mpeg-edition/"><u>[Updated] The Convert King's Playbook YouTube to MP4/MPEG Edition</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-guide-to-top-8-gold-text-in-3d-realms/"><u>[Updated] Ultimate Guide to Top 8 Gold Text in 3D Realms</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-tailored-video-epilogue-templates-available-free/"><u>In 2024, Tailored Video Epilogue Templates Available Free</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-tech-triad-analysis-understanding-the-intersection-of-vr-ar-and-mr/"><u>In 2024, Tech Triad Analysis Understanding the Intersection of VR, AR & MR</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-logitech-momo-trackmania-wheel-on-pc-first-time-driver-setup-guide-and-download-link/"><u>Install Logitech MOMO TrackMania Wheel on PC – First-Time Driver Setup Guide and Download Link</u></a></li>
-<li><a href="https://some-skills.techidaily.com/modern-photo-editing-wonders-frame-integration-essentials-2023-for-2024/"><u>Modern Photo Editing Wonders Frame Integration Essentials, 2023 for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/quick-and-simple-conversion-turning-wav-files-into-mp3-format-using-audials/"><u>Quick and Simple Conversion: Turning WAV Files Into MP3 Format Using Audials</u></a></li>
-<li><a href="https://games-able.techidaily.com/reverse-disk-rotation-using-chdman-to-enhance-gaming-archives/"><u>Reverse Disk Rotation: Using CHDMAN to Enhance Gaming Archives</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/solutions-rapides-aux-difficultes-les-plus-frequentes-du-surface-pro-7-avec-windows-11/"><u>Solutions Rapides Aux Difficultés Les Plus Fréquentes Du Surface Pro 7 Avec Windows 11</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-symphony-of-selection-trailer-music-mastery-for-2024/"><u>The Symphony of Selection Trailer Music Mastery for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-verdict-on-raspberry-pi-games-batocera-or-retropie/"><u>The Ultimate Verdict on Raspberry Pi Games: Batocera or RetroPie?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-best-microphone-for-different-youtube-channel-types/"><u>[Updated] 2024 Approved Best Microphone for Different YouTube Channel Types</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-compiling-the-top-windows-11-video-capture-tools/"><u>[Updated] 2024 Approved Compiling the Top Windows 11 Video Capture Tools</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-amplify-engagement-utilizing-youtube-analytics-wisely-for-2024/"><u>[Updated] Amplify Engagement Utilizing YouTube Analytics Wisely for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/how-to-use-picture-in-picture-on-chrome-on-all-platforms-for-2024/"><u>How to Use Picture in Picture on Chrome on All Platforms for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-quiet-guide-to-livestreaming-yourself-on-instagram/"><u>In 2024, The Quiet Guide to Livestreaming Yourself on Instagram</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlock-clearer-visuals-with-iphone-video-focus/"><u>In 2024, Unlock Clearer Visuals with iPhone Video Focus</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-vanguard-websites-for-3d-letterforms/"><u>In 2024, Vanguard Websites for 3D Letterforms</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/preserve-excellence-when-switching-from-mpg-to-mp4-a-step-by-step-guide/"><u>Preserve Excellence When Switching From MPG to MP4: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-power-of-4k-in-the-samsung-galaxy-s8-experience-for-2024/"><u>The Power of 4K in the Samsung Galaxy S8 Experience for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/turning-batches-into-windows-wonders-the-exe-guide/"><u>Turning Batches Into Windows Wonders: The Exe Guide</u></a></li>
 </ul></div>
 

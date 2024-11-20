@@ -1,7 +1,7 @@
 ---
 title: Top 8 Solutions for When Your Laptop Won't Charge Despite Being Connected
-date: 2024-11-07T04:50:57.344Z
-updated: 2024-11-10T18:31:42.009Z
+date: 2024-11-16T17:34:11.835Z
+updated: 2024-11-20T02:48:05.193Z
 tags:
   - deals
 categories:
@@ -22,13 +22,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [Reinstall the Battery Drivers](https://twitter-videos.techidaily.com/in-2024-guide-downloading-twitters-videos-on-android-devices/)
 * [Test for a Defective Battery](https://facebook-video-content.techidaily.com/new-fb-profile-picture-dimensions/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * If your laptop isn't charging even when it's plugged in, make sure the power cord is firmly connected to the adapter brick. If that doesn't work, try plugging the charger's adapter plug into a different outlet and carefully examining the charging port and pin.
@@ -43,6 +36,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![A laptop adapter with a loose connection.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/laptop-adapter.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Aman Kumar / How-To Geek
 
  If you find that the power cord is loosely connected to the adapter brick, apply gentle pressure to firmly insert it into the adapter. Alternatively, you can unplug the power cord completely and then plug it back in again.
@@ -55,6 +61,13 @@ Jason Fitzpatrick / How-To Geek
 
  Your laptop may not charge if the socket in which the adapter plug is currently connected is not functioning. To verify this, insert the adapter plug into a different socket and check if your laptop starts charging. If it does, this confirms that the original socket or its corresponding switch is not working. You can contact an electrician, in this case, to have this socket repaired.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  3\. Use the Original Charger
 
  You should also ensure that you're using the original charger that came with your laptop for optimal charging. While third-party chargers may advertise [fast charging](https://snapchat-videos.techidaily.com/new-elevate-your-social-media-presence-by-pining-on-snapchat/) or other advantages, they often end up harming the device.
@@ -62,6 +75,13 @@ Jason Fitzpatrick / How-To Geek
  For instance, using a counterfeit charger that claims fast charging on a laptop that doesn't support it can [damage the battery](https://on-screen-recording.techidaily.com/updated-webcam-techniques-for-live-recording-powerpoint/) by providing incorrect power levels. Similarly, if you try to charge your laptop that supports [USB-C](https://screen-activity-recording.techidaily.com/navigating-lenovo-screen-capture-tools-effortlessly/) charging with a smartphone charger, then you're likely to encounter charging issues, as the power supply from a smartphone charger is typically lower than what a laptop requires.
 
  Counterfeit chargers often charge laptops at an extremely slow pace or, in some cases, not charge at all. If your original laptop charger is malfunctioning, opt to purchase the same model charger directly from the laptop manufacturer online or in-store instead of resorting to a third-party charger.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  4\. Examine the Charging Port and Pin
 
@@ -78,10 +98,10 @@ Aman Kumar / How-To Geek
 ![The charging pin on a laptop adapter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/charging-pin.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Aman Kumar / How-To Geek
@@ -89,10 +109,10 @@ Aman Kumar / How-To Geek
  If the charging pin is broken, you can easily cut the pin and connect a new one. However, if you don't feel confident in cutting and changing the pin yourself, you should contact an expert to do it.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  5\. Allow Your Laptop to Cool Down
@@ -102,13 +122,6 @@ Aman Kumar / How-To Geek
  As it turns out, lithium-ion or lithium-polymer batteries can start to degrade if you try to charge them at high temperatures. Additionally, charging a laptop when it's overheated can increase the risk of [battery explosions](https://fox-cloud.techidaily.com/masterful-8-tools-for-flawless-sub-and-srt-conversion/). To prevent these scenarios, manufacturers design laptops to automatically stop charging when the device overheats.
 
  In this situation, there's not much you can do. Simply shut down your laptop and allow it to cool down. Once you feel the temperature has decreased, reconnect the charger, and your laptop should start charging again.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  6\. Download Any Available BIOS Update
 
@@ -125,22 +138,15 @@ Aman Kumar / How-To Geek
 ![Batteries node in the Device Manager app on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/batteries-node.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Right-click on the "Microsoft AC Adapter" driver and select the "Uninstall device" option. Similarly, uninstall the "Microsoft ACPI-Compliant Control Method Battery" driver.
 
 ![The Uninstall Device option in Device Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/uninstall-device.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once the drivers have been uninstalled, [restart your computer](https://screen-video-capture.techidaily.com/updated-in-2024-addressing-mute-problems-in-obs-live-recording/). Upon restart, Windows will automatically reinstall both battery drivers. However, if it fails to reinstall them for any reason, press Windows+i to open the "Settings" app, click on "Windows Update," and then select "Check for Updates." Windows will now install the missing driver, which in this case is the battery driver, on your computer.
 
@@ -187,24 +193,20 @@ Aman Kumar / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-untouched-live-visual-recorders/"><u>[New] 2024 Approved Untouched Live Visual Recorders</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-tailored-ending-scenes-get-em-for-free/"><u>[New] Tailored Ending Scenes - Get 'Em for Free</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-samsung-camera-toolkit-review-2023-edition/"><u>[Updated] Samsung Camera Toolkit Review – 2023 Edition</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-iphone-photo-hacks-to-enhance-your-landscapes/"><u>[Updated] Top iPhone Photo Hacks to Enhance Your Landscapes</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-how-to-create-impactful-online-ads-on-a-limited-budget/"><u>2024 Approved How to Create Impactful Online Ads on a Limited Budget</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-insiders-guide-to-excellence-in-zoom-webinars/"><u>2024 Approved The Insider’s Guide to Excellence in Zoom Webinars</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Apple iPhone 13? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-your-room-for-oculus-vr/"><u>In 2024, Streamlining Your Room for Oculus VR</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transform-and-edit-videos-like-a-pro-with-these-iphonepc-tools/"><u>In 2024, Transform and Edit Videos Like a Pro With These iPhone/PC Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-movie-grading-skills-using-cg-centrals-luts/"><u>In 2024, Transform Your Movie Grading Skills Using CG Central's Luts</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/o-segredo-do-perfeito-corte-de-imagens-usando-o-moveavi-dicas-e-trus-para-iniciantes/"><u>O Segredo Do Perfeito Corte De Imagens Usando O Moveavi - Dicas E Trús Para Iniciantes</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/phantom-pitches-is-this-magical-talker-an-illusion-or-reality-explore-more-options/"><u>Phantom Pitches Is This Magical Talker an Illusion or Reality? Explore More Options</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/smart-lawn-sprinkler-systems-in-202e-a-comparative-review-of-rachio-rainmachine-and-wyze-for-efficient-watering-solutions-zdnet-insights/"><u>Smart Lawn Sprinkler Systems in 202E: A Comparative Review of Rachio, Rainmachine, and Wyze for Efficient Watering Solutions | ZDNET Insights</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-art-of-textual-innovation-in-after-effects-for-2024/"><u>The Art of Textual Innovation in After Effects for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-5-game-consoles-emulated-on-macos/"><u>Top 5 Game Consoles Emulated on macOS</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/transferring-your-memories-from-google-photos-to-apples-icloud-platform/"><u>Transferring Your Memories: From Google Photos to Apple's iCloud Platform</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/trasforma-i-tuoi-video-wmv-in-asf-senza-costi-tramite-strumenti-online-movike-pro/"><u>Trasforma I Tuoi Video WMV in ASF Senza Costi Tramite Strumenti Online - Movike Pro</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-steps-for-a-malfunctioning-lenovo-keyboard-light/"><u>Troubleshooting Steps for a Malfunctioning Lenovo Keyboard Light</u></a></li>
-<li><a href="https://some-skills.techidaily.com/vectors-explained-an-entry-level-guide-to-forms-and-applications-for-2024/"><u>Vectors Explained An Entry-Level Guide to Forms and Applications for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/reaking-barriers-increasing-viewership-on-youtube/"><u>[New] Breaking Barriers Increasing Viewership on YouTube</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-surge-video-popularity-top-youtube-seo-advice/"><u>[Updated] In 2024, Surge Video Popularity Top YouTube SEO Advice</u></a></li>
+<li><a href="https://some-skills.techidaily.com/1-explore-the-enhanced-experience-with-apples-macos-sequoia-unveiling-top-3-desired-functionalities/"><u>1. Explore the Enhanced Experience with Apple's macOS Sequoia: Unveiling Top 3 Desired Functionalities</u></a></li>
+<li><a href="https://some-skills.techidaily.com/1-lost-your-mac-login-credentials-a-step-by-step-guide-on-how-to-recover/"><u>1. Lost Your Mac Login Credentials? A Step-by-Step Guide on How to Recover</u></a></li>
+<li><a href="https://some-skills.techidaily.com/12-surprising-tricks-you-never-knew-about-using-preview-on-your-mac/"><u>12 Surprising Tricks You Never Knew About Using Preview on Your Mac</u></a></li>
+<li><a href="https://some-skills.techidaily.com/7-tips-for-resolving-camera-not-found-on-windows-11-devices/"><u>7 Tips for Resolving 'Camera Not Found' On Windows 11 Devices</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-honor-x9a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/drivesavers-raid-suite-multiverse-support/"><u>DriveSavers RAID Suite: Multiverse Support</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silence-resolving-audio-issues-in-cyberpunk-2077-on-windows-11/"><u>Fixing Silence: Resolving Audio Issues in Cyberpunk 2077 on Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-realme-gt-5-pro-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Realme GT 5 Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/1724884621616-lenovo-yoga-slim-7x-windows-snapdragon/"><u>Lenovo Yoga Slim 지갑쇼드라그래픅 7X 리뷰: Windows에서 Snapdragon은 완전히 안타깝게 신속하지 않음</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-complete-tutorial-on-utilizing-the-gpasswd-command-for-secure-password-changes-on-your-linux-system/"><u>The Complete Tutorial on Utilizing the Gpasswd Command for Secure Password Changes on Your Linux System</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-updating-software-in-windows-11-a-simple-process/"><u>The Ultimate Guide to Updating Software in Windows 11: A Simple Process</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-performance-in-depth-analysis-by-toms-computing-guide/"><u>Unlocking Performance: In-Depth Analysis by Tom's Computing Guide</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-in-2024-how-to-use-emojis-on-windows-10-and-windows-11/"><u>Updated In 2024, How to Use Emojis on Windows 10 and Windows 11?</u></a></li>
 </ul></div>
 

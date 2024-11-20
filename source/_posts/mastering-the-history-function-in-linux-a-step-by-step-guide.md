@@ -1,7 +1,7 @@
 ---
 title: "Mastering the 'History' Function in Linux: A Step-by-Step Guide"
-date: 2024-11-09T01:12:25.352Z
-updated: 2024-11-10T16:09:30.565Z
+date: 2024-11-12T17:18:11.928Z
+updated: 2024-11-19T19:07:17.094Z
 tags:
   - desktop
 categories:
@@ -54,13 +54,6 @@ history 10
 
 ![history 10 in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/3-7.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can achieve the same result if you [pipe](https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-11-pro-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/) `history` through the [tail command](http://man7.org/linux/man-pages/man1/tail.1.html). To do so, type the following:
 
 history | tail -n 10
@@ -93,13 +86,6 @@ sudo !!
 
 ![mv ./my_script.sh /usr/local/bin/  in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/7-8.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  So, you can type the corresponding number from the list to repeat a command or use the double exclamation points to repeat the last command you used. However, what if you want to repeat the fifth or eighth command?
 
  You can use one exclamation point, a hyphen (-), and the number of any previous command (again, without spaces) to repeat it.
@@ -109,6 +95,13 @@ sudo !!
 !-13
 
 ![!-13 ina terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/8-8.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Searching for Commands by String
 
@@ -127,13 +120,6 @@ sudo !!
 !sudo:p
 
 ![!sudo:p in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/10-8.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This instructs `history` to print the command to the terminal window, rather than executing it. This allows you to see the command before you use it. If it is the command you want, press the Up arrow, and then hit Enter to use it.
 
@@ -175,6 +161,13 @@ sudo !!
 
 ![Command shown on the command line allowing editing](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/18-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can use other Linux tools to search the history list. For example, to pipe the output from `history` into `grep` and [search for commands that contain the string](http://man7.org/linux/man-pages/man1/grep.1.html) "aliases" you could use this command:
 
 history | grep aliases
@@ -182,10 +175,17 @@ history | grep aliases
 ![history | grep aliases in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/19-3.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Modifying the Last Command
@@ -220,6 +220,13 @@ history | grep shhd
 
 ![history | grep shhd in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/21-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also pass a range of commands to the `-d` option. To delete all list entries from 22 to 32 (inclusive), type this command:
 
 history -d 22 32
@@ -227,13 +234,6 @@ history -d 22 32
  To delete only the last five commands, you can type a negative number, like so:
 
 history -d -5
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Manually Updating the History File
 
@@ -296,20 +296,13 @@ history 5
 
 ![special-app another-password in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/26-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The command with the password isn't added to the history list. The reason this trick works is contained within the `.bashrc` file.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The .bashrc File
@@ -340,6 +333,13 @@ gedit .bashrc
 
 ![HISTCONTROL entry n the .bashrc file in gedit](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/31b.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can set this value to do any of the following:
 
 * `**ignorespaces**:`Lines that begin with a space aren't added to the history list.
@@ -363,13 +363,6 @@ export HISTTIMEFORMAT="%c "
  Note that there's a space before the closing quotation marks. This prevents the timestamp from butting up to the commands in the command list.
 
 ![export HISTTIMEFORMAT="%c " in gedit](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/29b-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now, when you run the history command, you see date- and timestamps. Note that any commands that were in the history list before you added the timestamps will be timestamped with the date and time of the first command that receives a timestamp. In this example shown below, this was command 118.
 
@@ -405,6 +398,13 @@ export HISTTIMEFORMAT="%T "
 
 ![The &quot;export HISTTIMEFORMAT=&quot;%T&quot; command in gedit.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/33-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Our output is now more manageable.
 
 ![history list with timestamps in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/34-1.png) 
@@ -434,22 +434,18 @@ export HISTTIMEFORMAT="%T "
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-best-box-personalizing-online-spots-unique-heartfelt-gestures/"><u>[New] Best Box-Personalizing Online Spots Unique, Heartfelt Gestures</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/est-iphone-and-android-photo-and-video-capture-applications-reviewed/"><u>[New] Best iPhone & Android Photo & Video Capture Applications Reviewed</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-beyond-expectations-the-new-samsung-ubd-k8500-edition/"><u>[New] Beyond Expectations The New Samsung UBD-K8500 Edition</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-summit-series-of-ultimate-4k-touch-screens/"><u>[Updated] Summit Series of Ultimate 4K Touch Screens</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-tickler-toolkit-image-mashup/"><u>[Updated] Tickler Toolkit Image Mashup</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-transform-your-gaming-soundscape-ps5-and-ps4-edition/"><u>[Updated] Transform Your Gaming Soundscape PS5 & PS4 Edition</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlock-professional-results-with-these-key-pixlr-techniques/"><u>[Updated] Unlock Professional Results with These Key Pixlr Techniques</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-online-broadcast-platforms/"><u>2024 Approved Ultimate Online Broadcast Platforms</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-oneplus-11r-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For OnePlus 11R | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-vivo-y27-5g-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Vivo Y27 5G? Try These Fixes</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-swiftly-switch-srt-and-text-files-with-this-easy-guide/"><u>In 2024, Swiftly Switch SRT and Text Files with This Easy Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-apex-of-narrative-content-youtubes-finest-in-23/"><u>In 2024, The Apex of Narrative Content YouTube’s Finest in '23</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-8-selections-of-subtitle-editors-making-srt-on-windowsmac-a-breeze/"><u>In 2024, Top 8 Selections of Subtitle Editors Making SRT on Windows/Mac a Breeze</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-top-10-free-video-stabilization-tools-for-smooth-footage/"><u>New Top 10 Free Video Stabilization Tools for Smooth Footage</u></a></li>
-<li><a href="https://win-premium.techidaily.com/solution-pour-lerreur-windows-nest-pas-en-mesure-dacceder-au-dossier-partage/"><u>Solution Pour L’erreur 'Windows N’est Pas en Mesure D'accéder Au Dossier Partagé'</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-resolve-0x0000004e-issue-in-win11/"><u>Strategies to Resolve 0X0000004E Issue in Win11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-windows-11-search-issues-top-solutions/"><u>Troubleshooting Windows 11 Search Issues: Top Solutions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-expertly-curated-top-15-android-virtualization-tools-macpc/"><u>[New] 2024 Approved Expertly Curated Top 15 Android Virtualization Tools (Mac/PC)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-and-uncomplicated-youtube-image-extractor-tools-reviewed-for-2024/"><u>[New] Free and Uncomplicated YouTube Image Extractor Tools Reviewed for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-nostalgia-revue-old-school-review-of-the-goofys/"><u>[New] Nostalgia Revue Old-School Review of The Goofys</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-retro-reflection-self-portraits-with-x-phone/"><u>[Updated] Retro Reflection Self-Portraits with X Phone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-evolution-of-color-formats-from-rgb-to-srgb/"><u>[Updated] The Evolution of Color Formats From Rgb to Srgb</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-future-of-tiktok-master-video-trends-and-techniques/"><u>[Updated] The Future of TikTok - Master Video Trends and Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transforming-realities-into-engaging-documentaries-through-scriptwriting/"><u>[Updated] Transforming Realities Into Engaging Documentaries Through Scriptwriting</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/beginners-handbook-mastering-the-basics-of-home-audio-systems/"><u>Beginner's Handbook: Mastering the Basics of Home Audio Systems</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-xiaomi-mix-fold-3-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Xiaomi Mix Fold 3 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/comprehensive-analysis-of-the-apple-ipad-air-2019-the-ultimate-media-device/"><u>Comprehensive Analysis of the Apple iPad Air (2019): The Ultimate Media Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-lgbt-films-featured-on-netflix-for-july-2024-the-complete-list/"><u>Essential LGBT Films Featured on Netflix for July 2024: The Complete List</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/gptssd/"><u>GPT硬盘数据转移指南：从大型到小型SSD最佳方法</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-9-innovative-websites-offering-unique-3d-graffiti-typefaces/"><u>Top 9 Innovative Websites Offering Unique 3D Graffiti Typefaces</u></a></li>
 </ul></div>
 

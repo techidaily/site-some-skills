@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Playback and Conversion of Music Tracks From Your CDs in the Windows Operating System"
-date: 2024-11-05T18:48:45.988Z
-updated: 2024-11-11T02:09:43.617Z
+date: 2024-11-14T19:05:42.799Z
+updated: 2024-11-20T01:18:32.477Z
 tags:
   - desktop
 categories:
@@ -17,13 +17,6 @@ thumbnail: https://thmb.techidaily.com/50f9025d1cd24e51aee5d683c09c648b774d15c54
 * [Rip a CD With Media Player](https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-realme-v30t-drfone-by-drfone-virtual-android/)
 * [Rip a CD on Older Windows PCs](https://digital-screen-recording.techidaily.com/updated-2024-approved-gamescene-capturers-compendium/)
 * [Backing up Your Music](https://extra-support.techidaily.com/updated-reimagine-virtual-engagements-with-customized-video-filters-in-zoom/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -44,10 +37,10 @@ thumbnail: https://thmb.techidaily.com/50f9025d1cd24e51aee5d683c09c648b774d15c54
 ![ASUS external disc drive with the tray open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/51y-aw6sijl-_ac_sl1000_.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #####  ASUS ZenDrive Silver
@@ -60,17 +53,38 @@ The ASUS ZenDrive Silver is a basic and affordable external optical drive, with 
 
  The disc drive can be useful for more than just ripping CDs, too. You can play DVDs and some Blu-ray movies with applications like [VLC Media Player](https://www.videolan.org/vlc/), or read data discs.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Rip a CD With Media Player
 
  You can use the modern Media Player application to manage your local music library and rip audio CDs. It's installed by default on most Windows 11 computers, just search for "Media Player" in the Start Menu.
 
 ![Searching for Media Player in Start Menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/clipboard-jun-7-2024-at-4-03-pm.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you don't have Media Player on your PC, you can [download it for free from the Microsoft Store](https://apps.microsoft.com/detail/9wzdncrfj3pt?hl=en-us&gl=US). It requires Windows 10 version 19042 or higher—if your PC is too old, jump to the next section.
 
  After you open Media Player, put your audio CD into your disc drive. It should show up in the sidebar of the Media Player app. You might need to click the menu button on the top-left corner of the window to see the full sidebar. Click the disc to switch to it in the Media Player app.
 
 ![Screenshot of a disc selected in the Media Player app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/clipboard-jun-7-2024-at-4-13-pm.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can play music straight from the disc by clicking the 'Play all' button, or by double-clicking on an individual track. If you want to change the default audio import settings before ripping the disc, click the three-dots button and select the "Rip settings" option.
 
@@ -82,13 +96,6 @@ The ASUS ZenDrive Silver is a basic and affordable external optical drive, with 
 
 ![Screenshot of Rip CD button in Media Player.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/untitled.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can access the your newly-ripped music from the Music tab in the Media Player app. It's easier to find if you switch to the Albums tab and sort by Date added.
 
 ![Screenshot of Music page in Media Player.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/clipboard-jun-7-2024-at-4-38-pm.png) 
@@ -96,13 +103,6 @@ The ASUS ZenDrive Silver is a basic and affordable external optical drive, with 
  Ripped audio doesn't include album art or other metadata, but you can fix that with a few clicks. Open the album you just ripped, click the "Edit info" button, then click "Update album info online."
 
 ![Screenshot of 'Update album info online' button in Media Player.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/untitled-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Media Player will check for metadata online, and if it finds more data, it will ask you for confirmation before writing changes to the files.
 
@@ -120,29 +120,28 @@ wmplayer
 
 ![A CD in Windows Media Player.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/clipboard-jun-13-2024-at-4-26-pm.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click the CD in the sidebar to see its contents. You can play music straight from the disc by clicking the large play button at the bottom of the window, or by double-clicking on an individual track. If you want to change the default audio import settings before ripping the disc, click the "Rip settings" dropdown menu.
 
 ![Audio quality menu in Windows Media Player.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/untitled-2.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you're not sure what options are best, you should select **MP3** under the "Format" menu, and **256 Kbps** under the "Audio Quality" menu. That's a good middle ground between audio quality and drive space—the default settings (at least on my PC) of MP3 and 128 Kbps is much lower quality than the original CD. A lossless format like FLAC or ALAC would give you the highest quality possible, but the difference compared to a high-bitrate MP3 isn't usually noticeable with typical speakers or headphones.
 
  When you're ready, click the "Rip CD" button to start ripping the audio to your music library. You'll see progress bars on each track until the rip is complete.
 
 ![Rip CD button in Windows Media Player.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/rip.png) 
+
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After the rip is complete, your music will be accessible from the "Music" tab in the left sidebar.
 
@@ -153,10 +152,10 @@ wmplayer
 ![Find album info menu in Windows Media Player.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/music-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Windows Media Player will check for metadata online, and if it finds more data, it will ask you for confirmation before writing changes to the files.
@@ -168,6 +167,13 @@ wmplayer
  The new Media Player and the classic Windows Media Player both store music files in your Music folder by default. You can get there by opening the File Explorer, then clicking the "Music" shortcut in the sidebar.
 
 ![Screenshot of Music folder in the File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/music-2.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If the shortcut isn't in your sidebar, open the Windows Run dialog (**Win+R** keyboard shortcut), type the below command, and press the OK button.
 
@@ -190,15 +196,14 @@ shell:My Music
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-instagram-the-ultimate-guide-to-viral-popularity/"><u>[New] Mastering Instagram The Ultimate Guide to Viral Popularity</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-pick-cross-platform-devices-ideal-entry-editor/"><u>[Updated] Top Pick Cross-Platform Devices' Ideal Entry Editor</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-making-funny-photos-no-fees-involved/"><u>2024 Approved Making Funny Photos No Fees Involved</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-steer-clear-of-virtual-reality-sickness/"><u>2024 Approved Steer Clear of Virtual Reality Sickness</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-realme-11x-5g-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Realme 11X 5G</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/fire-up-your-dreams-with-these-10-movie-gems/"><u>Fire Up Your Dreams with These 10 Movie Gems</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-pioneering-visual-storytelling-uploading-to-youtube/"><u>In 2024, Pioneering Visual Storytelling Uploading to YouTube</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-the-power-of-podcast-dialogue-writing/"><u>In 2024, Unlocking the Power of Podcast Dialogue Writing</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/safeguard-your-investment-the-ultimate-guide-to-choosing-the-budget-proof-procase-macbook-pro-13-case/"><u>Safeguard Your Investment: The Ultimate Guide to Choosing the Budget-Proof ProCase MacBook Pro 13 Case</u></a></li>
-<li><a href="https://win-dash.techidaily.com/upgrade-to-high-performance-secure-and-cost-free-corsair-keyboard-drivers-for-windows-systems/"><u>Upgrade to High Performance: Secure and Cost-Free CORSAIR Keyboard Drivers for Windows Systems</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-hero-vs-hero-a-technological-comparison/"><u>[Updated] Hero Vs Hero A Technological Comparison</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-superior-smartphone-editors-elevating-your-gopro-shots/"><u>[Updated] Superior Smartphone Editors Elevating Your GoPro Shots</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-5-low-cost-pinterest-video-download-software/"><u>[Updated] Top 5 Low-Cost Pinterest Video Download Software</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-all-about-dji-inspire-2-today/"><u>[Updated] Unlocking All About DJI Inspire 2 Today</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-the-apple-iphone-se-2020-sim-lock-4-easy-methods-by-drfone-ios/"><u>How To Unlock The Apple iPhone SE (2020) SIM Lock 4 Easy Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sidestep-windows-dism-failure-error-0x800f082f/"><u>Sidestep Windows' DISM Failure Error: 0X800F082F</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/this-years-most-engrossing-channel-list-youtube-storytellers/"><u>This Year’s Most Engrossing Channel List YouTube Storytellers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unstick-the-stuck-restoring-functionality-of-astro-a20-audio-device/"><u>Unstick the Stuck: Restoring Functionality of Astro A20 Audio Device</u></a></li>
+<li><a href="https://some-skills.techidaily.com/upgrading-zoom-video-fidelity-a-comprehensive-guide-for-2024/"><u>Upgrading Zoom Video Fidelity A Comprehensive Guide for 2024</u></a></li>
 </ul></div>
 

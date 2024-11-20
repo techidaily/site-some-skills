@@ -1,7 +1,7 @@
 ---
 title: "Boost Productivity Fast: Efficiently Start Programs via Keyboard Triggers on Windows 11"
-date: 2024-11-07T21:56:44.612Z
-updated: 2024-11-10T20:41:02.860Z
+date: 2024-11-18T03:53:40.422Z
+updated: 2024-11-19T18:45:52.010Z
 tags:
   - deals
 categories:
@@ -20,6 +20,13 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 
  If you access particular Windows apps regularly, it can take time to launch them by rummaging through the Start menu. Handily, Windows 11 lets you create custom keyboard shortcuts to quickly open your favorite programs.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Use Taskbar Shortcuts to Open Apps
 
  One of the [awesome features of the Windows 11 taskbar](https://extra-hints.techidaily.com/brighten-your-iphones-nighttime-recordings/) is the ability to pin your frequently used applications to it. Once pinned, you can use the Windows+AppNumber shortcut to launch it. Here, "AppNumber" is the order in which the app appears on the taskbar.
@@ -27,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
  To pin an app to the taskbar, search for the program in the Start menu, right-click it, and select "Pin to Taskbar". Alternatively, find the program in File Explorer, then hold the Shift key and right-click it, and select "Pin to Taskbar."
 
 ![Pinning an app to the Taskbar on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/pin-to-taskbar-2.jpeg) 
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once pinned to the taskbar, click and drag the icons to move them to a different position.
 
@@ -37,6 +51,13 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
  In the screenshot below, File Explorer is first and Steam (highlighted) is fourth. This is because we don't count the Windows button, the search bar, or the task view icon. Since Steam is fourth, I can launch it by pressing Windows+4.
 
 ![Windows 11 with the Steam app pinned to the Taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/windows-steam-taskbar-1.jpeg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  While this method is fairly simple, its biggest drawback is that you can only use the taskbar shortcuts for a maximum of ten applications, with Win+0 being the key combination to launch the tenth.
 
@@ -49,10 +70,10 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 ![Creating a shortcut of an app on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/create-shortcut-1.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Right-click on the newly created shortcut and select "Properties" to open another window.
@@ -76,10 +97,10 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 ![PowerToys Keyboard Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/powertoys-keyboard-manager.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To create your shortcut, first click "Add Shortcut Remapping." Click the pencil next to "Shortcut" and press the keys for your shortcut, then "OK" when done.
@@ -90,21 +111,7 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 
 ![Remapping a shortcut in PowerToys.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/remapping-a-shortcut-in-powertoys.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you ever want to delete a shortcut, return to this screen and click the trash can.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Use AutoHotkey to Open Apps
 
@@ -121,19 +128,6 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
  Choose Notepad (or a development environment of your choosing, if you're an advanced user) as the code editor and press "OK."
 
 ![A screenshot of AutoHotkey with the Notepad and OK options highlighted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/autohotkey-notepad.jpeg) 
-
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You’ll be greeted with an empty script. You can use the following syntax for creating a macro:
 
@@ -175,24 +169,18 @@ Run "C:\Program Files (x86)\Steam\steam.exe"
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-fundamentals-of-creating-dynamic-podcast-feeds/"><u>[New] The Fundamentals of Creating Dynamic Podcast Feeds</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/he-roadmap-to-captivating-music-visuals-lyric-video-maker-guidebook/"><u>[New] The Roadmap to Captivating Music Visuals Lyric Video Maker Guidebook</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-unboxing-adventure-boosting-customer-delight/"><u>[New] The Ultimate Unboxing Adventure Boosting Customer Delight</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-image-potential-the-importance-of-luts/"><u>[New] Unlocking Image Potential The Importance of LUTs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unveiling-the-secrets-to-blurring-iphone-photos-a-comprehensive-guide/"><u>[New] Unveiling the Secrets to Blurring iPhone Photos A Comprehensive Guide</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-expressive-youtube-aesthetics-at-no-cost/"><u>[Updated] Expressive YouTube Aesthetics at No Cost</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-toggle-picture-in-picture-feature-for-youtube-app/"><u>[Updated] Toggle Picture-in-Picture Feature for Youtube App</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-the-essential-guide-to-earnings-monetizing-content-on-vimeo/"><u>2024 Approved The Essential Guide to Earnings Monetizing Content on Vimeo</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/how-to-change-your-voice-in-free-fire-game-free-solution-included/"><u>How to Change Your Voice in Free Fire Game? [Free Solution Included]</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-connect-online-screen-sharing-secrets-for-live-streaming/"><u>In 2024, Connect Online Screen-Sharing Secrets for Live Streaming</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-infinix-smart-7-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Infinix Smart 7 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-networked-narratives-recorder/"><u>In 2024, Networked Narratives Recorder</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streamline-photos-via-iphone-size-adjustment/"><u>In 2024, Streamline Photos via iPhone Size Adjustment</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-iosandroid-apps-for-creative-photo-captions/"><u>In 2024, Top iOS/Android Apps for Creative Photo Captions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/resolve-mp4-video-errors-troubleshooting-when-audio-plays-but-visual-is-missing/"><u>Resolve MP4 Video Errors: Troubleshooting When Audio Plays but Visual Is Missing</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/seamlessly-navigating-ifunnys-meme-space-for-2024/"><u>Seamlessly Navigating iFunny's Meme Space for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-combo-guide-zooming-into-facebook-streaming-for-2024/"><u>The Ultimate Combo Guide Zooming Into Facebook Streaming for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tips-and-tricks-for-gopro-get-the-most-from-your-gopro-for-2024/"><u>Tips and Tricks for GoPro Get the Most From Your GoPro for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-nokia-c110-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Nokia C110 to Gmail | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-tips-on-closing-distances-in-movies/"><u>[New] Expert Tips on Closing Distances in Movies</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-editmaster-app/"><u>[Updated] EditMaster App</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-transform-your-footage-techniques-for-exceptional-instagram-videos-for-2024/"><u>[Updated] Transform Your Footage Techniques for Exceptional Instagram Videos for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/are-folding-phone-innovations-just-for-show-or-here-to-stay-in-the-tech-world/"><u>Are Folding Phone Innovations Just for Show, or Here to Stay in the Tech World?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/celebrate-the-4th-of-july-with-a-spectacular-offer-from-urban-armor-gear-enjoy-20-savings-across-our-entire-collection/"><u>Celebrate the 4Th of July with a Spectacular Offer From Urban Armor Gear - Enjoy 20% Savings Across Our Entire Collection!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/comparing-pixel-pro-8-and-oneplus-12-which-smartphone-takes-the-crown/"><u>Comparing Pixel Pro 8 & OnePlus 12 – Which Smartphone Takes the Crown?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/discover-effortless-iphone-circle-searching-with-this-simple-shortcut/"><u>Discover Effortless iPhone Circle Searching with This Simple Shortcut</u></a></li>
+<li><a href="https://some-skills.techidaily.com/dry-gangrene-involves-coagulative-and-ischemic-changes-without-a-secondary-infection-while-wet-gangrene-includes-superimposed-bacterial-invasion-leading-to-49/"><u>Dry Gangrene Involves Coagulative and Ischemic Changes without a Secondary Infection, While Wet Gangrene Includes Superimposed Bacterial Invasion Leading to Liquefactive Necrosis.</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/einfach-lernen-wie-sie-eine-usb-drive-reparatur-erzeugen-konnen-um-windows-11-zu-beheben/"><u>Einfach Lernen, Wie Sie Eine USB-Drive-Reparatur Erzeugen Können, Um Windows 11 Zu Beheben</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/innovation-in-visuals-a-guide-to-the-leading-5-monitors/"><u>Innovation in Visuals A Guide to the Leading 5 Monitors</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-introduction-the-art-of-green-screening/"><u>Swift Introduction The Art of Green Screening</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-complete-story-of-facetune-from-picture-to-paradise/"><u>The Complete Story of Facetune From Picture to Paradise</u></a></li>
 </ul></div>
 

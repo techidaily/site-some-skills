@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Setting Up a Swap Space in Linux"
-date: 2024-11-03T21:06:33.920Z
-updated: 2024-11-11T02:57:42.037Z
+date: 2024-11-18T02:19:54.229Z
+updated: 2024-11-20T03:01:12.185Z
 tags:
   - desktop
 categories:
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/213b932fcd2c7374497ebb4064c054acfe0cd4d0b
 * [Swap Space Made Easy](https://youtube-data.techidaily.com/ver-8-essential-sites-for-pristine-green-screen-images-for-2024/)
 
  Add swap space to a Linux computer, or increase the swap space that's already present, without messing about with partitions. We show you the easy way to tailor your swap space.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Swap Files vs. Swap Partitions
 
@@ -61,10 +68,10 @@ thumbnail: https://thmb.techidaily.com/213b932fcd2c7374497ebb4064c054acfe0cd4d0b
  This is much less of a concern nowadays, and [many SSDs that are on sale have life expectancies that will outlast most PCs](https://mondly-stories.techidaily.com/arabic-for-beginners-a-step-by-step-guide/). A swap file on an SSD will have a far better performance than a swap partition on a mechanical hard drive.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Checking Existing Swap Space
@@ -74,19 +81,6 @@ thumbnail: https://thmb.techidaily.com/213b932fcd2c7374497ebb4064c054acfe0cd4d0b
 free -h
 
 ![fre -h  in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/1-5.png) 
-
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The output from `free` shows that there is no swap space configured on this machine.
 
@@ -104,13 +98,6 @@ swapon --show
 
  If these commands had revealed some swap space is already configured, the size of the existing swap space should be factored into decisions regarding the size of the swap file you're going to create.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How Much Swap Space Do I Need?
 
  The traditional response was "twice the amount of RAM you have." But this was coined when computers used to have very limited RAM. As RAM has become cheaper, and programs and games more demanding of memory, PC specifications have adjusted accordingly. Home PCs with 32 GB of RAM are not uncommon nowadays. And you're not going to allocate 64 GB of hard drive space to swap space if you've got 32 GB of RAM. That's plainly excessive.
@@ -120,6 +107,13 @@ swapon --show
  And the good news is, it doesn't really matter what value you pick. We can always remove a swap file and replace it with a bigger one or, for that matter, a smaller one. Or you could just add another swap file.
 
  Pick [a swap file size from the table](https://help.ubuntu.com/community/SwapFaq#How%5Fmuch%5Fswap%5Fdo%5FI%5Fneed.3F), and run it for a while. Monitor your system's use of the swap space. If fine-tuning is required, changes are easily made. With swap files, It's a two-minute job. Compare that to adjusting partitions on a live Linux computer.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Creating the Swap File
 
@@ -152,13 +146,6 @@ sudo dd if=/dev/zero of=/swapfile bs=1024 count=1048576
 
 ![output from sudo dd if=/dev/zero of=/swapfile bs=1024 count=1048576 in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/6-8.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  We can see the number of blocks (records) that were written to the file, the size of the file, the time taken to create the file, and the effective data transfer rate.
 
  Use the `ls` command to see the file in the root directory:
@@ -168,10 +155,10 @@ ls /
 ![ls / in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/7-7.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Preparing the Swap File
@@ -181,19 +168,6 @@ ls /
 sudo mkswap /swapfile
 
 ![sudo mkswap /swapfile in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/8-7.png) 
-
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The file is prepared for use as a swap file. Note the warning about file permissions. We'll need to change those so that the root user is the only one who can read and write to the swap file.
 
@@ -223,6 +197,13 @@ sudo gedit /etc/fstab
 
 ![sudo gedt /etc/fstab in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/10-6.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The line we need to add to the bottom of the file is:
 
 /swapfile none swap sw 0 0
@@ -248,13 +229,6 @@ swapon --show
 
 ![swapon --show in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/13-3.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The columns are:
 
 * **Name**: The name of the swap partition or swap file.
@@ -264,10 +238,10 @@ swapon --show
 * **Prio**: The priority of this swap space.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The Swap Space Priority
@@ -286,7 +260,21 @@ swapon -- show
 
 ![swapon -- show in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/15-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The priority of this swap space has been elevated to 10\. Which is proof positive that the options field in the `/etc/fstab` entry is not ignored.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Swap Space Made Easy
 
@@ -331,22 +319,16 @@ swapon --show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-metaversal-musings-a-preamble-of-inspirational-thoughts/"><u>[New] 2024 Approved Metaversal Musings A Preamble of Inspirational Thoughts</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-reloading-the-dead-ranking-eminent-zombie-games/"><u>[New] In 2024, Reloading the Dead Ranking Eminent Zombie Games</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-taking-your-virtual-meetings-to-new-heights-with-zoom-filters/"><u>[New] Taking Your Virtual Meetings to New Heights with Zoom Filters</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-the-artisans-approach-to-archiving-facebook-discussions-for-2024/"><u>[New] The Artisan's Approach to Archiving Facebook Discussions for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-pinnacle-of-editing-reviewing-movavi-pro-video-2024plus/"><u>[New] The Pinnacle of Editing Reviewing Movavi Pro Video 2024+</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transforming-film-aesthetics-using-luts/"><u>[New] Transforming Film Aesthetics Using Luts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unleashing-the-power-of-spotifys-ad-platform-for-marketers/"><u>[New] Unleashing the Power of Spotify's Ad Platform for Marketers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-all-about-dji-inspire-2-today/"><u>[New] Unlocking All About DJI Inspire 2 Today</u></a></li>
-<li><a href="https://win-online.techidaily.com/est-ce-que-la-desolidarisation-donedrive-entraine-la-suppression-des-fichiers/"><u>Est-Ce Que La Désolidarisation D'OneDrive Entraîne La Suppression Des Fichiers ?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-cream-of-the-crop-top-8-sites-for-rich-3d-and-text/"><u>In 2024, The Cream of the Crop Top 8 Sites for Rich 3D & Text</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unleash-your-potential-on-telegram-a-comprehensive-marketing-guide/"><u>In 2024, Unleash Your Potential on Telegram A Comprehensive Marketing Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-secrets-acquiring-attractive-pexel-photos/"><u>In 2024, Unveiling the Secrets Acquiring Attractive Pexel Photos</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/lava-blaze-2-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Blaze 2 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/pivotal-factors-to-contemplate-in-choosing-your-first-vr-device/"><u>Pivotal Factors to Contemplate in Choosing Your First VR Device</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/reclaiming-your-online-privacy-a-step-by-step-guide-to-erasing-trackers-from-macos-safari-links-on-zdnet/"><u>Reclaiming Your Online Privacy: A Step-by-Step Guide to Erasing Trackers From MacOS Safari Links on ZDNet</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-post-update-blue-screen-issues-on-windows-11/"><u>Troubleshooting Post-Update Blue Screen Issues on Windows 11</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlocking-apple-iphone-12-pro-passcode-without-a-computer-drfone-by-drfone-ios/"><u>Unlocking Apple iPhone 12 Pro Passcode without a Computer | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-a-journey-through-colors-leading-tutorials-for-grading-and-correction/"><u>[New] A Journey Through Colors Leading Tutorials for Grading & Correction</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-easy-steps-to-audit-your-favorite-tiktok-sessions-for-2024/"><u>[Updated] Easy Steps to Audit Your Favorite TikTok Sessions for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-art-of-slow-motion-a-complete-critique-2024/"><u>[Updated] The Art of Slow Motion A Complete Critique, 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-innovations-best-vr-tech-for-drones/"><u>[Updated] Top Innovations Best VR Tech for Drones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-turn-zip-into-srt-a-step-by-step-conversion-process/"><u>[Updated] Turn ZIP Into SRT A Step-by-Step Conversion Process</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-your-podcast-potential-on-ios-from-script-to-success/"><u>[Updated] Unlocking Your Podcast Potential on iOS From Script to Success</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-secrets-of-using-multiple-screens-on-netflix/"><u>[Updated] Unveiling the Secrets of Using Multiple Screens on Netflix</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-gopro-hero5-black-vs-hero5-session/"><u>In 2024, GoPro Hero5 Black Vs Hero5 Session</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-vivo-s17-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Vivo S17 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-ignite-your-brands-success-with-a-10-step-blueprint-for-smm-dominance/"><u>In 2024, Ignite Your Brand's Success with a 10-Step Blueprint for SMM Dominance</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/leading-digital-transaction-and-information-exchange-networks-in-201year-featuring-massmail-solutions/"><u>Leading Digital Transaction and Information Exchange Networks in 201^[Year] Featuring MassMail Solutions</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Complete Tutorial on Utilizing the Gpasswd Command for Secure Password Changes on Your Linux System
-date: 2024-11-03T16:26:49.783Z
-updated: 2024-11-10T20:59:58.263Z
+date: 2024-11-16T19:15:26.787Z
+updated: 2024-11-19T20:39:18.587Z
 tags:
   - desktop
 categories:
@@ -18,13 +18,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * Execute commands like "sudo gpasswd -a user group" to add users and "sudo gpasswd -d user group" to remove them.
 
  Want an easy solution to managing group members and passwords on Linux? The gpasswd command will help you do that. It's used for managing and administering the "/etc/group" and "/etc/gshadow" passwords, members, and administrators. Let's get started.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  What Makes the gpasswd Command Useful
 
@@ -59,6 +52,13 @@ sudo groupadd demogroup
 
 ![The Linux terminal displaying the process of creating a new group on Linux using the groupadd command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-8.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can use any other name than "demogroup". To confirm if the group creation was successful, display all groups using:
 
 cat /etc/group
@@ -73,13 +73,6 @@ sudo gpasswd demogroup
 
 ![The Linux terminal displaying the process of setting a new password for a group using the gpasswd command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-7.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now if I try to log into this group, the system will ask for a password. That's because I'm not a member of the group. To log into the group, run:
 
 newgrp demogroup
@@ -87,10 +80,10 @@ newgrp demogroup
 ![The Linux terminal showing the process of logging into a group in Linux using the newgrp command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4-4.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Removing Password from Group
@@ -102,13 +95,20 @@ sudo gpasswd -r demogroup
 ![The Linux terminal showing the process of removing the password from a a group in Linux using the gpasswd command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/10-3.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you try to log into the group now as a member, you'll be able to do so without entering the password.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Adding a User to a Group
 
@@ -149,16 +149,10 @@ sudo gpasswd -d zunaid demogroup
 ![The Linux terminal showing how to remove a user from a group using the gpasswd command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/7-6.png) 
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Again, you can confirm if the user was removed successfully by [listing the group members](https://hardware-updates.techidaily.com/comprehensive-guide-downloading-and-installing-canon-ip1-10-drivers-on-windows-windows-111087/) with this command:
@@ -187,6 +181,13 @@ getent group demogroup
 
 ![The Linux terminal displaying the current the members of a group in Linux after setting the members list using gpasswd](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/12-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Promoting a User as the Group Administrator
 
  You can grant someone administrative privileges of a group using the -A flag. Simply pass the name of the member and the group of which you want to make him the administrator. See the command below:
@@ -197,13 +198,6 @@ sudo gpasswd -A zunaid demogroup
 
 ![The Linux terminal showcasing how to make a user the administrator of a group using the gpasswd command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/8-4.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This doesn't give any output to the terminal. However, you can see the list of administrators of the group to confirm if the operation was successful. Do that with this command:
 
 sudo cat /etc/gshadow
@@ -211,10 +205,16 @@ sudo cat /etc/gshadow
 ![The Linux terminal displaying the the administrators of every group in Linux](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/9-3.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  gpasswd Makes Group Management Easy
@@ -236,15 +236,17 @@ sudo cat /etc/gshadow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-mastering-screencasts-a-step-by-step-manual/"><u>[New] 2024 Approved Mastering Screencasts A Step-by-Step Manual</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-tips-for-efficient-music-import-in-inshot-app/"><u>[New] Tips for Efficient Music Import in InShot App</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-selecting-android-and-ios-clocks-for-weddings/"><u>[Updated] The Ultimate Guide to Selecting Android and iOS Clocks for Weddings</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-5-affordable-pinterest-video-downloaders-unveiled/"><u>2024 Approved Top 5 Affordable, Pinterest Video Downloaders Unveiled</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transform-your-footage-with-pro-tips-for-gopro-time-lapses/"><u>2024 Approved Transform Your Footage with Pro Tips for GoPro Time Lapses</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/cut-to-the-chase-guide-for-gopro-4k-mastery/"><u>Cut-to-the-Chase Guide for GoPro 4K Mastery</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-social-media-syncing-made-simple-tweets-and-tiktoks/"><u>In 2024, Social Media Syncing Made Simple Tweets and TikToks</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-guide-to-7-superior-video-players-on-mac/"><u>In 2024, Ultimate Guide to 7 Superior Video Players on Mac</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/reinventing-personal-snapchat-experiences-with-more-than-120-inspirational-ideas/"><u>Reinventing Personal Snapchat Experiences with More Than 120 Inspirational Ideas</u></a></li>
-<li><a href="https://win11.techidaily.com/securely-ending-non-registered-users-in-windows/"><u>Securely Ending Non-Registered Users in WIndows</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-androids-mobas-unveiling-the-top-ten/"><u>2024 Approved Android's MOBAs Unveiling the Top Ten</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/amplifying-explorer-tooltips-with-auto-update-notifications/"><u>Amplifying Explorer Tooltips with Auto-Update Notifications</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/discover-the-top-10-devices-for-converting-your-beloved-vhs-tapes-into-modern-dvds-il-processo-e-facile/"><u>Discover the Top 10 Devices for Converting Your Beloved VHS Tapes Into Modern DVDs – Il Processo È Facile!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-download-ultimate-guide-and-drivers-for-samsung-galaxy-m20-m2020/"><u>Free Download: Ultimate Guide & Drivers for Samsung Galaxy M20 (M2020)</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-itel-s23plus-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Itel S23+? | Dr.fone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/secure-code-practices-integrating-compliance-checks-into-fintech-applications/"><u>Secure Code Practices: Integrating Compliance Checks Into Fintech Applications</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-identifying-visitors-of-your-google-docs/"><u>Step-by-Step Guide: Identifying Visitors of Your Google Docs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-instructions-for-fresh-logitech-m525-software-installation/"><u>Step-by-Step Instructions for Fresh Logitech M525 Software Installation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/understanding-the-mechanics-of-electric-vehicle-battery-exchange-systems/"><u>Understanding the Mechanics of Electric Vehicle Battery Exchange Systems</u></a></li>
+<li><a href="https://some-skills.techidaily.com/universal-ai-chatbot-coaching-with-newly-released-chatgpt-enhancements/"><u>Universal AI Chatbot Coaching with Newly Released ChatGPT Enhancements</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleashing-creativity-without-costly-fees-discover-alternatives-to-chatgpts-imagery/"><u>Unleashing Creativity Without Costly Fees - Discover Alternatives to ChatGPT's Imagery!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/volkswagen-unveils-eco-friendly-electric-golf-gti-prototype/"><u>Volkswagen Unveils Eco-Friendly Electric Golf GTI Prototype</u></a></li>
 </ul></div>
 

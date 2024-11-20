@@ -1,7 +1,7 @@
 ---
 title: "Mastering Expression Calculation: A Guide to Using 'Expr' On Linux Systems"
-date: 2024-11-05T20:43:11.202Z
-updated: 2024-11-10T22:01:00.582Z
+date: 2024-11-13T18:08:07.868Z
+updated: 2024-11-19T20:04:02.416Z
 tags:
   - desktop
 categories:
@@ -67,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 ![Linux terminal that shows the version number and developer details of the expr command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-12.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This option displays the version number, source code, license, and author of expr.
@@ -93,22 +93,35 @@ expr 10 / 2`
     
 ![Linux terminal showing various arithmetic operations with expr command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-11.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You need to escape the multiplication (\*) operator with a backslash (\\) to avoid shell expansion. Otherwise, the shell will try to match the operator (\*) with the filenames in the current directory and pass them to the expr command, which will cause an error.
 
 ![Linux terminal with syntax error](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-1-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also prevent the shell from interpreting the characters by quoting the arguments and operators properly:
 
         `expr "5" "*" "3"`
     
 ![Linux terminal with variables and operator quotes with double quotations marks](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-8.png) 
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Comparing Two Expressions With expr
 
@@ -126,37 +139,24 @@ expr 10 / 2`
     
 ![Linux terminal showing commands to check the smaller variable using the expr command with less than operator](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-9.png) 
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also check whether the values are not equal. To do that, simply use the != operator between the two arguments' values:
 
         `expr 45 \!= 55`
     
 ![Linux terminal showing the comparison of two values using the expr command with not equal to operator](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-8.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Here, the output 1 indicates that 45 is not equal to 55.
 
  This way, the expr command provides a simple and effective method to compare numerical values.
 
  Like the multiplication (\*) operator, the <, >, and != operators also need to be escaped with a backslash (\\). Otherwise, they may be interpreted as special characters by the shell.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Finding a String's Length With expr
 
@@ -167,13 +167,6 @@ expr 10 / 2`
         `expr length 'How To Geek'`
     
 ![Linux terminal showing the length using the expr command with the length operator](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-5.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The output is 11 because there are nine characters and two white spaces in the string. If you want to find the length of a string without whitespace, you can use other commands like [tr](https://fox-hovers.techidaily.com/new-discovering-the-quintessential-5-title-creators-online/) or [awk](https://facebook-videos.techidaily.com/new-in-2024-revolutionizing-advertising-on-facebook-with-the-best-video-tactics/) to remove them first. For example:
 
@@ -200,10 +193,10 @@ expr 10 / 2`
 ![Linux terminal showing the matching of two different strings using the expr command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/10-7.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Consider another example, where two given strings are the same:
@@ -219,6 +212,13 @@ expr 10 / 2`
         `expr 'How To Geek' : 'Linux'`
     
 ![The Linux terminal displays how to match different string variables using the expr command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/12-5.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Incrementing and Decrementing a Variable With expr
 
@@ -241,10 +241,10 @@ echo $a ``
 ![The Linux terminal displays usage of expr command to decrement the variable value by 1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/14-3.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Extracting a Substring Using expr
@@ -288,10 +288,10 @@ echo "Sum of two numbers is= $sum" ``
  You will be prompted to enter two numbers. After entering the numbers, you will see the script will display the sum of both numbers on screen. You can also modify the script to perform other operations or tasks as per your needs.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Try Some Alternative Linux Commands
@@ -315,15 +315,22 @@ echo "Sum of two numbers is= $sum" ``
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-how-to-use-9gag-to-create-meme/"><u>[New] How to Use 9GAG to Create Meme</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-the-ultimate-snapshot-experience-mastering-snapchat-filters/"><u>[Updated] 2024 Approved The Ultimate Snapshot Experience Mastering Snapchat Filters</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-finding-the-sweet-spot-optimal-youtube-video-upload-rates-for-growth/"><u>[Updated] Finding the Sweet Spot Optimal YouTube Video Upload Rates for Growth</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-audio-extraction-made-easy-youtube-music-on-your-mac/"><u>[Updated] In 2024, Audio Extraction Made Easy YouTube Music on Your Mac</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-simplifying-visual-transformations-utilizing-luts-for-obs-videos/"><u>In 2024, Simplifying Visual Transformations Utilizing LUTs for OBS Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-strategically-showcasing-achievements/"><u>In 2024, Strategically Showcasing Achievements</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-strategies-for-writing-persuasive-vlog-show-narratives/"><u>In 2024, Strategies for Writing Persuasive Vlog Show Narratives</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/nt-how-to-converting-photos-to-your-youtube-channels-thumbnails/"><u>Instant How-To Converting Photos to Your YouTube Channel's Thumbnails</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-ultimate-platform-showdown-twitch-meets-youtube-for-2024/"><u>The Ultimate Platform Showdown Twitch Meets YouTube for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transform-your-writing-process-with-these-ai-tools/"><u>Transform Your Writing Process with These AI Tools</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-maximize-reach-with-effective-igtv-video-posts-for-2024/"><u>[New] Maximize Reach with Effective IGTV Video Posts for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-unlock-the-full-potential-of-your-pcgaming-with-obs/"><u>[Updated] In 2024, Unlock the Full Potential of Your PC/Gaming with OBS</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-avoiding-threats-while-grabbing-gratis-vlc-player-for-apple-machines/"><u>2024 Approved Avoiding Threats While Grabbing Gratis VLC Player for Apple Machines</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-decoding-the-best-timing-strategies-for-instagram-posts/"><u>2024 Approved Decoding the Best Timing Strategies for Instagram Posts</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/analysis-variety-in-fb-video-aspects-for-2024/"><u>Analysis Variety in FB Video Aspects for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/building-a-successful-brand-presence-through-spotify-advertising/"><u>Building a Successful Brand Presence Through Spotify Advertising</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Nokia C110? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/discovering-system-information-unveiling-the-build-number-in-windows-11/"><u>Discovering System Information: Unveiling the Build Number in Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/easily-run-commands-as-an-administrator-in-windows-10-8-and-81-unlocking-the-power-of-the-command-prompt/"><u>Easily Run Commands as an Administrator in Windows 10, 8 & 8.1: Unlocking the Power of the Command Prompt</u></a></li>
+<li><a href="https://some-skills.techidaily.com/easy-guide-run-command-prompt-with-admin-rights-on-windows-11881/"><u>Easy Guide: Run Command Prompt with Admin Rights on Windows 11/8/8.1</u></a></li>
+<li><a href="https://some-skills.techidaily.com/easy-tutorial-enabling-windows-10-defender-for-optimal-security/"><u>Easy Tutorial: Enabling Windows 10 Defender for Optimal Security</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/effortless-ios-screen-recording-techniques/"><u>Effortless iOS Screen Recording Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/expert-tips-for-launching-your-pc-with-windows-nto-default-settings-a-clean-start-process/"><u>Expert Tips for Launching Your PC with Windows Nto Default Settings – A Clean Start Process</u></a></li>
+<li><a href="https://some-skills.techidaily.com/how-to-open-control-panel-in-windows-10-7-8/"><u>How to Open Control Panel in Windows 10, 7, 8</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-xiaomi-redmi-a2-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Xiaomi Redmi A2 Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/resolving-the-post-windows-11-update-fixing-iphone-cant-sync-with-itunes-error-54/"><u>Resolving the Post-Windows 11 Update: Fixing 'iPhone Can't Sync with iTunes Error -54'</u></a></li>
+<li><a href="https://some-skills.techidaily.com/troubleshoot-and-repair-your-nonfunctional-windows-1n-calculator-app/"><u>Troubleshoot and Repair Your Nonfunctional Windows 1N Calculator App</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Improve Gameplay by Turning Off Windows Shortcuts & Accessibility Options on Your Computer
-date: 2024-11-04T03:22:57.619Z
-updated: 2024-11-10T23:28:38.863Z
+date: 2024-11-16T22:59:42.146Z
+updated: 2024-11-19T20:49:14.976Z
 tags:
   - desktop
 categories:
@@ -43,9 +43,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Scancode Map binary value in the Registry Editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/scancode-map-binary-value-in-the-registry-editor-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Right-click on the "Scancode Map" value and select "Modify."
 
 ![Modify option for the Scancode binary value.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/modify-option-for-the-scancode-binary-value.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Type the following value in the "Value Data" field and click "OK."
 
@@ -60,10 +74,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Delete option for Scancode Map binary value.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/delete-option-for-scancode-map-binary-value.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Using the Local Group Policy Editor
@@ -76,13 +90,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Turn Off Windows Key Hotkeys policy in the Local Group Policy Editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/turn-off-windows-key-hotkeys-policy-in-the-local-group-policy-editor.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Select "Enabled," then click "Apply" and "OK."
 
 ![Enable option  in the Local Group Policy Editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/enable-option-in-the-local-group-policy-editor.jpg) 
@@ -90,6 +97,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Then, restart your computer to see the changes. If you want to re-enable the Windows key, you'll need to configure the "Turn Off Windows Key Hotkeys" policy to "Disabled" or "Not Configured."
 
 ![Disabled option  in the Local Group Policy Editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/disabled-option-in-the-local-group-policy-editor.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Using Microsoft PowerToys
 
@@ -99,16 +113,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Remap a Key option in PowerToys.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/remap-a-key-option-in-powertoys.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Choose "Add Key Remapping."
 
 ![Add key remapping option in PowerToys.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/add-key-remapping-option-in-powertoys.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Click the "Select" button, and then press the "Windows" key on your keyboard. Click "OK" after selecting the key.
 
@@ -122,16 +136,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Continue Anyway option in PowerToys](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/continue-anyway-option-in-powertoys-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When you want to start using the Windows key again, simply click the trash icon next to the key.
 
 ![Trash icon on PowerToys](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/trash-icon-on-powertoys-1.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Using Your Keyboard Software
 
@@ -149,13 +169,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Add shortcut remapping option in PowerToys](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/add-shortcut-remapping-option-in-powertoys-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click the pen icon next to "Shortcut," press the "Alt+Tab" keys together, and click "OK."
 
 ![Selecting ALT+Tab key in PowerToys](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/selecting-alt-tab-key-in-powertoys-1.jpg) 
@@ -163,6 +176,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Choose "Disable" from the "Shortcut" dropdown menu under the "To" section.
 
 ![Disable option for ALT+Tab key](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/disable-option-for-alt-tab-key-1.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Click "OK" to confirm the change.
 
@@ -178,18 +198,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![AutoHotkey Script option in context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/autohotkey-script-option-in-context-menu.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Give a name to the script file and press Enter.
 
  Right-click on the newly created script file, choose "Open With," and select "Notepad."
 
 ![Open with Notepad option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/open-with-notepad-option.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Clear any default text in the Notepad document, paste the following codes and press Ctrl+S to save the changes.
 
@@ -208,13 +228,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Exit option in system tray area.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/exit-option-in-system-tray-area.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Disable Sticky Keys
 
  Both Windows 10 and 11 have a dedicated toggle for Sticky Keys in the Settings app. You can use this toggle to turn it on or off. To disable Sticky Keys on Windows 10, [open the Settings menu](https://extra-lessons.techidaily.com/affordable-laptop-friendly-software-for-dvd-viewing/) and select "Ease of Access."
@@ -232,19 +245,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  For Windows 11, open Settings, select "Accessibility" from the left-hand side, and disable the toggle switch for "Sticky Keys" on the right.
 
 ![Sticky Keys toggle on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/sticky-keys-toggle-on-windows-11.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Click the "Sticky Keys" option and disable the keyboard shortcut for it.
 
@@ -273,18 +273,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-android-and-iphones-essential-apps-to-elevate-fb-likes-count-quickly/"><u>[New] In 2024, Android & iPhone's Essential Apps to Elevate FB Likes Count Quickly</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-optimize-your-social-media-presence-with-mobile-based-live-videos/"><u>[New] In 2024, Optimize Your Social Media Presence with Mobile-Based Live Videos</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-the-filmmakers-guide-producing-engaging-youtube-splits/"><u>[Updated] In 2024, The Filmmaker's Guide Producing Engaging YouTube Splits</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/2024-approved-from-spectator-to-participant-joining-live-tiktok-events/"><u>2024 Approved From Spectator to Participant Joining Live TikTok Events</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-tech-picks-leading-drone-gimbals/"><u>2024 Approved Tech Picks Leading Drone Gimbals</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-assault-in-real-time-rivalry/"><u>2024 Approved The Art of Assault in Real-Time Rivalry</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-20-iconic-anime-theme-melodies-ever/"><u>In 2024, Top 20 Iconic Anime Theme Melodies Ever</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unleash-potential-10-top-motivational-gems/"><u>In 2024, Unleash Potential 10 Top Motivational Gems</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/interactive-design-best-practices-for-srgb-and-rgb/"><u>Interactive Design Best Practices for Srgb and Rgb</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/itel-p40plus-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel P40+ Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/pivotal-video-moments-secrets-to-stellar-text-enhancements-for-2024/"><u>Pivotal Video Moments Secrets to Stellar Text Enhancements for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unleashing-the-full-potential-of-raspberry-pi-with-remarkable-3ghz-speed-via-advanced-overclocking-techniques/"><u>Unleashing the Full Potential of Raspberry Pi with Remarkable 3GHz Speed via Advanced Overclocking Techniques</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-virtual-frontiers-anticipated-top-5-ps-vr-experiences-for-2024/"><u>Unveiling Virtual Frontiers Anticipated Top 5 PS VR Experiences for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-photo-refinement-essentials-expert-tips-for-efficient-background-clearance/"><u>[New] 2024 Approved Photo Refinement Essentials Expert Tips for Efficient Background Clearance</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-cinematic-basics-unveiled-fundamental-shots-explained-clearly/"><u>[New] Cinematic Basics Unveiled Fundamental Shots Explained Clearly</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-diving-into-zoom-breakout-room-setups/"><u>[New] Diving Into Zoom Breakout Room Setups</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flutter-free-video-conversion-the-best-alternatives-for-youtube-upload/"><u>[Updated] In 2024, Flutter Free Video Conversion The Best Alternatives for YouTube Upload</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-synapse-your-thoughts-on-mematics-platform/"><u>[Updated] Synapse Your Thoughts on Mematic's Platform</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-leading-edge-in-film-making-equipment-top-10-list/"><u>[Updated] The Leading Edge in Film-Making Equipment - Top 10 List</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-next-gen-samsung-gear-360-finding-your-perfect-replacement/"><u>[Updated] The Next Gen Samsung Gear 360 - Finding Your Perfect Replacement</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-secrets-to-stellar-podcast-summaries/"><u>[Updated] The Secrets to Stellar Podcast Summaries</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-avoiding-vr-nausea/"><u>[Updated] The Ultimate Guide to Avoiding VR Nausea</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-5-ios-applications-bringing-your-podcast-to-life/"><u>[Updated] Top 5 iOS Applications Bringing Your Podcast to Life</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-usb-c-revolution-in-monitors-hp-envy-27s-journey/"><u>[Updated] USB-C Revolution in Monitors HP Envy 27'S Journey</u></a></li>
+<li><a href="https://facebook.techidaily.com/from-scrolling-to-serenity-the-top-10-reasons-to-leave-the-facebook-journey/"><u>From Scrolling to Serenity: The Top 10 Reasons to Leave the Facebook Journey</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-nokia-c12-pro-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Nokia C12 Pro Fingerprint Lock</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-your-pcs-or-laptops-dimmed-keyboard-a-step-by-step-guide/"><u>Revive Your PC's or Laptop's Dimmed Keyboard: A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-create-hilarious-memes-with-these-10-awesome-apps-2023-edition/"><u>Updated Create Hilarious Memes with These 10 Awesome Apps (2023 Edition)</u></a></li>
 </ul></div>
 

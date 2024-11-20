@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Linux File Timestamps – Decoding Atime, Mtime, and Ctime Explained
-date: 2024-11-07T21:04:46.663Z
-updated: 2024-11-11T03:21:57.358Z
+date: 2024-11-13T17:56:21.999Z
+updated: 2024-11-20T01:35:46.456Z
 tags:
   - desktop
 categories:
@@ -88,6 +88,13 @@ stat dp.c
 
 ![touch -a dp.c in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/3-8.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The access timestamp changed, as expected. However, the changed timestamp was updated as well; this is normal.
 
  To change the modified timestamp, you can use the -m (modified time) option:
@@ -97,6 +104,13 @@ touch -m dp.c
 stat dp.c
 
 ![touch -m dp.c in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/4-6.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This time, the modified and changed timestamps were updated.
 
@@ -110,6 +124,13 @@ stat dp.c
 
 ![touch -d "2020-01-15 10:30:45" dp.c in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/5-6.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  We've now set the access and modified timestamps to a date in the past. The changed timestamp was also updated to the current time of the computer.
 
  You can also use the -r (reference) option, as shown below, if you want to set the timestamps of one file to the timestamp values of another:
@@ -119,6 +140,13 @@ touch dp.c -r dice_words.sl3
 stat dp.c
 
 ![touch dp.c -r dice_words.sl3 in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/6-5.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  And then, we're pretty much back where we started, with a mixture of -0400 and -0500 timestamps.
 
@@ -131,6 +159,19 @@ stat dp
 ![The &quot;chmod +x dp&quot; and &quot;stat dp&quot; commands in a terminal window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/10-6.png) 
 
  The changed timestamp was the only one that updated. This is because the file itself wasn't changed—it was neither accessed nor modified. However, the metadata about the file was changed.
+
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How the File System Updates Timestamps
 
@@ -149,80 +190,52 @@ less /etc/fstab
 
 ![less /etc/fstab in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/7-6.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The /etc/fstab file is displayed for us, as shown below.
 
 ![The /etc/fstab file in less in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/8-5.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Here's the content of the file without the wrap-around:
 
         `# /etc/fstab: static file system information.  
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Use 'blkid' to print the universally unique identifier for a  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## device; this may be used with UUID= as a more robust way to name devices  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## that works even if disks are added and removed. See fstab(5).  
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 
 
 ## <file system> <mount point> <type> <options> <dump> <pass>  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## / was on /dev/sda1 during installation  
 UUID=4a143d08-8695-475b-8243-b13b56050fc2 / ext4 errors=remount-ro 0 1  
@@ -239,13 +252,6 @@ UUID=4a143d08-8695-475b-8243-b13b56050fc2 / ext4 errors=remount-ro 0 1
 cat /proc/mounts | grep "sda"
 
 ![cat /proc/mounts | grep "sda" in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/9-6.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now we see the following options:
 
@@ -289,24 +295,14 @@ cat /proc/mounts | grep "sda"
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-pinnacle-5-iphone-apps-for-auditory-escapades-for-2024/"><u>[New] Pinnacle 5 iPhone Apps for Auditory Escapades for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-selecting-superior-sound-10-top-mic-recommendations/"><u>[New] Selecting Superior Sound 10 Top Mic Recommendations</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-vida-journey-from-raw-footage-to-cinematic-scene/"><u>[New] The Vida Journey From Raw Footage to Cinematic Scene</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlock-the-power-of-free-screen-recording-in-win11/"><u>[New] Unlock the Power of Free Screen Recording in Win11</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-become-a-youtube-visionary-with-these-production-insights/"><u>[Updated] In 2024, Become a YouTube Visionary with These Production Insights</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-art-of-matching-fpv-drones-with-ideal-blades/"><u>[Updated] The Art of Matching FPV Drones with Ideal Blades</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-10-high-quality-photography-lenses/"><u>[Updated] Top 10 High-Quality Photography Lenses</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-invite-and-guest-at-tiktok-lives-easily/"><u>2024 Approved Invite and Guest at TikTok Lives Easily</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-spotify-how-to-halt-default-podcast-additions/"><u>2024 Approved Spotify How to Halt Default Podcast Additions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-streamlining-tiktok-production-zooms-role/"><u>2024 Approved Streamlining TikTok Production Zoom's Role</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-pinnacle-of-voice-recording-a-comprehensive-tome/"><u>2024 Approved The Pinnacle of Voice Recording A Comprehensive Tome</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/capturing-adventure-an-in-depth-gopro-model-review-for-2024/"><u>Capturing Adventure An In-Depth GoPro Model Review for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-no-frills-guide-to-basic-hdr-techniques/"><u>In 2024, The No-Frills Guide to Basic HDR Techniques</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/maximize-speeds-on-dell-xps-7002-a-comprehensive-guide-to-ssd-enhancement/"><u>Maximize Speeds on Dell XPS 7002: A Comprehensive Guide to SSD Enhancement</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-workspace-the-ultimate-guide-to-the-surprising-power-feature-in-the-latest-12-port-thunderbolt-dock-for-enhanced-windows-experience-zdnet53/"><u>Revolutionize Your Workspace: The Ultimate Guide to the Surprising Power Feature in the Latest 12-Port Thunderbolt Dock for Enhanced Windows Experience | ZDNET</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/troubleshooting-your-chatgpt-experience-6-errors-and-their-remedies-uncovered/"><u>Troubleshooting Your ChatGPT Experience: 6 Errors and Their Remedies Uncovered</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlock-full-potential-of-canon-cams-with-gratuitous-and-fee-based-luts-for-2024/"><u>Unlock Full Potential of Canon Cams with Gratuitous & Fee-Based LUTs for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-top-criteria-for-selecting-fpv-drones-propellers-for-2024/"><u>Unveiling Top Criteria for Selecting FPV Drones' Propellers for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1726221995080-mp4-mjpeg-movavi/"><u>오픈 소스에서 제공 무용 MP4-MJPEG 전환 - MOVAVI</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-harvest-mastery-discovering-valheims-optimal-flora/"><u>[New] 2024 Approved Harvest Mastery Discovering Valheim's Optimal Flora</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-checklist-for-starting-a-live-feed/"><u>[New] The Ultimate Checklist for Starting a Live Feed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unleashing-the-power-of-subtitles-discover-the-top-8-efficient-convertors-to-srt-on-windowsmacosx/"><u>[New] Unleashing the Power of Subtitles - Discover The Top 8 Efficient Convertors to SRT on Windows/MacOSX</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-editors-edge-secrets-to-professional-photo-refining/"><u>2024 Approved The Editor's Edge Secrets to Professional Photo Refining</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/accessing-and-saving-discord-media-free-methods-revealed/"><u>Accessing and Saving Discord Media Free Methods Revealed</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/biometrics-explained-unveiling-the-secrets-of-personal-identification-techniques/"><u>Biometrics Explained: Unveiling the Secrets of Personal Identification Techniques</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/elevating-your-online-presence-a-complete-handbook-for-tiktok-name-change/"><u>Elevating Your Online Presence A Complete Handbook for TikTok Name Change</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-essential-manual-for-simplified-live-streamers/"><u>In 2024, The Essential Manual for Simplified Live Streamers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/unlocking-the-power-of-voice-transcription-in-whatsapp-recording/"><u>Unlocking the Power of Voice Transcription in WhatsApp Recording</u></a></li>
 </ul></div>
 
