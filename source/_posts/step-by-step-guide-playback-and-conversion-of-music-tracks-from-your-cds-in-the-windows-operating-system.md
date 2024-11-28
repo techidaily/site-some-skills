@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Playback and Conversion of Music Tracks From Your CDs in the Windows Operating System"
-date: 2024-11-14T19:05:42.799Z
-updated: 2024-11-20T01:18:32.477Z
+date: 2024-11-25T20:08:42.700Z
+updated: 2024-11-28T16:35:59.215Z
 tags:
   - desktop
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/50f9025d1cd24e51aee5d683c09c648b774d15c54
 * [Rip a CD With Media Player](https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-realme-v30t-drfone-by-drfone-virtual-android/)
 * [Rip a CD on Older Windows PCs](https://digital-screen-recording.techidaily.com/updated-2024-approved-gamescene-capturers-compendium/)
 * [Backing up Your Music](https://extra-support.techidaily.com/updated-reimagine-virtual-engagements-with-customized-video-filters-in-zoom/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -37,10 +41,7 @@ thumbnail: https://thmb.techidaily.com/50f9025d1cd24e51aee5d683c09c648b774d15c54
 ![ASUS external disc drive with the tray open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/51y-aw6sijl-_ac_sl1000_.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #####  ASUS ZenDrive Silver
@@ -54,10 +55,7 @@ The ASUS ZenDrive Silver is a basic and affordable external optical drive, with 
  The disc drive can be useful for more than just ripping CDs, too. You can play DVDs and some Blu-ray movies with applications like [VLC Media Player](https://www.videolan.org/vlc/), or read data discs.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Rip a CD With Media Player
@@ -67,10 +65,7 @@ The ASUS ZenDrive Silver is a basic and affordable external optical drive, with 
 ![Searching for Media Player in Start Menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/clipboard-jun-7-2024-at-4-03-pm.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you don't have Media Player on your PC, you can [download it for free from the Microsoft Store](https://apps.microsoft.com/detail/9wzdncrfj3pt?hl=en-us&gl=US). It requires Windows 10 version 19042 or higher—if your PC is too old, jump to the next section.
@@ -78,13 +73,6 @@ The ASUS ZenDrive Silver is a basic and affordable external optical drive, with 
  After you open Media Player, put your audio CD into your disc drive. It should show up in the sidebar of the Media Player app. You might need to click the menu button on the top-left corner of the window to see the full sidebar. Click the disc to switch to it in the Media Player app.
 
 ![Screenshot of a disc selected in the Media Player app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/clipboard-jun-7-2024-at-4-13-pm.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can play music straight from the disc by clicking the 'Play all' button, or by double-clicking on an individual track. If you want to change the default audio import settings before ripping the disc, click the three-dots button and select the "Rip settings" option.
 
@@ -99,6 +87,10 @@ The ASUS ZenDrive Silver is a basic and affordable external optical drive, with 
  You can access the your newly-ripped music from the Music tab in the Media Player app. It's easier to find if you switch to the Albums tab and sort by Date added.
 
 ![Screenshot of Music page in Media Player.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/clipboard-jun-7-2024-at-4-38-pm.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Ripped audio doesn't include album art or other metadata, but you can fix that with a few clicks. Open the album you just ripped, click the "Edit info" button, then click "Update album info online."
 
@@ -130,19 +122,6 @@ wmplayer
 
 ![Rip CD button in Windows Media Player.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/rip.png) 
 
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After the rip is complete, your music will be accessible from the "Music" tab in the left sidebar.
 
 ![Screenshot of Music tab in Windows Media Player.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/music.png) 
@@ -152,13 +131,14 @@ wmplayer
 ![Find album info menu in Windows Media Player.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/music-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Windows Media Player will check for metadata online, and if it finds more data, it will ask you for confirmation before writing changes to the files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Backing up Your Music
 
@@ -167,13 +147,6 @@ wmplayer
  The new Media Player and the classic Windows Media Player both store music files in your Music folder by default. You can get there by opening the File Explorer, then clicking the "Music" shortcut in the sidebar.
 
 ![Screenshot of Music folder in the File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/music-2.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If the shortcut isn't in your sidebar, open the Windows Run dialog (**Win+R** keyboard shortcut), type the below command, and press the OK button.
 
@@ -196,14 +169,20 @@ shell:My Music
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/updated-hero-vs-hero-a-technological-comparison/"><u>[Updated] Hero Vs Hero A Technological Comparison</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-superior-smartphone-editors-elevating-your-gopro-shots/"><u>[Updated] Superior Smartphone Editors Elevating Your GoPro Shots</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-5-low-cost-pinterest-video-download-software/"><u>[Updated] Top 5 Low-Cost Pinterest Video Download Software</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-all-about-dji-inspire-2-today/"><u>[Updated] Unlocking All About DJI Inspire 2 Today</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-the-apple-iphone-se-2020-sim-lock-4-easy-methods-by-drfone-ios/"><u>How To Unlock The Apple iPhone SE (2020) SIM Lock 4 Easy Methods</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/sidestep-windows-dism-failure-error-0x800f082f/"><u>Sidestep Windows' DISM Failure Error: 0X800F082F</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/this-years-most-engrossing-channel-list-youtube-storytellers/"><u>This Year’s Most Engrossing Channel List YouTube Storytellers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unstick-the-stuck-restoring-functionality-of-astro-a20-audio-device/"><u>Unstick the Stuck: Restoring Functionality of Astro A20 Audio Device</u></a></li>
-<li><a href="https://some-skills.techidaily.com/upgrading-zoom-video-fidelity-a-comprehensive-guide-for-2024/"><u>Upgrading Zoom Video Fidelity A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-the-hottest-8-video-clips-trending-today-online/"><u>[New] The Hottest 8 Video Clips Trending Today Online</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-innovators-defining-next-gen-vr-experiences/"><u>[Updated] Top Innovators Defining Next-Gen VR Experiences</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-uncharted-territories-discovering-hidden-vlc-capabilities/"><u>[Updated] Uncharted Territories Discovering Hidden VLC Capabilities</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-easy-story-making/"><u>2024 Approved The Art of Easy Story Making</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-epitome-of-engagement-celebrating-the-most-voted-posts-10/"><u>2024 Approved The Epitome of Engagement Celebrating the Most-Voted Posts (10)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-spectacquad-p2715q-a-deep-dive-into-4k-screen-technology/"><u>2024 Approved The Spectacquad P2715Q A Deep Dive Into 4K Screen Technology</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/best-free-apple-iphone-13-mini-imei-checker-by-drfone-ios/"><u>Best Free Apple iPhone 13 mini IMEI Checker</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/building-a-robust-spotify-advertising-strategy/"><u>Building a Robust Spotify Advertising Strategy</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-productivity-advanced-techniques-for-taking-notes-using-chatgpt/"><u>Enhancing Productivity: Advanced Techniques for Taking Notes Using ChatGPT</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-change-gps-location-on-itel-s23-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Itel S23 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-any-itel-p55-5g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Itel P55 5G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-5-online-av-creation-leaders/"><u>In 2024, The Ultimate 5 Online AV Creation Leaders</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-vivo-x100-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Vivo X100 Phone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-a-comprehensive-list-of-the-most-advanced-windowsmacos-compatible-daws-2023-edition/"><u>Updated In 2024, A Comprehensive List of the Most Advanced Windows/macOS Compatible DAWs - 2023 Edition</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/which-way-to-go-a-comparison-of-adobe-premiere-and-after-effects-for-video-creators-for-2024/"><u>Which Way to Go? A Comparison of Adobe Premiere and After Effects for Video Creators for 2024</u></a></li>
 </ul></div>
 

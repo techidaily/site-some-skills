@@ -1,7 +1,7 @@
 ---
 title: "Complete Tutorial: Downloading and Setting Up Microsoft Store Applications in Windows 11"
-date: 2024-11-18T18:51:45.387Z
-updated: 2024-11-20T00:01:24.546Z
+date: 2024-11-23T22:28:01.913Z
+updated: 2024-11-28T21:45:47.692Z
 tags:
   - deals
 categories:
@@ -15,13 +15,6 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 
 * [Free Apps vs. Paid Apps](https://buynow-tips.techidaily.com/motorola-one-5g-ace-fastest-5g-performance-with-exceptional-battery-longevity/)
 * [How to Install Software Using the Microsoft Store on Windows 10](https://win-howtos.techidaily.com/effective-solutions-for-repairing-unresponsive-functional-keys-on-lenovo-computers/)
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -39,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 
  The second type is "paid" software, which you buy up front before you download and then usually you own the right to use it completely, although there are also paid apps that sell more features later through in-app purchases.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Install Software Using the Microsoft Store on Windows 10
 
  Before we begin, we'll assume that you have already [created a Microsoft account](https://sim-unlock.techidaily.com/in-2024-sim-unlock-vivo-y17s-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/) and you are logged in. For app purchases, you'll need some form of payment that has already been linked to your Microsoft account.
@@ -48,10 +45,7 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 ![Search for 'Microsoft store' in the Start menu search bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-microsoft-store.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When the "Microsoft Store" app opens, you will see a screen that includes many flashy banners that advertise the latest deals and other promotions.
@@ -61,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
  If you're looking for a specific type of app, click one of the categories to the left-hand side. Some categories, most notably Movies & TV, also allow you to purchase media, like movies. 
 
 ![The app types listed on the left.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-app-types-on-left.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or you can search for a specific app by clicking the search button. In the search bar that appears, type what you'd like to find, then click an item in the list of results.
 
@@ -74,48 +72,29 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 
 ![Buy Microsoft Flight Simulator for 59.99 USD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-buy-for-x-price.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After following the purchase steps, the download will begin. You will see the "Get" or "Install" button change to a small circle that indicates your download's progress. You can also click this button to stop a download in progress if you change your mind, or if it is taking up too much time or bandwidth. 
 
 ![The download is in progress when the 'Get' or 'Install' button changes to a stop button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-download-in-progress.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once the app is installed, you can launch it by clicking "Launch" or "Play" button located just beside the download progress indicator bar. Or you can open the "Start" menu and browse for the app name in an alphabetical list. Click the app's icon when you find it, and it will launch.
 
 ![Netflix in the Start menu under 'N' in the alphabetical list.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-netflix-in-start-menu.png) 
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you have trouble finding the app you just downloaded in the "Start" menu, open "Start" and begin typing the name of the app to perform a search. When the results appear, click the icon of the app to launch it.
 
 ![Search for the app you installed using the Start menu search, then click the result labeled 'App.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-searching-for-netflix.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Also, if you ever need to [see a complete list of all the apps you've bought or installed](https://tech-revival.techidaily.com/best-8-chatgpt-interactions-to-enhance-productivity-and-decrease-distractions/) from the Microsoft Store, launch the "Microsoft Store" app and click the "Library" button in the bottom left corner of the window. 
 
 ![Click the 'Library' button in the bottom-left corner.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/10-click-the-library-button.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You will see a list of all the apps you have installed through the Microsoft Store, and you can sort it by install date and other criteria. If you want to [uninstall the app later](https://tech-recovery.techidaily.com/top-savings-on-apple-watches-in-april/), you'll need to visit Settings > Apps, select the program, then click "Uninstall."
 
@@ -136,18 +115,22 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-insta-meets-tiktok-connectors-handbook/"><u>[Updated] Insta Meets TikTok Connector's Handbook</u></a></li>
-<li><a href="https://some-skills.techidaily.com/comparing-performance-honor-magic-6-pro-vs-samsung-galaxy-s24-ultra/"><u>Comparing Performance: Honor Magic 6 Pro Vs. Samsung Galaxy S24 Ultra</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/crafting-futures-mondly-languages-two-years-of-aspirations/"><u>Crafting Futures: Mondly Languages, Two Years of Aspirations</u></a></li>
-<li><a href="https://some-skills.techidaily.com/expanded-google-circle-search-now-available-on-additional-smartphones-and-tablets/"><u>Expanded Google Circle Search Now Available on Additional Smartphones & Tablets</u></a></li>
-<li><a href="https://some-skills.techidaily.com/exploring-the-remarkable-ease-of-repairing-the-hmd-skyline-among-modern-mobile-devices/"><u>Exploring the Remarkable Ease of Repairing the HMD Skyline Among Modern Mobile Devices</u></a></li>
-<li><a href="https://some-skills.techidaily.com/find-the-perfect-earphone-charger-must-have-sound-level-adjustment-feature/"><u>Find the Perfect Earphone Charger - Must Have Sound Level Adjustment Feature!</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Oppo A58 4G | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Itel A60s? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/oneplus-11-comprehensive-review-after-six-months-of-daily-use/"><u>OnePlus 11 Comprehensive Review After Six Months of Daily Use</u></a></li>
-<li><a href="https://some-skills.techidaily.com/optimize-your-health-goals-with-the-top-iphone-workout-and-wellness-apps-for-staying-fit-in-the-sunny-season/"><u>Optimize Your Health Goals with the Top iPhone Workout and Wellness Apps for Staying Fit in the Sunny Season</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/review-of-the-netgear-powerline-extender-with-1200mbps-a-thicker-build-compromises-velocity/"><u>Review of the Netgear Powerline Extender with 1200Mbps - A Thicker Build Compromises Velocity?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-8-best-sketch-tools-for-digital-illustrators/"><u>The 8 Best Sketch Tools for Digital Illustrators</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-get-rid-of-filmora-watermark-with-or-without-subscription-for-2024/"><u>Updated Get Rid of Filmora Watermark With or Without Subscription for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-joining-the-world-of-live-broadcasts-a-roku-primer/"><u>[New] 2024 Approved Joining the World of Live Broadcasts A Roku Primer</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-strategies-to-skyrocket-like-counts-in-tiktok-unpack-videos/"><u>[New] Strategies to Skyrocket 'Like' Counts in TikTok Unpack Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-professional-iphoneipad-podcast-production/"><u>[New] The Ultimate Guide to Professional iPhone/iPad Podcast Production</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tune-travelers-guide-transferring-playlists-with-precision/"><u>[New] Tune Traveler's Guide Transferring Playlists with Precision</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/86995338-updated-in-2024-excellent-video-and-picture-capture-for-iphones-and-androids-here/"><u>[Updated] In 2024, Excellent Video & Picture Capture for iPhones & Androids Here</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-comprehensive-blueprint-for-capturing-whatsapp-calls/"><u>[Updated] The Comprehensive Blueprint for Capturing WhatsApp Calls</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-no-more-latency-choose-av1-for-youtube-playback/"><u>2024 Approved No More Latency Choose AV1 for YouTube Playback</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-youtubes-finest-story-sages-and-weavers-in-23/"><u>2024 Approved Unveiling YouTube's Finest Story Sages and Weavers in '23</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-navigating-the-world-of-srts-a-complete-tutorial-and-advice/"><u>In 2024, Navigating the World of SRTs A Complete Tutorial and Advice</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-techniques-to-lower-audio-levels-in-os-xwindows/"><u>In 2024, Techniques to Lower Audio Levels in OS X/Windows</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-insiders-guide-to-metaverse-salesmanship/"><u>In 2024, The Insider's Guide to Metaverse Salesmanship</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-role-of-workspace-dynamics-in-employee-output/"><u>In 2024, The Role of Workspace Dynamics in Employee Output</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-page-rankings-effective-techniques-for-enhanced-visibility-in-search-engines/"><u>Mastering Page Rankings: Effective Techniques for Enhanced Visibility in Search Engines</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-zoom-setup-playbook-for-2024/"><u>The Ultimate Zoom Setup Playbook for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transforming-ordinary-recordings-into-pro-level-with-audacity-for-2024/"><u>Transforming Ordinary Recordings Into Pro-Level With Audacity for 2024</u></a></li>
+<li><a href="https://solve-help.techidaily.com/uh-oh-convert2mp3s-out-discover-the-leading-mp3-conversion-alternatives-today/"><u>Uh-Oh! Convert2MP3's Out. Discover the Leading MP3 Conversion Alternatives Today!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unboxing-the-next-big-thing-in-action-cameras-with-camplus-cubeplus/"><u>Unboxing the Next Big Thing in Action Cameras with Cam+ Cube+</u></a></li>
 </ul></div>
 

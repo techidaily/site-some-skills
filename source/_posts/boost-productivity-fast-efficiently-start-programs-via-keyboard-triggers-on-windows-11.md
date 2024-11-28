@@ -1,7 +1,7 @@
 ---
 title: "Boost Productivity Fast: Efficiently Start Programs via Keyboard Triggers on Windows 11"
-date: 2024-11-18T03:53:40.422Z
-updated: 2024-11-19T18:45:52.010Z
+date: 2024-11-26T21:30:02.912Z
+updated: 2024-11-28T21:57:16.646Z
 tags:
   - deals
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 ---
 
 ## Boost Productivity Fast: Efficiently Start Programs via Keyboard Triggers on Windows 11
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -21,10 +25,7 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
  If you access particular Windows apps regularly, it can take time to launch them by rummaging through the Start menu. Handily, Windows 11 lets you create custom keyboard shortcuts to quickly open your favorite programs.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Use Taskbar Shortcuts to Open Apps
@@ -36,10 +37,7 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 ![Pinning an app to the Taskbar on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/pin-to-taskbar-2.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once pinned to the taskbar, click and drag the icons to move them to a different position.
@@ -52,13 +50,6 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 
 ![Windows 11 with the Steam app pinned to the Taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/windows-steam-taskbar-1.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  While this method is fairly simple, its biggest drawback is that you can only use the taskbar shortcuts for a maximum of ten applications, with Win+0 being the key combination to launch the tenth.
 
 ##  How to Use App Properties Shortcuts to Open Apps
@@ -70,15 +61,16 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 ![Creating a shortcut of an app on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/create-shortcut-1.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Right-click on the newly created shortcut and select "Properties" to open another window.
 
 ![A screenshot of Windows 11 depicting the Properties option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/windows-11-properties-1.jpeg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Within the "Shortcut Key" field, press a key. This creates a shortcut using the Ctrl and Alt keys. For example, in the screenshot below, I pressed "A" which created a shortcut of Ctrl + Alt + A. Once done, click "OK".
 
@@ -95,13 +87,6 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
  To begin, open PowerToys and navigate to the Keyboard Manager. Turn the "Enable Keyboard Manager" toggle on if it's not already, then select "Remap a shortcut."
 
 ![PowerToys Keyboard Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/powertoys-keyboard-manager.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To create your shortcut, first click "Add Shortcut Remapping." Click the pencil next to "Shortcut" and press the keys for your shortcut, then "OK" when done.
 
@@ -169,18 +154,24 @@ Run "C:\Program Files (x86)\Steam\steam.exe"
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expert-tips-on-closing-distances-in-movies/"><u>[New] Expert Tips on Closing Distances in Movies</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-editmaster-app/"><u>[Updated] EditMaster App</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-transform-your-footage-techniques-for-exceptional-instagram-videos-for-2024/"><u>[Updated] Transform Your Footage Techniques for Exceptional Instagram Videos for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/are-folding-phone-innovations-just-for-show-or-here-to-stay-in-the-tech-world/"><u>Are Folding Phone Innovations Just for Show, or Here to Stay in the Tech World?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/celebrate-the-4th-of-july-with-a-spectacular-offer-from-urban-armor-gear-enjoy-20-savings-across-our-entire-collection/"><u>Celebrate the 4Th of July with a Spectacular Offer From Urban Armor Gear - Enjoy 20% Savings Across Our Entire Collection!</u></a></li>
-<li><a href="https://some-skills.techidaily.com/comparing-pixel-pro-8-and-oneplus-12-which-smartphone-takes-the-crown/"><u>Comparing Pixel Pro 8 & OnePlus 12 – Which Smartphone Takes the Crown?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/discover-effortless-iphone-circle-searching-with-this-simple-shortcut/"><u>Discover Effortless iPhone Circle Searching with This Simple Shortcut</u></a></li>
-<li><a href="https://some-skills.techidaily.com/dry-gangrene-involves-coagulative-and-ischemic-changes-without-a-secondary-infection-while-wet-gangrene-includes-superimposed-bacterial-invasion-leading-to-49/"><u>Dry Gangrene Involves Coagulative and Ischemic Changes without a Secondary Infection, While Wet Gangrene Includes Superimposed Bacterial Invasion Leading to Liquefactive Necrosis.</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/einfach-lernen-wie-sie-eine-usb-drive-reparatur-erzeugen-konnen-um-windows-11-zu-beheben/"><u>Einfach Lernen, Wie Sie Eine USB-Drive-Reparatur Erzeugen Können, Um Windows 11 Zu Beheben</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Realme 12 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/innovation-in-visuals-a-guide-to-the-leading-5-monitors/"><u>Innovation in Visuals A Guide to the Leading 5 Monitors</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/-introduction-the-art-of-green-screening/"><u>Swift Introduction The Art of Green Screening</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-complete-story-of-facetune-from-picture-to-paradise/"><u>The Complete Story of Facetune From Picture to Paradise</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/hoosing-the-right-lights-and-cameras-for-youtube-videos-for-2024/"><u>[New] Choosing the Right Lights & Cameras for YouTube Videos for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-unlock-your-screen-recording-potential-top-8-apps-for-windows-10/"><u>[Updated] In 2024, Unlock Your Screen Recording Potential Top 8 Apps for Windows 10</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-masterclass-10-secrets-to-effective-livestreaming-cricket-games/"><u>[Updated] Masterclass 10 Secrets to Effective Livestreaming Cricket Games</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-outlining-key-elements-in-youtube-trailer-creation/"><u>[Updated] Outlining Key Elements in YouTube Trailer Creation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamlining-content-effortless-conversion-from-srt/"><u>2024 Approved Streamlining Content Effortless Conversion From SRT</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-rotated-video-conundrum-in-instagrams-feed/"><u>2024 Approved The Rotated Video Conundrum in Instagram's Feed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-uncovering-the-currency-behind-product-discussions/"><u>2024 Approved Uncovering the Currency Behind Product Discussions</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-lava-yuva-3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-setup-how-to-get-your-corsair-void-pro-drivers-installed-on-windows/"><u>Effortless Setup: How to Get Your Corsair Void Pro Drivers Installed on Windows!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Honor X9a? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-complete-rundown-on-dji-inspire-2/"><u>In 2024, The Complete Rundown on DJI Inspire 2</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-guide-to-convert-srt-to-txt-in-minutes/"><u>In 2024, Ultimate Guide to Convert SRT to TXT in Minutes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-9gag-a-guide-for-memetic-creation/"><u>Mastering 9GAG A Guide for Memetic Creation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-widespread-connectivity-problem-in-steam-windows-11/"><u>Resolving Widespread Connectivity Problem in Steam Windows 11</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/seize-the-day-documenting-games-on-samsung-phones/"><u>Seize the Day! Documenting Games on Samsung Phones</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-art-of-subtle-sound-dimming-in-productions/"><u>The Art of Subtle Sound Dimming in Productions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-eternal-methodology-for-instantaneous-tiktok-linking-for-2024/"><u>The Eternal Methodology for Instantaneous TikTok Linking for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-roadmap-to-seamless-mass-tiktok-downloads-for-2024/"><u>The Roadmap to Seamless Mass TikTok Downloads for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-tier-mobile-and-desktop-player-for-avis-for-2024/"><u>Top-Tier Mobile and Desktop Player for AVIs for 2024</u></a></li>
 </ul></div>
 

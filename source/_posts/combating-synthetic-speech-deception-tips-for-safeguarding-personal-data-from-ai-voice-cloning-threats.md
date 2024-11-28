@@ -1,7 +1,7 @@
 ---
 title: "Combating Synthetic Speech Deception: Tips for Safeguarding Personal Data From AI Voice Cloning Threats"
-date: 2024-11-17T18:10:58.428Z
-updated: 2024-11-19T23:59:00.293Z
+date: 2024-11-21T20:30:46.741Z
+updated: 2024-11-28T16:20:39.698Z
 tags:
   - cutting-edge
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/d7bfa61b324ffaea9cbfc11e938036f2476668f1b
 
  Cloning someone's voice using AI is now easy enough even scammers can do it. People are already being victimized by this abuse of AI technology, but you don't have to be the next person to fall for the scam. Here's how you can beat them before they get you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How Voice Cloning Scams Work
 
  Imagine getting a phone call from a family member. It's 3AM, they've been in an accident, they've been arrested, they need money to post bail. You get passed to his "lawyer" and are asked to wire money. This is what happened to attorney [Gary Schildhorn](https://www.independent.co.uk/news/world/americas/ai-phone-scam-voice-call-b2459449.html). What about getting a call from your daughter, claiming that she's been kidnapped, but she's asleep in bed. That happened to [Jennifer DeStefano](https://www.cbsnews.com/news/scammers-ai-mimic-voices-loved-ones-in-distress/), and could have ended much worse if the scammers had timed things differently.
@@ -26,10 +30,7 @@ thumbnail: https://thmb.techidaily.com/d7bfa61b324ffaea9cbfc11e938036f2476668f1b
  By [misusing AI software tools](https://youtube-lab.techidaily.com/ed-crafting-visual-wonders-home-made-effects-demystified/) that can create voice profiles from, for example, videos someone might leave on social media, scammers can tap into our emotions to make us behave irrationally. This is already happening and will only increase in sophistication, so there's no better time to arm yourself with knowledge and strategies to combat this.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Signs That You're Being Scammed
@@ -44,10 +45,7 @@ thumbnail: https://thmb.techidaily.com/d7bfa61b324ffaea9cbfc11e938036f2476668f1b
  The most important thing is to be aware that such scams are possible, and to have healthy skepticism when you're confronted by these types of semi-emergency scenarios.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Decide on a Safe Phrase With Family and Friends
@@ -57,10 +55,7 @@ thumbnail: https://thmb.techidaily.com/d7bfa61b324ffaea9cbfc11e938036f2476668f1b
  Then, if you ever receive an emergency call, you can just ask for the safe word and unless the scammer can somehow guess it, you'll stop the whole scam in its tracks.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Stop to Think
@@ -68,10 +63,7 @@ thumbnail: https://thmb.techidaily.com/d7bfa61b324ffaea9cbfc11e938036f2476668f1b
  A hallmark of scams, both old and new, is to stop you from having time to think. The less time we have to make decisions, the worse our decisions tend to be. They don't want you thinking too much or you might notice gaps in the story or realize you're being asked to do unreasonable or illogical things. So, once you're off the phone, take five minutes and just think about everything that's been said. Does it really all make sense?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Get Third-Party Information Verification
@@ -97,20 +89,18 @@ thumbnail: https://thmb.techidaily.com/d7bfa61b324ffaea9cbfc11e938036f2476668f1b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-the-low-light-guru-writes-for-iphone-users/"><u>[New] In 2024, The Low Light Guru' Writes for iPhone Users</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-future-in-flight-djis-mavic-pro-breakdown/"><u>[New] The Future in Flight DJI's Mavic Pro Breakdown</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-the-ultimate-hand-tracking-reference-guide-for-2024/"><u>[New] The Ultimate Hand-Tracking Reference Guide for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-vision-guide-top-10-camera-lens-recommendations-2024/"><u>[New] The Ultimate Vision Guide Top 10 Camera Lens Recommendations 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-chronological-clarity-in-your-photographic-work-for-2024/"><u>[Updated] Chronological Clarity in Your Photographic Work for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-illustrator-way-adding-realistic-blur-to-your-pics/"><u>[Updated] The Illustrator Way Adding Realistic Blur to Your Pics</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-the-secrets-of-srt-to-sub-transition/"><u>[Updated] Unlocking the Secrets of SRT-to-SUB Transition</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unpack-the-basics-a-straightforward-roadmap-to-start-your-reviews-channel/"><u>[Updated] Unpack the Basics A Straightforward Roadmap to Start Your Reviews Channel</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-tailoring-your-windows-photos-display-filters-and-audio-options/"><u>2024 Approved Tailoring Your Windows Photos Display Filters & Audio Options</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/automated-assistants-takeover-how-robotic-staff-are-supporting-understaffed-eateries-the-impact-on-traditional-waiter-jobs/"><u>Automated Assistants Takeover: How Robotic Staff Are Supporting Understaffed Eateries - The Impact on Traditional Waiter Jobs</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/final-alert-grab-the-exclusive-oculus-quest-2-for-only-199-today-gadget-central/"><u>Final Alert: Grab the Exclusive Oculus Quest 2 for Only $199 Today | Gadget Central</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/kostenlose-mxf-mp4-conversion-online-durchfuhren-tipps-und-tools-von-movavi/"><u>Kostenlose MXF MP4 Conversion Online Durchführen: Tipps Und Tools Von Movavi</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/master-your-gadgets-with-expertise-from-toms-hardware/"><u>Master Your Gadgets with Expertise From Tom's Hardware</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-10-image-editors-and-annotation-tools-for-2024/"><u>Top 10 Image Editors & Annotation Tools for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/winning-the-battle-against-gaming-latency-and-frame-drop-offs/"><u>Winning the Battle Against Gaming Latency and Frame Drop-Offs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-efficient-google-podcast-postings/"><u>[New] Unlocking Efficient Google Podcast Postings</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-wallet-friendly-skyvaults-affordable-ample-data-storing/"><u>[New] Wallet-Friendly SkyVaults Affordable, Ample Data Storing</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-perfecting-podcast-production-an-ultimate-tutorial-for-high-quality-zoom-recordings/"><u>[Updated] In 2024, Perfecting Podcast Production An Ultimate Tutorial for High-Quality Zoom Recordings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-unsung-heroes-of-canvas-open-source-paintings/"><u>[Updated] The Unsung Heroes of Canvas Open-Source Paintings</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-intel-wireless-ac-9560-drivers-latest-version/"><u>Download and Install Intel Wireless-AC 9560 Drivers: Latest Version</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/free-access-to-gpt-4-unlocked-discover-6-compelling-reasons-for-remaining-a-chatgpt-plus-user/"><u>Free Access to GPT-4 Unlocked: Discover 6 Compelling Reasons for Remaining a ChatGPT Plus User</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210593260-9781524881887-haunted-in-america/"><u>Haunted in America | Free Book</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-vectors-for-novices-uncover-essentials-types-and-applications/"><u>In 2024, Vectors for Novices Uncover Essentials, Types & Applications</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/italy-prohibits-chatgpt-use-from-today-heres-why/"><u>Italy Prohibits ChatGPT Use From Today – Here’s Why</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/quick-start-deploying-and-operating-the-codegpt-tool-inside-your-visual-studio-environment/"><u>Quick Start: Deploying and Operating the CodeGPT Tool Inside Your Visual Studio Environment</u></a></li>
+<li><a href="https://some-skills.techidaily.com/teachers-handbook-bridging-traditional-and-digital-media-for-2024/"><u>Teacher's Handbook Bridging Traditional & Digital Media for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-accompanying-imagery-with-audio-for-2024/"><u>The Art of Accompanying Imagery With Audio for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-risks-of-using-ai-chatbots-for-creating-windows-11-product-keys/"><u>The Risks of Using AI Chatbots for Creating Windows 11 Product Keys</u></a></li>
 </ul></div>
 

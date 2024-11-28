@@ -1,7 +1,7 @@
 ---
 title: "Tech Update: Anticipating the Latest Features of New Devices by Google & Samsung - A Weekly Overview"
-date: 2024-11-14T16:22:33.582Z
-updated: 2024-11-19T19:19:52.566Z
+date: 2024-11-24T18:01:11.337Z
+updated: 2024-11-28T18:06:34.921Z
 tags:
   - desktop
 categories:
@@ -13,14 +13,11 @@ thumbnail: https://thmb.techidaily.com/bc4c1fafbeb0a4b8e3066f1ca761f451b6c08fbe8
 
 This was a surprisingly busy week for tech news, with announcements for Google and Samsung’s next hardware events, and a whole lot of software updates. Here are the biggest stories you might have missed.
 
-##  The Big News
-
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+##  The Big News
 
 ### [You Can Now Add Checkboxes in Microsoft Excel](https://screen-capture.techidaily.com/new-become-a-pro-at-setting-up-vrecorder-fast/) 
 
@@ -29,6 +26,10 @@ This was a surprisingly busy week for tech news, with announcements for Google a
 ### [Apple Loosens Its Grip on iPhone Replacement Parts](https://driver-download.techidaily.com/get-updated-nvidia-driver-pack-for-geforce-rtx-2070-on-windows-os/) 
 
  Third-party components will no longer disable True Tone or battery health.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Steam Can Now Screen Record Your Games](https://techtrends.techidaily.com/explore-66-premier-twitter-profiles-offering-unbeatable-travel-advice-offers-and-epic-adventures/) 
 
@@ -43,10 +44,7 @@ Valve
  Samsung confirmed its next Unpacked event for July 10th, and we’re expecting new folding phones and other hardware.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [Google Chrome Now Has Better Web Search and Sports Scores](https://snapchat-videos.techidaily.com/updated-change-snapchat-voice-in-minutes-using-twin-methods/) 
@@ -62,10 +60,7 @@ Valve
  The official ChatGPT desktop application doesn’t need a Plus subscription anymore, but the app is still limited to macOS.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [Moto Tag Is an AirTag Clone for Android Users](https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-infinix-smart-8-hd-phone-by-drfone-android/) 
@@ -76,13 +71,6 @@ Valve
 
 Motorola
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### [Google's Pixel 9 is Coming August 13th](https://facebook-clips.techidaily.com/updated-fb-video-extraction-creating-mp3s-in-minutes/) 
 
  Google's next hardware event is nearing.
@@ -92,10 +80,7 @@ Motorola
  The last Paramount+ price hike occurred in June of 2023, and now another one is happening.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Other Stuff
@@ -119,21 +104,16 @@ Motorola
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-instagram-blocking-made-simple/"><u>[New] 2024 Approved Instagram Blocking Made Simple</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-recording-skype-meetings-on-modern-operating-systems/"><u>[New] In 2024, Recording Skype Meetings on Modern Operating Systems</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-tailoring-your-podcast-content-with-seo-in-mind/"><u>[New] Tailoring Your Podcast Content with SEO in Mind</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-top-5-windows-11-gaming-capture-techniques-for-2024/"><u>[Updated] Top 5 Windows 11 Gaming Capture Techniques for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/frame-your-vision-leading-lines-for-dynamic-iphone-photos/"><u>Frame Your Vision Leading Lines for Dynamic iPhone Photos</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-reno-11-pro-5g-phone-without-google-account-by-drfone-android/"><u>How to Unlock Oppo Reno 11 Pro 5G Phone without Google Account?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-p40plus-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Itel P40+ PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-skyrocketing-status-15-clever-methods-for-rapid-social-media-stardom-on-instagram/"><u>In 2024, Skyrocketing Status 15 Clever Methods for Rapid Social Media Stardom on Instagram</u></a></li>
-<li><a href="https://fox-access.techidaily.com/instant-best-picture-viewer-pro/"><u>Instant Best Picture Viewer Pro</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-influence-of-winter-conditions-on-electric-car-battery-durability-what-to-expect/"><u>The Influence of Winter Conditions on Electric Car Battery Durability: What to Expect?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-next-level-of-storage-how-your-personal-files-could-soar-into-outer-space/"><u>The Next Level of Storage: How Your Personal Files Could Soar Into Outer Space</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-test-of-the-inmotion-electric-scooter-unleashing-its-impressive-strength/"><u>The Ultimate Test of the InMotion Electric Scooter: Unleashing Its Impressive Strength</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-6-missteps-why-using-chatgpt-could-be-a-bad-idea/"><u>Top 6 Missteps: Why Using ChatGPT Could Be a Bad Idea</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-strategies-to-ensure-youre-making-the-right-choice-in-secondhand-evs/"><u>Top Strategies to Ensure You're Making the Right Choice in Secondhand EVs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transitioning-to-augmented-reality-my-journey-swapping-a-standard-monitor-for-ar-glasses/"><u>Transitioning to Augmented Reality: My Journey Swapping a Standard Monitor for AR Glasses</u></a></li>
-<li><a href="https://some-skills.techidaily.com/understanding-the-causes-of-electric-vehicle-battery-wear-and-tear/"><u>Understanding the Causes of Electric Vehicle Battery Wear and Tear</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-fast-and-furious-the-prime-5-video-clipping-tools-in-chromes/"><u>[New] In 2024, Fast & Furious The Prime 5 Video Clipping Tools in Chromes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-asmrists-aiding-the-nighttime-ritual/"><u>[New] Top ASMRists Aiding the Nighttime Ritual</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-textual-transformation-in-adobe-after-effects/"><u>2024 Approved Textual Transformation in Adobe After Effects</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-venturing-into-vector-world-starting-point-and-top-tools/"><u>2024 Approved Venturing Into Vector World Starting Point and Top Tools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-prepares-to-unveil-new-earbud-series-with-airpods-lite-and-enhanced-airpods-max-expected-later-this-year-zdnet-insights/"><u>Apple Prepares to Unveil New Earbud Series with 'AirPods Lite' And Enhanced AirPods Max - Expected Later This Year | ZDNet Insights</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/convert-your-files-with-movavis-w64-online-tool-quick-simple-and-free/"><u>Convert Your Files with Movavi's W64 Online Tool - Quick, Simple & Free</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-complete-tutorial-sending-photos-from-apple-iphone-6-plus-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Complete Tutorial Sending Photos From Apple iPhone 6 Plus to iPad | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-first-row-fun-beyond-the-game-top-alternatives/"><u>In 2024, First Row Fun Beyond the Game Top Alternatives</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-creative-potential-with-pixiz-for-photo-videos/"><u>In 2024, Unleashing Creative Potential with Pixiz for Photo Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unraveling-the-mystery-of-apples-new-ios-camera/"><u>In 2024, Unraveling the Mystery of Apple's New iOS Camera</u></a></li>
 </ul></div>
 

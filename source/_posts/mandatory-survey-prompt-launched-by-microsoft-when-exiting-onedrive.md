@@ -1,7 +1,7 @@
 ---
 title: Mandatory Survey Prompt Launched by Microsoft When Exiting OneDrive
-date: 2024-11-18T04:16:18.912Z
-updated: 2024-11-20T00:06:15.357Z
+date: 2024-11-23T20:26:07.295Z
+updated: 2024-11-28T17:33:02.425Z
 tags:
   - deals
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Microsoft's clingy behavior continues to annoy Windows users. Last month, the company introduced an optional [pop-up survey](https://article-files.techidaily.com/2024-approved-the-ultimate-guide-for-implementing-look-up-tables-in-creative-suite/) that's triggered when installing Chrome from Edge. Now, Windows users are being hit with a _mandatory_ survey when they try to _close_ OneDrive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  UPDATE: 2023/11/10 10:11 EST BY ANDREW HEINZMAN
 
 **_Statement from Microsoft_** 
@@ -26,6 +30,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  The survey pop-up, which was first noticed by [Neowin](https://www.neowin.net/news/microsoft-wont-let-you-close-onedrive-in-windows-without-you-explaining-it-first/), warns that data cannot be synced to the cloud when OneDrive is closed. On its own, this warning may be useful to some people, as Microsoft doesn't provide a clear-cut "quit" button for the OneDrive application. To close OneDrive, you need to right-click the OneDrive icon in your system tray, click the settings cog that shows up in the OneDrive panel, and select "pause syncing." You can also kill OneDrive in the Task Manager, but in any case, it's hard to tell when you're actually quitting the application.
 
 ![The "quit OneDrive" popup prompting a user to complete a survey.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/11-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Neowin](https://www.neowin.net/news/microsoft-wont-let-you-close-onedrive-in-windows-without-you-explaining-it-first/)
 
@@ -60,27 +68,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-skyrocketing-your-tiktok-content-speed/"><u>[New] Skyrocketing Your TikTok Content Speed</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-decoding-tseries-monetary-strategies-on-youtube-video-platforms/"><u>[Updated] In 2024, Decoding TSeries’ Monetary Strategies on YouTube Video Platforms</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-master-your-first-ps-project-10-easy-tips/"><u>2024 Approved Master Your First PS Project 10 Easy Tips</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/best-inflatable-lounge-products-for-a-summer-splash-a-zdnet-guide/"><u>Best Inflatable Lounge Products for a Summer Splash : A ZDNet Guide</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/fehlende-ordner-in-der-dateisystemverwaltung-von-windows-10-problemlosungen-und-losungsschritte/"><u>Fehlende Ordner in Der Dateisystemverwaltung Von Windows 10: Problemlösungen Und Lösungsschritte</u></a></li>
-<li><a href="https://some-skills.techidaily.com/introducing-stardock-desktopp-your-new-ai-powered-user-assistant-the-ultimate-substitute-for-traditional-copilots/"><u>Introducing Stardock Desktopp: Your New AI-Powered User Assistant, the Ultimate Substitute for Traditional Copilots</u></a></li>
-<li><a href="https://some-skills.techidaily.com/investing-in-future-updates-beyond-2025/"><u>Investing in Future Updates Beyond 2025</u></a></li>
-<li><a href="https://some-skills.techidaily.com/kb5442-11/"><u>KB5지치442 - 마이크로소프트 워밍즈 11의 조각을 위해 공개된 업데이트 사항</u></a></li>
-<li><a href="https://some-skills.techidaily.com/mastering-cross-platform-development-integrate-linux-bash-with-windows-11-systems/"><u>Mastering Cross-Platform Development: Integrate Linux Bash with Windows 11 Systems</u></a></li>
-<li><a href="https://some-skills.techidaily.com/mastering-game-control-avoiding-interference-from-windows-key-and-accessibility-shortcuts/"><u>Mastering Game Control: Avoiding Interference From Windows Key & Accessibility Shortcuts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/prepare-for-automatic-installation-of-windows-11-version-23h2-on-your-pc/"><u>Prepare for Automatic Installation of Windows 11 Version 23H2 on Your PC</u></a></li>
-<li><a href="https://some-skills.techidaily.com/reviving-objectdock-bringing-mac-like-dock-functionality-to-windows-11/"><u>Reviving ObjectDock: Bringing Mac-Like Dock Functionality to Windows 11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-common-problems-with-instagram-story-uploads/"><u>Solving Common Problems with Instagram Story Uploads</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-future-of-immersive-tech-revealed-is-lgs-new-headset-a-meta-quest-3-pro-rival-or-independent-marvel/"><u>The Future of Immersive Tech Revealed: Is LG's New Headset a Meta Quest 3 Pro Rival or Independent Marvel?</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/transformar-mp4-a-wmv-sin-gastos-guia-para-usar-servicios-de-conversion-en-linea-gratuitos/"><u>Transformar MP4 a WMV Sin Gastos: Guía Para Usar Servicios De Conversión en Línea Gratuitos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-10-must-have-screen-capture-tools-for-online-instructors/"><u>[New] 2024 Approved 10 Must-Have Screen Capture Tools for Online Instructors</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamlining-your-video-workflow-in-windows-11/"><u>[New] Streamlining Your Video Workflow in Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-financial-floor-and-ceiling-in-podcasting-world/"><u>[New] The Financial Floor and Ceiling in Podcasting World</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-leading-photo-framers-of-2024-reviewed/"><u>[New] The Leading Photo Framers of 2024 Reviewed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-hd-cameras-for-wildlife-enthusiasts/"><u>[New] Top HD Cameras For Wildlife Enthusiasts</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/urn-your-mobile-videos-into-profitable-content-on-youtube-for-2024/"><u>[New] Turn Your Mobile Videos Into Profitable Content on YouTube for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-optimal-storage-expansion-for-sony-a7c/"><u>[Updated] Optimal Storage Expansion for Sony A7C</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-wealth-reddits-top-13-money-making-methods/"><u>[Updated] Unlocking Wealth Reddit's Top 13 Money-Making Methods</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-basic-tools-to-advanced-systems-prepping-for-transformation/"><u>2024 Approved From Basic Tools to Advanced Systems Prepping for Transformation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-future-of-gaming-leading-vr-game-engines/"><u>2024 Approved The Future of Gaming Leading VR Game Engines</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-tecno-spark-10-pro-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Tecno Spark 10 Pro Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-finest-july-2024-promotions-for-your-new-apple-watch-exclusive-deals/"><u>Discover the Finest July 2024 Promotions for Your New Apple Watch – Exclusive Deals!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/embrace-the-future-of-computing-gigabytes-confirmation-of-amd-ryzen-9000-rebranding-and-zen-5-integration-on-upgraded-500-series-motherboards/"><u>Embrace the Future of Computing: Gigabyte's Confirmation of AMD Ryzen 9000 Rebranding and Zen 5 Integration on Upgraded 500-Series Motherboards</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleash-your-potential-with-periscope-broadcasts/"><u>In 2024, Unleash Your Potential with Periscope Broadcasts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-hidden-power-of-windows-11/"><u>In 2024, Unveiling the Hidden Power of Windows 11</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/simple-guide-restore-lost-data-from-sd-card-swiftly/"><u>Simple Guide: Restore Lost Data From SD Card Swiftly</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/the-complete-stardew-compendium-focus-on-ginger-isle-for-2024/"><u>The Complete Stardew Compendium Focus on Ginger Isle for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transforming-dull-interviews-into-engaging-assessments-for-2024/"><u>Transforming Dull Interviews Into Engaging Assessments for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-guide-solving-microsoft-edge-issues-on-your-pc/"><u>Troubleshooting Guide: Solving Microsoft Edge Issues on Your PC</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

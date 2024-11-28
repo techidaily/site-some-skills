@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Manually Applying Patches and Updates in Windows 11
-date: 2024-11-12T20:57:10.200Z
-updated: 2024-11-19T21:14:28.694Z
+date: 2024-11-25T20:39:35.768Z
+updated: 2024-11-28T20:53:01.709Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Expert Tips for Manually Applying Patches and Updates in Windows 11
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -37,6 +41,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
     
 !['services.msc' typed in Run.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/1-open-services-window.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the Services window, find the "Windows Update" service, then right-click the service and choose "Stop." If you don’t stop this service, Windows won’t let you clear the update cache, since the files will be "in use." 
 
  If the Windows Update service fails to stop, restart your PC and try again.
@@ -56,10 +64,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 !['Start' selected for the Windows Update service.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/4-start-windows-update-service.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You’re set.
@@ -72,13 +77,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 !['Windows Update' highlighted in Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/5-windows-update-settings.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On the right pane, click "Download & Install All" to download and install the available updates. To only download and install specific updates, click the button next to those updates.
 
 !['Download & Install All' highlighted on the Windows Update screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/6-download-install-all-windows-updates.jpg) 
@@ -86,10 +84,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Wait while Windows obtains and installs the selected updates, then [reboot your Windows 11 PC](https://screen-video-capture.techidaily.com/updated-in-2024-addressing-mute-problems-in-obs-live-recording/).
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  From Microsoft Update Catalog
@@ -104,41 +99,26 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![An update name typed in the search box on the Microsoft Update Catalog site.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/8-find-windows-update.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On the following screen, find the exact update and click "Download" next to that update.
 
 !['Download' highlighted for an update on the Microsoft Update Catalog site.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/9-choose-windows-update.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the open window, click the update name to begin downloading the update to your PC. The download can take anywhere from a few seconds to several minutes, depending on the update size and your internet connection speed.
 
 ![An update name highlighted on the Microsoft Update Catalog site.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/10-download-windows-update.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After downloading the update, run the update file and follow the on-screen instructions. The file will extract the update files and install the update on your system.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Using Command Prompt
@@ -178,10 +158,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  And your Windows PC is now up-to-date.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Using Windows PowerShell
@@ -222,19 +199,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
     
 ![The cmdlet to install a specific Windows update typed in PowerShell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/16-install-windows-update-powershell.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  PowerShell will install all or select updates (as you specified). Then, give your PC a restart to bring the changes into effect.
 
 ---
@@ -256,20 +220,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-calmly-quieten-your-computers-audio-output/"><u>[New] 2024 Approved Calmly Quieten Your Computer's Audio Output</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-the-evolved-examination-of-sony-bdp-s3700/"><u>[New] 2024 Approved The Evolved Examination of Sony BDP-S3700</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-steps-for-unlocking-stuck-obs-fullscreen-mode/"><u>[Updated] Steps for Unlocking Stuck OBS Fullscreen Mode</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-art-of-elegance-in-design-with-canvas-hidden-tips/"><u>[Updated] The Art of Elegance in Design with Canva's Hidden Tips</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-creative-vanguard-top-6-redefining-digital-arts/"><u>[Updated] The Creative Vanguard Top 6 Redefining Digital Arts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-science-behind-apples-m1-processor-unveiled/"><u>[Updated] The Science Behind Apple’s M1 Processor Unveiled</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-screen-time-treasure-summers-top-10-gems/"><u>[Updated] The Ultimate Screen Time Treasure Summer’s Top 10 Gems</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-full-potential-with-iphone-hdr/"><u>[Updated] Unlocking Full Potential with iPhone HDR</u></a></li>
-<li><a href="https://driver-download.techidaily.com/epson-gt-s50-printer-software-compatible-with-windows-7-8-and-10-free-download/"><u>Epson GT-S50 Printer Software Compatible with Windows 7, 8 & 10 - Free Download</u></a></li>
-<li><a href="https://some-skills.techidaily.com/expert-review-of-moto-g-play-impressive-battery-life-meets-solid-performance/"><u>Expert Review of Moto G Play: Impressive Battery Life Meets Solid Performance</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/lenovo-thinkpad-z16-evaluation-solid-performance-with-a-subpar-webcam-insights/"><u>Lenovo ThinkPad Z16 Evaluation - Solid Performance with a Subpar Webcam | Insights</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/mastering-close-up-mode-in-roblox-playground/"><u>Mastering Close-Up Mode in Roblox Playground</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-fixes-eradicating-e66ac-issue-from-your-nba-2k-game/"><u>Mastering Fixes: Eradicating E66ac Issue From Your NBA 2K Game</u></a></li>
-<li><a href="https://win11.techidaily.com/1719292127499-overcome-windows-shift-glitch/"><u>Overcome Windows Shift Glitch.</u></a></li>
-<li><a href="https://some-skills.techidaily.com/upgrading-simplified-navigating-macos-11-big-surs-changes-for-2024/"><u>Upgrading Simplified Navigating macOS 11 Big Sur's Changes for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-craft-individual-humor-masterpieces-online/"><u>[New] 2024 Approved Craft Individual Humor Masterpieces Online</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-synergy-of-social-media-embedding-linktree-in-your-tiktok-bio/"><u>[New] Synergy of Social Media Embedding Linktree in Your TikTok Bio</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-guide-top-8-convertors-for-sub-to-srt-harmony/"><u>[New] Ultimate Guide Top 8 Convertors for Sub to Srt Harmony</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-ultimate-ranking-of-superior-9-online-mic-recorders/"><u>[Updated] 2024 Approved The Ultimate Ranking of Superior 9 Online Mic Recorders</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-subtle-start-sequence/"><u>[Updated] Subtle Start Sequence</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-boosting-android-video-brilliance/"><u>[Updated] The Ultimate Guide to Boosting Android Video Brilliance</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-open-source-video-tools-for-every-desktop-environment/"><u>2024 Approved Top Open Source Video Tools for Every Desktop Environment</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-update-for-creative-webcam-drivers-now-compatible-with-windows-systems/"><u>Get the Newest Update for Creative Webcam Drivers Now! Compatible with Windows Systems</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-your-vivo-s18-pro-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Vivo S18 Pro Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-itel-a60-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Itel A60 to New Android? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-11-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone 11 when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-bottom-line-how-much-do-podcasters-take-home/"><u>In 2024, The Bottom Line How Much Do Podcasters Take Home?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-tecno-camon-20-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Tecno Camon 20 Device</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/proven-strategies-in-advanced-obs-studio-filmmaking/"><u>Proven Strategies in Advanced OBS Studio Filmmaking</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/the-art-of-extraction-converting-videos-to-images-with-10-proven-methods-for-2024/"><u>The Art of Extraction Converting Videos to Images with 10 Proven Methods for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-sony-playstation-5-examined-its-not-only-about-enhanced-strength/"><u>The Sony PlayStation 5 Examined: It's Not Only About Enhanced Strength</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-6-apps-for-creating-film-captions-in-various-languages-for-2024/"><u>Top 6 Apps for Creating Film Captions in Various Languages for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tranquil-sleep-soundtrack-expertly-selected-voices-for-2024/"><u>Tranquil Sleep Soundtrack Expertly Selected Voices for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleash-the-potential-a-comprehensively-curated-list-of-nft-creating-engines-for-2024/"><u>Unleash the Potential A Comprehensively Curated List of NFT-Creating Engines for 2024</u></a></li>
 </ul></div>
 

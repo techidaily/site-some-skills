@@ -1,7 +1,7 @@
 ---
 title: Identify Your Windows 11 Edition & Anniversary Updates with Ease
-date: 2024-11-17T22:50:38.118Z
-updated: 2024-11-19T16:40:50.598Z
+date: 2024-11-26T21:02:19.619Z
+updated: 2024-11-28T20:44:26.005Z
 tags:
   - desktop
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Identify Your Windows 11 Edition & Anniversary Updates with Ease
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Do Build Versions Mean?](https://facebook-video-footage.techidaily.com/updated-2024-approved-elevating-success-channel-ideas-to-spark-momentum/)
@@ -18,10 +22,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Find Your Windows Edition and Build Number with the Winver Dialog](https://digital-screen-recording.techidaily.com/updated-troubleshooting-common-obs-issues/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -29,6 +30,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Open the Settings app, then navigate to System > About to display all of the information about your Windows version. Alternatively, open the Start Menu, then enter "winver" in the search bar to quickly display basic information about your Windows installation.
 
  You may not have really thought about Windows build numbers in the past unless it was part of your job to do so. Here's how to find out what build—and edition and version—of Windows 10 you're running.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What Do Build Versions Mean?
 
@@ -52,10 +57,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * **System Type.** This line tells you whether you're [using the 32-bit version of Windows 10 or the 64-bit version](https://twitter-videos.techidaily.com/updated-snapchat-integration-for-twitters-visual-content/). It also tells you whether your PC is compatible with the 64-bit version or not. For example, "64-bit operating system, x64-based processor" indicates you're using a 64-bit version of Windows 10 on a 64-bit processor. "32-bit operating system, x64-based processor" indicates you're using a 32-bit version of Windows 10, but you could [install the 64-bit version on your hardware if you preferred](https://facebook-record-videos.techidaily.com/understanding-filmoras-creative-certification-protocol-for-2024/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Find Your Windows Edition and Build Number with the Winver Dialog
@@ -65,22 +67,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Search for 'winver' in the Start Menu search, then click the result.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-winver.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The second line in the "About Windows" box tells you which version and build of Windows 10 you have. Remember, the version number is in the form YYMM—so 1607 means the 7th month of 2016\. A couple of lines down, you'll see the edition of Windows 10 you're using—Windows 10 Pro in our example.
 
 ![The version information in the Windows Version window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-search.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The "About Windows" box does not show whether you're using a 64-bit or 32-bit version of Windows 10, but it does give you a quicker way to check your version and build than navigating through the Settings app.
 
@@ -101,20 +93,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-premium-no-cost-vectors-and-graphic-hubs-roundup/"><u>[New] Premium No-Cost Vectors & Graphic Hubs Roundup</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-subtlety-in-chords-pc-and-mac-music-settings/"><u>[New] Subtlety in Chords PC & Mac Music Settings</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-swap-periscope-leading-video-apps-for-iphoneandroid-devices/"><u>[New] Swap Periscope Leading Video Apps for iPhone/Android Devices</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unrestricted-media-playback-free-on-windows-and-macos/"><u>[New] Unrestricted Media Playback FREE on Windows & MacOS</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-ultimate-screen-capture-review-obs-vs-fraps/"><u>[Updated] 2024 Approved Ultimate Screen Capture Review OBS vs Fraps</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-the-comprehensive-guide-to-farming-on-ginger-islet/"><u>[Updated] In 2024, The Comprehensive Guide to Farming on Ginger Islet</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveil-top-10plus-platforms-for-virtual-worship-spaces/"><u>2024 Approved Unveil Top 10+ Platforms for Virtual Worship Spaces</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/609277-9781407029238-angels-and-miracles/"><u>Angels And Miracles | Free Book</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-lava-blaze-curve-5g-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Lava Blaze Curve 5G to PC? | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-boost-your-content-top-6-instagram-reel-apps/"><u>In 2024, Boost Your Content Top 6 Instagram Reel Apps</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-phone-with-funimate-the-ultimate-apk-guide/"><u>In 2024, Transform Your Phone with Funimate - The Ultimate APK Guide</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209873944-9780995120358-prophecy-on-the-river/"><u>Prophecy on the River | Free Book</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-oppo-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Oppo</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-broadcast-blueprint-for-enthralling-cricket-matches-for-2024/"><u>The Ultimate Broadcast Blueprint for Enthralling Cricket Matches for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transforming-images-into-engaging-animation-projects-for-2024/"><u>Transforming Images Into Engaging Animation Projects for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-master-recommendations-elite-ios-sound-artists/"><u>[New] Master Recommendations Elite iOS Sound Artists</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-a-deep-dive-into-video-platform-profit-margins-dailymovement-vs-youtube/"><u>[Updated] A Deep-Dive Into Video Platform Profit Margins DailyMovement vs YouTube</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-thorough-examination-straightforward-dynamic-range-methods/"><u>[Updated] Thorough Examination Straightforward Dynamic Range Methods</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-premium-collection-of-animated-texts/"><u>2024 Approved Premium Collection of Animated Texts</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-vivo-y36i-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Vivo Y36i Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/breathe-life-into-your-visual-narrative-free-text-animation/"><u>Breathe Life Into Your Visual Narrative Free Text Animation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-mastering-green-screen-filming-essential-techniques/"><u>In 2024, Mastering Green Screen Filming Essential Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-9gag-pathway-to-piling-up-popular-memes/"><u>In 2024, The 9GAG Pathway to Piling Up Popular Memes</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-motorola-edge-40-neo-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Motorola Edge 40 Neo for Parents | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/instant-access-to-updated-insignia-chipset-drivers-perfect-fit-for-windows-machines/"><u>Instant Access to Updated Insignia Chipset Drivers - Perfect Fit for Windows Machines</u></a></li>
+<li><a href="https://win-trending.techidaily.com/step-by-step-tutorial-for-moving-and-installing-windows-10-onto-an-alternate-hddssd/"><u>Step-by-Step Tutorial for Moving and Installing Windows 10 Onto an Alternate HDD/SSD</u></a></li>
+<li><a href="https://some-skills.techidaily.com/superior-5-iphones-for-podcasting-pleasure-for-2024/"><u>Superior 5 iPhones for Podcasting Pleasure for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/understanding-your-macs-capabilities-in-big-sur-for-2024/"><u>Understanding Your Mac's Capabilities in Big Sur for 2024</u></a></li>
 </ul></div>
 

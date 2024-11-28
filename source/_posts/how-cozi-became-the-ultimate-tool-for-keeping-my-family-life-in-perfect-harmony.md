@@ -1,7 +1,7 @@
 ---
 title: How Cozi Became the Ultimate Tool for Keeping My Family Life in Perfect Harmony
-date: 2024-11-12T22:19:29.749Z
-updated: 2024-11-19T23:30:15.575Z
+date: 2024-11-27T16:15:27.616Z
+updated: 2024-11-28T17:01:09.056Z
 tags:
   - mobile
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## How Cozi Became the Ultimate Tool for Keeping My Family Life in Perfect Harmony
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -25,10 +29,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  A few years ago, I was looking for an app to help my family organize our day-to-day lives, as we were always cross-booking appointments. The app I found was Cozi, and we realized that it was just what we needed as soon as we signed up. My family hasn't looked back since—maybe it can help yours, too.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Cozi Is Focused on Family Planning
@@ -67,13 +68,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  You can trial Cozi Gold for free for a fortnight, and you can cancel anytime during this test-drive period without being charged. Upgrading to Cozi Gold costs just $39 annually (or £29 if you're in the UK), and the upgrade applies to all devices in your family plan. Once you've added the app to your device and created a free account, you can manage your subscription in your app store.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Even My Dad Can Use It
 
  Cozi's straightforward user interface means that even my dad, who isn't the most tech-savvy, enjoys using the app without any complications or hiccups. The app uses a neutral blue theme, and its sans serif font is clear and easily readable. What's more, the icons and buttons are large and easy to tap, and the navigation bar allows instant access to all of Cozi's features.
@@ -81,10 +75,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The Cozi Calendar user interface.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/cozi-calendar-ui.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  While unlikely, if anyone does encounter any issues while using the app, the Help section (accessible via the Family tab in the navigation bar) is comprehensive and offers easy-to-understand guidance.
@@ -99,6 +90,10 @@ Close
 
 ![The '+' icon in Cozi.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/cozi-add-event.jpeg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then, on the Add New Event screen, type the event title and location (this appears in brackets when you return to the Calendar view), and tap "Who's Going?" to assign the event to the relevant members of your family.
 
 ![The event details fields for a new event in Cozi.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/cozi-event-details-1.jpeg) 
@@ -107,15 +102,16 @@ Close
 
 ![The event details fields for a new event in Cozi.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/cozi-event-details-2.jpeg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to set a reminder, it's easy to do so when creating your event, and you can also dictate who is notified by this update.
 
 ![The event details fields for a new event in Cozi.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/cozi-event-details-3.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Finally, if needed, you can add a note to the event at the bottom of the Add New Event screen, which everyone in your plan can see.
@@ -127,10 +123,7 @@ Close
  You can add the birthday of anyone you know, not just those in your Cozi family subscription.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  It's Easy to See Who's Doing What at a Glance
@@ -140,10 +133,7 @@ Close
 ![The Search option in the Cozi app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/cozi-search.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Sync Cozi With Your Phone's Calendar
@@ -155,6 +145,10 @@ Close
  Then, check the individuals whose calendars you want to download and [add the URL to your calendar](https://win-howtos.techidaily.com/resolve-your-ps4-nat-problems-a-comprehensive-step-by-step-fixing-guide/). If you want to add all events to your phone's calendar, check "Calendar Of All Events."
 
 ![The Calendar Of All Events option in Cozi's Share Calendars menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/calendar-of-all-events-cozi.jpeg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Similarly, if you need to import a calendar from your phone to Cozi (especially useful if you subscribe to an online calendar, such as your football team's fixtures), go to your phone's calendar, copy the URL, and tap "Connected Calendars" in the Settings menu of the Family tab. From there, tap "Add A Calendar From A URL."
 
@@ -184,25 +178,11 @@ Close
 
 ![The Receive Agenda Emails options in the Cozi app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/agenda-emails-cozi.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Lists
 
  Anyone in the family can add items to Cozi's lists. This includes the Groceries list, so those unfortunate enough to have the responsibility of sorting out the weekly shopping won't be moaned at for forgetting to buy coffee... again!
 
 ![The Groceries and Other lists in the Cozi app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/cozi-lists.jpeg) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also use block capitals to create a category or shop name, making organizing the list even easier.
 
@@ -233,19 +213,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-directly-delivering-tiktok-videos-to-twitters-feed-for-2024/"><u>[New] Directly Delivering TikTok Videos to Twitter's Feed for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-switch-to-picture-in-picture-for-youtube-videos-on-iphones/"><u>[New] Switch to Picture-in-Picture for YouTube Videos on iPhones</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-new-frontier-of-jaunt-vr-experiences/"><u>[New] The New Frontier of Jaunt VR Experiences</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-lighten-spirits-with-adobes-meme-magic-for-2024/"><u>[Updated] Lighten Spirits with Adobe's Meme Magic for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-immersive-film-vr-in-modern-theaters/"><u>2024 Approved Immersive Film VR in Modern Theaters</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-crafting-dynamic-luts/"><u>2024 Approved The Art of Crafting Dynamic LUTs</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/computerscreenupsidedown-fix/"><u>ComputerScreenUpsideDown Fix</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-uniting-sight-and-sound-perfecting-videography-voiceovers/"><u>In 2024, Uniting Sight & Sound Perfecting Videography Voiceovers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unmask-subject-with-backdrop-blanket-removal/"><u>In 2024, Unmask Subject with Backdrop Blanket Removal</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/liberate-iphone-photos-from-red-eye-effects-at-no-cost/"><u>Liberate iPhone Photos From Red Eye Effects at No Cost</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-llama-2-a-complete-users-guide-for-enhanced-benefits/"><u>Mastering Llama 2: A Complete User's Guide for Enhanced Benefits</u></a></li>
-<li><a href="https://fox-access.techidaily.com/next-gen-gaming-escapades-top-5-psvr-titles-for-the-future/"><u>Next-Gen Gaming Escapades Top 5 PSVR Titles for the Future</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-unlimited-fake-faces-best-free-online-face-generation-tools/"><u>Updated 2024 Approved Unlimited Fake Faces Best Free Online Face Generation Tools</u></a></li>
-<li><a href="https://extra-information.techidaily.com/visual-upgrade-engine-windows-mac-and-online-edition/"><u>Visual Upgrade Engine – Windows, Mac & Online Edition</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-top-5-exhilarating-virtual-track-gaming-experiences/"><u>[New] 2024 Approved Top 5 Exhilarating Virtual Track Gaming Experiences</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tech-trend-analysis-vlls-evaluations/"><u>[New] Tech Trend Analysis VLL's Evaluations</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-10-kids-friendly-drones-for-new-flyers/"><u>[New] Top 10 Kids' Friendly Drones - For New Flyers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-traverse-times-tapestry-with-public-domain-art/"><u>[New] Traverse Time's Tapestry with Public Domain Art</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unzipping-for-srt-methods-and-tips/"><u>[New] Unzipping for SRT Methods and Tips</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-best-8-mirrorless-cameras-to-elevate-your-vlogging-game/"><u>[Updated] Best 8 Mirrorless Cameras to Elevate Your Vlogging Game</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-heart-of-filmora-10-engaging-editing-capabilities/"><u>[Updated] The Heart of Filmora 10 Engaging Editing Capabilities</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-swift-periscope-broadcasting/"><u>[Updated] The Ultimate Guide to Swift Periscope Broadcasting</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/essential-steps-to-secure-your-android-device-against-theft/"><u>Essential Steps to Secure Your Android Device Against Theft</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/explore-the-best-websites-for-dynamic-sky-imaging/"><u>Explore the Best Websites for Dynamic Sky Imaging</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transforming-industries-via-vr/"><u>In 2024, Transforming Industries via VR</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/navigate-youtube-gaming-success-with-right-tags-for-2024/"><u>Navigate YouTube Gaming Success with Right Tags for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-for-your-non-functioning-hp-laptop-keys-get-back-to-work-now/"><u>Quick Fixes for Your Non-Functioning HP Laptop Keys – Get Back to Work Now</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-allure-of-benq-sw320-4k-pro-display-for-2024/"><u>The Allure of BenQ SW320 4K Pro Display for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-vivo-y36i-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Vivo Y36i Device</u></a></li>
+<li><a href="https://some-skills.techidaily.com/uncover-5-windows-11-tools-for-professional-audio-recording-for-2024/"><u>Uncover 5 Windows 11 Tools for Professional Audio Recording for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unpacking-the-performance-of-thermaltake-massive-tm-notebook-cooler-quality-meets-a-premium-cost/"><u>Unpacking the Performance of Thermaltake Massive TM Notebook Cooler - Quality Meets a Premium Cost</u></a></li>
 </ul></div>
 

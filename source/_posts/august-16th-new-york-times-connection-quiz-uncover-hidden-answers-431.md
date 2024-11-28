@@ -1,7 +1,7 @@
 ---
 title: "August 16Th New York Times Connection Quiz: Uncover Hidden Answers #431"
-date: 2024-11-17T04:14:07.622Z
-updated: 2024-11-20T00:38:06.740Z
+date: 2024-11-26T19:32:51.498Z
+updated: 2024-11-28T19:15:29.799Z
 tags:
   - web
 categories:
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/49eb34034b62afdae5c87e2035f3de3aceeb872b5
 
  Connections is a game from the New York Times that challenges you to find the association between words. It sounds easy, but it isn't—Connections categories can be almost anything, and they're usually quite specific. If you need a hand getting the answers, we've got you covered.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Is Connections?
 
  Connections is a game from the New York Times. The objective is simple: sort 16 words into groups of 4\. Each group of words will be connected by some common idea or theme. That common element could be anything. We have seen everything from games that rely on the number of letters in the words to categories that require you to spot an extra letter at the end of the word. Sometimes they're references to economics, other times they reference fairy tales. There is no telling what sort of association there will be between words.
@@ -38,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/49eb34034b62afdae5c87e2035f3de3aceeb872b5
 
 ![The unsorted words for August 16 Connections game.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-unsorted-words-for-august-16-connections-game.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you still need help, the actual group names are:
 
 * **Yellow:** Meh
@@ -46,10 +54,7 @@ thumbnail: https://thmb.techidaily.com/49eb34034b62afdae5c87e2035f3de3aceeb872b5
 * **Purple:** Things That Go Up and Down
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Today's NYT Connections Answers
@@ -57,16 +62,7 @@ thumbnail: https://thmb.techidaily.com/49eb34034b62afdae5c87e2035f3de3aceeb872b5
 ![The words for August 16 sorted into the correct groups.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-words-for-august-16-sorted-into-the-correct-groups.png) 
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Meh (Yellow):** 
@@ -86,10 +82,7 @@ thumbnail: https://thmb.techidaily.com/49eb34034b62afdae5c87e2035f3de3aceeb872b5
  Elevator, Sun, Tide, Yo-Yo
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How Did We Solve This Connections Game?
@@ -101,13 +94,6 @@ thumbnail: https://thmb.techidaily.com/49eb34034b62afdae5c87e2035f3de3aceeb872b5
  The last two groups were harder. Ankle first made me think of socks, but I eventually realized that only "Kinds of Boots" make sense, since there is no such thing as cowboy socks. Ankle, cowboy, go-go, and thigh-high were in the Blue group, "Kinds of Boots." 
 
  That left elevator, sun, tide, and yo-yo in Purple, and after thinking about it for a minute, I realized that they all share a sort of motion: they go up and down. Purple was "Things That Go Up and Down." 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How Do You Guess Connections Groups?
 
@@ -137,21 +123,24 @@ thumbnail: https://thmb.techidaily.com/49eb34034b62afdae5c87e2035f3de3aceeb872b5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-expedite-your-content-with-smart-title-tools/"><u>[New] 2024 Approved Expedite Your Content With Smart Title Tools</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-crafting-the-perfect-panel-of-playback-with-youtube/"><u>[New] In 2024, Crafting the Perfect Panel of Playback with YouTube</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-streamlining-facebook-content-for-tv-platforms-for-2024/"><u>[New] Streamlining Facebook Content for TV Platforms for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-transform-your-visual-storytelling-with-clear-backdrops-in-figma/"><u>[Updated] Transform Your Visual Storytelling with Clear Backdrops in Figma</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlock-your-reddit-potential-practical-tips-for-mastery/"><u>[Updated] Unlock Your Reddit Potential - Practical Tips for Mastery</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-screen-recorder-rivalry-unveiling-the-strengths-of-bandicam-and-camtasia/"><u>2024 Approved Screen Recorder Rivalry Unveiling the Strengths of Bandicam & Camtasia</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Sony Xperia 10 V | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Vivo Y02T? | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-elevate-your-social-media-game-3-techniques-to-enhance-video-captions-on-ig/"><u>In 2024, Elevate Your Social Media Game 3 Techniques to Enhance Video Captions on IG</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Realme C33 2023 | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-artisans-guide-to-chromatic-mastery/"><u>In 2024, The Artisan's Guide to Chromatic Mastery</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-sound-changes-in-ps-console-games/"><u>In 2024, The Ultimate Guide to Sound Changes in PS Console Games</u></a></li>
-<li><a href="https://some-skills.techidaily.com/key-steps-turning-visual-media-from-pinterest-into-music-files-for-2024/"><u>Key Steps Turning Visual Media From Pinterest Into Music Files for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/removing-and-reinstalling-problematic-apps-on-windows/"><u>Removing and Reinstalling Problematic Apps on Windows</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-blueprint-for-selecting-exceptional-hdr-cameras-for-2024/"><u>The Blueprint for Selecting Exceptional HDR Cameras for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-essential-price-matrix-top-cloud-storage-firms-for-2024/"><u>The Essential Price Matrix Top Cloud Storage Firms for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-iphone-flash-optimization-tips/"><u>[New] 2024 Approved IPhone Flash Optimization Tips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-guide-to-affordable-vector-art-websites/"><u>[New] Ultimate Guide to Affordable Vector Art Websites</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-premier-fb-video-mp4-downloader-no-ads-no-wait/"><u>[Updated] 2024 Approved Premier FB Video MP4 Downloader - No Ads, No Wait</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-optimal-webp-to-jpg-transformation-guide/"><u>[Updated] Optimal WebP-to-JPG Transformation Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-iphone-photography-handbook-tips-and-tricks/"><u>[Updated] The iPhone Photography Handbook Tips & Tricks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unique-gifting-made-simple-discover-top-10-custom-box-sellers/"><u>[Updated] Unique Gifting Made Simple Discover Top 10 Custom Box Sellers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unrivaled-vr-sets-for-aerial-adventures/"><u>[Updated] Unrivaled VR Sets for Aerial Adventures</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-top-6-microphones-perfect-for-online-streaming-success/"><u>[Updated] Unveiling Top 6 Microphones Perfect for Online Streaming Success</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-experts-guide-to-the-15-top-luts-for-gopro-films/"><u>2024 Approved Expert's Guide to The 15 Top LUTs for GoPro Films</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-the-secrets-to-building-trust-with-fb-giveaways/"><u>2024 Approved Unlocking the Secrets to Building Trust with FB Giveaways</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-realme-c67-4g-drfone-by-drfone-android/"><u>How to Screen Mirroring Realme C67 4G? | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-revolutionizing-video-quality-on-tiktok/"><u>In 2024, Revolutionizing Video Quality on TikTok</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-sony-blu-ray-player-s3700-analysis-updated/"><u>In 2024, Sony Blu-Ray Player S3700 Analysis (Updated)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-combining-multiple-iphone-photos/"><u>In 2024, The Art of Combining Multiple iPhone Photos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-fastest-methods-to-uncover-hidden-reddit-articles/"><u>In 2024, The Fastest Methods to Uncover Hidden Reddit Articles</u></a></li>
+<li><a href="https://some-skills.techidaily.com/mysterious-video-issue-with-sony-a6400-for-2024/"><u>Mysterious Video Issue with Sony A6400 for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/secure-your-spooky-snapshot-hero-snag-evo-nanoplus-drones-for-halloween-with-savings-of-190-off-exclusive-offer-by-zdnet/"><u>Secure Your Spooky Snapshot Hero: Snag EVO NANO+ Drones for Halloween with Savings of $190 Off | Exclusive Offer by ZDNet</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/top-25-instagram-hashtags-to-get-likes-and-followers/"><u>Top 25 Instagram Hashtags to Get Likes and Followers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-missing-gps-data-solutions-for-location-unavailable-errors-on-your-iphone/"><u>Troubleshooting Missing GPS Data: Solutions for 'Location Unavailable' Errors on Your iPhone</u></a></li>
 </ul></div>
 

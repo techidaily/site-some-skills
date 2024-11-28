@@ -1,7 +1,7 @@
 ---
 title: Simple Methods to Locate & Remove Outdated Data in Windows 11
-date: 2024-11-15T20:19:09.557Z
-updated: 2024-11-19T18:30:03.076Z
+date: 2024-11-21T19:00:16.619Z
+updated: 2024-11-28T22:26:20.641Z
 tags:
   - desktop
 categories:
@@ -11,11 +11,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Simple Methods to Locate & Remove Outdated Data in Windows 11
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Using Storage Sense](https://smart-video-editing.techidaily.com/new-2024-approved-should-you-choose-vn-video-editor-pro-for-your-video-editing-needs/)
 * [With Microsoft PC Manager](https://screen-sharing-recording.techidaily.com/new-poll-power-play-best-election-strategy-games-for-2024/)
 * [Using Command Prompt](https://ai-video-tools.techidaily.com/updated-in-2024-say-goodbye-to-blemishes-fcpx-skin-smoothing-techniques/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -24,6 +32,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * Use the ForFiles command in Command Prompt to delete files older than specified days.
 
  If you’re running out of storage on your PC, the best thing to do is to find and remove old, unwanted files. Windows 11 offers multiple ways to find those storage-hogging items, and we’ll show you what those ways are and how to use them in this guide.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Using Storage Sense
 
@@ -37,13 +49,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 !['Storage Sense' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/2-enable-storage-sense.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You’ll now configure Storage Sense's behavior. At the top, enable the option in the "Cleanup of Temporary Files" section so that temporary files are automatically deleted.
 
  Turn on the "Automatic User Content Cleanup" toggle. Then, configure various options as follows:
@@ -56,6 +61,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  To run the feature now, click "Run Storage Sense Now." It will start removing the chosen files.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  With Microsoft PC Manager
 
 [PC Manager is a built-in Windows 11 app](https://driver-install.techidaily.com/nvidia-graphics-driver-enhancement-gtx-1060/) that lets you analyze your storage space and remove downloaded files, large files, and duplicate files. It has a variety of filters that let you quickly find the files you want to let go of.
@@ -64,24 +73,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![File cleanup options in PC Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/4-pc-manager-file-cleanup-options.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The first option is "Downloaded Files," which lets you remove the files you’ve downloaded using the installed web browsers. Click it, and it’ll open a window listing your recent file downloads. You can sort these files by their type using the tabs at the top.
 
  Then, select the files you’re happy to let go of. At the bottom, you’ll see the storage space you’ll reclaim after deleting these files. To remove the files, click "Permanently Delete."
 
 ![Downloaded files and 'Permanently Delete' highlighted in PC Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/5-delete-downloaded-files.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The second option in PC Manager is "Large Files." As you can guess, it lets you find and remove large files. You can specify the file size here so it only finds files larger than that.
 
@@ -99,13 +99,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Duplicate files and 'Permanently Delete' highlighted in PC Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/8-remove-duplicate-files.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  And you’re all set.
 
 ##  Using Command Prompt
@@ -115,6 +108,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  To use it, open Windows Search, search for **Command Prompt**, and select "Run as Administrator."
 
 !['Run as Administrator' highlighted for Command Prompt in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/9-open-command-prompt.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the User Account Control prompt, choose "Yes."
 
@@ -139,23 +136,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Save the ForFiles command as a batch file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/10-save-batch-file.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When you want to run your command, right-click your batch script and choose "Run as Administrator."
 
 !['Run as Administrator' highlighted for a batch file in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/11-run-batch-file.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can integrate this batch script with Task Manager, and Task Manager will run the script at your specified time. This basically automates the entire process of finding and removing old files from your specified folders.
 
@@ -178,22 +161,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-top-builds-for-maximum-mc-safety/"><u>[New] In 2024, Top Builds for Maximum MC Safety</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-swift-techniques-mastering-effective-double-exposure/"><u>[Updated] Swift Techniques Mastering Effective Double Exposure</u></a></li>
-<li><a href="https://some-skills.techidaily.com/creating-custom-minecraft-skins-with-stable-diffusion-ai-step-by-step-guide/"><u>Creating Custom Minecraft Skins with Stable Diffusion AI - Step-by-Step Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/digital-realities-unveiled-understanding-the-differences-between-vr-ar-and-mr-technologies/"><u>Digital Realities Unveiled: Understanding the Differences Between VR, AR, and MR Technologies</u></a></li>
-<li><a href="https://some-skills.techidaily.com/discover-perplexity-the-unique-ai-chatbot-worth-paying-for/"><u>Discover Perplexity – The Unique AI Chatbot Worth Paying For</u></a></li>
-<li><a href="https://some-skills.techidaily.com/discover-the-power-of-chatgpt-with-searchgpt-the-ultimate-ai-driven-web-search-platform/"><u>Discover the Power of ChatGPT with SearchGPT: The Ultimate AI-Driven Web Search Platform</u></a></li>
-<li><a href="https://some-skills.techidaily.com/discover-udio-the-ultimate-ai-powered-tool-for-unparalleled-music-creation-today/"><u>Discover Udio: The Ultimate AI-Powered Tool for Unparalleled Music Creation Today!</u></a></li>
-<li><a href="https://some-skills.techidaily.com/elon-musks-spacex-begins-rollout-of-revolutionary-satellite-powered-phone-network-starlink/"><u>Elon Musk's SpaceX Begins Rollout of Revolutionary Satellite-Powered Phone Network, Starlink</u></a></li>
-<li><a href="https://some-skills.techidaily.com/enhanced-performance-intels-top-tier-computers-now-support-superior-ai-models-and-advanced-stability/"><u>Enhanced Performance: Intel's Top-Tier Computers Now Support Superior AI Models and Advanced Stability</u></a></li>
-<li><a href="https://some-skills.techidaily.com/enhancing-siris-capabilities-with-advanced-apple-ai-revolutionizing-user-experience/"><u>Enhancing Siri's Capabilities with Advanced Apple AI: Revolutionizing User Experience</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-file-funneling-transfer-techniques-for-your-computer/"><u>In 2024, File Funneling Transfer Techniques for Your Computer</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/metaverse-marvels-top-10-sci-fi-films-unveiling-extraordinary-worlds/"><u>Metaverse Marvels Top 10 Sci-Fi Films Unveiling Extraordinary Worlds</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/obs-enhancing-integrating-a-timed-countdown-mechanism-for-2024/"><u>Obs Enhancing Integrating a Timed Countdown Mechanism for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/sculpting-soundscapes-the-fading-trick-for-2024/"><u>Sculpting Soundscapes The Fading Trick for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/sim-savvy-savant-techniques-a-complete-guide-to-capturing-the-essence-of-sims-gameplay-for-2024/"><u>Sim-Savvy Savant Techniques A Complete Guide to Capturing the Essence of Sims Gameplay for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-vivo-s17t-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Vivo S17t to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/youtubes-yummy-1-8-video-selection/"><u>YouTube's Yummy #1-#8 Video Selection</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-analysis-of-fb-video-proportions/"><u>[New] 2024 Approved Analysis of FB Video Proportions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-superior-audio-alerts-prime-pick-pages/"><u>[Updated] Superior Audio Alerts Prime Pick Pages</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-edge-testing-gopros-hero5-black-against-sessions/"><u>[Updated] The Ultimate Edge Testing GoPro's Hero5 Black Against Sessions</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-peak-traffic-times-for-stellar-video-performance/"><u>2024 Approved Peak Traffic Times for Stellar Video Performance</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-superior-android-3d-film-watcher/"><u>2024 Approved Superior Android 3D Film Watcher</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-social-stunt-planters-handbook-meme-mastery-at-9gag/"><u>2024 Approved The Social Stunt Planters' Handbook Meme Mastery at 9GAG</u></a></li>
+<li><a href="https://games-able.techidaily.com/calm-escapades-indulge-in-idle-worlds/"><u>Calm Escapades: Indulge in Idle Worlds</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-samsung-galaxy-f04-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Samsung Galaxy F04 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-iphone-user-manual-for-water-imagery/"><u>In 2024, The Ultimate iPhone User Manual for Water Imagery</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tips-on-finding-unparalleled-videographers/"><u>In 2024, Tips on Finding Unparalleled Videographers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-unlocking-the-potential-of-gopro-hero5-in-time-lapse-cinematography/"><u>In 2024, Unlocking the Potential of GoPro Hero5 in Time-Lapse Cinematography</u></a></li>
+<li><a href="https://win-latest.techidaily.com/miglior-strategia-di-backup-del-sistema-su-windows-server-la-guida-dettagliata-al-backup-automatico/"><u>Miglior Strategia Di Backup Del Sistema Su Windows Server: La Guida Dettagliata Al Backup Automatico</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/navigating-noise-free-networks-secrets-for-silencing-disruptions-on-gomeet-for-2024/"><u>Navigating Noise-Free Networks Secrets for Silencing Disruptions on GoMeet for 2024</u></a></li>
 </ul></div>
 

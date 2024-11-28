@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Updating Software in Windows 11: A Simple Process"
-date: 2024-11-17T03:31:00.444Z
-updated: 2024-11-20T03:10:02.485Z
+date: 2024-11-23T20:41:20.590Z
+updated: 2024-11-28T19:59:54.572Z
 tags:
   - desktop
 categories:
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d
 
 ## The Ultimate Guide to Updating Software in Windows 11: A Simple Process
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [How to Update Microsoft Store Apps](https://extra-resources.techidaily.com/the-essential-how-to-securely-downloading-gratis-vlc-on-macos/)
 * [How to Update Non-Microsoft Store Apps](https://extra-hints.techidaily.com/navigate-subtitle-installation-in-wmp-easily/)
 * [How to Update Apps Using Command Prompt](https://youtube-videos.techidaily.com/free-themes-for-dynamic-youtuber-profiles/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -26,10 +34,7 @@ thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d
  Keeping your installed apps up to date is important, and Windows 11 makes it super easy to update both Microsoft Store and non-Microsoft Store apps. We’ll show you how to use graphical methods, as well as a command-line method to bring your apps up to date.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Update Microsoft Store Apps
@@ -39,13 +44,6 @@ thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d
  To do that, open the Start Menu, search for **Microsoft Store**, and launch it.
 
 ![Microsoft Store highlighted in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-open-microsoft-store.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In the Store’s left sidebar, select "Library."
 
@@ -58,10 +56,7 @@ thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d
 !['Update All' highlighted in Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/12-update-apps-microsoft-store.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait for the Store to download and install the updates for your apps. Once that’s done, you can launch your apps.
@@ -77,10 +72,7 @@ thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d
 !['App Updates' highlighted in Microsoft Store Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-microsoft-store-disable-app-updates.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the future, to prevent the Store from automatically updating apps, turn off the "App Updates" option. We recommend keeping the option turned on, but if you’re on a metered connection, you might not want the Store to use so much of your internet data.
@@ -92,13 +84,6 @@ thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d
  Many apps, [like VLC Media Player](https://remote-screen-capture.techidaily.com/expert-mac-graphic-collector-for-2024/) and Spotify, offer an option within the app to download and install the available app updates. For example, in VLC, you can choose Help > Check for Updates in the menu bar to find, download, and install the latest updates.
 
 ![Help > Check for Updates highlighted in VLC Media Player.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-update-vlc.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Similarly, in Spotify, you can select Help > About Spotify and choose "Click Here to Download" if an update is available.
 
@@ -130,6 +115,10 @@ winget upgrade “AppName”
 
 !['winget upgrade 'Zoom' typed in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/11-update-specific-app-winget.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The command will begin updating the specified app. You’ll see the live progress on the CMD window. It’ll let you know when the app is updated.
 
  If you want to update all the apps at once, use the following command:
@@ -157,17 +146,21 @@ winget upgrade -h -all
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-navigating-youtubes-community-standards-as-a-viewer-or-creator/"><u>[New] 2024 Approved Navigating YouTube's Community Standards as a Viewer or Creator</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-the-irrelevance-of-licensing-in-truth-for-2024/"><u>[Updated] The Irrelevance of Licensing in Truth for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/1-crafting-steadfast-character-personalities-in-your-story-using-the-midjourney-method/"><u>1. Crafting Steadfast Character Personalities in Your Story Using the MidJourney Method</u></a></li>
-<li><a href="https://some-skills.techidaily.com/acceptance-in-ev-battery-limitations-why-we-shouldnt-expect-a-dramatic-increase/"><u>Acceptance in EV Battery Limitations: Why We Shouldn't Expect a Dramatic Increase</u></a></li>
-<li><a href="https://some-skills.techidaily.com/bankruptcy-alert-how-a-massive-30plus-million-bitcoin-robbery-rocked-cryptocom/"><u>Bankruptcy Alert: How a Massive $30+ Million Bitcoin Robbery Rocked Crypto.com</u></a></li>
-<li><a href="https://some-skills.techidaily.com/boosted-brainpower-microsofts-latest-leap-with-copilot-and-bing-chat-utilizing-gpt-4-enhancements/"><u>Boosted Brainpower: Microsoft's Latest Leap with Copilot & Bing Chat Utilizing GPT-4 Enhancements</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/essential-speedster-games-for-pcandroid-devices/"><u>Essential Speedster Games for PC/Android Devices</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-more-power-and-speed-in-your-favorite-games-update-your-nvidia-gtx-1660-ti-gpu-driver/"><u>Get More Power and Speed in Your Favorite Games: Update Your NVIDIA GTX 1660 Ti GPU Driver</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-vivo-t2-pro-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Vivo T2 Pro 5G Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-seamless-transition-from-smartphones-to-pc-and-mac-videos/"><u>In 2024, Seamless Transition From Smartphones to PC & Mac Videos</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/utilizing-chatgpt-to-formulate-your-balanced-meal-strategy/"><u>Utilizing ChatGPT to Formulate Your Balanced Meal Strategy</u></a></li>
-<li><a href="https://some-skills.techidaily.com/waymo-expands-services-your-go-to-self-driving-solution-from-phoenix-city-center-to-the-airport/"><u>Waymo Expands Services: Your Go-To Self-Driving Solution From Phoenix City Center to the Airport</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-driving-revenue-with-well-crafted-youtube-channel-trailers/"><u>[New] 2024 Approved Driving Revenue with Well-Crafted YouTube Channel Trailers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-become-the-brand-you-want-with-our-exclusive-set-of-free-graphics/"><u>[New] Become the Brand You Want With Our Exclusive Set of FREE Graphics!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-noiseless-speech-transcription-services/"><u>[New] Noiseless Speech Transcription Services</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamline-your-online-learning-downloading-youtube-srt-subtitles-using-3-simple-methods/"><u>[New] Streamline Your Online Learning Downloading YouTube SRT Subtitles Using 3 Simple Methods</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-enjoy-immersive-vr-content-iphones-simple-guide/"><u>[Updated] Enjoy Immersive VR Content IPhone's Simple Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-finest-10-online-spots-to-download-pristine-photos/"><u>[Updated] The Finest 10 Online Spots to Download Pristine Photos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-most-simple-approach-to-getting-clownfish-voice-changer-on-windows/"><u>[Updated] The Most Simple Approach to Getting Clownfish Voice Changer on Windows</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-shots-essential-tips-for-capturing-great-iphone-images/"><u>2024 Approved The Art of Shots Essential Tips for Capturing Great iPhone Images</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-the-metaverse-simplified-avatar-designs/"><u>2024 Approved Unlocking the Metaverse Simplified Avatar Designs</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-15-pro-max-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 15 Pro Max Without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/how-to-use-zoom-for-skype-easy-solutions-for-2024/"><u>How to Use Zoom for Skype [Easy Solutions] for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-textual-transformation-enrich-your-images-with-words-pcmac-style/"><u>In 2024, Textual Transformation Enrich Your Images with Words, PC/Mac Style</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-audience-analysis-the-art-of-finding-your-market/"><u>In 2024, Youtube Audience Analysis The Art of Finding Your Market</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-fixes-for-opening-a-stubborn-razer-synapse-interface/"><u>Quick Fixes for Opening a Stubborn Razer Synapse Interface</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-utilizing-pushd-and-popd-in-your-linux-terminal/"><u>Ultimate Guide to Utilizing Pushd and Popd in Your Linux Terminal</u></a></li>
 </ul></div>
 

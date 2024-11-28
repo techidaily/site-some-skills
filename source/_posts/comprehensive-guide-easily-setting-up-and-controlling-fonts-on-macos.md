@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Easily Setting Up & Controlling Fonts on macOS"
-date: 2024-11-14T00:28:17.328Z
-updated: 2024-11-20T02:11:14.862Z
+date: 2024-11-21T21:26:03.507Z
+updated: 2024-11-28T18:58:25.208Z
 tags:
   - desktop
 categories:
@@ -24,15 +24,16 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
  We'll guide you through Font Book on Mac, your go-to tool for managing and organizing your font collection. You’ll learn how to install, tweak, and deactivate fonts.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Fonts Does macOS Support?
 
  macOS Sonoma can handle many font types, like OpenType, Mac TrueType, Windows TrueType, bitmap, and dfont. As of macOS Catalina, Mac doesn't support PostScript fonts.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to View Your Fonts in Font Book
 
@@ -46,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 
 ![Grid view in Font Book.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-20-at-5-59-10-pm-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2\. Samples View:** Want a closer look? Choose View > View As Samples or press ⌘+2\. Each font appears in a full-width preview with a "The quick brown fox..." sentence example. You can't see many fonts at once, but it's great for checking out how each font looks in practice.
 
 ![Samples view in Font Book.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-20-at-6-05-00-pm.png) 
@@ -57,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
  Another way to switch between the Grid, Samples, and List views is by clicking the relevant icons on the toolbar.
 
  To check out a font or font family in more detail, double click it. The font pops up in the main part of the window. To change the size of your fonts when previewing them in Font Book, use the slider at the top (with the minus and plus symbol on either side.)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Install a Font
 
@@ -70,13 +79,6 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 
  Avoid going overboard with font installations. Installing more fonts than you actually use can lead to sluggish performance in certain apps and create an overwhelming font menu.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  How to Install Fonts for All Users
 
  By default, Font Book installs new fonts just for your account. They reside in the invisible Library folder "/Users/Home/Library/Fonts". But, if you want all users on your Mac to have access to the fonts, go to Font Book > Settings > Installation. Select the "Default Install Location" menu and choose "All Users." This setting shares your fonts in the main folder "/Library/Fonts".
@@ -84,10 +86,7 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 ![Selecting All Users from Font Book's Installation menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-12-at-2-55-14-pm.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Deactivate or Remove a Font
@@ -96,22 +95,13 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 
 ![The deactivate option in Font Book.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-12-at-2-57-58-pm.png) 
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Alternatively, to delete it entirely, select "Remove." However, note that Font Book won't let you deactivate or delete any fonts that macOS needs to operate, like Arial, Times New Roman, and Avenir.
 
  If any font starts misbehaving, like displaying incorrect characters, you can [validate your fonts in Font Book](https://on-screen-recording.techidaily.com/in-2024-speaking-like-a-pro-tips-to-upgrade-your-google-meet-skills/). Just select "Validate" from the context menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Organize Your Fonts Into Collections
 
@@ -120,13 +110,6 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
  To create a font collection in Font Book, go to File > New Collection or right-click on the sidebar and choose "New Collection." If the sidebar is not visible, go to View > Show Sidebar.
 
 ![Creating a new font collection.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-24-at-1-07-32-am.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Select the fonts you want to include in your collection (you can choose them from an existing collection, if needed.) To do that, click and drag to highlight multiple fonts, or use the Command key to select non-contiguous fonts. Then, drag the fonts to the collection, or right-click and use the "Add to" menu.
 
@@ -157,16 +140,24 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-best-microphone-for-different-youtube-channel-types/"><u>[Updated] 2024 Approved Best Microphone for Different YouTube Channel Types</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-compiling-the-top-windows-11-video-capture-tools/"><u>[Updated] 2024 Approved Compiling the Top Windows 11 Video Capture Tools</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-amplify-engagement-utilizing-youtube-analytics-wisely-for-2024/"><u>[Updated] Amplify Engagement Utilizing YouTube Analytics Wisely for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/how-to-use-picture-in-picture-on-chrome-on-all-platforms-for-2024/"><u>How to Use Picture in Picture on Chrome on All Platforms for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Nokia C300 | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-quiet-guide-to-livestreaming-yourself-on-instagram/"><u>In 2024, The Quiet Guide to Livestreaming Yourself on Instagram</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlock-clearer-visuals-with-iphone-video-focus/"><u>In 2024, Unlock Clearer Visuals with iPhone Video Focus</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-vanguard-websites-for-3d-letterforms/"><u>In 2024, Vanguard Websites for 3D Letterforms</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/preserve-excellence-when-switching-from-mpg-to-mp4-a-step-by-step-guide/"><u>Preserve Excellence When Switching From MPG to MP4: A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-power-of-4k-in-the-samsung-galaxy-s8-experience-for-2024/"><u>The Power of 4K in the Samsung Galaxy S8 Experience for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/turning-batches-into-windows-wonders-the-exe-guide/"><u>Turning Batches Into Windows Wonders: The Exe Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-augmented-realities-transforming-movie-production/"><u>[New] 2024 Approved Augmented Realities Transforming Movie Production</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-essential-tips-for-ppt-video-production/"><u>[New] 2024 Approved Essential Tips for PPT Video Production</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-strategies-to-create-memorable-podcast-intro-lines/"><u>[New] Strategies to Create Memorable Podcast Intro Lines</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-superior-routes-converting-pinners-videos-into-music-files/"><u>[New] Superior Routes Converting Pinners' Videos Into Music Files</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-list-of-top-quality-cost-free-luts/"><u>[New] Ultimate List of Top-Quality, Cost-Free LUTs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-digital-expression-the-joy-of-creating-metaverse-memes/"><u>[New] Unlocking Digital Expression The Joy of Creating Metaverse Memes</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-converting-moments-into-memorable-gifs/"><u>[Updated] In 2024, Converting Moments Into Memorable GIFs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-xbox-interactions-by-embracing-zooming-capabilities/"><u>2024 Approved Streamline Xbox Interactions by Embracing Zooming Capabilities</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-scope-of-panoramic-filmmaking-explained/"><u>2024 Approved The Scope of Panoramic Filmmaking Explained</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-14-dynamic-text-animations-in-design/"><u>2024 Approved Top 14 Dynamic Text Animations in Design</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-8-apps-accelerating-slow-motion-footage/"><u>2024 Approved Top 8 Apps Accelerating Slow Motion Footage</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-power-of-azure-voice-recognition-api/"><u>2024 Approved Unveiling the Power of Azure Voice Recognition API</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/banish-cracking-sounds-effective-solutions-to-quiet-your-headphones/"><u>Banish Cracking Sounds: Effective Solutions to Quiet Your Headphones</u></a></li>
+<li><a href="https://driver-error.techidaily.com/diagnosing-and-fixing-error-e052-driver/"><u>Diagnosing & Fixing Error E052-Driver</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-samsung-galaxy-f14-5g-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Samsung Galaxy F14 5G</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-meizu-21-pro-frp-bypass-by-drfone-android/"><u>In 2024, About Meizu 21 Pro FRP Bypass</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-upward-perspectives-capturing-landscapes-from-your-phone/"><u>In 2024, Upward Perspectives Capturing Landscapes From Your Phone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/no-cost-enjoyable-9-festive-feasts-in-one-wholesome-film-series/"><u>No Cost, Enjoyable 9 Festive Feasts in One Wholesome Film Series</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultra-fast-winx-dvd-ripper-pro-convert-dvds-to-high-quality-mp4-videos-in-under-5-minutes/"><u>Ultra-Fast WinX DVD Ripper Pro: Convert DVDs to High-Quality MP4 Videos in Under 5 Minutes</u></a></li>
 </ul></div>
 

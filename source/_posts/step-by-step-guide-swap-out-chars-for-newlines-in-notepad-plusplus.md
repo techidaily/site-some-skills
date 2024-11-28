@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Swap Out Chars for Newlines in Notepad ++"
-date: 2024-11-17T23:40:20.602Z
-updated: 2024-11-19T19:40:13.785Z
+date: 2024-11-22T17:55:34.327Z
+updated: 2024-11-28T18:57:29.706Z
 tags:
   - desktop
 categories:
@@ -17,16 +17,7 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 * [How to Convert a Newline Character into Any Other Separator](https://techtrends.techidaily.com/perfect-progression-watching-the-wizarding-worlds-cinematic-journey-step-by-step/)
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -45,40 +36,13 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 
 ![Search for 'notepad++' in the Start Menu search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/notepad.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the Notepad++ window, open the text file that includes the list that you want to convert. Alternately, you can paste your item list on a line.
 
 ![A Notepad++ window showing a comma-separated list](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/paste-items-list.png) 
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next, click the "Search" menu and select "Replace." Alternately, you can press Ctrl+H on your keyboard.
 
 ![Replace menu in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/replace-notepad-plus-plus1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In the Replace window that opens, click the "Find What" text entry box and type the current item separator. In our example case, our items are separated by a comma and a space, so we'll type a comma and then press Space. If your items are separated by pipes only, type the pipe character ("|").
 
@@ -90,9 +54,17 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 
 ![Replace window in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/convert-comma-new-line.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  And just like magic, each item in your list will now be on its own line.
 
 ![New-line separated list in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/comma-new-line.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you want to reverse the process, just open Search > Replace in the menu again. In the "Find What" box, enter "\\n". In the Replace with box, type the character that you want to replace it with. Make sure "Extended" is selected and click "Replace All," and your list will go back to being separated by a standard character, such as a comma or pipe.
 
@@ -103,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
  To do this, open Notepad++ and the text file that you want to convert or paste your items list into.
 
 ![New-line items list in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/paste-list.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In your Notepad++ window, click the "Edit" menu and select Blank Operations > EOL to Space. Here, EOL means "End of Line," and this option converts the invisible newline characters into spaces.
 
@@ -116,18 +92,15 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 
 ![Replace option in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/search-replace.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the "Replace" window, click the "Find What" box and press Space. Then, place your cursor in "Replace With" and type the character that you'd like to replace space with, such as comma (",") or a command and a space for a human-readable format.
 
  When you're ready, click "Replace All" on the right.
 
 ![Replace window in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/new-line-comma.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Your list items will now be separated by the new separator you chose.
 
@@ -152,16 +125,18 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-mastering-the-art-of-buying-cutting-edge-360cams/"><u>[New] Mastering the Art of Buying Cutting-Edge 360Cams</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-5-screen-selections-for-ps5-enthusiasts/"><u>[Updated] Top 5 Screen Selections for PS5 Enthusiasts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-8-android-fixes-for-time-lags-in-videos/"><u>[Updated] Top 8 Android Fixes for Time-Lags in Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-resource-compilation-for-media-imagery/"><u>[Updated] Ultimate Resource Compilation for Media Imagery</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-selection-economical-hd-action-recordings/"><u>[Updated] Ultimate Selection Economical HD Action Recordings</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-unveiling-the-secrets-to-high-impact-live-streaming-with-wirecast-on-youtube-for-2024/"><u>[Updated] Unveiling the Secrets to High-Impact Live Streaming with WireCast on YouTube for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-tecno-camon-30-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/eksemplifikasjoner-pa-skilpraktisk-oppnaing-av-innholdspromoteringen-uten-zoom-moter-og-tillsyn/"><u>Eksemplifikasjoner På Skilpraktisk Oppnåing Av Innholdspromoteringen Uten Zoom-Møter Og Tillsyn</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-on-iphone-xr-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password On iPhone XR</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-spherical-shot-setup-systems/"><u>In 2024, Spherical Shot Setup Systems</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-the-powerful-garmin-forerunner-945-a-detailed-review-of-its-advanced-tracking-capabilities/"><u>Unveiling The Powerful Garmin Forerunner 945: A Detailed Review of Its Advanced Tracking Capabilities</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-budget-conscious-broadcayers-guide-to-cheap-mics/"><u>[New] In 2024, Budget-Conscious Broadcayer's Guide to Cheap Mics</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-musical-mosaics-15-video-tutorials-on-collaborative-projects/"><u>[New] In 2024, Musical Mosaics 15 Video Tutorials on Collaborative Projects</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-memes-for-iphone-for-2024/"><u>[New] Memes for iPhone for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-phone-and-camera-mounts-precision-focus-tracking/"><u>[New] Ultimate Phone & Camera Mounts Precision Focus Tracking</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-budget-friendly-recording-software-for-windows-users/"><u>[Updated] 2024 Approved Budget-Friendly Recording Software for Windows Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unfailing-focus-top-tripods-for-iphone-and-android-cameras/"><u>[Updated] Unfailing Focus Top Tripods for iPhone & Android Cameras</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-supreme-storytelling-spanning-eight-movie-types/"><u>2024 Approved Supreme Storytelling Spanning Eight Movie Types</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-allure-of-video-crafting-filmoras-top-edits-explained/"><u>2024 Approved The Allure of Video Crafting Filmora’s Top Edits Explained</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-the-ultimate-guide-to-using-vlc-from-mpeg-4-to-all-media-types/"><u>2024 Approved The Ultimate Guide to Using VLC From MPEG-4 to All Media Types</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-windows-11-hacks-and-tips/"><u>2024 Approved Ultimate Windows 11 Hacks and Tips</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/e-a-youtube-gif-wizard-your-complete-online-transformation-tutorial-for-2024/"><u>Become a Youtube Gif Wizard Your Complete Online Transformation Tutorial for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-oneplus-ace-2v-easily-by-drfone-android/"><u>How To Unlock a OnePlus Ace 2V Easily?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unparalleled-video-gear-top-5-slow-cams/"><u>In 2024, Unparalleled Video Gear Top 5 Slow Cams</u></a></li>
 </ul></div>
 

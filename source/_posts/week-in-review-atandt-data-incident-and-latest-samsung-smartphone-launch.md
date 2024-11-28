@@ -1,7 +1,7 @@
 ---
 title: "Week in Review: AT&T Data Incident & Latest Samsung Smartphone Launch"
-date: 2024-11-18T17:16:58.056Z
-updated: 2024-11-20T01:37:21.919Z
+date: 2024-11-26T19:25:24.599Z
+updated: 2024-11-28T21:30:38.948Z
 tags:
   - mobile
 categories:
@@ -15,9 +15,17 @@ This was a busy week for tech news, with Samsung releasing new phones and access
 
 ##  The Big News
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [AT&T Lost Your Phone Records to Hackers](https://ai-vdieo-software.techidaily.com/in-2024-best-adobe-premiere-elements-replacements-for-video-editing/) 
 
  Even if you aren't an AT&T customer, this breach probably affects you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Thunderbird's Big "Nebula" Update Is Now Available](https://win-dash.techidaily.com/fresh-release-enhanced-biometric-drivers-for-seamless-windows-integration/) 
 
@@ -27,20 +35,21 @@ This was a busy week for tech news, with Samsung releasing new phones and access
 
 Mozilla
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [The Galaxy Buds 3 Pro Is Samsung’s New AirPods Pro Competitor](https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-pro-without-passcode-or-face-id-drfone-by-drfone-ios/) 
 
  The best Samsung earbuds money can buy, complete with ANC and deep integration with Galaxy smartphones.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### [The Samsung Galaxy Buds 3 Look A Lot Like AirPods](https://sound-issues.techidaily.com/troubleshooting-silent-microphones-a-step-by-step-guide-to-restoring-voice-chat-in-discord/) 
 
  Samsung’s new lower-cost wireless earbuds took a few notes from Apple’s AirPods.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [These Features Are Now Rolling out to All Windows 11 PCs](https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-xiaomi-14-drfone-by-drfone-fix-android-problems-fix-android-problems/) 
 
@@ -54,18 +63,15 @@ Mozilla
 
  Samsung's new book-style folding phone has arrived, with an updated aspect ratio and some hardware improvements.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### [Samsung's Galaxy Z Flip 6 Gets the Upgrade We Wanted](https://twitter-videos.techidaily.com/no-cash-all-fun-turning-twitter-vids-into-gifs-for-2024/) 
 
  Finally, Samsung's most trendy phone has a good camera.
 
 ![Person holding the Samsung Galaxy Z Flip 6 showing the cover display](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/person-holding-the-samsung-galaxy-z-flip-6-showing-the-cover-display.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -77,44 +83,20 @@ Justin Duino / How-To Geek
 
  The classic Winamp desktop music player now has a mobile version, but it might not be what you expect. iCloud integration is especially interesting for iPhone users.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### [The Galaxy Watch Ultra is Samsung's Most Expensive Wearable Yet](https://ai-video-apps.techidaily.com/updated-2024-approved-the-complete-guide-to-reversing-tiktok-videos-tips-and-tricks/) 
 
  The new Galaxy Watch Ultra takes some inspiration from the Apple Watch Ultra.
 
 ![Person holding the Samsung Galaxy Watch Ultra](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/person-holding-the-samsung-galaxy-watch-ultra.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Justin Duino / How-To Geek
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [Samsung's Galaxy Watch 7 is Finally Here](https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-oppo-reno-9a-drfone-by-drfone-virtual-android/) 
 
  Samsung’s new regular smartwatch has new internal hardware and the same circular screen.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [Microsoft Overhauls Game Pass With Higher Prices and New “Standard” Plan](https://howto.techidaily.com/tecno-pova-5-pro-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/) 
@@ -140,17 +122,20 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-perfecting-youtube-visibility-a-step-by-step-featured-channels-guide/"><u>[New] 2024 Approved Perfecting YouTube Visibility A Step-by-Step Featured Channels Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-seamless-shift-an-introduction-to-crossfades/"><u>2024 Approved The Seamless Shift An Introduction to Crossfades</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-tomtom-actioncam-review-innovations/"><u>2024 Approved TomTom Actioncam Review Innovations</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-apple-iphone-x-fix-now-drfone-by-drfone-virtual-ios/"><u>3uTools Virtual Location Not Working On Apple iPhone X? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/discovering-prime-places-for-pixel-soundtracks/"><u>Discovering Prime Places for Pixel Soundtracks</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-7-plus-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your iPhone 7 Plus Lock Screen with Notifications?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-power-of-networking-building-strong-relationships-with-stakeholders/"><u>In 2024, The Power of Networking Building Strong Relationships with Stakeholders</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-quest-for-the-ultimate-cinematography-experts/"><u>In 2024, The Quest for the Ultimate Cinematography Experts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-ipad-slow-motion-techniques-for-filming-and-video-modification/"><u>In 2024, The Ultimate iPad Slow Motion Techniques for Filming and Video Modification</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-the-enduring-charm-of-lg-watch-style-on-wear-os-20-platforms-unveiled/"><u>In-Depth Analysis: The Enduring Charm of LG Watch Style on Wear OS 2.0 Platforms Unveiled</u></a></li>
-<li><a href="https://some-skills.techidaily.com/undetectable-volume-variations-in-garageband-artistry-for-2024/"><u>Undetectable Volume Variations in Garageband Artistry for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722897636212-unveiling-the-story-behind-google-hangouts-functionality-and-usage/"><u>Unveiling the Story Behind Google Hangouts: Functionality and Usage</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-crafting-a-jujutsu-kaisen-tiktok-challenge-for-2024/"><u>[New] Crafting a Jujutsu Kaisen TikTok Challenge for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-learn-the-procedure-for-automatic-video-broadcasting-on-facebook/"><u>[New] Learn the Procedure for Automatic Video Broadcasting on Facebook</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tooninnovate-master-review-year-2024-edition/"><u>[New] ToonInnovate Master Review - Year 2024 Edition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-professional-8-stream-enhancers-for-video-sharpening/"><u>[Updated] Professional 8 Stream Enhancers for Video Sharpening</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-professional-streams-from-obs-to-insta-for-2024/"><u>[Updated] Professional Streams From OBS to Insta for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamline-your-projects-expert-techniques-for-mac-dvd-creation/"><u>[Updated] Streamline Your Projects Expert Techniques for Mac DVD Creation</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-swiftly-flip-your-iphone-video-clips/"><u>[Updated] Swiftly Flip Your iPhone Video Clips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-techniques-to-deactivate-auto-played-podcast-suggestions-in-spotify/"><u>[Updated] Techniques to Deactivate Auto-Played Podcast Suggestions in Spotify</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-adobes-storage-mastery-and-the-hunt-for-top-non-adobe-backup-services/"><u>[Updated] Unveiling Adobe's Storage Mastery & The Hunt for Top Non-Adobe Backup Services</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-revolutionary-6-applications-to-enhance-photo-editing-experience/"><u>2024 Approved Revolutionary 6 Applications to Enhance Photo Editing Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-uncovering-average-earnings-podcaster-edition/"><u>2024 Approved Uncovering Average Earnings Podcaster Edition</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Oppo Reno 8T 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-nikon-d-500-4k-dslr-camera-review/"><u>In 2024, Nikon D 500 4K DSLR Camera Review</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-through-the-viewfinder-tips-for-artistic-photo-edits/"><u>In 2024, Through the Viewfinder Tips for Artistic Photo Edits</u></a></li>
+<li><a href="https://fox-info.techidaily.com/top-15-free-web-based-image-enhancers-2023-for-2024/"><u>Top 15 Free Web-Based Image Enhancers 2023 for 2024</u></a></li>
 </ul></div>
 

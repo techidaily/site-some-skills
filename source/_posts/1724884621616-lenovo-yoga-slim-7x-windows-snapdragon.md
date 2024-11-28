@@ -1,7 +1,7 @@
 ---
 title: "Lenovo Yoga Slim 지갑쇼드라그래픅 7X 리뷰: Windows에서 Snapdragon은 완전히 안타깝게 신속하지 않음"
-date: 2024-11-18T02:52:30.805Z
-updated: 2024-11-20T00:48:12.889Z
+date: 2024-11-26T20:05:09.331Z
+updated: 2024-11-28T17:20:45.978Z
 tags:
   - desktop
 categories:
@@ -105,6 +105,10 @@ The Lenovo Yoga Slim 7x is one of the first Copilot+ PC laptops, with all-day ba
 
 Expand 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Design: The Ports Are Lacking
 
  Even though the Yoga Slim 7x might have exciting new hardware and software, the design is typical for an ultrabook PC. It packs a large 14.5-inch screen, front-firing speakers, and a large keyboard and trackpad into a package measuring 12.80 x 8.86 inches. It weighs slightly more than the current 13-inch MacBook Air, at just 2.82 pounds.
@@ -131,13 +135,6 @@ Jerome Thomas / How-To Geek
 
  Finally, even though this laptop is sold under the Yoga brand, this is _not_ a convertible laptop. The screen can be pushed back to nearly flat with the keyboard, but it cannot bend all the way around for tent mode or functioning as a tablet.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Display: A Fantastic OLED
 
  The Yoga Slim 7x has an _excellent_ screen. It’s a large 14.5-inch OLED panel, with a resolution of 2,944 x 1,840 (3K) and a 16:10 aspect ratio. The screen also has touch support, a 100,000:1 contrast ratio, a 90Hz refresh rate, and a 100% DCI-P3 100% sRGB color gamut. That all adds up to a display that looks great and has super-smooth animations, no matter if you’re playing games, watching movies, or just reading emails.
@@ -152,13 +149,6 @@ Jerome Thomas / How-To Geek
 
  The display also supports HDR content, either through VESA DisplayHDR True Black 600 or Dolby Vision. However, there are still not many applications and games on Windows that support HDR, including most streaming services.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Software: Hello, ARM Windows
 
  The Yoga Slim 7x has an ARM-based Snapdragon X Elite processor, which means it runs [Windows 11 for ARM](https://fox-http.techidaily.com/essential-list-best-microphones-for-4k-ultra-hd/) instead of the typical Windows 11 operating system for x86-based Intel and AMD processors. The ARM edition looks exactly like Windows 11 on every other PC, and it has all the same included applications, but software and driver compatibility are a bit different.
@@ -172,13 +162,6 @@ Jerome Thomas / How-To Geek
  Some of the applications I use every day already have ARM-native versions, including Firefox, Slack, Outlook, and Spotify. Discord doesn’t have an ARM version yet, so it runs as an emulated x86 application, and performance randomly slowed down about two weeks into my review period. I tried a few games, with mixed results: "Civilization VI" worked well, but "Overwatch" had frequent stuttering that seemed to happen regardless of the graphical quality setting. Some games don’t open at all, and most games from the Microsoft Store or Xbox app can’t be installed. Microsoft is [working to improve game performance](https://devblogs.microsoft.com/directx/step-forward-for-gaming-on-arm-devices-2024/) in x86 emulation, but the inconsistent compatibility is something to keep in mind with the Yoga Slim 7x and other ARM-based Windows computers.
 
 ![Microsoft Store screenshot showing how Doom Eternal can't be installed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/image-1-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Some software just doesn’t exist on ARM Windows and can’t be emulated. If you have a device that needs specific third-party drivers to function, instead of the generic drivers available through Windows Update, it probably won’t work. You also can’t use virtualization software and some emulators—VirtualBox and VMWare don’t have ARM Windows versions. I couldn't try Microsoft’s [HyperV virtualization tool](https://facebook-record-videos.techidaily.com/updated-the-infographic-index-youtubes-surprising-stat-treasury-2017/), because it needs Windows 11 Pro. This laptop ships with Windows 11 Home. You can use the [Windows Subsystem for Linux](https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-honor-magic-5-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/), though it will install ARM Linux, which doesn’t have all the same software as x86 Linux.
 
@@ -195,10 +178,7 @@ Jerome Thomas / How-To Geek
 ![The Snapdragon processor on the Lenovo Yoga Slim 7x.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-snapdragon-processor-on-the-lenovo-yoga-slim-7x-2_53814663467_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -206,6 +186,10 @@ Jerome Thomas / How-To Geek
  You can also play some games on the Yoga Slim 7x, with performance close to most other high-end ultrabooks. You won’t get a great experience with more demanding titles, like "Cyberpunk 2077" or "Baldur's Gate 3," but less demanding games might work. The x86 emulation layer is more of an issue with games than the Snapdragon’s raw performance, but hopefully, that will become better over time.
 
  Even though the actual hardware in the Yoga Slim 7x is on par or exceeds most of the competition, your real-world performance will vary depending on how much of your software needs to be emulated.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Battery Life: All Day on a Charge
 
@@ -215,6 +199,10 @@ Jerome Thomas / How-To Geek
 
  The battery life here is much closer to a tablet or MacBook than most other Windows laptops. It's great to see Microsoft and Qualcomm make actual progress in this department, even if there are other limitations with this hardware that need to be improved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Competition: It's Tough
 
  The Yoga Slim 7x’s starting price around $1,200 in the United States is pretty typical for a Windows ultrabook. It’s competing directly with the [2024 Dell XPS 13 and 14](https://change-location.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-vivo-y28-5g-drfone-by-drfone-virtual-android/), both of which cost more than the Yoga ($1,399 and $1,699, respectively), as well as laptops like the [new Surface Laptop](https://android-unlock.techidaily.com/how-to-change-samsung-lock-screen-clock-in-seconds-by-drfone-android/) and [Samsung’s Galaxy Book lineup](https://discord-videos.techidaily.com/2024-approved-mastery-in-making-stunning-discord-pfps-with-minimal-effort/). The Yoga’s AMOLED screen might be hard to beat in this price segment, but the rest of the hardware is pretty standard, outside of the unique Snapdragon X chip.
@@ -222,10 +210,7 @@ Jerome Thomas / How-To Geek
  It’s also worth keeping in mind that the [13-inch M2 MacBook Air](https://www.apple.com/macbook-air/) starts at $1,099\. The hardware is a poor match on paper, with only 8GB of unified memory and 256GB storage in the base configuration, but that hardware generally goes further on macOS than Windows. Apple’s modern M2 and M3 chips have similar power efficiency and battery life as the Snapdragon chip in the Yoga 7x, but software compatibility is far less of a gamble—as long as it’s available on macOS, anyway.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Should You Buy the Lenovo Yoga Slim 7x?
@@ -243,10 +228,7 @@ Jerome Thomas / How-To Geek
 ![Lenovo Yoga Slim 7x laptop open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/laptop.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #####  Lenovo Yoga Slim 7x
@@ -272,20 +254,20 @@ The Lenovo Yoga Slim 7x is one of the first Copilot+ PC laptops, with all-day ba
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-enhancing-zoom-meetings-with-effects/"><u>[New] The Ultimate Guide to Enhancing Zoom Meetings With Effects</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-flashback-2022s-snowboard-x-winners/"><u>[New] Ultimate Flashback 2022'S Snowboard X Winners</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-unravel-your-pcs-potential-with-windows-10s-latest-games/"><u>[New] Unravel Your PC's Potential with Windows 10'S Latest Games</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-from-shared-laughter-to-your-storage-twitters-gif-guide-for-2024/"><u>[Updated] From Shared Laughter to Your Storage Twitter's GIF Guide for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-choosing-the-right-display-tvs-vs-projectors-in-a-4k-era/"><u>[Updated] In 2024, Choosing the Right Display TVs vs Projectors in a 4K Era</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-remedy-for-accidental-youself-reappearance-during-fb-chats/"><u>[Updated] Remedy for Accidental 'Youself' Reappearance During FB Chats</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unaltered-audio-through-the-lens-of-ffmpeg-review/"><u>2024 Approved Unaltered Audio Through the Lens of FFmpeg Review</u></a></li>
-<li><a href="https://program-issues.techidaily.com/discord-camera-malfunction-heres-how-you-can-resolve-it-now/"><u>Discord Camera Malfunction? Here's How You Can Resolve It Now!</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/easy-guide-how-to-implement-personalized-signatures-in-word-documents-across-devices/"><u>Easy Guide: How to Implement Personalized Signatures in Word Documents Across Devices</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-tamil-trax-download-edit-and-sync-songs-as-mobile-ringtone/"><u>In 2024, Tamil Trax Download, Edit & Sync Songs as Mobile Ringtone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-best-action-hats-motorcycle-cameras-reviewed-and-ranked/"><u>In 2024, The Best Action Hats Motorcycle Cameras Reviewed and Ranked</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-uncover-10-keys-to-picking-your-perfect-broadcast-platform/"><u>In 2024, Uncover 10 Keys to Picking Your Perfect Broadcast Platform</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/leverage-these-10-underrated-features-for-canva-for-2024/"><u>Leverage These 10 Underrated Features for Canva for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/practical-ai-tips-for-peak-performance/"><u>Practical AI Tips for Peak Performance</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-compre-habits-of-top-reddit-posters-explained-for-2024/"><u>The Compre Habits of Top Reddit Posters Explained for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/edia-mosaic-maker-for-2024/"><u>[New] Media Mosaic Maker for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-image-transformation-with-polarr-editors-power/"><u>[New] Ultimate Image Transformation with Polarr Editor's Power</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-best-android-and-ios-apps-for-monitoring-big-day-timers/"><u>[New] Unveiling the Best Android & iOS Apps for Monitoring Big Day Timers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-accelerating-or-slowing-down-video-playback-on-insta-stories/"><u>[Updated] 2024 Approved Accelerating or Slowing Down Video Playback on Insta Stories</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-navigating-instagram-the-essential-guide-to-mastering-reels-for-2024/"><u>[Updated] Navigating Instagram The Essential Guide to Mastering Reels for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-list-of-free-got-tune-sources/"><u>[Updated] Ultimate List of Free GoT Tune Sources</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-how-to-turn-off-youtube-video-preview-all-platform-solution/"><u>2024 Approved How to Turn Off YouTube Video Preview? [All Platform Solution]</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/beyond-boundaries-revisited-assessing-current-realm-future-challenges/"><u>Beyond Boundaries Revisited Assessing Current Realm, Future Challenges</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/deep-dive-into-new-pc-builds-features-benchmarks-and-analysis-by-experts-at-toms-hardware-the-gadget-guide/"><u>Deep Dive Into New PC Builds: Features, Benchmarks, and Analysis by Experts at Tom's Hardware | The Gadget Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-huawei-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Huawei Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/1715860438761-in-2024-employing-inbuilt-screen-recording-tools-on-mate-p-models-p20-p10/"><u>In 2024, Employing Inbuilt Screen Recording Tools on Mate, P Models (P20, P10).</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-cinematic-trailer-collection/"><u>In 2024, Ultimate Cinematic Trailer Collection</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tomorrows-reality-progress-in-virtual-worlds-for-2024/"><u>Tomorrow's Reality Progress in Virtual Worlds for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-10-iphone-video-capture-apps-for-2024/"><u>Top 10 iPhone Video Capture Apps for 2024</u></a></li>
+<li><a href="https://win-studio.techidaily.com/turn-pages-online-how-to-create-an-html-flipbook-for-your-site-via-flipbuilder-complete-tutorial/"><u>Turn Pages Online: How to Create an HTML Flipbook for Your Site via FlipBuilder – Complete Tutorial</u></a></li>
 </ul></div>
 

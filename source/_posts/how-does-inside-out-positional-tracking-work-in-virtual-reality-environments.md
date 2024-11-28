@@ -1,7 +1,7 @@
 ---
 title: How Does Inside-Out Positional Tracking Work in Virtual Reality Environments?
-date: 2024-11-12T17:54:09.414Z
-updated: 2024-11-20T00:00:52.389Z
+date: 2024-11-21T21:54:49.439Z
+updated: 2024-11-28T21:09:37.934Z
 tags:
   - cutting-edge
 categories:
@@ -21,10 +21,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
  For virtual reality to work, the position of the headset in 3D space is crucial information. Inside-out VR tracking uses onboard cameras and machine learning to perform this measurement, and it's quickly becoming the gold standard for VR head tracking.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Conventional Positional Tracking
@@ -32,10 +29,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 ![An original Oculus Rift headset with the touch controllers and tracking sensors.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/shutterstock_1472152544.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Alberto Garcia Guillen/Shutterstock.com](https://www.shutterstock.com/image-photo/oculus-rift-cv1-virtual-reality-goggles-1472152544)
@@ -48,16 +42,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
  Combined, all of this sensor data offers accurate positioning anywhere within 3D space, at least insofar as the external tracker can see the headset. Later, products such as the [HTC Vive](https://facebook-video-footage.techidaily.com/new-audio-perfection-achieved-expert-tips-without-a-microphone-for-2024/) would introduce laser-based room-scale trackers. These were mounted on the walls of a room and allowed headset positions to be tracked anywhere within their range.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Inside-Out Tracking
 
 ![An Oculus Quest 2 headset.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/shutterstock_1892967694.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Boumen Japet/Shutterstock.com](https://www.shutterstock.com/image-photo/white-new-generation-vr-headset-isolated-1892967694)
 
@@ -70,6 +61,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
  The onboard cameras can also precisely track the position of your VR controllers relative to the headset. In a brilliant further development, it's now also possible to use these onboard cameras to directly [track your bare hands](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU208569/https://www.youtube.com/watch?v=2VkO-Kc3vks) for interaction within VR. No controllers needed!
 
  Inside-out tracking can also offer a form of "[mixed reality](https://tech-recovery.techidaily.com/unleash-inspiration-the-507-most-captivating-instagram-captions/)." That is, where real-world and virtual objects are blended together as one experience. The onboard headset cameras can do things like let you see your real-world keyboard when using an app like [Virtual Desktop](https://www.oculus.com/experiences/quest/2017050365004772/) or bring your real-world chair into the virtual space to make it easy to sit down or get up.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The Advantages of Inside-Out Tracking
 
@@ -85,6 +80,10 @@ Related: [How to Play PC VR Games on an Oculus Quest 2](https://twitter-videos.t
 
 ![31NLGzA5upL._SL500_-33](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/31nlgza5upl-_sl500_-33.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Best Overall VR Headset
 
 #####  Oculus Quest 2
@@ -92,13 +91,6 @@ Best Overall VR Headset
 The Oculus Quest 2 is our favorite VR headset given its ease of setup and inexpensive price. It features inside-out tracking so you don't have to set up any separate cameras---you don't even need a PC. (However, the Quest 2 can function as a PC VR headset, too.)
 
 [$289 at Amazon](https://www.amazon.com/Oculus-Quest-Advanced-All-One-Carrying/dp/B099VMT8VZ) [See at Bestbuy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmeta__quest_2_advanc%2F6473553.p%3FskuId%3D6473553%2522target%253D%2522_blank) [See at Target](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fdisneyplus.bn5x.net%2Fc%2F156932%2F564546%2F9358%3FsubId1%3DUUhtgUeUpU208569%26subId2%3Dehtg%26u%3Dhttps%253A%252F%252Fwww.target.com%252Fp%252Fmeta%255Fquest%255F2%255Fadvance%252F-%252FA-83984421%2522target%253D%2522%255Fblank) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  The Downside of Inside-Out Tracking
 
@@ -121,20 +113,16 @@ The Oculus Quest 2 is our favorite VR headset given its ease of setup and inexpe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-mastery-in-managing-online-discussions-on-youtube/"><u>[New] In 2024, Mastery in Managing Online Discussions on YouTube</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-no-hassle-just-hilarity-embark-on-the-ifunny-meme-journey/"><u>[New] No Hassle, Just Hilarity Embark on the iFunny Meme Journey</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-hd-upgrade-tool-windows-mac-and-online-conversion/"><u>[New] Ultimate HD Upgrade Tool Windows, Mac & Online Conversion</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-streamline-your-roblox-recording-mac-guide-for-2024/"><u>[Updated] Streamline Your Roblox Recording Mac Guide for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-free-high-quality-subtitle-tools/"><u>[Updated] The Ultimate Guide to FREE, High-Quality Subtitle Tools</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-by-step-guide-integrating-audio-into-your-reels/"><u>2024 Approved Step-by-Step Guide Integrating Audio Into Your Reels</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-easiest-path-to-personalizing-your-pubg-characters-speech/"><u>2024 Approved The Easiest Path to Personalizing Your PUBG Character’s Speech</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-editors-roadmap-to-perfection-in-fcp/"><u>2024 Approved The Editor's Roadmap to Perfection in FCP</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-precision-machines-best-of-the-series/"><u>2024 Approved Ultimate Precision Machines - Best of the Series</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-motorola-edge-2023-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Motorola Edge 2023.</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Vivo S17e | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/tips-for-integrating-alternative-antiviruses-with-ms-defender/"><u>Tips for Integrating Alternative Antiviruses with MS Defender</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-insights-by-toms-hardware/"><u>Tom's Tech Reviews: Comprehensive Insights by Tom's Hardware</u></a></li>
-<li><a href="https://some-skills.techidaily.com/turbocharging-fb-media-speed-techniques-revealed-for-2024/"><u>Turbocharging FB Media Speed Techniques Revealed for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-free-whiteboard-animation-software-for-windows-and-mac-top-10-picks-for-2024/"><u>Updated Free Whiteboard Animation Software for Windows and Mac Top 10 Picks for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-tier-mobile-cloud-space-hacks-for-android/"><u>[New] Top-Tier Mobile Cloud Space Hacks for Android</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-photobooth-frustration-unfreezing-video-playback/"><u>[Updated] 2024 Approved Photobooth Frustration Unfreezing Video Playback</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-boosting-budgets-with-effective-youtube-marketing/"><u>[Updated] In 2024, Boosting Budgets with Effective YouTube Marketing</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-detailed-breakdown-chilled-delights-on-your-screen/"><u>[Updated] In 2024, Detailed Breakdown Chilled Delights on Your Screen</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-5-must-have-video-editing-software-for-macos-sierra/"><u>2024 Approved Top 5 Must-Have Video Editing Software for macOS Sierra</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-tecno-spark-go-2024-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Tecno Spark Go (2024) Face Lock?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723011242190-how-to-fix-assassins-creed-mirage-crashing-2024-tips/"><u>How to Fix Assassin's Creed Mirage Crashing - 2024 Tips</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-your-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On your Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-synchronize-your-iphones-cinematic-moments/"><u>In 2024, Synchronize Your iPhone's Cinematic Moments</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-honor-100-pro-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Honor 100 Pro Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-list-7-indispensable-devices-in-the-metaverse-for-2024/"><u>The Ultimate List 7 Indispensable Devices in the Metaverse for 2024</u></a></li>
 </ul></div>
 

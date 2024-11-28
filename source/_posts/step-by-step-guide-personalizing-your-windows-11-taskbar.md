@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Personalizing Your Windows 11 Taskbar"
-date: 2024-11-18T19:56:00.640Z
-updated: 2024-11-19T18:32:53.881Z
+date: 2024-11-21T21:55:31.302Z
+updated: 2024-11-28T20:05:56.309Z
 tags:
   - deals
 categories:
@@ -52,13 +52,6 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
 ![Right-click a pinned icon, then select "Unpin from Taskbar" to remove it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-unpin-from-taskbar.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Pin a File or Folder to Taskbar Jump Lists
 
  Windows also provides an easy way to get access to folders — and individual files — on your taskbar. Jump lists are handy context menus associated with each pinned app that show certain actions you can perform with the app and, for apps where it's applicable, also show a list of recent files and folders you've accessed. You can view an app's jump list by right-clicking an icon.
@@ -73,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
  By default, Windows 10 shows about 12 recent items in jump lists. In previous versions of Windows, you could increase or decrease that number easily through taskbar properties. Windows 10, for some reason, does not have this feature easily accessible. You can, however, [change the number of items shown on jump lists with a quick Registry hack](https://some-techniques.techidaily.com/updated-expert-tips-for-a-closer-look-at-google-meet-participants/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Configure or Remove the Search Box
 
  The search box takes up a lot of room on the taskbar, and you don't need it to do your searching. Even without it, if you press the Windows key and start typing, you'll get the same search experience. If you want to perform a voice search — normally accessed by clicking the microphone icon in the search box — you just have to press Windows+C on your keyboard instead.
@@ -84,10 +81,7 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
  Choose the "Hidden" option to remove both the search box and icon or choose "Show Search Icon" to have just the icon on the taskbar.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Remove the Task View Button
@@ -101,10 +95,7 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 ![Right-click the Taskbar and untick "Show Task View button."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/7-show-task-view-button.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Hide System Icons in the Notification Area
@@ -114,15 +105,16 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 ![Select "Turn System Icons on and Off."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/12-turn-system-icons-on-or-off.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You'll see a list of system icons. Run through them and toggle each one on or off to suit your needs.
 
 ![Some system icons that can be toggled.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/13-system-icons.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Hide Application Icons in the Notification Area
 
@@ -143,10 +135,7 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 ![A list of toggleable icons that can appear on your Taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/9-taskbar-icons.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Move the Taskbar to a Different Edge of the Screen
@@ -155,9 +144,17 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
 ![Select "Lock All Taskbars" or "Lock the Taskbar."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/14-lock-all-taskbars.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then, you can grab the taskbar in an empty area and drag it to any edge of your display.
 
 ![Taskbar on the left side of the screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/15-desktop-w-vert-taskbar.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The other way to change the taskbar location is through the settings interface. Right-click on any empty area of the taskbar and choose "Taskbar Settings." In the taskbar settings window, scroll down and find the "Taskbar location on screen" drop-down menu. You can choose any of the four sides of the display from this menu.
 
@@ -169,18 +166,15 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
 ![Click the Taskbar's edge and drag to resize it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/17-huge-taskbar.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Use Small Icons to Fit More on the Taskbar
 
  If you want a few more icons on your taskbar, but aren't keen on resizing it, you can configure Windows 10 to show small taskbar icons. Right-click on any empty area of the taskbar and click "Taskbar Settings." In the settings window, turn on the "Use small taskbar icons" option.
 
 ![Go to the "Taskbar" section, then select "Use Small Taskbar Icons."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/18-use-small-taskbar-icons.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  As you can see, almost everything is the same except that the icons are smaller and you can cram a few more into the space. One difference you should note is that when you're using the smaller icons, the taskbar itself shrinks a bit vertically. As a result, only the clock is shown and not the date as well. But you can always hover your mouse over the clock or click it to check the date. This also applies if you've set your taskbar to display labels instead of just icons.
 
@@ -191,13 +185,6 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
  By default, the taskbar groups icons for windows of the same app and doesn't show labels for those icons. This saves a lot of taskbar space but can make it difficult for newer users to recognize icons. You can have Windows show text labels, but the downside is that you also lose the grouping of related icons. To do this, right-click on an empty area of the taskbar and click "Taskbar Settings." In the settings window, look for the "Combine taskbar buttons" drop-down menu.
 
 ![The "Combine Taskbar Buttons" options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/20-set-combine-taskbar-labels-to-never.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The menu gives you three choices:
 
@@ -227,13 +214,6 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
  With the Peek option turned on, you can move your mouse to the tiny sliver of space at the far right of the taskbar to hide all your windows and show you your desktop. When you move the mouse away, your windows return to their previous state. You can also click this area to automatically minimize all your windows so that you can actually do things on the desktop. Click the area again to restore your windows. You can also use the Windows+D keyboard shortcut to do the same thing as clicking the Peek area.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Add a Toolbar to the Taskbar
 
  Windows also allows you to add toolbars to the taskbar. A toolbar is essentially a shortcut to a folder on your system, but the shortcut is displayed as the same kind of toolbar you might see in a browser or other app. You can access toolbars by right-clicking the taskbar and then pointing to the "Toolbars" submenu.
@@ -255,6 +235,10 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
  If you use multiple displays, you'll be happy to know that Windows 10 includes decent customization controls for using your taskbar across multiple monitors. You can have a taskbar shown on only one display, a single taskbar stretched across all displays and even a separate taskbar for each display that only shows the apps open on that display. To tweak all this, right-click any open area of the taskbar and choose "Taskbar Settings." In the settings window, scroll all the way to the bottom to find the controls for multiple displays.
 
 ![The options for controlling the Taskbar on multiple displays.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/25-multiple-displays.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you leave the "Show taskbar on all displays" option turned off — which is the default setting — then you'll see a single taskbar on your primary monitor only. All open windows for apps are shown on that taskbar, regardless of which display the windows are open on. Turn that option on to have a taskbar shown on all your displays and also open up the other options below.
 
@@ -285,14 +269,19 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-simplifying-the-process-of-enabling-virtual-screen-on-meet-for-2024/"><u>[Updated] Simplifying the Process of Enabling Virtual Screen on Meet for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/1-seamless-data-transition-mastering-the-art-of-using-windows-backup-for-upgrading-your-pc/"><u>1. Seamless Data Transition: Mastering the Art of Using Windows Backup for Upgrading Your PC</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-overcoming-stalled-transmission-of-videos-tips-for-successful-sharing-in-messenger-app/"><u>2024 Approved Overcoming Stalled Transmission of Videos Tips for Successful Sharing in Messenger App</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-vivo-v30-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Vivo V30 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/connect-seamlessly-with-friends-a-guide-to-facetime-calling-from-windows/"><u>Connect Seamlessly with Friends: A Guide to Facetime Calling From Windows</u></a></li>
-<li><a href="https://some-skills.techidaily.com/cost-effective-solutions-enjoy-apple-macintosh-elegance-at-a-fraction-of-the-price-with-secure-online-macbook-leasing-options/"><u>Cost-Effective Solutions: Enjoy Apple Macintosh Elegance at a Fraction of the Price with Secure Online Macbook Leasing Options</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/data-revival-tales-testimonial/"><u>Data Revival Tales - Testimonial</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-perfect-blend-of-aesthetics-and-functionality-in-the-asus-s15/"><u>The Perfect Blend of Aesthetics & Functionality in the ASUS S15</u></a></li>
-<li><a href="https://some-skills.techidaily.com/windows-aesthetics-unveiled-tracing-the-lineage-of-os-desktop-imagery/"><u>Windows Aesthetics Unveiled: Tracing the Lineage of OS Desktop Imagery</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-viral-victory-restoring-your-facebook-space/"><u>[New] 2024 Approved Viral Victory Restoring Your Facebook Space</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-discover-the-best-12-pc-games-for-click-mastery/"><u>[New] In 2024, Discover the Best 12 PC Games for Click Mastery</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-techniques-to-boost-pc-audio-recording-efficiency/"><u>[Updated] Techniques to Boost PC Audio Recording Efficiency</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-swift-sonic-speed-changer-tools-index/"><u>2024 Approved Swift Sonic Speed Changer Tools Index</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-twilight-assessment-diverse-ideas/"><u>2024 Approved Twilight Assessment Diverse Ideas</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-elite-after-effects-plugins-compendium/"><u>2024 Approved Unveiling the Elite After Effects Plugins Compendium</u></a></li>
+<li><a href="https://driver-download.techidaily.com/guide-to-downloading-and-installing-sound-blaster-z-drivers-on-your-windows-11-system/"><u>Guide to Downloading and Installing Sound Blaster Z Drivers on Your Windows 11 System</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-correctly-address-a-missing-cygwin1dll-error-in-windows/"><u>How to Correctly Address a Missing Cygwin1.dll Error in Windows</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-a-simple-path-to-enhanced-youtube-sign-ups-create-animated-subscription-bar-using-filmora/"><u>In 2024, A Simple Path to Enhanced YouTube Sign-Ups - Create Animated Subscription Bar Using Filmora</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-google-cardboard-versus-samsung-gear-vr-the-showdown/"><u>In 2024, Google Cardboard Versus Samsung Gear VR The Showdown</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-the-secrets-of-pubg-sound-personalization/"><u>In 2024, Unlocking the Secrets of PUBG Sound Personalization</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723005134870-no-more-crashes-in-terraria-top-fixes-for-players-to-try-now/"><u>No More Crashes in Terraria – Top Fixes for Players to Try Now</u></a></li>
+<li><a href="https://some-skills.techidaily.com/understanding-imovies-editing-edge-for-2024/"><u>Understanding iMovie's Editing Edge for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-magic-of-pause-time-creating-spectacularly-long-lasting-movies-with-photos-and-web-services-for-2024/"><u>Unveiling the Magic of Pause Time Creating Spectacularly Long Lasting Movies with Photos & Web Services for 2024</u></a></li>
 </ul></div>
 

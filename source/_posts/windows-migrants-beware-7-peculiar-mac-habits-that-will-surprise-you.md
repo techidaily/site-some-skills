@@ -1,7 +1,7 @@
 ---
 title: "Windows Migrants Beware: 7 Peculiar Mac Habits That Will Surprise You"
-date: 2024-11-17T01:33:23.650Z
-updated: 2024-11-20T01:00:55.262Z
+date: 2024-11-22T16:23:22.710Z
+updated: 2024-11-28T21:03:10.178Z
 tags:
   - desktop
 categories:
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 
  You can access any apps that aren't in the Dock via the Launchpad, which is itself in the Dock by default.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Mac and Windows Keyboards Have Different Keys
 
  Mac and Windows keyboards have several keys that have the same functionality but are named differently. For example, the Alt key in Windows is the Option key on a Mac keyboard; Enter on Windows is Return on a Mac; and the Windows backspace key is Delete on a Mac.
@@ -42,28 +46,12 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 ![The Globe, Control, Option, and Command keys on a Mac keyboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-globe-control-option-and-command-keys-on-a-mac-keyboard.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Some keys, like the Control button, are on both keyboards but have different uses. For instance, keyboard shortcuts that require you to press the Control key on a Windows keyboard often use the Command key instead on a Mac. So, [copy and paste](https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-itel-s23plus-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/) is Ctrl+C and Ctrl+V in Windows, but Command+C and Command+V in macOS.
 
  Newer Mac keyboards also feature a Globe key which brings up the emoji picker and can also be used to change your input language and keyboard layouts. Learn the relevant [macOS keyboard shortcuts](https://facebook-video-share.techidaily.com/updated-the-ultimate-youtube-editors-handbook-a-step-by-step-journey/) to speed up tasks for yourself.
-
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Windows and Mac Use Different Names for the Same Things
 
@@ -85,13 +73,14 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 
 ![Use the Command+Shift+5 shortcut to view screenshot and screen record options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/img_5723.JPG) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Regardless of the shortcut you use, the screenshot is immediately saved to your macOS desktop for easy access.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  macOS Has Its Own Equivalents for the Windows Apps
@@ -107,10 +96,7 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
  One of the biggest benefits of macOS is that it comes with a lot of extra apps that you'd normally have to pay for. Pages and Numbers are replacements for Word and Excel, for example, and GarageBand is a music creation tool. You also get access to FaceTime and iMessage.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The UI Looks Similar but Is Not the Same
@@ -122,10 +108,7 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 ![The window resizing buttons on macOS](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-1-58-58-pm.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Similarly, Windows has a search bar directly in the taskbar, while Mac uses Spotlight for search.
@@ -169,18 +152,18 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-social-media-strategies-mastering-igs-most-trending-hashtags/"><u>[New] In 2024, Social Media Strategies Mastering IG's Most Trending Hashtags</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-high-quality-action-captured-by-the-ion-pro-3-camera/"><u>[Updated] High-Quality Action Captured by the ION Pro 3 Camera</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-navigating-copyright-laws-when-turning-social-media-videos-into-gifs-for-educational-purposes-for-2024/"><u>[Updated] Navigating Copyright Laws When Turning Social Media Videos Into GIFS for Educational Purposes for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/choosing-the-champion-of-ai-the-battle-between-llama-version-3-and-gpt-4/"><u>Choosing the Champion of AI: The Battle Between Llama Version 3 and GPT-4</u></a></li>
-<li><a href="https://some-skills.techidaily.com/easy-guide-on-how-to-convert-ebooks-from-epub-format-to-pdf/"><u>Easy Guide on How to Convert eBooks From EPUB Format to PDF</u></a></li>
-<li><a href="https://some-skills.techidaily.com/effortless-conversion-techniques-for-transforming-kindle-kfx-ebooks-into-epubpdfmobi-with-the-help-of-calibre-tool/"><u>Effortless Conversion Techniques for Transforming Kindle KFX Ebooks Into ePub/PDF/Mobi with the Help of Calibre Tool</u></a></li>
-<li><a href="https://some-skills.techidaily.com/epub-and-mobi-conversion-mastery-unlocking-the-full-potential/"><u>EPUB and MOBI Conversion Mastery: Unlocking the Full Potential</u></a></li>
-<li><a href="https://some-skills.techidaily.com/from-sampling-to-subscribing-mastering-the-art-of-effective-trial-to-paying-user-transitions/"><u>From Sampling to Subscribing: Mastering the Art of Effective Trial-to-Paying User Transitions</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-keyboard-lags-on-windows-11-with-top-techniques/"><u>Overcoming Keyboard Lags on Windows 11 with Top Techniques</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/perfect-harmony-in-canvas-cropping-adding-music-to-video/"><u>Perfect Harmony in Canvas Cropping, Adding Music to Video</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-google-assessment-of-wireless-nest-doorbells-with-batteries/"><u>Top Google Assessment of Wireless Nest Doorbells with Batteries</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooting-lenovo-refresh-glitches/"><u>Troubleshooting Lenovo Refresh Glitches</u></a></li>
-<li><a href="https://techidaily.com/why-can-t-i-play-mp4-files-on-my-galaxy-s24-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Why can’t I play MP4 files on my Galaxy S24?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamlining-your-creative-process-with-vsco-app/"><u>[New] Streamlining Your Creative Process with VSCO App</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-exclusive-guide-to-high-performing-screens-for-xbox-series-x-gaming/"><u>[Updated] 2024 Approved Exclusive Guide to High-Performing Screens for Xbox Series X Gaming</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-elevating-meetings-a-comprehensive-guide-to-zoom-filters/"><u>[Updated] In 2024, Elevating Meetings A Comprehensive Guide to Zoom Filters</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-understanding-asmrs-health-perks/"><u>[Updated] Understanding ASMR's Health Perks</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-streamline-your-obs-outputs/"><u>2024 Approved Streamline Your OBS Outputs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-complete-guide-to-iphone-silhouette-mastery/"><u>2024 Approved The Complete Guide to iPhone Silhouette Mastery</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719169303840-elevate-gaming-choose-large-format-cabinet-fronts/"><u>Elevate Gaming: Choose Large-Format Cabinet Fronts</u></a></li>
+<li><a href="https://win-able.techidaily.com/fifa-19-pc-instability-resolved-ultimate-fix-guide/"><u>FIFA 19 PC Instability Resolved: Ultimate Fix Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-capturing-moments-right-ideal-perspectives-on-iphone/"><u>In 2024, Capturing Moments Right Ideal Perspectives on iPhone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-panoramic-capture-9-techniques-to-perfection/"><u>In 2024, The Art of Panoramic Capture 9 Techniques to Perfection</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-editing-decoded-a-deep-dive-into-magix-vpx-for-2024/"><u>The Art of Editing Decoded A Deep Dive Into Magix VPX for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/the-art-of-sharing-online-videos-from-youtube-to-facebook-for-2024/"><u>The Art of Sharing Online Videos From YouTube to Facebook for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-freebie-frenzy-top-online-video-editors-reviewed/"><u>Updated In 2024, The Freebie Frenzy Top Online Video Editors Reviewed</u></a></li>
 </ul></div>
 

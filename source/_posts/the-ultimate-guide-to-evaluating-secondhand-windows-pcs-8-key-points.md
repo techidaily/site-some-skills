@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Evaluating Secondhand Windows PCs – 8 Key Points
-date: 2024-11-16T17:24:44.450Z
-updated: 2024-11-19T21:30:15.219Z
+date: 2024-11-21T18:34:36.325Z
+updated: 2024-11-28T21:53:47.513Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## The Ultimate Guide to Evaluating Secondhand Windows PCs – 8 Key Points
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -42,16 +46,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Testing the laptop speaker in Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/1-testing-the-laptop-speaker-in-settings.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To [test the built-in microphone](https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-vivo-y200e-5g-drfone-by-drfone-virtual-android/), return to the sound settings, click on "Microphone Array," and then click on the "Start Test" button next to Test Your Microphone. Speak for a few seconds, then stop the test. If you see a decent volume percentage recorded, the microphone is working as it should.
 
 ![Testing the laptop microphone in Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/2-testing-the-laptop-microphone-in-settings.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Test the Built-In Camera
 
@@ -60,10 +61,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  If the camera app detects the webcam and the visuals are clear and of satisfactory quality, as the seller claimed, then the camera is working correctly.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Check the Health of Your Laptop Battery
@@ -80,31 +78,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Checking the laptop battery report.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/08/br_5.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Ensure the Laptop Isn't Stolen
 
  If you're thinking about buying a used laptop from an unknown seller, make sure that it hasn't been stolen. One way to check this is to request a purchase receipt from the seller. If they are unable to provide one, this could be a red flag. If the laptop hasn't been reset, is password-protected, or is locked, these signs indicate that it's likely a stolen device.
 
  You can also confirm your suspicions by getting the laptop's serial number and contacting the manufacturer to verify whether the device has been reported stolen.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Perform the Physical Inspection
 
  The appearance of the laptop body is a direct reflection of how carefully the original owner has treated the device. Any signs of scratches, cracks, dents, or loose and damaged hinges indicate rough handling by the previous owner. Missing screws are another indicator that the laptop may have been opened for repair or replacement, which raises a red flag.
 
  Also, watch out for stickers that may be covering up wear and tear underneath, as this is a common practice.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Test the Wired and Wireless Connectivity
 
@@ -113,10 +101,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Start by connecting your laptop to Wi-Fi. Then, [test its Ethernet port](https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/) by plugging it directly into the router. If the internet connection works well, test the audio jacks with headphones. Similarly, check the USB ports by connecting a wired device. Finally, make sure Bluetooth is working by pairing a Bluetooth-powered device.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Check the Health of RAM and Storage Drive
@@ -148,19 +133,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-screen-time-saviors-expert-evaluations-of-video-tech/"><u>[New] In 2024, Screen Time Saviors Expert Evaluations of Video Tech</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-initial-steps-to-instagram-video-discussion-success/"><u>[New] Initial Steps to Instagram Video Discussion Success</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-game-genre-matchups-titles-alike-to-gta-v/"><u>[Updated] 2024 Approved Game Genre Matchups Titles Alike to GTA V</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-streamline-your-twitter-videos-with-pro-convertors/"><u>[Updated] Streamline Your Twitter Videos with Pro Convertors</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-8-gratis-4k-uhd-video-apps-for-pcos-x/"><u>[Updated] Ultimate 8 Gratis 4K UHD Video Apps for PC/OS X</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-vivacut-edit-pro-comprehensive-review-and-tutorial-2024/"><u>[Updated] Ultimate VivaCut Edit Pro Comprehensive Review & Tutorial 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unleashing-the-power-of-spotifys-ad-platform-for-marketers/"><u>[Updated] Unleashing the Power of Spotify's Ad Platform for Marketers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlock-potential-in-digital-creation-the-best-android-drawing-tools-list/"><u>[Updated] Unlock Potential in Digital Creation The Best Android Drawing Tools List</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-ushering-bliss-into-your-unboxing-experience/"><u>2024 Approved Ushering Bliss Into Your Unboxing Experience</u></a></li>
-<li><a href="https://some-skills.techidaily.com/critical-insights-into-the-intensified-influence-of-marvels-spider-man-miles-morales-title/"><u>Critical Insights Into the Intensified Influence of Marvel's Spider-Man: Miles Morales Title</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Vivo Y100i Power 5G | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/rm-windows10/"><u>RM形式のプレイバック - Windows10対応ガイド</u></a></li>
-<li><a href="https://common-error.techidaily.com/untangling-the-complicated-web-of-windows-10s-0x80240034-a-step-by-step-guide-to-seamless-updates/"><u>Untangling the Complicated Web of Windows 10'S 0X80240034: A Step-by-Step Guide to Seamless Updates</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-of-both-worlds-free-and-paid-3d-video-creator-software/"><u>Updated Best of Both Worlds Free and Paid 3D Video Creator Software</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-no-experience-guide-to-earning-on-reddit-13-strategies-inside/"><u>[New] The Ultimate, No-Experience Guide to Earning on Reddit - 13 Strategies Inside</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-critical-analysis-of-the-best-free-video-chat-software-suitable-for-businesses-and-educators/"><u>[Updated] 2024 Approved Critical Analysis of the Best Free Video Chat Software Suitable for Businesses & Educators</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-inspirational-slide-shows-10-best-places-to-download-them-for-free/"><u>[Updated] Inspirational Slide Shows 10 Best Places to Download Them For Free</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-optimizing-age-information-in-tiktok-profiles/"><u>[Updated] Optimizing Age Information in TikTok Profiles</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tailoring-drop-dates-to-maximize-listener-interest/"><u>[Updated] Tailoring Drop Dates to Maximize Listener Interest</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-enhancing-videos-with-online-filters/"><u>[Updated] The Ultimate Guide to Enhancing Videos with Online Filters</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beyond-boundaries-next-gen-ai-discussions/"><u>Beyond Boundaries: Next Gen AI Discussions</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-common-issues-with-the-paradox-game-launcher-practical-tips-for-success/"><u>Fixing Common Issues with the Paradox Game Launcher - Practical Tips for Success</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-changing-instagram-voices-a-step-by-step-guide/"><u>In 2024, Changing Instagram Voices A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-making-bank-with-youtube-an-analysis-of-pewdiepies-earnings/"><u>In 2024, Making Bank with YouTube An Analysis of PewDiePie’s Earnings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-uncovering-invisible-challenges-in-vr/"><u>In 2024, Uncovering Invisible Challenges in VR</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unpacking-virtual-reality-its-upside-and-downside/"><u>In 2024, Unpacking Virtual Reality Its Upside & Downside</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-top-6-head-mounts-expert-reviews-for-action-photography/"><u>In 2024, Unveiling The Top 6 Head Mounts Expert Reviews for Action Photography</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-10-quick-and-free-jpeg-to-gif-conversion-services-for-2024/"><u>Top 10 Quick & Free JPEG-to-GIF Conversion Services for 2024</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/top-7-solutions-for-retrieving-lost-data-post-windows-11-upgrade/"><u>Top 7 Solutions for Retrieving Lost Data Post-Windows 11 Upgrade</u></a></li>
 </ul></div>
 

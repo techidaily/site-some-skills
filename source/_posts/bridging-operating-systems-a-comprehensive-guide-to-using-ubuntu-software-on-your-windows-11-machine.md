@@ -1,7 +1,7 @@
 ---
 title: "Bridging Operating Systems: A Comprehensive Guide to Using Ubuntu Software on Your Windows 11 Machine"
-date: 2024-11-17T16:32:19.097Z
-updated: 2024-11-19T18:14:45.226Z
+date: 2024-11-23T17:22:59.379Z
+updated: 2024-11-28T18:03:14.837Z
 tags:
   - deals
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 * Enable Windows Subsystem for Linux, then download and install Ubuntu for WSL via Microsoft Store to run Linux apps on Windows 11.
 
  Did you know using Ubuntu-exclusive apps doesn't require overwriting your operating system? Unlock the true potential of your Windows desktop by using Ubuntu apps on Windows 11, enhancing your PC experience by blending the power of Linux and Windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Why Use Ubuntu Apps on Windows 11?
 
@@ -48,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 
  Upon rebooting, log back into your Windows 11 desktop. Once you've logged back in, the Windows Subsystem for Linux will be enabled on Windows 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Installing Ubuntu
 
  Ubuntu for WSL is available for Windows 11 via the Microsoft Store, enabling the installation of Ubuntu on your system to run Linux apps within Windows 11.
@@ -57,13 +65,6 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
  In the search box, type "Ubuntu." Upon entering "Ubuntu," the Microsoft Store will display various versions of the Ubuntu app. Select "Ubuntu 22.04.3 LTS" using the mouse.
 
 ![The user is searching for Ubuntu WSL 22.04.3 LTS in the Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-ubuntu-22.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After selecting "Ubuntu 22.04.3 LTS," you will be directed to its feature page in the Microsoft Store. Locate the "Get" button and click on it. Selecting the "Get" button will initiate the Ubuntu download for Windows 11.
 
@@ -76,15 +77,16 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
  Once Ubuntu has finished its setup on Windows 11, you will see an empty terminal window, ready for you to interact with Ubuntu on your Windows 11 system.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Basic Configuration Tips
 
  Here are some basic configuration tips to improve the WSL experience on Windows 11.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Windows and Linux File System Integration
 
@@ -100,6 +102,10 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 
 cd /mnt/c
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Update your Ubuntu WSL app
 
  It is good practice to update your Ubuntu WSL app from time to time, otherwise programs will stop working. Here's how to do it on Windows 11.
@@ -113,20 +119,6 @@ sudo apt update
 sudo apt upgrade
 
 ![Ubuntu WSL is being updated.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-installing-kdenlive.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Starting and Using Ubuntu
 
@@ -151,10 +143,7 @@ nohup program_name & disown
  Alternatively, applications can be started from the Windows 11 start menu.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Integration with Windows 11
@@ -162,13 +151,6 @@ nohup program_name & disown
  When apps are installed through WSL, they integrate into Windows 11 quite well by installing themselves into the Windows 11 Start menu. To access your installed WSL programs from Windows 11, look through your programs. Each integrated application will have a Linux icon.
 
  The WSL integration with Windows 11 is quite good. However, keep in mind that not every single application is going to create a desktop icon. Sometimes, you may need to launch your Ubuntu programs directly from the terminal. You typically do this by typing its package name and hitting Enter.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Troubleshooting Common Setup Issues
 
@@ -197,21 +179,24 @@ wsl --update
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ynamic-subscriber-buttons-for-video-creators-filmora-edition-for-2024/"><u>[New] Dynamic Subscriber Buttons for Video Creators - Filmora Edition for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-recordingratings-analyzer/"><u>[New] In 2024, RecordingRatings Analyzer</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-ultimate-visual-storyteller-harmony-in-imagery-and-melodies/"><u>[New] In 2024, Ultimate Visual Storyteller Harmony in Imagery & Melodies</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-seamless-changeover-a-comprehensive-list-of-free-transformer-tools/"><u>[New] Seamless Changeover A Comprehensive List of Free Transformer Tools</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/eradicate-freezing-glitch-error-xc00d36c4/"><u>Eradicate Freezing Glitch - Error XC00D36C4</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-speaker-recognition-in-windows-11-fixes-for-hidden-audio-devices/"><u>Mastering Speaker Recognition in Windows 11: Fixes for Hidden Audio Devices</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/securing-footage-techniques-for-obscuring-sensitive-info-for-2024/"><u>Securing Footage Techniques for Obscuring Sensitive Info for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-appeal-of-e-ink-technology-in-phones-exploring-my-motivations-for-going-digital-paperback/"><u>The Appeal of E-Ink Technology in Phones: Exploring My Motivations for Going Digital Paperback</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-interplay-between-apoptosis-autophagy-and-pyroptosis-can-determine-cell-fate-under-stress-conditions-they-are-not-mutually-exclusive-pathways/"><u>The Interplay Between Apoptosis, Autophagy, and Pyroptosis Can Determine Cell Fate Under Stress Conditions; They Are Not Mutually Exclusive Pathways.</u></a></li>
-<li><a href="https://article-posts.techidaily.com/the-ultimate-4k-aerial-photography-guide-mi-drone-review/"><u>The Ultimate 4K Aerial Photography Guide MI Drone Review</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-8-essential-tips-for-maintaining-optimal-smartphone-performance/"><u>Top 8 Essential Tips for Maintaining Optimal Smartphone Performance</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-rated-usb-c-chargers-and-converters-expert-picks-for-2n25/"><u>Top Rated USB-C Chargers and Converters: Expert Picks for 2N25</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tracking-the-unseen-passenger-what-to-do-if-your-airtag-continues-its-travels-alongside-you/"><u>Tracking the Unseen Passenger: What to Do If Your AirTag Continues Its Travels Alongside You</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transformative-tips-how-iphones-elevate-the-road-trip-experience/"><u>Transformative Tips: How iPhones Elevate the Road Trip Experience</u></a></li>
-<li><a href="https://some-skills.techidaily.com/troubleshooting-homekit-connectivity-how-to-restore-response-in-your-smart-devices/"><u>Troubleshooting HomeKit Connectivity: How to Restore Response in Your Smart Devices</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/twitvid-mastery-your-go-to-resource-for-video-downloads/"><u>TwitVid Mastery Your Go-To Resource for Video Downloads</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-next-gen-cinema-a-virtual-leap-forward/"><u>[New] Next-Gen Cinema A Virtual Leap Forward</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-social-media-sphere-speaking-up-to-fans/"><u>[New] The Social Media Sphere Speaking Up to Fans</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-iphonedesktop-video-change-top-8-recommendations/"><u>[New] The Ultimate Guide to iPhone/Desktop Video Change Top 8 Recommendations</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-incorporating-jump-cuts-for-smoother-edits/"><u>[Updated] Incorporating Jump Cuts for Smoother Edits</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-groundbreaking-feedback-vllo-review/"><u>2024 Approved Groundbreaking Feedback VLLO Review</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-creative-expressions-building-stories-from-photos-in-pixiz/"><u>2024 Approved Unlock Creative Expressions Building Stories From Photos in Pixiz</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mp3m4p4/"><u>最高の無料MP3変換ツール：M4Pからシームレスに変更！4つのお勧めアプリ</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/best-note-taking-solutions-the-ultimate-guide-to-apps-for-your-ipad/"><u>Best Note-Taking Solutions: The Ultimate Guide to Apps for Your iPad</u></a></li>
+<li><a href="https://apple-account.techidaily.com/can-i-remove-the-apple-watch-activation-lock-by-iphone-7-plus-without-the-previous-owner-by-drfone-ios/"><u>Can I Remove the Apple Watch Activation Lock By iPhone 7 Plus without the Previous Owner?</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-optimize-your-iphone-for-gif-saving-and-playing-like-a-pro/"><u>In 2024, Optimize Your iPhone for GIF Saving & Playing Like a Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-future-in-flight-hubsan-h501s-hovering-highlights/"><u>In 2024, The Future in Flight Hubsan H501S Hovering Highlights</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-time-saving-strategies-mastering-video-playback-speed/"><u>In 2024, Time-Saving Strategies Mastering Video Playback Speed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unrivaled-dramas-from-the-eightfold-storytelling-sphere/"><u>In 2024, Unrivaled Dramas From the Eightfold Storytelling Sphere</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/securely-boost-your-tiktok-engagement-and-reach-for-2024/"><u>Securely Boost Your TikTok Engagement & Reach for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-visual-communication-video-creation-techniques-in-windows-10-for-2024/"><u>The Art of Visual Communication Video Creation Techniques in Windows 10 for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-future-of-wireless-connectivity-asus-zenwifi-xt8-ax6600-rigorously-tested-and-reviewed/"><u>The Future of Wireless Connectivity: ASUS ZenWiFi XT8 (AX6600) Rigorously Tested and Reviewed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/toolwiz-evaluation-the-top-choice-in-mobile-editing-in-2024/"><u>Toolwiz Evaluation The Top Choice in Mobile Editing, In 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-the-issue-with-overwatchs-push-to-talk-feature/"><u>Troubleshooting Guide: Fixing the Issue with Overwatch's Push-to-Talk Feature</u></a></li>
 </ul></div>
 

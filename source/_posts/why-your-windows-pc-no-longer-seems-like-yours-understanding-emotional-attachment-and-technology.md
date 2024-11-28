@@ -1,7 +1,7 @@
 ---
 title: "Why Your Windows PC No Longer Seems Like Yours: Understanding Emotional Attachment & Technology"
-date: 2024-11-17T00:37:46.597Z
-updated: 2024-11-19T23:40:48.537Z
+date: 2024-11-24T21:47:34.006Z
+updated: 2024-11-28T17:10:03.657Z
 tags:
   - deals
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/3a45d2f58796a5984d88b42acb22f94c8f8721b15
 
  An operating system is the most personal part of a "personal" computer, and it used to be that as a Windows user I didn't feel like I was renting my computer from Microsoft, but in recent years that feeling has all but evaporated. To me, Windows feels cheaper and more commercial than ever, and that's not a recipe for a good user experience.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Offline Glory Days of Windows
 
  The first version of Windows I ever used, coming from MS-DOS, was Windows 3.1\. While Windows 3.1 might look incredibly primitive today, it's hard to explain just how big of a leap this was for a kid who had to memorize the Command Line instructions just to play some games. Things didn't really kick off for me until Windows 95 and our first taste of the internet, but even then, 99% of my Windows time up until Windows 7 was spent disconnected from the net.
@@ -29,22 +33,12 @@ thumbnail: https://thmb.techidaily.com/3a45d2f58796a5984d88b42acb22f94c8f8721b15
 
  Now that Windows is almost always online, my "personal" computer experience is feeling quite a bit less personal.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Advertising Sneaking In
 
 ![The location of the recommended section in the Windows 11 Start menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/windows-start-ads.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -53,22 +47,23 @@ Jerome Thomas / How-To Geek
 
  Basically, it now feels like Windows is partly subsidized by advertising, and regular users can't just have the operating system they paid for without being sold more software and services. It's not (yet) the most egregious way to go about it, but for someone who prefers absolute minimilism in their computer interfaces, it's not working for my feng shui.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Updates Breaking My PC
 
  At this point, I have lost count of the number of times that I've left my perfectly working Windows computer at the end of my work day, only to return to a completely broken computer that won't boot the next morning. We have numerous articles at How-To Geek on how to [stop Windows from updating](https://driver-download.techidaily.com/boost-your-pcs-gameplay-download-the-new-steelseries-engine-for-windows-11-enthusiasts/), and the mere fact that readers are searching for this information should tell you something.
 
  Forced, automatic Windows updates seem inevitable now, and with every workaround people come up with, the loopholes are closed. Updates can be delayed, but not deferred. Resistance is futile. Which is why I find it hard to even trust Windows to run a Plex server or a NAS, because inevitably it will reboot the computer without asking me first.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Leave My Settings Alone, Microsoft
 
  When I have my computer set up a certain way, I'd like it to stay that way permanently. Yet search the forums on sites like [Reddit](https://www.reddit.com/r/Windows10/comments/n1hoz0/windows%5Fplease%5Fstop%5Fchanging%5Fmy%5Fsettings%5Fwith/) or Microsoft's own [community forums](https://answers.microsoft.com/en-us/windows/forum/all/windows-updates-keeps-changing-my-settings/1870494e-b7be-41a8-84e6-d2e7e55c88d5), and you'll find numerous complaints about settings changing after updates. It can be innocuous stuff or more serious or impactful things, such as privacy settings. If anyone is going to flip the switches on my computer to control how it behaves and what's allowed, it should be me.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  My Mac Doesn’t Feel Subsidized
 
@@ -89,10 +84,7 @@ Sergio Rodriguez / How-To Geek
  I've had an on-again-off-again relationship with Linux over the years, and daily drove it during seven years of university, and never did I feel that I was being exploited or not in control. In fact, I was probably in too much control, which is why you can break Linux in so many creative ways just by being a dummy.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Can Windows Make a Comeback?
@@ -118,16 +110,22 @@ Sergio Rodriguez / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-exclusive-list-best-mac-gif-recorders/"><u>[New] Exclusive List Best Mac GIF Recorders</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-a-comprehensive-guide-to-mastering-gopro-hero5-time-lapse/"><u>[Updated] A Comprehensive Guide to Mastering GoPro Hero5 Time-Lapse</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-establishing-a-solid-foundation-with-zoom-setup/"><u>[Updated] In 2024, Establishing a Solid Foundation with Zoom Setup</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-essential-list-5-leading-youtube-shortened-url-services/"><u>2024 Approved Essential List 5 Leading YouTube Shortened URL Services</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-most-affordable-cloud-vendors-listed/"><u>2024 Approved Top 10 Most Affordable Cloud Vendors Listed</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/essential-tips-mastering-the-top-3-methods-for-managing-active-windows-11-update-processes/"><u>Essential Tips: Mastering the Top 3 Methods for Managing Active Windows 11 Update Processes</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-streams-best-4k-video-downloaders-summarized/"><u>In 2024, Transform Your Streams Best 4K Video Downloaders Summarized</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultra-clarity-the-new-era-of-hd-monitors-envy-27/"><u>In 2024, Ultra Clarity The New Era of HD Monitors - Envy 27</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-vector-image-fundamentals-introduction-and-categories/"><u>In 2024, Vector Image Fundamentals Introduction & Categories</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-sites-for-fetching-got-ringtone-downloads-for-2024/"><u>Top Sites for Fetching GoT Ringtone Downloads for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/zoom-for-the-first-timer-easy-to-follow-guidelines/"><u>Zoom for the First Timer Easy-to-Follow Guidelines</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-creative-image-collage-tools-ranked-10/"><u>[New] 2024 Approved Creative Image Collage Tools Ranked #10</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-elevating-your-instagram-experience-through-smart-archiving/"><u>[New] 2024 Approved Elevating Your Instagram Experience Through Smart Archiving</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-flip-order-3-easy-steps-to-rewind-youtube-listeners/"><u>[New] 2024 Approved Flip Order 3 Easy Steps to Rewind Youtube Listeners</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-a-glimpse-into-virtual-frontiers-with-jaunt-vr/"><u>[New] A Glimpse Into Virtual Frontiers with Jaunt VR</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-crafting-memorable-titles-a-comprehensible-ae-approach-for-2024/"><u>[New] Crafting Memorable Titles A Comprehensible AE Approach for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-strategies-for-selecting-and-syncing-music-with-visuals/"><u>[Updated] Strategies for Selecting and Syncing Music with Visuals</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-the-garmin-ultra-30-in-action-an-in-depth-exploration-for-2024/"><u>[Updated] The Garmin Ultra 30 in Action An In-Depth Exploration for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transform-viewership-elevate-your-live-stream-game-with-just-a-few-supporters/"><u>2024 Approved Transform Viewership Elevate Your Live Stream Game with Just a Few Supporters</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/battlefield-4-audio-problems-discover-proven-fixes-now/"><u>Battlefield 4 Audio Problems? Discover Proven Fixes Now</u></a></li>
+<li><a href="https://some-skills.techidaily.com/how-to-create-amazing-mosaic-photo-collage-for-2024/"><u>How to Create Amazing Mosaic Photo Collage for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-superior-3d-tools-for-animated-designers/"><u>In 2024, Superior 3D Tools for Animated Designers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tailoring-your-canvas-a-guide-to-erasing-background-elements/"><u>In 2024, Tailoring Your Canvas A Guide to Erasing Background Elements</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-the-potential-a-compreayers-guide-to-batched-video-downloads-from-tiktok/"><u>In 2024, Unlocking the Potential A Compreayer's Guide to Batched Video Downloads From TikTok</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ating-videos-sequentially-for-free-youtube-guide-for-2024/"><u>Navigating Videos Sequentially for Free - YouTube Guide for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-10-power-upgrades-for-os-x-and-win-with-srt-systems-for-2024/"><u>Top 10 Power Upgrades for OS X and Win with SRT Systems for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-choices-for-next-gen-vr-accessories-unveiled-for-2024/"><u>Top Choices for Next-Gen VR Accessories Unveiled for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveil-image-by-removing-surroundings-for-2024/"><u>Unveil Image by Removing Surroundings for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Access a Multitude of AI-Powered Conversational Agents Directly From Your Personal Computer Using Our Innovative Application
-date: 2024-11-16T16:49:15.505Z
-updated: 2024-11-19T22:55:09.047Z
+date: 2024-11-21T16:17:00.831Z
+updated: 2024-11-28T21:42:22.438Z
 tags:
   - deals
 categories:
@@ -20,10 +20,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [How I Use LM Studio](https://phone-solutions.techidaily.com/how-to-bypass-oppo-reno-10-pro-5g-s-lock-screen-pattern-pin-or-password-by-drfone-android-unlock-android-unlock/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -35,10 +32,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Unlike common cloud-based solutions, LM Studio prioritizes privacy, security, and constant accessibility of your data. Ready to elevate your Windows experience without relying on the cloud? Here's how to get started with LM Studio.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  LM Studio Is Your New AI Playground
@@ -66,10 +60,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  You can use this search box to browse for various models, like Facebook's Llama 3, Mistral AI's model, Google Gemma, Phi 2, and so many more.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Choose Your AI Model
@@ -79,15 +70,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Searching for llama 3 on LM Studio.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/click-dl.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you're unsure, select the most popular result. LM Studio filters by compatibility, so it should work on your system. For more information, click the "What's the difference between all these files? Which one should I download?" button. It explains each model and helps you decide.
 
 ![The search results for Qwen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/qwen-ai-model-search-lmstudio.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  For example, Llama 3 powers the "Messenger AI" feature on Facebook and matches the intelligence of tools like ChatGPT and Google Gemini.
 
@@ -102,6 +94,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  There's plenty more to discover! Dive into the "Home" section of LM Studio, pick something that catches your eye, and hit "Download."
 
 ![the LM Studio models search page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/lm-studio-models.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you’ve selected your model, it’s time to start chatting. Click on the AI Chat button on the left-hand sidebar to open LM Studio's chat window.
 
@@ -127,19 +123,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![LM Studio writing a script.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/lm-code-instruct.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In addition to script writing, I've found LM Studio particularly helpful in improving my programming skills, which are a work in progress. I primarily use the code-instruct model to enhance my understanding of Go and Python. LM Studio supports a wide range of programming languages, making it an invaluable, free resource for learning and refining coding skills.
 
  However, the capabilities of LM Studio extend beyond scripting and programming. It's excellent for addressing complex questions, making it a great tool for thought experiments. I also use it for generating creative solutions and even deciding what to cook for dinner. Whether for streamlining everyday tasks or brainstorming innovative ideas, LM Studio is a versatile tool that maximizes the benefits of local AI technology for anyone looking to enhance their digital experience.
@@ -159,20 +142,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-finding-a-different-way-to-naming-your-channel-with-filmora/"><u>[Updated] Finding a Different Way to Naming Your Channel with Filmora</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-the-world-of-digital-color-grading/"><u>2024 Approved Exploring the World of Digital Color Grading</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-your-youtube-live-video-thumbnail-game/"><u>2024 Approved Mastering Your YouTube Live Video Thumbnail Game</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/5-excellent-video-conference-devices-for-professionals-for-2024/"><u>5 Excellent Video Conference Devices for Professionals for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/apples-services-interrupted-iphone-applications-failing-due-to-system-outages/"><u>Apple's Services Interrupted: IPhone Applications Failing Due to System Outages</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/elevate-your-reality-best-of-samsung-gear-vr-titles/"><u>Elevate Your Reality Best of Samsung Gear VR Titles</u></a></li>
-<li><a href="https://some-skills.techidaily.com/how-microsoft-is-reinventing-the-print-experience-in-its-latest-windows-11-update/"><u>How Microsoft Is Reinventing the Print Experience in Its Latest Windows 11 Update</u></a></li>
-<li><a href="https://some-skills.techidaily.com/identify-your-windows-11-edition-and-anniversary-updates-with-ease/"><u>Identify Your Windows 11 Edition & Anniversary Updates with Ease</u></a></li>
-<li><a href="https://some-skills.techidaily.com/predictive-magic-with-linux-unlocking-fortune-telling-scripts-in-terminal/"><u>Predictive Magic with Linux: Unlocking Fortune-Telling Scripts in Terminal</u></a></li>
-<li><a href="https://some-skills.techidaily.com/resolving-compatibility-errors-in-windows-11-on-aging-cpu-architecture/"><u>Resolving Compatibility Errors in Windows 11 on Aging CPU Architecture</u></a></li>
-<li><a href="https://some-skills.techidaily.com/seamless-access-to-distant-linux-machine-files-made-simple/"><u>Seamless Access to Distant Linux Machine Files Made Simple</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/social-media-slang-decoded-the-meaning-behind-a-retweet-or-re-tweet/"><u>Social Media Slang Decoded: The Meaning Behind a 'Retweet' Or 'Re-Tweet'</u></a></li>
-<li><a href="https://some-skills.techidaily.com/understanding-chipset-drivers-installation-guide-and-tips/"><u>Understanding Chipset Drivers: Installation Guide & Tips</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/usb-printer-non-operation-on-windows-7-post-sleep/"><u>USB Printer Non-Operation on Windows 7 Post Sleep</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/windows-10sfc/"><u>Windows 10でSFCスキャンのための詳細ガイド</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-dynamics-of-dialing-up-digital-devotees/"><u>[New] The Dynamics of Dialing Up Digital Devotees</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-tutorial-adding-whimsy-with-snapchat-cartoons/"><u>[New] The Ultimate Tutorial Adding Whimsy with Snapchat Cartoons</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-unleashing-video-potential-steps-to-become-a-staff-pick-favorite-for-2024/"><u>[New] Unleashing Video Potential Steps to Become a Staff Pick Favorite for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-unleash-your-contents-potential-organic-growth-tactics/"><u>[Updated] 2024 Approved Unleash Your Content's Potential Organic Growth Tactics</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-rise-to-greatness-with-these-10-elevating-films/"><u>[Updated] Rise to Greatness with These 10 Elevating Films</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-become-a-photo-editing-wizard-with-lunapic-expertise/"><u>2024 Approved Become a Photo Editing Wizard with LunaPic Expertise</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-budding-filmmakers-companion-understanding-display-quality-101/"><u>2024 Approved The Budding Filmmaker’s Companion Understanding Display Quality 101</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-unlocking-igtv-potential-converting-and-curating-horizontal-videos/"><u>2024 Approved Unlocking IGTV Potential Converting and Curating Horizontal Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pef-png-movavi/"><u>免費在線 PEF 至 PNG 轉換 - 使用Movavi簡化流程</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-ultimate-compatibility-unveiling-the-hidden-charging-capability-of-this-multi-functional-thunderbolt-dock/"><u>Discover the Ultimate Compatibility: Unveiling the Hidden Charging Capability of This Multi-Functional Thunderbolt Dock</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-14-pro-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 14 Pro without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-apple-iphone-14-pro-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 14 Pro Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-step-by-step-guide-for-top-picture-editor/"><u>In 2024, Step-by-Step Guide for Top Picture Editor</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-2023-guide-to-best-in-class-professionals-spinning-cameras/"><u>In 2024, The 2023 Guide to Best-in-Class Professionals' Spinning Cameras</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transforming-movies-into-virtual-reality-realms/"><u>In 2024, Transforming Movies Into Virtual Reality Realms</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-guide-to-selecting-6-premium-live-audio-devices/"><u>In 2024, Ultimate Guide to Selecting 6 Premium Live Audio Devices</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-track-in-the-air-parody-anthems-for-2024/"><u>Laugh Track in the Air Parody Anthems for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/strategies-to-procure-perfect-photographic-archives-for-2024/"><u>Strategies to Procure Perfect Photographic Archives for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Mastering Printer Configuration & Control in Windows 11 – A Comprehensive How-To
-date: 2024-11-18T17:04:10.496Z
-updated: 2024-11-19T19:48:32.502Z
+date: 2024-11-22T18:24:12.370Z
+updated: 2024-11-28T21:32:17.901Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Mastering Printer Configuration & Control in Windows 11 – A Comprehensive How-To
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -25,6 +29,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Windows 10 has a new Settings window for configuring printers, but you can still use the old Control Panel tools, too. Here's what you need to know about installing, configuring, sharing, and troubleshooting printers on Windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Add a Printer
 
  To add a printer, head to Settings > Devices > Printers & Scanners. Click the "Add a Printer or Scanner" button to search for nearby printers, whether they're hooked up to your PC or connected to the network.
@@ -33,26 +41,31 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![img_5b760d1fde54b](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760d1fde54b.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also use the old interface at Control Panel > Hardware and Sound > Devices and Printers. Click the "Add a Printer" button to get started.
 
  However you install the printer, Windows will probably download the necessary printer drivers on the fly. If this doesn't work, visit the printer manufacturer's website to download and install the appropriate drivers or software package for your model of printer. For some printers, such as all-in-one printers, you might also need to visit the manufacturer's website for drivers and apps that let you access the added functionality.
 
 ![img_5b760d447a301](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760d447a301.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can remove a printer from here, too, if you like. In the Settings window, click a printer and click "Remove Device." In the Control Panel, right-click a printer and select "Remove Device."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Change Printing Preferences
 
  To change your printer's settings, head to either Settings > Devices > Printers & Scanners or Control Panel > Hardware and Sound > Devices and Printers. In the Settings interface, click a printer and then click "Manage" to see more options.
 
 ![img_5b760d784359d](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760d784359d.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the Control Panel, right-click a printer to find various options.
 
@@ -69,10 +82,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![img_5b760ef96454b](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760ef96454b.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Change Printer Device Settings
@@ -81,26 +91,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![img_5b760dc514f59](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760dc514f59.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The General tab of the properties window provides information about the printer's features and what drivers it's using. You can change the printer's name or add location details and comments. For example, you might want to enter a location like "Main Office" or "Second Floor Copy Room" so people can see exactly where a shared network printer is. The "Print Test Page" button here lets you quickly print a test page.
 
 ![img_5b760f54e0215](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760f54e0215.png) 
 
  On the "Advanced" pane, you'll even see an option that lets you choose when the printer is available. For example, if you only want to use your printer during business hours, you could select 9 am to 5 pm here. People wouldn't be able to print to the printer outside of your selected hours, which is especially useful if you've configured it as a network printer and don't want people printing to it during off hours.
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ![](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760f9652249.png)How to Print a Test Page
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can quickly check whether your printer is working and configured properly by printing a test page. Locate the printer in Settings > Devices > Printers & Scanners, click it, click the "Manage" button, and click the "Print a test page" link.
 
@@ -109,20 +114,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  From the Control Panel interface, right-click a printer and select "Printer Properties." Click the "Print Test Page" button.
 
 ![img_5b761244d9161](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b761244d9161.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Set Your Default Printer
 
@@ -155,22 +146,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![img_5b761558b26c8](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b761558b26c8.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also click the Printer menu and use the various options to manage your entire queue. For example, you can click Printer > Pause Printing to temporarily pause all print jobs until you unpause them, or click Printer > Cancel All Documents to cancel all pending print jobs.
 
 ![img_5b761543dc6fd](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b761543dc6fd.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Create Multiple Printer Profiles
 
@@ -179,6 +160,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Rather than toggling the settings back and forth every time you use the printer, you can [add multiple printer devices that point at the same underlying physical printer](https://screen-recording.techidaily.com/in-2024-perfecting-ipad-display-recordings/). Think of these as multiple printer profiles you can select between while printing documents.
 
 ![img_5b76026c81a21](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b76026c81a21.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Set Up a Shared Printer
 
@@ -189,13 +174,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  To [share a printer](https://iphone-unlock.techidaily.com/in-2024-forgot-apple-iphone-6-plus-backup-password-heres-what-to-do-drfone-by-drfone-ios/), open the printer's Properties dialog. To do so via the new interface, head to Settings > Devices > Printers & Scanners, click the printer's name, click "Manage," and then click "Printer Properties." To do it in the old way, head to Control Panel > Hardware & Sound > Devices and Printers, right-click the printer, and then select "Printer Properties." Click the "Sharing" tab, check the "Share this printer" option, and give the printer a name.
 
 ![img_5b76108e3056f](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b76108e3056f.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  With the default settings, people on your local network can find the printer—but they'll need the username and password of an account on your computer to connect to it. The printer should be automatically detected as an available printer in the normal Add Printer interface. Bear in mind that the printer won't be available while your computer is asleep.
 
@@ -232,18 +210,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-virtual-expansion-top-7-gear-choices-for-metavisionaries/"><u>[Updated] 2024 Approved Virtual Expansion Top 7 Gear Choices for Metavisionaries</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-how-to-use-9gag-to-create-meme/"><u>[Updated] How to Use 9GAG to Create Meme</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-summit-elite-production-space-25/"><u>[Updated] Summit Elite Production Space 25</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-importance-of-secondary-footage-in-engaging-editors/"><u>[Updated] The Importance of Secondary Footage in Engaging Editors</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-10-vector-graphics-tools-to-shape-your-creative-vision/"><u>[Updated] Top 10 Vector Graphics Tools to Shape Your Creative Vision</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-edit-suite-for-mobile-app-devices/"><u>[Updated] Ultimate Edit Suite for Mobile App Devices</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-sparks-limits-explored-by-djis-new-contender-mavic-air/"><u>2024 Approved Spark's Limits Explored by DJI's New Contender, Mavic Air</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Oppo Reno 11 5G | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-samsung-galaxy-f15-5g-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Samsung Galaxy F15 5G?</u></a></li>
-<li><a href="https://win11.techidaily.com/the-essential-guide-for-using-winstall-for-group-applications-on-windows-11/"><u>The Essential Guide for Using Winstall for Group Applications on Windows 11</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-premier-software-selection-for-youtube-intros-for-2024/"><u>The Premier Software Selection for YouTube Intros for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/transforming-srt-files-into-text-a-speedy-expertise-guide-for-2024/"><u>Transforming SRT Files Into Text A Speedy Expertise Guide for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/voice-controlled-ai-takes-the-wheel-mercedes-benz-adds-chatgpt-feature/"><u>Voice-Controlled AI Takes the Wheel: Mercedes-Benz Adds ChatGPT Feature</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-mastering-selfies-on-instagram-a-guide-for-2024/"><u>[New] Mastering Selfies on Instagram A Guide for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-foodie-frenzy-elite-tiktok-cooks/"><u>[Updated] Foodie Frenzy Elite TikTok Cooks</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-from-concept-to-capture-the-journey-with-bandicam-screen-recorder-for-2024/"><u>[Updated] From Concept to Capture The Journey with Bandicam Screen Recorder for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-create-your-own-whatsapp-ringtone-a-comprehensive-guide-to-ios-and-android/"><u>[Updated] In 2024, Create Your Own WhatsApp Ringtone - A Comprehensive Guide to iOS & Android</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-quickest-way-to-entertain-kapwing-memes/"><u>[Updated] The Quickest Way to Entertain - Kapwing Memes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-essentials-of-whatsapp-call-messages/"><u>2024 Approved The Essentials of WhatsApp Call Messages</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/conversion-gratuite-de-fichier-m2p-a-mp3-sur-internet-avec-movavi/"><u>Conversion Gratuite De Fichier M2P À MP3 Sur Internet Avec Movavi</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/crafting-compact-comforts-essential-mc-abodes-for-beginners-for-2024/"><u>Crafting Compact Comforts Essential MC Abodes for Beginners for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-iphone-13-pro-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone 13 Pro Lock Screen</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-free-speech-finesse-in-online-combat/"><u>In 2024, Free Speech Finesse in Online Combat</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamline-your-video-experience-with-advanced-vlc-techniques-macos/"><u>In 2024, Streamline Your Video Experience with Advanced VLC Techniques (macOS)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-path-to-perfect-podcast-scripts-writing-techniques-and-free-example-guides/"><u>In 2024, The Path to Perfect Podcast Scripts Writing Techniques & Free Example Guides</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-upcoming-appraisal-innovative-opinions/"><u>In 2024, Upcoming Appraisal Innovative Opinions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximize-your-savings-with-the-35-echo-and-blink-combo-for-a-smarter-home-the-ultimate-prime-day-finale/"><u>Maximize Your Savings with the $35 Echo & Blink Combo for a Smarter Home - The Ultimate Prime Day Finale</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/practical-techniques-transforming-ogv-files-into-high-quality-mp4-videos/"><u>Practical Techniques: Transforming OGV Files Into High-Quality MP4 Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-language-of-interaction-engaging-viewers-on-youtube-for-2024/"><u>The Language of Interaction Engaging Viewers on YouTube for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-pathway-to-free-final-cut-pro-for-2024/"><u>The Pathway to Free Final Cut Pro for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-the-power-of-chatgpt-tips-for-seamless-integration-with-your-smartphone/"><u>Unlock the Power of ChatGPT: Tips for Seamless Integration with Your Smartphone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-the-secret-to-a-streamlined-tiktok-bio-with-linktree-for-2024/"><u>Unlocking the Secret to a Streamlined TikTok Bio with Linktree for 2024</u></a></li>
 </ul></div>
 

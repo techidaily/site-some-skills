@@ -1,7 +1,7 @@
 ---
 title: Kickstart Your Workday Effortlessly with a Handy Mac Shortcut!
-date: 2024-11-15T21:52:08.892Z
-updated: 2024-11-19T18:37:57.625Z
+date: 2024-11-27T21:28:45.940Z
+updated: 2024-11-28T17:03:27.405Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Kickstart Your Workday Effortlessly with a Handy Mac Shortcut!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -20,10 +24,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  I’ve played around with [Apple’s Shortcuts app](https://win-solutions.techidaily.com/expert-tips-for-when-you-cant-get-far-cry-6-running-on-your-desktop/) to create all kinds of complicated processes. But my favorite shortcut, and the one I use the most by far, is actually ridiculously simple. All it does is open all my work apps, but I recommend it to everyone.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Makes This Shortcut So Great
@@ -41,10 +42,7 @@ Your browser does not support the video tag.
  But enough waxing lyrical about why I love this shortcut, here’s how to try it for yourself. Honestly, it couldn’t be easier.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Create a Shortcut That Opens All Your Work Apps
@@ -64,10 +62,7 @@ Close
 ![Several actions to open apps in a Mac Shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/several-actions-to-open-apps-in-a-mac-shortcut.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  At the top of the Shortcuts window, type a name for your shortcut. I call mine “Start Working.” Then click the icon to edit the color and symbol if you want. Finally, click the Shortcut Details button in the top-right corner, shown by an “i” button, to choose how to launch this shortcut. I like to enable“Pin to Menu Bar” so I can run it from the menu bar with a couple of clicks, but you could create a keyboard shortcut if you prefer.
@@ -95,20 +90,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-key-youtube-policies-every-channel-owner-must-understand/"><u>[Updated] Key YouTube Policies Every Channel Owner Must Understand</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-best-10-elements-that-enthrall-filmora-users/"><u>[Updated] The Best 10 Elements That Enthrall Filmora Users</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-comprehensive-handbook-for-recording-calls/"><u>[Updated] The Comprehensive Handbook for Recording Calls</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-instructions-for-prolonged-iphone-shots/"><u>[Updated] The Ultimate Instructions for Prolonged iPhone Shots</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unleash-your-potential-top-8-tablets-for-stellar-photo-editing/"><u>[Updated] Unleash Your Potential Top 8 Tablets For Stellar Photo Editing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unleashing-potential-a-guide-for-solitary-showrunners/"><u>[Updated] Unleashing Potential A Guide for Solitary Showrunners</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-vivo-y17s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Vivo Y17s | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-ios-of-apple-iphone-xs-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS of Apple iPhone XS? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-15-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone 15 (4 Methods) | Stellar</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-use-special-features-virtual-location-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Realme GT 5 Pro? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-itel-a60s-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Itel A60s</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-the-art-of-managing-marvelous-beings-in-your-system/"><u>Mastering the Art of Managing Marvelous Beings in Your System</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unraveling-imperator-rome-a-gritty-tale-of-conquest-and-kingdom-building/"><u>Unraveling Imperator: Rome - A Gritty Tale of Conquest and Kingdom Building</u></a></li>
-<li><a href="https://some-skills.techidaily.com/what-is-ai-and-its-associated-dangers/"><u>What Is AI and Its Associated Dangers?</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-camera-issues-decoded-understanding-and-fixing-error-0xa00f4292/"><u>Windows Camera Issues Decoded: Understanding and Fixing Error 0xA00F4292</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-seamlessly-transfer-spotify-songs-to-youtube-with-these-tools/"><u>[New] 2024 Approved Seamlessly Transfer Spotify Songs to YouTube with These Tools</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-expert-5-virtual-screenshots-tech/"><u>[New] Expert 5 Virtual Screenshots Tech</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-mastering-minecrafts-geometric-forms-circular-and-spherical-creation/"><u>[New] Mastering Minecraft's Geometric Forms Circular & Spherical Creation</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-total-mobility-assessment-2023-for-2024/"><u>[New] Total Mobility Assessment 2023 for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-updated-lg-bp550-features-and-reviews/"><u>[New] Updated LG BP550 - Features & Reviews</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-top-11-best-online-facebook-cover-photo-makers/"><u>[Updated] In 2024, Top 11 Best Online Facebook Cover Photo Makers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamlining-communication-the-art-of-using-zoom-in-win11/"><u>[Updated] Streamlining Communication The Art of Using Zoom in Win11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-ios-image-files-conversion-to-pdfs/"><u>[Updated] The Ultimate Guide IOS Image Files Conversion to PDFs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unblemished-visuals-buying-high-quality-images/"><u>[Updated] Unblemished Visuals Buying High-Quality Images</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-secrets-of-iphone-podcast-integration/"><u>[Updated] Unveiling the Secrets of iPhone Podcast Integration</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-hp-pro-mfp-color-laserjet-m477-printer-drivers-step-by-step-guide/"><u>Download HP Pro MFP Color LaserJet M477 Printer Drivers: Step-by-Step Guide</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/guia-de-recuperacion-de-particion-raw-para-sistemas-operativos-windows-desde-xp-hasta-la-mas-reciente-version/"><u>Guía De Recuperación De Partición RAW Para Sistemas Operativos Windows: Desde XP Hasta La Más Reciente Versión</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-digital-zooming-essentials-for-precision-screens/"><u>In 2024, Digital Zooming Essentials for Precision Screens</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-techniques-for-seamless-blending-of-hdr-photographs-in-lightroom/"><u>In 2024, Techniques for Seamless Blending of HDR Photographs in Lightroom</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-creativity-seamless-integration-of-title-and-caption-overlays-on-video-clips-via-microsoft-photos/"><u>In 2024, Unlocking Creativity Seamless Integration of Title & Caption Overlays on Video Clips via Microsoft Photos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/paramount-8-chatgpt-directions-to-curtail-digital-diversion/"><u>Paramount 8 ChatGPT Directions to Curtail Digital Diversion</u></a></li>
+<li><a href="https://extra-support.techidaily.com/peering-behind-the-scenes-of-youtube-reviews-for-2024/"><u>Peering Behind the Scenes of YouTube Reviews for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/subtitles-in-a-click-our-free-top-10-converter-picks-for-2024/"><u>Subtitles in a Click - Our Free, Top 10 Converter Picks for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/timeless-classics-most-iconic-anime-openers-for-2024/"><u>Timeless Classics Most Iconic Anime Openers for 2024</u></a></li>
 </ul></div>
 

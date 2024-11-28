@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Better Performance: Discover the 7 Crucial Windows Configurations That Must Stay On for Optimal Use"
-date: 2024-11-15T20:18:06.080Z
-updated: 2024-11-19T20:59:06.653Z
+date: 2024-11-26T17:53:07.443Z
+updated: 2024-11-28T18:00:03.152Z
 tags:
   - desktop
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/011cd437a5e5d10d41a78dcfee8a0e614c88ee22e
 * To protect your device from ransomware threats, infections, and other dangers, keep virus and threat protection, ransomware protection, and reputation-based protection settings enabled.
 
  Ads, suggestions, diagnostic data, and many other unnecessary settings are enabled by default in Windows. You can turn these off if you wish. However, you should never disable some features to protect your security and privacy. Today, I'll discuss some settings you should always keep enabled.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Keep Windows Update Enabled
 
@@ -36,38 +40,19 @@ Lucas Gouveia / How-To Geek | Microsoft
 ![The Windows Defender Firewall disabled.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/firewall.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  A [firewall](https://android-frp.techidaily.com/in-2024-top-5-oppo-k11-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/) acts as a barrier between your computer and harmful internet traffic. Think of it as a soldier on guard, monitoring incoming and outgoing network traffic and blocking anything suspicious. If malware sneaks into your device, this protection can prevent it from sending your data back to hackers so hackers can’t gain unauthorized access.
 
  When you [turn off your system’s firewall](https://screen-recording.techidaily.com/updated-in-2024-comprehensive-iptv-accessibility/), you remove this protection and leave your device vulnerable to viruses that can collect your data and send it to malicious hands. If you don’t want this to happen, never disable your firewall.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Ensure User Account Control Is Active
 
 ![User Account page in the Control Panel on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/52780813472_45b8f2acb1_o-3.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jason Fitzpatrick / How-To Geek  
@@ -82,29 +67,9 @@ Jason Fitzpatrick / How-To Geek
 
 ![Microsoft account login screen at Windows setup](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/windows-setup-microsoft-sign-in.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The login screen is your first line of defense against unauthorized access. While Windows allows you to [bypass the sign-in screen](https://network-issues.techidaily.com/gladiator-glitch-gadget-grind/), you should never do this. Disabling it might seem convenient to avoid entering a password or PIN, but it leaves your device vulnerable to anyone who can physically access it. They can access your data and make unauthorized changes.
 
  Even if you don't use your device in a shared environment, you should keep this protection in place since you never know who might get their hands on your device. If your device gets stolen, everything stored on it would be at the thief's mercy. So, tolerate the inconvenience of entering a password (or [use Windows Hello sign-in](https://extra-tips.techidaily.com/updated-capturing-brilliance-essential-angles-in-iphone-photography/)) and keep the login screen enabled.
-
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Keep Virus and Threat Protection Enabled
 
@@ -120,6 +85,10 @@ Jason Fitzpatrick / How-To Geek
 
 ![A laptop with the word &quot;Ransomware&quot; in big scary letters.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/9eb60bc8-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _[Zephyr\_P/Shutterstock](https://www.shutterstock.com/image-photo/male-hacker-hand-on-laptop-computer-1141202159)_
 
  Ransomware is one of the most prevalent online threats. This type of malware encrypts the data on your computer and demands a ransom in exchange for the decryption keys. Therefore, to regain access to your data, you'll need to pay the scammers a significant amount of money, as they dictate.
@@ -127,6 +96,10 @@ _[Zephyr\_P/Shutterstock](https://www.shutterstock.com/image-photo/male-hacker-h
  In most cases, you'll likely spend days negotiating with hackers to finalize the ransom deal, which can be problematic if you need the encrypted data sooner. If you choose not to pay, you might have to forgo your data and install a fresh operating system. Sometimes, even after paying, there’s no guarantee you’ll get your data back.
 
 [Windows provides ransomware protection](https://vimeo-videos.techidaily.com/in-2024-how-to-edit-videos-with-vimeo-create/) which blocks unauthorized apps from modifying your files. You should keep this feature enabled at all times.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Keep Reputation-Based Protection Features Active
 
@@ -157,21 +130,24 @@ _[Zephyr\_P/Shutterstock](https://www.shutterstock.com/image-photo/male-hacker-h
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-skys-the-limit-for-your-shots-blend-free-space-and-premium-subscriptions/"><u>[New] 2024 Approved Sky's the Limit for Your Shots Blend Free Space and Premium Subscriptions</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-elevate-your-content-11-steps-to-amplify-fb-video-performance-for-2024/"><u>[New] Elevate Your Content 11 Steps to Amplify FB Video Performance for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-full-analysis-compreenaside-with-camstudio-screencap/"><u>[New] Full Analysis Compreenaside with CamStudio Screencap</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-budgeting-essentials-for-your-music-video/"><u>[Updated] Budgeting Essentials for Your Music Video</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-swift-cinematic-skills-the-quickest-5-diy-hacks-for-success/"><u>[Updated] Swift Cinematic Skills The Quickest 5 DIY Hacks for Success</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-artisans-blueprint-for-striking-image-collage/"><u>[Updated] The Artisan's Blueprint for Striking Image Collage</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-trailblazers-in-the-world-of-virtual-reality/"><u>[Updated] Trailblazers in the World of Virtual Reality</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultra-hd-graphics-selection-top-picks/"><u>[Updated] Ultra HD Graphics Selection Top Picks</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-understanding-the-impact-activating-auto-hdr-feature-on-windows-11/"><u>[Updated] Understanding the Impact Activating Auto HDR Feature on Windows 11</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unleashing-your-creative-side-crafting-epic-metaverse-memes/"><u>[Updated] Unleashing Your Creative Side Crafting Epic Metaverse Memes</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unpacking-the-benefits-of-lgs-4k-sync-monitors/"><u>[Updated] Unpacking the Benefits of LG's 4K Sync Monitors</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/efficient-video-compression-techniques-for-faster-web-loading/"><u>Efficient Video Compression Techniques for Faster Web Loading</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/epochs-epic-journey-best-free-mmo-games-roundup-for-2024/"><u>Epoch's Epic Journey Best Free MMO Games Roundup for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-infinix-hot-30-5g-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Infinix Hot 30 5G to PC? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Nokia XR21? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-enabling-offline-viewing-of-youtube-videos-on-android-phones-and-tablets/"><u>Step-by-Step Tutorial: Enabling Offline Viewing of YouTube Videos on Android Phones & Tablets</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-best-screen-recorder-for-everyday-users/"><u>[New] 2024 Approved Best Screen Recorder for Everyday Users</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-step-by-step-techniques-for-sharing-videos-on-instagram/"><u>[New] In 2024, Step-by-Step Techniques for Sharing Videos on Instagram</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-is-inshot-outshining-others-in-editing-features/"><u>[New] Is InShot Outshining Others in Editing Features?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-understanding-investment-needs-on-youtube/"><u>[New] Understanding Investment Needs on YouTube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-undetectable-volume-variations-in-garageband-artistry/"><u>[New] Undetectable Volume Variations in Garageband Artistry</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-scripting-temporal-disruption-scenes/"><u>[Updated] Scripting Temporal Disruption Scenes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-luminous-images-a-comprehensive-lightroom-guide/"><u>[Updated] Unlocking Luminous Images A Comprehensive Lightroom Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unrivaled-script-authority-place/"><u>[Updated] Unrivaled Script Authority Place</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-magic-photo-management-decoded-by-reviews/"><u>2024 Approved Magic Photo Management Decoded by Reviews</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-gratis-lut-files-comprehensive-analysis-and-downloads/"><u>2024 Approved Top 10 Gratis LUT Files - Comprehensive Analysis & Downloads</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/3gpwebm-movavi/"><u>3GPファイルを無償でWEBMに簡単変換: Movaviのステップバイステップガイド</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-excessive-tiktok-drafts-simplify-with-smart-editing-techniques/"><u>In 2024, Excessive TikTok Drafts? Simplify with Smart Editing Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-choice-vr-game-engines-update-march-2023/"><u>In 2024, Top Choice VR Game Engines Update - March 2023</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-digital-realm-with-toms-computing-wisdom/"><u>Navigating the Digital Realm with Tom's Computing Wisdom</u></a></li>
+<li><a href="https://win-superb.techidaily.com/optimierte-dateisicherungsstrategien-durch-geplante-ausfuhrung/"><u>Optimierte Dateisicherungsstrategien Durch Geplante Ausführung</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-crusader-kings-2-startup-errors-successfully-explained/"><u>Resolving Crusader Kings 2 Startup Errors Successfully Explained</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-your-starcraft-2-computer-freezing-problems-a-guide/"><u>Solving Your StarCraft 2 Computer Freezing Problems: A Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-quintessential-quest-for-stories-worlds-best-1-8-schools-for-2024/"><u>The Quintessential Quest for Stories – World's Best #1-#8 Schools for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unexpected-video-pitch-flipped-images-on-instagram-for-2024/"><u>Unexpected Video Pitch Flipped Images on Instagram for 2024</u></a></li>
 </ul></div>
 

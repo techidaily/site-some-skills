@@ -1,7 +1,7 @@
 ---
 title: "Eliminating Unwanted Functionality in Microsoft Edge: A Step-by-Step Guide"
-date: 2024-11-14T01:22:43.172Z
-updated: 2024-11-20T01:03:01.550Z
+date: 2024-11-27T17:52:25.359Z
+updated: 2024-11-28T19:44:13.590Z
 tags:
   - deals
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
 * [Change the Look Of Your Edge Browser](https://screen-sharing-recording.techidaily.com/top-5-cost-effective-video-editing-software-for-gamers-for-2024/)
 * [Adjust Edge Web Services](https://buynow-marvelous.techidaily.com/navigating-the-pre-owned-ipad-market-a-buyers-top-five-guide/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * The Microsoft Edge home page displays a lot of unnecessary news and ads that you must disable to avoid being greeted with a cluttered screen.
@@ -25,19 +29,6 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
 * Additionally, you should customize the appearance of the Edge browser and disable all unnecessary web services.
 
  Despite being the market leader, Google Chrome still can't beat Microsoft Edge for me. However, the abundance of unnecessary features often clutters the simple browsing experience I'm looking for. If you're like me, here's how to remove all the clutter from Edge.
-
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Remove Clutter From Edge Home Page
 
@@ -48,10 +39,7 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
 ![Show Feed toggle in the Page Settings window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/show-feed-toggle-in-the-page-settings-window.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Edge also has a quick link section with links to various websites. These links are from companies that pay Microsoft to display them on the Edge home page. If you don’t want to see these links, click the gear icon and turn off the “Show Promoted Links” toggle.
@@ -72,21 +60,16 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
 
 ![Settings option in Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/settings-option-in-edge.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the Edge Settings menu, select "System and Performance" from the left sidebar and turn off the "Continue running background extensions and apps when Microsoft Edge is closed" and "Startup Boost" toggles on the right.
 
 ![Startup Boost option in Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/startup-boost-option-in-edge.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Change the Look Of Your Edge Browser
@@ -118,22 +101,16 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
 
 ![Favorites button in Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/favorites-button-in-edge.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Furthermore, you should also disable [Workspaces](https://extra-approaches.techidaily.com/2024-approved-smooth-sailing-with-kinemaster-in-film-edits/). It lets you organize open tabs into different categories. This feature is primarily for advanced users like project leaders or those who need to demonstrate Edge features to a large team. If you use Edge for general browsing, you should disable the "Show Workspaces" toggle.
 
 ![Show Workspaces toggle in Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/show-workspaces-toggle-in-edge.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Adjust Edge Web Services
@@ -143,13 +120,6 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
  To do that, open the Edge Settings window, select "Privacy, Search, and Services" in the left sidebar, and then find the Services section on the right side. Under the Services section, turn off the toggle for the services you don't want to use in the browser.
 
 ![Services section in Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/services-section-in-edge.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  I'd recommend disabling all the services, but you might want to keep services like "Save screenshots of sites for history." So, go through each service one by one and make sure to keep only those that you think will actually help improve your browsing experience.
 
@@ -172,16 +142,22 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-capturing-screen-content-via-built-in-recorders-in-the-mate-and-p-series-for-2024/"><u>[New] Capturing Screen Content via Built-In Recorders in the Mate and P Series for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-choosing-between-apples-macbook-air-and-pro-m1-performance-showdown/"><u>2024 Approved Choosing Between Apple's MacBook Air & Pro M1 Performance Showdown</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/addressing-chatgpts-compliance-concerns-new-features-in-google-news-and-strategies-for-superior-cellular-data-during-vacation/"><u>Addressing ChatGPT's Compliance Concerns, New Features in Google News, and Strategies for Superior Cellular Data During Vacation</u></a></li>
-<li><a href="https://some-skills.techidaily.com/how-reddit-limits-visibility-key-search-engines-barred-entry/"><u>How Reddit Limits Visibility: Key Search Engines Barred Entry</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-remove-nokia-c110-pin-by-drfone-android-unlock-android-unlock/"><u>How to remove Nokia C110 PIN</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-of-elegance-in-design-with-canvas-hidden-tips/"><u>In 2024, The Art of Elegance in Design with Canva's Hidden Tips</u></a></li>
-<li><a href="https://some-skills.techidaily.com/mozilla-firefox-enhances-user-experience-with-new-features-vertical-tabs-and-advanced-tab-groups/"><u>Mozilla Firefox Enhances User Experience with New Features: Vertical Tabs & Advanced Tab Groups</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ny-times-crossword-puzzle-solutions-todays-clues-and-answers-revealed-may-31st-edition/"><u>NY Times Crossword Puzzle Solutions - Today's Clues & Answers Revealed, May 31St Edition</u></a></li>
-<li><a href="https://some-skills.techidaily.com/passionate-about-personalizing-my-discord-presence-why-i-find-the-pricing-to-be-excessive/"><u>Passionate About Personalizing My Discord Presence - Why I Find The Pricing To Be Excessive</u></a></li>
-<li><a href="https://some-skills.techidaily.com/refined-aesthetics-microsofts-office-web-apps-get-stunning-revamp/"><u>Refined Aesthetics: Microsoft's Office Web Apps Get Stunning Revamp</u></a></li>
-<li><a href="https://win11.techidaily.com/the-windows-wrangler-guide-which-is-best-for-screen-capture/"><u>The Window's Wrangler Guide: Which Is Best for Screen Capture?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-bring-your-video-to-life-with-cropping-adding-and-tweaking-audio-in-canva/"><u>[Updated] 2024 Approved Bring Your Video to Life with Cropping, Adding, & Tweaking Audio in Canva</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-fresh-inspirations-for-streaming-topics/"><u>[Updated] Fresh Inspirations for Streaming Topics</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-breakdown-xstudio-video-production-mastery/"><u>[Updated] The Ultimate Breakdown XStudio Video Production Mastery</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleashing-potential-in-ar-applying-lut-techniques/"><u>[Updated] Unleashing Potential in AR Applying LUT Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-affordable-panoramic-cameras-under-100/"><u>2024 Approved Top Affordable Panoramic Cameras Under $100</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-mobile-experiences-ios-and-androids-vr-hits/"><u>2024 Approved Top Mobile Experiences IOS & Android's VR Hits</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-trailblazing-top-zooid-beginnings-list/"><u>2024 Approved Trailblazing Top Zooid Beginnings List</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transforming-windows-photos-viewer-with-creative-filter-settings-and-soundscape/"><u>2024 Approved Transforming Windows Photos Viewer with Creative Filter Settings & Soundscape</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleashing-your-iphone-the-top-techniques-for-skyline-pics/"><u>2024 Approved Unleashing Your iPhone The Top Techniques for Skyline Pics</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-sony-xperia-1-v-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Sony Xperia 1 V Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-exclusive-selection-of-cutting-edge-online-platforms-for-facebook-covers/"><u>In 2024, Exclusive Selection of Cutting-Edge Online Platforms for Facebook Covers</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Poco F5 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tickle-treasure-trove-uncovering-best-apps-for-memes/"><u>In 2024, Tickle Treasure Trove Uncovering Best Apps for Memes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transforming-your-content-delivery-the-power-of-onestream/"><u>In 2024, Transforming Your Content Delivery The Power of OneStream</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/personalize-fitness-journeys-with-top-7-gpt-utilities/"><u>Personalize Fitness Journeys with Top 7 GPT Utilities</u></a></li>
+<li><a href="https://fox-http.techidaily.com/rank-the-best-10-cost-free-image-enhancers-for-smartphone-users/"><u>Rank the Best 10 Cost-Free Image Enhancers for Smartphone Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-free-video-editing-software-for-mp4-files-best-picks/"><u>Top Free Video Editing Software for MP4 Files - Best Picks</u></a></li>
 </ul></div>
 

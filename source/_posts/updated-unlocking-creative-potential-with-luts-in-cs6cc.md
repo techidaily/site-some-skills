@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unlocking Creative Potential with LUTs in CS6/CC"
-date: 2024-08-20T23:26:50.853Z
-updated: 2024-08-21T23:26:50.853Z
+date: 2024-11-26T19:28:12.932Z
+updated: 2024-11-28T17:36:25.894Z
 tags: 
   - screen-recording
   - ai video
@@ -82,6 +82,10 @@ Preset and custom LUTs may not give you the finish you anticipate. As such, you 
 
 On the right side of your workspace is the Layers panel. It includes all the tools you need to edit your LUT. Remember, you need an Adjustment Layer to make changes to your LUTs. Additionally, you can save and export your custom LUTs for use across other video editing programs like Filmora.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Free LUTs to enhance your image in Photoshop CC
 
 You now have an understanding of how to use LUTs Photoshop to enhance your photos and films. However, the presets LUTs that come pre-installed are often basic and leave a lot to desire. So, what do you do to make your creations better?
@@ -92,9 +96,6 @@ Most creators resort to increasing their LUT library from external sources. You 
 
 Fix the Photo is an online professional photo editing company that has been operating since 2003\. Despite offering a range of premium services, they also offer freebies for you to use in your DIY projects. Additionally, they give you samples of what you can achieve with each free LUT pack to help you in deciding what works best.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![how to use luts in ps](https://images.wondershare.com/filmora/article-images/2022/03/luts-photoshop-1.jpg)
 
 You can download this free Classical Monochrome LUT pack to give your photos a soft and gentle finish. The LUT pack is ideal for wedding photos, fashion, and lifestyle photos.
@@ -103,9 +104,6 @@ You can download this free Classical Monochrome LUT pack to give your photos a s
 
 PH Learn is an online learning resource for aspiring photographers and filmmakers. It offers tutorials for the Adobe Creative Cloud Suite, along with free samples you can use to practice.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![free luts resource of ps - ph learn](https://images.wondershare.com/filmora/article-images/2022/03/luts-photoshop-2.jpg)
 
 Here is a free LUT photoshop pack for you to use. It features a variety of creative LUTs ideal for portraits and nature photography.
@@ -114,19 +112,17 @@ Here is a free LUT photoshop pack for you to use. It features a variety of creat
 
 Free Presets is another valuable LUT photoshop resource you must check out. It offers a variety of LUTs compatible with all your favorite editing programs including Photoshop CC. You can start with this color grading LUT collection to practice.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![free luts resource of ps - free presets](https://images.wondershare.com/filmora/article-images/2022/03/luts-photoshop-3.jpg)
 
 #### [4\. Envato Elements](https://elements.envato.com/anaglyph-photoshop-actions-83X6R2)
 
 The site is full of LUTs you can use across a variety of creative programs. However, you need to pay a subscription to get full access. Regardless, you may find one of their time-limited freebies if you keep checking.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![free luts resource of ps - Envato Elements](https://images.wondershare.com/filmora/article-images/2022/03/luts-photoshop-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### [5\. Giggster.com](https://giggster.com/guide/free-luts/)
 
@@ -229,8 +225,9 @@ Preset and custom LUTs may not give you the finish you anticipate. As such, you 
 On the right side of your workspace is the Layers panel. It includes all the tools you need to edit your LUT. Remember, you need an Adjustment Layer to make changes to your LUTs. Additionally, you can save and export your custom LUTs for use across other video editing programs like Filmora.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Free LUTs to enhance your image in Photoshop CC
 
 You now have an understanding of how to use LUTs Photoshop to enhance your photos and films. However, the presets LUTs that come pre-installed are often basic and leave a lot to desire. So, what do you do to make your creations better?
@@ -241,10 +238,11 @@ Most creators resort to increasing their LUT library from external sources. You 
 
 Fix the Photo is an online professional photo editing company that has been operating since 2003\. Despite offering a range of premium services, they also offer freebies for you to use in your DIY projects. Additionally, they give you samples of what you can achieve with each free LUT pack to help you in deciding what works best.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to use luts in ps](https://images.wondershare.com/filmora/article-images/2022/03/luts-photoshop-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can download this free Classical Monochrome LUT pack to give your photos a soft and gentle finish. The LUT pack is ideal for wedding photos, fashion, and lifestyle photos.
 
@@ -252,10 +250,11 @@ You can download this free Classical Monochrome LUT pack to give your photos a s
 
 PH Learn is an online learning resource for aspiring photographers and filmmakers. It offers tutorials for the Adobe Creative Cloud Suite, along with free samples you can use to practice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![free luts resource of ps - ph learn](https://images.wondershare.com/filmora/article-images/2022/03/luts-photoshop-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Here is a free LUT photoshop pack for you to use. It features a variety of creative LUTs ideal for portraits and nature photography.
 
@@ -263,18 +262,6 @@ Here is a free LUT photoshop pack for you to use. It features a variety of creat
 
 Free Presets is another valuable LUT photoshop resource you must check out. It offers a variety of LUTs compatible with all your favorite editing programs including Photoshop CC. You can start with this color grading LUT collection to practice.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![free luts resource of ps - free presets](https://images.wondershare.com/filmora/article-images/2022/03/luts-photoshop-3.jpg)
 
 #### [4\. Envato Elements](https://elements.envato.com/anaglyph-photoshop-actions-83X6R2)
@@ -324,12 +311,12 @@ For Win 7 or later (64-bit)
 For macOS 10.12 or later
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 **●** Regardless of the editing software you use, LUTs are essential to give your creations the extra boost they need to stand out. The LUT photoshop guide above is sufficient to help you unleash your creativity. Additionally, the free LUT resources give you the freedom to express your artform across different software. So, what are you waiting for? Put what you have read into practice and watch people craving more of your work. /p
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -353,8 +340,21 @@ For macOS 10.12 or later
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-fundamental-definitions-in-virtual-narrative-art/"><u>[New] Fundamental Definitions in Virtual Narrative Art</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-preserving-sims-4-moments-effective-strategies-for-recording-playthroughs/"><u>[New] Preserving Sims 4 Moments Effective Strategies for Recording Playthroughs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-structuring-stories-that-resonate-in-docu-cinema/"><u>[New] Structuring Stories That Resonate in Docu-Cinema</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-blueprint-to-establishing-an-online-review-community-for-toys/"><u>[Updated] The Blueprint to Establishing an Online Review Community for Toys</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-navigating-windows-11-movie-maker-your-ultimate-instruction-manual/"><u>2024 Approved Navigating Windows 11 Movie Maker Your Ultimate Instruction Manual</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tutorial-triumph-a-step-towards-a-million-view-goal/"><u>2024 Approved Tutorial Triumph A Step Towards a Million View Goal</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-express-faster-window-photo-sorter/"><u>In 2024, Express Faster Window Photo Sorter</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-swift-solution-for-effortless-srt-to-text-txt-transform/"><u>In 2024, The Swift Solution for Effortless SRT to Text (TXT) Transform</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-blueprint-of-writing-appealing-vlog-storylines-for-2024/"><u>The Blueprint of Writing Appealing Vlog Storylines for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-samsung-galaxy-f54-5g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Samsung Galaxy F54 5G</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-subtitles-quickly-best-8-converters-from-sub-to-streamlined-srtr-for-2024/"><u>Transform Subtitles Quickly! Best 8 Converters From SUB to Streamlined SRTR for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/trasforma-file-gsm-a-formato-wav-online-free-con-movavi-convertitore/"><u>Trasforma File GSM a Formato WAV Online Free Con Movavi - Convertitore</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-from-sketch-to-screen-10-best-cartoon-animation-apps-for-mobile/"><u>Updated From Sketch to Screen 10 Best Cartoon Animation Apps for Mobile</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-samsung-galaxy-z-flip-5-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Samsung Galaxy Z Flip 5 Auto Does Not Work | Dr.fone</u></a></li>
+</ul></div>
 

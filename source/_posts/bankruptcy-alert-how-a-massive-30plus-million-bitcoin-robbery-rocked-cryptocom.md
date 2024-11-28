@@ -1,7 +1,7 @@
 ---
 title: "Bankruptcy Alert: How a Massive $30+ Million Bitcoin Robbery Rocked Crypto.com"
-date: 2024-11-13T16:09:18.539Z
-updated: 2024-11-19T23:00:27.725Z
+date: 2024-11-26T20:30:38.315Z
+updated: 2024-11-28T21:07:03.146Z
 tags:
   - cutting-edge
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 
 ## Bankruptcy Alert: How a Massive $30+ Million Bitcoin Robbery Rocked Crypto.com
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Happened to Crypto.com?](https://youtube-video-recordings.techidaily.com/uncover-the-best-youtubes-top-10-vr-videos/)
@@ -19,10 +23,7 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
  A considerable hack occurred on the popular [cryptocurrency exchange](https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-itel-p40plus-phones-by-drfone-android/) Crypto.com. The hack led to over $30 million in crypto being stolen in the form of 4,836.26 Ethereum and 443.93 bitcoin.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Happened to Crypto.com?
@@ -42,10 +43,7 @@ Related: [What is Ethereum, and What Are Smart Contracts?](https://extra-informa
 > On Monday, 17 January 2022 at approximately 12:46 AM UTC Crypto.com's risk monitoring systems detected unauthorized activity on a small number of user accounts where transactions were being approved without the 2FA authentication control being inputted by the user. This triggered an immediate response from multiple teams to assess the impact. All withdrawals on the platform were suspended for the duration of the investigation. Any accounts found to be impacted were fully restored. Crypto.com revoked all customer 2FA tokens, and added additional security hardening measures, which required all customers to re-login and set up their 2FA token to ensure only authorized activity would occur. Downtime of the withdrawal infrastructure was approximately 14 hours, and withdrawals were resumed at 5:46 PM UTC, 18 January 2022.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Is Crypto.com Doing to Fix It?
@@ -77,14 +75,18 @@ Related: [Opera Just Launched a Crypto Browser for Some Reason](https://howto.te
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/updated-streamline-your-content-conversion-top-5-online-gif-to-video-hubs/"><u>[Updated] Streamline Your Content Conversion Top 5 Online GIF-to-Video Hubs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-streamlining-your-media-mastering-mp4-and-other-formats-in-vlc/"><u>[Updated] Streamlining Your Media Mastering MP4 & Other Formats in VLC</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-pinnacle-deskviewers-elite-all-in-one-display-hubs/"><u>2024 Approved Pinnacle DeskViewers Elite All-in-One Display Hubs</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/enhance-your-gaming-rig-resolve-lag-problems-in-the-division-2-before-the-next-patch/"><u>Enhance Your Gaming Rig: Resolve Lag Problems in 'The Division 2' Before the Next Patch</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-vivo-x100-pro-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Vivo X100 Pro in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-power-of-the-start-building-a-solid-intro-foundation-for-2024/"><u>The Power of the Start Building a Solid Intro Foundation for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-list-of-preferred-note-taking-tools/"><u>The Ultimate List of Preferred Note-Taking Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unite-video-files-into-playlist-assembly-for-2024/"><u>Unite Video Files Into Playlist Assembly for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-harmonizing-with-audacity-methods-for-shifting-pitch-without-losing-clarity/"><u>Updated 2024 Approved Harmonizing with Audacity Methods for Shifting Pitch Without Losing Clarity</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-tailored-audio-gear-choosing-mics-for-diverse-video-platforms/"><u>[New] Tailored Audio Gear Choosing Mics for Diverse Video Platforms</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-is-a-brief-subscribe-beneficial-for-content-consumption/"><u>[Updated] Is a Brief Subscribe Beneficial for Content Consumption?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-basic-tale-design-principles/"><u>2024 Approved Basic Tale Design Principles</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-paint-jocular-visuals-with-giphy-in-mind/"><u>2024 Approved Paint Jocular Visuals with Giphy in Mind</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-creativity-gratuity-in-humor-tools/"><u>2024 Approved Unleash Creativity Gratuity in Humor Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/best-8-dvd-convertors-compatible-with-both-windows-and-macos-a-comprehensive-guide/"><u>Best 8 DVD Convertors Compatible with Both Windows & macOS: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-nubia-red-magic-8s-proplus-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Nubia Red Magic 8S Pro+ to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-professionalising-a-roadmap-in-graphic-design/"><u>In 2024, The Art of Professionalising A Roadmap in Graphic Design</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-solutions-for-unfreezing-issues-in-path-of-exile/"><u>Quick Solutions for Unfreezing Issues in Path of Exile</u></a></li>
+<li><a href="https://some-skills.techidaily.com/superior-smartphones-that-dominate-in-video-recording-for-2024/"><u>Superior Smartphones That Dominate in Video Recording for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-editors-echo-chamber-for-2024/"><u>The Editor's Echo Chamber for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-online-seminar-title-crafter-for-2024/"><u>Ultimate Online Seminar Title Crafter for 2024</u></a></li>
 </ul></div>
 

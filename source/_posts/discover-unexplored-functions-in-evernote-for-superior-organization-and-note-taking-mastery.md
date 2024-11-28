@@ -1,7 +1,7 @@
 ---
 title: Discover Unexplored Functions in Evernote for Superior Organization and Note-Taking Mastery
-date: 2024-11-18T04:29:22.239Z
-updated: 2024-11-20T00:12:36.987Z
+date: 2024-11-26T16:35:00.175Z
+updated: 2024-11-28T20:53:19.695Z
 tags:
   - deals
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Evernote has many useful features that many users aren't aware of. You can use it to scan documents, get AI assistance, set reminders for deadlines, and record voice notes, among other things. If you use Evernote for note-taking, utilizing these features can help you unlock the app's full potential.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Digitally Scan and Organize Your Handwritten Notes
 
  If you frequently need to [scan handwritten notes](https://visual-screen-recording.techidaily.com/updated-in-2024-novices-route-to-excellent-game-editing-platforms/) and rely on other apps for this task, consider using Evernote’s built-in document scanning feature. This allows you to scan documents and import scanned images directly into your notes. The app employs OCR technology to make scanned notes searchable.
@@ -26,19 +30,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  This feature is available only in the smartphone app. To use it, open the Evernote's smartphone app, tap the "Create" button in the bottom-left corner and select "Scan."
 
 ![Opening document scanner in Evernote.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/open-document-scanner-in-evernote.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can either let Evernote automatically scan your notes or manually capture images of the content you want to scan. For scanning multiple pages, use the auto mode to scan each page consecutively. Once you’ve finished, tap “Save” to save the scanned images into one note.
 
@@ -55,10 +46,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Using AI assistance in the Evernote smartphone app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-1-using-ai-assistance-in-the-evernote-smartphone-app.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Record and Store Your Notes as Voice Memos
@@ -73,28 +61,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Recording a voice memo in Evernote.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-recording-a-voice-memo-in-evernote.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The memo will be saved in the same note; you can transcribe it by clicking the "Transcribe" button.
 
 ![Transcribing a voice note in Evernote.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-transcribing-a-voice-note-in-evernote.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Set Reminders to Keep Track of Deadlines
@@ -111,13 +87,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Adding a reminder for a task in the Evernote smartphone app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-4-adding-a-reminder-for-a-task-in-the-evernote-smartphone-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Use Tags to Find Your Content Quickly
 
  If you struggle to find files in a cluttered library of notes, you should start tagging them for easier retrieval. For example, tag all notes for chapters of a subject, like "Physics Chapter 3." This way, you'll be able to quickly find your related notes. Tags also help organize files more effectively, eliminating the need for numerous folders.
@@ -125,6 +94,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  To tag a file, click the tag symbol in the bottom-left corner of your note (desktop app) or top-right corner (smartphone app), type the desired tag, and press Enter.
 
 ![Creating a tag in Evernote.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-creating-a-tag-in-evernote.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Save Frequently Used Notes as Shortcuts
 
@@ -134,7 +111,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Adding a task to Shortcuts in Evernote.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/6-adding-a-task-to-shortcuts-in-evernote.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Open the note on the smartphone app, click on the three horizontal dots in the top-right corner, and select "Add to Shortcuts."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Manage Tasks Efficiently With To-Do Lists
 
@@ -146,13 +131,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Remember to delete your daily to-do list at the end of the day to keep your task management organized within the app.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Review Changes Over Time With Note History
 
  Like other note-taking apps, Evernote maintains a [record of previous versions](https://fix-guide.techidaily.com/how-to-change-your-tecno-spark-10-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/) of your notes. This feature is helpful if you make unintentional changes and want to undo them or want to track changes over time. However, note history is only accessible on the web and desktop versions of Evernote; it is not available on the smartphone app.
@@ -160,13 +138,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  To view previous versions of a note, click on the three horizontal dots in the top-right corner and select "Note History." This will display all earlier versions of the note and their respective dates and times. To view an older version, click "Export" to save it. If you want to revert your current note to a previous version, click "Restore."
 
 ![Checking a note's history in Evernote.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/8-checking-a-note-s-history-in-evernote.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -187,22 +158,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://blog-min.techidaily.com/1725287998581-ai-8/"><u>「使用 AI 技術改造記憶：8 種最佳無償影像修復工具」</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/audacity-track-splitting-mastery-a-comprehensive-how-to-guide/"><u>Audacity Track Splitting Mastery: A Comprehensive How-To Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Samsung Galaxy S23+? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-poco-x6-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Poco X6 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Motorola G24 Power | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Infinix Note 30 5G | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/innovative-management-solutions-for-multilingualism/"><u>Innovative Management Solutions for Multilingualism</u></a></li>
-<li><a href="https://some-skills.techidaily.com/june-20th-new-york-times-puzzle-solutions-and-answers-issue-375/"><u>June 20Th New York Times Puzzle Solutions & Answers (Issue #375)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/master-todays-topic-with-nyt-expertise-a-deep-dive-into-connections-hints-and-answer-for-may-30-354/"><u>Master Today’s Topic with NYT Expertise – A Deep Dive Into Connections Hints and Answer for May 30 (#354)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/my-experience-with-protondrive-a-comprehensive-review-of-the-secure-alternative-to-google-docs/"><u>My Experience with ProtonDrive - A Comprehensive Review of the Secure Alternative to Google Docs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-feature-alert-save-location-data-directly-on-your-device-with-google-maps/"><u>New Feature Alert: Save Location Data Directly on Your Device with Google Maps</u></a></li>
-<li><a href="https://some-skills.techidaily.com/open-source-paradise-why-github-stands-out-as-your-go-to-platform-for-collaborative-coding/"><u>Open Source Paradise: Why GitHub Stands Out as Your Go-To Platform for Collaborative Coding</u></a></li>
-<li><a href="https://some-skills.techidaily.com/potential-data-leak-how-the-theft-of-customer-information-from-ticketmaster-raises-alarm/"><u>Potential Data Leak: How the Theft of Customer Information From Ticketmaster Raises Alarm</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-new-york-times-crossword-solutions-unveiled-connect-and-conquer-the-june-26th-teaser-381/"><u>The New York Times Crossword Solutions Unveiled - Connect and Conquer the June 26Th Teaser (#381)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-8-crucial-cybersecurity-practices-for-the-digital-newcomer/"><u>Top 8 Crucial Cybersecurity Practices for the Digital Newcomer</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/ultimate-guide-to-secure-connectivity-discover-the-best-12-protection-tools-for-wireless-networks-featuring-malwarefox/"><u>Ultimate Guide to Secure Connectivity: Discover the Best 12 Protection Tools for Wireless Networks Featuring MalwareFox</u></a></li>
-<li><a href="https://win11.techidaily.com/win1011-reclaiming-your-sound-settings/"><u>Win10/11: Reclaiming Your Sound Settings</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-deciphering-finances-how-much-do-youtubers-earn-per-ad-for-2024/"><u>[New] Deciphering Finances How Much Do YouTubers Earn Per Ad for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-from-play-to-pause-save-games-via-obs/"><u>[Updated] In 2024, From Play to Pause Save Games via OBS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-picks-premium-and-economical-bdr-players-for-pcmac/"><u>[Updated] Top Picks Premium & Economical BDR Players for PC/Mac</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transformative-visuals-unleash-the-power-of-6-video-types/"><u>[Updated] Transformative Visuals Unleash the Power of 6 Video Types</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleashing-artful-expression-the-most-exceptional-9-sites-for-3d-graffiti-typefaces/"><u>[Updated] Unleashing Artful Expression The Most Exceptional 9 Sites for 3D Graffiti Typefaces</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-unveiling-the-simplest-tone-adjustments-in-pubg-for-2024/"><u>[Updated] Unveiling the Simplest Tone Adjustments in PUBG for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-exclusive-list-of-top-digital-tutorial-providers-sans-udemy/"><u>2024 Approved Exclusive List of Top Digital Tutorial Providers Sans Udemy</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-anatomy-of-apple-m1-chip-redefining-tech/"><u>2024 Approved The Anatomy of Apple M1 Chip, Redefining Tech</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-the-potential-of-snapchat-highlights/"><u>2024 Approved Unlocking the Potential of Snapchat Highlights</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-updated-tp-link-wireless-network-driver-802n-ac-for-windows-pcs/"><u>Download Updated TP-Link Wireless Network Driver (802.n AC) for Windows PCs</u></a></li>
+<li><a href="https://techidaily.com/factory-reset-on-apple-iphone-15-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/tribe-50-branding-banners-ready-to-unleash-for-2024/"><u>Free Tribe 50 Branding Banners Ready to Unleash for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-thanks-for-curating-premium-and-free-outro-themes/"><u>In 2024, Thanks for Curating Premium & Free Outro Themes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-3d-print-designs-a-guide-to-the-industrys-top-5-standards/"><u>Navigating 3D Print Designs: A Guide to the Industry's Top 5 Standards</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tap-out-of-tiktok-clutter-editing-guide-for-massive-drafts-for-2024/"><u>Tap Out of TikTok Clutter Editing Guide for Massive Drafts for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Linking Your Xbox Gamepad to Windows Computer"
-date: 2024-11-12T20:01:00.674Z
-updated: 2024-11-19T23:47:52.485Z
+date: 2024-11-22T21:23:23.879Z
+updated: 2024-11-28T18:59:50.372Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/c8166e8b96eec7a32e2c5447a156a34a01b3ade6d
 ---
 
 ## Ultimate Guide: Linking Your Xbox Gamepad to Windows Computer
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -33,13 +37,6 @@ Xbox
 
  Once you're done, go ahead and fire up [any game with controller support](https://extra-lessons.techidaily.com/step-by-step-to-mastering-adobes-cloud-storage-capabilities-and-options/) and have fun.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Connect an Xbox Wireless Controller to a PC Through Bluetooth
 
  If you'd rather avoid cable clutter, you can connect it to your PC using Bluetooth. If your PC doesn't have built-in Bluetooth, I strongly recommend purchasing a cheap [USB Bluetooth Dongle](https://www.amazon.com/TP-Link-Bluetooth-Receiver-Controller-UB500/dp/B09DMP6T22?tag=hotoge-20&ascsubtag=UUhtgUeUpU209809&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F729937%2Fhow-to-connect-an-xbox-wireless-controller-to-a-pc%2F&asc%5Fcampaign=Evergreen). This is how I connect my controller to my PC. It works just as well as onboard Bluetooth and doesn't introduce any noticeable input lag. 
@@ -48,16 +45,13 @@ Xbox
 
 ![Settings in the Windows 10 Start menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/settings.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In Settings, click "Devices."
 
 ![Windows 10 Settings Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/devices-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In Devices, make sure that you're on the "Bluetooth & Other Devices" page, and then click "Add Bluetooth or other device."
 
@@ -66,6 +60,10 @@ Xbox
  In the "Add a Device" window that appears, select "Bluetooth."
 
 ![Adding a Bluetooth device in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/bluetooth-select.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Next, put your Xbox Wireless Controller in [pairing mode](https://facebook-video-content.techidaily.com/new-2024-approved-master-10-social-media-movies/). First, power up the controller by pressing and holding the Xbox button.
 
@@ -76,6 +74,10 @@ Xbox
  Once the button lights up, hold the pairing button for a few seconds until the Xbox logo blinks rapidly. You can find the pairing button on the top above the USB port and between your LB and RB trigger buttons.
 
 ![Front view of the Xbox Wireless Controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/xbox-pair.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Xbox](https://www.xbox.com/en-US/accessories/controllers/xbox-wireless-controller-usb-c)
 
@@ -91,13 +93,6 @@ Xbox
 
  When you're done playing, it'll turn off automatically after a while, but you can also [turn the Xbox controller off](https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-google-pixel-fold-drfone-by-drfone-virtual/) manually to save battery life. To do this, press and hold the Xbox button or pop the batteries out.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Connect an Xbox Wireless Controller with an Xbox Wireless Adapter
 
  There's a third way to connect an Xbox controller to your PC, but it involves purchasing the separate [Xbox Wireless Adapter](https://www.amazon.com/Microsoft-Xbox-Wireless-Adapter-Windows-one/dp/B00ZB7W4QU?tag=hotoge-20&ascsubtag=UUhtgUeUpU209809&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F729937%2Fhow-to-connect-an-xbox-wireless-controller-to-a-pc%2F&asc%5Fcampaign=Evergreen) USB accessory. Thanks to the proprietary wireless protocol, the adapter boasts slightly lower latency and a better range. It also lets you connect up to eight Xbox controllers to your PC at the same time, and it lets you hook up a headset to your controller.
@@ -105,10 +100,7 @@ Xbox
 ![The Xbox Wireless adapter next to a controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/wirelsss-adapter.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Xbox](https://www.xbox.com/en-US/accessories/controllers/xbox-wireless-controller-adapter-windows)
@@ -118,13 +110,6 @@ Xbox
  The controller will automatically connect to your computer through the Xbox Wireless Adapter. If that doesn't work, go over the same steps for connecting the controller via Bluetooth, but instead of selecting "Bluetooth" under "Add a Device," select "Everything Else" to connect the controller to your PC via the adapter.
 
 ![The Bluetooth settings showing the "Add a device" window in WIndows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/adapter-bluetooth-settings.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -145,18 +130,20 @@ Xbox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-master-installation-process-of-wm6/"><u>[Updated] 2024 Approved Master Installation Process of WM6</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-taking-flight-in-video-editing-a-drone-perspective/"><u>[Updated] Taking Flight in Video Editing A Drone Perspective</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-art-of-capturing-attention-top-6-videos-to-watch/"><u>[Updated] The Art of Capturing Attention Top 6 Videos to Watch</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-art-of-extracting-youtube-written-captions-a-threefold-approach-for-success/"><u>[Updated] The Art of Extracting YouTube' Written Captions A Threefold Approach for Success</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-art-of-holding-attention-6-video-classifications/"><u>[Updated] The Art of Holding Attention 6 Video Classifications</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-premier-intro-list-for-panzoids/"><u>[Updated] The Premier Intro List for Panzoids</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-success-with-spotify-marketing-tips/"><u>[Updated] Unlocking Success with Spotify Marketing Tips</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-boost-video-influence-techniques-for-exceptional-client-spotlights/"><u>2024 Approved Boost Video Influence Techniques for Exceptional Client Spotlights</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Nubia Red Magic 8S Pro? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-do-i-sim-unlock-my-iphone-15-pro-by-drfone-ios/"><u>How Do I SIM Unlock My iPhone 15 Pro?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-6-plus-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 6 Plus to the Previous iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-remedies-to-restore-sound-on-your-computer-easy-solutions-proven-effective/"><u>Quick Remedies to Restore Sound on Your Computer - Easy Solutions Proven Effective</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726028294038-windows-media-player/"><u>Windows Media Player用ファイルの互換性拡張方法：詳細ガイド</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-open-gallery-timeless-visuals-no-rights-to-claim/"><u>[New] 2024 Approved Open Gallery Timeless Visuals No Rights to Claim</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/rafting-a-revenue-generating-online-presence-for-2024/"><u>[New] Crafting a Revenue-Generating Online Presence for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-luminous-images-a-comprehensive-lightroom-guide/"><u>[New] Unlocking Luminous Images A Comprehensive Lightroom Guide</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-audiovisual-synergy-infusing-music-into-vimeo-creations/"><u>[Updated] 2024 Approved Audiovisual Synergy Infusing Music Into Vimeo Creations</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-stream-selection-simplified-top-10-actionable-tips/"><u>[Updated] Stream Selection Simplified Top 10 Actionable Tips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-complete-handbook-of-xbox-one-zoom-communication/"><u>[Updated] The Complete Handbook of Xbox One Zoom Communication</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-revolutionizing-text-design-top-10-after-effects-templates/"><u>2024 Approved Revolutionizing Text Design Top 10 After Effects Templates</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-asus-rog-phone-8-pro-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Asus ROG Phone 8 Pro Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-did-your-iphone-6s-plus-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>In 2024, Did Your iPhone 6s Plus Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-through-virtual-lenses-exploring-vr-ar-and-mixed-reality/"><u>In 2024, Through Virtual Lenses Exploring VR, AR, and Mixed Reality</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-guide-to-economical-high-performance-asmr-microphones/"><u>In 2024, Ultimate Guide to Economical, High-Performance ASMR Microphones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-universal-srt-to-various-subtitle-formats-handbook/"><u>In 2024, Universal SRT to Various Subtitle Formats Handbook</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-art-of-color-correction-a-final-cut-pro-guide-for-2024/"><u>New The Art of Color Correction A Final Cut Pro Guide for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-out-in-the-stream-top-name-generators-reviewed/"><u>Stand Out in the Stream Top Name Generators Reviewed</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/toms-tech-the-ultimate-guide-to-computer-hardware/"><u>Tom's Tech: The Ultimate Guide to Computer Hardware</u></a></li>
 </ul></div>
 

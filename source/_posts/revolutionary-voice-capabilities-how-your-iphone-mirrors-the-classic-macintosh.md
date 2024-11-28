@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary Voice Capabilities: How Your iPhone Mirrors the Classic Macintosh"
-date: 2024-11-16T03:06:43.177Z
-updated: 2024-11-19T22:35:41.025Z
+date: 2024-11-27T20:01:28.920Z
+updated: 2024-11-28T22:04:56.379Z
 tags:
   - mobile
 categories:
@@ -23,17 +23,29 @@ The original Macintosh computer from 1984 could speak text in several voices. Ma
 
  The voices have also been used in some movies and TV shows over the years. Auto, the wheel-shaped automatic pilot from Pixar’s _WALL-E_, is [voiced by MacinTalk](https://www.youtube.com/watch?v=IJWc4PD317w) (either the Reed or Ralph voice, it’s hard to tell).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Try the Old Voices
 
  Most of the old MacinTalk voices have carried over to Apple’s modern platforms, including every iPhone and iPad. You can try them out by opening the Settings app and navigating to Accessibility > Live Speech. Turn on Live Speech if you haven’t already, then tap the menu for “English (US)” voices to see a full list.
 
 ![List of text-to-speech voices on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/img_8396.PNG) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The original Fred voice used in the Macintosh reveal event is still available, as well as Junior, Albert, Kathy, Bahh, Zarvox, Whisper, Jester, and others. A few are missing, including Rocko and Reed. Tap a voice to open its menu, where you can download the voice if it’s not already available.
 
  With a voice selected, press your power button three times to open the Live Speech menu. You can then type whatever you want, and press Send on the keyboard to say it in the selected voice.
 
 ![Typing a message for speech on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/img_deefe3a3587c-1.jpeg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Unfortunately, you can’t use any of the classic MacinTalk voices for Siri. You can also use them for the Spoken Content feature (also in the Accessibility settings), which adds a “Speak” button when you select text in most applications.
 
@@ -52,29 +64,18 @@ The original Macintosh computer from 1984 could speak text in several voices. Ma
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-gear-vr-compatibility-the-definitive-mobile-device-list-2023-edition/"><u>[New] Gear VR Compatibility The Definitive Mobile Device List - 2023 Edition</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-sj6-ultimate-face-off-with-xiaomis-yi-4k-genius/"><u>[New] SJ6 Ultimate Face-Off with Xiaomi's Yi 4K Genius</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-essential-guide-to-launching-a-zoom-session-on-android/"><u>[New] The Essential Guide to Launching a Zoom Session on Android</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-comprehensive-guide-to-top-8-collaborative-video-collage-tools-android/"><u>2024 Approved The Comprehensive Guide to Top 8 Collaborative Video Collage Tools (Android)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-5-audio-to-video-makers-online/"><u>2024 Approved Top 5 Audio to Video Makers Online</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-your-creativity-a-guide-to-crafting-custom-audio-on-android-phones/"><u>2024 Approved Unleash Your Creativity A Guide to Crafting Custom Audio on Android Phones</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-lava-blaze-2-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Lava Blaze 2 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ing-engaging-youtube-video-layouts/"><u>Crafting Engaging YouTube Video Layouts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-enhancements-for-apples-vision-pro-strategies-for-business-triumph-insights/"><u>Essential Enhancements for Apple's Vision Pro: Strategies for Business Triumph – Insights</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/expert-tips-on-repairing-malfunctioning-computer-audio-systems/"><u>Expert Tips on Repairing Malfunctioning Computer Audio Systems</u></a></li>
-<li><a href="https://games-able.techidaily.com/go-beyond-tv-to-uncover-additional-fallout-games/"><u>Go Beyond TV to Uncover Additional Fallout Games</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-screens-for-large-scale-youtubers/"><u>In 2024, Streamlining Screens for Large-Scale YouTubers</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-asus-rog-phone-8-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Asus ROG Phone 8? Fixed | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tips-for-dynamic-animations-using-movie-maker-for-2024/"><u>Tips for Dynamic Animations Using Movie Maker for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transformative-tech-review-magix-vpx-redefines-editing-for-2024/"><u>Transformative Tech Review Magix VPX Redefines Editing for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-animation-styles-pack-for-2024/"><u>Ultimate Animation Styles Pack for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/win11s-leading-free-screen-capture-software-ranked-1-5/"><u>Win11's Leading Free Screen Capture Software Ranked #1-5</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-client-visionaries-shaping-brand-narratives-through-video/"><u>[New] 2024 Approved Client Visionaries Shaping Brand Narratives Through Video</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-masterful-color-grading-explore-these-7-methods/"><u>[Updated] 2024 Approved Masterful Color Grading Explore These 7 Methods</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-maximize-visual-impact-on-youtube-adding-watermarks-and-logo-to-media-content/"><u>[Updated] 2024 Approved Maximize Visual Impact on YouTube Adding Watermarks & Logo to Media Content</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streaming-showdown-twitch-versus-youtube-unveiled/"><u>[Updated] Streaming Showdown Twitch Versus YouTube Unveiled</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elite-video-streaming-platforms-for-broadcast/"><u>Elite Video Streaming Platforms for Broadcast</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-how-to-craft-contagious-instagram-visuals/"><u>In 2024, How to Craft Contagious Instagram Visuals</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-present-day-drones-and-their-upcoming-role-evolution/"><u>In 2024, Present-Day Drones and Their Upcoming Role Evolution</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-from-iphone-xs-max-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID From iPhone XS Max Making It Possible</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-itel-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Itel</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-path-to-perfect-streams-streamlabs-plus-obs-for-mac-users-for-2024/"><u>The Path to Perfect Streams Streamlabs + OBS for Mac Users for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-walkthrough-for-implementing-gpt-3-features-in-openai-sandbox/"><u>The Ultimate Walkthrough for Implementing GPT-3 Features in OpenAI Sandbox</u></a></li>
+<li><a href="https://some-skills.techidaily.com/under-a-hundred-bucks-heres-your-top-5-drones-for-2024/"><u>Under a Hundred Bucks? Here's Your Top 5 Drones for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-creative-potential-in-photography-top-15-tricks-for-using-pixlr-for-2024/"><u>Unlock Creative Potential in Photography Top 15 Tricks for Using Pixlr for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Beyond Microsoft Phone Link: Embrace This Enhanced Mobile Connectivity Solution"
-date: 2024-11-17T02:45:45.995Z
-updated: 2024-11-19T20:12:40.499Z
+date: 2024-11-21T16:57:04.958Z
+updated: 2024-11-28T17:09:11.792Z
 tags:
   - deals
 categories:
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/1e11de4cf4f80ef092048741d4366db23f2bbee14
 
  Microsoft Phone Link is a great app that allows you to access your phone from your Windows PC. But what if you want to do that and also access your Windows PC from your phone? Well, here’s a feature-rich, versatile, cross-device wireless communication and data-sharing app: [KDE Connect](http://kdeconnect.kde.org/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Microsoft Phone Link: Features and Limitation
 
  The [Microsoft Phone Link app](https://www.microsoft.com/en-in/windows/sync-across-your-devices), formerly Your Phone, is a Microsoft application that enables you to connect Android or iOS smartphones to your PC. Once set up, you can access your phone notifications and connectivity status from your PC. You can also control your phone’s media player, volume, and Do Not Disturb (DND) settings, respond to texts, take phone calls (if Bluetooth enabled), and view & transfer files from your photo gallery.
@@ -32,20 +36,10 @@ thumbnail: https://thmb.techidaily.com/1e11de4cf4f80ef092048741d4366db23f2bbee14
 ![Microsoft Phone Link App overview on PC 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/microsoft-phone-link-app-overview-on-pc-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The app also provides advanced functionalities like phone screen mirroring, cross-device clipboard sharing, and opening phone apps on the PC. However, the complete Phone Link experience, including these advanced features, is only available to [mainly Samsung smartphones and a few other models](https://support.microsoft.com/en-gb/topic/supported-devices-for-phone-link-experiences-cb044172-87aa-9e41-d446-c4ac83ce8807). This makes the Phone Link app lackluster for most users with an unsupported smartphone. Luckily, all of us have got KDE Connect.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  What Is KDE Connect, and What Can It Do?
 
@@ -58,6 +52,10 @@ Close
  You can also activate or deactivate specific features by heading into the "Plugin Settings."
 
 ![Open Plugin settings on KDE Connect Phone App](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/open-plugin-settings-on-kde-connect-phone-app-2.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Just tap the toggle next to each option to enable or disable it.
 
@@ -91,16 +89,13 @@ Close
 
 ![Control Media Playback using KDE Connect](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/control-media-playback-using-kde-connect-2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Another feature I love is getting notified of incoming calls on my desktop**.** When you get a call on your phone, you’ll see the caller's name and the option to mute the call. Unfortunately, the option to receive calls right from your PC is missing.
 
 ![Incoming Phone call notification on PC via KDE Connect](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/incoming-phone-call-notification-on-pc-via-kde-connect-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  That said, you do get the handy option to automatically pause any media playback on your PC or reduce the volume when you get a call. To enable this, go to Plugin Settings on the KDE Connect PC app and check the "Pause media during calls" option.
 
@@ -120,6 +115,10 @@ Close
 
 Dibakar Ghosh | How-To Geek
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Transfer Large Files
 
  With KDE Connect, you can send large files from your PC to your phone and vice versa. To send files from your PC to your phone, right-click on the KDE Connect icon in the system tray, select your phone, and then select "Send a File/URL." A pop-up dialog box will appear from where you can either type in a URL or select a file and then send it to your phone. Alternatively, you can also browse your phone storage using KDE Connect by selecting the "Browse Device" feature and then drag and drop files between your phone and PC.
@@ -129,13 +128,6 @@ Dibakar Ghosh | How-To Geek
  Now, to send files from your Android phone to your PC, pick the file you want to send, press the share button, and select "KDE Connect" from the list of available options. Now, pick the connected PC where you want to send the file, and the transfer will start.
 
 Close 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Send Two-Way Inputs Between Phone and Desktop
 
@@ -148,10 +140,7 @@ Close
 Close 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Create Desktop Commands and Execute Them From Your Phone
@@ -163,19 +152,6 @@ Close
 Close 
 
  To test, tap on "Lock Screen," and your PC's screen will lock. Likewise, tap on "File Explorer" to open File Explorer. You’re only restricted by your imagination at this point.
-
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  What Happened to Screen Mirroring Though?
 
@@ -200,15 +176,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/demystifying-cryptocurrency-mining-a-comparison-between-proof-of-work-and-proof-of-stake/"><u>Demystifying Cryptocurrency Mining: A Comparison Between Proof of Work and Proof of Stake</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/device-unlock-oppo-find-x6-by-drfone-android-unlock-android-unlock/"><u>Device unlock Oppo Find X6</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/effortless-capture-of-webcast-radios-your-practical-guide/"><u>Effortless Capture of Webcast Radios Your Practical Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/elevate-your-ai-imagery-discover-the-top-8-midjourney-modifiers-that-enhance-creativity/"><u>Elevate Your AI Imagery: Discover the Top 8 Midjourney Modifiers That Enhance Creativity</u></a></li>
-<li><a href="https://network-issues.techidaily.com/ending-bdr-issues-on-ws-11-ws-10-ws-8-and-ws-7-windows/"><u>Ending BDR Issues on WS-11, WS-10, WS-8 & WS-7 Windows</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-gadgets-by-tom-your-ultimate-hardware-guide/"><u>Expert Insights on Gadgets by Tom - Your Ultimate Hardware Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/exploring-solana-the-emerging-ethereum-killer-explained/"><u>Exploring Solana: The Emerging 'Ethereum Killer' Explained</u></a></li>
-<li><a href="https://some-skills.techidaily.com/how-does-inside-out-positional-tracking-work-in-virtual-reality-environments/"><u>How Does Inside-Out Positional Tracking Work in Virtual Reality Environments?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solutions-for-common-issues-why-isnt-my-torrent-downloading/"><u>Solutions for Common Issues: Why Isn't My Torrent Downloading?</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-gaming-potential-android-on-win-11-through-google-services-access/"><u>Unlock Gaming Potential: Android on Win 11 Through Google Services Access</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-innovative-visionaries-choice-top-10-graphics-creation-apps/"><u>[New] 2024 Approved Innovative Visionaries' Choice Top 10 Graphics Creation Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-kinemaster-usage-and-top-alternative-platforms/"><u>[New] The Ultimate Guide to KineMaster Usage and Top Alternative Platforms</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-examination-of-samsung-photo-editor-features/"><u>[Updated] The Ultimate Examination of Samsung Photo Editor Features</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-timelapse-with-iphone-a-step-by-step-guide/"><u>[Updated] Timelapse with iPhone A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transform-your-snaps-with-smart-zoom-usage-in-snapchat/"><u>[Updated] Transform Your Snaps with Smart Zoom Usage in Snapchat</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-unlock-additional-instagram-filters-a-step-by-step-guide/"><u>[Updated] Unlock Additional Instagram Filters A Step-by-Step Guide</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782431-9781591432401-alien-world-order/"><u>Alien World Order | Free Book</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-free-substitutes-for-netflix-you-can-watch-now/"><u>Best Free Substitutes for Netflix You Can Watch Now</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-honor-magic-6-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Honor Magic 6</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-fixing-rtmp-streams-in-premiere/"><u>In 2024, The Ultimate Guide to Fixing RTMP Streams in Premiere</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-simple-x230-driver-installation-for-lenovo-notebooks/"><u>Quick and Simple X230 Driver Installation for Lenovo Notebooks</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/streamlining-your-instagram-archive-with-ease/"><u>Streamlining Your Instagram Archive with Ease</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-essence-of-color-in-photography-top-11-tutorials-for-2024/"><u>The Essence of Color in Photography (Top 11 Tutorials) for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unraveling-the-metaverse-an-analysis-of-6-complex-instances-for-2024/"><u>Unraveling the Metaverse An Analysis of 6 Complex Instances for 2024</u></a></li>
 </ul></div>
 

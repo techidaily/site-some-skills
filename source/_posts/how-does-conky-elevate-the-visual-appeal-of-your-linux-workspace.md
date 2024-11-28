@@ -1,7 +1,7 @@
 ---
 title: How Does Conky Elevate the Visual Appeal of Your Linux Workspace?
-date: 2024-11-13T21:27:55.189Z
-updated: 2024-11-19T23:45:49.024Z
+date: 2024-11-21T21:05:43.722Z
+updated: 2024-11-28T16:40:54.521Z
 tags:
   - desktop
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## How Does Conky Elevate the Visual Appeal of Your Linux Workspace?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Conky is a powerful system monitor software for Linux that allows you to customize widgets on your desktop for displaying various types of information.
@@ -18,13 +22,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * Installing Conky Manager provides a user-friendly interface for managing and activating widgets, and you can download stylish Conky themes to enhance your desktop experience.
 
  Want to give your Linux desktop a personal touch? With Conky, you’re just a few steps away from transforming it into a visually stunning and highly functional space that reflects your personal style and meets your needs. Let’s explore how you can make your Linux experience uniquely yours!
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Conky: Customizable Widgets for Your Linux Desktop
 
@@ -34,19 +31,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * **Display custom information:** Set up calendar view, to-do list, weather, etc.
 * **Choose information source:** Embed information from any third-party sources and show it on your desktop.
 * **Tweak appearance:** Complete control over the fonts, colors, and layouts of each widget.
-
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Installation and Set Up
 
@@ -90,30 +74,18 @@ Close
 
 ![Conky manager overview](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/conky-manager-overview.png) 
 
-![Using Conky Manager to Edit Conky Widgets](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/using-conky-manager-to-edit-conky-widgets.png) 
-
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Using Conky Manager to Edit Conky Widgets](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/using-conky-manager-to-edit-conky-widgets.png) 
 
 Close 
 
  By default, the Conky Manager comes with a number of widgets, but they aren’t eye-catching enough. Not to worry though, as there are talented folks who have developed dedicated Conky themes with stylish widgets that you can simply download and start using on your system, no code necessary.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Installing Conky Themes
@@ -123,6 +95,10 @@ Close
 ![Download the victorConky theme in a ZIP format.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/download-victorconky-theme.png) 
 
 ![Extract the victorConky zip file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/extract-the-victorconky-zip-file.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close 
 
@@ -136,16 +112,13 @@ mv victorConky ~/.conky
 
 ![Move the victorConky file to your home directory conky folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/move-victoconky-file-to-home-directory-conky-folder.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, the victorConky widgets should be accessible from the Conky Manager. Open it, and you should see a list of new widgets added. I personally liked the LinuxLarge widget and use it on my system. You can enable it by clicking the checkbox beside it.
 
 ![The victorConky widget enabled and visible on an Ubuntu desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/victorconky-widget-showcase.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Useful Resources
 
@@ -185,18 +158,21 @@ mv victorConky ~/.conky
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-a-step-by-step-approach-to-ending-live-sharing-on-laptops-and-tablets/"><u>[New] In 2024, A Step-by-Step Approach to Ending Live Sharing on Laptops and Tablets</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-innovating-the-open-a-podcasters-playbook/"><u>[New] In 2024, Innovating the Open A Podcaster's Playbook</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-unveiling-youtube-analytics-a-beginners-guide/"><u>[New] In 2024, Unveiling YouTube Analytics A Beginner's Guide</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-optimize-your-play-streaming-in-obs-studio-for-2024/"><u>[New] Optimize Your Play Streaming in OBS Studio for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-sticker-squash-a-pathway-to-clean-tiktok-videos/"><u>[New] Sticker Squash A Pathway to Clean TikTok Videos</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-dissecting-youtubes-strategy-to-empower-short-form-content-makers/"><u>[Updated] Dissecting YouTube’s Strategy to Empower Short-Form Content Makers</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/a-guide-honor-magic-5-pro-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Honor Magic 5 Pro Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/effective-techniques-for-eliminating-digital-rights-management-on-ebook-content/"><u>Effective Techniques for Eliminating Digital Rights Management on eBook Content</u></a></li>
-<li><a href="https://win-forum.techidaily.com/effortlessly-transform-ogv-videos-to-mp4-for-free-using-our-online-tool/"><u>Effortlessly Transform OGV Videos to MP4 for Free Using Our Online Tool</u></a></li>
-<li><a href="https://some-skills.techidaily.com/free-conversion-processes-from-lit-to-epub-for-enhanced-ebook-accessibility/"><u>Free Conversion Processes From LIT to EPUB for Enhanced eBook Accessibility</u></a></li>
-<li><a href="https://some-skills.techidaily.com/freedom-from-restrictions-eliminate-kindle-drm-to-enjoy-books-everywhere/"><u>Freedom From Restrictions: Eliminate Kindle DRM to Enjoy Books Everywhere</u></a></li>
-<li><a href="https://some-skills.techidaily.com/how-to-bypass-amazons-kindle-digital-rights-management-unlocking-azw-kfx-and-azw3-formats/"><u>How To Bypass Amazon's Kindle Digital Rights Management: Unlocking AZW, KFX & AZW3 Formats</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-meizu-21-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-driving-dreams-into-reality-the-premier-5-racer-simulators-for-2024/"><u>[New] Driving Dreams Into Reality The Premier 5 Racer Simulators for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-how-to-craft-standout-names-for-your-youtube-channel/"><u>[New] How to Craft Standout Names for Your YouTube Channel</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ros-insight-top-8-online-repositories-for-free-green-screen-scenery-for-2024/"><u>[New] Pros' Insight Top 8 Online Repositories for Free Green Screen Scenery for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-blueprinting-a-thrilling-film-flashpoint/"><u>[Updated] In 2024, Blueprinting a Thrilling Film Flashpoint</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-spotlight-synthesis-blending-lights-for-video-excellence-for-2024/"><u>[Updated] Spotlight Synthesis Blending Lights for Video Excellence for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-step-by-step-process-for-aesthetic-and-engaging-instagram-video-content-for-2024/"><u>[Updated] Step-by-Step Process for Aesthetic and Engaging Instagram Video Content for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-twittersphere-treasure-trove/"><u>[Updated] The Twittersphere Treasure Trove</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-exploration-inside-xcreative-media-suite/"><u>[Updated] The Ultimate Exploration Inside XCreative Media Suite</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transforming-photos-remove-background-with-ease/"><u>[Updated] Transforming Photos Remove Background with Ease</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-animated-magic-with-movie-maker-software/"><u>[Updated] Unveiling Animated Magic with Movie Maker Software</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/comprehensive-guide-to-enhancing-footage-in-gopro-studio/"><u>Comprehensive Guide to Enhancing Footage in GoPro Studio</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transform-images-top-5-android-tools/"><u>In 2024, Transform Images Top 5 Android Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-conversion-guide-sdr-to-stunning-hdr-visuals/"><u>In 2024, Ultimate Conversion Guide SDR to Stunning HDR Visuals</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-uncovering-budget-friendly-video-conferencing-tools-for-multiple-systems/"><u>In 2024, Uncovering Budget-Friendly Video Conferencing Tools for Multiple Systems</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-guide-premium-plugins-boosting-ae-projects-for-2024/"><u>Ultimate Guide Premium Plugins Boosting AE Projects for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-top-5-essential-android-photo-editing-software-for-2024/"><u>Unveiling Top 5 Essential Android Photo Editing Software for 2024</u></a></li>
 </ul></div>
 

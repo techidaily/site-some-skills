@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Tune & Time Lapses  Creating Music Videos with Your Phone\""
-date: 2024-08-20T23:30:05.856Z
-updated: 2024-08-21T23:30:05.856Z
+date: 2024-11-21T18:11:56.265Z
+updated: 2024-11-28T18:09:49.432Z
 tags: 
   - screen-recording
   - ai video
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/a65a2d3fb958e05df694286812a1e2454a9d6c6ff
 
 ![tripod](https://images.wondershare.com/filmora/article-images/jellyfish-metal-spring-tripod.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Know the technical details of your iPhone
 
  You can record HD video with your rear-facing camera once you have read up on how to do so. The iPhone allows you to shoot 4K video, and you can even determine the number of frames per second you want to capture, in order to create smooth, hi-resolution footage. As long as you have the iPhone 6 or above and it is running on at least iOS 9, you’ll be able to capture 4K footage.
@@ -49,39 +53,32 @@ thumbnail: https://thmb.techidaily.com/a65a2d3fb958e05df694286812a1e2454a9d6c6ff
 
  If you wish to opt for slo-mo video recording, you can shoot in 1080p HD at 120fps (170MB per min) or 240fps (480MB). Whichever option you choose, make sure your device has sufficient space to avoid missing out on the exceptional footage that you require.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iphone technical details](https://images.wondershare.com/filmora/article-images/Shooting-iPhone.jpg)
 
 ## Part 3: If possible, hire a video director
 
  No matter how confident you are working without a director, you can enhance the quality of your music video even further when you do hire one. A director can help you derive more value from your iPhone and use their knowledge of angles, lighting effects and much more to make the end results surpass your expectations. As you’ll be saving money by shooting your video with your iPhone, you can use the cash you have saved to send your video to the next level and make the outcome truly breathtaking.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![director](https://images.wondershare.com/filmora/article-images/director.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Edit on your computer
 
  The hard work isn’t over once the shoot has come to an end. By using professional editing software, you can add all sorts of dazzling effects and edit the final piece together in a way that just won’t be possible when using your iPhone alone. Editing software solutions like Filmore offer a range of features to boost the quality of your video including inbuilt audio synthesisers and special video effects, enabling you to match your music with your images perfectly. There are many exceptional music video editing software packages on the market that are simple to use and easy to get to grips with, even if you have little or no existing editing experience. You will almost certainly achieve better results by editing your video using your PC rather than your iPhone.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
  Many of us have dreamed of creating our own music videos to bring songs to life. Advancements in iPhone technology have made it much easier to turn your music video dreams to reality, whether you’re taking inspiration from the videos of modern stars like Kanye West, Taylor Swift and Rihanna or classic artists such as Madonna, Prince or Michael Jackson. You may be amazed to see the quality of what has been achieved in the world music video by people using little more than an iPhone and professional editing software. You are only limited by your imagination, so why not start thinking about ideas for music videos and plan a shoot today?
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -102,8 +99,9 @@ Follow @Ollie Mattison
 * [Part 4: Edit on your computer](#part4)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1: Using a tripod
 
  Footage shot with hand-held iPhones can be jerky, blurry and difficult to watch. To achieve the required level of stability, it’s a great idea to use a tripod. A tripod will help you produce a high-quality music video with a stable picture. Make sure you use a compact tripod that is easy to carry and operate to get the best results.
@@ -111,6 +109,10 @@ Follow @Ollie Mattison
  A tripod will help you if you are shooting static footage, but if you wish to move around whilst you are recording and still obtain outstanding footage you can use a gimbal. Gimbals are much more affordable than they once were and are ideal for vloggers in particular as well as those shooting action-fuelled scenes.
 
 ![tripod](https://images.wondershare.com/filmora/article-images/jellyfish-metal-spring-tripod.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Know the technical details of your iPhone
 
@@ -120,31 +122,27 @@ Follow @Ollie Mattison
 
  If you wish to opt for slo-mo video recording, you can shoot in 1080p HD at 120fps (170MB per min) or 240fps (480MB). Whichever option you choose, make sure your device has sufficient space to avoid missing out on the exceptional footage that you require.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iphone technical details](https://images.wondershare.com/filmora/article-images/Shooting-iPhone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3: If possible, hire a video director
 
  No matter how confident you are working without a director, you can enhance the quality of your music video even further when you do hire one. A director can help you derive more value from your iPhone and use their knowledge of angles, lighting effects and much more to make the end results surpass your expectations. As you’ll be saving money by shooting your video with your iPhone, you can use the cash you have saved to send your video to the next level and make the outcome truly breathtaking.
 
 ![director](https://images.wondershare.com/filmora/article-images/director.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: Edit on your computer
 
  The hard work isn’t over once the shoot has come to an end. By using professional editing software, you can add all sorts of dazzling effects and edit the final piece together in a way that just won’t be possible when using your iPhone alone. Editing software solutions like Filmore offer a range of features to boost the quality of your video including inbuilt audio synthesisers and special video effects, enabling you to match your music with your images perfectly. There are many exceptional music video editing software packages on the market that are simple to use and easy to get to grips with, even if you have little or no existing editing experience. You will almost certainly achieve better results by editing your video using your PC rather than your iPhone.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -157,7 +155,6 @@ Ollie Mattison
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -181,8 +178,26 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-top-4-remedies-enhancing-iphone-hdr-images-in-premiere-pro/"><u>[New] Top 4 Remedies Enhancing iPhone HDR Images in Premiere Pro</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unraveling-best-practices-for-effective-fb-healthcare-promos/"><u>[New] Unraveling Best Practices for Effective FB Healthcare Promos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-10-best-inspirational-movies-that-will-bring-you-hope-and-power/"><u>[Updated] 10 Best Inspirational Movies That Will Bring You Hope and Power</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-excellent-storage-upgrade-for-sony-a7s-ii-cameras/"><u>[Updated] Excellent Storage Upgrade for Sony A7S II Cameras</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harnessing-the-power-of-quality-photography-without-a-price-tag/"><u>[Updated] Harnessing the Power of Quality Photography Without a Price Tag</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-improve-viewability-master-the-art-of-adding-timestamps-to-youtube-urls/"><u>[Updated] Improve Viewability Master the Art of Adding Timestamps to YouTube URLs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-simplified-journey-for-metaverse-personas/"><u>[Updated] The Ultimate Simplified Journey for Metaverse Personas</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-studio-technique-breakdown-comprehensive-xvideooverview/"><u>2024 Approved Studio Technique Breakdown Comprehensive XVideoOverview</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-tier-rankings-for-podcasts-a-seo-masterclass/"><u>2024 Approved Top-Tier Rankings for Podcasts A Seo Masterclass</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-vivo-y100t-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Vivo Y100t Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-essential-iphone-podcast-retrieval-handbook/"><u>In 2024, The Essential iPhone Podcast Retrieval Handbook</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-ms-store-glitch-error-code-0x0-on-windows-1011/"><u>Resolving MS Store Glitch: Error Code 0X0 on Windows 10/11</u></a></li>
+<li><a href="https://win-online.techidaily.com/selectionner-la-solution-parfaite-aomei-mx-backunlocker-multiplateforme-le-meilleur-choix-de-sauvegarde-et-dassistance-pour-tous-vos-appareils-globalement.m1/"><u>Sélectionner La Solution Parfaite: AOMEI MX BackUnlocker Multiplateforme – Le Meilleur Choix De Sauvegarde Et D'Assistance Pour Tous Vos Appareils Globalement</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-experts-pathway-transforming-sdr-footage-into-hdri-for-2024/"><u>The Expert's Pathway Transforming SDR Footage Into HDRI for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-podcast-writers-toolkit-essential-strategies-and-samples-for-2024/"><u>The Podcast Writer's Toolkit Essential Strategies & Samples for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-infinix-smart-8-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Infinix Smart 8 Location | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-ranked-text-enhancers-for-after-effects-for-2024/"><u>Top-Ranked Text Enhancers for After Effects for 2024</u></a></li>
+<li><a href="https://win-tips.techidaily.com/tutorial-accessing-downloads-of-popular-discovery-channel-series-and-episodes-for-free/"><u>Tutorial: Accessing Downloads of Popular Discovery Channel Series & Episodes for Free</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-limitless-space-20-best-free-cloud-platforms-offering-1tbplus-for-2024/"><u>Unlock Limitless Space 20 Best Free Cloud Platforms Offering 1TB+ for 2024</u></a></li>
+</ul></div>
 

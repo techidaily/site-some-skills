@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Setting Up Full-Screen Color Selection Tools in Windows 10
-date: 2024-11-16T00:48:52.135Z
-updated: 2024-11-19T19:43:10.000Z
+date: 2024-11-22T22:15:34.970Z
+updated: 2024-11-28T16:22:45.090Z
 tags:
   - desktop
 categories:
@@ -11,10 +11,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Comprehensive Guide to Setting Up Full-Screen Color Selection Tools in Windows 10
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Install PowerToys and Enable Color Picker](https://fox-that.techidaily.com/troubleshooting-gps-issues-how-to-restore-location-services-on-an-iphone/)
 * [Activate Color Picker With a Keyboard Shortcut](https://win-amazing.techidaily.com/download-the-newest-magicard-rio-pro-driver-universal-compatibility-windows-1011-81-and-7-supported/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -24,21 +32,26 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Need to figure out a color quickly? Using [Microsoft's free PowerToys utility for Windows 10](https://facebook-video-footage.techidaily.com/updated-2024-approved-auto-play-youtube-iphoneandroid-no-notification/), you can instantly bring up a color picker with a keyboard shortcut and use your mouse cursor to identify any color on screen in hex, RGB, or HSL format. Here's how to do it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Install PowerToys and Enable Color Picker
 
  To use Microsoft's handy system-wide color picker, you'll need to [download PowerToys](https://github.com/microsoft/PowerToys/releases/) from Microsoft's website first. You'll find the latest release listed toward the top of the download page linked above. Download an EXE file such as "PowerToysSetup-0.78-x64.exe" (The name will vary based on the latest release.) and run it.
 
 ![Download the latest release of the PowerToys installer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/powertoys.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After the installation process is complete, launch PowerToys Settings by right-clicking the icon on your taskbar, or from your desktop or the Start menu.
 
 ![Right-click the PowerToys icon on the taskbar and select 'Settings.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/launch-powertoy-settings.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Click "Color Picker" in the sidebar, then make sure that the "Enable Color Picker" switch is in the "On" position.
@@ -49,13 +62,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Next, close PowerToys and get ready to grab some colors. The PowerToys Settings app does not need to be running for Color Picker to work.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Activate Color Picker With a Keyboard Shortcut
 
  Once Color Picker is enabled, you can use it at any time by pressing Windows+Shift+C (or whatever keyboard shortcut you chose) on your keyboard. After pressing the shortcut, you'll see a small pop-up box beside your mouse cursor that shows a square preview of the color you're pointing to and the [hexadecimal code](https://tech-hub.techidaily.com/discover-the-best-no-cost-audiobook-sites-for-young-readers-and-adolescents/) (often called "hex" for short) for that color.
@@ -65,13 +71,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  You can point your cursor at any color on screen that you want, including icons, applications, images, desktop backgrounds, the taskbar, and more. If you want more info on the color, click the left mouse button while hovering over it, and a window will pop up.
 
 ![The PowerToys Color Picker detail window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/color_detail_window.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This window displays the hex color code, the RGB (red, green, blue) value, and the HSL (hue, saturation, lightness) value of the color you just selected. If you'd like to copy one of those values (as a text string) to the clipboard, hover over it and click the "copy" icon that appears.
 
@@ -90,13 +89,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  If you'd like to leave this window and pick another color, click the eyedropper icon in the upper-left corner of the window.
 
 ![In Color Picker, click the eyedropper button to pick another color.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/pick_color_again.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The detail window will close and you can repeat the process again, selecting any color you'd like.
 
@@ -119,24 +111,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-6-best-digital-canvases-ideal-nft-services-for-artists/"><u>[New] The 6 Best Digital Canvases Ideal NFT Services For Artists</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-ranked-e-learning-presentation-palette/"><u>[New] Top-Ranked E-Learning Presentation Palette</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-value-packed-skyspace-service-big-data-at-low-cost/"><u>[New] Value-Packed SkySpace Service Big Data at Low Cost</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-inside-polarr-the-powerhouse-photo-toolkit-for-2024/"><u>[Updated] Inside Polarr The Powerhouse Photo Toolkit for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-artisan-editor-refining-video-transitions-with-inshot/"><u>2024 Approved The Artisan Editor Refining Video Transitions with Inshot</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-toolwiz-explored-detailed-review-for-image-enthusiasts/"><u>2024 Approved Toolwiz Explored Detailed Review for Image Enthusiasts</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-top-10-compact-dvd-viewers-on-a-go/"><u>2024 Approved Top 10 Compact DVD Viewers on a Go</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-vector-magic-discovering-the-10-software-picks-you-need/"><u>2024 Approved Vector Magic Discovering the 10 Software Picks You Need</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-contacts-from-moto-g23-by-fonelab-android-recover-contacts/"><u>Best Android Data Recovery - Retrieve Lost Contacts from Moto G23.</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/brightening-your-story-with-instagram-highlights-3-methods-for-2024/"><u>Brightening Your Story with Instagram Highlights (3 Methods) for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-se-2022-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone SE (2022) without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-realme-gt-neo-5-se-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Realme GT Neo 5 SE</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-motorola-moto-g23-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Motorola Moto G23 to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-supreme-artistry-studios-feedback-studio-review-2023/"><u>In 2024, Supreme Artistry Studios Feedback Studio Review 2023</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-best-of-both-worlds-2023s-device-agnostic-editors/"><u>In 2024, The Best of Both Worlds 2023’S Device-Agnostic Editors</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-s-best-free-mp4-video-editing-apps-ranked-and-reviewed/"><u>New S Best Free MP4 Video Editing Apps Ranked and Reviewed</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unleash-your-creativity-a-guide-to-30-video-inspirations-for-2024/"><u>Unleash Your Creativity A Guide to 30 Video Inspirations for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/warno-software-stability-overcoming-continuous-pc-breakdowns-and-errors/"><u>WARNO Software Stability: Overcoming Continuous PC Breakdowns and Errors</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/mp4avimov-moviebutler/"><u>オンラインでの自由なMP4/AVIファイルをMOVに簡単変換 - MOVIEBUTLER</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-from-xml-to-srt-a-step-by-step-solution-approach-for-2024/"><u>[New] From XML to SRT A Step-by-Step Solution Approach for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-unveiling-the-typical-podcasters-income/"><u>[New] Unveiling the Typical Podcaster's Income</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-simplifying-the-complex-an-in-depth-review-of-vida-app/"><u>[Updated] Simplifying the Complex An In-Depth Review of Vida App</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-funny-frenzy-discovering-the-top-tweets-for-laughter/"><u>2024 Approved Funny Frenzy Discovering the Top Tweets for Laughter</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-navigating-sierra-icloud-for-seamless-access/"><u>2024 Approved Navigating Sierra iCloud for Seamless Access</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ethical-path-to-engaging-interviews/"><u>2024 Approved The Ethical Path to Engaging Interviews</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-understanding-macos-11-big-sur-transition-tips/"><u>2024 Approved Understanding macOS 11 Big Sur Transition Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/compact-computing-reinvented-the-latest-m4-equipped-mac-mini-analyzed-is-it-the-new-standard-for-size-and-power-insights-from-zdnet/"><u>Compact Computing Reinvented: The Latest M4-Equipped Mac Mini Analyzed - Is It the New Standard for Size and Power? | Insights From ZDNET</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-and-setup-gb-memory-controller-for-windows/"><u>Download & Setup GB Memory Controller for Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-computer-gear-with-tom-a-comprehensive-resource/"><u>Exploring Computer Gear with Tom - A Comprehensive Resource</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-computing-systems-with-toms-technology-reviews/"><u>Exploring Computing Systems with Tom's Technology Reviews</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-ricoh-theta-s-complete-review/"><u>In 2024, Ricoh Theta S Complete Review</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transforming-your-iphone-footage-into-vr/"><u>In 2024, Transforming Your iPhone Footage Into VR</u></a></li>
+<li><a href="https://some-skills.techidaily.com/streamline-tiktok-usage-efficiently-change-user-numbers-for-2024/"><u>Streamline TikTok Usage Efficiently Change User Numbers for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-essential-guide-to-understanding-and-using-instagrams-music-features-for-2024/"><u>The Essential Guide to Understanding and Using Instagram's Music Features for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-tips-acquiring-high-quality-backdrop-visuals-for-2024/"><u>Top Tips Acquiring High-Quality Backdrop Visuals for 2024</u></a></li>
 </ul></div>
 

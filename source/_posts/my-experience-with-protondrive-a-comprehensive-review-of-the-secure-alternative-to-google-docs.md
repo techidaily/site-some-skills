@@ -1,7 +1,7 @@
 ---
 title: My Experience with ProtonDrive - A Comprehensive Review of the Secure Alternative to Google Docs
-date: 2024-11-13T20:38:52.497Z
-updated: 2024-11-20T01:30:19.689Z
+date: 2024-11-24T19:52:01.139Z
+updated: 2024-11-28T21:54:09.475Z
 tags:
   - web
 categories:
@@ -19,21 +19,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Proton Docs is the [latest feature of Proton Drive](https://win-answers.techidaily.com/fix-iphone-unrecognized-by-itunes-on-windows-11-solutions-and-tips/) and the first collaborative document editing tool to feature default end-to-end encryption. Not only does this give you privacy down to the keystroke, but your documents will also be protected against data breaches and third-party access.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What is Proton?
 
 ![A screenshot of the Proton home page displaying their services.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-07-135433.png) 
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Aran Folsom / How-To Geek | Proton
@@ -41,10 +36,7 @@ Aran Folsom / How-To Geek | Proton
  For those unfamiliar with them, Proton is a privacy-first tech company that began in 2014 with the launch of its private email service, [Proton Mail](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003906/https://proton.me/mail). They have since expanded to include Proton VPN, [Proton Pass](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003906/https://proton.me/pass)—a password manager, [Proton Calendar](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003906/https://proton.me/calendar), and [Proton Drive](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003906/https://proton.me/drive). Proton has also acquired the email alias service SimpleLogin, along with the note-taking app, Standard Notes. As their primary focus is internet privacy, all of their services provide end-to-end encryption by default without hindering productivity.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Proton Docs Vs. Google Docs
@@ -53,22 +45,12 @@ Aran Folsom / How-To Geek | Proton
 
 ![The Proton Docs user interface.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/docs.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Collaborating in real-time is also a breeze with easy-to-navigate sharing features and instant updates between users. These two aspects alone make using Proton Docs very intuitive for Google users.
 
 ![The Share Document dialogue in Proton Docs.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/share-document.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That said, there are some major differences. One of the biggest problems (and it is a fairly small one) for me is that the default font sizes are larger than the standard sizes of other document editing tools. Proton Docs defaults to size 16 font, whereas 11 or 12 is what you'd typically expect.
@@ -84,6 +66,10 @@ Aran Folsom / How-To Geek | Proton
  Not all of Proton’s differences are bad, though.
 
  I personally love the default paperless view, though I hope Proton adds an option to change this for users who aren’t as fond of it. I also appreciate that Proton Docs opens a new document or the Proton Drive home page in a new tab, unlike Google Docs, which operates within a single tab.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Is Proton Docs Worth the Switch?
 
@@ -106,21 +92,20 @@ Aran Folsom / How-To Geek | Proton
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-instaboomers-hook-your-audience-with-circular-content/"><u>[New] 2024 Approved InstaBoomers Hook Your Audience with Circular Content</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-metaverse-awaits-gear-up-with-these-tools/"><u>[New] The Metaverse Awaits Gear Up with These Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-15-masterpieces-in-stop-motion-cinema-history/"><u>[New] Top 15 Masterpieces in Stop-Motion Cinema History</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transformative-tactics-for-impeccable-hue-correction/"><u>[New] Transformative Tactics for Impeccable Hue Correction</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transformative-tiktok-techniques-unveiled/"><u>[New] Transformative TikTok Techniques Unveiled</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlock-the-full-potential-of-snapshots-on-iphones/"><u>[New] Unlock the Full Potential of Snapshots on iPhones</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-examining-the-efficiency-of-screenrecorderelite-for-2024/"><u>[Updated] Examining the Efficiency of ScreenRecorderElite for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-exploring-ancient-facebook-tales-your-pcmobile-checklist-for-2024/"><u>[Updated] Exploring Ancient Facebook Tales Your PC/Mobile Checklist for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-pinpointing-your-own-signature-tiktok-tag/"><u>[Updated] Pinpointing Your Own Signature TikTok Tag</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-vimeo-mastery-in-motion-building-high-impact-gifs-for-2024/"><u>[Updated] Vimeo Mastery in Motion Building High-Impact GIFs for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-novices-selection-guide-to-ideal-filming-cameras/"><u>2024 Approved Novice's Selection Guide to Ideal Filming Cameras</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/carbon-monoxide-binds-with-hemoglobin-more-effectively-than-oxygen-reducing-the-bloods-oxygen-carrying-capacity-and-can-lead-to-hypoxic-injury-to-the-heart.488/"><u>Carbon Monoxide Binds with Hemoglobin More Effectively than Oxygen, Reducing the Blood's Oxygen-Carrying Capacity and Can Lead to Hypoxic Injury to the Heart</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-device-not-identified-on-your-intelligent-cultra-e-reader-device-icue/"><u>Effective Fixes for 'Device Not Identified' On Your Intelligent CUltra E-Reader Device (ICUE)</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-6s-plus-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 6s Plus to the Previous iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-complete-sony-fdr-x1000-videography-guide-for-2024/"><u>The Complete Sony FDR-X1000 Videography Guide for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-10-best-introduction-editors-apps-for-2024/"><u>Top 10 Best Introduction Editors (Apps) for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-best-in-storytelling-eight-film-genre-showcase/"><u>[New] The Best in Storytelling Eight Film Genre Showcase</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tips-and-tricks-for-professional-audio-in-audacity/"><u>[New] Tips and Tricks for Professional Audio in Audacity</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-a-beginners-guide-to-recording-sims-4-sessions/"><u>[Updated] 2024 Approved A Beginner's Guide to Recording Sims 4 Sessions</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-breaking-down-the-secrets-of-impactful-asmr-video-creation/"><u>[Updated] 2024 Approved Breaking Down the Secrets of Impactful ASMR Video Creation</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-elevating-engagement-best-video-ideas-for-channels/"><u>[Updated] 2024 Approved Elevating Engagement Best Video Ideas for Channels</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transform-your-gaming-experience-kinemaster-pros-and-10-online-counterparts/"><u>2024 Approved Transform Your Gaming Experience KineMaster Pros & 10 Online Counterparts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-twirling-titans-olympic-ice-revelations/"><u>2024 Approved Twirling Titans Olympic Ice Revelations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/connect-with-ease-integrating-internal-solid-state-drives-into-usb-c-systems-for-pcs-and-macbooks-digitaltechadvice/"><u>Connect with Ease: Integrating Internal Solid State Drives Into USB-C Systems for PCs & MacBooks | DigitalTechAdvice</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-social-media-elite-playbook-cultivate-your-stardom-in-9-easy-steps/"><u>In 2024, The Social Media Elite Playbook Cultivate Your Stardom in 9 Easy Steps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-vault-explorers-superior-cloud-service-review/"><u>In 2024, Ultimate Vault Explorers Superior Cloud Service Review</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-unlock-potential-androidandioss-top-free-overlay-tools-guide/"><u>In 2024, Unlock Potential Android&iOS's Top Free Overlay Tools Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-soundscape-glitches-in-new-world-a-comprehensive-guide/"><u>Solve Your Soundscape Glitches in 'New World': A Comprehensive Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/speedy-audio-on-phone-ultimate-list-of-tools/"><u>Speedy Audio on Phone Ultimate List of Tools</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-galaxy-s23-fe-by-fonelab-android-recover-music/"><u>The way to get back lost music from Galaxy S23 FE</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-pick-of-computers-for-illustrators-in-depth-testing-and-analysis-techradar/"><u>Ultimate Pick of Computers for Illustrators: In-Depth Testing & Analysis | TechRadar</u></a></li>
 </ul></div>
 

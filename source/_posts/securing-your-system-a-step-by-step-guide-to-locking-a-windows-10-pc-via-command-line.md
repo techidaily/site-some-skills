@@ -1,7 +1,7 @@
 ---
 title: "Securing Your System: A Step-by-Step Guide to Locking a Windows 10 PC via Command Line"
-date: 2024-11-16T18:08:07.815Z
-updated: 2024-11-19T17:26:35.178Z
+date: 2024-11-27T17:42:22.211Z
+updated: 2024-11-28T16:11:15.207Z
 tags:
   - deals
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/2077f1c448ea137a042adda99cddc314210e83104
 ---
 
 ## Securing Your System: A Step-by-Step Guide to Locking a Windows 10 PC via Command Line
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -25,10 +29,7 @@ thumbnail: https://thmb.techidaily.com/2077f1c448ea137a042adda99cddc314210e83104
  One of the first rules of cyber security is to always lock your PC before stepping away. While it may not be the quickest way to lock your Windows 10 PC, you can do it using the Command Prompt.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Lock Your Windows 10 PC Using Command Prompt
@@ -38,10 +39,7 @@ thumbnail: https://thmb.techidaily.com/2077f1c448ea137a042adda99cddc314210e83104
 ![Click the Start button, search for 'cmd,' then open 'Command Prompt.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-launch-cmd.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Command Prompt will now open. Here, run this command to lock your Windows 10 PC.
@@ -50,20 +48,10 @@ Rundll32.exe user32.dll,LockWorkStation
 
 ![Locking your PC with Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-lock-pc-command-prompt.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once executed, your PC will be locked. You'll have to sign back in with your PIN, password, or whatever sign-in method you usually use.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Set the Lock Screen Timeout Setting Using Command Prompt
@@ -92,6 +80,10 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 
 ![Apply the setting to the currently active scheme.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-set-active.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now your [lock screen](https://driver-download.techidaily.com/1722977751917-synaptics-drivers-download-and-update-for-windows-easily/) will timeout after the set amount of time. Give it a try!
 
 <ins class="adsbygoogle"
@@ -109,24 +101,14 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-5-next-level-editors-to-transcend-the-standard-youtube-videos/"><u>[New] 5 Next-Level Editors to Transcend the Standard Youtube Videos</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-enhanced-video-clarity-on-iphone-and-android-platforms/"><u>[New] In 2024, Enhanced Video Clarity on iPhone & Android Platforms</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-secrets-to-compelling-presentations-ppt-on-mobile-and-desktop-gmeet/"><u>[New] In 2024, Secrets to Compelling Presentations PPT on Mobile & Desktop GMeet</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-premiere-pro-solutions-to-perfect-iphone-hd-video-exposure-balance/"><u>[New] Premiere Pro Solutions to Perfect iPhone HD Video Exposure Balance</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-fastest-video-recorder-clear-latency-free-action/"><u>[Updated] In 2024, Fastest Video Recorder Clear, Latency-Free Action</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/craft-unique-invites-with-these-top-video-maker-apps/"><u>Craft Unique Invites with These Top Video Maker Apps</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/forgot-iphone-15-plus-password-here-are-the-best-solutions-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Forgot iPhone 15 Plus Password? – Here are the Best Solutions | Stellar</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-oppo-a78-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Oppo A78?</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-animate-on-the-move-best-3d-animation-apps-for-android-iphone-and-ipad/"><u>In 2024, Animate on the Move Best 3D Animation Apps for Android, iPhone, and iPad</u></a></li>
-<li><a href="https://some-skills.techidaily.com/qualcomm-unveils-groundbreaking-arm-powered-windows-desktop-computing/"><u>Qualcomm Unveils Groundbreaking ARM-Powered Windows Desktop Computing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/resolving-javascript-bugs-a-step-by-step-guide-for-discord-users/"><u>Resolving JavaScript Bugs: A Step-by-Step Guide for Discord Users</u></a></li>
-<li><a href="https://some-skills.techidaily.com/securing-a-no-cost-copy-of-microsofts-latest-os-a-guide-to-windows-11/"><u>Securing a No-Cost Copy of Microsoft's Latest OS: A Guide to Windows 11</u></a></li>
-<li><a href="https://some-skills.techidaily.com/step-by-step-guide-launching-google-chrome-via-command-line-in-windows-11/"><u>Step-by-Step Guide: Launching Google Chrome via Command Line in Windows 11</u></a></li>
-<li><a href="https://some-skills.techidaily.com/step-by-step-guide-personalizing-your-windows-11-taskbar/"><u>Step-by-Step Guide: Personalizing Your Windows 11 Taskbar</u></a></li>
-<li><a href="https://some-skills.techidaily.com/step-by-step-instructions-for-resetting-microsoft-onedrive-on-windows-10-to-resolve-data-synchronization-errors/"><u>Step-by-Step Instructions for Resetting Microsoft OneDrive on Windows 10 to Resolve Data Synchronization Errors</u></a></li>
-<li><a href="https://some-skills.techidaily.com/temporary-halt-of-the-windows-11-memory-restoration-capability-announced-by-microsoft/"><u>Temporary Halt of the Windows 11 Memory Restoration Capability Announced by Microsoft</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-8-essential-factors-to-consider-when-purchasing-a-pre-owned-windows-laptop/"><u>Top 8 Essential Factors to Consider When Purchasing a Pre-Owned Windows Laptop</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-8-solutions-for-when-your-laptop-wont-charge-despite-being-connected/"><u>Top 8 Solutions for When Your Laptop Won't Charge Despite Being Connected</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-secrets-behind-wi-fi-calls-your-ultimate-faq/"><u>Unlocking the Secrets Behind Wi-Fi Calls - Your Ultimate FAQ</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-demystifying-the-world-of-youtube-shorts/"><u>[New] 2024 Approved Demystifying the World of YouTube Shorts</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-mastering-stunning-photographic-mosaics/"><u>[Updated] 2024 Approved Mastering Stunning Photographic Mosaics</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-obs-or-streamlabs-determining-the-superior-livestream-software-for-2024/"><u>[Updated] OBS or Streamlabs? Determining the Superior Livestream Software for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-compreenasive-studio-guide-deep-xvideoinsight/"><u>[Updated] The Compreenasive Studio Guide Deep XVideoInsight</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-exclusive-discoveries-prime-websites-and-methods-to-download-tamil-ringtone-files/"><u>2024 Approved Exclusive Discoveries Prime Websites & Methods to Download Tamil Ringtone Files</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-prodigys-pathway-expert-techniques-for-iphone-podcast-downloads/"><u>2024 Approved The Prodigy's Pathway Expert Techniques for iPhone Podcast Downloads</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-top-notch-visuals-a-cost-free-approach/"><u>2024 Approved Unlocking Top-Notch Visuals A Cost-Free Approach</u></a></li>
+<li><a href="https://games-able.techidaily.com/perfect-20-mobile-gaming-sets-for-social-interaction/"><u>Perfect 20 Mobile Gaming Sets for Social Interaction</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-new-wave-of-coding-excellence-av1-vs-vp9-face-off-for-2024/"><u>The New Wave of Coding Excellence AV1 vs VP9 Face-Off for 2024</u></a></li>
 </ul></div>
 

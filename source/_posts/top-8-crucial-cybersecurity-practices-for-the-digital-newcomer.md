@@ -1,7 +1,7 @@
 ---
 title: Top 8 Crucial Cybersecurity Practices for the Digital Newcomer
-date: 2024-11-14T04:01:49.663Z
-updated: 2024-11-20T00:01:35.373Z
+date: 2024-11-22T18:31:52.112Z
+updated: 2024-11-28T21:29:53.891Z
 tags:
   - web
 categories:
@@ -24,22 +24,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Entering the tech world can be thrilling but presents numerous risks. From falling prey to hackers to inadvertently sharing sensitive information, your privacy and finances can be compromised. You should adhere to basic security practices to stay safe. Here are some safety tips everyone should know.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1  Recognize Phishing Emails and Texts 
 
 ![A text message stating 'Florida toll services: We've noticed an outstanding toll amount of $12.51 on your record. To avoid a late fee of $50.00, visit UNFRIENDLY URL to settle your balance.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/23.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Andrew Heinzman / How-To Geek
@@ -54,6 +44,10 @@ Andrew Heinzman / How-To Geek
 
 ![iPad mini remotely accessing a Mac desktop using AnyDesk application.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/img_4835.jpeg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Hannah Brostrom / How-To Geek
 
 [Tech support scams](https://extra-information.techidaily.com/full-range-virtual-sphere-review/) are among the most common traps scammers use to deceive non-tech-savvy individuals.
@@ -61,13 +55,6 @@ Hannah Brostrom / How-To Geek
  Scammers typically display a fake popup on your screen while you're browsing an unsafe website, claiming that your computer is infected or has a severe issue. They then ask you to call a number listed in the popup, which connects you to the scammers. When you call, they ask for remote access to your computer, claiming they need it to fix the issue.
 
  Once they have access, they may turn your screen black, transfer funds from your bank account (if they can), install malicious software, or use other tactics to defraud you. To protect yourself, ignore such popups and _never_ allow anyone remote access to your device. If you need genuine tech support, always seek assistance from the official website of the company.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3  Avoid Befriending Strangers Online 
 
@@ -77,35 +64,19 @@ Hannah Brostrom / How-To Geek
 
 ![A bot impersonating a real person on Facebook.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/scammer.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4  Don’t Overshare Your Critical Information 
 
 ![A hacker stealing a credit card in an online store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-hacker-stealing-a-credit-card-in-an-online-store.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Lucas Gouveia / How-To Geek | [Creativa Images](https://www.shutterstock.com/image-photo/picture-male-hacker-stealing-credit-card-2102624236) / Shutterstock
 
  If you're new to social media, you must [be cautious about what you share online](https://twitter-videos.techidaily.com/new-2024-approved-how-to-upload-media-to-twitter-without-copying-another-users-tweet/). Never disclose personal information such as your full name, home address, social security number, or financial details. Avoid sharing your travel plans and refrain from revealing your current location while traveling.
 
  Most importantly, never post photos of your driver's license, credit card, passwords, ID, or other sensitive information that could be easily misused. Keep expensive purchases private to avoid attracting theft attempts. Similarly, avoid sharing details about your work or company that could lead to legal issues. Following these tips will help you avoid unnecessary trouble.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5  Follow Safe Browsing Practice 
 
@@ -119,6 +90,10 @@ Lucas Gouveia / How-To Geek | [Creativa Images](https://www.shutterstock.com/ima
 
 ![A phone with an incoming call and a call forwarding icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-phone-with-an-incoming-call-and-a-call-forwarding-icon.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Lucas Gouveia / Justin Duino / How-To Geek
 
  Don’t trust any callers from an unverified number asking for critical personal or financial information, especially if they use high-pressure tactics and try to prevent you from ending the call. Always ask the caller for their name, organization, and callback number. Scammers can use fake caller ID information, so be aware of that.
@@ -126,6 +101,10 @@ Lucas Gouveia / Justin Duino / How-To Geek
  If there's anything legal involved, ask them to send a claim in writing through official channels. If unsure, hang up or [block the caller](https://instagram-video-files.techidaily.com/updated-strategies-for-perfecting-igtv-video-titles-for-2024/), find the official number (and don't trust a number they provide!), and call them separately.
 
  Also, be wary of calls from unfamiliar area codes, familiarize yourself with the official contact numbers of companies you deal with, and stay updated on the latest scam alerts from reputable sources like the Federal Trade Commission (FTC). Trust your instincts—if something feels off, it's wise to be extra cautious.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7  Verify News Headlines Before Believing Them 
 
@@ -140,6 +119,10 @@ Lucas Gouveia / How-To Geek | [DONOT6\_STUDIO](https://www.shutterstock.com/imag
 ## 8  Follow Tips for Safe Online Shopping 
 
 ![Hands holding credit card and using laptop to shop online.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/8d330f6d.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Ivan Kruk/Shutterstock.com](https://www.shutterstock.com/image-photo/hands-holding-credit-card-using-laptop-291627674)
 
@@ -168,24 +151,20 @@ Lucas Gouveia / How-To Geek | [DONOT6\_STUDIO](https://www.shutterstock.com/imag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-durecorder-uncovered-features-and-analysis-for-2024/"><u>[New] DuRecorder Uncovered Features and Analysis for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-simplified-approach-to-overhauling-facebook-photo-background/"><u>[New] In 2024, Simplified Approach to Overhauling Facebook Photo Background</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-streaming-made-easy-with-these-11-advanced-recording-tips/"><u>[New] Streaming Made Easy with These 11 Advanced Recording Tips</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-7-steps-for-stellar-cooking-films/"><u>[New] The Ultimate Guide 7 Steps for Stellar Cooking Films</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unraveling-the-secrets-to-auditory-harmony-crossfade/"><u>[New] Unraveling the Secrets to Auditory Harmony (Crossfade)</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-expert-strategy-for-melding-gopro-vids-with-spherical-video-projects/"><u>[Updated] Expert Strategy for Melding GoPro Vids with Spherical Video Projects</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-efficient-remote-video-transmission-unveiling-vlcs-potential/"><u>[Updated] In 2024, Efficient Remote Video Transmission Unveiling VLC's Potential</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-ultimate-monitor-match-up-recommendations-for-top-tier-xbox-sx-experience/"><u>[Updated] Ultimate Monitor Match-Up Recommendations for Top-Tier Xbox SX Experience</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-countdown-chronicles-the-best-mobile-clocks-for-weddings/"><u>2024 Approved Countdown Chronicles The Best Mobile Clocks For Weddings</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-strategies-to-extend-gopro-battery-hours/"><u>2024 Approved Strategies to Extend GoPro Battery Hours</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-list-of-androids-best-music-video-apps/"><u>2024 Approved The Ultimate List of Android's Best Music Video Apps</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/arlos-hybrid-solution-for-home-safety-in-depth-review-of-the-video-doorbell-that-also-sounds-an-alert/"><u>Arlo's Hybrid Solution for Home Safety: In-Depth Review of The Video Doorbell That Also Sounds an Alert</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-boosting-views-with-customized-thumbnail-sizes-on-youtube/"><u>In 2024, Boosting Views with Customized Thumbnail Sizes on YouTube</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-pioneering-programs-3d-animation-crafting/"><u>In 2024, Pioneering Programs 3D Animation Crafting</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-scaling-your-channel-a-guide-to-increased-viewership-and-followers/"><u>In 2024, Scaling Your Channel A Guide to Increased Viewership and Followers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-verbal-visions-a-compilation-of-the-most-advanced-transcription-apps/"><u>In 2024, Verbal Visions A Compilation of the Most Advanced Transcription Apps</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-file-explorer-on-windows-11-quick-tips-and-tricks/"><u>Mastering File Explorer on Windows 11: Quick Tips & Tricks</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-tutorial-sending-subtitles-via-srt-to-twitter-facebook-and-more-for-2024/"><u>The Ultimate Tutorial Sending Subtitles via SRT to Twitter, Facebook & More for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-rotation-video-setup-for-2024/"><u>Ultimate Rotation Video Setup for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-unparalleled-editing-experience-vimeo-edition-awaits/"><u>[Updated] 2024 Approved Unparalleled Editing Experience Vimeo Edition Awaits</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-5-high-definition-screens-for-ps5/"><u>[Updated] Top 5 High-Definition Screens for PS5</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-strategies-for-streaming-fb-live-on-zoom-platform/"><u>2024 Approved Strategies for Streaming FB Live on Zoom Platform</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-definitive-iphone-podcast-download-guide/"><u>2024 Approved The Definitive iPhone Podcast Download Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-blueprint-for-tiktok-media-transfer/"><u>2024 Approved The Ultimate Blueprint for TikTok Media Transfer</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-total-byte-requirement-for-a-days-movie-watching/"><u>2024 Approved Total Byte Requirement for a Day's Movie Watching</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/average-podcast-income-whats-the-payoff/"><u>Average Podcast Income What's the Payoff?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Itel P40+? | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/experience-modern-audio-wear-with-blueear-bluetooth-beanie-hat-a-review-of-functional-fashion-meets-clear-tunes/"><u>Experience Modern Audio-Wear with BlueEar Bluetooth Beanie Hat: A Review of Functional Fashion Meets Clear Tunes</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-realme-gt-5-pro-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Realme GT 5 Pro Devices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-your-figma-project-with-clean-backgrounds/"><u>In 2024, Streamlining Your Figma Project with Clean Backgrounds</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-list-of-top-tier-cameras/"><u>In 2024, The Ultimate List of Top-Tier Cameras</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigate-new-tech-frontiers-discover-top-hardware-insights-on-toms-gadget-garage/"><u>Navigate New Tech Frontiers: Discover Top Hardware Insights on Tom's Gadget Garage</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-technical-edge-why-high-dynamic-range-triumphs-over-standard-dynamic-range-for-2024/"><u>The Technical Edge Why High Dynamic Range Triumphs over Standard Dynamic Range for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtube-shorts-solutions-to-frequent-problems-for-2024/"><u>YouTube Shorts Solutions to Frequent Problems for 2024</u></a></li>
 </ul></div>
 

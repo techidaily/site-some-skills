@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Transforming Images  The Art of Applying LUTs in Pro\""
-date: 2024-08-20T23:29:32.188Z
-updated: 2024-08-21T23:29:32.188Z
+date: 2024-11-25T17:33:49.236Z
+updated: 2024-11-28T20:21:31.468Z
 tags: 
   - screen-recording
   - ai video
@@ -23,8 +23,9 @@ Whether you're working on a personal project or a business campaign, the procedu
 you grab the camera, follow your idea, and acquire your pictures, then transfer the movie to your computer and start editing. In this protracted creative process, color grading is typically the final and possibly at least one of the most crucial processes. We all hoped there's a way to speed up this procedure, and fortunately there is! Let's start!
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. How to install LUTs in Premiere Pro
 
 LUTs can be applied in Premiere Pro in two different ways. Utilizing LUTs through the Creative tab of the Lumetri Color Panel is the simplest method. However, it does not make the LUTs a permanent part of the collection.
@@ -35,9 +36,6 @@ Step2Locate the Lumetri LUTs folder in your Premiere Pro installation directory 
 
 Step3Paste all of your fresh LUTs in this folder at this time. Your new LUTs will now show up in the Lumetri Color Panel when you launch Premiere Pro (or restart the software if it was already open). Innovative >> Looks
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. How to add LUTs to your footage
 
 Step1Choose the Color Workspace at the top after your clip is in the timeline and prepared for grading.
@@ -49,8 +47,9 @@ Step3The first Basic Correction option in the right-hand panel of Lumetri Color 
 Step4Double-click the LUT you wish to use once you've located it, and it will be applied immediately.A tiny tip I like to use occasionally is to find the Effect Controls panel on the left side, then click the drop-down arrow next to Opacity, and make adjustments if you input your LUT and feel that it's too intense.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Why use LUTs in your project?
 
 When there is no time limit or restriction on when to submit the result file, it is fun to edit your own clips because you have complete creative control over the process. Because of this, Color Grading is a rather unimportant aspect to worry about. After making a few adjustments to the Exposure and Contrast settings, you should be good to go.
@@ -61,9 +60,6 @@ Because of this, some designers employ look-up tables (LUTs) that they have crea
 
 When it comes to working on a project for a customer that has a stringent deadline to fulfill, poor color grading could result in a negative impression of your work. This is the case even if everything from the sound effects to the video effects is done to a high standard and is done well.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Can you adjust the strength of the LUT?
 
 There are no such modifications that can be made in a certain LUT or Look, and there is no reason to adjust them because there is no need to. However, you may change its strength, which is essentially the same thing as the opacity of the LUT that was applied, and there are still choices to color grade the entire movie after the LUT has been applied.
@@ -71,6 +67,10 @@ There are no such modifications that can be made in a certain LUT or Look, and t
 The entire color panel in Premiere Pro is packed with all of the color grading tools that are required to adjust your film in the appropriate way. Investigating them can provide you with some understanding of how they function. You can get a sense of how these LUTs function by using the pre-installed LUTs that are accessible in Premiere Pro, which you can use at first to get a feel for the LUTs before moving on to using paid or free Color Grading profiles.
 
 The end outcome does not vary by a substantial amount, but how it looks can change depending on the LUT you use. In the event that something seems to be lacking, you can always modify the color grading.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Export LUTs
 
@@ -85,8 +85,9 @@ Step2Export ".cube" This function exports lookup tables in the.cube format so th
 Step3Store Preset: You can personalize the settings for each color effect, then save the resulting combinations as presets. Within the Save Preset dialog box, give your preset the name you want it to have. If desired, enter a description. Please visit the article on how to create and store an effect preset for further details.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Where can you find LUTs?
 
 You might be asking, "Now that I've learned more about LUTs (Lookup Tables), where can I get even more LUTs?" since you've gained some new knowledge. In the end, being able to use the built-in LUTs in Luminar is a nice feature, but these are merely samples of the thousands upon thousands of LUTs that are accessible, both for free and for purchase.
@@ -101,8 +102,9 @@ You might be asking, "Now that I've learned more about LUTs (Lookup Tables), whe
 * Urban Dark Creative LUTs
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 Additionally, check to see if you have inadvertently downloaded any viruses. There is a strong temptation to simply conduct a search for cinematic LUTs on Google, then download all free files that we come across.
@@ -137,8 +139,23 @@ Sometimes, some of them are out there to steal your money rather than provide th
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-commercial-free-android-vision-capturer/"><u>[New] 2024 Approved Commercial-Free Android Vision Capturer</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-taking-comedy-to-the-digital-frontier-your-gif-creation-roadmap/"><u>[New] Taking Comedy to the Digital Frontier Your GIF Creation Roadmap</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-srt-file-craftsmanship-manual/"><u>[New] The Ultimate SRT File Craftsmanship Manual</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-win11s-zenith-achieved-with-advanced-zoom-usage/"><u>[Updated] 2024 Approved Win11's Zenith Achieved with Advanced Zoom Usage</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-effortless-mp3-conversion-from-youtube-for-mac-users/"><u>[Updated] Effortless MP3 Conversion From YouTube for Mac Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-teleportation-illusions-in-visual-effects-artistry/"><u>[Updated] Teleportation Illusions in Visual Effects Artistry</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleash-clean-visuals-step-by-step-guide-to-backdrop-erasure/"><u>[Updated] Unleash Clean Visuals Step-By-Step Guide to Backdrop Erasure</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-syncing-socials-a-step-by-step-guide-to-linking-instagram-and-tiktok/"><u>2024 Approved Syncing Socials A Step-by-Step Guide to Linking Instagram and TikTok</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-notch-ae-extensions-selection/"><u>2024 Approved Top-Notch AE Extensions Selection</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/conseils-dexperts-resoudre-le-probleme-de-demarrage-sous-windows-10-avec-ces-5-astuces-rapides/"><u>Conseils D'experts: Résoudre Le Problème De Démarrage Sous Windows 10 Avec Ces 5 Astuces Rapides</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cyberpunk-2077-and-the-flatlined-error-2024-understanding-the-technical-hurdle/"><u>Cyberpunk 2077 and the 'Flatlined Error 2024': Understanding the Technical Hurdle</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hp-printer-driver-downloads-and-firmware-patches-for-microsoft-windows-users-1011/"><u>HP Printer Driver Downloads & Firmware Patches for Microsoft Windows Users (10/11)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-10-live-audio-broadcast-networks/"><u>In 2024, Top 10 Live Audio Broadcast Networks</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-nokia-c300-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Nokia C300 IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210790287-9780645739633-training-manual-for-gods-book-two/"><u>Training Manual for Gods, Book Two | Free Book</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-the-power-of-steams-big-screen-design/"><u>Unlocking the Power of Steam's Big Screen Design</u></a></li>
+</ul></div>
 

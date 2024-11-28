@@ -1,7 +1,7 @@
 ---
 title: "Evolving Screen Ratios: A Shift From Classic 4:3 Monitors to Modern 16:9 and Its Effects on Work Efficiency"
-date: 2024-11-18T17:26:23.536Z
-updated: 2024-11-19T17:32:43.877Z
+date: 2024-11-27T18:50:24.185Z
+updated: 2024-11-28T19:36:17.130Z
 tags:
   - web
 categories:
@@ -27,13 +27,6 @@ thumbnail: https://thmb.techidaily.com/35eb7ec70c3d68bdd6223aba9efbf03bc030e84e6
 
 ![An old beige PC with a CRT monitor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/an-old-pc.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Santi S / Shutterstock.com
 
  One of the main reasons 4:3 monitors became popular during the '80s and '90s was because it was the [standard in television broadcasting](https://en.wikipedia.org/wiki/Standard-definition%5Ftelevision). That said, even on a practical level, this aspect ratio was great for most computing tasks at that time.
@@ -41,13 +34,6 @@ Santi S / Shutterstock.com
  Computers were primarily used for office work like coding, spreadsheets, and word processing. These tasks benefited from having more vertical screen real estate. 4:3 monitors provided a balance of vertical and horizontal space. It wasn’t too tall to cause neck strain, but it was taller than the rectangular form factors.
 
  However, computing habits started to change. People started to desire widescreen displays over square ones.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  The Move to 16:9 Monitors
 
@@ -59,18 +45,15 @@ Santi S / Shutterstock.com
 
 ![The Razer Aether monitor light bar lighting up a desk.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-razer-aether-monitor-light-bar-lighting-up-a-desk_53629693315_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Jerome Thomas / How-To Geek
 
  More powerful computers also meant you could run multiple apps together. A wider screen allowed for better multitasking, as you could now open and work with [multiple apps side by side](https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-honor-magic-v2-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/).
 
  Granted, this shift didn't happen overnight—but by the 2010s, widescreens were the norm. You could (and still can) find a few manufacturers making 4:3 monitors for industrial and CCTV use. However, you'd be hard-pressed to find these in somebody's home or even in an office setup.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  From 4:3 to 16:9 Monitors: How Did It Change Computing?
 
@@ -90,6 +73,10 @@ Jerome Thomas / How-To Geek
 
  So, as you can see, considering the same monitor size, a 4:3 monitor will give you more vertical screen real estate compared to a 16:9 alternative. This has had an effect on the placement of the taskbar, user interfaces in game design, and more.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Impact on the Placement of the Taskbar
 
  The taskbar is crucial in desktop computing. It shows all your running apps and lets you pin favorites for quick access. By default, it’s always placed at the bottom—the taskbar on Windows and the Dock on MacOS. But why?
@@ -108,6 +95,10 @@ Hannah Stryker / How-To Geek
   
  Ubuntu has done this. Their desktop experience puts the Ubuntu dock on the left side of the screen. I’d argue that this is the more logical UI choice, but because of familiarity and habit, we still have the bottom placement of the taskbar in popular operating systems.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Impact on Game Design
 
  The aspect ratio of the screen also has a huge impact on the video game design and its playability. As an example, let's spotlight Real-Time Strategy (RTS) games. The genre peaked during the 1990s and early 2000s with classics like [Age of Empires II](https://store.steampowered.com/app/813780/Age%5Fof%5FEmpires%5FII%5FDefinitive%5FEdition/), [StarCraft: Brood War](https://us.shop.battle.net/en-us/product/starcraft), and [Warcraft II](https://www.gog.com/en/game/warcraft%5F2%5Fbattlenet%5Fedition).
@@ -122,6 +113,10 @@ Hannah Stryker / How-To Geek
 
  This just goes to show some of the ways the UI of video games, and even the overall game design can be influenced by the output screen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Ergonomic Considerations
 
  It might seem like I’m championing the boxy aspect ratios, but I do acknowledge their ergonomic shortcomings, especially when considering large-screen monitors. The human visual field is naturally wider than it is tall. We're built to [scan horizontally rather than vertically](https://www.researchgate.net/figure/The-FOV-of-human-eyes-is-approximately-135-vertically-and-200-horizontally%5Ffig3%5F263161973). This biological limitation makes widescreen monitors a natural and more ergonomic fit—we see more of what’s on-screen without moving our heads.
@@ -130,28 +125,12 @@ Hannah Stryker / How-To Geek
 
 ![Portrait Orientation of Samsung's Epic Odyssey Ark 55-inch Monitor](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/76f86454.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 _[Samsung](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fcomputing%2Fmonitors%2Fgaming%2F55-odyssey-ark-4k-uhd-165hz-1ms-quantum-mini-led-curved-gaming-screen-ls55bg970nnxgo%2F)_
 
  Of course, this doesn’t mean wider screens are automatically better ergonomically. The goal is to keep the screen in your field of view with limited neck movement. However, wider aspect ratios are better ergonomically with larger screens and the typically close viewing distance standard with PC monitors.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Future Monitors Are Getting Even Wider
@@ -181,20 +160,24 @@ HP
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-scriptwriting-essentials-mastering-the-art-of-slug-lines/"><u>[New] 2024 Approved Scriptwriting Essentials Mastering the Art of Slug Lines</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-tailor-your-tweets-exceptional-video-to-twitch-tools/"><u>[New] Tailor Your Tweets Exceptional Video to Twitch Tools</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-imagemorph-magic/"><u>[Updated] 2024 Approved ImageMorph Magic</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-mastering-the-art-of-youtubing-avoiding-the-top-8-newbie-errors/"><u>[Updated] 2024 Approved Mastering the Art of YouTubing Avoiding the Top 8 Newbie Errors</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-transforming-dull-interviews-into-engaging-assessments/"><u>[Updated] Transforming Dull Interviews Into Engaging Assessments</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-xboxs-video-call-potential-with-zoom/"><u>[Updated] Unlocking Xbox's Video Call Potential with Zoom</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-realme-narzo-n53-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Realme Narzo N53 | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-tech-horizons-in-contrast-vr-vs-augmented-reality-and-mr/"><u>2024 Approved Tech Horizons in Contrast VR Vs. Augmented Reality and MR</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-immersion-the-lg-360-virtual-reality-experience/"><u>2024 Approved Unveiling Immersion The LG 360 Virtual Reality Experience</u></a></li>
-<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Vivo Y200e 5G | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/craft-your-own-code-successfully-with-stellars-software-development-toolkit-essentials-and-insider-tips/"><u>Craft Your Own Code Successfully with Stellar’s Software Development Toolkit Essentials & Insider Tips</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-realme-c55-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Realme C55</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-tier-eighth-edition-of-image-blender-tool/"><u>In 2024, Top Tier Eighth Edition of Image Blender Tool</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/mastering-tamriels-lore-and-quests-in-the-immersive-world-of-skyrim-a-detailed-review-for-switch-players/"><u>Mastering Tamriel's Lore & Quests in the Immersive World of Skyrim - A Detailed Review for Switch Players</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-list-10-best-date-counting-clocks-androidios-for-2024/"><u>The Ultimate List 10 Best Date-Counting Clocks Android/iOS for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-top-budget-friendly-cam-stream-viewer/"><u>[New] In 2024, Top Budget-Friendly Cam Stream Viewer</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-the-monetization-blueprint-for-your-youtube-ventures-on-fb-for-2024/"><u>[New] The Monetization Blueprint for Your YouTube Ventures on FB for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-free-timers-for-daily-use/"><u>[New] Ultimate Free Timers for Daily Use</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-ultimate-editor-sets-for-macos-sierra-users/"><u>[New] Unveiling the Ultimate Editor Sets for macOS Sierra Users</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-discover-prime-sites-to-download-your-got-favorite-tunes-for-2024/"><u>[Updated] Discover Prime Sites to Download Your GoT Favorite Tunes for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-first-steps-in-camera-selection-a-2023-starters-packet/"><u>[Updated] In 2024, First Steps in Camera Selection A 2023 Starter's Packet</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-potential-master-dvd-burning-with-your-mac/"><u>[Updated] Unlocking Potential Master DVD Burning with Your Mac</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-live-stream-champions-clash-pick-your-preferred-software/"><u>2024 Approved Live Stream Champions Clash – Pick Your Preferred Software?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-newbie-vlogger-tips-simple-video-concepts/"><u>2024 Approved Newbie Vlogger Tips Simple Video Concepts</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-transforming-ideas-into-visual-stories-on-facebook-reels/"><u>2024 Approved Transforming Ideas Into Visual Stories on Facebook Reels</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unmatched-melodies-selector-android-companion/"><u>2024 Approved Unmatched Melodies Selector, Android Companion</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/excel-skills-you-possess-that-no-bot-including-chatgpt-can-match/"><u>Excel Skills You Possess that No Bot, Including ChatGPT, Can Match</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-tapes-with-these-top-5-brighteners/"><u>In 2024, Transform Your Tapes with These Top 5 Brighteners</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-editing-hacks-for-flawless-image-edits-on-canva/"><u>In 2024, Ultimate Editing Hacks for Flawless Image Edits on Canva</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/rclass-in-making-engaging-video-lessons-your-step-by-step-guide-for-youtube/"><u>Masterclass in Making Engaging Video Lessons Your Step-by-Step Guide for YouTube</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/l-momentum-in-infographics-2023s-pioneers/"><u>Social Momentum in Infographics - 2023'S Pioneers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tales-that-transcend-leading-academies-ranked-top-8-for-2024/"><u>Tales That Transcend Leading Academies Ranked Top 8 for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-tiktok-video-amplification-for-2024/"><u>The Ultimate Guide to TikTok Video Amplification for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-motorola-moto-g23-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Motorola Moto G23 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

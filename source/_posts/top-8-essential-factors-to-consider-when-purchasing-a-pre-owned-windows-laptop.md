@@ -1,7 +1,7 @@
 ---
 title: Top 8 Essential Factors to Consider When Purchasing a Pre-Owned Windows Laptop
-date: 2024-11-16T00:31:22.166Z
-updated: 2024-11-20T02:08:40.157Z
+date: 2024-11-26T18:43:06.577Z
+updated: 2024-11-28T19:31:46.856Z
 tags:
   - deals
 categories:
@@ -25,10 +25,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Buying a used laptop can indeed save you money, but it does come with some risks. This is why you should thoroughly examine the laptop before closing the deal to avoid unpleasant surprises later on. If you doubt the credibility of the seller, here's how you can test the used laptop.
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Test the Keyboard and Trackpad
@@ -36,6 +33,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Begin the laptop inspection by testing the keyboard and trackpad first. To test the keyboard, go to a keyboard testing website like [Keyboard Tester](https://www.keyboardtester.com/tester.html) and press each key from the first to the last. If all keys register correctly, the keyboard is likely in good condition. Also, make sure you feel comfortable typing on the keyboard.
 
 ![Keyboard tester typing letters in lowercase with Caps Lock off.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-keyboard-tester-typing-letters-in-lowercase-with-caps-lock-off.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To test the trackpad, hover over the screen to gauge its responsiveness. Then, experiment with different trackpad gestures, such as pinch-to-zoom and two-finger scroll, to see which ones are supported. If you have another laptop, you can compare trackpad responsiveness by conducting a touchpad accuracy test on both laptops using the [No-Cursor website](https://no-cursor.com/).
 
@@ -49,36 +50,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Testing the laptop speaker in Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/1-testing-the-laptop-speaker-in-settings.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To [test the built-in microphone](https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-vivo-y200e-5g-drfone-by-drfone-virtual-android/), return to the sound settings, click on "Microphone Array," and then click on the "Start Test" button next to Test Your Microphone. Speak for a few seconds, then stop the test. If you see a decent volume percentage recorded, the microphone is working as it should.
 
 ![Testing the laptop microphone in Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/2-testing-the-laptop-microphone-in-settings.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Test the Built-In Camera
 
  If you intend to use the laptop for video communication, test its built-in camera. To do this, type **Camera** in the Windows Search bar and open the Camera app.
 
  If the camera app detects the webcam and the visuals are clear and of satisfactory quality, as the seller claimed, then the camera is working correctly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Check the Health of Your Laptop Battery
 
@@ -91,16 +75,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Generating the battery health report from Windows PowerShell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/08/br_2-1.png) 
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Navigate to this location and open the battery report. Then, go to the "Installed Batteries" section and compare the "Design Capacity" with the "Full Charge Capacity." The difference between these values indicates the extent to which the battery's capacity has diminished due to usage. If the full charge capacity is significantly low, you may have to replace the battery.
@@ -112,6 +87,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  If you're thinking about buying a used laptop from an unknown seller, make sure that it hasn't been stolen. One way to check this is to request a purchase receipt from the seller. If they are unable to provide one, this could be a red flag. If the laptop hasn't been reset, is password-protected, or is locked, these signs indicate that it's likely a stolen device.
 
  You can also confirm your suspicions by getting the laptop's serial number and contacting the manufacturer to verify whether the device has been reported stolen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Perform the Physical Inspection
 
@@ -154,22 +133,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-rapid-fire-windowed-image-reader/"><u>[New] Rapid-Fire Windowed Image Reader</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-perfect-your-video-pacing-with-these-snapchat-tips/"><u>[Updated] In 2024, Perfect Your Video Pacing with These Snapchat Tips</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/download-and-update-emeditor-pro-v13-beta-7-now-available-advanced-text-editing-tool/"><u>Download & Update: EmEditor Pro v13 Beta #7 Now Available - Advanced Text Editing Tool</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-are-product-assessments-online-content-sold/"><u>In 2024, Are Product Assessments Online Content Sold?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-apple-watch-or-apple-iphone-11-pro-max-from-icloud-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Apple Watch Or Apple iPhone 11 Pro Max from iCloud</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Tecno Pop 7 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win-popular.techidaily.com/innovative-techniques-for-precision-object-removal-from-images/"><u>Innovative Techniques for Precision Object Removal From Images</u></a></li>
-<li><a href="https://some-skills.techidaily.com/recognizing-the-8-crucial-signs-your-laptop-needs-replacement/"><u>Recognizing the 8 Crucial Signs Your Laptop Needs Replacement</u></a></li>
-<li><a href="https://some-skills.techidaily.com/revolutionize-your-command-line-experience-with-top-notch-alternatives-to-default-linux-terminal-emulators/"><u>Revolutionize Your Command Line Experience with Top-Notch Alternatives to Default Linux Terminal Emulators</u></a></li>
-<li><a href="https://some-skills.techidaily.com/showdesktop-buttons-in-windows-11-stay-for-now-understanding-microsofts-latest-update-decision/"><u>ShowDesktop Buttons in Windows 11 Stay for Now: Understanding Microsoft’s Latest Update Decision</u></a></li>
-<li><a href="https://some-skills.techidaily.com/simple-methods-to-locate-and-remove-outdated-data-in-windows-11/"><u>Simple Methods to Locate & Remove Outdated Data in Windows 11</u></a></li>
-<li><a href="https://some-skills.techidaily.com/step-by-step-guide-accessing-your-recent-copied-items-in-macos/"><u>Step-by-Step Guide: Accessing Your Recent Copied Items in macOS</u></a></li>
-<li><a href="https://some-skills.techidaily.com/step-by-step-guide-getting-your-google-maps-back-on-track/"><u>Step-by-Step Guide: Getting Your Google Maps Back on Track</u></a></li>
-<li><a href="https://some-skills.techidaily.com/step-by-step-guide-installing-and-configuring-windows-11-with-alternative-login-options/"><u>Step-by-Step Guide: Installing and Configuring Windows 11 with Alternative Login Options</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tech-update-anticipating-the-latest-features-of-new-devices-by-google-and-samsung-a-weekly-overview/"><u>Tech Update: Anticipating the Latest Features of New Devices by Google & Samsung - A Weekly Overview</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/oundbite-revolution-key-strategies-for-youtubes-music-clips/"><u>The Soundbite Revolution Key Strategies for YouTube's Music Clips</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-save-money-make-movies-4-simple-ways-to-get-filmora-discount-codes/"><u>Updated In 2024, Save Money, Make Movies 4 Simple Ways to Get Filmora Discount Codes</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-masterclass-guide-15-tripods-perfect-for-gopro/"><u>[New] 2024 Approved Masterclass Guide 15 Tripods Perfect for GoPro</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-the-definitive-path-from-twitter-video-to-creatively-crafted-gifs/"><u>[New] 2024 Approved The Definitive Path From Twitter Video to Creatively Crafted GIFs</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-unlocking-potential-a-guide-to-dominating-your-instagram-posts/"><u>[New] 2024 Approved Unlocking Potential A Guide to Dominating Your Instagram Posts</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-scaling-photography-with-no-detail-degradation/"><u>[New] In 2024, Scaling Photography with No Detail Degradation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-capturing-conversations-iphoneipad-tips-for-top-quality-interviews/"><u>[New] The Art of Capturing Conversations IPhone/iPad Tips for Top Quality Interviews</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-blueprint-to-dominate-with-your-spotify-ad-campaign/"><u>[New] The Blueprint to Dominate With Your Spotify Ad Campaign</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-haul-video-guide-from-camera-to-final-cut/"><u>[New] The Ultimate Haul Video Guide From Camera to Final Cut</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/digital-artistry-perfecting-your-photoshop-skills/"><u>Digital Artistry Perfecting Your Photoshop Skills</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/essential-extensions-elevating-vs-code-with-gpt-features/"><u>Essential Extensions: Elevating VS Code with GPT Features</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-on-iphone-x-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account On iPhone X?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-techniques-for-swiftly-finding-deleted-reddit-contributions/"><u>In 2024, Techniques for Swiftly Finding Deleted Reddit Contributions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-fb-video-potential-with-speedy-insights/"><u>In 2024, Unleashing FB Video Potential with Speedy Insights</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/instagrams-secret-fine-tuning-fcpx-for-high-aspect-videos/"><u>Instagram's Secret Fine-Tuning FCPX for High Aspect Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/joyful-sign-uplogout-flowchart-for-2024/"><u>Joyful Sign-Up/Logout Flowchart for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-audio-finesse-advanced-editing-strategies-for-podcasters-for-2024/"><u>The Art of Audio Finesse Advanced Editing Strategies for Podcasters for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-choice-10-excellent-camera-lenses-for-2024/"><u>Ultimate Choice 10 Excellent Camera Lenses for 2024</u></a></li>
 </ul></div>
 

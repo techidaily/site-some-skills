@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Substituting Characters with Line Breaks Using Notepad++
-date: 2024-11-16T20:22:45.679Z
-updated: 2024-11-19T17:07:51.735Z
+date: 2024-11-22T20:27:07.116Z
+updated: 2024-11-28T16:23:19.887Z
 tags:
   - deals
 categories:
@@ -17,10 +17,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [How to Convert a Newline Character into Any Other Separator](https://techtrends.techidaily.com/perfect-progression-watching-the-wizarding-worlds-cinematic-journey-step-by-step/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -43,16 +40,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![A Notepad++ window showing a comma-separated list](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/paste-items-list.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next, click the "Search" menu and select "Replace." Alternately, you can press Ctrl+H on your keyboard.
 
 ![Replace menu in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/replace-notepad-plus-plus1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the Replace window that opens, click the "Find What" text entry box and type the current item separator. In our example case, our items are separated by a comma and a space, so we'll type a comma and then press Space. If your items are separated by pipes only, type the pipe character ("|").
 
@@ -64,25 +58,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Replace window in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/convert-comma-new-line.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  And just like magic, each item in your list will now be on its own line.
 
 ![New-line separated list in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/comma-new-line.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you want to reverse the process, just open Search > Replace in the menu again. In the "Find What" box, enter "\\n". In the Replace with box, type the character that you want to replace it with. Make sure "Extended" is selected and click "Replace All," and your list will go back to being separated by a standard character, such as a comma or pipe.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Convert a Newline Character into Any Other Separator
 
@@ -92,19 +80,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![New-line items list in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/paste-list.png) 
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In your Notepad++ window, click the "Edit" menu and select Blank Operations > EOL to Space. Here, EOL means "End of Line," and this option converts the invisible newline characters into spaces.
 
 ![EOL to Space option in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/eol-to-space.png) 
@@ -112,6 +87,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  After that, you'll find that all your items are now on a single line separated by a space.
 
 ![List items on one line in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/items-one-line.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To convert this into a comma-separated list using Notepad++, click Search > Replace in the menu.
 
@@ -146,21 +125,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-how-to-search-for-cool-photos-on-pexelscom/"><u>[New] How to Search for Cool Photos on Pexels.com?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hone-your-hashtag-game-tripled-traffic-6kplus-vistas/"><u>[New] In 2024, Hone Your Hashtag Game Tripled Traffic, $6K+ Vistas</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-10-motivating-films-to-energize-your-lifes-journey/"><u>[New] Top 10 Motivating Films to Energize Your Life's Journey</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-essentials-of-using-azures-voice-recognition/"><u>[Updated] The Essentials of Using Azure's Voice Recognition</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-checklist-for-nfl-live-broadcasting/"><u>[Updated] The Ultimate Checklist for NFL Live Broadcasting</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1726029511958-facebookmp4/"><u>「究極のツールでFacebookビデオをMP4として変換: 詳細ガイド」</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/free-and-easy-to-use-mkv-player-download-play-your-favorite-movies-today/"><u>Free & Easy-to-Use MKV Player Download – Play Your Favorite Movies Today</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/-to-embedding-on-screen-text-on-youtube-clips/"><u>Guide to Embedding On-Screen Text on YouTube Clips</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-motorola-moto-e13-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Motorola Moto E13 Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/mastering-mac-best-screen-capture-applications-reviewed-for-2024/"><u>Mastering Mac Best Screen Capture Applications Reviewed for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-want-amazing-opening-effects-today-we-will-share-with-you-20-best-places-that-are-free-to-download-title-intro-templates-for-adobe-premiere-pro/"><u>New Want Amazing Opening Effects? Today, We Will Share with You 20 Best Places that Are Free to Download Title, Intro Templates for Adobe Premiere Pro</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-efficient-use-of-slug-lines-in-content-writing-for-2024/"><u>The Efficient Use of Slug Lines in Content Writing for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-10-mac-exclusive-free-drawing-platforms-for-2024/"><u>Top 10 Mac-Exclusive Free Drawing Platforms for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transform-movie-colors-with-cg-centrals-luts-guide-for-2024/"><u>Transform Movie Colors with CG Central's Luts Guide for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-15-color-grading-plugins-for-action-cam-video-for-2024/"><u>Ultimate 15 Color Grading Plugins for Action Cam Video for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-how-to-optimize-your-media-with-simple-video-spin-techniques-in-vlc/"><u>[Updated] 2024 Approved How to Optimize Your Media with Simple Video Spin Techniques in VLC</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-strategies-to-tackle-vlc-challenges-on-macos/"><u>[Updated] Top Strategies to Tackle VLC Challenges on macOS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-video-editors-aiding-in-app-dev-creation/"><u>[Updated] Top Video Editors Aiding in App Dev Creation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-tones-techniques-in-free-fire/"><u>2024 Approved Transforming Tones Techniques in Free Fire</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-10plus-proven-techniques-for-selecting-the-finest-cricket-broadcasts/"><u>2024 Approved Unveiling 10+ Proven Techniques for Selecting the Finest Cricket Broadcasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-missing-d3dx939-dll-in-win11/"><u>Addressing Missing D3DX9_39 DLL in Win11</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96476521-9780880500753-earthen-lamps/"><u>Earthen Lamps | Free Book</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-fixes-for-granblue-fantasy-overcoming-relink-functionality-problems/"><u>Effective Fixes for Granblue Fantasy: Overcoming Relink Functionality Problems</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-nokia-g42-5g-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Nokia G42 5G</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-10-budget-friendly-video-alteration-journeys-explored/"><u>In 2024, Top 10 Budget-Friendly Video Alteration Journeys Explored</u></a></li>
+<li><a href="https://facebook.techidaily.com/safe-silliness-navigating-friendly-teasing-digitally/"><u>Safe Silliness: Navigating Friendly Teasing Digitally</u></a></li>
+<li><a href="https://some-skills.techidaily.com/superior-pcs-for-serious-workers-for-2024/"><u>Superior PCs for Serious Workers for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/why-isnt-cortana-responding-a-guide-to-restoring-functionality/"><u>Why Isn't Cortana Responding? A Guide to Restoring Functionality</u></a></li>
 </ul></div>
 

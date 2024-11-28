@@ -1,7 +1,7 @@
 ---
 title: Solve Your Wi-Fi Woes! A Guide to Restoring Internet Access in Windows 11 with 10 Effective Tips
-date: 2024-11-14T21:28:25.301Z
-updated: 2024-11-20T03:45:06.244Z
+date: 2024-11-24T17:39:30.887Z
+updated: 2024-11-28T16:55:29.958Z
 tags:
   - deals
 categories:
@@ -24,6 +24,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Perform a Network Reset](https://hardware-updates.techidaily.com/effortless-install-the-ultimate-step-by-step-for-updating-your-samsung-m2070-printing-drivers/)
 * [Run a Few Commands in the Command Prompt](https://extra-hints.techidaily.com/2024-approved-a-pictures-worth-top-12-websites-for-exquisite-stock-photography-downloads/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Check if your ISP is experiencing any outages, connect other devices to your Wi-Fi network to determine if the issue lies with your router or modem, and disable any VPN or proxy server.
@@ -37,6 +41,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Before you begin troubleshooting, you must check for any network outages from your internet service provider. Such occurrences are rare, and your provider should have notified you if there was an outage. However, it's still a good idea to double-check.
 
  Head to the [Downdetector website](https://downdetector.com/) and search for your ISP's name to see if other users who use the same ISP have reported any issues. Also, check your ISP's Twitter account to confirm.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Check How Widespread the Issue Is
 
@@ -58,6 +66,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Disabling automatic proxy detection on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/disable-automatic-proxy-windows.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the Manual Proxy Setup section, click "Set Up" next to Use a Proxy Server, turn off the "Use a Proxy Server" toggle and click "Save."
 
 ![The button to set up a manual proxy on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/manual-proxy-setup-windows-11.jpeg) 
@@ -70,22 +82,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Opening the 'Manage Known Networks' settings in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-5-opening-the-manage-known-networks-settings-in-the-windows-settings-app.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  From there, click the "Forget" button next to each Wi-Fi network to remove it entirely from your laptop.
 
 ![Forgetting an old network in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-forgetting-an-old-network-in-the-windows-settings-app.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Remove the Data Limit
 
 [Windows allows users to restrict their data usage](https://fox-http.techidaily.com/2024-approved-clever-ways-to-neglect-edge-academy-vids/), which is especially useful if they have a limited data plan or their ISP charges them based on data usage. When this limit is reached, internet access is disabled even though the device appears to be connected to Wi-Fi. To check this, navigate to Network and Internet > Advanced Network Settings > Data Usage.
 
 ![Opening the data usage settings in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/opening-the-data-usage-settings-in-the-windows-settings-app.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To remove the set data limit, click the "Remove Limit" button and click "Remove" in the pop-up.
 
@@ -94,16 +107,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Users can also set data limits on their phones (for hotspot connections) or within their router settings. Ensure that data usage is not limited there either.
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Run the Network and Internet Troubleshooter
@@ -114,46 +118,27 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Next, click the "Run" button next to Network and Internet. Windows will open the Get Help app, which will guide you through instructions to identify and fix the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Ensure the IP Address Isn't Invalid
 
  If you've [manually added an IP address](https://extra-support.techidaily.com/retrospective-on-the-goofy-movie-a-comprehensive-review-for-2024/) and started experiencing issues afterward, the address might be invalid. Configure your device to automatically obtain the IP address to prevent this possibility. Open the Settings app and go to Network and Internet > Advanced Network Settings. Expand your Wi-Fi network and open "View Additional Properties."
 
 ![Opening the additional properties of a Wi-Fi network in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-opening-the-additional-properties-of-a-wi-fi-network-in-the-windows-settings-app.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Confirm that IP Assignment and DNS Server Assignment are set to "Automatic ([DHCP](https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-12-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/))." If they are, you're good to go.
 
 ![Checking the IP assignment and DNS server assignment settings in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-checking-the-ip-assignment-and-dns-server-assignment-settings-in-the-windows-settings-app.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you see a manual entry, click the "Edit" button, select "Automatic (DHCP)" from the dropdown menu, and then click "Save."
 
 ![Settings the DNS server assignment to automatic in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4-settings-the-dns-server-assignment-to-automatic-in-the-windows-settings-app.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Update the Network Adapter Driver
 
@@ -162,13 +147,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  If the file isn't in executable format, you can manually install it via Device Manager. Right-click the Start button and select "Device Manager." Expand the "Network Adapters" category, right-click the appropriate Wi-Fi driver, and select "Update Driver."
 
 ![Updating a network adapter driver in the Device Manager on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-updating-a-network-adapter-driver-in-the-device-manager-on-windows.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Next, select "Browse My Computer for Drivers," then navigate to the path where you downloaded the drivers. Follow the on-screen instructions to complete the installation process.
 
@@ -185,10 +163,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Resetting the network settings in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-resetting-the-network-settings-in-the-windows-settings-app.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Run a Few Commands in the Command Prompt
@@ -196,13 +171,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  If none of the previously mentioned solutions resolve the issue, run a few commands in Command Prompt to [flush the DNS cache](https://article-helps.techidaily.com/updated-in-2024-sightline-synopsis-study/), release and renew the IP address, and reset rules and network records. Type **cmd** in the Windows Search bar, and click on "Run as Administrator."
 
 !['Run as Administrator' highlighted for Command Prompt in the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/12-open-cmd-as-admin.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After that, input each of the following commands one by one and press the Enter key after adding each one:
 
@@ -231,14 +199,24 @@ ipconfig /flushdns`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-crafting-a-winning-windowsmac-skype-chat-circle-for-2024/"><u>[New] Crafting a Winning Windows/Mac Skype Chat Circle for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-instagram-intensity-the-ultimate-guide-to-video-audio/"><u>[Updated] 2024 Approved Instagram Intensity The Ultimate Guide to Video Audio</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-insightful-evaluation-of-the-latest-lg-360-cam-model-for-2024/"><u>[Updated] Insightful Evaluation of the Latest LG 360 Cam Model for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-this-years-prime-pc-vr-tech/"><u>[Updated] Unveiling This Year's Prime PC VR Tech</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-investigating-the-upside-down-issue-on-instavideos/"><u>2024 Approved Investigating the Upside-Down Issue on InstaVideos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-time-lapse-tales-smartphone-storytelling-techniques/"><u>2024 Approved Time-Lapse Tales Smartphone Storytelling Techniques</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-honor-magic-5-lite-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Honor Magic 5 Lite by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-unleash-your-twitter-potential-premium-video-upload-tools/"><u>In 2024, Unleash Your Twitter Potential Premium Video Upload Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/total-exploration-of-vsco-photography-functions-for-2024/"><u>Total Exploration of VSCO Photography Functions for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-breaking-boundaries-top-10-novel-facebook-memes/"><u>[New] 2024 Approved Breaking Boundaries Top 10 Novel Facebook Memes</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-universal-youtube-guidelines-and-expectations/"><u>[New] In 2024, Universal YouTube Guidelines and Expectations</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-blueprint-for-a-streamlined-social-media-connection-with-linktree/"><u>[New] The Blueprint for a Streamlined Social Media Connection with Linktree</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unleash-creative-freedom-crafting-your-own-insta-tones/"><u>[New] Unleash Creative Freedom Crafting Your Own Insta Tones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-prime-monitor-companion-for-gaming-on-xbox-series-x/"><u>[Updated] The Prime Monitor Companion for Gaming on Xbox Series X</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-cloud-storage-pricing-comparisons/"><u>[Updated] The Ultimate Guide to Cloud Storage Pricing Comparisons</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-guide-to-10-premium-vector-websites/"><u>[Updated] Ultimate Guide to 10 Premium Vector Websites</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-perfect-video-quality-in-zoom-sessions/"><u>2024 Approved The Art of Perfect Video Quality in Zoom Sessions</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-time-capsule-transformation-step-by-step-guide-to-digitalize-old-printed-photographs-for-2024/"><u>A Time-Capsule Transformation Step-By-Step Guide to Digitalize Old Printed Photographs for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/criacr-bluetooth-fm-transmitter-the-compact-model-cp24-and-its-shortcomings-analyzed-in-detail/"><u>Criacr Bluetooth FM Transmitter - The Compact Model CP24 and Its Shortcomings Analyzed in Detail</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/get-rid-of-graphics-cards-quickly-on-windows-os/"><u>Get Rid of Graphics Cards Quickly on Windows OS</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-honor-90-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Honor 90 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-infinix-smart-8-pro-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Infinix Smart 8 Pro to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleash-humor-kapwings-meme-crafting-app/"><u>In 2024, Unleash Humor Kapwing's Meme Crafting App</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210347261-9782226427014-mediter/"><u>Méditer | Free Book</u></a></li>
+<li><a href="https://some-skills.techidaily.com/must-haves-best-android-picture-adjusters-for-2024/"><u>Must-Haves Best Android Picture Adjusters for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/online-audio-video-fusion-platform-for-2024/"><u>Online Audio Video Fusion Platform for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-screenplay-structure-unveiled-for-2024/"><u>The Screenplay Structure Unveiled for 2024</u></a></li>
 </ul></div>
 
