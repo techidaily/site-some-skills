@@ -1,7 +1,7 @@
 ---
 title: "Maximize Performance: Boost Computers with Under 8GB RAM Using Compact Local LLM Technologies"
-date: 2024-11-10T01:06:35.134Z
-updated: 2024-11-10T18:41:52.557Z
+date: 2024-12-01T02:57:39.013Z
+updated: 2024-12-07T17:27:59.855Z
 tags:
   - cutting-edge
 categories:
@@ -17,19 +17,6 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 * Local LLM-powered chatbots DistilBERT, ALBERT, GPT-2 124M, and GPT-Neo 125M can work well on PCs with 4 to 8GBs of RAM.
 
  Local AI chatbots, powered by large language models (LLMs), work only on your computer after correctly downloading and setting them up. They usually need a lot of computer memory (RAM) to work well. However, a few great models can perform on computers with as little as 4GB of RAM.
-
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Why Use Local LLM Chatbots?
 
@@ -49,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 
  Local chatbots can help mitigate such costs. Not all of them are free, though. Some require licensing and or usage fees, like OpenAI's GPT-3\. However, several open-source local chatbot models are free to download and work with. These should be used strategically for easier problems. So, you upscale to the admittedly more advanced online ones only when you absolutely must.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  These LLM Chatbots Run on Low RAM PCs
 
  I've had to get multiple free LLM-powered chatbots working on low-RAM PCs primarily because, until recently, that's all I could afford.
@@ -67,15 +47,16 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 ![DistilBERT Homepage-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/distilbert-homepage-1.PNG) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [ALBERT](https://huggingface.co/docs/transformers/model%5Fdoc/albert)is designed differently than DistilBERT, as it works by sharing parts of the model in a way that helps it process data quickly without using much memory.
 
 ![Hugging Face ALBERT Homepage](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/hugging-face-albert-homepage.PNG) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  I highly recommend starting as a beginner with DistilBERT and ALBERT, even if you have a high-memory PC. Beginning with these two models allowed me to learn the basics without being overwhelmed by the complexity of larger models.
 
@@ -86,10 +67,7 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 ![GPT-2 124 model repository homepage](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/gpt-2-model-homepage.PNG) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  My favorite lightweight LLM by far is the [GPT-Neo 125M](https://huggingface.co/EleutherAI/gpt-neo-125m) because of its adjustable customization options. It was developed by the respected developers at EleutherAI and is like the open-source cousin of GPT-2.
@@ -97,6 +75,14 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
  The Neo 125M is designed to balance performance and resource requirements. This model’s performance is on par with GPT-2, but it's adjusted to use memory more efficiently. It’s powerful enough for many tasks yet light enough to run on only 8GBs, although it struggles with anything less than that.
 
 ![GPT-Neo 125 Model Repository](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/gpt-neo-125-source-code.PNG) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Get Started with Local LLM Chatbots
 
@@ -129,17 +115,24 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-elevate-your-online-presence-with-easy-video-sharing-on-fb/"><u>[New] 2024 Approved Elevate Your Online Presence with Easy Video Sharing on FB</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-best-affordable-pc-cases-and-accessories-under-100-for-2024/"><u>[New] Best Affordable PC Cases & Accessories (Under $100) for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-elevate-video-quality-webcam-filming-made-simple/"><u>[New] Elevate Video Quality Webcam Filming Made Simple</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-streamlined-webp-to-jpg-conversion-methods/"><u>[New] Streamlined WebP to JPG Conversion Methods</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-streamlining-audio-capture-in-windows-11/"><u>[New] Streamlining Audio Capture in Windows 11</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unlock-full-screen-browsing-potential-in-safari-for-apple/"><u>[Updated] Unlock Full-Screen Browsing Potential in Safari for Apple</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-seamless-integration-of-fb-and-whatsapp-for-video-sharing/"><u>2024 Approved Seamless Integration of FB & WhatsApp for Video Sharing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-text-the-illustrator-3d-approach/"><u>2024 Approved Transforming Text The Illustrator 3D Approach</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-comprehensive-guide-for-free-video-translator-downloading-for-2024/"><u>New Comprehensive Guide for Free Video Translator Downloading for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/protect-privacy-learn-why-iphones-are-discoverable-and-how-to-turn-off-the-feature-tips/"><u>Protect Privacy: Learn Why iPhones Are Discoverable and How to Turn Off the Feature - Tips</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/type-effortlessly-on-the-go-discover-sanwa-supplys-new-usb-foot-pedals-for-hands-free-typing/"><u>Type Effortlessly on the Go: Discover Sanwa Supply's New USB Foot Pedals for Hands-Free Typing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unleash-your-livestream-potential-no-millions-of-followers-needed-for-2024/"><u>Unleash Your Livestream Potential No Millions of Followers Needed for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-capturing-top-notch-audio-without-microphone-dependency/"><u>[New] 2024 Approved Capturing Top-Notch Audio Without Microphone Dependency</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-drones-that-follow-you-back-top-10-drone-leaders/"><u>[New] Drones That Follow You Back - Top 10 Drone Leaders</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unleashing-visual-treasures-a-pexels-search-guide/"><u>[New] Unleashing Visual Treasures A Pexels Search Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-snapchat-voice-overhaul-two-efficient-ways-revealed-for-2024/"><u>[Updated] Snapchat Voice Overhaul Two Efficient Ways Revealed for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-realme-note-50-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tech-triad-analysis-unraveling-the-vr-ar-mr-tapestry/"><u>2024 Approved Tech Triad Analysis Unraveling the VR-AR-MR Tapestry</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unbox-and-discover-samsungs-ue590-4k-freesync-marvel/"><u>2024 Approved Unbox and Discover Samsung's UE590 4K, FreeSync Marvel</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-itel-p55t-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Itel P55T using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 6 without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-video-editing-convert-avis-to-gifs-on-mac-and-pc-with-filmora/"><u>In 2024, Streamlining Video Editing Convert AVIs to GIFs on Mac and PC with Filmora</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-strengthening-bonds-networking-tips-for-youtube-content-creators/"><u>In 2024, Strengthening Bonds Networking Tips for YouTube Content Creators</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-10-accessory-hits-for-sj-series-drivers/"><u>In 2024, Top 10 Accessory Hits for SJ-Series Drivers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-value-dome-cameras-offering-unique-cinematic-angles/"><u>In 2024, Top Value Dome Cameras Offering Unique Cinematic Angles</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unfolding-the-future-drones-in-modern-and-next-era/"><u>In 2024, Unfolding the Future Drones in Modern and Next Era</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-the-fitbit-charge-3-a-worthy-contender-in-todays-fitness-tracker-market/"><u>Is the Fitbit Charge 3 a Worthy Contender in Today's Fitness Tracker Market?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/link-films-for-organized-youtube-display-for-2024/"><u>Link Films for Organized YouTube Display for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-fixes-for-youtube-background-issues-green/"><u>Quick Fixes for Youtube Background Issues (Green)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722994060510-rainbow-six-siege-not-opening-heres-the-solution/"><u>Rainbow Six Siege Not Opening? Here's the Solution!</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-nubia-z50s-pro-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Nubia Z50S Pro</u></a></li>
 </ul></div>
 

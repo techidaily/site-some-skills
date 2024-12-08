@@ -1,13 +1,17 @@
 ---
 title: "Mastering the Likebook Air From Boyue & JDRead Venus: Insider Tips for Ultimate Portability and Performance"
-date: 2024-11-10T02:08:07.571Z
-updated: 2024-11-10T18:34:04.794Z
+date: 2024-12-03T18:28:00.232Z
+updated: 2024-12-07T17:38:49.195Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/ad251382f0a7d8c655d1ecfe442682eca929097f4c42dbd9921ea0eb3f9c12b0.jpg
 ---
 
 ## Mastering the Likebook Air From Boyue & JDRead Venus: Insider Tips for Ultimate Portability and Performance
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Tips and Tricks for Boyue Likebook Air (JDRead Venus)
 
@@ -17,22 +21,23 @@ Posted by [Sisi Liu](https://www.facebook.com/sisi.liu.737) on 1/22/2018 5:21:35
 
 ![follow](http://www.epubor.com/images/follow.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 JDcom and Boyue jointly launched the second Chinese made eReader – **JDRead Venus** on March 15, 2017\. It’s also called **Boyue Likebook Air** in North America and Europe. The product is primarily designed for Chinese users. It is defined to be a flagship Chinese pocket eReader which has better render effect on Chinese characters than Kindle eReaders do. It runs a newer version of **Android 4.4.2** on i.MX.6 SoloLite single core 1 GHZ CPU. The open Andriod system supports to install third party apps from Google Play which brings more playability to users. It has 1GB of RAM, 16GB of storage space, and an SD card slot to expand the storage further. It features a 6-inch 300 PPI E-ink Carta screen with a frontlight which enables you to read in the dark. Its battery capacity is 2000mAh which allows you to read with it constantly for about 25 days. The built-in reading app supports **ePub, MOBI, PDF, TXT, FB2, DOC, and HTML** files. It has massive digital resources that you can access and purchase books directly from the device anytime anywhere. So it’s enticing to millions of people including the ones who don’t settle down in mainland China. 
 
 ![BOYUE-T65S-likebook-air](http://www.epubor.com/images/uppic/1-BOYUE-T65S-likebook-air.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In this article, I’ll unveil and illustrate some **tips and trips of Likebook Air** which facilities your usage experience and helps you to make the most of the product.
 
 [(1) Quick Access functions](https://tools.techidaily.com/epubor/products/)  
 [(2) Other tips & tricks](https://tools.techidaily.com/epubor/products/)  
 [(3) Import books into Likebook Air](https://tools.techidaily.com/epubor/products/) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Quick Access functions
 
@@ -56,13 +61,6 @@ Open a book, click the first icon on the ribbon to disable the touchscreen. Once
 
 ![disable-touchscreen](http://www.epubor.com/images/uppic/3-disable-touchscreen.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### 5\. PDF Cropping
 
 Likebook Air supports PDF cropping and gray level upgrade. You can enjoy reading manga on the eReader with better user experience after cropped PDF edges. 
@@ -70,10 +68,7 @@ Likebook Air supports PDF cropping and gray level upgrade. You can enjoy reading
 ![before cropping](http://www.epubor.com/images/uppic/4-before cropping.png) ![after cropping](http://www.epubor.com/images/uppic/5-after cropping.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Other tips and tricks
@@ -132,10 +127,7 @@ Suggested reading
 ![author](http://www.epubor.com/images/uppic/Sisi.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Sisi Liu](https://www.facebook.com/sisi.liu.737) Sisi is a newbie who joined Epubor in November 2017\. She's a bookworm her whole life and has taken great interest in eBooks recently. She learns professional knowledge about ebooks in Epubor and loves to share her know-how to all the ebook lovers!
@@ -258,18 +250,19 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-innovative-techniques-for-lecture-to-audio-conversion-in-education-for-2024/"><u>[New] Innovative Techniques for Lecture to Audio Conversion in Education for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unveiling-magix-video-pro-x-capabilities/"><u>[New] Unveiling Magix Video Pro X Capabilities</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-creators-vs-youtubes-profit-policies/"><u>[Updated] In 2024, Creators Vs. YouTube's Profit Policies</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-review-of-sns-hdr-vs-top-hdr-applications/"><u>2024 Approved The Ultimate Review of SNS HDR Vs. Top HDR Applications</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-tool-for-video-cuts-full-review-of-vivacut-24-edition/"><u>2024 Approved The Ultimate Tool for Video Cuts Full Review of VivaCut '24 Edition</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-resolved-correcting-orglwjgllwjglexception-for-accelerated-pixels-formats/"><u>Error Resolved: Correcting Org.LWJGL.LWJGLException for Accelerated Pixels Formats</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-oppo-a78-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Oppo A78 on Windows??</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-simulating-quantum-leaps-in-film/"><u>In 2024, The Art of Simulating Quantum Leaps in Film</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-ride-with-these-top-10-macwindows-srt-boosters/"><u>In 2024, Transform Your Ride with These Top 10 Mac/Windows SRT Boosters</u></a></li>
-<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On OnePlus Ace 3? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-audio-equipment-for-crystal-clear-4k-video-capture-for-2024/"><u>Top Audio Equipment for Crystal Clear 4K Video Capture for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-and-repairing-the-d3dx9nopmissing-dll-error-easily/"><u>Troubleshooting and Repairing the D3dx9_nopMissing DLL Error Easily</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-get-ready-to-record-3-effortless-options-for-video-game-capture-for-2024/"><u>Updated Get Ready to Record 3 Effortless Options for Video Game Capture for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-blueprint-of-an-engaging-podcast-blurb/"><u>[New] The Blueprint of an Engaging Podcast Blurb</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-effective-methods-to-end-w10-photo-app-freezes/"><u>[New] Unveiling Effective Methods to End W10 Photo App Freezes</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-a-comprehensible-guide-on-saving-instagram-story-content-for-2024/"><u>[Updated] A Comprehensible Guide on Saving Instagram Story Content for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-short-form-spectacularity-compile-the-top-10-video-editing-tools-for-2024/"><u>[Updated] Short-Form Spectacularity Compile the Top 10 Video Editing Tools for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-competition-unveiled-twitchs-clash-with-youtube/"><u>[Updated] The Competition Unveiled Twitch's Clash with YouTube</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-enhance-your-images-with-dynamic-motion-in-adobe-ai/"><u>2024 Approved Enhance Your Images with Dynamic Motion in Adobe AI</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138570484-9780595843206-a-labor-of-love/"><u>A Labor of Love | Free Book</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-gopros-new-era-a-detailed-max-360-vs-hero-11-analysis/"><u>In 2024, GoPro's New Era A Detailed Max 360 vs Hero 11 Analysis</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-safaris-picture-in-picture-on-ios-and-ipad-how-to-use/"><u>In 2024, Safari's Picture-in-Picture on iOS & iPad How to Use</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-infallible-technique-for-embedding-profile-urls-in-tiktok/"><u>In 2024, The Infallible Technique for Embedding Profile URLs in TikTok</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/tele-loop-techniques-easy-endless-watching-on-television/"><u>Tele-Loop Techniques Easy, Endless Watching on Television</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-vr-headset-companies-for-2024/"><u>Top VR Headset Companies for 2024</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/ultimate-techniques-for-turning-your-photos-into-pngs-with-clear-edges/"><u>Ultimate Techniques for Turning Your Photos Into PNGs with Clear Edges</u></a></li>
 </ul></div>
 

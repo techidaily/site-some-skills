@@ -1,7 +1,7 @@
 ---
 title: Understanding the Process of Wireless Electric Vehicle Charging
-date: 2024-11-10T00:42:55.261Z
-updated: 2024-11-11T03:53:59.252Z
+date: 2024-11-30T16:59:41.463Z
+updated: 2024-12-08T01:52:03.876Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 ---
 
 ## Understanding the Process of Wireless Electric Vehicle Charging
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -20,10 +24,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
  We've all grown pretty used to wireless smartphone charging by now, but what if you could charge an electric car the same way? The technology is currently being developed --- pretty soon, all you might need to do to charge your Tesla is park it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How Wirelessly Electric Vehicle Charging Works
@@ -49,10 +50,7 @@ Related: [How Does Wireless Charging Work?](https://eaxpv-info.techidaily.com/ne
  The cost of building that kind of tech into roadways on a wide scale remains to be seen and could get in the way of wireless charging roads becoming mainstream if prohibitively high. The U.S. doesn't have a great record when it comes to the upkeep of our [current roads and bridges,](https://www.cfr.org/backgrounder/state-us-infrastructure) but with Congress recently approving a large infrastructure bill we could, hopefully, see that trend improve.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Challenges of Wireless EV Charging
@@ -70,10 +68,7 @@ Related: [Level 1, Level 2, or Level 3? EV Chargers Explained](https://visual-sc
  To address that, manufacturers are building fail safes. In Ferrell's video, WiTricity's CEO explained that if an object like a metal can or a cat that crawled under the car to try and get warm is detected, the charger would shut off and send a notification to your phone. If a person gets too close to the charging pad, it also shuts off. [WiTricity's website](https://witricity.com/products/automotive/) outlines these precautions in a little more detail.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What's Next for Wireless EV Charging
@@ -97,17 +92,16 @@ Related: [Level 1, Level 2, or Level 3? EV Chargers Explained](https://visual-sc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-designing-short-trailers-that-tell-a-story/"><u>[New] 2024 Approved Designing Short Trailers That Tell a Story</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-no-downloads-needed-discover-our-list-of-5-best-online-gif-to-video-services/"><u>[New] No Downloads Needed? Discover Our List of 5 Best Online GIF-to-Video Services</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-strategizing-visibility-for-podcasts-through-design/"><u>[New] Strategizing Visibility for Podcasts Through Design</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-subtitle-tips-for-instagram-tv-storytelling-for-2024/"><u>[New] Subtitle Tips for Instagram TV Storytelling for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-how-to-remove-black-bars-from-existing-youtube-videos/"><u>[Updated] How to Remove Black Bars From Existing YouTube Videos?</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-premier-android-storage-in-the-clouds-list/"><u>[Updated] Premier Android Storage in the Clouds List</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-snapedit-fundamentals-for-amateur-photographers/"><u>[Updated] Snapedit Fundamentals for Amateur Photographers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-nikon-d500-4k-performance/"><u>[Updated] The Ultimate Guide to Nikon D500 4K Performance</u></a></li>
-<li><a href="https://some-skills.techidaily.com/investment-worthy-asmr-sound-for-every-fan-for-2024/"><u>Investment-Worthy ASMR Sound for Every Fan for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-nokia-g42-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Nokia G42 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/top-e-shops-for-unique-tailored-boxed-gifts-and-packages-for-2024/"><u>Top E-Shops for Unique, Tailored Boxed Gifts & Packages for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/win1011-webcam-troubleshooting-avoid-code-0xa00f4289/"><u>Win10/11 Webcam Troubleshooting - Avoid Code 0xA00F4289</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-beginners-besties-essential-gopro-upgrades-list/"><u>[New] The Beginner's Besties - Essential GoPro Upgrades List</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-pinnacle-of-new-zooids-in-panzoids/"><u>[Updated] The Pinnacle of New Zooids in Panzoids</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-screenplay-structure-unveiled/"><u>2024 Approved The Screenplay Structure Unveiled</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/essential-gadgets-amplify-online-videos/"><u>Essential Gadgets Amplify Online Videos</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-setting-up-remote-access-on-your-samsung-television/"><u>Expert Advice: Setting Up Remote Access on Your Samsung Television</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-tecno-pop-7-pro-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Tecno Pop 7 Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/halt-real-time-audiovideo-capturing-on-apples-platform/"><u>Halt Real-Time Audio/Video Capturing on Apple's Platform</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Infinix Zero 5G 2023 Turbo? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-samsung-galaxy-a15-4g-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Samsung Galaxy A15 4G Phone</u></a></li>
+<li><a href="https://win-special.techidaily.com/resolved-clonezilla-error-indicates-target-disk-is-too-small/"><u>Resolved: Clonezilla Error Indicates Target Disk Is Too Small</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-20-essential-gopro-extras-for-2024/"><u>Top 20 Essential Gopro Extras for 2024</u></a></li>
 </ul></div>
 

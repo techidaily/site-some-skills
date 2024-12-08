@@ -1,7 +1,7 @@
 ---
 title: Top 8 Crucial Cybersecurity Practices for the Digital Newcomer
-date: 2024-11-22T18:31:52.112Z
-updated: 2024-11-28T21:29:53.891Z
+date: 2024-12-04T16:31:55.606Z
+updated: 2024-12-08T03:29:32.253Z
 tags:
   - web
 categories:
@@ -24,13 +24,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Entering the tech world can be thrilling but presents numerous risks. From falling prey to hackers to inadvertently sharing sensitive information, your privacy and finances can be compromised. You should adhere to basic security practices to stay safe. Here are some safety tips everyone should know.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1  Recognize Phishing Emails and Texts 
 
 ![A text message stating 'Florida toll services: We've noticed an outstanding toll amount of $12.51 on your record. To avoid a late fee of $50.00, visit UNFRIENDLY URL to settle your balance.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/23.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Andrew Heinzman / How-To Geek
 
@@ -44,10 +44,6 @@ Andrew Heinzman / How-To Geek
 
 ![iPad mini remotely accessing a Mac desktop using AnyDesk application.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/img_4835.jpeg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Hannah Brostrom / How-To Geek
 
 [Tech support scams](https://extra-information.techidaily.com/full-range-virtual-sphere-review/) are among the most common traps scammers use to deceive non-tech-savvy individuals.
@@ -55,6 +51,10 @@ Hannah Brostrom / How-To Geek
  Scammers typically display a fake popup on your screen while you're browsing an unsafe website, claiming that your computer is infected or has a severe issue. They then ask you to call a number listed in the popup, which connects you to the scammers. When you call, they ask for remote access to your computer, claiming they need it to fix the issue.
 
  Once they have access, they may turn your screen black, transfer funds from your bank account (if they can), install malicious software, or use other tactics to defraud you. To protect yourself, ignore such popups and _never_ allow anyone remote access to your device. If you need genuine tech support, always seek assistance from the official website of the company.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3  Avoid Befriending Strangers Online 
 
@@ -64,9 +64,17 @@ Hannah Brostrom / How-To Geek
 
 ![A bot impersonating a real person on Facebook.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/scammer.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4  Don’t Overshare Your Critical Information 
 
 ![A hacker stealing a credit card in an online store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-hacker-stealing-a-credit-card-in-an-online-store.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lucas Gouveia / How-To Geek | [Creativa Images](https://www.shutterstock.com/image-photo/picture-male-hacker-stealing-credit-card-2102624236) / Shutterstock
 
@@ -75,7 +83,7 @@ Lucas Gouveia / How-To Geek | [Creativa Images](https://www.shutterstock.com/ima
  Most importantly, never post photos of your driver's license, credit card, passwords, ID, or other sensitive information that could be easily misused. Keep expensive purchases private to avoid attracting theft attempts. Similarly, avoid sharing details about your work or company that could lead to legal issues. Following these tips will help you avoid unnecessary trouble.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5  Follow Safe Browsing Practice 
@@ -90,10 +98,6 @@ Lucas Gouveia / How-To Geek | [Creativa Images](https://www.shutterstock.com/ima
 
 ![A phone with an incoming call and a call forwarding icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-phone-with-an-incoming-call-and-a-call-forwarding-icon.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Lucas Gouveia / Justin Duino / How-To Geek
 
  Don’t trust any callers from an unverified number asking for critical personal or financial information, especially if they use high-pressure tactics and try to prevent you from ending the call. Always ask the caller for their name, organization, and callback number. Scammers can use fake caller ID information, so be aware of that.
@@ -103,7 +107,7 @@ Lucas Gouveia / Justin Duino / How-To Geek
  Also, be wary of calls from unfamiliar area codes, familiarize yourself with the official contact numbers of companies you deal with, and stay updated on the latest scam alerts from reputable sources like the Federal Trade Commission (FTC). Trust your instincts—if something feels off, it's wise to be extra cautious.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7  Verify News Headlines Before Believing Them 
@@ -119,10 +123,6 @@ Lucas Gouveia / How-To Geek | [DONOT6\_STUDIO](https://www.shutterstock.com/imag
 ## 8  Follow Tips for Safe Online Shopping 
 
 ![Hands holding credit card and using laptop to shop online.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/8d330f6d.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Ivan Kruk/Shutterstock.com](https://www.shutterstock.com/image-photo/hands-holding-credit-card-using-laptop-291627674)
 
@@ -151,20 +151,19 @@ Lucas Gouveia / How-To Geek | [DONOT6\_STUDIO](https://www.shutterstock.com/imag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-unparalleled-editing-experience-vimeo-edition-awaits/"><u>[Updated] 2024 Approved Unparalleled Editing Experience Vimeo Edition Awaits</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-5-high-definition-screens-for-ps5/"><u>[Updated] Top 5 High-Definition Screens for PS5</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-strategies-for-streaming-fb-live-on-zoom-platform/"><u>2024 Approved Strategies for Streaming FB Live on Zoom Platform</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-definitive-iphone-podcast-download-guide/"><u>2024 Approved The Definitive iPhone Podcast Download Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-blueprint-for-tiktok-media-transfer/"><u>2024 Approved The Ultimate Blueprint for TikTok Media Transfer</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-total-byte-requirement-for-a-days-movie-watching/"><u>2024 Approved Total Byte Requirement for a Day's Movie Watching</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/average-podcast-income-whats-the-payoff/"><u>Average Podcast Income What's the Payoff?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Itel P40+? | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/experience-modern-audio-wear-with-blueear-bluetooth-beanie-hat-a-review-of-functional-fashion-meets-clear-tunes/"><u>Experience Modern Audio-Wear with BlueEar Bluetooth Beanie Hat: A Review of Functional Fashion Meets Clear Tunes</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-realme-gt-5-pro-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Realme GT 5 Pro Devices</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-your-figma-project-with-clean-backgrounds/"><u>In 2024, Streamlining Your Figma Project with Clean Backgrounds</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-list-of-top-tier-cameras/"><u>In 2024, The Ultimate List of Top-Tier Cameras</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigate-new-tech-frontiers-discover-top-hardware-insights-on-toms-gadget-garage/"><u>Navigate New Tech Frontiers: Discover Top Hardware Insights on Tom's Gadget Garage</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-technical-edge-why-high-dynamic-range-triumphs-over-standard-dynamic-range-for-2024/"><u>The Technical Edge Why High Dynamic Range Triumphs over Standard Dynamic Range for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/youtube-shorts-solutions-to-frequent-problems-for-2024/"><u>YouTube Shorts Solutions to Frequent Problems for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-a-quick-guide-to-editing-and-updating-twitter-video-images/"><u>[New] A Quick Guide to Editing and Updating Twitter Video Images</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-sj6-ultimate-face-off-with-xiaomis-yi-4k-genius/"><u>[New] SJ6 Ultimate Face-Off with Xiaomi's Yi 4K Genius</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-goofy-adventure-a-critical-appraisal-videotape-edition/"><u>[Updated] 'The Goofy Adventure' - A Critical Appraisal Videotape Edition</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-step-by-step-tutorial-using-microsofts-movie-maker-on-w11/"><u>[Updated] Step-By-Step Tutorial Using Microsoft's Movie Maker on W11</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-understanding-youtubes-view-threshold-for-money-for-2024/"><u>[Updated] Understanding Youtube’s View Threshold for Money for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-techniques-for-blurring-and-excising-picture-borders/"><u>2024 Approved Techniques for Blurring and Excising Picture Borders</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-typographic-tactics-for-advanced-ae-users/"><u>2024 Approved Typographic Tactics for Advanced AE Users</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-galaxy-a25-5g-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Galaxy A25 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-excel-2007-vba-runtime-error-9-subscript-out-of-range-stellar-by-stellar-guide/"><u>Fixed Excel 2007 VBA Runtime Error 9 Subscript Out of Range | Stellar</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-az-screenshot-mastery-full-app-review/"><u>In 2024, AZ Screenshot Mastery - Full App Review</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-listening-preferences-deciding-between-podcasts-and-youtube/"><u>In 2024, Listening Preferences Deciding Between Podcasts & YouTube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-process-of-batched-tiktok-content-extraction/"><u>In 2024, Unveiling the Process of Batched TikTok Content Extraction</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://win-unique.techidaily.com/sony-vaio-reinitialization-guide-restoring-factory-settings-on-windows-11/"><u>Sony Vaio Reinitialization Guide: Restoring Factory Settings on Windows 11</u></a></li>
 </ul></div>
 

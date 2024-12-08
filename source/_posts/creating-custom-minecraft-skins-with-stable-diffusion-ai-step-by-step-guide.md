@@ -1,7 +1,7 @@
 ---
 title: Creating Custom Minecraft Skins with Stable Diffusion AI - Step-by-Step Guide
-date: 2024-11-04T01:59:00.402Z
-updated: 2024-11-10T23:33:31.276Z
+date: 2024-12-05T19:59:55.269Z
+updated: 2024-12-07T17:32:29.665Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 ---
 
 ## Creating Custom Minecraft Skins with Stable Diffusion AI - Step-by-Step Guide
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -60,29 +64,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 
 ![Right-click the Minecraft JAR file and open it with 7-Zip, WinRAR, or any other archival program.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/open-1.19.2.jar_.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You'll see something like this:
 
 ![The contents of the JAR file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/2022-09-30_08h55_56.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Open "assets\\Minecraft\\Textures\\Block." This is where most of the textures for game blocks are stored --- things like stone, cobblestone, tree bark, flowers, all of the ores and gems, and everything like that.
 
  Mob textures are stored in the "entities" folder, and most of the items you can craft are in the "item" folder. 
 
 ![The folder in the JAR file that contains the textures for blocks.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/dirt-diamonds-note-the-folder-hierarchy.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Note the file path at the top, marked "1." Minecraft will look for certain textures, like "diamond\_ore.png," at this location. That means when we want to replace it with our own texture, we need to use the same folder structure, or folder hierarchy, that the game uses by default.
 
@@ -116,10 +110,7 @@ BLOCKNAMEHERE, stock photography, game texture, game asset, photorealistic, phot
 ![A tiled image of 10 potential stone textures generated with Stable Diffusion.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/grid-0007.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The very first result in the top left corner looks to be good, so we'll pick that one. Select it from the displayed textures and then click "Save." The save function records all of the variables needed to recreate this specific lot of images again. That way, if something happens and you lose your texture by accident, you can always generate it again.
@@ -127,13 +118,6 @@ BLOCKNAMEHERE, stock photography, game texture, game asset, photorealistic, phot
  Click "Send to Inpaint" last.
 
 ![Select the texture you like, click &quot;Save,&quot; then click &quot;Send to Inpaint.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/save.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Inpainting allows you to selectively re-generate certain parts of an image based on a new prompt. We'll use it to generate the ore variants of our base stone texture.
 
@@ -151,11 +135,23 @@ BLOCKNAMEHERE, stock photography, game texture, game asset, photorealistic, phot
 
 ![A tiled image showing six prospective diamond ore textures.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/masked-area.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click "Save" again to make sure that you don't lose any results you like.
 
  Repeat this process for as many ores or blocks as you want to replace. We're replacing oak trees, stone, diamond ore, and dirt. Here are the final texture selections we made below:
 
 ![The four textures we generated: diamond ore, oak tree, dirt, and stone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/Final-Textures.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Turning the Textures Into a Resource Pack for Minecraft
 
@@ -169,18 +165,15 @@ BLOCKNAMEHERE, stock photography, game texture, game asset, photorealistic, phot
 
 ![Click &quot;Image,&quot; then &quot;Scale Image,&quot; to change the size of the texture.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/scale-image-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can scale it down as far as you'd like --- Minecraft's default is 16x16 pixels --- but we'll only go down to 128x128 to preserve the details. Enter the dimensions you want and click "Scale."
 
  Keep your image square. 16x16, 32x32, 64x64, 128x128, and so on. 
 
 ![Make the texture smaller than 512x512. 128x128 is a good size. Then click &quot;Scale.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/square-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You'll immediately notice that your image is way smaller than it was before. Click on "File" in the top-left corner, then click "Overwrite stone.png."
 
@@ -193,13 +186,6 @@ BLOCKNAMEHERE, stock photography, game texture, game asset, photorealistic, phot
 pack.mcmeta
 
 ![Create a text file named &quot;pack.mcmeta&quot; in your texture folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/pack-mcmeta.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Then hit the Enter key. You'll get a warning about doing that. Normally the warning is correct; renaming file extensions at random is bad practice. In this case, however, it doesn't matter at all. Just click "Yes."
 
@@ -246,13 +232,6 @@ pack.mcmeta
 
 ![Select both the assets folder and the MCMETA file, right-click, then click &quot;Add to HTGExampleTextures.zip&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/clcik-both.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Related: [How to Clean Up Your Messy Windows Context Menu](https://extra-guidance.techidaily.com/new-master-iphone-filmmaking-for-full-sphere-effects/) 
 
  Copy and paste the ZIP file you just created into the Minecraft resource pack folder. By default, it is located in "C:\\Users\\**(YourUserName)**\\AppData\\Roaming\\.Minecraft\\resourcepacks" --- though that could be different if you installed it elsewhere.
@@ -261,16 +240,13 @@ Related: [How to Clean Up Your Messy Windows Context Menu](https://extra-guidanc
 
 ![Click HTGExampleTextures.zip in the &quot;Select Resource Packs&quot; page to swap out the vanilla textures for our textures.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/htg-texture-pack.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When you load into any world, your textures will replace the corresponding vanilla textures. Here they are, right in a row:
 
 ![Our textures displayed in Minecraft. From left to right: Stone, Dirt, Diamond Ore, Oak.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/ingame-screenshot.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Stable Diffusion cuts down on the time required to make a new texture enormously, even if you do have to do a little correction on some textures.
 
@@ -297,18 +273,24 @@ Related: [How to Use Stable Diffusion to Make AI GIFs and Videos](https://youtub
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-how-to-create-metaverse-avatar-with-ease-an-ultimate-guide/"><u>[New] 2024 Approved How to Create Metaverse Avatar with Ease An Ultimate Guide</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-unleash-creativity-best-free-video-editor-apps-android-edition/"><u>[Updated] In 2024, Unleash Creativity Best Free Video Editor Apps, Android Edition</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-professional-smoothness-blurring-the-video-backdrop/"><u>2024 Approved Professional Smoothness Blurring the Video Backdrop</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-tailoring-a-streamlined-download-process-for-youtubes-srt/"><u>2024 Approved Tailoring a Streamlined Download Process for YouTube's SRT</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-future-of-computing-in-windows-11/"><u>2024 Approved The Future of Computing in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/conquer-glitchy-mouse-motion-with-7-fixes/"><u>Conquer Glitchy Mouse Motion with 7 Fixes</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-honor-magic5-ultimate-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Honor Magic5 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-5-kid-friendly-flying-toys/"><u>In 2024, Top 5 Kid-Friendly Flying Toys</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-understanding-the-edge-of-av1-in-video-encoding/"><u>In 2024, Understanding the Edge of AV1 in Video Encoding</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Honor 90 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-multilingual-interaction-a-guide-to-using-chatgpt-beyond-english/"><u>Mastering Multilingual Interaction: A Guide to Using ChatGPT Beyond English</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-experts-playbook-for-transforming-srt-into-diverse-formats-for-2024/"><u>The Expert's Playbook for Transforming SRT Into Diverse Formats for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-srt-expertise-essential-insights-for-2024/"><u>Unlocking SRT Expertise Essential Insights for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/iscover-the-10-yt-channels-with-swift-ascendancy-and-intellect/"><u>[New] Discover the 10 YT Channels with Swift Ascendancy and Intellect</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-essential-methods-for-documenting-overwatch-games/"><u>[New] Essential Methods for Documenting Overwatch Games</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unforgettable-stop-motion-films-an-overview/"><u>[New] Unforgettable Stop-Motion Films - An Overview</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721100256114-solved-nvidia-gtx-struggles-in-gaming-seek-optimization-troubleshooting-steps/"><u>[Solved] Nvidia GTX Struggles in Gaming – Seek Optimization Troubleshooting Steps!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-sunlit-shades-to-subdued-spectrum-in-photoshop/"><u>[Updated] Sunlit Shades to Subdued Spectrum in Photoshop</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-key-to-exploring-without-boundaries-through-vr/"><u>[Updated] The Ultimate Key to Exploring Without Boundaries Through VR</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-path-to-costless-image-archives/"><u>[Updated] Unveiling the Path to Costless Image Archives</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-unveiling-the-power-of-pinning-your-guide-to-discord-mastery/"><u>[Updated] Unveiling the Power of Pinning Your Guide to Discord Mastery</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamlining-picture-shading-with-adobe-tools/"><u>2024 Approved Streamlining Picture Shading with Adobe Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-synthetic-worlds-the-future-of-gaming-with-vr/"><u>2024 Approved Synthetic Worlds The Future of Gaming with VR</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-complete-cheat-sheet-mastering-googles-voice-transcription-tool/"><u>2024 Approved The Complete Cheat Sheet Mastering Google's Voice Transcription Tool</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unboxing-the-typhoon-h-yuneecs-drone-expertise/"><u>2024 Approved Unboxing the Typhoon H Yuneec's Drone Expertise</u></a></li>
+<li><a href="https://win-popular.techidaily.com/comment-puis-je-securiser-et-effacer-definitivement-les-fichiers-temporaires-sur-windows-10/"><u>Comment Puis-Je Sécuriser Et Effacer Définitivement Les Fichiers Temporaires Sur Windows 10?</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/easy-guide-capturing-your-windows-10-screen-without-hiccups/"><u>Easy Guide: Capturing Your Windows 10 Screen Without Hiccups</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/find-the-newest-drivers-install-epson-workforce-wf-7640-all-in-one-printer-update/"><u>Find the Newest Drivers: Install Epson WorkForce WF-7640 All-in-One Printer Update</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/guide-on-how-to-remove-apple-id-from-apple-iphone-13-by-drfone-ios/"><u>Guide on How To Remove Apple ID From Apple iPhone 13</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-10-online-photo-editing-tools-to-unblur-photos-effectively-for-2024/"><u>Top 10 Online Photo Editing Tools to Unblur Photos Effectively for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-creative-expression-master-device-based-filters-and-effects-for-2024/"><u>Unlock Creative Expression Master Device-Based Filters and Effects for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Predictive Magic with Linux: Unlocking Fortune-Telling Scripts in Terminal"
-date: 2024-11-25T16:47:57.969Z
-updated: 2024-11-28T20:04:14.683Z
+date: 2024-12-04T22:19:11.283Z
+updated: 2024-12-08T00:11:06.831Z
 tags:
   - desktop
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/10904fe0da235375b0e6b719e293bea0266e1856f
  Ever thought your terminal could be a source of daily wisdom or humor? It's true! With the fortune command, you can receive a random quote, joke, or piece of advice every time you execute it. Whether you're working or enjoying a break, a short fortune can lift your mood and encourage new ideas.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Is the fortune Command?
@@ -52,7 +52,7 @@ fortune
 ![Running fortune command in Linux terminal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/fortune-command.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  fortune Options
@@ -97,10 +97,6 @@ strfile -c % funny funny.dat
 
 ![Converting plain text file to fortune supported file using strfile command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/file-conversoin-strfile.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now, [move both files to the directory](https://some-knowledge.techidaily.com/in-2024-immersive-innovations-the-distinct-worlds-of-mr-ar-and-vr/) where fortune looks for its data. This location can vary, but it often looks like "/usr/share/games/fortunes/" or "/usr/local/share/games/fortunes/".
 
 sudo cp funny* /usr/share/games/fortunes/
@@ -119,14 +115,10 @@ fortune funny
 
 ![Displaying random saying from your newly created fortune file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/fotune-command-custom.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Every time you run the command, one of your hand-crafted fortunes will appear.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Combine fortune and cowsay for Extra Fun
@@ -150,6 +142,10 @@ fortune | cowsay
 fortune | cowsay -f tux
 
 ![Tux displays random statements using fortune and cowsay commands.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/fortune-cowsay-tux.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also make your tux [colorful by piping the lolcat command](https://youtube-tips.techidaily.com/n-2024-accelerate-yt-growth-strategies-for-1kplus-subscribers/).
 
@@ -182,12 +178,16 @@ source ~/.bashrc
 ![Random fortune appearing on a Linux terminal after being launched.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/terminal-fortune-begin.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you want to use different ASCII art creatures, such as tux, just replace the **cowsay** command in the \~/.bashrc file with the **cowsay -f tux** command.
 
 ![Adding new fortune command with tux ASCII art to the end of bashrc file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/terminal-fortune-tux.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Use Fortune for Testing
 
@@ -214,7 +214,7 @@ done`
 fortune | wc -c
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Create a Random Picker Game
@@ -240,24 +240,21 @@ fortune | wc -c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-top-10-best-meme-templates/"><u>[New] Top 10 Best Meme Templates</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-5-innovative-vr-drones-collaborations/"><u>[New] Top 5 Innovative VR Drones Collaborations</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-unlock-professional-broadcasting-on-youtube-and-twitch-with-obs/"><u>[Updated] 2024 Approved Unlock Professional Broadcasting on YouTube & Twitch with OBS</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-perfectly-preserve-facebook-films-with-top-5-chrome-plugs-for-2024/"><u>[Updated] Perfectly Preserve Facebook Films with Top 5 Chrome Plugs for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-streaming-masterminds-choice-go-with-pmix-or-castpro/"><u>[Updated] Streaming Masterminds' Choice Go with PMix or CastPro?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-list-best-trivia-shows-for-general-knowledge-24/"><u>[Updated] The Ultimate List - Best Trivia Shows for General Knowledge, '24</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-most-advanced-virtual-reality-engines-of-2023/"><u>2024 Approved The Most Advanced Virtual Reality Engines of 2023</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/conversion-wizardry-zip-to-subrip-transformation-for-2024/"><u>Conversion Wizardry ZIP to SubRip Transformation for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/dynamic-dividends-boosting-social-media-roi-with-fb-ad-animations-for-2024/"><u>Dynamic Dividends Boosting Social Media ROI with FB Ad Animations for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/identifying-fraudulent-copycat-chatgpt-applications-in-the-ios-app-store/"><u>Identifying Fraudulent Copycat ChatGPT Applications in the iOS App Store</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streamers-dilemma-is-vlc-superior-to-mpc/"><u>In 2024, Streamer's Dilemma Is VLC Superior to MPC?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streamlined-signal-synchronizer-for-podcasters/"><u>In 2024, Streamlined Signal Synchronizer For Podcasters</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-unlocking-the-secrets-to-instagram-post-replicas/"><u>In 2024, Unlocking the Secrets to Instagram Post Replicas</u></a></li>
-<li><a href="https://games-able.techidaily.com/live-on-the-move-mastering-twitch-broadcasts-mobile/"><u>Live on the Move: Mastering Twitch Broadcasts (Mobile)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/no-downgrade-in-gpts-intellectuality-claims-openai/"><u>No Downgrade in GPT's Intellectuality Claims OpenAI</u></a></li>
-<li><a href="https://video-capture.techidaily.com/reviving-the-past-top-5-ps1-emulators-on-pc-for-2024/"><u>Reviving the Past - Top 5 PS1 Emulators on PC for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/streamline-your-dialogues-expert-tips-for-handling-chatgpt-conversations-using-folders/"><u>Streamline Your Dialogues: Expert Tips for Handling ChatGPT Conversations Using Folders</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-future-is-now-hot-10-vr-gear-options-for-2024/"><u>The Future Is Now Hot 10 VR Gear Options for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-tier-editing-suites-in-apples-macos-big-sur-release-for-2024/"><u>Top-Tier Editing Suites in Apple's MacOS Big Sur Release for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-maximizing-performance-with-right-fpv-propeller-choices-for-2024/"><u>[New] Maximizing Performance with Right FPV Propeller Choices for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/he-musicreactionhits-yts-top-10-vids-of-23-for-2024/"><u>[New] The #MusicReactionHits YT's Top 10 Vids of '23 for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/he-insiders-look-at-optimizing-youtube-video-audio/"><u>[New] The Insider’s Look at Optimizing YouTube Video Audio</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-channels-to-zero-cost-image-frames/"><u>[New] Unveiling Channels to Zero-Cost Image Frames</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-covert-recording-erasing-identifiable-information-for-2024/"><u>[Updated] Covert Recording Erasing Identifiable Information for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-mastering-hashtags-to-hit-6k-youtube-growth/"><u>[Updated] Mastering Hashtags to Hit $6K YouTube Growth</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-the-art-of-facebook-video-coverage-standout-tips-and-tricks-for-2024/"><u>[Updated] The Art of Facebook Video Coverage Standout Tips & Tricks for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tutorial-for-downloading-movie-maker-6-on-windows/"><u>[Updated] Tutorial for Downloading Movie Maker 6 on Windows</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unparalleled-window-watchers-top-video-player-picks/"><u>[Updated] Unparalleled Window Watchers Top Video Player Picks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-snapshot-solution-how-to-swiftly-switch-your-gif-for-a-sticker/"><u>2024 Approved The Snapshot Solution How to Swiftly Switch Your GIF for a Sticker</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/compare-30fps-vs-60fps-in-gaming-watch-high-frame-rate-gameplay/"><u>Compare 30Fps Vs. 60Fps in Gaming - Watch High-Frame Rate Gameplay</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-x100-pro-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo X100 Pro to Outlook | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-shoppers-list-select-box-personalization-sites/"><u>In 2024, Ultimate Shopper's List Select Box Personalization Sites</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-data-preservation-a-guide-to-keeping-your-important-records-safe-and-sound/"><u>Mastering Data Preservation: A Guide to Keeping Your Important Records Safe and Sound</u></a></li>
+<li><a href="https://some-skills.techidaily.com/mastery-of-text-effects-best-practices-in-ae-for-2024/"><u>Mastery of Text Effects Best Practices in AE for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-10-download-snapchat-ringtones-websites-for-2024/"><u>Top 10 Download Snapchat Ringtones Websites for 2024</u></a></li>
 </ul></div>
 

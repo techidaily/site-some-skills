@@ -1,7 +1,7 @@
 ---
 title: "Dark Mode Viewing: A Guide for Playback of YouTube Videos in Private Mode on Smartphones (iOS & Android)"
-date: 2024-11-08T20:35:50.167Z
-updated: 2024-11-11T04:09:26.330Z
+date: 2024-12-03T00:46:48.635Z
+updated: 2024-12-07T20:55:58.039Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/908abdf5786977a17c0b2ecf2fc693bdf5a10c0549e2851740329dd839b1ac68.jpg
@@ -17,16 +17,17 @@ Posted by [Amy Lopez](https://shorturl.at/bmsEO) on 7/17/2019 4:57:24 PM.
 
 ![follow](http://www.epubor.com/images/follow.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 In this post I am going to show you how to play YouTube videos on both iOS and Android devices with the screen off or in the background. This is great for listening to podcasts since there's no point in wasting battery on the screen if you're just going to listen to it. More importantly, this is very helpful in multitasking. Using this trick, you'll be able to do your task and listen to youtube in the background at the same time. 
 
 * [1\. How to Listen to YouTube on Android Device with Screen OFF](https://tools.techidaily.com/epubor/products/)
 * [2\. How to Listen to YouTube on iOS Device with Screen OFF](https://tools.techidaily.com/epubor/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. How to Listen to YouTube on Android with Screen OFF 
@@ -40,22 +41,12 @@ Here's the detailed steps for playing YouTube video in background or with the sc
 ![google-chrome](http://www.epubor.com/images/uppic/google-chrome.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3\. Hit the menu button in Chrome and choose **Request Desktop Site**. 
 
 ![request-desktop-site](http://www.epubor.com/images/uppic/request-desktop-site.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4\. Search for your favorite YouTube video that you want to play in the background and play it. 
 
@@ -73,16 +64,13 @@ Now you can do task on other browsers or apps while listening to youtube video.
 
 [Download Firefox on Google Play Store](https://play.google.com/store/apps/details?id=org.mozilla.firefox&hl=en) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. How to Listen to YouTube on iOS Device with Screen OFF 
 
 The steps for playing YouTube video on iOS phone or tablet in the background or with the screen off is the same as Android phone. So just repeat the steps above. One cool thing about iOS devices is that you have gotten one more useful browser--[Safari](https://www.apple.com/safari/).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Conlusion
 
@@ -94,6 +82,10 @@ Related articles
 * [How to Convert Audiobook to MP3](https://tools.techidaily.com/epubor/products/)
 
 ![author](http://www.epubor.com/images/uppic/Hillary.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Amy Lopez](https://shorturl.at/bmsEO) crafts informative articles on eBooks and eReaders, uncovering optimal methods to enhance your eBook reading experience, and eagerly shares her findings with you.
 
@@ -293,22 +285,22 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-capture-to-air-expert-tips-for-streaming-upside-down-videos-on-youtube/"><u>[New] 2024 Approved From Capture to Air Expert Tips for Streaming Upside-Down Videos on Youtube</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-complete-srt-file-makers-handbook/"><u>[New] The Complete SRT File Maker's Handbook</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-crafting-ae-titles-with-maximum-impression-for-2024/"><u>[Updated] Crafting AE Titles with Maximum Impression for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-fb-video-downloader-get-access-on-all-devices-2023/"><u>[Updated] FB Video Downloader Get Access on All Devices, 2023</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-maximize-your-listening-experience-ios-podcast-mastery/"><u>[Updated] Maximize Your Listening Experience IOS Podcast Mastery</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-premier-10-moba-titles-for-android-devotees/"><u>2024 Approved Premier 10 MOBA Titles for Android Devotees</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-creativity-with-these-essential-vector-editors/"><u>2024 Approved Unleash Creativity with These Essential Vector Editors</u></a></li>
-<li><a href="https://win-news.techidaily.com/how-to-safely-and-quickly-retrieve-data-from-an-unavailable-micro-sd-card-sector/"><u>How to Safely and Quickly Retrieve Data From an Unavailable Micro SD Card Sector</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Nokia C210 | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-invisible-web-seo-secrets-for-podcasters/"><u>In 2024, The Invisible Web SEO Secrets for Podcasters</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-mystery-of-free-graphic-imagery/"><u>In 2024, Unveiling the Mystery of Free Graphic Imagery</u></a></li>
-<li><a href="https://common-error.techidaily.com/surface-pro-4-pen-not-working-solved/"><u>Surface Pro 4 Pen Not Working [SOLVED]</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-future-of-intelligence-innovators-views-on-artificial-intelligence/"><u>The Future of Intelligence: Innovators' Views on Artificial Intelligence</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-illustrator-way-adding-realistic-blur-to-your-pics-for-2024/"><u>The Illustrator Way Adding Realistic Blur to Your Pics for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-smooth-slide-advanced-techniques-for-inshot-transitions-for-2024/"><u>The Smooth Slide Advanced Techniques for Inshot Transitions for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-insights-into-audio-memos-for-2024/"><u>The Ultimate Insights Into Audio Memos for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-sea-snag-footage-top-5-picks-for-2024/"><u>Ultimate Sea Snag Footage - Top 5 Picks for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-audio-essentials-latest-speakers/"><u>[New] 2024 Approved Audio Essentials Latest Speakers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-5-hd-cameras-for-big-game-capture/"><u>[New] Top 5 HD Cameras for Big Game Capture</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-audio-interfaces-unveiled-the-podcasters-must-have-list/"><u>[New] Top Audio Interfaces Unveiled The Podcaster's Must-Have List</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-streamlined-techniques-for-recording-gotomeetings/"><u>[Updated] Streamlined Techniques for Recording GoToMeetings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-art-and-craft-of-documentary-writing/"><u>[Updated] The Art and Craft of Documentary Writing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-ultimate-roadmap-to-profit-via-instagram-platform/"><u>[Updated] The Ultimate Roadmap to Profit via Instagram Platform</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-humor-image-tinkerer/"><u>[Updated] Top Humor Image Tinkerer</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-from-talk-to-text-proven-strategies-for-quality-recordings/"><u>2024 Approved From Talk To Text Proven Strategies for Quality Recordings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-21-monitors-showdown-the-clear-winners/"><u>2024 Approved Ultimate 2.1 Monitors Showdown - The Clear Winners</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-hd-encoding-devices-for-live-events/"><u>2024 Approved Ultimate HD Encoding Devices for Live Events</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-vivo-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Vivo to Protect Your Individual Information</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-the-secrets-pro-level-iphone-landscape-tips/"><u>In 2024, Unlocking the Secrets Pro-Level iPhone Landscape Tips</u></a></li>
+<li><a href="https://win-blog.techidaily.com/microsoft-broadens-windows-11-eligibility-for-additional-computers/"><u>Microsoft Broadens Windows 11 Eligibility for Additional Computers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/photographic-fusion-at-full-speeds-google-collage-techniques-for-2024/"><u>Photographic Fusion at Full Speeds Google Collage Techniques for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/savetech-reviews-insights/"><u>SaveTech Reviews Insights</u></a></li>
+<li><a href="https://some-skills.techidaily.com/swift-cinematic-skills-the-quickest-5-diy-hacks-for-success-for-2024/"><u>Swift Cinematic Skills The Quickest 5 DIY Hacks for Success for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/video-quality-edge-mirrorless-versus-dslr-cameras/"><u>Video Quality Edge Mirrorless Versus DSLR Cameras</u></a></li>
 </ul></div>
 

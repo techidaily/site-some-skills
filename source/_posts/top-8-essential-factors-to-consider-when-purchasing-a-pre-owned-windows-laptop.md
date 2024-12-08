@@ -1,7 +1,7 @@
 ---
 title: Top 8 Essential Factors to Consider When Purchasing a Pre-Owned Windows Laptop
-date: 2024-11-26T18:43:06.577Z
-updated: 2024-11-28T19:31:46.856Z
+date: 2024-12-01T22:22:19.330Z
+updated: 2024-12-07T17:24:25.114Z
 tags:
   - deals
 categories:
@@ -24,23 +24,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Buying a used laptop can indeed save you money, but it does come with some risks. This is why you should thoroughly examine the laptop before closing the deal to avoid unpleasant surprises later on. If you doubt the credibility of the seller, here's how you can test the used laptop.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Test the Keyboard and Trackpad
 
  Begin the laptop inspection by testing the keyboard and trackpad first. To test the keyboard, go to a keyboard testing website like [Keyboard Tester](https://www.keyboardtester.com/tester.html) and press each key from the first to the last. If all keys register correctly, the keyboard is likely in good condition. Also, make sure you feel comfortable typing on the keyboard.
 
 ![Keyboard tester typing letters in lowercase with Caps Lock off.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-keyboard-tester-typing-letters-in-lowercase-with-caps-lock-off.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To test the trackpad, hover over the screen to gauge its responsiveness. Then, experiment with different trackpad gestures, such as pinch-to-zoom and two-finger scroll, to see which ones are supported. If you have another laptop, you can compare trackpad responsiveness by conducting a touchpad accuracy test on both laptops using the [No-Cursor website](https://no-cursor.com/).
 
  This will help you confirm whether the trackpad on your new laptop is equally or more responsive than the other one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Test the Speakers and Built-In Microphone
 
@@ -49,6 +45,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  To test the built-in speakers, click on "Speakers" under Output, which will open the sound settings. Here, click on the "Test" button next to Format. If you hear clear sound coming out of your laptop speaker without distortion or muffling, it's working properly. If the audio output is unclear, there may be an issue.
 
 ![Testing the laptop speaker in Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/1-testing-the-laptop-speaker-in-settings.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To [test the built-in microphone](https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-vivo-y200e-5g-drfone-by-drfone-virtual-android/), return to the sound settings, click on "Microphone Array," and then click on the "Start Test" button next to Test Your Microphone. Speak for a few seconds, then stop the test. If you see a decent volume percentage recorded, the microphone is working as it should.
 
@@ -61,7 +61,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  If the camera app detects the webcam and the visuals are clear and of satisfactory quality, as the seller claimed, then the camera is working correctly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Check the Health of Your Laptop Battery
@@ -74,23 +74,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Generating the battery health report from Windows PowerShell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/08/br_2-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Navigate to this location and open the battery report. Then, go to the "Installed Batteries" section and compare the "Design Capacity" with the "Full Charge Capacity." The difference between these values indicates the extent to which the battery's capacity has diminished due to usage. If the full charge capacity is significantly low, you may have to replace the battery.
 
 ![Checking the laptop battery report.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/08/br_5.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Ensure the Laptop Isn't Stolen
 
  If you're thinking about buying a used laptop from an unknown seller, make sure that it hasn't been stolen. One way to check this is to request a purchase receipt from the seller. If they are unable to provide one, this could be a red flag. If the laptop hasn't been reset, is password-protected, or is locked, these signs indicate that it's likely a stolen device.
 
  You can also confirm your suspicions by getting the laptop's serial number and contacting the manufacturer to verify whether the device has been reported stolen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Perform the Physical Inspection
 
@@ -133,21 +133,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-masterclass-guide-15-tripods-perfect-for-gopro/"><u>[New] 2024 Approved Masterclass Guide 15 Tripods Perfect for GoPro</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-the-definitive-path-from-twitter-video-to-creatively-crafted-gifs/"><u>[New] 2024 Approved The Definitive Path From Twitter Video to Creatively Crafted GIFs</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-unlocking-potential-a-guide-to-dominating-your-instagram-posts/"><u>[New] 2024 Approved Unlocking Potential A Guide to Dominating Your Instagram Posts</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-scaling-photography-with-no-detail-degradation/"><u>[New] In 2024, Scaling Photography with No Detail Degradation</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-art-of-capturing-conversations-iphoneipad-tips-for-top-quality-interviews/"><u>[New] The Art of Capturing Conversations IPhone/iPad Tips for Top Quality Interviews</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-blueprint-to-dominate-with-your-spotify-ad-campaign/"><u>[New] The Blueprint to Dominate With Your Spotify Ad Campaign</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-haul-video-guide-from-camera-to-final-cut/"><u>[New] The Ultimate Haul Video Guide From Camera to Final Cut</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/digital-artistry-perfecting-your-photoshop-skills/"><u>Digital Artistry Perfecting Your Photoshop Skills</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/essential-extensions-elevating-vs-code-with-gpt-features/"><u>Essential Extensions: Elevating VS Code with GPT Features</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-on-iphone-x-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account On iPhone X?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-techniques-for-swiftly-finding-deleted-reddit-contributions/"><u>In 2024, Techniques for Swiftly Finding Deleted Reddit Contributions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-fb-video-potential-with-speedy-insights/"><u>In 2024, Unleashing FB Video Potential with Speedy Insights</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/instagrams-secret-fine-tuning-fcpx-for-high-aspect-videos/"><u>Instagram's Secret Fine-Tuning FCPX for High Aspect Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/joyful-sign-uplogout-flowchart-for-2024/"><u>Joyful Sign-Up/Logout Flowchart for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-art-of-audio-finesse-advanced-editing-strategies-for-podcasters-for-2024/"><u>The Art of Audio Finesse Advanced Editing Strategies for Podcasters for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-choice-10-excellent-camera-lenses-for-2024/"><u>Ultimate Choice 10 Excellent Camera Lenses for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlock-your-social-media-superpowers-top-9-instagram-techniques-to-skyrocket-popularity/"><u>[New] Unlock Your Social Media Superpowers Top 9 Instagram Techniques to Skyrocket Popularity</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-understanding-the-impact-activating-auto-hdr-feature-on-windows-11/"><u>[Updated] 2024 Approved Understanding the Impact Activating Auto HDR Feature on Windows 11</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-securing-a-smooth-pathway-to-share-srt-text-across-multiple-platforms-for-2024/"><u>[Updated] Securing a Smooth Pathway to Share SRT Text Across Multiple Platforms for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-no-fuss-guide-for-exploring-loved-and-trending-youtube-comments/"><u>[Updated] The No-Fuss Guide for Exploring Loved and Trending YouTube Comments</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transforming-mundane-interviews-into-memorable-experienrances/"><u>[Updated] Transforming Mundane Interviews Into Memorable Experienrances</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-choice-vr-game-engines-update-march-2023/"><u>2024 Approved Top Choice VR Game Engines Update - March 2023</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transformative-grading-3-simplified-photoshop-routines/"><u>2024 Approved Transformative Grading 3 Simplified Photoshop Routines</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/philes-guide-techniques-to-elevate-sound-recording/"><u>Audiophile's Guide Techniques to Elevate Sound Recording</u></a></li>
+<li><a href="https://win-net.techidaily.com/effiziente-adata-solid-state-drive-wandlungstools-fur-windows-betriebssysteme-windows-111087-die-umfassende-auswahl/"><u>Effiziente ADATA Solid State Drive Wandlungstools Für Windows Betriebssysteme (Windows 11/10/8/7): Die Umfassende Auswahl</u></a></li>
+<li><a href="https://facebook.techidaily.com/freedom-of-expression-say-no-to-facebook-tagged-photos/"><u>Freedom of Expression: Say No to Facebook Tagged Photos</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-restoring-accessibility-of-your-disregarded-usb-flash-memory/"><u>Guide: Restoring Accessibility of Your Disregarded USB Flash Memory</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-download-and-install-safe-and-free-corsair-keyboard-drivers-compatible-with-windows/"><u>How to Download and Install Safe & Free Corsair Keyboard Drivers Compatible with Windows</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-infinix-note-30-pro-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Infinix Note 30 Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-soundtrack-of-stills-visual-audio-crafting/"><u>In 2024, The Soundtrack of Stills Visual-Audio Crafting</u></a></li>
+<li><a href="https://android-frp.techidaily.com/lenovo-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Lenovo ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/subtle-sound-reduction-tactics-with-garageband-for-2024/"><u>Subtle Sound Reduction Tactics with Garageband for 2024</u></a></li>
 </ul></div>
 

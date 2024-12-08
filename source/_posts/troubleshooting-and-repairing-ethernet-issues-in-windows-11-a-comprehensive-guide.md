@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting and Repairing Ethernet Issues in Windows 11: A Comprehensive Guide"
-date: 2024-11-22T19:36:39.613Z
-updated: 2024-11-28T19:41:01.427Z
+date: 2024-12-03T01:29:54.403Z
+updated: 2024-12-08T02:55:46.175Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/77e8784ddc309f16b18e178f4d3e63a6403d2aa17
 ## Troubleshooting and Repairing Ethernet Issues in Windows 11: A Comprehensive Guide
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/77e8784ddc309f16b18e178f4d3e63a6403d2aa17
 
  Is the Ethernet connection not working on your Windows PC? If so, your problem could be anything from your Internet Service to your PC's ethernet card. Below are some potential solutions you can try to resolve this issue.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Run the Network and Internet Troubleshooter
 
  Begin troubleshooting by running the built-in Network and Internet troubleshooter, which can help pinpoint and resolve potential issues with your Ethernet connection.
@@ -47,13 +43,13 @@ thumbnail: https://thmb.techidaily.com/77e8784ddc309f16b18e178f4d3e63a6403d2aa17
 
 ![Opening other troubleshooters settings on windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5-opening-other-troubleshooters-settings-on-windows.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Next, click the "Run" button next to Network and Internet. Follow the on-screen instructions in the Get Help app to identify and fix the problem.
 
 ![Running the network and internet troubleshooter in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/run-option.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Preliminary Checks
 
@@ -75,10 +71,6 @@ Hannah Stryker / How-To Geek
 
  If you can successfully connect to the internet via Wi-Fi, your internet connection is active, and the problem likely lies with your device's Ethernet connection.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Test the Ethernet Connection on Another Device
 
  To ensure that the problem doesn't stem from your faulty router hardware, a damaged Ethernet cable, or misconfigured router settings, test your Ethernet connection on another device (if available). Connect your Ethernet cable to a different device and check if the connection works properly.
@@ -91,6 +83,10 @@ Hannah Stryker / How-To Geek
 
  If the Ethernet cable and its connectors are in good condition, check the ports where the cable is plugged into your router or PC for any obvious signs of damage. Connect the cable to a different port on your PC (if one is available) to confirm whether the PC port is working properly. Then, try plugging the cable to a different port on your router. If changing the ports does not resolve the issue, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Rule Out Issues With Your Router
 
 ![The back of a TP-Link Archer C6 router.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/img20240122150429.jpg) 
@@ -101,6 +97,10 @@ Ismar Hrnjicevic / How-To Geek
 
  If you're up to it, you can [log into your router's admin interface](https://buynow-reviews.techidaily.com/unveiling-the-potential-a-full-review-of-tp-links-re5-grower-tp-link-re505x-wifi-range-extender/) and confirm that your device isn't blacklisted. If all else fails, you can [completely reset your router settings](https://digital-screen-recording.techidaily.com/microcapture-video-logger-analysis-and-options-for-2024/) to ensure that misconfigured settings aren't causing the problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Ensure the Ethernet Connection Is Enabled
 
  If the Ethernet connection works properly on other devices but not on a specific device, ensure the connection isn't disabled on that device. Right-click on the Start button and select "Device Manager." Then, expand the "Network Adapters" category. Locate your Ethernet network adapter and check if you see a small arrow pointing downward beside its name.
@@ -108,14 +108,6 @@ Ismar Hrnjicevic / How-To Geek
  If you see this arrow, it means the Ethernet connection is disabled. To enable it, right-click on the network adapter and choose "Enable Device."
 
 ![Enabling the disabled ethernet connection adapter in device manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/enabling-the-disabled-ethernet-connection-adapter-in-device-manager.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Update or Reinstall Ethernet Adapter Drivers
 
@@ -133,10 +125,14 @@ Ismar Hrnjicevic / How-To Geek
 
 ![Uninstalling the ethernet driver in Device Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/uninstalling-the-ethernet-driver-in-device-manager.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then, follow the previous instructions to reinstall it manually.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Disable Proxy Server Over LAN
@@ -145,12 +141,16 @@ Ismar Hrnjicevic / How-To Geek
 
 ![Opening the 'Internet Options' Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/1-opening-the-internet-options-settings.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then, move to the "Connections" tab and click the "LAN Settings" button. If the box beside"Use a Proxy Server for Your LAN" is checked, uncheck it to turn off the proxy server. Click "Apply" and hit "OK."
 
 ![Turning off the proxy server from LAN settings on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/2-turning-off-the-proxy-server-from-lan-settings-on-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -172,22 +172,16 @@ Ismar Hrnjicevic / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-seamless-integration-of-luts-for-enhanced-cinematography/"><u>[New] Seamless Integration of LUTs for Enhanced Cinematography</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-upgrading-your-mp4s-integrating-premium-srt-sound/"><u>[New] Upgrading Your MP4s Integrating Premium SRT Sound</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-enhancing-selfie-impact-on-instagram-the-zoom-guide-for-2024/"><u>[Updated] Enhancing Selfie Impact on Instagram The Zoom Guide for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-unlock-mysteries-select-top-puzzle-houses/"><u>[Updated] In 2024, Unlock Mysteries Select Top Puzzle Houses</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-steady-panning-for-smooth-cinematography/"><u>[Updated] Steady Panning for Smooth Cinematography</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-unleashing-creative-naming-top-10-ai-podcast-names/"><u>[Updated] Unleashing Creative Naming Top 10 AI Podcast Names</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-your-full-potential-in-the-metaverse/"><u>2024 Approved Unleash Your Full Potential in the Metaverse</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-the-secrets-of-successful-voiceover-integration/"><u>2024 Approved Unveiling the Secrets of Successful Voiceover Integration</u></a></li>
-<li><a href="https://ai-video.techidaily.com/expertly-restore-your-damaged-photos/"><u>Expertly Restore Your Damaged Photos</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-oppo-reno-11-pro-5g-lock-screen-password-by-drfone-android/"><u>How To Change Oppo Reno 11 Pro 5G Lock Screen Password?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-android-3d-playback-software/"><u>In 2024, Ultimate Android 3D Playback Software</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-selection-childrens-drone-choices/"><u>In 2024, Ultimate Selection Children's Drone Choices</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/sml385btbk-effortless-setup-and-brilliant-display-make-this-singing-machine-perfect-for-partygoers/"><u>SML385BTBK Effortless Setup and Brilliant Display Make This Singing Machine Perfect for Partygoers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/streamlined-method-acquire-free-secure-version-of-vlc-on-mac-for-2024/"><u>Streamlined Method Acquire Free, Secure Version of VLC on MAC for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/thrifty-tech-finds-best-cameras-on-a-dime-for-2024/"><u>Thrifty Tech Finds Best Cameras on a Dime for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-tier-psd-artistry-tweaks-for-2024/"><u>Top-Tier PSD Artistry Tweaks for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-realme-gt-3-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Realme GT 3 IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-zero-to-live-streaming-hero-essential-tips-and-tricks/"><u>[New] From Zero to Live-Streaming Hero Essential Tips and Tricks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-supreme-select-iphone-customized-sound-crafting/"><u>[New] Supreme Select IPhone Customized Sound Crafting</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transform-into-an-instagram-icon-embrace-the-magic-of-9-techniques/"><u>[New] Transform Into an Instagram Icon Embrace the Magic of #9 Techniques</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-best-4k-monitors-for-mac-the-ultimate-list/"><u>2024 Approved Best 4K Monitors for Mac - The Ultimate List</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-lg-screen-chronicles-a-complete-review-of-4k-quality/"><u>2024 Approved The Ultimate LG Screen Chronicles A Complete Review of 4K Quality</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-vivo-y77t-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-path-to-pure-audio-pazera-free-tool-review/"><u>In 2024, The Path to Pure Audio Pazera Free Tool Review</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-evolution-continues-iphone-xs-photographic-advancements-for-2024/"><u>The Evolution Continues IPhone X's Photographic Advancements for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-roadmap-to-fame-unleashing-instagrams-9-powerful-techniques-for-2024/"><u>The Roadmap to Fame Unleashing Instagram's #9 Powerful Techniques for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-which-green-screen-software-for-mac-to-choose/"><u>Updated In 2024, Which Green Screen Software for Mac to Choose?</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/worldwide-witchcraft-and-trick-or-treating/"><u>Worldwide Witchcraft and Trick-or-Treating</u></a></li>
 </ul></div>
 

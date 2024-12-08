@@ -1,7 +1,7 @@
 ---
 title: "Complete Tutorial: Downloading and Setting Up Microsoft Store Applications in Windows 11"
-date: 2024-11-23T22:28:01.913Z
-updated: 2024-11-28T21:45:47.692Z
+date: 2024-12-03T22:45:58.441Z
+updated: 2024-12-07T17:32:49.334Z
 tags:
   - deals
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 ---
 
 ## Complete Tutorial: Downloading and Setting Up Microsoft Store Applications in Windows 11
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -32,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 
  The second type is "paid" software, which you buy up front before you download and then usually you own the right to use it completely, although there are also paid apps that sell more features later through in-app purchases.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Install Software Using the Microsoft Store on Windows 10
 
  Before we begin, we'll assume that you have already [created a Microsoft account](https://sim-unlock.techidaily.com/in-2024-sim-unlock-vivo-y17s-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/) and you are logged in. For app purchases, you'll need some form of payment that has already been linked to your Microsoft account.
@@ -45,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 ![Search for 'Microsoft store' in the Start menu search bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-microsoft-store.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When the "Microsoft Store" app opens, you will see a screen that includes many flashy banners that advertise the latest deals and other promotions.
@@ -55,10 +55,6 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
  If you're looking for a specific type of app, click one of the categories to the left-hand side. Some categories, most notably Movies & TV, also allow you to purchase media, like movies. 
 
 ![The app types listed on the left.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-app-types-on-left.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Or you can search for a specific app by clicking the search button. In the search bar that appears, type what you'd like to find, then click an item in the list of results.
 
@@ -73,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 ![Buy Microsoft Flight Simulator for 59.99 USD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-buy-for-x-price.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After following the purchase steps, the download will begin. You will see the "Get" or "Install" button change to a small circle that indicates your download's progress. You can also click this button to stop a download in progress if you change your mind, or if it is taking up too much time or bandwidth. 
@@ -84,12 +80,16 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 
 ![Netflix in the Start menu under 'N' in the alphabetical list.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-netflix-in-start-menu.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you have trouble finding the app you just downloaded in the "Start" menu, open "Start" and begin typing the name of the app to perform a search. When the results appear, click the icon of the app to launch it.
 
 ![Search for the app you installed using the Start menu search, then click the result labeled 'App.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-searching-for-netflix.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Also, if you ever need to [see a complete list of all the apps you've bought or installed](https://tech-revival.techidaily.com/best-8-chatgpt-interactions-to-enhance-productivity-and-decrease-distractions/) from the Microsoft Store, launch the "Microsoft Store" app and click the "Library" button in the bottom left corner of the window. 
@@ -115,22 +115,24 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-joining-the-world-of-live-broadcasts-a-roku-primer/"><u>[New] 2024 Approved Joining the World of Live Broadcasts A Roku Primer</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-strategies-to-skyrocket-like-counts-in-tiktok-unpack-videos/"><u>[New] Strategies to Skyrocket 'Like' Counts in TikTok Unpack Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-professional-iphoneipad-podcast-production/"><u>[New] The Ultimate Guide to Professional iPhone/iPad Podcast Production</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-tune-travelers-guide-transferring-playlists-with-precision/"><u>[New] Tune Traveler's Guide Transferring Playlists with Precision</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/86995338-updated-in-2024-excellent-video-and-picture-capture-for-iphones-and-androids-here/"><u>[Updated] In 2024, Excellent Video & Picture Capture for iPhones & Androids Here</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-the-comprehensive-blueprint-for-capturing-whatsapp-calls/"><u>[Updated] The Comprehensive Blueprint for Capturing WhatsApp Calls</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-no-more-latency-choose-av1-for-youtube-playback/"><u>2024 Approved No More Latency Choose AV1 for YouTube Playback</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-youtubes-finest-story-sages-and-weavers-in-23/"><u>2024 Approved Unveiling YouTube's Finest Story Sages and Weavers in '23</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-navigating-the-world-of-srts-a-complete-tutorial-and-advice/"><u>In 2024, Navigating the World of SRTs A Complete Tutorial and Advice</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-techniques-to-lower-audio-levels-in-os-xwindows/"><u>In 2024, Techniques to Lower Audio Levels in OS X/Windows</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-insiders-guide-to-metaverse-salesmanship/"><u>In 2024, The Insider's Guide to Metaverse Salesmanship</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-role-of-workspace-dynamics-in-employee-output/"><u>In 2024, The Role of Workspace Dynamics in Employee Output</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-page-rankings-effective-techniques-for-enhanced-visibility-in-search-engines/"><u>Mastering Page Rankings: Effective Techniques for Enhanced Visibility in Search Engines</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-ultimate-zoom-setup-playbook-for-2024/"><u>The Ultimate Zoom Setup Playbook for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transforming-ordinary-recordings-into-pro-level-with-audacity-for-2024/"><u>Transforming Ordinary Recordings Into Pro-Level With Audacity for 2024</u></a></li>
-<li><a href="https://solve-help.techidaily.com/uh-oh-convert2mp3s-out-discover-the-leading-mp3-conversion-alternatives-today/"><u>Uh-Oh! Convert2MP3's Out. Discover the Leading MP3 Conversion Alternatives Today!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unboxing-the-next-big-thing-in-action-cameras-with-camplus-cubeplus/"><u>Unboxing the Next Big Thing in Action Cameras with Cam+ Cube+</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-precision-gameplay-with-proximity-focus-in-roblox/"><u>[New] 2024 Approved Precision Gameplay with Proximity Focus in Roblox</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-cutting-edge-strategies-for-efficient-lut-design/"><u>[New] In 2024, Cutting-Edge Strategies for Efficient LUT Design</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-techniques-to-troubleshoot-silent-obs-sessions/"><u>[New] In 2024, Techniques to Troubleshoot Silent OBS Sessions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-places-to-find-background-music-for-videos/"><u>[New] Top Places to Find Background Music for Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-twitch-reversion-made-simple-top-ten-instructions-at-hand/"><u>[New] Twitch Reversion Made Simple Top Ten Instructions at Hand</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-bring-charisma-to-your-stories-mastery-of-custom-emoji-use-on-instagram/"><u>[Updated] Bring Charisma to Your Stories Mastery of Custom Emoji Use on Instagram</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-efficient-recording-methods-for-skype-calls-using-obs-for-2024/"><u>[Updated] Efficient Recording Methods for Skype Calls Using OBS for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-finding-and-accessing-your-personalized-musical-selection-zone-on-youtube/"><u>[Updated] In 2024, Finding and Accessing Your Personalized Musical Selection Zone on Youtube</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-speedy-shots-masterful-iphone-time-lapse-methods/"><u>[Updated] Speedy Shots Masterful iPhone Time Lapse Methods</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleash-the-artistry-of-impressive-gopro-timelapse-videos/"><u>[Updated] Unleash the Artistry of Impressive GoPro Timelapse Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-the-age-update-process-on-tiktok/"><u>2024 Approved Streamline the Age Update Process on TikTok</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-supreme-writing-talents-through-genre-lenses/"><u>2024 Approved Supreme Writing Talents Through Genre Lenses</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-essence-of-the-apple-m1-a-technological-marvel/"><u>2024 Approved The Essence of the Apple M1 A Technological Marvel</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-list-top-10-subtitle-editors-web/"><u>2024 Approved Ultimate List Top 10 Subtitle Editors Web</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-secrets-enhancing-your-proposals-impact-and-convincing-power/"><u>ChatGPT Secrets: Enhancing Your Proposal's Impact and Convincing Power</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streaming-giants-clash-a-detailed-twitchyoutube-analysis/"><u>In 2024, Streaming Giants Clash A Detailed Twitch/YouTube Analysis</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-supreme-five-optimal-dvd-software-for-sierra-os/"><u>In 2024, Supreme Five Optimal Dvd Software for Sierra OS</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlock-your-potential-best-video-editing-hacks/"><u>Unlock Your Potential Best Video Editing Hacks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-new-potentials-for-sites-with-artificial-intelligence-integration-in-search-engines/"><u>Unlocking New Potentials for Sites with Artificial Intelligence Integration in Search Engines</u></a></li>
 </ul></div>
 

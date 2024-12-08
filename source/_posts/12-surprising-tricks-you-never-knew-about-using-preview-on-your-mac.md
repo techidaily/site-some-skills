@@ -1,7 +1,7 @@
 ---
 title: 12 Surprising Tricks You Never Knew About Using Preview on Your Mac
-date: 2024-11-26T18:18:40.586Z
-updated: 2024-11-28T20:32:19.282Z
+date: 2024-12-03T20:10:01.843Z
+updated: 2024-12-08T02:45:57.489Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## 12 Surprising Tricks You Never Knew About Using Preview on Your Mac
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -36,15 +40,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The Layers tool in Preview in macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-layers-tool-in-preview-in-macos.jpeg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Alternatively, click the "Auto Levels" button to have it done automatically. You can make lots more adjustments here, including to the exposure, colors, and white balance.
 
  If you paste another object onto the top of your image—maybe drawing a box, adding text, or copying and pasting a selection from another image—that object will always be accessible and resizable as if it were [on its own layer](https://tiktok-video-recordings.techidaily.com/from-wardrobe-to-webcam-your-macootd-tiktok-adventure-for-2024/). Just click to select it, and you can reposition it, resize it, and so on.
 
 ![Resize and move objects pasted into an image in Preview.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/resize-and-move-objects-pasted-into-an-image-in-preview.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Remove the Background From an Image
 
@@ -53,6 +61,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  To use it, go to Tools > Remove Background. When you highlight that option, you'll see a glowing line around the subject in the image that lets you check that it's selecting the right thing. If you're happy, click "Remove Background."
 
 ![The Remove Background setting in Preview.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-remove-background-setting-in-preview.jpeg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If your image isn't in the PNG format, you'll be prompted to convert it first.
 
@@ -64,11 +76,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The Copy Subejct option in Preview in macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-copy-subejct-option-in-preview-in-macos.jpeg) 
 
- The subject will be copied to your clipboard so that you can paste it into another app. Alternatively, go to File > New from Clipboard to create a new image.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ The subject will be copied to your clipboard so that you can paste it into another app. Alternatively, go to File > New from Clipboard to create a new image.
 
 ##  Undo All Your Edits
 
@@ -97,7 +109,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The Scan settings in Preview.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-scan-settings-in-preview.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Identify Objects in Photos
@@ -113,7 +125,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 Close 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Display Photos in a Slideshow
@@ -123,11 +135,7 @@ Close
 ![View images in the slideshow in Preview.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/view-images-in-the-slideshow-in-preview.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Create and Encrypt PDFs
@@ -138,11 +146,11 @@ Close
 
 ![The settings to encrypt a PDF in Preview.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-settings-to-encrypt-a-pdf-in-preview.jpeg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can do this with existing PDFs, too. Open the PDF in Preview and go to File > Edit Permissions. Now you can add a password and change the other restrictions that were placed onto the file.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Edit PDFs
 
@@ -164,29 +172,21 @@ Close
 
 ![Setting to show how to create a signature in Preview.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/setting-to-show-how-to-create-a-signature-in-preview.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can add a note to a document for comments, reminders about things to check, and so on. Click the Note button to do this. You can add multiple notes and drag them to any position on the document.
 
 ![Add post it notes to a PDF file in Preview.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/add-post-it-notes-to-a-pdf-file-in-preview.png) 
 
- You can also annotate the PDF in the usual ways by drawing, adding text boxes, adding shapes, and so on.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ You can also annotate the PDF in the usual ways by drawing, adding text boxes, adding shapes, and so on.
 
 ##  Save Frames From GIFs
 
  Ever need to save a single frame from a GIF? You can do that in Preview. Drag the GIF into Preview and you'll see all of its frames in the sidebar. Locate the frame you want and then drag it to your desktop where it will be saved as a separate image file.
 
 ![Save a frame from a GIF in Preview.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/save-a-frame-from-a-gif-in-preview.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Batch Convert Images
 
@@ -221,24 +221,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-banish-your-flickering-facebook-feeds/"><u>[New] In 2024, Banish Your Flickering Facebook Feeds</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/1716070291362-new-in-2024-learn-and-master-io-screen-recording-today/"><u>[New] In 2024, Learn and Master IO Screen Recording Today!</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-mastering-fast-fb-videos-innovative-techniques-and-software-roundup/"><u>[New] Mastering Fast FB Videos Innovative Techniques and Software Roundup</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-insight-into-dji-inspire-2/"><u>[New] The Ultimate Insight Into DJI Inspire 2</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-choice-top-tier-webcam-mounts-and-grips/"><u>[New] Ultimate Choice Top-Tier Webcam Mounts & Grips</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-raw-footage-to-polished-videos-imovies-role-in-youtube-content-creation-for-2024/"><u>[Updated] From Raw Footage to Polished Videos IMovie's Role in YouTube Content Creation for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-high-definition-hardware-unveiled-by-gamers-for-2024/"><u>[Updated] High-Definition Hardware Unveiled by Gamers for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-prime-10-sound-enhancers-pc-mac-mobile-devices/"><u>[Updated] Prime 10 Sound Enhancers PC, Mac, Mobile Devices</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-key-elements-for-effective-spotify-ad-execution/"><u>[Updated] The Key Elements for Effective Spotify Ad Execution</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-titlegenius-revolutionizing-video-title-generation/"><u>[Updated] TitleGenius Revolutionizing Video Title Generation</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-digital-media-compreenhensive-srt-to-other-guidebook/"><u>[Updated] Unlocking Digital Media Compreenhensive SRT-to-Other Guidebook</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unraveling-the-lifecycle-of-windows-movie-maker-releases/"><u>2024 Approved Unraveling the Lifecycle of Windows Movie Maker Releases</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/conversation-contenders-is-claude-ai-leaving-chatgpt-behind-in-the-quest-for-superiority/"><u>Conversation Contenders: Is Claude AI Leaving ChatGPT Behind in the Quest for Superiority?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-vivo-y56-5g-is-unlocked-by-drfone-android/"><u>How To Check if Your Vivo Y56 5G Is Unlocked</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-archivists-guide-reviving-yesteryears-vhs-artistry-in-todays-editing-space/"><u>In 2024, The Archivist's Guide Reviving Yesteryear’s VHS Artistry in Today's Editing Space</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-errors-with-googles-nearby-sharing-on-pc/"><u>Overcoming Errors with Google's Nearby Sharing on PC</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-selfie-stick-showdown-for-iphone-8-winners-for-2024/"><u>The Ultimate Selfie Stick Showdown for iPhone (#8 Winners) for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Vivo S17 Pro? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-woes-no-more-essential-fixers-ranked/"><u>Windows Woes No More: Essential Fixers Ranked</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-uncomplicated-techniques-reverse-playback-in-vlc-media-player/"><u>[New] 2024 Approved Uncomplicated Techniques Reverse Playback in VLC Media Player</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-complete-guide-to-crafting-perfect-instagram-stories/"><u>[New] In 2024, The Complete Guide to Crafting Perfect Instagram Stories</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-diy-experts-approach-to-saving-web-radios/"><u>[New] The DIY Expert's Approach to Saving Web Radios</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-secret-how-to-disable-youtube-snippet-playback/"><u>[New] Unveiling the Secret How to Disable YouTube Snippet Playback</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-compreenhensive-guide-for-youtube-short-video-creators/"><u>[Updated] 2024 Approved Compreenhensive Guide for YouTube Short Video Creators</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-ae-plug-ins-enhance-your-visual-storytelling/"><u>[Updated] Top AE Plug-Ins Enhance Your Visual Storytelling</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-hidden-truths-behind-vrs-advantages-and-limitations/"><u>[Updated] Unveiling the Hidden Truths Behind VR's Advantages and Limitations</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-candids-canvas-transforming-photos-with-editing-tips/"><u>2024 Approved Candid's Canvas Transforming Photos with Editing Tips</u></a></li>
+<li><a href="https://win-special.techidaily.com/copia-de-seguridad-e-integracion-sin-coste-para-iphone-con-fonetool-guia-completa/"><u>Copia De Seguridad E Integración Sin Coste Para iPhone Con FoneTool: Guía Completa</u></a></li>
+<li><a href="https://win-docs.techidaily.com/guide-facilite-pour-copier-le-profil-utilisateur-de-windows-n-version-7-sur-un-pc-different/"><u>Guide Facilité Pour Copier Le Profil Utilisateur De Windows N Version 7 Sur Un PC Différent</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/how-to-earn-facebooks-trusted-prestigious-symbol-for-2024/"><u>How to Earn Facebook's Trusted, Prestigious Symbol for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-intricacies-of-whatsapp-audio-dialogue-for-2024/"><u>The Intricacies of WhatsApp Audio Dialogue for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-4k-experience-deep-dive-into-samsungs-ue590-for-2024/"><u>The Ultimate 4K Experience - Deep Dive Into Samsung's UE590 for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-notch-drones-for-professionals-our-curated-list/"><u>Top-Notch Drones for Professionals – Our Curated List</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-professional-subtitle-transformation-at-zero-price-for-2024/"><u>Unlock Professional Subtitle Transformation at Zero Price for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-inquiry-collection-for-podcast-appeal-for-2024/"><u>Updated Inquiry Collection for Podcast Appeal for 2024</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/1728461328074-windows-1011/"><u>Windows 10/11で行方不明になったファイルを再び見つけるための効果的なテクニック</u></a></li>
 </ul></div>
 

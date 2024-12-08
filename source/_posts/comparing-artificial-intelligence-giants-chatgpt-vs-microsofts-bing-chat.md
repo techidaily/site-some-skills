@@ -1,7 +1,7 @@
 ---
 title: "Comparing Artificial Intelligence Giants: ChatGPT Vs. Microsoft's Bing Chat"
-date: 2024-11-09T03:51:07.455Z
-updated: 2024-11-11T04:52:49.663Z
+date: 2024-12-06T16:45:22.197Z
+updated: 2024-12-08T02:34:51.077Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/faf305db1bff9ec7cfb8fafeb68d0a5e6478101d4
 ---
 
 ## Comparing Artificial Intelligence Giants: ChatGPT Vs. Microsoft's Bing Chat
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -24,18 +28,15 @@ thumbnail: https://thmb.techidaily.com/faf305db1bff9ec7cfb8fafeb68d0a5e6478101d4
 
  ChatGPT and Bing Chat are both changing at a rapid rate, and neither chatbot provides the same exact answer for a given prompt on each attempt. Your results may vary with the prompts used here.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Usability and Access
 
  Bing Chat and ChatGPT are both available for anyone who signs up with an account, though Bing makes you join a "waitlist" first, which immediately grants acess. Both chatbots have web versions available, except Bing's site blocks every browser except Microsoft Edge without workarounds. You can use Bing Chat with a Microsoft account at [bing.com/new](https://www.bing.com/new), and we have an explainer for [how to use ChatGPT](https://extra-resources.techidaily.com/new-capture-clarity-editing-insights-for-professional-results/).
 
 ![Asking Bing for its favorite color](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-31-at-4.37.08-PM.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Bing Chat on the web
 
@@ -43,16 +44,13 @@ Bing Chat on the web
 
 ![Asking Bing for its favorite color](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-31-at-4.37.08-PM.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Bing Chat on the web
 
  The web interface for ChatGPT and Bing Chat are similar, but with minor differences that change their usefulness. ChatGPT is designed to take in more data, such as longer blocks of code or large code samples. As of April 2023, Bing limits prompts to 2,000 characters, while ChatGPT's limit is much higher (and not officially stated).
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Factual Accuracy
 
@@ -62,29 +60,19 @@ Bing Chat on the web
 
 ![ChatGPT answering the UK capital and how many stars are on the US flag](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-28-at-3.52.48-PM.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  For example, I tried asking both bots, **"Which state capitals in the United States start with the letter A?"** That seems simple, but is still a multi-step process -- first you need a list of all the capitals, then you need to filter it down to ones that start with the letter A. Wikipedia [counts](https://en.wikipedia.org/wiki/List%5Fof%5Fcapitals%5Fin%5Fthe%5FUnited%5FStates#State%5Fcapitals) five in total: [Albany](https://en.wikipedia.org/wiki/Albany,%5FNew%5FYork), [Annapolis](https://en.wikipedia.org/wiki/Annapolis,%5FMaryland), [Atlanta](https://en.wikipedia.org/wiki/Atlanta), [Augusta](https://en.wikipedia.org/wiki/Augusta,%5FMaine), and [Austin](https://en.wikipedia.org/wiki/Austin,%5FTexas). Bing Chat answered the question correctly, citing several web pages that list capitals in the United States. ChatGPT... had some problems.
 
  First, ChatGPT gave me a list of four capitals: Albany, Annapolis, Atlanta, and Augusta. After that, it said, "There is also Austin, which is the capital of Texas, but it does not start with the letter A." Asking the same question multiple times sometimes left out the mention of Austin entirely. Asking why Austin is missing caused ChatGPT to remember Austin exists and apologize for the error, but it's unclear why it broke with the initial answer.
 
 ![The state capitals in the United States that start with the letter A are Albany (New York), Annapolis (Maryland), Atlanta (Georgia), Augusta (Maine) and Austin (Texas)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-28-at-4.03.20-PM.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _Bing Chat_
 
 ![The state capitals in the United States that start with the letter A are Albany (New York), Annapolis (Maryland), Atlanta (Georgia), Augusta (Maine) and Austin (Texas)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-28-at-4.03.20-PM.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 _Bing Chat_
 
@@ -94,16 +82,13 @@ _Bing Chat_
 
 ![The state capitals in the United States that start with the letter A are Albany (New York), Annapolis (Maryland), Atlanta (Georgia), Augusta (Maine) and Austin (Texas)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-28-at-4.03.20-PM.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _Bing Chat_
 
 ![The state capitals in the United States that start with the letter A are Albany (New York), Annapolis (Maryland), Atlanta (Georgia), Augusta (Maine) and Austin (Texas)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-28-at-4.03.20-PM.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 _Bing Chat_
 
@@ -141,6 +126,10 @@ Bing Chat on the web
 
  There is one difference with Bing's answer: the summary is more clear that it's a summary, referring to "the text" in a way that ChatGPT doesn't. With both chatbots, you can customize the result by being more specific.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Conclusion
 
  ChatGPT and Bing are similar, but they have enough differences that picking one or the other for every task isn't the best strategy. Bing is far better at fact-finding and any information about recent times, though it's still far from perfect. Bing's chat-based interface and low character limit primarily limits it to prompts no more than a few sentences, while ChatGPT can take in much larger, longer strings of text and code. (There's also [Google Bard](https://youtube-video-recordings.techidaily.com/in-2024-enhance-branding-the-ultimate-guide-to-custom-urls-for-youtube/), but we're not as impressed by the initial version of Bard as we are by ChatGPT and Bing Chat.)
@@ -162,17 +151,19 @@ Bing Chat on the web
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-ultimate-kickboxing-and-karate-game-round-up/"><u>[New] 2024 Approved Ultimate Kickboxing & Karate Game Round-Up</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-online-method-for-altering-video-proportions/"><u>[New] Online Method for Altering Video Proportions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-ranked-zoonotic-patterns/"><u>[New] Top-Ranked Zoonotic Patterns</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-how-to-share-screen-on-google-meet-desktop-and-mobile/"><u>[Updated] How to Share Screen on Google Meet [Desktop and Mobile]</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-mastering-typefaces-for-effects-select-10-titles/"><u>2024 Approved Mastering Typefaces for Effects Select 10 Titles</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/complete-your-data-sanitization-with-the-standard-configuration-of-stellar-file-eraser-software-version-5-for-windows/"><u>Complete Your Data Sanitization with the Standard Configuration of Stellar File Eraser Software Version 5 for Windows</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/enhancing-engagement-a-guide-to-popular-tiktok-unboxers-for-2024/"><u>Enhancing Engagement A Guide to Popular TikTok Unboxers for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/error-code-403-demystified-quick-steps-to-resolve-in-roblox-on-pc/"><u>Error Code 403 Demystified: Quick Steps to Resolve in Roblox on PC</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-understanding-android-lightroom/"><u>In 2024, The Ultimate Guide to Understanding Android Lightroom</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-utilizing-film-content-a-strategy-for-teachers/"><u>In 2024, Utilizing Film Content A Strategy for Teachers</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Honor 90 Lite | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/unlock-a-disable-iphone-15-plus-using-icloud-website-by-drfone-ios-unlock-ios-unlock/"><u>Unlock a disable iPhone 15 Plus using icloud website</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-a-guide-to-navigating-posting-on-altered-instagram-landscape/"><u>[New] In 2024, A Guide to Navigating Posting on Altered Instagram Landscape</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/remium-viewership-the-ultimate-youtube-wealth/"><u>[New] Premium Viewership The Ultimate YouTube Wealth</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-essential-guide-to-podcast-creation-in-garageband/"><u>[New] The Essential Guide to Podcast Creation in GarageBand</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-cutting-edge-unboxing-strategies-to-boost-viewership-and-engagement/"><u>[Updated] 2024 Approved Cutting-Edge Unboxing Strategies to Boost Viewership and Engagement</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-boost-popularity-quickly-top-30-hashtags-every-gamer-needs/"><u>[Updated] Boost Popularity Quickly Top 30 Hashtags Every Gamer Needs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-pinpointing-precision-with-minecrafts-zoom-feature/"><u>[Updated] Pinpointing Precision with Minecraft's Zoom Feature</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-complete-beginners-manual-to-using-final-cut-pro/"><u>[Updated] The Complete Beginner's Manual to Using Final Cut Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-role-of-rhythm-and-pitch-in-trailer-tunes/"><u>[Updated] The Role of Rhythm and Pitch in Trailer Tunes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlock-creative-expression-master-device-based-filters-and-effects/"><u>[Updated] Unlock Creative Expression Master Device-Based Filters and Effects</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlock-virtual-worlds-top-10-pc-games-for-ultimate-vr-experience/"><u>[Updated] Unlock Virtual Worlds Top 10 PC Games for Ultimate VR Experience</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-oppo-reno-10-proplus-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Oppo Reno 10 Pro+ 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bypassing-bugs-a-guide-to-resolving-the-top-6-errors-of-chatgpt/"><u>Bypassing Bugs: A Guide to Resolving the Top 6 Errors of ChatGPT</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Lava Blaze 2? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-the-secrets-of-google-podcast-uploads/"><u>In 2024, Unlocking the Secrets of Google Podcast Uploads</u></a></li>
 </ul></div>
 

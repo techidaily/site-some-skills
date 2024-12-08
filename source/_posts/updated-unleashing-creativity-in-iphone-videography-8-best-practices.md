@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Unleashing Creativity in iPhone Videography  8 Best Practices\""
-date: 2024-08-20T23:41:58.748Z
-updated: 2024-08-21T23:41:58.748Z
+date: 2024-12-03T17:11:48.723Z
+updated: 2024-12-07T22:24:33.029Z
 tags: 
   - screen-recording
   - ai video
@@ -28,19 +28,21 @@ thumbnail: https://thmb.techidaily.com/ad227a8d5363831d078e6323942af2a72809395f7
 
  You shouldn’t feel the need to have to invest in fancy equipment if you want to take good video – it’s not necessary. If you wanted to be involved in very high-level camera work, then you would need some fancier gear, but for most people’s purposes, what they have on their phone is just fine. This article is aimed at looking at how people can use their iPhone to record good quality videos which they can enjoy with their friends.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Use Stabilizers
 
  Many people are critical of the ‘found footage’ types of movies which are sometimes released – the Blair Witch project being a prime example. This is generally because the shaky videography can make it difficult to really follow what is going on, or possibly also because it is hard to watch without feeling ill.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![stabilizer](https://images.wondershare.com/stabilizer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This same complaint is often used in iPhone videography – it is difficult to follow because the video is shaking. The shaking is what happens when the video lacks stability – remember that most professional camera work is done with cameras which are on some form of frame or tripod to keep the camera still. It isn’t that an iPhone is heavy – it is more to do with the video being hard to keep still, especially if our attention is distracted. For the best videos, people should invest in some form of tripod for their phone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Use Light Properly
 
@@ -52,14 +54,8 @@ thumbnail: https://thmb.techidaily.com/ad227a8d5363831d078e6323942af2a72809395f7
 
  It can be very tempting to try and use the zoom function on your camera to see people better, but this ultimately doesn’t work. You will end up with a grainy video of uncertain quality, rather than one which allows you to see everything in close up. Just move towards the point you are attempting to film – the quality of the video will be better, and you will not have to fiddle with controls and menus while making the video.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![zoom](https://images.wondershare.com/Zoom.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Use the Grid
 
  Pictures and videos can be taken in either portrait or landscape format, as everybody who has tried to take a picture knows. When recording a video, you should use this to your advantage and try and find which grid would be the most effective for your video. Using the grids is very easy - simply tip the iPhone in the direction you want to film, and the film will automatically work in that format. Since it can be very easy for a phone to change grids while videoing, this is another opportunity for a stabiliser such as a tripod to be put into use.
@@ -67,25 +63,28 @@ thumbnail: https://thmb.techidaily.com/ad227a8d5363831d078e6323942af2a72809395f7
 ![grid](https://images.wondershare.com/grid-iphone-camera.png)
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Use the Exposure Lock
 
  When taking a video or a picture, you will have noticed that it can change the colour and the exposure while trying to get a lock and fix on what it is going to be recording. While it is good that it tries to find the best way to accommodate the light and sound in the room, having your video change exposure throughout will be at best annoying and at worst an outright distraction. Lock your exposure down on the iPhone once you have found the optimum conditions for the video, and it will not change.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![exposure](https://images.wondershare.com/lock-exposure.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Use Slow Motion\\Time Lapse Mode
 
  One way to make videos more interesting is to use either slow motion or time lapse features. The well-known use of time lapse video is if the video is extremely long, and it needs to be shortened – we are all aware of the use of montages in films, after all – and it can be very effective when used correctly. Slow motion is different - it can be used for the same reasons as in films, but it can also be used for when you need to follow instructions, or for when you want to follow what is being done in absolute detail.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![time lapse](https://images.wondershare.com/time-lapse-iphone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Put your iPhone in Airplane Mode
 
@@ -95,9 +94,6 @@ thumbnail: https://thmb.techidaily.com/ad227a8d5363831d078e6323942af2a72809395f7
 
 ![airplane mode](https://images.wondershare.com/airplane-mode.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## Edit your Video with Filmora
 
  Films go through extensive editing processes before being released to the general public, so why shouldn’t you edit your videos? Things go wrong in the process of making a video – somebody appears where they shouldn’t, a phone rings, people have conversations, the tripod falls down, the camera ends up pointed the wrong way….a lot can happen. Editing your video means that you can take all these problems out, and also means that you can tighten up the video generally, improve the sound quality, and make sure that everything is as it should be before you show it off.
@@ -122,6 +118,10 @@ Follow @Ollie Mattison
 
  You shouldn’t feel the need to have to invest in fancy equipment if you want to take good video – it’s not necessary. If you wanted to be involved in very high-level camera work, then you would need some fancier gear, but for most people’s purposes, what they have on their phone is just fine. This article is aimed at looking at how people can use their iPhone to record good quality videos which they can enjoy with their friends.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Use Stabilizers
 
  Many people are critical of the ‘found footage’ types of movies which are sometimes released – the Blair Witch project being a prime example. This is generally because the shaky videography can make it difficult to really follow what is going on, or possibly also because it is hard to watch without feeling ill.
@@ -130,32 +130,31 @@ Follow @Ollie Mattison
 
  This same complaint is often used in iPhone videography – it is difficult to follow because the video is shaking. The shaking is what happens when the video lacks stability – remember that most professional camera work is done with cameras which are on some form of frame or tripod to keep the camera still. It isn’t that an iPhone is heavy – it is more to do with the video being hard to keep still, especially if our attention is distracted. For the best videos, people should invest in some form of tripod for their phone.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ## Use Light Properly
 
  Professional video shoots use a lot of light in order to create the proper effect – most people would be surprised to learn how much light goes into even a ‘night-time’ set. Phone videos often suffer a lot because they do not make adequate use of light. Part of this can be solved by taking a camera class which covers light issues, but it can also be solved by paying attention to light sources where you are, and changing them to better suit your video if possible.
 
 ![light](https://images.wondershare.com/set-light-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ## Avoid Using the Digital Zoom
 
  It can be very tempting to try and use the zoom function on your camera to see people better, but this ultimately doesn’t work. You will end up with a grainy video of uncertain quality, rather than one which allows you to see everything in close up. Just move towards the point you are attempting to film – the quality of the video will be better, and you will not have to fiddle with controls and menus while making the video.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![zoom](https://images.wondershare.com/Zoom.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Use the Grid
 
  Pictures and videos can be taken in either portrait or landscape format, as everybody who has tried to take a picture knows. When recording a video, you should use this to your advantage and try and find which grid would be the most effective for your video. Using the grids is very easy - simply tip the iPhone in the direction you want to film, and the film will automatically work in that format. Since it can be very easy for a phone to change grids while videoing, this is another opportunity for a stabiliser such as a tripod to be put into use.
 
 ![grid](https://images.wondershare.com/grid-iphone-camera.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Use the Exposure Lock
 
@@ -164,20 +163,18 @@ Follow @Ollie Mattison
 ![exposure](https://images.wondershare.com/lock-exposure.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Use Slow Motion\\Time Lapse Mode
 
  One way to make videos more interesting is to use either slow motion or time lapse features. The well-known use of time lapse video is if the video is extremely long, and it needs to be shortened – we are all aware of the use of montages in films, after all – and it can be very effective when used correctly. Slow motion is different - it can be used for the same reasons as in films, but it can also be used for when you need to follow instructions, or for when you want to follow what is being done in absolute detail.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![time lapse](https://images.wondershare.com/time-lapse-iphone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Put your iPhone in Airplane Mode
 
@@ -185,32 +182,18 @@ No advertising on the website.
 
  Putting your phone in airplane mode allows you to stop any notifications from coming in at all, and thus keeping them from ruining your video.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![airplane mode](https://images.wondershare.com/airplane-mode.jpg)
 
 ## Edit your Video with Filmora
 
  Films go through extensive editing processes before being released to the general public, so why shouldn’t you edit your videos? Things go wrong in the process of making a video – somebody appears where they shouldn’t, a phone rings, people have conversations, the tripod falls down, the camera ends up pointed the wrong way….a lot can happen. Editing your video means that you can take all these problems out, and also means that you can tighten up the video generally, improve the sound quality, and make sure that everything is as it should be before you show it off.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
  Using your iPhone to make a video is not something which requires a lot of extra equipment – it simply requires some planning on your part, as well as knowledge of your iPhone’s systems. Being able to control the grid for the videos, the exposure, and anything else which can be controlled through the iPhone systems makes for much better videos off the bat, while adding in video editing software and tripods can improve the experience even more. Videos on an iPhone shouldn’t be seen as impossible.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -218,7 +201,6 @@ Ollie Mattison
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -242,8 +224,18 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-picture-perfect-in-the-sky-free-and-paid-cloud-solutions-reviewed/"><u>[New] Picture Perfect in the Sky Free & Paid Cloud Solutions Reviewed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-complete-insider-guide-to-creating-and-editing-videos-on-windows-11/"><u>[New] The Complete Insider Guide to Creating & Editing Videos on Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-spectrum-of-immersive-tech-vr-vs-ar-and-more/"><u>[New] The Spectrum of Immersive Tech VR Vs. AR and More</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-keypads-your-guide-to-buying-youtube-ringtone-vids/"><u>[Updated] In 2024, Keypads Your Guide to Buying YouTube Ringtone Vids</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-intellect-in-your-hand-the-moto-z2-breakdown/"><u>2024 Approved Intellect in Your Hand The Moto Z2 Breakdown</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-strategies-to-find-the-perfect-power-source-for-drones/"><u>2024 Approved Strategies to Find the Perfect Power Source for Drones</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-ultimate-guide-about-voice-memo/"><u>2024 Approved Ultimate Guide About Voice Memo</u></a></li>
+<li><a href="https://solve-info.techidaily.com/empower-your-site-analytics-through-innovative-tracker-solutions/"><u>Empower Your Site Analytics Through Innovative Tracker Solutions</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Apple iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-windows-11-your-ultimate-cheat-sheet/"><u>In 2024, Unlocking Windows 11 Your Ultimate Cheat Sheet</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-infinix-note-30-vip-racing-edition-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Infinix Note 30 VIP Racing Edition</u></a></li>
+</ul></div>
 

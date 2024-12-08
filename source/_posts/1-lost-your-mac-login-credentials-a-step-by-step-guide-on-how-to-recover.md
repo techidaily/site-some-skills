@@ -1,7 +1,7 @@
 ---
 title: 1. Lost Your Mac Login Credentials? A Step-by-Step Guide on How to Recover
-date: 2024-11-26T21:37:25.396Z
-updated: 2024-11-28T18:05:05.199Z
+date: 2024-12-04T01:19:14.965Z
+updated: 2024-12-08T03:11:20.888Z
 tags:
   - desktop
 categories:
@@ -28,10 +28,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Can't remember your Mac's password? Don't worry. There are a few things you can try to gain access, and with your Apple ID or Recovery Key, you can simply change your password.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  The First Things to Try
 
  If your Mac has been unlocked since you last booted it up, then you should be able to log in without the password. You might be able to use your fingerprint, or you can [unlock a Mac with an Apple Watch](https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/). However, even if you do this, you still won't be able to change your password without knowing the original one.
@@ -49,7 +45,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The setting that allows you to reset the password of another user.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/the-setting-that-allows-you-to-reset-the-password-of-another-user.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Reset Your Password Using Your Apple ID
@@ -68,6 +64,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The warning before resetting your password on macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/the-warning-before-resetting-your-password-on-macos.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Alternatively, you might only see the option to "Restart and show password reset options." If so, select this instead. In some rarer instances, you might also have the option to "Reset it using your recovery key."
 
  Whichever option you choose from the lock screen, your Mac will restart and launch the Recovery Assistant, showing you the Reset Password screen. Enter your Apple ID details once again, followed by your verification details if you've got two-factor authentication set up on your account (which you really should have).
@@ -79,7 +79,7 @@ Close
 ![The screen to reset the password on macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/the-screen-to-reset-the-password-on-macos.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Reset the Password From macOS Recovery
@@ -90,15 +90,15 @@ Close
 
 ![The Options screen when you launch Recovery mode on macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/the-options-screen-when-you-launch-recovery-mode-on-macos.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  From macOS Recovery, you can access a hidden password reset tool and use it to change any user account's password on the Mac. On modern Macs, you'll still need your Apple ID, but you might be able to change the password without it on older machines.
 
  To launch the tool, open the Terminal by clicking Utilities > Terminal in the menu bar.
 
 ![Launch the Terminal through Recovery.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/launch-the-terminal-through-recovery.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  At the Terminal prompt, type:
 
@@ -109,7 +109,7 @@ Close
 ![The Recovery Assistant password reset screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/the-recovery-assistant-password-reset-screen.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Erase Your Mac
@@ -121,7 +121,7 @@ Close
 ![The Erase Mac settings in macOS Recovery.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/the-erase-mac-settings-in-macos-recovery.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  If You're Running an Older Version of macOS
@@ -151,19 +151,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-audacity-workshop-eloquent-silent-transitions/"><u>[Updated] 2024 Approved Audacity Workshop Eloquent Silent Transitions</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-the-insiders-list-of-vr-terms/"><u>[Updated] 2024 Approved The Insider's List of VR Terms</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-pinnacle-of-plotting-the-worlds-best-8-schools-for-writers/"><u>[Updated] Pinnacle of Plotting The World's Best 8 Schools for Writers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-next-step-for-gopro-cameras-hero4-hero5/"><u>[Updated] The Next Step for GoPro Cameras (Hero4, Hero5)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-streamlined-guide-to-ingesting-ipodcast-content/"><u>2024 Approved Streamlined Guide to Ingesting IPodcast Content</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-swift-visualizer-windows-high-speed-image-viewer/"><u>2024 Approved Swift Visualizer - Windows High-Speed Image Viewer</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/can-motorola-edgeplus-compete-with-top-smartphone-contenders-a-detailed-review/"><u>Can Motorola Edge+ Compete with Top Smartphone Contenders? A Detailed Review</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Samsung Galaxy F04? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Vivo Y100t? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transforming-ordinary-sessions-into-visual-extravaganzas-in-zoom/"><u>In 2024, Transforming Ordinary Sessions Into Visual Extravaganzas in Zoom</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-understanding-whatsapps-sound-conversations/"><u>In 2024, Understanding WhatsApp's Sound Conversations</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/maximizing-instagram-video-exposure/"><u>Maximizing Instagram Video Exposure</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/tale-constructing-the-basic-blueprint/"><u>Tale Constructing The Basic Blueprint</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/1728502724325-windows-server/"><u>Windows Server 剩餘硬碟空間範圍最大化: 問題解決方法</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-optimizing-tiktok-content-via-zoom-tools/"><u>[New] Optimizing TikTok Content via Zoom Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-power-of-networking-building-strong-relationships-with-stakeholders/"><u>[Updated] The Power of Networking Building Strong Relationships with Stakeholders</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamlining-video-editing-in-obs-with-luts/"><u>2024 Approved Streamlining Video Editing in OBS With LUTs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-science-of-writing-gripping-documentaries/"><u>2024 Approved The Science of Writing Gripping Documentaries</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tiktok-to-tokens-financial-figures-of-pewdiepie/"><u>2024 Approved TikTok to Tokens Financial Figures of PewDiePie</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/como-transferir-archivos-de-imagen-iso-a-un-disco-dvd-usando-windows/"><u>Cómo Transferir Archivos De Imagen ISO a Un Disco DVD Usando Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-guide-to-overcoming-modern-warfare-and-warzone-severe-crash-errors/"><u>Expert Guide to Overcoming Modern Warfare and Warzone Severe Crash Errors</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-kid-friendly-drone-models-for-first-flights/"><u>In 2024, Top Kid-Friendly Drone Models for First Flights</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-movies-tips-for-amazing-slow-motion-on-android-phones/"><u>In 2024, Transform Your Movies Tips for Amazing Slow Motion on Android Phones</u></a></li>
+<li><a href="https://facebook.techidaily.com/metaverse-inquiry-the-role-of-facebook-in-shaping-it/"><u>Metaverse Inquiry: The Role of Facebook in Shaping It</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/ssdhdd-windows-11/"><u>SSDからHDDへスムーズにファイル転送する方法 - Windows 11ガイド</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Google Pixel 8? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/turning-clutter-into-clarity-managing-massive-tiktok-drafters-for-2024/"><u>Turning Clutter Into Clarity Managing Massive TikTok Drafters for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/1722552316096-unpacking-the-potential-of-the-powershot-sx70-hs-a-zoom-marvel/"><u>Unpacking the Potential of the PowerShot SX70 HS - A Zoom Marvel!</u></a></li>
+<li><a href="https://facebook.techidaily.com/whistle-blowers-allege-crackdown-on-authentic-marketing-strategies/"><u>Whistle-Blowers Allege Crackdown on Authentic Marketing Strategies</u></a></li>
 </ul></div>
 

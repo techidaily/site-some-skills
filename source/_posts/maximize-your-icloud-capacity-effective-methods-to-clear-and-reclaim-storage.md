@@ -1,7 +1,7 @@
 ---
 title: "Maximize Your iCloud Capacity: Effective Methods to Clear and Reclaim Storage"
-date: 2024-11-25T19:33:34.024Z
-updated: 2024-11-28T21:43:26.778Z
+date: 2024-12-05T20:23:34.507Z
+updated: 2024-12-08T00:38:56.996Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/6b26f43d7c441fdc486228c15693f43761df84b70
 ---
 
 ## Maximize Your iCloud Capacity: Effective Methods to Clear and Reclaim Storage
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -43,13 +39,13 @@ Close
 
 ![A close-up of the storage bar chart in the iCloud settings on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-ios-17-5-settings-app-apple-id-icloud-section-storage-chart.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you're on a Mac, hover over sections like "Documents," "Photos and Videos," "Backups," "Messages," "Mail," and "Family" to reveal per-category storage usage.
 
 ![An iCloud storage graph closeup in System Settings on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-macos-sonoma-14-5-system-settings-icloud-storage-graph-backups-category-size-tooltip.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To manage iCloud storage access for the biggest storage hogs like iCloud Drive, Messages, Photos, Mail, or iCloud Backup and turn syncing on or off, select the feature under "Apps Using iCloud" in General > Storage in the Settings (iOS/iPadOS) or System Settings app (Mac)
 
@@ -60,10 +56,6 @@ Close
 ![The iPhone's Settings app with the Recommended For You option highlighted in the iCloud section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-ios-17-5-settings-app-icloud-recommended-for-you-selected.png) 
 
  Depending on how you use your iCloud storage, recommendations may include slimming down the Photos library by [identifying duplicate images](https://ai-topics.techidaily.com/updated-2024-approved-what-is-chatgpt/), deleting large files and old backups, among other things.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Delete Outdated iPhone and iPad Backups
 
@@ -87,12 +79,20 @@ Close
 
 ![Syncing an iPhone in the Finder on macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-macos-sonoma-14-5-finder-iphone-sync-in-progress.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Backing up to a computer will ensure you can quickly [restore your iPhone or iPad using a Mac](https://screen-mirroring-recording.techidaily.com/enhancing-presentations-the-captivate-way/) and get everything back to how it was should you ever lose it or need to reset it. If you're a power user, you may want to use a specialized app like [iMazing](https://imazing.com) to selectively back up and restore files from iPhones and iPads, create local backup snapshots, and transfer media.
 
 ![The iPhone Overview screen in the iMazing app for macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/imazing-app-iphone-overview.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Exclude Apps From Your iPhone Backups
@@ -103,10 +103,6 @@ Close
 
  You can safely disable iCloud for apps that sync data online anyway, like Pocket or Facebook.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Back Up Your Photos to a Different Cloud Service
 
  Photos can eat up a lot of space. With iCloud Photos enabled, your iPhone will back up full-resolution versions of any images and videos you take to your iCloud account. This can be convenient, but it also means your iCloud storage can quickly fill up.
@@ -116,6 +112,10 @@ Close
 Close 
 
  With iCloud Photos disabled, you're wholeheartedly recommended to try [Google Photos](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU220865/https://itunes.apple.com/us/app/google-photos-free-photo-video/id962194608?mt=8), [Dropbox](https://geo.itunes.apple.com/en/app/dropbox/id327630330?at=1010loXs&ct=191340), or [Flickr](https://apps.apple.com/gb/app/flickr/id328407587), which can automatically back up your photos to a separate pool of cloud storage that's often bigger than iCloud. That way, you'll have a backup copy of your photos and videos stored online and retain your precious iCloud storage for other functions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Delete App Documents and Data From iCloud
 
@@ -147,6 +147,10 @@ Close
 
 ![iCloud Mail in a web browser with the Empty Trash option selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-icloud-mail-app-inbox-view-empty-trash-selected.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When you delete emails, remember to empty the trash afterward to have them removed permanently and free up storage space.
 
  You don't need to delete your emails from Gmail, Outlook, or Yahoo as those services don't store inboxes in iCloud but rather within their own cloud space.
@@ -162,10 +166,6 @@ Close
  The selected attachments will be removed from all your Apple devices.
 
  You can also delete conversation threads with no attachments. But those are typically only a few kilobytes each, and you may want to keep them anyway.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Consider Upgrading Your iCloud Storage
 
@@ -210,21 +210,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-tips-for-seamlessly-screening-instagram-stories/"><u>[New] 2024 Approved Tips for Seamlessly Screening Instagram Stories</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-guide-to-softening-volume-levels-on-lumafusion/"><u>[New] The Guide to Softening Volume Levels on Lumafusion</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-five-innovative-apple-podcast-options-for-2024/"><u>[Updated] Five Innovative Apple Podcast Options for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-greatest-competitors-to-vimeos-cameo-editor-platform/"><u>[Updated] In 2024, Greatest Competitors to Vimeo's Cameo Editor Platform</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-pixel-realms-unique-alarm-rhythms/"><u>[Updated] Ultimate Pixel Realms Unique Alarm Rhythms</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-bridge-the-gap-in-airdrop-transfers-solutions-for-iphones-ipads-and-macs/"><u>2024 Approved Bridge the Gap in Airdrop Transfers Solutions for iPhones, iPads & Macs</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/te-your-content-youtubes-keyword-strategies-exposed/"><u>Elevate Your Content YouTube's Keyword Strategies Exposed</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, 11 Best Location Changers for Apple iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-xiaomi-redmi-note-12-4g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Xiaomi Redmi Note 12 4G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unparalleled-screenplay-craftsmanship-across-varied-fields/"><u>In 2024, Unparalleled Screenplay Craftsmanship Across Varied Fields</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-premier-5-web-titlers-shaping-industry-norms/"><u>In 2024, Unveiling the Premier 5 Web Titlers Shaping Industry Norms</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/overcoming-silent-notifications-expert-tips-for-reactivating-your-iphones-ringtones/"><u>Overcoming Silent Notifications: Expert Tips for Reactivating Your iPhone's Ringtones</u></a></li>
-<li><a href="https://extra-information.techidaily.com/seamless-mobile-broadcasting-best-budget-streamer-list/"><u>Seamless Mobile Broadcasting Best Budget Streamer List</u></a></li>
-<li><a href="https://some-skills.techidaily.com/streamlining-your-workflow-adding-descriptive-elements-to-photos-on-windowsmacos-for-2024/"><u>Streamlining Your Workflow Adding Descriptive Elements to Photos on Windows/MacOS for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-strategies-for-zoom-use-with-a-chrome-os-device-for-2024/"><u>Top Strategies for Zoom Use with a Chrome OS Device for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transition-made-easy-the-8-best-convertors-for-subtitles-and-srts-for-2024/"><u>Transition Made Easy The 8 Best Convertors for Subtitles & SRTs for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-mobile-mastery-an-exhaustive-look-at-androids-lightroom/"><u>[New] Mobile Mastery An Exhaustive Look at Android’s Lightroom</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlock-potential-with-best-free-text-psdfree/"><u>[New] Unlock Potential with Best Free Text PSDFree</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-pathway-to-prosperity-a-graphic-designers-journey/"><u>[Updated] The Pathway to Prosperity A Graphic Designer's Journey</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-total-circles-capture-systems/"><u>2024 Approved Total Circles Capture Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-logitech-c930e-hd-webcam-drivers-for-windows-11-users/"><u>Download Logitech C930e HD Webcam Drivers for Windows 11 Users</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-vivo-y78plus-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Vivo Y78+ Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-motorola-razr-40-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Motorola Razr 40 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-audio-transformation-expertise-from-ttml-and-xml-to-dynamic-srts/"><u>In 2024, Audio Transformation Expertise From TTML & XML to Dynamic SRTs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-digital-dimension-state-of-the-art-vr/"><u>In 2024, The Digital Dimension State-of-the-Art VR</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-black-battery-setups-for-gopro-hero5-genuine-and-imitators/"><u>In 2024, Ultimate Black Battery Setups for GoPro Hero5 – Genuine & Imitators</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-on-apple-iphone-15-pro-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 15 Pro?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/pioneering-techniques-to-transform-your-obs-studio-projects/"><u>Pioneering Techniques to Transform Your OBS Studio Projects</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regaining-windows-original-sleepwake-patterns/"><u>Regaining Windows' Original Sleep/Wake Patterns</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revolutionizing-portable-tech-explore-the-cutting-edge-features-of-amazons-revamped-fire-hd-8-tablet-now-with-wireless-charging-capabilities/"><u>Revolutionizing Portable Tech - Explore the Cutting-Edge Features of Amazon's Revamped Fire HD 8 Tablet, Now with Wireless Charging Capabilities!</u></a></li>
 </ul></div>
 

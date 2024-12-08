@@ -1,7 +1,7 @@
 ---
 title: Safeguard Your Privacy From Machine Mayhem by Embracing Open Source Linux Solutions
-date: 2024-11-10T03:41:54.954Z
-updated: 2024-11-10T17:52:47.624Z
+date: 2024-12-05T23:14:07.667Z
+updated: 2024-12-07T20:29:07.126Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Safeguard Your Privacy From Machine Mayhem by Embracing Open Source Linux Solutions
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -20,10 +24,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Every other app and service now seems to be tacking on AI functionality to try to entice weary users or satisfy shareholders. Sometimes, AI features work well. Often, it just results in junk output (at least for now) and a privacy nightmare. Here's how Linux can help you escape the AI apocalypse.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Everyone Is Adding AI to Their Products and Services
@@ -37,16 +38,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  This effort to add AI to everything isn't stopping, despite users' trepidation. Windows, MacOS, and iOS are all plowing ahead with new AI features, and at no cost to you. This raises the question of how they plan on profiting from it (hint, the answer is probably by monetizing the data you feed to them).
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  For AI to Work, It Needs to Scrape Your Data
@@ -60,16 +52,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  This doesn't just make AI output unoriginal, It's a massive privacy issue: how can you be sure some details of your private life that have been submitted to an AI platform won't be used to generate someone else's short story, business email, to create images, or just [revealed to the public outright](https://www.businessinsider.com/google-researchers-openai-chatgpt-to-reveal-its-training-data-study-2023-12 "https://www.businessinsider.com/google-researchers-openai-chatgpt-to-reveal-its-training-data-study-2023-12")?
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Take Control Back By Switching to Linux
@@ -77,10 +60,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The Kubuntu Focus Ir16 Gen 2 laptop open on a desk in front of speakers and a headset.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/53784641964_d7cc9b8262_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -108,18 +88,16 @@ Jerome Thomas / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-streamlining-your-streams-choosing-between-xsplit-and-obs/"><u>[New] Streamlining Your Streams Choosing Between XSplit and OBS</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unbound-zen-audio-releases/"><u>[Updated] Unbound Zen Audio Releases</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-youtubes-features-adding-images-to-videos/"><u>2024 Approved Unveiling YouTube's Features Adding Images to Videos</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/avoiding-interruptions-steps-to-prevent-football-manager-2022-from-crashing-on-pc-systems/"><u>Avoiding Interruptions: Steps to Prevent Football Manager 2022 From Crashing on PC Systems</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-motorola-moto-g73-5g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Motorola Moto G73 5G</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/full-guide-to-unlock-your-nokia-c210-by-drfone-android/"><u>Full Guide to Unlock Your Nokia C210</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-resource-for-advanced-periscope-techniques/"><u>In 2024, The Ultimate Resource for Advanced Periscope Techniques</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Vivo V30 Pro | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/save-big-with-exclusive-benq-monitorprojector-promotions-this-prime-day/"><u>Save Big with Exclusive BenQ Monitor/Projector Promotions This Prime Day</u></a></li>
-<li><a href="https://some-skills.techidaily.com/thankful-views-complete-outro-template-library-for-2024/"><u>Thankful Views Complete Outro Template Library for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-aurora-hdr-experience-is-it-transformative-for-2024/"><u>The Aurora HDR Experience Is It Transformative for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-puzzle-of-aligning-advanced-ai-systems-with-human-intentions-and-principles/"><u>The Puzzle of Aligning Advanced AI Systems with Human Intentions and Principles</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-tips-and-solutions-for-fixing-a-non-responsive-ps4-microphone/"><u>Top Tips & Solutions for Fixing a Non-Responsive PS4 Microphone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-mastering-audio-file-transformation-srt-to-xmlssattml/"><u>[New] Mastering Audio File Transformation SRT to XML/SSA/TTML</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-syncing-yt-beats-with-visual-timelines/"><u>[New] Syncing YT Beats with Visual Timelines</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unfolding-the-tapestry-of-mixed-reality-experiences/"><u>[New] Unfolding the Tapestry of Mixed Reality Experiences</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-must-know-windows-10-tips-and-tricks/"><u>[Updated] Must-Know Windows 10 Tips and Tricks</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-pixelpartition-review/"><u>[Updated] PixelPartition Review</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-6-economical-action-cams-available-for-99-or-below/"><u>[Updated] Top 6 Economical Action Cams Available for $99 or Below</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-freeze-your-pc-display-effortlessly/"><u>2024 Approved Freeze Your PC Display Effortlessly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-apples-immersive-3d-spatial-content-on-your-meta-quest-3-a-step-by-step-guide-zdnet/"><u>Explore Apple's Immersive 3D Spatial Content on Your Meta Quest 3: A Step-by-Step Guide | ZDNET</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-huawei-p60-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Huawei P60 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-12-pro-max-passcode-not-working-by-drfone-ios/"><u>How to Fix Apple iPhone 12 Pro Max Passcode not Working?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-expert-recommendations-free-chat-apps-with-screen-viewing/"><u>In 2024, Expert Recommendations Free Chat Apps with Screen Viewing</u></a></li>
 </ul></div>
 

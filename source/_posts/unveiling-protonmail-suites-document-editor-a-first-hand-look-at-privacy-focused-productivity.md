@@ -1,7 +1,7 @@
 ---
 title: "Unveiling ProtonMail Suite's Document Editor: A First-Hand Look at Privacy-Focused Productivity"
-date: 2024-11-22T16:01:28.574Z
-updated: 2024-11-28T18:14:12.468Z
+date: 2024-12-05T00:17:12.225Z
+updated: 2024-12-07T23:47:26.593Z
 tags:
   - web
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/f8ea6bc64575a4f059dff23c3d5a8452f8167601d
 ## Unveiling ProtonMail Suite's Document Editor: A First-Hand Look at Privacy-Focused Productivity
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/f8ea6bc64575a4f059dff23c3d5a8452f8167601d
  Proton Docs is the [latest feature of Proton Drive](https://win-answers.techidaily.com/fix-iphone-unrecognized-by-itunes-on-windows-11-solutions-and-tips/) and the first collaborative document editing tool to feature default end-to-end encryption. Not only does this give you privacy down to the keystroke, but your documents will also be protected against data breaches and third-party access.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What is Proton?
@@ -32,16 +32,12 @@ thumbnail: https://thmb.techidaily.com/f8ea6bc64575a4f059dff23c3d5a8452f8167601d
 ![A screenshot of the Proton home page displaying their services.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-07-135433.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Aran Folsom / How-To Geek | Proton
 
  For those unfamiliar with them, Proton is a privacy-first tech company that began in 2014 with the launch of its private email service, [Proton Mail](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003906/https://proton.me/mail). They have since expanded to include Proton VPN, [Proton Pass](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003906/https://proton.me/pass)—a password manager, [Proton Calendar](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003906/https://proton.me/calendar), and [Proton Drive](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003906/https://proton.me/drive). Proton has also acquired the email alias service SimpleLogin, along with the note-taking app, Standard Notes. As their primary focus is internet privacy, all of their services provide end-to-end encryption by default without hindering productivity.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Proton Docs Vs. Google Docs
 
@@ -52,6 +48,10 @@ Aran Folsom / How-To Geek | Proton
  Collaborating in real-time is also a breeze with easy-to-navigate sharing features and instant updates between users. These two aspects alone make using Proton Docs very intuitive for Google users.
 
 ![The Share Document dialogue in Proton Docs.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/share-document.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  That said, there are some major differences. One of the biggest problems (and it is a fairly small one) for me is that the default font sizes are larger than the standard sizes of other document editing tools. Proton Docs defaults to size 16 font, whereas 11 or 12 is what you'd typically expect.
 
@@ -68,7 +68,7 @@ Aran Folsom / How-To Geek | Proton
  I personally love the default paperless view, though I hope Proton adds an option to change this for users who aren’t as fond of it. I also appreciate that Proton Docs opens a new document or the Proton Drive home page in a new tab, unlike Google Docs, which operates within a single tab.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Is Proton Docs Worth the Switch?
@@ -92,18 +92,18 @@ Aran Folsom / How-To Geek | Proton
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-exclusive-list-of-top-web-based-sound-capturers-2023/"><u>[New] In 2024, Exclusive List of Top Web-Based Sound Capturers 2023</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-core-elements-of-kinetic-visual-storytelling/"><u>[New] The Core Elements of Kinetic Visual Storytelling</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-elite-videotelephony-for-effective-online-meetings/"><u>[Updated] 2024 Approved Elite Videotelephony for Effective Online Meetings</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-transcoding-ttml-and-ssa-into-easy-to-use-srt-format/"><u>[Updated] In 2024, Transcoding TTML & SSA Into Easy-to-Use SRT Format</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-editors-secret-best-free-premiere-pro-resources/"><u>[Updated] Top Editors' Secret Best FREE Premiere Pro Resources</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-facetune-photo-enhancement/"><u>2024 Approved The Ultimate Guide to Facetune Photo Enhancement</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-visual-strategy-for-podcast-branding/"><u>2024 Approved The Ultimate Visual Strategy for Podcast Branding</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-cutting-edge-display-selections-10-mac-list/"><u>In 2024, Cutting-Edge Display Selections #10 Mac List</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-iphone-15-pro-max-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From iPhone 15 Pro Max Lock Screen</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-revolutionizing-audio-liberation-a-deep-dive-into-pazeras-extractor/"><u>In 2024, Revolutionizing Audio Liberation A Deep Dive Into Pazera's Extractor</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/movavis-web-based-service-convert-your-flac-music-to-free-ogg-files-instantly/"><u>Movavi's Web-Based Service: Convert Your FLAC Music to Free Ogg Files Instantly!</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-insider-guide-whatsapp-audio-talks-for-2024/"><u>The Insider Guide WhatsApp Audio Talks for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-unexpected-device-powers-off-a-complete-solution-for-computer-stability-issues/"><u>Understanding Unexpected Device Powers Off: A Complete Solution for Computer Stability Issues</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-navigating-skies-drone-shooting-basics/"><u>[New] 2024 Approved Navigating Skies Drone Shooting Basics</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-innovative-photography-with-insights-into-lut-use/"><u>[New] In 2024, Innovative Photography with Insights Into LUT Use</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-superior-suggestions-prime-platforms-for-grabbing-snapalert-rhythms/"><u>[New] Superior Suggestions Prime Platforms for Grabbing SnapAlert Rhythms</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-flaunt-your-funny-side-the-art-of-using-cartoon-snaps-on-snapchat/"><u>[Updated] Flaunt Your Funny Side The Art of Using Cartoon Snaps on Snapchat</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-checklist-for-hit-titles-online/"><u>[Updated] The Ultimate Checklist for Hit Titles Online</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-excellent-video-creatives/"><u>[Updated] Unveiling Excellent Video Creatives</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transform-images-into-textbooks-photo-text-editor-hacks/"><u>2024 Approved Transform Images Into Textbooks Photo Text Editor Hacks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unraveling-windows-10-complexities-simplified/"><u>2024 Approved Unraveling Windows 10 Complexities Simplified</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/convertir-un-dvd-non-regionalise-avec-contourner-le-code-sur-windows-11/"><u>Convertir Un DVD Non Régionalisé Avec Contourner Le Code Sur Windows 11</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-erase-apple-iphone-7-plus-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Erase Apple iPhone 7 Plus When Its Locked Within Seconds | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-adobe-premiere-pro-power-user-master-these-20-shortcuts/"><u>Updated In 2024, Adobe Premiere Pro Power User Master These 20 Shortcuts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/venture-into-the-future-the-lg-360-vr-headset-explored-for-2024/"><u>Venture Into the Future The LG 360 VR Headset Explored for 2024</u></a></li>
 </ul></div>
 

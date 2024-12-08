@@ -1,7 +1,7 @@
 ---
 title: Top Strategies to Ensure You're Making the Right Choice in Secondhand EVs
-date: 2024-11-07T02:36:24.315Z
-updated: 2024-11-10T18:12:58.730Z
+date: 2024-12-04T23:49:02.880Z
+updated: 2024-12-08T02:27:11.822Z
 tags:
   - cutting-edge
 categories:
@@ -21,6 +21,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  While most of the same used car buying principles still apply, like looking over the body, checking for imperfections, and asking [questions about maintenance](https://screen-recording.techidaily.com/in-2024-budget-desktop-encoder-hacks-and-tips/), you'll need to adjust your mindset and consider several other factors. Pre-owned EVs are expensive, and here are a few things to know and do.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Check the Vehicle's Accident History
 
 ![Close up of the Chevy badge on the back of the 2023 Chevy Bolt EV](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/ae55ab54.jpg) 
@@ -32,6 +36,10 @@ Justin Duino / How-To Geek
  For example, a CarFax could tell you if a vehicle had its battery replaced, got into an accident, or had other major work or repairs done. You'll want to ask the seller for the VIN number, check things yourself, or ask the used car dealership for a detailed printout of the vehicle's history. Major accidents can cause other issues later in the vehicle's life, too, which makes this a big deal for any used car purchase.
 
  Additionally, most VIN reports will have detailed information about recalls, if any, service records, and other important information that will help you make the most informed decision possible.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Look Into the Battery Health and Warranty
 
@@ -47,23 +55,9 @@ _[Southworks/Shutterstock.com](https://www.shutterstock.com/image-photo/close-sh
 
  Similarly to how your 3-year-old iPhone doesn't hold a charge as well as it did the first year, electric cars experience battery degradation. For example, Tesla claims that after 100,000 miles, you'll still have over 90% battery capacity. Even an aging Tesla Model S with 180K miles should be more than capable, even if you lose around 12-15% of range due to an aging battery. At that point, it doesn't need to be replaced; it just won't charge to 100%, which is perfectly normal. Once you buy a used EV, you'll want to take a few steps to [extend the life of the battery](https://remote-screen-capture.techidaily.com/new-in-2024-top-approaches-to-non-audio-recording/).
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Don't Forget About Charging
 
 ![Rivian R1T plugged into a CCS charger](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/ef2ffd0c.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Tyler Hayes / Review Geek
 
@@ -74,10 +68,7 @@ Tyler Hayes / Review Geek
  Look into charging accessories, speeds, and port type, then factor all of that into which car is right for you.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Buy Used EVs From a Dealer or Tesla
@@ -90,21 +81,16 @@ Hannah Stryker / How-To Geek
 
  More importantly, buying a vehicle from a manufacturer like Tesla, Chevy, or Rivian will ensure the best experience, extended warranty options, and any issues fixed by a certified mechanic before being sold. Considering how advanced EVs are, you don't want to take any chances.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Take it For a Test Drive
 
 ![Front right headlight on the 2023 Chevy Bolt EV.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/52766357707_013d55125c_o.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
@@ -136,19 +122,19 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-harmonizing-highlights-how-to-embed-songs-on-instagram-stories/"><u>[New] Harmonizing Highlights How to Embed Songs on Instagram Stories</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-curious-case-of-inverted-images-on-social-media/"><u>[New] The Curious Case of Inverted Images on Social Media</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-gentle-art-of-reducing-audio-amplitude-in-logic-pro/"><u>[New] The Gentle Art of Reducing Audio Amplitude in Logic Pro</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlock-optimal-performance-with-these-key-tricks/"><u>[New] Unlock Optimal Performance with These Key Tricks</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-altering-game-console-tones-ps5ps4-guide/"><u>[Updated] 2024 Approved Altering Game Console Tones PS5/PS4 Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-synthetic-adventures-starts-here-top-vr-tools-10/"><u>[Updated] Synthetic Adventures Starts Here Top VR Tools (10)</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/disabled-apple-iphone-14-pro-how-to-unlock-a-disabled-apple-iphone-14-pro-by-drfone-ios/"><u>Disabled Apple iPhone 14 Pro How to Unlock a Disabled Apple iPhone 14 Pro?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/engage-in-secure-conversations-discover-ai-powered-chat-features-by-duckduckgo/"><u>Engage in Secure Conversations: Discover AI-Powered Chat Features by DuckDuckGo</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-cyberspace-to-steps-top-tier-treadmill-innovations-for-2024/"><u>From Cyberspace to Steps Top-Tier Treadmill Innovations for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-from-mb-to-seconds-a-20-video-study/"><u>In 2024, From MB to Seconds A 20-Video Study</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-essential-guide-to-twitters-video-converters/"><u>In 2024, The Essential Guide to Twitters Video Converters</u></a></li>
-<li><a href="https://media-tips.techidaily.com/mastering-the-art-of-8k-streaming-tutorial-on-enabling-airplay-with-your-ultra-hd-tv/"><u>Mastering the Art of 8K Streaming: Tutorial on Enabling AirPlay with Your Ultra HD TV</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlock-the-potential-advanced-techniques-for-podcast-editing-in-garageband-for-2024/"><u>Unlock the Potential Advanced Techniques for Podcast Editing in GarageBand for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-optimize-your-appletv-use-with-simple-steps-to-watch-facebook-content/"><u>[New] In 2024, Optimize Your AppleTV Use with Simple Steps to Watch Facebook Content</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-navigate-to-8-elite-free-3d-vids-software-companies/"><u>[New] Navigate to 8 Elite Free 3D Vids Software Companies</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-essence-of-whatsapp-call-conversations/"><u>[New] The Essence of WhatsApp Call Conversations</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-journey-through-windows-11s-latest-software/"><u>[Updated] Journey Through Windows 11'S Latest Software</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-timing-the-perfect-capture-and-labeling/"><u>[Updated] Timing the Perfect Capture and Labeling</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-skybound-creativity-essential-editing-skills-for-drone-films/"><u>2024 Approved Skybound Creativity Essential Editing Skills for Drone Films</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-mix-of-soundtracks-and-visuals-adding-srt-to-mp4/"><u>2024 Approved The Ultimate Mix of Soundtracks and Visuals Adding SRT to MP4</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-quantum-hdr-your-comprehensive-guide/"><u>2024 Approved Unlocking Quantum HDR Your Comprehensive Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-enter-the-ispoofer-discord-server-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, How to enter the iSpoofer discord server On Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-editors-edge-insider-strategies-to-supercharge-your-photos/"><u>In 2024, The Editor's Edge Insider Strategies to Supercharge Your Photos</u></a></li>
+<li><a href="https://blog-min.techidaily.com/streamline-your-media-transformation-rapid-batch-converting-mpeg-to-m4a/"><u>Streamline Your Media Transformation: Rapid Batch Converting MPEG to M4A</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-xiaomi-13-ultra-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Xiaomi 13 Ultra FRP Bypass</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-the-cream-of-the-crop-top-android-apps-on-google-play/"><u>Updated In 2024, The Cream of the Crop Top Android Apps on Google Play</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Linking Your Xbox Gamepad to Windows Computer"
-date: 2024-11-22T21:23:23.879Z
-updated: 2024-11-28T18:59:50.372Z
+date: 2024-12-05T23:52:55.947Z
+updated: 2024-12-08T03:30:47.189Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/c8166e8b96eec7a32e2c5447a156a34a01b3ade6d
 ## Ultimate Guide: Linking Your Xbox Gamepad to Windows Computer
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -49,10 +49,6 @@ Xbox
 
 ![Windows 10 Settings Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/devices-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In Devices, make sure that you're on the "Bluetooth & Other Devices" page, and then click "Add Bluetooth or other device."
 
 ![Windows 10 Bluetooth menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/add-bluetooth-device.png) 
@@ -61,23 +57,19 @@ Xbox
 
 ![Adding a Bluetooth device in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/bluetooth-select.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Next, put your Xbox Wireless Controller in [pairing mode](https://facebook-video-content.techidaily.com/new-2024-approved-master-10-social-media-movies/). First, power up the controller by pressing and holding the Xbox button.
 
 ![The Xbox Wireless controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/xbox-controller.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Xbox](https://www.xbox.com/en-US/accessories/controllers/xbox-wireless-controller)
 
  Once the button lights up, hold the pairing button for a few seconds until the Xbox logo blinks rapidly. You can find the pairing button on the top above the USB port and between your LB and RB trigger buttons.
 
 ![Front view of the Xbox Wireless Controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/xbox-pair.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Xbox](https://www.xbox.com/en-US/accessories/controllers/xbox-wireless-controller-usb-c)
 
@@ -91,17 +83,21 @@ Xbox
 
 ![The "Your Device is ready to go" Bluetooth screen in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/save-it.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When you're done playing, it'll turn off automatically after a while, but you can also [turn the Xbox controller off](https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-google-pixel-fold-drfone-by-drfone-virtual/) manually to save battery life. To do this, press and hold the Xbox button or pop the batteries out.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Connect an Xbox Wireless Controller with an Xbox Wireless Adapter
 
  There's a third way to connect an Xbox controller to your PC, but it involves purchasing the separate [Xbox Wireless Adapter](https://www.amazon.com/Microsoft-Xbox-Wireless-Adapter-Windows-one/dp/B00ZB7W4QU?tag=hotoge-20&ascsubtag=UUhtgUeUpU209809&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F729937%2Fhow-to-connect-an-xbox-wireless-controller-to-a-pc%2F&asc%5Fcampaign=Evergreen) USB accessory. Thanks to the proprietary wireless protocol, the adapter boasts slightly lower latency and a better range. It also lets you connect up to eight Xbox controllers to your PC at the same time, and it lets you hook up a headset to your controller.
 
 ![The Xbox Wireless adapter next to a controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/wirelsss-adapter.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Xbox](https://www.xbox.com/en-US/accessories/controllers/xbox-wireless-controller-adapter-windows)
 
@@ -110,6 +106,10 @@ Xbox
  The controller will automatically connect to your computer through the Xbox Wireless Adapter. If that doesn't work, go over the same steps for connecting the controller via Bluetooth, but instead of selecting "Bluetooth" under "Add a Device," select "Everything Else" to connect the controller to your PC via the adapter.
 
 ![The Bluetooth settings showing the "Add a device" window in WIndows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/adapter-bluetooth-settings.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -130,20 +130,24 @@ Xbox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-open-gallery-timeless-visuals-no-rights-to-claim/"><u>[New] 2024 Approved Open Gallery Timeless Visuals No Rights to Claim</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/rafting-a-revenue-generating-online-presence-for-2024/"><u>[New] Crafting a Revenue-Generating Online Presence for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-luminous-images-a-comprehensive-lightroom-guide/"><u>[New] Unlocking Luminous Images A Comprehensive Lightroom Guide</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-audiovisual-synergy-infusing-music-into-vimeo-creations/"><u>[Updated] 2024 Approved Audiovisual Synergy Infusing Music Into Vimeo Creations</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-stream-selection-simplified-top-10-actionable-tips/"><u>[Updated] Stream Selection Simplified Top 10 Actionable Tips</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-complete-handbook-of-xbox-one-zoom-communication/"><u>[Updated] The Complete Handbook of Xbox One Zoom Communication</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-revolutionizing-text-design-top-10-after-effects-templates/"><u>2024 Approved Revolutionizing Text Design Top 10 After Effects Templates</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-asus-rog-phone-8-pro-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Asus ROG Phone 8 Pro Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-did-your-iphone-6s-plus-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>In 2024, Did Your iPhone 6s Plus Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-through-virtual-lenses-exploring-vr-ar-and-mixed-reality/"><u>In 2024, Through Virtual Lenses Exploring VR, AR, and Mixed Reality</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-guide-to-economical-high-performance-asmr-microphones/"><u>In 2024, Ultimate Guide to Economical, High-Performance ASMR Microphones</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-universal-srt-to-various-subtitle-formats-handbook/"><u>In 2024, Universal SRT to Various Subtitle Formats Handbook</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-the-art-of-color-correction-a-final-cut-pro-guide-for-2024/"><u>New The Art of Color Correction A Final Cut Pro Guide for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/-out-in-the-stream-top-name-generators-reviewed/"><u>Stand Out in the Stream Top Name Generators Reviewed</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/toms-tech-the-ultimate-guide-to-computer-hardware/"><u>Tom's Tech: The Ultimate Guide to Computer Hardware</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-premier-mp4-converter-for-smooth-fb-integration/"><u>[New] 2024 Approved Premier MP4 Converter for Smooth FB Integration</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-todays-vr-hardware-review/"><u>[New] Today's VR Hardware Review</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transforming-film-with-vr-experience/"><u>[New] Transforming Film with VR Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transforming-personal-narratives-best-practices-for-video-praise/"><u>[New] Transforming Personal Narratives Best Practices for Video Praise</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlock-the-potential-of-still-photos-through-video-creation-in-pixiz/"><u>[New] Unlock the Potential of Still Photos Through Video Creation in Pixiz</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-finest-4-sites-for-tones/"><u>[New] Unveiling the Finest 4 Sites for Tones</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-transforming-hidden-content-fb-video-strategies/"><u>[Updated] In 2024, Transforming Hidden Content FB Video Strategies</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-mastering-facebook-hashtags-for-strategic-marketing/"><u>[Updated] Mastering Facebook Hashtags for Strategic Marketing</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-top-100-earnest-creators-online/"><u>2024 Approved Top 100 Earnest Creators Online</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/beyond-google-other-ar-sticker-solutions/"><u>Beyond Google Other AR Sticker Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-wi-fi-6e-a-glimpse-into-tomorrows-wireless-technology-benefits-and-limitations-zdnet/"><u>Exploring Wi-Fi 6E: A Glimpse Into Tomorrow's Wireless Technology - Benefits and Limitations | ZDNet</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-gps-location-on-xiaomi-13-ultra-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Xiaomi 13 Ultra Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/immediate-download-of-high-speed-ft232r-usb-uart-bridging-software/"><u>Immediate Download of High-Speed FT232R USB UART Bridging Software</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-xiaomi-redmi-k70-pro-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Xiaomi Redmi K70 Pro to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamline-your-show-entry-on-apple-media/"><u>In 2024, Streamline Your Show Entry on Apple Media</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-path-to-pristine-zoom-video-settings/"><u>In 2024, The Path to Pristine Zoom Video Settings</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-ultimate-guide-streaming-games-with-ease-on-rust-legacy/"><u>In 2024, Ultimate Guide Streaming Games with Ease on Rust Legacy</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-zooming-elevate-your-tiktok-videos-for-2024/"><u>The Art of Zooming Elevate Your TikTok Videos for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-premier-list-visionary-audiovideo-makers-web-for-2024/"><u>The Premier List Visionary Audio/Video Makers Web for 2024</u></a></li>
 </ul></div>
 

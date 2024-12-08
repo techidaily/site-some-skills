@@ -1,7 +1,7 @@
 ---
 title: Top 3 Essential PC Gaming Analytics Apps for Enhanced In-Game Tracking
-date: 2024-11-23T20:02:55.103Z
-updated: 2024-11-28T16:41:38.653Z
+date: 2024-12-01T16:26:49.442Z
+updated: 2024-12-08T03:43:07.566Z
 tags:
   - deals
 categories:
@@ -25,6 +25,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  If you want to monitor your in-game performance stats but don’t know which tool to use, fret not. Here are three in-game performance monitoring apps I wholeheartedly recommend to every PC gamer, regardless of which hardware you're using.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  NVIDIA Statistics Overlay
 
  The NVIDIA Statistics Overlay is part of [GeForce Experience](https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-pro-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/) and the new [NVIDIA app](https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-lava-blaze-curve-5g-drfone-by-drfone-android/), meaning you probably already have access to it if you own an NVIDIA graphics card. I like this one because it’s fairly simple to set up and use. While it lacks some important performance monitoring stats, such as a frame-time graph, it’s a solid choice for PC gamers who just want the basics. Perhaps the biggest disadvantage of this tool is that, naturally, it isn’t available to owners of AMD GPUs.
@@ -37,15 +41,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![NVIDIA Overlay main menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-01.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once there, make sure to select the “Custom” statistics view, click on the "View All" button, and then simply enable the performance metrics you want to see on the statistics overlay.
 
 ![NVIDIA overlay in-game statistics options menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-03.png) 
 
  You can also configure the heads-up display by clicking the "Configure Heads Up Display" button in the "Statistics" options menu.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## ![NVIDIA Overlay Statistics options menu](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-02.png) RivaTuner Statistics Server
 
@@ -61,13 +65,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![RivaTuner Statistics Server main window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-004.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Don't forget that you can add game EXE files to RTSS and create custom RTSS profiles. For example, if a game uses anti-cheat that can block RTSS, I recommend creating a custom profile and disabling the on-screen display (OSD) only in that game. You can also tweak a couple more OSD-related options in RTSS, such as the OSD zoom level.
 
 ![RTSS Main Window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-04.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can also use RTSS as an in-game frame limiter, which I recommend because I’ve found it works much better than frame limiters available in games or those available in NVIDIA and AMD apps.
 
@@ -75,18 +79,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![MSI Afterburner Main window and the On-Screen Display options menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-05.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now, click the “Monitoring” tab. In this tab, you can pick any in-game performance metric you want to see on the OSD; to enable it, click the “Show in On-Screen Display” box. You can also rename every metric by clicking the "Override Graph Name" and "Override Group Name" buttons.
 
 ![MSI Afterburner main window and the Monitoring menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-06-2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After you enable the performance stats you want to see on the OSD, click the “Apply” button, and try out the OSD by entering the game and pressing the button you’ve mapped to open the RTSS performance overlay.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Intel PresentMon
@@ -110,16 +114,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Intel PresentMon main Window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-07.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once in the configuration menu, explore different options and create your perfect monitoring overlay.
 
 ![Intel PresentMon custom preset configuration menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-08.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can combine multiple metrics by pressing the “Plus” button. For example, you can combine GPU and CPU busy graphs with GPU and CPU wait graphs, average and 99% low FPS, CPU and GPU utilization, and more. The “Options” button next to the “Plus” button allows you to customize each graph.
 
@@ -146,20 +146,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-mastering-vector-art-our-picks-for-top-10-tools-in-industry-for-2024/"><u>[New] Mastering Vector Art Our Picks for Top 10 Tools in Industry for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-strategic-steps-for-pinpointing-a-list-film-creators/"><u>[New] Strategic Steps for Pinpointing A-List Film Creators</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-mememix-download-now/"><u>[New] Ultimate Mememix Download Now</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unleash-the-power-of-windows-11s-media-importer-tools/"><u>[New] Unleash the Power of Windows 11'S Media Importer Tools</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-essential-tips-and-techniques-for-obs-setup-use-on-a-mac/"><u>[Updated] Essential Tips & Techniques for OBS Setup, Use, on a Mac</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-perfect-gifs-essential-virtual-meet-scenes/"><u>[Updated] Perfect GIFs Essential Virtual Meet Scenes</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-intellects-ultimate-guide-to-premium-gk-quiz-sites/"><u>2024 Approved Intellect's Ultimate Guide to Premium GK Quiz Sites</u></a></li>
-<li><a href="https://win-guides.techidaily.com/debunking-modern-credit-score-misconceptions-insights-from-massmail-software/"><u>Debunking Modern Credit Score Misconceptions: Insights From MassMail Software</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/how-does-the-2020-iphone-se-stack-up-smart-buying-tips-for-tech-enthusiasts/"><u>How Does the 2020 iPhone SE Stack Up? Smart Buying Tips for Tech Enthusiasts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-fast-forward-tools-mastering-video-controls/"><u>In 2024, Ultimate Fast-Forward Tools Mastering Video Controls</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-artisans-guide-to-cropping-and-soundscaping-in-canvas-for-2024/"><u>The Artisan's Guide to Cropping and Soundscaping in Canvas for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-essentials-of-structuring-your-podcasts-rss-feed-for-2024/"><u>The Essentials of Structuring Your Podcast's RSS Feed for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/uncover-the-ultimate-directory-of-no-cost-vector-art-sites-for-2024/"><u>Uncover the Ultimate Directory of No-Cost Vector Art Sites for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/unleash-potential-superior-strategies-for-personalized-facebook-profiles/"><u>Unleash Potential Superior Strategies for Personalized Facebook Profiles</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862872039-unveiling-the-asrock-z790i-lightning-wi-fi-compact-brilliance-gigantic-performance/"><u>Unveiling the ASROCK Z790I Lightning Wi-Fi: Compact Brilliance, Gigantic Performance</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-untapped-potential-to-augment-your-youtube-audience/"><u>[New] Unveiling Untapped Potential to Augment Your Youtube Audience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-top-10-4k-screens/"><u>[Updated] The Ultimate Guide to #Top 10 4K Screens</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-stealthy-sound-softening-with-garageband/"><u>2024 Approved Stealthy Sound Softening with Garageband</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-the-ultimate-guide-from-tweet-vids-to-mp3-audio-files/"><u>2024 Approved The Ultimate Guide From Tweet Vids to MP3 Audio Files</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-conquering-the-crowd-through-effective-smm/"><u>In 2024, Conquering the Crowd Through Effective SMM</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-innovative-advanced-gaming-monitoring-tools-for-a-better-experience/"><u>In 2024, Innovative, Advanced Gaming Monitoring Tools for a Better Experience</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-counterplay-creative-ways-to-watch-youtube-in-reverse/"><u>In 2024, The Counterplay Creative Ways to Watch YouTube in Reverse</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-toolwiz-photosapp-for-photographers/"><u>In 2024, The Ultimate Guide to Toolwiz PhotosApp for Photographers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unmatched-subtitle-expertise-top-10-leaders-in-video-caption-manipulation/"><u>In 2024, Unmatched Subtitle Expertise – Top 10 Leaders in Video Caption Manipulation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/introducing-efficient-speech-to-text-utilization-in-powerpoint-for-2024/"><u>Introducing Efficient Speech-to-Text Utilization in PowerPoint for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mastering-audio-format-switches-easy-wma-to-mp3-transformations-in-both-online-and-offline-environments/"><u>Mastering Audio Format Switches: Easy WMA to MP3 Transformations in Both Online and Offline Environments</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-comprehensible-guide-to-dji-inspire-2-for-2024/"><u>The Comprehensible Guide to DJI Inspire 2 for 2024</u></a></li>
 </ul></div>
 

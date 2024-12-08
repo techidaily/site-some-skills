@@ -1,7 +1,7 @@
 ---
 title: "The Impact of AI on Next-Gen Computing Power: Expect Higher Specs in Future PCs"
-date: 2024-11-04T20:44:00.609Z
-updated: 2024-11-11T04:22:17.537Z
+date: 2024-12-06T02:56:24.304Z
+updated: 2024-12-07T18:58:25.639Z
 tags:
   - cutting-edge
 categories:
@@ -19,13 +19,6 @@ thumbnail: https://thmb.techidaily.com/0cc5faa4648feed06dc36c6c4e0b5955761ab929b
 
  The age of the "AI PC" is upon us, and you'll soon have the option to run some AI features locally without an internet connection even on relatively modest systems. However, what you may not realize is that despite having AI accelerators, these computers will still need a heap of memory and storage just to offer local AI features.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  AI PCs Have the Power for Local Processing
 
  Microsoft's Copilot AI feature is one of the main reasons that a new generation of computers with specialized NPUs (Neural Processing Units) are coming to market. That's one reason why [new Surface Pro](https://extra-resources.techidaily.com/enhancing-stories-through-animations-with-movie-maker/) devices have ARM Snapdragon processors usually found in phones. Right now, the minimum requirement for a Copilot AI PC is an NPU with 40 TOPS (Trillions of Operations Per Second) and that's what these new chips have packed inside them.
@@ -33,15 +26,16 @@ thumbnail: https://thmb.techidaily.com/0cc5faa4648feed06dc36c6c4e0b5955761ab929b
 ![The Copilot AI logo on a keyboard key.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Microsoft
 
  There are many reasons to want local AI features. It's fast, you're not competing for resources with other users, and you don't have to pay beyond the cost of the hardware. Giving your laptop the smarts of something on the same continuum as ChatGPT and its contemporaries is definitely exciting!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Even “Small” LLMs Are Huge
 
@@ -52,6 +46,10 @@ Microsoft
 ##  Models Have to Live in RAM
 
 ![AI chip hologram with circuits around.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ai-chip-hologram-with-circuits-around.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lucas Gouveia / How-To Geek
 
@@ -64,10 +62,7 @@ AI chip hologram with circuits around
  To be sure, these new PCs all have ultra-fast SSDs that can swap data in and out of RAM quickly, but apart from the additional wear and tear that puts on your SSD, it's still just not fast enough for everything to run smoothly, and don't forget you still want to run all of your other apps at the same time! If your PC had to dump your browser and other apps from RAM to disk every time you wanted the AI to do something, it wouldn't be a great experience.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  16GB Is the Absolute Minimum
@@ -76,18 +71,15 @@ AI chip hologram with circuits around
 
  While that's a healthy amount for a normal non-AI PC, I have a feeling that for PCs running local AI assistants in the background all the time, this will be more like an 8GB PC plus AI, unless you disable the AI part of the equation.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Some AI PCs Won’t Have Upgradable RAM
 
  If your new AI Windows PC uses an integrated system-on-a-chip or has its RAM soldered permanently, as is the case with many thin and light laptops, then you're going to be stuck with whatever amount of RAM the system came with. Which means you need to get the amount of RAM you need right at the start, or you'll end up needing a whole new computer if it turns out you've done your sums wrong.
 
  Some time ago, I looked at whether [32GB of RAM](https://extra-hints.techidaily.com/elevate-your-craft-canvas-hidden-design-secrets/) was not the amount to aim for, and my conclusion was that this amount of memory was still overkill for average users. However, with future AI model sizes in mind, I think 32GB should be what anyone who cares about these AI features must aim for.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  If You Care About AI, Get More Memory
 
@@ -110,16 +102,16 @@ AI chip hologram with circuits around
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-complete-guide-to-producing-high-quality-gopro-time-lapse/"><u>[New] The Complete Guide to Producing High-Quality GoPro Time-Lapse</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-best-virtual-race-titles-reviewed/"><u>[Updated] 2024 Approved Best Virtual Race Titles Reviewed</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-8-must-have-apps-for-instagram-schedulers-on-all-smartphones/"><u>[Updated] The 8 Must-Have Apps for Instagram Schedulers on All Smartphones</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-art-of-auditory-identity-crafting-your-own-ringtones-and-sounds-for-android/"><u>[Updated] The Art of Auditory Identity Crafting Your Own Ringtones & Sounds for Android</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-the-insiders-method-for-rl-recording/"><u>[Updated] The Insider's Method for RL Recording</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-lg-screen-chronicles-a-complete-review-of-4k-quality/"><u>[Updated] The Ultimate LG Screen Chronicles A Complete Review of 4K Quality</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-sleep-inducing-series-analyzing-video-bedtime-stories/"><u>2024 Approved The Sleep-Inducing Series Analyzing Video Bedtime Stories</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/deviceinit-failed-now-working/"><u>DeviceInit Failed, Now Working</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-best-performance-downloading-and-setting-up-hp-zbook-15-g3-drives-on-your-windows-pc/"><u>Get the Best Performance: Downloading and Setting Up HP ZBook 15 G3 Drives on Your Windows PC</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-update-corsair-headset-drivers-in-windows/"><u>How To Update Corsair Headset Drivers In Windows</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/tomtom-bandit-camera-update-the-ultimate-guide/"><u>TomTom Bandit Camera Update – The Ultimate Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-streamlining-creative-processes-with-obs-studio-tools/"><u>[New] In 2024, Streamlining Creative Processes with OBS Studio Tools</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/astering-shots-a-vloggers-lens-compendium-for-2024/"><u>[New] Mastering Shots A Vlogger’s Lens Compendium for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-optimal-offerings-best-devices-for-hd-video-processing/"><u>[Updated] 2024 Approved Optimal Offerings Best Devices for HD Video Processing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-essential-blueprint-for-effortless-avatar-creation-in-vr/"><u>[Updated] The Essential Blueprint for Effortless Avatar Creation in VR</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-mastering-videos-with-vida/"><u>2024 Approved The Ultimate Guide to Mastering Videos with Vida</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-secrets-of-using-multiple-screens-on-netflix/"><u>2024 Approved Unveiling the Secrets of Using Multiple Screens on Netflix</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Oppo A79 5G? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-11-best-location-changers-for-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-techniques-for-softening-volume-in-logic-pro-mixing/"><u>In 2024, Techniques for Softening Volume in Logic Pro Mixing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-complete-picture-an-in-depth-analysis-of-polarr-photo-tools/"><u>In 2024, The Complete Picture An In-Depth Analysis of Polarr Photo Tools</u></a></li>
 </ul></div>
 

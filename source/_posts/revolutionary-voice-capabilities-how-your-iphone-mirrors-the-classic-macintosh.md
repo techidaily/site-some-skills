@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary Voice Capabilities: How Your iPhone Mirrors the Classic Macintosh"
-date: 2024-11-27T20:01:28.920Z
-updated: 2024-11-28T22:04:56.379Z
+date: 2024-12-04T00:48:19.433Z
+updated: 2024-12-07T21:12:23.566Z
 tags:
   - mobile
 categories:
@@ -24,7 +24,7 @@ The original Macintosh computer from 1984 could speak text in several voices. Ma
  The voices have also been used in some movies and TV shows over the years. Auto, the wheel-shaped automatic pilot from Pixar’s _WALL-E_, is [voiced by MacinTalk](https://www.youtube.com/watch?v=IJWc4PD317w) (either the Reed or Ralph voice, it’s hard to tell).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Try the Old Voices
@@ -34,7 +34,7 @@ The original Macintosh computer from 1984 could speak text in several voices. Ma
 ![List of text-to-speech voices on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/img_8396.PNG) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The original Fred voice used in the Macintosh reveal event is still available, as well as Junior, Albert, Kathy, Bahh, Zarvox, Whisper, Jester, and others. A few are missing, including Rocko and Reed. Tap a voice to open its menu, where you can download the voice if it’s not already available.
@@ -44,7 +44,7 @@ The original Macintosh computer from 1984 could speak text in several voices. Ma
 ![Typing a message for speech on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/img_deefe3a3587c-1.jpeg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Unfortunately, you can’t use any of the classic MacinTalk voices for Siri. You can also use them for the Spoken Content feature (also in the Accessibility settings), which adds a “Speak” button when you select text in most applications.
@@ -64,18 +64,21 @@ The original Macintosh computer from 1984 could speak text in several voices. Ma
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-client-visionaries-shaping-brand-narratives-through-video/"><u>[New] 2024 Approved Client Visionaries Shaping Brand Narratives Through Video</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-masterful-color-grading-explore-these-7-methods/"><u>[Updated] 2024 Approved Masterful Color Grading Explore These 7 Methods</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-maximize-visual-impact-on-youtube-adding-watermarks-and-logo-to-media-content/"><u>[Updated] 2024 Approved Maximize Visual Impact on YouTube Adding Watermarks & Logo to Media Content</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-streaming-showdown-twitch-versus-youtube-unveiled/"><u>[Updated] Streaming Showdown Twitch Versus YouTube Unveiled</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elite-video-streaming-platforms-for-broadcast/"><u>Elite Video Streaming Platforms for Broadcast</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-how-to-craft-contagious-instagram-visuals/"><u>In 2024, How to Craft Contagious Instagram Visuals</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-present-day-drones-and-their-upcoming-role-evolution/"><u>In 2024, Present-Day Drones and Their Upcoming Role Evolution</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-from-iphone-xs-max-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID From iPhone XS Max Making It Possible</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-itel-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Itel</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-path-to-perfect-streams-streamlabs-plus-obs-for-mac-users-for-2024/"><u>The Path to Perfect Streams Streamlabs + OBS for Mac Users for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-ultimate-walkthrough-for-implementing-gpt-3-features-in-openai-sandbox/"><u>The Ultimate Walkthrough for Implementing GPT-3 Features in OpenAI Sandbox</u></a></li>
-<li><a href="https://some-skills.techidaily.com/under-a-hundred-bucks-heres-your-top-5-drones-for-2024/"><u>Under a Hundred Bucks? Here's Your Top 5 Drones for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlock-creative-potential-in-photography-top-15-tricks-for-using-pixlr-for-2024/"><u>Unlock Creative Potential in Photography Top 15 Tricks for Using Pixlr for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-leading-edge-screen-snapshot-software/"><u>[New] Leading Edge Screen Snapshot Software</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-roadmap-to-proficiency-in-lut-construction/"><u>[New] The Ultimate Roadmap to Proficiency in LUT Construction</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/output-to-find-the-result-of-multiplying-6-by-itself-four-times-we-calculate-6-6-6-6-when-an-even-number-of-negative-numbers-are-multiplied-together-the-res156/"><u>[Output]: To Find the Result of Multiplying -6 by Itself Four Times, We Calculate (-6) × (-6) × (-6) × (-6). When an Even Number of Negative Numbers Are Multiplied Together, the Result Is Positive. Therefore:</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-educational-history-vlogs-the-ultimate-list-for-2024/"><u>[Updated] Educational History Vlogs - The Ultimate List for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-download-mp3-from-social-network-posts/"><u>[Updated] In 2024, Download Mp3 From Social Network Posts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamlined-steps-to-watching-vr-on-your-ios-device/"><u>[Updated] Streamlined Steps to Watching VR on Your IOS Device</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-faster-periscope-streams/"><u>2024 Approved The Ultimate Guide Faster Periscope Streams</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-tunes-where-to-secure-soundscapes/"><u>2024 Approved Top Tunes Where to Secure Soundscapes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-conversion-of-youtube-footage-to-ogg-discover-two-superior-strategies/"><u>Effortless Conversion of YouTube Footage to OGG: Discover Two Superior Strategies</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transforming-video-conferencing-with-zoom-and-youtube-for-impactful-live-events/"><u>In 2024, Transforming Video Conferencing with Zoom and YouTube for Impactful Live Events</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleash-your-time-potential-with-gratuitous-clock-tools/"><u>In 2024, Unleash Your Time Potential with Gratuitous Clock Tools</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/introducing-unique-audio-innovation-the-original-designed-with-meta-wireless-buds-for-next-level-sound-immersion-zdnet/"><u>Introducing Unique Audio Innovation: The Original 'Designed with Meta' Wireless Buds for Next-Level Sound Immersion | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-your-garmin-obsolete-with-the-new-workout-sync-feature-on-apple-watch-tech-insights/"><u>Is Your Garmin Obsolete with the New Workout Sync Feature on Apple Watch? | Tech Insights</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95828927-9780980502244-moonbeams-of-mahamudra/"><u>Moonbeams of Mahamudra | Free Book</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-fastest-route-for-srt-to-text-file-conversion-for-2024/"><u>The Fastest Route for SRT to Text File Conversion for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/updated-hp-wi-fi-and-ethernet-drivers-installation-instructions-for-windows-users-windows-1078/"><u>Updated HP Wi-Fi & Ethernet Drivers: Installation Instructions for Windows Users (Windows 10/7/8)</u></a></li>
 </ul></div>
 

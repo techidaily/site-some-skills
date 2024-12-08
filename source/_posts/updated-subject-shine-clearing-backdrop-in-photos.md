@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Subject Shine  Clearing Backdrop in Photos\""
-date: 2024-08-20T23:33:10.326Z
-updated: 2024-08-21T23:33:10.326Z
+date: 2024-12-06T02:17:27.085Z
+updated: 2024-12-07T23:32:02.404Z
 tags: 
   - screen-recording
   - ai video
@@ -22,9 +22,17 @@ Affinity Photo is an image editor developed by Serif Ltd. in 2009 and is used by
 
 No matter you are a professional content creator or a newbie, we'll be discussing how to remove background in Affinity Photo. Let's explore how to use the good editing tool to be free of the stressful editing process.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Remove Affinity Photo to Remove Image's Background
 
 Affinity Photo is a simple and easy-to-use editing software, and you can remove a background in it under two scenarios: remove a white or a busy background.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Erase a White Background in Affinity Designer
 
@@ -38,16 +46,14 @@ Now access the **Pixel Persona** section in the left corner of the software scre
 
 Step2 Go to the **"Layers"** tab in the right pane, right-click your layer, and disable **"Lock."** Now right-click on your layer again, and select **"Rasterize"** to enable editing of specific parts of the image.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![unlocking the image layer in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/unlocking-the-image-layer-in-affinity-designer.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step3 To make a selection around your subject, first enable the **"Snap To Edges"** and **"Soft Edges"** feature from the top toolbar. This will help you automatically detect the edges and give it a more tapered finish.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![enabling snap to edges and soft edges in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/enabling-snap-to-edges-and-soft-edges-in-affinity-designer.png)
 
 Set your brush size using your keyboard's **left** and **right bracket** keys. Now, manually make a selection around your subject and white edges in the image as precisely as possible.
@@ -56,9 +62,6 @@ Step4 Next, zoom in on your subject. Press & hold the ALT key on your keyboard, 
 
 Click the **"Refine"** option in the toolbar to open the **"Refine Selection"** menu. A red mask will be applied to your subject, giving you an idea of how your image will look once you remove the background. Zoom in and if any details are excluded, paint them over. Once you are satisfied, click **"Apply"** to save your changes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![refining the outline around the image to remove background in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/refining-the-outline-around-the-image-to-remove-background-in-affinity-designer.png)
 
 Step5 In the last step, press the **"Delete"** key on your keyboard to remove the background, or click **"Edit"** and choose the **"Cut"** option.
@@ -66,8 +69,9 @@ Step5 In the last step, press the **"Delete"** key on your keyboard to remove th
 Now, hit **"Control+D"** to deselect the selection. Alternatively, you can click **"Select"** in the top toolbar and choose the **"Deselect"** option. Finally, you can export your file using the **"File" > "Export"** option.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Remove a Busy Background in Affinity Designer
 
 If you want to remove a busy background of an image in the Affinity Designer software, follow these steps carefully:
@@ -93,16 +97,10 @@ Step5 In this last step, you must deselect the outline around your subject. For 
 
 Finally, click **"File"** and select the **"Export"** option from the drop-down menu. Then, in the Export Settings menu, choose PNG and click **"Export"** to save your file on your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** To save your image with a transparent background, do not export it in JPG file format.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## The Best Alternative of Affinity Photo
 
 Since Affinity Photo is a desktop software available for a one-time purchase of $40.99, you might be looking for an online free alternative if you need more space or can afford the subscription fee.
@@ -110,6 +108,10 @@ Since Affinity Photo is a desktop software available for a one-time purchase of 
 Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.com/), an advanced AI-based online tool developed by[Wondershare Technology.](https://www.wondershare.com/)
 
 ![wondershare pixcut for removing image background](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut-for-removing-image-background.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Editing experts recommend Wondershare PixCut as the best alternative to many editing problems. An AI-powered automatic editing tool, this software has quicker solutions for you when it comes to removing an image's background. Some of its many benefits are:
 
@@ -137,7 +139,6 @@ And if you have any interests in finding free images to expand your resource, yo
 
 Hopefully, this article and video can help you create ideal images!
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -160,8 +161,23 @@ Hopefully, this article and video can help you create ideal images!
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-the-final-verdict-on-vegas-pro-21-a-sports-enthusiasts-review-for-2024/"><u>[New] The Final Verdict on Vegas Pro '21 - A Sports Enthusiast's Review for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-positive-side-of-asmr-explained-here/"><u>[New] The Positive Side of ASMR Explained Here</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-understanding-macos-big-sur-minimum-requirements/"><u>[New] Understanding MacOS Big Sur Minimum Requirements</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-enjoy-premium-video-artwork-download-at-no-cost-today-for-2024/"><u>[Updated] Enjoy Premium Video Artwork - Download at No Cost Today for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-art-of-influence-elevating-messaging-on-telegram/"><u>[Updated] The Art of Influence Elevating Messaging on Telegram</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-stylish-and-functional-the-top-10-gear-for-sj4000-enthusiasts/"><u>2024 Approved Stylish and Functional The Top 10 Gear for SJ4000 Enthusiasts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-toshiba-dynabook-driver-software-on-windows/"><u>Download & Update Toshiba Dynabook Driver Software on Windows</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-ultimate-htpcs-of-2024-for-unmatched-cinema-experience-at-home/"><u>Exploring the Ultimate HTPCs of 2024 for Unmatched Cinema Experience at Home</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2208364-9780007283927-haunted-scariest-stories-from-the-uks-no-1-psychic/"><u>Haunted: Scariest stories from the UK's no. 1 psychic | Free Book</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-oneplus-12r-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For OnePlus 12R</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-swift-shuffling-strategies-efficiently-send-data-home/"><u>In 2024, Swift Shuffling Strategies Efficiently Send Data Home</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-understanding-av1-your-initial-compre-point/"><u>In 2024, Understanding AV1 Your Initial Compre Point</u></a></li>
+<li><a href="https://win-blog.techidaily.com/play-uninterrupted-solutions-to-prevent-fall-guys-from-freezing-on-your-desktop-computer/"><u>Play Uninterrupted: Solutions to Prevent Fall Guys From Freezing on Your Desktop Computer</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-tips-to-nail-every-green-screen-scene-for-2024/"><u>Top Tips to Nail Every Green Screen Scene for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/unlocking-visual-storytelling-the-20-key-strategies-for-powerful-fb-video-marketing/"><u>Unlocking Visual Storytelling The 20 Key Strategies for Powerful FB Video Marketing</u></a></li>
+<li><a href="https://change-location.techidaily.com/why-is-ipogo-not-working-on-vivo-y100-5g-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Vivo Y100 5G? Fixed | Dr.fone</u></a></li>
+</ul></div>
 

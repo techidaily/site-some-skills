@@ -1,7 +1,7 @@
 ---
 title: Top 8 Solutions for When Your Laptop Won't Charge Despite Being Connected
-date: 2024-11-26T18:12:33.908Z
-updated: 2024-11-28T17:42:27.649Z
+date: 2024-12-05T22:19:00.181Z
+updated: 2024-12-07T19:17:24.432Z
 tags:
   - deals
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## Top 8 Solutions for When Your Laptop Won't Charge Despite Being Connected
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -22,6 +26,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [Reinstall the Battery Drivers](https://twitter-videos.techidaily.com/in-2024-guide-downloading-twitters-videos-on-android-devices/)
 * [Test for a Defective Battery](https://facebook-video-content.techidaily.com/new-fb-profile-picture-dimensions/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * If your laptop isn't charging even when it's plugged in, make sure the power cord is firmly connected to the adapter brick. If that doesn't work, try plugging the charger's adapter plug into a different outlet and carefully examining the charging port and pin.
@@ -30,23 +38,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Is your laptop not charging even though you've plugged it in? While most of the time, this situation occurs when the charging adapter isn't properly connected, other times outdated BIOS or corruption in the battery driver could be the possible culprit. Whatever the reason may be, here are fixes you can try if your laptop is plugged in but not charging.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  1\. Check Your Laptop Adapter
 
  Before taking any major steps, the first thing you should check is whether the power cord is securely connected to the adapter brick. If the connection is loose, the adapter brick will not receive power, preventing your laptop from charging.
 
 ![A laptop adapter with a loose connection.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/laptop-adapter.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Aman Kumar / How-To Geek
 
  If you find that the power cord is loosely connected to the adapter brick, apply gentle pressure to firmly insert it into the adapter. Alternatively, you can unplug the power cord completely and then plug it back in again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  2\. Connect the Laptop Adapter to a Different Socket
 
@@ -56,10 +60,6 @@ Jason Fitzpatrick / How-To Geek
 
  Your laptop may not charge if the socket in which the adapter plug is currently connected is not functioning. To verify this, insert the adapter plug into a different socket and check if your laptop starts charging. If it does, this confirms that the original socket or its corresponding switch is not working. You can contact an electrician, in this case, to have this socket repaired.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  3\. Use the Original Charger
 
  You should also ensure that you're using the original charger that came with your laptop for optimal charging. While third-party chargers may advertise [fast charging](https://snapchat-videos.techidaily.com/new-elevate-your-social-media-presence-by-pining-on-snapchat/) or other advantages, they often end up harming the device.
@@ -67,10 +67,6 @@ Jason Fitzpatrick / How-To Geek
  For instance, using a counterfeit charger that claims fast charging on a laptop that doesn't support it can [damage the battery](https://on-screen-recording.techidaily.com/updated-webcam-techniques-for-live-recording-powerpoint/) by providing incorrect power levels. Similarly, if you try to charge your laptop that supports [USB-C](https://screen-activity-recording.techidaily.com/navigating-lenovo-screen-capture-tools-effortlessly/) charging with a smartphone charger, then you're likely to encounter charging issues, as the power supply from a smartphone charger is typically lower than what a laptop requires.
 
  Counterfeit chargers often charge laptops at an extremely slow pace or, in some cases, not charge at all. If your original laptop charger is malfunctioning, opt to purchase the same model charger directly from the laptop manufacturer online or in-store instead of resorting to a third-party charger.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  4\. Examine the Charging Port and Pin
 
@@ -90,10 +86,6 @@ Aman Kumar / How-To Geek
 
  If the charging pin is broken, you can easily cut the pin and connect a new one. However, if you don't feel confident in cutting and changing the pin yourself, you should contact an expert to do it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  5\. Allow Your Laptop to Cool Down
 
  The issue can also arise if your [laptop has overheated](https://video-content-creator.techidaily.com/updated-trim-vlc-videos-on-mac-with-ease-no-quality-loss-guaranteed-for-2024/). Your laptop may have overheated if you've been engaged in CPU- and GPU-intensive tasks. In such cases, your laptop may intentionally halt the charging process to safeguard your battery.
@@ -102,15 +94,15 @@ Aman Kumar / How-To Geek
 
  In this situation, there's not much you can do. Simply shut down your laptop and allow it to cool down. Once you feel the temperature has decreased, reconnect the charger, and your laptop should start charging again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  6\. Download Any Available BIOS Update
 
  The [BIOS (Basic Input/Output System)](https://buynow-info.techidaily.com/experience-the-rotibox-beanie-hat-your-ideal-bluetooth-headset-with-outstanding-comfort-and-clear-sound-quality/) is a low-level system software that controls various hardware functions, including power management and battery charging. If your laptop is running an extremely outdated BIOS version, it might encounter difficulties correctly recognizing the AC adapter, potentially leading to the charging issue at hand. The solution, in this case, is to update the system BIOS.
 
  Unfortunately, there is no one-size-fits-all set of instructions to update BIOS as different manufacturers have different methods. However, the general rule of thumb is to visit your motherboard manufacturer's website, access your [motherboard model's](https://extra-tips.techidaily.com/flash-flick-narrative-template/) downloads or support page, and then download the available BIOS update. You can check our guide on [how to update your BIOS](https://extra-skills.techidaily.com/in-2024-quick-windows-surfing-guide-unveiled/) for more information about the updating process.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  7\. Reinstall the Battery Drivers
 
@@ -120,9 +112,17 @@ Aman Kumar / How-To Geek
 
 ![Batteries node in the Device Manager app on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/batteries-node.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Right-click on the "Microsoft AC Adapter" driver and select the "Uninstall device" option. Similarly, uninstall the "Microsoft ACPI-Compliant Control Method Battery" driver.
 
 ![The Uninstall Device option in Device Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/uninstall-device.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once the drivers have been uninstalled, [restart your computer](https://screen-video-capture.techidaily.com/updated-in-2024-addressing-mute-problems-in-obs-live-recording/). Upon restart, Windows will automatically reinstall both battery drivers. However, if it fails to reinstall them for any reason, press Windows+i to open the "Settings" app, click on "Windows Update," and then select "Check for Updates." Windows will now install the missing driver, which in this case is the battery driver, on your computer.
 
@@ -169,18 +169,18 @@ Aman Kumar / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-expert-tips-for-utilizing-luts-within-adobe-after-effects/"><u>[New] 2024 Approved Expert Tips for Utilizing LUTs Within Adobe After Effects</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-googleplus-photo-frame-settings/"><u>[New] 2024 Approved Google+ Photo Frame Settings</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-user-testimonials-and-reviews-on-the-lg-bp350-monitor/"><u>[New] User Testimonials and Reviews on the LG BP350 Monitor</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-download-free-mcb-logo-templates-for-2024/"><u>[Updated] Download Free MCB Logo Templates for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-essential-tutorial-for-stunning-hdr-portraits/"><u>[Updated] The Essential Tutorial for Stunning HDR Portraits</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-tips-for-overcoming-iphone-camera-focusing-glitches/"><u>[Updated] Tips for Overcoming iPhone Camera Focusing Glitches</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-social-networking-grounds-for-youtube-growth/"><u>[Updated] Top Social Networking Grounds for YouTube Growth</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-2022-winter-games-zenith-of-snowboard-cross/"><u>In 2024, The 2022 Winter Games Zenith of Snowboard Cross</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-ultimate-list-hashtags-for-maximum-video-engagement-in-games/"><u>In 2024, Ultimate List Hashtags for Maximum Video Engagement in Games</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/restful-narratives-on-display/"><u>Restful Narratives on Display</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/superior-commercial-cloud-vaulting-for-2024/"><u>Superior Commercial Cloud Vaulting for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-art-of-converting-photographs-into-cinematic-videography-with-pixiz-for-2024/"><u>The Art of Converting Photographs Into Cinematic Videography with Pixiz for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-an-iphone-display-solutions-when-your-screen-wont-respond/"><u>Troubleshooting an iPhone Display: Solutions When Your Screen Won't Respond</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-best-mac-screen-capture-tools/"><u>[New] In 2024, Best Mac Screen Capture Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-perfect-gaming-experience-kinemaster-on-android/"><u>[New] Unveiling the Perfect Gaming Experience KineMaster on Android</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-best-mac-screen-recorders-a-comprehensive-guide/"><u>[Updated] 2024 Approved Best Mac Screen Recorders A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-cutting-corners-not-with-quality-square-video-creation-techniques/"><u>[Updated] In 2024, Cutting Corners? Not with Quality Square Video Creation Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-meditative-tunes-compilation-top-10-legal-streams/"><u>[Updated] Meditative Tunes Compilation - Top 10 Legal Streams</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-untangling-aerial-vehicles-a-guide-to-drones-operation/"><u>[Updated] Untangling Aerial Vehicles A Guide to Drones' Operation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-live-performances-best-audio-platforms/"><u>2024 Approved Top Live Performances Best Audio Platforms</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-samsung-galaxy-xcover-6-pro-tactical-edition-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Samsung Galaxy XCover 6 Pro Tactical Edition</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-revive-your-bricked-infinix-hot-40-pro-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Infinix Hot 40 Pro in Minutes | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-linguistic-landscapes-smoothly-via-keyboard-shortcuts-in-win1011/"><u>Navigate Linguistic Landscapes Smoothly via Keyboard Shortcuts in Win10/11</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-lowdown-on-minitool-movie-maker-review-tips-and-alternative-video-editors-for-2024/"><u>New The Lowdown on Minitool Movie Maker Review, Tips, and Alternative Video Editors for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/2-vlogger-friendly-cameras-unveiled-for-2024/"><u>Top 12 Vlogger-Friendly Cameras Unveiled for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unmissable-vr-immersive-storytelling-for-2024/"><u>Unmissable VR Immersive Storytelling for 2024</u></a></li>
 </ul></div>
 

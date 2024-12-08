@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Essential Checklist  Purging Backdrops with Affinity Photo\""
-date: 2024-08-20T23:33:54.810Z
-updated: 2024-08-21T23:33:54.810Z
+date: 2024-12-04T22:52:36.782Z
+updated: 2024-12-07T21:01:06.487Z
 tags: 
   - screen-recording
   - ai video
@@ -23,16 +23,13 @@ Affinity Photo is an image editor developed by Serif Ltd. in 2009 and is used by
 No matter you are a professional content creator or a newbie, we'll be discussing how to remove background in Affinity Photo. Let's explore how to use the good editing tool to be free of the stressful editing process.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Remove Affinity Photo to Remove Image's Background
 
 Affinity Photo is a simple and easy-to-use editing software, and you can remove a background in it under two scenarios: remove a white or a busy background.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Erase a White Background in Affinity Designer
 
 To erase a white background in Affinity Designer, do these steps:
@@ -43,6 +40,10 @@ Now access the **Pixel Persona** section in the left corner of the software scre
 
 ![accessing the pixel persona in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-pixel-persona-in-affinity-designer.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Go to the **"Layers"** tab in the right pane, right-click your layer, and disable **"Lock."** Now right-click on your layer again, and select **"Rasterize"** to enable editing of specific parts of the image.
 
 ![unlocking the image layer in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/unlocking-the-image-layer-in-affinity-designer.png)
@@ -50,6 +51,10 @@ Step2 Go to the **"Layers"** tab in the right pane, right-click your layer, and 
 Step3 To make a selection around your subject, first enable the **"Snap To Edges"** and **"Soft Edges"** feature from the top toolbar. This will help you automatically detect the edges and give it a more tapered finish.
 
 ![enabling snap to edges and soft edges in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/enabling-snap-to-edges-and-soft-edges-in-affinity-designer.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Set your brush size using your keyboard's **left** and **right bracket** keys. Now, manually make a selection around your subject and white edges in the image as precisely as possible.
 
@@ -59,13 +64,18 @@ Click the **"Refine"** option in the toolbar to open the **"Refine Selection"** 
 
 ![refining the outline around the image to remove background in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/refining-the-outline-around-the-image-to-remove-background-in-affinity-designer.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step5 In the last step, press the **"Delete"** key on your keyboard to remove the background, or click **"Edit"** and choose the **"Cut"** option.
 
 Now, hit **"Control+D"** to deselect the selection. Alternatively, you can click **"Select"** in the top toolbar and choose the **"Deselect"** option. Finally, you can export your file using the **"File" > "Export"** option.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Remove a Busy Background in Affinity Designer
 
 If you want to remove a busy background of an image in the Affinity Designer software, follow these steps carefully:
@@ -91,18 +101,10 @@ Step5 In this last step, you must deselect the outline around your subject. For 
 
 Finally, click **"File"** and select the **"Export"** option from the drop-down menu. Then, in the Export Settings menu, choose PNG and click **"Export"** to save your file on your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** To save your image with a transparent background, do not export it in JPG file format.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## The Best Alternative of Affinity Photo
 
 Since Affinity Photo is a desktop software available for a one-time purchase of $40.99, you might be looking for an online free alternative if you need more space or can afford the subscription fee.
@@ -127,13 +129,6 @@ Editing experts recommend Wondershare PixCut as the best alternative to many edi
 * Paid and customized accounts for premium benefits.
 * Customized categories that include e-commerce, car dealership, social media, graphic designing, personal, and marketing use.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 This article discusses **removing a background in Affinity Photo**, whether the image has a white or a busy BG.
@@ -143,7 +138,6 @@ With advancing technology, you can find different image editing tools online. Ho
 And if you have any interests in finding free images to expand your resource, you can watch this video:
 
 Hopefully, this article and video can help you create ideal images!
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -167,8 +161,26 @@ Hopefully, this article and video can help you create ideal images!
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-dairy-digest-complete-review-of-ice-cream-recorder-app/"><u>[New] 2024 Approved Dairy Digest Complete Review of Ice Cream Recorder App</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-secure-hassle-free-passport-images-top-10-choices/"><u>[New] 2024 Approved Secure, Hassle-Free Passport Images - Top 10 Choices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unleash-creativity-in-windows-10-how-to-trim-movies-and-more/"><u>[New] Unleash Creativity in Windows 10 How To Trim Movies and More</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-tagging-tactics-how-to-leverage-instagrams-top-25-hashtags/"><u>[Updated] 2024 Approved Tagging Tactics How to Leverage Instagram's Top 25 Hashtags</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-ultimate-guide-top-10-high-resolution-4k-dslr-mounts/"><u>[Updated] 2024 Approved Ultimate Guide Top 10 High-Resolution 4K DSLR Mounts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-simple-grading-tactics/"><u>[Updated] The Ultimate Guide to Simple Grading Tactics</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-ultimate-fb-video-player-guide-top-picks-listed-for-2024/"><u>[Updated] Ultimate FB Video Player Guide Top Picks Listed for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-zoom-potential-a-comprehensive-configurations-guide/"><u>[Updated] Unlocking Zoom Potential A Comprehensive Configurations Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fade-techniques-to-pare-down-audio-intensity-in-logic-pro/"><u>2024 Approved Fade Techniques to Pare Down Audio Intensity in Logic Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-podcast-logo-design-for-maximum-impact/"><u>2024 Approved The Art of Podcast Logo Design for Maximum Impact</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-virtual-age-present-and-future-challenges/"><u>2024 Approved Unveiling the Virtual Age Present and Future Challenges</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/ifa-2023-the-ultimate-showcase-for-tech-enthusiasts/"><u>IFA 2023: The Ultimate Showcase for Tech Enthusiasts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamed-audiovideo-crafts-meetup/"><u>In 2024, Streamed Audio/Video Crafts Meetup</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-evolution-continues-iphone-xs-photographic-advancements/"><u>In 2024, The Evolution Continues IPhone X's Photographic Advancements</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-ultimate-compilation-winning-16-free-media-players/"><u>In 2024, Ultimate Compilation Winning 16 Free Media Players</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unmatched-ai-tools-for-visual-storytelling/"><u>In 2024, Unmatched AI Tools for Visual Storytelling</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-essentials-of-whatsapp-call-messages-for-2024/"><u>The Essentials of WhatsApp Call Messages for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/unlocking-the-potential-of-media-imports-in-windows-10-for-2024/"><u>Unlocking the Potential of Media Imports in Windows 10 for 2024</u></a></li>
+</ul></div>
 

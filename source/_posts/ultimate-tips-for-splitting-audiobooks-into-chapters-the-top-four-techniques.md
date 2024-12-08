@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Tips for Splitting Audiobooks Into Chapters: The Top Four Techniques!"
-date: 2024-09-27T17:55:22.822Z
-updated: 2024-10-04T17:57:29.452Z
+date: 2024-12-03T01:22:33.854Z
+updated: 2024-12-07T19:03:45.691Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/d9de24816d3ddace39801c0414212d66853043d5f11ffbf1394765ef078e9e33.jpg
@@ -16,6 +16,10 @@ Posted by [Grace Sue](https://plus.google.com/107909268153223267573) on 7/31/202
 5.0 [(12 comments)](http://www.epubor.com/#comment-area) 
 
 ![follow](http://www.epubor.com/images/follow.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Split Audiobook into Chapters](http://www.epubor.com/images/uppic/Split-Audiobook-Into-Chapters.png)If you have multi-hour long audiobooks, obviously you can't sit and listen for 10 hours or more time. So you totally need to cut the audiobook into chapters. Then choose any chapter you want to listen to. After splitting, the audiobooks will be read as the books, whenever you want to listen, you can access to the recent chapter. The following ways can **Split Audiobook into Chapters** and create audiobooks with chapter information preserved easily.
 
@@ -45,18 +49,15 @@ If you are in need of splitting your audiobooks into chapters, Audible Converter
 
 ![](https://www.epubor.com/images/uppic/split-audiobook-into-several-chapters.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Step 4\. Remove the DRM and Convert Audiobooks to MP3
 
 Then click on "Convert to MP3" or "Convert to M4B" button at the bottom to start the process of removing DRM and converting your audiobooks to mp3\. 
 
 ![convert audible into mp3 with chapters](http://www.epubor.com/images/uppic/split-audible-into-chapters-24.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Epubor Audible Converter helps you easily unlock and convert Audible books at the same time. Once it has finished, "Succeeded" will appear. Also, the folder holding the converted MP3 files will automatically pop up.
 
@@ -98,24 +99,25 @@ Launch iTunes. Select "Music" tab. Click the "File" on the navigation. Then clic
 
 ![Add Converted Audiobook to iTunes](http://www.epubor.com/images/uppic/Add-Converted-Audiobook-to-iTunes.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Step 4\. Enter Time of Each Chapter
 
 Play the added MP3 file in iTunes. Remember the time of each chapter you want to begin. Right-click the MP3 audiobook and click "Get Info" option. Then click "Options" from the pop-up menu. Enter the start time and stop time of a chapter. For the first chapter, the start time is "0:00". The stop time is the timing you want to end a chapter. After enter and check the check box. Then click "OK".
 
 ![Determine Time of Each Chapter](http://www.epubor.com/images/uppic/Determine-Time-Each-Chapter.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Step 5\. Set Import Format
 
 Click "Edit" on the navigation bar and choose "Preferences" option. From the "General Preferences" window, click "Import Settings" option. You can ignore other default options.
 
 ![iTunes General Preferences](http://www.epubor.com/images/uppic/iTunes-General-Preferences.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Then set the "Import Using" as "MP3 Encoder" from the pop-up window. Then click "OK". Here you can find AAC/AIFF/WAV/MP3/Apple Lossless Encoder. And you can choose the format you like.
 
@@ -127,6 +129,10 @@ Select the added MP3 file again. Click "File" option in the navigation bar and p
 
 ![Create MP3 Version](http://www.epubor.com/images/uppic/create-mp3-version.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After conversion, you can find the new MP3 file in "Recently Added" section. Click the name of the new file and rename it as "Chapter One". Now you get the first chapter in Music section.
 
 #### Step 7\. Add Chapters into Audiobooks
@@ -134,13 +140,6 @@ After conversion, you can find the new MP3 file in "Recently Added" section. Cli
 Right-Click the Chapter One file. Select "Get Info" option from the pop-up menu. Click "Options". Change "media kind" from "Music" to "Audiobook". Then click "OK". You will find the Chapter One file disappears in the current interface and appears in "Books > Audiobooks" section.
 
 ![Add Chapters into Audiobooks](http://www.epubor.com/images/uppic/Add-Chapters-into-Audiobooks.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 For more chapters, you can repeat above steps from [Step 4](https://tools.techidaily.com/epubor/products/). For Chapter Two, you can enter the start time one second later than the previous stop time. Let me illustrate. Chapter One, enter the start time "0:00" and the stop time "3:00". Then Chapter Two, enter the start time "3:01" and the stop time you want to split.
 
@@ -167,10 +166,7 @@ Play the added audiobook and determine which timing to split. Below the "Audio P
 ![Edit Start and End Timing with Audacity](http://www.epubor.com/images/uppic/edit-timing-Audacity.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Step 4\. Export Selected Audio
@@ -178,13 +174,6 @@ Play the added audiobook and determine which timing to split. Below the "Audio P
 Click "File > Export Selected Audio" on the navigation bar. From the pop-up window, select the format of selected audio and storage location. Also, you can rename the selected audio file.
 
 For next chapter, enter the timing you want to begin below "Selection Start". Choose another stop timing. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -377,19 +366,24 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-prime-videobg-selections-enhancing-remote-collaboration/"><u>[New] In 2024, Prime Videobg Selections Enhancing Remote Collaboration</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-first-steps-in-youtube-profitability-starting-a-channel-and-revenue-streams/"><u>[Updated] 2024 Approved First Steps in YouTube Profitability Starting a Channel & Revenue Streams</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-syncing-songs-safely-with-insta-rules/"><u>2024 Approved Syncing Songs Safely with Insta Rules</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-transforming-passion-into-a-fulfilling-design-career/"><u>2024 Approved Transforming Passion Into a Fulfilling Design Career</u></a></li>
-<li><a href="https://extra-information.techidaily.com/achieving-proficiency-comprehensive-photoshop-hdr-tutorial/"><u>Achieving Proficiency Comprehensive Photoshop HDR Tutorial</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/-views-strategic-partnerships-on-youtube-for-rapid-growth/"><u>Boost Views Strategic Partnerships on YouTube for Rapid Growth</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-poco-m6-pro-4g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Poco M6 Pro 4G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-swiftly-enhance-videos-on-android-devices/"><u>In 2024, Swiftly Enhance Videos on Android Devices</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-smartphone-photography-with-iphones-hdr/"><u>In 2024, Transform Your Smartphone Photography with iPhone’s HDR</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-secrets-of-automatic-transcription-in-google-docs/"><u>In 2024, Unveiling the Secrets of Automatic Transcription in Google Docs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-utilizing-iphones-full-screen-memories/"><u>In 2024, Utilizing iPhone's Full-Screen Memories</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-secrets-to-improve-your-gopro-videos-for-2024/"><u>Top Secrets to Improve Your GoPro Videos for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unparalleled-hands-on-gear-in-the-vr-world-for-2024/"><u>Unparalleled Hands-On Gear in the VR World for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-from-motion-to-still-a-simple-guide-to-freezing-frames-for-2024/"><u>Updated From Motion to Still A Simple Guide to Freezing Frames for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-discover-the-secret-to-friends-livestream-participation/"><u>[New] 2024 Approved Discover the Secret to Friend's Livestream Participation</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-hands-on-strategies-to-keep-vimeo-videos/"><u>[New] In 2024, Hands-On Strategies to Keep Vimeo Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-most-esteemed-ios-tone-artisans/"><u>[Updated] Most Esteemed iOS Tone Artisans</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-swiftly-fix-red-eyes-in-iphone-photography-at-no-cost/"><u>[Updated] Swiftly Fix Red Eyes in iPhone Photography at No Cost</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-hackers-handbook-advanced-win11-tactics/"><u>2024 Approved The Hacker's Handbook Advanced Win11 Tactics</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-selection-for-top-tier-hdr-cameras/"><u>2024 Approved Ultimate Selection for Top-Tier HDR Cameras</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-full-multitasking-in-apple-browsers/"><u>2024 Approved Unlocking Full Multitasking in Apple Browsers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unseen-watchers-manual-how-to-stay-anonymous-on-instagram-live/"><u>2024 Approved Unseen Watcher’s Manual How to Stay Anonymous on Instagram Live</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-guidetosettingupdarkinterfaceonwinnotepad/"><u>A GuideToSettingUpDarkInterfaceOnWinNotepad</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ncing-audiences-to-join-a-positive-approach-for-2024/"><u>Convincing Audiences to Join A Positive Approach for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guide-erasing-your-previous-interactions-on-chatgpt-platform/"><u>Guide: Erasing Your Previous Interactions on ChatGPT Platform</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Vivo Y78+ (T1) Edition? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-writer-cookbook-tips-for-authentic-screenplay-writing/"><u>In 2024, The Writer’ Cookbook Tips for Authentic Screenplay Writing</u></a></li>
+<li><a href="https://article-tips.techidaily.com/peak-craft-studio-25-overview/"><u>Peak Craft Studio 25 Overview</u></a></li>
+<li><a href="https://some-skills.techidaily.com/syma-x8c-performance-breakdown-for-2024/"><u>Syma X8C Performance Breakdown for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/teac-pd-301-review-a-stylish-cd-player-with-quality-sound/"><u>Teac PD-301 Review: A Stylish CD Player with Quality Sound</u></a></li>
+<li><a href="https://win11.techidaily.com/the-quick-fix-hotkey-tricks-for-effective-program-management/"><u>The Quick Fix: Hotkey Tricks for Effective Program Management</u></a></li>
+<li><a href="https://some-skills.techidaily.com/time-saving-guide-seconds-to-clear-background-bg-for-2024/"><u>Time-Saving Guide Seconds to Clear Background Bg for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-creative-potential-using-luts-for-color-grading-in-ae-for-2024/"><u>Unlocking Creative Potential Using LUTs for Color Grading in AE for 2024</u></a></li>
 </ul></div>
 

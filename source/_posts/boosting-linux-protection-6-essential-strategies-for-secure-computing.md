@@ -1,7 +1,7 @@
 ---
 title: "Boosting Linux Protection: 6 Essential Strategies for Secure Computing"
-date: 2024-11-27T17:56:14.620Z
-updated: 2024-11-28T17:03:13.539Z
+date: 2024-11-30T16:51:55.866Z
+updated: 2024-12-08T00:23:52.081Z
 tags:
   - desktop
 categories:
@@ -22,7 +22,7 @@ Cybersecurity can be confusing. Here are six easy things you can do, and habits 
  Some of these are settings you can apply, but some of them are habits you need to adopt, or actions that need to be repeated periodically. As you’ve likely heard, cybersecurity isn’t a destination, it’s an ongoing journey.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1  Keep Your System Updated 
@@ -40,12 +40,16 @@ Cybersecurity can be confusing. Here are six easy things you can do, and habits 
  Some of these devices will get automatic updates. For example, Amazon Echo and Google Nest smart speakers receive automatic updates for four and five years from purchase, respectively.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2  Secure User Accounts 
 
 ![The login screen on a laptop running Ubuntu Linux.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/52848723811_08b4c56473_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek  
   
@@ -58,7 +62,7 @@ Hannah Stryker / How-To Geek
  You can add two-factor authentication to your own computers too. this is especially valuable if you connect to them remotely, using SSH.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3  Control User Access 
@@ -67,19 +71,11 @@ Hannah Stryker / How-To Geek
 
  Most Linux systems disable the root account by default. To access root-level functionality you need to use sudo or run0\. This gives you short-term superuser status then demotes you to a normal user when you’ve completed that specific task.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4  Improve Your Network Security 
 
 [Turn on the firewall](https://extra-support.techidaily.com/new-mastering-video-playback-rate-adjustments-in-snapchat/) in your Linux distribution, and turn on the one in your broadband router too. Use WPA2 or WPA3 encryption for your wireless network, and change the Wi-Fi password from the default, if you can.
 
  Many modern Wi-Fi routers allow you to configure a [guest Wi-Fi network](https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-itel-p55-by-drfone-android/). This allows them to get to the internet, but isolates them from your main network.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5  Check Your Software Management 
 
@@ -90,6 +86,10 @@ Hannah Stryker / How-To Geek
  Pay particular attention to [Flatpaks](https://extra-support.techidaily.com/in-2024-marvelous-monitors-top-10-macbooks-with-4k-resolution/) and [Snaps](https://some-guidance.techidaily.com/in-2024-top-10-innovative-mobile-layering-apps-for-android-and-iphone/). These are often unofficial versions of packaged, wrapped by volunteers. Do some research and ask in forums and other online communities if these can be trusted.
 
  If you download an application and find it doesn’t suit your needs, uninstall it. Don’t just leave it on your machine. If a project is abandoned, and no longer in development, find a replacement. Using an old version of software that no longer receives security patches increases your exposure to risks.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6  Make Backups and Stay Educated 
 
@@ -118,20 +118,22 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-simplify-tv-broadcasts-introducing-youtube-content-loops/"><u>[New] In 2024, Simplify TV Broadcasts Introducing YouTube Content Loops</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-total-motion-analysis-2023/"><u>[New] Total Motion Analysis 2023</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-evaluating-the-top-video-streaming-apps-for-phones/"><u>[Updated] 2024 Approved Evaluating the Top Video Streaming Apps for Phones</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-cinematic-trailer-collection/"><u>[Updated] Ultimate Cinematic Trailer Collection</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-sprinkle-some-glitter-on-your-photos-ios-and-androids-prime-10-apps/"><u>2024 Approved Sprinkle Some Glitter on Your Photos IOS & Android's Prime 10 Apps</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/1728507121262-aomei-backupper/"><u>AOMEI Backupper: 対話型セキュアな代替無料バックアップツールの頂点</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/decoding-tiny-titans-an-in-depth-galaxy-and-ford-f-150-remote-control-vehicle-analysis/"><u>Decoding Tiny Titans: An In-Depth Galaxy & Ford F-150 Remote Control Vehicle Analysis.</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-system-requirements-guide-for-the-latest-mac-os-release/"><u>In 2024, System Requirements Guide for the Latest Mac OS Release</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/snapchats-my-ai-or-chatgpt-which-one-should-you-use/"><u>Snapchat’s My AI or ChatGPT: Which One Should You Use?</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/charge-your-youtube-videos-best-mac-mp4-tools-for-2024/"><u>Supercharge Your YouTube Videos Best Mac MP4 Tools for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-10-high-quality-photography-lenses-for-2024/"><u>Top 10 High-Quality Photography Lenses for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-successful-startup-of-nier-replicant-remastered-game/"><u>Troubleshooting Tips for Successful Startup of NieR Replicant Remastered Game</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unravel-your-pcs-potential-with-windows-10s-latest-games-for-2024/"><u>Unravel Your PC's Potential with Windows 10'S Latest Games for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-the-best-ways-to-watch-360-videos-on-android-for-2024/"><u>Unveiling the Best Ways to Watch 360 Videos on Android for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/update-your-dell-thunderbolt-tb17-adapter-free-driver-download-and-installation-guide/"><u>Update Your Dell Thunderbolt TB17 Adapter - Free Driver Download & Installation Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-from-devices-to-desktops-proven-file-transfer-ways/"><u>[New] 2024 Approved From Devices to Desktops Proven File Transfer Ways</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-rated-software-picks-audio-adjustment-for-virtual-personalities/"><u>[New] Top-Rated Software Picks Audio Adjustment for Virtual Personalities</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-budget-friendly-high-definition-action-cams/"><u>[New] Ultimate Budget-Friendly High Definition Action Cams</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-beyond-the-screen-insightful-metaverse-models-summarized/"><u>[Updated] In 2024, Beyond The Screen Insightful Metaverse Models Summarized</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-8-step-formula-for-captivating-your-instagram-audience-with-reels/"><u>[Updated] The 8-Step Formula for Captivating Your Instagram Audience with Reels</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-best-of-ice-artistry-2022-edition/"><u>[Updated] The Best of Ice Artistry 2022 Edition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-checklist-for-compelling-audio-intros/"><u>[Updated] The Ultimate Checklist for Compelling Audio Intros</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-transform-your-channels-image-a-pathway-to-more-subscribers-and-followers/"><u>2024 Approved Transform Your Channels' Image A Pathway to More Subscribers and Followers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unlock-youtube-success-subscriber-boosts-at-a-bargain/"><u>2024 Approved Unlock YouTube Success - Subscriber Boosts at a Bargain</u></a></li>
+<li><a href="https://common-error.techidaily.com/cant-reach-windows-defender-smartscreen-here-are-some-possible-solutions/"><u>Can't Reach Windows Defender SmartScreen? Here Are Some Possible Solutions</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/climate-change-mitigation-through-urban-design-innovations-for-2024/"><u>Climate Change Mitigation Through Urban Design Innovations for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-your-hands-on-the-ultimate-16-port-thunderbolt-dock-now-just-70-cheaper-on-amazon-insider-info-from-zdnet/"><u>Get Your Hands On The Ultimate 16-Port Thunderbolt Dock, Now Just $70 Cheaper on Amazon - Insider Info From ZDNET</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-edge-testing-gopros-hero5-black-against-sessions/"><u>In 2024, The Ultimate Edge Testing GoPro's Hero5 Black Against Sessions</u></a></li>
+<li><a href="https://win-forum.techidaily.com/optimize-system-performance-with-revo-uninstaller-professionals-new-release/"><u>Optimize System Performance with Revo Uninstaller Professional's New Release</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210538355-9782017166023-reveillez-le-creatif-qui-dort-en-vous/"><u>Réveillez le créatif qui dort en vous | Free Book</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-solo-audio-stardom-stepwise-creation-for-2024/"><u>The Art of Solo Audio Stardom Stepwise Creation for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-zoom-expertise-for-improved-google-meet-visibility-for-2024/"><u>The Ultimate Zoom Expertise for Improved Google Meet Visibility for 2024</u></a></li>
 </ul></div>
 

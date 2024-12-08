@@ -1,7 +1,7 @@
 ---
 title: "Transitioning to Augmented Reality: My Journey Swapping a Standard Monitor for AR Glasses"
-date: 2024-11-09T20:30:46.304Z
-updated: 2024-11-11T01:18:07.845Z
+date: 2024-12-02T19:12:31.989Z
+updated: 2024-12-08T00:46:35.965Z
 tags:
   - cutting-edge
 categories:
@@ -19,13 +19,6 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
 
  I have what could politely be called an unconventional work setup. Instead of a PC, I use Samsung DeX. I do much of my work from the inside screen on my Samsung Galaxy Z Fold 5, and I connect to a larger screen when I need more space. When I saw the XReal Air 2 Pro glasses work seamlessly with DeX, I figured I was the ideal candidate to give it a try. So I bought a pair, and here's what I've experienced.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  My Eyes Adjusted Quicker Than I Expected
 
  The XReal Air 2 Pro glasses, like other AR glasses and VR headsets, work by placing two tiny screens right before your eyes. The pro model is largely the same as the [XREAL Air 2](https://facebook-video-recording.techidaily.com/new-in-2024-understanding-the-technicalities-of-fb-360-streaming/), except with the ability to adjust the transparency of the lenses. I was apprehensive about how much strain either model would put on my eyes during a full day's work. I did feel some strain on the first day, but my eyes were already acclimated by day two. In general, I don't feel any more strain than I do from staring at a regular computer monitor for hours at a time.
@@ -33,13 +26,6 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
  Like a monitor, the glasses let you adjust brightness and color temperature. Unlike a monitor, the most important bit is securing the position on your face. You need the glasses close enough to your eyes, resting on the right part of your nose, at the right height, in order for text to be clear and not to blur at the edges. It took some adjusting, but it felt second nature by the second day.
 
 ![XREAL Air 2 Pro AR glasses resting on the bridge of a nose.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/1000060992.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Bertel King / How-To Geek
 
@@ -58,13 +44,14 @@ Bertel King / How-To Geek
 ![A desk without a monitor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/1000061003.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Bertel King / How-To Geek
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  I Love the Portability
 
@@ -76,22 +63,23 @@ Bertel King / How-To Geek
 
 ![A Samsung Galaxy Z Fold 5, XREAL Air 2 Pro AR Glasses, and glasses case.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/1000061021.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Bertel King / How-To Geek
 
  To play games, I also grab a controller. For work, I also pack a keyboard and mouse. None of these things are particularly big. The keyboard is the only one I don't bring with me when packing up a laptop.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Awkward Social Interactions
 
  There's something intuitively weird about looking at someone wearing glasses who's just sitting there, staring at the wall or gazing up at the ceiling. It's obvious when someone is watching a movie on a computer monitor. No one has any idea what's going on in my glasses, unless they hear the sound coming through the speakers or get close enough to my face to see light from the tiny displays.
 
  Wearing AR glasses is a bit like making a switch from Bluetooth speakers to Bluetooth earbuds. The former tunes people in to what you're listening to, while the latter is completely private. The thing is, while we've had decades to get used to this with audio, it's pretty new for video. When I'm alone, AR glasses are awesome, but I feel weird when I'm wearing them around others.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Great for Working Around Kids
 
@@ -108,6 +96,10 @@ Bertel King / How-To Geek
  The biggest downside is that AR glasses are a solitary experience. I wish my wife and I could watch a movie on the ceiling together. After all, I rarely watch movies alone.
 
  Playing video games is arguably even better. Games that don't play nice with my foldable's aspect ratio look just fine on the standard 16:9 ratio of the glasses. With just a game controller, I can feel like I'm sitting in front of a console wherever I am.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  All Isn't Perfect
 
@@ -134,22 +126,15 @@ Bertel King / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-compre-written-explanation-easy-hdr-understanding/"><u>[New] In 2024, Compre Written Explanation Easy HDR Understanding</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-vector-art-basics-for-newcomers-diverse-forms-and-tools/"><u>[New] In 2024, Vector Art Basics for Newcomers, Diverse Forms and Tools</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/nfuse-personality-into-your-content-with-custom-thumbnails-for-2024/"><u>[New] Infuse Personality Into Your Content with Custom Thumbnails for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-fundamentals-of-using-ffpm-in-firefox/"><u>[New] The Fundamentals of Using FFPM in Firefox</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-intricacies-of-enhanced-digital-worlds/"><u>[Updated] The Intricacies of Enhanced Digital Worlds</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-troubleshooting-iphone-x-regaining-access-via-facial-id/"><u>[Updated] Troubleshooting iPhone X Regaining Access via Facial ID</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/avoid-using-third-party-software-like-itunes-alternatives-as-they-may-not-be-optimized-for-ios-device-management-and-could-contribute-to-device-not-found-er23/"><u>Avoid Using Third-Party Software Like iTunes Alternatives, as They May Not Be Optimized for iOS Device Management and Could Contribute to 'Device Not Found' Errors when Connecting Your iPhone/iPad via USB</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/expert-tips-on-documenting-lol-tournaments/"><u>Expert Tips on Documenting LOL Tournaments</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-4-things-you-must-know-about-apple-iphone-8-plus-activation-lock-by-drfone-ios/"><u>In 2024, 4 Things You Must Know About Apple iPhone 8 Plus Activation Lock</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-cinematic-narratives-mastering-screenplays/"><u>In 2024, Cinematic Narratives Mastering Screenplays</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-interconnecting-your-music-collection-across-services/"><u>In 2024, Interconnecting Your Music Collection Across Services</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-master-meeting-magic-key-ways-to-tweak-with-zoom-converter/"><u>In 2024, Master Meeting Magic Key Ways to Tweak with Zoom Converter</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-tailored-strategies-for-free-clock-usage-optimization/"><u>In 2024, Tailored Strategies for FREE Clock Usage Optimization</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/tactics-to-quiet-down-distractions-during-google-meets-for-2024/"><u>Tactics to Quiet Down Distractions During Google Meets for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-final-countdown-is-ps5-worth-its-price-with-these-4-key-points/"><u>The Final Countdown: Is PS5 Worth Its Price with These 4 Key Points?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-editors-secret-best-free-premiere-pro-resources-for-2024/"><u>Top Editors' Secret Best FREE Premiere Pro Resources for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/understanding-the-price-tag-on-youtube-promo-for-2024/"><u>Understanding the Price Tag on Youtube Promo for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-mastering-flight-a-look-at-dji-phantom-3-professional/"><u>[New] Mastering Flight A Look at DJI Phantom 3 Professional</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-discovering-social-medias-top-5-innovations-in-fb/"><u>[Updated] In 2024, Discovering Social Media’s Top 5 Innovations in FB</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-quickcapture-ultimate-scan/"><u>[Updated] In 2024, QuickCapture Ultimate Scan</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-proven-steps-to-enhance-your-facetime-call-experience/"><u>2024 Approved Proven Steps to Enhance Your FaceTime Call Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-superior-solutions-top-bdr-softwares-for-windows-macos/"><u>2024 Approved Superior Solutions Top BDR Softwares for Windows, macOS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-voice-memo-reference-manual/"><u>2024 Approved The Ultimate Voice Memo Reference Manual</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-setup-guide-magic-mouse-software-for-windows-pcs/"><u>Download and Setup Guide: Magic Mouse Software for Windows PCs</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fix-dpc-watchguard-violation-mistake-fast-a-step-by-step-guide/"><u>Fix DPC Watchguard Violation Mistake Fast: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-lava-yuva-2-pro-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Lava Yuva 2 Pro Phone Screen?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-scrolling-through-engaging-youtube-remarks-for-2024/"><u>The Ultimate Guide to Scrolling Through Engaging YouTube Remarks for 2024</u></a></li>
 </ul></div>
 

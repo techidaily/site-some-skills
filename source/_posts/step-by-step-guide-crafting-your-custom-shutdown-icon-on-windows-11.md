@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Crafting Your Custom Shutdown Icon on Windows 11"
-date: 2024-11-24T18:47:39.729Z
-updated: 2024-11-28T19:34:07.512Z
+date: 2024-12-04T00:09:56.065Z
+updated: 2024-12-07T23:19:09.762Z
 tags:
   - deals
 categories:
@@ -15,10 +15,6 @@ thumbnail: https://thmb.techidaily.com/df49fa8741560cd4a2c304321a86cf5312094c292
 
 * [Create a Shutdown Icon](https://facebook-video-share.techidaily.com/the-orderly-quest-for-veiled-youtube-vaults-for-2024/)
 * [Other Useful Shortcuts](https://some-tips.techidaily.com/2024-approved-unveiling-prime-cloud-storage-options/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -35,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/df49fa8741560cd4a2c304321a86cf5312094c292
 ![RIght-click your desktop, then go to New > Shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-17.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The "Create Shortcut" menu appears. In the text box under "Type the location of the item," type the following command and then click "Next":
@@ -45,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/df49fa8741560cd4a2c304321a86cf5312094c292
 ![Enter shutdown command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/Enter-shutdown-command-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the next window, type a name for your new shortcut if you want. "Shutdown" is the default, so we'll leave it that for this example.
@@ -58,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/df49fa8741560cd4a2c304321a86cf5312094c292
 
 ![A restart shortcut on the desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/4-restart-icon.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, whenever you double-click the icon, your PC will shut down instantly.
 
  If you'd like your icon to have a shortcut, just right-click the icon and select "Properties."
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/df49fa8741560cd4a2c304321a86cf5312094c292
 ![Right-click the restart button and click "Properties."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-open-properties.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Click the "Change Icon" button, then select an icon from the default options available in Windows. Alternatively, you can [make your own icon](https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-motorola-razr-40-drfone-by-drfone-virtual-android/). 
@@ -73,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/df49fa8741560cd4a2c304321a86cf5312094c292
 ![Click "Change Icon."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-change-icon.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Other Useful Shortcuts
@@ -106,24 +106,19 @@ thumbnail: https://thmb.techidaily.com/df49fa8741560cd4a2c304321a86cf5312094c292
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-top-tips-for-maximizing-iphone-xs-cinematic-shots/"><u>[New] Top Tips for Maximizing iPhone X's Cinematic Shots</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-undoing-streams-a-complete-list-of-25-procedures-for-twitch/"><u>[New] Undoing Streams A Complete List of 25 Procedures for Twitch</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-the-platform-prowess-twitch-vs-youtube-comparison/"><u>[Updated] The Platform Prowess Twitch vs YouTube Comparison</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-20-mobiles-perfecting-dji-visual-content/"><u>[Updated] Top 20 Mobiles Perfecting DJi Visual Content</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-flashback-2022s-snowboard-x-winners/"><u>[Updated] Ultimate Flashback 2022'S Snowboard X Winners</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unleash-creativity-iphone-camera-mastery-through-10-rules/"><u>[Updated] Unleash Creativity IPhone Camera Mastery Through 10 Rules</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-superior-microphones-for-livestreaming/"><u>2024 Approved Superior Microphones for Livestreaming</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-your-photos-into-timeless-slow-mo-artistry/"><u>2024 Approved Transforming Your Photos Into Timeless Slow-Mo Artistry</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unraveling-visual-clarity-for-the-new-digital-age/"><u>2024 Approved Unraveling Visual Clarity for the New Digital Age</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/accelerated-productivity-with-the-top-8-ai-apps-on-your-phone/"><u>Accelerated Productivity with the Top 8 AI Apps on Your Phone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-the-physical-keyboard-unveiling-the-top-notch-features-of-an-innovative-iphone-case/"><u>Beyond the Physical Keyboard: Unveiling the Top-Notch Features of an Innovative iPhone Case</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-se-2020-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone SE (2020)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-complete-vivacut-overview-editors-deep-dive/"><u>In 2024, The Complete VivaCut Overview Editor's Deep Dive</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-risks-is-using-chatgpt-a-fireable-offense-exploring-10-scenarios/"><u>Navigating Risks: Is Using ChatGPT a Fireable Offense? Exploring 10 Scenarios</u></a></li>
-<li><a href="https://fox-that.techidaily.com/no-response-from-your-iphones-volume-buttons-avoid-frustration-with-these-7-fixes/"><u>No Response From Your iPhone's Volume Buttons? Avoid Frustration with These 7 Fixes</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solving-realtek-lan-driver-failure-with-windows-11/"><u>Solving Realtek LAN Driver Failure with Windows 11</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-filmmakers-key-to-cohesion-mastering-kinemaster-edits-for-2024/"><u>The Filmmaker's Key to Cohesion Mastering Kinemaster Edits for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-to-streaming-disneyplus-on-your-tv-using-chromecast/"><u>Ultimate Guide to Streaming Disney+ on Your TV Using Chromecast</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/winners-circle-worlds-most-subscribed-youtubers-for-2024/"><u>Web's Winners Circle World's Most Subscribed YouTubers for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-essential-iphone-skills-photo-resizing-guide/"><u>[New] 2024 Approved Essential iPhone Skills Photo Resizing Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-dive-into-youtubes-best-practices-for-playlist-design/"><u>[Updated] In 2024, Dive Into Youtube's Best Practices for Playlist Design</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-pictureperfect-fusion-comprehensive-windowsmac-tool-for-2024/"><u>[Updated] PicturePerfect Fusion Comprehensive Windows/Mac Tool for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-hits-on-reddit-a-compilation-of-the-best-ten/"><u>[Updated] Top Hits on Reddit - A Compilation of the Best Ten</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-creative-potential-adding-sound-to-your-instagram-stories/"><u>2024 Approved Unlock Creative Potential Adding Sound to Your Instagram Stories</u></a></li>
+<li><a href="https://facebook.techidaily.com/building-blocks-of-connection-facebooks-neighborhood-revamp/"><u>Building Blocks of Connection: Facebook's Neighborhood Revamp</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-customizing-youtube-viewing-policies-for-your-content/"><u>In 2024, Customizing YouTube Viewing Policies for Your Content</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Nokia C12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-pushing-photographic-limits/"><u>In 2024, The Art of Pushing Photographic Limits</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-virtualbox-usb-connection-issue-on-windows-devices/"><u>Overcoming VirtualBox USB Connection Issue on Windows Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/pinnacle-hdmi-enhanced-gamers-mice-range/"><u>Pinnacle HDMI Enhanced Gamer's Mice Range</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-samsung-galaxy-m14-5g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Samsung Galaxy M14 5G Phone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-tips-tuning-your-snapchat-videos-for-maximum-impact-for-2024/"><u>Top Tips Tuning Your Snapchat Videos for Maximum Impact for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/uniting-social-spheres-from-instagram-to-tiktok-triumphs-for-2024/"><u>Uniting Social Spheres From Instagram to TikTok Triumphs for 2024</u></a></li>
 </ul></div>
 

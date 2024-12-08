@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Linux File Timestamps – Decoding Atime, Mtime, and Ctime Explained
-date: 2024-11-23T20:13:34.772Z
-updated: 2024-11-28T19:22:29.669Z
+date: 2024-12-03T00:59:08.858Z
+updated: 2024-12-07T17:29:29.583Z
 tags:
   - desktop
 categories:
@@ -22,6 +22,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  When does "changed" not mean "modified"? When we're talking about Linux file timestamps. In this guide, we'll explain how the system updates them, and how to alter them yourself.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Difference Between atime, mtime, and ctime
 
  Every Linux file has three [timestamps:](https://en.wikipedia.org/wiki/MAC%5Ftimes) the access timestamp (atime), the modified timestamp (mtime), and the changed timestamp (ctime).
@@ -41,10 +45,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  When Linux needs to display a timestamp, it translates the number of seconds into a date and time. This makes it easier for humans to understand. The location and time zone the computer viewing the file is in guides the conversion of the number of seconds to a date and time. It also ensures the month is in the correct language.
 
  So, how many seconds can be stored in a timestamp? A lot—2,147,483,647, to be precise. That's a big number, but is it enough? If you add that to the Unix epoch, and then translate it to a date and time, you get Tuesday, January 19, 2038, at 03:14:07 a.m. We'll need a different scheme for timestamps before then, though.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Viewing Timestamps
 
@@ -102,6 +102,10 @@ stat dp.c
 
 ![touch -m dp.c in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/4-6.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This time, the modified and changed timestamps were updated.
 
  You can use the -d (date) option if you want to change both the access and modified timestamps simultaneously. You can also specify a time and date—you're not restricted to changing the timestamps to the present.
@@ -114,6 +118,10 @@ stat dp.c
 
 ![touch -d "2020-01-15 10:30:45" dp.c in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/5-6.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  We've now set the access and modified timestamps to a date in the past. The changed timestamp was also updated to the current time of the computer.
 
  You can also use the -r (reference) option, as shown below, if you want to set the timestamps of one file to the timestamp values of another:
@@ -123,6 +131,10 @@ touch dp.c -r dice_words.sl3
 stat dp.c
 
 ![touch dp.c -r dice_words.sl3 in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/6-5.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  And then, we're pretty much back where we started, with a mixture of -0400 and -0500 timestamps.
 
@@ -134,11 +146,11 @@ stat dp
 
 ![The &quot;chmod +x dp&quot; and &quot;stat dp&quot; commands in a terminal window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/10-6.png) 
 
- The changed timestamp was the only one that updated. This is because the file itself wasn't changed—it was neither accessed nor modified. However, the metadata about the file was changed.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ The changed timestamp was the only one that updated. This is because the file itself wasn't changed—it was neither accessed nor modified. However, the metadata about the file was changed.
 
 ##  How the File System Updates Timestamps
 
@@ -157,27 +169,19 @@ less /etc/fstab
 
 ![less /etc/fstab in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/7-6.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The /etc/fstab file is displayed for us, as shown below.
 
 ![The /etc/fstab file in less in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/8-5.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Here's the content of the file without the wrap-around:
 
         `# /etc/fstab: static file system information.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Use 'blkid' to print the universally unique identifier for a  
 
@@ -187,11 +191,11 @@ less /etc/fstab
 
 ## 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## <file system> <mount point> <type> <options> <dump> <pass>  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## / was on /dev/sda1 during installation  
 UUID=4a143d08-8695-475b-8243-b13b56050fc2 / ext4 errors=remount-ro 0 1  
@@ -210,7 +214,7 @@ cat /proc/mounts | grep "sda"
 ![cat /proc/mounts | grep "sda" in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/9-6.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now we see the following options:
@@ -225,10 +229,6 @@ cat /proc/mounts | grep "sda"
 * When no access timestamp options are used in /etc/fstab, and you're using Linux kernel 2.6.30 or newer.
 
  Our /etc/fstab entry for the ext4 file system didn't specify any access timestamp update options, so Linux made the sensible choice and used relatime.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Timestamps Are Important
 
@@ -259,20 +259,22 @@ cat /proc/mounts | grep "sda"
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-expertise-in-clip-blending-a-blend-mode-guide/"><u>[New] 2024 Approved Expertise in Clip Blending A Blend Mode Guide</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-the-mobile-filmmakers-playbook-crafting-compelling-youtubes-thumbnails/"><u>[New] 2024 Approved The Mobile Filmmaker’s Playbook Crafting Compelling YouTubes Thumbnails</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/harting-earnings-from-youtube-adsense-what-you-can-expect-per-1000-views-for-2024/"><u>[New] Charting Earnings From YouTube AdSense What You Can Expect per 1,000 Views for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-inside-the-arsenal-the-complete-review-of-sj-cam-s6/"><u>[New] Inside the Arsenal The Complete Review of SJ-CAM S6</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-pro-film-masterclass-the-quickest-5-diy-cinematic-tricks-for-2024/"><u>[New] Pro-Film Masterclass The Quickest 5 DIY Cinematic Tricks for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-the-best-screen-record-apps-for-classroom-use/"><u>[Updated] The Best Screen Record Apps for Classroom Use</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-spectrum-enhanced-by-blades-newest-quad-hd-cameras/"><u>[Updated] The Spectrum Enhanced by Blade's Newest Quad-HD Cameras</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-hidden-details-roblox-closeup-secrets/"><u>[Updated] Unlocking Hidden Details Roblox Closeup Secrets</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-prime-monitor-companion-for-gaming-on-xbox-series-x/"><u>2024 Approved The Prime Monitor Companion for Gaming on Xbox Series X</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-tips-for-adding-personalized-audio-effects-to-windows-10-photos/"><u>2024 Approved Tips for Adding Personalized Audio Effects to Windows 10 Photos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-black-battery-compatibility-with-gopro-hero5/"><u>2024 Approved Ultimate Black Battery Compatibility with GoPro Hero5</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/double-delight-endless-looping-of-youtube-videos-for-tvs-for-2024/"><u>Double Delight Endless Looping of YouTube Videos for TVs for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-honor-magic-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Honor Magic 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-pro-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 Pro to other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unleash-windows-11-potential-latest-apps-and-games-for-2024/"><u>Unleash Windows 11 Potential Latest Apps & Games for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-from-seedling-to-sunset-the-best-farming-titles-for-togetherness/"><u>[New] 2024 Approved From Seedling to Sunset The Best Farming Titles for Togetherness</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-giggles-galore-celebrating-the-funniest-web-content-creators/"><u>[New] In 2024, Giggles Galore Celebrating the Funniest Web Content Creators</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-picpinch-recorder-assessment-and-comments-for-2024/"><u>[New] PicPinch Recorder Assessment & Comments for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-craft-a-vibrant-youtube-experience-with-tracks/"><u>[Updated] 2024 Approved Craft a Vibrant Youtube Experience with Tracks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-thriving-amidst-the-world-of-podcasts/"><u>[Updated] The Ultimate Guide to Thriving Amidst the World of Podcasts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-vr-player-guide-unveiling-the-best-pc-streamers/"><u>[Updated] The Ultimate VR Player Guide Unveiling the Best PC Streamers</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-premium-content-at-a-low-price-the-ultimate-list-of-free-intros-makers/"><u>2024 Approved Premium Content at a Low Price The Ultimate List of Free Intros Makers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-30-metaverse-gems-diy-meme-ideas-unleashed/"><u>2024 Approved Top 30 Metaverse Gems DIY Meme Ideas Unleashed</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-turn-your-tactical-talks-into-a-thriving-youtube-trade/"><u>2024 Approved Turn Your Tactical Talks Into a Thriving YouTube Trade</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-free-screen-cast-tools-for-windows-ranked-1-5/"><u>2024 Approved Ultimate Free Screen Cast Tools for Windows, Ranked #1-5</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-luxury-top-10-accessories-for-the-sj4000/"><u>2024 Approved Unleash Luxury Top 10 Accessories for the SJ4000</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-barriers-how-firms-find-it-challenging-to-leverage-generative-ai-according-to-deloittes-latest-insights/"><u>Exploring the Barriers: How Firms Find It Challenging to Leverage Generative AI According to Deloitte's Latest Insights</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Google Pixel Fold? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-editors-toolkit-elevating-your-video-with-inshot-transitions/"><u>In 2024, The Editor's Toolkit Elevating Your Video with Inshot Transitions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-venture-beyond-reality-with-our-top-1-cookies-in-mobile-vr-technology/"><u>In 2024, Venture Beyond Reality with Our Top 1 Cookies in Mobile VR Technology</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/unlocking-video-excellence-on-tiktok-through-effective-templates-use/"><u>Unlocking Video Excellence on TikTok Through Effective Templates Use</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-ultimate-action-cam-max-360-vs-hero-11-gopro-showdown-for-2024/"><u>Unveiling the Ultimate Action Cam Max 360 vs Hero 11 GoPro Showdown for 2024</u></a></li>
 </ul></div>
 

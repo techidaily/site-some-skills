@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Online Security: The Importance of Using Longer Passwords"
-date: 2024-11-26T19:59:35.663Z
-updated: 2024-11-28T19:17:20.629Z
+date: 2024-12-06T16:07:34.267Z
+updated: 2024-12-07T20:30:20.737Z
 tags:
   - web
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
 ---
 
 ## Enhancing Online Security: The Importance of Using Longer Passwords
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -21,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
 
  The short answer is password entropy. That term sounds way more complicated than it really is unless you’re familiar with cryptography, so let’s take a look at what password entropy is.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  What's Password Entropy?
 
  Password entropy is a measure of how unpredictable and random your password is. Password entropy is measured in bits, the basic unit for measuring information in computing. More bits is better, with most experts agreeing that entropy should be at least 64 bits, though that number is controversial. A higher entropy means your password is more random. When it comes to securing things, random is good.
@@ -33,12 +33,16 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
 
 ![A phone receiving a 2FA code.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/shutterstock_2373964067.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [ronstik](https://www.shutterstock.com/g/ronstik "ronstik") / Shutterstock.com
 
  The best way to attack a password is through a [dictionary attack](https://extra-skills.techidaily.com/2024-approved-smartest-ways-to-track-wedding-dates-ios-and-android-style/), which is a program that will try to “guess” a password by going through common words and phrases. It’s almost literally throwing the book at your password, going through the entire dictionary and also common variations. Once the password is guessed, the attacker has access.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Brute Force and Randomness
@@ -48,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
  As dictionary attacks thrive on predictability (words that already exist), it stands to reason that the only good way to stymie them is to add randomness to passwords. Many people kind of know this, which is why they add a few symbols to their existing passwords to create things like “p@ssword” or “password123.”
 
  However, this doesn’t work as it’s not random. Attackers can easily account for a change like this, and it will take them maybe a nanosecond longer to gain access to an account. For something to be closer to truly random, you have to take humans out of the equation entirely and use a computer to create a random password. The [best password managers](https://facebook-video-content.techidaily.com/updated-how-to-create-facebook-video-ads-with-free-video-creation-kit-for-2024/), programs that create and store passwords for you, have this functionality built in.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How Entropy Affects Password Length
 
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
  All of these are important, but length plays a special role, one we need some math to explain.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  How to Calculate Password Entropy
@@ -86,7 +86,7 @@ E = log2(RL)
  If we add the digits 0-9 we come to a range of 62, and then once we add the 33 symbol keys, our range is increased to 95\. Using just 8 characters, that gives us an entropy score of 52.56 bits, still well below the cutoff of 64 bits. The only other way to further increase your entropy is to make the password longer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Should Be Your Minimum Password Length?
@@ -110,22 +110,14 @@ E = log2(RL)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-unveiling-the-secrets-to-supervised-simultaneous-streams/"><u>[New] 2024 Approved Unveiling the Secrets to Supervised Simultaneous Streams</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-best-mobile-film-and-picture-capture-tools-for-iphones-and-androids/"><u>[New] In 2024, Best Mobile Film & Picture Capture Tools for iPhones & Androids</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-online-bazaars-how-to-buy-your-favorite-youtube-ringtone/"><u>[New] Top Online Bazaars How to Buy Your Favorite YouTube Ringtone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-resource-list-open-source-imagery-sanctuary/"><u>[New] Ultimate Resource List Open-Source Imagery Sanctuary</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-tech-sleuths-guide-to-choosing-the-best-screen-recorder/"><u>[Updated] 2024 Approved Tech Sleuths’ Guide to Choosing the Best Screen Recorder</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-zooming-in-a-videoleap-approach/"><u>2024 Approved The Art of Zooming In A Videoleap Approach</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-best-approach-to-enhancing-your-4k-vision-with-a-new-lens/"><u>2024 Approved The Best Approach to Enhancing Your 4K Vision with a New Lens</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-review-of-magix-video-pro-x/"><u>2024 Approved The Ultimate Review of Magix Video Pro X</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-and-free-updated-sound-blaster-audigy-fx-drivers-for-superior-audio-performance/"><u>Easy & Free: Updated Sound Blaster Audigy Fx Drivers for Superior Audio Performance</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-under-100-investments-in-action-cameras-top-selections/"><u>In 2024, Under $100 Investments in Action Cameras – Top Selections</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-value-in-the-air-the-cheapest-yet-effective-drones/"><u>In 2024, Value in the Air The Cheapest Yet Effective Drones</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovative-hiring-methods-discovering-6-chatgpt-approaches/"><u>Innovative Hiring Methods: Discovering 6 ChatGPT Approaches</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-the-ultimate-guide-to-converting-mp4-to-mp3-best-converters-and-methods/"><u>New In 2024, The Ultimate Guide to Converting MP4 to MP3 Best Converters and Methods</u></a></li>
-<li><a href="https://games-able.techidaily.com/size-matters-in-computing-mini-vs-desktop-decisions/"><u>Size Matters in Computing: Mini Vs. Desktop Decisions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transforming-spoken-words-into-written-text-using-in-built-tools-of-office-suite-ms-word-for-2024/"><u>Transforming Spoken Words Into Written Text Using In-Built Tools of Office Suite - MS Word for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unstick-your-adventure-a-guide-for-when-granblue-fantasy-relink-wont-start/"><u>Unstick Your Adventure: A Guide for When Granblue Fantasy Relink Won't Start</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/visual-storytelling-instaslides/"><u>Visual Storytelling InstaSlides</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-top-rated-mp4-video-save-and-review/"><u>[New] 2024 Approved Top-Rated MP4 Video Save & Review</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-secrets-to-buying-todays-best-360-cameras/"><u>[New] Unveiling the Secrets to Buying Today's Best 360 Cameras</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-how-to-choose-the-best-lipo-battery-for-your-drone-for-2024/"><u>[Updated] How to Choose the Best LiPo Battery for Your Drone for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/direct-connection-from-usb-20-to-local-area-network/"><u>Direct Connection From USB 2.0 to Local Area Network</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-quickly-solve-the-lagging-shutdown-of-your-windows-10-pc/"><u>How to Quickly Solve the Lagging Shutdown of Your Windows 10 PC</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tap-into-the-latest-gaming-and-app-splash-of-win11/"><u>In 2024, Tap Into the Latest Gaming and App Splash of Win11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-11-techniques-for-perfecting-color-in-post-production-for-2024/"><u>Top 11 Techniques for Perfecting Color in Post-Production for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/top-rated-steering-wheel-software-downloads-by-logitech-ideal-for-windows-os-7-10-11/"><u>Top-Rated Steering Wheel Software Downloads by Logitech: Ideal for Windows OS (7, 10, 11)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-visualizer-speedster-for-windows-10-for-2024/"><u>Ultimate Visualizer - Speedster for Windows 10 for 2024</u></a></li>
 </ul></div>
 

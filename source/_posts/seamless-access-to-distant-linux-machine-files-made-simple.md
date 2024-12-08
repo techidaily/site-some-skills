@@ -1,7 +1,7 @@
 ---
 title: Seamless Access to Distant Linux Machine Files Made Simple
-date: 2024-11-23T21:01:12.981Z
-updated: 2024-11-28T21:52:56.612Z
+date: 2024-12-04T21:10:24.891Z
+updated: 2024-12-07T21:11:02.054Z
 tags:
   - desktop
 categories:
@@ -11,10 +11,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Seamless Access to Distant Linux Machine Files Made Simple
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * SSHFS lets you browse remote Linux files on your local computer effortlessly.
@@ -22,6 +18,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * SSHFS is ideal for file-level work, especially on headless systems like a Raspberry Pi.
 
  SSHFS lets you browse files on remote Linux PCs as smoothly as if they were on your local computer. It’s a quick and simple way to interact with headless systems like Raspberry Pi.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What is SSHFS?
 
@@ -61,6 +61,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
     
 ![Installing SSHFS on Manjaro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/3-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can test that SSHFS is installed and responding, by asking for its version number.
 
         `sshfs --version`
@@ -68,7 +72,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Using the --version option to discover the version of SSHFS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/4-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Making a Remote Connection
@@ -83,15 +87,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
     
 ![Creating the mount point directory.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/5-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Let’s take a look at our new directory.
 
         `ls -hl /media/dave`
     
 ![Using ls to check the attributes of the mount point directory.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/6-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Our directory has been created, and it is owned by root. That won’t matter though, we’ll have [read and write permissions](https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-13-pro-without-itunes-by-drfone-ios/) on the mounted file system.
 
@@ -100,10 +104,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
         `sudo sshfs -o allow_other,default_permissions dave@net-scan.lan: /media/dave/netscan/`
     
 ![Mounting the remote file system on the local mount point.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/7-1.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The command consists of:
 
@@ -138,10 +138,6 @@ ls -hl new-file.txt`
     
 ![Creating a file in the remote file system and checking its attributes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/9-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Our file is created, and we’re the owner of it. There was no need to use sudo.
 
  We can navigate the mounted file system using cd, and we can copy files using the cp command. This effectively transfers files between the remote device and your local computer.
@@ -154,7 +150,11 @@ ls /home/dave/Downloads/`
 ![Copying files from the remote file system to the local file system.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/10-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Accessing Files in a File Browser
@@ -180,7 +180,7 @@ ls /home/dave/Downloads/`
 ![Unmounting the remote file system.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/13-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Far Away, Up Close
@@ -204,22 +204,18 @@ ls /home/dave/Downloads/`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-boosting-connectivity-with-creative-fb-slideshow-ideas-for-2024/"><u>[New] Boosting Connectivity with Creative FB Slideshow Ideas for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-superior-webcams-for-professional-podcasting/"><u>[New] Superior Webcams for Professional Podcasting</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-editors-playbook-for-social-media-stardom/"><u>[New] The Editor's Playbook for Social Media Stardom</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-ultimate-adventures-galore-the-best-games-unveiled/"><u>[New] Ultimate Adventures Galore – The Best Games Unveiled</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-gimp-ultimate-editing-course-review/"><u>[Updated] GIMP Ultimate Editing Course Review</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-filmmakers-guide-to-professional-gopro-cinematography/"><u>[Updated] The Filmmaker’s Guide to Professional Gopro Cinematography</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-prime-cut-film-highlights/"><u>2024 Approved Prime Cut Film Highlights</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-your-creative-potential-with-zooms-step-by-step-filter-guide/"><u>2024 Approved Unleash Your Creative Potential with Zoom's Step-by-Step Filter Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/descargue-la-herramienta-online-de-conversion-gratuita-para-cambiar-imagenes-pbm-a-formatos-bmp-con-eficiencia-movavi/"><u>Descargue La Herramienta Online De Conversión Gratuita Para Cambiar Imágenes PBM a Formatos BMP Con Eficiencia - Movavi</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effortless-troubleshooting-repair-your-razer-microphone-with-simple-solutions/"><u>Effortless Troubleshooting: Repair Your Razer Microphone with Simple Solutions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-explore-top-5-non-samsung-360-cameras-today/"><u>In 2024, Explore Top 5 Non-Samsung 360 Cameras Today</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-mp3-from-pinterest-video-files-with-these-steps/"><u>In 2024, Unlocking MP3 From Pinterest Video Files with These Steps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/maximizing-your-education-how-to-claim-the-dell-student-price-advantage/"><u>Maximizing Your Education: How To Claim the Dell Student Price Advantage</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/sociable-by-nature-unlocking-the-power-of-french-greetings/"><u>Sociable by Nature: Unlocking the Power of French Greetings</u></a></li>
-<li><a href="https://some-skills.techidaily.com/streamline-your-video-workflow-youtube-to-mpeg-essentials-for-2024/"><u>Streamline Your Video Workflow YouTube-to-MPEG Essentials for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-essential-list-7-leading-generators-for-nft-artworks-for-2024/"><u>The Essential List 7 Leading Generators for NFT Artworks for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-full-breakdown-of-toolwizs-image-processing-for-2024/"><u>The Full Breakdown of Toolwiz's Image Processing for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-3-ways-to-record-whatsapp-call/"><u>[New] 2024 Approved 3 Ways to Record WhatsApp Call</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-biggest-fifa-visuals-youtube-insights-graphed/"><u>[New] Biggest FIFA Visuals YouTube Insights Graphed</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/eamless-sound-shift-ultimate-guide-to-video-to-audio-tools-for-2024/"><u>[New] Seamless Sound Shift Ultimate Guide to Video-to-Audio Tools for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-recorders-bible-for-clear-conversations/"><u>[New] The Ultimate Recorder's Bible for Clear Conversations</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-crafting-engaging-youtube-thumbnails-a-step-by-step-guide/"><u>[Updated] Crafting Engaging YouTube Thumbnails A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-inventory-of-facebook-video-ratios/"><u>[Updated] In 2024, Inventory of Facebook Video Ratios</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-path-to-becoming-an-fcp-specialist/"><u>[Updated] The Ultimate Path to Becoming an FCP Specialist</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-top-10-most-watched-youtube-videos-within-24-hours/"><u>2024 Approved Top 10 Most Watched YouTube Videos Within 24 Hours</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-augmented-reality-with-downloaded-free-luts-for-development/"><u>2024 Approved Transforming Augmented Reality with Downloaded, Free LUTs for Development</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/direct-download-enhance-your-audio-setup-with-behringer-usb-interface-drivers/"><u>Direct Download: Enhance Your Audio Setup with Behringer USB Interface Drivers</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-from-iphone-15-pro-max-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock From iPhone 15 Pro Max - 4 Easy Ways</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unraveling-the-excellence-a-guide-to-choosing-best-titling-talents-online/"><u>In 2024, Unraveling the Excellence A Guide To Choosing Best Titling Talents Online</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-cinematic-storytelling-with-fcpx-tips-and-techniques-for-stunning-videos/"><u>New In 2024, Cinematic Storytelling with FCPX Tips and Techniques for Stunning Videos</u></a></li>
 </ul></div>
 

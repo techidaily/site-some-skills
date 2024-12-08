@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Swap Out Chars for Newlines in Notepad ++"
-date: 2024-11-22T17:55:34.327Z
-updated: 2024-11-28T18:57:29.706Z
+date: 2024-12-04T22:43:33.743Z
+updated: 2024-12-07T19:05:51.994Z
 tags:
   - desktop
 categories:
@@ -15,10 +15,6 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 
 * [Convert Any Character into a Newline with Notepad++](https://change-location.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/)
 * [How to Convert a Newline Character into Any Other Separator](https://techtrends.techidaily.com/perfect-progression-watching-the-wizarding-worlds-cinematic-journey-step-by-step/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -40,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 
 ![A Notepad++ window showing a comma-separated list](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/paste-items-list.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, click the "Search" menu and select "Replace." Alternately, you can press Ctrl+H on your keyboard.
 
 ![Replace menu in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/replace-notepad-plus-plus1.png) 
@@ -54,17 +54,9 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 
 ![Replace window in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/convert-comma-new-line.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  And just like magic, each item in your list will now be on its own line.
 
 ![New-line separated list in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/comma-new-line.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you want to reverse the process, just open Search > Replace in the menu again. In the "Find What" box, enter "\\n". In the Replace with box, type the character that you want to replace it with. Make sure "Extended" is selected and click "Replace All," and your list will go back to being separated by a standard character, such as a comma or pipe.
 
@@ -77,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 ![New-line items list in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/paste-list.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In your Notepad++ window, click the "Edit" menu and select Blank Operations > EOL to Space. Here, EOL means "End of Line," and this option converts the invisible newline characters into spaces.
@@ -93,7 +85,7 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 ![Replace option in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/search-replace.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the "Replace" window, click the "Find What" box and press Space. Then, place your cursor in "Replace With" and type the character that you'd like to replace space with, such as comma (",") or a command and a space for a human-readable format.
@@ -102,9 +94,17 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 
 ![Replace window in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/new-line-comma.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Your list items will now be separated by the new separator you chose.
 
 ![Replace window in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/new-line-comma.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Repeat this as often as you'd like, and you'll have all your lists in perfect shape quickly.
 
@@ -125,18 +125,17 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-budget-conscious-broadcayers-guide-to-cheap-mics/"><u>[New] In 2024, Budget-Conscious Broadcayer's Guide to Cheap Mics</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-musical-mosaics-15-video-tutorials-on-collaborative-projects/"><u>[New] In 2024, Musical Mosaics 15 Video Tutorials on Collaborative Projects</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-memes-for-iphone-for-2024/"><u>[New] Memes for iPhone for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-phone-and-camera-mounts-precision-focus-tracking/"><u>[New] Ultimate Phone & Camera Mounts Precision Focus Tracking</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-budget-friendly-recording-software-for-windows-users/"><u>[Updated] 2024 Approved Budget-Friendly Recording Software for Windows Users</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unfailing-focus-top-tripods-for-iphone-and-android-cameras/"><u>[Updated] Unfailing Focus Top Tripods for iPhone & Android Cameras</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-supreme-storytelling-spanning-eight-movie-types/"><u>2024 Approved Supreme Storytelling Spanning Eight Movie Types</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-allure-of-video-crafting-filmoras-top-edits-explained/"><u>2024 Approved The Allure of Video Crafting Filmora’s Top Edits Explained</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-the-ultimate-guide-to-using-vlc-from-mpeg-4-to-all-media-types/"><u>2024 Approved The Ultimate Guide to Using VLC From MPEG-4 to All Media Types</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-windows-11-hacks-and-tips/"><u>2024 Approved Ultimate Windows 11 Hacks and Tips</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/e-a-youtube-gif-wizard-your-complete-online-transformation-tutorial-for-2024/"><u>Become a Youtube Gif Wizard Your Complete Online Transformation Tutorial for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-oneplus-ace-2v-easily-by-drfone-android/"><u>How To Unlock a OnePlus Ace 2V Easily?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unparalleled-video-gear-top-5-slow-cams/"><u>In 2024, Unparalleled Video Gear Top 5 Slow Cams</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-synopsis-of-crowd-opinions-on-vllo/"><u>[Updated] Synopsis of Crowd Opinions on VLLO</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-picks-for-top-rated-free-srt-translation-tools/"><u>[Updated] Ultimate Picks for Top-Rated Free SRT Translation Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-quick-filmmaking-tricks-save-time-and-money-at-home/"><u>2024 Approved Quick Filmmaking Tricks Save Time & Money at Home</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-players-showcase-top-rated-oculus-devices/"><u>2024 Approved The Ultimate Players Showcase Top-Rated Oculus Devices</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-essentials-for-youtube-music-playlists/"><u>In 2024, Essentials for YouTube Music Playlists</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-virtual-voyage-navigating-through-immersive-entertainment/"><u>In 2024, The Virtual Voyage Navigating Through Immersive Entertainment</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-understanding-how-youtube-manages-post-upload-content/"><u>In 2024, Understanding How YouTube Manages Post-Upload Content</u></a></li>
+<li><a href="https://facebook.techidaily.com/metas-decision-to-reactivate-trumps-accounts/"><u>Meta's Decision to Reactivate Trump's Accounts</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-vivo-v29-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Vivo V29</u></a></li>
+<li><a href="https://some-skills.techidaily.com/twitch-time-travel-regain-control-over-streams-for-2024/"><u>Twitch Time Travel Regain Control Over Streams for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-how-to-use-compressor-in-final-cut-pro-x/"><u>Updated How to Use Compressor in Final Cut Pro X?</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-tecno-pop-7-pro-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Tecno Pop 7 Pro? Here is How | Dr.fone</u></a></li>
 </ul></div>
 

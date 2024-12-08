@@ -1,7 +1,7 @@
 ---
 title: "Taking Over Android: Google's Rise as Premier Developer of Additional Features"
-date: 2024-11-21T19:38:55.758Z
-updated: 2024-11-28T22:20:23.440Z
+date: 2024-11-30T18:35:07.517Z
+updated: 2024-12-07T21:39:18.909Z
 tags:
   - mobile
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/e591b5728fa84d66a3323b91b4ed2e3f5b0efaa53
 ---
 
 ## Taking Over Android: Google's Rise as Premier Developer of Additional Features
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -39,12 +35,16 @@ thumbnail: https://thmb.techidaily.com/e591b5728fa84d66a3323b91b4ed2e3f5b0efaa53
  The promise of Android is that it's a mobile-first operating system that anyone can use to create great things without starting from scratch. This is how Android got buy-in from businesses and volunteers from all over the world. You can use and develop Android without being entirely beholden to the whims of another corporation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  After Android Became Popular, Google Wanted More Control
 
 ![The app drawer of the OnePlus12R](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-app-drawer-of-the-oneplus12rjpg_53485300814_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -57,16 +57,12 @@ Jerome Thomas / How-To Geek
 ![Galaxy Z Flip 6 next to the Fold 6 on a table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/flip-6-next-to-fold-6-1.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
  Many other companies have stopped making their own software and decided to stick to Google's defaults instead. There are plenty of users and product reviewers calling for just that. They're already deep in the Google ecosystem and just want the most optimized experience. Yet this stance ultimately limits the amount of choice available in the market. What's left for those of us who like Android phones but, after seeing all the shenanigans Google has gotten up to, want to opt out of doing business with them?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  I Don't Want to Give All of My Data to Google
 
@@ -79,7 +75,7 @@ Justin Duino / How-To Geek
  People are quick to call out budget Motorola phones for installing unwanted shopping apps and random games, but Google's software collects far more data and is much more intrusive. We're just conditioned to expect them, even if we have never once clicked on Google Home.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Some Preinstalled Apps Are Better Than Google's
@@ -106,6 +102,10 @@ Close
 
 ![Apps in the launcher on an XREAL Beam Pro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/xreal_shot_1723131795364.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  XREAL isn't a Google company, but since access to the Play Store is a big part of the device's appeal, they're required to shill Google services, at a detriment to the user experience.
 
 ---
@@ -129,24 +129,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-superior-6-apps-to-subtitle-videos-internationally/"><u>[New] Superior 6 Apps to Subtitle Videos Internationally</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-tranquil-acoustic-settings-on-computers/"><u>[New] Tranquil Acoustic Settings on Computers</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-venture-into-virtual-laughs-top-20plus-funny-metaverse-creations/"><u>[Updated] 2024 Approved Venture Into Virtual Laughs Top 20+ Funny Metaverse Creations</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-best-websites-reviewed-secure-purchase-of-custom-youtube-soundtracks-for-2024/"><u>[Updated] Best Websites Reviewed Secure Purchase of Custom YouTube Soundtracks for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-supercharge-your-pc-with-these-win-10-tricks/"><u>[Updated] Supercharge Your PC with These Win 10 Tricks</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlimited-choice-in-free-personalized-outro-sounds/"><u>[Updated] Unlimited Choice in Free, Personalized Outro Sounds</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-learn-to-harness-funimates-downloading-power/"><u>2024 Approved Learn to Harness Funimate's Downloading Power</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-zoom-features-on-windows-11-pcs/"><u>2024 Approved Unlocking Zoom Features on Windows 11 PCs</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/elevate-your-online-experience-with-the-precision-of-cookiebot-technology/"><u>Elevate Your Online Experience with the Precision of Cookiebot Technology</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/from-jarring-edits-to-seamless-inshot-integration/"><u>From Jarring Edits to Seamless Inshot Integration</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-speech-to-script-top-apps-for-on-the-go-text-generation/"><u>In 2024, Speech to Script Top Apps for On-the-Go Text Generation</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-secrets-to-buying-todays-best-360-cameras/"><u>In 2024, Unveiling the Secrets to Buying Today's Best 360 Cameras</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-epic-launcher-sign-in-on-pc/"><u>Mastering the Art of Epic Launcher Sign-In on PC</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/quick-start-making-professional-gifs/"><u>Quick Start Making Professional GIFs</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-online-sources-for-3d-glitter-text-designs-for-2024/"><u>Top Online Sources for 3D Glitter Text Designs for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranking-vpn-providers-comprehensive-evaluation-by-industry-experts-insights-from-zdnet/"><u>Top-Ranking VPN Providers : Comprehensive Evaluation by Industry Experts - Insights From ZDNet</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-solving-dell-audio-driver-issues-in-windows-7/"><u>Troubleshooting and Solving Dell Audio Driver Issues in Windows 7</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-success-starting-far-cry-6-without-a-hitch-on-your-computer/"><u>Troubleshooting Success: Starting Far Cry 6 Without a Hitch on Your Computer</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-angles-strategic-composition-tips-for-iphone-photography-for-2024/"><u>Unveiling Angles Strategic Composition Tips for iPhone Photography for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transforming-digital-media-expert-advice-for-macs-dvd-creation/"><u>[New] Transforming Digital Media Expert Advice for Mac's DVD Creation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-artisans-touch-skillfully-applying-face-centric-motion-blur-using-picsart/"><u>[Updated] The Artisan’s Touch Skillfully Applying Face-Centric Motion Blur Using Picsart</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-understanding-cropping-settings-in-digital-editors/"><u>[Updated] Understanding Cropping Settings in Digital Editors</u></a></li>
+<li><a href="https://windows11.techidaily.com/activating-portable-network-capabilities-via-windows-11-pc/"><u>Activating Portable Network Capabilities via Windows 11 PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/anticipating-the-google-pixel-tab-key-specifications-and-probable-release-windows-revealed/"><u>Anticipating the Google Pixel Tab: Key Specifications & Probable Release Windows Revealed</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/elevate-your-imagery-manual-control-and-savings-with-the-yn560iv/"><u>Elevate Your Imagery - Manual Control & Savings with the YN560IV</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-oppo-find-n3-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-oppo-reno-11-pro-5g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-essential-guide-to-podcast-title-selection-strategies-and-examples/"><u>In 2024, The Essential Guide to Podcast Title Selection Strategies & Examples</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/no-cost-nsv-to-wmv-format-transformation-on-the-web-videosoft/"><u>No-Cost NSV to WMV Format Transformation on the Web - VideoSoft</u></a></li>
+<li><a href="https://some-skills.techidaily.com/switch-onoff-youtubes-pip-mode-on-your-iphone-for-2024/"><u>Switch On/Off YouTube's PIP Mode on Your iPhone for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/hing-onoff-comment-functionality-on-youtube/"><u>Switching On/Off Comment Functionality on YouTube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-picks-free-download-sites-for-custom-skype-tones-for-2024/"><u>Top Picks Free Download Sites for Custom Skype Tones for 2024</u></a></li>
 </ul></div>
 

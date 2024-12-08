@@ -1,7 +1,7 @@
 ---
 title: "Boost Productivity: Switch From Complex Excel Formulas to Efficient ChatGPT Solutions"
-date: 2024-11-06T00:00:59.516Z
-updated: 2024-11-11T00:41:37.090Z
+date: 2024-12-03T02:47:22.658Z
+updated: 2024-12-08T01:34:48.105Z
 tags:
   - cutting-edge
 categories:
@@ -18,10 +18,7 @@ thumbnail: https://thmb.techidaily.com/c4aba1f1071f6153eef4e836db7e5ca4bdc93515f
 * [You Still Need to Check the Formulas Manually](https://mondly-stories.techidaily.com/initiation-into-japanese-conversational-manners/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -35,10 +32,7 @@ thumbnail: https://thmb.techidaily.com/c4aba1f1071f6153eef4e836db7e5ca4bdc93515f
  The tips provided in this article aren't limited to Excel; they're also applicable to other spreadsheet tools, such as Google Sheets and Apple Numbers. Additionally, this guide focuses on the free version of ChatGPT based on the GPT 3.5 model. If you have access to GPT 4, you can use the Advanced Data Analysis tool to take screenshots and upload Excel files directly to GPT 4 for a more seamless experience.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Get a Quick Excel Formula From ChatGPT
@@ -57,16 +51,13 @@ Close
 
 ![A list of articles about ceramic and glass coffee mugs in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/asd-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This is just a basic example to show you how ChatGPT can determine what formulas you need based on what you'd like to do. Let's do something slightly more complicated by asking it to help us [calculate the average](https://win-able.techidaily.com/fixing-overwatch-startup-issues-how-to-get-rid-of-the-persistent-black-screen/) profit margin and most profitable item.
 
 ![ChatGPT giving formulas to calculate the average profit margin and most profitable item in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/most-profitable.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After implementing the formula, I was once again left with exactly what I was looking for. I double-checked the numbers by calculating everything manually to confirm the formulas worked correctly.
 
@@ -86,13 +77,6 @@ Close
 
 ![A list of articles about ceramic and glass coffee mugs in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/new.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  I gave ChatGPT detailed instructions to help me color-code the table so that I could keep track of what articles were still in progress. Here's my prompt, followed by ChatGPT's response:
 
 Close 
@@ -100,6 +84,10 @@ Close
  I went through the steps exactly how ChatGPT laid them out, and the results are perfect. Even if I had no prior knowledge of using Excel, I would be able to create the formatting rule to keep the project organized.
 
 ![A list of articles about ceramic and glass coffee mugs in Excel, organized by color.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/newnew.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  ChatGPT Can Troubleshoot and Tweak Your Formulas
 
@@ -112,6 +100,10 @@ Close
  You can also use ChatGPT to identify what's causing an error. Let's say an event organizer was trying to calculate the total number of passengers from each city using a simple addition formula and encountered the #VALUE! error because they mixed text and numbers. After explaining the issue to ChatGPT, it immediately recognized the error and gave a fix accompanied by a simple explanation.
 
 Close 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  You Still Need to Check the Formulas Manually
 
@@ -138,18 +130,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-mastering-youtube-images-your-complete-thumbnail-handbook/"><u>[New] 2024 Approved Mastering YouTube Images Your Complete Thumbnail Handbook</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-crafting-compelling-podcast-teasers/"><u>[New] In 2024, Crafting Compelling Podcast Teasers</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-overcoming-quietness-fixes-for-silent-obs-streams/"><u>[New] Overcoming Quietness Fixes for Silent OBS Streams</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-morphvox-alteration-guidebook/"><u>[Updated] Ultimate MorphVOX Alteration Guidebook</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-the-power-of-panoramic-videography-with-premieres-tools/"><u>[Updated] Unlocking the Power of Panoramic Videography with Premiere's Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unmatched-subtitle-expertise-top-10-leaders-in-video-caption-manipulation/"><u>[Updated] Unmatched Subtitle Expertise – Top 10 Leaders in Video Caption Manipulation</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-3-steps-to-create-professional-gopro-vlogs-ultimate-tutorial/"><u>2024 Approved 3 Steps to Create Professional Gopro Vlogs Ultimate Tutorial</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-samsung-galaxy-z-flip-5-devices-by-drfone-android/"><u>How to Reset Gmail Password on Samsung Galaxy Z Flip 5 Devices</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unraveling-drone-use-in-the-now-and-next-frontier/"><u>In 2024, Unraveling Drone Use in the Now & Next Frontier</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ai-revolution-in-business-thriving-strategies-at-work/"><u>The AI Revolution in Business: Thriving Strategies at Work</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-experts-handbook-for-voice-alteration-via-morphvox-for-2024/"><u>The Ultimate Expert's Handbook for Voice Alteration via MorphVOX for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-clearing-out-the-unwanted-space-around-images-with-affinity-for-2024/"><u>The Ultimate Guide Clearing Out the Unwanted Space Around Images with Affinity for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-mastering-the-art-of-volume-control-a-guide-to-seamless-audio-transitions-in-adobe-after-effects/"><u>Updated In 2024, Mastering the Art of Volume Control A Guide to Seamless Audio Transitions in Adobe After Effects</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-bidfarewelltomycam-the-quest-for-improved-options/"><u>[New] BidFarewellToMyCam The Quest for Improved Options</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-synchronize-successfully-5-steps-for-data-migration/"><u>[New] Synchronize Successfully 5 Steps for Data Migration</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-updated-inquiry-collection-for-podcast-appeal/"><u>[New] Updated Inquiry Collection for Podcast Appeal</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-harmonizing-your-music-a-youtube-playlist-journey-for-2024/"><u>[Updated] Harmonizing Your Music A YouTube Playlist Journey for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-legal-implications-of-youtube-video-savings/"><u>[Updated] In 2024, Legal Implications of YouTube Video Savings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleashing-visual-velocity-illustrators-guide-to-motion-blurs/"><u>[Updated] Unleashing Visual Velocity Illustrator's Guide to Motion Blurs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unraveling-the-mystery-of-vr-gear-selection-wireless-elegance-versus-cable-convenience/"><u>[Updated] Unraveling the Mystery of VR Gear Selection Wireless Elegance versus Cable Convenience</u></a></li>
+<li><a href="https://win-data.techidaily.com/44cm44oc44oq44ol44o844og44o744k344oj44oj44km44kz44ou44o844k144o844ot44k544cn44ko44op44o85lplusu5q2j5a6m5lqg5oof5acxic0g5pya57wc54mi/"><u>「ボリューム・シャドウコピーサービス」エラー修正完了情報 - 最終版</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-complete-breakdown-of-bass-management-functions-and-uses/"><u>A Complete Breakdown of Bass Management Functions & Uses</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/budget-friendly-energy-hubs-evaluated-by-zdnet-enhance-cross-country-travel-comfortably/"><u>Budget-Friendly Energy Hubs Evaluated by ZDNet Enhance Cross-Country Travel Comfortably</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/hosting-your-own-home-karaoke-event-a-step-by-step-guide/"><u>Hosting Your Own Home Karaoke Event: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/premium-audio-modification-solutions-magically-effective-for-2024/"><u>Premium Audio Modification Solutions Magically Effective for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-future-is-here-magix-vpx-unveiled-and-tested-for-2024/"><u>The Future Is Here Magix VPX Unveiled and Tested for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-chrome-browser-vocal-transformers-revealed-for-enthusiast-users-for-2024/"><u>Top Chrome Browser Vocal Transformers Revealed for Enthusiast Users for 2024</u></a></li>
 </ul></div>
 

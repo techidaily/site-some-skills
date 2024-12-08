@@ -1,7 +1,7 @@
 ---
 title: "Securing Your System: A Step-by-Step Guide to Locking a Windows 10 PC via Command Line"
-date: 2024-11-27T17:42:22.211Z
-updated: 2024-11-28T16:11:15.207Z
+date: 2024-12-02T00:59:30.468Z
+updated: 2024-12-07T22:33:10.578Z
 tags:
   - deals
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/2077f1c448ea137a042adda99cddc314210e83104
 ---
 
 ## Securing Your System: A Step-by-Step Guide to Locking a Windows 10 PC via Command Line
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -29,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/2077f1c448ea137a042adda99cddc314210e83104
  One of the first rules of cyber security is to always lock your PC before stepping away. While it may not be the quickest way to lock your Windows 10 PC, you can do it using the Command Prompt.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Lock Your Windows 10 PC Using Command Prompt
@@ -39,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/2077f1c448ea137a042adda99cddc314210e83104
 ![Click the Start button, search for 'cmd,' then open 'Command Prompt.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-launch-cmd.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Command Prompt will now open. Here, run this command to lock your Windows 10 PC.
@@ -50,10 +46,6 @@ Rundll32.exe user32.dll,LockWorkStation
 
  Once executed, your PC will be locked. You'll have to sign back in with your PIN, password, or whatever sign-in method you usually use.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Set the Lock Screen Timeout Setting Using Command Prompt
 
  Once you’ve locked your PC, the lock screen will generally be displayed for a certain amount of time before it time outs. You can set the amount of time that needs to pass before timing out using the Command Prompt.
@@ -61,6 +53,10 @@ Rundll32.exe user32.dll,LockWorkStation
  To do this, you’ll need to [open Command Prompt as an admin](https://screen-mirror.techidaily.com/how-to-screen-mirroring-xiaomi-14-ultra-drfone-by-drfone-android/). Do so by typing “cmd” in the Windows Search bar and then right-clicking “Command Prompt” from the results. Next, select “Run As Administrator” from the menu that appears.
 
 ![Launching Command Prompt as admin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-launch-cmd.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  With Command Prompt open, run this command.
 
@@ -72,6 +68,10 @@ powercfg.exe /SETACVALUEINDEX SCHEME_CURRENT SUB_VIDEO VIDEOCONLOCK 120
 
 ![Change the timeout to 120.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-changing-timeout-to-120.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This command sets the lock screen timeout setting for your PC if it’s plugged in to a power source. To set the lock screen timeout setting for your PC if it’s running on battery, change`/SETACVALUEINDEX` to`/SETDCVALUEINDEX` and run the command as normal.
 
  Next, run this command:
@@ -81,7 +81,7 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 ![Apply the setting to the currently active scheme.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-set-active.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now your [lock screen](https://driver-download.techidaily.com/1722977751917-synaptics-drivers-download-and-update-for-windows-easily/) will timeout after the set amount of time. Give it a try!
@@ -101,14 +101,18 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-demystifying-the-world-of-youtube-shorts/"><u>[New] 2024 Approved Demystifying the World of YouTube Shorts</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-mastering-stunning-photographic-mosaics/"><u>[Updated] 2024 Approved Mastering Stunning Photographic Mosaics</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-obs-or-streamlabs-determining-the-superior-livestream-software-for-2024/"><u>[Updated] OBS or Streamlabs? Determining the Superior Livestream Software for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-compreenasive-studio-guide-deep-xvideoinsight/"><u>[Updated] The Compreenasive Studio Guide Deep XVideoInsight</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-exclusive-discoveries-prime-websites-and-methods-to-download-tamil-ringtone-files/"><u>2024 Approved Exclusive Discoveries Prime Websites & Methods to Download Tamil Ringtone Files</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-prodigys-pathway-expert-techniques-for-iphone-podcast-downloads/"><u>2024 Approved The Prodigy's Pathway Expert Techniques for iPhone Podcast Downloads</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-top-notch-visuals-a-cost-free-approach/"><u>2024 Approved Unlocking Top-Notch Visuals A Cost-Free Approach</u></a></li>
-<li><a href="https://games-able.techidaily.com/perfect-20-mobile-gaming-sets-for-social-interaction/"><u>Perfect 20 Mobile Gaming Sets for Social Interaction</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-new-wave-of-coding-excellence-av1-vs-vp9-face-off-for-2024/"><u>The New Wave of Coding Excellence AV1 vs VP9 Face-Off for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-secrets-to-successful-tiktok-videos-via-mac-or-pc/"><u>[New] Secrets to Successful TikTok Videos via MAC or PC</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-trailblazing-the-mobile-app-landscape/"><u>[New] Trailblazing the Mobile App Landscape</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-honored-advisors-elite-iphone-audio-experts/"><u>[Updated] Honored Advisors Elite iPhone Audio Experts</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-mastering-ps4-the-ultimate-guide-to-capturing-your-games/"><u>[Updated] Mastering PS4 The Ultimate Guide to Capturing Your Games</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-perfect-blend-of-relaxation-and-growth-podcast-multi-tasking-tips/"><u>[Updated] The Perfect Blend of Relaxation and Growth Podcast Multi-Tasking Tips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-no-experience-guide-to-earning-on-reddit-13-strategies-inside/"><u>2024 Approved The Ultimate, No-Experience Guide to Earning on Reddit - 13 Strategies Inside</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/astounding-vlogs-start-here-easy-to-create-projects-for-2024/"><u>Astounding Vlogs Start Here Easy-to-Create Projects for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-solutions-for-when-your-file-explorer-freezes-on-windows-11/"><u>Expert Solutions for When Your File Explorer Freezes on Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-words-on-the-screen-crafting-clear-concise-dialogue/"><u>In 2024, The Art of Words on the Screen Crafting Clear, Concise Dialogue</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-premier-ranking-of-outstanding-stop-motion-films/"><u>In 2024, The Premier Ranking of Outstanding Stop-Motion Films</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-checklist-for-selecting-prime-streaming-services-of-cricket/"><u>In 2024, The Ultimate Checklist for Selecting Prime Streaming Services of Cricket</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-ultimate-selection-of-voice-customization-mobile-apps/"><u>In 2024, Ultimate Selection of Voice Customization Mobile Apps</u></a></li>
+<li><a href="https://driver-install.techidaily.com/maximizing-sound-quality-with-upgraded-nvidia-audio-for-win11/"><u>Maximizing Sound Quality with Upgraded NVIDIA Audio for Win11</u></a></li>
 </ul></div>
 

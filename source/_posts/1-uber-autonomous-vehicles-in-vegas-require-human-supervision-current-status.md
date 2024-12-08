@@ -1,7 +1,7 @@
 ---
 title: "1. Uber Autonomous Vehicles in Vegas Require Human Supervision: Current Status"
-date: 2024-11-08T16:40:09.713Z
-updated: 2024-11-11T01:25:46.810Z
+date: 2024-12-02T23:17:03.683Z
+updated: 2024-12-07T18:28:56.659Z
 tags:
   - cutting-edge
 categories:
@@ -48,27 +48,26 @@ Related: [Mercedes Wants You to Pay a Subscription for Full Speed](https://windo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-stealthy-ios-youtube-bgm-sessions/"><u>[New] 2024 Approved Stealthy iOS YouTube BGM Sessions</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/risk-tutorial-transforming-photos-into-youtube-desktop-thumbnails/"><u>[New] Brisk Tutorial Transforming Photos Into YouTube Desktop Thumbnails</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-best-professional-template-pack-for-premiere-pro/"><u>[New] The Best Professional Template Pack for Premiere Pro</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-list-10-best-date-counting-clocks-androidios/"><u>[New] The Ultimate List 10 Best Date-Counting Clocks Android/iOS</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-turbulence-tamer-for-mobile-cinematography/"><u>[Updated] Turbulence Tamer for Mobile Cinematography</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-best-backgrounds-for-live-streaming-2023/"><u>2024 Approved Best Backgrounds for Live Streaming 2023</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-learn-how-to-upload-music-to-your-youtube-channel/"><u>2024 Approved Learn How to Upload Music to Your YouTube Channel</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-subscribers-manual-engaging-on-social-media-platforms/"><u>2024 Approved The Subscriber's Manual Engaging on Social Media Platforms</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-sony-xperia-1-v-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Sony Xperia 1 V to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-oppo-find-x6-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Oppo Find X6 Device</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-facial-movements-using-blur-effects-in-picsart/"><u>In 2024, The Art of Facial Movements Using Blur Effects in Picsart</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-obs-potential-strategies-involving-lut-filters/"><u>In 2024, Unlocking OBS Potential Strategies Involving LUT Filters</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-essential-blueprint-for-crafting-compelling-reddit-posts-for-2024/"><u>The Essential Blueprint for Crafting Compelling Reddit Posts for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/turning-your-old-photos-into-snaps-with-camera-roll-for-2024/"><u>Turning Your Old Photos Into Snaps with Camera Roll for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723212303022-windows-10-update-stuck-or-frozen-how-do-i-fix-it/"><u>Windows 10 Update Stuck or Frozen – How Do I Fix It?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-deciding-on-apples-m1-laptops-air-or-pro-advantages/"><u>[New] 2024 Approved Deciding on Apple's M1 Laptops Air or Pro Advantages</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-art-and-science-behind-effective-youtube-shorts-templates/"><u>[New] The Art & Science Behind Effective YouTube Shorts Templates</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-online-photo-cropting-accuracy/"><u>[New] The Ultimate Guide to Online Photo Cropting Accuracy</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-vidvibes-merge-android-and-ios-insta-photos-for-2024/"><u>[New] VidVibes Merge Android & iOS Insta Photos for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-frame-your-vision-leading-lines-for-dynamic-iphone-photos/"><u>[Updated] Frame Your Vision Leading Lines for Dynamic iPhone Photos</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-from-basics-to-brilliance-the-fb-cover-video-journey/"><u>[Updated] In 2024, From Basics to Brilliance The FB Cover Video Journey</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-prime-mp4-fb-file-shifter-for-2024/"><u>[Updated] Prime MP4-FB File Shifter for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlock-game-changing-potential-try-our-top-ranked-free-voice-alteration-tool/"><u>[Updated] Unlock Game-Changing Potential Try Our Top-Ranked Free Voice Alteration Tool</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/excel-wizardry-unveiled-how-to-successfully-combine-dual-column-lists-in-a-single-worksheet/"><u>Excel Wizardry Unveiled: How to Successfully Combine Dual Column Lists in a Single Worksheet</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-strategic-utilization-of-azure-voice-to-text-capabilities/"><u>In 2024, Strategic Utilization of Azure Voice-to-Text Capabilities</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-title-transformations-beyond-standard-styles/"><u>In 2024, Title Transformations Beyond Standard Styles</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transforming-images-with-ease-learn-snapseed-today/"><u>In 2024, Transforming Images with Ease Learn Snapseed Today</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-cosmic-divides-metaverse-and-multiverse-explained/"><u>In 2024, Unveiling Cosmic Divides Metaverse and Multiverse Explained</u></a></li>
+<li><a href="https://some-skills.techidaily.com/strategy-revealed-a-box-opening-narrative-for-2024/"><u>Strategy Revealed A Box-Opening Narrative for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/synopsis-of-vllo-consumer-voices-for-2024/"><u>Synopsis of VLLO Consumer Voices for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/unleash-powerful-photo-repair-on-windows-get-your-stellar-pixelpilot-software-now/"><u>Unleash Powerful Photo Repair on Windows: Get Your Stellar PixelPilot Software Now</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-anonymize-your-media-10-free-face-blurring-apps-for-photos-and-videos/"><u>Updated 2024 Approved Anonymize Your Media 10 Free Face Blurring Apps for Photos and Videos</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

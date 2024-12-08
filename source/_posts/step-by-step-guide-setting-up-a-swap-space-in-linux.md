@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Setting Up a Swap Space in Linux"
-date: 2024-11-26T20:14:56.578Z
-updated: 2024-11-28T19:16:22.496Z
+date: 2024-12-01T18:26:34.350Z
+updated: 2024-12-07T18:29:34.090Z
 tags:
   - desktop
 categories:
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/213b932fcd2c7374497ebb4064c054acfe0cd4d0b
 * [Swap Space Made Easy](https://youtube-data.techidaily.com/ver-8-essential-sites-for-pristine-green-screen-images-for-2024/)
 
  Add swap space to a Linux computer, or increase the swap space that's already present, without messing about with partitions. We show you the easy way to tailor your swap space.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Swap Files vs. Swap Partitions
 
@@ -60,6 +64,10 @@ thumbnail: https://thmb.techidaily.com/213b932fcd2c7374497ebb4064c054acfe0cd4d0b
 
  This is much less of a concern nowadays, and [many SSDs that are on sale have life expectancies that will outlast most PCs](https://mondly-stories.techidaily.com/arabic-for-beginners-a-step-by-step-guide/). A swap file on an SSD will have a far better performance than a swap partition on a mechanical hard drive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Checking Existing Swap Space
 
  Look before you leap. Let's check what swap space is available on your computer. You can do this two ways, and we'll use both. [The free command will display the used and free memory](https://hardware-updates.techidaily.com/get-the-latest-lenovo-ideapad-vehicle-your-ultimate-guide-to-driver-updates-on-windows-10/). The -h (human readable) option will cause `free` to use sensible units when it displays the memory values.
@@ -80,13 +88,13 @@ swapon --show
 
 ![swapon --show in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/2-8.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If there is no output from this command, there's no swap configured.
 
  If these commands had revealed some swap space is already configured, the size of the existing swap space should be factored into decisions regarding the size of the swap file you're going to create.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How Much Swap Space Do I Need?
 
@@ -97,6 +105,10 @@ swapon --show
  And the good news is, it doesn't really matter what value you pick. We can always remove a swap file and replace it with a bigger one or, for that matter, a smaller one. Or you could just add another swap file.
 
  Pick [a swap file size from the table](https://help.ubuntu.com/community/SwapFaq#How%5Fmuch%5Fswap%5Fdo%5FI%5Fneed.3F), and run it for a while. Monitor your system's use of the swap space. If fine-tuning is required, changes are easily made. With swap files, It's a two-minute job. Compare that to adjusting partitions on a live Linux computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Creating the Swap File
 
@@ -125,10 +137,6 @@ sudo dd if=/dev/zero of=/swapfile bs=1024 count=1048576
 
 ![sudo dd if=/dev/zero of=/swapfile bs=1024 count=1048576 in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/5-6.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Some statistics are provided when the file is created.
 
 ![output from sudo dd if=/dev/zero of=/swapfile bs=1024 count=1048576 in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/6-8.png) 
@@ -142,7 +150,7 @@ ls /
 ![ls / in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/7-7.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Preparing the Swap File
@@ -154,7 +162,7 @@ sudo mkswap /swapfile
 ![sudo mkswap /swapfile in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/8-7.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The file is prepared for use as a swap file. Note the warning about file permissions. We'll need to change those so that the root user is the only one who can read and write to the swap file.
@@ -175,7 +183,15 @@ sudo swapon /swapfile
 
 ![sudo swapon /swapfile in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/9-7.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The swap file is now active.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Adding the Swap File to fstab
 
@@ -184,10 +200,6 @@ sudo swapon /swapfile
 sudo gedit /etc/fstab
 
 ![sudo gedt /etc/fstab in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/10-6.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The line we need to add to the bottom of the file is:
 
@@ -215,7 +227,7 @@ swapon --show
 ![swapon --show in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/13-3.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The columns are:
@@ -225,10 +237,6 @@ swapon --show
 * **Size**: The size of the swap resource.
 * **Used**: The amount of used swap space.
 * **Prio**: The priority of this swap space.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  The Swap Space Priority
 
@@ -248,10 +256,6 @@ swapon -- show
 
  The priority of this swap space has been elevated to 10\. Which is proof positive that the options field in the `/etc/fstab` entry is not ignored.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Swap Space Made Easy
 
  Cutting through the exposition and explanation, we can create a new swap file as easily and quickly as this:
@@ -269,10 +273,6 @@ sudo swapon /swapfile2
 swapon --show
 
 ![sudo dd if=/dev/zero /of=/swapfile2 bs=1024 count=104857 in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/16-2.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you want to make that permanent drop, it into your `/etc/fstab` file.
 
@@ -299,18 +299,15 @@ swapon --show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-switch-up-digital-ordering-with-android-methods/"><u>[New] Switch Up Digital Ordering with Android Methods</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-compreeved-guide-to-optimizing-space-and-pc-for-vr/"><u>[New] The Compreeved Guide to Optimizing Space & PC for VR</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-syncing-speed-and-quality-in-lunapic-edits/"><u>[Updated] Syncing Speed and Quality in LunaPic Edits</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-time-stamping-your-photos/"><u>2024 Approved The Ultimate Guide to Time-Stamping Your Photos</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/a-comprehensive-look-at-gigabytes-aorus-co49dq-monitor-exceptional-color-vibrancy-and-sharp-contrast-ratio-reviewed/"><u>A Comprehensive Look at Gigabyte's Aorus CO49DQ Monitor: Exceptional Color Vibrancy and Sharp Contrast Ratio Reviewed</u></a></li>
-<li><a href="https://driver-download.techidaily.com/canoscan-lide-220-scanner-software-latest-version-and-dl-guide/"><u>CanoScan LiDE 220 Scanner Software: Latest Version and DL Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-the-elite-lineup-premier-gaming-consoles-dominating-2024/"><u>Exploring the Elite Lineup: Premier Gaming Consoles Dominating 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-speedy-pics-viewing-tool/"><u>In 2024, Ultimate Speedy Pics Viewing Tool</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/iphone-video-zooming-made-simple-for-2024/"><u>IPhone Video Zooming Made Simple for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/rehacer-y-mejorar-tus-fotos-con-inteligencia-artificial-de-winxvideo-a-ultra-alta-definicion-4k8k10k/"><u>Rehacer Y Mejorar Tus Fotos Con Inteligencia Artificial De Winxvideo a Ultra Alta Definición 4K/8K/10K</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ideographers-toolkit-for-easy-downloads/"><u>Top Videographers' Toolkit for Easy Downloads</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshoot-your-kodi-connection-overcome-unable-to-retrieve-directory-errors-easily/"><u>Troubleshoot Your Kodi Connection: Overcome Unable to Retrieve Directory Errors Easily</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unleashing-the-power-of-online-cricket-broadcasts-for-2024/"><u>Unleashing the Power of Online Cricket Broadcasts for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-tutorial-for-setting-up-an-online-livestream/"><u>[New] The Ultimate Tutorial for Setting Up an Online Livestream</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-voice-alteration-apps-magic-edition-amongst-the-best/"><u>[New] Voice Alteration Apps Magic Edition Amongst the Best</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-syma-x5c-demystified-the-ideal-drone-for-budding-pilots-for-2024/"><u>[Updated] Syma X5C Demystified The Ideal Drone for Budding Pilots for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-notch-apps-to-refine-your-iphone-and-android-gopro-videos/"><u>[Updated] Top-Notch Apps to Refine Your iPhone & Android GoPro Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-4-effective-ways-to-snip-screens-on-chromebook/"><u>2024 Approved 4 Effective Ways to Snip Screens On Chromebook</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/er-your-screen-top-10-simple-youtube-projects-for-all-creators-for-2024/"><u>Conquer Your Screen Top 10 Simple YouTube Projects for All Creators for 2024</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/easy-tutorial-converting-your-videos-to-square-format-on-microsofts-latest-operating-systems/"><u>Easy Tutorial: Converting Your Videos to Square Format on Microsoft's Latest Operating Systems</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tailoring-your-vtubers-tone-best-app-recommendations-unveiled/"><u>In 2024, Tailoring Your Vtuber's Tone Best App Recommendations Unveiled</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-enhance-powershell-access-control/"><u>Steps to Enhance PowerShell Access Control</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-audio-visual-storytelling-with-iphone-for-2024/"><u>The Art of Audio-Visual Storytelling with iPhone for 2024</u></a></li>
 </ul></div>
 

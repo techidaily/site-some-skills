@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Accessing Your Recent Copied Items in macOS"
-date: 2024-11-21T18:43:17.260Z
-updated: 2024-11-28T18:23:50.573Z
+date: 2024-12-06T01:01:31.351Z
+updated: 2024-12-08T00:12:53.304Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/2dd2e24a58c5be887d5c8f88ca29fd663a35485ed
 ---
 
 ## Step-by-Step Guide: Accessing Your Recent Copied Items in macOS
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -29,15 +25,15 @@ thumbnail: https://thmb.techidaily.com/2dd2e24a58c5be887d5c8f88ca29fd663a35485ed
 
 ![Show clipboard in Finder in macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/show-clipboard-in-finder-in-macos.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can't interact with the clipboard in any way, and it mostly shows text. If you copy a file, it will show the filename, although if you copy something like a part of an image (but not the image file itself), it will show you that instead.
 
 ![The Finder clipboard view in macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/the-finder-clipboard-view-in-macos.png) 
 
  The clipboard viewer is a [useful Finder feature](https://remote-screen-capture.techidaily.com/in-2024-low-cost-android-calls-highest-ranking-options/) that can be handy if you simply need to check what's on the clipboard right now, especially if you do a lot of [copying and pasting on your Mac](https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-itel-s23plus-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/). But it's pretty limited otherwise.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to See Your Mac Clipboard History
 
@@ -50,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/2dd2e24a58c5be887d5c8f88ca29fd663a35485ed
 ![The Maccy website homepage](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/the-maccy-home-page.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  By default, the app saves the last 200 items copied to your clipboard for easy access, and you adjust that up or down to suit your needs. It doesn't just handle text, but the minimalist interface means that that's what it's best suited for. You access the contents of your clipboard via a drop-down list on your menu bar.
@@ -72,7 +68,7 @@ thumbnail: https://thmb.techidaily.com/2dd2e24a58c5be887d5c8f88ca29fd663a35485ed
 ![Pasty interface visible at the top of a macOS desktop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/pasty-places-a-bar-across-the-top-of-your-screen-when-activated.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Pasty provides a straightforward onboarding process when you first launch it that helps to get the app set up as you need it.
@@ -83,17 +79,21 @@ thumbnail: https://thmb.techidaily.com/2dd2e24a58c5be887d5c8f88ca29fd663a35485ed
 
 ![The Pasty clipboard history viewer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/the-pasty-clipboard-history-viewer.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  What makes Pasty more useful, though, is its support for "Spaces." These are essentially folders in which you can keep clipboard items and are perfect if you're a power user who needs to stay organized.
 
  While everything you copy gets listed under History by default, you can create Spaces for projects you're working on, different types of content, and so on, to make them easier to find when you need them. You can create up to three Spaces in the free version (and an unlimited number if you pay), and then just drag and drop items from your clipboard into them.
 
 ![Assigning content from the clipboard into a Space on Pasty](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/drag-and-drop-into-spaces-in-pasty.png) 
 
- Pasty also has some useful privacy features, including the ability to pause the app for a set time, to exclude specific apps from having content copied to the clipboard, and to automatically clear the clipboard after anywhere from an hour to a year.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Pasty also has some useful privacy features, including the ability to pause the app for a set time, to exclude specific apps from having content copied to the clipboard, and to automatically clear the clipboard after anywhere from an hour to a year.
 
 ##  Keep Your Clipboard History Secure on macOS
 
@@ -114,19 +114,24 @@ thumbnail: https://thmb.techidaily.com/2dd2e24a58c5be887d5c8f88ca29fd663a35485ed
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-open-srt-soundtrack-on-windowsmacos/"><u>[New] In 2024, Open SRT Soundtrack on Windows/macOS</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-incognito-observer-of-online-chronicles/"><u>[New] Incognito Observer of Online Chronicles</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-10-pc-vr-headsets-2023-update/"><u>[New] Top 10 PC VR Headsets -2023 Update</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-optimal-steadicam-devices-for-professional-drone-cinematography/"><u>[Updated] In 2024, Optimal Steadicam Devices for Professional Drone Cinematography</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-list-the-best-vr-game-advancements/"><u>[Updated] Ultimate List The Best VR Game Advancements</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-savings-in-cloud-data-services/"><u>[Updated] Unlocking Savings in Cloud Data Services</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-5-quick-filming-diy-hacks-to-try-at-home/"><u>2024 Approved Top 5 Quick Filming DIY Hacks to Try at Home</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-tier-innovations-in-virtual-reality-setup/"><u>2024 Approved Top-Tier Innovations in Virtual Reality Setup</u></a></li>
-<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>3 Things You Must Know about Fake Snapchat Location On Apple iPhone 6 | Dr.fone</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/comment-deplacer-avec-efficacite-les-donnees-de-windows-11-vers-un-nouveau-disque-dur-ssd-ou-hdd/"><u>Comment Déplacer Avec Efficacité Les Données De Windows 11 Vers Un Nouveau Disque Dur SSD Ou HDD ?</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-oppo-reno-11-pro-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Oppo Reno 11 Pro 5G Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/improve-office-productivity-with-speech-to-text-conversion-in-microsoft-word/"><u>Improve Office Productivity with Speech to Text Conversion in Microsoft Word</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-meizu-21-pro-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Meizu 21 Pro Phone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-blueprint-for-a-streamlined-social-media-connection-with-linktree-for-2024/"><u>The Blueprint for a Streamlined Social Media Connection with Linktree for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-breaking-down-manycams-recording-capabilities-for-professionals/"><u>[New] 2024 Approved Breaking Down ManyCam's Recording Capabilities for Professionals</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-effortlessly-faster-fb-videos-a-comprehensive-tools-repository-for-2024/"><u>[New] Effortlessly Faster FB Videos A Comprehensive Tools Repository for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-10-smartphone-vr-gadgets-uncovered/"><u>[New] Top 10 Smartphone VR Gadgets Uncovered</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-potential-of-magix-music-maker-2024/"><u>[New] Unveiling the Potential of Magix Music Maker 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-clearview-recorder-xtreme-win10/"><u>[Updated] In 2024, ClearView Recorder Xtreme (Win10)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamline-image-editing-ditching-backgrounds-in-affinity-photo/"><u>[Updated] Streamline Image Editing Ditching Backgrounds in Affinity Photo</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleashing-wealth-the-ultimate-13-step-guide-for-newbies-on-reddit/"><u>2024 Approved Unleashing Wealth The Ultimate 13-Step Guide for Newbies on Reddit</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-art-of-digital-broadcasting-in-real-time/"><u>2024 Approved Unveiling the Art of Digital Broadcasting in Real Time</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-utilizing-no-cost-countdown-efficient-time-management/"><u>2024 Approved Utilizing No-Cost Countdown Efficient Time Management</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-oppo-a1x-5g-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Oppo A1x 5G</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/essential-tips-for-choosing-the-ideal-dash-video-recorder/"><u>Essential Tips for Choosing the Ideal Dash Video Recorder</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Vivo X100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-effortless-and-easy-video-snapshots-of-win11/"><u>In 2024, Effortless & Easy Video Snapshots of Win11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-windows-11s-hidden-secrets-for-media-upload/"><u>In 2024, Unveiling Windows 11'S Hidden Secrets for Media Upload</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-audiophiles-dream-upgrading-your-recording-space-sound/"><u>New In 2024, Audiophiles Dream Upgrading Your Recording Space Sound</u></a></li>
+<li><a href="https://some-skills.techidaily.com/streamline-your-channel-with-easy-image-upload-for-2024/"><u>Streamline Your Channel with Easy Image Upload for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-story-blueprints-across-8-movie-sectors-for-2024/"><u>Ultimate Story Blueprints Across 8 Movie Sectors for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unveiled-top-10-superior-gopro-housing-options/"><u>Unveiled Top 10 Superior GoPro Housing Options</u></a></li>
 </ul></div>
 

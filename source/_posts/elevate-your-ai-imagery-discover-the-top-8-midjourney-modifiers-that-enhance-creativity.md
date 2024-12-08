@@ -1,7 +1,7 @@
 ---
 title: "Elevate Your AI Imagery: Discover the Top 8 Midjourney Modifiers That Enhance Creativity"
-date: 2024-11-26T17:57:05.272Z
-updated: 2024-11-28T19:07:29.958Z
+date: 2024-12-02T01:57:05.436Z
+updated: 2024-12-07T18:58:06.486Z
 tags:
   - cutting-edge
 categories:
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/5961427253350c1b74e1650e9c2f8a99858d6dfe3
 
  Midjourney commands refer to typed commands such as "/imagine" or "/settings"that you type into the message bar to trigger the Midjourney bot. Whereas, parameters refer to examples like "--v6"or "--niji," which you use to provide additional instructions along with your prompt.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1  The Blend Command: Combine Images Together 
 
  You might already know that Midjourney lets you [create AI images using your own images](https://buynow-tips.techidaily.com/review-of-audews-portable-air-compressor-unmatched-portability-and-dependability/). Now with the _blend_ command, you can upload 2-5 images to Midjourney and combine the concepts and aesthetics of each image into a new original creation.
@@ -38,7 +42,15 @@ thumbnail: https://thmb.techidaily.com/5961427253350c1b74e1650e9c2f8a99858d6dfe3
 
 ![Image of a cyberpunk dog created using Midjourney](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/image-of-a-cyberpunk-dog-created-using-midjourney.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Image of a magical aether eagle created using Midjourney](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/image-of-a-magical-aether-eagle-created-using-midjourney.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close 
 
@@ -46,15 +58,7 @@ Close
 
 ![Midjourney blended image of a Steampunk lion with a cyberpunk dog with a magical eagle](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/midjourney-blended-image-of-a-steampunk-lion-with-a-cyberpunk-dog-with-a-magical-eagle.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  By default, /blend generates square images with a 1:1 aspect ratio. You can customize this by going into Options > Dimension, in the prompt window and specifying the aspect ratio to Portrait, Square, or Landscape. You can also add suffixes and parameters to your blend command just like with /imagine, to further customize the results.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2  The Describe Command: From Images to Text 
 
@@ -62,15 +66,7 @@ Close
 
 ![Use Describe Command to Generate Prompts from Images using Midjourney](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/use-describe-command-to-generate-prompts-from-images-using-midjourney.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can now use these prompts with the /imagine command to see what Midjourney cooks up. Or you can just use this to expand your artistic vocabulary. That said, one of the best use cases of this command is to reverse engineer AI images you see online and on social media and try to recreate them using Midjourney.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3  The No Parameter: Avoid Certain Elements In Images 
 
@@ -81,10 +77,6 @@ Close
 summer picnic scene
 
 ![Image of a Picnic generated using Midjourney showing trees](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/image-of-a-picnic-generated-using-midjourney-showing-trees.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  As you can see, Midjourney is creating images with trees in them. But I don’t want trees. So, if I modify the prompt to:
 
@@ -120,6 +112,10 @@ a child’s painting of a house with a car and a pool.
 
 ![Midjourney image of a child's painting of a house with pool and car](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/midjourney-image-of-a-child-s-painting-of-a-house-with-pool-and-car.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, with stylize set to 10:
 
 a child’s painting of a house with a car and a pool --s 10
@@ -137,7 +133,7 @@ a child’s painting of a house with a car and a pool --s 900
 ![Midjourney image of a child's painting with stylize at 900](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/midjourney-image-of-a-child-s-painting-with-stylize-at-900.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5  The Repeat Parameters: Fast Visual Exploration 
@@ -149,6 +145,10 @@ a child’s painting of a house with a car and a pool --s 900
 two friends sitting at the beach, sunset, --r 5
 
 ![Using the Repeat Parameter in Midjourney](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/using-the-repeat-parameter-in-midjourney.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also mix the “repeat” parameter with other options like the “stylize” parameter to speed up your explorations.
 
@@ -164,6 +164,10 @@ a steampunk cyborg
 
 ![Midjourney image of a steampunk Cyborg](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/midjourney-image-of-a-steampunk-cyborg.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This is exactly how you'd expect Midjourney to create images. Now, let’s set weird to 100:
 
 a steampunk cyborg --w 100
@@ -171,7 +175,7 @@ a steampunk cyborg --w 100
 ![Midjourney image of a steampunk Cyborg with weird parameter at 100](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/midjourney-image-of-a-steampunk-cyborg-with-weird-parameter-at-100.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This is with weird raised to 1000:
@@ -185,6 +189,10 @@ a steampunk cyborg --2 1000
 a steampunk cyborg --w 2500
 
 ![Midjourney image of a steampunk Cyborg with weird parameter at 2500](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/midjourney-image-of-a-steampunk-cyborg-with-weird-parameter-at-2500.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7  The Video Parameter: Capture the Creation Process 
 
@@ -206,10 +214,6 @@ watercolor scenery of a mountain in the woods --video
 
 Your browser does not support the video tag. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8  The Tile Parameter: Craft Stunning Patterns 
 
  I often use Midjourney to create monotonous pattern-based wallpapers and this is when the 'tile"parameter comes in real handy. Of course, you can also use this feature to create any seamless repeating patterns, or textures, or even for printing on fabrics. To use the feature, simply prompt Midjourney to create a pattern and append it with the --tile parameter. You will get a grid of patterns that you can individually upscale and use them as repeating patterns to create large images.
@@ -223,7 +227,7 @@ a pattern of autumn leaves --tile
 ![Midjourney generates a pattern using the tile parameter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/midjourney-generates-a-pattern-using-the-tile-parameter.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Ensure to mention "pattern"in the prompt or else the generated image will have absurd cuts and breaks in the image.
@@ -231,10 +235,6 @@ a pattern of autumn leaves --tile
  You can now use the [Seamless Texture Checker](https://www.pycheung.com/checker/) to see the tile repeat and download it to your system. Whereas, if you want to use it as wallpaper like I do, follow these steps. On your Windows 11 system, go to Settings > Personalize > Background. Pick "Picture" under the option "Personalize Your Background" and select the image under "Choose A Photo field." Then, select “Tile” under "Choose A Fit for your desktop image," and voilà!
 
 ![Creating a Desktop wallpaper using Midjourney image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/creating-a-desktop-wallpaper-using-midjourney-image-1.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -255,17 +255,22 @@ a pattern of autumn leaves --tile
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-future-without-vlc-media-player-insights/"><u>[New] 2024 Approved The Future Without VLC - Media Player Insights</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-maximizing-visibility-post-facebook-update/"><u>[New] In 2024, Maximizing Visibility Post-Facebook Update</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-stream-on-the-go-youtube-via-mobile-for-understaffed-creators/"><u>[New] Stream on the Go YouTube via Mobile for Understaffed Creators</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-art-of-captioning-images-with-text/"><u>[New] The Art of Captioning Images with Text</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-podcast-broadcast-simplifier/"><u>[New] Ultimate Podcast Broadcast Simplifier</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unique-identity-creation-accessible-logo-base-and-personal-customization-for-no-cost/"><u>[New] Unique Identity Creation Accessible Logo Base & Personal Customization for No-Cost</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-preserve-your-display-win-os-snapshots-explained/"><u>[Updated] 2024 Approved Preserve Your Display Win OS Snapshots Explained</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transform-your-listening-experience-into-a-learning-adventure-with-podcasts/"><u>2024 Approved Transform Your Listening Experience Into a Learning Adventure (With Podcasts)</u></a></li>
-<li><a href="https://change-location.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Vivo Y02T | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-oppo-f23-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Oppo F23 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-surging-interest-through-effective-strategies-for-fb-giveaway-promotions/"><u>In 2024, Surging Interest Through Effective Strategies for FB Giveaway Promotions</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-mastering-the-art-of-visual-flow-with-kinemaster/"><u>[New] In 2024, Mastering the Art of Visual Flow with Kinemaster</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-visual-wit-a-guide-to-making-memes-shine/"><u>[New] In 2024, Visual Wit A Guide to Making Memes Shine</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-turning-youtube-viewers-into-brand-partners/"><u>[New] The Ultimate Guide to Turning Youtube Viewers Into Brand Partners</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-effective-one-channel-streaming-techniques/"><u>[New] Unlocking Effective One-Channel Streaming Techniques</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-game-centric-tvs-top-picks-for-ps5xbox-series-x/"><u>[Updated] Game-Centric TVs Top Picks for PS5/Xbox Series X</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-instagram-alter-your-tone-effectively-for-2024/"><u>[Updated] Mastering Instagram Alter Your Tone Effectively for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-innovators-playbook-for-premiere-pro-fullscreen-edits/"><u>[Updated] The Innovator's Playbook for Premiere Pro Fullscreen Edits</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-mood-matcher-auditory-selection-for-videos/"><u>2024 Approved Mood Matcher Auditory Selection for Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-pathway-to-free-final-cut-pro/"><u>2024 Approved The Pathway to Free Final Cut Pro</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-unveiling-top-5-essential-android-photo-editing-software/"><u>2024 Approved Unveiling Top 5 Essential Android Photo Editing Software</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-lava-storm-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlock-potential-with-best-free-text-psdfree/"><u>In 2024, Unlock Potential with Best Free Text PSDFree</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/mastering-shade-changes-3-photoshop-hacks-for-2024/"><u>Mastering Shade Changes 3 Photoshop Hacks for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/straightforward-video-recorders-for-win10/"><u>Straightforward Video Recorders for Win10</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tale-weavers-hub-hall-of-fame-picks-for-2024/"><u>Tale Weavers Hub - Hall of Fame Picks for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-complete-inshot-editors-handbook-to-smoothness-for-2024/"><u>The Complete Inshot Editor's Handbook to Smoothness for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-arp-cache-insights-and-clearing-methods/"><u>Windows ARP Cache Insights & Clearing Methods</u></a></li>
 </ul></div>
 

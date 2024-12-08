@@ -1,7 +1,7 @@
 ---
 title: "Bridging Operating Systems: A Comprehensive Guide to Using Ubuntu Software on Your Windows 11 Machine"
-date: 2024-11-23T17:22:59.379Z
-updated: 2024-11-28T18:03:14.837Z
+date: 2024-12-01T02:37:23.231Z
+updated: 2024-12-07T20:32:30.315Z
 tags:
   - deals
 categories:
@@ -11,16 +11,16 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 
 ## Bridging Operating Systems: A Comprehensive Guide to Using Ubuntu Software on Your Windows 11 Machine
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Install WSL2 Kernel, activate Virtual Machine Platform, and make sure you have Admin rights before getting Ubuntu on Windows 11.
 * Enable Windows Subsystem for Linux, then download and install Ubuntu for WSL via Microsoft Store to run Linux apps on Windows 11.
 
  Did you know using Ubuntu-exclusive apps doesn't require overwriting your operating system? Unlock the true potential of your Windows desktop by using Ubuntu apps on Windows 11, enhancing your PC experience by blending the power of Linux and Windows.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Why Use Ubuntu Apps on Windows 11?
 
@@ -53,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
  Upon rebooting, log back into your Windows 11 desktop. Once you've logged back in, the Windows Subsystem for Linux will be enabled on Windows 11.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Installing Ubuntu
@@ -74,19 +74,19 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 
 ![Ubuntu WSL is installing itself to Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-ubuntu-is-installing.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once Ubuntu has finished its setup on Windows 11, you will see an empty terminal window, ready for you to interact with Ubuntu on your Windows 11 system.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Basic Configuration Tips
 
  Here are some basic configuration tips to improve the WSL experience on Windows 11.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Windows and Linux File System Integration
 
@@ -101,10 +101,6 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
  To access Windows files from Ubuntu, navigate to the **/mnt/c** folder using the cd command. This method provides interaction with the Windows 11 **C:/** drive.
 
 cd /mnt/c
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Update your Ubuntu WSL app
 
@@ -140,10 +136,14 @@ nohup program_name & disown
 
 ![Linux apps Kdenlive and Wireshark are running inside of Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-kdenlive-and-wireshark-open.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Alternatively, applications can be started from the Windows 11 start menu.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Integration with Windows 11
@@ -179,24 +179,19 @@ wsl --update
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-next-gen-cinema-a-virtual-leap-forward/"><u>[New] Next-Gen Cinema A Virtual Leap Forward</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-social-media-sphere-speaking-up-to-fans/"><u>[New] The Social Media Sphere Speaking Up to Fans</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-iphonedesktop-video-change-top-8-recommendations/"><u>[New] The Ultimate Guide to iPhone/Desktop Video Change Top 8 Recommendations</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-incorporating-jump-cuts-for-smoother-edits/"><u>[Updated] Incorporating Jump Cuts for Smoother Edits</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-groundbreaking-feedback-vllo-review/"><u>2024 Approved Groundbreaking Feedback VLLO Review</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-creative-expressions-building-stories-from-photos-in-pixiz/"><u>2024 Approved Unlock Creative Expressions Building Stories From Photos in Pixiz</u></a></li>
-<li><a href="https://blog-min.techidaily.com/mp3m4p4/"><u>最高の無料MP3変換ツール：M4Pからシームレスに変更！4つのお勧めアプリ</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/best-note-taking-solutions-the-ultimate-guide-to-apps-for-your-ipad/"><u>Best Note-Taking Solutions: The Ultimate Guide to Apps for Your iPad</u></a></li>
-<li><a href="https://apple-account.techidaily.com/can-i-remove-the-apple-watch-activation-lock-by-iphone-7-plus-without-the-previous-owner-by-drfone-ios/"><u>Can I Remove the Apple Watch Activation Lock By iPhone 7 Plus without the Previous Owner?</u></a></li>
-<li><a href="https://change-location.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Vivo Y100i Power 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-optimize-your-iphone-for-gif-saving-and-playing-like-a-pro/"><u>In 2024, Optimize Your iPhone for GIF Saving & Playing Like a Pro</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-future-in-flight-hubsan-h501s-hovering-highlights/"><u>In 2024, The Future in Flight Hubsan H501S Hovering Highlights</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-time-saving-strategies-mastering-video-playback-speed/"><u>In 2024, Time-Saving Strategies Mastering Video Playback Speed</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unrivaled-dramas-from-the-eightfold-storytelling-sphere/"><u>In 2024, Unrivaled Dramas From the Eightfold Storytelling Sphere</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/securely-boost-your-tiktok-engagement-and-reach-for-2024/"><u>Securely Boost Your TikTok Engagement & Reach for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-art-of-visual-communication-video-creation-techniques-in-windows-10-for-2024/"><u>The Art of Visual Communication Video Creation Techniques in Windows 10 for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/the-future-of-wireless-connectivity-asus-zenwifi-xt8-ax6600-rigorously-tested-and-reviewed/"><u>The Future of Wireless Connectivity: ASUS ZenWiFi XT8 (AX6600) Rigorously Tested and Reviewed</u></a></li>
-<li><a href="https://some-skills.techidaily.com/toolwiz-evaluation-the-top-choice-in-mobile-editing-in-2024/"><u>Toolwiz Evaluation The Top Choice in Mobile Editing, In 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-the-issue-with-overwatchs-push-to-talk-feature/"><u>Troubleshooting Guide: Fixing the Issue with Overwatch's Push-to-Talk Feature</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-futures-canvas-unveiling-6-pioneers-of-nft-artistry/"><u>[New] The Future's Canvas Unveiling 6 Pioneers of NFT Artistry</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-5-cloud-based-voice-customizers-for-chrome-os-vocal-transformation-tools-reviewed/"><u>[New] Top 5 Cloud-Based Voice Customizers for Chrome OS Vocal Transformation Tools Reviewed</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-turn-off-youtube-previews-on-all-devices/"><u>[Updated] Turn Off YouTube Previews on All Devices</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gratis-omzettingen-3gpp-dokuments-in-online-bewerking-movavi/"><u>Gratis Omzettingen: 3GPP-Dokuments In Online Bewerking - Movavi</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-iphone-transfer-transfer-contact-from-apple-iphone-8-plus-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, iPhone Transfer Transfer Contact from Apple iPhone 8 Plus to iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streaming-success-without-xsplit/"><u>In 2024, Streaming Success Without Xsplit</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-from-apple-iphone-se-2020-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID From Apple iPhone SE (2020) Making It Possible</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/kit-list-for-road-trip-movie-making/"><u>Kit List for Road-Trip Movie Making</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/next-gen-clarity-in-depth-review-of-best-8k-monitors-for-2024/"><u>Next-Gen Clarity In-Depth Review of Best 8K Monitors for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/revamping-controls-the-god-of-war-evolution/"><u>Revamping Controls: The 'God of War' Evolution</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211314264-9781440543883-the-art-of-mandala-meditation/"><u>The Art of Mandala Meditation | Free Book</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-best-softbox-lighting-kits-of-2024/"><u>The Best Softbox Lighting Kits of 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-access-royalty-free-clip-art-tips-for-2024/"><u>Unlocking Access Royalty-Free Clip Art Tips for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-engagement-top-5-compelling-book-trailers-for-2024/"><u>Unlocking Engagement Top 5 Compelling Book Trailers for 2024</u></a></li>
 </ul></div>
 

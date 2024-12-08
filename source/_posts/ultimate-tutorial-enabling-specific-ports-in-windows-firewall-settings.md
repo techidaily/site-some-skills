@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Tutorial: Enabling Specific Ports in Windows Firewall Settings"
-date: 2024-11-23T20:15:08.185Z
-updated: 2024-11-28T19:10:51.585Z
+date: 2024-12-03T16:48:28.656Z
+updated: 2024-12-07T16:20:41.933Z
 tags:
   - deals
 categories:
@@ -11,14 +11,14 @@ thumbnail: https://thmb.techidaily.com/96d460ad778074a93b63a308714d13a6fb98bd643
 
 ## Ultimate Tutorial: Enabling Specific Ports in Windows Firewall Settings
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [What Do Ports Do?](https://easy-unlock-android.techidaily.com/unlock-your-nokia-105-classic-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/)
 * [How to Open a Port on Windows 10](https://extra-support.techidaily.com/prime-choices-of-drones-up-for-grabs-for-2024/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -28,25 +28,21 @@ thumbnail: https://thmb.techidaily.com/96d460ad778074a93b63a308714d13a6fb98bd643
 
  Firewalls are there to protect you from threats on the internet (both traffic from the internet and from local applications trying to gain access when they shouldn't). Sometimes, though, you'll want to allow otherwise restricted traffic through your firewall. To do so, you'll have to open a port.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Do Ports Do? 
 
  When a device connects to another device on a network (including the internet), it specifies a port number that lets the receiving device know how to handle the traffic. Where an [IP address](https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/) shows traffic how to get to a particular device on a network, the port number lets the receiving device know which program gets that traffic. By default, most unsolicited traffic from the internet is blocked by Windows Firewall. If you're running something like a game server, you might need to open a port to allow that specific kind of traffic through the firewall.
 
  This article shows you how to open a port on a particular PC's firewall to let traffic in. If you have a router on your network (which you likely do), you will also need to allow the same traffic through that router by [forwarding the port](https://tech-revival.techidaily.com/unlock-chatgpts-potential-with-simple-plugin-signups/) there.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Open a Port on Windows 10
 
  Clicking Start, type "Windows Firewall" into the search box, and then click on "Windows Defender Firewall."
 
 ![Search for "Windows Defender" in the Start menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-search-windows-defender-firewall.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once Windows Firewall opens, click on "Advanced Settings."
 
@@ -72,13 +68,13 @@ thumbnail: https://thmb.techidaily.com/96d460ad778074a93b63a308714d13a6fb98bd643
 
 ![Select the port you want to forward. Do not open "All local ports."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-specify-ports.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On the next page, click "Allow the Connection" and then click "Next."
 
 ![/wordpress/wp-content/uploads/2018/11/2018-11-10_12h22_57.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/11/2018-11-10_12h22_57.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  For this guide, we'll be using the "Allow the Connection" option, as we trust the connection for which we're creating a rule. If you want a little more piece of mind, the "Allow the connection if it is secure" rule uses [Internet Protocol security (IPsec)](https://www.howtogeek.com/211329/which-is-the-best-vpn-protocol-pptp-vs.-openvpn-vs.-l2tpipsec-vs.-sstp/) to authenticate the connection. You can try that option, but many apps do not support it. If you try the more secure option and it doesn't work, you can always come back and change to the less secure one.
 
@@ -91,12 +87,16 @@ thumbnail: https://thmb.techidaily.com/96d460ad778074a93b63a308714d13a6fb98bd643
 ![Choose which networks the rule applies to.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/8-choose-relevant.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the final window, give your new rule a name and an optional, more detailed description. Click "Finish" when you're done.
 
 ![Enter a rule name and description.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/9-click-finish-after-entering-description.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you want to disable the rule at any point, locate it in the list of Inbound or Outbound Rules, right-click it, and then click "Disable Rule."
 
@@ -119,18 +119,14 @@ thumbnail: https://thmb.techidaily.com/96d460ad778074a93b63a308714d13a6fb98bd643
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-iphones-finest-leading-cost-free-photo-layout-apps-ranked/"><u>[New] IPhone's Finest Leading Cost-Free Photo Layout Apps Ranked</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-speaking-and-listening-to-create-better-decks/"><u>[New] Speaking and Listening to Create Better Decks</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transform-your-images-with-freepaid-lut-bundles-for-canon/"><u>[New] Transform Your Images with Free/Paid LUT Bundles for Canon</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-prime-selection-of-websites-for-youtube-video-intro-download/"><u>[Updated] In 2024, Prime Selection of Websites for YouTube Video Intro Download</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-cinematic-trailer-collection/"><u>2024 Approved Ultimate Cinematic Trailer Collection</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unmatched-playwrights-arena/"><u>2024 Approved Unmatched Playwright's Arena</u></a></li>
-<li><a href="https://win-special.techidaily.com/windows-pc-photorec/"><u>讓你的 Windows PC 脫穎而出： PhotoRec 援助文件重建方法</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/enhanced-cloud-storage-efficiency-addressing-and-preventing-400-bad-request-issues-in-s3-environments/"><u>Enhanced Cloud Storage Efficiency: Addressing and Preventing 400 Bad Request Issues in S3 Environments</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-infinix-note-30-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Infinix Note 30 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-minimal-effort-maximum-recovery-for-deleted-posts/"><u>In 2024, Minimal Effort, Maximum Recovery for Deleted Posts</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-the-ultimate-macos-manual-for-ootd-videographers/"><u>In 2024, The Ultimate MacOS Manual for OOTD Videographers</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-apps-and-online-tools-to-track-oneplus-nord-ce-3-5g-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track OnePlus Nord CE 3 5G Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://article-posts.techidaily.com/ultimate-guide-to-iphoneandroid-photo-editors/"><u>Ultimate Guide to iPhone/Android Photo Editors</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-inexpensive-quality-camera-solutions/"><u>[New] In 2024, Inexpensive Quality Camera Solutions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-text-preset-mastery/"><u>[New] The Ultimate Guide to Text Preset Mastery</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unseen-wonders-in-vlcs-arsenal-of-features/"><u>[Updated] Unseen Wonders in VLC's Arsenal of Features</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleashing-creativity-with-pexels-finding-fabulous-images/"><u>2024 Approved Unleashing Creativity with Pexels Finding Fabulous Images</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleashing-humor-the-kapwing-meme-builder-way/"><u>2024 Approved Unleashing Humor The Kapwing Meme Builder Way</u></a></li>
+<li><a href="https://win-premium.techidaily.com/discover-the-best-no-cost-replacements-for-windows-11-in-this-detailed-overview/"><u>Discover the Best No-Cost Replacements for Windows 11 in This Detailed Overview</u></a></li>
+<li><a href="https://win-answers.techidaily.com/high-definition-photography-on-the-latest-ipod-touch-with-up-to-960-x/"><u>High-Definition Photography on the Latest iPod Touch with Up to 960 X 지원</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-step-by-step-mastery-how-to-design-your-vr-alter-egos-efficiently/"><u>In 2024, Step-by-Step Mastery How to Design Your VR Alter Egos Efficiently</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/microsoft-surface-pro-8-huge-discounts-this-cyber-monday-save-600-post-black-friday-2022-tech-news/"><u>Microsoft Surface Pro 8 Huge Discounts This Cyber Monday - Save $600 Post-Black Friday 2022 | Tech News</u></a></li>
 </ul></div>
 

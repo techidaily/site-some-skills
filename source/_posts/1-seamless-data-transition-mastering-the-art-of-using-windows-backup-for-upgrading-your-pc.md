@@ -1,7 +1,7 @@
 ---
 title: "1. Seamless Data Transition: Mastering the Art of Using Windows Backup for Upgrading Your PC"
-date: 2024-11-21T16:21:56.232Z
-updated: 2024-11-28T17:13:57.899Z
+date: 2024-12-05T17:53:34.598Z
+updated: 2024-12-07T23:59:29.938Z
 tags:
   - desktop
 categories:
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 * [Step 3: Backup Your Old PC](https://change-location.techidaily.com/how-to-use-ispoofer-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/)
 * [Step 4: Restore to Your New PC](https://ios-unlock.techidaily.com/in-2024-did-your-iphone-12-passcode-change-itself-unlock-it-now-by-drfone-ios/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Sign in to your Microsoft account to use Windows Backup for an easy transfer process.
@@ -29,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 * Backup your old PC, then restore the data to your new PC after signing in with your Microsoft account.
 
  We all know that feeling of getting a new PC and wanting to get straight into things. I remember the old days, spending hours transferring my files and trying to replicate my settings. Among the many ways to transfer your data nowadays, Windows Backup offers a simple and reliable solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Step 1: Sign in to Your Microsoft Account
 
@@ -38,12 +38,16 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 
 !['Settings' typed into the taskbar search box and the 'Settings' option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/windows-settings.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then, click "Accounts" and follow the on-screen instructions to sign in.
 
 ![Windows Settings with 'Accounts' highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/windows-accounts.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Step 2: Manage Your Backup Settings
@@ -68,15 +72,15 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 
 !['Backup' is typed into the taskbar search box, and the 'Windows Backup' option is highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/open-windows-backup.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In the Windows Backup dialog box, you'll see the different things you can include in your transfer. Click the drop-down arrows next to each section to choose which folders, apps, settings, and credentials you want to transfer to your new computer.
 
  You can also see an estimate of how much storage you'll need to perform the backup in the bottom left-hand corner of the window. _Free Microsoft accounts come with just 5GB of folder storage_, so if you need to back up more than that, you must [purchase more storage through a different Microsoft plan](https://www.microsoft.com/en-gb/microsoft-365/onedrive/compare-onedrive-plans). Alternatively, you could perform a manual [backup to an external hard drive](https://instagram-videos.techidaily.com/new-understanding-and-executing-photo-gender-modification-across-platforms-for-2024/), or [use a third-party storage solution](https://instagram-video-recordings.techidaily.com/navigating-the-truth-in-your-photos-an-instagram-selfie-audit/). However, you _cannot_ use an external storage device or a third-party cloud service with Windows Backup. 
 
 ![The Windows Backup window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/windows-backup-window-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * The Folders option backs up the same folders that are automatically stored in your OneDrive sync—your Documents, Pictures, Desktop, Music, and Videos folders. These folders likely contain everything you want to move, but if you have important folders elsewhere, be sure to add them to your OneDrive folder manually, or use an alternative storage solution.
 * TheAppsoption will transfer all the apps you have installed on your old computer to your new computer.
@@ -84,7 +88,7 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 * The Credentials drop-down will help you to transfer your account details, Wi-Fi networks, and passwords.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Step 3: Backup Your Old PC
@@ -100,10 +104,6 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
  When setting up your new computer, when prompted, login with the same Microsoft account you used to create your backup on your old computer. You will then be able to select your old PC's details, which includes the backup you performed, and click "Restore From This PC."
 
 ![The 'Restore Backup' screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/restore-backup.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Microsoft
 
@@ -128,22 +128,22 @@ Microsoft
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/evolutionizing-audience-retention-on-youtube-with-these-top-6-techniques/"><u>[New] Revolutionizing Audience Retention on YouTube with These Top 6 Techniques</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/he-art-of-disregarding-harmful-youtube-comments-for-2024/"><u>[New] The Art of Disregarding Harmful YouTube Comments for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transforming-iphone-photos-upside-down-and-sideways-tricks/"><u>[New] Transforming iPhone Photos Upside-Down & Sideways Tricks</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-supreme-cyber-seminar-sorter/"><u>2024 Approved Supreme Cyber Seminar Sorter</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-affordable-asmr-recording-setup-excellence/"><u>2024 Approved Ultimate Affordable ASMR Recording Setup Excellence</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/audio-visual-innovators-group-for-2024/"><u>Audio-Visual Innovators Group for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Realme Note 50 | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/crafting-a-balanced-narrative-with-b-roll-content/"><u>Crafting a Balanced Narrative with B-Roll Content</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-tecno-pop-7-pro-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Tecno Pop 7 Pro FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-gamers-choice-best-4k-monitors/"><u>In 2024, Top Gamer's Choice Best 4K Monitors</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transform-still-photos-using-illustration-for-dynamic-effects/"><u>In 2024, Transform Still Photos Using Illustration for Dynamic Effects</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-pictures-the-leaderboard-of-phone-sticker-enhancers/"><u>In 2024, Transform Your Pictures - The Leaderboard of Phone Sticker-Enhancers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-potential-gopro-karmas-journey/"><u>In 2024, Unleashing Potential GoPro Karma's Journey</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-network-settings-in-windows-10-activate-and-deactivate-discovery/"><u>Mastering Network Settings in Windows 10: Activate and Deactivate Discovery</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Poco F5 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/trailblazing-the-mobile-app-landscape/"><u>Trailblazing the Mobile App Landscape</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-the-world-of-no-cost-picture-frame-movies-for-2024/"><u>Unlocking the World of No-Cost Picture Frame Movies for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-editors-face-off-which-is-superior-filmora-or-democreator/"><u>[New] 2024 Approved Editors Face-Off Which Is Superior, Filmora or Democreator?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-boundless-video-recorder-app/"><u>[New] Boundless Video Recorder App</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tips-and-tricks-erasing-unwanted-backdrops/"><u>[New] Tips and Tricks Erasing Unwanted Backdrops</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-enhance-editing-unlimited-free-audio-samples-in-2024/"><u>[Updated] Enhance Editing Unlimited Free Audio Samples, In 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-toolkit-for-dominating-social-media-management-smm/"><u>[Updated] The Ultimate Toolkit for Dominating Social Media Management (SMM)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-timeless-80s-effects-boosting-creative-videos/"><u>[Updated] Timeless 80S Effects Boosting Creative Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-compreenas-record-your-life-in-hd-via-vlc-media-player/"><u>2024 Approved Compreenas Record Your Life in HD via VLC Media Player</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-quintessential-quest-for-stories-worlds-best-1-8-schools/"><u>2024 Approved The Quintessential Quest for Stories – World's Best #1-#8 Schools</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/1724312527575-ai-ocr-abbyy/"><u>高精度AI-OCRを活用した効率的な会計文書管理システムの解決方法 | ABBYYデジタルドキュメントソリューション</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/erase-distractions-top-video-blur-apps-for-face-and-background/"><u>Erase Distractions Top Video Blur Apps for Face and Background</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-cool-should-your-pc-be-for-optimal-gameplay/"><u>How Cool Should Your PC Be for Optimal Gameplay?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-20-public-license-pubg-image-collections/"><u>In 2024, Best 20 Public License PUBG Image Collections</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-premier-pro-ultimate-2023-template-collection-free/"><u>In 2024, Premier Pro Ultimate 2023 Template Collection (FREE)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tech-trial-vlle-outlook-on-apps/"><u>In 2024, Tech Trial VLLE Outlook on Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-visual-companion-premium-webcams-for-podcasts/"><u>In 2024, The Ultimate Visual Companion Premium Webcams for Podcasts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-complete-blueprint-for-effective-lut-usage-in-editing-for-2024/"><u>The Complete Blueprint for Effective LUT Usage in Editing for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-google-nest-wi-fi-swift-performance-in-a-wireless-network-system/"><u>Unveiling the Google Nest Wi-Fi: Swift Performance in a Wireless Network System</u></a></li>
 </ul></div>
 

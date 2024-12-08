@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Evaluating Secondhand Windows PCs – 8 Key Points
-date: 2024-11-21T18:34:36.325Z
-updated: 2024-11-28T21:53:47.513Z
+date: 2024-12-05T16:42:34.822Z
+updated: 2024-12-07T22:14:51.385Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## The Ultimate Guide to Evaluating Secondhand Windows PCs – 8 Key Points
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -28,11 +24,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Buying a used laptop can indeed save you money, but it does come with some risks. This is why you should thoroughly examine the laptop before closing the deal to avoid unpleasant surprises later on. If you doubt the credibility of the seller, here's how you can test the used laptop.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Test the Keyboard and Trackpad
 
  Begin the laptop inspection by testing the keyboard and trackpad first. To test the keyboard, go to a keyboard testing website like [Keyboard Tester](https://www.keyboardtester.com/tester.html) and press each key from the first to the last. If all keys register correctly, the keyboard is likely in good condition. Also, make sure you feel comfortable typing on the keyboard.
 
 ![Keyboard tester typing letters in lowercase with Caps Lock off.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-keyboard-tester-typing-letters-in-lowercase-with-caps-lock-off.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To test the trackpad, hover over the screen to gauge its responsiveness. Then, experiment with different trackpad gestures, such as pinch-to-zoom and two-finger scroll, to see which ones are supported. If you have another laptop, you can compare trackpad responsiveness by conducting a touchpad accuracy test on both laptops using the [No-Cursor website](https://no-cursor.com/).
 
@@ -51,7 +55,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Testing the laptop microphone in Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/2-testing-the-laptop-microphone-in-settings.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Test the Built-In Camera
@@ -59,10 +63,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  If you intend to use the laptop for video communication, test its built-in camera. To do this, type **Camera** in the Windows Search bar and open the Camera app.
 
  If the camera app detects the webcam and the visuals are clear and of satisfactory quality, as the seller claimed, then the camera is working correctly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Check the Health of Your Laptop Battery
 
@@ -79,7 +79,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Checking the laptop battery report.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/08/br_5.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Ensure the Laptop Isn't Stolen
@@ -94,15 +94,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Also, watch out for stickers that may be covering up wear and tear underneath, as this is a common practice.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Test the Wired and Wireless Connectivity
 
  The worst scenario you could face is finding your [laptop unable to connect to the internet](https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual/) (via Wi-Fi or Ethernet cable), USB ports failing to detect external devices, or Bluetooth malfunctioning—all after completing the purchase. Because of that, confirming there are no wired or wireless connectivity issues is important.
 
  Start by connecting your laptop to Wi-Fi. Then, [test its Ethernet port](https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/) by plugging it directly into the router. If the internet connection works well, test the audio jacks with headphones. Similarly, check the USB ports by connecting a wired device. Finally, make sure Bluetooth is working by pairing a Bluetooth-powered device.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Check the Health of RAM and Storage Drive
 
@@ -133,21 +133,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-no-experience-guide-to-earning-on-reddit-13-strategies-inside/"><u>[New] The Ultimate, No-Experience Guide to Earning on Reddit - 13 Strategies Inside</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-critical-analysis-of-the-best-free-video-chat-software-suitable-for-businesses-and-educators/"><u>[Updated] 2024 Approved Critical Analysis of the Best Free Video Chat Software Suitable for Businesses & Educators</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-inspirational-slide-shows-10-best-places-to-download-them-for-free/"><u>[Updated] Inspirational Slide Shows 10 Best Places to Download Them For Free</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-optimizing-age-information-in-tiktok-profiles/"><u>[Updated] Optimizing Age Information in TikTok Profiles</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-tailoring-drop-dates-to-maximize-listener-interest/"><u>[Updated] Tailoring Drop Dates to Maximize Listener Interest</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-enhancing-videos-with-online-filters/"><u>[Updated] The Ultimate Guide to Enhancing Videos with Online Filters</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/beyond-boundaries-next-gen-ai-discussions/"><u>Beyond Boundaries: Next Gen AI Discussions</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-common-issues-with-the-paradox-game-launcher-practical-tips-for-success/"><u>Fixing Common Issues with the Paradox Game Launcher - Practical Tips for Success</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-changing-instagram-voices-a-step-by-step-guide/"><u>In 2024, Changing Instagram Voices A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-making-bank-with-youtube-an-analysis-of-pewdiepies-earnings/"><u>In 2024, Making Bank with YouTube An Analysis of PewDiePie’s Earnings</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-uncovering-invisible-challenges-in-vr/"><u>In 2024, Uncovering Invisible Challenges in VR</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unpacking-virtual-reality-its-upside-and-downside/"><u>In 2024, Unpacking Virtual Reality Its Upside & Downside</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-top-6-head-mounts-expert-reviews-for-action-photography/"><u>In 2024, Unveiling The Top 6 Head Mounts Expert Reviews for Action Photography</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-10-quick-and-free-jpeg-to-gif-conversion-services-for-2024/"><u>Top 10 Quick & Free JPEG-to-GIF Conversion Services for 2024</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/top-7-solutions-for-retrieving-lost-data-post-windows-11-upgrade/"><u>Top 7 Solutions for Retrieving Lost Data Post-Windows 11 Upgrade</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-innovating-your-gaming-experience-capturing-ps3-playthroughs/"><u>[New] 2024 Approved Innovating Your Gaming Experience Capturing PS3 Playthroughs</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-screenplay-grooves-best-background-tunes-for-yt-shorts/"><u>[New] 2024 Approved Screenplay Grooves Best Background Tunes For YT Shorts</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-unlocking-the-million-sub-code-insights-for-digital-growth/"><u>[New] 2024 Approved Unlocking the Million-Sub Code Insights for Digital Growth</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-become-a-gif-artist-basic-steps/"><u>[New] Become a GIF Artist Basic Steps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-30-mobile-video-edits-using-dji-technology/"><u>[New] Top 30 Mobile Video Edits Using DJi Technology</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-free-animation-digitalphysical-realms/"><u>[New] Unlocking Free Animation Digital/Physical Realms</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-memelife-top-meme-creator-tool-download/"><u>[Updated] Ultimate Memelife Top Meme Creator Tool Download</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleash-the-potential-master-avi-to-gif-conversion-using-filmora/"><u>[Updated] Unleash the Potential Master AVI-to-GIF Conversion Using Filmora</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-resource-guide-for-refining-on-screen-text-in-videos/"><u>2024 Approved The Ultimate Resource Guide for Refining On-Screen Text in Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transform-images-on-the-fly-the-best-overlay-apps-for-android-and-iphone/"><u>2024 Approved Transform Images on the Fly – The Best Overlay Apps for Android & iPhone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlicensed-zen-audio-streaming/"><u>2024 Approved Unlicensed Zen Audio Streaming</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/dominate-search-results-essential-tips-for-optimizing-youtube-videos-for-2024/"><u>Dominate Search Results Essential Tips for Optimizing YouTube Videos for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-oppo-reno-10-5g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Oppo Reno 10 5G</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/portraying-paradoxes-effects-for-time-travel-films-for-2024/"><u>Portraying Paradoxes Effects for Time Travel Films for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-samsung-galaxy-a05-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Samsung Galaxy A05</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/synchronized-group-challenges-in-anime-inspired-tiktok-videos-for-2024/"><u>Synchronized Group Challenges in Anime-Inspired TikTok Videos for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-vlogging-battle-gopro-hero5-black-vs-sessions-for-2024/"><u>The Ultimate Vlogging Battle GoPro Hero5 Black VS Sessions for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-vr-classics-dont-miss-out-for-2024/"><u>Top VR Classics - Don’t Miss Out for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/youtube-tycoons-earning-the-most/"><u>YouTube Tycoons Earning the Most</u></a></li>
 </ul></div>
 

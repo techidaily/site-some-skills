@@ -1,7 +1,7 @@
 ---
 title: How Does Conky Elevate the Visual Appeal of Your Linux Workspace?
-date: 2024-11-21T21:05:43.722Z
-updated: 2024-11-28T16:40:54.521Z
+date: 2024-12-03T21:19:55.617Z
+updated: 2024-12-08T00:37:01.840Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## How Does Conky Elevate the Visual Appeal of Your Linux Workspace?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -31,6 +27,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * **Display custom information:** Set up calendar view, to-do list, weather, etc.
 * **Choose information source:** Embed information from any third-party sources and show it on your desktop.
 * **Tweak appearance:** Complete control over the fonts, colors, and layouts of each widget.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Installation and Set Up
 
@@ -60,6 +60,10 @@ sudo apt install conky-manager2
 
 ![Installing Conky and Conky Manager in a Linux terminal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/installing-conky-and-conky-manager.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You’ve successfully installed Conky and Conky Manager on your system. Now, you can technically run the Conky app directly, and you’ll get the following widget on your desktop. It’s a barebone experience where you’ll have to write scripts to tweak the appearance, behavior, and functionality of this widget.
 
 ![Conky and Conky Manager in Application Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/conky-and-conky-manager-in-application-menu.png) 
@@ -75,7 +79,7 @@ Close
 ![Conky manager overview](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/conky-manager-overview.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Using Conky Manager to Edit Conky Widgets](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/using-conky-manager-to-edit-conky-widgets.png) 
@@ -85,7 +89,7 @@ Close
  By default, the Conky Manager comes with a number of widgets, but they aren’t eye-catching enough. Not to worry though, as there are talented folks who have developed dedicated Conky themes with stylish widgets that you can simply download and start using on your system, no code necessary.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Installing Conky Themes
@@ -95,10 +99,6 @@ Close
 ![Download the victorConky theme in a ZIP format.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/download-victorconky-theme.png) 
 
 ![Extract the victorConky zip file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/extract-the-victorconky-zip-file.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close 
 
@@ -112,13 +112,13 @@ mv victorConky ~/.conky
 
 ![Move the victorConky file to your home directory conky folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/move-victoconky-file-to-home-directory-conky-folder.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now, the victorConky widgets should be accessible from the Conky Manager. Open it, and you should see a list of new widgets added. I personally liked the LinuxLarge widget and use it on my system. You can enable it by clicking the checkbox beside it.
 
 ![The victorConky widget enabled and visible on an Ubuntu desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/victorconky-widget-showcase.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Useful Resources
 
@@ -158,21 +158,18 @@ mv victorConky ~/.conky
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-driving-dreams-into-reality-the-premier-5-racer-simulators-for-2024/"><u>[New] Driving Dreams Into Reality The Premier 5 Racer Simulators for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-how-to-craft-standout-names-for-your-youtube-channel/"><u>[New] How to Craft Standout Names for Your YouTube Channel</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ros-insight-top-8-online-repositories-for-free-green-screen-scenery-for-2024/"><u>[New] Pros' Insight Top 8 Online Repositories for Free Green Screen Scenery for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-blueprinting-a-thrilling-film-flashpoint/"><u>[Updated] In 2024, Blueprinting a Thrilling Film Flashpoint</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-spotlight-synthesis-blending-lights-for-video-excellence-for-2024/"><u>[Updated] Spotlight Synthesis Blending Lights for Video Excellence for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-step-by-step-process-for-aesthetic-and-engaging-instagram-video-content-for-2024/"><u>[Updated] Step-by-Step Process for Aesthetic and Engaging Instagram Video Content for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-the-twittersphere-treasure-trove/"><u>[Updated] The Twittersphere Treasure Trove</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-exploration-inside-xcreative-media-suite/"><u>[Updated] The Ultimate Exploration Inside XCreative Media Suite</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-transforming-photos-remove-background-with-ease/"><u>[Updated] Transforming Photos Remove Background with Ease</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-animated-magic-with-movie-maker-software/"><u>[Updated] Unveiling Animated Magic with Movie Maker Software</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/comprehensive-guide-to-enhancing-footage-in-gopro-studio/"><u>Comprehensive Guide to Enhancing Footage in GoPro Studio</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transform-images-top-5-android-tools/"><u>In 2024, Transform Images Top 5 Android Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-conversion-guide-sdr-to-stunning-hdr-visuals/"><u>In 2024, Ultimate Conversion Guide SDR to Stunning HDR Visuals</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-uncovering-budget-friendly-video-conferencing-tools-for-multiple-systems/"><u>In 2024, Uncovering Budget-Friendly Video Conferencing Tools for Multiple Systems</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-guide-premium-plugins-boosting-ae-projects-for-2024/"><u>Ultimate Guide Premium Plugins Boosting AE Projects for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-top-5-essential-android-photo-editing-software-for-2024/"><u>Unveiling Top 5 Essential Android Photo Editing Software for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-winning-with-windows-videos-tips-for-enhancing-vimeo-feeds/"><u>[New] 2024 Approved Winning with Windows Videos Tips for Enhancing Vimeo Feeds</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-shifting-focus-twitters-videos-to-facebook-streaming/"><u>[New] In 2024, Shifting Focus Twitters' Videos to Facebook Streaming</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-top-swaps-in-film-history-7-best/"><u>[Updated] 2024 Approved Top Swaps in Film History #7 Best</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exclusive-soundstage-shows/"><u>[Updated] Exclusive Soundstage Shows</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-artisans-selection-best-photo-frame-software/"><u>[Updated] The Artisan's Selection Best Photo Frame Software</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-language-of-cinema-writing-as-an-art/"><u>[Updated] The Language of Cinema Writing as an Art</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-productivity-playlist-podcast-inspired-tasks/"><u>[Updated] The Ultimate Productivity Playlist Podcast-Inspired Tasks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-leveraging-picture-in-progressive-mode-on-chrome-across-platforms/"><u>2024 Approved Leveraging Picture in Progressive Mode on Chrome Across Platforms</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/can-your-system-support-specific-applications-insights-from-yl-technologies/"><u>Can Your System Support Specific Applications? - Insights From YL Technologies</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unified-media-exchange-android-ios/"><u>In 2024, Unified Media Exchange Android-iOS</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/egic-approach-to-crafting-youtube-content-headlines-for-2024/"><u>Strategic Approach to Crafting YouTube Content Headlines for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleash-your-devices-potential-how-to-download-and-customize-whatsapp-ringtones-for-2024/"><u>Unleash Your Device's Potential How to Download and Customize WhatsApp Ringtones for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleash-your-podcast-potential-the-ultimate-guide-to-seo-excellence-for-2024/"><u>Unleash Your Podcast Potential The Ultimate Guide to SEO Excellence for 2024</u></a></li>
 </ul></div>
 

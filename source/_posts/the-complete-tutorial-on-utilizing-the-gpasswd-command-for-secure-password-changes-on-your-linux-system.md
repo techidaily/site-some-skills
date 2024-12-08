@@ -1,7 +1,7 @@
 ---
 title: The Complete Tutorial on Utilizing the Gpasswd Command for Secure Password Changes on Your Linux System
-date: 2024-11-21T19:15:53.907Z
-updated: 2024-11-28T22:12:41.118Z
+date: 2024-12-05T18:20:34.898Z
+updated: 2024-12-08T01:13:45.412Z
 tags:
   - desktop
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## The Complete Tutorial on Utilizing the Gpasswd Command for Secure Password Changes on Your Linux System
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Use gpasswd to manage group members & passwords, avoiding security risks & controlling group access efficiently.
@@ -18,6 +22,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * Execute commands like "sudo gpasswd -a user group" to add users and "sudo gpasswd -d user group" to remove them.
 
  Want an easy solution to managing group members and passwords on Linux? The gpasswd command will help you do that. It's used for managing and administering the "/etc/group" and "/etc/gshadow" passwords, members, and administrators. Let's get started.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What Makes the gpasswd Command Useful
 
@@ -44,10 +52,6 @@ gpasswd [option] group
 
  We'll see how to use these options in the upcoming sections of the guide.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Setting Password for a Group
 
  The most common use of the gpasswd command is to [set a password](https://unlock-android.techidaily.com/in-2024-best-honor-100-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/) for specific groups. I'll first create a group we can test it upon. Feel free to skip this if you already have a group. To create a new group on your Linux system, run:
@@ -56,15 +60,15 @@ sudo groupadd demogroup
 
 ![The Linux terminal displaying the process of creating a new group on Linux using the groupadd command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-8.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can use any other name than "demogroup". To confirm if the group creation was successful, display all groups using:
 
 cat /etc/group
 
 ![The Linux terminal showing a list of all groups in the system](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-7.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can see the new group on the list. Now let's create a password for the group. To do that, use:
 
@@ -73,6 +77,10 @@ sudo gpasswd demogroup
  You'll be asked to enter your user password first (since you used sudo). Then you'll be asked to enter a new password for the group. After entering the new password, you need to re-enter it to confirm the password.
 
 ![The Linux terminal displaying the process of setting a new password for a group using the gpasswd command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-7.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now if I try to log into this group, the system will ask for a password. That's because I'm not a member of the group. To log into the group, run:
 
@@ -88,15 +96,7 @@ sudo gpasswd -r demogroup
 
 ![The Linux terminal showing the process of removing the password from a a group in Linux using the gpasswd command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/10-3.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you try to log into the group now as a member, you'll be able to do so without entering the password.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Adding a User to a Group
 
@@ -109,6 +109,10 @@ sudo gpasswd -a user group
 sudo gpasswd -a zunaid demogroup
 
 ![The Linux terminal showing how to use the gpasswd command to add a member to a group](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/5-2.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can confirm whether the member was added or not. For that, use the below command:
 
@@ -148,6 +152,10 @@ sudo gpasswd -d user1 group
                     sudo gpasswd -d user2 group
                     
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Setting the List of Group Members
 
  The gpasswd command allows you to replace the current members of the group with members you want to add. In other words, you can empty the group and then add as many new members as you want with a single command. The -M flag serves that purpose. So for example, currently there are user1 and user2 in a group. You want to remove them and add user3 and user4\. To do this, run:
@@ -156,15 +164,15 @@ sudo gpasswd -M user2,user3 demogroup
 
 ![The Linux terminal showing the process of setting the list of members of a group using the gpasswd command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/11-3.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now if you check the members list of the group, you should see that the previous members are not there. Instead, you'll find the new members.
 
 getent group demogroup
 
 ![The Linux terminal displaying the current the members of a group in Linux after setting the members list using gpasswd](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/12-2.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Promoting a User as the Group Administrator
 
@@ -177,7 +185,7 @@ sudo gpasswd -A zunaid demogroup
 ![The Linux terminal showcasing how to make a user the administrator of a group using the gpasswd command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/8-4.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This doesn't give any output to the terminal. However, you can see the list of administrators of the group to confirm if the operation was successful. Do that with this command:
@@ -185,14 +193,6 @@ sudo gpasswd -A zunaid demogroup
 sudo cat /etc/gshadow
 
 ![The Linux terminal displaying the the administrators of every group in Linux](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/9-3.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  gpasswd Makes Group Management Easy
 
@@ -213,20 +213,22 @@ sudo cat /etc/gshadow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-captivate-your-circle-the-art-of-sending-gifs-on-snapchat/"><u>[New] 2024 Approved Captivate Your Circle The Art of Sending Gifs on Snapchat</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-enhancing-images-with-audio-a-guide-for-2024/"><u>[New] Enhancing Images with Audio A Guide for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-starting-up-in-periscope-tips-to-launch-your-wealth-journey-for-2024/"><u>[New] Starting Up in Periscope Tips to Launch Your Wealth Journey for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-excellent-videocameras-of-the-year-2024/"><u>[New] The Excellent Videocameras of the Year 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-achieve-peak-performance-with-win11-and-zoom-integration/"><u>[Updated] 2024 Approved Achieve Peak Performance with Win11 & Zoom Integration</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-cutting-edge-professional-cameras-a-360-overview-2023/"><u>[Updated] The Cutting-Edge Professional Cameras - A 360° Overview, 2023</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-transforming-business-with-metaverse-ideas/"><u>[Updated] Transforming Business with Metaverse Ideas</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-the-ultimate-guide-to-free-youtube-intros-and-templates/"><u>2024 Approved The Ultimate Guide to Free YouTube Intros & Templates</u></a></li>
-<li><a href="https://review-topics.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-honor-magic-vs-2-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Honor Magic Vs 2 by Name | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enhance-conversations-with-bots-top-6-strategies-to-improve-ai-chatbot-responses/"><u>Enhance Conversations with Bots: Top 6 Strategies to Improve AI Chatbot Responses</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-superior-app-dev-editors-top-15-selection/"><u>In 2024, Superior App Dev Editors Top 15 Selection</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-influencers-playbook-5-tips-for-building-brand-authority-through-reddit-partnerships/"><u>In 2024, The Influencer's Playbook 5 Tips for Building Brand Authority Through Reddit Partnerships</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-time-saving-tips-for-a-swift-google-photo-collage-crafting/"><u>In 2024, Time-Saving Tips for a Swift Google Photo Collage Crafting</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-modern-technology-essential-reviews-by-the-tomer/"><u>Mastering Modern Technology: Essential Reviews by The Tom'er</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/unlocking-fluency-a-guide-to-self-taught-french/"><u>Unlocking Fluency: A Guide to Self-Taught French</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/iscover-8-youtube-thumbnail-generators-online-for-2024/"><u>[New] Discover 8 YouTube Thumbnail Generators Online for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-how-does-a-whole-sphere-video-work/"><u>[New] How Does a Whole-Sphere Video Work?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-future-is-now-hot-10-vr-gear-options/"><u>[New] The Future Is Now Hot 10 VR Gear Options</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-six-sensational-videos-that-keep-on-watchers/"><u>[Updated] Six Sensational Videos That Keep On Watchers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-art-of-seamless-editing-mastering-the-filmora-experience/"><u>[Updated] The Art of Seamless Editing Mastering the Filmora Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-stop-snippet-playback-on-youtube/"><u>[Updated] The Ultimate Guide Stop Snippet Playback on YouTube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tips-for-perfecting-sound-tracks-start-with-auditions-fade-in/"><u>[Updated] Tips for Perfecting Sound Tracks Start with Audition's Fade-In</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-seamless-content-consumption-configuring-pip-for-youtube-on-iphone/"><u>2024 Approved Seamless Content Consumption Configuring PIP for YouTube on iPhone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-mystery-of-slug-line-formats/"><u>2024 Approved Unveiling the Mystery of Slug Line Formats</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/convertir-rmvb-a-formato-de-video-mov-online-sin-coste-soluciones-faciles-e-instrucciones-paso-a-paso/"><u>Convertir RMVB a Formato De Vídeo MOV Online Sin Coste: Soluciones Fáciles E Instrucciones Paso a Paso</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-infinix-hot-30-5g-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Infinix Hot 30 5G Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-motorola-moto-g14-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Motorola Moto G14 to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-strategies-for-improving-your-interview-prowess/"><u>In 2024, Strategies for Improving Your Interview Prowess</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transform-photos-create-masterpieces-with-leading-apps/"><u>In 2024, Transform Photos, Create Masterpieces with Leading Apps</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-honor-100-pro-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Honor 100 Pro? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-fixes-for-office-activation-issues/"><u>Unveiling Fixes for Office Activation Issues</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Honor Magic 6 Lite | Dr.fone</u></a></li>
 </ul></div>
 

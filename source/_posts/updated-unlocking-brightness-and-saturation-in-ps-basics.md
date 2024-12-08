@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unlocking Brightness and Saturation in PS Basics"
-date: 2024-08-20T23:39:36.562Z
-updated: 2024-08-21T23:39:36.562Z
+date: 2024-11-30T17:20:57.287Z
+updated: 2024-12-07T19:44:46.867Z
 tags: 
   - screen-recording
   - ai video
@@ -38,10 +38,6 @@ Below is information on Photoshop, a tool that some creators use for color gradi
 
 02 [3 Simple Ways to Color Grading in Photoshop](#part2)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## What is the difference between color grading and color correction?
 
 Did you even know there was a difference? Well, the answer is yes, and here is how they differ.
@@ -62,9 +58,6 @@ Color grading photoshop refers to the final process of content creation. It invo
 
 For example, tweaking your Instagram photo with a retro color scheme is color grading. You can achieve this by using photoshop cinematic color grading.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Color Correction
 
 Color correction refers to the fixes you make when creating your content. It focuses on making changes relevant to your target audience. You can do this during production from the device. For example, you can adjust your camera’s exposure when shooting your stills. As such, they appear more natural and unprocessed.
@@ -88,9 +81,6 @@ Both processes are essential to creating quality content and vary among creators
 * Furthermore, you use color correction and color grading to indicate the importance of some scene sections. For example, news briefs are usually brighter than the rest of the shot, especially when displaying important messages, such as breaking news.
 * Finally, you do photoshop cinematic color grading to ensure consistency in your photos. Weather is unpredictable and can cause your scenes to vary dramatically. For example, some sections of your location may not receive similar lighting. As such, you can make those sections brighter through color grading in photoshop.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3 Simple Ways to Color Grading in Photoshop
 
 Below are 3 simple ways to color grade in Photoshop.
@@ -105,12 +95,13 @@ Photo filters allow you to quickly make changes to your content by using Photosh
 
 Here is how you do it:
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Open the image
 
 You can do this by using your Photoshop device or selecting it from the program's library.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Open the Photo Filter tool
 
@@ -118,24 +109,18 @@ You will find this in the Adjustments layer of your Photoshop program. Kindly op
 
 ![how to color grade in photoshop](https://images.wondershare.com/filmora/article-images/2022/03/photoshop-color-grading-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ### 3\. Increase the color density of different colors
 
 Click the active color to open the color wheel. Additionally, you can preserve the brightness by leaving the maintain luminosity option checked. Please note some details will disappear depending on the density level.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Cycle between filters
 
 Cycle between different filters by checking the filters option from the same menu. You will find all filter presents from the dropdown menu as per the photo.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![how to color grade in ps](https://images.wondershare.com/filmora/article-images/2022/03/photoshop-color-grading-3.jpg)
 
 ### 4\. Add Layers
@@ -143,6 +128,10 @@ Cycle between different filters by checking the filters option from the same men
 You can add different layers to the image by clicking the New Adjustment Layer icon at the bottom of the Layers palette. You can make different adjustments by repeating the above process.
 
 ![color grade in ps - add layer](https://images.wondershare.com/filmora/article-images/2022/03/photoshop-color-grading-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Using Hue and Saturation
 
@@ -155,6 +144,10 @@ You can also perform color grading in photoshop by making changes using the Hue 
 5. Use the sliders to color grade and color correct your photo.
 
 ![color grade in ps - using hue and saturation](https://images.wondershare.com/filmora/article-images/2022/03/photoshop-color-grading-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Here is how each adjustment affects your photo:
 
@@ -194,6 +187,10 @@ A menu box will appear where you can set your brush. You can customize the follo
 III. You can switch the colors by clicking the main color box to activate the color wheel.
 
 IV. The paint tool offers you different brushes depending on the function. For example, you have a healing brush that repairs pixels and blends them seamlessly with the rest.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -211,18 +208,6 @@ Below is information on Photoshop, a tool that some creators use for color gradi
 
 02 [3 Simple Ways to Color Grading in Photoshop](#part2)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What is the difference between color grading and color correction?
 
 Did you even know there was a difference? Well, the answer is yes, and here is how they differ.
@@ -244,8 +229,9 @@ Color grading photoshop refers to the final process of content creation. It invo
 For example, tweaking your Instagram photo with a retro color scheme is color grading. You can achieve this by using photoshop cinematic color grading.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Color Correction
 
 Color correction refers to the fixes you make when creating your content. It focuses on making changes relevant to your target audience. You can do this during production from the device. For example, you can adjust your camera’s exposure when shooting your stills. As such, they appear more natural and unprocessed.
@@ -273,9 +259,6 @@ Both processes are essential to creating quality content and vary among creators
 
 Below are 3 simple ways to color grade in Photoshop.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Using Photo Filter
 
 Photo filters allow you to quickly make changes to your content by using Photoshop’s presets. Some of the reasons for using it include:
@@ -286,28 +269,20 @@ Photo filters allow you to quickly make changes to your content by using Photosh
 
 Here is how you do it:
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Open the image
 
 You can do this by using your Photoshop device or selecting it from the program's library.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Open the Photo Filter tool
 
 You will find this in the Adjustments layer of your Photoshop program. Kindly open the menu and select the Photo Filter option. Usually, it is located on the bottom right section of your screen.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to color grade in photoshop](https://images.wondershare.com/filmora/article-images/2022/03/photoshop-color-grading-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Increase the color density of different colors
 
 Click the active color to open the color wheel. Additionally, you can preserve the brightness by leaving the maintain luminosity option checked. Please note some details will disappear depending on the density level.
@@ -319,8 +294,13 @@ Cycle between different filters by checking the filters option from the same men
 ![how to color grade in ps](https://images.wondershare.com/filmora/article-images/2022/03/photoshop-color-grading-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Add Layers
 
 You can add different layers to the image by clicking the New Adjustment Layer icon at the bottom of the Layers palette. You can make different adjustments by repeating the above process.
@@ -337,9 +317,6 @@ You can also perform color grading in photoshop by making changes using the Hue 
 4. A menu will open, where you select Hue/Saturation.
 5. Use the sliders to color grade and color correct your photo.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![color grade in ps - using hue and saturation](https://images.wondershare.com/filmora/article-images/2022/03/photoshop-color-grading-5.jpg)
 
 Here is how each adjustment affects your photo:
@@ -349,8 +326,9 @@ Here is how each adjustment affects your photo:
 * Lightness: The slider affects how bright the color you choose will appear. Sliding it extremely left will make it very dark.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Using Paint
 
 Paint is another simple way to color correct and color grade in Photoshop. Additionally, it leaves feeling like an artist if you do it correctly. You can opt for this method if you want to:
@@ -387,7 +365,6 @@ IV. The paint tool offers you different brushes depending on the function. For e
 ## Conclusion
 
 **●** As you can see photoshop color grading is a simple process that results in stunning pictures when you use it correctly. Additionally, you have tons of presets available to simplify your work. An important point to consider is to keep things minimal. Keep checking with us regularly for more insights on how to create quality content with different color correction software.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -411,8 +388,24 @@ IV. The paint tool offers you different brushes depending on the function. For e
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-5-tools-to-make-a-gif-meme/"><u>[New] 5 Tools to Make a GIF Meme</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-bypassing-instagrams-video-roadblocks-effortlessly/"><u>[New] Bypassing Instagram's Video Roadblocks Effortlessly</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-novel-nooks-in-mc-the-simplest-house-designs-for-2024/"><u>[New] Novel Nooks in MC The Simplest House Designs for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transform-your-snapchat-storytelling-learn-to-zoom-like-pros/"><u>[New] Transform Your Snapchat Storytelling Learn to Zoom Like Pros</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unparalleled-top-5-lightweight-cinematography-devices/"><u>[New] Unparalleled Top 5 Lightweight Cinematography Devices</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-who-will-be-the-champion-of-dynamic-video-recording-black-gopro-or-x1000v-for-2024/"><u>[New] Who Will Be the Champion of Dynamic Video Recording, Black GoPro or X1000V for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-evolution-of-burst-mode-in-gopro-cameras/"><u>[Updated] The Evolution of Burst Mode in GoPro Cameras</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-timeless-videos-selecting-excellent-slow-motion-cameras/"><u>[Updated] Timeless Videos Selecting Excellent Slow-Motion Cameras</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-virtual-reality-vr-bikes-to-check-out/"><u>[Updated] Top Virtual Reality (VR) Bikes to Check Out</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-tecno-spark-10-pro-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Tecno Spark 10 Pro Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhancing-your-tv-viewing-experience-with-online-features/"><u>Enhancing Your TV Viewing Experience with Online Features</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-expert-analysis-zdsoft-for-screen-recording/"><u>In 2024, Expert Analysis ZDSoft for Screen Recording</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Oppo Reno 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-stream-control-duo-deciding-between-xsplit-and-obs-tech/"><u>In 2024, Stream Control Duo Deciding Between XSplit and OBS Tech</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-crafting-winning-giveaway-posts-on-facebook/"><u>In 2024, The Art of Crafting Winning Giveaway Posts on Facebook</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-solution-pack-6-best-apps-for-signature-erasure/"><u>In 2024, Ultimate Solution Pack - 6 Best Apps for Signature Erasure</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ltimate-guide-to-trending-youtubers-for-2024/"><u>The Ultimate Guide to Trending YouTubers for 2024</u></a></li>
+</ul></div>
 

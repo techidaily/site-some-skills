@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Launching Google Chrome via Command Line in Windows 11"
-date: 2024-11-23T20:29:06.029Z
-updated: 2024-11-28T18:26:28.086Z
+date: 2024-12-06T20:28:46.780Z
+updated: 2024-12-07T19:43:57.354Z
 tags:
   - deals
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/5eb42b490725ed54872c9c11b47aee171fe6d7919
 * [Open Chrome Straight to a Specific Website](https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -40,19 +40,23 @@ thumbnail: https://thmb.techidaily.com/5eb42b490725ed54872c9c11b47aee171fe6d7919
     
 ![The "start chrome" command in a Command Prompt window open in Terminal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-21.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Chrome will now open. You can also do the same thing from the "Run" window.
 
  Open Run by typing "Run" in the Windows 10 search bar and selecting the "Run" application. You can also press Windows+R to open a Run window. 
 
 ![Search "Run" in the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-run.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Here, type **Chrome** and then select the "OK" button.
 
 ![Open the Run window, then enter "Chrome."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-chrome-in-run.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The web browser will now open.
 
@@ -66,11 +70,11 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 
 ![Launching Chrome as an admin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/4-running-as-admin.png) 
 
- You'll now be running Chrome as an administrator.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ You'll now be running Chrome as an administrator.
 
 ##  Open Chrome in Incognito Mode
 
@@ -81,7 +85,7 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 ![Start Google Chrome with the /incognito flag.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-opening-chrome-in-incognito-mode.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To do this from the Run program, enter this command instead:
@@ -89,6 +93,10 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 `chrome /incognito` 
 
 ![Starting Chrome in incognito mode from a Run window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-chrome-incognito-run-window.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Chrome will now open in incognito mode.
 
@@ -101,10 +109,6 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 `start chrome www.howtogeek.com` 
 
 ![Opening Chrome to howtogeek.com](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/7-starting-chrome-with-a-specific-website.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you have multiple profiles on Google Chrome, opening Chrome in this way to a specific website will automatically launch into the most recently used profile. 
 
@@ -126,10 +130,6 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 
 ![Opening Chrome to a specific website in incognito mode using a Run box.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/10-run-chrome-incog-to-specific-site.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In general, you can combine most of the arguments you can pass to Chrome in the Command Prompt. You're not just limited to the incognito flag or a specific website.
 
 <ins class="adsbygoogle"
@@ -147,18 +147,19 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-from-ideas-to-influence-an-insider-look-at-strategic-instagram-videos/"><u>[New] From Ideas to Influence An Insider Look at Strategic Instagram Videos</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-how-to-view-comments-on-youtube/"><u>[Updated] How to View Comments on YouTube</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-channel-dominance-plan-studio-protocol-vs-beta-update/"><u>[Updated] In 2024, Channel Dominance Plan Studio Protocol Vs. Beta Update</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-tricks-for-capturing-video-tweets-and-converting-to-audible-format/"><u>[Updated] Tricks for Capturing Video Tweets and Converting to Audible Format</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-turning-youtube-viewers-into-brand-partners/"><u>2024 Approved The Ultimate Guide to Turning Youtube Viewers Into Brand Partners</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/exploring-roleplayings-boundaries-rogues-and-roguities/"><u>Exploring Roleplaying's Boundaries Rogues & Roguities</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-epson-xp-245-printer-up-and-running-on-windows-operating-systems-7810/"><u>Get Your Epson XP-245 Printer Up and Running on Windows Operating Systems (7/8/10)</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-realme-narzo-n53-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Realme Narzo N53</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-honor-play-8t-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Honor Play 8T</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Honor Play 40C | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-seamlessly-integrate-apple-podcasts-into-your-routine/"><u>In 2024, Seamlessly Integrate Apple Podcasts Into Your Routine</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-trailblazing-top-zooid-beginnings-list/"><u>In 2024, Trailblazing Top Zooid Beginnings List</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-two-titans-clash-in-the-vr-arena/"><u>In 2024, Two Titans Clash in the VR Arena</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-diving-deep-the-intricacies-of-the-mukbang-phenomenon/"><u>[New] 2024 Approved Diving Deep The Intricacies of the Mukbang Phenomenon</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-focusflexzoom-7-detailed-resizing-at-a-glance-for-2024/"><u>[New] FocusFlexZoom 7 Detailed Resizing at a Glance for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-influence-of-soundtracks-on-a-teasers-audience-reception/"><u>[Updated] The Influence of Soundtracks on a Teaser's Audience Reception</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-oppo-a56s-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Oppo A56s 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/hidden-removal-techniques-a-comprehensive-guide-to-eradicating-offscreen-apps-on-windows-systems/"><u>Hidden Removal Techniques: A Comprehensive Guide to Eradicating Offscreen Apps on Windows Systems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-13-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 13 Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-swift-soundphone-tools-for-rapid-tracks/"><u>In 2024, Swift Soundphone Tools for Rapid Tracks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-latest-evolution-2023s-samsung-bd-j5900-review/"><u>In 2024, The Latest Evolution 2023'S Samsung BD-J5900 Review</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-free-tools-for-flawless-srt-conversion/"><u>In 2024, Top Free Tools for Flawless SRT Conversion</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/masks-and-mayhem-in-diverse-cultures/"><u>Masks & Mayhem in Diverse Cultures</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-top-video-trailer-creators-for-mac-and-pc/"><u>New 2024 Approved Top Video Trailer Creators for Mac and PC</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/tiktoks-pfp-explained-a-complete-and-concise-guide/"><u>TikTok's PFP Explained A Complete and Concise Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-guide-top-20-cost-free-video-editing-websites-for-2024/"><u>Ultimate Guide Top 20 Cost-Free Video Editing Websites for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleash-creativity-the-premier-apps-for-picture-framing-for-2024/"><u>Unleash Creativity The Premier Apps for Picture Framing for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Demystifying Cryptocurrency Mining: A Comparison Between Proof of Work and Proof of Stake"
-date: 2024-11-26T18:30:51.717Z
-updated: 2024-11-28T20:35:21.112Z
+date: 2024-11-30T19:48:33.840Z
+updated: 2024-12-07T19:48:39.500Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/dc4cacbc8b493fc632f86712912ebd59bbc9ecbef
 ## Demystifying Cryptocurrency Mining: A Comparison Between Proof of Work and Proof of Stake
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/dc4cacbc8b493fc632f86712912ebd59bbc9ecbef
  Despite being such a new technology, there is a long-standing debate about the best method blockchains use to verify transactions and add them to the blockchain. The debate is between proof of work and proof of stake, and there are cryptocurrencies that use each.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Proof of What?
@@ -39,7 +39,7 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
  An understanding of proof of work and proof of stake helps establish foundational knowledge on the value of blockchain technology, the pros and cons of different consensus methods, and the current state of affairs in cryptocurrencies.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Miners at Work
@@ -51,7 +51,7 @@ Related: [What Is Crypto Mining, and How Does It Work?](https://vimeo-videos.tec
  In order to mine the next block and earn their reward, miners must solve extremely complex math problems. These problems are solved quickest with the help of powerful computers that run 24/7 to solve the problem associated with the next block. One of the benefits of proof of work is that less powerful computers can pool resources together to compete with the stronger computers for these rewards. This feature ensures an individual with a large amount of computing power cannot centralize block creation or act maliciously.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Validators and Staking
@@ -61,7 +61,7 @@ Related: [What Is Crypto Mining, and How Does It Work?](https://vimeo-videos.tec
  The proof of stake consensus mechanism selects validators at random, but those validators with the most money that has been staked the longest increase their chances of creating the next block. Similar to how miners with less powerful computers can group together on proof of work, validators on proof of stake can pool their money together to compete with other validators that might have more block-creating power. This is known as a staking pool.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Big Picture
@@ -91,17 +91,14 @@ Related: [What Is "Ethereum 2.0" and Will It Solve Crypto's Problems?](https://u
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-unlock-full-potential-of-streaming-with-dual-display-on-netflix/"><u>[New] Unlock Full Potential of Streaming with Dual Display on Netflix</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-how-to-create-a-quick-google-collage-photo/"><u>[Updated] How to Create a Quick Google Collage Photo</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-perfecting-your-instagram-format-imovie-square-video-creation/"><u>[Updated] Perfecting Your Instagram Format IMovie Square Video Creation</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-transform-typography-in-after-effects-with-premium-plug-ins/"><u>[Updated] Transform Typography in After Effects With Premium Plug-Ins</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-streamlining-your-show-formatting-podcast-xml-successfully/"><u>2024 Approved Streamlining Your Show Formatting Podcast XML Successfully</u></a></li>
-<li><a href="https://ai-video.techidaily.com/exploring-hardware-insights-with-tom-your-go-to-resource/"><u>Exploring Hardware Insights with Tom - Your Go-To Resource</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-step-by-step-creating-your-channels-simple-subscribe-button/"><u>In 2024, Step by Step Creating Your Channel's Simple Subscribe Button</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-the-freely-flowing-world-of-historical-works/"><u>In 2024, The Freely Flowing World of Historical Works</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-vivo-s18-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Vivo S18 Phone? Unlock It Now</u></a></li>
-<li><a href="https://video-capture.techidaily.com/speak-and-record-iphone-voice-memo-basics/"><u>Speak and Record IPhone Voice Memo Basics</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-unsung-heroes-of-canvas-open-source-paintings-for-2024/"><u>The Unsung Heroes of Canvas Open-Source Paintings for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-the-3-0x0001000b-glitch-in-rainbow-six-siege-expert-tips-and-tricks/"><u>Troubleshooting the 3-0X0001000B Glitch in Rainbow Six Siege - Expert Tips and Tricks</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-the-complete-guide-to-android-time-lapse-creation/"><u>[New] 2024 Approved The Complete Guide to Android Time-Lapse Creation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-exclusive-templates-for-tiktok-backdrops/"><u>[New] Unveiling Exclusive Templates for TikTok Backdrops</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-skyrocket-engagement-with-youtubes-powerful-featured-channels-strategy/"><u>[Updated] Skyrocket Engagement with Youtube’s Powerful Featured Channels Strategy</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-undertaking-decoding-digital-picture-resolutions/"><u>[Updated] Ultimate Undertaking Decoding Digital Picture Resolutions</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-major-firstrow-pursuits-that-arent-games/"><u>2024 Approved Major Firstrow Pursuits That Aren't Games</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-standout-reddit-content-an-exclusive-look-at-top-10-threads/"><u>2024 Approved Standout Reddit Content An Exclusive Look at Top 10 Threads</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-error-0x887a0006-on-windows-devices/"><u>Addressing Error 0X887A0006 on Windows Devices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-avatar-genius-the-easy-guide-to-metaverse-creation/"><u>In 2024, Avatar Genius The Easy Guide to Metaverse Creation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-your-dji-potential-two-devices-get-20-gratis-luts-for-2024/"><u>Unlock Your DJI Potential – Two Devices Get 20 Gratis LUTs for 2024</u></a></li>
 </ul></div>
 

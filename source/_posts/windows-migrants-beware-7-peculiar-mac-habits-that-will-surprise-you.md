@@ -1,7 +1,7 @@
 ---
 title: "Windows Migrants Beware: 7 Peculiar Mac Habits That Will Surprise You"
-date: 2024-11-22T16:23:22.710Z
-updated: 2024-11-28T21:03:10.178Z
+date: 2024-11-30T23:29:12.290Z
+updated: 2024-12-07T21:16:18.142Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
  You can access any apps that aren't in the Dock via the Launchpad, which is itself in the Dock by default.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Mac and Windows Keyboards Have Different Keys
@@ -44,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
  Mac and Windows keyboards have several keys that have the same functionality but are named differently. For example, the Alt key in Windows is the Option key on a Mac keyboard; Enter on Windows is Return on a Mac; and the Windows backspace key is Delete on a Mac.
 
 ![The Globe, Control, Option, and Command keys on a Mac keyboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-globe-control-option-and-command-keys-on-a-mac-keyboard.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Some keys, like the Control button, are on both keyboards but have different uses. For instance, keyboard shortcuts that require you to press the Control key on a Windows keyboard often use the Command key instead on a Mac. So, [copy and paste](https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-itel-s23plus-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/) is Ctrl+C and Ctrl+V in Windows, but Command+C and Command+V in macOS.
 
@@ -65,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 | Recycle Bin     | Trash                 |
 | Shortcut icon   | Alias                 |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Taking Screenshots Is Easy
 
  As a Windows user, you likely used the Windows Logo Key+PrtScn button combination to capture a screenshot of the entire screen. Alternatively, you've also likely used the Snipping Tool app to select and capture a specific area of the screen. On macOS, screenshots require slightly different shortcuts. Still, it's fairly easy to learn [how to screenshot on a Mac](https://youtube-tips.techidaily.com/-color-correction-for-youtube-beauty-for-2024/).
@@ -74,14 +74,10 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 ![Use the Command+Shift+5 shortcut to view screenshot and screen record options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/img_5723.JPG) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Regardless of the shortcut you use, the screenshot is immediately saved to your macOS desktop for easy access.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  macOS Has Its Own Equivalents for the Windows Apps
 
@@ -95,10 +91,6 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 
  One of the biggest benefits of macOS is that it comes with a lot of extra apps that you'd normally have to pay for. Pages and Numbers are replacements for Word and Excel, for example, and GarageBand is a music creation tool. You also get access to FaceTime and iMessage.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  The UI Looks Similar but Is Not the Same
 
  When you navigate from a Windows laptop to a macOS computer, you'll see certain key differences in the UI design. For instance, when you open a window on a Mac, you'll notice that the resizing buttons for closing (red), minimizing (yellow), and maximizing (green) windows are located on the upper-left side.
@@ -108,7 +100,7 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 ![The window resizing buttons on macOS](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-1-58-58-pm.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Similarly, Windows has a search bar directly in the taskbar, while Mac uses Spotlight for search.
@@ -117,11 +109,19 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 
 ![Spotlight search in macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/spotlight-search-in-macos.jpeg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Spotlight is packed with features](https://screen-capture.techidaily.com/updated-shadowed-swords-and-honored-combatants-must-try-titles-inspired-by-ghost-of-tsushi/). You can use it to find apps, documents, or emails by keying in a few keywords related to what you're searching for, as well as searching for news, sports scores, or weather updates, performing calculations, and much more.
 
  Another key difference in the UI is the menu bar. In macOS, the menu bar is always located at the top of the screen rather than the top of the window and extends across its width. It gives you access to the Apple menu, Finder, the time and date, Wi-Fi and Bluetooth settings, and the battery status, as well as app-specific menu options.
 
 ![The menubar in macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-menubar-in-macos.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In comparison, Windows laptops combine the Start menu, system tray, and taskbar into a single bar that's located at the bottom of the screen by default.
 
@@ -152,18 +152,24 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-streamlining-your-creative-process-with-vsco-app/"><u>[New] Streamlining Your Creative Process with VSCO App</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-exclusive-guide-to-high-performing-screens-for-xbox-series-x-gaming/"><u>[Updated] 2024 Approved Exclusive Guide to High-Performing Screens for Xbox Series X Gaming</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-elevating-meetings-a-comprehensive-guide-to-zoom-filters/"><u>[Updated] In 2024, Elevating Meetings A Comprehensive Guide to Zoom Filters</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-understanding-asmrs-health-perks/"><u>[Updated] Understanding ASMR's Health Perks</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-streamline-your-obs-outputs/"><u>2024 Approved Streamline Your OBS Outputs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-complete-guide-to-iphone-silhouette-mastery/"><u>2024 Approved The Complete Guide to iPhone Silhouette Mastery</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719169303840-elevate-gaming-choose-large-format-cabinet-fronts/"><u>Elevate Gaming: Choose Large-Format Cabinet Fronts</u></a></li>
-<li><a href="https://win-able.techidaily.com/fifa-19-pc-instability-resolved-ultimate-fix-guide/"><u>FIFA 19 PC Instability Resolved: Ultimate Fix Guide</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-capturing-moments-right-ideal-perspectives-on-iphone/"><u>In 2024, Capturing Moments Right Ideal Perspectives on iPhone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-panoramic-capture-9-techniques-to-perfection/"><u>In 2024, The Art of Panoramic Capture 9 Techniques to Perfection</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-art-of-editing-decoded-a-deep-dive-into-magix-vpx-for-2024/"><u>The Art of Editing Decoded A Deep Dive Into Magix VPX for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/the-art-of-sharing-online-videos-from-youtube-to-facebook-for-2024/"><u>The Art of Sharing Online Videos From YouTube to Facebook for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-freebie-frenzy-top-online-video-editors-reviewed/"><u>Updated In 2024, The Freebie Frenzy Top Online Video Editors Reviewed</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-essential-editing-techniques-for-yt-channel-summaries-for-2024/"><u>[New] Essential Editing Techniques for YT Channel Summaries for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-4k-monitor-buying-guide-how-to-choose-the-right-monitor/"><u>[New] In 2024, 4K Monitor Buying Guide How to Choose the Right Monitor</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-leveraging-technology-to-keep-your-snapchats-alive/"><u>[New] Leveraging Technology to Keep Your Snapchats Alive</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-smooth-audio-crossfade/"><u>[New] The Ultimate Guide to Smooth Audio Crossfade</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-upside-and-downside-of-virtual-reality-experience/"><u>[New] The Upside and Downside of Virtual Reality Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-approaches-to-clearer-zoomed-video-on-online-platforms/"><u>[New] Ultimate Approaches to Clearer Zoomed Video on Online Platforms</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-optimizing-youtube-content-with-social-blade-a-stats-journey/"><u>[Updated] Optimizing YouTube Content With Social Blade - A Stats Journey</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-diagnostic-criteria-for-fetal-alcohol-syndrome/"><u>2024 Approved Diagnostic Criteria for Fetal Alcohol Syndrome</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamlining-your-process-tools-and-tricks-for-smooth-broadcasting/"><u>2024 Approved Streamlining Your Process Tools and Tricks for Smooth Broadcasting</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-blurring-iphone-pics-at-zero-cost/"><u>2024 Approved The Ultimate Guide to Blurring iPhone Pics at Zero Cost</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-issues-with-youtube-shorts-thumbnails/"><u>Common Issues with YouTube Shorts Thumbnails</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/elite-scripting-developing-a-countdown-mechanism-in-obs-for-2024/"><u>Elite Scripting Developing a Countdown Mechanism in OBS for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/embrace-freedom-6-compelling-reasons-to-ditch-facebook/"><u>Embrace Freedom - 6 Compelling Reasons to Ditch Facebook</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/explore-top-tier-hardware-reviews-with-toms-electronics-insights/"><u>Explore Top-Tier Hardware Reviews with Tom's Electronics Insights</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-mastering-vector-editing-without-acid-pro/"><u>In 2024, Mastering Vector Editing without ACID Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-stream-your-podcast-with-one-move-only/"><u>In 2024, Stream Your Podcast with One Move Only</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-monetary-outcomes-of-podcast-engagement/"><u>In 2024, The Monetary Outcomes of Podcast Engagement</u></a></li>
+<li><a href="https://techtrends.techidaily.com/key-services-that-can-take-your-twitch-channel-to-the-next-level/"><u>Key Services That Can Take Your Twitch Channel to the Next Level</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-editors-edge-secrets-to-professional-photo-refining-for-2024/"><u>The Editor's Edge Secrets to Professional Photo Refining for 2024</u></a></li>
 </ul></div>
 
