@@ -1,7 +1,7 @@
 ---
 title: "Synchronizing Meta Quest Exercise Tracking with Apple Watch & Health: A Comprehensive Guide"
-date: 2024-12-04T02:19:25.416Z
-updated: 2024-12-08T00:44:32.649Z
+date: 2024-12-10T00:51:21.686Z
+updated: 2024-12-14T03:36:47.966Z
 tags:
   - cutting-edge
 categories:
@@ -30,6 +30,10 @@ Related: [10 Reasons You Might Want an Apple Watch Ultra](https://extra-approach
 
  Additionally, this connecting the Move app allows you to go without wearing your Apple Watch during a VR session, which may be more comfortable for you, depending on the type of VR activity.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Do I Need Special VR Apps?
 
  One important thing to know about Meta Quest Move is that it tracks your activity throughout the entire VR session, regardless of what apps you're using or what you're doing. That means you don't have to buy special fitness-specific VR apps to benefit from the feature.
@@ -37,6 +41,10 @@ Related: [10 Reasons You Might Want an Apple Watch Ultra](https://extra-approach
  That said, if you're really wanting to get active, some of [our favorite video games for fitness](https://screen-mirroring-recording.techidaily.com/in-2024-step-by-step-process-of-setting-up-your-logitech-webcam-for-video/) have Quest editions you can play right now.
 
 Related: [7 Video Games for Fitness and Exercise](https://screen-mirroring-recording.techidaily.com/in-2024-step-by-step-process-of-setting-up-your-logitech-webcam-for-video/) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Step 1: Set Up the Move App
 
@@ -46,21 +54,17 @@ Related: [7 Video Games for Fitness and Exercise](https://screen-mirroring-recor
 
 ![Quest VR App Library Button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/1-7.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Look for the Move app and open it.
 
 ![Quest Move App in Search Results of App Library](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/2-8.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If this is the first time you've opened Move, you'll be presented with a short introduction.
 
 ![Quest Move First Time Setup](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/3-6.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Follow the instructions to complete the first-time setup.
 
@@ -71,7 +75,7 @@ Related: [7 Video Games for Fitness and Exercise](https://screen-mirroring-recor
 ![Connecting the Move app to Quest Mobile App](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/4-7.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  With Move connected to the mobile Quest app, next, we need to sync with Apple Health. From the Meta Quest app, open the Explore tab.
@@ -82,10 +86,6 @@ Related: [7 Video Games for Fitness and Exercise](https://screen-mirroring-recor
 
 ![Quest App Explore Tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/2-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Tap on "Connected Apps"
 
 ![Move App Connected Apps](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/3-2.png) 
@@ -95,7 +95,7 @@ Related: [7 Video Games for Fitness and Exercise](https://screen-mirroring-recor
 ![Apple Health Toggle for Quest Move](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/6-6.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now your VR sessions will reflect in your Apple Health data. Finally, Beat Saber counts as real exercise!
@@ -115,16 +115,19 @@ Related: [7 Video Games for Fitness and Exercise](https://screen-mirroring-recor
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-capturing-every-moment-with-switch-hd-tech/"><u>[New] Capturing Every Moment with Switch HD Tech</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-demystifying-video-profit-on-youtube/"><u>[New] In 2024, Demystifying Video Profit on YouTube</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-smartphone-photographers-handbook/"><u>[New] The Smartphone Photographer's Handbook</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-streamline-your-online-experience-insights-into-ffxp/"><u>[Updated] Streamline Your Online Experience Insights Into FFXP</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-toolwiz-photography-companion-a-thorough-2023-breakdown/"><u>2024 Approved Toolwiz Photography Companion A Thorough 2023 Breakdown</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-final-cut-pro-for-free-take-advantage-of-our-90-day-trial/"><u>In 2024, Final Cut Pro for Free Take Advantage of Our 90-Day Trial</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-mysterious-video-issue-with-sony-a6400/"><u>In 2024, Mysterious Video Issue with Sony A6400</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-shared-humor-top-20-memes-across-social-networks/"><u>In 2024, Shared Humor Top 20 Memes Across Social Networks</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/maximize-ms-edge-usage-understanding-and-using-picture-in-picture/"><u>Maximize MS Edge Usage Understanding and Using Picture-in-Picture</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-alliance-formula-youtube-partnerships-with-brands-for-2024/"><u>The Alliance Formula YouTube Partnerships with Brands for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-roadmap-to-irresistible-podcast-intros-and-exits-for-2024/"><u>The Roadmap to Irresistible Podcast Intros and Exits for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-kinemasters-dominance-in-the-android-gaming-arena-reviewed/"><u>[New] KineMaster's Dominance in the Android Gaming Arena Reviewed</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-saving-the-best-from-fb-in-high-definition-for-2024/"><u>[New] Saving the Best From FB in High Definition for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transform-your-snapchat-pics-with-playful-cartoon-lens/"><u>[New] Transform Your Snapchat Pics with Playful Cartoon Lens</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-core-understanding-of-narrative-frameworks/"><u>[Updated] Core Understanding of Narrative Frameworks</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-navigating-tiktok-lives-your-step-by-step-guide/"><u>[Updated] Navigating TikTok Lives Your Step-by-Step Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-time-taken-for-a-20mb-video-playback/"><u>[Updated] Time Taken for a 20MB Video Playback</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleashing-fb-video-potential-with-speedy-insights/"><u>[Updated] Unleashing FB Video Potential with Speedy Insights</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-science-behind-stopping-photo-booth-movies/"><u>2024 Approved The Science Behind Stopping Photo Booth Movies</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/5-solutions-for-xiaomi-redmi-k70-unlock-without-password-by-drfone-android/"><u>5 Solutions For Xiaomi Redmi K70 Unlock Without Password</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/are-user-dialogues-pivotal-for-the-progress-of-chatgpts-knowledge/"><u>Are User Dialogues Pivotal for the Progress of ChatGPT's Knowledge?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ing-a-million-views-empire-safe-and-secure-methods/"><u>Building a Million Views Empire Safe and Secure Methods</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-youtube-video-blueprint-mastering-visual-content-sharing/"><u>In 2024, The Ultimate Youtube Video Blueprint Mastering Visual Content Sharing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-one-stop-guide-to-simplified-podcast-live-broadcasting/"><u>The One Stop Guide to Simplified Podcast Live Broadcasting</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/ultimate-budget-free-fb-visual-media-maker/"><u>Ultimate Budget-Free FB Visual Media Maker</u></a></li>
 </ul></div>
 

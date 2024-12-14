@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Secrets: Top 13 Steps to Access Windows 11 Settings Easily"
-date: 2024-12-04T23:06:12.635Z
-updated: 2024-12-07T23:17:51.238Z
+date: 2024-12-09T22:04:03.256Z
+updated: 2024-12-14T03:54:16.440Z
 tags:
   - deals
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/a6535057526d825a812b9edea09b4a8a4894edee4
 ---
 
 ## Unlocking the Secrets: Top 13 Steps to Access Windows 11 Settings Easily
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -38,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/a6535057526d825a812b9edea09b4a8a4894edee4
 
  Just press Windows+i and the Settings menu will launch.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Use the Start Menu
 
  You can also quickly access Settings from the Start menu. First, click the Windows icon in the bottom-left corner of the desktop. The Start menu will open. Click the gear icon near the bottom of the menu.
@@ -52,10 +52,14 @@ thumbnail: https://thmb.techidaily.com/a6535057526d825a812b9edea09b4a8a4894edee4
 
 ![Right-click the Start button, then select 'Settings.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/open-settings-power-user-menu.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Settings will open.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Search for Settings in Windows Search
@@ -68,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/a6535057526d825a812b9edea09b4a8a4894edee4
 
  Settings will then launch.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Access Settings From the Context Menu on the Desktop
 
  Another quick way to access Settings is from the desktop's context menu. First, right-click anywhere on your desktop and the context menu will appear. At the bottom of the context menu, click "Display Settings" or "Personalize."
@@ -75,7 +83,7 @@ thumbnail: https://thmb.techidaily.com/a6535057526d825a812b9edea09b4a8a4894edee4
 ![Click Display Settings or Personalize from the context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Click-Display-Settings-or-Personalize-from-the-context-menu..png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Either one will open up the respective option in the Settings menu. From there, just click "Home" to go to the top of the Settings app.
@@ -83,10 +91,6 @@ thumbnail: https://thmb.techidaily.com/a6535057526d825a812b9edea09b4a8a4894edee4
 ![Click the 'Home' button in the top-left corner of any of the pages in the Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/click-the-home-button.png) 
 
 ## 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Open Settings From File Explorer
 
@@ -101,7 +105,7 @@ thumbnail: https://thmb.techidaily.com/a6535057526d825a812b9edea09b4a8a4894edee4
  The Settings app will open.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Use the Action Center
@@ -111,16 +115,24 @@ thumbnail: https://thmb.techidaily.com/a6535057526d825a812b9edea09b4a8a4894edee4
 ![Click the text bubble icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Click-the-text-bubble-icon..png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Next, click "Expand" in the bottom-left corner of the Action Center.
 
 ![Click "Expand."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Click-Expand..png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The list of options will expand. Click "All Settings."
 
 ![Click "All Settings."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Click-All-Settings..png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Settings will now open.
 
@@ -142,6 +154,10 @@ thumbnail: https://thmb.techidaily.com/a6535057526d825a812b9edea09b4a8a4894edee4
 
 ![Search for and launch 'Control Panel.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/search-and-launch-control-panel.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once in Control Panel, click "User Accounts."
 
 ![Click "User Accounts" in Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Click-User-Accounts-in-Control-Panel..png) 
@@ -157,10 +173,6 @@ thumbnail: https://thmb.techidaily.com/a6535057526d825a812b9edea09b4a8a4894edee4
  The Settings app will open and you'll be on your profile information page. Click "Home" to go to the top page of the Settings app.
 
 ![Click the 'Home' button to go to the main page of the Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/click-home-button-in-settings-again.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Run a Command in the Run App
 
@@ -184,29 +196,17 @@ start ms-settings:
 
  The Settings app will open.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Run a Command in Windows PowerShell
 
  If you prefer using Windows PowerShell over Command Prompt, then you can still open the Settings app by running the same command. First, [open Windows PowerShell](https://techtrends.techidaily.com/what-are-the-stages-in-a-game-of-royal-match/) by right-clicking the Windows icon in the bottom-left corner of the desktop. This opens the Power User menu. Here, click "Windows PowerShell." You can also select "Windows PowerShell (Admin)," it change anything in this situation. 
 
 ![Right-click the Start button, then select 'Windows PowerShell.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/powershell-from-power-user-menu.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Windows PowerShell will open. Run this command:
 
 start ms-settings:
 
 ![Run 'start ms-settings:' in the PowerShell window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/run-start-ms-settings-powershell.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The Settings app will now open.
 
@@ -227,22 +227,16 @@ start ms-settings:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-the-essentials-of-navigating-ez-grabber-interface-for-2024/"><u>[New] The Essentials of Navigating EZ Grabber Interface for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-visual-potential-a-step-by-step-guide-to-video-enhancer-22/"><u>[New] Unlocking Visual Potential A Step-by-Step Guide to Video Enhancer 2.2</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-metaverse-shenanigans-a-treasury-of-hilarity-and-creative-memes/"><u>[Updated] Metaverse Shenanigans A Treasury of Hilarity and Creative Memes</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-quickcapture-chromes-screen-recording-feature-for-2024/"><u>[Updated] QuickCapture Chrome's Screen Recording Feature for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-transform-your-channels-income-the-monetization-magic-with-500plus-fans/"><u>[Updated] Transform Your Channel's Income The Monetization Magic with 500+ Fans</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlimited-chuckles-craftsmanship-no-monetary-requirement/"><u>[Updated] Unlimited Chuckles Craftsmanship No Monetary Requirement</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/complete-guide-to-setting-up-your-new-ipad-tips-and-tricks-zdnet/"><u>Complete Guide to Setting Up Your New iPad: Tips & Tricks - ZDNet</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/consistent-nutrition-with-the-petsafe-six-serving-auto-feeder-ideal-for-regular-pet-meals/"><u>Consistent Nutrition with the PetSafe Six-Serving Auto Feeder: Ideal for Regular Pet Meals</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-fb-video-downloads-and-direct-mp3-conversion/"><u>In 2024, FB Video Downloads & Direct MP3 Conversion</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-poco-x5-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Poco X5 Lock Screen Password</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-se-2020-drfone-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone SE (2020) | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-tricks-for-optimizing-windows-11/"><u>In 2024, Top Tricks for Optimizing Windows 11</u></a></li>
-<li><a href="https://some-skills.techidaily.com/luminary-megascape-ultimate-4k-integrated-hubs-for-2024/"><u>Luminary MegaScape Ultimate 4K Integrated Hubs for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tactics-for-securing-royalty-free-creative-pieces-for-2024/"><u>Tactics for Securing Royalty-Free Creative Pieces for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-cinematic-edge-master-the-top-5-camera-skills-for-2024/"><u>The Cinematic Edge Master the Top 5 Camera Skills for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-itel-s23plus-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Itel S23+ FRP Bypass</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-watchlist-the-best-unboxers-of-the-new-era-for-2024/"><u>Ultimate Watchlist The Best Unboxers of the New Era for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-transforming-insta-video-to-mp3-audio-for-2024/"><u>[New] Transforming Insta Video to Mp3 Audio for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unleashing-potential-gopro-karmas-journey/"><u>[New] Unleashing Potential GoPro Karma's Journey</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-filtering-through-youtube-talks/"><u>[Updated] 2024 Approved Filtering Through YouTube Talks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-obs-potential-strategies-involving-lut-filters/"><u>[Updated] Unlocking OBS Potential Strategies Involving LUT Filters</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/wma-webm-movavi/"><u>在線 WMA 自由格式改變為 WebM 進行編解碼 - 利用 Movavi 轉換器</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-itel-p40-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Itel P40 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-strategizing-superior-screen-snatchers/"><u>In 2024, Strategizing Superior Screen-Snatchers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-ideal-aspect-ratio-for-video-content/"><u>In 2024, Unveiling the Ideal Aspect Ratio for Video Content</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/quick-learn-to-speed-up-videos-on-snapchat-for-2024/"><u>Quick Learn to Speed Up Videos on Snapchat for 2024</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/top-7-highly-recommended-mac-pdf-tools-reviewed-find-the-perfect-choice-in-2020/"><u>Top 7 Highly Recommended Mac PDF Tools Reviewed: Find the Perfect Choice in 2020!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-lg-4k-display-a-comprehensive-overview-for-2024/"><u>Ultimate LG 4K Display A Comprehensive Overview for 2024</u></a></li>
 </ul></div>
 

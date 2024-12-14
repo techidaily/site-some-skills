@@ -1,7 +1,7 @@
 ---
 title: Top 13 Creative Uses for Your Outdated Android Device
-date: 2024-12-04T00:26:40.776Z
-updated: 2024-12-07T19:50:39.393Z
+date: 2024-12-10T23:44:04.412Z
+updated: 2024-12-14T02:13:46.298Z
 tags:
   - mobile
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Top 13 Creative Uses for Your Outdated Android Device
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -45,10 +41,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  You could permanently connect it to a Bluetooth speaker if you want it to be as loud as a real smart speaker, but it's not necessary. Plus, you'd have to keep both devices plugged in or charged, so it's too much of a bother if you ask me.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3  Give It to Your Kid 
 
  If you don't want to buy your child a phone because phones are an expensive commodity or for parenting reasons, I hear you. Thankfully, Android phones give you plenty of ways to manage a device other than enabling [Kids Mode](https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-from-apple-iphone-se-without-password-by-drfone-ios/) on your own Samsung phone.
@@ -56,7 +48,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  There are [tools and apps you can use](https://extra-tips.techidaily.com/exclusive-android-3d-video-enthusiasts-choice/) to manage what your kids can do on their phones and how much they can use it. This way, your child can have a way to contact you without getting glued to their screen. Old phones also make for pretty decent [cameras for kids](https://article-helps.techidaily.com/new-maximize-your-iphone-xs-selfie-potential-top-free-apps-for-2024/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4  Use It as a TV Remote and Streaming Device 
@@ -64,6 +56,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Many old Android phones have [IR blasters](https://tech-renaissance.techidaily.com/ultimate-tips-for-successfully-playing-pokemon-unite-online/), meaning you can use them as a traditional remote for devices with IR sensors, like TVs. If your old phone doesn't have one, you can still connect it to your smart TV and use [screen mirroring](https://extra-information.techidaily.com/photoshops-jiggle-minimizing-effective-or-overstated/) to watch a TV show.
 
  Granted, you can do this with your main phone as well, but I like to immerse myself when I watch content. It's better to have a dedicated phone remote that isn't logged in to anything, especially with an easily distracted family.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5  Use It as a Mini Car Multimedia and Dash Cam 
 
@@ -73,13 +69,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Android Auto on a bike.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/pxl_20240615_124052773-2-1.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Joe Fedewa / How-To Geek
 
  If you want the [Android Auto experience on your bicycle](https://games-able.techidaily.com/top-tier-games-subscription-matchup-psplus-vs-xbox-game-pass/), just use your old Android phone. This way, you won't damage your main phone in the case of an accident, and the constant vibrations won't break your camera's optical image stabilization (OIS).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7  Leave It in Your Kitchen 
 
@@ -95,27 +91,27 @@ Lucas Gouveia / How-To Geek | [fizkes](https://www.shutterstock.com/image-photo/
 
  There's actually a [native webcam option](https://some-knowledge.techidaily.com/2024-approved-horned-gods-hearing-essential-websites-for-got-sound-files/) in the latest Pixel and Motorola phones; a universal wireless webcam solution is also present in [Windows 11](https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-iphone-6s-by-drfone-ios/). You can also try some [third-party solutions](https://win11-tips.techidaily.com/boosted-efficiency-expert-tips-for-optimizing-bar-use/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 9  Turn It Into a Security Camera or Baby Monitor 
 
  Your old phone already has everything that you need in a security camera—a solid camera, microphone, Wi-Fi, and storage. Smart security cameras are expensive and arguably [more prone to hacking](https://remote-screen-capture.techidaily.com/updated-webcam-ingenuity-for-productivity-boost/) than smartphones, though you shouldn't fully trust a phone running an outdated version of Android, either, so exercise caution. Follow our guide to [turn your old phone into a security camera](https://facebook-video-content.techidaily.com/updated-2024-approved-top-score-facebooks-1-10-music-video-showcase/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 10  Use It as a Cheap Handheld 
 
 ![Android phone with gaming controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/android-phone-gaming-controller.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jason Montoya / How-To Geek
 
  If you don't want to spend money on a [dedicated handheld](https://hardware-updates.techidaily.com/latest-logitech-speaker-drivers-for-windows-download-now-pc-version-1178/), an old phone can do the trick. Granted, there's a strong argument in favor of using your main phone as a handheld, but the old phone can be more convenient if you want to attach a [game controller](https://www.amazon.com/Controller-Android-Wireless-PlayStation-Minecraft-iOS/dp/B0CVZZNZQM?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003775&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthings-to-do-with-an-old-android-phone%2F&asc%5Fcampaign=Evergreen) permanently to the phone. Your old phone is probably smaller, so it's more portable, and you can be more careless with it when you travel.
 
  Offloading a couple of games and emulators to the old phone also saves on storage. Not playing games on your main phone also means a longer battery life and no annoying notifications.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 11  Use It as a PC Media or DAW Controller 
 
@@ -126,6 +122,10 @@ Jason Montoya / How-To Geek
 ## 12  Transform It Into a Picture Frame or Calendar 
 
  Extremely slow Android phones and tablets are the perfect [digital photo frame](https://youtube-help.techidaily.com/2024-approved-the-monetary-journey-of-ajey-nagar-on-youtube/). If your old phone is so old and laggy that you can't use it for anything functional, you can at least use it as a decorative piece because it doesn't demand any advanced processing. Place it on a stand, plug it in to charge, and turn on a photo gallery app that supports slideshows (either from the cloud or device storage), such as [Fotoo](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003775/https://play.google.com/store/apps/details?id=com.bo.fotoo&cjevent=119f1894380a11ef80b07fba0a18ba74).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 13  Sell It 
 
@@ -148,16 +148,18 @@ Jason Montoya / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-path-to-proliferation-expanding-your-youtube-tribe/"><u>[New] The Path to Proliferation Expanding Your Youtube Tribe</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-tis-the-season-for-laughs-the-goofy-vhs-special/"><u>[Updated] 'Tis the Season for Laughs 'The Goofy' VHS Special</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-the-complete-guide-to-customizing-your-game-characters-sound-identity-free-solution-included/"><u>[Updated] 2024 Approved The Complete Guide to Customizing Your Game Character's Sound Identity (Free Solution Included)</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/1716068714144-updated-in-2024-unveiling-advantages-comprehen/"><u>[Updated] In 2024, Unveiling Advantages Comprehen...</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-step-by-step-guide-to-instagram-leadership-for-2024/"><u>[Updated] Step-by-Step Guide to Instagram Leadership for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/cut-down-installation-time-discover-how-corsairs-redesigned-fan-screws-make-lightning-fast-pc-setup/"><u>Cut Down Installation Time: Discover How Corsair's Redesigned Fan Screws Make Lightning-Fast PC Setup</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-superior-vistas-for-digital-viewership/"><u>In 2024, Superior Vistas for Digital Viewership</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-time-honored-tech-selfies-with-iphone-x/"><u>In 2024, Time-Honored Tech Selfies with iPhone X</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-understanding-snapchats-high-value-content/"><u>In 2024, Understanding Snapchat's High-Value Content</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-novel-window-11-secrets-for-enhanced-usage/"><u>In 2024, Unveiling Novel WINDOW 11 Secrets for Enhanced Usage</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-tutorial-for-downgrading-nvidia-gpu-drivers-on-your-pc-with-windows-10/"><u>Ultimate Tutorial for Downgrading NVIDIA GPU Drivers on Your PC with Windows 10</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-personal-drones-that-perfectly-trace-their-owners-path/"><u>[New] Personal Drones That Perfectly Trace Their Owner's Path</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-updated-scrutiny-of-sony-s3700-high-definition-playback/"><u>[New] Updated Scrutiny of Sony S3700 High Definition Playback</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-stream-your-audiovid-creations-here/"><u>2024 Approved Stream Your AudioVid Creations Here</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tender-tracks-ideal-music-to-accompany-a-lifelayer-change/"><u>2024 Approved Tender Tracks Ideal Music to Accompany a Lifelayer Change</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-method-for-mastery-in-morphvox-usage/"><u>2024 Approved The Ultimate Method for Mastery in MorphVOX Usage</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/2024-approved-what-is-ai-pixel-art-generator/"><u>2024 Approved What Is AI Pixel Art Generator?</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/demystifying-youtube-analytics-views-subscriptions-and-profits/"><u>Demystifying YouTube Analytics Views, Subscriptions & Profits</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-samsung-galaxy-a25-5g-device-sim-by-drfone-android/"><u>Easily Unlock Your Samsung Galaxy A25 5G Device SIM</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/gratuit-mp4-vers-mpeg-en-ligne-conversion-video-professionnelle-avec-movavi/"><u>Gratuit MP4 Vers MPEG en Ligne - Conversion Vidéo Professionnelle Avec Movavi</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-techniques-for-removing-cluttered-photo-backgrounds/"><u>In 2024, Techniques for Removing Cluttered Photo Backgrounds</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-foremost-selection-of-5-outstanding-slow-motion-cameras/"><u>In 2024, The Foremost Selection of 5 Outstanding Slow-Motion Cameras</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-fix-for-driver-verifier-causing-bsod-on-windows-10-problem-solved/"><u>Step-by-Step Fix for Driver Verifier Causing BSOD on Windows 10 – Problem Solved</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/unveiling-the-most-effective-data-copy-solutions-for-windows-10-users/"><u>Unveiling the Most Effective Data Copy Solutions for Windows 10 Users</u></a></li>
 </ul></div>
 

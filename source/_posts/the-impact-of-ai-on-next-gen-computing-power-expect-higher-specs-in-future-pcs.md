@@ -1,7 +1,7 @@
 ---
 title: "The Impact of AI on Next-Gen Computing Power: Expect Higher Specs in Future PCs"
-date: 2024-12-06T02:56:24.304Z
-updated: 2024-12-07T18:58:25.639Z
+date: 2024-12-07T19:30:08.569Z
+updated: 2024-12-14T01:43:33.194Z
 tags:
   - cutting-edge
 categories:
@@ -19,22 +19,22 @@ thumbnail: https://thmb.techidaily.com/0cc5faa4648feed06dc36c6c4e0b5955761ab929b
 
  The age of the "AI PC" is upon us, and you'll soon have the option to run some AI features locally without an internet connection even on relatively modest systems. However, what you may not realize is that despite having AI accelerators, these computers will still need a heap of memory and storage just to offer local AI features.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  AI PCs Have the Power for Local Processing
 
  Microsoft's Copilot AI feature is one of the main reasons that a new generation of computers with specialized NPUs (Neural Processing Units) are coming to market. That's one reason why [new Surface Pro](https://extra-resources.techidaily.com/enhancing-stories-through-animations-with-movie-maker/) devices have ARM Snapdragon processors usually found in phones. Right now, the minimum requirement for a Copilot AI PC is an NPU with 40 TOPS (Trillions of Operations Per Second) and that's what these new chips have packed inside them.
 
 ![The Copilot AI logo on a keyboard key.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Microsoft
 
  There are many reasons to want local AI features. It's fast, you're not competing for resources with other users, and you don't have to pay beyond the cost of the hardware. Giving your laptop the smarts of something on the same continuum as ChatGPT and its contemporaries is definitely exciting!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Even “Small” LLMs Are Huge
@@ -48,7 +48,7 @@ Microsoft
 ![AI chip hologram with circuits around.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ai-chip-hologram-with-circuits-around.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lucas Gouveia / How-To Geek
@@ -61,15 +61,15 @@ AI chip hologram with circuits around
 
  To be sure, these new PCs all have ultra-fast SSDs that can swap data in and out of RAM quickly, but apart from the additional wear and tear that puts on your SSD, it's still just not fast enough for everything to run smoothly, and don't forget you still want to run all of your other apps at the same time! If your PC had to dump your browser and other apps from RAM to disk every time you wanted the AI to do something, it wouldn't be a great experience.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  16GB Is the Absolute Minimum
 
  While 8GB of RAM is still perfectly fine for a modern office desktop or laptop used for general productivity and media consumption, Windows computers with AI features simply would not get by with that little space. Which is why Microsoft has made 16GB of RAM the [absolute minimum for Copilot PCs](https://www.techpowerup.com/317978/microsoft-sets-16-gb-ram-as-minimum-requirement-for-copilot-and-windows-ai-features).
 
  While that's a healthy amount for a normal non-AI PC, I have a feeling that for PCs running local AI assistants in the background all the time, this will be more like an 8GB PC plus AI, unless you disable the AI part of the equation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Some AI PCs Won’t Have Upgradable RAM
 
@@ -78,7 +78,7 @@ AI chip hologram with circuits around
  Some time ago, I looked at whether [32GB of RAM](https://extra-hints.techidaily.com/elevate-your-craft-canvas-hidden-design-secrets/) was not the amount to aim for, and my conclusion was that this amount of memory was still overkill for average users. However, with future AI model sizes in mind, I think 32GB should be what anyone who cares about these AI features must aim for.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  If You Care About AI, Get More Memory
@@ -102,16 +102,18 @@ AI chip hologram with circuits around
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-streamlining-creative-processes-with-obs-studio-tools/"><u>[New] In 2024, Streamlining Creative Processes with OBS Studio Tools</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/astering-shots-a-vloggers-lens-compendium-for-2024/"><u>[New] Mastering Shots A Vlogger’s Lens Compendium for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-optimal-offerings-best-devices-for-hd-video-processing/"><u>[Updated] 2024 Approved Optimal Offerings Best Devices for HD Video Processing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-essential-blueprint-for-effortless-avatar-creation-in-vr/"><u>[Updated] The Essential Blueprint for Effortless Avatar Creation in VR</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-mastering-videos-with-vida/"><u>2024 Approved The Ultimate Guide to Mastering Videos with Vida</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-secrets-of-using-multiple-screens-on-netflix/"><u>2024 Approved Unveiling the Secrets of Using Multiple Screens on Netflix</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Oppo A79 5G? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-11-best-location-changers-for-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Vivo Y100A | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-techniques-for-softening-volume-in-logic-pro-mixing/"><u>In 2024, Techniques for Softening Volume in Logic Pro Mixing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-complete-picture-an-in-depth-analysis-of-polarr-photo-tools/"><u>In 2024, The Complete Picture An In-Depth Analysis of Polarr Photo Tools</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-ultimate-webcam-usage-for-macbooks/"><u>[New] 2024 Approved Ultimate Webcam Usage for MacBooks</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-easy-gif-to-video-transformation-top-5-no-download-options/"><u>[New] Easy GIF to Video Transformation Top 5 No-Download Options</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/igh-quality-freely-accessible-music-websites-listed-here-for-2024/"><u>[New] High-Quality, Freely Accessible Music Websites Listed Here for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-stunning-feats-in-figure-skating-22-moments/"><u>[New] Stunning Feats in Figure Skating '22 Moments</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-10-best-free-video-conferencing-tools-for-business-and-education/"><u>[Updated] 10 Best Free Video Conferencing Tools for Business and Education</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-the-art-of-photographic-posts-on-instagram/"><u>[Updated] Unlocking the Art of Photographic Posts on Instagram</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-secrets-of-sdr-to-hdr-enhancement-techniques/"><u>[Updated] Unveiling the Secrets of SDR-to-HDR Enhancement Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-visual-storytelling-made-simple-with-windows-10s-tools/"><u>2024 Approved The Art of Visual Storytelling Made Simple with Windows 10'S Tools</u></a></li>
+<li><a href="https://apple-account.techidaily.com/3-ways-of-how-to-get-someones-apple-id-off-iphone-11-pro-max-without-password-by-drfone-ios/"><u>3 Ways of How to Get Someones Apple ID Off iPhone 11 Pro Max without Password</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-closer-look-at-minecraft-realms-do-the-advantages-outweigh-costs/"><u>A Closer Look at Minecraft Realms: Do the Advantages Outweigh Costs?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-professional-video-techniques-top-10-edits/"><u>In 2024, Professional Video Techniques Top 10 Edits</u></a></li>
+<li><a href="https://some-skills.techidaily.com/syncing-social-statuses-seamless-insertion-of-linktree-into-tiktok-profiles-for-2024/"><u>Syncing Social Statuses Seamless Insertion of Linktree Into TikTok Profiles for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-10-tips-for-sound-fade-effects-in-premiere-pro-for-2024/"><u>Top 10 Tips for Sound Fade Effects in Premiere Pro for 2024</u></a></li>
 </ul></div>
 

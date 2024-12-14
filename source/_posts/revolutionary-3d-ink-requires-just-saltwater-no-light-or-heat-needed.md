@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary 3D Ink Requires Just Saltwater: No Light or Heat Needed"
-date: 2024-12-02T20:55:10.237Z
-updated: 2024-12-07T17:50:13.550Z
+date: 2024-12-12T22:22:34.146Z
+updated: 2024-12-13T20:17:41.288Z
 tags:
   - cutting-edge
 categories:
@@ -40,26 +40,24 @@ A multinational team of researchers has developed a novel 3D printing ink that c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-inshot-music-syncing-step-by-step-instructions-for-2024/"><u>[New] InShot Music Syncing Step-by-Step Instructions for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-introduction-to-soft-starting-sounds-in-audition/"><u>[New] Introduction to Soft-Starting Sounds in Audition</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-photo-keepers-companion-unlimited-free-options-and-elite-subscription-saviors/"><u>[New] The Photo Keeper’s Companion Unlimited Free Options & Elite Subscription Saviors</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-visualeditormaster-reviews-complete-analysis/"><u>[Updated] In 2024, VisualEditorMaster Reviews – Complete Analysis</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-battle-of-av1-and-vp9-outcomes-revealed/"><u>[Updated] The Battle of AV1 and VP9 Outcomes Revealed</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unraveling-visual-clarity-for-the-new-digital-age/"><u>[Updated] Unraveling Visual Clarity for the New Digital Age</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-secrets-of-gopro-chrono-photography/"><u>[Updated] Unveiling the Secrets of GoPro Chrono Photography</u></a></li>
-<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-samsung-galaxy-m34-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Samsung Galaxy M34 | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-moments-of-quietude-top-idle-smartphone-games/"><u>2024 Approved Moments of Quietude Top Idle Smartphone Games</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-ultimate-list-of-hd-webcams-compatible-with-windows-11-pcs/"><u>2024 Approved Ultimate List of HD Webcams Compatible with Windows 11 PCs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-basics-an-approachable-hdr-review/"><u>2024 Approved Unveiling the Basics An Approachable HDR Review</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-pixelpilot-studio-plus-advanced-os-recorder/"><u>In 2024, PixelPilot Studio Plus Advanced OS Recorder</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-toolwiz-visual-mastery-a-comprehensive-review/"><u>In 2024, Toolwiz Visual Mastery - A Comprehensive Review</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-understanding-the-price-tag-on-youtube-promo/"><u>In 2024, Understanding the Price Tag on Youtube Promo</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-potential-combining-zoom-and-google-mail/"><u>In 2024, Unleashing Potential Combining Zoom & Google Mail</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-most-effective-ways-to-bypass-apple-iphone-11-pro-max-activation-lock-by-drfone-ios/"><u>The Most Effective Ways to Bypass Apple iPhone 11 Pro Max Activation Lock</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/wake-up-the-sound-addressing-cyberpunk-2077s-audio-problems-in-windows-11-environment/"><u>Wake Up the Sound: Addressing Cyberpunk 2077'S Audio Problems in Windows 11 Environment</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-top-10-ai-powered-name-generators-for-podcasts-online/"><u>[New] In 2024, Top 10 AI-Powered Name Generators for Podcasts Online</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-pinnacle-picture-enhancer-resolution-rise/"><u>2024 Approved Pinnacle Picture Enhancer Resolution Rise</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-superbackground-cleanup-suite/"><u>2024 Approved SuperBackground Cleanup Suite</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-sequel-of-seconds-measuring-20mb-footage/"><u>In 2024, Sequel of Seconds Measuring 20MB Footage</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-social-sessions-with-zoom-and-facebook-live-techniques/"><u>In 2024, Streamlining Social Sessions with ZOOM & Facebook Live Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-crafting-dynamic-luts/"><u>In 2024, The Art of Crafting Dynamic LUTs</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719579910213-journey-through-hindi-why-mondlys-online-study-triumphs/"><u>Journey Through Hindi: Why Mondly's Online Study Triumphs!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-moto-g73-5g-won-t-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Motorola Moto G73 5G won’t play AVCHD .mts files</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snag-the-best-virtual-reality-bargain-of-october-with-metas-discounted-512gb-quest-3-prime-day-specials-endure/"><u>Snag the Best Virtual Reality Bargain of October with Meta’s Discounted 512GB Quest 3 – Prime Day Specials Endure!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-10-most-shared-stock-photos-and-their-tales-for-2024/"><u>Top 10 Most Shared Stock Photos and Their Tales for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-your-visuals-master-11-key-techniques-for-color-correction-for-2024/"><u>Transform Your Visuals Master 11 Key Techniques for Color Correction for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-power-supplies-for-hero5-official-and-alternative-models-for-2024/"><u>Ultimate Power Supplies for Hero5 Official & Alternative Models for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unraveling-virtual-physical-coexistence-what-is-mixed-reality-for-2024/"><u>Unraveling Virtual-Physical Coexistence What Is Mixed Reality for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Motorola Razr 40 | Dr.fone</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

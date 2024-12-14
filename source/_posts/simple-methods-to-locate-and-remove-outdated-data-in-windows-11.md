@@ -1,7 +1,7 @@
 ---
 title: Simple Methods to Locate & Remove Outdated Data in Windows 11
-date: 2024-12-02T19:57:50.387Z
-updated: 2024-12-08T02:02:16.860Z
+date: 2024-12-09T16:48:54.436Z
+updated: 2024-12-13T23:00:49.192Z
 tags:
   - desktop
 categories:
@@ -25,6 +25,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  If you’re running out of storage on your PC, the best thing to do is to find and remove old, unwanted files. Windows 11 offers multiple ways to find those storage-hogging items, and we’ll show you what those ways are and how to use them in this guide.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Using Storage Sense
 
  Storage Sense is a built-in Windows 11 feature that helps automatically [clean up old files](https://youtube-clips.techidaily.com/culinary-carousel-swirling-up-top-food-network-names-for-2024/). You can configure various options in the feature so it only deletes the files using the specified criteria. You can run the feature manually, or you can set it to run automatically at the specified time.
@@ -47,15 +51,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Storage Sense configuration options in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-configure-storage-sense.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To run the feature now, click "Run Storage Sense Now." It will start removing the chosen files.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  With Microsoft PC Manager
 
@@ -66,7 +62,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![File cleanup options in PC Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/4-pc-manager-file-cleanup-options.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The first option is "Downloaded Files," which lets you remove the files you’ve downloaded using the installed web browsers. Click it, and it’ll open a window listing your recent file downloads. You can sort these files by their type using the tabs at the top.
@@ -75,23 +71,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Downloaded files and 'Permanently Delete' highlighted in PC Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/5-delete-downloaded-files.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The second option in PC Manager is "Large Files." As you can guess, it lets you find and remove large files. You can specify the file size here so it only finds files larger than that.
 
  Click the option and use the "Size" drop-down menu to specify your file size.
 
 !['Size' drop-down menu highlighted for large files in PC Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/6-specify-file-size.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When you see the files listed, choose the ones you want to remove and click "Permanently Delete."
 
 ![Large files and 'Permanently Delete' highlighted in PC Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/7-delete-large-files.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  And that’s it.
 
@@ -100,7 +92,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Duplicate files and 'Permanently Delete' highlighted in PC Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/8-remove-duplicate-files.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  And you’re all set.
@@ -136,9 +128,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Save the ForFiles command as a batch file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/10-save-batch-file.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When you want to run your command, right-click your batch script and choose "Run as Administrator."
 
 !['Run as Administrator' highlighted for a batch file in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/11-run-batch-file.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can integrate this batch script with Task Manager, and Task Manager will run the script at your specified time. This basically automates the entire process of finding and removing old files from your specified folders.
 
@@ -161,22 +161,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-master-adding-youtube-videos-to-gslides-a-step-by-step-guide/"><u>[New] In 2024, Master Adding YouTube Videos to GSlides A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-turn-off-youtube-sneak-peek-embrace-uninterrupted-watching/"><u>[New] Turn Off YouTube Sneak Peek, Embrace Uninterrupted Watching</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-setup-a-mac-studio-for-sports-content-for-2024/"><u>[Updated] How to Setup a Mac Studio for Sports Content for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-comparative-study-alert-inshot-vs-standard-editors/"><u>[Updated] In 2024, Comparative Study Alert InShot vs Standard Editors</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-vibrant-video-vibes-merging-melodies-with-media/"><u>[Updated] In 2024, Vibrant Video Vibes Merging Melodies with Media</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-mastering-quieter-audio-with-progressive-volume-reduction-in-lumafusion/"><u>[Updated] Mastering Quieter Audio with Progressive Volume Reduction in Lumafusion</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-hilarious-side-of-iphones/"><u>[Updated] The Hilarious Side of iPhones</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-turn-daily-life-into-a-comedy-meme/"><u>[Updated] Turn Daily Life Into a Comedy Meme</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-uncover-top-11-effective-video-size-slashers-for-your-phone/"><u>2024 Approved Uncover Top 11 Effective Video Size Slashers for Your Phone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/analyzing-hdr-quality-with-luminance-for-2024/"><u>Analyzing HDR Quality with Luminance for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/find-and-install-nvidia-geforce-geforce-940mx-driver-on-any-device-easily/"><u>Find and Install Nvidia GeForce Geforce 940MX Driver on Any Device Easily</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-how-to-turn-a-tiktok-sound-into-your-ringtone-a-detailed-guidance/"><u>In 2024, How To Turn A TikTok Sound Into Your Ringtone? A Detailed Guidance</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-key-video-makers-in-the-asmr-space/"><u>In 2024, Key Video Makers in the ASMR Space</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-total-capture-trio-setup/"><u>In 2024, Total Capture Trio Setup</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlock-your-potential-with-expert-picked-video-stabilization-tools/"><u>In 2024, Unlock Your Potential with Expert-Picked Video Stabilization Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-audio-artists-approach-to-video-unboxing-for-2024/"><u>The Audio Artist's Approach to Video Unboxing for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-motorola-g54-5g-by-drfone-android/"><u>Universal Unlock Pattern for Motorola G54 5G</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-elite-arena-top-10-royale-game-spectacles/"><u>[New] Elite Arena Top 10 Royale Game Spectacles</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-rapid-ascension-harness-likes-and-videos-for-insta-success/"><u>[Updated] 2024 Approved Rapid Ascension Harness Likes & Videos for Insta Success</u></a></li>
+<li><a href="https://extra-information.techidaily.com/10-solutions-to-chromes-missing-video-while-using-facebook/"><u>10 Solutions to Chrome's Missing Video While Using Facebook</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-talk-translator-essential-offline-text-recognition-software/"><u>2024 Approved Talk Translator Essential Offline Text Recognition Software</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/auditory-storytelling-in-cinematic-openings/"><u>Auditory Storytelling in Cinematic Openings</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-vivo-y27-4g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Vivo Y27 4G to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-the-process-of-converting-zip-to-srt/"><u>In 2024, Streamlining the Process of Converting Zip to Srt</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-complete-catalog-of-livestreaming-cameras-review/"><u>In 2024, The Complete Catalog of Livestreaming Cameras Review</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlock-creative-potential-with-expert-macro-video-cinematography-guidance/"><u>In 2024, Unlock Creative Potential with Expert Macro Video Cinematography Guidance</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-apples-podcast-potential-an-instructional-guide/"><u>In 2024, Unlocking Apple's Podcast Potential An Instructional Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalize-keyboard-actions-on-windows-platform/"><u>Personalize Keyboard Actions on Windows Platform</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-oppo-reno-8t-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Oppo Reno 8T 5G Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/seamless-acquisition-of-twitters-jokes-for-pc/"><u>Seamless Acquisition of Twitter's Jokes for PC</u></a></li>
+<li><a href="https://some-skills.techidaily.com/superior-websites-promoting-youtube-media-for-2024/"><u>Superior Websites Promoting YouTube Media for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-list-of-xsplits-equals-for-2024/"><u>The Ultimate List of Xsplit's Equals for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-full-potential-advanced-tips-for-zooming-images-in-snapchat-for-2024/"><u>Unlock Full Potential Advanced Tips for Zooming Images in Snapchat for 2024</u></a></li>
 </ul></div>
 

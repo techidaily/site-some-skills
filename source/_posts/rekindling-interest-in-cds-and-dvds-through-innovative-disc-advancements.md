@@ -1,7 +1,7 @@
 ---
 title: Rekindling Interest in CDs and DVDs Through Innovative Disc Advancements
-date: 2024-11-30T17:51:56.483Z
-updated: 2024-12-07T22:04:55.373Z
+date: 2024-12-12T16:59:08.874Z
+updated: 2024-12-13T17:15:46.564Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Rekindling Interest in CDs and DVDs Through Innovative Disc Advancements
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -24,7 +24,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  In the 90s, every sci-fi movie that featured data storage invariably had some far-future version of a CD in it. It may have been in a caddy, or have a weird holographic sheen, but everyone thought optical discs were the future. Today, that doesn't seem likely, but continuing research into optical storage might prove those movies right after all.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Is "Optical" Storage?
@@ -32,10 +32,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  It pains me to write this, but there are probably some of you reading this who only have vague contact with optical media. While you can still readily get Blu-ray, DVD, and CD media, many people have grown up in a digital download and streaming age, with little need to ever touch a disc. Which means, there's a good chance you don't actually know how it works. Everyone else can just skip to the next section, but here goes:
 
  Optical media use light to store and read data. An optical disc has microscopic pits and lands that either reflect or diffuse light. When you shine a laser beam at these discs and measure the light that comes back, you get a series of ones and zeros. All you need to store digital data. While optical discs are "pressed" in a factory, home-made discs use a laser to create these pits and lands by altering the chemistry in a special dye layer within the disc.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Why Is Optical Storage in Decline?
 
@@ -46,7 +42,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Modern PCs and Macs don't come with optical drives anymore, and it seems that gaming consoles are moving in this direction as well, with disc drives becoming optional, and major stores [phasing out physical media](https://gamerant.com/big-retailer-stop-selling-physical-games/). As a [physical media collector](https://windows11.techidaily.com/how-to-customize-sound-levels-with-dedicated-win11-keys/) it almost hurts to write this, but it does look like the writing is on the wall for optical media. However, the technology is far from a dead end, and a breakthrough in optical storage might bring back the optical disc yet!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Say Hello to the Petabit Disc!
@@ -54,7 +50,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Petabit disc diagram](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-19-at-15-35-51.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Miao Zhao, Jing Wen, Qiao Hu, Xunbin Wei, Yu-Wu Zhong, Hao Ruan & Min Gu 
@@ -64,6 +60,10 @@ Miao Zhao, Jing Wen, Qiao Hu, Xunbin Wei, Yu-Wu Zhong, Hao Ruan & Min Gu
  You can read the [published paper](https://www.nature.com/articles/s41586-023-06980-y) in _Nature,_ but the gist of it is that the team managed to create a disc with a 3D structure and hundreds of layers. Consider that the best Blu-ray disc has but four layers, and you'll understand that this is a monumental improvement.
 
  These discs have been designed for use in data centers and requires expensive and complex femtosecond lasers. Multiple lasers are needed to activate and deactivate the recording layers, so it's hardly a disc drive that will fit in your laptop bag, but it does show how much potential there still is in optical storage. In data centers, these discs promise safe, long-term storage of data that doesn't need to be accessed constantly, but should be in an accessible archive. The paper suggests these nanoscale discs can be stacked to create "exabit-level storage" which could be a huge deal given [how fragile the internet can be](https://some-techniques.techidaily.com/new-high-quality-hd-videos-at-a-tap-top-10-android-choices/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What Does This Mean for Us?
 
@@ -88,17 +88,19 @@ Miao Zhao, Jing Wen, Qiao Hu, Xunbin Wei, Yu-Wu Zhong, Hao Ruan & Min Gu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-androids-premium-music-video-watching-apps/"><u>[New] The Ultimate Guide to Android's Premium Music Video Watching Apps</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-top-7-streaming-tools-for-mac-os-x-for-2024/"><u>[New] Top 7 Streaming Tools for Mac OS X for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-easy-path-to-great-audio-recordings-in-windows-11/"><u>[Updated] The Easy Path to Great Audio Recordings in Windows 11</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-turning-on-adaptive-hdr-in-windows-11/"><u>[Updated] Turning on Adaptive HDR in Windows 11</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-mastering-camtasia-ken-burns-technique-unveiled/"><u>2024 Approved Mastering Camtasia Ken Burns Technique Unveiled</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/from-novice-to-experienced-6-strategies-for-quick-verification-on-instagram/"><u>From Novice to Experienced 6 Strategies for Quick Verification on Instagram</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-realme-narzo-60-pro-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Realme Narzo 60 Pro 5G to iPod | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-untapped-utility-zoom-in-on-minecraft/"><u>In 2024, Unlocking Untapped Utility Zoom in on Minecraft</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/navigating-zoom-settings-for-top-notch-audio-capture/"><u>Navigating ZOOM Settings for Top-Notch Audio Capture</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fix-tips-for-access-denied-on-nvidia-panel/"><u>Quick-Fix Tips for Access Denied on NVIDIA Panel</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-essential-gadgets-and-accessories-for-summer-days-out/"><u>The Ultimate Guide: Essential Gadgets and Accessories for Summer Days Out</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-the-full-potential-of-vlc-media-player-on-mac-for-2024/"><u>Unlocking the Full Potential of VLC Media Player on Mac for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-virtual-journey-past-to-present/"><u>[New] The Virtual Journey Past to Present</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-how-to-fix-the-youtube-shorts-not-showing-up-issue/"><u>[Updated] 2024 Approved How to Fix the YouTube Shorts Not Showing Up Issue?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-cinematic-close-ups-elevating-your-work-with-kinemaster/"><u>[Updated] In 2024, Cinematic Close-Ups Elevating Your Work with Kinemaster</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-tier-computing-at-a-desktop-level/"><u>[Updated] Top-Tier Computing at a Desktop Level</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-guide-top-7-superior-wet-proof-camcorders/"><u>[Updated] Ultimate Guide Top 7 Superior Wet-Proof Camcorders</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-leading-systems-for-real-time-play-broadcasts/"><u>2024 Approved Leading Systems for Real-Time Play Broadcasts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-interface-interlink-bridging-ig-and-tiktok-worlds/"><u>2024 Approved The Interface Interlink Bridging IG & TikTok Worlds</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-honor-magic-v2-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Honor Magic V2 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-wave-goodbye-to-breakups-keep-your-streak-going/"><u>In 2024, Wave Goodbye to Breakups Keep Your Streak Going</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/insta-to-tik-integration-masterclass/"><u>Insta-to-Tik Integration Masterclass</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-oppo-find-x6-pro-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Oppo Find X6 Pro – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-free-filmora-alternative-no-crack-no-risk-just-results/"><u>New In 2024, Free Filmora Alternative No Crack, No Risk, Just Results</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-360-degree-video-9-must-have-tips-for-filmmakers-for-2024/"><u>The Art of 360-Degree Video 9 Must-Have Tips for Filmmakers for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-choice-android-sky-dumps-and-safes-for-2024/"><u>Top Choice Android Sky Dumps & Safes for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Week in Review: AT&T Data Incident & Latest Samsung Smartphone Launch"
-date: 2024-12-05T20:01:32.533Z
-updated: 2024-12-08T01:48:25.893Z
+date: 2024-12-12T02:34:09.044Z
+updated: 2024-12-13T23:26:34.495Z
 tags:
   - mobile
 categories:
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 ## Week in Review: AT&T Data Incident & Latest Samsung Smartphone Launch
 
 This was a busy week for tech news, with Samsung releasing new phones and accessories at Unpacked, some important security news, and updates to Windows. Here are the biggest stories you might have missed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The Big News
 
@@ -25,27 +29,23 @@ This was a busy week for tech news, with Samsung releasing new phones and access
 
 ![A screenshot of the updated Thunderbird 128 interface.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/23.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Mozilla
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [The Galaxy Buds 3 Pro Is Samsung’s New AirPods Pro Competitor](https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-pro-without-passcode-or-face-id-drfone-by-drfone-ios/) 
 
  The best Samsung earbuds money can buy, complete with ANC and deep integration with Galaxy smartphones.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [The Samsung Galaxy Buds 3 Look A Lot Like AirPods](https://sound-issues.techidaily.com/troubleshooting-silent-microphones-a-step-by-step-guide-to-restoring-voice-chat-in-discord/) 
 
  Samsung’s new lower-cost wireless earbuds took a few notes from Apple’s AirPods.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [These Features Are Now Rolling out to All Windows 11 PCs](https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-xiaomi-14-drfone-by-drfone-fix-android-problems-fix-android-problems/) 
 
@@ -55,13 +55,13 @@ Mozilla
 
  A new comments system encourages influencer culture on Spotify.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [Samsung Galaxy Z Fold 6 Has a Much Better External Screen](https://screen-activity-recording.techidaily.com/new-vsf-video-capture-insights-a-critical-look-for-2024/) 
 
  Samsung's new book-style folding phone has arrived, with an updated aspect ratio and some hardware improvements.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [Samsung's Galaxy Z Flip 6 Gets the Upgrade We Wanted](https://twitter-videos.techidaily.com/no-cash-all-fun-turning-twitter-vids-into-gifs-for-2024/) 
 
@@ -75,10 +75,6 @@ Justin Duino / How-To Geek
 
  The affordable 5G internet service is back down to $50 a month.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### [Winamp Music Player Is Now on iPhone and Android](https://facebook.techidaily.com/broaden-your-reach-upload-fb-material-to-popular-app-platforms-now/) 
 
  The classic Winamp desktop music player now has a mobile version, but it might not be what you expect. iCloud integration is especially interesting for iPhone users.
@@ -91,17 +87,21 @@ Justin Duino / How-To Geek
 
 Justin Duino / How-To Geek
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### [Samsung's Galaxy Watch 7 is Finally Here](https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-oppo-reno-9a-drfone-by-drfone-virtual-android/) 
 
  Samsung’s new regular smartwatch has new internal hardware and the same circular screen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [Microsoft Overhauls Game Pass With Higher Prices and New “Standard” Plan](https://howto.techidaily.com/tecno-pova-5-pro-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/) 
 
  The console-only Game Pass is being replaced with a different "Standard" plan, and pricing is changing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [ASUS' Newest NUC Tiny PCs Are Really Powerful](https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/) 
 
@@ -122,20 +122,22 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-dominate-facebook-traffic-with-innovative-video-strategies/"><u>[New] Dominate Facebook Traffic with Innovative Video Strategies</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-10-best-cars-surveillance-systems-decoded/"><u>[Updated] 10 Best Cars Surveillance Systems Decoded</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-list-of-different-video-camera-types/"><u>[Updated] 2024 Approved List of Different Video Camera Types</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-strategies-for-acquiring-flawless-photos-on-the-internet/"><u>[Updated] Strategies for Acquiring Flawless Photos on the Internet</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-canon-editing-kit-freepay-for-luts-included/"><u>[Updated] Ultimate Canon Editing Kit - Free/Pay for LUTs Included</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-guide-for-elevating-videos-from-basic-sdr-to-breathtaking-hdr-splendor/"><u>[Updated] Ultimate Guide for Elevating Videos From Basic SDR to Breathtaking HDR Splendor</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-navigating-video-creation-with-the-ultimate-screencast-guidebook/"><u>2024 Approved Navigating Video Creation with The Ultimate Screencast Guidebook</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlimited-dji-mini-and-air-2-luts-buy-or-free/"><u>2024 Approved Unlimited DJI Mini & Air 2 LUTs - Buy or Free</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Infinix Hot 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-guide-for-updating-battery-drivers-in-windows-without-hassle/"><u>Easy Guide for Updating Battery Drivers in Windows Without Hassle</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-12-without-losing-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 12 without Losing Data? | Stellar</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-symphony-of-sights-picture-plus-sound-videography/"><u>In 2024, Symphony of Sights Picture + Sound Videography</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-uncovering-key-pace-requirements-for-exceptional-slow-motion-videos/"><u>In 2024, Uncovering Key Pace Requirements for Exceptional Slow-Motion Videos</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/injecting-spark-into-your-unique-podcast-format-for-2024/"><u>Injecting Spark Into Your Unique Podcast Format for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-showdown-twitchs-challenge-to-youtubes-market-for-2024/"><u>The Ultimate Showdown Twitch's Challenge to YouTube's Market for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-mastering-hdr-portraiture-comprehensive-photography-guide/"><u>[New] 2024 Approved Mastering HDR Portraiture Comprehensive Photography Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-screenshot-beauty-top-10-sticker-enhancing-apps-for-smartphones/"><u>[New] The Art of Screenshot Beauty Top 10 Sticker-Enhancing Apps for Smartphones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-studio-magic-comprehensive-xreview/"><u>[Updated] Unveiling Studio Magic Comprehensive XReview</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-virtual-masterclass-for-aspiring-filmmakers-on-youtube/"><u>[Updated] Virtual Masterclass for Aspiring Filmmakers on YouTube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-and-science-of-broadcasting-in-real-time/"><u>2024 Approved The Art and Science of Broadcasting in Real Time</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-closer-insight-in-roblox-games/"><u>2024 Approved The Ultimate Guide to Closer Insight in Roblox Games</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-mac-dvd-authorization-handbook/"><u>2024 Approved The Ultimate Mac DVD Authorization Handbook</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-selections-for-speedy-facebook-video-transfers-and-streams/"><u>2024 Approved Top Selections for Speedy Facebook Video Transfers and Streams</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-hp-officejet-4655-printer-drivers-latest-updates/"><u>Download & Install HP OfficeJet 4655 Printer Drivers: Latest Updates</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-perfect-your-content-with-top-tier-title-tactics/"><u>In 2024, Perfect Your Content with Top-Tier Title Tactics</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/indispensable-complimentary-software-picks-for-your-nexus-7-and-amazon-kindle-fire/"><u>Indispensable Complimentary Software Picks for Your Nexus 7 and Amazon Kindle Fire</u></a></li>
+<li><a href="https://windows11.techidaily.com/is-windows-subsystem-pivotal-for-linux-desktops/"><u>Is Windows Subsystem Pivotal for Linux Desktops?</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/no-driver-found-on-your-sound-card-follow-these-steps-by-yl-software-experts/"><u>No Driver Found on Your Sound Card? Follow These Steps by YL Software Experts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tiktok-effect-overhaul-the-two-pronged-approach-for-2024/"><u>TikTok Effect Overhaul The Two-Pronged Approach for 2024</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/top-5-strategies-to-effortlessly-upload-hd-videos-from-ios-devices-onto-desktop-computers/"><u>Top 5 Strategies to Effortlessly Upload HD Videos From iOS Devices Onto Desktop Computers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-tech-marvels-top-picks-for-everyone-for-2024/"><u>Ultimate Tech Marvels Top Picks for Everyone for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/uncovering-the-latest-in-pc-components-with-toms-gear-guide/"><u>Uncovering the Latest in PC Components with Tom's Gear Guide</u></a></li>
 </ul></div>
 

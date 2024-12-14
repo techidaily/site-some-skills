@@ -1,7 +1,7 @@
 ---
 title: Passionate About Personalizing My Discord Presence - Why I Find The Pricing To Be Excessive
-date: 2024-12-02T02:03:44.635Z
-updated: 2024-12-08T00:19:36.681Z
+date: 2024-12-10T18:21:40.122Z
+updated: 2024-12-14T02:04:34.488Z
 tags:
   - web
 categories:
@@ -11,10 +11,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Passionate About Personalizing My Discord Presence - Why I Find The Pricing To Be Excessive
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * You can customize your Discord profile with an avatar, banner, animated effects, and more.
@@ -22,10 +18,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * Profile decorations in the Discord shop are expensive and potentially not worth the cost.
 
  To stand out from the crowd on Discord, you can customize your profile to apply colors, images, and animated effects—but using all these features comes with a price. Let's explore how it works and whether it's worth it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Customize Your Discord Profile
 
@@ -38,7 +30,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Editing a profile on Discord.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/editing-a-profile-on-discord.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  I think it's great that [Discord offers so much personalization](https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/), especially on the profile. It's a nice way to express yourself, and I like checking out other people's profiles to see what they look like.
@@ -46,7 +38,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Some of these customizations, like the banner image or using an animated GIF as your avatar, are only available if you [pay for Discord Nitro](https://ios-unlock.techidaily.com/forgot-apple-iphone-12-mini-backup-password-heres-what-to-do-by-drfone-ios/). Others, like the avatar decoration, have a small selection available to Nitro users, but have plenty available that anyone can purchase in the in-app shop.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Discord Shop Is Overpriced
@@ -58,18 +50,26 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![SpongeBob SquarePants items on the Discord shop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/spongebob-squarepants-items-on-the-discord-shop-2.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  These purchases are one-time and permanent, meaning you can use them forever even if they're seasonal and removed from the shop. But despite that, the pricing seems extortionate, especially if you're someone who likes to redesign their profile often.
 
  It also seems cheeky that Nitro members don't get more items for free, or at least a deeper discount in the shop, especially since Nitro costs a not-insignificant $9.99/month (for the tier that includes custom profiles).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Is the Cost of Discord's Cosmetics a Problem?
 
  Paying for profile cosmetics isn't anything new. Steam sells similar goodies, payable in points which are mostly earned by buying games. This is more tolerable because Steam is primarily a game storefront, so you get points through natural use of the platform. You can also buy in local currency from others on the community marketplace.
 
 ![Steam points shop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/steam-points-shop.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Steam has many other avenues of revenue, so the comparison to Discord isn't equal. But when Discord already sells a monthly membership, and then sets the price of extra items so high, it makes it feel like a cash grab as opposed to a fun feature.
 
@@ -94,18 +94,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-decode-wmps-techniques-for-efficient-audio-handling-and-recordings-for-2024/"><u>[New] Decode WMP's Techniques for Efficient Audio Handling and Recordings for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transform-into-a-metaverse-virtuoso-essential-tools-list/"><u>[New] Transform Into a Metaverse Virtuoso - Essential Tools List</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-engaging-users-with-instagrams-interactive-survey-feature/"><u>[Updated] 2024 Approved Engaging Users with Instagram's Interactive Survey Feature</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-immediate-halt-of-auto-recording-on-qt-for-2024/"><u>[Updated] Immediate Halt of Auto-Recording on QT for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-total-360-giroptic-vr-capture-examination/"><u>[Updated] Total 360 Giroptic VR Capture Examination</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-instagram-guide-to-uploading-podcast-episodes/"><u>2024 Approved Instagram Guide to Uploading Podcast Episodes</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-techniques-to-zoom-into-online-engagements-intelligently/"><u>2024 Approved Techniques to Zoom Into Online Engagements Intelligently</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/fy-engagement-a-compilation-of-powerful-30-freegame-tags/"><u>Amplify Engagement A Compilation of Powerful 30 FreeGame Tags</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnose-and-repair-loud-fan-problems-on-your-ps4-for-a-peaceful-gaming-experience/"><u>Diagnose and Repair Loud Fan Problems on Your PS4 for a Peaceful Gaming Experience</u></a></li>
-<li><a href="https://driver-install.techidaily.com/tailoring-msi-bios-a-windows-compatibility-handbook/"><u>Tailoring MSI BIOS: A Windows Compatibility Handbook</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-path-to-smooth-transitions-in-inshot-editing-for-2024/"><u>The Path to Smooth Transitions in Inshot Editing for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unpacking-the-capabilities-does-the-apple-watch-series-n-support-blood-pressure-monitoring-according-to-zdnet/"><u>Unpacking the Capabilities: Does the Apple Watch Series N Support Blood Pressure Monitoring According to ZDNet?</u></a></li>
-<li><a href="https://common-error.techidaily.com/update-your-graphics-driver-to-activate-seamless-screen-mirroring-via-miracast/"><u>Update Your Graphics Driver to Activate Seamless Screen Mirroring via Miracast</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-maximizing-accuracy-speech-to-text-via-google-translate/"><u>[New] In 2024, Maximizing Accuracy Speech to Text via Google Translate</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-foremost-audiovideo-makers-online-guidebook/"><u>[New] The Foremost Audio/Video Makers Online Guidebook</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-the-top-best-cloud-storage-service-for-business/"><u>[New] The Top Best Cloud Storage Service for Business</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-10-gopro-cases-insight-for-adventurers/"><u>[New] Top 10 GoPro Cases Insight for Adventurers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-comparing-stream-quality-with-obs-studio-and-fraps/"><u>[Updated] In 2024, Comparing Stream Quality with OBS Studio and Fraps</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-crafting-dynamic-gifs-from-video-an-illustrative-tutorial/"><u>2024 Approved Crafting Dynamic Gifs From Video An Illustrative Tutorial</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-mastering-iphone-scaling-images-quickly/"><u>2024 Approved Mastering iPhone Scaling Images Quickly</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-artistic-journey-animating-scenes-with-windows-movie-maker/"><u>2024 Approved The Artistic Journey Animating Scenes with Windows Movie Maker</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-the-ultimate-list-of-smart-speakers-for-your-home/"><u>Discover the Ultimate List of Smart Speakers for Your Home !</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-motorola-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Motorola</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-silent-input-transcription-services/"><u>In 2024, Ultimate Silent Input Transcription Services</u></a></li>
+<li><a href="https://os-tips.techidaily.com/protective-measures-for-your-ipad-trust-in-esrs-expertise/"><u>Protective Measures for Your iPad? Trust in ESR’s Expertise</u></a></li>
+<li><a href="https://some-skills.techidaily.com/techniques-for-enhancing-film-scenes-with-focus-for-2024/"><u>Techniques for Enhancing Film Scenes with Focus for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-essential-guide-to-speedy-windows-inspecting-for-2024/"><u>The Essential Guide to Speedy Windows Inspecting for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/unlock-full-potential-exclusive-msi-z37-grocking-board-drivers-get-them-at-no-cost/"><u>Unlock Full Potential: Exclusive MSI Z37 Grocking Board Drivers – Get Them at No Cost</u></a></li>
 </ul></div>
 

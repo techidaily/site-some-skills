@@ -1,7 +1,7 @@
 ---
 title: "Top 4 Thrilling Upcoming Space Missions: Live Streams Available Now!"
-date: 2024-11-30T23:15:57.706Z
-updated: 2024-12-07T20:11:12.851Z
+date: 2024-12-11T03:25:01.887Z
+updated: 2024-12-13T17:44:42.812Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/ebac8749de86200184a77a3fa2bb901785d67bf12
 ## Top 4 Thrilling Upcoming Space Missions: Live Streams Available Now!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -25,19 +25,11 @@ thumbnail: https://thmb.techidaily.com/ebac8749de86200184a77a3fa2bb901785d67bf12
 
  Even though humans have been pushing satellites and other people into space for over 50 years now, space travel isn't any less exciting. Here are a few upcoming launches you should watch, and why they matter.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Artemis 1: November 16, 2022
 
  Artemis 1 might be the most important mission for NASA in at least the past decade. It's the first full test of the Space Launch System, a massive multi-stage rocket intended to serve the same purpose as the [Saturn V](https://en.wikipedia.org/wiki/Saturn%5FV) from the 1960s -- sending humans to the Moon. Modified versions could be used to send heavy cargo into space (like parts for new space stations) or to take humans to Mars and beyond.
 
 ![Orion capsule passing the Moon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/orion_-_pic_0.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 _[NASA](https://www.nasa.gov/feature/goddard/2022/volunteers-worldwide-to-track-lunar-journey-of-nasas-artemis-i-mission)_
 
@@ -46,7 +38,7 @@ _[NASA](https://www.nasa.gov/feature/goddard/2022/volunteers-worldwide-to-track-
  The launch has already been pushed back several times, due to technical problems and weather. The first launch window was [set for August 29, 2022](https://blogs.nasa.gov/artemis/2022/08/28/mission-management-team-go-to-proceed-with-tanking-for-artemis-i-mission/), but it was [cancelled](https://blogs.nasa.gov/artemis/2022/08/29/launch-attempt-scrubbed/) due to detected problems with cooling an engine. NASA tried again on September 3, but [stopped](https://blogs.nasa.gov/artemis/2022/09/03/artemis-i-launch-attempt-scrubbed/) due to a liquid hydrogen leak in the core stage, then the rocket was [rolled back](https://blogs.nasa.gov/artemis/2022/09/27/nasas-moon-rocket-and-spacecraft-arrive-at-vehicle-assembly-building-2/) into the Vehicle Assembly Building as [Hurricane Ian](https://en.wikipedia.org/wiki/Hurricane%5FIan) approached Florida. It's now back on the launchpad, but there's still a chance that Tropical Storm Nicole could [change NASA's plans again](https://blogs.nasa.gov/artemis/2022/11/08/nasa-prepares-rocket-spacecraft-ahead-of-tropical-storm-nicole-re-targets-launch/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Cargo Dragon Launch: November 18, 2022
@@ -56,6 +48,10 @@ _[NASA](https://www.nasa.gov/feature/goddard/2022/volunteers-worldwide-to-track-
  Even though the Dragon capsule can carry people to the International Space Station -- the first time was in 2020 -- there won't be any people on this mission. [SpaceX CRS-26 Mission](https://blogs.nasa.gov/spacex-crs-26/2022/11/) will be an uncrewed mission to resupply the space station, using a Cargo Dragon capsule and a Falcon 9 rocket. The payload includes a portable handheld microscope to improve health diagnosis in space, solar arrays for the station, an experiment with tomatoes, and more.
 
 ![Photo of SpaceX Falcon 9 rocket with Dragon launch](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/space_x_resupply_for_advisory_oct_25.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _[NASA](https://blogs.nasa.gov/spacex-crs-26/2022/11/03/nasa-invites-media-to-spacexs-26th-resupply-launch-to-space-station/)_
 
@@ -69,19 +65,23 @@ _[NASA](https://blogs.nasa.gov/spacex-crs-26/2022/11/03/nasa-invites-media-to-sp
 
 ![Render image of the Intuitive Machines Nova-C lander](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/im-3_moonscape_logo-Large.jpeg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Render image of the Intuitive Machines Nova-C lander
 
  The launch is currently scheduled for December 22, 2022, using a SpaceX Falcon 9 rocket. Because SpaceX is handling the launch, there will likely be a livestream on [SpaceX's YouTube channel](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU203665/https://www.youtube.com/c/SpaceX), or possibly a stream on the [NASA YouTube channel](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU203665/https://www.youtube.com/c/NASA).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Boeing Crew Flight Test: April 2023
 
  SpaceX isn't the only American company trying to carry people to space -- Boeing has also been trying to make it happen. The company's [CST-100 Starliner](https://en.wikipedia.org/wiki/Boeing%5FStarliner) spacecraft looks a bit like the SpaceX Dragon and Apollo command module, but is slightly larger than both vehicles. Boeing and NASA already completed two space flights with no one onboard, but the next attempt will have a crew.
 
 ![Photo of Barry “Butch” Wilmore and Sunita “Suni” Williams in front of a plane](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/Boeing-for-CCP-blog-768x512.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _[NASA / Robert Markowitz](https://blogs.nasa.gov/commercialcrew/category/boeing/)_
 
@@ -120,16 +120,19 @@ Related: [The James Webb Telescope Just Captured the "Pillars of Creation"](http
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-top-20-ae-templates-for-aspiring-designers/"><u>[New] Top 20 AE Templates for Aspiring Designers</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-enjoy-uninterrupted-youtube-with-effective-adblocking-methods/"><u>[Updated] 2024 Approved Enjoy Uninterrupted YouTube with Effective Adblocking Methods</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-vlog-stability-devices-for-smooth-screensavers/"><u>[Updated] Ultimate Vlog Stability Devices for Smooth Screensavers</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/detailed-overview-everything-about-io-screening-for-2024/"><u>Detailed Overview Everything About IO Screening for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-breaking-down-the-monetization-barriers/"><u>In 2024, Breaking Down the Monetization Barriers</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-itel-s23plus-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Itel S23+ Lock Screen Password</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-guide-to-procuring-and-utilizing-free-visual-frame-content/"><u>In 2024, The Guide to Procuring and Utilizing Free Visual Frame Content</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-superior-video-compression-in-av1/"><u>In 2024, Unveiling the Superior Video Compression in AV1</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/motorola-razr-40-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola Razr 40 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-complete-guide-to-enhancing-tiktok-bio-with-linktree-for-2024/"><u>The Complete Guide to Enhancing TikTok Bio with Linktree for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/the-ultimate-list-for-top-10-affordable-recording-software/"><u>The Ultimate List for Top 10 Affordable Recording Software</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/rom-oven-to-screen-cooking-videos-unveiled/"><u>[New] From Oven to Screen Cooking Videos Unveiled</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-memetic-design-top-10-must-haves/"><u>[New] Memetic Design Top 10 Must-Haves</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-a-beginners-roadmap-to-professional-sports-edits/"><u>[Updated] In 2024, A Beginner's Roadmap to Professional Sports Edits</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-8-vr-gaming-accessories/"><u>[Updated] Top 8 VR Gaming Accessories</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-music-craft-with-our-high-quality-beat-detection-software/"><u>2024 Approved Streamline Music Craft with Our High-Quality Beat Detection Software</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/external-hdds-in-transparency-fixing-problems-in-macs/"><u>External HDDs in Transparency: Fixing Problems in Macs</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-most-recent-nvidia-rtx-2080-drivers-for-your-windows-pc-compatible-with-win10-win7-and-win8/"><u>Get the Most Recent NVIDIA RTX 2080 Drivers for Your Windows PC: Compatible with Win10, Win7 & Win8</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tips-for-gaining-attention-via-snapchat-star/"><u>In 2024, Tips for Gaining Attention via Snapchat Star</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/maximizing-efficiency-discover-the-leading-speech-to-text-apps-for-macos/"><u>Maximizing Efficiency Discover the Leading Speech-to-Text Apps for MacOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-your-system-editing-registry-access-in-win11/"><u>Securing Your System: Editing Registry Access in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-unintentional-hotkey-engagements-on-pc/"><u>Stop Unintentional Hotkey Engagements on PC</u></a></li>
+<li><a href="https://some-skills.techidaily.com/supreme-boundless-data-depot-for-2024/"><u>Supreme Boundless Data Depot for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleashing-potential-vr-innovations-for-fun-and-games-for-2024/"><u>Unleashing Potential VR Innovations for Fun & Games for 2024</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-vivo-y28-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Vivo Y28 5G Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

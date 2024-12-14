@@ -1,7 +1,7 @@
 ---
 title: "Navigating Numbers: The Limitations of Using ChatGPT for Mathematical Tasks"
-date: 2024-12-02T21:34:46.623Z
-updated: 2024-12-08T01:46:39.257Z
+date: 2024-12-11T00:54:08.608Z
+updated: 2024-12-13T18:59:00.042Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/dccea8e74312ef3978115e47791b42d8d3af59dde
 ---
 
 ## Navigating Numbers: The Limitations of Using ChatGPT for Mathematical Tasks
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -34,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/dccea8e74312ef3978115e47791b42d8d3af59dde
 
 Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.techidaily.com/new-capture-clarity-editing-insights-for-professional-results/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  ChatGPT Can't Count
 
  ChatGPT and Bing don't seem reliable for counting lists of items. It seems like a basic task---but don't rely on getting a trustworthy answer.
@@ -51,16 +59,12 @@ Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.t
 ![ChatGPT repeatedly failing to count.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-count-2.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  We tried GPT 4 via Microsoft's Bing Chat and experienced a similar problem. Bing decided to write some Python code to solve this tricky problem, but it also failed to get the right answer. (Bing didn't actually run the code.)
 
 ![Bing Chat failing to count.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/bing-count.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  ChatGPT Struggles With Math Logic Problems
 
@@ -78,35 +82,31 @@ Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.t
 
 ![The final part of ChatGPT's incorrect response.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-fruit-3.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  ChatGPT will often dig in and argue with you about its responses, too. (Again, that's very human-like behavior.)
 
  In this case, ChatGPT argued that hey, it didn't get you the right answer---but it got you closer to your desired ratio than you were before! That's pretty funny.
 
 ![ChatGPT acknowledging the answer was wrong but arguing about it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-fruit-4.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  For the record, Microsoft's Bing Chat based on GPT 4 struggled with this problem as well, giving us a clearly incorrect answer. GPT 4's logic quickly goes off the rails here, too.
 
 ![Bing Chat giving a confused response.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-fruit.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  We recommend not attempting to follow every twist and turn of logic---it's clear that the answer is incorrect.
 
 ![Bing Chat giving a confused response.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-fruit.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When we pointed out Bing's answer was incorrect, it kept arguing with us in circles, offering wrong answer after wrong answer.
 
 ![Bing Chat giving a confused response.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-fruit.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  ChatGPT Can't Reliably Do Arithmetic, Either
 
@@ -131,17 +131,20 @@ Related: [Bing Chat: How to Use the AI Chatbot](https://facebook-video-recording
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-efficientuseofyourwebcamforrecording/"><u>[New] In 2024, EfficientUseOfYourWebcamForRecording</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-real-number-of-youtube-views-you-need-to-make-a-living/"><u>[New] The Real Number of YouTube Views You Need to Make a Living</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-visual-vibes-your-guide-to-kinemaster-memes/"><u>[Updated] In 2024, Visual Vibes Your Guide to KineMaster Memes</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-set-new-directory-for-mac-image-backups/"><u>2024 Approved Set New Directory for Mac Image Backups</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-webcams-for-enhanced-podcast-production/"><u>2024 Approved Ultimate Webcams for Enhanced Podcast Production</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/6-proven-ways-to-unlock-oppo-a58-4g-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Oppo A58 4G Phone When You Forget the Password</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-tiktok-content-mastery-learn-to-alter-digit-scenes-effectively/"><u>In 2024, TikTok Content Mastery Learn to Alter Digit Scenes Effectively</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-auditory-performances/"><u>In 2024, Ultimate Auditory Performances</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-vivo-y78plus-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Vivo Y78+</u></a></li>
-<li><a href="https://win11.techidaily.com/silencing-security-qanda-for-local-admin-users-in-windows-11/"><u>Silencing Security Q&A for Local Admin Users in Windows 11</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-art-of-screenshot-beauty-top-10-sticker-enhancing-apps-for-smartphones-for-2024/"><u>The Art of Screenshot Beauty Top 10 Sticker-Enhancing Apps for Smartphones for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-vr-frontier-who-holds-the-crown/"><u>The VR Frontier Who Holds the Crown?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-elevate-your-gaming-experience-with-voice-customization-in-free-fire/"><u>[New] The Ultimate Guide Elevate Your Gaming Experience with Voice Customization in Free Fire</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-transforming-engagement-on-instagram-top-10-compelling-igtv-content-concepts-for-brands/"><u>[Updated] 2024 Approved Transforming Engagement on Instagram Top 10 Compelling IGTV Content Concepts for Brands</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-from-basic-to-breathtaking-crafting-top-tier-tiktok-videos-using-templates/"><u>[Updated] In 2024, From Basic to Breathtaking Crafting Top-Tier TikTok Videos Using Templates</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-from-capture-to-share-streamlining-logitech-webcam-recordings/"><u>[Updated] In 2024, From Capture to Share Streamlining Logitech Webcam Recordings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-strategic-use-of-slug-lines-in-blogging/"><u>[Updated] Strategic Use of Slug Lines in Blogging</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamlining-post-production-with-luts-in-ae/"><u>[Updated] Streamlining Post-Production with LUTs in AE</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-straightforward-guide-to-photo-uploads-on-instagram/"><u>[Updated] The Straightforward Guide to Photo Uploads on Instagram</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-video-cuts-windows-edition-made-simple/"><u>[Updated] The Ultimate Guide to Video Cuts Windows Edition, Made Simple</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-windows-playback-system/"><u>[Updated] Ultimate Windows Playback System</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-superior-sonic-aligner-android-version/"><u>2024 Approved Superior Sonic Aligner, Android Version</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1726225296425-swfmp4movavi/"><u>完全無料：SWFからMP4に高速変換ツール！Movavi 使い方詳しく学ぶ</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-gaming-achievement-managers/"><u>Elite Gaming Achievement Managers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigating-through-samsungs-digital-picture-editing-app/"><u>Navigating Through Samsung's Digital Picture Editing App</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-motorola-razr-40-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Motorola Razr 40 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unified-brands-and-streaming-services-a-new-age-of-marketing-collaboration-for-2024/"><u>Unified Brands & Streaming Services A New Age of Marketing Collaboration for 2024</u></a></li>
 </ul></div>
 

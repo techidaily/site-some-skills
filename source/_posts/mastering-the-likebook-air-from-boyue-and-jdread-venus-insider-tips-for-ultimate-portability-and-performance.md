@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Likebook Air From Boyue & JDRead Venus: Insider Tips for Ultimate Portability and Performance"
-date: 2024-12-03T18:28:00.232Z
-updated: 2024-12-07T17:38:49.195Z
+date: 2024-12-12T00:49:05.099Z
+updated: 2024-12-13T17:01:25.550Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/ad251382f0a7d8c655d1ecfe442682eca929097f4c42dbd9921ea0eb3f9c12b0.jpg
@@ -10,7 +10,7 @@ thumbnail: https://thmb.techidaily.com/ad251382f0a7d8c655d1ecfe442682eca929097f4
 ## Mastering the Likebook Air From Boyue & JDRead Venus: Insider Tips for Ultimate Portability and Performance
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Tips and Tricks for Boyue Likebook Air (JDRead Venus)
@@ -22,7 +22,7 @@ Posted by [Sisi Liu](https://www.facebook.com/sisi.liu.737) on 1/22/2018 5:21:35
 ![follow](http://www.epubor.com/images/follow.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 JDcom and Boyue jointly launched the second Chinese made eReader – **JDRead Venus** on March 15, 2017\. It’s also called **Boyue Likebook Air** in North America and Europe. The product is primarily designed for Chinese users. It is defined to be a flagship Chinese pocket eReader which has better render effect on Chinese characters than Kindle eReaders do. It runs a newer version of **Android 4.4.2** on i.MX.6 SoloLite single core 1 GHZ CPU. The open Andriod system supports to install third party apps from Google Play which brings more playability to users. It has 1GB of RAM, 16GB of storage space, and an SD card slot to expand the storage further. It features a 6-inch 300 PPI E-ink Carta screen with a frontlight which enables you to read in the dark. Its battery capacity is 2000mAh which allows you to read with it constantly for about 25 days. The built-in reading app supports **ePub, MOBI, PDF, TXT, FB2, DOC, and HTML** files. It has massive digital resources that you can access and purchase books directly from the device anytime anywhere. So it’s enticing to millions of people including the ones who don’t settle down in mainland China. 
@@ -30,7 +30,7 @@ JDcom and Boyue jointly launched the second Chinese made eReader – **JDRead Ve
 ![BOYUE-T65S-likebook-air](http://www.epubor.com/images/uppic/1-BOYUE-T65S-likebook-air.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In this article, I’ll unveil and illustrate some **tips and trips of Likebook Air** which facilities your usage experience and helps you to make the most of the product.
@@ -38,6 +38,10 @@ JDcom and Boyue jointly launched the second Chinese made eReader – **JDRead Ve
 [(1) Quick Access functions](https://tools.techidaily.com/epubor/products/)  
 [(2) Other tips & tricks](https://tools.techidaily.com/epubor/products/)  
 [(3) Import books into Likebook Air](https://tools.techidaily.com/epubor/products/) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Access functions
 
@@ -67,10 +71,6 @@ Likebook Air supports PDF cropping and gray level upgrade. You can enjoy reading
 
 ![before cropping](http://www.epubor.com/images/uppic/4-before cropping.png) ![after cropping](http://www.epubor.com/images/uppic/5-after cropping.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Other tips and tricks
 
 #### 1\. Fast download ebooks
@@ -88,6 +88,10 @@ Swipe down from the top of the eReader, go to Settings;
 Tap Wallpaper setup, select custom wallpaper.
 
 ![change-wallpaper-1](http://www.epubor.com/images/uppic/6-change-wallpaper-1.jpg) ![change-wallpaper-2](http://www.epubor.com/images/uppic/7-change-wallpaper-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Import books into Likebook Air
 
@@ -125,10 +129,6 @@ Suggested reading
 * [DRM Removal Tools for Amazon Kindle .AZW eBooks](https://tools.techidaily.com/epubor/drm-removal-tools/)
 
 ![author](http://www.epubor.com/images/uppic/Sisi.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Sisi Liu](https://www.facebook.com/sisi.liu.737) Sisi is a newbie who joined Epubor in November 2017\. She's a bookworm her whole life and has taken great interest in eBooks recently. She learns professional knowledge about ebooks in Epubor and loves to share her know-how to all the ebook lovers!
 
@@ -250,19 +250,22 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-blueprint-of-an-engaging-podcast-blurb/"><u>[New] The Blueprint of an Engaging Podcast Blurb</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unveiling-effective-methods-to-end-w10-photo-app-freezes/"><u>[New] Unveiling Effective Methods to End W10 Photo App Freezes</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-a-comprehensible-guide-on-saving-instagram-story-content-for-2024/"><u>[Updated] A Comprehensible Guide on Saving Instagram Story Content for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-short-form-spectacularity-compile-the-top-10-video-editing-tools-for-2024/"><u>[Updated] Short-Form Spectacularity Compile the Top 10 Video Editing Tools for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-competition-unveiled-twitchs-clash-with-youtube/"><u>[Updated] The Competition Unveiled Twitch's Clash with YouTube</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-enhance-your-images-with-dynamic-motion-in-adobe-ai/"><u>2024 Approved Enhance Your Images with Dynamic Motion in Adobe AI</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/138570484-9780595843206-a-labor-of-love/"><u>A Labor of Love | Free Book</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-gopros-new-era-a-detailed-max-360-vs-hero-11-analysis/"><u>In 2024, GoPro's New Era A Detailed Max 360 vs Hero 11 Analysis</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-safaris-picture-in-picture-on-ios-and-ipad-how-to-use/"><u>In 2024, Safari's Picture-in-Picture on iOS & iPad How to Use</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Infinix Smart 7 | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-infallible-technique-for-embedding-profile-urls-in-tiktok/"><u>In 2024, The Infallible Technique for Embedding Profile URLs in TikTok</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/tele-loop-techniques-easy-endless-watching-on-television/"><u>Tele-Loop Techniques Easy, Endless Watching on Television</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-vr-headset-companies-for-2024/"><u>Top VR Headset Companies for 2024</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/ultimate-techniques-for-turning-your-photos-into-pngs-with-clear-edges/"><u>Ultimate Techniques for Turning Your Photos Into PNGs with Clear Edges</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-crafting-a-legacy-youtubers-playbook-for-success-for-2024/"><u>[New] Crafting a Legacy YouTuber’s Playbook for Success for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-snapshot-speaks-the-leading-captioning-apps-iosandroid/"><u>[New] Snapshot Speaks The Leading Captioning Apps (iOS/Android)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-chronicle-of-creation-weaving-time-lapse-animations-via-movie-maker/"><u>[New] The Chronicle of Creation Weaving Time-Lapse Animations via Movie Maker</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-editors-toolkit-elevating-your-video-with-inshot-transitions/"><u>[New] The Editor's Toolkit Elevating Your Video with Inshot Transitions</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-leading-asmr-content-on-the-web-for-2024/"><u>[Updated] Leading ASMR Content on the Web for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-teleport-into-virtuality-top-10-mobile-vr-headsets-reviewed/"><u>[Updated] Teleport Into Virtuality Top 10 Mobile VR Headsets Reviewed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-timing-your-podcasts-impactful-debut/"><u>[Updated] Timing Your Podcast's Impactful Debut</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-ranked-text-enhancers-for-after-effects/"><u>[Updated] Top-Ranked Text Enhancers for After Effects</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/discover-the-world-of-minecraft-plugins-the-new-non-mod-enhancements/"><u>Discover the World of Minecraft Plugins: The New Non-Mod Enhancements</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-14-plus-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 14 Plus to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-motorola-edge-40-neo-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-itel-a70-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Itel A70 to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-upgraded-2023-samsung-bd-j5900/"><u>In 2024, Unveiling the Upgraded 2023 Samsung BD-J5900</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-source-guide-4-top-skype-ringtones-for-2024/"><u>The Ultimate Source Guide 4 Top Skype Ringtones for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/utilizing-multiframe-view-an-in-depth-look-at-edges-pip-for-2024/"><u>Utilizing Multiframe View An In-Depth Look at Edge’s PIP for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/will-advanced-ai-innovations-by-microsoft-bring-back-the-dominance-of-windows-phones/"><u>Will Advanced AI Innovations by Microsoft Bring Back the Dominance of Windows Phones?</u></a></li>
 </ul></div>
 

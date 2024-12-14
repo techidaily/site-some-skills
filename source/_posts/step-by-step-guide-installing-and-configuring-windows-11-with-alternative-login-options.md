@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Installing and Configuring Windows 11 with Alternative Login Options"
-date: 2024-12-04T03:10:26.029Z
-updated: 2024-12-08T03:23:19.672Z
+date: 2024-12-12T22:21:23.823Z
+updated: 2024-12-14T00:40:48.779Z
 tags:
   - desktop
 categories:
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/f78d1d150df9704e5a6635f2d8f1d9b65ffaf1875
  Mac users who are [setting up Windows 11 inside of Parallels Desktop](https://some-knowledge.techidaily.com/in-2024-fast-forward-features-unveiled-the-editors-guidebook/) can skip the Microsoft account linking process. The virtualization software allows you to set up Windows "hands-free" and leaves you with a local account.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Bypass Windows 11 Microsoft Account Requirement Using Command Prompt
@@ -47,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/f78d1d150df9704e5a6635f2d8f1d9b65ffaf1875
  To bypass the Microsoft Account requirement, proceed with the first few steps of the installation process normally until you reach this screen:
 
 ![The Windows 11 installer prompting you to log in.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/microsoft-login-screen.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you're there, press Shift + F10 to open up a Command Prompt Window and type:
 
@@ -61,10 +65,6 @@ oobe\bypassnro
 Close 
 
  Click "Continue with limited setup" on the next page if it appears, and then you'll be able to create a local account with a password and three security questions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Install Windows 11 Without a Microsoft Account Using Rufus
 
@@ -85,7 +85,7 @@ Close
 ![Downloading the latest Windows 11 ISO for all versions of Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/download-the-windows-11-iso.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Using Rufus to create a bootable USB drive will completely erase the contents of that drive. Make sure you save any important files on it before you proceed.
@@ -99,10 +99,6 @@ Close
  Click "OK" when you are done choosing what requirements you want disabled.
 
 ![Disabling the Microsoft Account requirement via Rufus.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/disable-online-acct.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After that you just need to wait for Rufus to actually make the bootable media. It will take a few minutes at least, especially if you're using an older flash drive.
 
@@ -130,6 +126,10 @@ Close
 
  The account will now be added to your computer. Click on Start followed by your username then select "Sign out" to log in to the account.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Convert an Existing Microsoft Account to a Local Account
 
  The easy workaround using Rufus to install Windows 11 without a Microsoft account only appeared a few months prior to the release of [Windows 11's 2022 Update](https://tech-renaissance.techidaily.com/watch-your-favorite-shows-on-hulu-with-this-simple-setup-for-lg-tvs/), so most people currently using Windows 11 will have Microsoft logins.
@@ -144,13 +144,13 @@ Close
 
 ![The popup to switch to a local account on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/switching-to-local.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You should probably restart your PC even after you sign out just to fix any weird bugs that crop up. You also need to be careful now. Your account is a local-only account, which means that Microsoft won't be able to help you regain access if you forget something.
 
  Additionally, if you attempt to encrypt your drive on a local account, you'll be told you need to sign in to a Microsoft account to finish the process. That is not accurate — your drive will be encrypted even if you do not sign in, so be sure to make a copy of your recovery key.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Remove a Microsoft Account From Windows 11
 
@@ -163,7 +163,7 @@ Close
 ![Changing the account type from standard to administrator.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/change-accont-type.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can now log in to the other (local) account that you have created. Head to Settings > Accounts > Other users, select the (Microsoft) account you want to remove, and click "Remove" next to the "Account and data" field.
@@ -191,19 +191,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-from-monochrome-to-multicolor-learning-about-the-art-of-green-screens/"><u>[New] From Monochrome to Multicolor Learning About the Art of Green Screens</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-synching-release-timings-to-audience-trends/"><u>[New] Synching Release Timings to Audience Trends</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-budding-filmmakers-companion-understanding-display-quality-101/"><u>[New] The Budding Filmmaker’s Companion Understanding Display Quality 101</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-iphone-guide-to-water-reflected-imagery/"><u>[New] The Ultimate iPhone Guide to Water-Reflected Imagery</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-experts-handbook-for-srt-file-conversions/"><u>[Updated] The Expert's Handbook for SRT File Conversions</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-the-premier-ranking-of-outstanding-stop-motion-films/"><u>[Updated] The Premier Ranking of Outstanding Stop-Motion Films</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/windows-pelinuxcdusbiso/"><u>如何创造带有Windows PE或Linux的可引导CD/USB/ISO:详解</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-xperia-10-v-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Xperia 10 V has native HEVC support?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/editorial-powerhouses-free-for-web-enthusiasts/"><u>Editorial Powerhouses Free for Web Enthusiasts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-powered-content-is-it-ses-kryptonite/"><u>GPT-Powered Content: Is It SE's Kryptonite?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Samsung Galaxy F54 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/paving-the-path-for-ai-safety-ceos-plea-for-new-policies/"><u>Paving the Path for AI Safety: CEO’s Plea for New Policies</u></a></li>
-<li><a href="https://some-skills.techidaily.com/stream-to-stardom-mastering-live-with-xsplit-or-obs-in-2024/"><u>Stream to Stardom Mastering Live with XSplit or OBS, In 2024</u></a></li>
-<li><a href="https://win-webster.techidaily.com/transferring-your-entire-iphone-address-book-to-gmail-three-easy-methods/"><u>Transferring Your Entire iPhone Address Book to Gmail: Three Easy Methods</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-chuckle-chest-selecting-15-hilarious-video-treasures-for-your-viewing-pleasure/"><u>[New] Chuckle Chest Selecting 15 Hilarious Video Treasures for Your Viewing Pleasure</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-speed-control-101-taming-video-velocity-in-snapchat/"><u>[New] Speed Control 101 Taming Video Velocity in Snapchat</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-4k-potential-an-in-depth-look-at-dell-p2715q/"><u>[New] Unlocking 4K Potential An In-Depth Look at Dell P2715Q</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-creating-profit-on-youtube-the-ultimate-list-of-top-business-channels/"><u>[Updated] In 2024, Creating Profit on YouTube The Ultimate List of Top Business Channels</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-approach-to-enhancing-mp4-content-with-srt-captions/"><u>[Updated] Ultimate Approach to Enhancing MP4 Content with SRT Captions</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/a-comprehensive-review-of-offworld-trading-company-mastering-the-art-of-digital-domination/"><u>A Comprehensive Review of Offworld Trading Company: Mastering the Art of Digital Domination</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comparison/"><u>Comparison</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-guide-resolving-display-driver-failed-errors-on-windows-11/"><u>Expert Guide: Resolving Display Driver Failed Errors on Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-podcast-blurbs-techniques-and-illustrations/"><u>In 2024, The Art of Podcast Blurbs Techniques and Illustrations</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleash-creativity-with-these-top-free-slideshow-templates/"><u>In 2024, Unleash Creativity with These Top Free Slideshow Templates</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-upgrade-voice-quality-in-sony-console-gaming/"><u>In 2024, Upgrade Voice Quality in Sony Console Gaming</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/msvcr110dll-missing-understanding-and-resolution/"><u>MSVCR110.dll Missing: Understanding & Resolution</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/nostalgia-meets-tech-the-ultimate-keyboard-case-that-brings-back-the-classic-blackberry-experience-on-iphones/"><u>Nostalgia Meets Tech: The Ultimate Keyboard Case That Brings Back the Classic BlackBerry Experience on iPhones.</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-power-of-words-in-marketing-top-20-essentials-for-2024/"><u>The Power of Words in Marketing - Top 20 Essentials for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-to-vr-and-ar-game-apps-for-phones-for-2024/"><u>The Ultimate Guide to VR and AR Game Apps for Phones for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-steadicam-models-compatible-with-dslr-cameras-for-2024/"><u>Top Steadicam Models Compatible with DSLR Cameras for 2024</u></a></li>
 </ul></div>
 

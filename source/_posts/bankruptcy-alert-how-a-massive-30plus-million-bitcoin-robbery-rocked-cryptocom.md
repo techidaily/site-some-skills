@@ -1,7 +1,7 @@
 ---
 title: "Bankruptcy Alert: How a Massive $30+ Million Bitcoin Robbery Rocked Crypto.com"
-date: 2024-12-05T03:05:52.519Z
-updated: 2024-12-08T02:48:35.236Z
+date: 2024-12-11T16:38:21.891Z
+updated: 2024-12-13T18:39:34.731Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 ## Bankruptcy Alert: How a Massive $30+ Million Bitcoin Robbery Rocked Crypto.com
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
  A considerable hack occurred on the popular [cryptocurrency exchange](https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-itel-p40plus-phones-by-drfone-android/) Crypto.com. The hack led to over $30 million in crypto being stolen in the form of 4,836.26 Ethereum and 443.93 bitcoin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Happened to Crypto.com?
@@ -43,7 +43,7 @@ Related: [What is Ethereum, and What Are Smart Contracts?](https://extra-informa
 > On Monday, 17 January 2022 at approximately 12:46 AM UTC Crypto.com's risk monitoring systems detected unauthorized activity on a small number of user accounts where transactions were being approved without the 2FA authentication control being inputted by the user. This triggered an immediate response from multiple teams to assess the impact. All withdrawals on the platform were suspended for the duration of the investigation. Any accounts found to be impacted were fully restored. Crypto.com revoked all customer 2FA tokens, and added additional security hardening measures, which required all customers to re-login and set up their 2FA token to ensure only authorized activity would occur. Downtime of the withdrawal infrastructure was approximately 14 hours, and withdrawals were resumed at 5:46 PM UTC, 18 January 2022.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Is Crypto.com Doing to Fix It?
@@ -75,22 +75,18 @@ Related: [Opera Just Launched a Crypto Browser for Some Reason](https://howto.te
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-streamlining-post-production-workflows-for-your-windows-10-setup/"><u>[New] Streamlining Post-Production Workflows for Your Windows 10 Setup</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-powerful-path-to-flawless-photo-edits-mastering-background-eraser-use/"><u>[New] The Powerful Path to Flawless Photo Edits Mastering Background Eraser Use</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-scope-of-panoramic-filmmaking-explained/"><u>[New] The Scope of Panoramic Filmmaking Explained</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-transforming-wardrobe-stories-into-mac-made-ootd-videos-for-2024/"><u>[New] Transforming Wardrobe Stories Into Mac-Made OOTD Videos for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-understanding-the-fundamentals-of-online-tales/"><u>[New] Understanding the Fundamentals of Online Tales</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-growth-hacking-for-new-videographers/"><u>[New] YouTube Growth Hacking for New Videographers</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-elevate-your-content-strategies-for-youtube-success/"><u>[Updated] 2024 Approved Elevate Your Content Strategies for YouTube Success</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-enhancing-youtube-music-soundscape/"><u>[Updated] 2024 Approved Enhancing YouTube Music Soundscape</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fast-track-to-youtube-partner-level-achieve-10k-views/"><u>[Updated] 2024 Approved Fast Track to YouTube Partner Level - Achieve 10K Views</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-streamlining-projects-using-azures-speech-service/"><u>[Updated] Streamlining Projects Using Azure's Speech Service</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-creative-utilization-of-b-footage-in-media/"><u>2024 Approved The Creative Utilization of B-Footage in Media</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-premier-livestream-networks-you-need-to-watch/"><u>2024 Approved The Premier Livestream Networks You Need To Watch</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Honor X50i | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-aural-tapestry-weaving-sounds-into-cinematic-threads/"><u>In 2024, Aural Tapestry Weaving Sounds Into Cinematic Threads</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-understanding-the-basics-of-motion-design/"><u>In 2024, Understanding the Basics of Motion Design</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211253533-9798869057990-nothing-is-by-chance/"><u>Nothing is by Chance | Free Book</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/transform-your-in-game-identity-with-these-free-free-fire-vocal-hacks/"><u>Transform Your In-Game Identity with These Free Free Fire Vocal Hacks</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-the-pinnacle-of-propagation-valheim-seeds-unveiled/"><u>[New] 2024 Approved The Pinnacle of Propagation Valheim Seeds Unveiled</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-elevating-your-video-content-youtube-to-igtv-transition/"><u>[New] In 2024, Elevating Your Video Content YouTube to IGTV Transition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-timelapse-techniques-for-samsung-smartphones/"><u>[Updated] Timelapse Techniques for Samsung Smartphones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tips-for-leveraging-snapchats-star-feature/"><u>[Updated] Tips for Leveraging Snapchat's Star Feature</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-youtube-video-titles-creator-tools/"><u>[Updated] Ultimate YouTube Video Titles Creator Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-4k-camera-guide-top-6-dslrs-reviewed/"><u>2024 Approved Ultimate 4K Camera Guide Top 6 DSLRs Reviewed</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-google-pixel-8-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Google Pixel 8 Phone FRP Lock</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-apple-iphone-12-pro-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-steam-deck-remote-pc-game-streaming-guide/"><u>Mastering Steam Deck Remote: PC Game Streaming Guide</u></a></li>
+<li><a href="https://win-latest.techidaily.com/ricostruisci-i-tuoi-file-persi-con-semplicita-e-sicurezza-taglia-e-incolla-a-sei-passaggi/"><u>Ricostruisci I Tuoi File Persi Con Semplicità E Sicurezza - Taglia E Incolla a Sei Passaggi</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tailoring-a-streamlined-download-process-for-youtubes-srt-for-2024/"><u>Tailoring a Streamlined Download Process for YouTube's SRT for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-realme-11-pro-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Realme 11 Pro Phones</u></a></li>
+<li><a href="https://common-error.techidaily.com/unauthorized-access-denied-solutions-inside/"><u>Unauthorized Access Denied: Solutions Inside</u></a></li>
 </ul></div>
 

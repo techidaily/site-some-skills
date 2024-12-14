@@ -1,7 +1,7 @@
 ---
 title: Kickstart Your Workday Effortlessly with a Handy Mac Shortcut!
-date: 2024-12-05T17:50:19.645Z
-updated: 2024-12-07T22:02:25.042Z
+date: 2024-12-06T21:33:35.337Z
+updated: 2024-12-13T19:08:21.193Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Kickstart Your Workday Effortlessly with a Handy Mac Shortcut!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -24,7 +24,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  I’ve played around with [Apple’s Shortcuts app](https://win-solutions.techidaily.com/expert-tips-for-when-you-cant-get-far-cry-6-running-on-your-desktop/) to create all kinds of complicated processes. But my favorite shortcut, and the one I use the most by far, is actually ridiculously simple. All it does is open all my work apps, but I recommend it to everyone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Makes This Shortcut So Great
@@ -42,7 +42,7 @@ Your browser does not support the video tag.
  But enough waxing lyrical about why I love this shortcut, here’s how to try it for yourself. Honestly, it couldn’t be easier.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Create a Shortcut That Opens All Your Work Apps
@@ -62,7 +62,7 @@ Close
 ![Several actions to open apps in a Mac Shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/several-actions-to-open-apps-in-a-mac-shortcut.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  At the top of the Shortcuts window, type a name for your shortcut. I call mine “Start Working.” Then click the icon to edit the color and symbol if you want. Finally, click the Shortcut Details button in the top-right corner, shown by an “i” button, to choose how to launch this shortcut. I like to enable“Pin to Menu Bar” so I can run it from the menu bar with a couple of clicks, but you could create a keyboard shortcut if you prefer.
@@ -90,18 +90,14 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-unveiling-the-truth-apples-face-id-against-samsung-writers-face-matching/"><u>[New] In 2024, Unveiling the Truth Apple's Face ID Against Samsung’ Writers' Face-Matching</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unearthing-inshots-video-magic-for-editors/"><u>[New] Unearthing InShot’s Video Magic for Editors</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-essential-tiktok-strategies-aiming-for-the-top-of-the-list/"><u>[Updated] Essential TikTok Strategies Aiming for the Top of the List</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-monitoring-youtube-discussions/"><u>2024 Approved The Art of Monitoring YouTube Discussions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-tips-to-improve-your-gopros-power-sustainability/"><u>2024 Approved Tips to Improve Your GoPro's Power Sustainability</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/compilation-of-the-best-9-multi-platform-video-communication-devices-iosandroid/"><u>Compilation of The Best 9 Multi-Platform Video Communication Devices (iOS/Android)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/ensuring-smooth-gaming-regularly-update-windows-10s-deadrivers/"><u>Ensuring Smooth Gaming: Regularly Update Windows 10'S DeaDrivers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-activatedeactivate-your-built-in-virtual-keyboard-on-windows-11-devices/"><u>Guide: Activate/Deactivate Your Built-In Virtual Keyboard on Windows 11 Devices</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/premiere-gear-optimal-panoramic-recorders/"><u>Premiere Gear Optimal Panoramic Recorders</u></a></li>
-<li><a href="https://win-able.techidaily.com/solution-for-unending-anthem-startup-no-more-loading-frustration/"><u>Solution for Unending Anthem Startup: No More Loading Frustration</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-edited-essence-unlocking-techniques-for-visual-impact-for-2024/"><u>The Edited Essence Unlocking Techniques for Visual Impact for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/top-11-strategies-for-boosting-your-youtube-videos-seo-for-2024/"><u>Top 11 Strategies for Boosting Your YouTube Videos' SEO for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlock-the-best-places-to-explore-vector-artwork-at-no-cost-for-2024/"><u>Unlock the Best Places to Explore Vector Artwork at No Cost for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-platforms-for-animated-3d-creation/"><u>[New] Ultimate Platforms for Animated 3D Creation</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-video-content-creation-evolution-choosing-studio-over-beta/"><u>[Updated] 2024 Approved Video Content Creation Evolution Choosing Studio Over Beta</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-smooth-sailing-on-instagram-bypass-video-issues/"><u>[Updated] In 2024, Smooth Sailing on Instagram - Bypass Video Issues</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-no-fee-all-the-music-top-10-sites-for-coprwyfree-soundtracks/"><u>[Updated] No Fee, All the Music Top 10 Sites for Coprwyfree Soundtracks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-step-by-step-strategies-for-superior-film-production-using-movie-maker-in-windows-8/"><u>In 2024, Step-by-Step Strategies for Superior Film Production Using Movie Maker in Windows 8</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-casual-gopro-footage-to-a-pro-level/"><u>In 2024, Transform Your Casual Gopro Footage to a Pro Level</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-apple-iphone-12-pro-fixed-drfone-by-drfone-virtual-ios/"><u>In 2024, Why is iPogo not working On Apple iPhone 12 Pro? Fixed | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/total-gaze-field-vr-device-overview/"><u>Total Gaze Field VR Device Overview</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleashing-visual-potential-is-pickup-the-pinnacle-of-android-editing-tools-for-2024/"><u>Unleashing Visual Potential Is PickUp the Pinnacle of Android Editing Tools for 2024</u></a></li>
 </ul></div>
 

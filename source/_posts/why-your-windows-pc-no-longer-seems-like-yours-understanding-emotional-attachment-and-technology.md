@@ -1,7 +1,7 @@
 ---
 title: "Why Your Windows PC No Longer Seems Like Yours: Understanding Emotional Attachment & Technology"
-date: 2024-12-03T22:47:30.186Z
-updated: 2024-12-08T01:16:31.306Z
+date: 2024-12-09T18:56:36.866Z
+updated: 2024-12-14T02:31:13.797Z
 tags:
   - deals
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/3a45d2f58796a5984d88b42acb22f94c8f8721b15
  An operating system is the most personal part of a "personal" computer, and it used to be that as a Windows user I didn't feel like I was renting my computer from Microsoft, but in recent years that feeling has all but evaporated. To me, Windows feels cheaper and more commercial than ever, and that's not a recipe for a good user experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Offline Glory Days of Windows
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/3a45d2f58796a5984d88b42acb22f94c8f8721b15
 ![exit-windows-3.1-to-dos](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2014/05/exit-windows-3.1-to-dos.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In retrospect, this was actually a good thing in some ways, because it meant that Microsoft couldn't remotely mess with my Windows installation. Patches and updates came in the form of Windows service packs, and those were on actual physical floppy disks or CD-ROMs. If my computer worked yesterday, and I didn't change anything myself, it would almost certainly keep working until I inadvertently broke it myself.
@@ -47,6 +47,10 @@ Jerome Thomas / How-To Geek
 
  Basically, it now feels like Windows is partly subsidized by advertising, and regular users can't just have the operating system they paid for without being sold more software and services. It's not (yet) the most egregious way to go about it, but for someone who prefers absolute minimilism in their computer interfaces, it's not working for my feng shui.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Updates Breaking My PC
 
  At this point, I have lost count of the number of times that I've left my perfectly working Windows computer at the end of my work day, only to return to a completely broken computer that won't boot the next morning. We have numerous articles at How-To Geek on how to [stop Windows from updating](https://driver-download.techidaily.com/boost-your-pcs-gameplay-download-the-new-steelseries-engine-for-windows-11-enthusiasts/), and the mere fact that readers are searching for this information should tell you something.
@@ -54,20 +58,20 @@ Jerome Thomas / How-To Geek
  Forced, automatic Windows updates seem inevitable now, and with every workaround people come up with, the loopholes are closed. Updates can be delayed, but not deferred. Resistance is futile. Which is why I find it hard to even trust Windows to run a Plex server or a NAS, because inevitably it will reboot the computer without asking me first.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Leave My Settings Alone, Microsoft
 
  When I have my computer set up a certain way, I'd like it to stay that way permanently. Yet search the forums on sites like [Reddit](https://www.reddit.com/r/Windows10/comments/n1hoz0/windows%5Fplease%5Fstop%5Fchanging%5Fmy%5Fsettings%5Fwith/) or Microsoft's own [community forums](https://answers.microsoft.com/en-us/windows/forum/all/windows-updates-keeps-changing-my-settings/1870494e-b7be-41a8-84e6-d2e7e55c88d5), and you'll find numerous complaints about settings changing after updates. It can be innocuous stuff or more serious or impactful things, such as privacy settings. If anyone is going to flip the switches on my computer to control how it behaves and what's allowed, it should be me.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  My Mac Doesn’t Feel Subsidized
 
 ![MacBook on a desk showing a colorful wallpaper with in a dark room.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/macbook-on-a-desk-showing-a-colorful-wallpaper-with-in-a-dark-room.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Sergio Rodriguez / How-To Geek
 
@@ -82,10 +86,6 @@ Sergio Rodriguez / How-To Geek
  The other major player here is of course Linux in all its varied distributions. Here you are literally getting the operating system for free. The closest that a distro of Linux has come to punting ads was when plugs for software showed up in the [Ubuntu Message of the Day](https://www.reddit.com/r/linux/comments/hfs4v9/ubuntu%5Fis%5Fputting%5Fads%5Fin%5Ftheir%5Fmotd%5Fnow/) and more recently a sort-of "ad" for [Ubuntu Pro](https://www.omgubuntu.co.uk/2022/10/ubuntu-pro-terminal-ad) in the terminal. If anyone knows of other examples of native ads in a Linux distro, I'd love to hear about it in the comments.
 
  I've had an on-again-off-again relationship with Linux over the years, and daily drove it during seven years of university, and never did I feel that I was being exploited or not in control. In fact, I was probably in too much control, which is why you can break Linux in so many creative ways just by being a dummy.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Can Windows Make a Comeback?
 
@@ -110,24 +110,22 @@ Sergio Rodriguez / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-immediate-flagging-of-insta-de-following-events-for-2024/"><u>[New] Immediate Flagging of Insta De-Following Events for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-detailed-look-logitechs-elite-4k-webcam-review/"><u>[New] In 2024, Detailed Look Logitech’s Elite 4K Webcam Review</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-techniques-for-removing-cluttered-photo-backgrounds/"><u>[New] In 2024, Techniques for Removing Cluttered Photo Backgrounds</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-streamlined-screencasting-experts-top-recommendations/"><u>[New] Streamlined Screencasting Experts' Top Recommendations</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-best-10-final-cut-pro-plugins-ever/"><u>[New] The Best 10 Final Cut Pro Plugins Ever</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-10-premier-livestream-services-unveiled/"><u>[New] Top 10 Premier Livestream Services Unveiled</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-traversing-through-windows-movie-makers-version-landscape/"><u>[New] Traversing Through Windows Movie Maker's Version Landscape</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-unlocking-team-potential-expert-tips-on-slack-and-filmora-integration/"><u>[New] Unlocking Team Potential Expert Tips on Slack and Filmora Integration</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unveiling-worlds-in-virtual-reality-tours/"><u>[New] Unveiling Worlds in Virtual Reality Tours</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-fast-track-to-hot-photos-on-pexels/"><u>[Updated] The Fast Track to Hot Photos on Pexels</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-premier-collection-of-ae-plugins-unveiled/"><u>[Updated] The Premier Collection of AE Plugins Unveiled</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-supreme-song-synchronizer-app-android/"><u>2024 Approved Supreme Song Synchronizer App (Android)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-best-monitors-for-xbox-series-x/"><u>2024 Approved The Best Monitors for Xbox Series X</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/activision-security-breach-and-the-future-of-work-with-ai-innovations/"><u>Activision Security Breach & The Future of Work with AI Innovations</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Nubia Z50 Ultra | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-honor-magic-vs-2-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Honor Magic Vs 2 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transform-your-visuals-with-these-11-expert-strategies-for-2024/"><u>Transform Your Visuals with These 11 Expert Strategies for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-auditory-precision-in-filmmaking-employing-audio-ducking-strategies/"><u>Updated In 2024, Auditory Precision in Filmmaking Employing Audio Ducking Strategies</u></a></li>
-<li><a href="https://fox-info.techidaily.com/wirecast-versus-obs-which-broadcasting-tool-reigns-supreme-in-2024/"><u>Wirecast Versus OBS Which Broadcasting Tool Reigns Supreme, In 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-making-audio-files-out-of-instagram-videos/"><u>[New] Making Audio Files Out of Instagram Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-understanding-control-over-sound-attenuation-within-audacity/"><u>[New] Understanding Control Over Sound Attenuation Within Audacity</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-masterpiece-moments-top-15-musician-behind-the-scenes-vlogs-for-2024/"><u>[Updated] Masterpiece Moments Top 15 Musician Behind-the-Scenes Vlogs for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-strategies-to-ensure-iphone-camera-focus/"><u>[Updated] Strategies to Ensure iPhone Camera Focus</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-superior-steadicams-for-drone-shooting-precision/"><u>[Updated] Superior Steadicams for Drone Shooting Precision</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-real-time-collaboration-via-xbox-zoom/"><u>[Updated] Unlocking Real-Time Collaboration via Xbox Zoom</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-beyond-the-screen-a-vr-odyssey/"><u>2024 Approved Beyond the Screen A VR Odyssey</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-enhancing-on-screen-appeal-essential-tips-for-talking-head-shots/"><u>2024 Approved Enhancing On-Screen Appeal Essential Tips for Talking-Head Shots</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-infinix-note-30-5g-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Infinix Note 30 5G</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-6s-by-drfone-ios/"><u>How to Unlock iPhone 6s?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-stargazers-guide-to-luxury-car-accessories-sj4000/"><u>In 2024, The Ultimate Stargazer's Guide to Luxury Car Accessories (SJ4000)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-podcasts-identity-with-ai-name-makers/"><u>In 2024, Transform Your Podcast's Identity with AI Name Makers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-power-of-picture-in-picture-on-apple-devices/"><u>In 2024, Unveiling the Power of Picture-in-Picture on Apple Devices</u></a></li>
+<li><a href="https://win-community.techidaily.com/mastering-the-art-of-safe-cryptocurrency-storage-with-trusted-wallets-by-experts-at-yl-software/"><u>Mastering the Art of Safe Cryptocurrency Storage with Trusted Wallets by Experts at YL Software</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-most-affordable-and-sturdy-tv-mounts-reviewed-cheetahs-model/"><u>The Most Affordable & Sturdy TV Mounts Reviewed - Cheetah's Model</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleash-your-twitter-potential-premium-video-upload-tools-for-2024/"><u>Unleash Your Twitter Potential Premium Video Upload Tools for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unmatched-camcorders-for-total-rotation-capture-for-2024/"><u>Unmatched Camcorders for Total Rotation Capture for 2024</u></a></li>
 </ul></div>
 

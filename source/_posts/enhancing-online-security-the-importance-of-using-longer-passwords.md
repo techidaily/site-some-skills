@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Online Security: The Importance of Using Longer Passwords"
-date: 2024-12-06T16:07:34.267Z
-updated: 2024-12-07T20:30:20.737Z
+date: 2024-12-12T23:26:21.549Z
+updated: 2024-12-13T21:12:40.660Z
 tags:
   - web
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
 ---
 
 ## Enhancing Online Security: The Importance of Using Longer Passwords
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -25,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
 
  The short answer is password entropy. That term sounds way more complicated than it really is unless you’re familiar with cryptography, so let’s take a look at what password entropy is.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What's Password Entropy?
 
  Password entropy is a measure of how unpredictable and random your password is. Password entropy is measured in bits, the basic unit for measuring information in computing. More bits is better, with most experts agreeing that entropy should be at least 64 bits, though that number is controversial. A higher entropy means your password is more random. When it comes to securing things, random is good.
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
 ![A phone receiving a 2FA code.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/shutterstock_2373964067.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [ronstik](https://www.shutterstock.com/g/ronstik "ronstik") / Shutterstock.com
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
  The best way to attack a password is through a [dictionary attack](https://extra-skills.techidaily.com/2024-approved-smartest-ways-to-track-wedding-dates-ios-and-android-style/), which is a program that will try to “guess” a password by going through common words and phrases. It’s almost literally throwing the book at your password, going through the entire dictionary and also common variations. Once the password is guessed, the attacker has access.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Brute Force and Randomness
@@ -52,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
  As dictionary attacks thrive on predictability (words that already exist), it stands to reason that the only good way to stymie them is to add randomness to passwords. Many people kind of know this, which is why they add a few symbols to their existing passwords to create things like “p@ssword” or “password123.”
 
  However, this doesn’t work as it’s not random. Attackers can easily account for a change like this, and it will take them maybe a nanosecond longer to gain access to an account. For something to be closer to truly random, you have to take humans out of the equation entirely and use a computer to create a random password. The [best password managers](https://facebook-video-content.techidaily.com/updated-how-to-create-facebook-video-ads-with-free-video-creation-kit-for-2024/), programs that create and store passwords for you, have this functionality built in.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How Entropy Affects Password Length
 
@@ -65,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
  All of these are important, but length plays a special role, one we need some math to explain.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  How to Calculate Password Entropy
@@ -84,10 +88,6 @@ E = log2(RL)
  If we add uppercase letters, we double your range to 52 as uppercase letters count as separate for our purposes. This gives you an entropy score of 45.60 bits. That’s still not great, but we’re getting there.
 
  If we add the digits 0-9 we come to a range of 62, and then once we add the 33 symbol keys, our range is increased to 95\. Using just 8 characters, that gives us an entropy score of 52.56 bits, still well below the cutoff of 64 bits. The only other way to further increase your entropy is to make the password longer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  What Should Be Your Minimum Password Length?
 
@@ -110,14 +110,19 @@ E = log2(RL)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-top-rated-mp4-video-save-and-review/"><u>[New] 2024 Approved Top-Rated MP4 Video Save & Review</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unveiling-the-secrets-to-buying-todays-best-360-cameras/"><u>[New] Unveiling the Secrets to Buying Today's Best 360 Cameras</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-how-to-choose-the-best-lipo-battery-for-your-drone-for-2024/"><u>[Updated] How to Choose the Best LiPo Battery for Your Drone for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/direct-connection-from-usb-20-to-local-area-network/"><u>Direct Connection From USB 2.0 to Local Area Network</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-quickly-solve-the-lagging-shutdown-of-your-windows-10-pc/"><u>How to Quickly Solve the Lagging Shutdown of Your Windows 10 PC</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-tap-into-the-latest-gaming-and-app-splash-of-win11/"><u>In 2024, Tap Into the Latest Gaming and App Splash of Win11</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-11-techniques-for-perfecting-color-in-post-production-for-2024/"><u>Top 11 Techniques for Perfecting Color in Post-Production for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/top-rated-steering-wheel-software-downloads-by-logitech-ideal-for-windows-os-7-10-11/"><u>Top-Rated Steering Wheel Software Downloads by Logitech: Ideal for Windows OS (7, 10, 11)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-visualizer-speedster-for-windows-10-for-2024/"><u>Ultimate Visualizer - Speedster for Windows 10 for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-audio-player-insights-and-critiques-for-2024/"><u>[New] Audio Player Insights & Critiques for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-tier-seo-strategies-to-elevate-your-podcast-rankings/"><u>[New] Top-Tier SEO Strategies to Elevate Your Podcast Rankings</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-masterful-tantalizing-titles-designer/"><u>[Updated] 2024 Approved Masterful Tantalizing Titles Designer</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-the-ultimate-tutorial-blocking-youtube-ads-on-all-platforms/"><u>[Updated] 2024 Approved The Ultimate Tutorial Blocking YouTube Ads on All Platforms</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-photo-storage-sites/"><u>[Updated] Top Photo Storage Sites</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-best-apps-allow-you-to-transcribe-speech-to-text-offline/"><u>2024 Approved Best Apps Allow You to Transcribe Speech to Text Offline</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-professionals-way-of-removing-backgrounds/"><u>2024 Approved The Professional's Way of Removing Backgrounds</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlicensed-music-for-games-top-10-online-hits/"><u>2024 Approved Unlicensed Music for Games - Top 10 Online Hits</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-play-mov-files-on-redmi-13c-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't play .mov files on Redmi 13C 5G</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exceptional-sound-value-for-aspiring-asmr-artists-for-2024/"><u>Exceptional Sound Value for Aspiring ASMR Artists for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-sound-functionality-in-windows-11-with-these-5-simple-steps/"><u>How to Restore Sound Functionality in Windows 11 with These 5 Simple Steps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/mastering-unlimited-data-keep-essential-lists-for-2024/"><u>Mastering Unlimited Data Keep Essential Lists for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/snapseed-simplified-the-photographers-first-toolkit/"><u>Snapseed Simplified The Photographer's First Toolkit</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/troubleshooting-tips-resolving-incorrect-installation-of-your-scanners-drivers-yl-computing-guide/"><u>Troubleshooting Tips: Resolving Incorrect Installation of Your Scanner's Drivers - YL Computing Guide</u></a></li>
 </ul></div>
 

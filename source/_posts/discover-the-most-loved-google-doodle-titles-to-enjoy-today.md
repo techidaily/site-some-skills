@@ -1,7 +1,7 @@
 ---
 title: Discover the Most Loved Google Doodle Titles to Enjoy Today
-date: 2024-12-06T21:11:17.239Z
-updated: 2024-12-07T19:44:36.351Z
+date: 2024-12-09T16:23:45.819Z
+updated: 2024-12-13T18:09:14.676Z
 tags:
   - web
 categories:
@@ -26,16 +26,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Google keeps its main search page fresh with fun doodles that change every couple of days. Occasionally, the doodle is an actual game that you can play. These games are archived and can be played after their time on the homepage has passed. They're perfect for passing the time without needing to download anything.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  #1: [Baseball](http://www.google.com/doodles/fourth-of-july-2019) 
 
 ![doodle baseball](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/2021-04-29_16-52-45.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  There have been several sports-based doodle games, but the one we spent the most time on was Baseball from the 2019 4th of July.
@@ -44,15 +40,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![google pac-man](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/2021-04-29_17-02-09.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Everyone knows Pac-Man. It's a classic for a reason. The Doodle version is just as fun as always.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  #3: [Quick, Draw!](http://quickdraw.withgoogle.com/) 
 
 ![quick, draw](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/2021-04-29_17-03-58.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Quick, Draw! was so popular that it got its own website. You get 20 seconds to draw something, and then Google's neural network tries to guess what it is.
 
@@ -61,10 +61,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 [](https://quickdraw.withgoogle.com/)
 
 [![scoville game](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/2021-04-29_17-07-51.png)](https://quickdraw.withgoogle.com/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [](https://quickdraw.withgoogle.com/) 
 
@@ -88,29 +84,33 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The goal of the Garden Gnome game is to launch a gnome as far as you can with a catapult.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  #8: [Coding Rabbit](https://www.google.com/doodles/celebrating-garden-gnomes) 
 
 [](https://www.google.com/doodles/celebrating-garden-gnomes)
 
 [![rabbit coding game](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/2021-04-29_17-18-14.png)](https://www.google.com/doodles/celebrating-garden-gnomes)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [](https://www.google.com/doodles/celebrating-garden-gnomes) 
 
  Coding Rabbit is a great game to introduce your kids to coding. The goal is to use basic, block-based coding concepts to help a rabbit to a carrot.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  #9: [Cricket](https://www.google.com/doodles/celebrating-50-years-of-kids-coding) 
 
 ![cricket game](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/2021-04-29_17-19-47.png) 
 
- Play Cricket with virtual crickets! Just like the baseball game, this one is super addictive.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Play Cricket with virtual crickets! Just like the baseball game, this one is super addictive.
 
 ##  #10: [Rubik's Cube](https://www.google.com/doodles/icc-champions-trophy-2017-begins) 
 
@@ -119,7 +119,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 [![google rubik's cube](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/2021-04-29_17-21-22.png)](https://www.google.com/doodles/icc-champions-trophy-2017-begins)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [](https://www.google.com/doodles/icc-champions-trophy-2017-begins) 
@@ -145,21 +145,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-uniting-fans-anime-opening-songs-showcase/"><u>[New] 2024 Approved Uniting Fans Anime Opening Songs Showcase</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-tips-for-scaling-your-youtube-videos/"><u>[New] Tips for Scaling Your YouTube Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-hd-video-cameras-unveiled/"><u>[New] Top HD Video Cameras Unveiled</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-windows-10-sound-capabilities/"><u>[New] Unlocking Windows 10 Sound Capabilities</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-masterclass-in-minimal-photoshop-alterations/"><u>[Updated] Masterclass in Minimal Photoshop Alterations</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-tips-and-tricks-for-streamlining-color-grading-with-luts-in-adobe/"><u>[Updated] Tips and Tricks for Streamlining Color Grading with LUTs in Adobe</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-reddit-threads-ever-the-10-greatest-hits/"><u>[Updated] Top Reddit Threads Ever The 10 Greatest Hits</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/demystify-video-editing-with-free-vimeo-resources/"><u>Demystify Video Editing with Free Vimeo Resources</u></a></li>
-<li><a href="https://article-files.techidaily.com/essential-tips-for-deactivating-an-inactive-linkedin-profile/"><u>Essential Tips for Deactivating an Inactive LinkedIn Profile</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/how-to-successfully-upload-your-bcpf-document-on-youtube/"><u>How to Successfully Upload Your BCPF Document on YouTube</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-sony-xperia-1-v-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Sony Xperia 1 V Is Unlocked</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unparalleled-harmony-collector-android-based/"><u>In 2024, Unparalleled Harmony Collector, Android-Based</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/pinterests-top-free-tools-effortless-video-downloads-online/"><u>Pinterest’s Top Free Tools Effortless Video Downloads Online</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-lost-photos-during-transfer-from-iphone-14-pro-max-to-pc-or-mac-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Recover Lost Photos during Transfer from iPhone 14 Pro Max to PC or Mac | Stellar</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-slomo-recording-tool-assessment-guide-for-2024/"><u>The Ultimate SloMo Recording Tool Assessment Guide for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiled-apple-introduces-powerful-13-and-15-macbook-air-models-featuring-the-latest-m3-processor-discover-the-updates/"><u>Unveiled: Apple Introduces Powerful 13 & 15 MacBook Air Models Featuring the Latest M3 Processor - Discover the Updates!</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-bringing-back-the-glitter-integrating-instagram-effects-to-past-media/"><u>[Updated] In 2024, Bringing Back the Glitter Integrating Instagram Effects to Past Media</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-the-ultimate-guide-to-android-9-youtube-download-apps/"><u>[Updated] In 2024, The Ultimate Guide to Android 9 YouTube Download Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-lightroom-for-hdr-image-creation/"><u>[Updated] The Ultimate Guide to Lightroom for HDR Image Creation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-10-audio-playback-accelerators-for-phones/"><u>[Updated] Top 10 Audio Playback Accelerators for Phones</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-obs-direct-stream-to-instagram/"><u>2024 Approved OBS Direct Stream to Instagram</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-tiktok-video-amplification/"><u>2024 Approved The Ultimate Guide to TikTok Video Amplification</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-vsco-photo-editing-tips-and-tricks/"><u>2024 Approved Unlocking VSCO Photo Editing Tips & Tricks</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/canon-printer-pause-how-to-react/"><u>Canon Printer Pause: How To React?</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-resolving-keyboard-malfunctions-in-windows-operating-systems-win-10-and-win-11/"><u>Diagnosing and Resolving Keyboard Malfunctions in Windows Operating Systems (Win 10 & Win 11)</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/express-your-gratitude-essential-phrases-for-travelers/"><u>Express Your Gratitude: Essential Phrases for Travelers</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-contrast-of-virtual-realms-meta-vs-omni-universe/"><u>In 2024, The Contrast of Virtual Realms Meta Vs. Omni Universe</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-list-best-trivia-shows-for-general-knowledge-24/"><u>In 2024, The Ultimate List - Best Trivia Shows for General Knowledge, '24</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tips-for-overcoming-iphone-camera-focusing-glitches/"><u>In 2024, Tips for Overcoming iPhone Camera Focusing Glitches</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transition-made-easy-the-8-best-convertors-for-subtitles-and-srts/"><u>In 2024, Transition Made Easy The 8 Best Convertors for Subtitles & SRTs</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-look-at-the-nokia-31-a-beginners-dream-device/"><u>In-Depth Look at the Nokia 3.1 - A Beginner's Dream Device</u></a></li>
+<li><a href="https://some-skills.techidaily.com/streamlining-tech-upgrade-go-big-sur-on-your-mac-for-2024/"><u>Streamlining Tech Upgrade Go Big Sur! On Your Mac for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/television-innovation-integrating-fb-live-experiences/"><u>Television Innovation Integrating FB Live Experiences</u></a></li>
+<li><a href="https://app-tips.techidaily.com/upgrading-windows-home-to-a-pro-license-essential-tips-and-reasons-for-the-switch-techexpertise-hub/"><u>Upgrading Windows Home to a Pro License: Essential Tips & Reasons for the Switch | TechExpertise Hub</u></a></li>
 </ul></div>
 

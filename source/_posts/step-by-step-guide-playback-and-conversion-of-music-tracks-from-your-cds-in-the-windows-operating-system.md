@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Playback and Conversion of Music Tracks From Your CDs in the Windows Operating System"
-date: 2024-12-01T00:31:28.313Z
-updated: 2024-12-07T21:29:10.809Z
+date: 2024-12-12T18:34:35.497Z
+updated: 2024-12-13T16:30:57.995Z
 tags:
   - desktop
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/50f9025d1cd24e51aee5d683c09c648b774d15c54
 * [Rip a CD on Older Windows PCs](https://digital-screen-recording.techidaily.com/updated-2024-approved-gamescene-capturers-compendium/)
 * [Backing up Your Music](https://extra-support.techidaily.com/updated-reimagine-virtual-engagements-with-customized-video-filters-in-zoom/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * You can use the modern Media Player to rip audio CDs on Windows 10 and 11.
@@ -30,11 +34,19 @@ thumbnail: https://thmb.techidaily.com/50f9025d1cd24e51aee5d683c09c648b774d15c54
 
  Got a Mac? Check out [our guide for ripping an audio CD on Mac](https://eaxpv-info.techidaily.com/updated-in-2024-free-webinar-creation-and-management-on-youtube/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  You Need a Disc Drive
 
  You need a disc drive connected to your PC to read and rip CDs, so if you don't already have one, you'll need to get that first. The [ASUS ZenDrive Silver](https://www.amazon.com/ASUS-ZenDrive-External-Compatible-BackItUp/dp/B076CY7PW5?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003523&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fhow-to-rip-an-audio-cd-on-windows%2F&asc%5Fcampaign=Evergreen) is a basic option with support for reading and writing CDs and DVDs. It should come with a USB Type-C cable in the box, but if not, you might need a [USB Type-A-to-C adapter](https://www.amazon.com/Amazon-Basics-Converter-High-Speed-Certified/dp/B01GGKYXVE?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003523&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fhow-to-rip-an-audio-cd-on-windows%2F&asc%5Fcampaign=Evergreen) or [USB hub](https://extra-approaches.techidaily.com/2024-approved-joint-venture-campaigns-for-brands-on-video-platforms/) to connect it to laptops without a Type-A port.
 
 ![ASUS external disc drive with the tray open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/51y-aw6sijl-_ac_sl1000_.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  ASUS ZenDrive Silver
 
@@ -47,7 +59,7 @@ The ASUS ZenDrive Silver is a basic and affordable external optical drive, with 
  The disc drive can be useful for more than just ripping CDs, too. You can play DVDs and some Blu-ray movies with applications like [VLC Media Player](https://www.videolan.org/vlc/), or read data discs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Rip a CD With Media Player
@@ -76,10 +88,6 @@ The ASUS ZenDrive Silver is a basic and affordable external optical drive, with 
 
 ![Screenshot of Music page in Media Player.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/clipboard-jun-7-2024-at-4-38-pm.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Ripped audio doesn't include album art or other metadata, but you can fix that with a few clicks. Open the album you just ripped, click the "Edit info" button, then click "Update album info online."
 
 ![Screenshot of 'Update album info online' button in Media Player.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/untitled-1.png) 
@@ -89,7 +97,7 @@ The ASUS ZenDrive Silver is a basic and affordable external optical drive, with 
 ![Music Player asking user to check if metadata is correct.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/clipboard-jun-7-2024-at-4-44-pm.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Media Player can't always find album artwork automatically, but you can use a website like [Music Hoarders Covers](https://covers.musichoarders.xyz/) to find the right image, and then import that into Media Player. After you find the image, just click the "Edit info" button on the album again, then click the pencil button to select the right file.
@@ -105,16 +113,12 @@ wmplayer
 ![A CD in Windows Media Player.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/clipboard-jun-13-2024-at-4-26-pm.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Click the CD in the sidebar to see its contents. You can play music straight from the disc by clicking the large play button at the bottom of the window, or by double-clicking on an individual track. If you want to change the default audio import settings before ripping the disc, click the "Rip settings" dropdown menu.
 
 ![Audio quality menu in Windows Media Player.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/untitled-2.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you're not sure what options are best, you should select **MP3** under the "Format" menu, and **256 Kbps** under the "Audio Quality" menu. That's a good middle ground between audio quality and drive space—the default settings (at least on my PC) of MP3 and 128 Kbps is much lower quality than the original CD. A lossless format like FLAC or ALAC would give you the highest quality possible, but the difference compared to a high-bitrate MP3 isn't usually noticeable with typical speakers or headphones.
 
@@ -133,7 +137,7 @@ wmplayer
  Windows Media Player will check for metadata online, and if it finds more data, it will ask you for confirmation before writing changes to the files.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Backing up Your Music
@@ -143,10 +147,6 @@ wmplayer
  The new Media Player and the classic Windows Media Player both store music files in your Music folder by default. You can get there by opening the File Explorer, then clicking the "Music" shortcut in the sidebar.
 
 ![Screenshot of Music folder in the File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/music-2.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If the shortcut isn't in your sidebar, open the Windows Run dialog (**Win+R** keyboard shortcut), type the below command, and press the OK button.
 
@@ -169,21 +169,20 @@ shell:My Music
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-dynamic-titles-for-adobe-after-effects-for-2024/"><u>[New] Dynamic Titles for Adobe After Effects for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-growth-and-profitability-in-the-digital-marketplace-explore-these-top-15-facebook-insights/"><u>[New] In 2024, Growth & Profitability in the Digital Marketplace Explore These Top 15 Facebook Insights</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unleash-the-potential-effective-pip-use-on-microsoft-edge-browser/"><u>[New] Unleash the Potential Effective PIP Use on Microsoft Edge Browser</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-tech-savvy-apps-for-artful-picture-presentation/"><u>[Updated] Top Tech-Savvy Apps for Artful Picture Presentation</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-most-accessible-high-quality-video-modification-sites/"><u>[Updated] Unveiling the Most Accessible, High-Quality Video Modification Sites</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-canvas-power-10-pro-editor-techniques/"><u>2024 Approved Unveiling Canva's Power 10 Pro Editor Techniques</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/dimmed-beginning-display/"><u>Dimmed Beginning Display</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discounted-deal-steal-a-mighty-thor-darth-vader-inspired-24-inch-monitor-for-just-139-from-chinese-seller/"><u>Discounted Deal: Steal a Mighty 'Thor Darth Vader' Inspired 24-Inch Monitor for Just $139 From Chinese Seller</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-vivo-s18-pro-to-mac-drfone-by-drfone-android/"><u>How to Mirror Vivo S18 Pro to Mac? | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-solve-your-lol-play-issue-overcoming-internet-connection-problems/"><u>How to Solve Your LoL Play Issue: Overcoming Internet Connection Problems</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-metaverse-awaits-gear-up-with-these-tools/"><u>In 2024, The Metaverse Awaits Gear Up with These Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-understanding-vr-headsets-an-overview/"><u>In 2024, Understanding VR Headsets An Overview</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Oppo Reno 11 5G | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/seamless-integration-utilizing-instagrams-music-stickers-expertise-for-2024/"><u>Seamless Integration Utilizing Instagram's Music Stickers Expertise for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/swift-introduction-bavarder-on-linux-systems/"><u>Swift Introduction: Bavarder on Linux Systems</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlock-podcast-prominence-with-advanced-seo-techniques-for-2024/"><u>Unlock Podcast Prominence with Advanced SEO Techniques for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-expert-advice-hassle-free-recordings-with-ios-devices/"><u>[New] 2024 Approved Expert Advice Hassle-Free Recordings with iOS Devices</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-defeat-synthetic-followers-for-true-popularity-peak/"><u>[New] Defeat Synthetic Followers for True Popularity Peak</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-mastering-high-dynamic-range-effects-in-adobes-realm/"><u>[Updated] In 2024, Mastering High Dynamic Range Effects in Adobe's Realm</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-the-ultimate-checklist-seamless-conversion-of-phone-photos-to-snapchat/"><u>[Updated] In 2024, The Ultimate Checklist Seamless Conversion of Phone Photos to Snapchat</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-reverse-films-on-android/"><u>[Updated] The Ultimate Guide to Reverse Films on Android</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-video-camera-compendium-year/"><u>[Updated] The Ultimate Video Camera Compendium Year</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-perfected-pics-made-easy-the-full-review-of-facetunes-updates/"><u>2024 Approved Perfected Pics Made Easy The Full Review of Facetune's Updates</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-subtitled-success-the-top-8-software-that-swiftly-converts-sub-to-srt-on-pcmacosx/"><u>2024 Approved Subtitled Success! The Top 8 Software That Swiftly Converts SUB to SRT on PC/MacOSX</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-roadmap-to-selecting-top-tier-visual-storytellers/"><u>2024 Approved The Roadmap to Selecting Top-Tier Visual Storytellers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-best-free-user-friendly-srt-translators-online/"><u>2024 Approved Unveiling Best Free, User-Friendly SRT Translators Online</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/5-profound-impacts-of-multilingual-communication/"><u>5 Profound Impacts of Multilingual Communication</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hacks-to-modify-fixed-sleepwake-modes-in-win11/"><u>Hacks to Modify Fixed Sleep/Wake Modes in Win11</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-honor-play-8t-by-drfone-android/"><u>How to Bypass FRP on Honor Play 8T?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unraveling-instagrams-video-sideways-quandary/"><u>In 2024, Unraveling Instagram's Video Sideways Quandary</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1723808033940-swift-direct3d-downloader-simple-and-fast/"><u>Swift Direct3D Downloader - Simple and Fast</u></a></li>
 </ul></div>
 

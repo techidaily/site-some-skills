@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  'Laughter Legends' - Unwrapping 'Goofy Odyssey'\""
-date: 2024-08-20T23:48:10.693Z
-updated: 2024-08-21T23:48:10.693Z
+date: 2024-12-09T19:20:10.577Z
+updated: 2024-12-13T23:58:02.018Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,10 @@ Some movies have this aura that leaves a lasting impression on you. Certain film
 
 This movie was an adventure that resonated with many kids of that era. Moreover, the movie's edits and visual effects added to its charm. If 90s kids want to recreate the movie's nostalgic feel can create using certain effects. You can use **a Goofy Movie VHS effect** to take yourself back to the fun-filled days of the 90s.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Reviewing The Goofy Movie 1995
 
 The Goofy Movie is a heartwarming film about the father-son bond. When Max gets into trouble due to a school prank, his dad, Goofy, decides to take him on a trip. However, Max faces a dilemma as he has to miss his first date with Roxanne, the girl he likes. Max lies to Roxanne to avoid disappointment, claiming that he and his father are going to a concert instead.
@@ -31,6 +35,10 @@ Throughout their journey, Goofy and Max learn to communicate and understand each
 The movie brings joy and laughter to viewers of all ages. It teaches us that love and understanding can bridge the gap between generations. Furthermore, we can solve problems and even misunderstandings through communication. This timeless classic reminds us of the significance of cherishing our relationships. Lastly, Goofy and his son attended the rock music concert at the movie's end.
 
 ![goofy movie poster](https://images.wondershare.com/filmora/article-images/2023/goofy-vhs-movie-poster.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Add VHS Effect to Video**
 
@@ -42,9 +50,6 @@ Simply add video effects on Video with [Filmora Video Effect Editor](https://too
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
 ## Part 2: How Was VHS Technology Used in Old Movies?
@@ -93,9 +98,6 @@ If you don't feel like applying in-built overlays from the 100+ collection of [V
 
 Launch Wondershare Filmora and open the “Stock Media” tab. Locate “Solid Colors” in the “Filmstock” section and drag the black image onto your project timeline. Adjust its duration as needed, and then open the "Effects" tab and type "VHS" in the search box. Choose the "VHS Distortion Bad" effect and drag it onto the timeline. Set the alpha value to 25 and press "OK." Proceed next to open the "Effects" tab and select the "VHS Distortion" effect. Place it on the previous layer and adjust its value to 35.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ![add distortion effect and adjust](https://images.wondershare.com/filmora/article-images/2023/add-distortion-effect-and-adjust.jpg)
 
 ##### Step 2Add the VHS Rewind and Glitch Effect
@@ -104,40 +106,39 @@ Drag and drop the "VHS Rewind" effect from the same tab onto the timeline. Furth
 
 ![add rewind and glitch](https://images.wondershare.com/filmora/article-images/2023/add-rewind-and-glitch.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step 3Apply the Chromatic Aberration and VCR Distortion Effect
 
 Continue to drag and place the "Chromatic Aberration" effect over the previous layer. Set the parameters of Fade and Alpha, 0.05 and 60, respectively. Go to "Effects" and type "distortion" in the search bar and find the "VCR Distortion" effect. Then, drag the effect onto the timeline, place it over the previous layer, and change the alpha value to 25.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add chromatic aberration and distortion](https://images.wondershare.com/filmora/article-images/2023/add-chromatic-aberration-and-distortion.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step 4Include the Glitch Distortion and Apply the Distort Effect
 
 Proceed to drag and drop the "Glitch Distortion" effect and place it over the previous layer. Also, adjust the alpha value of the effect to 30\. Continue to drag and drop the "Distort" effect to the timeline, and repeat the same process. However, set the following parameters Amplitude to 15, Frequency to 17, and “Opacity” to 0.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add glitch distortion to preset](https://images.wondershare.com/filmora/article-images/2023/add-glitch-distortion-to-preset.jpg)
 
 ##### Step 5Export Your Edited Video
 
 After finishing your editing, click on the Export button and export your video with the VHS effect to your desired format. By following these steps in Wondershare Filmora, you can easily add **an extreme Goofy movie VHS effect** to your video.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![export entire vhs preset](https://images.wondershare.com/filmora/article-images/2023/export-entire-vhs-preset.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 In conclusion, The Goofy Movie holds a special place in the hearts of 90s kids. Its lighthearted storyline, memorable characters, and catchy songs made it a beloved film of that era. You can take yourself back to the era by using **a Goofy Movie 1995 VHS effect** in your videos. To do so, Wondershare Filmora is a tool that can bring a touch of 90s to your video projects.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -161,8 +162,21 @@ In conclusion, The Goofy Movie holds a special place in the hearts of 90s kids. 
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-enhanced-connectivity-sending-social-media-content-between-facebook-and-whatsapp/"><u>[New] Enhanced Connectivity Sending Social Media Content Between Facebook & WhatsApp</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-action-filming-at-its-peak-garmin-virb-ultra-30-analysis/"><u>[New] In 2024, Action Filming at Its Peak Garmin VIRB Ultra 30 Analysis</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-ultimate-selection-of-excellent-5k-displays-ranked-8/"><u>[New] In 2024, Ultimate Selection of Excellent 5K Displays - Ranked #8</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-documentarians-guide-to-captivating-audience/"><u>[New] The Documentarian's Guide to Captivating Audience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unleash-your-creativity-on-youtube-live-from-smartphone/"><u>[New] Unleash Your Creativity on YouTube Live From Smartphone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-syma-x5c-insights-choosing-the-best-drone-for-aviation-rookies/"><u>[Updated] Syma X5C Insights Choosing the Best Drone for Aviation Rookies</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-top-10-heavy-lift-drones-for-2024/"><u>[Updated] Top 10 Heavy Lift Drones for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-leading-edge-the-ultimate-selection-of-10-top-background-switchers/"><u>2024 Approved Leading Edge The Ultimate Selection of 10 Top Background Switchers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-experts-gopro-buyers-companion/"><u>2024 Approved The Expert's Gopro Buyer’s Companion</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-4k-experience-deep-dive-into-samsungs-ue590/"><u>2024 Approved The Ultimate 4K Experience - Deep Dive Into Samsung's UE590</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-clean-visuals-step-by-step-guide-to-backdrop-erasure/"><u>2024 Approved Unleash Clean Visuals Step-By-Step Guide to Backdrop Erasure</u></a></li>
+<li><a href="https://blog-min.techidaily.com/celebrate-thanksgiving-with-macxdvds-unprecedented-giveaway-secure-your-free-trial-of-macx-video-converter-pro-v60-for-ultimate-hd-editing/"><u>Celebrate Thanksgiving with MacXDVD's Unprecedented Giveaway: Secure Your Free Trial of MacX Video Converter Pro V6.0 for Ultimate HD Editing</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Realme Narzo N55? | Dr.fone</u></a></li>
+</ul></div>
 

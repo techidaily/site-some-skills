@@ -1,13 +1,17 @@
 ---
 title: Free Conversion Processes From LIT to EPUB for Enhanced eBook Accessibility
-date: 2024-12-05T16:15:06.877Z
-updated: 2024-12-08T02:42:57.311Z
+date: 2024-12-07T16:24:40.498Z
+updated: 2024-12-14T01:46:12.627Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/bc2d4277b292ae7f5948b4f932bd10c3a9f77d53f80591ecadf09ffda8a120cc.jpg
 ---
 
 ## Free Conversion Processes From LIT to EPUB for Enhanced eBook Accessibility
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Convert LIT to EPUB Free
 
@@ -17,14 +21,10 @@ Posted by [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) on 3
 
 ![follow](http://www.epubor.com/images/follow.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![how to convert LIT to EPUB free via Calibre](http://www.epubor.com/images/uppic/how-to-convert-lit-to-epub-free.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lit is the file format developed by Microsoft in 2000\. It's an ebook format used by the Microsoft e-Reader program to read eBooks. But it's not readable on iPad, iPhone, Adobe Digital Editions, Nook, Sony eReader, and so on. So if you want to read .lit file on various devices, you can solve this issue by converting LIT to the more common and popular ebook format like ePub. 
@@ -48,7 +48,11 @@ Firstly[download Calibre](http://calibre-ebook.com/download) and select a proper
 ![downlaod and install calibre](http://www.epubor.com/images/uppic/download-calibre-to-convert-lit-files.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step2: Add Microsoft LIT Files to Calibre
@@ -56,6 +60,10 @@ Firstly[download Calibre](http://calibre-ebook.com/download) and select a proper
 Drag and drop a few LIT e-book files into calibre, or click on the "Add Books" button at the upper left of the toolbar and browse for the LIT ebooks you want to work with. When you succeed in adding, the title of the ebook will show in the middle list.
 
 ![add lit files to calibre](http://www.epubor.com/images/uppic/add-lit-to-calibre.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Double click the file you want to select for a review before the ebook conversion.
 
@@ -69,19 +77,11 @@ But for DRM protected LIT files, it will pop up a window as the image shows belo
 
 So if also receive this dialog when converting lit to epub, maybe you should remove drm from lit files. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 3: Convert LIT to EPUB: Calibre
 
 Select the lit files, then touch the "Convert books" button.
 
 ![convert LIT files](http://www.epubor.com/images/uppic/convert-lit-books.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Set "ePub" as output format at the new pop-up window. Then click "OK".
 
@@ -182,24 +182,16 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/levate-your-youtube-creation-by-merging-media-and-music/"><u>[New] Elevate Your YouTube Creation by Merging Media and Music</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-unlock-the-full-potential-of-video-content-with-studios-power/"><u>[New] In 2024, Unlock the Full Potential of Video Content with Studio's Power</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-tips-for-sourcing-premium-videography-talent/"><u>[New] Tips for Sourcing Premium Videography Talent</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlock-full-potential-using-polarrs-image-tools/"><u>[New] Unlock Full Potential Using Polarr's Image Tools</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-seize-the-day-documenting-games-on-samsung-phones/"><u>[Updated] 2024 Approved Seize the Day! Documenting Games on Samsung Phones</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-streamlining-post-production-mastering-the-green-screen-process-kinemaster/"><u>[Updated] Streamlining Post-Production Mastering the Green Screen Process (KineMaster)</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-discover-why-av1-is-a-game-changer-for-youtube-viewers/"><u>2024 Approved Discover Why AV1 Is a Game Changer for YouTube Viewers</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-richer-imagery-enhancing-video-with-device-based-filters/"><u>2024 Approved Richer Imagery Enhancing Video with Device-Based Filters</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-streamlining-film-grading-with-cg-centrals-look-up-tables/"><u>2024 Approved Streamlining Film Grading with CG Central's Look-Up Tables</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-the-essential-iphoneside-by-side-guide-for-fb-sharing/"><u>2024 Approved The Essential iPhoneside by Side Guide for FB Sharing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-top-30-for-timeless-telephone-chimes/"><u>2024 Approved The Top 30 for Timeless Telephone Chimes</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-toggle-pip-for-streaming-youtube-videos-more-conveniently-with-iphone/"><u>2024 Approved Toggle PIP for Streaming Youtube Videos More Conveniently with iPhone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-uplifting-films-for-momentum-and-motivation/"><u>2024 Approved Top 10 Uplifting Films for Momentum & Motivation</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/elevate-your-social-presence-the-art-of-uploading-many-images-and-videos-to-instagram-for-2024/"><u>Elevate Your Social Presence The Art of Uploading Many Images and Videos to Instagram for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-itel-p55plus-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Itel P55+ | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transitioning-from-srt-to-subtitles/"><u>In 2024, Transitioning From SRT to Subtitles</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/reinitialisation-du-dossier-dobsolescence-de-lapi-microsoft-sous-windows-107-methodes-pratiques/"><u>Réinitialisation Du Dossier D'Obsolescence De L'API Microsoft Sous Windows 10/7: Méthodes Pratiques</u></a></li>
-<li><a href="https://some-skills.techidaily.com/total-kinetic-analysis-exploration-for-2024/"><u>Total Kinetic Analysis Exploration for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-your-hdmi-connection-free-usb-to-hdmi-driver-software/"><u>Update Your HDMI Connection: Free USB to HDMI Driver Software</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-instantaneous-change-from-srt-to-txt-with-our-proven-methods/"><u>[New] Instantaneous Change From SRT to TXT with Our Proven Methods</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-syncopated-syntax-showcase/"><u>[New] Syncopated Syntax Showcase</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-uncomplicated-story-framework/"><u>[New] Uncomplicated Story Framework</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlock-full-potential-best-trio-for-zoom-conversion/"><u>[New] Unlock Full Potential Best Trio for Zoom Conversion</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-the-ultimate-guide-to-establishing-a-twitter-presence/"><u>[Updated] 2024 Approved The Ultimate Guide to Establishing a Twitter Presence</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-top-15-instagram-videophoto-downloaders-online-and-add-on-and-app-solutions/"><u>[Updated] 2024 Approved Top 15 Instagram Video/Photo Downloaders – Online & Add-On & App Solutions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-essence-of-e-story-creation-techniques/"><u>2024 Approved The Essence of E-Story Creation Techniques</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-the-ultimate-routine-for-accessing-and-playing-fb-videos-via-apple-tv/"><u>2024 Approved The Ultimate Routine for Accessing and Playing FB Videos via Apple TV</u></a></li>
+<li><a href="https://article-posts.techidaily.com/secure-and-speedy-transfer-of-big-video-files-between-ios-and-os-x/"><u>Secure and Speedy Transfer of Big Video Files Between iOS & OS X</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-hiding-while-livestreaming-on-instagram-for-2024/"><u>The Art of Hiding While Livestreaming on Instagram for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Nubia Red Magic 9 Pro? | Dr.fone</u></a></li>
 </ul></div>
 

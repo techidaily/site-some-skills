@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Linux File Timestamps – Decoding Atime, Mtime, and Ctime Explained
-date: 2024-12-03T00:59:08.858Z
-updated: 2024-12-07T17:29:29.583Z
+date: 2024-12-10T18:13:42.288Z
+updated: 2024-12-13T22:52:58.538Z
 tags:
   - desktop
 categories:
@@ -22,10 +22,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  When does "changed" not mean "modified"? When we're talking about Linux file timestamps. In this guide, we'll explain how the system updates them, and how to alter them yourself.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  The Difference Between atime, mtime, and ctime
 
  Every Linux file has three [timestamps:](https://en.wikipedia.org/wiki/MAC%5Ftimes) the access timestamp (atime), the modified timestamp (mtime), and the changed timestamp (ctime).
@@ -37,6 +33,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Changed timestamps aren't referring to changes made to the contents of a file. Rather, it's the time at which the metadata related to the file was changed. File permission changes, for example, will update the changed timestamp.
 
  The standard [ext4 Linux file system](https://remote-screen-capture.techidaily.com/new-the-definitive-guide-to-android-mobas-10-winners-for-2024/) also allocates space for a file-creation timestamp in its internal file system structures, but this hasn't been implemented yet. Sometimes, this timestamp is populated, but you can't depend on the values in it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The Anatomy of a Timestamp
 
@@ -61,6 +61,10 @@ ls -lu dp.c
 ls -lc dp.c
 
 ![ls -l dp.c in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/1-7.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The timestamps above show the file's contents were last modified on April 21, 2019\. The access and changed timestamps are identical because the file was copied from another computer to this one on January 20, 2020, and both timestamps were updated at that time.
 
@@ -92,6 +96,10 @@ stat dp.c
 
 ![touch -a dp.c in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/3-8.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The access timestamp changed, as expected. However, the changed timestamp was updated as well; this is normal.
 
  To change the modified timestamp, you can use the -m (modified time) option:
@@ -101,10 +109,6 @@ touch -m dp.c
 stat dp.c
 
 ![touch -m dp.c in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/4-6.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  This time, the modified and changed timestamps were updated.
 
@@ -118,10 +122,6 @@ stat dp.c
 
 ![touch -d "2020-01-15 10:30:45" dp.c in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/5-6.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  We've now set the access and modified timestamps to a date in the past. The changed timestamp was also updated to the current time of the computer.
 
  You can also use the -r (reference) option, as shown below, if you want to set the timestamps of one file to the timestamp values of another:
@@ -132,10 +132,6 @@ stat dp.c
 
 ![touch dp.c -r dice_words.sl3 in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/6-5.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  And then, we're pretty much back where we started, with a mixture of -0400 and -0500 timestamps.
 
  Let's do something that only affects the changed timestamp. We'll use the chmod command to give an executable file [execute permissions for all users](http://man7.org/linux/man-pages/man1/chmod.1.html):
@@ -145,10 +141,6 @@ chmod +x dp
 stat dp
 
 ![The &quot;chmod +x dp&quot; and &quot;stat dp&quot; commands in a terminal window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/10-6.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The changed timestamp was the only one that updated. This is because the file itself wasn't changed—it was neither accessed nor modified. However, the metadata about the file was changed.
 
@@ -173,29 +165,37 @@ less /etc/fstab
 
 ![The /etc/fstab file in less in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/8-5.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Here's the content of the file without the wrap-around:
 
         `# /etc/fstab: static file system information.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 
 
 ## Use 'blkid' to print the universally unique identifier for a  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## device; this may be used with UUID= as a more robust way to name devices  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## that works even if disks are added and removed. See fstab(5).  
 
 ## 
 
-## <file system> <mount point> <type> <options> <dump> <pass>  
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## <file system> <mount point> <type> <options> <dump> <pass>  
 
 ## / was on /dev/sda1 during installation  
 UUID=4a143d08-8695-475b-8243-b13b56050fc2 / ext4 errors=remount-ro 0 1  
@@ -213,10 +213,6 @@ cat /proc/mounts | grep "sda"
 
 ![cat /proc/mounts | grep "sda" in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/9-6.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now we see the following options:
 
 * **rw**: The file system will be mounted as a read and write file system.
@@ -229,6 +225,10 @@ cat /proc/mounts | grep "sda"
 * When no access timestamp options are used in /etc/fstab, and you're using Linux kernel 2.6.30 or newer.
 
  Our /etc/fstab entry for the ext4 file system didn't specify any access timestamp update options, so Linux made the sensible choice and used relatime.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Timestamps Are Important
 
@@ -259,22 +259,22 @@ cat /proc/mounts | grep "sda"
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-from-seedling-to-sunset-the-best-farming-titles-for-togetherness/"><u>[New] 2024 Approved From Seedling to Sunset The Best Farming Titles for Togetherness</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-giggles-galore-celebrating-the-funniest-web-content-creators/"><u>[New] In 2024, Giggles Galore Celebrating the Funniest Web Content Creators</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-picpinch-recorder-assessment-and-comments-for-2024/"><u>[New] PicPinch Recorder Assessment & Comments for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-craft-a-vibrant-youtube-experience-with-tracks/"><u>[Updated] 2024 Approved Craft a Vibrant Youtube Experience with Tracks</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-thriving-amidst-the-world-of-podcasts/"><u>[Updated] The Ultimate Guide to Thriving Amidst the World of Podcasts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-vr-player-guide-unveiling-the-best-pc-streamers/"><u>[Updated] The Ultimate VR Player Guide Unveiling the Best PC Streamers</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-premium-content-at-a-low-price-the-ultimate-list-of-free-intros-makers/"><u>2024 Approved Premium Content at a Low Price The Ultimate List of Free Intros Makers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-30-metaverse-gems-diy-meme-ideas-unleashed/"><u>2024 Approved Top 30 Metaverse Gems DIY Meme Ideas Unleashed</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-turn-your-tactical-talks-into-a-thriving-youtube-trade/"><u>2024 Approved Turn Your Tactical Talks Into a Thriving YouTube Trade</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-free-screen-cast-tools-for-windows-ranked-1-5/"><u>2024 Approved Ultimate Free Screen Cast Tools for Windows, Ranked #1-5</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-luxury-top-10-accessories-for-the-sj4000/"><u>2024 Approved Unleash Luxury Top 10 Accessories for the SJ4000</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-barriers-how-firms-find-it-challenging-to-leverage-generative-ai-according-to-deloittes-latest-insights/"><u>Exploring the Barriers: How Firms Find It Challenging to Leverage Generative AI According to Deloitte's Latest Insights</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Google Pixel Fold? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-editors-toolkit-elevating-your-video-with-inshot-transitions/"><u>In 2024, The Editor's Toolkit Elevating Your Video with Inshot Transitions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-venture-beyond-reality-with-our-top-1-cookies-in-mobile-vr-technology/"><u>In 2024, Venture Beyond Reality with Our Top 1 Cookies in Mobile VR Technology</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/unlocking-video-excellence-on-tiktok-through-effective-templates-use/"><u>Unlocking Video Excellence on TikTok Through Effective Templates Use</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-the-ultimate-action-cam-max-360-vs-hero-11-gopro-showdown-for-2024/"><u>Unveiling the Ultimate Action Cam Max 360 vs Hero 11 GoPro Showdown for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-artists-blueprint-10-tips-for-podcast-cover-success/"><u>[New] The Artist's Blueprint 10 Tips for Podcast Cover Success</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-snapchat-savants-handbook-perfecting-every-boomerang/"><u>[New] The Snapchat Savant's Handbook Perfecting Every Boomerang</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-silent-input-transcription-services/"><u>[New] Ultimate Silent Input Transcription Services</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-understanding-modern-motion-perception-technologies/"><u>[New] Understanding Modern Motion Perception Technologies</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unraveling-the-mystery-behind-apples-m1-chip/"><u>[New] Unraveling the Mystery Behind Apple's M1 Chip</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-leading-terraria-adjustments-and-tweaks/"><u>[Updated] In 2024, Leading Terraria Adjustments and Tweaks</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-pro-level-cams-for-aspiring-youtube-creators/"><u>[Updated] Pro-Level Cams for Aspiring YouTube Creators</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unmarked-stock-a-beginners-guide-to-clear-content/"><u>[Updated] Unmarked Stock A Beginner's Guide to Clear Content</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-communication-history-the-story-behind-aols-aim/"><u>Exploring Communication History: The Story Behind AOL's AIM</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/how-to-make-youtube-video-for-2024/"><u>How to Make YouTube Video for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-on-iphone-12-pro-max-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud On iPhone 12 Pro Max Smoothly</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-symbolizing-success-crafting-effective-podcast-logos/"><u>In 2024, Symbolizing Success Crafting Effective Podcast Logos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-leading-list-for-best-vector-resources/"><u>In 2024, The Leading List for Best Vector Resources</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/losung-fur-das-problem-der-nicht-abgelegten-dateien-in-visual-studio-code/"><u>Lösung Für Das Problem Der Nicht Abgelegten Dateien in Visual Studio Code</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/pioneering-success-strategies-for-profitable-animation-in-fb-ads-for-2024/"><u>Pioneering Success Strategies for Profitable Animation in FB Ads for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/selecting-the-top-infinite-storage-providers/"><u>Selecting the Top Infinite Storage Providers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-facetune-review-transform-your-image-quality-for-2024/"><u>Ultimate Facetune Review Transform Your Image Quality for 2024</u></a></li>
 </ul></div>
 

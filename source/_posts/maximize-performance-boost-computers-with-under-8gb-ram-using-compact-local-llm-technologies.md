@@ -1,7 +1,7 @@
 ---
 title: "Maximize Performance: Boost Computers with Under 8GB RAM Using Compact Local LLM Technologies"
-date: 2024-12-01T02:57:39.013Z
-updated: 2024-12-07T17:27:59.855Z
+date: 2024-12-11T21:00:58.552Z
+updated: 2024-12-13T18:12:20.858Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 ---
 
 ## Maximize Performance: Boost Computers with Under 8GB RAM Using Compact Local LLM Technologies
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -46,16 +50,12 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 
 ![DistilBERT Homepage-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/distilbert-homepage-1.PNG) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [ALBERT](https://huggingface.co/docs/transformers/model%5Fdoc/albert)is designed differently than DistilBERT, as it works by sharing parts of the model in a way that helps it process data quickly without using much memory.
 
 ![Hugging Face ALBERT Homepage](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/hugging-face-albert-homepage.PNG) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  I highly recommend starting as a beginner with DistilBERT and ALBERT, even if you have a high-memory PC. Beginning with these two models allowed me to learn the basics without being overwhelmed by the complexity of larger models.
@@ -67,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 ![GPT-2 124 model repository homepage](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/gpt-2-model-homepage.PNG) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  My favorite lightweight LLM by far is the [GPT-Neo 125M](https://huggingface.co/EleutherAI/gpt-neo-125m) because of its adjustable customization options. It was developed by the respected developers at EleutherAI and is like the open-source cousin of GPT-2.
@@ -77,11 +77,11 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 ![GPT-Neo 125 Model Repository](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/gpt-neo-125-source-code.PNG) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Get Started with Local LLM Chatbots
@@ -115,24 +115,17 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-capturing-top-notch-audio-without-microphone-dependency/"><u>[New] 2024 Approved Capturing Top-Notch Audio Without Microphone Dependency</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-drones-that-follow-you-back-top-10-drone-leaders/"><u>[New] Drones That Follow You Back - Top 10 Drone Leaders</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unleashing-visual-treasures-a-pexels-search-guide/"><u>[New] Unleashing Visual Treasures A Pexels Search Guide</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-snapchat-voice-overhaul-two-efficient-ways-revealed-for-2024/"><u>[Updated] Snapchat Voice Overhaul Two Efficient Ways Revealed for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-realme-note-50-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Realme Note 50 | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-tech-triad-analysis-unraveling-the-vr-ar-mr-tapestry/"><u>2024 Approved Tech Triad Analysis Unraveling the VR-AR-MR Tapestry</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unbox-and-discover-samsungs-ue590-4k-freesync-marvel/"><u>2024 Approved Unbox and Discover Samsung's UE590 4K, FreeSync Marvel</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-itel-p55t-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Itel P55T using Video Repair Utility on Windows?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 6 without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-video-editing-convert-avis-to-gifs-on-mac-and-pc-with-filmora/"><u>In 2024, Streamlining Video Editing Convert AVIs to GIFs on Mac and PC with Filmora</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-strengthening-bonds-networking-tips-for-youtube-content-creators/"><u>In 2024, Strengthening Bonds Networking Tips for YouTube Content Creators</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-10-accessory-hits-for-sj-series-drivers/"><u>In 2024, Top 10 Accessory Hits for SJ-Series Drivers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-value-dome-cameras-offering-unique-cinematic-angles/"><u>In 2024, Top Value Dome Cameras Offering Unique Cinematic Angles</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unfolding-the-future-drones-in-modern-and-next-era/"><u>In 2024, Unfolding the Future Drones in Modern and Next Era</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/is-the-fitbit-charge-3-a-worthy-contender-in-todays-fitness-tracker-market/"><u>Is the Fitbit Charge 3 a Worthy Contender in Today's Fitness Tracker Market?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/link-films-for-organized-youtube-display-for-2024/"><u>Link Films for Organized YouTube Display for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quick-fixes-for-youtube-background-issues-green/"><u>Quick Fixes for Youtube Background Issues (Green)</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1722994060510-rainbow-six-siege-not-opening-heres-the-solution/"><u>Rainbow Six Siege Not Opening? Here's the Solution!</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-nubia-z50s-pro-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Nubia Z50S Pro</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-innovative-techniques-for-next-level-lut-creation/"><u>[New] In 2024, Innovative Techniques for Next-Level LUT Creation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-apples-m1-milestone-the-next-gen-computing-core/"><u>2024 Approved Apple’s M1 Milestone The Next-Gen Computing Core</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-superior-vector-file-polishing/"><u>2024 Approved Superior Vector File Polishing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-best-8-screenshot-and-video-editing-tools-for-phones/"><u>2024 Approved The Best 8 Screenshot & Video Editing Tools for Phones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-power-of-zoom-in-kinemaster-editing/"><u>2024 Approved Unveiling the Power of Zoom in Kinemaster Editing</u></a></li>
+<li><a href="https://win-forum.techidaily.com/essential-tips-for-changing-deleting-and-setting-up-windows-registry-keys/"><u>Essential Tips for Changing, Deleting and Setting Up Windows Registry Keys</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-vivo-t2x-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Vivo T2x 5G? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-poco-f5-pro-5g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Poco F5 Pro 5G FRP?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-windows-playback-system/"><u>In 2024, Ultimate Windows Playback System</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/nvidia-10-series-driver-installation-guide-for-new-windows-11-users-effortless-downloads/"><u>NVIDIA 10 Series Driver Installation Guide for New Windows 11 Users: Effortless Downloads</u></a></li>
+<li><a href="https://games-able.techidaily.com/series-s-a-forward-thinking-console-without-disks/"><u>Series S: A Forward-Thinking Console Without Disks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-list-top-10-websites-for-free-photo-access-for-2024/"><u>The Ultimate List Top 10 Websites for Free Photo Access for 2024</u></a></li>
 </ul></div>
 

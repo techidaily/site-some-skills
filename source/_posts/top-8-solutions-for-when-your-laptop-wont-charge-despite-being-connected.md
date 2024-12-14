@@ -1,7 +1,7 @@
 ---
 title: Top 8 Solutions for When Your Laptop Won't Charge Despite Being Connected
-date: 2024-12-05T22:19:00.181Z
-updated: 2024-12-07T19:17:24.432Z
+date: 2024-12-08T03:50:01.016Z
+updated: 2024-12-14T03:38:52.423Z
 tags:
   - deals
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ## Top 8 Solutions for When Your Laptop Won't Charge Despite Being Connected
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -25,10 +25,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [Download Any Available BIOS Update](https://games-able.techidaily.com/virtual-victory-joystick-vs-console-command/)
 * [Reinstall the Battery Drivers](https://twitter-videos.techidaily.com/in-2024-guide-downloading-twitters-videos-on-android-devices/)
 * [Test for a Defective Battery](https://facebook-video-content.techidaily.com/new-fb-profile-picture-dimensions/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -44,10 +40,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![A laptop adapter with a loose connection.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/laptop-adapter.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Aman Kumar / How-To Geek
 
  If you find that the power cord is loosely connected to the adapter brick, apply gentle pressure to firmly insert it into the adapter. Alternatively, you can unplug the power cord completely and then plug it back in again.
@@ -56,9 +48,17 @@ Aman Kumar / How-To Geek
 
 ![Multiple power adaptors and cables plugged into a power strip](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/52731312553_e2b752b4ab_o.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Jason Fitzpatrick / How-To Geek
 
  Your laptop may not charge if the socket in which the adapter plug is currently connected is not functioning. To verify this, insert the adapter plug into a different socket and check if your laptop starts charging. If it does, this confirms that the original socket or its corresponding switch is not working. You can contact an electrician, in this case, to have this socket repaired.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  3\. Use the Original Charger
 
@@ -73,6 +73,10 @@ Jason Fitzpatrick / How-To Geek
  If your laptop is still not charging, you should carefully examine your laptop's charging port for any dust or debris that might have accumulated inside. If any dust or debris is present, it will prevent the charger from supplying power to your laptop, ultimately causing the issue at hand.
 
 ![Charging port on a laptop with visible dust surrounding it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/charging-port.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Aman Kumar / How-To Geek
 
@@ -94,15 +98,15 @@ Aman Kumar / How-To Geek
 
  In this situation, there's not much you can do. Simply shut down your laptop and allow it to cool down. Once you feel the temperature has decreased, reconnect the charger, and your laptop should start charging again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  6\. Download Any Available BIOS Update
 
  The [BIOS (Basic Input/Output System)](https://buynow-info.techidaily.com/experience-the-rotibox-beanie-hat-your-ideal-bluetooth-headset-with-outstanding-comfort-and-clear-sound-quality/) is a low-level system software that controls various hardware functions, including power management and battery charging. If your laptop is running an extremely outdated BIOS version, it might encounter difficulties correctly recognizing the AC adapter, potentially leading to the charging issue at hand. The solution, in this case, is to update the system BIOS.
 
  Unfortunately, there is no one-size-fits-all set of instructions to update BIOS as different manufacturers have different methods. However, the general rule of thumb is to visit your motherboard manufacturer's website, access your [motherboard model's](https://extra-tips.techidaily.com/flash-flick-narrative-template/) downloads or support page, and then download the available BIOS update. You can check our guide on [how to update your BIOS](https://extra-skills.techidaily.com/in-2024-quick-windows-surfing-guide-unveiled/) for more information about the updating process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  7\. Reinstall the Battery Drivers
 
@@ -112,23 +116,19 @@ Aman Kumar / How-To Geek
 
 ![Batteries node in the Device Manager app on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/batteries-node.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Right-click on the "Microsoft AC Adapter" driver and select the "Uninstall device" option. Similarly, uninstall the "Microsoft ACPI-Compliant Control Method Battery" driver.
 
 ![The Uninstall Device option in Device Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/uninstall-device.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once the drivers have been uninstalled, [restart your computer](https://screen-video-capture.techidaily.com/updated-in-2024-addressing-mute-problems-in-obs-live-recording/). Upon restart, Windows will automatically reinstall both battery drivers. However, if it fails to reinstall them for any reason, press Windows+i to open the "Settings" app, click on "Windows Update," and then select "Check for Updates." Windows will now install the missing driver, which in this case is the battery driver, on your computer.
 
 ![The Windows update menu in the Settings app with an arrow pointing to the Check for Updates button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/check-for-updates.jpg) 
 
  After reinstalling the driver, reconnect the charger and check if your laptop starts charging.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  8\. Test for a Defective Battery
 
@@ -169,18 +169,24 @@ Aman Kumar / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-best-mac-screen-capture-tools/"><u>[New] In 2024, Best Mac Screen Capture Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unveiling-the-perfect-gaming-experience-kinemaster-on-android/"><u>[New] Unveiling the Perfect Gaming Experience KineMaster on Android</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-best-mac-screen-recorders-a-comprehensive-guide/"><u>[Updated] 2024 Approved Best Mac Screen Recorders A Comprehensive Guide</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-cutting-corners-not-with-quality-square-video-creation-techniques/"><u>[Updated] In 2024, Cutting Corners? Not with Quality Square Video Creation Techniques</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-meditative-tunes-compilation-top-10-legal-streams/"><u>[Updated] Meditative Tunes Compilation - Top 10 Legal Streams</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-untangling-aerial-vehicles-a-guide-to-drones-operation/"><u>[Updated] Untangling Aerial Vehicles A Guide to Drones' Operation</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-live-performances-best-audio-platforms/"><u>2024 Approved Top Live Performances Best Audio Platforms</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-samsung-galaxy-xcover-6-pro-tactical-edition-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Samsung Galaxy XCover 6 Pro Tactical Edition</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-revive-your-bricked-infinix-hot-40-pro-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Infinix Hot 40 Pro in Minutes | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigate-linguistic-landscapes-smoothly-via-keyboard-shortcuts-in-win1011/"><u>Navigate Linguistic Landscapes Smoothly via Keyboard Shortcuts in Win10/11</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-the-lowdown-on-minitool-movie-maker-review-tips-and-alternative-video-editors-for-2024/"><u>New The Lowdown on Minitool Movie Maker Review, Tips, and Alternative Video Editors for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/2-vlogger-friendly-cameras-unveiled-for-2024/"><u>Top 12 Vlogger-Friendly Cameras Unveiled for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unmissable-vr-immersive-storytelling-for-2024/"><u>Unmissable VR Immersive Storytelling for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-keeping-your-tiktok-age-up-to-date-a-quick-guide/"><u>[New] Keeping Your TikTok Age Up-to-Date A Quick Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-unlocking-your-macbooks-webcam-potential-for-2024/"><u>[New] Unlocking Your MacBook's Webcam Potential for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unraveling-the-mysteries-of-av1-vs-vp9/"><u>[New] Unraveling the Mysteries of AV1 Vs. VP9</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-optimizing-youtube-banners-with-best-practices-in-mind/"><u>[Updated] 2024 Approved Optimizing YouTube Banners with Best Practices in Mind</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-entering-the-world-of-content-creation-sign-up-tutorial/"><u>[Updated] Entering the World of Content Creation Sign Up Tutorial</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-live-streaming-made-simple-mastering-ps4-captures-using-obs/"><u>[Updated] Live Streaming Made Simple Mastering PS4 Captures Using OBS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-uncovering-expert-video-making-talents/"><u>[Updated] Uncovering Expert Video Making Talents</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-pureaiediting-refined-photo-craftsmanship/"><u>2024 Approved PureAiEditing Refined Photo Craftsmanship</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-stabilize-your-story-a-guide-to-steadying-handheld-gopro-recordings/"><u>2024 Approved Stabilize Your Story A Guide to Steadying Handheld GoPro Recordings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-contrast-of-virtual-realms-meta-vs-omni-universe/"><u>2024 Approved The Contrast of Virtual Realms Meta Vs. Omni Universe</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-dos-and-donts-of-mixing-music-in-instagram-videos/"><u>2024 Approved The Do's and Don'ts of Mixing Music in Instagram Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-guide-superior-ios-melody-creators/"><u>2024 Approved Ultimate Guide Superior iOS Melody Creators</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-understanding-hue-and-saturation-gopro-studio-edition/"><u>2024 Approved Understanding Hue and Saturation GoPro Studio Edition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unravel-your-pcs-potential-with-windows-10s-latest-games/"><u>2024 Approved Unravel Your PC's Potential with Windows 10'S Latest Games</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/a-2023-survival-guide-seeking-fb-videos-on-every-tab/"><u>A 2023 Survival Guide Seeking FB Videos on Every Tab</u></a></li>
+<li><a href="https://games-able.techidaily.com/live-laugh-and-stream-with-twitch-app-on-the-go/"><u>Live, Laugh & Stream with Twitch App on the Go</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-diver-mode-mishap-solving-error-code-6-in-warzone-on-pc/"><u>Overcoming Diver Mode Mishap: Solving Error Code 6 in Warzone on PC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-future-of-computation-exploring-5-groundbreaking-ai-hardware-developments/"><u>The Future of Computation: Exploring 5 Groundbreaking AI Hardware Developments</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-the-potential-in-your-podcasts-xml-structure-for-2024/"><u>Unlocking the Potential in Your Podcast's XML Structure for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top-Ranked Animation Set for Typography\""
-date: 2024-08-20T23:46:31.003Z
-updated: 2024-08-21T23:46:31.003Z
+date: 2024-12-06T17:07:18.359Z
+updated: 2024-12-13T19:56:20.434Z
 tags: 
   - screen-recording
   - ai video
@@ -26,10 +26,15 @@ After Effects have a wide range of text presets to make the texts and titles in 
 
 Glitch text effect is a trendy effect that gets the viewers’ attention immediately. In this pack, you get 30 glitch text effects that you can apply to the text in your video to make them stand out. These effects are highly adjustable and you can time them in and out of your text as per your preference. Along with glitch text effects, you get glitch sound effects to make the animation impactful. You can experiment with Random seed as well as Glitch maps you get in the pack.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![glitch text effect toolkit ae](https://images.wondershare.com/filmora/article-images/2022/07/glitch-text-effect-toolkit-ae.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Liquid Text Animation
 
@@ -38,8 +43,9 @@ You get 110 animated elements that you can apply to the text in your video. The 
 ![liquid text animation effect ae](https://images.wondershare.com/filmora/article-images/2022/07/liquid-text-animation-effect-ae.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Dynamic Text Animations
 
 There is always a high demand for dynamic text animations in After Effects. This pack focuses on three types of animations namely bounce, kinetic and overshoot. You get 50 presets, 20 title scenes as well as 10 different typography scenes. You can animate texts, titles, as well as characters. You can even adjust the properties to match your video content as per your requirements. In fact, there are advanced controls available for further customization.
@@ -47,15 +53,13 @@ There is always a high demand for dynamic text animations in After Effects. This
 ![dynamic text animations ae](https://images.wondershare.com/filmora/article-images/2022/07/dynamic-text-animations-ae.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Squash & Stretch Preset
 
 If you want to add texts and titles in your video that looks like the games meant for kids, squash and stretch. Therefore, if your video content is based on comedy or you make videos for kids, this is the effect and animation you should apply on the text of your video. The animation looks cool and funny at the same time. The animations are designed by professionals and you get regular as well as advanced adjustments. There are also built-in sound effects available to make the animations for entertaining.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![squash stretch preset ae](https://images.wondershare.com/filmora/article-images/2022/07/squash-stretch-preset-ae.jpg)
 
 ## 5\. CounterPro Preset
@@ -65,9 +69,9 @@ In this pack, you will find unique text effects, and you can animate text with k
 ![counterpro preset ae](https://images.wondershare.com/filmora/article-images/2022/07/counterpro-preset-ae.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Text Library
 
 If there is a must-have preset you should manage to have in After Effects is Text Library. There are as many as 1000 text presets available and this will serve all your requirements completely. Starting from animations and effects to transitions, everything is available in different categories for you to choose from and apply to your text. The pack keeps on updating to include trendy and funky text effects so that you do not miss out anything.
@@ -75,26 +79,21 @@ If there is a must-have preset you should manage to have in After Effects is Tex
 ![text library effect ae](https://images.wondershare.com/filmora/article-images/2022/07/text-library-effect-ae.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Kinetic Text Animation
 
 Kinetic text effect is a part of dynamic text effects and there is a high demand for kinetic text animation. In this pack, you get 56 text animations and all the effects have full HD resolution. The effect will literally transform your video content and help you to get a proper branding on the video. There are different types of animations available and you videos will not look boring by any chance.
 
 ![kinetic text aniamtion ae](https://images.wondershare.com/filmora/article-images/2022/07/kinetic-text-aniamtion-ae.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## 8\. Text Animation Lower Third
 
 You get eleven styles of elements in the pack, and you can customize the designs to get into any size as per your requirements. You get the elements in HD and Full HD resolution, and you can use them in the intro or outro of the video to show text and title credits. You can also use them to show quotes or keywords. Most of them have highlighted background, and technically, they are referred to as lower thirds.
 
 ![text animation lower thirds ae](https://images.wondershare.com/filmora/article-images/2022/07/text-animation-lower-thirds-ae.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Bottom Line
 
 As the saying goes, the more the merrier and the more presets you have, the more attractive you can make your texts in your video. There are literally unlimited text presets for animation composer free download as well as premium download available. We have handpicked the best text animation presets that you can download and apply to the text of your video on After Effects.
@@ -127,8 +126,24 @@ As the saying goes, the more the merrier and the more presets you have, the more
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-virtual-virtuoso-verbalization-voyager/"><u>[Updated] In 2024, Virtual Virtuoso Verbalization Voyager</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-obs-temporal-accuracy-constructing-an-efficient-timer-mechanism-for-2024/"><u>[Updated] Obs Temporal Accuracy Constructing an Efficient Timer Mechanism for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-new-age-of-virtual-reality/"><u>[Updated] Unveiling the New Age of Virtual Reality</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-direct-streaming-use-vlc-for-webcam-video/"><u>2024 Approved Direct Streaming Use VLC for Webcam Video</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862657349-acers-exclusive-gamers-deal-unmatched-performance-with-rtx-4070-and-amd-cpu-in-the-nitro-16-laptop-available-now-for-just-1129/"><u>Acer's Exclusive Gamers Deal: Unmatched Performance with RTX 4070 and AMD CPU in the Nitro 16 Laptop - Available Now for Just $1,129</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-instructions-for-downloading-and-applying-your-latest-iphone-software-update/"><u>Comprehensive Instructions for Downloading and Applying Your Latest iPhone Software Update</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-oppo-reno-10-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Oppo Reno 10 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-strategic-steps-for-pinpointing-a-list-film-creators/"><u>In 2024, Strategic Steps for Pinpointing A-List Film Creators</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-low-light-guru-writes-for-iphone-users/"><u>In 2024, The Low Light Guru' Writes for iPhone Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-total-sphere-camera-systems/"><u>In 2024, Total Sphere Camera Systems</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-ultimate-guide-on-how-to-create-srt-file-plus-tips/"><u>In 2024, Ultimate Guide on How to Create SRT File (Plus Tips)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unleash-creativity-the-newcomers-snapseed-tutorial/"><u>In 2024, Unleash Creativity The Newcomer's Snapseed Tutorial</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-visual-storytelling-with-your-canon-timelapse-toolkit/"><u>In 2024, Unlocking Visual Storytelling with Your Canon Timelapse Toolkit</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-9-free-android-mp3-extractors-for-2024/"><u>Top 9 FREE Android MP3 Extractors for 2024</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/top-mp3-converter-apps-mp3-rockets-worthy-competitors/"><u>Top MP3 Converter Apps: MP3 Rocket's Worthy Competitors</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-scripted-text-into-storytelling-magic-for-2024/"><u>Transform Scripted Text Into Storytelling Magic for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-true-value-of-smoothing-in-adobes-arsenal-for-2024/"><u>Unveiling the True Value of Smoothing in Adobe’s Arsenal for 2024</u></a></li>
+</ul></div>
 

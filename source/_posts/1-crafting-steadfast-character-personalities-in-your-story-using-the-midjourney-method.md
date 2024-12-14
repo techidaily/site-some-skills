@@ -1,7 +1,7 @@
 ---
 title: 1. Crafting Steadfast Character Personalities in Your Story Using the MidJourney Method
-date: 2024-12-05T03:34:32.559Z
-updated: 2024-12-07T21:24:54.878Z
+date: 2024-12-07T01:04:02.375Z
+updated: 2024-12-14T01:32:57.606Z
 tags:
   - cutting-edge
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## 1. Crafting Steadfast Character Personalities in Your Story Using the MidJourney Method
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Midjourney lets you create consistent characters using the "cref" or "character reference" command.
@@ -19,15 +23,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  One of the worst limitations of using Midjourney and other AI image generators is the lack of repeatability. However, it's now possible to create a character and then repeatedly use that character in subsequent images. While it's not perfect yet, it's a powerful creative feature in the right hands.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Is a Consistent Character?
 
  In [Midjourney](https://buynow-tips.techidaily.com/review-of-audews-portable-air-compressor-unmatched-portability-and-dependability/) terms, a consistent character is a humanoid subject in an existing image that the AI can extract and recreate in a new image. So, for example, if you've created a character, or there's a character in an image that you like, you can tell Midjourney to extract it and reuse it.
 
  It's important to understand that Midjourney is basically using AI image recognition methods on the image that you provide. So, in other words, it's not like it's cutting and pasting the character, but rather it's converting it to a sophisticated set of attributes that make up that character. This means that, in many cases, the extracted character won't look exactly like the source, but we'll get to how you can mitigate that in just a minute. First, let's look at "cref" or "character reference", the command that makes all of this possible.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Use the "cref" Command
 
@@ -44,19 +48,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Saving an image link from the Discord bot interface.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/saving-an-image-link-from-the-discord-bot-interface.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you're using the new [Midjourney Alpha web interface](https://vp-tips.techidaily.com/new-2024-approved-heaviest-lifting-uavs-the-definitive-top-10/), simply click the little picture icon to the left of the prompt bar. Then upload the image of your choice. Once you have it uploaded, right-click on it and copy the link. Then you can use the --cref command as you do in Discord.
 
 ![Saving an image link in the Midjourney web interface.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-30-at-14-10-50.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That's really all there is to it, so next let's run through it step-by-step.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Let’s Make a Character Step-by-Step
 
@@ -72,6 +76,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Anime elf image final upscale in Midjourney](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-30-at-14-13-03.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now I copy the image address as described above in the previous section. Then I use this prompt with the full address pasted at the end.
 
 /imagine an anime style female elf character with blond hair and green eyes in a blue uniform playing the violin --cref [INSERT IMAGE URL HERE]
@@ -80,14 +88,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Then, in the output, you can see the character has been reused, but in the new requested pose.
 
 ![New characters based on an existing character using the CREF command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/new-characters-based-on-an-existing-character-using-the-cref-command.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Tips and Tricks
 
@@ -114,24 +114,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-becoming-a-social-media-storyteller-on-facebook-for-2024/"><u>[New] Becoming a Social Media Storyteller on Facebook for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-picture-in-picture-unveiled-your-guide-to-firefoxs-pip/"><u>[New] Picture-in-Picture Unveiled Your Guide to Firefox’s PIP</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-art-of-professional-gopro-filming/"><u>[New] The Art of Professional GoPro Filming</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-superior-storytellers-sanctuary/"><u>[Updated] Superior Storyteller's Sanctuary</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-art-of-initiating-an-e-giving-event-on-facebook/"><u>[Updated] The Art of Initiating an E-Giving Event on Facebook</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-creative-geniuses-in-naming-top-10-ai-powerhouse-generators/"><u>2024 Approved Creative Geniuses in Naming Top 10 AI Powerhouse Generators</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-next-level-of-immersion-top-10-vr-gear/"><u>2024 Approved The Next Level of Immersion (Top 10 VR Gear)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-speed-solutions-for-sluggish-android-videos/"><u>2024 Approved Top Speed Solutions for Sluggish Android Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-tips-for-embedding-and-posting-correct-subtitles-on-twitter-instagram/"><u>2024 Approved Top Tips for Embedding and Posting Correct Subtitles on Twitter, Instagram</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/best-no-cost-dvd-software-for-windows-10-users-your-ultimate-download-guide/"><u>Best No-Cost DVD Software for Windows 10 Users: Your Ultimate Download Guide</u></a></li>
-<li><a href="https://driver-download.techidaily.com/compatible-focusrite-scarlett-2i4-driver-download-for-windows-users/"><u>Compatible Focusrite Scarlett 2I4 Driver Download for Windows Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevate-your-chatgpt-now-with-gpt-4-integration/"><u>Elevate Your ChatGPT Now with GPT-4 Integration</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-infinix-smart-8-plus-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Infinix Smart 8 Plus</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-full-unveiling-of-picsart-complete-users-guide/"><u>In 2024, Full Unveiling of PicsArt Complete User's Guide</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-top-5-asus-rog-phone-7-ultimate-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Asus ROG Phone 7 Ultimate Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/personalizing-communication-sounds-a-comprehensive-guide-for-whatsapp-ringtone-lovers/"><u>Personalizing Communication Sounds A Comprehensive Guide for WhatsApp Ringtone Lovers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/rapid-transition-from-srt-to-subc-with-simple-steps-for-2024/"><u>Rapid Transition From SRT to SUBC with Simple Steps for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-creating-fluid-edits-for-2024/"><u>The Ultimate Guide to Creating Fluid Edits for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-the-secrets-of-stretching-seconds-creating-spectaculous-slow-mo-videos-with-photos-and-web-tools-for-2024/"><u>Unveiling the Secrets of Stretching Seconds Creating Spectaculous Slow-Mo Videos with Photos & Web Tools for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-smudge-free-sequence-eliminating-gopro-fog/"><u>[New] The Smudge-Free Sequence Eliminating GoPro Fog</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transforming-your-photos-into-timeless-slow-mo-artistry/"><u>[New] Transforming Your Photos Into Timeless Slow-Mo Artistry</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-whats-different-on-facebook-a-comprehensive-overview/"><u>[Updated] 2024 Approved What's Different on Facebook? - A Comprehensive Overview</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-fast-and-efficient-snipping-on-a-pc-top-5-screen-grabber-reviews-for-2024/"><u>[Updated] Fast & Efficient Snipping on a PC Top 5 Screen Grabber Reviews for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-time-10-outstanding-youtube-channels-on-history/"><u>[Updated] Mastering Time 10 Outstanding YouTube Channels on History</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-immersive-journeys-vr-tours-explained/"><u>[Updated] Unlocking Immersive Journeys VR Tours Explained</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-up-close-and-personal-tips-for-sharper-videos-on-videoleap/"><u>[Updated] Up Close & Personal Tips for Sharper Videos on Videoleap</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-editing-odyssey-journey-to-photo-mastery/"><u>2024 Approved The Editing Odyssey Journey to Photo Mastery</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-understanding-video-duration-20mb-example/"><u>2024 Approved Understanding Video Duration 20MB Example</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-virtual-realms-of-meta-and-omni/"><u>2024 Approved Unveiling the Virtual Realms of Meta and Omni</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/1728497240428-4/"><u>他のサービスでも使える、アップルミュージックとは違う曲リスト共有方法4つ</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/aerial-drone-transformation-trial-with-first-20-free-lutts-for-2024/"><u>Aerial Drone Transformation - Trial with First 20 FREE LUTTs for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-meizu-21-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-samsung-galaxy-s23-tactical-edition-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Samsung Galaxy S23 Tactical Edition Phone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-tailoring-meet-backdrop-for-enhanced-presentations/"><u>In 2024, Tailoring Meet Backdrop for Enhanced Presentations</u></a></li>
+<li><a href="https://games-able.techidaily.com/keep-it-comfortable-steam-decks-best-gadgets/"><u>Keep It Comfortable: Steam Deck's Best Gadgets</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-photos-create-masterpieces-with-leading-apps-for-2024/"><u>Transform Photos, Create Masterpieces with Leading Apps for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unmatched-melodies-selector-android-companion-for-2024/"><u>Unmatched Melodies Selector, Android Companion for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/youtube-title-wizardry-at-your-command/"><u>YouTube Title Wizardry at Your Command</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Mandatory Survey Prompt Launched by Microsoft When Exiting OneDrive
-date: 2024-12-04T23:34:53.316Z
-updated: 2024-12-07T16:05:16.885Z
+date: 2024-12-08T17:23:32.597Z
+updated: 2024-12-13T20:24:37.546Z
 tags:
   - deals
 categories:
@@ -18,7 +18,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Microsoft's clingy behavior continues to annoy Windows users. Last month, the company introduced an optional [pop-up survey](https://article-files.techidaily.com/2024-approved-the-ultimate-guide-for-implementing-look-up-tables-in-creative-suite/) that's triggered when installing Chrome from Edge. Now, Windows users are being hit with a _mandatory_ survey when they try to _close_ OneDrive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  UPDATE: 2023/11/10 10:11 EST BY ANDREW HEINZMAN
@@ -32,7 +32,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![The "quit OneDrive" popup prompting a user to complete a survey.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/11-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Neowin](https://www.neowin.net/news/microsoft-wont-let-you-close-onedrive-in-windows-without-you-explaining-it-first/)
@@ -68,19 +68,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-professional-4k-capture-selecting-top-gimbals/"><u>[New] 2024 Approved Professional 4K Capture Selecting Top Gimbals</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unleash-your-potential-top-6-head-mounted-cameras-by-gopro/"><u>[New] Unleash Your Potential Top 6 Head-Mounted Cameras by GoPro</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-your-stepwise-approach-to-uploading-youtube-shorts-on-laptop-phone/"><u>[Updated] 2024 Approved Your Stepwise Approach to Uploading YouTube Shorts on Laptop, Phone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-the-essential-guide-to-youtube-edits-with-premiere-pro/"><u>[Updated] In 2024, The Essential Guide to YouTube Edits with Premiere Pro</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-navigating-the-nuances-of-borders-in-images-using-canva/"><u>2024 Approved Navigating the Nuances of Borders in Images Using Canva</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-best-practices-in-cds-ripping-and-burning-with-win-media/"><u>2024 Approved Unveiling the Best Practices in Cds Ripping & Burning with Win, Media</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/awakening-from-darkness-a-step-by-step-approach-to-resolving-android-black-screens/"><u>Awakening From Darkness: A Step-by-Step Approach to Resolving Android Black Screens</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-poco-f5-pro-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Poco F5 Pro 5G to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-uncovering-8-superior-online-srt-translation-tools/"><u>In 2024, Uncovering 8 Superior Online SRT Translation Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-cost-effective-clouds-for-the-budget-conscious/"><u>In 2024, Unlocking Cost-Effective Clouds for the Budget-Conscious</u></a></li>
-<li><a href="https://some-skills.techidaily.com/strategies-to-keep-windows-11-photos-app-running-smoothly-for-2024/"><u>Strategies to Keep Windows 11 Photos App Running Smoothly for 2024</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/the-ultimate-guide-to-upgrading-your-youtube-videos-with-top-notch-editing-techniques/"><u>The Ultimate Guide to Upgrading Your YouTube Videos with Top-Notch Editing Techniques</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlock-your-tunes-curated-list-of-websites-for-youtuberingtones-for-2024/"><u>Unlock Your Tunes Curated List of Websites For YouTubeRingtones for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-10-update-failed-to-install-solved/"><u>Windows 10 Update Failed to Install [SOLVED]</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamline-your-information-with-mematics-app/"><u>[Updated] Streamline Your Information with Mematic's App</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-novice-writers-guide-to-boosting-brand-visibility-through-content-creation/"><u>[Updated] The Novice' Writers' Guide to Boosting Brand Visibility Through Content Creation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transform-your-photos-into-masterpieces-with-top-pixlr-techniques/"><u>[Updated] Transform Your Photos Into Masterpieces with Top Pixlr Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-6-platforms-revolutionizing-business-social-interaction/"><u>2024 Approved Top 6 Platforms Revolutionizing Business-Social Interaction</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/cross-language-communication-with-chatgpt-tips-and-tricks-for-a-global-experience/"><u>Cross-Language Communication with ChatGPT: Tips and Tricks for a Global Experience</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/how-to-effortlessly-recover-deleted-data-from-your-hard-disk-using-windows-versions-11-10-8-and-7-techniques/"><u>How to Effortlessly Recover Deleted Data From Your Hard Disk Using Windows Versions 11, 10, 8, and 7 Techniques</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/mapping-out-the-next-wave-of-social-media-graphs/"><u>Mapping Out the Next Wave of Social Media Graphs</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/top-10-fastest-flip-screen-games-on-desktops-and-phones/"><u>Top 10 Fastest Flip-Screen Games on Desktops & Phones</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-voice-mail-management-apps/"><u>Top Rated Voice Mail Management Apps</u></a></li>
 </ul></div>
 

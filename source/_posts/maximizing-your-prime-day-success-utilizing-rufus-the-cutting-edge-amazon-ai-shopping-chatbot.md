@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Your Prime Day Success: Utilizing Rufus, the Cutting-Edge Amazon AI Shopping Chatbot"
-date: 2024-12-06T21:44:30.177Z
-updated: 2024-12-07T20:22:48.865Z
+date: 2024-12-09T00:18:13.157Z
+updated: 2024-12-13T23:48:13.537Z
 tags:
   - cutting-edge
 categories:
@@ -19,13 +19,13 @@ thumbnail: https://thmb.techidaily.com/509fff23b0ac771700c9cc9f462572328b6f939b9
 
  Amazon Prime Day is July 16-17th! I learn all about Rufus as the AI takes me Amazon shopping for toys, a Chromebook, and a fancy power station. If you want to grab the best deals, you'll want to get familiar with this helpful bot too!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Who Is Rufus?
 
  The original [Rufus (1994-2009)](https://www.amazon.com/gp/help/customer/display.html?nodeId=3711811&tag=hotoge-20&ascsubtag=UUhtgUeUpU2003905&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fhow-to-get-ready-for-prime-day-with-rufus-amazon-shoppings-new-ai-assistant-chatbot%2F&asc%5Fcampaign=Short-Term) was a beloved Welsh Corgi who seems to have morphed into a bit of a legend at Amazon and is credited with starting Amazon's dog-friendly workplace culture. Released in February, Amazon's new AI shopping assistant is named in his honor. Rufus, the AI, is trained in Amazon's product catalog, customer reviews, and product Q & As.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Where Is Rufus?
 
@@ -44,11 +44,11 @@ thumbnail: https://thmb.techidaily.com/509fff23b0ac771700c9cc9f462572328b6f939b9
 ![A screenshot of the above prompt and Rufus' response. Only the suggestion of a large outdoor basketball hoop is shown.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_20240627_200000_amazon-shopping.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Follow-up Questions
@@ -58,7 +58,11 @@ thumbnail: https://thmb.techidaily.com/509fff23b0ac771700c9cc9f462572328b6f939b9
 ![A side-by-side of screenshots of Rufus' follow-up questions and its response to the follow-up question "What outdoor toys foster teamwork among kids?"](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_20240627_215749_amazon-shopping.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Specific Product Searches
@@ -70,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/509fff23b0ac771700c9cc9f462572328b6f939b9
 ![A screenshot of the prompt "What is the most powerful portable power station for under $1000" and Rufus' response.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_20240628_204656_amazon-shopping.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  I notice that Rufus' product suggestions do not include prices. This is because they are product searches for a specific product instead of the product information page. You have to leave Rufus by clicking on one of the product search suggestions to see pricing information.
@@ -82,10 +86,6 @@ thumbnail: https://thmb.techidaily.com/509fff23b0ac771700c9cc9f462572328b6f939b9
  I prompted Rufus with "What should I consider when shopping for a Chromebook for web surfing and keeping up with email?" Rufus suggested an Intel Celeron processor or better, at least 4GB of RAM, 32GB or 64GB of eMMC storage, 8hr battery life, Wi-Fi and Bluetooth, and gave a few product search suggestions. These numbers all checked out well for basic web surfing and word processing. Since there's still over a month before my kids go back to school, I went with this [basic refurbished Samsung Chromebook](https://www.amazon.com/dp/B09F2MX54R?asc%5Fsource=01H8HFYCS1MWCPQSJYRR7EWW12&psc=1&ref=ppx%5Fyo2ov%5Fdt%5Fb%5Fproduct%5Fdetails&tag=hotoge-20&ascsubtag=UUhtgUeUpU2003905&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fhow-to-get-ready-for-prime-day-with-rufus-amazon-shoppings-new-ai-assistant-chatbot%2F&asc%5Fcampaign=Short-Term) that will sync with my Samsung phone.
 
 ![A side-by-side screenshot of the Chrome book prompt and Rufus' response.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_20240628_204847_amazon-shopping.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Data Privacy and Security
 
@@ -122,20 +122,15 @@ thumbnail: https://thmb.techidaily.com/509fff23b0ac771700c9cc9f462572328b6f939b9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-the-ultimate-handbook-for-swapping-music-libraries/"><u>[New] 2024 Approved The Ultimate Handbook for Swapping Music Libraries</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-role-of-workspace-dynamics-in-employee-output/"><u>[New] The Role of Workspace Dynamics in Employee Output</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-blueprint-to-fullscreen-brilliance-in-adobe-premiere/"><u>[New] The Ultimate Blueprint to Fullscreen Brilliance in Adobe Premiere</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transforming-creativity-into-a-sustainable-livelihood/"><u>[New] Transforming Creativity Into a Sustainable Livelihood</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/finding-and-repairing-the-elusive-wmvcoredll-file-expert-advice/"><u>Finding and Repairing the Elusive wmvcore.dll File - Expert Advice</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-poco-x6-by-fonelab-android-recover-music/"><u>How to restore wiped music on Poco X6</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-vivo-y56-5g-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Vivo Y56 5G? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-pick-a-perfect-virtual-reality-device-is-wireless-vision-or-connected-content-more-appealing/"><u>In 2024, How to Pick a Perfect Virtual Reality Device Is Wireless Vision or Connected Content More Appealing?</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-prime-device-editors-for-app-development/"><u>In 2024, Prime Device Editors for App Development</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-face-forward-influential-beauty-guides/"><u>In 2024, The Face Forward Influential Beauty Guides</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-the-power-of-spotifys-ad-platform-for-marketers/"><u>In 2024, Unleashing the Power of Spotify's Ad Platform for Marketers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-vantage-point-critique/"><u>In 2024, Vantage Point Critique</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-error-0x80246007-on-windows-11-updates/"><u>Solving Error 0X80246007 on Windows 11 Updates</u></a></li>
-<li><a href="https://some-skills.techidaily.com/syncing-scores-and-screenplays-top-tunes-for-video-unboxing-for-2024/"><u>Syncing Scores and Screenplays Top Tunes for Video Unboxing for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/your-path-to-perfect-iphone-hdr-photos/"><u>Your Path to Perfect iPhone HDR Photos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-health-communication-winning-on-social-networks/"><u>[New] Health Communication Winning on Social Networks</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-designers-alley-no-cost-high-impact-text-psdfree/"><u>[Updated] 2024 Approved Designers' Alley No-Cost, High-Impact Text PSDFree</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-apple-iphone-14-plus-find-my-friends-no-location-found-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix Apple iPhone 14 Plus Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-essential-guide-to-timeless-stop-motion-classics/"><u>In 2024, The Essential Guide to Timeless Stop-Motion Classics</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-approach-to-enhancing-mp4-content-with-srt-captions/"><u>In 2024, Ultimate Approach to Enhancing MP4 Content with SRT Captions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-cyber-companion-tone-downloads-guide/"><u>In 2024, Ultimate Cyber Companion Tone Downloads Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-ringtones-guide-top-downloads/"><u>In 2024, Ultimate Ringtones Guide Top Downloads</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722882196258-the-complete-chronological-viewing-plan-for-the-fellowship-of-the-ring-two-towers-and-return-of-the-king/"><u>The Complete Chronological Viewing Plan for The Fellowship of the Ring, Two Towers & Return of the King</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-complete-guide-to-fine-tuning-disk-storage-via-ntfs-compression/"><u>The Complete Guide to Fine-Tuning Disk Storage via NTFS Compression</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/trouble-with-apple-iphone-6s-plus-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with Apple iPhone 6s Plus Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Boost Productivity: Switch From Complex Excel Formulas to Efficient ChatGPT Solutions"
-date: 2024-12-03T02:47:22.658Z
-updated: 2024-12-08T01:34:48.105Z
+date: 2024-12-09T21:54:19.641Z
+updated: 2024-12-14T00:47:57.735Z
 tags:
   - cutting-edge
 categories:
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/c4aba1f1071f6153eef4e836db7e5ca4bdc93515f
 * [ChatGPT Can Troubleshoot and Tweak Your Formulas](https://screen-mirroring-recording.techidaily.com/2024-approved-clear-vision-in-gaming-captures-overcoming-obs-black-screens/)
 * [You Still Need to Check the Formulas Manually](https://mondly-stories.techidaily.com/initiation-into-japanese-conversational-manners/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * You can use ChatGPT to create Excel formulas even without prior knowledge of the tool.
@@ -32,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/c4aba1f1071f6153eef4e836db7e5ca4bdc93515f
  The tips provided in this article aren't limited to Excel; they're also applicable to other spreadsheet tools, such as Google Sheets and Apple Numbers. Additionally, this guide focuses on the free version of ChatGPT based on the GPT 3.5 model. If you have access to GPT 4, you can use the Advanced Data Analysis tool to take screenshots and upload Excel files directly to GPT 4 for a more seamless experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Get a Quick Excel Formula From ChatGPT
@@ -51,17 +47,21 @@ Close
 
 ![A list of articles about ceramic and glass coffee mugs in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/asd-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This is just a basic example to show you how ChatGPT can determine what formulas you need based on what you'd like to do. Let's do something slightly more complicated by asking it to help us [calculate the average](https://win-able.techidaily.com/fixing-overwatch-startup-issues-how-to-get-rid-of-the-persistent-black-screen/) profit margin and most profitable item.
 
 ![ChatGPT giving formulas to calculate the average profit margin and most profitable item in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/most-profitable.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After implementing the formula, I was once again left with exactly what I was looking for. I double-checked the numbers by calculating everything manually to confirm the formulas worked correctly.
 
 ![A list of articles about ceramic and glass coffee mugs in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/asd.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you're already an Excel aficionado and prefer making formulas yourself, you can ask ChatGPT to suggest the best function for your unique scenario. Let's say I wanted to import information about the revenue and profits from my orders sheet to a tax sheet. ChatGPT gave me four viable formulas that I could use, along with a brief explanation of how they work.
 
@@ -70,6 +70,10 @@ Close
  These are just a few basic examples demonstrating what you can do with ChatGPT and Excel. You can use your AI buddy to build upon formulas and organize your data in any way you can imagine. There's even a new [experimental function for custom GPT prompts](https://fox-glue.techidaily.com/getting-acquainted-with-quantum-hdr-techniques-for-2024/). The point is that you never have to think about which formula to use or even know how it works. Still, it helps to know a thing or two about Excel to get the most out of it. Check out our [Excel for Beginners](https://vp-tips.techidaily.com/professional-stability-essentials-for-youtube-videographers/) guide for a quick crash course.
 
  If you've subscribed to Copilot Pro, you can [add GPT-4 Turbo directly to Excel](https://extra-skills.techidaily.com/in-2024-photoshop-facebackground-anonymity-guide/). This integration allows Copilot to analyze your data and suggest relevant formulas in addition to providing direct access to GPT.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  You Can Create Formatting Rules With ChatGPT
 
@@ -85,10 +89,6 @@ Close
 
 ![A list of articles about ceramic and glass coffee mugs in Excel, organized by color.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/newnew.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  ChatGPT Can Troubleshoot and Tweak Your Formulas
 
  Don't worry if one of the formulas ChatGPT gave you isn't working as intended—it happens to me all the time. The fix can range from telling ChatGPT, "Hey, this doesn't work." to explaining the problem in detail until ChatGPT figures out the issue.
@@ -102,7 +102,7 @@ Close
 Close 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You Still Need to Check the Formulas Manually
@@ -130,19 +130,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-bidfarewelltomycam-the-quest-for-improved-options/"><u>[New] BidFarewellToMyCam The Quest for Improved Options</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-synchronize-successfully-5-steps-for-data-migration/"><u>[New] Synchronize Successfully 5 Steps for Data Migration</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-updated-inquiry-collection-for-podcast-appeal/"><u>[New] Updated Inquiry Collection for Podcast Appeal</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-harmonizing-your-music-a-youtube-playlist-journey-for-2024/"><u>[Updated] Harmonizing Your Music A YouTube Playlist Journey for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-legal-implications-of-youtube-video-savings/"><u>[Updated] In 2024, Legal Implications of YouTube Video Savings</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unleashing-visual-velocity-illustrators-guide-to-motion-blurs/"><u>[Updated] Unleashing Visual Velocity Illustrator's Guide to Motion Blurs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unraveling-the-mystery-of-vr-gear-selection-wireless-elegance-versus-cable-convenience/"><u>[Updated] Unraveling the Mystery of VR Gear Selection Wireless Elegance versus Cable Convenience</u></a></li>
-<li><a href="https://win-data.techidaily.com/44cm44oc44oq44ol44o844og44o744k344oj44oj44km44kz44ou44o844k144o844ot44k544cn44ko44op44o85lplusu5q2j5a6m5lqg5oof5acxic0g5pya57wc54mi/"><u>「ボリューム・シャドウコピーサービス」エラー修正完了情報 - 最終版</u></a></li>
-<li><a href="https://techtrends.techidaily.com/a-complete-breakdown-of-bass-management-functions-and-uses/"><u>A Complete Breakdown of Bass Management Functions & Uses</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/budget-friendly-energy-hubs-evaluated-by-zdnet-enhance-cross-country-travel-comfortably/"><u>Budget-Friendly Energy Hubs Evaluated by ZDNet Enhance Cross-Country Travel Comfortably</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/hosting-your-own-home-karaoke-event-a-step-by-step-guide/"><u>Hosting Your Own Home Karaoke Event: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-http.techidaily.com/premium-audio-modification-solutions-magically-effective-for-2024/"><u>Premium Audio Modification Solutions Magically Effective for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-future-is-here-magix-vpx-unveiled-and-tested-for-2024/"><u>The Future Is Here Magix VPX Unveiled and Tested for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-chrome-browser-vocal-transformers-revealed-for-enthusiast-users-for-2024/"><u>Top Chrome Browser Vocal Transformers Revealed for Enthusiast Users for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-quick-humor-crafting-the-meme-text-genrator-way/"><u>[Updated] Quick Humor Crafting The Meme Text Gen'rator Way</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-experts-pathway-transforming-sdr-footage-into-hdri/"><u>[Updated] The Expert's Pathway Transforming SDR Footage Into HDRI</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-game-changer-how-to-optimize-your-fb-giveaway-posts/"><u>[Updated] The Game-Changer How to Optimize Your FB Giveaway Posts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-superb-cyber-shops-for-handcrafted-gift-enclosures/"><u>2024 Approved Superb Cyber Shops for Handcrafted Gift Enclosures</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/nsvmp3-movavi-mp3/"><u>快適にオンラインで音楽NSVを無料MP3に変換する - Movavi MP3コンバータ</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comprehensive-srt-education-and-resources/"><u>Comprehensive SRT Education and Resources</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-tecno-spark-10c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Tecno Spark 10C? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-vivo-y78plus-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Vivo Y78+ Phone When You Forget the Password</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-samsung-galaxy-s23-fe-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Samsung Galaxy S23 FE Phone? Unlock It Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/secrets-to-purchasing-the-apple-vision-pro-expert-buying-guide-and-achieving-perfect-facial-recognition/"><u>Secrets to Purchasing the Apple Vision Pro: Expert Buying Guide & Achieving Perfect Facial Recognition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unmatched-technique-to-fuse-gopro-clips-into-immersive-360-movies-for-2024/"><u>Unmatched Technique to Fuse GoPro Clips Into Immersive 360 Movies for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/why-the-nsa-recommends-weekly-mobile-device-reboots-uncovering-essential-security-measures/"><u>Why the NSA Recommends Weekly Mobile Device Reboots - Uncovering Essential Security Measures</u></a></li>
 </ul></div>
 

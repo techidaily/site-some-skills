@@ -1,7 +1,7 @@
 ---
 title: Efficient File Comparison Techniques Using Notepad++
-date: 2024-12-04T19:11:06.721Z
-updated: 2024-12-07T22:55:28.069Z
+date: 2024-12-10T19:01:04.257Z
+updated: 2024-12-14T01:04:45.206Z
 tags:
   - desktop
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ## Efficient File Comparison Techniques Using Notepad++
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * If Notepad++ doesn't offer a Plugins > Plugins Admin item in the menu bar, download the app installer, run the installer, enable the "Plugins Admin" option, and finish the installation process.
@@ -18,10 +22,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * Launch the app again, open the files to compare, and choose Plugins > Compare > Compare.
 
  If you’re a Notepad++ user and want to highlight differences in your files, use a free plugin with your favorite text editor to do that. In this guide, we’ll show you how to install that plugin and then how to use it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Step 1\. Ensure Notepad++ Has Plugins Admin
 
@@ -34,16 +34,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![The installation path and 'Next' highlighted in Notepad++'s installation wizard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-notepad-plus-plus-installation-path.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Enable the "Plugins Admin" option in the component list on the "Choose Components" screen. Then, at the bottom, select "Next."
 
 !['Plugins Admin' and 'Next' highlighted in the Notepad++ installation wizard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-install-plugins-admin-notepad-plus-plus.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  On the screen that follows, optionally, enable "[Create Shortcut on Desktop](https://extra-approaches.techidaily.com/updated-skys-limit-for-your-visual-stories-unlimited-free-options-and-premium-choices/)" to add the app’s shortcut to your desktop. Then, click "Install."
 
@@ -59,15 +55,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Plugins Admin' highlighted in Notepad++.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-access-plugins-admin-notepad-plus-plus.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click the "Available" tab at the top of the "Plguns Admin" window. Look for the Plugin section, then find and enable "Compare." Then, in the top-right corner, click "Install" to install the plugin.
 
  If you’d like to add other plugins, enable those plugins’ boxes before clicking "Install."
 
 !['Available,' 'Compare,' and 'Install' highlighted on the 'Plugins Admin' window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5-install-compare-plugin-notepad-plus-plus.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Notepad++ will display a prompt saying the app will relaunch if you install the plugin. If you’ve saved your unsaved work in the app, choose "Yes" in the prompt to allow the app to close and install your plugin.
 
@@ -89,17 +85,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Compare' highlighted in Notepad++.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/8-compare-files-notepad-plus-plus.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Compare plugin will do its job, which is to start highlighting the differences in your files. You’ll instantly see your files’ differences highlighted.
 
 ![The file content differences highlighted in Notepad++.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/9-file-differences-highlighted-notepad-plus-plus.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  By default, the app shows your files in a vertical view. To change the view to horizontal mode, right-click the border dividing your files and choose "Rotate to Left" or "Rotate to Right."
 
 !['Rotate to Left' and 'Rotate to Right' options highlighted in Notepad++.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/10-change-view-mode-notepad-plus-plus.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To change the colors used to highlight differences, from the app’s menu bar, select Plugins > Compare > Settings.
 
@@ -114,7 +114,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 !['Clear All Compares' highlighted in Notepad++.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/13-clear-comparison-notepad-plus-plus.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  And that’s how you quickly know the difference between two files using a free and open-source app on your computer. Notepad++ is a great [plain text editor](https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-lava-yuva-3-drfone-by-drfone-virtual-android/), and it can natively do all sorts of useful things besides compare files, like [replace specific characters with new lines](https://screen-mirror.techidaily.com/the-top-10-apple-iphone-6-plus-emualtors-for-windows-mac-and-android-drfone-by-drfone-ios/). It shines even more when you start adding plugins.
@@ -134,15 +134,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-from-novices-to-pros-the-journey-of-picking-fpv-drone-blades/"><u>[New] From Novices to Pros The Journey of Picking FPV Drone Blades</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-premium-free-graphic-havens-a-comprehensive-guide-to-top-art-portals/"><u>[New] Premium-Free Graphic Havens A Comprehensive Guide to Top Art Portals</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-20-zero-cost-pubg-visual-anthologies/"><u>[New] Top 20 Zero-Cost PUBG Visual Anthologies</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-attractive-unboxing-videos-on-ig/"><u>2024 Approved The Ultimate Guide to Attractive Unboxing Videos on IG</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/essential-advice-what-to-do-when-skype-fails-to-connect/"><u>Essential Advice: What to Do When Skype Fails to Connect</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-implementing-gradual-audio-reduction-tricks-in-audacity/"><u>In 2024, Implementing Gradual Audio Reduction Tricks in Audacity</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-language-bridge-builders-top-18-tools-that-turn-videos-into-text/"><u>In 2024, Language Bridge Builders Top 18 Tools That Turn Videos Into Text</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/navigate-urban-life-seamlessly-with-mods-advanced-easy-sidecar-e-bike-try-it-today/"><u>Navigate Urban Life Seamlessly with Mod's Advanced Easy Sidecar E-Bike – Try It Today!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/power-through-office-workflows-with-keyboard-shortcuts/"><u>Power Through Office Workflows with Keyboard Shortcuts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/sonys-game-console-enhance-auditory-experience-for-2024/"><u>Sony's Game Console Enhance Auditory Experience for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-best-practices-for-rl-video-editing-and-post-processing-for-2024/"><u>[New] Best Practices for RL Video Editing and Post-Processing for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-mastering-video-best-practices-in-game-recording-and-streaming-for-2024/"><u>[New] Mastering Video Best Practices in Game Recording & Streaming for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-quickcapture-stopping-and-saving-screen-moments-for-2024/"><u>[New] QuickCapture Stopping & Saving Screen Moments for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-magic-of-pause-time-creating-spectacularly-long-lasting-movies-with-photos-and-web-services/"><u>[New] Unveiling the Magic of Pause Time Creating Spectacularly Long Lasting Movies with Photos & Web Services</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-scrutinizing-software-for-video-editing-the-bandicam-camtasia-comparison/"><u>[Updated] 2024 Approved Scrutinizing Software for Video Editing The Bandicam-Camtasia Comparison</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-proactive-techniques-for-seamless-zoom-usage-on-a-chromebook/"><u>2024 Approved Proactive Techniques for Seamless Zoom Usage on a Chromebook</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-definitive-guide-to-using-vlc-player-in-macos/"><u>2024 Approved The Definitive Guide to Using VLC Player in macOS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-potential-understanding-and-altering-account-numbers/"><u>2024 Approved Unleash Potential Understanding and Altering Account Numbers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-mp3-from-pinterest-video-files-with-these-steps/"><u>2024 Approved Unlocking MP3 From Pinterest Video Files with These Steps</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-oppo-reno-10-pro-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Oppo Reno 10 Pro 5G Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-precise-update-your-dell-camera-drivers-without-errors/"><u>How to Precise Update Your Dell Camera Drivers Without Errors</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-disable-non-specific-youtube-video-alerts/"><u>In 2024, Disable Non-Specific YouTube Video Alerts</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-30-psd-text-files-unrestricted-zero-price/"><u>In 2024, Top 30 PSD Text Files Unrestricted, Zero Price</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-uncover-the-power-of-sound-no-cost-voice-effects-at-your-fingertips/"><u>In 2024, Uncover the Power of Sound No-Cost Voice Effects at Your Fingertips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transforming-soundtracks-into-professional-podcasts-for-2024/"><u>Transforming Soundtracks Into Professional Podcasts for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-get-sound-back-in-avidemux-easy-fixes/"><u>Updated 2024 Approved Get Sound Back in Avidemux Easy Fixes</u></a></li>
 </ul></div>
 

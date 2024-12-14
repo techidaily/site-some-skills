@@ -1,7 +1,7 @@
 ---
 title: "Boosting Linux Protection: 6 Essential Strategies for Secure Computing"
-date: 2024-11-30T16:51:55.866Z
-updated: 2024-12-08T00:23:52.081Z
+date: 2024-12-11T01:00:42.610Z
+updated: 2024-12-13T19:29:50.566Z
 tags:
   - desktop
 categories:
@@ -21,10 +21,6 @@ Cybersecurity can be confusing. Here are six easy things you can do, and habits 
 
  Some of these are settings you can apply, but some of them are habits you need to adopt, or actions that need to be repeated periodically. As you’ve likely heard, cybersecurity isn’t a destination, it’s an ongoing journey.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1  Keep Your System Updated 
 
  All non-trivial software has bugs. Some bugs can lead to vulnerabilities. Vulnerabilities are weak spots in your armor. These vulnerabilities are exploited by cybercriminals. A common attack type uses malicious software, known as malware.
@@ -40,7 +36,7 @@ Cybersecurity can be confusing. Here are six easy things you can do, and habits 
  Some of these devices will get automatic updates. For example, Amazon Echo and Google Nest smart speakers receive automatic updates for four and five years from purchase, respectively.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2  Secure User Accounts 
@@ -48,7 +44,7 @@ Cybersecurity can be confusing. Here are six easy things you can do, and habits 
 ![The login screen on a laptop running Ubuntu Linux.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/52848723811_08b4c56473_o.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek  
@@ -62,7 +58,7 @@ Hannah Stryker / How-To Geek
  You can add two-factor authentication to your own computers too. this is especially valuable if you connect to them remotely, using SSH.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3  Control User Access 
@@ -77,6 +73,10 @@ Hannah Stryker / How-To Geek
 
  Many modern Wi-Fi routers allow you to configure a [guest Wi-Fi network](https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-itel-p55-by-drfone-android/). This allows them to get to the internet, but isolates them from your main network.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5  Check Your Software Management 
 
  You should only ever install software from trusted sources such as your Linux distribution’s official repositories, a project’s official website, or from their official Git repositories.
@@ -88,7 +88,7 @@ Hannah Stryker / How-To Geek
  If you download an application and find it doesn’t suit your needs, uninstall it. Don’t just leave it on your machine. If a project is abandoned, and no longer in development, find a replacement. Using an old version of software that no longer receives security patches increases your exposure to risks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6  Make Backups and Stay Educated 
@@ -118,22 +118,17 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-from-devices-to-desktops-proven-file-transfer-ways/"><u>[New] 2024 Approved From Devices to Desktops Proven File Transfer Ways</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-rated-software-picks-audio-adjustment-for-virtual-personalities/"><u>[New] Top-Rated Software Picks Audio Adjustment for Virtual Personalities</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-budget-friendly-high-definition-action-cams/"><u>[New] Ultimate Budget-Friendly High Definition Action Cams</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-beyond-the-screen-insightful-metaverse-models-summarized/"><u>[Updated] In 2024, Beyond The Screen Insightful Metaverse Models Summarized</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-8-step-formula-for-captivating-your-instagram-audience-with-reels/"><u>[Updated] The 8-Step Formula for Captivating Your Instagram Audience with Reels</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-best-of-ice-artistry-2022-edition/"><u>[Updated] The Best of Ice Artistry 2022 Edition</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-checklist-for-compelling-audio-intros/"><u>[Updated] The Ultimate Checklist for Compelling Audio Intros</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-transform-your-channels-image-a-pathway-to-more-subscribers-and-followers/"><u>2024 Approved Transform Your Channels' Image A Pathway to More Subscribers and Followers</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-unlock-youtube-success-subscriber-boosts-at-a-bargain/"><u>2024 Approved Unlock YouTube Success - Subscriber Boosts at a Bargain</u></a></li>
-<li><a href="https://common-error.techidaily.com/cant-reach-windows-defender-smartscreen-here-are-some-possible-solutions/"><u>Can't Reach Windows Defender SmartScreen? Here Are Some Possible Solutions</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/climate-change-mitigation-through-urban-design-innovations-for-2024/"><u>Climate Change Mitigation Through Urban Design Innovations for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/get-your-hands-on-the-ultimate-16-port-thunderbolt-dock-now-just-70-cheaper-on-amazon-insider-info-from-zdnet/"><u>Get Your Hands On The Ultimate 16-Port Thunderbolt Dock, Now Just $70 Cheaper on Amazon - Insider Info From ZDNET</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-edge-testing-gopros-hero5-black-against-sessions/"><u>In 2024, The Ultimate Edge Testing GoPro's Hero5 Black Against Sessions</u></a></li>
-<li><a href="https://win-forum.techidaily.com/optimize-system-performance-with-revo-uninstaller-professionals-new-release/"><u>Optimize System Performance with Revo Uninstaller Professional's New Release</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210538355-9782017166023-reveillez-le-creatif-qui-dort-en-vous/"><u>Réveillez le créatif qui dort en vous | Free Book</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-art-of-solo-audio-stardom-stepwise-creation-for-2024/"><u>The Art of Solo Audio Stardom Stepwise Creation for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-zoom-expertise-for-improved-google-meet-visibility-for-2024/"><u>The Ultimate Zoom Expertise for Improved Google Meet Visibility for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mobile-magic-no-cost-image-transformation-tool/"><u>[New] Mobile Magic No-Cost Image Transformation Tool</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-microsoft-azure-transcription-capabilities/"><u>[New] Unlocking Microsoft Azure Transcription Capabilities</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-techniques-for-enlarging-content-on-youtube-platform/"><u>[Updated] Techniques for Enlarging Content on YouTube Platform</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-blueprint-for-stellar-unboxing-videos-on-tiktok/"><u>2024 Approved The Blueprint for Stellar Unboxing Videos on TikTok</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ustream-live-and-comparable-platforms/"><u>2024 Approved Ustream Live & Comparable Platforms</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Google Pixel 8? | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-premium-photographic-archives/"><u>In 2024, Premium Photographic Archives</u></a></li>
+<li><a href="https://program-issues.techidaily.com/maximizing-performance-unlocking-the-best-fps-settings-for-modern-warfare/"><u>Maximizing Performance: Unlocking the Best FPS Settings for Modern Warfare</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726227559904-obs2024/"><u>OBSの導入ガイド：2024年度更新版 - 最高の録画設定について学ぶ！</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimizing-cash-flow-for-steam-gaming-purchases/"><u>Optimizing Cash Flow for Steam Gaming Purchases</u></a></li>
+<li><a href="https://some-skills.techidaily.com/strategies-for-dampening-aerial-drone-vibration-artifacts-for-2024/"><u>Strategies for Dampening Aerial Drone Vibration Artifacts for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Streamlined Editing of Your TikTok Age"
-date: 2024-08-20T23:44:36.744Z
-updated: 2024-08-21T23:44:36.744Z
+date: 2024-12-11T18:25:32.878Z
+updated: 2024-12-14T00:29:39.383Z
 tags: 
   - screen-recording
   - ai video
@@ -30,9 +30,6 @@ The 13-year age restriction on TikTok is not only to protect minors from the har
 
 It has also made all the accounts of those under 16 privates. If your account has been age-restricted by mistake, below are two possible methods on **how** **to edit age on TikTok**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ### Way 1: Contact TikTok Support Team to Change Your Age (Recommended)
 
 Since TikTok has removed the feature to edit your birthdate from its app, you will need to contact their support team to change your age. You can contact support through the app if your account is still working. Otherwise, you will need to contact them through email. Below are the steps to contact support for changing your age through the TikTok app on your smartphone:
@@ -40,6 +37,10 @@ Since TikTok has removed the feature to edit your birthdate from its app, you wi
 **Step 1:** Open your TikTok app and tap on "Profile" from the bottom right corner. Next, touch on "Three Lines" from the top right corner of the profile screen and access "Settings and Privacy."
 
 ![select settings and privacy](https://images.wondershare.com/filmora/article-images/2023/02/how-to-change-age-on-tiktok-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** Now navigate to the "Support & About" section and tap “Report a Problem.” Press "Account and Profile" on the next screen and tap "Editing Profile."
 
@@ -50,8 +51,13 @@ Since TikTok has removed the feature to edit your birthdate from its app, you wi
 ![tap on need more help](https://images.wondershare.com/filmora/article-images/2023/02/how-to-change-age-on-tiktok-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Way 2: Create a New TikTok Account to Change Your Age (Not-Recommended)
 
 If your TikTok account has been placed under age restriction, you can create a new TikTok account with the correct age. However, it is not the recommended method, as you will lose all of your old account data and followers.
@@ -60,9 +66,6 @@ If you are underage, you should not try to create a new account with a false age
 
 **Step 1:** Download and install the TikTok app through Google Play Store or App Store and open it. Agree to their terms and services and tap “Profile” from the bottom right corner to navigate to the signup page.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![access the profile tab](https://images.wondershare.com/filmora/article-images/2023/02/how-to-change-age-on-tiktok-5.jpg)
 
 **Step 2:** If you choose “Email or Phone,” you will need to provide your “Email” or “Phone” on the next screen. You will need to go through a verification CAPTCHA and, on the next screen, create a password for your account. Provide your correct birthdate and press "Next" to complete the account creation.
@@ -74,8 +77,9 @@ If you are underage, you should not try to create a new account with a false age
 ![select social media to sign up](https://images.wondershare.com/filmora/article-images/2023/02/how-to-change-age-on-tiktok-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2: TikTok Video Editor – Filmora for Mobile
 
 Are you an avid TikTok user who likes creating fun and stunning videos to share with your followers? If yes, then we have a great TikTok video editor, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), formerly known as Filmora, for you. Filmora is a must-have video editor for any passionate content creator on TikTok due to its amazing features and simple editing process. It has over 1000 music tracks and over 5000 stickers and filters for you to use in your [TikTok videos](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -84,23 +88,18 @@ With its help, you can trim clips, add transition effects, insert music, and cha
 
 [download filmora app for ios](https://images.wondershare.com/filmorago/article-common/app_store.svg) ](https://app.adjust.com/b0k9hf2%5F4bsu85t) [download filmora app for android](https://images.wondershare.com/filmorago/article-common/google_play.svg) ](https://app.adjust.com/b0k9hf2%5F4bsu85t)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![filmora for mobile features](https://images.wondershare.com/filmora/article-images/2023/02/how-to-change-age-on-tiktok-8.jpg)
 
 We have prepared you a video to help you better start your video editing journey with Filmora! If you any interests, please don’t miss it:
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 Protecting underage teens and kids from the negative side of the internet is important. A simple online search can show many examples where harmful TikTok content affected minors to the extent of severe physical injuries. Thus, you should only learn **how to change your age on TikTok** if you are older than 16.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![filmora for mobile features](https://images.wondershare.com/filmora/article-images/2023/02/how-to-change-age-on-tiktok-8.jpg)
 
 We have prepared you a video to help you better start your video editing journey with Filmora! If you any interests, please don’t miss it:
@@ -108,7 +107,6 @@ We have prepared you a video to help you better start your video editing journey
 ## Conclusion
 
 Protecting underage teens and kids from the negative side of the internet is important. A simple online search can show many examples where harmful TikTok content affected minors to the extent of severe physical injuries. Thus, you should only learn **how to change your age on TikTok** if you are older than 16.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -132,8 +130,21 @@ Protecting underage teens and kids from the negative side of the internet is imp
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-able.techidaily.com/solved-ashen-crash-issue-quickly-and-easily/"><u>[SOLVED] Ashen Crash Issue | Quickly & Easily!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-lowering-the-quality-of-obs-streaming-for-2024/"><u>[Updated] Lowering the Quality of OBS Streaming for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-professional-video-recorder-for-windows-pcs-for-2024/"><u>[Updated] Professional Video Recorder for Windows PCs for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-comprehensive-blueprint-to-powerdirectors-full-potential/"><u>[Updated] The Comprehensive Blueprint to PowerDirector's Full Potential</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-foremost-selection-of-5-outstanding-slow-motion-cameras/"><u>2024 Approved The Foremost Selection of 5 Outstanding Slow-Motion Cameras</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-the-full-potential-of-group-video-conferencing-on-your-android-device-zoom/"><u>2024 Approved Unlock the Full Potential of Group Video Conferencing on Your Android Device (Zoom)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-make-a-digital-signature-for-word-2000-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to make a digital signature for Word 2000</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-realme-narzo-60-pro-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Realme Narzo 60 Pro 5G to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-complete-iphone-audio-downloading-manual/"><u>In 2024, The Complete iPhone Audio Downloading Manual</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-optimal-zoom-features-in-google-meet-webinars/"><u>In 2024, Unlocking Optimal Zoom Features in Google Meet Webinars</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-discovering-the-leading-8-voice-command-programs-for-desktop-and-mobile-devices/"><u>New 2024 Approved Discovering the Leading 8 Voice Command Programs for Desktop and Mobile Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-samsung-galaxy-s25-decoded-what-to-expect-in-terms-of-cost-release-date-and-advanced-features/"><u>The Samsung Galaxy S25 Decoded: What to Expect in Terms of Cost, Release Date & Advanced Features!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-picks-streaming-tunes-directly-from-youtuberingtones-for-2024/"><u>Top Picks Streaming Tunes Directly From YoutubeRingtones for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/winxvideo-ai-beschleunigte-konversion-von-videos-and-audios-durch-gpu-technologie/"><u>Winxvideo AI: Beschleunigte Konversion Von Videos & Audios Durch GPU-Technologie</u></a></li>
+</ul></div>
 

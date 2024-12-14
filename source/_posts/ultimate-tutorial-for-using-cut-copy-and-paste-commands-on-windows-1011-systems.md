@@ -1,7 +1,7 @@
 ---
 title: Ultimate Tutorial for Using Cut, Copy & Paste Commands on Windows 10/11 Systems
-date: 2024-12-06T20:30:24.275Z
-updated: 2024-12-08T00:27:37.205Z
+date: 2024-12-06T17:30:42.732Z
+updated: 2024-12-13T17:25:31.561Z
 tags:
   - deals
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## Ultimate Tutorial for Using Cut, Copy & Paste Commands on Windows 10/11 Systems
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -32,6 +28,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Copy, cut, and paste are three basic operations that every Windows 10 and 11 user should know by heart. The concepts behind them apply to nearly every application you'll ever use. Here's how they work.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How Does the Clipboard Work? 
 
  When you copy or cut something (such as a block of text, an image, or a link), Windows temporarily stores the data in a special memory location called the Clipboard. Think of it as a temporary holding pen. When you Paste the information you copied, Windows retrieves the contents of the Clipboard and puts it where you want it to go.
@@ -39,10 +39,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Typically, the contents of the Clipboard reset when you restart your PC, although it is possible to [pin items to the clipboard in Windows 10 and 11](https://visual-screen-recording.techidaily.com/in-2024-top-6-secure-mc-domains/) using an opt-in feature called [Clipboard History](https://printer-issues.techidaily.com/resolving-intermittent-printer-spooler-halt-in-win-117/). Then you can recall them as many times as you want quickly by pressing the Windows+V keyboard shortcut.
 
  In Windows, you can even [synchronize your Clipboard between devices](https://support.microsoft.com/en-us/help/4028529/windows-10-clipboard) using the cloud. But that is an optional setting you have to turn on in System Settings.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  The Difference Between Copy and Cut
 
@@ -55,7 +51,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Microsoft Cut, Paste, and Copy icons](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/copy_paste_cut_icons.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Microsoft
@@ -68,23 +64,19 @@ Microsoft
 
 [These shortcuts now work in Windows 10's Command Prompt](https://tech-renaissance.techidaily.com/top-4-twitter-apps-for-easily-tracking-and-engaging-in-trending-topics/), too.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Alternative Copy, Cut, and Paste Keyboard Shortcuts
 
  If you need to copy in a program that interprets Ctrl+C as a break character (such as a terminal emulator), you can use Ctrl+Insert instead. To cut, use Shift+Delete. To paste, press Shift+Insert. These shortcuts aren't as commonly used today, but they are still almost universally recognized in Windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Copy, Cut, and Paste Using Right-Click
 
  In many programs, you can copy, cut, and paste using the right button on your mouse. First, select an element of a document (such as a web page), then right-click, and you'll likely see a context menu that includes Copy or Cut commands.
 
 ![Right-click and image and select "Copy Image."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-6.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can then right-click in a destination document and select Paste to put the contents of the Clipboard in that location.
 
@@ -101,7 +93,7 @@ Microsoft
  The files you just Cut or Copied will appear in the new location. Very handy!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Copy, Cut, and Paste Using Application Menus
@@ -114,6 +106,10 @@ Microsoft
 
 ![Copy, Cut, and Paste in Chrome's Menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/chrome_menu_copy.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Also, many older Windows programs include a series of drop-down menus at the top of the application window. Among them, you'll often find a menu titled Edit (which you can often call up by pressing Alt+E). In that menu, you can usually find Copy, Cut, and Paste commands.
 
 ##  How to Empty Your Clipboard
@@ -125,6 +121,10 @@ Microsoft
  You can also [create a custom shortcut](https://on-screen-recording.techidaily.com/gameplay-memories-preserved-unveiling-6-minecraft-tips/) that will clear your Windows Clipboard.
 
 ![Clearing clipboard data in Windows 10 Settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/clear_clipboard_data-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now that you know more about Copy, Cut, and Paste, we hope you have fun duplicating and moving your data with ease.
 
@@ -143,24 +143,18 @@ Microsoft
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-immaculatecapture-the-best-w10-recorder-for-2024/"><u>[New] ImmaculateCapture The Best W10 Recorder for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-learning-luminaries-leading-ed-tutorials-online/"><u>[New] Learning Luminaries Leading Ed Tutorials Online</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-steadicam-models-compatible-with-dslr-cameras/"><u>[New] Top Steadicam Models Compatible with DSLR Cameras</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-creating-a-memorable-and-unique-moniker-for-your-filmora-content/"><u>[Updated] In 2024, Creating a Memorable and Unique Moniker for Your Filmora Content</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-dji-flight-pattern-review-phantom-3/"><u>[Updated] In 2024, DJI Flight Pattern Review - Phantom 3</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-art-of-amplifying-your-minecraft-scene/"><u>[Updated] The Art of Amplifying Your Minecraft Scene</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unleashing-creativity-adding-fonts-to-your-ae-workflow/"><u>[Updated] Unleashing Creativity Adding Fonts to Your AE Workflow</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlock-fcp-without-paying-tips/"><u>[Updated] Unlock FCP without Paying - Tips</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unravel-costs-liberating-your-vob-experience-pcmac/"><u>[Updated] Unravel Costs Liberating Your VOB Experience (PC/Mac)</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-professional-mobile-photography-strategies/"><u>2024 Approved Professional Mobile Photography Strategies</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-experts-pathway-transforming-sdr-footage-into-hdri/"><u>2024 Approved The Expert's Pathway Transforming SDR Footage Into HDRI</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-tactics-for-boosting-vhs-quality-through-digital-tools/"><u>2024 Approved Top Tactics for Boosting VHS Quality Through Digital Tools</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-iphone-14-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For iPhone 14</u></a></li>
-<li><a href="https://extra-information.techidaily.com/perfect-guide-uploading-subtitles-via-social-networks/"><u>Perfect Guide Uploading Subtitles via Social Networks</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-budding-filmmakers-companion-understanding-display-quality-101-for-2024/"><u>The Budding Filmmaker’s Companion Understanding Display Quality 101 for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/the-roadmap-to-accessing-costless-frame-videos-for-2024/"><u>The Roadmap to Accessing Costless Frame Videos for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-5-efforts-crafting-perfect-titles-for-2024/"><u>Top 5 Efforts Crafting Perfect Titles for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/uncover-the-secret-to-extra-instagram-filters-for-zero-cost/"><u>Uncover the Secret to Extra Instagram Filters for Zero Cost</u></a></li>
-<li><a href="https://fox-making.techidaily.com/wd-discoverywdhdd/"><u>WD DiscoveryでのWD外部HDD操作ガイド：安全なバックアップ方法を追加</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-solve-video-issues-in-facebook-chat-on-iosandroid-devices/"><u>[New] 2024 Approved Solve Video Issues in Facebook Chat on iOS/Android Devices</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-capture-unbroken-webspace/"><u>[Updated] In 2024, Capture Unbroken Webspace</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-9gag-pathway-to-piling-up-popular-memes/"><u>[Updated] The 9GAG Pathway to Piling Up Popular Memes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-3d-gold-text-effect-sites-on-the-web/"><u>[Updated] Top 3D Gold Text Effect Sites on the Web</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-your-tiktok-profile-altering-account-numbers/"><u>2024 Approved Transforming Your TikTok Profile Altering Account Numbers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experience-high-end-virtual-worlds-for-less-a-closer-look-at-the-budget-friendly-ultraportable-headset-featured-by-zdnet/"><u>Experience High-End Virtual Worlds for Less: A Closer Look at the Budget-Friendly, Ultraportable Headset Featured by ZDNet</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/guia-paso-a-paso-para-copiar-un-ssd-de-computadora-portatil-con-funcion-de-inicio-seguro-en-windows/"><u>Guía Paso a Paso Para Copiar Un SSD De Computadora Portátil Con Función De Inicio Seguro en Windows</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-dimming-down-soundtracks-in-premiere-pro/"><u>In 2024, The Ultimate Guide to Dimming Down Soundtracks in Premiere Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleash-creativity-with-iphone-burst-photography/"><u>In 2024, Unleash Creativity with iPhone Burst Photography</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Oppo Reno 8T? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-silent-sounds-garagebands-volume-control-magic/"><u>Mastering Silent Sounds Garageband's Volume Control Magic</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-top-10-best-free-mkv-cutters-2023-update/"><u>New 2024 Approved Top 10 Best Free MKV Cutters-2023 Update</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-top-gopro-models-max-vs-hero-11-for-2024/"><u>Unveiling the Top GoPro Models Max Vs. Hero 11 for 2024</u></a></li>
 </ul></div>
 

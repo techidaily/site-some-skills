@@ -1,7 +1,7 @@
 ---
 title: "Bard Vs. ChatGPT Showdown: Determining the Ultimate AI Conversationalist"
-date: 2024-11-30T16:15:07.188Z
-updated: 2024-12-07T21:35:15.951Z
+date: 2024-12-09T23:26:46.718Z
+updated: 2024-12-13T16:44:11.233Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/c225407e5eb523ea35626965d7952f3e8eff461a4
 ## Bard Vs. ChatGPT Showdown: Determining the Ultimate AI Conversationalist
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/c225407e5eb523ea35626965d7952f3e8eff461a4
 * [Comparing Bard and Bing in the Real World](https://extra-guidance.techidaily.com/in-2024-pinnacle-enterprise-data-vaulting/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/c225407e5eb523ea35626965d7952f3e8eff461a4
  In the arena of AI chatbots, two major players have emerged: Google Bard and OpenAI's ChatGPT. These chatbots are designed to engage in conversation, but each offers slightly different capabilities and features. Let's get to know them a little better.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Google Bard Explained: How Does Google's AI Chatbot Work?
@@ -51,6 +51,10 @@ Related: [ChatGPT vs. Bing Chat AI: Which Is Better?](https://extra-skills.techi
 
  In the case of Bard, the ability to work with code at all is a relatively recent addition, with the announcement going out in [April of 2023](https://blog.google/technology/ai/code-with-bard/). I don't see either of these services being used for professional coding in light of the existence of specialized versions of this technology meant for coding, but it's sure to have a major impact for anyone learning to code, or who want to create software as a side project,
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  ChatGPT Uncovered: What Makes OpenAI's Chatbot Stand Out?
 
  OpenAI's ChatGPT was [introduced in November 2022](https://youtube-help.techidaily.com/free-method-to-record-your-youtube-watching-experience-for-2024/), predating Google Bard by a few months. It is powered by the Generative Pre-training Transformer-3 (GPT-3) and GPT-4, and has shown impressive capabilities, particularly in coding, but really across multiple professional spheres such as legal and medical, to name a few.
@@ -60,10 +64,6 @@ Related: [How to Fact-Check ChatGPT With Bing AI Chat](https://facebook-video-fo
  One of the key features of ChatGPT is its ability to remember previous conversations, albeit with a word limit that's being revised as the model advances. However, it does not use past conversations to form responses. It's also worth noting that while Bard pulls from the internet for its responses, ChatGPT's responses come from its static knowledge base, which has a cutoff date in September 2021, limiting its access to more recent information and research. You'll either have to feed it new information manually, or make use of the new beta web browser plugin.
 
  ChatGPT also has, in my opinion, peerless linguistic abilities. It can generate, manipulate, and generally run rings around any task that relies on command of language.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Google Bard vs. ChatGPT Features
 
@@ -92,7 +92,7 @@ Related: [What Is ChatGPT Plus?](https://android-location.techidaily.com/in-2024
  While I don't think being Google-connected gives Bard the massive advantage people might assume, a major potential win for Google here is integration into the rest of the Google ecosystem. With Bard and other systems derived from PaLM 2 like to be integrated into Google Docs, Gmail, Google Photos, Maps, and every other Google service that so many of us rely on every day. ChatGPT will never get that level of integration into these services, which might be Bard's unique advantage.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Comparing Bard and Bing in the Real World
@@ -126,18 +126,18 @@ Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-the-quest-for-the-ultimate-cinematography-experts/"><u>[New] The Quest for the Ultimate Cinematography Experts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-apples-podcast-potential-an-instructional-guide/"><u>[New] Unlocking Apple's Podcast Potential An Instructional Guide</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-optimizing-youtube-content-for-instagram-platforms/"><u>[Updated] In 2024, Optimizing YouTube Content for Instagram Platforms</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-premier-gamers-streaming-software-for-2024/"><u>[Updated] Premier Gamers' Streaming Software for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-total-capture-trio-setup/"><u>[Updated] Total Capture Trio Setup</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-film-finishing-finesse-download-personalized-epilogues-no-money/"><u>2024 Approved Film Finishing Finesse Download Personalized Epilogues, No Money</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-identify-10-shadowy-instagram-story-observers/"><u>2024 Approved Identify 10 Shadowy Instagram Story Observers</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-nokia-105-classic-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Nokia 105 Classic Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ensuring-ethical-use-of-chatgpt-when-providing-mental-health-guidance/"><u>Ensuring Ethical Use of ChatGPT When Providing Mental Health Guidance</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-sharefake-location-on-whatsapp-for-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Xiaomi Redmi A2+ | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-tips-and-tricks-to-attract-product-sponsors-to-your-youtube-channel/"><u>In 2024, Tips and Tricks to Attract Product Sponsors to Your Youtube Channel</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-ranked-costless-pixel-perfection-aid/"><u>In 2024, Top-Ranked Costless Pixel Perfection Aid</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-samsung-galaxy-a24-frp-by-drfone-android/"><u>The Updated Method to Bypass Samsung Galaxy A24 FRP</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-achieving-cinematic-motion-with-camtasia/"><u>[New] In 2024, The Ultimate Guide to Achieving Cinematic Motion with Camtasia</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-learning-leaders-list-discovering-the-top-10-teacher-tools/"><u>[New] Learning Leaders’ List Discovering the Top 10 Teacher Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-choosing-a-camera-gimbal-for-drone-photographers/"><u>[New] The Ultimate Guide To Choosing A Camera Gimbal For Drone Photographers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unleash-creativity-in-photography-no-cost-some-pay-luts/"><u>[New] Unleash Creativity in Photography No Cost, Some Pay LUTs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlock-full-potential-of-canon-cams-with-gratuitous-and-fee-based-luts/"><u>[New] Unlock Full Potential of Canon Cams with Gratuitous & Fee-Based LUTs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-the-full-screen-potential-of-premiere-pro/"><u>[New] Unlocking the Full Screen Potential of Premiere Pro</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-cross-media-content-flow-from-youtube-to-thirtyplus-others/"><u>[Updated] Cross-Media Content Flow From YouTube to Thirty+ Others</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-infinix-smart-8-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Infinix Smart 8 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/daily-lessons-learn-urdu-fast/"><u>Daily Lessons: Learn Urdu Fast</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/experts-reviews-of-snappydriver-installer-version-113-and-its-impact-on-your-system/"><u>Experts' Reviews of SnappyDriver Installer Version 1.13 and Its Impact on Your System</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-iphone-silent-mode-a-step-by-step-guide/"><u>Solving iPhone Silent Mode: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-10-best-meme-templates-for-2024/"><u>Top 10 Best Meme Templates for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-hd-cameras-for-elk-and-mule-deer-for-2024/"><u>Top HD Cameras for Elk and Mule Deer for 2024</u></a></li>
 </ul></div>
 

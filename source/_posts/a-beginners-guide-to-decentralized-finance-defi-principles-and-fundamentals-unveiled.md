@@ -1,7 +1,7 @@
 ---
 title: "A Beginner's Guide to Decentralized Finance (DeFi): Principles and Fundamentals Unveiled"
-date: 2024-12-02T18:11:02.190Z
-updated: 2024-12-08T02:46:33.764Z
+date: 2024-12-08T19:16:28.515Z
+updated: 2024-12-14T03:24:01.306Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/3f943451ad9f20674a4982a12bf6e3782b7a46fb4
 ## A Beginner's Guide to Decentralized Finance (DeFi): Principles and Fundamentals Unveiled
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/3f943451ad9f20674a4982a12bf6e3782b7a46fb4
  Among the coverage of [NFTs](https://sound-tweaking.techidaily.com/updated-2024-approved-mastering-echo-effects-implementing-reverb-in-digital-sound-environments-windows-edition/), Bitcoin, [blockchains](https://facebook-videos.techidaily.com/updated-2024-approved-top-playlist-hits-social-medias-1-10-video-winners/), and everything else cryptocurrency there is another term that is cropping up more and more: DeFi. What is it, and what does it mean to you?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Is DeFi?
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/3f943451ad9f20674a4982a12bf6e3782b7a46fb4
 Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/updated-2024-approved-top-playlist-hits-social-medias-1-10-video-winners/) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Centralized Finance vs. Decentralized Finance
@@ -47,7 +47,7 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
  One good example are loans. Currently, to get a loan you need to go to a bank and jump through a number of hoops to qualify. Under DeFi, you could make a deal with somebody online, set down the terms and conditions in a smart contract and then go from there. Instead of dealing with a bank or some other kind of loan company, you'd just deal with another individual.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How DeFi Works
@@ -61,7 +61,7 @@ Related: [What Is Bitcoin, and How Does it Work?](https://extra-support.techidai
  Conditions can be pretty simple, like a payment being transferred every first of the month, but they can be made as esoteric as the signatories would like. However, as these dApps exist on the blockchain, once the deal is made, it can't be altered. If you made a deal to transfer 100 Tether every first of the month, it'll fire every time unless you and your counterparty agree otherwise.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Problems With DeFi
@@ -93,24 +93,18 @@ Related: [What Is Bitcoin, and How Does it Work?](https://extra-support.techidai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-discovering-the-secret-to-instagram-voice-change/"><u>[New] 2024 Approved Discovering the Secret to Instagram Voice Change</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-streamline-your-viewing-the-facebook-auto-play-guide/"><u>[New] 2024 Approved Streamline Your Viewing The Facebook Auto-Play Guide</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-transforming-mundane-images-with-music-on-instagram/"><u>[New] 2024 Approved Transforming Mundane Images with Music on Instagram</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-twitch-replay-tricks-20-ways-to-retrace-your-stream-trail/"><u>[New] Twitch Replay Tricks 20 Ways to Retrace Your Stream Trail</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-directly-stream-google-meet-youtube-edition-steps/"><u>2024 Approved Directly Stream Google Meet - YouTube Edition Steps</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-minisculerecordings-snapshot-scrutiny/"><u>2024 Approved MinisculeRecordings Snapshot Scrutiny</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-eye-opening-journey-with-q500/"><u>2024 Approved The Eye-Opening Journey with Q500</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-toolwiz-photosapp-overview-a-complete-analysis-and-future-prospects/"><u>2024 Approved Toolwiz PhotosApp Overview - A Complete Analysis and Future Prospects</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-turning-pinterest-video-into-downloadable-mp3-files/"><u>2024 Approved Turning Pinterest Video Into Downloadable MP3 Files</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unravel-the-potential-of-multiple-screen-usage-in-netflix/"><u>2024 Approved Unravel The Potential of Multiple Screen Usage in Netflix</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/amour-en-vues-cinematic-language-lessons/"><u>Amour en Vues: Cinematic Language Lessons</u></a></li>
-<li><a href="https://win11.techidaily.com/excellent-non-windows-options-to-replace-the-windows-snipping-tool/"><u>Excellent Non-Windows Options to Replace the Window’s Snipping Tool</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/expert-analysis-top-5-high-end-recording-apps/"><u>Expert Analysis Top 5 High-End Recording Apps</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-fixing-half-muted-content-on-twitter-live-streams/"><u>In 2024, Fixing Half-Muted Content on Twitter Live Streams</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-key-ingredients-for-successful-instagram-unboxing-reels/"><u>In 2024, The Key Ingredients for Successful Instagram Unboxing Reels</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/is-using-a-registry-cleaner-effective-for-fixing-windows-glitches-in-depth-analysis-by-yl-computing/"><u>Is Using a Registry Cleaner Effective for Fixing Windows Glitches? - In-Depth Analysis by YL Computing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-altering-voices-for-a-competitive-edge-in-free-fire-for-2024/"><u>The Ultimate Guide Altering Voices for a Competitive Edge in Free Fire for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-real-time-webcast-applications-for-2024/"><u>Top Real-Time Webcast Applications for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/vanguard-devices-frontline-computing-titans-for-2024/"><u>Vanguard Devices Frontline Computing Titans for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-a-time-travelers-guide-to-youtube-queue-watch-from-end-to-start/"><u>[New] In 2024, A Time Traveler’s Guide to YouTube Queue Watch From End to Start</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-boosting-your-channels-viewer-count-12-must-try-approaches/"><u>[Updated] In 2024, Boosting Your Channel's Viewer Count - 12 Must-Try Approaches</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-the-art-of-keeping-up-with-snapstreaks/"><u>[Updated] In 2024, The Art of Keeping Up With Snapstreaks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-value-hunting-affordable-vr-gear-from-china/"><u>[Updated] Value Hunting Affordable VR Gear From China</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-strategies-to-enhance-testimonial-credibility-and-impact/"><u>2024 Approved Strategies to Enhance Testimonial Credibility and Impact</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-guide-to-julys-most-competitive-laptop-offers-featured/"><u>Exclusive Guide to July's Most Competitive Laptop Offers, Featured</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-insights-on-constructing-high-quality-srt-files-for-2024/"><u>Expert Insights on Constructing High-Quality SRT Files for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/o-size-your-videos-youtubes-best-practices-unveiled-for-2024/"><u>How to Size Your Videos YouTube's Best Practices Unveiled for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/offworld-trading-company-game-breakdown-tactical-approaches-for-rising-as-a-merchant-monarch/"><u>Offworld Trading Company Game Breakdown: Tactical Approaches for Rising as a Merchant Monarch</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-stock-photo-memes-and-realities-for-2024/"><u>The Ultimate Guide to Stock Photo Memes & Realities for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-to-stop-overwatch-2-from-continuously-freezing-and-closing-on-pc/"><u>Troubleshooting Steps to Stop Overwatch 2 From Continuously Freezing and Closing on PC</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-backdrop-change-kit-pixelpioneers-reveal-for-2024/"><u>Ultimate Backdrop Change Kit PixelPioneer's Reveal for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/zoom-clarity-windows-resolved/"><u>Zoom Clarity: Windows Resolved</u></a></li>
 </ul></div>
 

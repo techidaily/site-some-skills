@@ -1,7 +1,7 @@
 ---
 title: "Be Prepared Without Delay: Step-by-Step Tutorial on Crafting a Bootable Windows #11 USB Thrive in Advance"
-date: 2024-12-01T21:44:13.366Z
-updated: 2024-12-08T00:45:50.661Z
+date: 2024-12-08T18:40:38.936Z
+updated: 2024-12-14T00:02:19.774Z
 tags:
   - deals
 categories:
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 
  You can install Windows 11 on your computer either using a DVD or from a USB drive. While both methods work well, the DVD method is somewhat lengthy and more prone to errors. On the other hand, you can easily create a bootable Windows 11 USB drive and use it to install the OS on your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Why Is It Important to Have a Bootable USB Drive Ready?
 
  Its relatively common to face issues on your Windows 11 computer. You can get rid of most of those issues by implementing a few basic fixes, but what happens when you come across a problem that has made your computer totally unusable?
@@ -47,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
  Open the downloaded Media Creation Tool, and click the "Accept" button to accept all the Microsoft terms and conditions.
 
 ![Accept option in Terms and License window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/accept-option-in-terms-and-license-window.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Uncheck the "Use the recommended options for this PC" box, click the "Language" dropdown menu, and choose your preferred language. Then, click "Next."
 
@@ -70,10 +78,6 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 
  You can now use the USB drive to install Windows 11 on a computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Create a Bootable Windows 11 USB Drive Using Rufus
 
  Rufus is a free and open-source utility that allows you to create a bootable USB flash drive for any operating system, including Windows 11\. However, to use this tool, you will need to have the Windows 11 ISO file downloaded to your computer. You can [get the Windows 11 ISO file](https://some-guidance.techidaily.com/new-transform-your-shots-with-understanding-luts/) from the Microsoft website.
@@ -83,24 +87,28 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 ![Download Now button for the Windows 11 ISO File.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/download-now-button-for-the-windows-11-iso-file.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Choose your preferred language from the language drop-down menu, then click "Confirm."
 
 ![Selecting Language of the Windows 11 ISO File.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/selecting-language-of-the-windows-11-iso-file.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click the "Download" button to begin downloading the file. The ISO file is approximately 7GB in size, which may take some time to download, depending on your connection speed.
 
 ![Download option for Windows 11 ISO File.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/download-option-for-windows-11-iso-file.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you have the Windows 11 ISO file, visit the [Rufus official website](https://rufus.ie/en/) and download its latest version. Make sure you select the link labeled "Standard" under the Type section.
 
 ![Rufus download file on its website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/rufus-download-file-on-its-website.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After downloading the Rufus app, open it, click the drop-down arrow for the "Device" option, and choose your USB device.
 
@@ -118,6 +126,10 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 
 ![Start option in the Rufus window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/start-option-in-the-rufus-window.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the Windows User Experience window, check the boxes next to "Remove requirement for 4GB+ RAM, Secure Boot, and TPM 2.0" and "Remove Requirement for an Online Microsoft Account." Then, click "OK."
 
 ![Windows User Experience window in Rufus.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/windows-user-experience-window-in-rufus.jpg) 
@@ -129,7 +141,7 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 ![OK option in the Rufus window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/ok-option-in-the-rufus-window.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Rufus will initiate the process, and you can monitor the progress under the Status section.
@@ -148,20 +160,20 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 
 ![DISKPART command in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/diskpart-command-in-command-prompt.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then, type **LIST** **DISK** and hit Enter. This will list all the storage devices connected to your computer.
 
 ![LIST DISK command in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/list-disk-command-in-command-prompt.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Note the disk number of your USB drive. In our case, it’s DISK 2.
 
 ![Name of USB drive in the Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/name-of-usb-drive.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Type **SEL (YourDisk)** and hit Enter to select your USB drive.
@@ -172,19 +184,11 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 
 ![Clean command in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/clean-command-in-command-prompt.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Next, type the following command and hit the Enter key to create a primary partition:
 
         `Create Partition Primary`
     
 ![Partition creating command in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/partition-creating-command-in-command-prompt.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Type **List par** and press Enter to choose the main partition.
 
@@ -202,17 +206,9 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
     
 ![Assign letter command in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/assign-letter-command-in-command-prompt.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Type **exit** and hit Enter to exit the Diskpart utility.
 
 ![Exit command in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/exit-command-in-command-prompt.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You’ll now have to mount the Windows 11 ISO file. For this, execute the following command:
 
@@ -256,6 +252,10 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 
 ![Copy completed of Windows 11 files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/copy-completed-of-windows-11-files.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
  These were all the methods to make a bootable Windows 11 USB. Just as a reminder, the Media Creation Tool should always be your preferred method for creating the bootable USB drive. In case it doesn't work, the Rufus method is a good alternative. And in the worst-case scenario, if neither of these methods were helpful or you prefer not to use a third-party application (Rufus), you can use the Command Prompt method.
@@ -275,15 +275,16 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-advanced-speed-adjustment-techniques-in-media-editing/"><u>[New] Advanced Speed Adjustment Techniques in Media Editing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-understanding-virtual-realitys-basic-words/"><u>[New] Understanding Virtual Reality's Basic Words</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-auditory-branding-logo-insights-for-podcasters/"><u>2024 Approved The Art of Auditory Branding Logo Insights for Podcasters</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1725290067564-digiarty-winx-dvd-faq/"><u>Digiarty WinX DVDプログラム - よくあるFAQとそれに対する回答集</u></a></li>
-<li><a href="https://win-able.techidaily.com/ensuring-smooth-gaming-sessions-how-to-prevent-insurgency-sandstorm-from-crashing-down/"><u>Ensuring Smooth Gaming Sessions - How to Prevent 'Insurgency: Sandstorm' From Crashing Down</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-xiaomi-14-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Xiaomi 14 Phone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unleash-your-full-potential-top-ideas-for-productive-podcast-sessions/"><u>In 2024, Unleash Your Full Potential Top Ideas for Productive Podcast Sessions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/time-travel-online-mastering-the-art-of-using-the-wayback-machine/"><u>Time Travel Online: Mastering the Art of Using the Wayback Machine</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transforming-ordinary-interviews-into-impactful-experiences-for-2024/"><u>Transforming Ordinary Interviews Into Impactful Experiences for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-mobile-mmo-rankings-unveiled/"><u>Ultimate Mobile MMO Rankings Unveiled</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-screenmasters-unite/"><u>[Updated] ScreenMasters Unite</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-synthesize-sounds-and-images-in-ppts/"><u>[Updated] Synthesize Sounds and Images in PPTS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-audio-collections-for-screen-clips/"><u>[Updated] Top Audio Collections for Screen Clips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleashing-satirical-genius-in-the-metaverse-how-to-meme-creation/"><u>[Updated] Unleashing Satirical Genius in the Metaverse – How-To Meme Creation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-podcast-writers-toolkit-essential-strategies-and-samples/"><u>2024 Approved The Podcast Writer's Toolkit Essential Strategies & Samples</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-5-slow-motion-video-gear/"><u>2024 Approved Top 5 Slow-Motion Video Gear</u></a></li>
+<li><a href="https://extra-information.techidaily.com/advanced-techniques-for-audacity-audio-mastery-for-2024/"><u>Advanced Techniques for Audacity Audio Mastery for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Poco C51? | Dr.fone</u></a></li>
+<li><a href="https://win-unique.techidaily.com/procedures-pour-dechiffrer-et-recuperer-vos-fichiers-endommages-par-un-logiciel-malveillant-via-une-cle-usb/"><u>Procédures Pour Déchiffrer Et Récupérer Vos Fichiers Endommagés Par Un Logiciel Malveillant via Une Clé USB.</u></a></li>
+<li><a href="https://win-top.techidaily.com/revolutionary-promotional-tools-with-atomic-bluetooth-sender-and-massmail-app/"><u>Revolutionary Promotional Tools with Atomic Bluetooth Sender and Massmail App</u></a></li>
+<li><a href="https://win-studio.techidaily.com/tiga-langkah-mendewasikan-file-komprimasi-pada-os-windows-versi-11-10-8-atau/"><u>Tiga Langkah Mendewasikan File Komprimasi Pada OS Windows Versi 11, 10, 8, Atau</u></a></li>
 </ul></div>
 

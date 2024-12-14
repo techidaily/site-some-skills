@@ -1,7 +1,7 @@
 ---
 title: Top 8 Essential Factors to Consider When Purchasing a Pre-Owned Windows Laptop
-date: 2024-12-01T22:22:19.330Z
-updated: 2024-12-07T17:24:25.114Z
+date: 2024-12-12T16:06:07.102Z
+updated: 2024-12-14T03:05:56.357Z
 tags:
   - deals
 categories:
@@ -24,6 +24,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Buying a used laptop can indeed save you money, but it does come with some risks. This is why you should thoroughly examine the laptop before closing the deal to avoid unpleasant surprises later on. If you doubt the credibility of the seller, here's how you can test the used laptop.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Test the Keyboard and Trackpad
 
  Begin the laptop inspection by testing the keyboard and trackpad first. To test the keyboard, go to a keyboard testing website like [Keyboard Tester](https://www.keyboardtester.com/tester.html) and press each key from the first to the last. If all keys register correctly, the keyboard is likely in good condition. Also, make sure you feel comfortable typing on the keyboard.
@@ -34,10 +38,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  This will help you confirm whether the trackpad on your new laptop is equally or more responsive than the other one.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Test the Speakers and Built-In Microphone
 
  Next, you should test the built-in microphone and speaker. While you can simply play and record something to check if the audio input and output devices are working fine, Windows also offers a way to test them in Settings. On Windows 11, right-click on the Start button and select "Settings." Then, navigate to System > Sound.
@@ -47,7 +47,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Testing the laptop speaker in Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/1-testing-the-laptop-speaker-in-settings.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To [test the built-in microphone](https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-vivo-y200e-5g-drfone-by-drfone-virtual-android/), return to the sound settings, click on "Microphone Array," and then click on the "Start Test" button next to Test Your Microphone. Speak for a few seconds, then stop the test. If you see a decent volume percentage recorded, the microphone is working as it should.
@@ -61,7 +61,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  If the camera app detects the webcam and the visuals are clear and of satisfactory quality, as the seller claimed, then the camera is working correctly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Check the Health of Your Laptop Battery
@@ -79,11 +79,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Checking the laptop battery report.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/08/br_5.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Ensure the Laptop Isn't Stolen
@@ -110,6 +106,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Running the memory diagnostic test from Windows Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/3-running-the-memory-diagnostic-test-from-windows-command-prompt.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Windows will restart and run the test. Once it finishes testing the RAM, it'll restart again and display the test results. If you don't see them, you can use the Windows Event Viewer to search for potential issues identified during the test. Open Event Viewer and go to Windows Logs > System. Click "Find," type **MemoryDiagnostic**, and click "Find Next."
 
  Check the laptop's storage drive to see if it is an SSD rather than an HDD. SSDs are preferable due to their speed and quiet operation. You should treat any laptop with a hard drive somewhat skeptically. Hard drives haven't been the norm in many years, and finding one indicates that the laptop is likely quite old. Whichever you find, [check the drive's health](https://data-wizards.techidaily.com/preserve-the-purity-of-your-productions/) to ensure it isn't dying.
@@ -133,21 +133,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-unlock-your-social-media-superpowers-top-9-instagram-techniques-to-skyrocket-popularity/"><u>[New] Unlock Your Social Media Superpowers Top 9 Instagram Techniques to Skyrocket Popularity</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-understanding-the-impact-activating-auto-hdr-feature-on-windows-11/"><u>[Updated] 2024 Approved Understanding the Impact Activating Auto HDR Feature on Windows 11</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-securing-a-smooth-pathway-to-share-srt-text-across-multiple-platforms-for-2024/"><u>[Updated] Securing a Smooth Pathway to Share SRT Text Across Multiple Platforms for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-no-fuss-guide-for-exploring-loved-and-trending-youtube-comments/"><u>[Updated] The No-Fuss Guide for Exploring Loved and Trending YouTube Comments</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-transforming-mundane-interviews-into-memorable-experienrances/"><u>[Updated] Transforming Mundane Interviews Into Memorable Experienrances</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-choice-vr-game-engines-update-march-2023/"><u>2024 Approved Top Choice VR Game Engines Update - March 2023</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transformative-grading-3-simplified-photoshop-routines/"><u>2024 Approved Transformative Grading 3 Simplified Photoshop Routines</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/philes-guide-techniques-to-elevate-sound-recording/"><u>Audiophile's Guide Techniques to Elevate Sound Recording</u></a></li>
-<li><a href="https://win-net.techidaily.com/effiziente-adata-solid-state-drive-wandlungstools-fur-windows-betriebssysteme-windows-111087-die-umfassende-auswahl/"><u>Effiziente ADATA Solid State Drive Wandlungstools Für Windows Betriebssysteme (Windows 11/10/8/7): Die Umfassende Auswahl</u></a></li>
-<li><a href="https://facebook.techidaily.com/freedom-of-expression-say-no-to-facebook-tagged-photos/"><u>Freedom of Expression: Say No to Facebook Tagged Photos</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-restoring-accessibility-of-your-disregarded-usb-flash-memory/"><u>Guide: Restoring Accessibility of Your Disregarded USB Flash Memory</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-download-and-install-safe-and-free-corsair-keyboard-drivers-compatible-with-windows/"><u>How to Download and Install Safe & Free Corsair Keyboard Drivers Compatible with Windows</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-infinix-note-30-pro-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Infinix Note 30 Pro</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-soundtrack-of-stills-visual-audio-crafting/"><u>In 2024, The Soundtrack of Stills Visual-Audio Crafting</u></a></li>
-<li><a href="https://android-frp.techidaily.com/lenovo-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Lenovo ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/subtle-sound-reduction-tactics-with-garageband-for-2024/"><u>Subtle Sound Reduction Tactics with Garageband for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-whip-up-your-own-web-humor-snippet/"><u>[New] 2024 Approved Whip Up Your Own Web Humor Snippet</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-writing-dialogue-with-impact-in-film-scripts/"><u>[New] In 2024, Writing Dialogue with Impact in Film Scripts</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-expert-analysis-which-editing-tool-trumps-the-other-filmora-or-democreator/"><u>[Updated] 2024 Approved Expert Analysis Which Editing Tool Trumps the Other, Filmora or Democreator?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-top-8-proven-video-growth-enhancers/"><u>[Updated] In 2024, Top 8 Proven Video Growth Enhancers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unraveling-top-hdr-camera-brands-and-features/"><u>[Updated] Unraveling Top HDR Camera Brands and Features</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-one-device-two-os-file-migration-tactics/"><u>2024 Approved One Device, Two OS File Migration Tactics</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-strategizing-visibility-for-podcasts-through-design/"><u>2024 Approved Strategizing Visibility for Podcasts Through Design</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-copy-paste-issues-in-windows-11-troubleshooting-guide/"><u>How to Fix Copy-Paste Issues in Windows 11: Troubleshooting Guide</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-your-apple-iphone-15-pro-max-from-your-apple-id-by-drfone-ios/"><u>How To Unlink Your Apple iPhone 15 Pro Max From Your Apple ID</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-how-to-determine-ideal-frame-rates-in-slow-mo-filmmaking/"><u>In 2024, How to Determine Ideal Frame Rates in Slow-Mo Filmmaking</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-rescuing-flaky-windows-programs/"><u>Mastering the Art of Rescuing Flaky Windows Programs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleashing-creativity-full-scale-review-of-toolwizs-photography-app-for-2024/"><u>Unleashing Creativity Full-Scale Review of Toolwiz's Photography App for 2024</u></a></li>
 </ul></div>
 

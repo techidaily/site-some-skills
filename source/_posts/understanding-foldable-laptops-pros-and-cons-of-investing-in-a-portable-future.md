@@ -1,7 +1,7 @@
 ---
 title: "Understanding Foldable Laptops: Pros & Cons of Investing in a Portable Future"
-date: 2024-12-06T02:00:30.049Z
-updated: 2024-12-08T01:05:49.887Z
+date: 2024-12-08T00:17:39.726Z
+updated: 2024-12-14T00:40:52.056Z
 tags:
   - cutting-edge
 categories:
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/a516821dc0dcd8fb768903303922c214d1ad710be
  It's a relatively new electronic category: the first foldable laptop was the [ThinkPad X1 Fold](https://facebook-video-content.techidaily.com/in-2024-top-12-strategies-reviving-non-visible-fb-video-posts/), which hit the stores in late 2020\. It remained the sole member of its kind until late 2022, and just a few other models have been announced since. Here's what you need to know if you're curious about laptops with foldable screens, and considering whether you should get one as your next computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Is a Foldable Laptop?
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/a516821dc0dcd8fb768903303922c214d1ad710be
 
 ![HP Spectre Foldable promotional photo, with a white background, the laptop is partially opened, in the vertical position, with the keyboard partially covering the bottom half](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/hp-spectre-foldable-promotional-photo-with-a-white-background-the-laptop-is-partially-opened-in-the-vertical-position-with-the-keyboard-partially-covering-the-bottom-half.jpeg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Image credit: [HP UK](https://www.hp.com/gb-en/shop/product.aspx?id=8r2r4ea&opt=abu&sel=ntb)
 
 Image credit: [HP UK](https://www.hp.com/gb-en/shop/product.aspx?id=8r2r4ea&opt=abu&sel=ntb)
@@ -44,7 +40,7 @@ Image credit: [HP UK](https://www.hp.com/gb-en/shop/product.aspx?id=8r2r4ea&opt=
  Foldable laptops are mostly the same idea, but applied to larger screens. Whether or not they have the potential to stand out from regular laptops as much as [foldable phones stand out from glass slabs](https://some-approaches.techidaily.com/updated-top-value-dome-cams-affordable-360-filmmaking-tools/) is yet to be seen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Are Foldable Laptops Good?
@@ -58,7 +54,7 @@ Image credit: [HP UK](https://www.hp.com/gb-en/shop/product.aspx?id=8r2r4ea&opt=
 ![Asus Zenbook 17 Fold OLED promotional photo, on a white background, with the screen turned on and partially opened in the horizontal position](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/asus-zenbook-17-fold-oled-promotional-photo-on-a-white-background-with-the-screen-turned-on-and-partially-opened-in-the-horizontal-position.jpeg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Image credit: [ASUS](https://www.asus.com/br/laptops/for-home/zenbook/zenbook-17-fold-oled-ux9702/)
@@ -70,6 +66,10 @@ Image credit: [ASUS](https://www.asus.com/br/laptops/for-home/zenbook/zenbook-17
  Manufacturers need to put a delicate flexible screen above two shell halves that include CPU, RAM and storage chips, and batteries. [Active cooling solutions](https://instagram-video-files.techidaily.com/in-2024-quick-steps-for-recording-insta-stories/), like fans, have limited capability in such thin devices. Therefore, underpowering is currently the only way to prevent overheating.
 
  Because of that, for now, foldable laptops are expensive and perform poorly even when compared to computers that cost a fifth of their price. That's for sure not my definition of "good." It's not that foldable laptops are a bad idea, their execution just isn't good enough yet.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Should I Buy a Foldable Laptop?
 
@@ -87,15 +87,15 @@ Image Credit: [LG Korea](https://www.lge.co.kr/notebook/17x90r-ga50k)
 
  The reason is that there are some technological challenges yet to be overcome, so foldable laptops become viable. Advancements like [Arm processors for computers](https://buynow-reviews.techidaily.com/tablet-faceoff-determining-the-best-between-ipad-kindle-and-nook/) are promising steps in that direction, though: they perform well while consuming less power, producing less heat, and allowing for foldable laptops without active cooling.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Will Foldable Laptops Become More Affordable?
 
  Eventually, they will. All electronics do. Consider that the [IBM 350, world's first commercially available HDD](https://en.wikipedia.org/wiki/History%5Fof%5FIBM%5Fmagnetic%5Fdisk%5Fdrives#IBM%5F350), announced in 1956, was leased at $3,200 (over $36,000, adjusted for inflation) **per month** for 3.75Mb of storage.
 
 ![Lenovo ThinkPad X1 Fold 16 promotional photo, the laptop is almost completely shut, seen fron an inclined side angle, screen turned on, white background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/lenovo-thinkpad-x1-fold-16-promotional-photo-the-laptop-is-almost-completely-shut-seen-fron-an-inclined-side-angle-screen-turned-on-white-background.jpeg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Image credit: [Lenovo](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flen101t0047)
 
@@ -124,20 +124,21 @@ Image credit: [Lenovo](https://shop-links.co/link/?exclusive=1&publisher_slug=it
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-action-camera-showdown-hero-4s-features-versus-x1000vs-capabilities-for-2024/"><u>[New] Action Camera Showdown Hero 4'S Features Versus X1000V's Capabilities for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-peering-behind-the-scenes-of-youtube-reviews/"><u>[New] Peering Behind the Scenes of YouTube Reviews</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-superior-online-emporiums-where-boxes-reflect-your-style/"><u>[New] Superior Online Emporiums Where Boxes Reflect Your Style</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-tapered-music-transitions-an-intuitive-premiere-pro-tutorial/"><u>[New] Tapered Music Transitions An Intuitive Premiere Pro Tutorial</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-art-of-subscriber-chatter-best-practices-for-comments/"><u>[New] The Art of Subscriber Chatter Best Practices for Comments</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-amp-up-your-media-get-free-soundtracks-for-2024/"><u>[Updated] Amp Up Your Media Get Free Soundtracks for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-innovating-character-size-in-tiktok-a-visual-guide/"><u>[Updated] In 2024, Innovating Character Size in TikTok A Visual Guide</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-the-ultimate-mac-dvd-authorization-handbook/"><u>[Updated] In 2024, The Ultimate Mac DVD Authorization Handbook</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-preserving-pixels-in-the-sky-selecting-best-photo-cloud-storages-for-2024/"><u>[Updated] Preserving Pixels in the Sky Selecting Best Photo Cloud Storages for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-great-digital-debate-meta-vs-omni/"><u>2024 Approved The Great Digital Debate Meta Vs. Omni</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-premier-intro-list-for-panzoids/"><u>2024 Approved The Premier Intro List for Panzoids</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-this-years-most-engaging-storytelling-youtubers/"><u>2024 Approved Unveiling This Year's Most Engaging Storytelling YouTubers</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211249997-9781777230869-astrology/"><u>Astrology | Free Book</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-you-cast-your-apple-iphone-se-2022-to-windows-pc-with-ease-drfone-by-drfone-ios/"><u>How Can You Cast Your Apple iPhone SE (2022) to Windows PC With Ease? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transformative-typography-in-after-effects-for-2024/"><u>Transformative Typography in After Effects for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-best-mp4-to-facebook-converter/"><u>[New] In 2024, Best MP4 to Facebook Converter</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-convert-twitter-vids-into-aacmp4-files/"><u>[New] In 2024, Convert Twitter Vids Into AAC/MP4 Files</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-podcast-production-perfection-from-draft-to-audio-bliss/"><u>[New] In 2024, Podcast Production Perfection From Draft to Audio Bliss</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-the-streaming-showdown-obs-vs-twitch-for-2024/"><u>[New] The Streaming Showdown OBS vs Twitch for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-picks-streaming-tunes-directly-from-youtuberingtones/"><u>[New] Top Picks Streaming Tunes Directly From YoutubeRingtones</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-expert-tips-for-shifting-gender-identity-in-digital-imagery/"><u>[Updated] In 2024, Expert Tips for Shifting Gender Identity in Digital Imagery</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-laughlounge-beginner-friendly-content-creation/"><u>[Updated] LaughLounge Beginner-Friendly Content Creation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamlining-design-with-new-fonts-in-after-effects/"><u>2024 Approved Streamlining Design with New Fonts in After Effects</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-hdr-potential-with-photo-hdr-techniques/"><u>2024 Approved Unlocking HDR Potential with Photo-HDR Techniques</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/arduino-nano-setup-for-windows-a-complete-guide-to-downloading-and-driver-installation/"><u>Arduino Nano Setup for Windows - A Complete Guide to Downloading and Driver Installation</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-motorola-moto-g04-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Motorola Moto G04 to iPod | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-step-into-the-future-microsofts-hololens-breakthrough/"><u>In 2024, Step Into the Future Microsoft's HoloLens Breakthrough</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-art-of-podcast-storytelling-expert-tips-plus-10plus-sample-scripts/"><u>In 2024, Unveiling the Art of Podcast Storytelling Expert Tips + 10+ Sample Scripts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-crafting-breathtaking-time-lapses-with-gopro-for-2024/"><u>The Ultimate Guide to Crafting Breathtaking Time-Lapses with GoPro for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-high-res-video-leading-4k-conversion-tools-for-2024/"><u>Unlock High-Res Video Leading 4K Conversion Tools for 2024</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/unveiling-the-root-factors-a-deep-dive-into-the-triggers-behind-the-taiping-rebellion/"><u>Unveiling the Root Factors: A Deep Dive Into the Triggers Behind the Taiping Rebellion</u></a></li>
 </ul></div>
 

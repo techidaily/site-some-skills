@@ -1,7 +1,7 @@
 ---
 title: "Tech Update: Anticipating the Latest Features of New Devices by Google & Samsung - A Weekly Overview"
-date: 2024-12-04T02:22:35.678Z
-updated: 2024-12-08T02:33:21.008Z
+date: 2024-12-11T16:16:40.179Z
+updated: 2024-12-13T23:52:10.384Z
 tags:
   - desktop
 categories:
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/bc4c1fafbeb0a4b8e3066f1ca761f451b6c08fbe8
 ## Tech Update: Anticipating the Latest Features of New Devices by Google & Samsung - A Weekly Overview
 
 This was a surprisingly busy week for tech news, with announcements for Google and Samsung’s next hardware events, and a whole lot of software updates. Here are the biggest stories you might have missed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The Big News
 
@@ -29,10 +33,6 @@ This was a surprisingly busy week for tech news, with announcements for Google a
 
 ![Saving a game recording in Steam.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/feature.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Valve
 
 ### [Samsung's New Foldables Are Coming July 10th](https://on-screen-recording.techidaily.com/2024-approved-the-elite-selection-of-top-12-tycoons-perfect-for-strategic-souls/) 
@@ -43,12 +43,16 @@ Valve
 
  Chrome on iPhone, iPad, and Android now has a few more features.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [Your Smartphone Is Coming to Windows 11's Start Menu](https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-vivo-y100i-by-drfone-android/) 
 
  Finally, a Start menu change that makes sense.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [The ChatGPT Desktop App Is Now Available to Free Users](https://video-capture.techidaily.com/updated-audiopiece-recorder-guide-installation-and-test/) 
@@ -56,7 +60,7 @@ Valve
  The official ChatGPT desktop application doesn’t need a Plus subscription anymore, but the app is still limited to macOS.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [Moto Tag Is an AirTag Clone for Android Users](https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-infinix-smart-8-hd-phone-by-drfone-android/) 
@@ -67,16 +71,12 @@ Valve
 
 Motorola
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### [Google's Pixel 9 is Coming August 13th](https://facebook-clips.techidaily.com/updated-fb-video-extraction-creating-mp3s-in-minutes/) 
 
  Google's next hardware event is nearing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [Paramount+ Is Raising Prices Again](https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-nokia-g22-drfone-by-drfone-virtual-android/) 
@@ -104,22 +104,24 @@ Motorola
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-the-essentialists-guide-to-iphone-sound-recording/"><u>[Updated] In 2024, The Essentialist's Guide to iPhone Sound Recording</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-top-microphones-for-various-youtube-content-creators/"><u>[Updated] In 2024, Top Microphones for Various YouTube Content Creators</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-terminology-trek-through-the-virtual-landscape/"><u>[Updated] Terminology Trek Through the Virtual Landscape</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-art-of-selecting-podcasts-for-iphone-devices/"><u>[Updated] The Art of Selecting Podcasts for iPhone Devices</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-beginners-guide-to-youtube-image-sharing/"><u>[Updated] The Beginner's Guide to YouTube Image Sharing</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-unlock-the-power-of-instream-ads-detailed-guidelines-on-setup-and-evaluation-in-fb-for-2024/"><u>[Updated] Unlock the Power of Instream Ads Detailed Guidelines on Setup & Evaluation in FB for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-synching-youtube-songs-to-video-frameworks/"><u>2024 Approved Synching YouTube Songs to Video Frameworks</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-evaluation-of-asuss-hdr-and-true-black-precision/"><u>2024 Approved The Ultimate Evaluation of ASUS's HDR & True Black Precision</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-srt-files-into-text-a-speedy-expertise-guide/"><u>2024 Approved Transforming SRT Files Into Text A Speedy Expertise Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/enhancing-workplace-efficiency-the-apple-vision-pros-integration-with-enterprise-device-management-insights/"><u>Enhancing Workplace Efficiency: The Apple Vision Pro's Integration with Enterprise Device Management - Insights</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Motorola Moto G34 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/illuminate-photos-10-premium-luts-revealed/"><u>Illuminate Photos 10 Premium LUTs Revealed</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-freeloading-futures-with-ae-creative-tools/"><u>In 2024, Freeloading Futures with AE Creative Tools</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-maximizing-your-screen-real-estate-with-picture-in-picture-creation/"><u>In 2024, Maximizing Your Screen Real Estate with Picture in Picture Creation</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-ten-windows-phones-for-seamless-video-streaming/"><u>In 2024, Top Ten Windows Phones for Seamless Video Streaming</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/thank-you-access-comprehensive-paidfree-templates/"><u>Thank You! Access Comprehensive Paid/Free Templates</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-best-10-online-subtitle-editors-for-2024/"><u>The Best 10 Online Subtitle Editors for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-seo-sensation-a-comprehensive-guide-for-podcast-ranking-upliftment/"><u>[New] SEO Sensation A Comprehensive Guide for Podcast Ranking Upliftment</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-top-notch-photo-cloud-storages-both-gratis-and-premium-options/"><u>[New] Ultimate Top-Notch Photo Cloud Storages Both Gratis & Premium Options</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-elevate-your-social-score-best-tools-for-post-and-engagement/"><u>[Updated] In 2024, Elevate Your Social Score Best Tools for Post and Engagement</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-iphone-landscape-photography-excellence/"><u>[Updated] The Ultimate Guide to iPhone Landscape Photography Excellence</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tale-transmogrifiers-guild-elite-eight/"><u>2024 Approved Tale Transmogrifiers Guild – Elite Eight</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-metaverse-versus-multi-meva-unraveling-their-differences/"><u>2024 Approved The Metaverse Versus Multi-Meva Unraveling Their Differences</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-vegas-pros-latest-features-in-21/"><u>2024 Approved The Ultimate Guide to Vegas Pro's Latest Features in '21</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-selections-top-rated-webcam-platforms/"><u>2024 Approved Ultimate Selections Top-Rated Webcam Platforms</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-the-full-potential-of-youtube-video-interactions/"><u>2024 Approved Unlocking the Full Potential of YouTube Video Interactions</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-you-play-mp4-on-galaxy-f34-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Can you play MP4 on Galaxy F34 5G?</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/ethernet-cross-over-connections-demystified-purpose-and-implementation-guide-yl-software-insights/"><u>Ethernet Cross-Over Connections Demystified: Purpose and Implementation Guide | YL Software Insights</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-poco-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Poco Face Lock?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ushering-bliss-into-your-unboxing-experience/"><u>In 2024, Ushering Bliss Into Your Unboxing Experience</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-high-definition-selecting-prime-lenses-for-professional-video-for-2024/"><u>Mastering High Definition Selecting Prime Lenses for Professional Video for 2024</u></a></li>
+<li><a href="https://win-top.techidaily.com/pcwindows-113/"><u>PCアップグレード中のWindows 11におすすめデータ移動方法トップ3</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/setting-up-your-microphone-on-windows-11-for-2024/"><u>Setting Up Your Microphone on Windows 11 for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-data-workflow-6-uses-of-chatgpt-in-analytics/"><u>Transform Your Data Workflow: 6 Uses of ChatGPT in Analytics</u></a></li>
+<li><a href="https://some-skills.techidaily.com/understanding-film-a-beginners-guide-to-essential-shots-for-2024/"><u>Understanding Film A Beginner's Guide to Essential Shots for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-camtasia-video-editing-mastery-controlling-playback-speed/"><u>Updated In 2024, Camtasia Video Editing Mastery Controlling Playback Speed</u></a></li>
 </ul></div>
 

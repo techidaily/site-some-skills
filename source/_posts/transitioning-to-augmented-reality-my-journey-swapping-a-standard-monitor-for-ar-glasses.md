@@ -1,7 +1,7 @@
 ---
 title: "Transitioning to Augmented Reality: My Journey Swapping a Standard Monitor for AR Glasses"
-date: 2024-12-02T19:12:31.989Z
-updated: 2024-12-08T00:46:35.965Z
+date: 2024-12-11T23:02:55.710Z
+updated: 2024-12-14T02:32:12.807Z
 tags:
   - cutting-edge
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
 
  I have what could politely be called an unconventional work setup. Instead of a PC, I use Samsung DeX. I do much of my work from the inside screen on my Samsung Galaxy Z Fold 5, and I connect to a larger screen when I need more space. When I saw the XReal Air 2 Pro glasses work seamlessly with DeX, I figured I was the ideal candidate to give it a try. So I bought a pair, and here's what I've experienced.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  My Eyes Adjusted Quicker Than I Expected
 
  The XReal Air 2 Pro glasses, like other AR glasses and VR headsets, work by placing two tiny screens right before your eyes. The pro model is largely the same as the [XREAL Air 2](https://facebook-video-recording.techidaily.com/new-in-2024-understanding-the-technicalities-of-fb-360-streaming/), except with the ability to adjust the transparency of the lenses. I was apprehensive about how much strain either model would put on my eyes during a full day's work. I did feel some strain on the first day, but my eyes were already acclimated by day two. In general, I don't feel any more strain than I do from staring at a regular computer monitor for hours at a time.
@@ -27,7 +31,15 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
 
 ![XREAL Air 2 Pro AR glasses resting on the bridge of a nose.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/1000060992.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Bertel King / How-To Geek
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  I Sit With Better Posture
 
@@ -43,15 +55,7 @@ Bertel King / How-To Geek
 
 ![A desk without a monitor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/1000061003.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Bertel King / How-To Geek
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  I Love the Portability
 
@@ -62,10 +66,6 @@ Bertel King / How-To Geek
  The XREAL Air 2 Pro glasses come with a case that, while larger than your typical glasses case, can still fit in a purse or other small everyday carry bags. To watch videos, I only need to grab my glasses when I go somewhere.
 
 ![A Samsung Galaxy Z Fold 5, XREAL Air 2 Pro AR Glasses, and glasses case.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/1000061021.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Bertel King / How-To Geek
 
@@ -78,7 +78,7 @@ Bertel King / How-To Geek
  Wearing AR glasses is a bit like making a switch from Bluetooth speakers to Bluetooth earbuds. The former tunes people in to what you're listening to, while the latter is completely private. The thing is, while we've had decades to get used to this with audio, it's pretty new for video. When I'm alone, AR glasses are awesome, but I feel weird when I'm wearing them around others.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Great for Working Around Kids
@@ -98,7 +98,7 @@ Bertel King / How-To Geek
  Playing video games is arguably even better. Games that don't play nice with my foldable's aspect ratio look just fine on the standard 16:9 ratio of the glasses. With just a game controller, I can feel like I'm sitting in front of a console wherever I am.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  All Isn't Perfect
@@ -126,15 +126,20 @@ Bertel King / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-mastering-flight-a-look-at-dji-phantom-3-professional/"><u>[New] Mastering Flight A Look at DJI Phantom 3 Professional</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-discovering-social-medias-top-5-innovations-in-fb/"><u>[Updated] In 2024, Discovering Social Media’s Top 5 Innovations in FB</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-quickcapture-ultimate-scan/"><u>[Updated] In 2024, QuickCapture Ultimate Scan</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-proven-steps-to-enhance-your-facetime-call-experience/"><u>2024 Approved Proven Steps to Enhance Your FaceTime Call Experience</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-superior-solutions-top-bdr-softwares-for-windows-macos/"><u>2024 Approved Superior Solutions Top BDR Softwares for Windows, macOS</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-voice-memo-reference-manual/"><u>2024 Approved The Ultimate Voice Memo Reference Manual</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-and-setup-guide-magic-mouse-software-for-windows-pcs/"><u>Download and Setup Guide: Magic Mouse Software for Windows PCs</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fix-dpc-watchguard-violation-mistake-fast-a-step-by-step-guide/"><u>Fix DPC Watchguard Violation Mistake Fast: A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-lava-yuva-2-pro-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Lava Yuva 2 Pro Phone Screen?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-scrolling-through-engaging-youtube-remarks-for-2024/"><u>The Ultimate Guide to Scrolling Through Engaging YouTube Remarks for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-effortless-capture-iphones-dual-task-technique/"><u>[New] 2024 Approved Effortless Capture IPhone's Dual-Task Technique</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-how-to-vanish-obscuring-elements-and-sharpen-your-images-in-affinity-photo/"><u>[New] In 2024, How to Vanish Obscuring Elements and Sharpen Your Images in Affinity Photo</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-mastering-video-posts-twitter-no-retweets-needed-for-2024/"><u>[New] Mastering Video Posts Twitter, No Retweets Needed for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-spotting-gone-from-your-friend-list/"><u>[New] Spotting Gone From Your Friend List</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-8-srt-conversion-websites-without-a-cost/"><u>[New] Top 8 SRT Conversion Websites Without a Cost</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-guide-to-high-quality-cost-free-webm-viewers/"><u>[New] Ultimate Guide to High-Quality, Cost-Free WebM Viewers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-energetic-speaker-review-iteration-viii-for-2024/"><u>[Updated] Energetic Speaker Review - Iteration VIII for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-subtitle-converters-no-cost-for-srt-files/"><u>2024 Approved Top 10 Subtitle Converters, No Cost for SRT Files</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-total-gb-for-24-hour-movie-size/"><u>2024 Approved Total GB for 24-Hour Movie Size</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722992481669-beat-the-lag-advanced-fixes-for-improving-fallout-nuked-earths-quality-how-to-optimize-your-fps-now/"><u>Beat the Lag: Advanced Fixes for Improving Fallout Nuked Earth's Quality - How to Optimize Your FPS Now</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/file-format-and-extension-of-filename-dont-match-in-excel-2016-file-by-stellar-guide/"><u>File Format and Extension of filename dont Match in Excel 2016 File</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-toontech-full-evaluation-and-how-to-guide-24/"><u>In 2024, ToonTech Full Evaluation & How-To Guide '24</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-10-high-quality-blu-ray-software-variants-pcmac/"><u>In 2024, Top 10 High-Quality Blu-Ray Software Variants (PC/Mac)</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210124120-9781475857238-teach-like-a-human/"><u>Teach Like a Human | Free Book</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-360-live-streaming-cameras-for-youtube-and-facebook-you-should-know-for-2024/"><u>Top 360 Live Streaming Cameras for Youtube and Facebook You Should Know for 2024</u></a></li>
 </ul></div>
 

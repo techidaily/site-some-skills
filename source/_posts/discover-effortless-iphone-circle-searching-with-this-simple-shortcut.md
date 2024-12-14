@@ -1,7 +1,7 @@
 ---
 title: Discover Effortless iPhone Circle Searching with This Simple Shortcut
-date: 2024-11-30T21:06:58.422Z
-updated: 2024-12-07T23:48:52.275Z
+date: 2024-12-09T16:02:28.696Z
+updated: 2024-12-13T21:23:29.883Z
 tags:
   - mobile
 categories:
@@ -42,16 +42,12 @@ Justin Duino / How-To Geek
 ![Screenshot of the iPhone's Shortcuts app highlighting the option to add a shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-3.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Tap on "Add Action."
 
 ![Screenshot of the Add Action button in iPhone's Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-2.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  On the following screen, type "take screenshot" in the search bar (at the top) and select the right option.
 
@@ -61,9 +57,17 @@ Justin Duino / How-To Geek
 
 ![Search Image with Lens shortcut for iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  With the selected actions, the shortcut flow should look like the screenshot attached below. Once you're set, tap "Done" in the top right corner.
 
 ![Screenshot of iPhone's Shortcut app highlighting the Done option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/7-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now, we need to link this shortcut to the Back Tap gesture or Action Button on certain iPhone models. Since I use an iPhone 13, I'll use [the Back Tap accessibility feature](https://ai-live-streaming.techidaily.com/updated-in-2024-10-free-football-streaming-sites-to-bookmark/) to trigger the shortcut we've just created.
 
@@ -71,24 +75,20 @@ Justin Duino / How-To Geek
 
 ![Screenshot of the Back Tap option in iPhone's Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/8-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Choose whether you want to trigger the shortcut from a double or triple tap. I'm going with double tap.
 
 ![Screenshot of the Back Tap option in iPhone's Settings section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/9.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Scroll to the bottom and select "Search Image with Lens" in the Shortcuts menu.
 
 ![Search Image with Lens in iPhone's Back Tap menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/10.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Use Back Tap to Invoke Google Lens' Visual Search
@@ -120,16 +120,22 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-recirculate-artists-bundle/"><u>[New] Recirculate Artist's Bundle</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-the-fastest-route-for-srt-to-text-file-conversion-for-2024/"><u>[New] The Fastest Route for SRT to Text File Conversion for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unleashing-creativity-in-micro-videography-and-photography/"><u>[New] Unleashing Creativity in Micro Videography and Photography</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-streamlining-your-digital-liftoffs-using-vlc-for-mp4-and-more/"><u>2024 Approved Streamlining Your Digital Liftoffs Using VLC for MP4 and More</u></a></li>
-<li><a href="https://win11.techidaily.com/disabling-all-chromium-notifications-in-windows-pc/"><u>Disabling All Chromium Notifications in Windows PC</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-samsung-galaxy-s23-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Samsung Galaxy S23 Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-20plus-cool-metaverse-memes-a-deep-dive-guide/"><u>In 2024, 20+ Cool Metaverse Memes A Deep Dive Guide</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-state-of-the-art-methods-for-documenting-digital-education/"><u>In 2024, State-of-the-Art Methods for Documenting Digital Education</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-picks-for-online-classical-tone-downloads/"><u>In 2024, Top Picks for Online Classical Tone Downloads</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-taleweavers-toolkit-ai-and-chatgpt-as-storytelling-allies/"><u>The Taleweaver's Toolkit: AI and ChatGPT as Storytelling Allies</u></a></li>
-<li><a href="https://some-tips.techidaily.com/uncover-the-best-android-photo-editor-does-picku-stand-out-in-2024/"><u>Uncover the Best Android Photo Editor – Does PickU Stand Out, In 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-10-premium-luts-available-for-free/"><u>[New] Top 10 Premium LUTs, Available for FREE</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gratis-design-elements-for-youtube-channel-for-2024/"><u>[Updated] Gratis Design Elements for YouTube Channel for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-15-film-enhancing-luts-for-gopro-cameras/"><u>[Updated] Top 15 Film-Enhancing LUTs for GoPro Cameras</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-dji-airborne-prototype-scrutiny/"><u>2024 Approved DJI Airborne Prototype Scrutiny</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-professional-tiktok-videos-with-strategic-zoom-use/"><u>2024 Approved Professional TikTok Videos with Strategic Zoom Use</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-6-nft-platforms-unlocking-creativity-for-artists/"><u>2024 Approved Top 6 NFT Platforms Unlocking Creativity for Artists</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-understanding-av1-a-first-step-for-beginners/"><u>2024 Approved Understanding AV1 A First Step for Beginners</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-review-of-nokia-31-your-gateway-to-modern-communication/"><u>Expert Review of Nokia 3.1 - Your Gateway to Modern Communication</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-master-the-art-of-attraction-8-proven-techniques-for-reel-success/"><u>In 2024, Master the Art of Attraction 8 Proven Techniques for Reel Success</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-rebooting-your-windows-photo-viewer-two-procedures-for-w10/"><u>In 2024, Rebooting Your Windows Photo Viewer Two Procedures for W10</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-swift-and-free-eradicate-red-eye-in-iphone-photography-tips/"><u>In 2024, Swift and FREE Eradicate Red-Eye in iPhone Photography Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/reclaiming-your-social-media-presence-steps-to-password-reset-sans-emailphone/"><u>Reclaiming Your Social Media Presence: Steps to Password Reset Sans Email/Phone</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-media-success-stories-elevating-your-fanbase-with-fb-mastery/"><u>Social Media Success Stories: Elevating Your Fanbase with FB Mastery</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-archivists-arsenal-pivotal-80s-vhs-tricks-for-editors-for-2024/"><u>The Archivist’s Arsenal Pivotal 80S VHS Tricks for Editors for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-virtual-worlds-top-10-pc-games-for-ultimate-vr-experience-for-2024/"><u>Unlock Virtual Worlds Top 10 PC Games for Ultimate VR Experience for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-the-potential-of-windows-movie-maker-in-windows-8-environments-for-2024/"><u>Unlocking the Potential of Windows Movie Maker in Windows 8 Environments for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unravel-crime-scenes-with-these-top-4-advanced-ai-detective-games-sharpen-your-deduction-skills/"><u>Unravel Crime Scenes with These Top 4 Advanced AI Detective Games - Sharpen Your Deduction Skills</u></a></li>
 </ul></div>
 

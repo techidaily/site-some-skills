@@ -1,7 +1,7 @@
 ---
 title: "Bridging Operating Systems: A Comprehensive Guide to Using Ubuntu Software on Your Windows 11 Machine"
-date: 2024-12-01T02:37:23.231Z
-updated: 2024-12-07T20:32:30.315Z
+date: 2024-12-08T19:32:03.848Z
+updated: 2024-12-13T22:26:25.382Z
 tags:
   - deals
 categories:
@@ -11,16 +11,16 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 
 ## Bridging Operating Systems: A Comprehensive Guide to Using Ubuntu Software on Your Windows 11 Machine
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Install WSL2 Kernel, activate Virtual Machine Platform, and make sure you have Admin rights before getting Ubuntu on Windows 11.
 * Enable Windows Subsystem for Linux, then download and install Ubuntu for WSL via Microsoft Store to run Linux apps on Windows 11.
 
  Did you know using Ubuntu-exclusive apps doesn't require overwriting your operating system? Unlock the true potential of your Windows desktop by using Ubuntu apps on Windows 11, enhancing your PC experience by blending the power of Linux and Windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Why Use Ubuntu Apps on Windows 11?
 
@@ -48,13 +48,13 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 
 ![WSL feature being turned on in Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/flameshot-wsl-check-box.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now that the "OK" button has been selected, Windows 11 will begin setting up WSL on your system. This setup process should take a few minutes to complete. When the setup is complete, you must reboot your Windows PC. Select the "Restart now" button to reboot.
 
  Upon rebooting, log back into your Windows 11 desktop. Once you've logged back in, the Windows Subsystem for Linux will be enabled on Windows 11.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Installing Ubuntu
 
@@ -75,18 +75,18 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 ![Ubuntu WSL is installing itself to Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-ubuntu-is-installing.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once Ubuntu has finished its setup on Windows 11, you will see an empty terminal window, ready for you to interact with Ubuntu on your Windows 11 system.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Basic Configuration Tips
 
  Here are some basic configuration tips to improve the WSL experience on Windows 11.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Windows and Linux File System Integration
 
@@ -98,9 +98,17 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 
 ![Ubuntu WSL's file access in the Windows 11 Explorer app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-selecting-ub.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To access Windows files from Ubuntu, navigate to the **/mnt/c** folder using the cd command. This method provides interaction with the Windows 11 **C:/** drive.
 
 cd /mnt/c
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Update your Ubuntu WSL app
 
@@ -136,15 +144,7 @@ nohup program_name & disown
 
 ![Linux apps Kdenlive and Wireshark are running inside of Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-kdenlive-and-wireshark-open.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Alternatively, applications can be started from the Windows 11 start menu.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Integration with Windows 11
 
@@ -179,19 +179,20 @@ wsl --update
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-futures-canvas-unveiling-6-pioneers-of-nft-artistry/"><u>[New] The Future's Canvas Unveiling 6 Pioneers of NFT Artistry</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-5-cloud-based-voice-customizers-for-chrome-os-vocal-transformation-tools-reviewed/"><u>[New] Top 5 Cloud-Based Voice Customizers for Chrome OS Vocal Transformation Tools Reviewed</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-turn-off-youtube-previews-on-all-devices/"><u>[Updated] Turn Off YouTube Previews on All Devices</u></a></li>
-<li><a href="https://win-blog.techidaily.com/gratis-omzettingen-3gpp-dokuments-in-online-bewerking-movavi/"><u>Gratis Omzettingen: 3GPP-Dokuments In Online Bewerking - Movavi</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-iphone-transfer-transfer-contact-from-apple-iphone-8-plus-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, iPhone Transfer Transfer Contact from Apple iPhone 8 Plus to iPhone without iCloud | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streaming-success-without-xsplit/"><u>In 2024, Streaming Success Without Xsplit</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-from-apple-iphone-se-2020-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID From Apple iPhone SE (2020) Making It Possible</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/kit-list-for-road-trip-movie-making/"><u>Kit List for Road-Trip Movie Making</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/next-gen-clarity-in-depth-review-of-best-8k-monitors-for-2024/"><u>Next-Gen Clarity In-Depth Review of Best 8K Monitors for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/revamping-controls-the-god-of-war-evolution/"><u>Revamping Controls: The 'God of War' Evolution</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211314264-9781440543883-the-art-of-mandala-meditation/"><u>The Art of Mandala Meditation | Free Book</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-best-softbox-lighting-kits-of-2024/"><u>The Best Softbox Lighting Kits of 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-access-royalty-free-clip-art-tips-for-2024/"><u>Unlocking Access Royalty-Free Clip Art Tips for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-engagement-top-5-compelling-book-trailers-for-2024/"><u>Unlocking Engagement Top 5 Compelling Book Trailers for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-harnessing-the-full-spectrum-of-creativity-with-luts-in-video-editing/"><u>[New] In 2024, Harnessing the Full Spectrum of Creativity with LUTs in Video Editing</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/riple-points-tracker-the-effective-pathway-to-analyzing-youtube-profitability-for-2024/"><u>[New] Triple Points Tracker The Effective Pathway to Analyzing YouTube Profitability for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-top-picks-next-gen-vr-handwear/"><u>[New] Unveiling Top Picks Next Gen VR Handwear</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-how-to-upgrade-or-install-the-macos-sierra/"><u>[Updated] How to Upgrade or Install the macOs Sierra</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-the-full-capabilities-of-morphvox-voice-alteration/"><u>[Updated] Unlocking the Full Capabilities of MorphVOX Voice Alteration</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-top-rated-srt-translators-for-zero-cost/"><u>2024 Approved Unveiling the Top-Rated SRT Translators for Zero Cost</u></a></li>
+<li><a href="https://techtrends.techidaily.com/iphoneandroidpc/"><u>無料アプリを使って試せる! どんなデバイスでも安心してiPhone・Android・PC動画からの画像取り出し方法</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/best-iexplorer-substitutes-for-effortless-iphone-file-management-and-transfers/"><u>Best iExplorer Substitutes for Effortless iPhone File Management and Transfers</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210011865-9781071540930-escrever-para-ser-feliz/"><u>Escrever para ser feliz | Free Book</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mp4-files-on-edge-40-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How do you play MP4 files on Edge 40?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-honor-80-pro-straight-screen-edition-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Honor 80 Pro Straight Screen Edition</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-tecno-spark-20mirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Tecno Spark 20Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlock-the-power-of-animation-infusing-life-into-your-ig-story-texts/"><u>In 2024, Unlock the Power of Animation Infusing Life Into Your IG Story Texts</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-youtube-subscriber-awards-the-play-button-awards-for-creators/"><u>In 2024, YouTube Subscriber Awards! The Play Button Awards for Creators</u></a></li>
+<li><a href="https://some-skills.techidaily.com/swiftly-navigate-ios-magnification-features-for-2024/"><u>Swiftly Navigate iOS Magnification Features for 2024</u></a></li>
 </ul></div>
 

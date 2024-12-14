@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Updating Software in Windows 11: A Simple Process"
-date: 2024-12-04T18:41:34.716Z
-updated: 2024-12-07T19:47:56.308Z
+date: 2024-12-08T02:45:35.178Z
+updated: 2024-12-13T21:42:58.342Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d
 ## The Ultimate Guide to Updating Software in Windows 11: A Simple Process
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d
 * [How to Update Non-Microsoft Store Apps](https://extra-hints.techidaily.com/navigate-subtitle-installation-in-wmp-easily/)
 * [How to Update Apps Using Command Prompt](https://youtube-videos.techidaily.com/free-themes-for-dynamic-youtuber-profiles/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * To update Microsoft Store apps, open the Store app, select "Library," and choose "Update" next to an app or select "Update All."
@@ -28,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d
 * To update apps from command line, use the winget command in an elevated Command Prompt window.
 
  Keeping your installed apps up to date is important, and Windows 11 makes it super easy to update both Microsoft Store and non-Microsoft Store apps. We’ll show you how to use graphical methods, as well as a command-line method to bring your apps up to date.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Update Microsoft Store Apps
 
@@ -45,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d
 
 !['Library' highlighted in Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-microsoft-store-library.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On the Library page, in the Updates and Downloads section, you’ll find the apps due for an update.
 
  To update a specific app, next to that app’s name, click the "Update" button. To update all your apps at once, at the top of the page, click the "Update All" button.
@@ -52,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d
 !['Update All' highlighted in Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/12-update-apps-microsoft-store.jpg) 
 
  Wait for the Store to download and install the updates for your apps. Once that’s done, you can launch your apps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  How to Enable Automatic Updates in Microsoft Store
 
@@ -63,14 +71,10 @@ thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d
 
 !['App Updates' highlighted in Microsoft Store Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-microsoft-store-disable-app-updates.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In the future, to prevent the Store from automatically updating apps, turn off the "App Updates" option. We recommend keeping the option turned on, but if you’re on a metered connection, you might not want the Store to use so much of your internet data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Update Non-Microsoft Store Apps
@@ -81,19 +85,11 @@ thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d
 
 ![Help > Check for Updates highlighted in VLC Media Player.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-update-vlc.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Similarly, in Spotify, you can select Help > About Spotify and choose "Click Here to Download" if an update is available.
 
  Some apps, like 7-Zip, don’t offer the update option in the app. In these cases, you’ll have to visit the app developer’s site, download the latest app installer, and run the installer to replace the current app version with the latest one. This will bring your app up to date.
 
 !['Download' options highlighted on the 7-Zip website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-update-7-zip.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Update Apps Using Command Prompt
 
@@ -110,6 +106,10 @@ thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d
 winget upgrade
 
 !['winget upgrade' command typed in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/10-list-update-apps-winget.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You’ll see the installed apps, their current versions, and the latest versions you can update them to.
 
@@ -146,24 +146,24 @@ winget upgrade -h -all
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-channel-finale-101-insider-tricks-for-successful-outros/"><u>[New] 2024 Approved Channel Finale 101 Insider Tricks for Successful Outros</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-tips-for-quickerslower-video-in-instagram-stories/"><u>[New] Tips for Quicker/Slower Video in Instagram Stories</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-emoji-tips-for-yt-comments-a-quick-guide/"><u>[Updated] 2024 Approved Emoji Tips for YT Comments A Quick Guide</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-become-a-livestream-king-the-best-webcams-for-youtube-stars/"><u>[Updated] In 2024, Become a Livestream King The Best Webcams for YouTube Stars</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-docu-script-writers-guide/"><u>[Updated] The Docu-Script Writer's Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-list-all-rounder-camcorders/"><u>[Updated] Ultimate List All-Rounder Camcorders</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unrivaled-narratives-crafted-in-eight-film-fields/"><u>[Updated] Unrivaled Narratives Crafted in Eight Film Fields</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-aspect-ratio-checklist-for-editors-and-directors/"><u>2024 Approved The Ultimate Aspect Ratio Checklist for Editors and Directors</u></a></li>
-<li><a href="https://win-web3.techidaily.com/202cwindowssd/"><u>完全指南202C：将Windows计算机上的视频数据移动到SD卡上</u></a></li>
-<li><a href="https://extra-information.techidaily.com/chucklecanvas-draw-hilarious-social-media-art-for-2024/"><u>ChuckleCanvas Draw Hilarious Social Media Art for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-guide-resolving-problems-when-teredo-does-not-qualify-network-access/"><u>Expert Guide - Resolving Problems When Teredo Does Not Qualify Network Access</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-vivo-y100i-power-5g-by-drfone-android/"><u>How to Bypass FRP from Vivo Y100i Power 5G?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-strategy-revealed-a-box-opening-narrative/"><u>In 2024, Strategy Revealed A Box-Opening Narrative</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-creative-curator-essential-zero-price-text-psds/"><u>In 2024, The Creative Curator Essential, Zero-Price Text PSDS</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-timeless-1980s-filters-and-techniques-in-editing/"><u>In 2024, Timeless 1980S Filters & Techniques in Editing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unleash-creativity-in-photography-essential-pixlr-hacks/"><u>In 2024, Unleash Creativity in Photography Essential Pixlr Hacks</u></a></li>
-<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Oppo K11x? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-dxgi-error-messages-windows-1011/"><u>Navigating Through DXGI Error Messages (Windows 10/11)</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/premium-zero-cost-switch-gaming-experience/"><u>Premium Zero Cost Switch Gaming Experience</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-harness-free-software-to-broadcast-virtual-events/"><u>[New] 2024 Approved Harness Free Software to Broadcast Virtual Events</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-youtube-shorts-description-everything-you-need-to-know/"><u>[New] In 2024, YouTube Shorts Description Everything You Need to Know</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-comprehensible-method-for-ifunny-meme-downloads/"><u>[New] The Comprehensible Method for iFunny Meme Downloads</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-the-monetary-reality-of-being-a-podcaster-for-2024/"><u>[New] The Monetary Reality of Being a Podcaster for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-streamline-projects-with-free-video-intros/"><u>[Updated] Streamline Projects with Free Video Intros</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamlining-srt-file-integration-on-digital-platforms/"><u>[Updated] Streamlining SRT File Integration on Digital Platforms</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-quick-guide-to-modifying-your-vocal-characteristics-in-pubg/"><u>[Updated] The Quick Guide to Modifying Your Vocal Characteristics in PUBG</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-understanding-the-video-space-in-high-capacity-drives/"><u>2024 Approved Understanding the Video Space in High-Capacity Drives</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-the-potential-of-adobe-and-exploring-others/"><u>2024 Approved Unlocking the Potential of Adobe & Exploring Others</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/5-essential-steps-to-prevent-blank-screen-issues-in-obs-for-2024/"><u>5 Essential Steps to Prevent Blank-Screen Issues in OBS for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-oneplus-11r-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for OnePlus 11R Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/blooming-cat-wallpaper-collections-by-yl-computing-unique-floral-backdrops-and-designs/"><u>Blooming Cat Wallpaper Collections by YL Computing: Unique Floral Backdrops & Designs</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210970014-9781088231623-el-amor-jamas-te-olvida/"><u>El Amor Jamás te Olvida | Free Book</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-missing-d3dx933dll-issues-for-smooth-computer-performance/"><u>Fixing Missing d3dx9_33.dll Issues for Smooth Computer Performance</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-turning-still-memories-into-moments-in-motion/"><u>In 2024, Turning Still Memories Into Moments in Motion</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-choice-elite-desktop-pcs/"><u>In 2024, Ultimate Choice Elite Desktop PCs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-notch-passport-pictures-create-and-save-with-our-free-tool-for-2024/"><u>Top-Notch Passport Pictures - Create and Save with Our Free Tool for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-hidden-power-of-windows-11-for-2024/"><u>Unveiling the Hidden Power of Windows 11 for 2024</u></a></li>
 </ul></div>
 

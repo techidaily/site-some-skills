@@ -1,7 +1,7 @@
 ---
 title: "Demystifying Cryptocurrency Mining: A Comparison Between Proof of Work and Proof of Stake"
-date: 2024-11-30T19:48:33.840Z
-updated: 2024-12-07T19:48:39.500Z
+date: 2024-12-10T01:16:53.072Z
+updated: 2024-12-14T00:40:47.333Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/dc4cacbc8b493fc632f86712912ebd59bbc9ecbef
 ## Demystifying Cryptocurrency Mining: A Comparison Between Proof of Work and Proof of Stake
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/dc4cacbc8b493fc632f86712912ebd59bbc9ecbef
  Despite being such a new technology, there is a long-standing debate about the best method blockchains use to verify transactions and add them to the blockchain. The debate is between proof of work and proof of stake, and there are cryptocurrencies that use each.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Proof of What?
@@ -39,7 +39,7 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
  An understanding of proof of work and proof of stake helps establish foundational knowledge on the value of blockchain technology, the pros and cons of different consensus methods, and the current state of affairs in cryptocurrencies.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Miners at Work
@@ -51,7 +51,7 @@ Related: [What Is Crypto Mining, and How Does It Work?](https://vimeo-videos.tec
  In order to mine the next block and earn their reward, miners must solve extremely complex math problems. These problems are solved quickest with the help of powerful computers that run 24/7 to solve the problem associated with the next block. One of the benefits of proof of work is that less powerful computers can pool resources together to compete with the stronger computers for these rewards. This feature ensures an individual with a large amount of computing power cannot centralize block creation or act maliciously.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Validators and Staking
@@ -61,7 +61,7 @@ Related: [What Is Crypto Mining, and How Does It Work?](https://vimeo-videos.tec
  The proof of stake consensus mechanism selects validators at random, but those validators with the most money that has been staked the longest increase their chances of creating the next block. Similar to how miners with less powerful computers can group together on proof of work, validators on proof of stake can pool their money together to compete with other validators that might have more block-creating power. This is known as a staking pool.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Big Picture
@@ -91,14 +91,19 @@ Related: [What Is "Ethereum 2.0" and Will It Solve Crypto's Problems?](https://u
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-the-complete-guide-to-android-time-lapse-creation/"><u>[New] 2024 Approved The Complete Guide to Android Time-Lapse Creation</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unveiling-exclusive-templates-for-tiktok-backdrops/"><u>[New] Unveiling Exclusive Templates for TikTok Backdrops</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-skyrocket-engagement-with-youtubes-powerful-featured-channels-strategy/"><u>[Updated] Skyrocket Engagement with Youtube’s Powerful Featured Channels Strategy</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-undertaking-decoding-digital-picture-resolutions/"><u>[Updated] Ultimate Undertaking Decoding Digital Picture Resolutions</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-major-firstrow-pursuits-that-arent-games/"><u>2024 Approved Major Firstrow Pursuits That Aren't Games</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-standout-reddit-content-an-exclusive-look-at-top-10-threads/"><u>2024 Approved Standout Reddit Content An Exclusive Look at Top 10 Threads</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-error-0x887a0006-on-windows-devices/"><u>Addressing Error 0X887A0006 on Windows Devices</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-avatar-genius-the-easy-guide-to-metaverse-creation/"><u>In 2024, Avatar Genius The Easy Guide to Metaverse Creation</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlock-your-dji-potential-two-devices-get-20-gratis-luts-for-2024/"><u>Unlock Your DJI Potential – Two Devices Get 20 Gratis LUTs for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-podcasters-playground-unleashing-full-potential-in-video-and-audio-recording-on-zoom/"><u>[New] Podcaster's Playground Unleashing Full Potential in Video and Audio Recording on Zoom</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-top-5-drones-experts-choice-revealed/"><u>[New] Ultimate Top 5 Drones - Expert's Choice Revealed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-turning-chaos-into-clarity-in-your-burdened-tiktok-archive/"><u>[Updated] Turning Chaos Into Clarity in Your Burdened TikTok Archive</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-boost-your-movie-magic-free-text-animation-basics/"><u>2024 Approved Boost Your Movie Magic Free Text Animation Basics</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-8-metaverse-headsets-and-glasses-to-dive-into-metaverse/"><u>2024 Approved Top 8 Metaverse Headsets and Glasses to Dive Into Metaverse</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unparalleled-harmony-collector-android-based/"><u>2024 Approved Unparalleled Harmony Collector, Android-Based</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/elevate-your-sims-gaming-with-recording-expertise/"><u>Elevate Your Sims Gaming with Recording Expertise</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-is-av1-really-outdo-cooking-vp9/"><u>In 2024, Is AV1 Really Outdo Cooking VP9?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-monetization-magic-geek-channels/"><u>In 2024, Monetization Magic Geek Channels</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-secrets-to-effective-video-tagging-revealed-here/"><u>In 2024, Secrets to Effective Video Tagging Revealed Here!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-filmora-its-10-most-attractive-features/"><u>In 2024, Unveiling Filmora Its 10 Most Attractive Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/invest-in-top-tier-coders-for-optimal-results-unlocking-microsofts-secrets-revealed-by-zdnet/"><u>Invest in Top-Tier Coders for Optimal Results: Unlocking Microsoft’s Secrets Revealed by ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-inside-scoop-on-chatgpt-revolutionizing-natural-language-interaction/"><u>The Inside Scoop on ChatGPT: Revolutionizing Natural Language Interaction</u></a></li>
+<li><a href="https://some-skills.techidaily.com/time-travelers-treasure-a-look-at-goofy-movie-for-2024/"><u>Time Traveler’s Treasure A Look at 'Goofy Movie' For 2024</u></a></li>
 </ul></div>
 

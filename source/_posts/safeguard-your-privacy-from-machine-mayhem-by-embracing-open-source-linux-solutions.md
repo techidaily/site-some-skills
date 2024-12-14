@@ -1,7 +1,7 @@
 ---
 title: Safeguard Your Privacy From Machine Mayhem by Embracing Open Source Linux Solutions
-date: 2024-12-05T23:14:07.667Z
-updated: 2024-12-07T20:29:07.126Z
+date: 2024-12-11T00:30:28.811Z
+updated: 2024-12-13T19:42:44.522Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Safeguard Your Privacy From Machine Mayhem by Embracing Open Source Linux Solutions
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -24,7 +24,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Every other app and service now seems to be tacking on AI functionality to try to entice weary users or satisfy shareholders. Sometimes, AI features work well. Often, it just results in junk output (at least for now) and a privacy nightmare. Here's how Linux can help you escape the AI apocalypse.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Everyone Is Adding AI to Their Products and Services
@@ -38,7 +38,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  This effort to add AI to everything isn't stopping, despite users' trepidation. Windows, MacOS, and iOS are all plowing ahead with new AI features, and at no cost to you. This raises the question of how they plan on profiting from it (hint, the answer is probably by monetizing the data you feed to them).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  For AI to Work, It Needs to Scrape Your Data
@@ -52,7 +52,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  This doesn't just make AI output unoriginal, It's a massive privacy issue: how can you be sure some details of your private life that have been submitted to an AI platform won't be used to generate someone else's short story, business email, to create images, or just [revealed to the public outright](https://www.businessinsider.com/google-researchers-openai-chatgpt-to-reveal-its-training-data-study-2023-12 "https://www.businessinsider.com/google-researchers-openai-chatgpt-to-reveal-its-training-data-study-2023-12")?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Take Control Back By Switching to Linux
@@ -60,7 +60,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The Kubuntu Focus Ir16 Gen 2 laptop open on a desk in front of speakers and a headset.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/53784641964_d7cc9b8262_o.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -88,16 +88,17 @@ Jerome Thomas / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-mastering-audio-file-transformation-srt-to-xmlssattml/"><u>[New] Mastering Audio File Transformation SRT to XML/SSA/TTML</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-syncing-yt-beats-with-visual-timelines/"><u>[New] Syncing YT Beats with Visual Timelines</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unfolding-the-tapestry-of-mixed-reality-experiences/"><u>[New] Unfolding the Tapestry of Mixed Reality Experiences</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-must-know-windows-10-tips-and-tricks/"><u>[Updated] Must-Know Windows 10 Tips and Tricks</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-pixelpartition-review/"><u>[Updated] PixelPartition Review</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-6-economical-action-cams-available-for-99-or-below/"><u>[Updated] Top 6 Economical Action Cams Available for $99 or Below</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-freeze-your-pc-display-effortlessly/"><u>2024 Approved Freeze Your PC Display Effortlessly</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/explore-apples-immersive-3d-spatial-content-on-your-meta-quest-3-a-step-by-step-guide-zdnet/"><u>Explore Apple's Immersive 3D Spatial Content on Your Meta Quest 3: A Step-by-Step Guide | ZDNET</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-huawei-p60-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Huawei P60 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-12-pro-max-passcode-not-working-by-drfone-ios/"><u>How to Fix Apple iPhone 12 Pro Max Passcode not Working?</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-expert-recommendations-free-chat-apps-with-screen-viewing/"><u>In 2024, Expert Recommendations Free Chat Apps with Screen Viewing</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-expertise-amplified-10-must-know-canva-techniques/"><u>[Updated] In 2024, Expertise Amplified 10 Must-Know Canva Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-art-of-iphone-landscapes-pro-techniques-you-must-know/"><u>[Updated] The Art of iPhone Landscapes Pro Techniques You Must Know</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-effective-metaverse-engagement-tactics/"><u>[Updated] Unveiling Effective Metaverse Engagement Tactics</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/churn-out-custom-internet-echo-jokes/"><u>Churn Out Custom Internet Echo Jokes</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-apple-iphone-8-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Music from Apple iPhone 8 to iPod touch | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-motorola-moto-g14-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Motorola Moto G14 Devices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-viewing-vistas-backdrop-recommendations/"><u>In 2024, Ultimate Viewing Vistas Backdrop Recommendations</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/seamless-integration-making-your-youtube-videos-available-on-facebook/"><u>Seamless Integration Making Your YouTube Videos Available on Facebook</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-downloading-and-installing-focusrite-scarlett-2i4-drivers-windows/"><u>Step-by-Step Tutorial: Downloading & Installing Focusrite Scarlett 2I4 Drivers (Windows)</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-xiaomi-civi-3-disney-100th-anniversary-edition-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Xiaomi Civi 3 Disney 100th Anniversary Edition Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-choices-animation-friendly-3d-model-tools-for-2024/"><u>Top Choices Animation-Friendly 3D Model Tools for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tread-lightly-in-the-digital-jungle-vr-fitness-machines-examined-for-2024/"><u>Tread Lightly in the Digital Jungle VR Fitness Machines Examined for 2024</u></a></li>
 </ul></div>
 

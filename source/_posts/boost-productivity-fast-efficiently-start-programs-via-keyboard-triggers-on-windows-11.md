@@ -1,7 +1,7 @@
 ---
 title: "Boost Productivity Fast: Efficiently Start Programs via Keyboard Triggers on Windows 11"
-date: 2024-12-04T23:49:43.903Z
-updated: 2024-12-07T23:13:08.943Z
+date: 2024-12-08T22:34:39.652Z
+updated: 2024-12-14T02:56:12.345Z
 tags:
   - deals
 categories:
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 
  If you access particular Windows apps regularly, it can take time to launch them by rummaging through the Start menu. Handily, Windows 11 lets you create custom keyboard shortcuts to quickly open your favorite programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Use Taskbar Shortcuts to Open Apps
 
  One of the [awesome features of the Windows 11 taskbar](https://extra-hints.techidaily.com/brighten-your-iphones-nighttime-recordings/) is the ability to pin your frequently used applications to it. Once pinned, you can use the Windows+AppNumber shortcut to launch it. Here, "AppNumber" is the order in which the app appears on the taskbar.
@@ -33,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 ![Pinning an app to the Taskbar on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/pin-to-taskbar-2.jpeg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once pinned to the taskbar, click and drag the icons to move them to a different position.
@@ -45,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
  In the screenshot below, File Explorer is first and Steam (highlighted) is fourth. This is because we don't count the Windows button, the search bar, or the task view icon. Since Steam is fourth, I can launch it by pressing Windows+4.
 
 ![Windows 11 with the Steam app pinned to the Taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/windows-steam-taskbar-1.jpeg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  While this method is fairly simple, its biggest drawback is that you can only use the taskbar shortcuts for a maximum of ten applications, with Win+0 being the key combination to launch the tenth.
 
@@ -60,6 +60,10 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 
 ![A screenshot of Windows 11 depicting the Properties option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/windows-11-properties-1.jpeg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Within the "Shortcut Key" field, press a key. This creates a shortcut using the Ctrl and Alt keys. For example, in the screenshot below, I pressed "A" which created a shortcut of Ctrl + Alt + A. Once done, click "OK".
 
 ![Setting a shortcut key from the Properties window on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/properties-shortcut-key.jpeg) 
@@ -68,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 
  You can change "Ctrl + Alt" to "Shift + Alt" if you hold those keys while pressing your other desired key. Overall, though, this method is a bit limiting because you don't have complete control over the keys used.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Use PowerToys to Open Apps
 
 [PowerToys adds lots of useful features to Windows](https://facebook-video-footage.techidaily.com/updated-2024-approved-auto-play-youtube-iphoneandroid-no-notification/). It's an official Microsoft utility, which you can download through the [Microsoft Store](https://apps.microsoft.com/detail/xp89dcgq3k6vld). One component of PowerToys is the Keyboard Manager, which lets you remap keys and create your own shortcuts. It offers more freedom compared to the previous methods.
@@ -79,6 +79,10 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
  To begin, open PowerToys and navigate to the Keyboard Manager. Turn the "Enable Keyboard Manager" toggle on if it's not already, then select "Remap a shortcut."
 
 ![PowerToys Keyboard Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/powertoys-keyboard-manager.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To create your shortcut, first click "Add Shortcut Remapping." Click the pencil next to "Shortcut" and press the keys for your shortcut, then "OK" when done.
 
@@ -89,14 +93,10 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 ![Remapping a shortcut in PowerToys.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/remapping-a-shortcut-in-powertoys.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you ever want to delete a shortcut, return to this screen and click the trash can.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Use AutoHotkey to Open Apps
 
@@ -154,21 +154,20 @@ Run "C:\Program Files (x86)\Steam\steam.exe"
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-beats-for-beginnings-10-premium-songs-to-launch-your-podcasts/"><u>[New] Beats for Beginnings 10 Premium Songs to Launch Your Podcasts</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-color-calibration-transitioning-from-traditional-rgb-to-srgb/"><u>[New] Color Calibration Transitioning From Traditional Rgb to Srgb</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harnessing-imovies-capabilities-for-youtube-video-perfection/"><u>[New] In 2024, Harnessing iMovie's Capabilities for YouTube Video Perfection</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-transforming-your-reel-game-on-instagram-in-days-for-2024/"><u>[New] Transforming Your Reel Game on Instagram in Days for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unleashing-the-full-power-of-apple-podcasts-downloads/"><u>[Updated] Unleashing the Full Power of Apple Podcasts Downloads</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-screen-selections-for-immersive-xbox-series-x-gaming/"><u>2024 Approved Ultimate Screen Selections for Immersive Xbox Series X Gaming</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/accelerate-your-hevch265-encoding-process-for-enhanced-efficiency/"><u>Accelerate Your HEVC/H.265 Encoding Process for Enhanced Efficiency</u></a></li>
-<li><a href="https://driver-install.techidaily.com/geforce-update-improved-gpu-drivers-gtx-1060/"><u>GeForce Update: Improved GPU Drivers GTX 1060</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-off-facebook-insights-what-they-reveal-and-when-to-turn-them-off/"><u>In 2024, Off-Facebook Insights What They Reveal & When to Turn Them Off</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streaming-services-app-investigation-findings/"><u>In 2024, Streaming Services App Investigation Findings</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-therapeutic-effects-of-asmr-for-everyone/"><u>In 2024, The Therapeutic Effects of ASMR for Everyone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-set-of-free-photo-screen-shifts/"><u>In 2024, Ultimate Set of Free Photo Screen Shifts</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-how-to-change-shape-of-a-video-for-2024/"><u>New How to Change Shape of a Video for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210429009-9780958723053-pathways-to-higher-consciousness/"><u>Pathways to Higher Consciousness | Free Book</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/silent-screen-after-gfx-update/"><u>Silent Screen After GFX Update</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-slomo-app-assessment-insights-for-2024/"><u>Ultimate SloMo App Assessment - Insights for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-quickvid-simplified-w11-screen-capture-software/"><u>[New] In 2024, QuickVid Simplified W11 Screen Capture Software</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-getting-started-with-action-cams-latest-2023-insights/"><u>[Updated] In 2024, Getting Started with Action Cams – Latest 2023 Insights</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-simple-steps-for-incorporating-videos-into-articles/"><u>[Updated] Simple Steps for Incorporating Videos Into Articles</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-techniques-for-non-linear-eq-curves/"><u>[Updated] Techniques for Non-Linear EQ Curves</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-upward-landscapes-with-phones/"><u>2024 Approved The Art of Upward Landscapes with Phones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-best-lipos-a-drone-buyers-bible/"><u>2024 Approved Unveiling the Best LiPos - A Drone Buyer's Bible</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-resolving-bluetooth-is-currently-unavailable-error/"><u>Guide to Resolving 'Bluetooth Is Currently Unavailable' Error</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Poco M6 Pro 4G? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-visuals-master-11-key-techniques-for-color-correction/"><u>In 2024, Transform Your Visuals Master 11 Key Techniques for Color Correction</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlock-clarity-in-photos-leading-10-online-edits-at-a-glance/"><u>In 2024, Unlock Clarity in Photos Leading 10 Online Edits at a Glance</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-ranking-of-smartphone-vr-headsets-for-2024/"><u>The Ultimate Ranking of Smartphone VR Headsets for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-tech-review-lg-65-inch-oled-tv-c9-series-a-game-changer-in-4k-viewing-experience/"><u>The Ultimate Tech Review: LG 65-Inch OLED TV (C9 Series) - A Game Changer in 4K Viewing Experience</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-linux-laptop-picks-for-2-indepth-analysis-by-tech-gurus-zdnet/"><u>Top-Rated Linux Laptop Picks for 2# - InDepth Analysis by Tech Gurus | ZDNET</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-flawless-skin-in-fcpx-a-beginners-guide-to-plugin-free-retouching-for-2024/"><u>Updated Flawless Skin in FCPX A Beginners Guide to Plugin-Free Retouching for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-nokia-c210-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Nokia C210 | Dr.fone</u></a></li>
 </ul></div>
 

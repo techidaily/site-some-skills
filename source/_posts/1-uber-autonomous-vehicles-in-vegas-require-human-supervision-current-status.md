@@ -1,7 +1,7 @@
 ---
 title: "1. Uber Autonomous Vehicles in Vegas Require Human Supervision: Current Status"
-date: 2024-12-02T23:17:03.683Z
-updated: 2024-12-07T18:28:56.659Z
+date: 2024-12-12T01:05:01.856Z
+updated: 2024-12-13T18:21:31.364Z
 tags:
   - cutting-edge
 categories:
@@ -48,26 +48,26 @@ Related: [Mercedes Wants You to Pay a Subscription for Full Speed](https://windo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-deciding-on-apples-m1-laptops-air-or-pro-advantages/"><u>[New] 2024 Approved Deciding on Apple's M1 Laptops Air or Pro Advantages</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-art-and-science-behind-effective-youtube-shorts-templates/"><u>[New] The Art & Science Behind Effective YouTube Shorts Templates</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-online-photo-cropting-accuracy/"><u>[New] The Ultimate Guide to Online Photo Cropting Accuracy</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-vidvibes-merge-android-and-ios-insta-photos-for-2024/"><u>[New] VidVibes Merge Android & iOS Insta Photos for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-frame-your-vision-leading-lines-for-dynamic-iphone-photos/"><u>[Updated] Frame Your Vision Leading Lines for Dynamic iPhone Photos</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-from-basics-to-brilliance-the-fb-cover-video-journey/"><u>[Updated] In 2024, From Basics to Brilliance The FB Cover Video Journey</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-prime-mp4-fb-file-shifter-for-2024/"><u>[Updated] Prime MP4-FB File Shifter for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlock-game-changing-potential-try-our-top-ranked-free-voice-alteration-tool/"><u>[Updated] Unlock Game-Changing Potential Try Our Top-Ranked Free Voice Alteration Tool</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/excel-wizardry-unveiled-how-to-successfully-combine-dual-column-lists-in-a-single-worksheet/"><u>Excel Wizardry Unveiled: How to Successfully Combine Dual Column Lists in a Single Worksheet</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-strategic-utilization-of-azure-voice-to-text-capabilities/"><u>In 2024, Strategic Utilization of Azure Voice-to-Text Capabilities</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-title-transformations-beyond-standard-styles/"><u>In 2024, Title Transformations Beyond Standard Styles</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transforming-images-with-ease-learn-snapseed-today/"><u>In 2024, Transforming Images with Ease Learn Snapseed Today</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-cosmic-divides-metaverse-and-multiverse-explained/"><u>In 2024, Unveiling Cosmic Divides Metaverse and Multiverse Explained</u></a></li>
-<li><a href="https://some-skills.techidaily.com/strategy-revealed-a-box-opening-narrative-for-2024/"><u>Strategy Revealed A Box-Opening Narrative for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/synopsis-of-vllo-consumer-voices-for-2024/"><u>Synopsis of VLLO Consumer Voices for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/unleash-powerful-photo-repair-on-windows-get-your-stellar-pixelpilot-software-now/"><u>Unleash Powerful Photo Repair on Windows: Get Your Stellar PixelPilot Software Now</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-anonymize-your-media-10-free-face-blurring-apps-for-photos-and-videos/"><u>Updated 2024 Approved Anonymize Your Media 10 Free Face Blurring Apps for Photos and Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-master-iphone-photography-rotate-tilt-and-flip-effortlessly/"><u>[Updated] Master iPhone Photography Rotate, Tilt & Flip Effortlessly</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-seamless-sound-moves-in-premiere-pro/"><u>[Updated] Unveiling Seamless Sound Moves in Premiere Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-thrill-in-the-cold-olympic-showcase-snowboarders-at-peak-performance/"><u>2024 Approved Thrill in the Cold Olympic Showcase - Snowboarders at Peak Performance</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transition-tunes-mastering-crossfading-in-music/"><u>2024 Approved Transition Tunes Mastering Crossfading in Music</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-creative-potential-with-top-tips-for-gopro-timelapses/"><u>2024 Approved Unleash Creative Potential with Top Tips for GoPro Timelapses</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/easy-fixes-for-pc-gamers-dealing-with-persistent-deathloop-game-crashes/"><u>Easy Fixes for PC Gamers: Dealing with Persistent Deathloop Game Crashes</u></a></li>
+<li><a href="https://discover-best.techidaily.com/enabling-or-disabling-automatic-updates-with-ease-a-guide-by-yl-computing/"><u>Enabling or Disabling Automatic Updates with Ease: A Guide by YL Computing</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-tecno-phantom-v-flip-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Phantom V Flip without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-infinix-smart-8-plus-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Infinix Smart 8 Plus Location | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-uncluttered-focus-affinity-photos-cleanup-technique/"><u>In 2024, Uncluttered Focus Affinity Photo's Cleanup Technique</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-vectors-unveiled-a-novices-path-through-types-and-apps/"><u>In 2024, Vectors Unveiled A Novice’s Path Through Types and Apps</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-nokia-g42-5g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Nokia G42 5G – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-fiscally-friendly-celestial-saving-service-for-files-for-2024/"><u>The Fiscally Friendly Celestial Saving Service for Files for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-smart-way-to-combine-igtv-with-stories/"><u>The Smart Way to Combine IGTV with Stories</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-unresponsive-xbox-one-controllers/"><u>Troubleshooting Guide: Fixing Unresponsive Xbox One Controllers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-list-of-text-tools-and-plugins-for-2024/"><u>Ultimate List of Text Tools & Plugins for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-apples-hidden-gem-the-amazing-undiscovered-iphone-functionality-revealed-on-zdnet/"><u>Unveiling Apple's Hidden Gem: The Amazing Undiscovered iPhone Functionality Revealed on ZDNet</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

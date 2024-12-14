@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Hidden Gems: The Top 14 FaceTime Tricks You're Not Using"
-date: 2024-12-05T03:33:38.666Z
-updated: 2024-12-07T21:10:58.163Z
+date: 2024-12-10T16:29:44.261Z
+updated: 2024-12-13T22:34:14.644Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/cbd55a60b36d243580c486b7896cd6baf0fe5a1c6
 ---
 
 ## Unlocking Hidden Gems: The Top 14 FaceTime Tricks You're Not Using
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -66,10 +70,6 @@ Apple
 
 ![RTT call menu on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-ios-16-contacts-app-rtt-tty-call-menu.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Apple
 
  When the call is connected, touch the RTT icon to enter your message.
@@ -77,12 +77,16 @@ Apple
 ![RTT chat in the Phone app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-ios-16-phone-app-rtt-tty-call-real-time-text-chat.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Apple
 
  RTT is useful if you're hard of hearing or in a noisy environment, and is an excellent option for privately exchanging sensitive info like passwords or addresses in public.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  4\. Move the FaceTime Window to an iPad
 
@@ -92,12 +96,16 @@ Apple
 
 ![Using fullscreen window control to move a FaceTime for Mac window to a nearby iPad Pro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-macos-sequoia-facetime-app-window-control-menu-sidecar-move-to-ipad-pro.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now you have more room to multitask on your Mac while FaceTiming.
 
  Sidecar isn't the only way to use second-screen functionality. [Check out Duet Display](https://screen-video-capture.techidaily.com/new-groundbreiting-recording-solutions-for-environmental-films-for-2024/), which brings similar features to unsupported Macs and platforms like Windows.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  5\. Record Important Calls for Reference
@@ -105,6 +113,10 @@ Apple
  I use the built-in [iOS Screen Recording](https://buynow-reviews.techidaily.com/review-of-cubefits-terramat-enhance-workouts-in-a-stationary-position/) feature and the [macOS Screenshot app](https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-redmi-note-13-pro-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/) to record important calls with mutual consent for safekeeping and reference. With the call active, touch the Screen Recording icon in the iPhone's Control Center.
 
 ![The Screen Recording icon highlighted in the iPhone's Control Center.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-ios-18-control-center-screen-recording.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  On your Mac, press Command+Shift+5 and select "Record Selected Portion." Then drag the corners to fit the FaceTime window and click "Record" to capture the designated area.
 
@@ -115,10 +127,6 @@ Apple
 ![Choosing iPhone Continuity Camera when recording video using QuickTime Player for Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-macos-sequoia-quicktime-player-new-recording-continuity-camera-iphone-selected.jpg) 
 
  iOS 18 enables call recording in some countries with an automatic warning to the other party that the call is being recorded to comply with consent laws.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  6\. Take Control of Another Device
 
@@ -136,6 +144,10 @@ Apple
 
 ![Using an iPhone as a webcam using Continuity Camera for macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/macos-ventura-macbook-pro-iphone-13-pro-continuity-camera-desk-view-hero.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Apple
 
 [To use Continuity Camera](https://dvd-bd.techidaily.com/diy-tutorial-transform-your-mp4-videos-into-a-professional-costless-dvd-with-ease/), click the FaceTime > Video menu and select your iPhone.
@@ -151,7 +163,7 @@ Close
 ![Choosing iPhone Continuity Camera when recording video using QuickTime Player for Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-macos-sequoia-quicktime-player-new-recording-continuity-camera-iphone-selected.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  I use a [MagSafe Continuity mount from Belkin](https://change-location.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-vivo-y100a-drfone-by-drfone-virtual-android/) to conduct FaceTime calls on my Apple TV like a boss—while sitting on the couch in front of my telly.
@@ -169,10 +181,6 @@ Christian Zibreg / How-To Geek
  On iOS, enable "FaceTime Live Photos" in Settings > FaceTime.
 
 ![Live Photos capture enabled in the FaceTime settings on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-ios-18-settings-app-facetime-live-photos-enabled.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  With that done, hit the gray shutter button when on a call.
 
@@ -193,6 +201,10 @@ Christian Zibreg / How-To Geek
  The link will enable the other party to [join your call from their Android phone](https://techno-recovery.techidaily.com/solution-guide-why-are-some-emails-not-coming-to-your-yahoo-mail/) or [Windows device](https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/) using Chrome or another browser with H.264 video encoding support.
 
  SharePlay and screen sharing on FaceTime are unavailable on the web.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  10\. Personalize the FaceTime Ringtone
 
@@ -226,10 +238,6 @@ Close
 
 ![Pages for Mac with the Collaborate option selected in the share menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-maclos-sequoia-pages-app-share-menu-collaborate-option-highlighted.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  13\. FaceTime on Mac Faster With Keyboard Shortcuts
 
  Become more productive with the helpful keyboard shortcuts in FaceTime for Mac. Click through the FaceTime menus to view the available shortcuts, and [Apple](https://support.apple.com/en-gb/guide/facetime/fctma3b7b94b/mac) has a full list of them.
@@ -237,24 +245,16 @@ Close
 ![The FaceTime for Mac menu with the keyboard shortcuts higlhighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-macos-sequoia-facetime-menu-keyboard-shortcuts-highlighted.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  I've memorized two combinations for in-call control. One takes FaceTime full screen by pressing Control+Command+F because who wants to video chat in a window? The other switches between portrait and landscape mode with the Command+R combo. This also changes video orientation for the other party.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  14\. Reduce Background Noise on Your iPhone
 
  If the wind is blowing or the environmental conditions are harsh, your device can filter out background sounds for the listener, making your voice heard more clearly. While on a call on iPhone, open Control Center, hit the "Mic Mode" tile, and select "Voice Isolation."
 
 ![iPhone's Control Center with an arrow next to Mic Mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/mic-mode-iphone.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You need iOS 18 to use Voice Isolation on your USB-C AirPods Pro.
 
@@ -279,14 +279,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-simplified-guide-for-iphones-voice-capture-feature/"><u>[Updated] Simplified Guide for iPhone's Voice Capture Feature</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-path-to-prominence-elevating-brands-with-telegram-strategies/"><u>[Updated] The Path to Prominence Elevating Brands with Telegram Strategies</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-guide-to-directors-success-powerdirector-2024/"><u>[Updated] Ultimate Guide to Directors' Success - PowerDirector 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-apple-can-revive-to-rescue-the-vision-pro-with-three-key-strategies/"><u>How Apple Can Revive To Rescue the Vision Pro with Three Key Strategies</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-on-your-iphone-6s-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password On your iPhone 6s</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-ultimate-final-cut-pro-saving-cheat-sheet/"><u>New In 2024, The Ultimate Final Cut Pro Saving Cheat Sheet</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-3-tactics-transforming-pin-videos-into-mp3-sounds-for-2024/"><u>Top 3 Tactics Transforming Pin Videos Into MP3 Sounds for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlock-visual-potential-with-smart-photo-text-tools-online-for-2024/"><u>Unlock Visual Potential with Smart Photo Text Tools Online for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-say-goodbye-to-hiss-effective-background-noise-removal-in-final-cut-pro-x/"><u>Updated 2024 Approved Say Goodbye to Hiss Effective Background Noise Removal in Final Cut Pro X</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-11-techniques-for-perfecting-color-in-post-production/"><u>[New] Top 11 Techniques for Perfecting Color in Post-Production</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-strength-of-visual-client-commitment-to-brands/"><u>[Updated] The Strength of Visual Client Commitment to Brands</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-captivating-audiences-instagrams-personalized-quest-style-lives/"><u>2024 Approved Captivating Audiences Instagram's Personalized Quest-Style Lives</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-precision-preservation-adding-dates-to-photos-with-ease/"><u>2024 Approved Precision Preservation Adding Dates to Photos with Ease</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-rapid-runners-prime-fastest-titles-for-pc-mobile-devices/"><u>2024 Approved Rapid Runners Prime Fastest Titles for PC, Mobile Devices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-the-full-potential-of-pixiz-in-video-making/"><u>2024 Approved Unlock the Full Potential of Pixiz in Video Making</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/capture-androids-ear-4-easy-unrooted-ways-for-2024/"><u>Capture Android's Ear 4 Easy, Unrooted Ways for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/cooler-master-elevates-psu-game-with-new-lineup-offering-up-to-2000w-of-power/"><u>Cooler Master Elevates PSU Game with New Lineup Offering Up to 2000W of Power!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleash-your-inner-comedian-9gag-meme-creation-guide/"><u>In 2024, Unleash Your Inner Comedian 9GAG Meme Creation Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-speedy-streams-the-noobs-snapchat-guide/"><u>In 2024, Unlocking Speedy Streams The Noob’s Snapchat Guide</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/incorporating-windows-defender-in-windows-10-a-closer-look-with-yl-computing-experts/"><u>Incorporating Windows Defender in Windows 10: A Closer Look with YL Computing Experts</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Nokia 130 Music? | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-intro-maker-pc-the-ultimate-list-of-online-and-offline-tools/"><u>Updated Intro Maker PC The Ultimate List of Online and Offline Tools</u></a></li>
 </ul></div>
 

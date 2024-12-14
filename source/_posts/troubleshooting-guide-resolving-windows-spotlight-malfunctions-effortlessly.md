@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Resolving Windows Spotlight Malfunctions Effortlessly"
-date: 2024-12-01T03:03:27.495Z
-updated: 2024-12-07T23:17:00.650Z
+date: 2024-12-08T19:27:40.456Z
+updated: 2024-12-13T16:26:38.955Z
 tags:
   - deals
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/865974c7bb05387b6277d30c79ecdc49aad19ee23
 ## Troubleshooting Guide: Resolving Windows Spotlight Malfunctions Effortlessly
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -31,15 +31,15 @@ thumbnail: https://thmb.techidaily.com/865974c7bb05387b6277d30c79ecdc49aad19ee23
 
  Windows Spotlight can take 24 hours to cycle a new image, so be patient after applying any of these fixes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Preliminary Fixes
 
  The first thing to do when Windows Spotlight is stuck is to [check if your internet is working](https://article-posts.techidaily.com/pioneering-medical-messaging-in-digital-advertising/). Without it, Spotlight can't download new images.
 
  If your internet connection is fine, try [updating your Windows computer](https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-realme-v30-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/), as it may contain a patch for any Spotlight bugs. Conversely, if you think a recently installed update caused the issue, [uninstall the Windows update](https://hardware-help.techidaily.com/download-updated-wireless-network-adapter-driver-for-windows-versions-win11-win10-win8-win7/) to reverse the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Turn Windows Spotlight Off and On
 
@@ -57,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/865974c7bb05387b6277d30c79ecdc49aad19ee23
 
 ![Windows 10 settings app showing the Windows Spotlight personalization option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-10-settings-app-showing-the-windows-spotlight-personalization-option.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After that, restart your computer and [set your background and lock screen to Windows Spotlight](https://video-capture.techidaily.com/updated-capturing-perfection-a-deep-dive-into-apeaksofts-technology-for-2024/) again.
 
 ##  Re-register the Windows Spotlight Service
@@ -70,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/865974c7bb05387b6277d30c79ecdc49aad19ee23
  Press the Windows key, type "PowerShell," then right-click "Windows PowerShell," and choose "Run as Administrator." In the "User Account Control" prompt, select "Yes."
 
 ![Running Windows PowerShell as administrator from Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-running-windows-powershell-as-administrator-from-windows-search.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Type the following command in the PowerShell window and press Enter:
 
@@ -91,6 +91,10 @@ thumbnail: https://thmb.techidaily.com/865974c7bb05387b6277d30c79ecdc49aad19ee23
 
 ![Windows 10 desktop showing two File Explorer sessions in side-by-side comparison.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-10-desktop-showing-two-file-explorer-sessions-in-side-by-side-comparision.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, repeat the steps for the "roaming.lock" file, renaming it to "roaming.lock.bak". Once done, restart your computer.
 
 ##  Delete Existing Windows Spotlight Assets
@@ -108,7 +112,7 @@ thumbnail: https://thmb.techidaily.com/865974c7bb05387b6277d30c79ecdc49aad19ee23
  Once done, restart your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Disable Metered Connection
@@ -119,21 +123,17 @@ thumbnail: https://thmb.techidaily.com/865974c7bb05387b6277d30c79ecdc49aad19ee23
 
 ![Windows 11 Settings app showing the Network & internet screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-settings-app-showing-network-internet-screen-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Ensure the "Metered Connection" switch is set to "Off."
 
 ![Windows 11 Settings app showing metered connection turned off for Ethernet screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-settings-app-showing-turned-off-metered-connection-for-ethernet-screen.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To manage your wireless network, go to Wi-Fi > Manage Known Networks.
 
 ![Windows 11 Settings app showing the Wi-Fi network screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-settings-app-showing-wi-fi-network-screen.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Then, select your Wi-Fi network and turn off "Metered Connection."
 
@@ -141,12 +141,16 @@ thumbnail: https://thmb.techidaily.com/865974c7bb05387b6277d30c79ecdc49aad19ee23
 
 ![Windows 10 Settings app showing the Network & internet screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-10-settings-app-showing-network-internet-screen.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Under "Metered Connections," toggle the "Set as Metered Connection" switch to turn it off.
 
 ![Windows 10 Settings app showing the metered connection for Ethernet screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-110-settings-app-showing-turned-off-metered-connection-for-ethernet-screen.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Enable Background Apps (Windows 10)
@@ -160,20 +164,20 @@ thumbnail: https://thmb.techidaily.com/865974c7bb05387b6277d30c79ecdc49aad19ee23
 ![Windows 10 Settings App showing the Background apps configuration screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-10-settings-app-showing-background-apps-configuration-screen-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Restart your computer to apply the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Disable Your Antivirus Program
 
  If you're using [third-party antivirus software](https://facebook-video-recording.techidaily.com/in-2024-access-high-res-fb-media-files/) rather than Microsoft Defender, it might mistakenly flag and block Windows Spotlight-related processes as a security threat. Consider temporarily turning it off to see if that's causing the problem (or add Windows Spotlight as an exception, if possible.)
 
 ![Windows 11 desktop showing the quit option for the Malwarebytes program in system tray.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-desktop-showing-quit-option-for-the-malwareabytes-program-in-system-tray.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can likely turn off your antivirus from the system tray. To do this, right-click the antivirus app icon in the system tray and choose "Quit", "Shut Down Protection", or similar. Alternatively, turn it off through the antivirus' app interface.
 
@@ -201,10 +205,6 @@ thumbnail: https://thmb.techidaily.com/865974c7bb05387b6277d30c79ecdc49aad19ee23
 
 ![Windows 10 Settings app showing the reset now option screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-10-settings-app-showing-the-reset-now-option-screen.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After the restart, Windows will walk you through setting up your network.
 
 ---
@@ -226,20 +226,22 @@ thumbnail: https://thmb.techidaily.com/865974c7bb05387b6277d30c79ecdc49aad19ee23
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-zero-cost-downloads-for-high-quality-audios-discover-this-list-of-23-tools/"><u>[New] 2024 Approved Zero Cost Downloads for High-Quality Audios Discover This List of 23 Tools</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-smooth-and-simple-guide-to-iphone-screensaving-process-for-2024/"><u>[New] Smooth & Simple Guide to Iphone Screensaving Process for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-complete-beginners-manual-to-using-final-cut-pro/"><u>[New] The Complete Beginner's Manual to Using Final Cut Pro</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transformative-power-of-vlc-from-mp4-to-a-multitude-of-formats/"><u>[New] Transformative Power of VLC From MP4 to a Multitude of Formats</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-seamless-tactic-for-igtv-stories-integration/"><u>[Updated] 2024 Approved Seamless Tactic for IGTV Stories Integration</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-elevate-your-youtube-presence-strategic-tagging-and-titling-techniques-for-2024/"><u>[Updated] Elevate Your YouTube Presence Strategic Tagging and Titling Techniques for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-unlock-video-communication-using-whatsapp-browser-on-your-notebook-pc/"><u>[Updated] In 2024, Unlock Video Communication Using WhatsApp Browser on Your Notebook PC</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-superior-choice-of-steadicams-for-drone-video-shootings/"><u>[Updated] Superior Choice of Steadicams for Drone Video Shootings</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-canvas-reborn-spotlight-on-top-6-in-digital-arts/"><u>[Updated] The Canvas Reborn Spotlight on Top 6 in Digital Arts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-velvet-vaults-2022-olympic-skaters/"><u>[Updated] Velvet Vaults 2022 Olympic Skaters</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-creative-potential-downloading-free-luts-for-ar-development/"><u>2024 Approved Unlocking Creative Potential Downloading Free LUTs for AR Development</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Samsung Galaxy M14 4G | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-editing-playbook-for-breaking-into-viral-spots-on-tiktok/"><u>In 2024, Ultimate Editing Playbook for Breaking Into Viral Spots on TikTok</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/mastering-kodi-with-foxy-streams-a-comprehensive-tutorial-for-installation-and-usage/"><u>Mastering Kodi with Foxy Streams: A Comprehensive Tutorial for Installation & Usage</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719581849417-why-speak-croatian-discover-7-compelling-reasons-now/"><u>Why Speak Croatian? Discover 7 Compelling Reasons Now</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-market-mastery-strategys-first-impressions/"><u>[New] Market Mastery Strategy's First Impressions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-pictomixer-dynamic-media-player-for-macos/"><u>[New] PictoMixer Dynamic Media Player for macOS</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-spy-on-fb-chronicles-discreetly/"><u>[New] Spy on FB Chronicles Discreetly</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transcending-barriers-bridging-the-gap-between-creators-and-audiences/"><u>[New] Transcending Barriers Bridging the Gap Between Creators and Audiences</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-understanding-livestream-technology-explained/"><u>[New] Understanding Livestream Technology Explained</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-guidelines-for-compelling-visual-fb-marketing/"><u>[Updated] 2024 Approved Guidelines for Compelling Visual FB Marketing</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-angled-artistry-a-guide-for-social-media-users-to-spin-their-photos-on-the-fly/"><u>[Updated] Angled Artistry A Guide for Social Media Users to Spin Their Photos on the Fly</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-sunlit-scenes-android-brighten-tips/"><u>[Updated] Sunlit Scenes Android Brighten Tips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleashing-audio-pleasure-your-iphones-podcast-potential/"><u>[Updated] Unleashing Audio Pleasure - Your iPhone’s Podcast Potential</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transformative-visuals-unleash-the-power-of-6-video-types/"><u>2024 Approved Transformative Visuals Unleash the Power of 6 Video Types</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-se-2020-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone SE (2020) without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-make-every-meme-shine-on-9gag/"><u>How to Make Every Meme Shine on 9GAG</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-from-iphone-15-pro-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock from iPhone 15 Pro</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-depth-gopro-hero5-testing-report/"><u>In-Depth GoPro Hero5 Testing Report</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/official-driver-packs-for-hp-officejet-pro-nk-easily-installed-on-windows-systems/"><u>Official Driver Packs for HP Officejet Pro Nk, Easily Installed on Windows Systems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-creating-impactful-ae-titles-for-2024/"><u>The Art of Creating Impactful AE Titles for 2024</u></a></li>
 </ul></div>
 

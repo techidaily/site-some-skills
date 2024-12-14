@@ -1,7 +1,7 @@
 ---
 title: How to Set Up a Personal Streaming Station with Icecast on Linux
-date: 2024-12-02T01:50:31.566Z
-updated: 2024-12-07T17:01:15.223Z
+date: 2024-12-12T16:49:17.320Z
+updated: 2024-12-14T00:30:38.645Z
 tags:
   - desktop
 categories:
@@ -26,10 +26,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  License requirements to run an Internet radio station vary by country. If you plan on streaming copyrighted material, you must obtain appropriate licenses from copyright authorities, and/or get explicit permission from all copyright holder(s). Please consult the laws in your country for specific requirements. For more info, check out the [the Wikipedia page on internet radio broadcasing](https://en.wikipedia.org/wiki/Internet%5Fradio%5Flicensing).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Installing Icecast
 
  You can download Icecast using your distribution's package manager, which is the method we'll use in this article.
@@ -42,15 +38,15 @@ sudo apt install icecast2
 
 ![Terminal window showing command to install Icecast onDebian](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-15.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  For Redhat distros, use dnf to install the icecast package:
 
 sudo dnf install icecast
 
 ![Terminal window showing command to install Icecast on Fedora](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-17.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Initial Configuration
 
@@ -66,10 +62,6 @@ sudo dnf install icecast
 
 ![Terminal window asking for a source password for Icecast on Debian](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-6.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Relays are useful in larger setups for distributing listener load to multiple servers. We won't be setting up relays here, so you can enter whatever you want (but again I recommend changing the default):
 
 ![Terminal window asking for a relay password for Icecast on Debian](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5-8.png) 
@@ -78,13 +70,13 @@ sudo dnf install icecast
 
 ![Terminal window asking for an admin password for Icecast on Debian](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/6-6.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Redhat distros simply return to the command prompt after installing. No big deal, we'll set things up directly in the configuration file, located at "/etc/icecast.xml". Fire up your favorite text editor and let's get to work:
 
 ![Terminal window showing the vim command to edit icecast.xml on Fedora](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-install-2.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The default configuration is well-thought-out for most simple installations like ours. Icecast developers recommend the best practice of changing as little as possible, and fine-tune afterwards to suit your needs.
 
@@ -92,12 +84,16 @@ sudo dnf install icecast
 
 ![Editor with icecast icecast.xml open, showing passwords to edit](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5-install-2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, change the bind-address to your server's LAN IP address:
 
 ![Editor with icecast icecast.xml open, showing bind-address to edit](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/7-install-2.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Save the configuration file, then restart Icecast for our changes to take effect:
@@ -145,25 +141,25 @@ ePirat / Xiph.org Foundation
 
 ![BUTT dialog window showing audio settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/butt-2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Finally, go back to the "Main" tab and click "Save":
 
 ![BUTT dialog window showing main settings and to save configuration](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/butt-3.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  From here you can close the "Settings" window. When you're ready, click on the "Play" button, which will start your stream. If you've configured everything correctly, you'll currently be making your server's radio stream debut!
 
 ![BUTT main window actively streaming to Icecast](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/butt-4.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Cool! Now let's log into the Icecast web UI at "http://LAN\_IP:8000/admin/" and enter "admin" for the username along with your configured Icecast admin password:
 
 ![Browser window asking for username and password to log into Icecast administration section](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/ff-1.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Select "Mountpoint List" from the main Admin page:
 
@@ -176,7 +172,7 @@ ePirat / Xiph.org Foundation
  This link, minus the .M3U extension, is what you will use to listen with your web browser.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Choosing a Listener Client
@@ -186,6 +182,10 @@ ePirat / Xiph.org Foundation
  Using a web browser, paste the stream URL you copied above into the address bar (again, removing the .M3U extension) and hit Enter.
 
 ![Browser window playing Icecast stream in HTML5 audio player](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/ff-4.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Do you hear your stream? That's Icecast at work.
 
@@ -206,7 +206,7 @@ ePirat / Xiph.org Foundation
  You can also use [port forwarding](https://facebook-videos.techidaily.com/new-in-2024-converting-stored-content-into-real-time-livestreams-on-social-media/) to access your stream from outside your local network.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Promoting Your Station
@@ -230,15 +230,17 @@ ePirat / Xiph.org Foundation
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-ace-your-fb-video-campaigns-with-these-powerful-tricks/"><u>[New] 2024 Approved Ace Your FB Video Campaigns with These Powerful Tricks</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-10-online-photo-editing-tools-to-unblur-photos-effectively/"><u>[New] Top 10 Online Photo Editing Tools to Unblur Photos Effectively</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-mobile-vr-experiences-the-leading-10-headsets/"><u>[New] Top Mobile VR Experiences - The Leading 10 Headsets</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-quick-tips-streamline-screen-capture-on-dell-systems/"><u>[Updated] 2024 Approved Quick Tips Streamline Screen Capture on Dell Systems</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-checklist-for-smooth-transitions/"><u>2024 Approved The Ultimate Checklist for Smooth Transitions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unleashing-creativity-building-a-memorable-podcast-name/"><u>2024 Approved Unleashing Creativity Building a Memorable Podcast Name</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/clarify-your-view-fixing-fuzzy-typography-on-windows-11-systems/"><u>Clarify Your View: Fixing Fuzzy Typography on Windows 11 Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-leading-mac-application-tools-for-2cuary-curated-by-tech-gurus-at-zdnet/"><u>Discover the Leading Mac Application Tools for 2Cuary - Curated by Tech Gurus at ZDNet</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-nokia-c12-profrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Nokia C12 ProFRP Lock</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/stellaris-trouble-heres-how-to-diagnose-and-repair-in-game-crashing-issues/"><u>Stellaris Trouble? Here's How to Diagnose & Repair In-Game Crashing Issues</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-25-secrets-for-effective-win10-use/"><u>[Updated] Top 25 Secrets for Effective Win10 Use</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-step-by-step-guide-to-basic-ps-color-correction/"><u>2024 Approved Step-by-Step Guide to Basic PS Color Correction</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamlining-image-editing-luts-in-adobe-photoshop-cc/"><u>2024 Approved Streamlining Image Editing LUTs in Adobe PhotoShop CC</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-superior-slow-motion-quality-through-fps-selection/"><u>2024 Approved Unlocking Superior Slow Motion Quality Through FPS Selection</u></a></li>
+<li><a href="https://extra-support.techidaily.com/best-handheld-battery-resurrection-tools-2024/"><u>Best Handheld Battery Resurrection Tools 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-f5-5g-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from F5 5G.</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/efficiently-removing-directories-on-windows-a-step-by-step-guide-tech-tips-by-yl-software/"><u>Efficiently Removing Directories on Windows: A Step-by-Step Guide - Tech Tips by YL Software</u></a></li>
+<li><a href="https://facebook.techidaily.com/elevate-your-digital-presence-sharing-hd-media-mobilely/"><u>Elevate Your Digital Presence: Sharing HD Media Mobilely</u></a></li>
+<li><a href="https://some-skills.techidaily.com/is-this-a-bug-or-intentional-edit-on-instagram-for-2024/"><u>Is This a Bug or Intentional Edit on Instagram for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-obstacles-how-to-get-gta-5-online-up-and-running-again/"><u>Overcoming Obstacles: How to Get GTA 5 Online Up and Running Again</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-zoom-and-gmail-collaboration-methods-for-2024/"><u>The Ultimate Zoom and Gmail Collaboration Methods for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-12-complimentary-keyboard-skills-courses-ideal-for-learners-at-any-age/"><u>Top 12 Complimentary Keyboard Skills Courses: Ideal for Learners at Any Age</u></a></li>
 </ul></div>
 

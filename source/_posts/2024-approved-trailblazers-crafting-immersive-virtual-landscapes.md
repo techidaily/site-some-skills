@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Trailblazers Crafting Immersive Virtual Landscapes\""
-date: 2024-08-20T23:49:50.637Z
-updated: 2024-08-21T23:49:50.637Z
+date: 2024-12-12T01:16:29.426Z
+updated: 2024-12-14T00:25:24.774Z
 tags: 
   - screen-recording
   - ai video
@@ -29,8 +29,9 @@ thumbnail: https://thmb.techidaily.com/0741b6d6b142e6d035036f6df7e304509ca00be9b
  The world of Virtual Reality has been more entertaining throughout the development of technology. The VR content is the latest and most entertaining concept in line with virtual reality. The wide scale innovative technology is set to make the big difference in creating videos and documentations. A high quality and interactive approach on VR content are given by the birth of the VR content company known as With.in. The company was founded by the award-winning director Chris Milk and the famous technologist Aaron Koblin. The goal of the two is discovered more the immersive potential of storytelling. A new line of creative ways is made in order to expand the possibilities of the storytelling concept using VR content.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Does [With.in]( https://with.in/ ) Do?
 
  The best thing about With.in is that they does a great deal of creative ways such as making VR content for interesting stories in order to make them more captivating and creative. The company makes the large effort in making a story come to life by creating a VR content that will an attraction to people. The company uses the support of major headsets such as Oculus, Rift, Samsung Gear VR, Sony PlayStation VR and Google Cardboard in order to arrive at the amazing result of a successful VR experience.
@@ -59,8 +60,9 @@ thumbnail: https://thmb.techidaily.com/0741b6d6b142e6d035036f6df7e304509ca00be9b
 * **The Click Effect**  The short film is about an underwater adventure that takes the viewer to the beauty of the ocean. A person will have the connection with not only the ocean but also the dolphin and whales. A free-spirited approach to the right ocean adventure is displayed in the short film.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## About Chris Milk
 
  Chris Milk a famous director who has gained more acclaim with the VR short film, Clouds Over Syria. He is the founder and CEO of With.in. He also is the co-founder and the creative director of the sister company of With.in, which is the Here Be Dragons. He constantly develops ways in making innovations in the VR content industry. The ideas he has about the concept of the VR development makes it a great point in creating an innovative way to making the best efforts in making VR a great experience for all the viewers.
@@ -72,10 +74,11 @@ thumbnail: https://thmb.techidaily.com/0741b6d6b142e6d035036f6df7e304509ca00be9b
 
  The creation of the VR contents takes the best ways and the creative means as possible. Chris makes the most amazing ways in setting the right kind of approach as possible. The result of this is a terrific output that will go far beyond VR creator’s expectations.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -90,8 +93,9 @@ Follow @Liza Brown
  The world of Virtual Reality has been more entertaining throughout the development of technology. The VR content is the latest and most entertaining concept in line with virtual reality. The wide scale innovative technology is set to make the big difference in creating videos and documentations. A high quality and interactive approach on VR content are given by the birth of the VR content company known as With.in. The company was founded by the award-winning director Chris Milk and the famous technologist Aaron Koblin. The goal of the two is discovered more the immersive potential of storytelling. A new line of creative ways is made in order to expand the possibilities of the storytelling concept using VR content.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Does [With.in]( https://with.in/ ) Do?
 
  The best thing about With.in is that they does a great deal of creative ways such as making VR content for interesting stories in order to make them more captivating and creative. The company makes the large effort in making a story come to life by creating a VR content that will an attraction to people. The company uses the support of major headsets such as Oculus, Rift, Samsung Gear VR, Sony PlayStation VR and Google Cardboard in order to arrive at the amazing result of a successful VR experience.
@@ -108,8 +112,9 @@ Follow @Liza Brown
  Aside from the sister company, Here Be Dragons, With.in also works with other companies such as Apple, The New York Times, NBC, Vice Media and the United Nations.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Art Work of With.in
 
  The VR content made by With.in is proven with excellence at all times. The stories made through virtual reality provide the best informative and innovative approach that makes the viewer’s satisfied. The artworks not only entertain people but capture the satisfaction in them.
@@ -122,9 +127,6 @@ Follow @Liza Brown
 * **The Clouds Over Sidra**  The short film is about twelve-year-old who is living in a refugee camp in Jordan. The film shows the living condition of the life of a refugee in Jordan as well as the hard life of a refugee. The film was made by the UN in connection with the advocacy program it has.
 * **The Click Effect**  The short film is about an underwater adventure that takes the viewer to the beauty of the ocean. A person will have the connection with not only the ocean but also the dolphin and whales. A free-spirited approach to the right ocean adventure is displayed in the short film.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## About Chris Milk
 
  Chris Milk a famous director who has gained more acclaim with the VR short film, Clouds Over Syria. He is the founder and CEO of With.in. He also is the co-founder and the creative director of the sister company of With.in, which is the Here Be Dragons. He constantly develops ways in making innovations in the VR content industry. The ideas he has about the concept of the VR development makes it a great point in creating an innovative way to making the best efforts in making VR a great experience for all the viewers.
@@ -143,7 +145,6 @@ Liza Brown
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -167,8 +168,24 @@ Follow @Liza Brown
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-how-to-turn-a-minute-into-millions-maximizing-viewership-for-youtubers/"><u>[New] 2024 Approved How to Turn a Minute Into Millions Maximizing Viewership for YouTubers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/uzzing-beats-leading-music-distortion-apps-for-2024/"><u>[New] Buzzing Beats Leading Music Distortion Apps for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-engineering-eye-catching-teaser-tales-for-2024/"><u>[New] Engineering Eye-Catching Teaser Tales for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-iphone-manual-for-capturing-and-adjusting-pace-in-motion/"><u>[New] The Ultimate iPhone Manual for Capturing and Adjusting Pace in Motion</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-5-free-screen-recorders-on-windows-10/"><u>[New] Top 5 Free Screen Recorders on Windows 10</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-10-plugins-to-enhance-fcp/"><u>[New] Ultimate 10 Plugins to Enhance FCP</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-tech-comforts-with-luxury-desktops/"><u>[Updated] Ultimate Tech Comforts with Luxury Desktops</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-your-creative-potential-with-inshot-for-pcs-and-laptops/"><u>2024 Approved Unlock Your Creative Potential with Inshot for PCs & Laptops</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-effective-routes-to-share-srt-content-on-pinterest-and-reddit/"><u>2024 Approved Unveiling Effective Routes to Share SRT Content on Pinterest & Reddit</u></a></li>
+<li><a href="https://extra-information.techidaily.com/capturing-more-with-less-lgs-360-camera-redefined-and-reviewed-for-2024/"><u>Capturing More with Less - LG's 360 Camera Redefined & Reviewed for 2024</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/guaranteed-safety-mastering-norton-pc-cloud-backup-to-prevent-any-data-disasters/"><u>Guaranteed Safety: Mastering Norton PC Cloud Backup to Prevent Any Data Disasters</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-recover-lost-airpods-using-the-find-my-application-a-step-by-step-guide-11-fixes/"><u>How to Recover Lost AirPods Using the Find My Application: A Step-by-Step Guide (11 Fixes)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Poco F5 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-premier-music-broadcasts-online/"><u>In 2024, Premier Music Broadcasts Online</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-creativity-a-guide-to-innovative-gopro-video-editing/"><u>In 2024, Unleashing Creativity A Guide to Innovative GoPro Video Editing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/incorporating-ai-discussions-for-improved-task-flow/"><u>Incorporating AI Discussions for Improved Task Flow</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/minimize-pc-memory-consumption-with-easy-tips-from-yl-computing/"><u>Minimize PC Memory Consumption with Easy Tips From YL Computing</u></a></li>
+</ul></div>
 
